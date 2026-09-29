@@ -1,26 +1,24 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
 CAF,Presidency,Présidence de la République centrafricaine,renaissance.cf,2,4,100.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 CAF,Parliament,Assemblée nationale,assembleenationale-rca.cf,3,11,0.0,0.0,0.0,90.9,0.0,0,none,,false,2026-09-29
-CAF,Foreign Affairs,Ministère des Affaires étrangères et des Centrafricains de l'Étranger,diplomatie.gouv.cf,7,21,0.0,0.0,42.9,0.0,0.0,12,m365,,false,2026-09-29
-CAF,Defence,Ministère de la Défense nationale et de la Reconstruction de l'armée,defense.cf,8,11,0.0,0.0,0.0,0.0,0.0,9,none,,false,2026-09-29
-CAF,Defence,Ministère de la Défense nationale (portail gouv.cf),defense.gouv.cf,2,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
-CAF,Justice,Ministère de la Justice et des Droits humains,justice.gouv.cf,2,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
-CAF,Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.cf,5,15,0.0,0.0,0.0,0.0,0.0,11,other:OVH,,false,2026-09-29
-CAF,Customs,Direction générale des Douanes et Droits indirects,edouanes.cf,4,9,0.0,0.0,0.0,0.0,0.0,6,other:Rackspace Hosting|Webmail - IAD3b,,false,2026-09-29
-CAF,Interior / Home Affairs,Ministère de la Sécurité publique,securite.gouv.cf,3,19,0.0,0.0,68.4,0.0,0.0,6,m365,,false,2026-09-29
-CAF,Interior / Home Affairs,Ministère de l'Administration du territoire,administration-territoire.gouv.cf,2,4,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
-CAF,Central Bank,Banque des États de l'Afrique Centrale,beac.int,27,27,33.3,0.0,0.0,0.0,0.0,17,other:CAMTEL - CAMTEL,,false,2026-09-29
-CAF,Commercial Banks,Banque Populaire Maroco-Centrafricaine (BPMC),bpmcbank.com,4,5,0.0,0.0,0.0,0.0,0.0,5,other:Wana Corporate - Wana Corporate,,false,2026-09-29
+CAF,Foreign Affairs,Ministère des Affaires étrangères et des Centrafricains de l'Étranger,diplomatie.gouv.cf,7,21,0.0,0.0,42.9,0.0,0.0,0,m365,,false,2026-09-29
+CAF,Defence,Ministère de la Défense nationale et de la Reconstruction de l'armée,defense.cf,8,11,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,Defence,Ministère de la Défense nationale (portail gouv.cf),defense.gouv.cf,2,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,Justice,Ministère de la Justice et des Droits humains,justice.gouv.cf,2,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.cf,5,15,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+CAF,Customs,Direction générale des Douanes et Droits indirects,edouanes.cf,4,9,0.0,0.0,0.0,0.0,0.0,0,other:RACKSPACE - Rackspace Hosting,,false,2026-09-29
+CAF,Interior / Home Affairs,Ministère de la Sécurité publique,securite.gouv.cf,3,19,0.0,0.0,68.4,0.0,0.0,0,m365,,false,2026-09-29
+CAF,Interior / Home Affairs,Ministère de l'Administration du territoire,administration-territoire.gouv.cf,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,Central Bank,Banque des États de l'Afrique Centrale,beac.int,27,27,33.3,0.0,0.0,0.0,0.0,0,other:CAMTEL - CAMTEL,,false,2026-09-29
+CAF,Commercial Banks,Banque Populaire Maroco-Centrafricaine (BPMC),bpmcbank.com,4,5,0.0,0.0,0.0,0.0,0.0,0,other:Wana Corporate - Wana Corporate,,false,2026-09-29
 CAF,Electoral commission,Autorité nationale des élections (ANE),ane-rca.org,15,17,82.4,0.0,0.0,17.6,0.0,0,other:Oracle Cloud,,false,2026-09-29
 CAF,Statistics office,Institut centrafricain des statistiques et des études économiques et sociales (ICASEES),icasees.org,12,18,0.0,0.0,27.8,11.1,0.0,0,google,,false,2026-09-29
-CAF,Health ministry / National health insurance,Ministère de la Santé et de la Population,sante.gouv.cf,6,15,0.0,0.0,0.0,0.0,0.0,9,other:OVH,,false,2026-09-29
-CAF,Social protection / Social registry,Caisse nationale de sécurité sociale (CNSS),cnsscentrafrique.org,5,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,Health ministry / National health insurance,Ministère de la Santé et de la Population,sante.gouv.cf,6,15,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
 CAF,National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale (GIMAC),gimac-afr.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-CAF,Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,6,m365,,false,2026-09-29
-CAF,Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,13,61,41.0,0.0,27.9,23.0,0.0,4,m365,,false,2026-09-29
-CAF,Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp-rca.com,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,0,m365,,false,2026-09-29
+CAF,Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,13,61,41.0,0.0,27.9,23.0,0.0,3,m365,,false,2026-09-29
 CAF,Public procurement authority,Direction générale des marchés publics (DGMP),dgmp-rca.com,3,11,0.0,0.0,0.0,18.2,0.0,0,none,,false,2026-09-29
-CAF,E-government agency,Portail du Gouvernement,gouvernement.cf,2,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
-CAF,E-government agency,Gouvernement de la République centrafricaine,gouv.cf,3,6,0.0,0.0,0.0,0.0,0.0,6,m365,,false,2026-09-29
+CAF,E-government agency,Portail du Gouvernement,gouvernement.cf,2,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CAF,E-government agency,Gouvernement de la République centrafricaine,gouv.cf,3,6,0.0,0.0,0.0,0.0,0.0,0,m365,,false,2026-09-29
 CAF,Cybersecurity agency / National CERT,Cellule centrafricaine de l'Internet et de la Sécurité (CCIS),ccis-rca.org,3,17,100.0,0.0,0.0,0.0,0.0,0,google,,false,2026-09-29
-CAF,Communications regulator,Autorité de régulation des communications électroniques et de la Poste (ARCEP),arcep.cf,14,16,0.0,0.0,0.0,0.0,0.0,1,other:Hetzner,,false,2026-09-29
+CAF,Communications regulator,Autorité de régulation des communications électroniques et de la Poste (ARCEP),arcep.cf,14,16,0.0,0.0,0.0,0.0,0.0,0,other:Hetzner,,false,2026-09-29
