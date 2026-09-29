@@ -1,0 +1,43 @@
+type,institution,domain,email_domain,status,note
+Presidency,Office of the President,statehouse.gm,,confirmed 2026-09-29,
+Parliament,National Assembly of The Gambia,assembly.gm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Foreign Affairs,Ministry of Foreign Affairs,mofa.gov.gm,,confirmed 2026-09-29,
+Defence,Ministry of Defence,mod.gov.gm,,confirmed 2026-09-29,
+Armed Forces,Gambia Armed Forces,,,absent,shares mod.gov.gm with Defence
+Police,Gambia Police Force,police.gov.gm,,confirmed 2026-09-29,
+Justice,Ministry of Justice,moj.gov.gm,,confirmed 2026-09-29,
+Justice,Judiciary of The Gambia,judiciary.gov.gm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Treasury / Finance,Ministry of Finance and Economic Affairs,mofea.gov.gm,,confirmed 2026-09-29,
+Revenue Service,Gambia Revenue Authority,gra.gm,,confirmed 2026-09-29,
+Customs,Gambia Revenue Authority Customs,,,absent,shares gra.gm with Revenue Service
+Intelligence,State Intelligence Service,,,absent,no public website known
+Interior / Home Affairs,Ministry of Interior,moi.gov.gm,,confirmed 2026-09-29,
+Central Bank,Central Bank of The Gambia,cbg.gm,,confirmed 2026-09-29,
+Commercial Banks,Trust Bank Limited,trustbankgambia.com,,confirmed 2026-09-29,"Ranking source: Central Bank of The Gambia list of licensed banks (cbg.gm/list-of-licensed-banks) and Wikipedia List of banks in the Gambia, 2024; only 12 licensed banks so approximate order by assets; Standard Chartered, Ecobank, GTBank, Access, Bloom and First Bank left out (run on global group sites); homepage did not load: ConnectionError"
+Commercial Banks,Zenith Bank Gambia Limited,zenithbank.gm,,confirmed 2026-09-29,
+Commercial Banks,Arab Gambian Islamic Bank,agib.gm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Banque Sahelo-Saharienne pour l'Investissement et le Commerce Gambia,bsicgambia.gm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Mega Bank Gambia Limited,megabankgambia.com,,confirmed 2026-09-29,
+Commercial Banks,Vista Bank (Gambia) Limited,vistabankgroup.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,Gambia Immigration Department National ID,,,absent,no separate domain; ID issued by immigration
+Data protection authority,Data protection authority,,,absent,no authority established
+Electoral commission,Independent Electoral Commission,iec.gm,,confirmed 2026-09-29,
+Statistics office,Gambia Bureau of Statistics,gbosdata.org,,confirmed 2026-09-29,
+Immigration / Passports,Gambia Immigration Department,gid.gov.gm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Health ministry / National health insurance,Ministry of Health,moh.gov.gm,,confirmed 2026-09-29,
+Social protection / Social registry,National Social Protection Secretariat,,,absent,no domain found
+Land registry,Department of Lands and Surveys,,,absent,no domain found
+National payment switch,Gamswitch,gamswitch.com,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Stock exchange,Stock exchange,,,absent,no operating exchange
+Securities regulator,Securities regulator,,,absent,no separate regulator; Central Bank supervises
+Sovereign wealth fund / National pension fund,Social Security and Housing Finance Corporation,sshfc.gm,,confirmed 2026-09-29,
+Public procurement authority,Gambia Public Procurement Authority,gppa.gm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Energy utility,National Water and Electricity Company,nawec.gm,,confirmed 2026-09-29,
+Ports authority,Gambia Ports Authority,gambiaports.gm,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+State-owned telco / National backbone operator,Gamtel,gamtel.gm,,confirmed 2026-09-29,
+E-government agency,Ministry of Information and Communication Infrastructure,gov.gm,,confirmed 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,,,,absent,shares gov.gm
+Cybersecurity agency / National CERT,,,,absent,no own domain found
+Communications regulator,Public Utilities Regulatory Authority,pura.gm,,confirmed 2026-09-29,
+Audit office,National Audit Office,nao.gm,,confirmed 2026-09-29,
+Anti-corruption commission,Anti-Corruption Commission,,,absent,not yet operational
