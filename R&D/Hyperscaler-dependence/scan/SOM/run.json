@@ -1,0 +1,358 @@
+{
+ "iso3": "SOM",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "villasomalia.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mfa.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moj.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mof.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mois.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "centralbank.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 64,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ibsbank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "premierbank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 35,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "salaambank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 57,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dahabshilbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amalbankso.so": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mybank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amanabank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 56,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sombank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "daryeelbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gibbank.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nira.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 74,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "niebc.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nbs.gov.so": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 44,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moh.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 54,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "molsa.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "spa.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mpa.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.so": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 17 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "nca.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oag.gov.so": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "42807": "AEROTEK-AS CIZGI TELEKOMUNIKASYON ANONIM SIRKETI",
+  "202448": "mvps MVPS LTD",
+  "37371": "Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC",
+  "328590": "Somlink Wireless Network - Somlink Wireless Network",
+  "201771": "NDC-CLOUD ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+  "329692": "HTG CLOUDS LIMITED - HTG CLOUDS LIMITED",
+  "27357": "RACKSPACE - Rackspace Hosting",
+  "328319": "AMTEL LTD - AMTEL LTD",
+  "7922": "COMCAST-7922 - Comcast Cable Communications, LLC",
+  "38719": "DREAMSCAPE-AS-AP - Dreamscape Networks Limited",
+  "327764": "Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN)",
+  "327828": "Somali Optical Networks - Somali Optical Networks",
+  "9051": "IncoNet Data Management sal",
+  "63410": "PRIVATESYSTEMS - PrivateSystems Networks"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1076,
+   "us_hyperscaler_share": 9.7,
+   "african_region_share": 0.3,
+   "us_saas_share": 15.3,
+   "cdn_share": 45.5,
+   "national_or_self_share": 0.0,
+   "unattributed": 161,
+   "by_category": {
+    "commercial-host": 148,
+    "us-saas": 165,
+    "unattributed": 161,
+    "us-hyperscaler-offshore": 101,
+    "cdn-origin-unknown": 490,
+    "unresolved": 8,
+    "us-hyperscaler-africa": 3
+   },
+   "institutions": 28,
+   "names": 856,
+   "m365": 6,
+   "google": 18,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 16
+  },
+  "government": {
+   "routable": 722,
+   "us_hyperscaler_share": 6.9,
+   "african_region_share": 0.4,
+   "us_saas_share": 13.4,
+   "cdn_share": 54.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 70,
+   "by_category": {
+    "commercial-host": 109,
+    "us-saas": 97,
+    "unattributed": 70,
+    "us-hyperscaler-offshore": 47,
+    "cdn-origin-unknown": 390,
+    "unresolved": 6,
+    "us-hyperscaler-africa": 3
+   },
+   "institutions": 18,
+   "names": 564,
+   "m365": 3,
+   "google": 13,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 10
+  },
+  "bank": {
+   "routable": 354,
+   "us_hyperscaler_share": 15.3,
+   "african_region_share": 0.0,
+   "us_saas_share": 19.2,
+   "cdn_share": 28.2,
+   "national_or_self_share": 0.0,
+   "unattributed": 91,
+   "by_category": {
+    "unattributed": 91,
+    "us-hyperscaler-offshore": 54,
+    "unresolved": 2,
+    "commercial-host": 39,
+    "us-saas": 68,
+    "cdn-origin-unknown": 100
+   },
+   "institutions": 10,
+   "names": 292,
+   "m365": 3,
+   "google": 5,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  }
+ },
+ "findings": []
+}

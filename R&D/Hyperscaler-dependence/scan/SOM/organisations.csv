@@ -1,0 +1,29 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+SOM,Presidency,Office of the President (Villa Somalia),villasomalia.gov.so,20,8,0.0,0.0,75.0,0.0,0.0,0,none,,false,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,41,51,17.6,0.0,25.5,3.9,0.0,7,m365,,false,2026-09-29
+SOM,Defence,Ministry of Defence,mod.gov.so,20,43,2.3,0.0,0.0,97.7,0.0,0,google,,false,2026-09-29
+SOM,Police,Somali Police Force,police.gov.so,18,62,0.0,0.0,6.5,93.5,0.0,0,google,,false,2026-09-29
+SOM,Justice,Ministry of Justice and Constitutional Affairs,moj.gov.so,19,70,0.0,0.0,7.1,88.6,0.0,0,google,,false,2026-09-29
+SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,34,52,3.8,0.0,32.7,57.7,0.0,2,m365,,false,2026-09-29
+SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,28,18,38.9,11.1,0.0,11.1,0.0,1,google,,false,2026-09-29
+SOM,Central Bank,Central Bank of Somalia,centralbank.gov.so,65,23,4.3,0.0,73.9,17.4,0.0,0,m365,,false,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,52,41,31.7,0.0,0.0,0.0,0.0,24,other:Zoho,,false,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,41,24,16.7,0.0,20.8,0.0,0.0,6,google,,false,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,62,58,36.2,0.0,22.4,0.0,0.0,23,m365,,false,2026-09-29
+SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,8,23,21.7,0.0,52.2,0.0,0.0,1,other:mimecast,mimecast,false,2026-09-29
+SOM,Commercial Banks,Amal Bank,amalbankso.so,20,21,0.0,0.0,4.8,0.0,0.0,2,m365,,false,2026-09-29
+SOM,Commercial Banks,Mybank Limited,mybank.so,9,37,0.0,0.0,13.5,83.8,0.0,0,google,,false,2026-09-29
+SOM,Commercial Banks,Amana Bank,amanabank.so,58,39,0.0,0.0,12.8,87.2,0.0,0,google,,false,2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,21,42,23.8,0.0,40.5,7.1,0.0,9,m365,,false,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,14,34,2.9,0.0,14.7,5.9,0.0,26,google,,false,2026-09-29
+SOM,Commercial Banks,Galaxy International Bank,gibbank.so,7,35,0.0,0.0,14.3,85.7,0.0,0,google,,false,2026-09-29
+SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,77,60,0.0,0.0,8.3,90.0,0.0,1,google,,false,2026-09-29
+SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,16,24,20.8,0.0,0.0,41.7,0.0,1,google,,false,2026-09-29
+SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,44,48,2.1,2.1,10.4,0.0,0.0,4,google,,false,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,59,63,34.9,0.0,7.9,0.0,0.0,26,google,,false,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,31,40,0.0,0.0,12.5,25.0,0.0,24,google,,false,2026-09-29
+SOM,Ports authority,Somali Ports Authority,spa.gov.so,12,20,0.0,0.0,25.0,50.0,0.0,4,google,,false,2026-09-29
+SOM,Ports authority,Mogadishu Port Authority,mpa.gov.so,11,16,6.2,0.0,0.0,62.5,0.0,0,google,,false,2026-09-29
+SOM,E-government agency,Federal Government of Somalia government zone,gov.so,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SOM,Communications regulator,National Communications Authority,nca.gov.so,36,60,1.7,0.0,8.3,90.0,0.0,0,google,,false,2026-09-29
+SOM,Audit office,Office of the Auditor General,oag.gov.so,31,64,0.0,0.0,7.8,65.6,0.0,0,google,,false,2026-09-29
