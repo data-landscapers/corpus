@@ -382,13 +382,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "65536": "",
-  "3208": "Algerian Academic Research Network - Algerian Academic Research Network",
-  "21391": "Algerian Broadcasting (Tele Diffusion d'Algerie TDA) - Algerian Broadcasting (Tele Diffusion d'Algerie TDA)",
-  "36891": "Icosnet SPA - Icosnet SPA",
-  "16214": "C.E.R.I.S.T. - C.E.R.I.S.T."
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 791,
@@ -396,17 +390,18 @@
    "african_region_share": 0.0,
    "us_saas_share": 0.0,
    "cdn_share": 2.0,
-   "national_or_self_share": 0.5,
-   "unattributed": 733,
+   "national_or_self_share": 2.9,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 733,
+    "commercial-host": 149,
+    "telco-isp": 589,
     "unresolved": 10,
+    "national-dc": 19,
     "cdn-origin-unknown": 16,
     "self-hosted": 4,
-    "commercial-host": 24,
     "us-hyperscaler-offshore": 4
    },
-   "institutions": 41,
+   "institutions": 40,
    "names": 716,
    "m365": 1,
    "google": 0,
@@ -419,16 +414,17 @@
    "african_region_share": 0.0,
    "us_saas_share": 0.0,
    "cdn_share": 1.6,
-   "national_or_self_share": 0.0,
-   "unattributed": 580,
+   "national_or_self_share": 1.8,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 580,
+    "commercial-host": 71,
+    "telco-isp": 509,
     "unresolved": 8,
+    "national-dc": 11,
     "cdn-origin-unknown": 10,
-    "commercial-host": 11,
     "us-hyperscaler-offshore": 4
    },
-   "institutions": 31,
+   "institutions": 30,
    "names": 526,
    "m365": 0,
    "google": 0,
@@ -441,14 +437,15 @@
    "african_region_share": 0.0,
    "us_saas_share": 0.0,
    "cdn_share": 3.4,
-   "national_or_self_share": 2.2,
-   "unattributed": 153,
+   "national_or_self_share": 6.7,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 153,
+    "telco-isp": 80,
+    "commercial-host": 78,
     "unresolved": 2,
+    "national-dc": 8,
     "cdn-origin-unknown": 6,
-    "self-hosted": 4,
-    "commercial-host": 13
+    "self-hosted": 4
    },
    "institutions": 10,
    "names": 190,
