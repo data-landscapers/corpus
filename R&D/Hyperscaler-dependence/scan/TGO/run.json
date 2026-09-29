@@ -346,19 +346,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "24691": "TOGOTEL-AS - IDDQD-AS",
-  "207758": "HOSTEUR-NET-CORE-CH Hosteur SA",
-  "30982": "CAFE Informatique et telecommunications - CAFE Informatique et telecommunications",
-  "26277": "SERVERPOINT - ServerPoint.com",
-  "204818": "HOSTEUR-NET-CORE Hosteur SAS",
-  "8739": "ICDSoft ICDSoft Ltd.",
-  "36924": "GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS",
-  "36947": "Telecom Algeria - Telecom Algeria",
-  "25394": "MK-NETZDIENSTE-AS MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG",
-  "48809": "HOSTEUR-ANYCAST Hosteur SAS",
-  "37054": "Telecom Malagasy - Telecom Malagasy"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 1468,
@@ -367,16 +355,15 @@
    "us_saas_share": 7.4,
    "cdn_share": 55.4,
    "national_or_self_share": 5.1,
-   "unattributed": 289,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 814,
     "unresolved": 10,
-    "unattributed": 289,
-    "commercial-host": 80,
+    "telco-isp": 238,
+    "commercial-host": 132,
     "self-hosted": 75,
     "us-saas": 109,
-    "us-hyperscaler-offshore": 90,
-    "telco-isp": 1
+    "us-hyperscaler-offshore": 90
    },
    "institutions": 37,
    "names": 719,
@@ -392,16 +379,15 @@
    "us_saas_share": 6.9,
    "cdn_share": 60.0,
    "national_or_self_share": 5.5,
-   "unattributed": 254,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 812,
     "unresolved": 10,
-    "unattributed": 254,
-    "commercial-host": 68,
+    "telco-isp": 205,
+    "commercial-host": 118,
     "self-hosted": 75,
     "us-saas": 93,
-    "us-hyperscaler-offshore": 40,
-    "telco-isp": 1
+    "us-hyperscaler-offshore": 40
    },
    "institutions": 32,
    "names": 642,
@@ -417,10 +403,10 @@
    "us_saas_share": 13.9,
    "cdn_share": 1.7,
    "national_or_self_share": 0.0,
-   "unattributed": 35,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 12,
-    "unattributed": 35,
+    "commercial-host": 14,
+    "telco-isp": 33,
     "us-hyperscaler-offshore": 50,
     "us-saas": 16,
     "cdn-origin-unknown": 2
