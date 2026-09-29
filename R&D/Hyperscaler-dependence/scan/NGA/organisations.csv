@@ -8,13 +8,13 @@ NGA,Police,Nigeria Police Force,npf.gov.ng,69,60,41.7,0.0,0.0,0.0,31.7,0,other:G
 NGA,Justice,Federal Ministry of Justice,justice.gov.ng,43,27,0.0,0.0,0.0,0.0,92.6,0,other:Galaxy Backbone,,false,2026-09-29
 NGA,Justice,National Judicial Council,njc.gov.ng,238,183,15.3,13.1,2.7,0.0,0.0,0,google,,false,2026-09-29
 NGA,Treasury / Finance,Federal Ministry of Finance,finance.gov.ng,26,36,0.0,0.0,47.2,0.0,44.4,0,m365,,false,2026-09-29
-NGA,Treasury / Finance,Office of the Accountant-General of the Federation,oagf.gov.ng,10,15,0.0,0.0,0.0,0.0,100.0,0,other:Galaxy Backbone,,false,2026-09-29
+NGA,Treasury / Finance,Office of the Accountant-General of the Federation,oagf.gov.ng,14,18,0.0,0.0,0.0,0.0,88.9,0,other:Galaxy Backbone,,false,2026-09-29
 NGA,Revenue Service,Federal Inland Revenue Service,firs.gov.ng,150,68,13.2,0.0,2.9,7.4,5.9,0,m365,cisco-ironport,true,2026-09-29
 NGA,Revenue Service,Nigeria Revenue Service,nrs.gov.ng,112,77,23.4,1.3,16.9,10.4,0.0,0,m365,cisco-ironport,false,2026-09-29
 NGA,Customs,Nigeria Customs Service,customs.gov.ng,86,235,1.3,0.0,0.0,87.7,0.0,0,other:Trade Modernisation Project,,false,2026-09-29
 NGA,Intelligence,Department of State Services,dss.gov.ng,16,13,0.0,0.0,0.0,23.1,23.1,0,other:Backbone Connectivity Network,,false,2026-09-29
 NGA,Interior / Home Affairs,Federal Ministry of Interior,interior.gov.ng,20,26,19.2,0.0,15.4,0.0,53.8,0,other:Galaxy Backbone,,true,2026-09-29
-NGA,Central Bank,Central Bank of Nigeria,cbn.gov.ng,18,43,44.2,0.0,2.3,32.6,20.9,0,m365,,true,2026-09-29
+NGA,Central Bank,Central Bank of Nigeria,cbn.gov.ng,96,142,28.2,0.7,0.7,55.6,14.8,0,m365,,true,2026-09-29
 NGA,Commercial Banks,Zenith Bank,zenithbank.com,394,150,38.7,0.0,0.7,14.7,40.7,0,m365,,true,2026-09-29
 NGA,Commercial Banks,Access Bank,accessbankplc.com,1757,418,17.0,0.0,3.1,72.2,1.9,0,m365,,true,2026-09-29
 NGA,Commercial Banks,First Bank of Nigeria,firstbanknigeria.com,525,142,26.1,0.0,0.0,34.5,35.9,0,other:aws,trend-micro,true,2026-09-29
@@ -30,7 +30,7 @@ NGA,Immigration / Passports,Nigeria Immigration Service,immigration.gov.ng,47,51
 NGA,Data protection authority,Nigeria Data Protection Commission,ndpc.gov.ng,17,42,95.2,76.2,2.4,0.0,0.0,0,m365,,false,2026-09-29
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,79,60,80.0,0.0,8.3,6.7,0.0,0,other:mail.inecnigeria.org,,false,2026-09-29
 NGA,Statistics office,National Bureau of Statistics,nigerianstat.gov.ng,11,32,28.1,0.0,59.4,0.0,12.5,0,m365,,true,2026-09-29
-NGA,Health ministry / National health insurance,Federal Ministry of Health,health.gov.ng,13,19,0.0,0.0,0.0,0.0,100.0,0,other:Galaxy Backbone,,false,2026-09-29
+NGA,Health ministry / National health insurance,Federal Ministry of Health,health.gov.ng,68,58,6.9,1.7,0.0,0.0,87.9,0,other:Galaxy Backbone,,true,2026-09-29
 NGA,Health ministry / National health insurance,National Health Insurance Authority,nhia.gov.ng,14,16,43.8,18.8,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-29
 NGA,Social protection / Social registry,National Social Safety-Nets Coordinating Office,nassp.gov.ng,30,41,0.0,0.0,41.5,0.0,0.0,0,m365,,false,2026-09-29
 NGA,Land registry,Abuja Geographic Information Systems (FCT lands registry),agis.fcta.gov.ng,12,14,0.0,0.0,7.1,0.0,78.6,0,m365,,false,2026-09-29

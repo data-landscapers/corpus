@@ -93,15 +93,6 @@
    "dead": false,
    "has_mx": true
   },
-  "oagf.gov.ng": {
-   "wildcard": false,
-   "ct_status": "failed",
-   "ct_names": 0,
-   "dictionary_hits": 8,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
   "firs.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
@@ -143,15 +134,6 @@
    "ct_status": "ok",
    "ct_names": 16,
    "dictionary_hits": 3,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "cbn.gov.ng": {
-   "wildcard": false,
-   "ct_status": "failed",
-   "ct_names": 0,
-   "dictionary_hits": 15,
    "scope": "full",
    "dead": false,
    "has_mx": true
@@ -287,15 +269,6 @@
    "ct_status": "ok",
    "ct_names": 8,
    "dictionary_hits": 3,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "health.gov.ng": {
-   "wildcard": false,
-   "ct_status": "failed",
-   "ct_names": 0,
-   "dictionary_hits": 10,
    "scope": "full",
    "dead": false,
    "has_mx": true
@@ -479,66 +452,93 @@
    "scope": "full",
    "dead": false,
    "has_mx": true
+  },
+  "oagf.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cbn.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 88,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "health.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 68,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
   }
  },
  "new_asns": {},
  "rollup": {
   "all": {
-   "routable": 5624,
-   "us_hyperscaler_share": 24.3,
+   "routable": 5765,
+   "us_hyperscaler_share": 24.2,
    "african_region_share": 1.1,
-   "us_saas_share": 4.5,
+   "us_saas_share": 4.4,
    "cdn_share": 44.3,
-   "national_or_self_share": 13.9,
+   "national_or_self_share": 14.3,
    "unattributed": 15,
    "by_category": {
-    "national-dc": 344,
+    "national-dc": 377,
     "african-colo": 212,
-    "us-hyperscaler-offshore": 1306,
-    "commercial-host": 385,
+    "us-hyperscaler-offshore": 1329,
+    "commercial-host": 390,
     "telco-isp": 114,
-    "cdn-origin-unknown": 2490,
+    "cdn-origin-unknown": 2555,
     "unattributed": 15,
-    "us-hyperscaler-africa": 62,
-    "unresolved": 7,
+    "us-hyperscaler-africa": 64,
+    "unresolved": 8,
     "us-saas": 253,
-    "self-hosted": 435,
+    "self-hosted": 447,
     "chinese-cloud": 1
    },
    "institutions": 52,
-   "names": 6530,
+   "names": 6667,
    "m365": 24,
    "google": 2,
-   "tangled_hybrid": 25,
-   "any_us_hyperscaler": 35
+   "tangled_hybrid": 26,
+   "any_us_hyperscaler": 36
   },
   "government": {
-   "routable": 3094,
-   "us_hyperscaler_share": 30.9,
-   "african_region_share": 2.0,
-   "us_saas_share": 5.5,
-   "cdn_share": 26.9,
-   "national_or_self_share": 16.0,
+   "routable": 3235,
+   "us_hyperscaler_share": 30.3,
+   "african_region_share": 1.9,
+   "us_saas_share": 5.2,
+   "cdn_share": 27.8,
+   "national_or_self_share": 16.7,
    "unattributed": 14,
    "by_category": {
-    "national-dc": 344,
+    "national-dc": 377,
     "african-colo": 211,
-    "us-hyperscaler-offshore": 894,
-    "commercial-host": 327,
+    "us-hyperscaler-offshore": 917,
+    "commercial-host": 332,
     "telco-isp": 84,
-    "cdn-origin-unknown": 833,
+    "cdn-origin-unknown": 898,
     "unattributed": 14,
-    "us-hyperscaler-africa": 61,
-    "unresolved": 5,
+    "us-hyperscaler-africa": 63,
+    "unresolved": 6,
     "us-saas": 169,
-    "self-hosted": 152
+    "self-hosted": 164
    },
    "institutions": 42,
-   "names": 2219,
+   "names": 2356,
    "m365": 17,
    "google": 2,
-   "tangled_hybrid": 16,
-   "any_us_hyperscaler": 25
+   "tangled_hybrid": 17,
+   "any_us_hyperscaler": 26
   },
   "bank": {
    "routable": 2530,
