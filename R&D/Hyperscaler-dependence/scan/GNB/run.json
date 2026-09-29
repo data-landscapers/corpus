@@ -202,12 +202,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "33876": "Flesk-AS DMNS - DOMINIOS, S.A.",
-  "39384": "RACKFIBER Dream Fusion - IT Services, Lda",
-  "5533": "CLARANET-PT Claranet Portugal S.A",
-  "37559": "Orange Bissau - Orange Bissau"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 346,
@@ -216,16 +211,16 @@
    "us_saas_share": 20.5,
    "cdn_share": 4.9,
    "national_or_self_share": 0.0,
-   "unattributed": 155,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 155,
-    "commercial-host": 48,
+    "commercial-host": 156,
     "us-hyperscaler-offshore": 54,
     "cdn-origin-unknown": 17,
+    "telco-isp": 47,
     "us-saas": 71,
     "unresolved": 1
    },
-   "institutions": 21,
+   "institutions": 20,
    "names": 276,
    "m365": 5,
    "google": 3,
@@ -239,16 +234,16 @@
    "us_saas_share": 18.4,
    "cdn_share": 5.5,
    "national_or_self_share": 0.0,
-   "unattributed": 138,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 138,
-    "commercial-host": 42,
+    "commercial-host": 133,
     "us-hyperscaler-offshore": 54,
     "cdn-origin-unknown": 17,
+    "telco-isp": 47,
     "us-saas": 57,
     "unresolved": 1
    },
-   "institutions": 19,
+   "institutions": 18,
    "names": 253,
    "m365": 4,
    "google": 2,
@@ -262,10 +257,9 @@
    "us_saas_share": 37.8,
    "cdn_share": 0.0,
    "national_or_self_share": 0.0,
-   "unattributed": 17,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 17,
-    "commercial-host": 6,
+    "commercial-host": 23,
     "us-saas": 14
    },
    "institutions": 2,
