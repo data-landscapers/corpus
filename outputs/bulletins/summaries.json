@@ -1,39 +1,4 @@
 {
-  "2026-08-29-bbc-arabic-egypt-ai-huawei-us-competition": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "A tender to build artificial-intelligence data centres for the Egyptian government is reported as a contest between American and Chinese suppliers rather than a procurement. The piece is analyst commentary on the bid already recorded on 26 August, in which more than two thousand advanced Chinese chips were proposed for a training cloud and two inference clusters."
-  },
-  "2026-08-29-cameroon-cybastion-douala-ai-data-centre": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "A United States company announced an intention to invest US$75m in an artificial-intelligence data centre and an accompanying power plant at Douala, at the inaugural United States-Cameroon economic and commercial dialogue on 27 August. It is one project among an estimated US$7bn of investment and trade opportunities floated at the meeting, and no agreement, site, capacity or date is on record."
-  },
-  "2026-08-29-equatorial-guinea-starlink-available": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "The satellite operator confirmed on 29 August that its internet service is now available in Equatorial Guinea, on its own and its owner's social-media accounts. That follows the government's opening of negotiations on national digital transformation in March and a July authorisation that covered only North American companies' offshore operations inside jurisdictional waters. No licence, tariff or subscriber figure accompanies the confirmation."
-  },
-  "2026-08-29-senegal-gambie-feuille-route-numerique-commune": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "Senegal and Gambia held the first steering-committee session of their bilateral digital-cooperation agreement at Banjul on 29 August, eleven weeks after signing it at Dakar. The two sides settled four priorities: infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation, with rural access to electronic government named among the work. No timetable, budget or named deliverable is attached to any of the four."
-  },
-  "2026-08-29-somalia-senate-cybersecurity-bill-first-reading": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "The Upper House gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August, at the first sitting of its eighth term, alongside a separate bill establishing a national meteorological agency. Both are short of the second and third readings the chamber requires. The House of the People approved a cybersecurity law in January, and nothing on record states whether the bill now before the Senate is that instrument."
-  },
-  "2026-08-29-southafrica-vexa-coega-ai-data-hub-power": {
-    "published": "2026-08-29",
-    "written": "2026-08-30",
-    "summary": "A metropolitan council approved a developer's request on 27 August to connect a proposed hyperscale artificial-intelligence and cloud campus at the Coega special economic zone directly to the national utility rather than the municipal grid, for up to 556MW. The developer offered R3bn of municipal and community infrastructure investment against councillor objections. What was approved is the connection; the campus has no capacity in service or completion date on record."
-  },
-  "2026-08-29-thisday-tinubu-ippis-forensic-audit": {
-    "published": "2026-08-29",
-    "written": "2026-08-29",
-    "summary": "The President directed the finance minister on 28 August to coordinate a forensic audit of the federal payroll system and the payroll, pension and financial-management platforms around it, tracing how ineligible people were enrolled and examining the interfaces with the government financial management system and the Treasury Single Account. A second component is a definitive inventory of every federal agency and its legal basis. No auditor, budget or reporting date is stated."
-  },
   "2026-08-30-electricity-tariff-overview": {
     "published": "2026-08-30",
     "written": "2026-08-30",
@@ -6678,5 +6643,160 @@
     "published": "2026-09-28",
     "written": "2026-09-28",
     "summary": "MISA Zimbabwe links access to information to information integrity and says the national AI strategy for 2026-2030 is a chance to build domestic AI capacity."
+  },
+  "2026-09-29-actualite-cd-cod-banque-mondiale-afd-mission-projet-transformation-numerique": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "A joint World Bank and French development agency mission is in Kinshasa until 2 October to review the Democratic Republic of Congo's digital transformation project. Its priority work covers connectivity of public institutions, state digital infrastructure, information-system security, civil registration and identification, and skills."
+  },
+  "2026-09-29-ago-angop-ine-public-consultation-statistics-law": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Angola's statistics institute opened a public consultation, running to 2 October, on a revision of the national statistics law and a new national strategy for the development of statistics."
+  },
+  "2026-09-29-ago-techreviewafrica-ggpen-anyconnect-conecta-angola-2africa": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Traffic from Conecta Angola's satellite terminals is now routed from its hub onto the 2Africa cable through UNITEL's landing station at Cacuaco, to add capacity and a second international route. No capacity figure was given."
+  },
+  "2026-09-29-airtel-malawi-revenue-rises-33-8-as-currency-losses-hit-profit": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Airtel Malawi's revenue rose 33.8% to K219.1bn in the half-year to June 2026, while exchange losses cut profit by more than half. Customers rose to 9.1 million, data customers to 2.9 million, and capital spending nearly tripled."
+  },
+  "2026-09-29-au-innofest26-vibrant-youth-ecosystems-ai-digital-sovereignty": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "The African Union held its Innovation Festival at its Addis Ababa headquarters on 29-30 September under the theme of youth ecosystems for AI and digital sovereignty."
+  },
+  "2026-09-29-bfa-lefaso-yori-id-consular-platform-us-embassy": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Burkina Faso's embassy in the United States launched YORI ID, a consular platform for cards, passports and administrative acts with online payment, as a one-year pilot. About 10,000 nationals are registered, most of them migrated from the previous system."
+  },
+  "2026-09-29-cdpi-highlights-momentum-in-ethiopia-s-digital-public-infrastructure-e": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "The Centre for Digital Public Infrastructure visited Ethiopia's Fayda ID, EthSwitch, ArifPay, the agriculture ministry and the MESOB service centres, and said it would keep working with them."
+  },
+  "2026-09-29-cpv-de-cix-cvtelecom-south-atlantic-interconnection-corridor": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "DE-CIX and Cabo Verde Telecom signed a non-binding letter of intent to explore a Lisbon to Sao Paulo interconnection corridor, the operator supplying transport capacity in return for access to DE-CIX exchanges. Terms await a definitive agreement."
+  },
+  "2026-09-29-gab-gabonreview-etat-civil-digital-reform-workshop": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "A ten-day inter-ministerial workshop at Ntoum is preparing Gabon's national civil registry centre for operation and the reform of civil registration, under the World Bank-financed Gabon Digital programme. The programme coordinator said the rules for attributing identity must be settled before any platform is built."
+  },
+  "2026-09-29-gab-gabonreview-video-verbalisation-road-offences": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Gabon's road-safety directorate inspected the first cameras for automated enforcement of speeding, red-light and parking offences across Grand Libreville, ahead of going live. How notices will be served and fines collected has not been published."
+  },
+  "2026-09-29-gab-lunion-e-commerce-revolution-pietine": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Online selling in Libreville runs on social media, mobile money and motorbike delivery, but sellers face poor connectivity and buyers little protection, as the sector still lacks rules."
+  },
+  "2026-09-29-gha-myjoyonline-dvla-rfid-number-plates-pilot": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Ghana's vehicle licensing authority began piloting RFID-enabled number plates ahead of issuance to newly registered vehicles from January 2027. How existing vehicles will be re-registered is still to be announced."
+  },
+  "2026-09-29-ken-sle-techreviewafrica-ai-partnership-exploration": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Kenya's technology envoy and Sierra Leone's chief minister discussed working together on AI for public services and education with IDinsight and the OpenAI Foundation, after an UNGA dialogue on shared AI sovereignty. Nothing was agreed."
+  },
+  "2026-09-29-ken-techcabal-mobile-money-agents-under-pressure": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Kenya lost about 34,000 mobile money agents between March and June 2026, down 5.6% to 568,463, while subscriptions rose 1.2% to 54.01 million, on regulator data. More people now transact directly from their phones."
+  },
+  "2026-09-29-mar-techreviewafrica-mistral-ai-darija-open-source-tools": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Morocco's digital ministry and Mistral AI released their first open-source tools: a classifier that tells Arabic dialects including Darija apart, and a speech-recognition model for Darija that handles switching into French and English."
+  },
+  "2026-09-29-mrt-ami-national-digital-addressing-system-workshop": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Mauritania's digital and land ministers opened a four-day workshop presenting the national digital addressing system for consultation. It is meant as a single reference locating plots, buildings and facilities to Universal Postal Union standards, under the World Bank-financed regional digital integration programme."
+  },
+  "2026-09-29-nga-itweb-africa-nigeria-digital-credit-data-test": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Banking and fintech practitioners told ITWeb Africa that gaps in data sharing, affordability assessment and the use of alternative data limit how far Nigeria's digital lending can scale."
+  },
+  "2026-09-29-nga-techcabal-cbn-data-localisation-financial-data": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "A Central Bank of Nigeria supervision director said the payments-data localisation rule due on 1 January 2027 is about resilience and recoverability, not where servers sit. Further implementation guidance is being prepared, and institutions were told not to wait for it."
+  },
+  "2026-09-29-nga-techreviewafrica-ncc-digital-connectivity-investment-forum": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Nigeria's communications regulator opened the first Nigeria Digital Connectivity Investment Forum in Abuja, with Swedfund and Ookla as partners, to court investment in digital infrastructure."
+  },
+  "2026-09-29-sajim-ai-enabled-e-services-justice-namibia": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "A case study of Namibia's justice ministry and a rural community, from 18 interviews, argues that AI could improve justice e-services for villages and rural areas."
+  },
+  "2026-09-29-standard-bank-group-huawei-forge-strategic-cloud-partnership-to-drive-": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Standard Bank Group expanded its partnership with Huawei to move its core banking systems from legacy infrastructure to a hybrid cloud platform, in phases across the 21 African countries it operates in. No value, timetable or hosting location was given."
+  },
+  "2026-09-29-tcd-lendjampost-adetic-moundou-centre-communautaire-multimedia": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Chad's ICT development agency inaugurated a community multimedia centre in Moundou under the universal service programme, with a training room and a cybercafe on grid, solar and generator power."
+  },
+  "2026-09-29-tcd-lendjampost-ndjamena-facture-electronique-normalisee-fournisseurs": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "N'Djamena's city council told suppliers that their invoices must be standardised electronic invoices where they are liable, under a finance ministry circular of 10 September 2026, or risk not being paid."
+  },
+  "2026-09-29-tgo-togofirst-online-public-services-portal-adds-procedures": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Togo's national public services portal added building-permit applications and the certification of the architect on a permit, along with services of the state broadcaster and public radio."
+  },
+  "2026-09-29-tgo-togofirst-togo-ai-lab-voix-du-togo-local-languages-test": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Togo AI Lab put its Voix du Togo platform, built to give access to public services in local languages, to a public user test in Lome. It pilots Kabiye, Ewe and Moba, with the stated aim of covering about 50 languages."
+  },
+  "2026-09-29-uga-nilepost-kamuntu-identity-foundation-nira-expo-opens": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Figures at the opening of Uganda's first national identity expo put about 36.2 million people identified, roughly 78.8% of the population. The internal affairs minister called on the registration authority to reach everyone."
+  },
+  "2026-09-29-xaf-techafricanews-au-question-continental-ai-governance": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "The African Union Commission's AI coordinator said 17 countries have now formally adopted national AI policies, against eight when the continental strategy was written, at the consultation on continental AI governance guidelines. Draft guidelines and a model AI law are being prepared for ministerial review."
+  },
+  "2026-09-29-xaf-techreviewafrica-auc-commissioner-ai-sovereignty": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "The African Union Commission's infrastructure and energy commissioner told a WEF roundtable at UNGA81 that AI sovereignty must be developmental, people-centred and inclusive, not focused on enterprises alone."
+  },
+  "2026-09-29-xgl-africanenda-access-or-usage-siips-2026-financial-inclusion": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "AfricaNenda's 2026 report on inclusive instant payment systems finds, on data from 54 economies, that a live instant payment system raises how often account holders use their accounts but not account ownership. The average transaction fell from US$58 in 2021 to US$25."
+  },
+  "2026-09-29-zaf-citizen-gauteng-e-panic-button-app-data-breach": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Gauteng's e-government department said the flaw in its e-Panic Button app is patched and no personal data was compromised, and put active users at 288,307. The student who reported the flaw disputes that account, saying ID numbers, addresses and crime details were exposed unencrypted."
+  },
+  "2026-09-29-zaf-engineeringnews-vodacom-dual-band-massive-mimo": {
+    "published": "2026-09-29",
+    "written": "2026-09-29",
+    "summary": "Vodacom South Africa tested with Nokia a compact dual-band Massive MIMO unit across its 2,600 MHz and 3,500 MHz spectrum in a Western Cape pilot. It will deploy it at space-constrained sites to add 4G and 5G capacity."
   }
 }
