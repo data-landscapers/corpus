@@ -1,0 +1,18 @@
+column,label,type,values,definition
+iso3,Country code,code,ISO3,"The country the institution belongs to, as a three-letter code (KEN is Kenya)."
+type,Institution type,text,one of the 36 types in strategic-institutions.csv,"The kind of institution, such as Central Bank or Defence."
+institution,Institution,text,,The institution's name.
+domain,Domain scanned,text,,"The institution's internet domain that the scan started from, such as cbk.go.ke. An institution can have more than one."
+name,Name,text,,"The web or mail name this row is about, such as www.cbk.go.ke. It is the domain itself or a name under it."
+source,How the name was found,text,root; dictionary; ct; or two joined by ';',"root: the domain itself or its www name. dictionary: a common name (mail, vpn, portal) that was tried and answered. ct: listed in the public logs of website security certificates."
+rr_type,Record type,code,A; AAAA; CNAME; MX; NS; TXT,"What kind of address record this row holds. A and AAAA: the server address (old and new style). CNAME: the name is an alias for another name. MX: the server that receives the domain's email. NS: the server that answers for the domain. TXT: the domain's email security rules (SPF and DMARC only)."
+rr_status,Lookup result,code,ok; nxdomain; noanswer; servfail; noaddress; timeout,"ok: the lookup worked. nxdomain: the name does not exist. noanswer: the name exists but has no record of this type. servfail: the domain's own servers failed to answer. noaddress: a mail or name server was named but has no address. timeout: no answer in time."
+target,Points to,text,,"For an alias, mail or name server row: the name it points to. For a TXT row: the text of the rule. Blank for a plain address row."
+ip,Server address,text,,The internet address (IP) the name leads to. Blank where the lookup failed.
+cname_chain,Alias chain,text,names joined by '>',"Where the name is an alias, every name it passes through on the way to an address, in order."
+asn,Network number,code,,"The number of the network that holds the address, from the internet registries. Blank where the address was matched from a cloud company's own published list instead."
+owner,Owner,text,,"Who holds the address or the service: the cloud company, or the network owner named in the internet registries."
+category,Who hosts it,code,see definition,"us-hyperscaler-africa: Amazon, Microsoft, Google or Oracle cloud in an African data centre. us-hyperscaler-offshore: the same companies outside Africa, or where the location is not published. us-saas: a US online service such as Microsoft 365. chinese-cloud: Huawei, Alibaba or Tencent. commercial-host: another foreign hosting firm. cdn-origin-unknown: behind a shield such as Cloudflare, which hides the real host. african-colo: an African data centre or IT firm. national-dc: a government data centre. telco-isp: a telecoms company. self-hosted: the institution's own network. unresolved: the name did not lead to a usable address. unattributed: an address no source could place. Blank on TXT rows."
+region,Cloud region,code,,"The cloud company's own name for the data centre area, such as af-south-1 (Amazon, Cape Town) or westeurope (Microsoft, Netherlands). global: a worldwide delivery network with no fixed place. Blank where not a cloud address."
+provider,Provider,text,,"The cloud or hosting company, as the scan's lookup tables name it."
+scan_date,Scan date,date,YYYY-MM-DD,The day the lookup was made. Every figure is as of this date.
