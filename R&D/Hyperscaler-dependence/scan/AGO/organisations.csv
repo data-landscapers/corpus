@@ -1,42 +1,42 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-AGO,Presidency,Presidência da República / Governo de Angola,governo.gov.ao,4,7,0.0,0.0,0.0,0.0,0.0,7,none,,false,2026-09-29
-AGO,Parliament,Assembleia Nacional,parlamento.ao,34,64,0.0,0.0,0.0,87.5,0.0,8,other:Angola Telecom,,false,2026-09-29
-AGO,Foreign Affairs,Ministério das Relações Exteriores,mirex.gov.ao,357,307,37.5,37.5,0.0,0.0,0.0,192,other:Angola Cables - Angola Cables,,false,2026-09-29
-AGO,Defence,Ministério da Defesa Nacional Antigos Combatentes e Veteranos da Pátria,mindenacvp.gov.ao,8,9,0.0,0.0,0.0,0.0,0.0,9,other:Angola Cables - Angola Cables,,false,2026-09-29
-AGO,Police,Polícia Nacional de Angola,pna.gov.ao,47,13,0.0,0.0,0.0,0.0,15.4,11,other:Angola Cables - Angola Cables,,false,2026-09-29
-AGO,Justice,Ministério da Justiça e dos Direitos Humanos,minjusdh.gov.ao,33,29,0.0,0.0,0.0,0.0,0.0,20,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,Presidency,Presidência da República / Governo de Angola,governo.gov.ao,4,7,0.0,0.0,0.0,0.0,28.6,0,none,,false,2026-09-29
+AGO,Parliament,Assembleia Nacional,parlamento.ao,34,64,0.0,0.0,0.0,87.5,0.0,0,other:Angola Telecom - Angola Telecom,,false,2026-09-29
+AGO,Foreign Affairs,Ministério das Relações Exteriores,mirex.gov.ao,357,307,37.5,37.5,0.0,0.0,2.3,0,other:Angola Cables - Angola Cables,,true,2026-09-29
+AGO,Defence,Ministério da Defesa Nacional Antigos Combatentes e Veteranos da Pátria,mindenacvp.gov.ao,8,9,0.0,0.0,0.0,0.0,22.2,0,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,Police,Polícia Nacional de Angola,pna.gov.ao,47,13,0.0,0.0,0.0,0.0,15.4,0,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,Justice,Ministério da Justiça e dos Direitos Humanos,minjusdh.gov.ao,33,29,0.0,0.0,0.0,0.0,6.9,7,other:Angola Cables - Angola Cables,,false,2026-09-29
 AGO,Justice,Tribunal Supremo,tribunalsupremo.ao,20,10,0.0,0.0,0.0,0.0,0.0,0,other:Interserver,,false,2026-09-29
-AGO,Treasury / Finance,Ministério das Finanças,minfin.gov.ao,3,5,40.0,40.0,20.0,0.0,0.0,2,m365,,false,2026-09-29
-AGO,Revenue Service,Administração Geral Tributária,agt.minfin.gov.ao,13,5,0.0,0.0,0.0,0.0,0.0,5,none,,false,2026-09-29
-AGO,Interior / Home Affairs,Ministério do Interior,minint.gov.ao,18,13,0.0,0.0,0.0,0.0,0.0,13,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,Treasury / Finance,Ministério das Finanças,minfin.gov.ao,3,5,40.0,40.0,20.0,0.0,40.0,0,m365,,true,2026-09-29
+AGO,Revenue Service,Administração Geral Tributária,agt.minfin.gov.ao,13,5,0.0,0.0,0.0,0.0,80.0,0,none,,false,2026-09-29
+AGO,Interior / Home Affairs,Ministério do Interior,minint.gov.ao,18,13,0.0,0.0,0.0,0.0,23.1,0,other:Angola Cables - Angola Cables,,false,2026-09-29
 AGO,Central Bank,Banco Nacional de Angola,bna.ao,139,59,1.7,0.0,28.8,23.7,45.8,0,m365,,true,2026-09-29
-AGO,Commercial Banks,Banco Angolano de Investimentos (BAI),bancobai.ao,134,131,9.2,0.0,22.1,47.3,17.6,2,m365,,true,2026-09-29
+AGO,Commercial Banks,Banco Angolano de Investimentos (BAI),bancobai.ao,134,131,9.2,0.0,22.1,47.3,17.6,0,m365,,true,2026-09-29
 AGO,Commercial Banks,Banco de Fomento Angola (BFA),bfa.ao,99,81,17.3,1.2,2.5,0.0,79.0,0,m365,broadcom-messagelabs,true,2026-09-29
 AGO,Commercial Banks,Banco BIC,bancobic.ao,26,29,0.0,0.0,3.4,75.9,20.7,0,m365,,false,2026-09-29
 AGO,Commercial Banks,Banco Millennium Atlântico,atlantico.ao,49,67,4.5,1.5,25.4,44.8,25.4,0,m365,,true,2026-09-29
-AGO,Commercial Banks,Standard Bank de Angola,standardbank.co.ao,78,88,29.5,0.0,14.8,34.1,18.2,2,m365,,true,2026-09-29
+AGO,Commercial Banks,Standard Bank de Angola,standardbank.co.ao,78,88,29.5,0.0,14.8,34.1,18.2,0,m365,,true,2026-09-29
 AGO,Commercial Banks,Banco de Poupança e Crédito (BPC),bpc.ao,62,34,32.4,0.0,2.9,0.0,61.8,0,m365,,true,2026-09-29
 AGO,Commercial Banks,Banco Sol,bancosol.ao,26,36,2.8,0.0,58.3,22.2,16.7,0,m365,,true,2026-09-29
 AGO,Commercial Banks,Banco Keve,keve.ao,16,30,30.0,0.0,43.3,6.7,16.7,0,m365,,true,2026-09-29
-AGO,Commercial Banks,Banco Caixa Geral Angola,caixaangola.ao,67,60,0.0,0.0,1.7,85.0,8.3,3,m365,,false,2026-09-29
+AGO,Commercial Banks,Banco Caixa Geral Angola,caixaangola.ao,67,60,0.0,0.0,1.7,85.0,8.3,0,m365,,false,2026-09-29
 AGO,Commercial Banks,Banco Comércio e Indústria (BCI),bci.ao,35,37,24.3,0.0,35.1,5.4,32.4,0,m365,,true,2026-09-29
-AGO,Civil registry / National ID authority,Serviço Integrado de Atendimento ao Cidadão (SIAC),siac.gov.ao,7,10,10.0,0.0,0.0,0.0,0.0,9,google,,false,2026-09-29
-AGO,Data protection authority,Agência de Protecção de Dados,apd.ao,9,7,0.0,0.0,0.0,0.0,0.0,6,other:CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS ,,false,2026-09-29
-AGO,Electoral commission,Comissão Nacional Eleitoral,cne.ao,45,49,2.0,0.0,0.0,4.1,0.0,12,other:CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS ,,false,2026-09-29
-AGO,Statistics office,Instituto Nacional de Estatística,ine.gov.ao,21,36,0.0,0.0,36.1,0.0,5.6,21,m365,,false,2026-09-29
-AGO,Health ministry / National health insurance,Ministério da Saúde,minsa.gov.ao,32,21,0.0,0.0,0.0,0.0,0.0,21,other:Angola Cables - Angola Cables,,false,2026-09-29
-AGO,Social protection / Social registry,Instituto Nacional de Segurança Social,inss.gov.ao,15,26,34.6,0.0,3.8,0.0,0.0,16,m365,,false,2026-09-29
-AGO,Land registry,Instituto Geográfico e Cadastral de Angola (IGCA),igca.gov.ao,9,7,0.0,0.0,0.0,0.0,0.0,7,other:Angola Cables - Angola Cables,,false,2026-09-29
-AGO,National payment switch,EMIS Empresa Interbancária de Serviços,emis.ao,25,27,22.2,0.0,7.4,0.0,51.9,2,other:Fortinet,,true,2026-09-29
-AGO,Stock exchange,Bolsa de Dívida e Valores de Angola (BODIVA),bodiva.ao,12,48,54.2,0.0,27.1,0.0,8.3,5,m365,,true,2026-09-29
-AGO,Securities regulator,Comissão do Mercado de Capitais,cmc.ao,9,13,15.4,0.0,0.0,0.0,0.0,11,m365,,false,2026-09-29
+AGO,Civil registry / National ID authority,Serviço Integrado de Atendimento ao Cidadão (SIAC),siac.gov.ao,7,10,10.0,0.0,0.0,0.0,20.0,0,google,,true,2026-09-29
+AGO,Data protection authority,Agência de Protecção de Dados,apd.ao,9,7,0.0,0.0,0.0,0.0,57.1,0,other:CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS ,,false,2026-09-29
+AGO,Electoral commission,Comissão Nacional Eleitoral,cne.ao,45,49,2.0,0.0,0.0,4.1,24.5,0,other:CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS ,,true,2026-09-29
+AGO,Statistics office,Instituto Nacional de Estatística,ine.gov.ao,21,36,0.0,0.0,36.1,0.0,5.6,1,m365,,false,2026-09-29
+AGO,Health ministry / National health insurance,Ministério da Saúde,minsa.gov.ao,32,21,0.0,0.0,0.0,0.0,14.3,0,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,Social protection / Social registry,Instituto Nacional de Segurança Social,inss.gov.ao,15,26,34.6,0.0,3.8,0.0,0.0,0,m365,,false,2026-09-29
+AGO,Land registry,Instituto Geográfico e Cadastral de Angola (IGCA),igca.gov.ao,9,7,0.0,0.0,0.0,0.0,28.6,0,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,National payment switch,EMIS Empresa Interbancária de Serviços,emis.ao,25,27,22.2,0.0,7.4,0.0,51.9,0,other:Fortinet,,true,2026-09-29
+AGO,Stock exchange,Bolsa de Dívida e Valores de Angola (BODIVA),bodiva.ao,12,48,54.2,0.0,27.1,0.0,8.3,0,m365,,true,2026-09-29
+AGO,Securities regulator,Comissão do Mercado de Capitais,cmc.ao,9,13,15.4,0.0,0.0,0.0,0.0,0,m365,,false,2026-09-29
 AGO,Sovereign wealth fund / National pension fund,Fundo Soberano de Angola (FSDEA),fundosoberano.ao,2,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-AGO,Public procurement authority,Serviço Nacional da Contratação Pública (Portal Compras Públicas),compraspublicas.minfin.gov.ao,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-AGO,Energy utility,Empresa Nacional de Distribuição de Electricidade (ENDE),ende.co.ao,12,14,0.0,0.0,7.1,0.0,0.0,10,m365,,false,2026-09-29
-AGO,Ports authority,Porto de Luanda E.P.,portoluanda.co.ao,7,30,30.0,0.0,43.3,6.7,10.0,3,m365,,true,2026-09-29
+AGO,Public procurement authority,Serviço Nacional da Contratação Pública (Portal Compras Públicas),compraspublicas.minfin.gov.ao,2,2,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+AGO,Energy utility,Empresa Nacional de Distribuição de Electricidade (ENDE),ende.co.ao,12,14,0.0,0.0,7.1,0.0,0.0,0,m365,,false,2026-09-29
+AGO,Ports authority,Porto de Luanda E.P.,portoluanda.co.ao,7,30,30.0,0.0,43.3,6.7,10.0,0,m365,,true,2026-09-29
 AGO,State-owned telco / National backbone operator,Angola Telecom,angolatelecom.ao,30,46,54.3,0.0,0.0,0.0,41.3,0,self,,true,2026-09-29
-AGO,E-government agency,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI),infosi.gov.ao,117,65,0.0,0.0,0.0,0.0,87.7,3,self,,false,2026-09-29
-AGO,E-government agency,Governo de Angola (zona gov.ao),gov.ao,3,7,0.0,0.0,0.0,0.0,0.0,7,other:Angola Cables - Angola Cables,,false,2026-09-29
-AGO,Communications regulator,Instituto Angolano das Comunicações (INACOM),inacom.gov.ao,33,34,0.0,0.0,35.3,0.0,0.0,22,other:CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS ,,false,2026-09-29
-AGO,Audit office,Tribunal de Contas,tcontas.ao,11,40,10.0,0.0,72.5,0.0,0.0,7,m365,,false,2026-09-29
-AGO,Anti-corruption commission,Procuradoria-Geral da República,pgr.ao,10,12,0.0,0.0,0.0,0.0,0.0,12,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,E-government agency,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI),infosi.gov.ao,117,65,0.0,0.0,0.0,0.0,87.7,0,self,,false,2026-09-29
+AGO,E-government agency,Governo de Angola (zona gov.ao),gov.ao,3,7,0.0,0.0,0.0,0.0,28.6,0,other:Angola Cables - Angola Cables,,false,2026-09-29
+AGO,Communications regulator,Instituto Angolano das Comunicações (INACOM),inacom.gov.ao,33,34,0.0,0.0,35.3,0.0,44.1,0,other:CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS ,,false,2026-09-29
+AGO,Audit office,Tribunal de Contas,tcontas.ao,11,40,10.0,0.0,72.5,0.0,5.0,0,m365,,true,2026-09-29
+AGO,Anti-corruption commission,Procuradoria-Geral da República,pgr.ao,10,12,0.0,0.0,0.0,0.0,58.3,0,other:Angola Cables - Angola Cables,,false,2026-09-29
