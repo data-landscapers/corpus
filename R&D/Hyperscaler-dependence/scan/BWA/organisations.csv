@@ -1,0 +1,30 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+BWA,Parliament,National Assembly of Botswana,parliament.gov.bw,4,4,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
+BWA,Armed Forces,Botswana Defence Force,bdf.org.bw,10,16,0.0,0.0,0.0,0.0,0.0,16,other:Botswana Telecommunications Corporation - Botswana Telecommunications Corporatio,,false,2026-09-29
+BWA,Police,Botswana Police Service,police.gov.bw,3,3,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+BWA,Justice,Ministry of Justice,justice.gov.bw,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+BWA,Treasury / Finance,Ministry of Finance,finance.gov.bw,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+BWA,Revenue Service,Botswana Unified Revenue Service,burs.org.bw,28,24,0.0,0.0,0.0,8.3,0.0,20,other:Desert Road Pty Ltd t/a Zebranet - Desert Road Pty Ltd t/a Zebranet|mimecast,mimecast,false,2026-09-29
+BWA,Central Bank,Bank of Botswana,bankofbotswana.bw,4,6,16.7,0.0,0.0,16.7,0.0,2,none,,false,2026-09-29
+BWA,Commercial Banks,First National Bank of Botswana,fnbbotswana.co.bw,25,45,40.0,0.0,31.1,2.2,26.7,0,m365,cisco-ironport,true,2026-09-29
+BWA,Commercial Banks,Absa Bank Botswana,absa.co.bw,41,42,16.7,0.0,0.0,33.3,23.8,0,none,,true,2026-09-29
+BWA,Commercial Banks,Stanbic Bank Botswana,stanbicbank.co.bw,67,130,24.6,0.0,3.1,67.7,0.0,0,none,,false,2026-09-29
+BWA,Commercial Banks,Bank Gaborone,bankgaborone.co.bw,28,31,29.0,0.0,0.0,12.9,35.5,4,m365,mimecast,true,2026-09-29
+BWA,Commercial Banks,Bank BBS,bbs.co.bw,30,31,0.0,0.0,41.9,0.0,0.0,12,m365,mimecast,false,2026-09-29
+BWA,Commercial Banks,Access Bank Botswana,botswana.accessbankplc.com,2,1,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+BWA,Commercial Banks,First Capital Bank Botswana,firstcapitalbank.co.bw,7,25,52.0,0.0,36.0,0.0,0.0,1,m365,,false,2026-09-29
+BWA,Commercial Banks,Bank of Baroda Botswana,bankofbaroda.co.bw,11,7,0.0,0.0,0.0,28.6,0.0,2,none,,false,2026-09-29
+BWA,Electoral commission,Independent Electoral Commission,iec.gov.bw,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+BWA,Statistics office,Statistics Botswana,statsbots.org.bw,19,17,17.6,0.0,0.0,0.0,0.0,12,other:aws,,false,2026-09-29
+BWA,Health ministry / National health insurance,Ministry of Health,moh.gov.bw,4,3,0.0,0.0,0.0,0.0,0.0,3,none,,false,2026-09-29
+BWA,Stock exchange,Botswana Stock Exchange,bse.co.bw,20,33,45.5,0.0,27.3,0.0,0.0,3,m365,,false,2026-09-29
+BWA,Securities regulator,Non-Bank Financial Institutions Regulatory Authority,nbfira.org.bw,10,24,0.0,0.0,54.2,0.0,0.0,7,m365,,false,2026-09-29
+BWA,Sovereign wealth fund / National pension fund,Botswana Public Officers Pension Fund,bpopf.co.bw,11,19,0.0,0.0,47.4,0.0,0.0,10,m365,,false,2026-09-29
+BWA,Public procurement authority,Public Procurement Regulatory Authority (formerly PPADB),ppadb.co.bw,7,28,14.3,0.0,60.7,0.0,0.0,7,m365,,false,2026-09-29
+BWA,Energy utility,Botswana Power Corporation,bpc.bw,30,43,41.9,18.6,2.3,0.0,0.0,18,m365,,false,2026-09-29
+BWA,State-owned telco / National backbone operator,Botswana Telecommunications Corporation,btc.bw,120,125,12.8,4.0,10.4,0.0,73.6,1,m365,,true,2026-09-29
+BWA,E-government agency,Government of Botswana portal,gov.bw,3,6,0.0,0.0,0.0,0.0,83.3,1,self,,false,2026-09-29
+BWA,National data centre / Government cloud operator,Botswana Fibre Networks (BoFiNet),bofinet.co.bw,40,56,3.6,0.0,30.4,10.7,41.1,4,m365,,true,2026-09-29
+BWA,Cybersecurity agency / National CERT,BW-CIRT,cirt.org.bw,11,26,34.6,0.0,34.6,0.0,0.0,6,m365,mimecast,false,2026-09-29
+BWA,Communications regulator,Botswana Communications Regulatory Authority,bocra.org.bw,56,56,44.6,0.0,1.8,0.0,0.0,26,m365,mimecast,false,2026-09-29
+BWA,Audit office,Office of the Auditor General,oag.org.bw,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29

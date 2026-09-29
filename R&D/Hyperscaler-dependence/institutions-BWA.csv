@@ -1,45 +1,45 @@
 type,institution,domain,email_domain,status,note
 Presidency,Office of the President,,,absent,shares gov.bw
-Parliament,National Assembly of Botswana,parliament.gov.bw,,confirmed 2026-09-29,
+Parliament,National Assembly of Botswana,parliament.gov.bw,,scanned 2026-09-29,
 Foreign Affairs,Ministry of International Affairs and Cooperation,,,absent,shares gov.bw
 Defence,Ministry of Defence and Security,,,absent,shares gov.bw
-Armed Forces,Botswana Defence Force,bdf.org.bw,,confirmed 2026-09-29,
-Police,Botswana Police Service,police.gov.bw,,confirmed 2026-09-29,
-Justice,Ministry of Justice,justice.gov.bw,,confirmed 2026-09-29,
+Armed Forces,Botswana Defence Force,bdf.org.bw,bdf.org.bw,scanned 2026-09-29,
+Police,Botswana Police Service,police.gov.bw,,scanned 2026-09-29,
+Justice,Ministry of Justice,justice.gov.bw,,scanned 2026-09-29,
 Justice,Judiciary of Botswana,,,absent,shares justice.gov.bw with Ministry of Justice
-Treasury / Finance,Ministry of Finance,finance.gov.bw,,confirmed 2026-09-29,
-Revenue Service,Botswana Unified Revenue Service,burs.org.bw,,confirmed 2026-09-29,
+Treasury / Finance,Ministry of Finance,finance.gov.bw,,scanned 2026-09-29,
+Revenue Service,Botswana Unified Revenue Service,burs.org.bw,burs.org.bw,scanned 2026-09-29,
 Customs,Botswana Unified Revenue Service Customs,,,absent,shares burs.org.bw with Revenue Service
 Intelligence,Directorate of Intelligence and Security,,,absent,no public domain
 Interior / Home Affairs,Ministry of Immigration and Citizenship,,,absent,shares gov.bw
-Central Bank,Bank of Botswana,bankofbotswana.bw,,confirmed 2026-09-29,
-Commercial Banks,First National Bank of Botswana,fnbbotswana.co.bw,,confirmed 2026-09-29,"Ranking source: Mmegi ""Banking's Big 4 maintain market dominance"" (mmegi.bw) and GBAF list of banks in Botswana; Big 4 are FNBB Absa Standard Chartered Stanbic; Standard Chartered Botswana runs on sc.com so left out; ranks beyond the four approximate"
-Commercial Banks,Absa Bank Botswana,absa.co.bw,,confirmed 2026-09-29,
-Commercial Banks,Stanbic Bank Botswana,stanbicbank.co.bw,,confirmed 2026-09-29,
-Commercial Banks,Bank Gaborone,bankgaborone.co.bw,,confirmed 2026-09-29,
-Commercial Banks,Bank BBS,bbs.co.bw,,confirmed 2026-09-29,
-Commercial Banks,Access Bank Botswana,botswana.accessbankplc.com,,confirmed 2026-09-29,
-Commercial Banks,First Capital Bank Botswana,firstcapitalbank.co.bw,,confirmed 2026-09-29,
-Commercial Banks,Bank of Baroda Botswana,bankofbaroda.co.bw,,confirmed 2026-09-29,
+Central Bank,Bank of Botswana,bankofbotswana.bw,,scanned 2026-09-29,
+Commercial Banks,First National Bank of Botswana,fnbbotswana.co.bw,fnbbotswana.co.bw,scanned 2026-09-29,"Ranking source: Mmegi ""Banking's Big 4 maintain market dominance"" (mmegi.bw) and GBAF list of banks in Botswana; Big 4 are FNBB Absa Standard Chartered Stanbic; Standard Chartered Botswana runs on sc.com so left out; ranks beyond the four approximate"
+Commercial Banks,Absa Bank Botswana,absa.co.bw,,scanned 2026-09-29,
+Commercial Banks,Stanbic Bank Botswana,stanbicbank.co.bw,,scanned 2026-09-29,
+Commercial Banks,Bank Gaborone,bankgaborone.co.bw,bankgaborone.co.bw,scanned 2026-09-29,
+Commercial Banks,Bank BBS,bbs.co.bw,bbs.co.bw,scanned 2026-09-29,
+Commercial Banks,Access Bank Botswana,botswana.accessbankplc.com,,scanned 2026-09-29,
+Commercial Banks,First Capital Bank Botswana,firstcapitalbank.co.bw,firstcapitalbank.co.bw,scanned 2026-09-29,
+Commercial Banks,Bank of Baroda Botswana,bankofbaroda.co.bw,,scanned 2026-09-29,
 Civil registry / National ID authority,Department of Civil and National Registration,,,absent,shares gov.bw
 Data protection authority,Information and Data Protection Commission,,,absent,no own website found (2024 Act; commission newly set up)
-Electoral commission,Independent Electoral Commission,iec.gov.bw,,confirmed 2026-09-29,
-Statistics office,Statistics Botswana,statsbots.org.bw,,confirmed 2026-09-29,
+Electoral commission,Independent Electoral Commission,iec.gov.bw,,scanned 2026-09-29,
+Statistics office,Statistics Botswana,statsbots.org.bw,statsbots.org.bw,scanned 2026-09-29,
 Immigration / Passports,Department of Immigration and Citizenship,,,absent,under Interior; no own domain found
-Health ministry / National health insurance,Ministry of Health,moh.gov.bw,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,moh.gov.bw,,scanned 2026-09-29,
 Social protection / Social registry,Ministry of Local Government and Rural Development,,,absent,no social registry domain found
 Land registry,Deeds Registry,,,absent,shares gov.bw
 National payment switch,Botswana National Payment Switch,,,absent,no domain found
-Stock exchange,Botswana Stock Exchange,bse.co.bw,,confirmed 2026-09-29,
-Securities regulator,Non-Bank Financial Institutions Regulatory Authority,nbfira.org.bw,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Botswana Public Officers Pension Fund,bpopf.co.bw,,confirmed 2026-09-29,
-Public procurement authority,Public Procurement Regulatory Authority (formerly PPADB),ppadb.co.bw,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Energy utility,Botswana Power Corporation,bpc.bw,,confirmed 2026-09-29,
+Stock exchange,Botswana Stock Exchange,bse.co.bw,bse.co.bw,scanned 2026-09-29,
+Securities regulator,Non-Bank Financial Institutions Regulatory Authority,nbfira.org.bw,nbfira.org.bw,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Botswana Public Officers Pension Fund,bpopf.co.bw,bpopf.co.bw,scanned 2026-09-29,
+Public procurement authority,Public Procurement Regulatory Authority (formerly PPADB),ppadb.co.bw,ppadb.co.bw,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Energy utility,Botswana Power Corporation,bpc.bw,bpc.bw,scanned 2026-09-29,
 Ports authority,,,,absent,landlocked; no ports authority
-State-owned telco / National backbone operator,Botswana Telecommunications Corporation,btc.bw,,confirmed 2026-09-29,
-E-government agency,Government of Botswana portal,gov.bw,,confirmed 2026-09-29,parent zone; scanned root-only
-National data centre / Government cloud operator,Botswana Fibre Networks (BoFiNet),bofinet.co.bw,,confirmed 2026-09-29,national backbone operator; no separate government data centre domain found
-Cybersecurity agency / National CERT,BW-CIRT,cirt.org.bw,,confirmed 2026-09-29,
-Communications regulator,Botswana Communications Regulatory Authority,bocra.org.bw,,confirmed 2026-09-29,
-Audit office,Office of the Auditor General,oag.org.bw,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+State-owned telco / National backbone operator,Botswana Telecommunications Corporation,btc.bw,btc.bw,scanned 2026-09-29,
+E-government agency,Government of Botswana portal,gov.bw,gov.bw,scanned 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,Botswana Fibre Networks (BoFiNet),bofinet.co.bw,bofinet.co.bw,scanned 2026-09-29,national backbone operator; no separate government data centre domain found
+Cybersecurity agency / National CERT,BW-CIRT,cirt.org.bw,cirt.org.bw,scanned 2026-09-29,
+Communications regulator,Botswana Communications Regulatory Authority,bocra.org.bw,bocra.org.bw,scanned 2026-09-29,
+Audit office,Office of the Auditor General,oag.org.bw,,dead,homepage did not load: ConnectionError
 Anti-corruption commission,Directorate on Corruption and Economic Crime,,,absent,shares gov.bw
