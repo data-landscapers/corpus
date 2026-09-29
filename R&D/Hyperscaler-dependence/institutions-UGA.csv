@@ -1,43 +1,43 @@
 type,institution,domain,email_domain,status,note
-Presidency,State House Uganda,statehouse.go.ug,,confirmed 2026-09-29,domain from memory
-Parliament,Parliament of Uganda,parliament.go.ug,,confirmed 2026-09-29,domain from memory
-Foreign Affairs,Ministry of Foreign Affairs,mofa.go.ug,,confirmed 2026-09-29,domain from memory
-Defence,Ministry of Defence and Veteran Affairs,defence.go.ug,,confirmed 2026-09-29,domain from search; also modva.go.ug
-Armed Forces,Uganda People's Defence Force,updf.go.ug,,confirmed 2026-09-29,domain from memory
-Police,Uganda Police Force,upf.go.ug,,confirmed 2026-09-29,domain from memory
-Justice,Ministry of Justice and Constitutional Affairs,justice.go.ug,,confirmed 2026-09-29,domain from memory
-Justice,Judiciary of Uganda,judiciary.go.ug,,confirmed 2026-09-29,courts portal; domain from memory
-Treasury / Finance,Ministry of Finance Planning and Economic Development,finance.go.ug,,confirmed 2026-09-29,domain from memory
-Revenue Service,Uganda Revenue Authority,ura.go.ug,,confirmed 2026-09-29,domain from memory
+Presidency,State House Uganda,statehouse.go.ug,statehouse.go.ug,scanned 2026-09-29,domain from memory
+Parliament,Parliament of Uganda,parliament.go.ug,parliament.go.ug,scanned 2026-09-29,domain from memory
+Foreign Affairs,Ministry of Foreign Affairs,mofa.go.ug,mofa.go.ug,scanned 2026-09-29,domain from memory
+Defence,Ministry of Defence and Veteran Affairs,defence.go.ug,defence.go.ug,scanned 2026-09-29,domain from search; also modva.go.ug
+Armed Forces,Uganda People's Defence Force,updf.go.ug,updf.go.ug,scanned 2026-09-29,domain from memory
+Police,Uganda Police Force,upf.go.ug,upf.go.ug,scanned 2026-09-29,domain from memory
+Justice,Ministry of Justice and Constitutional Affairs,justice.go.ug,justice.go.ug,scanned 2026-09-29,domain from memory
+Justice,Judiciary of Uganda,judiciary.go.ug,judiciary.go.ug,scanned 2026-09-29,courts portal; domain from memory
+Treasury / Finance,Ministry of Finance Planning and Economic Development,finance.go.ug,finance.go.ug,scanned 2026-09-29,domain from memory
+Revenue Service,Uganda Revenue Authority,ura.go.ug,ura.go.ug,scanned 2026-09-29,domain from memory
 Customs,Uganda Revenue Authority Customs,,,absent,shares ura.go.ug with Revenue Service
 Intelligence,Internal Security Organisation,,,absent,no public domain known
-Interior / Home Affairs,Ministry of Internal Affairs,mia.go.ug,,confirmed 2026-09-29,domain from memory
-Central Bank,Bank of Uganda,bou.or.ug,,confirmed 2026-09-29,domain from memory
-Commercial Banks,Stanbic Bank Uganda,stanbicbank.co.ug,,confirmed 2026-09-29,"ranking: Business Focus, Banking industry assets hit Shs53 trillion as top 10 banks control 81.24% of the market share, 2025 (2024 data), https://businessfocus.co.ug/exclusive-banking-industry-assets-hit-shs53-trillion-as-top-10-banks-control-81-24-of-the-market-share/ ; top ten also holds Equity (equitygroupholdings.com/ug), Standard Chartered, DTB (dtbu.dtbafrica.com), KCB: no own domain, on group sites, left out"
-Commercial Banks,Centenary Bank,centenarybank.co.ug,,confirmed 2026-09-29,domain from memory; top-ten rank per source
-Commercial Banks,dfcu Bank,dfcugroup.com,,confirmed 2026-09-29,domain from memory; top-ten rank per source
-Commercial Banks,Absa Bank Uganda,absa.co.ug,,confirmed 2026-09-29,domain from memory; top-ten rank per source
-Commercial Banks,Housing Finance Bank,housingfinance.co.ug,,confirmed 2026-09-29,domain from memory; top-ten rank per source
-Commercial Banks,Bank of Baroda Uganda,bankofbaroda.ug,,confirmed 2026-09-29,domain from memory; top-ten rank per source
-Civil registry / National ID authority,National Identification and Registration Authority,nira.go.ug,,confirmed 2026-09-29,domain from memory
-Data protection authority,Personal Data Protection Office,pdpo.go.ug,,confirmed 2026-09-29,domain from memory
-Electoral commission,Electoral Commission of Uganda,ec.or.ug,,confirmed 2026-09-29,domain from memory
-Statistics office,Uganda Bureau of Statistics,ubos.org,,confirmed 2026-09-29,domain from memory
-Immigration / Passports,Directorate of Citizenship and Immigration Control,immigration.go.ug,,confirmed 2026-09-29,domain from memory
-Health ministry / National health insurance,Ministry of Health,health.go.ug,,confirmed 2026-09-29,domain from memory
-Social protection / Social registry,Ministry of Gender Labour and Social Development,mglsd.go.ug,,confirmed 2026-09-29,domain from memory
-Land registry,Ministry of Lands Housing and Urban Development,mlhud.go.ug,,confirmed 2026-09-29,domain from memory
+Interior / Home Affairs,Ministry of Internal Affairs,mia.go.ug,mia.go.ug,scanned 2026-09-29,domain from memory
+Central Bank,Bank of Uganda,bou.or.ug,bou.or.ug,scanned 2026-09-29,domain from memory
+Commercial Banks,Stanbic Bank Uganda,stanbicbank.co.ug,,scanned 2026-09-29,"ranking: Business Focus, Banking industry assets hit Shs53 trillion as top 10 banks control 81.24% of the market share, 2025 (2024 data), https://businessfocus.co.ug/exclusive-banking-industry-assets-hit-shs53-trillion-as-top-10-banks-control-81-24-of-the-market-share/ ; top ten also holds Equity (equitygroupholdings.com/ug), Standard Chartered, DTB (dtbu.dtbafrica.com), KCB: no own domain, on group sites, left out"
+Commercial Banks,Centenary Bank,centenarybank.co.ug,centenarybank.co.ug,scanned 2026-09-29,domain from memory; top-ten rank per source
+Commercial Banks,dfcu Bank,dfcugroup.com,dfcugroup.com,scanned 2026-09-29,domain from memory; top-ten rank per source
+Commercial Banks,Absa Bank Uganda,absa.co.ug,,scanned 2026-09-29,domain from memory; top-ten rank per source
+Commercial Banks,Housing Finance Bank,housingfinance.co.ug,housingfinance.co.ug,scanned 2026-09-29,domain from memory; top-ten rank per source
+Commercial Banks,Bank of Baroda Uganda,bankofbaroda.ug,bankofbaroda.ug,scanned 2026-09-29,domain from memory; top-ten rank per source
+Civil registry / National ID authority,National Identification and Registration Authority,nira.go.ug,nira.go.ug,scanned 2026-09-29,domain from memory
+Data protection authority,Personal Data Protection Office,pdpo.go.ug,pdpo.go.ug,scanned 2026-09-29,domain from memory
+Electoral commission,Electoral Commission of Uganda,ec.or.ug,ec.or.ug,scanned 2026-09-29,domain from memory
+Statistics office,Uganda Bureau of Statistics,ubos.org,ubos.org,scanned 2026-09-29,domain from memory
+Immigration / Passports,Directorate of Citizenship and Immigration Control,immigration.go.ug,immigration.go.ug,scanned 2026-09-29,domain from memory
+Health ministry / National health insurance,Ministry of Health,health.go.ug,health.go.ug,scanned 2026-09-29,domain from memory
+Social protection / Social registry,Ministry of Gender Labour and Social Development,mglsd.go.ug,mglsd.go.ug,scanned 2026-09-29,domain from memory
+Land registry,Ministry of Lands Housing and Urban Development,mlhud.go.ug,mlhud.go.ug,scanned 2026-09-29,domain from memory
 National payment switch,,,,absent,no national payment switch in Uganda
-Stock exchange,Uganda Securities Exchange,use.or.ug,,confirmed 2026-09-29,domain from memory
-Securities regulator,Capital Markets Authority,cmauganda.co.ug,,confirmed 2026-09-29,domain from memory
-Sovereign wealth fund / National pension fund,National Social Security Fund,nssfug.org,,confirmed 2026-09-29,domain from memory
-Public procurement authority,Public Procurement and Disposal of Public Assets Authority,ppda.go.ug,,confirmed 2026-09-29,domain from memory
-Energy utility,Uganda Electricity Transmission Company,uetcl.go.ug,,confirmed 2026-09-29,domain from memory
+Stock exchange,Uganda Securities Exchange,use.or.ug,use.or.ug,scanned 2026-09-29,domain from memory
+Securities regulator,Capital Markets Authority,cmauganda.co.ug,cmauganda.co.ug,scanned 2026-09-29,domain from memory
+Sovereign wealth fund / National pension fund,National Social Security Fund,nssfug.org,nssfug.org,scanned 2026-09-29,domain from memory
+Public procurement authority,Public Procurement and Disposal of Public Assets Authority,ppda.go.ug,ppda.go.ug,scanned 2026-09-29,domain from memory
+Energy utility,Uganda Electricity Transmission Company,uetcl.go.ug,uetcl.go.ug,scanned 2026-09-29,domain from memory
 Ports authority,,,,absent,landlocked; no ports authority
 State-owned telco / National backbone operator,Uganda Telecom,,,absent,utl.co.ug now a gambling site; no verified domain
-E-government agency,National Information Technology Authority Uganda,nita.go.ug,,confirmed 2026-09-29,domain from memory
+E-government agency,National Information Technology Authority Uganda,nita.go.ug,nita.go.ug,scanned 2026-09-29,domain from memory
 National data centre / Government cloud operator,,,,absent,shares nita.go.ug with E-government agency
-Cybersecurity agency / National CERT,Uganda National CERT/CC,cert.ug,,confirmed 2026-09-29,domain from memory
-Communications regulator,Uganda Communications Commission,ucc.co.ug,,confirmed 2026-09-29,domain from memory
-Audit office,Office of the Auditor General,oag.go.ug,,confirmed 2026-09-29,domain from memory
-Anti-corruption commission,Inspectorate of Government,igg.go.ug,,confirmed 2026-09-29,domain from memory
+Cybersecurity agency / National CERT,Uganda National CERT/CC,cert.ug,cert.ug,scanned 2026-09-29,domain from memory
+Communications regulator,Uganda Communications Commission,ucc.co.ug,ucc.co.ug,scanned 2026-09-29,domain from memory
+Audit office,Office of the Auditor General,oag.go.ug,oag.go.ug,scanned 2026-09-29,domain from memory
+Anti-corruption commission,Inspectorate of Government,igg.go.ug,igg.go.ug,scanned 2026-09-29,domain from memory

@@ -3,7 +3,7 @@ seq,iso3,country,group,s01_seeds,s02_scan,s03_classify,s04_report,note
 2,KEN,Kenya,anglophone,2026-09-28,2026-09-28,,,pilot; report written before the classification pass — re-run 03 and refresh 04
 3,NGA,Nigeria,anglophone,2026-09-28,2026-09-28,,,pilot; report written before the classification pass — re-run 03 and refresh 04
 4,GHA,Ghana,anglophone,2026-09-29,,,,
-5,UGA,Uganda,anglophone,2026-09-29,,,,
+5,UGA,Uganda,anglophone,2026-09-29,2026-09-29,,,
 6,TZA,Tanzania,anglophone,2026-09-29,,,,
 7,RWA,Rwanda,anglophone,2026-09-29,,,,
 8,ETH,Ethiopia,anglophone,2026-09-29,,,,

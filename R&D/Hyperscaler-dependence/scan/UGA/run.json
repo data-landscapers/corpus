@@ -1,0 +1,435 @@
+{
+ "iso3": "UGA",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "statehouse.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofa.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 496,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defence.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "updf.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "upf.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 137,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.go.ug": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finance.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 72,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ura.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 32,
+   "dictionary_hits": 17,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mia.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 121,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bou.or.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 122,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stanbicbank.co.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 224,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "centenarybank.co.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dfcugroup.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absa.co.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 52,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "housingfinance.co.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankofbaroda.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nira.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pdpo.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ec.or.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ubos.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 48,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "immigration.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 48,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "health.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 177,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mglsd.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 143,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mlhud.go.ug": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "use.or.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cmauganda.co.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nssfug.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ppda.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 61,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "uetcl.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nita.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 196,
+   "dictionary_hits": 16,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cert.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ucc.co.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oag.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 39,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "igg.go.ug": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "327724": "National Information Technology Authority Uganda - National Information Technology Authority Uganda",
+  "21491": "Uganda-Telecom - IDDQD-AS",
+  "396986": "BYTEDANCE - Bytedance Inc.",
+  "20294": "MTN Uganda - MTN Uganda",
+  "328198": "Blue Crane Communications (U) Ltd - Blue Crane Communications (U) Ltd",
+  "29039": "ECHOTEL-UG - IDDQD-AS",
+  "749": "DNIC-AS-00749 - United States Department of Defense (DoD)",
+  "133296": "WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.",
+  "37063": "Roke Investments International Ltd - Roke Investments International Ltd",
+  "31727": "NODE4-AS Node4 Limited"
+ },
+ "rollup": {
+  "all": {
+   "routable": 2685,
+   "us_hyperscaler_share": 9.1,
+   "african_region_share": 1.7,
+   "us_saas_share": 4.2,
+   "cdn_share": 54.9,
+   "national_or_self_share": 8.6,
+   "unattributed": 497,
+   "by_category": {
+    "cdn-origin-unknown": 1474,
+    "unattributed": 497,
+    "us-saas": 114,
+    "us-hyperscaler-offshore": 198,
+    "commercial-host": 81,
+    "us-hyperscaler-africa": 45,
+    "unresolved": 9,
+    "telco-isp": 11,
+    "self-hosted": 230,
+    "african-colo": 26
+   },
+   "institutions": 36,
+   "names": 2491,
+   "m365": 13,
+   "google": 1,
+   "tangled_hybrid": 7,
+   "any_us_hyperscaler": 19
+  },
+  "government": {
+   "routable": 2313,
+   "us_hyperscaler_share": 6.1,
+   "african_region_share": 0.4,
+   "us_saas_share": 4.3,
+   "cdn_share": 55.0,
+   "national_or_self_share": 8.7,
+   "unattributed": 493,
+   "by_category": {
+    "cdn-origin-unknown": 1273,
+    "unattributed": 493,
+    "us-saas": 99,
+    "us-hyperscaler-offshore": 133,
+    "commercial-host": 77,
+    "us-hyperscaler-africa": 9,
+    "unresolved": 9,
+    "telco-isp": 2,
+    "self-hosted": 202,
+    "african-colo": 16
+   },
+   "institutions": 30,
+   "names": 2131,
+   "m365": 10,
+   "google": 1,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 15
+  },
+  "bank": {
+   "routable": 372,
+   "us_hyperscaler_share": 27.2,
+   "african_region_share": 9.7,
+   "us_saas_share": 4.0,
+   "cdn_share": 54.0,
+   "national_or_self_share": 7.5,
+   "unattributed": 4,
+   "by_category": {
+    "cdn-origin-unknown": 201,
+    "us-hyperscaler-africa": 36,
+    "us-hyperscaler-offshore": 65,
+    "us-saas": 15,
+    "african-colo": 10,
+    "self-hosted": 28,
+    "commercial-host": 4,
+    "telco-isp": 9,
+    "unattributed": 4
+   },
+   "institutions": 6,
+   "names": 360,
+   "m365": 3,
+   "google": 0,
+   "tangled_hybrid": 3,
+   "any_us_hyperscaler": 4
+  }
+ },
+ "findings": []
+}
