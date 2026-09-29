@@ -1,0 +1,48 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+MOZ,Presidency,Presidência da República de Moçambique,presidencia.gov.mz,4,11,0.0,0.0,0.0,0.0,9.1,9,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Parliament,Assembleia da República,parlamento.mz,32,21,0.0,0.0,0.0,0.0,0.0,7,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Foreign Affairs,Ministério dos Negócios Estrangeiros e Cooperação,minec.gov.mz,6,10,0.0,0.0,0.0,0.0,0.0,5,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Defence,Ministério da Defesa Nacional,mdn.gov.mz,5,11,0.0,0.0,0.0,0.0,0.0,11,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Armed Forces,Forças Armadas de Defesa de Moçambique,fadm.mil.mz,9,11,0.0,0.0,0.0,0.0,0.0,0,other:TVCabo,,false,2026-09-29
+MOZ,Justice,Ministério da Justiça Assuntos Constitucionais e Religiosos,mjcr.gov.mz,5,12,0.0,0.0,0.0,0.0,0.0,11,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Justice,Tribunal Supremo,ts.gov.mz,11,14,0.0,0.0,0.0,0.0,0.0,2,other:TVCabo,,false,2026-09-29
+MOZ,Treasury / Finance,Ministério da Economia e Finanças,mef.gov.mz,17,28,0.0,0.0,60.7,0.0,0.0,5,m365,,false,2026-09-29
+MOZ,Revenue Service,Autoridade Tributária de Moçambique,at.gov.mz,12,18,0.0,0.0,0.0,0.0,61.1,6,self,,false,2026-09-29
+MOZ,Interior / Home Affairs,Ministério do Interior,mint.gov.mz,7,8,0.0,0.0,0.0,0.0,0.0,5,other:TVCabo,,false,2026-09-29
+MOZ,Central Bank,Banco de Moçambique,bancomoc.mz,33,33,39.4,0.0,0.0,0.0,0.0,2,m365,,false,2026-09-29
+MOZ,Commercial Banks,BCI - Banco Comercial e de Investimentos,bci.co.mz,54,32,28.1,0.0,0.0,0.0,0.0,0,other:TVCabo,,false,2026-09-29
+MOZ,Commercial Banks,Millennium bim,millenniumbim.co.mz,73,46,0.0,0.0,0.0,0.0,0.0,46,m365,,false,2026-09-29
+MOZ,Commercial Banks,Standard Bank Moçambique,standardbank.co.mz,70,82,31.7,0.0,1.2,46.3,19.5,0,m365,,true,2026-09-29
+MOZ,Commercial Banks,Absa Bank Moçambique,absa.co.mz,10,19,21.1,0.0,0.0,5.3,5.3,0,none,,true,2026-09-29
+MOZ,Commercial Banks,Moza Banco,mozabanco.co.mz,32,15,0.0,0.0,0.0,0.0,73.3,0,self,,false,2026-09-29
+MOZ,Commercial Banks,FNB Moçambique,fnb.co.mz,22,36,25.0,0.0,38.9,5.6,30.6,0,m365,cisco-ironport,true,2026-09-29
+MOZ,Commercial Banks,Nedbank Moçambique,nedbank.co.mz,14,24,8.3,8.3,0.0,0.0,0.0,8,m365,,false,2026-09-29
+MOZ,Commercial Banks,First Capital Bank Moçambique,firstcapitalbank.co.mz,15,37,35.1,0.0,45.9,0.0,0.0,0,m365,,false,2026-09-29
+MOZ,Commercial Banks,Access Bank Moçambique,mozambique.accessbankplc.com,4,2,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+MOZ,Commercial Banks,Banco Nacional de Investimento,bni.co.mz,16,31,12.9,0.0,0.0,58.1,0.0,2,other:Paratus Telecommunications Limited - Paratus Telecommunications Limited|TVCabo|V,,false,2026-09-29
+MOZ,Civil registry / National ID authority,Direcção Nacional de Identificação Civil,dnic.gov.mz,2,11,0.0,0.0,0.0,0.0,0.0,11,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Civil registry / National ID authority,Direcção Nacional dos Registos e Notariado (registo civil),civil.registos.gov.mz,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MOZ,Electoral commission,Secretariado Técnico de Administração Eleitoral,stae.org.mz,24,25,0.0,0.0,0.0,8.0,0.0,3,other:TVCabo|Unified Layer (Bluehost),,false,2026-09-29
+MOZ,Statistics office,Instituto Nacional de Estatística,ine.gov.mz,8,9,0.0,0.0,0.0,0.0,0.0,0,other:TVCabo,,false,2026-09-29
+MOZ,Immigration / Passports,Serviço Nacional de Migração,senami.gov.mz,9,14,0.0,0.0,0.0,0.0,0.0,14,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Immigration / Passports,Serviço Nacional de Migração (eVisa),evisa.gov.mz,3,10,0.0,0.0,0.0,60.0,0.0,4,none,,false,2026-09-29
+MOZ,Health ministry / National health insurance,Ministério da Saúde,misau.gov.mz,10,17,0.0,0.0,0.0,0.0,0.0,11,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,Social protection / Social registry,Instituto Nacional de Acção Social,inas.gov.mz,6,12,0.0,0.0,0.0,0.0,0.0,12,other:INTIC (National Institute of ICT)|mail.inas.gov.mz,,false,2026-09-29
+MOZ,Land registry,Direcção Nacional de Terras e Desenvolvimento Territorial,dndt.gov.mz,30,24,0.0,0.0,0.0,0.0,0.0,24,other:ABARI COMMUNICATIONS MOZAMBIQUE LDA,,false,2026-09-29
+MOZ,National payment switch,Sociedade Interbancária de Moçambique (SIMO),simo.co.mz,8,9,0.0,0.0,0.0,0.0,11.1,0,other:TVCabo,,false,2026-09-29
+MOZ,Stock exchange,Bolsa de Valores de Moçambique,bvm.co.mz,22,31,25.8,0.0,41.9,0.0,0.0,8,m365,,false,2026-09-29
+MOZ,Sovereign wealth fund / National pension fund,Instituto Nacional de Segurança Social,inss.gov.mz,21,21,0.0,0.0,0.0,0.0,0.0,6,other:Vodacom Mozambique,,false,2026-09-29
+MOZ,Public procurement authority,Unidade Funcional de Supervisão das Aquisições,ufsa.gov.mz,6,11,0.0,0.0,0.0,0.0,0.0,0,other:TVCabo,,false,2026-09-29
+MOZ,Public procurement authority,Portal de Concursos Públicos,concursospublicos.gov.mz,14,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+MOZ,Energy utility,Electricidade de Moçambique,edm.co.mz,102,76,1.3,1.3,14.5,34.2,22.4,4,google,,true,2026-09-29
+MOZ,Ports authority,Portos e Caminhos de Ferro de Moçambique (CFM),cfm.co.mz,18,30,6.7,0.0,26.7,0.0,0.0,6,m365,broadcom-messagelabs,false,2026-09-29
+MOZ,Ports authority,Maputo Port Development Company,portmaputo.com,48,64,26.6,9.4,35.9,9.4,0.0,3,m365,,false,2026-09-29
+MOZ,State-owned telco / National backbone operator,Moçambique Telecom (Tmcel; absorbed TDM 2018),tmcel.mz,13,13,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
+MOZ,E-government agency,Instituto Nacional de Governo Electrónico,inage.gov.mz,68,60,0.0,0.0,0.0,0.0,0.0,59,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,E-government agency,Governo de Moçambique (parent zone),gov.mz,2,10,0.0,0.0,0.0,0.0,0.0,8,other:INTIC (National Institute of ICT),,false,2026-09-29
+MOZ,National data centre / Government cloud operator,Parque de Ciência e Tecnologia da Maluana (Centro de Dados de Maluana),enpct.org.mz,5,9,0.0,0.0,0.0,0.0,0.0,0,other:Vodacom Mozambique,,false,2026-09-29
+MOZ,Cybersecurity agency / National CERT,CSIRT Nacional,ncsirt.mz,11,14,0.0,0.0,0.0,0.0,0.0,14,other:Instituto Nacional das Comunicacoes de Mozambique,,false,2026-09-29
+MOZ,Cybersecurity agency / National CERT,Instituto Nacional de Tecnologias de Informação e Comunicação,intic.gov.mz,15,15,0.0,0.0,0.0,0.0,86.7,2,self,,false,2026-09-29
+MOZ,Communications regulator,Instituto Nacional das Comunicações de Moçambique,incm.gov.mz,47,55,1.8,0.0,23.6,0.0,61.8,2,m365,,true,2026-09-29
+MOZ,Audit office,Tribunal Administrativo,ta.gov.mz,10,11,0.0,0.0,0.0,0.0,0.0,11,"other:TMCEL - Moçambique Telecom, SA",,false,2026-09-29
+MOZ,Anti-corruption commission,Gabinete Central de Combate à Corrupção,pgr.gov.mz,15,18,0.0,0.0,0.0,0.0,0.0,13,other:INTIC (National Institute of ICT)|TVCabo,,false,2026-09-29

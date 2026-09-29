@@ -1,0 +1,540 @@
+{
+ "iso3": "MOZ",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidencia.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parlamento.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minec.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mdn.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fadm.mil.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mjcr.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ts.gov.mz": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mef.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "at.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mint.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bancomoc.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bci.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 48,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "millenniumbim.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 66,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "standardbank.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 67,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absa.co.mz": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mozabanco.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fnb.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nedbank.co.mz": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firstcapitalbank.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mozambique.accessbankplc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bni.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dnic.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "civil.registos.gov.mz": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "stae.org.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ine.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senami.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "evisa.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "misau.gov.mz": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inas.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dndt.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "simo.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bvm.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inss.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ufsa.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "concursospublicos.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "edm.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 93,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cfm.co.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "portmaputo.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tmcel.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inage.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 57,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.mz": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 24 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "enpct.org.mz": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ncsirt.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "intic.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "incm.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 39,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ta.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pgr.gov.mz": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37436": "INTIC (National Institute of ICT) - INTIC (National Institute of ICT)",
+  "37697": "WEBMASTERS, LDA. - WEBMASTERS, LDA.",
+  "31960": "Eduardo Mondlane University - Eduardo Mondlane University",
+  "37342": "Movitel, SA - Movitel, SA",
+  "30619": "TMCEL - Mo\u00e7ambique Telecom, SA - TMCEL - Mo\u00e7ambique Telecom, SA",
+  "53667": "PONYNET - FranTech Solutions",
+  "327951": "Instituto Nacional das Comunicacoes de Mozambique - Instituto Nacional das Comunicacoes de Mozambique",
+  "212238": "CDNEXT Datacamp Limited",
+  "36865": "Teledata Mozambique - Teledata Mozambique",
+  "328274": "BIM - Banco Internacional de Mocambique, SA - BIM - Banco Internacional de Mocambique, SA",
+  "42235": "IDC-AS INTRA DATA COMMUNICATION",
+  "37489": "ABARI COMMUNICATIONS MOZAMBIQUE LDA - ABARI COMMUNICATIONS MOZAMBIQUE LDA",
+  "37556": "Cilix Software - Cilix Software",
+  "60068": "CDN77 Datacamp Limited",
+  "24768": "ALMOUROLTEC ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",
+  "2914": "NTT-DATA-2914 - NTT America, Inc.",
+  "3582": "UONET - University of Oregon",
+  "328748": "Agile Solutions Provider (PTY) LTD - Agile Solutions Provider (PTY) LTD"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1071,
+   "us_hyperscaler_share": 10.2,
+   "african_region_share": 0.8,
+   "us_saas_share": 10.9,
+   "cdn_share": 9.4,
+   "national_or_self_share": 12.0,
+   "unattributed": 335,
+   "by_category": {
+    "telco-isp": 210,
+    "unattributed": 335,
+    "self-hosted": 129,
+    "commercial-host": 63,
+    "unresolved": 7,
+    "us-saas": 117,
+    "us-hyperscaler-offshore": 100,
+    "cdn-origin-unknown": 101,
+    "us-hyperscaler-africa": 9
+   },
+   "institutions": 47,
+   "names": 970,
+   "m365": 11,
+   "google": 1,
+   "tangled_hybrid": 5,
+   "any_us_hyperscaler": 13
+  },
+  "government": {
+   "routable": 747,
+   "us_hyperscaler_share": 5.6,
+   "african_region_share": 0.9,
+   "us_saas_share": 11.4,
+   "cdn_share": 5.4,
+   "national_or_self_share": 12.0,
+   "unattributed": 279,
+   "by_category": {
+    "telco-isp": 150,
+    "unattributed": 279,
+    "self-hosted": 90,
+    "commercial-host": 56,
+    "unresolved": 5,
+    "us-saas": 85,
+    "us-hyperscaler-offshore": 35,
+    "cdn-origin-unknown": 40,
+    "us-hyperscaler-africa": 7
+   },
+   "institutions": 37,
+   "names": 660,
+   "m365": 6,
+   "google": 1,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 6
+  },
+  "bank": {
+   "routable": 324,
+   "us_hyperscaler_share": 20.7,
+   "african_region_share": 0.6,
+   "us_saas_share": 9.9,
+   "cdn_share": 18.8,
+   "national_or_self_share": 12.0,
+   "unattributed": 56,
+   "by_category": {
+    "telco-isp": 60,
+    "us-hyperscaler-offshore": 65,
+    "commercial-host": 7,
+    "unattributed": 56,
+    "cdn-origin-unknown": 61,
+    "self-hosted": 39,
+    "us-saas": 32,
+    "unresolved": 2,
+    "us-hyperscaler-africa": 2
+   },
+   "institutions": 10,
+   "names": 310,
+   "m365": 5,
+   "google": 0,
+   "tangled_hybrid": 3,
+   "any_us_hyperscaler": 7
+  }
+ },
+ "findings": []
+}
