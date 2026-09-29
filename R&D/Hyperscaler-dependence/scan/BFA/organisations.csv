@@ -1,37 +1,37 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-BFA,Presidency,Présidence du Faso,presidencedufaso.bf,3,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
+BFA,Presidency,Présidence du Faso,presidencedufaso.bf,3,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 BFA,Parliament,Assemblée législative du peuple,assembleenationale.bf,16,6,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
 BFA,Foreign Affairs,Ministère des Affaires étrangères et de la Coopération régionale,mae.gov.bf,2,4,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-BFA,Defence,Ministère de la Guerre et de la Défense patriotique,defense.gov.bf,2,4,0.0,0.0,0.0,0.0,0.0,4,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Police,Police nationale du Burkina Faso,police.gov.bf,2,4,0.0,0.0,0.0,0.0,0.0,4,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Justice,Ministère de la Justice et des Droits humains,justice.gov.bf,19,21,0.0,0.0,0.0,0.0,38.1,13,self,,false,2026-09-29
+BFA,Defence,Ministère de la Guerre et de la Défense patriotique,defense.gov.bf,2,4,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
+BFA,Police,Police nationale du Burkina Faso,police.gov.bf,2,4,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
+BFA,Justice,Ministère de la Justice et des Droits humains,justice.gov.bf,19,21,0.0,0.0,0.0,0.0,38.1,0,self,,false,2026-09-29
 BFA,Treasury / Finance,Ministère de l'Économie et des Finances,finances.gov.bf,11,8,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-BFA,Revenue Service,Direction générale des impôts,dgi.bf,31,36,0.0,0.0,0.0,0.0,5.6,33,other:LWS-MNT,,false,2026-09-29
-BFA,Revenue Service,Direction générale des impôts (ancien portail),impots.gov.bf,7,7,0.0,0.0,0.0,0.0,0.0,7,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Revenue Service,Direction générale des impôts (portail eSINTAX),esintax.bf,17,30,10.0,0.0,0.0,0.0,23.3,19,other:Sancfis Faso SA - Sancfis Faso SA|smtp-2.esintax.bf,,true,2026-09-29
-BFA,Customs,Direction générale des douanes,douanes.bf,5,9,0.0,0.0,0.0,0.0,0.0,8,"other:ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National d",,false,2026-09-29
-BFA,Interior / Home Affairs,Ministère de l'Administration territoriale et de la Mobilité,matd.gov.bf,4,6,0.0,0.0,0.0,0.0,0.0,6,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,39,39,10.3,0.0,23.1,0.0,0.0,25,google,,false,2026-09-29
+BFA,Revenue Service,Direction générale des impôts,dgi.bf,31,36,0.0,0.0,0.0,0.0,5.6,0,other:LWS Groupe LWS SARL,,false,2026-09-29
+BFA,Revenue Service,Direction générale des impôts (ancien portail),impots.gov.bf,7,7,0.0,0.0,0.0,0.0,28.6,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
+BFA,Revenue Service,Direction générale des impôts (portail eSINTAX),esintax.bf,17,30,10.0,0.0,0.0,0.0,23.3,0,other:Sancfis Faso SA - Sancfis Faso SA|smtp-2.esintax.bf,,true,2026-09-29
+BFA,Customs,Direction générale des douanes,douanes.bf,5,9,0.0,0.0,0.0,0.0,0.0,0,"other:ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National d",,false,2026-09-29
+BFA,Interior / Home Affairs,Ministère de l'Administration territoriale et de la Mobilité,matd.gov.bf,4,6,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
+BFA,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,39,39,10.3,0.0,23.1,0.0,0.0,0,google,,false,2026-09-29
 BFA,Commercial Banks,Coris Bank International,burkina.coris.bank,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-BFA,Commercial Banks,Bank of Africa Burkina Faso,boaburkinafaso.com,16,42,59.5,0.0,7.1,0.0,0.0,3,m365,broadcom-messagelabs,false,2026-09-29
+BFA,Commercial Banks,Bank of Africa Burkina Faso,boaburkinafaso.com,16,42,59.5,0.0,7.1,0.0,0.0,0,m365,broadcom-messagelabs,false,2026-09-29
 BFA,Commercial Banks,Société Générale Burkina Faso,societegenerale.bf,13,13,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
 BFA,Commercial Banks,United Bank for Africa Burkina,ubaburkinafaso.com,4,11,18.2,0.0,0.0,45.5,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
-BFA,Civil registry / National ID authority,Office national d'identification,oni.bf,4,7,0.0,0.0,0.0,0.0,0.0,7,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
+BFA,Civil registry / National ID authority,Office national d'identification,oni.bf,4,7,0.0,0.0,0.0,0.0,57.1,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
 BFA,Data protection authority,Commission de l'informatique et des libertés,cil.bf,9,12,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
 BFA,Electoral commission,Commission électorale nationale indépendante,ceni.bf,4,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-BFA,Statistics office,Institut national de la statistique et de la démographie,insd.bf,45,42,0.0,0.0,0.0,0.0,0.0,42,other:Internet Puissance Plus Burkina SA - Internet Puissance Plus Burkina SA,,false,2026-09-29
-BFA,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.bf,147,133,0.8,0.0,0.0,0.0,0.0,132,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.bf,10,10,0.0,0.0,0.0,0.0,0.0,9,"other:ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National d",,false,2026-09-29
-BFA,National payment switch,GIM-UEMOA,gim-uemoa.org,9,24,0.0,0.0,54.2,0.0,0.0,11,m365,,false,2026-09-29
-BFA,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,32,28.1,0.0,37.5,0.0,0.0,9,m365,,false,2026-09-29
-BFA,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,1,m365,,false,2026-09-29
-BFA,Sovereign wealth fund / National pension fund,Caisse autonome de retraite des fonctionnaires,carfo.bf,15,26,0.0,0.0,0.0,0.0,0.0,21,other:OVH,,false,2026-09-29
-BFA,Public procurement authority,Autorité de régulation de la commande publique,arcop.bf,18,17,0.0,0.0,0.0,0.0,0.0,17,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Energy utility,Société nationale d'électricité du Burkina,sonabel.bf,30,24,0.0,0.0,4.2,0.0,79.2,4,m365,,false,2026-09-29
-BFA,State-owned telco / National backbone operator,Moov Africa Burkina Faso (ex-Onatel),moov-africa.bf,10,14,0.0,0.0,7.1,0.0,0.0,13,m365,,false,2026-09-29
+BFA,Statistics office,Institut national de la statistique et de la démographie,insd.bf,45,42,0.0,0.0,0.0,0.0,0.0,0,other:Internet Puissance Plus Burkina SA - Internet Puissance Plus Burkina SA,,false,2026-09-29
+BFA,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.bf,147,133,0.8,0.0,0.0,0.0,35.3,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,true,2026-09-29
+BFA,Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.bf,10,10,0.0,0.0,0.0,0.0,0.0,0,"other:ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National d",,false,2026-09-29
+BFA,National payment switch,GIM-UEMOA,gim-uemoa.org,9,24,0.0,0.0,54.2,0.0,0.0,0,m365,,false,2026-09-29
+BFA,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,32,28.1,0.0,37.5,0.0,0.0,0,m365,,false,2026-09-29
+BFA,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,0,m365,,false,2026-09-29
+BFA,Sovereign wealth fund / National pension fund,Caisse autonome de retraite des fonctionnaires,carfo.bf,15,26,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+BFA,Public procurement authority,Autorité de régulation de la commande publique,arcop.bf,18,17,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
+BFA,Energy utility,Société nationale d'électricité du Burkina,sonabel.bf,30,24,0.0,0.0,4.2,0.0,79.2,0,m365,,false,2026-09-29
+BFA,State-owned telco / National backbone operator,Moov Africa Burkina Faso (ex-Onatel),moov-africa.bf,10,14,0.0,0.0,7.1,0.0,0.0,0,m365,,false,2026-09-29
 BFA,E-government agency,Agence nationale de promotion des TIC,anptic.gov.bf,30,31,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
 BFA,E-government agency,Portail du gouvernement du Burkina Faso,gov.bf,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 BFA,Cybersecurity agency / National CERT,Agence nationale de sécurité des systèmes d'information,anssi.bf,4,4,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
-BFA,Communications regulator,Autorité de régulation des communications électroniques et des postes,arcep.bf,55,57,0.0,0.0,0.0,0.0,89.5,5,self,,false,2026-09-29
-BFA,Audit office,Cour des comptes,cour-comptes.gov.bf,2,4,0.0,0.0,0.0,0.0,0.0,4,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
-BFA,Anti-corruption commission,Autorité supérieure de contrôle d'État et de lutte contre la corruption,asce-lc.bf,3,7,0.0,0.0,0.0,0.0,0.0,7,other:Agence Nationale de Promotion des TIC (ANPTIC),,false,2026-09-29
+BFA,Communications regulator,Autorité de régulation des communications électroniques et des postes,arcep.bf,55,57,0.0,0.0,0.0,0.0,89.5,1,self,,false,2026-09-29
+BFA,Audit office,Cour des comptes,cour-comptes.gov.bf,2,4,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29
+BFA,Anti-corruption commission,Autorité supérieure de contrôle d'État et de lutte contre la corruption,asce-lc.bf,3,7,0.0,0.0,0.0,0.0,57.1,0,other:Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion d,,false,2026-09-29

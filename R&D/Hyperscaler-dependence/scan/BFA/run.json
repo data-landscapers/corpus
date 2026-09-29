@@ -337,18 +337,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "327871": "Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion des TIC (ANPTIC)",
-  "25543": "ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National des Telecommunications, PTT)",
-  "37008": "Sancfis Faso SA - Sancfis Faso SA",
-  "37577": "Orange Burkina Faso - Orange Burkina Faso",
-  "37073": "Internet Puissance Plus Burkina SA - Internet Puissance Plus Burkina SA",
-  "12876": "AS12876 Scaleway SAS",
-  "37734": "Virtual Technologies & Solutions - Virtual Technologies & Solutions",
-  "329744": "IKA SOLUTION LIMTED - IKA SOLUTION LIMTED",
-  "37721": "Virtual Technologies & Solutions - Virtual Technologies & Solutions",
-  "328721": "Groupe Netforce - Groupe Netforce"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 708,
@@ -356,22 +345,25 @@
    "african_region_share": 0.0,
    "us_saas_share": 7.3,
    "cdn_share": 1.0,
-   "national_or_self_share": 22.5,
-   "unattributed": 410,
+   "national_or_self_share": 35.5,
+   "unattributed": 1,
    "by_category": {
-    "unattributed": 410,
-    "commercial-host": 32,
+    "commercial-host": 55,
     "self-hosted": 159,
+    "national-dc": 92,
+    "telco-isp": 268,
     "unresolved": 4,
     "us-hyperscaler-offshore": 44,
     "us-saas": 52,
-    "cdn-origin-unknown": 7
+    "cdn-origin-unknown": 7,
+    "african-colo": 26,
+    "unattributed": 1
    },
    "institutions": 36,
    "names": 607,
    "m365": 6,
    "google": 1,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 2,
    "any_us_hyperscaler": 6
   },
   "government": {
@@ -380,22 +372,25 @@
    "african_region_share": 0.0,
    "us_saas_share": 7.7,
    "cdn_share": 0.3,
-   "national_or_self_share": 22.8,
-   "unattributed": 407,
+   "national_or_self_share": 37.2,
+   "unattributed": 1,
    "by_category": {
-    "unattributed": 407,
-    "commercial-host": 15,
+    "commercial-host": 38,
     "self-hosted": 146,
+    "national-dc": 92,
+    "telco-isp": 265,
     "unresolved": 4,
     "us-hyperscaler-offshore": 17,
     "us-saas": 49,
-    "cdn-origin-unknown": 2
+    "cdn-origin-unknown": 2,
+    "african-colo": 26,
+    "unattributed": 1
    },
    "institutions": 32,
    "names": 572,
    "m365": 5,
    "google": 1,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 2,
    "any_us_hyperscaler": 4
   },
   "bank": {
@@ -405,10 +400,10 @@
    "us_saas_share": 4.4,
    "cdn_share": 7.4,
    "national_or_self_share": 19.1,
-   "unattributed": 3,
+   "unattributed": 0,
    "by_category": {
     "commercial-host": 17,
-    "unattributed": 3,
+    "telco-isp": 3,
     "us-hyperscaler-offshore": 27,
     "us-saas": 3,
     "self-hosted": 13,
