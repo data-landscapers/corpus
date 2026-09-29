@@ -26,6 +26,9 @@ Judgements the runbook left open, taken here:
   with `region: global`, counted offshore, never as African. Oracle Cloud counts as a US hyperscaler,
   and `af-johannesburg-1` as an African region.
 - DMARC is read from `_dmarc.{domain}`, where it lives.
+- `--reattribute` re-reads the lookups over the scan in `nodes.csv` whatever its date, keeps that
+  date everywhere, and makes no network call: range files and RDAP answers come from the cache
+  as they stand, and an address the cache cannot answer stays `unattributed`.
 - Routable means an A, AAAA, MX or NS row that resolved. Shares are of routable rows, and
   `african_region_share` is `us-hyperscaler-africa` rows over routable, a subset of the US share.
 """
@@ -400,6 +403,7 @@ class Attributor:
         self.maps, self.saas = maps, saas
         self.asn = {r["asn"].strip(): r for r in read_csv(ASN_FILE)}
         self.new_asns: dict[str, str] = {}
+        self.offline = False  # --reattribute: answer from the cache alone, however old; never fetch
         self.rdap_nets: list[tuple[int, int, int, dict]] = []
         self.lock = threading.Lock()
         self.last_call = 0.0
@@ -429,11 +433,13 @@ class Attributor:
 
     def _cached(self, sub: str, key: str, url: str):
         p = CACHE / sub / (re.sub(r"[^0-9A-Za-z.]", "_", key) + ".json")
-        if fresh(p, CACHE_DAYS):
+        if fresh(p, CACHE_DAYS) or (self.offline and p.exists()):
             try:
                 return json.loads(p.read_text(encoding="utf-8"))
             except ValueError:  # half-written by a scan running beside this one; fetch it again
                 pass
+        if self.offline:
+            return None
         j = self._throttled_get(url)
         if j is not None:
             # Atomic swap: up to three country scans share this cache (HYPERSCALER-DRAIN.md step 02).
@@ -698,25 +704,33 @@ def main() -> int:
     fields = reader.fieldnames
     inst = list(reader)
 
-    say(f"Scanning {iso3}: {len(inst)} rows")
-    say("  refreshing range files")
-    fetched = refresh_ranges()
+    out = SCAN / iso3
+    run_p = out / "run.json"
+    prev = json.loads(run_p.read_text()) if run_p.exists() else {}
+    if args.reattribute:
+        # No network, and the scan's own date stands: a re-attribution is not a new scan (HYPERSCALER-DRAIN.md step 03).
+        say(f"Re-attributing {iso3} from the lookups")
+        fetched = {k: {"fetched": v} for k, v in prev.get("range_files", {}).items()}
+        scan_date = prev.get("scan_date", TODAY)
+    else:
+        say(f"Scanning {iso3}: {len(inst)} rows")
+        say("  refreshing range files")
+        fetched = refresh_ranges()
+        scan_date = TODAY
     maps = load_ranges()
     saas = load_saas()
     dictionary = [l.strip().lower() for l in DICT_FILE.read_text(encoding="utf-8").splitlines()
                   if l.strip() and not l.startswith("#")]
     att = Attributor(maps, saas)
+    att.offline = args.reattribute
 
-    out = SCAN / iso3
     out.mkdir(parents=True, exist_ok=True)
     nodes_p = out / "nodes.csv"
-    existing = [r for r in read_csv(nodes_p) if r["scan_date"] == TODAY] if nodes_p.exists() else []
+    existing = [r for r in read_csv(nodes_p) if r["scan_date"] == scan_date] if nodes_p.exists() else []
     done = {r["domain"] for r in existing}
     misses_p = CACHE / f"misses-{iso3}-{TODAY}.txt"
     misses = set(misses_p.read_text().split()) if misses_p.exists() else set()
-    run_p = out / "run.json"
-    prev = json.loads(run_p.read_text()) if run_p.exists() else {}
-    runinfo = prev.get("domains", {}) if prev.get("scan_date") == TODAY else {}
+    runinfo = prev.get("domains", {}) if prev.get("scan_date") == scan_date else {}
 
     # An `absent` row carries no domain: it records coverage, and there is nothing to scan.
     live = [r for r in inst if r["domain"].strip() and r["status"].strip().lower() != "dead"]
@@ -768,7 +782,7 @@ def main() -> int:
             "mail_provider": mp, "mail_security": ms,
             "tangled_hybrid": str(bool(cats & {"national-dc", "self-hosted"}) and
                                   bool(cats & {"us-hyperscaler-africa", "us-hyperscaler-offshore"})).lower(),
-            "scan_date": TODAY,
+            "scan_date": scan_date,
         })
     with open(out / "organisations.csv", "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, ORG_COLS, lineterminator="\n")
@@ -788,11 +802,12 @@ def main() -> int:
     for sec in ("government", "bank"):
         roll[sec] = rollup([r for r in all_rows if sector(r["type"]) == sec],
                            [o for o in orgs if sector(o["type"]) == sec])
-    run = {"iso3": iso3, "scan_date": TODAY,
+    run = {"iso3": iso3, "scan_date": scan_date,
            "range_files": {k: v.get("fetched") for k, v in fetched.items() if k != "fetched.json"},
-           "range_file_errors": {k: v["error"] for k, v in fetched.items() if v.get("error")},
+           "range_file_errors": prev.get("range_file_errors", {}) if args.reattribute else
+                                {k: v["error"] for k, v in fetched.items() if v.get("error")},
            "domains": runinfo, "new_asns": att.new_asns, "rollup": roll,
-           "findings": prev.get("findings", []) if prev.get("scan_date") == TODAY else []}
+           "findings": prev.get("findings", []) if prev.get("scan_date") == scan_date else []}
     run_p.write_text(json.dumps(run, indent=1))
 
     # Step 4: status and a blank email_domain back into the input file
@@ -801,7 +816,7 @@ def main() -> int:
         i = runinfo.get(d)
         if not i:
             continue
-        row["status"] = "dead" if i.get("dead") else f"scanned {TODAY}"
+        row["status"] = "dead" if i.get("dead") else f"scanned {scan_date}"
         if not row["email_domain"].strip() and i.get("has_mx"):
             row["email_domain"] = d
     import io
