@@ -6,7 +6,7 @@
 <title>Lesotho: status report — Data Landscapers</title>
 <meta name="description" content="Lesotho: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/LSO/LSO-status.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/LSO/LSO-status.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="63d7d33561ab">
+<meta name="dl-record" content="6f969e70213a">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/LSO/LSO-status.html"
   },
-  "datePublished": "2026-09-26",
-  "dateModified": "2026-09-26",
+  "datePublished": "2026-09-29",
+  "dateModified": "2026-09-29",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/LSO/LSO-status-2026-09-26.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/LSO/LSO-status-2026-09-29.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Lesotho%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/LSO/LSO-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Lesotho: status report</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-26">Edition of 2026-09-26 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/LSO/LSO-status-2026-09-26.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-29">Edition of 2026-09-29 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/LSO/LSO-status-2026-09-29.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -234,7 +278,7 @@
 
 <p>The largest external digital commitment actively disbursing in Lesotho is the <a href="https://d-portal.iatistandard.org/ctrack.html#view=act&amp;aid=46002-P-LS-GB0-003" target="_blank" rel="noopener">African Development Bank's eGovernment Infrastructure Phase II project</a>, a commercial loan of XDR 10,110,000 — about USD 14 million on a 2026 conversion — running from 2019 to 2026, and it is the one entry on the record that reaches government digital services directly.</p>
 <!-- derived -->
-<p>Two external digital commitments are captured for Lesotho, both active and both from multilateral lenders: an African Development Bank loan of about USD 14 million for eGovernment infrastructure from 2019, and a World Bank credit of about USD 12 million for public-sector foundations from 2024. No bilateral donor, export credit agency or development finance institution is recorded. The Kobong agreement with Convalt Energy, put at about USD 6.2 billion, is an investment envelope conditional on feasibility and financing, not committed money, and is not counted.</p>
+<p>Two external digital commitments are captured for Lesotho, both active and both from multilateral lenders: an African Development Bank loan of about USD 14 million for eGovernment infrastructure from 2019, and a World Bank credit of about USD 12 million for public-sector foundations from 2024. No bilateral donor, export credit agency or development finance institution is recorded. The Kobong agreement with Convalt Energy, <a href="https://techafricanews.com/2026/06/09/lesotho-unveils-mega-hydropower-and-ai-data-center-project-under-6-2-billion-agreement/" target="_blank" rel="noopener">put at about USD 6.2 billion in June 2026</a>, is an investment envelope conditional on feasibility and financing, not committed money, and is not counted.</p>
 <p>That leaves the money that has actually moved into Lesotho's digital economy coming from operators rather than financiers. <a href="https://itweb.africa/article/vodacom-lesotho-invests-40m-to-supercharge-connectivity/P3gQ2qGAJZZ7nRD1" target="_blank" rel="noopener">Vodacom Lesotho announced a phased network upgrade</a> in March 2026, applying AI across network operations, customer service and human resources, and <a href="https://techafricanews.com/2026/06/09/lesotho-unveils-mega-hydropower-and-ai-data-center-project-under-6-2-billion-agreement/" target="_blank" rel="noopener">the Kobong hydropower and AI data-centre scheme</a> remains a proposed project value rather than committed capital, with construction envisaged only from 2029.</p>
 <h2 id="ict-infrastructure">ICT Infrastructure</h2>
 <h3 id="connectivity">Connectivity</h3>
@@ -276,8 +320,8 @@
 <!-- dpi.exchange -->
 
 <p>Lesotho has <a href="https://50in5.net/wp-content/uploads/2024/12/Lesotho.pdf" target="_blank" rel="noopener">no operational whole-of-government interoperability platform</a>, and the layer meant to become one is still being built: the communications ministry is working with the National University of Lesotho and UNICEF to <a href="https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/" target="_blank" rel="noopener">stand up X-Road as the government's secure inter-agency exchange layer</a>, which was not yet operational in 2026. The design work is being done with the university's Department of Mathematics and Computer Science <a href="https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/" target="_blank" rel="noopener">rather than a commercial vendor</a>, with X-Road, the MOSIP identity platform and a decision-support system treated as one stack (February 2026).</p>
-<p>What carries government data in the meantime is a set of point-to-point arrangements around the national identity register, which <a href="https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf" target="_blank" rel="noopener">offered verification to a limited number of public and private bodies, among them banks, mobile network operators and insurers, and was used to check public servants, civil pensioners and social-programme beneficiaries, often through manual data sharing and with no interoperability framework in place</a> (December 2023). Some pairings work: company incorporation details lodged through the One-Stop Business Facilitation Centre are <a href="https://lndc.org.ls/knowledge-base/taxation/" target="_blank" rel="noopener">shared automatically with Revenue Services Lesotho</a>, which prints a taxpayer number on the certificate of incorporation itself (2025), and the revenue authority reported in March 2025 that it had <a href="https://www.rsl.org.ls/sites/default/files/2025-04/Media%20Briefing%20-%20Commissioner%20General%2031032025FINAL%20copy_0.pdf" target="_blank" rel="noopener">integrated with five institutions</a> to verify registration data and automate PAYE compliance, with two more at an advanced stage. Others do not exist: there is <a href="https://www.rsl.org.ls/sites/default/files/2024-08/Guide%20on%20Tax%20Registration%20%281%29.pdf" target="_blank" rel="noopener">no automated link between the revenue authority and the National Identity and Civil Registry</a> (2024), the electoral commission and Home Affairs have <a href="https://publiceyenews.com/2024/01/30/iec-to-partner-home-affairs-ministry-in-seamless-database-project/" target="_blank" rel="noopener">not established one between the voters' roll and the identity register</a> (2024), and the social registry's links to identity and birth registration <a href="https://documents1.worldbank.org/curated/en/312581624983186451/pdf/Lesotho-Social-Protection-Programs-and-Systems-Review-Policy-Brief.pdf" target="_blank" rel="noopener">were weak in 2021</a>.</p>
-<p>The framework meant to govern this is still in workshops: one opened in <a href="https://www.lena.gov.ls/infrastructure-central-to-digital-journey-ps/" target="_blank" rel="noopener">August 2025 to develop a Digital Public Infrastructure Framework</a>, and a UNICEF–government session on <a href="https://www.lena.gov.ls/unicef-government-host-dpi-workshop-to-advance-child-services/" target="_blank" rel="noopener">1 April 2026 called for interoperability across the identity, civil registration, education and health databases</a>. Across SADC, cross-border identity exchange runs on <a href="https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc" target="_blank" rel="noopener">bilateral deals between financial service providers and registries that an assessment for the Committee of Central Bank Governors calls unmanageable at scale</a>, with no shared consent framework and no harmonised eKYC standard (June 2026).</p>
+<p>What carries government data in the meantime is a set of point-to-point arrangements around the national identity register, which <a href="https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf" target="_blank" rel="noopener">offered verification to a limited number of public and private bodies, among them banks, mobile network operators and insurers, and was used to check public servants, civil pensioners and social-programme beneficiaries, often through manual data sharing and with no interoperability framework in place</a> (December 2023). Some pairings work: company incorporation details lodged through the One-Stop Business Facilitation Centre are <a href="https://lndc.org.ls/knowledge-base/taxation/" target="_blank" rel="noopener">shared automatically with Revenue Services Lesotho</a>, which prints a taxpayer number on the certificate of incorporation itself (2025), and the revenue authority reported in March 2025 that it had <a href="https://www.rsl.org.ls/sites/default/files/2025-04/Media%20Briefing%20-%20Commissioner%20General%2031032025FINAL%20copy_0.pdf" target="_blank" rel="noopener">integrated with five institutions</a> to verify registration data and automate PAYE compliance, with two more at an advanced stage. Others do not exist: there is <a href="https://www.rsl.org.ls/sites/default/files/2024-08/Guide%20on%20Tax%20Registration%20%281%29.pdf" target="_blank" rel="noopener">no automated link between the revenue authority and the National Identity and Civil Registry</a> (2024), the electoral commission and Home Affairs have <a href="https://publiceyenews.com/2024/01/30/iec-to-partner-home-affairs-ministry-in-seamless-database-project/" target="_blank" rel="noopener">not established one between the voters' roll and the identity register</a> (2024), and the social registry's links to identity and birth registration <a href="https://documents1.worldbank.org/curated/en/312581624983186451/pdf/Lesotho-Social-Protection-Programs-and-Systems-Review-Policy-Brief.pdf" target="_blank" rel="noopener">were weak in 2021</a>. At the border the exchange is newer and still unlegislated: <a href="https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/" target="_blank" rel="noopener">the National Single Window, launched in August 2026 under a World Bank-financed project and run by the revenue authority, operates without its own law, whose drafting has only begun</a> (September 2026).</p>
+<p>The framework meant to govern this is still in workshops: one opened in <a href="https://www.lena.gov.ls/infrastructure-central-to-digital-journey-ps/" target="_blank" rel="noopener">August 2025 to develop a Digital Public Infrastructure Framework</a>, and a UNICEF–government session on <a href="https://www.lena.gov.ls/unicef-government-host-dpi-workshop-to-advance-child-services/" target="_blank" rel="noopener">1 April 2026 called for interoperability across the identity, civil registration, education and health databases</a>. Across SADC, cross-border identity exchange runs on <a href="https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc" target="_blank" rel="noopener">bilateral deals between financial service providers and registries that an assessment for the Committee of Central Bank Governors calls unmanageable as their number grows</a>, with no shared consent framework and no harmonised eKYC standard (June 2026).</p>
 <h3 id="digital-identity-and-crvs">Digital Identity and CRVS</h3>
 <!-- dpi.id -->
 
@@ -289,7 +333,7 @@
 
 <p>Mobile money in Lesotho now distributes a regulated investment product: Vodacom Financial Services and STANLIB Lesotho <a href="https://www.linkedin.com/posts/vodacomlesotho_mpesa-tsetela-financialinclusion-activity-7485718047811489792-WV1A" target="_blank" rel="noopener">launched Tsetela through the M-Pesa wallet in Maseru on 22 July 2026</a>, taking individuals from M50 and group-savings customers from M300, <a href="https://lestimes.com/?p=91054" target="_blank" rel="noopener">with balances, daily interest and withdrawals run over USSD on *200#</a>. What separates it from the stokvel and Mokhatlo channels it is pitched against is <a href="https://lestimes.com/?p=91054" target="_blank" rel="noopener">regulatory rather than technical</a>: a licensed manager, segregated funds, an annual audit and an independent trustee. Vodacom's mobile money arm has itself been <a href="https://itweb.africa/article/vodacom-lesotho-invests-40m-to-supercharge-connectivity/P3gQ2qGAJZZ7nRD1" target="_blank" rel="noopener">split out of the telecoms operator into VCL Financial Services</a> (2026).</p>
 <p>The domestic rails underneath are being localised stream by stream. LeSwitch, the Central Bank's national payment switch, <a href="https://www.standardlesothobank.co.ls/lesotho/personal/About-us/press-releases/press-release-lesotho-national-payment-switch-leswitch" target="_blank" rel="noopener">piloted instant payments in October 2022, launched in March 2024, added ATM transactions in October 2024 and point-of-sale in May 2025</a>. On <a href="https://lestimes.com/?p=87043" target="_blank" rel="noopener">11 May 2025 the central bank and four commercial banks moved local card payments onto it</a>, so a card from any participating bank works on any participating terminal and the transaction clears inside the country, cutting fees paid for international clearing; Visa and Mastercard are kept for cross-border traffic, and wholesale cross-border settlement runs through <a href="https://resbank.co.za/en/home/what-we-do/payments-and-settlements/SADC-RTGS" target="_blank" rel="noopener">the SADC real-time gross settlement system</a> rather than any domestic retail rail.</p>
-<p>Government payments lag the private ones. A <a href="https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf" target="_blank" rel="noopener">government e-payment gateway was being developed under the African Development Bank's second e-government infrastructure project</a> (December 2023); the working business-to-government rail is the revenue authority's own <a href="https://www.gov.ls/uncategorized/rsl-launches-e-payment-e-taxation-platforms/" target="_blank" rel="noopener">platform launched on 14 March 2023</a>, extended by a <a href="https://www.rsl.org.ls/sites/default/files/2026-02/Press%20Statement%20RSL%20SLB%20Integration%20E%20payments%20Launch%20%281%29.pdf" target="_blank" rel="noopener">payment gateway with Standard Lesotho Bank on 10 February 2026</a> covering that one bank. Social assistance is <a href="https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025" target="_blank" rel="noopener">moving from cash delivered by cash-in-transit firms to mobile payments through selected network operators, with problems in the transition acknowledged</a> (January 2025), after the Child Grants Programme <a href="https://documents1.worldbank.org/curated/en/312581624983186451/pdf/Lesotho-Social-Protection-Programs-and-Systems-Review-Policy-Brief.pdf" target="_blank" rel="noopener">piloted M-Pesa and EcoCash payments, with evaluations putting cash delivery at 1.5 to 7 times the cost of mobile</a> (2021). <a href="https://finmark.org.za/Publications/FinScope_Lesotho_2021_FI_Report.pdf" target="_blank" rel="noopener">Two-thirds of adults held a mobile money account in 2021</a>. The Payment Systems Act 2014 still governs, its <a href="https://www.lena.gov.ls/finance-minister-presents-payment-system-bill/" target="_blank" rel="noopener">replacement a bill before Parliament</a>.</p>
+<p>Government payments lag the private ones. A <a href="https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf" target="_blank" rel="noopener">government e-payment gateway was being developed under the African Development Bank's second e-government infrastructure project</a> (December 2023); the working business-to-government rail is the revenue authority's own <a href="https://www.gov.ls/uncategorized/rsl-launches-e-payment-e-taxation-platforms/" target="_blank" rel="noopener">platform launched on 14 March 2023</a>, extended by a <a href="https://www.rsl.org.ls/sites/default/files/2026-02/Press%20Statement%20RSL%20SLB%20Integration%20E%20payments%20Launch%20%281%29.pdf" target="_blank" rel="noopener">payment gateway with Standard Lesotho Bank on 10 February 2026</a> covering that one bank. Social assistance is <a href="https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025" target="_blank" rel="noopener">moving from cash delivered by cash-in-transit firms to mobile payments through selected network operators, with problems in the transition acknowledged</a> (January 2025), after the Child Grants Programme <a href="https://documents1.worldbank.org/curated/en/312581624983186451/pdf/Lesotho-Social-Protection-Programs-and-Systems-Review-Policy-Brief.pdf" target="_blank" rel="noopener">piloted M-Pesa and EcoCash payments, with evaluations putting cash delivery at 1.5 to 7 times the cost of mobile</a> (2021). <a href="https://finmark.org.za/Publications/FinScope_Lesotho_2021_FI_Report.pdf" target="_blank" rel="noopener">Two-thirds of adults held a mobile money account in 2021</a>. The Payment Systems Act 2014 still governs, its <a href="https://www.lena.gov.ls/finance-minister-presents-payment-system-bill/" target="_blank" rel="noopener">replacement a bill before Parliament</a>. <a href="https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/" target="_blank" rel="noopener">In September 2026 the gateway was still being developed, now by the Central Bank of Lesotho for integration with the national single window</a>.</p>
 <h3 id="registries">Registries</h3>
 <!-- dpi.registry -->
 
@@ -378,7 +422,7 @@
 <!-- data.statistics -->
 
 <p>An independent peer review of the national statistical system by the African Union's statistics institute, on mission in August 2025, found <a href="https://statafric.au.int/sites/default/files/2025-12/ef_peerreview_lesotho_vf.pdf" target="_blank" rel="noopener">Lesotho's National Statistical Council non-operational</a> (December 2025). The <a href="http://www.bos.gov.ls/BOS_Act_2001.htm" target="_blank" rel="noopener">Bureau of Statistics Act 2001</a> remains the operative statistics law, and a <a href="https://statafric.au.int/sites/default/files/2025-12/ef_peerreview_lesotho_vf.pdf" target="_blank" rel="noopener">fourth Statistics Bill was in drafting</a> at the time of the review, three earlier attempts to replace the Act having not reached enactment (December 2025).</p>
-<p>Collection is the stronger half of the system. On the World Bank's Statistical Performance Indicators, <a href="https://www.worldbank.org/en/programs/statistical-performance-indicators" target="_blank" rel="noopener">a population census, an agricultural census and a business establishment census</a> all fell within the preceding ten years, and <a href="https://www.worldbank.org/en/programs/statistical-performance-indicators" target="_blank" rel="noopener">three or more household surveys and three or more agricultural surveys</a> were run over the same period, against two health surveys and one labour survey (2023). What that production does not reach is users: <a href="https://www.worldbank.org/en/programs/statistical-performance-indicators" target="_blank" rel="noopener">the weakest of the five pillars is data services</a>, scoring in the 20-49% band against 70-89% for data use and 50-69% for data products, sources and infrastructure (2023). Lesotho's <a href="https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf" target="_blank" rel="noopener">Capacity of the Statistical System score rose 5.0 points over 2014-2023 to 52.3 of 100</a>, 24th of 54 African states (2023).</p>
+<p>Collection is the stronger half of the system. On the World Bank's Statistical Performance Indicators, <a href="https://www.worldbank.org/en/programs/statistical-performance-indicators" target="_blank" rel="noopener">a population census, an agricultural census and a business establishment census</a> all fell within the preceding ten years, and <a href="https://www.worldbank.org/en/programs/statistical-performance-indicators" target="_blank" rel="noopener">three or more household surveys and three or more agricultural surveys</a> were run over the same period, against two health surveys and one labour survey (2023). What that production does not reach is users: <a href="https://www.worldbank.org/en/programs/statistical-performance-indicators" target="_blank" rel="noopener">the weakest of the five pillars is data services</a>, scoring in the 20-49% band against 70-89% for data use and 50-69% for data products, sources and infrastructure (2023). Lesotho's <a href="https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf" target="_blank" rel="noopener">Capacity of the Statistical System score rose 5.0 points over 2014-2023 to 52.3 of 100</a>, 24th of 54 African states (2023). <a href="https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/" target="_blank" rel="noopener">The seventh population census, with a reference night of 11 April 2026, had finished enumeration by September, with mop-up operations still running in Maseru</a>.</p>
 <p>Administrative sources are partly digital. <a href="https://openknowledge.worldbank.org/server/api/core/bitstreams/9ba0954b-f540-5038-9311-d1bd69f69cf6/content" target="_blank" rel="noopener">Civil registration and the national identity system are run by one department on a shared back-end database</a>, with a single lifetime identity number carried from birth certificate to death certificate, and <a href="https://openknowledge.worldbank.org/server/api/core/bitstreams/9ba0954b-f540-5038-9311-d1bd69f69cf6/content" target="_blank" rel="noopener">birth and death registration modules are connected to the National Identity Register</a>, though vital events are not yet comprehensively digitised nationwide (2021).</p>
 <h3 id="open-data">Open data</h3>
 <!-- data.open -->
@@ -428,8 +472,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-26</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/LSO/LSO-status-2026-09-26.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-29</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/LSO/LSO-status-2026-09-29.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Lesotho%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/LSO/LSO-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

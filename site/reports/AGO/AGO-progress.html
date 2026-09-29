@@ -6,7 +6,7 @@
 <title>Angola — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="A year in Angola, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/AGO/AGO-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/AGO/AGO-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="7ff05f1a0f1d">
+<meta name="dl-record" content="3a8cbb890d60">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/AGO/AGO-progress.html"
   },
-  "datePublished": "2026-09-27",
-  "dateModified": "2026-09-27",
+  "datePublished": "2026-09-29",
+  "dateModified": "2026-09-29",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/AGO/AGO-progress-2026-09-27.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/AGO/AGO-progress-2026-09-29.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Angola%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/AGO/AGO-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Angola: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-27">Edition of 2026-09-27 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/AGO/AGO-progress-2026-09-27.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-29">Edition of 2026-09-29 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/AGO/AGO-progress-2026-09-29.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -174,7 +218,7 @@
 
 <p>This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.</p>
 <p>Where a row reads <strong><em>No evidence</em></strong>, the repository holds nothing on that indicator. <strong>That is a statement about this repository, not about the country</strong> — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.</p>
-<p><em>The period is 2025-09-01 to 2026-09-27.</em></p>
+<p><em>The period is 2025-09-01 to 2026-09-29.</em></p>
 <p><strong>Progress values.</strong> <em>Movement</em> — some form of progress, however minor, has been recorded. <em>Stalled</em> — a stated target passed without delivery. <em>Regressed</em> — an instrument was withdrawn or neutralised, or a reported position worsened. <em>Mixed</em> — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. <em>No change</em> — the repository holds a standing position and nothing in the period touched it. <strong><em>No evidence</em></strong> — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in <em>Movement, regulations still pending</em>.</p>
 <h2 id="governance">Governance</h2>
 <table class="indicator">
@@ -286,7 +330,7 @@
 <tr>
 <td>Legislation and regulation</td>
 <td>Statistics legislation</td>
-<td>The <a href="https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-3-11-de-14-de-janeiro/" target="_blank" rel="noopener">2011 national statistical system law</a> governs, with the statistics institute's <a href="https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/" target="_blank" rel="noopener">organic statute renewed by decree in March 2026</a>. <details><summary>Full record</summary>The statute is settled: the <a href="https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-3-11-de-14-de-janeiro/" target="_blank" rel="noopener">law of the national statistical system</a>, whose accessibility principle is what the institute cites when undertaking to release census results and microdata. No amendment to it has been located.<br>What moved is the institution beneath it. The statistics institute received a <a href="https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/" target="_blank" rel="noopener">new organic statute by presidential decree in March 2026</a>, and a <a href="https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/" target="_blank" rel="noopener">statistics development strategy for 2026 to 2032 was announced in June</a>. Both sit under the 2011 law rather than replacing it, so the legislative position is unchanged while the machinery under it is not.</details></td>
+<td>The <a href="https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-3-11-de-14-de-janeiro/" target="_blank" rel="noopener">2011 national statistical system law</a> governs, with the statistics institute's <a href="https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/" target="_blank" rel="noopener">organic statute renewed by decree in March 2026</a>. <details><summary>Full record</summary>The statute is settled: the <a href="https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-3-11-de-14-de-janeiro/" target="_blank" rel="noopener">law of the national statistical system</a>, whose accessibility principle is what the institute cites when undertaking to release census results and microdata. No amendment to it has been located.<br>What moved is the institution beneath it. The statistics institute received a <a href="https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/" target="_blank" rel="noopener">new organic statute by presidential decree in March 2026</a>, and a <a href="https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/" target="_blank" rel="noopener">statistics development strategy for 2026 to 2032 was announced in June</a>. Both sit under the 2011 law rather than replacing it, so the legislative position is unchanged while the machinery under it is not.<br>2026-09-29 - the statistics institute <a href="https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/" target="_blank" rel="noopener">put a revision of the statistics law to public consultation until 2 October 2026</a>.</details></td>
 <td><span class="badge badge--grey">No change</span></td>
 </tr>
 <tr>
@@ -456,7 +500,7 @@
 <tr>
 <td>Connectivity</td>
 <td>Satellite broadband licensing and availability</td>
-<td>A low-orbit licence <a href="https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/" target="_blank" rel="noopener">reached a multi-year capacity agreement</a> and <a href="https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/" target="_blank" rel="noopener">a first reseller was licensed on the national satellite</a>, while <a href="https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html" target="_blank" rel="noopener">one application is unresolved</a>. <details><summary>Full record</summary>2025-01-20 — on the national satellite, the telecommunications minister named <a href="https://www.opais.ao/sociedade/angola-online-atinge-141-postos-de-acesso-a-internet-em-todo-o-pais/" target="_blank" rel="noopener">Projecto Conecta, built on AngoSat 2 connectivity and reaching populations of the interior</a>, giving it no site count, coverage target or budget of its own.<br>2026-06-12 — the country's <a href="https://techafricanews.com/2025/06/30/eutelsat-group-secures-15-year-license-to-operate-oneweb-leo-connectivity-in-angola/" target="_blank" rel="noopener">first and only licensed low-orbit operator, granted a 15-year licence in June 2025 with a Luanda ground station</a>, <a href="https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/" target="_blank" rel="noopener">moved from licence to commercial deployment through a multi-year capacity agreement with a local provider</a>.<br>2026-07-02 — on the national satellite, <a href="https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/" target="_blank" rel="noopener">a commercial access hub opened in December 2025 with 37 firms in the integration process by April 2026, and a first startup was licensed to resell access</a>. Bandwidth, pricing and operator access terms remain undisclosed.<br>2026-08-03 — the largest low-orbit operator <a href="https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html" target="_blank" rel="noopener">is still unlicensed, with a secretary of state saying only that the process is under way and the regulator still working out how to fit low-orbit operators into a regime written for terrestrial networks</a>. Sixteen months of identical status is the finding, the position being unchanged since <a href="https://pti.ao/minttics-assegura-que-negociacoes-com-a-starlink-continuam/" target="_blank" rel="noopener">the ministry said negotiations were continuing in April 2025</a>.</details></td>
+<td>A low-orbit licence <a href="https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/" target="_blank" rel="noopener">reached a multi-year capacity agreement</a> and <a href="https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/" target="_blank" rel="noopener">a first reseller was licensed on the national satellite</a>, while <a href="https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html" target="_blank" rel="noopener">one application is unresolved</a>. <details><summary>Full record</summary>2025-01-20 — on the national satellite, the telecommunications minister named <a href="https://www.opais.ao/sociedade/angola-online-atinge-141-postos-de-acesso-a-internet-em-todo-o-pais/" target="_blank" rel="noopener">Projecto Conecta, built on AngoSat 2 connectivity and reaching populations of the interior</a>, giving it no site count, coverage target or budget of its own.<br>2026-06-12 — the country's <a href="https://techafricanews.com/2025/06/30/eutelsat-group-secures-15-year-license-to-operate-oneweb-leo-connectivity-in-angola/" target="_blank" rel="noopener">first and only licensed low-orbit operator, granted a 15-year licence in June 2025 with a Luanda ground station</a>, <a href="https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/" target="_blank" rel="noopener">moved from licence to commercial deployment through a multi-year capacity agreement with a local provider</a>.<br>2026-07-02 — on the national satellite, <a href="https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/" target="_blank" rel="noopener">a commercial access hub opened in December 2025 with 37 firms in the integration process by April 2026, and a first startup was licensed to resell access</a>. Bandwidth, pricing and operator access terms remain undisclosed.<br>2026-08-03 — the largest low-orbit operator <a href="https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html" target="_blank" rel="noopener">is still unlicensed, with a secretary of state saying only that the process is under way and the regulator still working out how to fit low-orbit operators into a regime written for terrestrial networks</a>. Sixteen months of identical status is the finding, the position being unchanged since <a href="https://pti.ao/minttics-assegura-que-negociacoes-com-a-starlink-continuam/" target="_blank" rel="noopener">the ministry said negotiations were continuing in April 2025</a>.<br>2026-09-29 - <a href="https://techreviewafrica.com/news/7492/ggpen-anyconnect-partner-to-bolster-conecta-angola-connectivity-through-2africa" target="_blank" rel="noopener">Conecta Angola's hub traffic is now routed onward through the 2Africa landing station at Cacuaco</a>; no capacity figure is stated.</details></td>
 <td><span class="badge badge--green">Movement</span><span class="badge-note">one operator now commercially deployed while another application stands unresolved</span></td>
 </tr>
 <tr>
@@ -960,7 +1004,7 @@
 <tr>
 <td>National statistics</td>
 <td>National strategy for development of statistics</td>
-<td>A statistics development strategy for 2026 to 2032 <a href="https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/" target="_blank" rel="noopener">was announced as forthcoming, with a statistics-law revision to follow</a>. <details><summary>Full record</summary>2026-06-12 — <a href="https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/" target="_blank" rel="noopener">a new strategy for the 2026 to 2032 cycle was announced as forthcoming, widening the national statistical system, with a revision of the statistics law to follow</a>. None existed before it.<br>No source confirms that the council session, the law revision or the promised user survey took place, and no strategy document is held. What is on the record is an announcement of an approval that was to come, which is the weakest form of instrument this frame records.<br>The statistical machinery it would govern is producing: the 2024 census and its portal are reported under censuses and surveys, and the capacity loan behind them under development-partner financing.</details></td>
+<td>A statistics development strategy for 2026 to 2032 <a href="https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/" target="_blank" rel="noopener">was announced as forthcoming, with a statistics-law revision to follow</a>. <details><summary>Full record</summary>2026-06-12 — <a href="https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/" target="_blank" rel="noopener">a new strategy for the 2026 to 2032 cycle was announced as forthcoming, widening the national statistical system, with a revision of the statistics law to follow</a>. None existed before it.<br>No source confirms that the council session, the law revision or the promised user survey took place, and no strategy document is held. What is on the record is an announcement of an approval that was to come, which is the weakest form of instrument this frame records.<br>The statistical machinery it would govern is producing: the 2024 census and its portal are reported under censuses and surveys, and the capacity loan behind them under development-partner financing.<br>2026-09-29 - <a href="https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/" target="_blank" rel="noopener">the draft 2026-2032 statistics strategy went to public consultation until 2 October 2026</a>.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -1121,8 +1165,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-27</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/AGO/AGO-progress-2026-09-27.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-29</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/AGO/AGO-progress-2026-09-29.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Angola%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/AGO/AGO-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

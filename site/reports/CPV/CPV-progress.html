@@ -6,7 +6,7 @@
 <title>Cape Verde — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="A year in Cape Verde, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/CPV/CPV-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/CPV/CPV-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="c2e14e5f2719">
+<meta name="dl-record" content="52da07f1fb8d">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/CPV/CPV-progress.html"
   },
-  "datePublished": "2026-09-25",
-  "dateModified": "2026-09-25",
+  "datePublished": "2026-09-29",
+  "dateModified": "2026-09-29",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/CPV/CPV-progress-2026-09-25-2.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/CPV/CPV-progress-2026-09-29.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Cape%20Verde%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/CPV/CPV-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Cape Verde: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-25-2">Edition of 2026-09-25-2 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/CPV/CPV-progress-2026-09-25-2.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-29">Edition of 2026-09-29 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/CPV/CPV-progress-2026-09-29.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -174,7 +218,7 @@
 
 <p>This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.</p>
 <p>Where a row reads <strong><em>No evidence</em></strong>, the repository holds nothing on that indicator. <strong>That is a statement about this repository, not about the country</strong> — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.</p>
-<p><em>The period is 2025-09-01 to 2026-09-25.</em></p>
+<p><em>The period is 2025-09-01 to 2026-09-29.</em></p>
 <p><strong>Progress values.</strong> <em>Movement</em> — some form of progress, however minor, has been recorded. <em>Stalled</em> — a stated target passed without delivery. <em>Regressed</em> — an instrument was withdrawn or neutralised, or a reported position worsened. <em>Mixed</em> — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. <em>No change</em> — the repository holds a standing position and nothing in the period touched it. <strong><em>No evidence</em></strong> — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in <em>Movement, regulations still pending</em>.</p>
 <h2 id="governance">Governance</h2>
 <table class="indicator">
@@ -450,7 +494,7 @@
 <tr>
 <td>Connectivity</td>
 <td>Internet Exchange Points</td>
-<td>One exchange exists, <a href="https://www.pch.net/ixp/details/2324" target="_blank" rel="noopener">registered in Praia since 29 November 2022</a>, and the government <a href="https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf" target="_blank" rel="noopener">states it is operational and reduces cost and latency</a>. <details><summary>Full record</summary>The international exchange directory's <a href="https://www.pch.net/ixp/details/2324" target="_blank" rel="noopener">registry entry records the exchange in Praia, organisation type association, status active, media type Ethernet, established 29 November 2022, with IPv4 and IPv6 subnets assigned; its switch, facility and participant tables are empty</a>.<br>The government's own status booklet <a href="https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf" target="_blank" rel="noopener">states twice that the exchange is introduced and operational and that it reduces cost and latency</a>, without a date beyond the booklet's own. No traffic, member or peering figure is published on either side, so what the repository holds is that the exchange exists and not that it carries anything.</details></td>
+<td>One exchange exists, <a href="https://www.pch.net/ixp/details/2324" target="_blank" rel="noopener">registered in Praia since 29 November 2022</a>, and the government <a href="https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf" target="_blank" rel="noopener">states it is operational and reduces cost and latency</a>. <details><summary>Full record</summary>The international exchange directory's <a href="https://www.pch.net/ixp/details/2324" target="_blank" rel="noopener">registry entry records the exchange in Praia, organisation type association, status active, media type Ethernet, established 29 November 2022, with IPv4 and IPv6 subnets assigned; its switch, facility and participant tables are empty</a>.<br>The government's own status booklet <a href="https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf" target="_blank" rel="noopener">states twice that the exchange is introduced and operational and that it reduces cost and latency</a>, without a date beyond the booklet's own. No traffic, member or peering figure is published on either side, so what the repository holds is that the exchange exists and not that it carries anything.<br>2026-09-29 - the national operator <a href="https://www.de-cix.net/en/about-de-cix/media/press-releases/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor" target="_blank" rel="noopener">signed a non-binding letter of intent with a European exchange operator for a Lisbon-Sao Paulo corridor</a>, trading transport capacity for access to its exchanges.</details></td>
 <td><span class="badge badge--grey">No change</span><span class="badge-note">a standing position the repository holds for the first time</span></td>
 </tr>
 <tr>
@@ -1216,8 +1260,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-25-2</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/CPV/CPV-progress-2026-09-25-2.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-29</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/CPV/CPV-progress-2026-09-29.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Cape%20Verde%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/CPV/CPV-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>
