@@ -1,37 +1,37 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-GAB,Presidency,Présidence de la République gabonaise,presidence.ga,11,15,0.0,0.0,0.0,0.0,0.0,13,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Parliament,Parlement de la République gabonaise,parlement.ga,2,6,0.0,0.0,0.0,16.7,0.0,2,other:NETIM,,false,2026-09-29
-GAB,Parliament,Assemblée nationale,assemblee-nationale.ga,4,9,0.0,0.0,0.0,0.0,0.0,9,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Parliament,Sénat,senat.ga,4,9,0.0,0.0,0.0,0.0,0.0,9,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Foreign Affairs,Ministère des Affaires étrangères,affaires-etrangeres.gouv.ga,5,10,0.0,0.0,0.0,0.0,0.0,10,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Defence,Ministère de la Défense nationale,defense-nationale.gouv.ga,6,11,0.0,0.0,0.0,0.0,0.0,11,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Police,Forces de Police Nationale,fpn.ga,11,16,0.0,0.0,0.0,0.0,0.0,16,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Justice,Ministère de la Justice,justice.gouv.ga,7,12,0.0,0.0,0.0,0.0,0.0,12,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
+GAB,Presidency,Présidence de la République gabonaise,presidence.ga,11,15,0.0,0.0,13.3,0.0,73.3,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Parliament,Parlement de la République gabonaise,parlement.ga,2,6,0.0,0.0,0.0,16.7,0.0,0,other:ATE-AS Eurofiber France SAS,,false,2026-09-29
+GAB,Parliament,Assemblée nationale,assemblee-nationale.ga,4,9,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Parliament,Sénat,senat.ga,4,9,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Foreign Affairs,Ministère des Affaires étrangères,affaires-etrangeres.gouv.ga,5,10,0.0,0.0,0.0,0.0,90.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Defence,Ministère de la Défense nationale,defense-nationale.gouv.ga,6,11,0.0,0.0,0.0,0.0,90.9,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Police,Forces de Police Nationale,fpn.ga,11,16,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Justice,Ministère de la Justice,justice.gouv.ga,7,12,0.0,0.0,0.0,0.0,91.7,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
 GAB,Treasury / Finance,Ministère de l'Économie et des Participations,economie.gouv.ga,6,9,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-GAB,Treasury / Finance,Ministère de l'Économie; des Finances; de la Dette et des Participations (Budget),budget.gouv.ga,10,15,0.0,0.0,0.0,0.0,86.7,2,self,,false,2026-09-29
-GAB,Revenue Service,Direction Générale des Impôts,dgi.ga,20,24,0.0,0.0,0.0,0.0,0.0,24,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Customs,Direction Générale des Douanes et Droits Indirects,douanes.ga,8,12,0.0,0.0,0.0,0.0,83.3,2,self,,false,2026-09-29
-GAB,Interior / Home Affairs,"Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",interieur.gouv.ga,14,17,0.0,0.0,0.0,0.0,0.0,17,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Central Bank,Banque des États de l'Afrique Centrale,beac.int,27,25,36.0,0.0,0.0,0.0,0.0,16,other:CAMTEL - CAMTEL,,false,2026-09-29
+GAB,Treasury / Finance,Ministère de l'Économie; des Finances; de la Dette et des Participations (Budget),budget.gouv.ga,10,15,0.0,0.0,0.0,0.0,86.7,0,self,,false,2026-09-29
+GAB,Revenue Service,Direction Générale des Impôts,dgi.ga,20,24,0.0,0.0,0.0,0.0,50.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Customs,Direction Générale des Douanes et Droits Indirects,douanes.ga,8,12,0.0,0.0,0.0,0.0,83.3,0,self,,false,2026-09-29
+GAB,Interior / Home Affairs,"Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",interieur.gouv.ga,14,17,0.0,0.0,0.0,0.0,94.1,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Central Bank,Banque des États de l'Afrique Centrale,beac.int,27,25,36.0,0.0,0.0,0.0,0.0,0,other:CAMTEL - CAMTEL,,false,2026-09-29
 GAB,Commercial Banks,BGFIBank Gabon,bgfibankgabon.bgfi.com,2,4,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
-GAB,Commercial Banks,Union Gabonaise de Banque,ugb-banque.com,7,23,17.4,0.0,56.5,0.0,0.0,5,m365,,false,2026-09-29
+GAB,Commercial Banks,Union Gabonaise de Banque,ugb-banque.com,7,23,17.4,0.0,56.5,0.0,0.0,0,m365,,false,2026-09-29
 GAB,Commercial Banks,AFG Bank Gabon (ex-BICIG),afgbankgabon.com,3,9,0.0,0.0,22.2,0.0,0.0,0,m365,,false,2026-09-29
 GAB,Commercial Banks,United Bank for Africa Gabon,ubagabon.com,4,11,18.2,0.0,0.0,45.5,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
 GAB,Commercial Banks,Banque pour le Commerce et l'Entrepreneuriat du Gabon,bceg.ga,15,60,0.0,0.0,1.7,96.7,0.0,0,m365,,false,2026-09-29
-GAB,Statistics office,Direction Générale de la Statistique,statgabon.ga,6,12,0.0,0.0,0.0,0.0,0.0,11,other:AS8921-MNT|Agence Nationale des Infrastructures Numeriques et des Frequences (AN,,false,2026-09-29
-GAB,Statistics office,Direction Générale de la Statistique (INSTAT portal),instatgabon.org,23,17,23.5,0.0,0.0,23.5,0.0,7,other:cloudflare,,false,2026-09-29
-GAB,Immigration / Passports,Direction Générale de la Documentation et de l'Immigration,dgdi.ga,6,8,0.0,0.0,0.0,0.0,0.0,3,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Health ministry / National health insurance,Ministère de la Santé,sante.gouv.ga,17,22,0.0,0.0,0.0,0.0,0.0,22,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Health ministry / National health insurance,Caisse Nationale d'Assurance Maladie et de Garantie Sociale,cnamgs.ga,18,21,0.0,0.0,0.0,0.0,28.6,15,other:Gabon Telecom / Office of Posts and Telecommunications of Gabon - Gabon Telecom ,,false,2026-09-29
-GAB,Social protection / Social registry,Caisse Nationale de Sécurité Sociale,cnss.ga,26,36,41.7,0.0,36.1,0.0,0.0,7,m365,,false,2026-09-29
+GAB,Statistics office,Direction Générale de la Statistique,statgabon.ga,6,12,0.0,0.0,0.0,0.0,75.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Statistics office,Direction Générale de la Statistique (INSTAT portal),instatgabon.org,23,17,23.5,0.0,0.0,23.5,0.0,0,other:cloudflare,,false,2026-09-29
+GAB,Immigration / Passports,Direction Générale de la Documentation et de l'Immigration,dgdi.ga,6,8,0.0,0.0,0.0,0.0,37.5,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Health ministry / National health insurance,Ministère de la Santé,sante.gouv.ga,17,22,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Health ministry / National health insurance,Caisse Nationale d'Assurance Maladie et de Garantie Sociale,cnamgs.ga,18,21,0.0,0.0,0.0,0.0,28.6,0,other:Gabon Telecom / Office of Posts and Telecommunications of Gabon - Gabon Telecom ,,false,2026-09-29
+GAB,Social protection / Social registry,Caisse Nationale de Sécurité Sociale,cnss.ga,26,36,41.7,0.0,36.1,0.0,0.0,0,m365,,false,2026-09-29
 GAB,National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale,gimac-afr.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-GAB,Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale,bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,6,m365,,false,2026-09-29
-GAB,Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale,cosumaf.org,13,53,47.2,0.0,17.0,26.4,0.0,4,m365,,false,2026-09-29
-GAB,Sovereign wealth fund / National pension fund,Fonds Gabonais d'Investissements Stratégiques,fgis-gabon.com,18,33,0.0,0.0,39.4,15.2,0.0,4,m365,,false,2026-09-29
-GAB,Sovereign wealth fund / National pension fund,Caisse des Pensions et des Prestations Familiales des Agents de l'État,cppf.ga,7,21,0.0,0.0,61.9,0.0,23.8,3,m365,,false,2026-09-29
-GAB,Energy utility,Société d'Énergie et d'Eau du Gabon,seeg-gabon.com,14,37,27.0,0.0,45.9,0.0,0.0,9,m365,,false,2026-09-29
-GAB,Ports authority,Office des Ports et Rades du Gabon,oprag.ga,11,10,0.0,0.0,0.0,0.0,0.0,10,other:ALWAYSDATA|netutils-mnt,,false,2026-09-29
-GAB,State-owned telco / National backbone operator,Gabon Télécom,moov-africa.ga,9,10,0.0,0.0,10.0,0.0,0.0,9,m365,,false,2026-09-29
+GAB,Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale,bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,0,m365,,false,2026-09-29
+GAB,Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale,cosumaf.org,13,53,47.2,0.0,17.0,26.4,0.0,3,m365,,false,2026-09-29
+GAB,Sovereign wealth fund / National pension fund,Fonds Gabonais d'Investissements Stratégiques,fgis-gabon.com,18,33,0.0,0.0,39.4,15.2,0.0,0,m365,,false,2026-09-29
+GAB,Sovereign wealth fund / National pension fund,Caisse des Pensions et des Prestations Familiales des Agents de l'État,cppf.ga,7,21,0.0,0.0,61.9,0.0,23.8,0,m365,,false,2026-09-29
+GAB,Energy utility,Société d'Énergie et d'Eau du Gabon,seeg-gabon.com,14,37,27.0,0.0,45.9,0.0,0.0,0,m365,,false,2026-09-29
+GAB,Ports authority,Office des Ports et Rades du Gabon,oprag.ga,11,10,0.0,0.0,0.0,0.0,0.0,0,other:alwaysdata alwaysdata SARL,,false,2026-09-29
+GAB,State-owned telco / National backbone operator,Gabon Télécom,moov-africa.ga,9,10,0.0,0.0,10.0,0.0,0.0,0,m365,,false,2026-09-29
 GAB,E-government agency,Agence Nationale des Infrastructures Numériques et des Fréquences,aninf.ga,178,175,0.0,0.0,0.0,0.0,97.1,0,self,,false,2026-09-29
-GAB,E-government agency,Portail officiel du Gouvernement gabonais,gouv.ga,3,5,0.0,0.0,0.0,0.0,0.0,5,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,false,2026-09-29
-GAB,Communications regulator,Autorité de Régulation des Communications Électroniques et des Postes,arcep.ga,6,18,0.0,0.0,72.2,0.0,0.0,5,m365,,false,2026-09-29
+GAB,E-government agency,Portail officiel du Gouvernement gabonais,gouv.ga,3,5,0.0,0.0,0.0,0.0,100.0,0,other:Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agen,,false,2026-09-29
+GAB,Communications regulator,Autorité de Régulation des Communications Électroniques et des Postes,arcep.ga,6,18,0.0,0.0,72.2,0.0,0.0,0,m365,,false,2026-09-29
