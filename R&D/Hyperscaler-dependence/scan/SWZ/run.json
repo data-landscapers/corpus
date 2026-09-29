@@ -166,12 +166,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "19711": "SWAZILAND PTC - SWAZILAND PTC",
-  "327750": "JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD",
-  "37510": "Posix Swaziland - Posix Swaziland",
-  "32398": "Real Image Internet - Real Image Internet"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 544,
@@ -180,9 +175,9 @@
    "us_saas_share": 23.9,
    "cdn_share": 12.7,
    "national_or_self_share": 4.2,
-   "unattributed": 136,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 136,
+    "telco-isp": 171,
     "unresolved": 7,
     "self-hosted": 23,
     "us-hyperscaler-offshore": 99,
@@ -190,8 +185,7 @@
     "us-hyperscaler-africa": 5,
     "commercial-host": 25,
     "us-saas": 130,
-    "cdn-origin-unknown": 69,
-    "telco-isp": 35
+    "cdn-origin-unknown": 69
    },
    "institutions": 17,
    "names": 332,
@@ -207,9 +201,9 @@
    "us_saas_share": 29.5,
    "cdn_share": 2.7,
    "national_or_self_share": 3.2,
-   "unattributed": 120,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 120,
+    "telco-isp": 125,
     "unresolved": 6,
     "self-hosted": 12,
     "us-hyperscaler-offshore": 72,
@@ -217,7 +211,6 @@
     "us-hyperscaler-africa": 2,
     "commercial-host": 23,
     "us-saas": 111,
-    "telco-isp": 5,
     "cdn-origin-unknown": 10
    },
    "institutions": 13,
@@ -234,15 +227,14 @@
    "us_saas_share": 11.3,
    "cdn_share": 35.1,
    "national_or_self_share": 6.5,
-   "unattributed": 16,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 59,
     "us-saas": 19,
     "us-hyperscaler-offshore": 27,
     "self-hosted": 11,
-    "telco-isp": 30,
+    "telco-isp": 46,
     "us-hyperscaler-africa": 3,
-    "unattributed": 16,
     "unresolved": 1,
     "commercial-host": 2
    },

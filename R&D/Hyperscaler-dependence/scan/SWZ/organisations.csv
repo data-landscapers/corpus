@@ -1,18 +1,18 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-SWZ,Justice,Judiciary of Eswatini,judiciary.org.sz,4,7,0.0,0.0,0.0,0.0,0.0,6,other:SWAZILAND PTC - SWAZILAND PTC,,false,2026-09-29
-SWZ,Revenue Service,Eswatini Revenue Service,sra.org.sz,28,32,31.2,3.1,0.0,0.0,37.5,3,m365,mimecast,true,2026-09-29
-SWZ,Central Bank,Central Bank of Eswatini,centralbank.org.sz,67,56,16.1,0.0,23.2,0.0,0.0,30,m365,,false,2026-09-29
+SWZ,Justice,Judiciary of Eswatini,judiciary.org.sz,4,7,0.0,0.0,0.0,0.0,0.0,0,other:SWAZILAND PTC - SWAZILAND PTC,,false,2026-09-29
+SWZ,Revenue Service,Eswatini Revenue Service,sra.org.sz,28,32,31.2,3.1,0.0,0.0,37.5,0,m365,mimecast,true,2026-09-29
+SWZ,Central Bank,Central Bank of Eswatini,centralbank.org.sz,67,56,16.1,0.0,23.2,0.0,0.0,0,m365,,false,2026-09-29
 SWZ,Commercial Banks,Standard Bank Eswatini,standardbank.co.sz,34,100,20.0,0.0,17.0,58.0,5.0,0,m365,,true,2026-09-29
-SWZ,Commercial Banks,Nedbank Eswatini,nedbank.co.sz,22,40,25.0,7.5,2.5,0.0,2.5,2,m365,,true,2026-09-29
+SWZ,Commercial Banks,Nedbank Eswatini,nedbank.co.sz,22,40,25.0,7.5,2.5,0.0,2.5,0,m365,,true,2026-09-29
 SWZ,Commercial Banks,First National Bank Eswatini,fnbswaziland.co.sz,9,10,0.0,0.0,0.0,10.0,50.0,0,none,,false,2026-09-29
-SWZ,Commercial Banks,Eswatini Bank,swazibank.co.sz,19,18,0.0,0.0,5.6,0.0,0.0,14,m365,mimecast,false,2026-09-29
-SWZ,Electoral commission,Elections and Boundaries Commission,elections.org.sz,8,13,0.0,0.0,0.0,0.0,0.0,3,other:Hetzner,,false,2026-09-29
-SWZ,Stock exchange,Eswatini Stock Exchange,ese.co.sz,9,35,37.1,0.0,48.6,0.0,0.0,3,m365,,false,2026-09-29
-SWZ,Securities regulator,Financial Services Regulatory Authority,fsra.co.sz,19,40,35.0,2.5,42.5,0.0,0.0,7,m365,,false,2026-09-29
-SWZ,Sovereign wealth fund / National pension fund,Eswatini National Provident Fund,enpf.co.sz,19,38,23.7,0.0,44.7,0.0,0.0,3,m365,,false,2026-09-29
-SWZ,Sovereign wealth fund / National pension fund,Tibiyo Taka Ngwane,tibiyo.com,9,9,0.0,0.0,0.0,0.0,0.0,7,other:Real Image Internet - Real Image Internet,,false,2026-09-29
+SWZ,Commercial Banks,Eswatini Bank,swazibank.co.sz,19,18,0.0,0.0,5.6,0.0,0.0,0,m365,mimecast,false,2026-09-29
+SWZ,Electoral commission,Elections and Boundaries Commission,elections.org.sz,8,13,0.0,0.0,0.0,0.0,0.0,0,other:Hetzner,,false,2026-09-29
+SWZ,Stock exchange,Eswatini Stock Exchange,ese.co.sz,9,35,37.1,0.0,48.6,0.0,0.0,0,m365,,false,2026-09-29
+SWZ,Securities regulator,Financial Services Regulatory Authority,fsra.co.sz,19,40,35.0,2.5,42.5,0.0,0.0,0,m365,,false,2026-09-29
+SWZ,Sovereign wealth fund / National pension fund,Eswatini National Provident Fund,enpf.co.sz,19,38,23.7,0.0,44.7,0.0,0.0,0,m365,,false,2026-09-29
+SWZ,Sovereign wealth fund / National pension fund,Tibiyo Taka Ngwane,tibiyo.com,9,9,0.0,0.0,0.0,0.0,0.0,0,other:Real Image Internet - Real Image Internet,,false,2026-09-29
 SWZ,Public procurement authority,Eswatini Public Procurement Regulatory Agency,esppra.co.sz,5,32,28.1,0.0,40.6,31.2,0.0,0,m365,,false,2026-09-29
-SWZ,Energy utility,Eswatini Electricity Company,eec.co.sz,8,10,0.0,0.0,0.0,0.0,0.0,6,m365,barracuda,false,2026-09-29
-SWZ,State-owned telco / National backbone operator,Eswatini Posts and Telecommunications Corporation,eptc.co.sz,14,31,0.0,0.0,54.8,0.0,0.0,13,m365,,false,2026-09-29
-SWZ,E-government agency,Government of Eswatini portal,gov.sz,44,37,2.7,0.0,0.0,0.0,0.0,33,other:SWAZILAND PTC - SWAZILAND PTC,,false,2026-09-29
-SWZ,Communications regulator,Eswatini Communications Commission,esccom.org.sz,14,36,25.0,0.0,47.2,0.0,0.0,6,m365,,false,2026-09-29
+SWZ,Energy utility,Eswatini Electricity Company,eec.co.sz,8,10,0.0,0.0,0.0,0.0,0.0,0,m365,barracuda,false,2026-09-29
+SWZ,State-owned telco / National backbone operator,Eswatini Posts and Telecommunications Corporation,eptc.co.sz,14,31,0.0,0.0,54.8,0.0,0.0,0,m365,,false,2026-09-29
+SWZ,E-government agency,Government of Eswatini portal,gov.sz,44,37,2.7,0.0,0.0,0.0,0.0,0,other:SWAZILAND PTC - SWAZILAND PTC,,false,2026-09-29
+SWZ,Communications regulator,Eswatini Communications Commission,esccom.org.sz,14,36,25.0,0.0,47.2,0.0,0.0,0,m365,,false,2026-09-29
