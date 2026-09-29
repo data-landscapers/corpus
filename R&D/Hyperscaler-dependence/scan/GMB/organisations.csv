@@ -1,0 +1,31 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+GMB,Presidency,Office of the President,statehouse.gm,10,13,0.0,0.0,0.0,0.0,0.0,12,other:QCell Limited - QCell Limited,,false,2026-09-29
+GMB,Parliament,National Assembly of The Gambia,assembly.gm,18,13,84.6,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+GMB,Foreign Affairs,Ministry of Foreign Affairs,mofa.gov.gm,3,3,0.0,0.0,0.0,0.0,0.0,3,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Defence,Ministry of Defence,mod.gov.gm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Police,Gambia Police Force,police.gov.gm,2,5,0.0,0.0,0.0,0.0,0.0,5,other:Gamtel Co. - Gamtel Co.,,false,2026-09-29
+GMB,Justice,Ministry of Justice,moj.gov.gm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Justice,Judiciary of The Gambia,judiciary.gov.gm,3,3,0.0,0.0,0.0,0.0,0.0,3,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Treasury / Finance,Ministry of Finance and Economic Affairs,mofea.gov.gm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Revenue Service,Gambia Revenue Authority,gra.gm,17,40,45.0,0.0,42.5,0.0,0.0,5,m365,,false,2026-09-29
+GMB,Interior / Home Affairs,Ministry of Interior,moi.gov.gm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Central Bank,Central Bank of The Gambia,cbg.gm,8,18,16.7,0.0,72.2,0.0,0.0,2,m365,,false,2026-09-29
+GMB,Commercial Banks,Trust Bank Limited,trustbankgambia.com,10,16,0.0,0.0,0.0,25.0,0.0,8,other:Unified Layer (Bluehost),,false,2026-09-29
+GMB,Commercial Banks,Zenith Bank Gambia Limited,zenithbank.gm,32,24,12.5,0.0,4.2,12.5,4.2,15,m365,,true,2026-09-29
+GMB,Commercial Banks,Arab Gambian Islamic Bank,agib.gm,31,31,0.0,0.0,41.9,0.0,0.0,17,m365,,false,2026-09-29
+GMB,Commercial Banks,Banque Sahelo-Saharienne pour l'Investissement et le Commerce Gambia,bsicgambia.gm,20,36,41.7,0.0,25.0,11.1,0.0,4,m365,,false,2026-09-29
+GMB,Commercial Banks,Mega Bank Gambia Limited,megabankgambia.com,2,10,0.0,0.0,0.0,20.0,0.0,0,none,,false,2026-09-29
+GMB,Commercial Banks,Vista Bank (Gambia) Limited,vistabankgroup.com,18,51,62.7,0.0,33.3,0.0,0.0,0,m365,,false,2026-09-29
+GMB,Electoral commission,Independent Electoral Commission,iec.gm,15,58,0.0,0.0,8.6,86.2,0.0,0,google,,false,2026-09-29
+GMB,Statistics office,Gambia Bureau of Statistics,gbosdata.org,14,40,57.5,0.0,32.5,0.0,0.0,2,m365,,false,2026-09-29
+GMB,Immigration / Passports,Gambia Immigration Department,gid.gov.gm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,Health ministry / National health insurance,Ministry of Health,moh.gov.gm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:nl-spamexperts-1-mnt,,false,2026-09-29
+GMB,National payment switch,Gamswitch,gamswitch.com,45,59,13.6,0.0,28.8,3.4,0.0,32,m365,,false,2026-09-29
+GMB,Sovereign wealth fund / National pension fund,Social Security and Housing Finance Corporation,sshfc.gm,7,33,39.4,0.0,51.5,9.1,0.0,0,m365,,false,2026-09-29
+GMB,Public procurement authority,Gambia Public Procurement Authority,gppa.gm,16,20,90.0,0.0,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-29
+GMB,Energy utility,National Water and Electricity Company,nawec.gm,13,31,54.8,0.0,29.0,0.0,0.0,2,m365,,false,2026-09-29
+GMB,Ports authority,Gambia Ports Authority,gambiaports.gm,39,52,50.0,0.0,25.0,3.8,0.0,10,m365,,false,2026-09-29
+GMB,State-owned telco / National backbone operator,Gamtel,gamtel.gm,32,16,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
+GMB,E-government agency,Ministry of Information and Communication Infrastructure,gov.gm,2,4,0.0,0.0,0.0,0.0,0.0,4,other:Gamtel Co. - Gamtel Co.,,false,2026-09-29
+GMB,Communications regulator,Public Utilities Regulatory Authority,pura.gm,29,43,0.0,0.0,2.3,79.1,0.0,0,m365,,false,2026-09-29
+GMB,Audit office,National Audit Office,nao.gm,3,6,0.0,0.0,0.0,0.0,0.0,6,"other:Newfold Digital, Inc.",,false,2026-09-29
