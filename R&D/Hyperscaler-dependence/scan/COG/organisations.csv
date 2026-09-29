@@ -1,0 +1,32 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+COG,Presidency,Présidence de la République,presidence.cg,15,27,0.0,0.0,0.0,0.0,0.0,27,other:LWS-MNT,,false,2026-09-29
+COG,Parliament,Assemblée nationale,assemblee-nationale.cg,8,10,0.0,0.0,0.0,0.0,0.0,10,other:ARPCE,,false,2026-09-29
+COG,Parliament,Sénat,senat.cg,12,16,0.0,0.0,0.0,0.0,0.0,12,other:VEONE,,false,2026-09-29
+COG,Foreign Affairs,Ministère des Affaires étrangères de la Francophonie et des Congolais de l'étranger,diplobrazza.net,5,11,0.0,0.0,0.0,0.0,0.0,9,other:MNT-INSA,,false,2026-09-29
+COG,Justice,Ministère de la Justice des Droits humains et de la Promotion des peuples autochtones,justice.gouv.cg,14,29,0.0,0.0,0.0,0.0,0.0,29,other:LWS-MNT,,false,2026-09-29
+COG,Treasury / Finance,Ministère des Finances du Budget et du Portefeuille public,finances.gouv.cg,35,22,0.0,0.0,0.0,0.0,0.0,22,other:MTN CONGO - MTN CONGO,,false,2026-09-29
+COG,Revenue Service,Direction générale des impôts et des domaines,impots.gouv.cg,4,8,0.0,0.0,0.0,0.0,0.0,8,m365,,false,2026-09-29
+COG,Interior / Home Affairs,Ministère de l'Intérieur de la Décentralisation et du Développement local,interieur.gouv.cg,18,30,0.0,0.0,0.0,0.0,0.0,30,other:LWS-MNT,,false,2026-09-29
+COG,Central Bank,Banque des États de l'Afrique centrale,beac.int,27,27,33.3,0.0,0.0,0.0,0.0,17,other:CAMTEL - CAMTEL,,false,2026-09-29
+COG,Commercial Banks,BGFIBank Congo (incl. ex-Société Générale Congo),congo.groupebgfibank.com,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+COG,Commercial Banks,Bank of Africa Congo (ex La Congolaise de Banque),lcb-bank.com,4,6,0.0,0.0,0.0,0.0,0.0,4,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+COG,Commercial Banks,Crédit du Congo,creditducongo.com,12,25,0.0,0.0,52.0,24.0,0.0,6,m365,,false,2026-09-29
+COG,Commercial Banks,Banque commerciale internationale,bcicongo.com,23,29,0.0,0.0,0.0,13.8,0.0,23,other:MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon),,false,2026-09-29
+COG,Commercial Banks,Banque postale du Congo,banquepostale.cg,14,26,96.2,0.0,0.0,3.8,0.0,0,other:aws,,false,2026-09-29
+COG,Commercial Banks,United Bank for Africa Congo,ubacongobrazzaville.com,3,7,0.0,0.0,0.0,71.4,0.0,0,none,,false,2026-09-29
+COG,Statistics office,Institut national de la statistique,ins-congo.cg,14,19,21.1,0.0,0.0,0.0,0.0,0,other:A2 Hosting,,false,2026-09-29
+COG,Health ministry / National health insurance,Ministère de la Santé et de la Population,sante.gouv.cg,84,98,4.1,0.0,0.0,2.0,0.0,79,other:LWS-MNT,,false,2026-09-29
+COG,National payment switch,GIMAC,gimac-afr.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+COG,Stock exchange,Bourse des valeurs mobilières de l'Afrique centrale,bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,6,m365,,false,2026-09-29
+COG,Securities regulator,Commission de surveillance du marché financier de l'Afrique centrale,cosumaf.org,13,57,43.9,0.0,22.8,24.6,0.0,4,m365,,false,2026-09-29
+COG,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.cg,9,17,0.0,0.0,0.0,0.0,0.0,17,other:ANTISPAMEUROPE-MNT,,false,2026-09-29
+COG,Public procurement authority,Autorité de régulation des marchés publics,armp.cg,19,36,0.0,0.0,0.0,0.0,0.0,36,other:LWS-MNT,,false,2026-09-29
+COG,Energy utility,Énergie électrique du Congo,e2c.cg,25,34,0.0,0.0,0.0,0.0,0.0,34,other:LWS-MNT,,false,2026-09-29
+COG,Ports authority,Port autonome de Pointe-Noire,papn-cg.org,12,35,0.0,0.0,37.1,0.0,0.0,22,m365,,false,2026-09-29
+COG,State-owned telco / National backbone operator,Congo Télécom,congotelecom.cg,71,55,0.0,0.0,0.0,0.0,47.3,4,other:OVH,,false,2026-09-29
+COG,E-government agency,Agence de développement de l'économie numérique,aden.cg,56,51,0.0,0.0,0.0,0.0,0.0,51,other:LWS-MNT,,false,2026-09-29
+COG,E-government agency,Gouvernement de la République du Congo (zone parente),gouv.cg,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+COG,National data centre / Government cloud operator,Ministère des Postes des Télécommunications et de l'Économie numérique (Data Center National),numerique.gouv.cg,3,8,12.5,0.0,0.0,0.0,0.0,3,google,,false,2026-09-29
+COG,Cybersecurity agency / National CERT,Agence nationale de sécurité des systèmes d'information,anssi.cg,14,26,0.0,0.0,0.0,0.0,0.0,4,other:Hetzner,,false,2026-09-29
+COG,Communications regulator,Agence de régulation des postes et des communications électroniques,arpce.cg,23,23,21.7,0.0,0.0,0.0,30.4,4,self,,true,2026-09-29
+COG,Audit office,Cour des comptes et de discipline budgétaire,courdescomptes.cg,7,14,0.0,0.0,35.7,0.0,0.0,0,google,,false,2026-09-29

@@ -1,0 +1,380 @@
+{
+ "iso3": "COG",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assemblee-nationale.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senat.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplobrazza.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gouv.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "impots.gouv.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gouv.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "beac.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "congo.groupebgfibank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "lcb-bank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "creditducongo.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcicongo.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "banquepostale.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ubacongobrazzaville.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "ins-congo.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 78,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gimac-afr.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bvm-ac.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cosumaf.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.cg": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "e2c.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "papn-cg.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "congotelecom.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 60,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "aden.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 51,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.cg": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 6 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "numerique.gouv.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anssi.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arpce.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.cg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "328329": "ARPCE - ARPCE",
+  "140631": "GDMSCL-AS-AP - Global Digital Management Solutions Co Ltd",
+  "37451": "CONGO TELECOM - CONGO TELECOM",
+  "37463": "MTN CONGO - MTN CONGO",
+  "12574": "ROUTING Hosting.de GmbH",
+  "48823": "AS48823 Hosting.de GmbH",
+  "41637": "ROUTING-ANYCAST Hosting.de GmbH",
+  "31400": "ACCELERATED-IT firstcolo GmbH",
+  "62597": "NSONE - NSONE Inc",
+  "37548": "ARPCE - ARPCE"
+ },
+ "rollup": {
+  "all": {
+   "routable": 761,
+   "us_hyperscaler_share": 9.6,
+   "african_region_share": 0.0,
+   "us_saas_share": 5.9,
+   "cdn_share": 4.2,
+   "national_or_self_share": 4.3,
+   "unattributed": 463,
+   "by_category": {
+    "unattributed": 463,
+    "commercial-host": 114,
+    "us-hyperscaler-offshore": 73,
+    "us-saas": 45,
+    "cdn-origin-unknown": 32,
+    "self-hosted": 33,
+    "unresolved": 1
+   },
+   "institutions": 31,
+   "names": 552,
+   "m365": 5,
+   "google": 2,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 7
+  },
+  "government": {
+   "routable": 668,
+   "us_hyperscaler_share": 7.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 4.8,
+   "cdn_share": 2.4,
+   "national_or_self_share": 4.9,
+   "unattributed": 430,
+   "by_category": {
+    "unattributed": 430,
+    "commercial-host": 108,
+    "us-hyperscaler-offshore": 48,
+    "cdn-origin-unknown": 16,
+    "us-saas": 32,
+    "self-hosted": 33,
+    "unresolved": 1
+   },
+   "institutions": 25,
+   "names": 494,
+   "m365": 4,
+   "google": 2,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 6
+  },
+  "bank": {
+   "routable": 93,
+   "us_hyperscaler_share": 26.9,
+   "african_region_share": 0.0,
+   "us_saas_share": 14.0,
+   "cdn_share": 17.2,
+   "national_or_self_share": 0.0,
+   "unattributed": 33,
+   "by_category": {
+    "commercial-host": 6,
+    "unattributed": 33,
+    "us-saas": 13,
+    "cdn-origin-unknown": 16,
+    "us-hyperscaler-offshore": 25
+   },
+   "institutions": 6,
+   "names": 58,
+   "m365": 1,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 1
+  }
+ },
+ "findings": []
+}
