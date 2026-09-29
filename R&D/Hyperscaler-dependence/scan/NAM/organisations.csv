@@ -1,0 +1,35 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+NAM,Presidency,Office of the President,op.gov.na,9,7,0.0,0.0,0.0,0.0,0.0,6,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Parliament,National Assembly of Namibia,parliament.na,10,12,0.0,0.0,0.0,0.0,0.0,12,"other:MTC - Mobile Telecommunications, Ltd. - MTC - Mobile Telecommunications, Ltd.",,false,2026-09-29
+NAM,Foreign Affairs,Ministry of International Relations and Cooperation,mirco.gov.na,79,87,0.0,0.0,0.0,0.0,0.0,84,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Defence,Ministry of Defence and Veterans Affairs,mod.gov.na,4,7,0.0,0.0,0.0,0.0,0.0,6,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Police,Namibian Police Force,nampol.gov.na,7,9,0.0,0.0,0.0,0.0,0.0,8,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Justice,Ministry of Justice,moj.gov.na,9,7,0.0,0.0,0.0,0.0,0.0,6,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Justice,Judiciary of Namibia,ejustice.moj.na,2,0,0.0,0.0,0.0,0.0,0.0,0,other:smtp.ejustice.moj.na,,false,2026-09-29
+NAM,Treasury / Finance,Ministry of Finance and Public Enterprises,mof.gov.na,8,6,0.0,0.0,0.0,0.0,0.0,6,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Revenue Service,Namibia Revenue Agency,namra.org.na,31,34,32.4,5.9,38.2,0.0,0.0,10,m365,,false,2026-09-29
+NAM,Interior / Home Affairs,"Ministry of Home Affairs, Immigration, Safety and Security",mhaiss.gov.na,3,6,0.0,0.0,0.0,0.0,0.0,5,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Central Bank,Bank of Namibia,bon.com.na,36,50,50.0,0.0,30.0,0.0,0.0,10,m365,,false,2026-09-29
+NAM,Commercial Banks,First National Bank of Namibia,fnbnamibia.com.na,25,43,41.9,0.0,23.3,2.3,32.6,0,m365,cisco-ironport,true,2026-09-29
+NAM,Commercial Banks,Bank Windhoek,bankwindhoek.com.na,37,37,37.8,2.7,0.0,10.8,40.5,1,m365,mimecast,true,2026-09-29
+NAM,Commercial Banks,Standard Bank Namibia,standardbank.com.na,96,164,46.3,0.0,3.0,42.7,7.9,0,m365,,true,2026-09-29
+NAM,Commercial Banks,Nedbank Namibia,nedbank.com.na,24,58,44.8,5.2,1.7,0.0,6.9,2,m365,,true,2026-09-29
+NAM,Commercial Banks,Bank BIC Namibia,bankbic.na,24,48,50.0,0.0,18.8,0.0,0.0,7,m365,,false,2026-09-29
+NAM,Commercial Banks,Letshego Bank Namibia,letshego.com.na,16,49,51.0,0.0,24.5,4.1,0.0,1,m365,mimecast,false,2026-09-29
+NAM,Commercial Banks,Development Bank of Namibia,dbn.com.na,12,14,64.3,0.0,0.0,0.0,0.0,1,m365,,false,2026-09-29
+NAM,Electoral commission,Electoral Commission of Namibia,ecn.na,15,22,40.9,0.0,0.0,0.0,0.0,13,other:Click Cloud Hosting Services CC - Click Cloud Hosting Services CC,,false,2026-09-29
+NAM,Statistics office,Namibia Statistics Agency,nsa.nsa.org.na,10,10,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+NAM,Health ministry / National health insurance,Ministry of Health and Social Services,mhss.gov.na,31,25,0.0,0.0,0.0,0.0,0.0,23,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Social protection / Social registry,Ministry of Gender Equality Poverty Eradication and Social Welfare,mgepesw.gov.na,2,5,0.0,0.0,0.0,0.0,0.0,5,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,National payment switch,Namclear,namclear.com.na,25,27,0.0,0.0,59.3,0.0,0.0,11,m365,,false,2026-09-29
+NAM,Stock exchange,Namibian Stock Exchange,nsx.com.na,17,76,32.9,0.0,17.1,50.0,0.0,0,m365,,false,2026-09-29
+NAM,Securities regulator,Namibia Financial Institutions Supervisory Authority,namfisa.com.na,25,16,0.0,0.0,0.0,0.0,0.0,9,m365,,false,2026-09-29
+NAM,Sovereign wealth fund / National pension fund,Government Institutions Pension Fund,gipf.com.na,33,37,24.3,0.0,32.4,0.0,0.0,13,m365,mimecast,false,2026-09-29
+NAM,Public procurement authority,Central Procurement Board of Namibia,cpbn.com.na,9,18,0.0,0.0,72.2,0.0,0.0,3,m365,,false,2026-09-29
+NAM,Energy utility,NamPower,nampower.com.na,34,42,23.8,0.0,19.0,0.0,45.2,3,m365,mimecast,true,2026-09-29
+NAM,Ports authority,Namibian Ports Authority,namport.com.na,27,27,37.0,0.0,0.0,0.0,0.0,14,other:Telecom Namibia,,false,2026-09-29
+NAM,State-owned telco / National backbone operator,Telecom Namibia,telecom.na,56,56,21.4,3.6,23.2,0.0,51.8,1,m365,,true,2026-09-29
+NAM,E-government agency,Office of the Prime Minister,opm.gov.na,13,6,0.0,0.0,0.0,0.0,0.0,5,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Communications regulator,Communications Regulatory Authority of Namibia,cran.na,37,57,43.9,0.0,22.8,0.0,0.0,4,m365,,false,2026-09-29
+NAM,Audit office,Office of the Auditor General,oag.gov.na,6,7,0.0,0.0,0.0,0.0,0.0,6,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29
+NAM,Anti-corruption commission,Anti-Corruption Commission,acc.gov.na,3,7,0.0,0.0,0.0,0.0,0.0,5,other:Government of the Republic of Namibia - Government of the Republic of Namibia,,false,2026-09-29

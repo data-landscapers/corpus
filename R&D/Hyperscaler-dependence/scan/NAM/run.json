@@ -1,0 +1,413 @@
+{
+ "iso3": "NAM",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "op.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mirco.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 74,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nampol.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moj.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ejustice.moj.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mof.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "namra.org.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mhaiss.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bon.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fnbnamibia.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankwindhoek.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "standardbank.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 88,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nedbank.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankbic.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "letshego.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dbn.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ecn.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsa.nsa.org.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mhss.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mgepesw.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "namclear.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsx.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "namfisa.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gipf.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cpbn.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nampower.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "namport.com.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "telecom.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "opm.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cran.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oag.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "acc.gov.na": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "22735": "Government of the Republic of Namibia - Government of the Republic of Namibia",
+  "37009": "MTC - Mobile Telecommunications, Ltd. - MTC - Mobile Telecommunications, Ltd.",
+  "14782": "THEROCKETSCIENCEGROUP - MailChimp",
+  "329067": "Click Cloud Hosting Services CC - Click Cloud Hosting Services CC",
+  "397666": "HOSTROUND-LLC - HostRound LLC",
+  "3491": "PCCWG-APAC-HK - PCCW Global (HK) Ltd."
+ },
+ "rollup": {
+  "all": {
+   "routable": 1076,
+   "us_hyperscaler_share": 30.5,
+   "african_region_share": 0.7,
+   "us_saas_share": 14.2,
+   "cdn_share": 10.7,
+   "national_or_self_share": 8.7,
+   "unattributed": 280,
+   "by_category": {
+    "unresolved": 15,
+    "unattributed": 280,
+    "us-hyperscaler-africa": 8,
+    "us-saas": 153,
+    "us-hyperscaler-offshore": 320,
+    "self-hosted": 94,
+    "cdn-origin-unknown": 115,
+    "telco-isp": 28,
+    "commercial-host": 45,
+    "african-colo": 18
+   },
+   "institutions": 34,
+   "names": 775,
+   "m365": 17,
+   "google": 0,
+   "tangled_hybrid": 6,
+   "any_us_hyperscaler": 16
+  },
+  "government": {
+   "routable": 663,
+   "us_hyperscaler_share": 20.5,
+   "african_region_share": 0.6,
+   "us_saas_share": 17.5,
+   "cdn_share": 5.7,
+   "national_or_self_share": 7.2,
+   "unattributed": 268,
+   "by_category": {
+    "unresolved": 14,
+    "unattributed": 268,
+    "us-hyperscaler-africa": 4,
+    "us-saas": 116,
+    "us-hyperscaler-offshore": 132,
+    "commercial-host": 33,
+    "cdn-origin-unknown": 38,
+    "african-colo": 10,
+    "self-hosted": 48
+   },
+   "institutions": 27,
+   "names": 541,
+   "m365": 10,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 9
+  },
+  "bank": {
+   "routable": 413,
+   "us_hyperscaler_share": 46.5,
+   "african_region_share": 1.0,
+   "us_saas_share": 9.0,
+   "cdn_share": 18.6,
+   "national_or_self_share": 11.1,
+   "unattributed": 12,
+   "by_category": {
+    "self-hosted": 46,
+    "us-saas": 37,
+    "us-hyperscaler-offshore": 188,
+    "cdn-origin-unknown": 77,
+    "us-hyperscaler-africa": 4,
+    "unattributed": 12,
+    "telco-isp": 28,
+    "commercial-host": 12,
+    "unresolved": 1,
+    "african-colo": 8
+   },
+   "institutions": 7,
+   "names": 234,
+   "m365": 7,
+   "google": 0,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 7
+  }
+ },
+ "findings": []
+}

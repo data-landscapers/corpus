@@ -1,44 +1,44 @@
 type,institution,domain,email_domain,status,note
-Presidency,Office of the President,op.gov.na,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Parliament,National Assembly of Namibia,parliament.na,,confirmed 2026-09-29,
-Foreign Affairs,Ministry of International Relations and Cooperation,mirco.gov.na,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Defence,Ministry of Defence and Veterans Affairs,mod.gov.na,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Presidency,Office of the President,op.gov.na,op.gov.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Parliament,National Assembly of Namibia,parliament.na,parliament.na,scanned 2026-09-29,
+Foreign Affairs,Ministry of International Relations and Cooperation,mirco.gov.na,mirco.gov.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Defence,Ministry of Defence and Veterans Affairs,mod.gov.na,mod.gov.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
 Armed Forces,Namibian Defence Force,,,absent,shares mod.gov.na with Defence
-Police,Namibian Police Force,nampol.gov.na,,confirmed 2026-09-29,
-Justice,Ministry of Justice,moj.gov.na,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Justice,Judiciary of Namibia,ejustice.moj.na,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Treasury / Finance,Ministry of Finance and Public Enterprises,mof.gov.na,,confirmed 2026-09-29,
-Revenue Service,Namibia Revenue Agency,namra.org.na,,confirmed 2026-09-29,
+Police,Namibian Police Force,nampol.gov.na,nampol.gov.na,scanned 2026-09-29,
+Justice,Ministry of Justice,moj.gov.na,moj.gov.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Justice,Judiciary of Namibia,ejustice.moj.na,ejustice.moj.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Treasury / Finance,Ministry of Finance and Public Enterprises,mof.gov.na,mof.gov.na,scanned 2026-09-29,
+Revenue Service,Namibia Revenue Agency,namra.org.na,namra.org.na,scanned 2026-09-29,
 Customs,NamRA Customs and Excise,,,absent,shares namra.org.na with Revenue Service
 Intelligence,Namibia Central Intelligence Service,,,absent,no official website found
-Interior / Home Affairs,"Ministry of Home Affairs, Immigration, Safety and Security",mhaiss.gov.na,,confirmed 2026-09-29,
-Central Bank,Bank of Namibia,bon.com.na,,confirmed 2026-09-29,
-Commercial Banks,First National Bank of Namibia,fnbnamibia.com.na,,confirmed 2026-09-29,"ranking: The Brief, Namibia commercial banks' assets surge to N$166.3 billion, Dec 2023, https://thebrief.com.na/2023/12/commercial-banks-assets-increase-to-n166-3-billion/; Namibia has fewer than ten commercial banks"
-Commercial Banks,Bank Windhoek,bankwindhoek.com.na,,confirmed 2026-09-29,
-Commercial Banks,Standard Bank Namibia,standardbank.com.na,,confirmed 2026-09-29,
-Commercial Banks,Nedbank Namibia,nedbank.com.na,,confirmed 2026-09-29,
-Commercial Banks,Bank BIC Namibia,bankbic.na,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Letshego Bank Namibia,letshego.com.na,,confirmed 2026-09-29,
-Commercial Banks,Development Bank of Namibia,dbn.com.na,,confirmed 2026-09-29,
+Interior / Home Affairs,"Ministry of Home Affairs, Immigration, Safety and Security",mhaiss.gov.na,mhaiss.gov.na,scanned 2026-09-29,
+Central Bank,Bank of Namibia,bon.com.na,bon.com.na,scanned 2026-09-29,
+Commercial Banks,First National Bank of Namibia,fnbnamibia.com.na,fnbnamibia.com.na,scanned 2026-09-29,"ranking: The Brief, Namibia commercial banks' assets surge to N$166.3 billion, Dec 2023, https://thebrief.com.na/2023/12/commercial-banks-assets-increase-to-n166-3-billion/; Namibia has fewer than ten commercial banks"
+Commercial Banks,Bank Windhoek,bankwindhoek.com.na,bankwindhoek.com.na,scanned 2026-09-29,
+Commercial Banks,Standard Bank Namibia,standardbank.com.na,standardbank.com.na,scanned 2026-09-29,
+Commercial Banks,Nedbank Namibia,nedbank.com.na,nedbank.com.na,scanned 2026-09-29,
+Commercial Banks,Bank BIC Namibia,bankbic.na,bankbic.na,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Letshego Bank Namibia,letshego.com.na,letshego.com.na,scanned 2026-09-29,
+Commercial Banks,Development Bank of Namibia,dbn.com.na,dbn.com.na,scanned 2026-09-29,
 Civil registry / National ID authority,Ministry of Home Affairs civil registration,,,absent,shares mhaiss.gov.na with Interior
 Data protection authority,,,,absent,no data protection authority established
-Electoral commission,Electoral Commission of Namibia,ecn.na,,confirmed 2026-09-29,
-Statistics office,Namibia Statistics Agency,nsa.nsa.org.na,,confirmed 2026-09-29,
+Electoral commission,Electoral Commission of Namibia,ecn.na,ecn.na,scanned 2026-09-29,
+Statistics office,Namibia Statistics Agency,nsa.nsa.org.na,,scanned 2026-09-29,
 Immigration / Passports,Directorate of Immigration,,,absent,shares mhaiss.gov.na with Interior
-Health ministry / National health insurance,Ministry of Health and Social Services,mhss.gov.na,,confirmed 2026-09-29,
-Social protection / Social registry,Ministry of Gender Equality Poverty Eradication and Social Welfare,mgepesw.gov.na,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Health ministry / National health insurance,Ministry of Health and Social Services,mhss.gov.na,mhss.gov.na,scanned 2026-09-29,
+Social protection / Social registry,Ministry of Gender Equality Poverty Eradication and Social Welfare,mgepesw.gov.na,mgepesw.gov.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
 Land registry,Deeds Registry,,,absent,shares moj.gov.na with Justice
-National payment switch,Namclear,namclear.com.na,,confirmed 2026-09-29,
-Stock exchange,Namibian Stock Exchange,nsx.com.na,,confirmed 2026-09-29,
-Securities regulator,Namibia Financial Institutions Supervisory Authority,namfisa.com.na,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Government Institutions Pension Fund,gipf.com.na,,confirmed 2026-09-29,
-Public procurement authority,Central Procurement Board of Namibia,cpbn.com.na,,confirmed 2026-09-29,
-Energy utility,NamPower,nampower.com.na,,confirmed 2026-09-29,
-Ports authority,Namibian Ports Authority,namport.com.na,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Telecom Namibia,telecom.na,,confirmed 2026-09-29,
-E-government agency,Office of the Prime Minister,opm.gov.na,,confirmed 2026-09-29,
+National payment switch,Namclear,namclear.com.na,namclear.com.na,scanned 2026-09-29,
+Stock exchange,Namibian Stock Exchange,nsx.com.na,nsx.com.na,scanned 2026-09-29,
+Securities regulator,Namibia Financial Institutions Supervisory Authority,namfisa.com.na,namfisa.com.na,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Government Institutions Pension Fund,gipf.com.na,gipf.com.na,scanned 2026-09-29,
+Public procurement authority,Central Procurement Board of Namibia,cpbn.com.na,cpbn.com.na,scanned 2026-09-29,
+Energy utility,NamPower,nampower.com.na,nampower.com.na,scanned 2026-09-29,
+Ports authority,Namibian Ports Authority,namport.com.na,namport.com.na,scanned 2026-09-29,
+State-owned telco / National backbone operator,Telecom Namibia,telecom.na,telecom.na,scanned 2026-09-29,
+E-government agency,Office of the Prime Minister,opm.gov.na,opm.gov.na,scanned 2026-09-29,
 National data centre / Government cloud operator,,,,absent,no separate government cloud operator found
 Cybersecurity agency / National CERT,Namibia Cyber Security Incident Response Team,,,absent,hosted by CRAN; shares cran.na with Communications regulator
-Communications regulator,Communications Regulatory Authority of Namibia,cran.na,,confirmed 2026-09-29,
-Audit office,Office of the Auditor General,oag.gov.na,,confirmed 2026-09-29,
-Anti-corruption commission,Anti-Corruption Commission,acc.gov.na,,confirmed 2026-09-29,homepage did not load: ConnectTimeout
+Communications regulator,Communications Regulatory Authority of Namibia,cran.na,cran.na,scanned 2026-09-29,
+Audit office,Office of the Auditor General,oag.gov.na,oag.gov.na,scanned 2026-09-29,
+Anti-corruption commission,Anti-Corruption Commission,acc.gov.na,acc.gov.na,scanned 2026-09-29,homepage did not load: ConnectTimeout
