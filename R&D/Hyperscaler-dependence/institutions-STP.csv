@@ -1,0 +1,40 @@
+type,institution,domain,email_domain,status,note
+Presidency,Presidência da República,presidencia.st,,confirmed 2026-09-29,
+Parliament,Assembleia Nacional,parlamento.st,,confirmed 2026-09-29,
+Foreign Affairs,Ministério dos Negócios Estrangeiros Cooperação e Comunidades,,,absent,no own domain found; listed on stp.gov.st
+Defence,Ministério da Defesa e Ordem Interna,,,absent,no own domain found; combined defence and interior ministry
+Armed Forces,Forças Armadas de São Tomé e Príncipe,,,absent,no own domain found; shares ministry with Defence
+Police,Polícia Judiciária,pj.gov.st,,confirmed 2026-09-29,criminal investigation police; Polícia Nacional has no own domain found
+Justice,Supremo Tribunal de Justiça,stj.st,,confirmed 2026-09-29,courts portal
+Justice,Ministério da Justiça Assuntos Parlamentares e Direitos da Mulher,,,absent,ministry has no own domain found
+Treasury / Finance,Ministério do Planeamento Finanças e Economia Azul,financas.gov.st,,confirmed 2026-09-29,
+Revenue Service,Direcção dos Impostos,,,absent,within financas.gov.st; tax portal not confirmed as separate domain
+Customs,Direcção das Alfândegas,,,absent,shares financas.gov.st with the finance ministry
+Intelligence,Serviço de Informações da República,,,absent,no public domain found
+Interior / Home Affairs,Ministério da Defesa e Ordem Interna,,,absent,combined with Defence; no own domain found
+Central Bank,Banco Central de São Tomé e Príncipe,bcstp.st,,confirmed 2026-09-29,
+Commercial Banks,Banco Internacional de São Tomé e Príncipe (BISTP),bistp.st,,confirmed 2026-09-29,ranking source: no published ranking; banks from Wikipedia List of banks in Sao Tome and Principe (SWIFT list late 2024) and BCSTP Relatório de Estabilidade Financeira 2024; only four operating commercial banks; Ecobank and BGFIBank run on group domains and are left out; Energy Bank declared insolvent 2022
+Commercial Banks,Afriland First Bank STP,afrilandfirstbankst.com,,confirmed 2026-09-29,country domain
+Civil registry / National ID authority,Direcção Geral dos Registos Notariado e Identificação,dgrn.gov.st,,confirmed 2026-09-29,
+Data protection authority,Agência Nacional de Protecção de Dados,,,absent,no domain found
+Electoral commission,Comissão Eleitoral Nacional,stpcen.st,,confirmed 2026-09-29,
+Statistics office,Instituto Nacional de Estatística,ine.st,,confirmed 2026-09-29,
+Immigration / Passports,Serviço de Migração e Fronteiras,smf.st,,confirmed 2026-09-29,also runs eVisa
+Health ministry / National health insurance,Ministério da Saúde,minsaude.st,,confirmed 2026-09-29,
+Social protection / Social registry,Ministério do Trabalho Solidariedade e Segurança Social,,,absent,no own domain found
+Land registry,Registo Predial,,,absent,within dgrn.gov.st registry directorate
+National payment switch,SPAUT SA (rede dobra 24),,,absent,no domain found
+Stock exchange,Bolsa de Valores,,,absent,no stock exchange established
+Securities regulator,Regulador de valores mobiliários,,,absent,no securities regulator; supervised by BCSTP
+Sovereign wealth fund / National pension fund,Instituto Nacional de Segurança Social,,,absent,no domain found
+Public procurement authority,Direcção de Contratação Pública,,,absent,no domain found
+Energy utility,Empresa de Água e Electricidade (EMAE),emae.st,,confirmed 2026-09-29,
+Ports authority,Empresa Nacional de Administração dos Portos (ENAPORT),enaport.st,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Companhia Santomense de Telecomunicações (CST),cst.st,,confirmed 2026-09-29,
+E-government agency,Governo de São Tomé e Príncipe (parent zone),gov.st,,confirmed 2026-09-29,parent zone; scanned root-only
+E-government agency,Portal do Governo,stp.gov.st,,confirmed 2026-09-29,government official page
+National data centre / Government cloud operator,Centro de dados do Estado,,,absent,no national data centre domain found
+Cybersecurity agency / National CERT,CERT São Tomé e Príncipe,,,absent,no national CERT domain found
+Communications regulator,Autoridade Geral de Regulação (AGER),ager.st,,confirmed 2026-09-29,
+Audit office,Tribunal de Contas,tcontas.st,,confirmed 2026-09-29,
+Anti-corruption commission,Comissão de combate à corrupção,,,absent,no domain found
