@@ -1,48 +1,48 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République tunisienne,carthage.tn,,confirmed 2026-09-29,
-Parliament,Assemblée des représentants du peuple,arp.tn,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.tn,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale,defense.tn,,confirmed 2026-09-29,
+Presidency,Présidence de la République tunisienne,carthage.tn,carthage.tn,scanned 2026-09-29,
+Parliament,Assemblée des représentants du peuple,arp.tn,arp.tn,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.tn,diplomatie.gov.tn,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale,defense.tn,defense.tn,scanned 2026-09-29,
 Armed Forces,Forces armées tunisiennes,,,absent,shares defense.tn with Defence
 Police,Direction générale de la Sûreté nationale,,,absent,shares interieur.gov.tn with Interior
-Justice,Ministère de la Justice,justice.gov.tn,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances,finances.gov.tn,,confirmed 2026-09-29,
-Revenue Service,Direction générale des impôts,impots.finances.gov.tn,,confirmed 2026-09-29,
-Customs,Direction générale des douanes,douane.gov.tn,,confirmed 2026-09-29,
+Justice,Ministère de la Justice,justice.gov.tn,justice.gov.tn,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances,finances.gov.tn,finances.gov.tn,scanned 2026-09-29,
+Revenue Service,Direction générale des impôts,impots.finances.gov.tn,,scanned 2026-09-29,
+Customs,Direction générale des douanes,douane.gov.tn,douane.gov.tn,scanned 2026-09-29,
 Intelligence,,,,absent,no public intelligence agency domain
-Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.tn,,confirmed 2026-09-29,
-Central Bank,Banque centrale de Tunisie,bct.gov.tn,,confirmed 2026-09-29,
-Commercial Banks,Banque Internationale Arabe de Tunisie (BIAT),biat.com.tn,,confirmed 2026-09-29,"Source: Univers News ""Radioscopie exclusive des banques tunisiennes 2025"" (May 2026) ranking by total assets end-2025 https://universnews.tn/radioscopie-exclusive-des-banques-tunisiennes-2025-quand-les-nouveaux-maitres-de-la-rentabilite-bousculent-les-geants-historiques/; ten chosen by assets with market-cap lists"
-Commercial Banks,Banque Nationale Agricole (BNA),bna.tn,,confirmed 2026-09-29,
-Commercial Banks,Société Tunisienne de Banque (STB),stb.com.tn,,confirmed 2026-09-29,
-Commercial Banks,Amen Bank,amenbank.com.tn,,confirmed 2026-09-29,
-Commercial Banks,Attijari Bank,attijaribank.com.tn,,confirmed 2026-09-29,
-Commercial Banks,BH Bank,bhbank.tn,,confirmed 2026-09-29,
-Commercial Banks,Union Internationale de Banques (UIB),uib.com.tn,,confirmed 2026-09-29,
-Commercial Banks,Banque de Tunisie,bt.com.tn,,confirmed 2026-09-29,
-Commercial Banks,Union Bancaire pour le Commerce et l'Industrie (UBCI),ubci.tn,,confirmed 2026-09-29,
-Commercial Banks,Arab Tunisian Bank (ATB),atb.com.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.tn,interieur.gov.tn,scanned 2026-09-29,
+Central Bank,Banque centrale de Tunisie,bct.gov.tn,bct.gov.tn,scanned 2026-09-29,
+Commercial Banks,Banque Internationale Arabe de Tunisie (BIAT),biat.com.tn,biat.com.tn,scanned 2026-09-29,"Source: Univers News ""Radioscopie exclusive des banques tunisiennes 2025"" (May 2026) ranking by total assets end-2025 https://universnews.tn/radioscopie-exclusive-des-banques-tunisiennes-2025-quand-les-nouveaux-maitres-de-la-rentabilite-bousculent-les-geants-historiques/; ten chosen by assets with market-cap lists"
+Commercial Banks,Banque Nationale Agricole (BNA),bna.tn,bna.tn,scanned 2026-09-29,
+Commercial Banks,Société Tunisienne de Banque (STB),stb.com.tn,stb.com.tn,scanned 2026-09-29,
+Commercial Banks,Amen Bank,amenbank.com.tn,amenbank.com.tn,scanned 2026-09-29,
+Commercial Banks,Attijari Bank,attijaribank.com.tn,attijaribank.com.tn,scanned 2026-09-29,
+Commercial Banks,BH Bank,bhbank.tn,bhbank.tn,scanned 2026-09-29,
+Commercial Banks,Union Internationale de Banques (UIB),uib.com.tn,uib.com.tn,scanned 2026-09-29,
+Commercial Banks,Banque de Tunisie,bt.com.tn,bt.com.tn,scanned 2026-09-29,
+Commercial Banks,Union Bancaire pour le Commerce et l'Industrie (UBCI),ubci.tn,ubci.tn,scanned 2026-09-29,
+Commercial Banks,Arab Tunisian Bank (ATB),atb.com.tn,atb.com.tn,scanned 2026-09-29,homepage did not load: ConnectionError
 Civil registry / National ID authority,,,,absent,run by Interior; no separate domain
-Data protection authority,Instance nationale de protection des données personnelles,inpdp.nat.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Electoral commission,Instance supérieure indépendante pour les élections,isie.tn,,confirmed 2026-09-29,
-Statistics office,Institut national de la statistique,ins.tn,,confirmed 2026-09-29,
+Data protection authority,Instance nationale de protection des données personnelles,inpdp.nat.tn,,scanned 2026-09-29,homepage did not load: ConnectionError
+Electoral commission,Instance supérieure indépendante pour les élections,isie.tn,isie.tn,scanned 2026-09-29,
+Statistics office,Institut national de la statistique,ins.tn,ins.tn,scanned 2026-09-29,
 Immigration / Passports,,,,absent,shares interieur.gov.tn with Interior
-Health ministry / National health insurance,Ministère de la Santé,santetunisie.rns.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Health ministry / National health insurance,Caisse nationale d'assurance maladie,cnam.nat.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Social protection / Social registry,Ministère des Affaires sociales,social.gov.tn,,confirmed 2026-09-29,
-Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tn,,confirmed 2026-09-29,
-Land registry,Office de la topographie et du cadastre,otc.nat.tn,,confirmed 2026-09-29,
-National payment switch,Société monétique Tunisie,smt.com.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Stock exchange,Bourse de Tunis,bvmt.com.tn,,confirmed 2026-09-29,
-Securities regulator,Conseil du marché financier,cmf.org.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Sovereign wealth fund / National pension fund,Caisse nationale de retraite et de prévoyance sociale,cnrps.nat.tn,,confirmed 2026-09-29,
-Public procurement authority,TUNEPS (Haute instance de la commande publique),tuneps.tn,,confirmed 2026-09-29,
-Energy utility,Société tunisienne de l'électricité et du gaz,steg.com.tn,,confirmed 2026-09-29,
-Ports authority,Office de la marine marchande et des ports,ommp.nat.tn,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Tunisie Télécom,tunisietelecom.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-E-government agency,Portail national du gouvernement tunisien,tunisie.gov.tn,,confirmed 2026-09-29,
-National data centre / Government cloud operator,Centre national de l'informatique,cni.tn,,confirmed 2026-09-29,
-Cybersecurity agency / National CERT,Agence nationale de la sécurité informatique,ansi.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Communications regulator,Instance nationale des télécommunications,int.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Audit office,Cour des comptes,ccomptes.tn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Health ministry / National health insurance,Ministère de la Santé,santetunisie.rns.tn,,scanned 2026-09-29,homepage did not load: ConnectionError
+Health ministry / National health insurance,Caisse nationale d'assurance maladie,cnam.nat.tn,cnam.nat.tn,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Social protection / Social registry,Ministère des Affaires sociales,social.gov.tn,social.gov.tn,scanned 2026-09-29,
+Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tn,cnss.tn,scanned 2026-09-29,
+Land registry,Office de la topographie et du cadastre,otc.nat.tn,otc.nat.tn,scanned 2026-09-29,
+National payment switch,Société monétique Tunisie,smt.com.tn,smt.com.tn,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Stock exchange,Bourse de Tunis,bvmt.com.tn,bvmt.com.tn,scanned 2026-09-29,
+Securities regulator,Conseil du marché financier,cmf.org.tn,cmf.org.tn,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Sovereign wealth fund / National pension fund,Caisse nationale de retraite et de prévoyance sociale,cnrps.nat.tn,cnrps.nat.tn,scanned 2026-09-29,
+Public procurement authority,TUNEPS (Haute instance de la commande publique),tuneps.tn,tuneps.tn,scanned 2026-09-29,
+Energy utility,Société tunisienne de l'électricité et du gaz,steg.com.tn,steg.com.tn,scanned 2026-09-29,
+Ports authority,Office de la marine marchande et des ports,ommp.nat.tn,ommp.nat.tn,scanned 2026-09-29,
+State-owned telco / National backbone operator,Tunisie Télécom,tunisietelecom.tn,tunisietelecom.tn,scanned 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,Portail national du gouvernement tunisien,tunisie.gov.tn,tunisie.gov.tn,scanned 2026-09-29,
+National data centre / Government cloud operator,Centre national de l'informatique,cni.tn,cni.tn,scanned 2026-09-29,
+Cybersecurity agency / National CERT,Agence nationale de la sécurité informatique,ansi.tn,ansi.tn,scanned 2026-09-29,homepage did not load: ConnectionError
+Communications regulator,Instance nationale des télécommunications,int.tn,,dead,homepage did not load: ConnectionError
+Audit office,Cour des comptes,ccomptes.tn,,dead,homepage did not load: ConnectionError
 Anti-corruption commission,,,,absent,INLUCC dissolved 2023; inlucc.tn is now an uninstalled OVH placeholder

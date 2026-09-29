@@ -1,0 +1,472 @@
+{
+ "iso3": "TUN",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "carthage.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arp.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gov.tn": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 1 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "impots.finances.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "douane.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bct.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "biat.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bna.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stb.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amenbank.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "attijaribank.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 52,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bhbank.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "uib.com.tn": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bt.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ubci.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "atb.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inpdp.nat.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "isie.tn": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ins.tn": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "santetunisie.rns.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "cnam.nat.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "social.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "otc.nat.tn": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "smt.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bvmt.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cmf.org.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnrps.nat.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tuneps.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "steg.com.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ommp.nat.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tunisietelecom.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 69,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tunisie.gov.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cni.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ansi.tn": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "int.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "ccomptes.tn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  }
+ },
+ "new_asns": {
+  "31245": "ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet",
+  "2609": "TN-BB-AS - IDDQD-AS",
+  "9318": "SKB-AS-KR - SK Broadband Co Ltd",
+  "37551": "ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet",
+  "37671": "3S INF - 3S INF",
+  "37693": "OOREDOO TUNISIE SA - OOREDOO TUNISIE SA",
+  "37492": "Orange Tunisie - Orange Tunisie",
+  "3296": "SOCIETE-GENERALE Societe Generale S.A.",
+  "3299": "Societe Generale S.A.",
+  "37705": "TOPNET - TOPNET",
+  "327934": "SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom) - SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",
+  "37709": "Cloud Temple Tunisia - Cloud Temple Tunisia"
+ },
+ "rollup": {
+  "all": {
+   "routable": 666,
+   "us_hyperscaler_share": 16.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 15.0,
+   "cdn_share": 0.0,
+   "national_or_self_share": 6.5,
+   "unattributed": 405,
+   "by_category": {
+    "unattributed": 405,
+    "us-saas": 100,
+    "us-hyperscaler-offshore": 108,
+    "unresolved": 2,
+    "commercial-host": 7,
+    "self-hosted": 43,
+    "telco-isp": 1
+   },
+   "institutions": 41,
+   "names": 456,
+   "m365": 10,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 11
+  },
+  "government": {
+   "routable": 419,
+   "us_hyperscaler_share": 8.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 10.7,
+   "cdn_share": 0.0,
+   "national_or_self_share": 10.0,
+   "unattributed": 290,
+   "by_category": {
+    "unattributed": 290,
+    "us-saas": 45,
+    "us-hyperscaler-offshore": 37,
+    "unresolved": 2,
+    "commercial-host": 2,
+    "self-hosted": 42,
+    "telco-isp": 1
+   },
+   "institutions": 31,
+   "names": 307,
+   "m365": 5,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 5
+  },
+  "bank": {
+   "routable": 247,
+   "us_hyperscaler_share": 28.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 22.3,
+   "cdn_share": 0.0,
+   "national_or_self_share": 0.4,
+   "unattributed": 115,
+   "by_category": {
+    "unattributed": 115,
+    "us-hyperscaler-offshore": 71,
+    "us-saas": 55,
+    "commercial-host": 5,
+    "self-hosted": 1
+   },
+   "institutions": 10,
+   "names": 149,
+   "m365": 5,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 6
+  }
+ },
+ "findings": []
+}
