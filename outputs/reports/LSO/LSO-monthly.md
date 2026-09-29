@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 place: LSO
 ledger_rows: 36
 not_held: 4
-record: 2c2b5611d3e1
+record: bbed3d2bb881
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -61,7 +61,7 @@ The incumbent operator [began selling managed satellite connectivity as an enter
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
+Kobong stayed an envelope, not money. [Reporting in September restated the US$6.2 billion hydropower and AI data-centre agreement with Convalt Energy as the largest foreign investment deal Lesotho has signed, with a feasibility study to run over the next year before any implementation agreement or construction](https://groundup.org.za/article/conflict-of-interest-questions-over-lesothos-record-r98-billion-energy-deal/). The same report found that a local firm the energy minister named as a potential partner is part-owned by the public works minister, who said he would recuse himself from cabinet discussion of the project.
 
 Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
 <!-- /narrative -->

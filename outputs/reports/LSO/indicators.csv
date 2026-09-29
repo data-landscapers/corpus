@@ -491,7 +491,9 @@ dpi.registry--land-register,Movement,"The land authority is [taking register ser
 
 2025-08-27 — [the authority put its 2026-2029 strategic plan out to tender, prioritising technology adoption for registration services](2025-08-27-lesotho-laa-strategic-planning-exercise-call-for-bids).
 
-No parcel count, coverage figure or registration time is published.",LSO-dpi.registry-land-register|LSO-dpi.mis-laa-gis,3,LSO-dpi.registry-land-register|LSO-dpi.mis-laa-gis,,,,,,,2026-08-31,0,Land holding database in service and extending to districts; parcel counts not published
+No parcel count, coverage figure or registration time is published.
+
+[The Land Regulations 2011](2011-02-24-lesotho-land-regulations-2011) are in force as the procedural rules under which land is registered.",LSO-dpi.registry-land-register|LSO-dpi.mis-laa-gis|LSO-dpi.registry-land-regulations-2011,3,LSO-dpi.registry-land-register|LSO-dpi.mis-laa-gis,,,,,,,2026-08-31,0,Land holding database in service and extending to districts; parcel counts not published
 dpi.mis--justice,"No change, an assessment three years old",The [needs assessment for an automated case management system was still in progress in 2023](2023-02-01-lesotho-chief-justice-sakoane-high-court-opening-speech); nothing later is held.,"2023-02-01 — [the Chief Justice reported the needs assessment for an automated case management system still in progress](2023-02-01-lesotho-chief-justice-sakoane-high-court-opening-speech), the latest statement the repository holds.
 
 2026-04-20 — [a crime-reporting platform launched nationally, with a police digital transformation policy and strategy alongside it](2026-04-20-lesotho-undp-lehokela-digital-policing-launch), the clearest movement in the police-to-justice chain.
@@ -611,7 +613,9 @@ include.access--citizen-feedback-portals,Movement,"The [crime-reporting app laun
 
 2026-04-20 — [the crime and violence reporting app launched nationally as a zero-rated channel](2026-04-20-lesotho-undp-lehokela-digital-policing-launch).
 
-None of the three publishes a volume, response time or resolution figure.",LSO-include.access-national-contact-centre|LSO-include.access-ombudsman-case-management|LSO-dpi.mis-lehokela,2,LSO-dpi.mis-lehokela|LSO-include.access-ombudsman-case-management,,,,,,,2026-08-31,0,Crime-reporting platform launched and ombudsman system tendered; no cases or receipts on record
+None of the three publishes a volume, response time or resolution figure.
+
+2026-08-26 - the communications authority [published its 2026 consumer perception survey](2026-08-26-lca-consumer-perception-survey-2026); the repository holds the notice, not the findings.",LSO-include.access-national-contact-centre|LSO-include.access-ombudsman-case-management|LSO-dpi.mis-lehokela|LSO-gov.discourse-consumer-perception-survey,2,LSO-dpi.mis-lehokela|LSO-include.access-ombudsman-case-management,,,,,,,2026-08-31,0,Crime-reporting platform launched and ombudsman system tendered; no cases or receipts on record
 include.access--gender-equity,"Movement, with a small measured gender gap in internet use","A [dedicated women in digital forum was held in April 2026](2026-04-20-lesotho-commonwealth-digital-roadshow-women-in-digital), and [internet use differed by 5.1 points between men and women in 2023](2025-01-01-lca-ict-access-use-households-comparative-2016-2023).","2024-12-30 — [the National Digital Policy is the overarching statement](2024-12-30-lesotho-national-digital-policy-2024-2035).
 
 2025-11-20 — [the minister described a community inclusion model whose digital ambassador approach targets women](2025-11-20-meaningful-connectivity-pathway-to-economic-opportunity-moorosi).
