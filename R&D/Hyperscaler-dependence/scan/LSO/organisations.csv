@@ -1,28 +1,26 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
 LSO,Parliament,Parliament of Lesotho,parliament.ls,39,44,0.0,0.0,0.0,0.0,0.0,0,other:Xneelo (Hetzner South Africa),,false,2026-09-29
-LSO,Defence,Ministry of Defence and National Security,defence.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-LSO,Armed Forces,Lesotho Defence Force,ldf.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+LSO,Defence,Ministry of Defence and National Security,defence.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LSO,Armed Forces,Lesotho Defence Force,ldf.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 LSO,Police,Lesotho Mounted Police Service,lmps.org.ls,8,26,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
-LSO,Justice,Ministry of Justice and Law,justice.gov.ls,2,4,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-LSO,Justice,Judiciary of Lesotho,jud.gov.ls,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-LSO,Treasury / Finance,Ministry of Finance and Development Planning,finance.gov.ls,3,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-LSO,Revenue Service,Revenue Services Lesotho,rsl.org.ls,16,26,0.0,0.0,0.0,23.1,0.0,14,m365,mimecast,false,2026-09-29
-LSO,Interior / Home Affairs,Ministry of Home Affairs,homeaffairs.gov.ls,6,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
-LSO,Central Bank,Central Bank of Lesotho,centralbank.org.ls,22,33,21.2,18.2,36.4,0.0,6.1,6,m365,mimecast,true,2026-09-29
+LSO,Justice,Ministry of Justice and Law,justice.gov.ls,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LSO,Treasury / Finance,Ministry of Finance and Development Planning,finance.gov.ls,3,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LSO,Revenue Service,Revenue Services Lesotho,rsl.org.ls,16,26,0.0,0.0,0.0,23.1,0.0,0,m365,mimecast,false,2026-09-29
+LSO,Interior / Home Affairs,Ministry of Home Affairs,homeaffairs.gov.ls,6,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LSO,Central Bank,Central Bank of Lesotho,centralbank.org.ls,22,33,21.2,18.2,36.4,0.0,6.1,0,m365,mimecast,true,2026-09-29
 LSO,Commercial Banks,Standard Lesotho Bank,standardlesothobank.co.ls,48,115,27.0,0.0,11.3,57.4,4.3,0,m365,,true,2026-09-29
-LSO,Commercial Banks,Nedbank Lesotho,nedbank.co.ls,21,37,24.3,8.1,2.7,0.0,0.0,4,m365,,false,2026-09-29
+LSO,Commercial Banks,Nedbank Lesotho,nedbank.co.ls,21,37,24.3,8.1,2.7,0.0,0.0,0,m365,,false,2026-09-29
 LSO,Commercial Banks,First National Bank Lesotho,fnb.co.ls,13,22,0.0,0.0,45.5,4.5,50.0,0,m365,cisco-ironport,false,2026-09-29
-LSO,Commercial Banks,Lesotho PostBank,lpb.co.ls,144,113,14.2,0.0,11.5,8.0,0.0,21,m365,,false,2026-09-29
-LSO,Electoral commission,Independent Electoral Commission,iec.org.ls,31,35,0.0,0.0,0.0,0.0,0.0,32,other:Comnet Pty Ltd - Comnet Pty Ltd,,false,2026-09-29
-LSO,Statistics office,Bureau of Statistics,bos.gov.ls,3,3,0.0,0.0,0.0,0.0,0.0,3,none,,false,2026-09-29
-LSO,Health ministry / National health insurance,Ministry of Health,health.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-LSO,Social protection / Social registry,Ministry of Social Development,socialdevelopment.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+LSO,Commercial Banks,Lesotho PostBank,lpb.co.ls,144,113,14.2,0.0,11.5,8.0,0.0,0,m365,,false,2026-09-29
+LSO,Electoral commission,Independent Electoral Commission,iec.org.ls,31,35,0.0,0.0,0.0,0.0,0.0,0,other:Comnet Pty Ltd - Comnet Pty Ltd,,false,2026-09-29
+LSO,Statistics office,Bureau of Statistics,bos.gov.ls,3,3,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LSO,Health ministry / National health insurance,Ministry of Health,health.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LSO,Social protection / Social registry,Ministry of Social Development,socialdevelopment.gov.ls,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 LSO,Land registry,Land Administration Authority,laa.org.ls,6,25,8.0,0.0,4.0,88.0,0.0,0,m365,,false,2026-09-29
-LSO,Stock exchange,Maseru Securities Market,msm.org.ls,3,5,40.0,0.0,0.0,0.0,0.0,3,other:Comnet Pty Ltd - Comnet Pty Ltd,,false,2026-09-29
-LSO,Sovereign wealth fund / National pension fund,Public Officers' Defined Contribution Pension Fund,pensionfund.org.ls,4,18,0.0,0.0,72.2,11.1,0.0,1,m365,,false,2026-09-29
-LSO,Energy utility,Lesotho Electricity Company,lec.co.ls,19,55,45.5,0.0,30.9,0.0,16.4,2,m365,,true,2026-09-29
+LSO,Stock exchange,Maseru Securities Market,msm.org.ls,3,5,40.0,0.0,0.0,0.0,0.0,0,other:Comnet Pty Ltd - Comnet Pty Ltd,,false,2026-09-29
+LSO,Sovereign wealth fund / National pension fund,Public Officers' Defined Contribution Pension Fund,pensionfund.org.ls,4,18,0.0,0.0,72.2,11.1,0.0,0,m365,,false,2026-09-29
+LSO,Energy utility,Lesotho Electricity Company,lec.co.ls,19,55,45.5,0.0,30.9,0.0,16.4,0,m365,,true,2026-09-29
 LSO,State-owned telco / National backbone operator,Econet Telecom Lesotho,etl.co.ls,135,82,13.4,6.1,1.2,0.0,85.4,0,m365,,true,2026-09-29
-LSO,E-government agency,Government of Lesotho portal,gov.ls,3,6,0.0,0.0,16.7,0.0,0.0,5,m365,,false,2026-09-29
-LSO,Communications regulator,Lesotho Communications Authority,lca.org.ls,18,16,0.0,0.0,31.2,12.5,0.0,4,google,,false,2026-09-29
-LSO,Audit office,Office of the Auditor General,auditgen.org.ls,5,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-LSO,Anti-corruption commission,Directorate on Corruption and Economic Offences,dceo.org.ls,4,22,0.0,0.0,77.3,0.0,0.0,3,m365,,false,2026-09-29
+LSO,E-government agency,Government of Lesotho portal,gov.ls,3,6,0.0,0.0,16.7,0.0,0.0,0,m365,,false,2026-09-29
+LSO,Communications regulator,Lesotho Communications Authority,lca.org.ls,18,16,0.0,0.0,31.2,12.5,0.0,0,google,,false,2026-09-29
+LSO,Anti-corruption commission,Directorate on Corruption and Economic Offences,dceo.org.ls,4,22,0.0,0.0,77.3,0.0,0.0,0,m365,,false,2026-09-29

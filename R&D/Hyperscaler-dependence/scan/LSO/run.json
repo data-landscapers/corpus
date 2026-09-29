@@ -256,12 +256,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "33567": "Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD",
-  "37642": "Comnet Pty Ltd - Comnet Pty Ltd",
-  "37057": "Vodacom Lesotho (Pty) Ltd - Vodacom Lesotho (Pty) Ltd",
-  "25695": "Leo (PTY) LTD - Leo (PTY) LTD"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 703,
@@ -270,19 +265,18 @@
    "us_saas_share": 14.8,
    "cdn_share": 19.1,
    "national_or_self_share": 13.8,
-   "unattributed": 116,
+   "unattributed": 0,
    "by_category": {
     "african-colo": 110,
-    "unattributed": 116,
+    "telco-isp": 139,
     "cdn-origin-unknown": 134,
     "commercial-host": 16,
     "us-saas": 104,
     "self-hosted": 97,
     "us-hyperscaler-africa": 14,
-    "us-hyperscaler-offshore": 89,
-    "telco-isp": 23
+    "us-hyperscaler-offshore": 89
    },
-   "institutions": 27,
+   "institutions": 25,
    "names": 563,
    "m365": 12,
    "google": 1,
@@ -296,10 +290,10 @@
    "us_saas_share": 16.1,
    "cdn_share": 13.9,
    "national_or_self_share": 19.5,
-   "unattributed": 91,
+   "unattributed": 0,
    "by_category": {
     "african-colo": 58,
-    "unattributed": 91,
+    "telco-isp": 91,
     "cdn-origin-unknown": 58,
     "commercial-host": 14,
     "us-saas": 67,
@@ -307,7 +301,7 @@
     "us-hyperscaler-africa": 11,
     "us-hyperscaler-offshore": 36
    },
-   "institutions": 23,
+   "institutions": 21,
    "names": 337,
    "m365": 8,
    "google": 1,
@@ -321,15 +315,14 @@
    "us_saas_share": 12.9,
    "cdn_share": 26.5,
    "national_or_self_share": 5.6,
-   "unattributed": 25,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 76,
     "us-saas": 37,
     "us-hyperscaler-offshore": 53,
     "self-hosted": 16,
-    "telco-isp": 23,
+    "telco-isp": 48,
     "us-hyperscaler-africa": 3,
-    "unattributed": 25,
     "african-colo": 52,
     "commercial-host": 2
    },
