@@ -1,0 +1,43 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence du Faso,presidencedufaso.bf,,confirmed 2026-09-29,
+Parliament,Assemblée législative du peuple,assembleenationale.bf,,confirmed 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères et de la Coopération régionale,mae.gov.bf,,confirmed 2026-09-29,
+Defence,Ministère de la Guerre et de la Défense patriotique,defense.gov.bf,,confirmed 2026-09-29,
+Armed Forces,Forces armées du Burkina Faso,,,absent,shares defense.gov.bf with Defence
+Police,Police nationale du Burkina Faso,police.gov.bf,,confirmed 2026-09-29,
+Justice,Ministère de la Justice et des Droits humains,justice.gov.bf,,confirmed 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Finances,finances.gov.bf,,confirmed 2026-09-29,
+Revenue Service,Direction générale des impôts,dgi.bf,,confirmed 2026-09-29,
+Revenue Service,Direction générale des impôts (ancien portail),impots.gov.bf,,unconfirmed 2026-09-29,cited by official sources; homepage did not load: ConnectTimeout
+Revenue Service,Direction générale des impôts (portail eSINTAX),esintax.bf,,unconfirmed 2026-09-29,e-filing portal; homepage did not load: ssl: SSLError
+Customs,Direction générale des douanes,douanes.bf,,confirmed 2026-09-29,
+Intelligence,Agence nationale de renseignement,,,absent,no official website found
+Interior / Home Affairs,Ministère de l'Administration territoriale et de la Mobilité,matd.gov.bf,,confirmed 2026-09-29,
+Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,Coris Bank International,burkina.coris.bank,,confirmed 2026-09-29,"Ranking by 2024 total assets: Coris Bank n°1 (2 526 bn FCFA), Ecobank, BOA, UBA, SGBF, per notreafrik.com/coris-bank-top-10-burkina/ and leconomistedufaso.com/2025/09/15/banques-et-etablissements-financiers-du-burkina-coris-bank-leader-sur-le-marche/ (2025). Left out (no country domain, parent/group site): Ecobank (ecobank.com), Orabank (orabank.net), Banque Atlantique (banqueatlantique.net), Vista Bank Burkina ex-BICIA-B (vistabankgroup.com)"
+Commercial Banks,Bank of Africa Burkina Faso,boaburkinafaso.com,,confirmed 2026-09-29,
+Commercial Banks,Société Générale Burkina Faso,societegenerale.bf,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,United Bank for Africa Burkina,ubaburkinafaso.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,Office national d'identification,oni.bf,,confirmed 2026-09-29,
+Immigration / Passports,Office national d'identification (passeports),,,absent,shares oni.bf with Civil registry / National ID; passports also via police.gov.bf
+Data protection authority,Commission de l'informatique et des libertés,cil.bf,,confirmed 2026-09-29,
+Electoral commission,Commission électorale nationale indépendante,ceni.bf,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Statistics office,Institut national de la statistique et de la démographie,insd.bf,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.bf,,confirmed 2026-09-29,
+Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.bf,,confirmed 2026-09-29,
+Land registry,Land registry,,,absent,no official website found
+National payment switch,GIM-UEMOA,gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Sovereign wealth fund / National pension fund,Caisse autonome de retraite des fonctionnaires,carfo.bf,,confirmed 2026-09-29,
+Public procurement authority,Autorité de régulation de la commande publique,arcop.bf,,confirmed 2026-09-29,
+Energy utility,Société nationale d'électricité du Burkina,sonabel.bf,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Ports authority,Ports authority,,,absent,landlocked; no port authority
+State-owned telco / National backbone operator,Moov Africa Burkina Faso (ex-Onatel),moov-africa.bf,,confirmed 2026-09-29,formerly Onatel; onatel.bf serves a server test page
+E-government agency,Agence nationale de promotion des TIC,anptic.gov.bf,,confirmed 2026-09-29,
+E-government agency,Portail du gouvernement du Burkina Faso,gov.bf,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,National data centre / Government cloud operator,,,absent,no official website found
+Cybersecurity agency / National CERT,Agence nationale de sécurité des systèmes d'information,anssi.bf,,confirmed 2026-09-29,
+Communications regulator,Autorité de régulation des communications électroniques et des postes,arcep.bf,,confirmed 2026-09-29,
+Audit office,Cour des comptes,cour-comptes.gov.bf,,confirmed 2026-09-29,
+Anti-corruption commission,Autorité supérieure de contrôle d'État et de lutte contre la corruption,asce-lc.bf,,confirmed 2026-09-29,
