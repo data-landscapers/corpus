@@ -1,0 +1,40 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+CMR,Presidency,Présidence de la République,prc.cm,9,11,0.0,0.0,0.0,0.0,0.0,11,other:CAMTEL,,false,2026-09-29
+CMR,Parliament,Assemblée nationale,assnat.cm,7,18,0.0,0.0,0.0,0.0,0.0,5,other:Gandi,,false,2026-09-29
+CMR,Parliament,Sénat,senat.cm,14,17,0.0,0.0,0.0,0.0,0.0,17,other:CAMTEL,,false,2026-09-29
+CMR,Foreign Affairs,Ministère des Relations extérieures,diplocam.cm,14,18,0.0,0.0,0.0,0.0,0.0,13,other:OVH,,false,2026-09-29
+CMR,Defence,Ministère de la Défense,mindef.gov.cm,12,13,0.0,0.0,0.0,0.0,0.0,13,google,,false,2026-09-29
+CMR,Police,Délégation générale à la Sûreté nationale,dgsn.cm,9,8,0.0,0.0,0.0,0.0,0.0,8,other:CAMTEL - CAMTEL,,false,2026-09-29
+CMR,Justice,Ministère de la Justice,minjustice.cm,19,14,0.0,0.0,0.0,0.0,0.0,14,other:LiquidNet US LLC,,false,2026-09-29
+CMR,Treasury / Finance,Ministère des Finances,minfi.gov.cm,6,7,0.0,0.0,0.0,0.0,0.0,7,other:CAMTEL,,false,2026-09-29
+CMR,Treasury / Finance,Direction générale du Trésor et de la Coopération financière et monétaire,dgtcfm.cm,21,24,0.0,0.0,0.0,0.0,0.0,23,other:CAMTEL,,false,2026-09-29
+CMR,Revenue Service,Direction générale des impôts,impots.cm,10,14,0.0,0.0,0.0,0.0,0.0,14,other:CAMTEL,,false,2026-09-29
+CMR,Customs,Direction générale des douanes,douanes.cm,2,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
+CMR,Interior / Home Affairs,Ministère de l'Administration territoriale,minat.gov.cm,3,4,0.0,0.0,0.0,0.0,0.0,4,other:CAMTEL,,false,2026-09-29
+CMR,Central Bank,Banque des États de l'Afrique centrale,beac.int,27,26,34.6,0.0,0.0,0.0,0.0,17,other:CAMTEL,,false,2026-09-29
+CMR,Commercial Banks,Afriland First Bank,afrilandfirstbank.com,99,165,2.4,0.0,0.0,69.7,0.0,42,m365,,false,2026-09-29
+CMR,Commercial Banks,Société Générale Cameroun,societegenerale.cm,26,21,0.0,0.0,0.0,33.3,52.4,2,self,,false,2026-09-29
+CMR,Commercial Banks,AFG Bank Cameroun (formerly Banque Atlantique Cameroun),afgbank.cm,12,32,28.1,0.0,40.6,0.0,0.0,0,m365,,false,2026-09-29
+CMR,Commercial Banks,Société Commerciale de Banque Cameroun,scbcameroun.cm,14,28,0.0,0.0,0.0,92.9,0.0,2,other:LiquidNet US LLC,,false,2026-09-29
+CMR,Commercial Banks,CCA Bank,ccabank.com,3,8,75.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CMR,Commercial Banks,BICEC,bicec.com,38,37,0.0,0.0,0.0,0.0,0.0,35,other:MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon),,false,2026-09-29
+CMR,Commercial Banks,Commercial Bank Cameroun,commercialbank-cm.com,14,18,0.0,0.0,0.0,0.0,0.0,3,other:Contabo,,false,2026-09-29
+CMR,Civil registry / National ID authority,Bureau national de l'état civil,bunec.org;bunec.cm,9,11,0.0,0.0,0.0,0.0,0.0,11,other:CAMTEL,,false,2026-09-29
+CMR,Electoral commission,Elections Cameroon,elecam.cm,10,13,0.0,0.0,0.0,0.0,0.0,13,other:CAMTEL,,false,2026-09-29
+CMR,Statistics office,Institut national de la statistique,ins-cameroun.cm,9,12,0.0,0.0,0.0,0.0,0.0,12,other:CAMTEL,,false,2026-09-29
+CMR,Health ministry / National health insurance,Ministère de la Santé publique,minsante.cm,79,74,0.0,0.0,0.0,0.0,0.0,72,other:CAMTEL,,false,2026-09-29
+CMR,Land registry,Ministère des Domaines du Cadastre et des Affaires foncières,mindcaf.gov.cm,3,3,0.0,0.0,0.0,0.0,0.0,3,none,,false,2026-09-29
+CMR,National payment switch,GIMAC,gimac-afr.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+CMR,Stock exchange,Bourse des valeurs mobilières de l'Afrique centrale,bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,6,m365,,false,2026-09-29
+CMR,Securities regulator,COSUMAF,cosumaf.org,13,57,43.9,0.0,22.8,24.6,0.0,4,m365,,false,2026-09-29
+CMR,Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale,cnps.cm,19,19,0.0,0.0,0.0,0.0,0.0,12,google,,false,2026-09-29
+CMR,Public procurement authority,Agence de régulation des marchés publics,armp.cm,24,39,0.0,0.0,0.0,0.0,0.0,0,other:Hetzner,,false,2026-09-29
+CMR,Public procurement authority,COLEPS e-procurement,marchespublics.cm,7,17,0.0,0.0,0.0,0.0,0.0,17,other:CAMTEL - CAMTEL,,false,2026-09-29
+CMR,Public procurement authority,COLEPS e-procurement (alternate),publiccontracts.cm,7,18,0.0,0.0,0.0,0.0,0.0,18,other:CAMTEL - CAMTEL,,false,2026-09-29
+CMR,Energy utility,Eneo Cameroun,eneo.cm,89,85,23.5,0.0,29.4,2.4,0.0,2,m365,,false,2026-09-29
+CMR,Ports authority,Port autonome de Douala,pad.cm,48,45,0.0,0.0,0.0,0.0,0.0,45,other:CAMTEL|SWECOM PLC - SWECOM PLC,,false,2026-09-29
+CMR,State-owned telco / National backbone operator,Cameroon Telecommunications,camtel.cm,42,46,0.0,0.0,0.0,0.0,91.3,1,self,,false,2026-09-29
+CMR,E-government agency,Agence nationale des technologies de l'information et de la communication,antic.cm,14,14,0.0,0.0,0.0,0.0,71.4,4,self,,false,2026-09-29
+CMR,E-government agency,Government of Cameroon,gov.cm,2,3,0.0,0.0,0.0,0.0,0.0,3,none,,false,2026-09-29
+CMR,Communications regulator,Agence de régulation des télécommunications,art.cm,13,16,0.0,0.0,0.0,0.0,0.0,16,other:MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon),,false,2026-09-29
+CMR,Anti-corruption commission,Commission nationale anti-corruption,conac.cm,9,12,0.0,0.0,0.0,0.0,0.0,12,other:CAMTEL,,false,2026-09-29

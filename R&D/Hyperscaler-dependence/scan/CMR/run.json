@@ -1,0 +1,471 @@
+{
+ "iso3": "CMR",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "prc.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assnat.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senat.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplocam.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mindef.gov.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgsn.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minjustice.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minfi.gov.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgtcfm.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "impots.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "douanes.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "minat.gov.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "beac.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afrilandfirstbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 97,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "societegenerale.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afgbank.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "scbcameroun.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ccabank.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bicec.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 36,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "commercialbank-cm.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bunec.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "bunec.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "elecam.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ins-cameroun.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minsante.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 71,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mindcaf.gov.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "gimac-afr.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bvm-ac.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cosumaf.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnps.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "marchespublics.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "publiccontracts.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eneo.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 80,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pad.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 46,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "camtel.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 27,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "antic.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.cm": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 4 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "art.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "conac.cm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "15964": "CAMTEL - CAMTEL",
+  "203476": "GANDI-AS-2 GANDI SAS",
+  "209453": "GANDI-LIVEDNS GANDI SAS",
+  "36955": "Matrix Telecoms SA - Matrix Telecoms SA",
+  "36905": "Creolink Communications - Creolink Communications",
+  "327741": "INFOGENIE Technologies - INFOGENIE Technologies",
+  "37414": "Microcom Sprl - Microcom Sprl",
+  "37461": "ORANGE GUINEE - ORANGE GUINEE",
+  "210625": "wecom-as Wecom Mobile Ltd.",
+  "3215": "AS3215 Orange S.A.",
+  "30992": "MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon)",
+  "206979": "PROLIVAL Prolival SA",
+  "210403": "LWS Groupe LWS SARL",
+  "12876": "AS12876 Scaleway SAS",
+  "39729": "REGISTER-AS REGISTER S.P.A.",
+  "327820": "SWECOM PLC - SWECOM PLC",
+  "26548": "PUREVOLTAGE-INC - PureVoltage Hosting Inc."
+ },
+ "rollup": {
+  "all": {
+   "routable": 986,
+   "us_hyperscaler_share": 7.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 5.3,
+   "cdn_share": 16.6,
+   "national_or_self_share": 6.4,
+   "unattributed": 487,
+   "by_category": {
+    "unattributed": 487,
+    "commercial-host": 136,
+    "us-hyperscaler-offshore": 73,
+    "cdn-origin-unknown": 164,
+    "telco-isp": 2,
+    "self-hosted": 63,
+    "us-saas": 52,
+    "unresolved": 9
+   },
+   "institutions": 39,
+   "names": 760,
+   "m365": 5,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  },
+  "government": {
+   "routable": 677,
+   "us_hyperscaler_share": 8.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 5.8,
+   "cdn_share": 2.4,
+   "national_or_self_share": 7.7,
+   "unattributed": 403,
+   "by_category": {
+    "unattributed": 403,
+    "commercial-host": 104,
+    "us-hyperscaler-offshore": 54,
+    "us-saas": 39,
+    "cdn-origin-unknown": 16,
+    "unresolved": 9,
+    "self-hosted": 52
+   },
+   "institutions": 32,
+   "names": 554,
+   "m365": 3,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 3
+  },
+  "bank": {
+   "routable": 309,
+   "us_hyperscaler_share": 6.1,
+   "african_region_share": 0.0,
+   "us_saas_share": 4.2,
+   "cdn_share": 47.9,
+   "national_or_self_share": 3.6,
+   "unattributed": 84,
+   "by_category": {
+    "cdn-origin-unknown": 148,
+    "unattributed": 84,
+    "telco-isp": 2,
+    "commercial-host": 32,
+    "us-hyperscaler-offshore": 19,
+    "self-hosted": 11,
+    "us-saas": 13
+   },
+   "institutions": 7,
+   "names": 206,
+   "m365": 2,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 3
+  }
+ },
+ "findings": []
+}
