@@ -1,0 +1,35 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+BDI,Presidency,Présidence de la République du Burundi,presidence.gov.bi,31,17,0.0,0.0,0.0,0.0,0.0,17,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Parliament,Assemblée nationale,assemblee.bi,46,19,0.0,0.0,0.0,0.0,0.0,0,google,,false,2026-09-29
+BDI,Parliament,Sénat,senat.bi,26,20,0.0,0.0,0.0,0.0,0.0,20,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration régionale et de la Coopération au développement",mae.gov.bi,82,73,0.0,0.0,0.0,0.0,0.0,2,other:Hetzner,,false,2026-09-29
+BDI,Defence,Ministère de la Défense nationale et des Anciens combattants,mdnac.gov.bi,13,16,0.0,0.0,0.0,0.0,0.0,16,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Armed Forces,Force de défense nationale du Burundi,fdnb.gov.bi,13,16,0.0,0.0,0.0,0.0,0.0,16,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Justice,"Ministère de la Justice, des Droits de la personne humaine et du Genre",justice.gov.bi,21,18,0.0,0.0,0.0,0.0,0.0,18,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Treasury / Finance,"Ministère des Finances, du Budget et de l'Économie numérique",finances.gov.bi,17,18,5.6,0.0,5.6,0.0,0.0,16,m365,trend-micro,false,2026-09-29
+BDI,Revenue Service,Office burundais des recettes,obr.bi,30,19,0.0,0.0,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-29
+BDI,Interior / Home Affairs,"Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique",mininterinfos.gov.bi,15,19,0.0,0.0,0.0,0.0,0.0,19,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Central Bank,Banque de la République du Burundi,brb.bi,30,17,0.0,0.0,0.0,0.0,0.0,5,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Commercial Banks,Banque commerciale du Burundi (BANCOBU),bancobu.com,36,45,20.0,0.0,37.8,0.0,0.0,2,m365,,false,2026-09-29
+BDI,Commercial Banks,Interbank Burundi,interbankbdi.bi,16,18,0.0,0.0,0.0,0.0,0.0,2,other:CBINET-AS CBINET Burundi,,false,2026-09-29
+BDI,Commercial Banks,Banque de crédit de Bujumbura,bcb.bi,28,33,9.1,0.0,45.5,0.0,0.0,3,m365,broadcom-messagelabs,false,2026-09-29
+BDI,Commercial Banks,Banque de gestion et de financement,bgf.bi,29,24,0.0,0.0,4.2,0.0,0.0,4,m365,trend-micro,false,2026-09-29
+BDI,Commercial Banks,CRDB Bank Burundi,crdbbank.co.bi,11,18,0.0,0.0,0.0,77.8,22.2,0,self,,false,2026-09-29
+BDI,Commercial Banks,KCB Bank Burundi,bi.kcbgroup.com,13,36,41.7,0.0,36.1,22.2,0.0,0,m365,,false,2026-09-29
+BDI,Commercial Banks,Banque burundaise pour le commerce et l'investissement,bbcibank.com,8,24,0.0,0.0,54.2,0.0,0.0,11,m365,,false,2026-09-29
+BDI,Commercial Banks,Finbank Burundi,finbankburundi.com,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+BDI,Commercial Banks,Banque communautaire et agricole du Burundi,bcab.bi,3,6,0.0,0.0,16.7,0.0,0.0,0,m365,,false,2026-09-29
+BDI,Commercial Banks,Banque de l'habitat du Burundi,bhb.bi,19,21,0.0,0.0,0.0,0.0,0.0,1,m365,,false,2026-09-29
+BDI,Commercial Banks,Banque d'investissement pour les jeunes,bije.bi,14,32,0.0,0.0,53.1,0.0,0.0,2,m365,,false,2026-09-29
+BDI,Electoral commission,Commission électorale nationale indépendante,ceniburundi.bi,17,19,0.0,0.0,0.0,0.0,0.0,19,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Statistics office,Institut national de la statistique du Burundi,insbu.bi,75,67,0.0,0.0,0.0,0.0,0.0,28,other:Contabo,,false,2026-09-29
+BDI,Health ministry / National health insurance,Ministère de la Santé publique,minisante.gov.bi,42,17,0.0,0.0,0.0,0.0,0.0,17,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Securities regulator,Autorité de régulation du marché des capitaux,armc.bi,5,8,0.0,0.0,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-29
+BDI,Sovereign wealth fund / National pension fund,Institut national de sécurité sociale,inss.gov.bi,5,8,0.0,0.0,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-29
+BDI,Public procurement authority,Autorité de régulation des marchés publics,armp.bi,10,26,15.4,0.0,0.0,0.0,0.0,22,other:MNT-20i,,false,2026-09-29
+BDI,Energy utility,Régie de production et de distribution d'eau et d'électricité,regideso.bi,33,11,0.0,0.0,0.0,0.0,0.0,5,other:VIETTEL BURUNDI SA - VIETTEL BURUNDI SA,,false,2026-09-29
+BDI,State-owned telco / National backbone operator,Office national des télécommunications,onatel.bi,13,16,0.0,0.0,0.0,0.0,0.0,16,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,State-owned telco / National backbone operator,Burundi Backbone System,bbs.bi,16,16,0.0,0.0,31.2,0.0,68.8,0,google,,false,2026-09-29
+BDI,E-government agency,Gouvernement du Burundi (zone parente),gov.bi,2,7,0.0,0.0,0.0,0.0,0.0,7,other:VIETTEL BURUNDI SA - VIETTEL BURUNDI SA,,false,2026-09-29
+BDI,Communications regulator,Agence de régulation et de contrôle des télécommunications,arct.gov.bi,39,26,0.0,0.0,0.0,0.0,0.0,24,other:Burundi Backbone System SM - Burundi Backbone System SM,,false,2026-09-29
+BDI,Audit office,Cour des comptes,courdescomptes.bi,24,17,0.0,0.0,0.0,0.0,0.0,1,other:Hetzner,,false,2026-09-29

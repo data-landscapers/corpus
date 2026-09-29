@@ -1,0 +1,399 @@
+{
+ "iso3": "BDI",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assemblee.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 35,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senat.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mae.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 78,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mdnac.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fdnb.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "obr.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mininterinfos.gov.bi": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brb.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bancobu.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interbankbdi.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcb.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bgf.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "crdbbank.co.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bi.kcbgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bbcibank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finbankburundi.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "bcab.bi": {
+   "wildcard": true,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bhb.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bije.bi": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ceniburundi.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "insbu.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 69,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minisante.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armc.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inss.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp.bi": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "regideso.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "onatel.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bbs.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.bi": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 10 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "arct.gov.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.bi": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37545": "Burundi Backbone System SM - Burundi Backbone System SM",
+  "327799": "VIETTEL BURUNDI SA - VIETTEL BURUNDI SA",
+  "25429": "CBINET-AS CBINET Burundi",
+  "197000": "RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC)"
+ },
+ "rollup": {
+  "all": {
+   "routable": 747,
+   "us_hyperscaler_share": 4.3,
+   "african_region_share": 0.0,
+   "us_saas_share": 11.1,
+   "cdn_share": 2.9,
+   "national_or_self_share": 2.0,
+   "unattributed": 293,
+   "by_category": {
+    "unattributed": 293,
+    "commercial-host": 302,
+    "us-hyperscaler-offshore": 32,
+    "us-saas": 83,
+    "self-hosted": 15,
+    "cdn-origin-unknown": 22
+   },
+   "institutions": 34,
+   "names": 784,
+   "m365": 9,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 5
+  },
+  "government": {
+   "routable": 490,
+   "us_hyperscaler_share": 1.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 1.2,
+   "cdn_share": 0.0,
+   "national_or_self_share": 2.2,
+   "unattributed": 268,
+   "by_category": {
+    "unattributed": 268,
+    "commercial-host": 200,
+    "us-hyperscaler-offshore": 5,
+    "us-saas": 6,
+    "self-hosted": 11
+   },
+   "institutions": 23,
+   "names": 605,
+   "m365": 1,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 2
+  },
+  "bank": {
+   "routable": 257,
+   "us_hyperscaler_share": 10.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 30.0,
+   "cdn_share": 8.6,
+   "national_or_self_share": 1.6,
+   "unattributed": 25,
+   "by_category": {
+    "commercial-host": 102,
+    "us-saas": 77,
+    "unattributed": 25,
+    "us-hyperscaler-offshore": 27,
+    "self-hosted": 4,
+    "cdn-origin-unknown": 22
+   },
+   "institutions": 11,
+   "names": 179,
+   "m365": 8,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 3
+  }
+ },
+ "findings": []
+}
