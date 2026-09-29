@@ -1,0 +1,45 @@
+type,institution,domain,email_domain,status,note
+Presidency,Presidência da República,presidencia.cv,,confirmed 2026-09-29,
+Presidency,Governo de Cabo Verde,governo.cv,,confirmed 2026-09-29,
+Parliament,Assembleia Nacional,parlamento.cv,,confirmed 2026-09-29,
+Foreign Affairs,Ministério dos Negócios Estrangeiros e Comunidades,mne.gov.cv,,confirmed 2026-09-29,
+Defence,Ministério da Defesa Nacional,,,absent,shares fa.gov.cv with Armed Forces; no separate ministry site found
+Armed Forces,Forças Armadas de Cabo Verde,fa.gov.cv,,confirmed 2026-09-29,also carries the Defence minister page
+Police,Polícia Nacional,policianacional.cv,,confirmed 2026-09-29,
+Justice,Ministério da Justiça,justica.gov.cv,,confirmed 2026-09-29,
+Justice,Ministério Público / Procuradoria-Geral da República,ministeriopublico.cv,,confirmed 2026-09-29,prosecution service; no unified courts portal found
+Justice,Tribunal Constitucional,tribunalconstitucional.cv,,confirmed 2026-09-29,
+Treasury / Finance,Ministério das Finanças,mf.gov.cv,,confirmed 2026-09-29,also hosts the eCompras portal and the DNRE pages under /web/
+Revenue Service,Direção Nacional das Receitas do Estado,,,absent,under mf.gov.cv/web/dnre; helpdesk mail uses dnre.gov.cv but no standalone site found
+Customs,Direção Geral das Alfândegas,,,absent,within the revenue service (DNRE) under mf.gov.cv
+Intelligence,Serviço de Informações da República,,,absent,no official website found
+Interior / Home Affairs,Ministério da Administração Interna,mai.gov.cv,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Central Bank,Banco de Cabo Verde,bcv.cv,,confirmed 2026-09-29,
+Commercial Banks,Caixa Económica de Cabo Verde,caixa.cv,,confirmed 2026-09-29,Ranking: Banco de Cabo Verde D-SIB classification 2025 (data at 31 Dec 2024) and BCV authorised-institutions list (bcv.cv). Only 8 generic-authorisation banks exist. Left out: Ecobank Cabo Verde (ecobank.com/cv group site) and iib Cabo Verde (iibanks.com group site) have no domain of their own
+Commercial Banks,Banco Comercial do Atlântico,bca.cv,,confirmed 2026-09-29,
+Commercial Banks,Banco Cabo-verdiano de Negócios,bcn.cv,,confirmed 2026-09-29,
+Commercial Banks,Banco Interatlântico,bi.cv,,confirmed 2026-09-29,
+Commercial Banks,Banco BAI Cabo Verde,bancobai.cv,,confirmed 2026-09-29,
+Civil registry / National ID authority,"Direção Geral dos Registos, Notariado e Identificação",,,absent,shares justica.gov.cv with Justice
+Data protection authority,Comissão Nacional de Proteção de Dados,cnpd.cv,,confirmed 2026-09-29,
+Electoral commission,Comissão Nacional de Eleições,cne.cv,,confirmed 2026-09-29,
+Statistics office,Instituto Nacional de Estatística,ine.cv,,confirmed 2026-09-29,
+Immigration / Passports,Direção de Estrangeiros e Fronteiras,,,absent,within Polícia Nacional (policianacional.cv) under Interior; no own domain
+Health ministry / National health insurance,Ministério da Saúde,minsaude.gov.cv,,confirmed 2026-09-29,
+Social protection / Social registry,Instituto Nacional de Previdência Social,inps.cv,,confirmed 2026-09-29,
+Land registry,Registo Predial,,,absent,conservatórias run by the Justice ministry (justica.gov.cv); no own domain
+National payment switch,SISP - Sociedade Interbancária e Sistemas de Pagamentos,sisp.cv,,confirmed 2026-09-29,vinti4 network
+Stock exchange,Bolsa de Valores de Cabo Verde,bvc.cv,,confirmed 2026-09-29,
+Securities regulator,Auditoria Geral do Mercado de Valores Mobiliários,agmvm.cv,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Instituto Nacional de Previdência Social,,,absent,national pension fund is INPS; seeded as inps.cv under Social protection
+Public procurement authority,Autoridade Reguladora das Aquisições Públicas,arap.cv,,confirmed 2026-09-29,eCompras portal sits under mf.gov.cv/web/ecompras
+Energy utility,Electra,electra.cv,,confirmed 2026-09-29,
+Ports authority,ENAPOR,enapor.cv,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,CV Telecom,cvtelecom.cv,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,NOSi - Núcleo Operacional para a Sociedade de Informação,nosi.cv,,confirmed 2026-09-29,
+E-government agency,Portal Único do Governo,gov.cv,,confirmed 2026-09-29,parent zone; also single-window citizen portal
+National data centre / Government cloud operator,NOSi data centre,,,absent,shares nosi.cv with the E-government agency
+Cybersecurity agency / National CERT,CSIRT.CV / Centro Nacional de Cibersegurança,,,absent,no own website found; CSIRT RTPE is run by NOSi (nosi.cv)
+Communications regulator,Agência Reguladora Multissectorial da Economia,arme.cv,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Audit office,Tribunal de Contas,tribunalcontas.cv,,confirmed 2026-09-29,
+Anti-corruption commission,Conselho de Prevenção da Corrupção,cpc.cv,,confirmed 2026-09-29,
