@@ -1,0 +1,592 @@
+iso3,type,institution,domain,name,source,rr_type,rr_status,target,ip,cname_chain,asn,owner,category,region,provider,scan_date
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,ar.presidency.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,mail.presidency.gov.sd,dictionary;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,webmail.presidency.gov.sd,dictionary;ct,A,ok,mail.presidency.gov.sd,62.12.105.8,mail.presidency.gov.sd,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,www.ar.presidency.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,www.presidency.gov.sd,root;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root,MX,ok,mail.presidency.gov.sd,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root,MX,ok,ps-web01.nic.gov.sd,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root,NS,ok,ns1.nic.gov.sd,102.130.255.181,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root,NS,ok,ns2.hosting.sdnog.sd,102.222.102.174,,328365,ZANOG,unattributed,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root,NS,ok,ns1.hosting.sdnog.sd,102.130.255.173,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,presidency.gov.sd,root,TXT,ok,v=spf1 a mx ip4:62.12.105.8 a:mail.presidency.gov.sd a:ps-web01.nic.gov.sd ~all,,,,,,,,2026-09-29
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,_dmarc.presidency.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:admin@presidency.gov.sd; ruf=mailto:admin@presidency.gov.sd; pct=5; ri=86400; sp=quarantine,,,,,,,,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,autoconfig.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,autodiscover.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,cpanel.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,cpcalendars.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,cpcontacts.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,ftp.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,mail.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,webdisk.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,webmail.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,whm.parliament.gov.sd,dictionary,A,ok,,68.65.120.94,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,www.parliament.gov.sd,root,A,ok,parliament.gov.sd,68.65.120.94,parliament.gov.sd,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,MX,ok,mx3-hosting.jellyfish.systems,162.255.118.13,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,MX,ok,mx1-hosting.jellyfish.systems,162.255.118.28,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,MX,ok,mx2-hosting.jellyfish.systems,162.255.118.29,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,NS,ok,ns2.shasha24.com,68.65.120.95,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,NS,ok,ns1.shasha24.com,68.65.120.90,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,parliament.gov.sd,root,TXT,ok,v=spf1 +a +mx +ip4:68.65.120.90 +ip4:68.65.120.93 include:spf.web-hosting.com ~all,,,,,,,,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,_dmarc.parliament.gov.sd,root,TXT,ok,v=DMARC1; p=none;,,,,,,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,autoconfig.mfa.gov.sd,dictionary,A,ok,mail.mfa.gov.sd,62.12.106.52,mail.mfa.gov.sd,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,autodiscover.mfa.gov.sd,dictionary,A,ok,mail.mfa.gov.sd,62.12.106.52,mail.mfa.gov.sd,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mail.mfa.gov.sd,dictionary;ct,A,ok,,62.12.106.52,,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mfa.gov.sd,root,A,ok,,102.130.255.178,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,www.mail.mfa.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,www.mfa.gov.sd,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mfa.gov.sd,root,MX,ok,mail.mfa.gov.sd,62.12.106.52,,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mfa.gov.sd,root,NS,ok,ns2.hosting.sdnog.sd,102.222.102.174,,328365,ZANOG,unattributed,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mfa.gov.sd,root,NS,ok,ns1.nic.gov.sd,102.130.255.181,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mfa.gov.sd,root,NS,ok,ns1.hosting.sdnog.sd,102.130.255.173,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,mfa.gov.sd,root,TXT,ok,v=spf1 mx a ip4:62.12.106.52 ~all,,,,,,,,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,_dmarc.mfa.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:postmaster@mfa.gov.sd; ruf=mailto:postmaster@mfa.gov.sd; fo=1,,,,,,,,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,moj.gov.sd,root,A,ok,,167.86.71.67,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,www.moj.gov.sd,root,A,ok,,167.86.71.67,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,moj.gov.sd,root,MX,ok,mail.moj.gov.sd,167.86.71.67,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,moj.gov.sd,root,NS,ok,ns3.contabo.net,209.126.15.15,,40021,Contabo Inc.,unattributed,,,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,moj.gov.sd,root,NS,ok,ns2.contabo.net,195.179.224.10,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,moj.gov.sd,root,NS,ok,ns1.contabo.net,5.180.150.13,,51167,de-tt1data-1-mnt,commercial-host,,Contabo,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,moj.gov.sd,root,TXT,ok,v=spf1 a mx ip4:167.86.71.67 ip4:5.189.140.169  include:_spf.google.com ~all,,,,,,,,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,_dmarc.moj.gov.sd,root,TXT,ok,v=DMARC1; p=reject; sp=none; rf=afrf; pct=100; ri=86400; adkim=r; aspf=r;,,,,,,,,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,mail.sj.gov.sd,dictionary,A,ok,,68.65.120.91,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root;ct,A,ok,,104.21.30.65,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root;ct,A,ok,,172.67.172.53,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root;ct,AAAA,ok,,2606:4700:3032::ac43:ac35,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root;ct,AAAA,ok,,2606:4700:3030::6815:1e41,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,webmail.sj.gov.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,www.sj.gov.sd,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,www.webmail.sj.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root,MX,ok,mx2-hosting.jellyfish.systems,162.255.118.29,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root,MX,ok,mx3-hosting.jellyfish.systems,162.255.118.13,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root,MX,ok,mx1-hosting.jellyfish.systems,162.255.118.28,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root,NS,ok,cesar.ns.cloudflare.com,108.162.195.119,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root,NS,ok,jean.ns.cloudflare.com,108.162.192.121,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,sj.gov.sd,root,TXT,ok,v=spf1 +a +mx +ip4:68.65.120.90 +ip4:68.65.120.93 include:spf.web-hosting.com ~all,,,,,,,,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,_dmarc.sj.gov.sd,root,TXT,ok,v=DMARC1; p=none;,,,,,,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,autoconfig.mof.gov.sd,dictionary,A,ok,mail.mof.gov.sd,62.12.106.62,mail.mof.gov.sd,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,autodiscover.mof.gov.sd,dictionary,A,ok,mail.mof.gov.sd,62.12.106.62,mail.mof.gov.sd,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,events.mof.gov.sd,dictionary;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mail.mof.gov.sd,dictionary;ct,A,ok,,62.12.106.62,,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mof.gov.sd,root;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,webmail.mof.gov.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,www.mail.mof.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,www.mof.gov.sd,root,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mof.gov.sd,root,MX,ok,mail.mof.gov.sd,62.12.106.62,,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mof.gov.sd,root,NS,ok,ns2.hosting.sdnog.sd,102.222.102.174,,328365,ZANOG,unattributed,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mof.gov.sd,root,NS,ok,ns1.nic.gov.sd,102.130.255.181,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mof.gov.sd,root,NS,ok,ns1.hosting.sdnog.sd,102.130.255.173,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,mof.gov.sd,root,TXT,ok,v=spf1 a mx ip4:62.12.106.62 a:mail.mof.gov.sd ~all,,,,,,,,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,_dmarc.mof.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:admin@mof.gov.sd; ruf=mailto:admin@mof.gov.sd; pct=5; ri=86400; sp=quarantine,,,,,,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,asyw.customs.gov.sd,ct,A,ok,,196.1.219.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root;ct,A,ok,,196.1.219.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,mail.customs.gov.sd,dictionary,A,ok,,196.1.219.68,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,prog.customs.gov.sd,ct,A,ok,,196.1.219.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,web.customs.gov.sd,dictionary;ct,A,ok,,196.1.219.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,web.prog.customs.gov.sd,ct,A,ok,,196.1.219.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,www.customs.gov.sd,root,A,ok,,196.1.219.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,MX,ok,mail.customs.gov.sd,196.1.219.68,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,NS,ok,ns11.digicertdns.com,208.80.124.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,NS,ok,ns15.digicertdns.net,208.94.149.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,NS,ok,ns10.digicertdns.com,208.94.148.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,NS,ok,ns14.digicertdns.net,208.80.127.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,NS,ok,ns12.digicertdns.com,208.80.126.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,NS,ok,ns13.digicertdns.net,208.80.125.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,customs.gov.sd,root,TXT,ok,v=spf1 a:mail.customs.sd ip4:196.1.219.68 -all,,,,,,,,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,mail.moi.gov.sd,dictionary;ct,A,ok,,65.21.129.227,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root;ct,A,ok,,172.67.156.27,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root;ct,A,ok,,104.21.34.74,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root;ct,AAAA,ok,,2606:4700:3032::ac43:9c1b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root;ct,AAAA,ok,,2606:4700:3030::6815:224a,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,webmail.moi.gov.sd,dictionary;ct,A,ok,,65.21.129.227,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,www.moi.gov.sd,root;ct,A,ok,,172.67.156.27,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,www.moi.gov.sd,root;ct,A,ok,,104.21.34.74,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,www.moi.gov.sd,root;ct,AAAA,ok,,2606:4700:3030::6815:224a,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,www.moi.gov.sd,root;ct,AAAA,ok,,2606:4700:3032::ac43:9c1b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root,MX,ok,mail.moi.gov.sd,65.21.129.227,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root,NS,ok,adam.ns.cloudflare.com,108.162.193.54,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root,NS,ok,harleigh.ns.cloudflare.com,108.162.194.58,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,moi.gov.sd,root,TXT,ok,v=spf1 ip4:65.21.129.227 a include:_spf.google.com include:spf.protection.outlook.com ~all,,,,,,,,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,_dmarc.moi.gov.sd,root,TXT,ok,v=DMARC1; p=reject; adkim=s; aspf=s,,,,,,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,autodiscover.cbos.gov.sd,dictionary;ct,A,ok,mail.cbos.gov.sd,196.1.221.156,mail2.cbos.gov.sd>mail.cbos.gov.sd,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,cbos.gov.sd,root;ct,A,ok,,163.172.73.244,,12876,ONLINE-NET-MNT,unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,dns1.cbos.gov.sd,dictionary,A,ok,,196.1.221.155,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,khambx01.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,khambx02.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,mail.cbos.gov.sd,dictionary,A,ok,,196.1.221.156,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,mail2.cbos.gov.sd,dictionary;ct,A,ok,mail.cbos.gov.sd,196.1.221.156,mail.cbos.gov.sd,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,remote.cbos.gov.sd,dictionary;ct,A,ok,,196.1.221.66,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,sa.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,sso.cbos.gov.sd,dictionary,A,ok,,196.1.221.153,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.autodiscover.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.cbos.gov.sd,root;ct,A,ok,cbos.gov.sd,163.172.73.244,cbos.gov.sd,12876,ONLINE-NET-MNT,unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.khambx01.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.khambx02.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.mail2.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.remote.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,www.sa.cbos.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,cbos.gov.sd,root,MX,ok,smfw.cbos.gov.sd,196.1.221.157,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,cbos.gov.sd,root,NS,ok,alec.ns.cloudflare.com,108.162.193.59,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,cbos.gov.sd,root,NS,ok,tiffany.ns.cloudflare.com,108.162.194.60,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,cbos.gov.sd,root,TXT,ok,v=spf1 mx ~all,,,,,,,,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,_dmarc.cbos.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:dmarc@cbos.gov.sd; ruf=mailto:dmarc@cbos.gov.sd; sp=none; fo=1; pct=100; adkim=r; aspf=s,,,,,,,,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root;ct,A,ok,,37.60.249.251,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,cp.bankofkhartoum.com,dictionary;ct,A,ok,,37.60.249.251,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,e-account.bankofkhartoum.com,ct,A,ok,,135.181.208.54,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,eaccount.bankofkhartoum.com,ct,A,ok,bok.itserver.biz,162.55.153.122,bok.itserver.biz,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,ftp.bankofkhartoum.com,dictionary,A,ok,,54.83.37.162,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,mail.bankofkhartoum.com,dictionary;ct,A,ok,,54.173.38.157,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,www.bankofkhartoum.com,root;ct,A,ok,,37.60.249.251,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,MX,ok,mail.bankofkhartoum.com,54.173.38.157,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,MX,ok,mail.lnamdd.com,54.173.38.157,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,MX,ok,mail.bankofkhartoum.com,54.173.38.157,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,MX,ok,mail.wsiarabia.com,54.173.38.157,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,NS,ok,bjorn.ns.cloudflare.com,108.162.195.98,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,NS,ok,penny.ns.cloudflare.com,108.162.194.124,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,bankofkhartoum.com,root,TXT,ok,v=spf1 mx a ip4:54.173.38.157 a:mail.wsiarabia.com -all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,A,ok,,212.0.159.225,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,mail.fib-sd.com,dictionary,A,ok,,212.0.159.227,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,openvpn.fib-sd.com,dictionary,A,ok,,129.159.247.231,,,oracle,us-hyperscaler-offshore,eu-frankfurt-1,oracle,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,www.fib-sd.com,root,A,ok,fib-sd.com,212.0.159.225,fib-sd.com,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,MX,ok,mail.fib-sd.com,212.0.159.227,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,NS,ok,ns4.dnsmadeeasy.com,208.80.127.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,NS,ok,ns1.dnsmadeeasy.com,208.80.124.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,NS,ok,ns3.dnsmadeeasy.com,208.80.125.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,NS,ok,ns2.dnsmadeeasy.com,208.80.126.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,NS,ok,ns0.dnsmadeeasy.com,208.94.148.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,fib-sd.com,root,TXT,ok,v=spf1 mx ip4:212.0.159.227 ip4:197.254.236.22 ip4:46.42.74.6 -all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,_dmarc.fib-sd.com,root,TXT,ok,v=DMARC1;p=quarantine;rua=mailto:sec1@fib-sd.com;ruf=mailto:sec1@fib-sd.com,,,,,,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,dns.onb-sd.com,dictionary,A,ok,,196.1.223.57,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,mail.onb-sd.com,dictionary,A,ok,,212.0.146.77,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root;ct,A,ok,,212.0.146.73,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,www.onb-sd.com,root,A,ok,onb-sd.com,212.0.146.73,onb-sd.com,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,MX,ok,mail.onb-sd.com,212.0.146.77,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,NS,ok,pns31.cloudns.net,185.136.96.66,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,NS,ok,pns32.cloudns.net,185.136.97.66,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,NS,ok,pns34.cloudns.net,185.136.99.66,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,NS,ok,pns33.cloudns.net,185.136.98.66,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,NS,ok,ns31.cloudns.net,109.201.133.111,,43350,MNT-NFORCE,unattributed,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,onb-sd.com,root,TXT,ok,v=spf1 a mx ip4:196.223.155.186 ~all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,_dmarc.onb-sd.com,root,TXT,ok,v=DMARC1;p=reject;sp=reject;pct=100;adkim=r;aspf=r;ri=86400;rua=mailto:dmarck-reports@onb-sd.com,,,,,,,,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,alsalam-bank.net,root;ct,A,ok,,15.197.225.128,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,alsalam-bank.net,root;ct,A,ok,,3.33.251.168,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,autodiscover.alsalam-bank.net,dictionary,A,ok,,116.202.218.126,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,email.alsalam-bank.net,dictionary,A,ok,,116.202.218.126,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,mobile.alsalam-bank.net,dictionary,A,ok,,148.251.101.211,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,www.alsalam-bank.net,root,A,ok,,148.251.101.212,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,alsalam-bank.net,root,MX,ok,email.alsalam-bank.net,116.202.218.126,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,alsalam-bank.net,root,NS,ok,ns11.domaincontrol.com,97.74.105.6,,44273,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,alsalam-bank.net,root,NS,ok,ns12.domaincontrol.com,173.201.73.6,,44273,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,alsalam-bank.net,root,TXT,ok,v=spf1 mx ip4:116.202.218.126 -all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,_dmarc.alsalam-bank.net,root,TXT,ok,v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;,,,,,,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,autoconfig.sib.sd,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,autodiscover.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,cms.sib.sd,dictionary,A,ok,,82.29.178.96,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,cpanel.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,cpcalendars.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,cpcontacts.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,ftp.sib.sd,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,gateway.sib.sd,dictionary,A,ok,,196.1.232.177,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,mail.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,mobile.sib.sd,dictionary;ct,A,ok,,196.1.224.113,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,mobiletest.sib.sd,ct,A,ok,,196.223.157.101,,37211,MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib-online.sib.sd,ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib.sd,root;ct,A,ok,,82.29.178.96,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,vpn.sib.sd,dictionary,A,ok,,196.1.224.113,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,vpn.sib.sd,dictionary,A,ok,,197.254.252.190,,33788,Kanar Telecommunication (Canar Telecom Co.Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,webdisk.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,webmail.sib.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,whm.sib.sd,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,www.gateway.sib.sd,ct,A,ok,,196.1.232.177,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,www.mob.sib.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,www.mobile.sib.sd,ct,A,ok,,196.1.224.113,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,www.mobiletest.sib.sd,ct,A,ok,,196.223.157.101,,37211,MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,www.sib-online.sib.sd,ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,www.sib.sd,root;ct,A,ok,,82.29.178.96,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib.sd,root,MX,ok,mail.sib.sd,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib.sd,root,NS,ok,ns1.maxnet-cloud.com,50.115.16.250,,53861,KGIX,unattributed,,,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib.sd,root,NS,ok,ns2.maxnet-cloud.com,162.159.24.60,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib.sd,root,NS,ok,ns3.maxnet-cloud.com,162.159.25.219,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,sib.sd,root,NS,ok,ns4.maxnet-cloud.com,162.159.26.231,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,_dmarc.sib.sd,root,TXT,ok,v=DMARC1;p=none;sp=none;,,,,,,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,alnilebank.com,root;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,autodiscover.alnilebank.com,dictionary;ct,A,ok,mail.alnilebank.com,178.63.141.122,mail.alnilebank.com,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,dalaiinstance.alnilebank.com,ct,A,ok,,178.63.208.72,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,internetbanking.alnilebank.com,dictionary,A,ok,,212.0.139.229,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,kyc.alnilebank.com,ct,A,ok,,142.132.210.226,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,mail.alnilebank.com,dictionary;ct,A,ok,,178.63.141.122,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,nileoffice.alnilebank.com,ct,A,ok,,142.132.210.226,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,sahil.alnilebank.com,ct,A,ok,,213.239.198.112,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,tran.alnilebank.com,ct,A,ok,,67.43.0.101,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,vpn.alnilebank.com,dictionary,A,ok,,212.0.151.130,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,www.alnilebank.com,root;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,www.mail.alnilebank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,www.sahil.alnilebank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,alnilebank.com,root,MX,ok,mail.alnilebank.com,178.63.141.122,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,alnilebank.com,root,NS,ok,ns-125-c.gandi.net,217.70.187.126,,209453,GANDI-NOC,unattributed,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,alnilebank.com,root,NS,ok,ns-103-a.gandi.net,173.246.100.104,,209453,Gandi.net,unattributed,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,alnilebank.com,root,NS,ok,ns-61-b.gandi.net,213.167.230.62,,209453,GANDI-NOC,unattributed,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,alnilebank.com,root,TXT,ok,v=spf1 mx -all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,_dmarc.alnilebank.com,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:dmarc-reports@alnilebank.com,,,,,,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,autoconfig.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,autodiscover.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,cpanel.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,cpcalendars.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,cpcontacts.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,ftp.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,mail.tadamonbank-sd.com,dictionary,A,ok,tadamonbank-sd.com,138.128.160.2,tadamonbank-sd.com,33182,"HostDime.com, Inc.",unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,mail2.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,mobile.tadamonbank-sd.com,dictionary,A,ok,,212.0.145.27,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,tadamonbank-sd.com,root;ct,A,ok,,138.128.160.2,,33182,"HostDime.com, Inc.",unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,webdisk.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,webmail.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,whm.tadamonbank-sd.com,dictionary,A,ok,,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,www.tadamonbank-sd.com,root,A,ok,tadamonbank-sd.com,138.128.160.2,tadamonbank-sd.com,33182,"HostDime.com, Inc.",unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,tadamonbank-sd.com,root,MX,ok,mail2.tadamonbank-sd.com,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,tadamonbank-sd.com,root,NS,ok,ns3.alhost.mobi,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,tadamonbank-sd.com,root,NS,ok,ns4.alhost.mobi,173.233.86.110,,40244,Turnkey Internet Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,tadamonbank-sd.com,root,TXT,ok,v=spf1 ip4:173.233.86.110 +a +mx +ip4:173.198.213.70 +ip4:87.247.241.39 ~all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,A,ok,autod.ms-acdc-autod.office.com,52.98.201.88,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,A,ok,autod.ms-acdc-autod.office.com,52.97.241.168,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,A,ok,autod.ms-acdc-autod.office.com,52.97.211.248,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,A,ok,autod.ms-acdc-autod.office.com,52.98.207.152,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:10ba::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:140c::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:140d::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:141b::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:1450::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:1460::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:1461::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,autodiscover.ssb-sd.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:1463::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,cpanel.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,cpcalendars.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,cpcontacts.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ftp.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,mail.ssb-sd.com,dictionary,A,ok,,196.1.208.174,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,webdisk.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,webmail.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,whm.ssb-sd.com,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,www.ssb-sd.com,root,A,ok,ssb-sd.com,91.197.230.113,ssb-sd.com,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root,MX,ok,ssbsd-com0i.mail.protection.outlook.com,52.101.148.13,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root,NS,ok,ns2.maxnet-cloud.com,162.159.24.60,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root,NS,ok,ns4.maxnet-cloud.com,162.159.26.231,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root,NS,ok,ns1.maxnet-cloud.com,50.115.16.250,,53861,KGIX,unattributed,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root,NS,ok,ns3.maxnet-cloud.com,162.159.25.219,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,ssb-sd.com,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,_dmarc.ssb-sd.com,root,TXT,ok,v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=1;rf=afrf;ri=86400;rua=mailto:dmarc@ssb-sd.com;ruf=mailto:dmarc@ssb-sd.com,,,,,,,,2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,mail.sfbank-sd.com,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root;ct,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,webmail.sfbank-sd.com,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,www.sfbank-sd.com,root,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,MX,ok,mail.sfbank-sd.com,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,NS,ok,ns1.dnsmadeeasy.com,208.80.124.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,NS,ok,ns0.dnsmadeeasy.com,208.94.148.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,NS,ok,ns4.dnsmadeeasy.com,208.80.127.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,NS,ok,ns3.dnsmadeeasy.com,208.80.125.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,NS,ok,ns2.dnsmadeeasy.com,208.80.126.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,sfbank-sd.com,root,TXT,ok,v=spf1 +a +mx include:webhostbox.net ~all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,app.bluemashreg.com,dictionary,A,ok,,37.61.211.235,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,autoconfig.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,autodiscover.bluemashreg.com,dictionary,A,ok,mail.bluemashreg.com,37.61.211.236,mail.bluemashreg.com,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,bluemashreg.com,root,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,corp.bluemashreg.com,dictionary,A,ok,,37.61.211.235,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,cpanel.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,cpcalendars.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,cpcontacts.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,exchange.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,ftp.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,link.bluemashreg.com,dictionary,A,ok,,37.61.211.237,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,mail.bluemashreg.com,dictionary,A,ok,,37.61.211.236,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,monitor.bluemashreg.com,dictionary,A,ok,,37.61.211.237,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,mx3.bluemashreg.com,dictionary,A,ok,,37.61.211.238,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,vpn.bluemashreg.com,dictionary,A,ok,,41.209.126.78,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,webdisk.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,webmail.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,whm.bluemashreg.com,dictionary,A,ok,,173.208.49.163,,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,www.bluemashreg.com,root,A,ok,bluemashreg.com,173.208.49.163,bluemashreg.com,205544,leaseweb-uk-mnt,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,bluemashreg.com,root,MX,ok,mx3.bluemashreg.com,37.61.211.238,,29066,FGK-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,bluemashreg.com,root,NS,ok,ns2.exaservers.com,37.48.84.144,,60781,LEASEWEB-NL-MNT,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,bluemashreg.com,root,NS,ok,ns1.exaservers.com,38.145.205.11,,18978,Enzu Inc.,unattributed,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,bluemashreg.com,root,TXT,ok,v=spf1 A MX ip4:173.208.49.163 include:spf-c.mailbaby.net include:mailbaby.net include:relay.mailbaby.net include:_spf.bluemashreg_com._d.easydmarc.pro -all,,,,,,,,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,_dmarc.bluemashreg.com,root,TXT,ok,v=DMARC1;p=reject;pct=100;rua=mailto:de1aeb7a4f@rua.easydmarc.eu;ruf=mailto:de1aeb7a4f@ruf.easydmarc.eu;ri=86400;fo=1;,,,,,,,,2026-09-29
+SDN,Statistics office,Central Bureau of Statistics,cbs.gov.sd,cbs.gov.sd,root;ct,A,timeout,,,,,,unresolved,,,2026-09-29
+SDN,Statistics office,Central Bureau of Statistics,cbs.gov.sd,kobo.cbs.gov.sd,ct,A,timeout,,,,,,unresolved,,,2026-09-29
+SDN,Statistics office,Central Bureau of Statistics,cbs.gov.sd,www.cbs.gov.sd,root;ct,A,timeout,,,,,,unresolved,,,2026-09-29
+SDN,Statistics office,Central Bureau of Statistics,cbs.gov.sd,cbs.gov.sd,root,MX,timeout,,,,,,unresolved,,,2026-09-29
+SDN,Statistics office,Central Bureau of Statistics,cbs.gov.sd,cbs.gov.sd,root,NS,timeout,,,,,,unresolved,,,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,apply.passports.gov.sd,dictionary,A,ok,,78.100.138.75,,8781,Ooredoo Q.S.C.,unattributed,,,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,apply.passports.gov.sd,dictionary,A,ok,,78.100.138.74,,8781,Ooredoo Q.S.C.,unattributed,,,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,ftp.passports.gov.sd,dictionary,A,ok,,104.21.89.155,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,ftp.passports.gov.sd,dictionary,A,ok,,172.67.189.149,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,ftp.passports.gov.sd,dictionary,AAAA,ok,,2606:4700:3035::6815:599b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,ftp.passports.gov.sd,dictionary,AAAA,ok,,2606:4700:3033::ac43:bd95,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,gserver.passports.gov.sd,ct,A,ok,,104.21.89.155,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,gserver.passports.gov.sd,ct,A,ok,,172.67.189.149,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,gserver.passports.gov.sd,ct,AAAA,ok,,2606:4700:3033::ac43:bd95,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,gserver.passports.gov.sd,ct,AAAA,ok,,2606:4700:3035::6815:599b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,mail.passports.gov.sd,dictionary;ct,A,ok,,94.130.39.53,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,mail.passports.gov.sd,dictionary;ct,AAAA,ok,,2a01:4f8:10b:24ab::2,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root;ct,A,ok,,172.67.189.149,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root;ct,A,ok,,104.21.89.155,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root;ct,AAAA,ok,,2606:4700:3035::6815:599b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root;ct,AAAA,ok,,2606:4700:3033::ac43:bd95,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,qu.passports.gov.sd,ct,A,ok,,94.130.39.53,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,queue.passports.gov.sd,ct,A,ok,,94.130.39.53,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,quu.passports.gov.sd,ct,A,ok,,94.130.39.53,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.gserver.passports.gov.sd,ct,A,ok,,104.21.89.155,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.gserver.passports.gov.sd,ct,A,ok,,172.67.189.149,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.gserver.passports.gov.sd,ct,AAAA,ok,,2606:4700:3035::6815:599b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.gserver.passports.gov.sd,ct,AAAA,ok,,2606:4700:3033::ac43:bd95,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.mail.passports.gov.sd,ct,A,ok,,172.67.189.149,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.mail.passports.gov.sd,ct,A,ok,,104.21.89.155,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.mail.passports.gov.sd,ct,AAAA,ok,,2606:4700:3035::6815:599b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.mail.passports.gov.sd,ct,AAAA,ok,,2606:4700:3033::ac43:bd95,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.passports.gov.sd,root;ct,A,ok,,172.67.189.149,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.passports.gov.sd,root;ct,A,ok,,104.21.89.155,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.passports.gov.sd,root;ct,AAAA,ok,,2606:4700:3033::ac43:bd95,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.passports.gov.sd,root;ct,AAAA,ok,,2606:4700:3035::6815:599b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.qu.passports.gov.sd,ct,A,ok,qu.passports.gov.sd,94.130.39.53,qu.passports.gov.sd,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.queue.passports.gov.sd,ct,A,ok,queue.passports.gov.sd,94.130.39.53,queue.passports.gov.sd,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,www.quu.passports.gov.sd,ct,A,ok,quu.passports.gov.sd,94.130.39.53,quu.passports.gov.sd,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root,MX,ok,mail.passports.gov.sd,94.130.39.53,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root,NS,ok,aliza.ns.cloudflare.com,108.162.194.55,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root,NS,ok,ignacio.ns.cloudflare.com,108.162.195.82,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,passports.gov.sd,root,TXT,ok,v=spf1 a mx ip4:94.130.39.53 ip6:2a01:4f8:10b:24ab::2 ~all,,,,,,,,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,_dmarc.passports.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:dmarc@passports.gov.sd,,,,,,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,apps.fmoh.gov.sd,dictionary,A,ok,,196.1.241.134,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,autoconfig.fmoh.gov.sd,dictionary,A,ok,mail.fmoh.gov.sd,62.12.106.65,mail.fmoh.gov.sd,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,autodiscover.fmoh.gov.sd,dictionary,A,ok,mail.fmoh.gov.sd,62.12.106.65,mail.fmoh.gov.sd,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,autodiscover.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,awafi.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,covax.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,covid.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,cpanel.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,cpcalendars.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,cpcontacts.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,erp.fmoh.gov.sd,dictionary;ct,A,ok,,196.1.241.126,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,fmoh.gov.sd,root;ct,A,ok,,192.64.81.36,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,food.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,gavi.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,hajjhealth.fmoh.gov.sd,ct,A,ok,,196.1.241.34,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,hlp.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,hmis.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,mail.fmoh.gov.sd,dictionary;ct,A,ok,,62.12.106.65,,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,mail.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,mail.gavi.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,nckds.fmoh.gov.sd,ct,A,ok,,134.209.241.93,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,services.fmoh.gov.sd,dictionary;ct,A,ok,,198.57.241.146,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,webdisk.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,webmail.fmoh.gov.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,webmail.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,www.covax.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,www.fmoh.gov.sd,root;ct,A,ok,,192.64.81.36,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,www.food.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,www.gavi-pmu.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,www.mail.fmoh.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,fmoh.gov.sd,root,MX,ok,mail.fmoh.gov.sd,62.12.106.65,,327881,National Information Center (NIC),unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,fmoh.gov.sd,root,NS,ok,ns1.nic.gov.sd,102.130.255.181,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,fmoh.gov.sd,root,NS,ok,ns1.hosting.sdnog.sd,102.130.255.173,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,fmoh.gov.sd,root,NS,ok,ns2.hosting.sdnog.sd,102.222.102.174,,328365,ZANOG,unattributed,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,fmoh.gov.sd,root,TXT,ok,v=spf1 a mx ip4:62.12.106.65 a:mail.fmoh.gov.sd ~all,,,,,,,,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,_dmarc.fmoh.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:postmaster@fmoh.gov.sd; ruf=mailto:postmaster@fmoh.gov.sd; pct=5; ri=86400; sp=quarantine,,,,,,,,2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,autodiscover.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,cpanel.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,cpcalendars.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,cpcontacts.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,mail.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,webdisk.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,webmail.kse.sd,dictionary;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,www.kse.sd,root;ct,A,ok,,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,MX,ok,mail.kse.sd,162.215.254.163,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,NS,ok,ns3.dnsmadeeasy.com,208.80.125.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,NS,ok,ns0.dnsmadeeasy.com,208.94.148.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,NS,ok,ns4.dnsmadeeasy.com,208.80.127.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,NS,ok,ns1.dnsmadeeasy.com,208.80.124.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,NS,ok,ns2.dnsmadeeasy.com,208.80.126.2,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,kse.sd,root,TXT,ok,v=spf1 +a +mx include:webhostbox.net ~all,,,,,,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,autoconfig.fma.gov.sd,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,autodiscover.fma.gov.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,cpanel.fma.gov.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,cpcalendars.fma.gov.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,cpcontacts.fma.gov.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,ftp.fma.gov.sd,dictionary,A,ok,,91.197.230.54,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,mail.fma.gov.sd,dictionary;ct,A,ok,fma.gov.sd,91.197.230.113,fma.gov.sd,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,webdisk.fma.gov.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,webmail.fma.gov.sd,dictionary;ct,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,whm.fma.gov.sd,dictionary,A,ok,,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,www.fma.gov.sd,root;ct,A,ok,fma.gov.sd,91.197.230.113,fma.gov.sd,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root,MX,ok,fma.gov.sd,91.197.230.113,,204436,KGIX-MNT,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root,NS,ok,ns4.maxnet-cloud.com,162.159.26.231,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root,NS,ok,ns2.maxnet-cloud.com,162.159.24.60,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root,NS,ok,ns1.maxnet-cloud.com,50.115.16.250,,53861,KGIX,unattributed,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root,NS,ok,ns3.maxnet-cloud.com,162.159.25.219,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,fma.gov.sd,root,TXT,ok,v=spf1 +a +mx +ip4:91.197.230.54 include:spf.filteredmx.net +ip4:91.197.231.101 ~all,,,,,,,,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,_dmarc.fma.gov.sd,root,TXT,ok,v=DMARC1;p=none;sp=none;,,,,,,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,cpanel.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,cpcalendars.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,cpcontacts.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,it.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,mail.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,setco.com.sd,root;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,webdisk.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,webmail.setco.com.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,www.it.setco.com.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,www.setco.com.sd,root;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,setco.com.sd,root,MX,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,setco.com.sd,root,NS,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,autoconfig.sansaine.sudanports.gov.sd,ct,A,ok,,15.235.228.189,,16276,OVH Singapore PTE. LTD,commercial-host,,OVH,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,autoconfig.slot.sudanports.gov.sd,ct,A,ok,,15.235.228.189,,16276,OVH Singapore PTE. LTD,commercial-host,,OVH,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,autoconfig.yasagroup.sudanports.gov.sd,ct,A,ok,,15.235.228.189,,16276,OVH Singapore PTE. LTD,commercial-host,,OVH,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,cpanel.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,cpcalendars.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,cpcontacts.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,ibank.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,mail.sudanports.gov.sd,dictionary;ct,A,ok,sudanports.gov.sd,104.37.187.214,sudanports.gov.sd,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,mobile.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,sudanports.gov.sd,root;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,sw.sudanports.gov.sd,ct,A,ok,,15.235.228.189,,16276,OVH Singapore PTE. LTD,commercial-host,,OVH,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,webdisk.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,webmail.sudanports.gov.sd,dictionary;ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,www.ibank.sudanports.gov.sd,ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,www.mobile.sudanports.gov.sd,ct,A,ok,,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,www.sudanports.gov.sd,root;ct,A,ok,sudanports.gov.sd,104.37.187.214,sudanports.gov.sd,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,sudanports.gov.sd,root,MX,ok,sudanports.gov.sd,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,sudanports.gov.sd,root,NS,ok,ns2.clicksolutions.cloud,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,sudanports.gov.sd,root,NS,ok,ns1.clicksolutions.cloud,104.37.187.214,,19318,"Interserver, Inc",commercial-host,,Interserver,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,sudanports.gov.sd,root,TXT,ok,v=spf1 ip4:104.37.187.214 include:relay.mailbaby.net +a +mx +include:spf-c.mailbaby.net +ip4:138.128.160.2 -all,,,,,,,,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,_dmarc.sudanports.gov.sd,root,TXT,ok,v=DMARC1; p=none;,,,,,,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,adfs.sudatel.sd,dictionary,A,ok,,212.0.142.53,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,A,ok,d4zouv7w3ry8t.cloudfront.net,216.137.44.22,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,A,ok,d4zouv7w3ry8t.cloudfront.net,216.137.44.37,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,A,ok,d4zouv7w3ry8t.cloudfront.net,216.137.44.122,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,A,ok,d4zouv7w3ry8t.cloudfront.net,216.137.44.41,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:5400:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:4a00:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:5e00:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:600:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:b400:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:f200:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:d000:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,admin.sudatel.sd,dictionary,AAAA,ok,d4zouv7w3ry8t.cloudfront.net,2600:9000:225c:c600:e:19e:4740:93a1,d4zouv7w3ry8t.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.153.136,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.220.56,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.220.200,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.220.216,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.97.233.24,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.97.233.88,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.227.184,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.227.232,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:6a::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:74::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:76::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:1003::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:101e::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:1027::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:102a::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,autodiscover.sudatel.sd,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0d:102b::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,av.sudatel.sd,dictionary,A,ok,,212.0.142.51,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,dns1.sudatel.sd,dictionary,A,ok,,212.0.142.16,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,lyncdiscover.sudatel.sd,dictionary,A,ok,,212.0.142.53,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,mail.sudatel.sd,dictionary,A,ok,,196.202.151.100,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,meet.sudatel.sd,dictionary,A,ok,,212.0.142.53,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,monitor.sudatel.sd,dictionary,A,ok,,212.0.142.50,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,noc.sudatel.sd,dictionary,A,ok,,212.0.142.21,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,ns1.sudatel.sd,dictionary,A,ok,,196.202.139.230,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,ns1.sudatel.sd,dictionary,AAAA,ok,,2001:4228:0:2::6,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,ns2.sudatel.sd,dictionary,A,ok,,196.202.139.234,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,ns2.sudatel.sd,dictionary,AAAA,ok,,2001:4228:0:3::38,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,ns3.sudatel.sd,dictionary,A,ok,,196.202.139.232,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,ns3.sudatel.sd,dictionary,AAAA,ok,,2001:4228:0:4::4,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sip.sudatel.sd,dictionary,A,ok,,212.0.142.55,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,smtp.sudatel.sd,dictionary,A,ok,,212.0.142.31,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,smtp1.sudatel.sd,dictionary,A,ok,,212.0.142.32,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,speedtest.sudatel.sd,dictionary,A,ok,,197.252.200.10,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sslvpn.sudatel.sd,dictionary,A,ok,,212.0.142.5,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,A,ok,,216.137.38.23,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,A,ok,,216.137.38.16,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,A,ok,,216.137.38.94,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,A,ok,,216.137.38.109,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,webmail.sudatel.sd,dictionary,A,ok,,212.0.149.72,,15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,A,ok,d3u7zg3zwvsl7f.cloudfront.net,13.33.153.55,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,A,ok,d3u7zg3zwvsl7f.cloudfront.net,13.33.153.45,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,A,ok,d3u7zg3zwvsl7f.cloudfront.net,13.33.153.30,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,A,ok,d3u7zg3zwvsl7f.cloudfront.net,13.33.153.74,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:6a00:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:1a00:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:a600:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:1e00:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:b200:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:9c00:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:cc00:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,www.sudatel.sd,root,AAAA,ok,d3u7zg3zwvsl7f.cloudfront.net,2600:9000:2021:2600:11:8a52:56c0:93a1,d3u7zg3zwvsl7f.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,MX,ok,mxb-00ae9e01.gslb.pphosted.com,66.159.233.215,,,proofpoint,us-saas,,proofpoint,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,MX,ok,mxa-00ae9e01.gslb.pphosted.com,66.159.233.215,,,proofpoint,us-saas,,proofpoint,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,NS,ok,ns1.sudatel.sd,196.202.139.230,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,NS,ok,ns3.sudatel.sd,196.202.139.232,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,NS,ok,ns2.sudatel.sd,196.202.139.234,,15706,Sudatel (Sudan Telecom Co. Ltd),self-hosted,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,sudatel.sd,root,TXT,ok,v=spf1 mx include:spf-00ae9e01.pphosted.com include:spf.UAE.exclaimer.net include:uae.pb-dynmktga.com -all,,,,,,,,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,_dmarc.sudatel.sd,root,TXT,ok,v=DMARC1; p=reject; rua=mailto:infosec@sudatel.sd; ruf=mailto:infosec@sudatel.sd; fo=1; adkim=s; aspf=s;,,,,,,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,mail.sudan.gov.sd,dictionary;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,webmail.sudan.gov.sd,dictionary;ct,A,ok,mail.sudan.gov.sd,62.12.105.8,mail.sudan.gov.sd,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,www.sudan.gov.sd,root;ct,A,ok,,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root,MX,ok,ps-web01.nic.gov.sd,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root,MX,ok,mail.sudan.gov.sd,62.12.105.8,,327881,National Information Center (NIC) - National Information Center (NIC),unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root,NS,ok,ns2.hosting.sdnog.sd,102.222.102.174,,328365,ZANOG,unattributed,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root,NS,ok,ns1.nic.gov.sd,102.130.255.181,,37474,Sudanese Internet Association,self-hosted,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root,NS,ok,ns1.hosting.sdnog.sd,102.130.255.173,,37474,Sudanese Internet Association,self-hosted,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,sudan.gov.sd,root,TXT,ok,v=spf1 a mx ip4:62.12.105.8 a:mail.sudan.gov.sd a:ps-web01.nic.gov.sd ~all,,,,,,,,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,_dmarc.sudan.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:admin@sudan.gov.sd; ruf=mailto:admin@sudan.gov.sd; pct=5; ri=86400; sp=quarantine,,,,,,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,app.tpra.gov.sd,dictionary;ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,autodiscover.tpra.gov.sd,dictionary,A,ok,,196.1.238.86,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,backup.tpra.gov.sd,dictionary,A,ok,,185.54.92.75,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,crm.tpra.gov.sd,dictionary,A,ok,,196.1.238.87,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,dc.tpra.gov.sd,dictionary,A,ok,,185.54.92.76,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,dms.tpra.gov.sd,dictionary,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,dropbox.tpra.gov.sd,ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,ereport.tpra.gov.sd,ct,A,ok,,196.1.238.67,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,erp.tpra.gov.sd,dictionary;ct,A,ok,,196.1.238.72,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,eservices.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,etest.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,fs.tpra.gov.sd,dictionary,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,ftp.tpra.gov.sd,dictionary,A,ok,tpra.gov.sd,185.54.92.77,tpra.gov.sd,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,ipv4.tpra.gov.sd,dictionary,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,jowda.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,mail.tpra.gov.sd,dictionary;ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,my.tpra.gov.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,nas.tpra.gov.sd,dictionary,A,ok,,196.202.142.109,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,newsite.tpra.gov.sd,ct,A,ok,,196.1.238.67,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,nms.tpra.gov.sd,dictionary;ct,A,ok,,102.130.253.100,,328381,Sudanese Internet Association,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,owa.tpra.gov.sd,dictionary;ct,A,ok,,196.1.238.86,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,planning.tpra.gov.sd,ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,plesk.tpra.gov.sd,ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,plesk1.tpra.gov.sd,ct,A,ok,,196.1.238.67,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,plesk2.tpra.gov.sd,ct,A,ok,,102.130.255.178,,37474,Sudanese Internet Association,telco-isp,,ISPA SA,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,portal.tpra.gov.sd,dictionary,A,ok,,102.130.253.146,,328381,Sudanese Internet Association,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,sms-portal.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,sms-smpp.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,sms-ws.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tariff.tpra.gov.sd,ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,telecom-status.tpra.gov.sd,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpra.gov.sd,root;ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpravc.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,unified.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,vc.tpra.gov.sd,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,vcapp.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,webmail.tpra.gov.sd,dictionary;ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,website.tpra.gov.sd,ct,A,ok,,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,workshops.tpra.gov.sd,ct,A,ok,,196.1.238.67,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,www.eservices.tpra.gov.sd,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,www.tpra.gov.sd,root;ct,A,ok,tpra.gov.sd,185.54.92.77,tpra.gov.sd,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpra.gov.sd,root,MX,ok,mail.tpra.gov.sd,185.54.92.77,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpra.gov.sd,root,NS,ok,ns1.tdc.sd,196.10.53.72,,37474,ISPA SA,telco-isp,,ISPA SA,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpra.gov.sd,root,NS,ok,ns2.tdc.sd,185.54.92.73,,203993,STEFFANN-MNT,unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpra.gov.sd,root,NS,ok,ns3.tdc.sd,196.1.238.66,,15706,Sudatel (Sudan Telecom Co. Ltd),unattributed,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,tpra.gov.sd,root,TXT,ok,v=spf1 +a +mx +a:plesk.tpra.gov.sd -all,,,,,,,,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,_dmarc.tpra.gov.sd,root,TXT,ok,v=DMARC1; p=quarantine; adkim=s; aspf=s,,,,,,,,2026-09-29

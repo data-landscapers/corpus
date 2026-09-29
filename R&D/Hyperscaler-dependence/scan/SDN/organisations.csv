@@ -1,0 +1,30 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+SDN,Presidency,Transitional Sovereignty Council,presidency.gov.sd,7,9,0.0,0.0,0.0,0.0,0.0,7,other:National Information Center (NIC) - National Information Center (NIC),,false,2026-09-29
+SDN,Parliament,National Legislature,parliament.gov.sd,13,17,0.0,0.0,0.0,0.0,0.0,0,other:Namecheap,,false,2026-09-29
+SDN,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,7,8,0.0,0.0,0.0,0.0,0.0,5,other:National Information Center (NIC),,false,2026-09-29
+SDN,Justice,Ministry of Justice,moj.gov.sd,3,6,0.0,0.0,0.0,0.0,0.0,1,google,,false,2026-09-29
+SDN,Justice,Sudan Judiciary,sj.gov.sd,6,10,0.0,0.0,0.0,60.0,0.0,0,other:Namecheap,,false,2026-09-29
+SDN,Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,9,10,0.0,0.0,0.0,0.0,0.0,8,other:National Information Center (NIC),,false,2026-09-29
+SDN,Customs,Sudan Customs Authority,customs.gov.sd,7,14,0.0,0.0,42.9,0.0,0.0,8,other:Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),,false,2026-09-29
+SDN,Interior / Home Affairs,Ministry of Interior,moi.gov.sd,5,13,0.0,0.0,0.0,76.9,0.0,0,m365,,false,2026-09-29
+SDN,Central Bank,Central Bank of Sudan,cbos.gov.sd,18,11,0.0,0.0,0.0,18.2,0.0,9,other:Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),,false,2026-09-29
+SDN,Commercial Banks,Bank of Khartoum,bankofkhartoum.com,7,13,46.2,0.0,0.0,15.4,0.0,0,other:aws,,false,2026-09-29
+SDN,Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,5,10,10.0,0.0,50.0,0.0,0.0,4,other:Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),,false,2026-09-29
+SDN,Commercial Banks,Omdurman National Bank,onb-sd.com,5,10,0.0,0.0,0.0,0.0,0.0,6,other:Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),,false,2026-09-29
+SDN,Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,6,9,22.2,0.0,0.0,0.0,0.0,0,other:Hetzner,,false,2026-09-29
+SDN,Commercial Banks,Sudanese Islamic Bank,sib.sd,24,28,0.0,0.0,0.0,10.7,0.0,22,other:KGIX-MNT,,false,2026-09-29
+SDN,Commercial Banks,Nile Bank,alnilebank.com,14,14,0.0,0.0,0.0,0.0,0.0,6,other:Hetzner,,false,2026-09-29
+SDN,Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,14,17,0.0,0.0,0.0,0.0,0.0,17,other:Turnkey Internet Inc.,,false,2026-09-29
+SDN,Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,12,27,0.0,0.0,48.1,11.1,0.0,11,m365,,false,2026-09-29
+SDN,Commercial Banks,Sudanese French Bank,sfbank-sd.com,4,10,0.0,0.0,50.0,0.0,0.0,0,other:Unified Layer (Bluehost),,false,2026-09-29
+SDN,Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,20,22,0.0,0.0,0.0,0.0,0.0,22,other:FGK-MNT,,false,2026-09-29
+SDN,Statistics office,Central Bureau of Statistics,cbs.gov.sd,3,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SDN,Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,15,37,0.0,0.0,0.0,70.3,0.0,2,other:Hetzner,,false,2026-09-29
+SDN,Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,32,14,7.1,0.0,0.0,0.0,0.0,8,other:National Information Center (NIC),,false,2026-09-29
+SDN,Stock exchange,Khartoum Stock Exchange,kse.sd,9,15,0.0,0.0,33.3,0.0,0.0,0,other:Unified Layer (Bluehost),,false,2026-09-29
+SDN,Securities regulator,Financial Markets Authority,fma.gov.sd,13,17,0.0,0.0,0.0,17.6,0.0,14,other:KGIX-MNT,,false,2026-09-29
+SDN,Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,10,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SDN,Ports authority,Sea Ports Corporation,sudanports.gov.sd,17,19,0.0,0.0,0.0,0.0,0.0,0,other:Interserver,,false,2026-09-29
+SDN,State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,22,69,40.6,0.0,26.1,0.0,33.3,0,other:proofpoint,proofpoint,true,2026-09-29
+SDN,E-government agency,Republic of Sudan national government portal,sudan.gov.sd,5,9,0.0,0.0,0.0,0.0,22.2,7,other:National Information Center (NIC) - National Information Center (NIC),,false,2026-09-29
+SDN,Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,42,32,0.0,0.0,0.0,0.0,0.0,30,other:STEFFANN-MNT,,false,2026-09-29
