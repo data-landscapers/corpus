@@ -1,51 +1,52 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-KEN,Presidency,Executive Office of the President,president.go.ke,10,19,0.0,0.0,0.0,21.1,31.6,0,other:Konza Technopolis (national data centre),,false,2026-09-28
-KEN,Parliament,Parliament of Kenya,parliament.go.ke,28,92,3.3,0.0,9.8,80.4,0.0,0,m365,,false,2026-09-28
-KEN,Foreign Affairs,Ministry of Foreign and Diaspora Affairs,mfa.go.ke,15,21,0.0,0.0,0.0,0.0,61.9,0,other:Konza Technopolis (national data centre),,false,2026-09-28
-KEN,Defence,Ministry of Defence and Kenya Defence Forces,mod.go.ke,56,56,0.0,0.0,0.0,0.0,0.0,0,other:Telkom Kenya,,false,2026-09-28
-KEN,Police,National Police Service,nationalpolice.go.ke,11,13,7.7,0.0,0.0,0.0,30.8,0,other:aws,,true,2026-09-28
-KEN,Justice,Judiciary of Kenya,judiciary.go.ke,37,54,0.0,0.0,29.6,0.0,5.6,0,m365,,false,2026-09-28
-KEN,Justice,Office of the Attorney General,statelaw.go.ke,8,10,0.0,0.0,0.0,0.0,50.0,0,none,,false,2026-09-28
-KEN,Treasury / Finance,The National Treasury,treasury.go.ke,36,43,0.0,0.0,0.0,0.0,53.5,0,other:Konza Technopolis (national data centre),,false,2026-09-28
-KEN,Revenue Service,Kenya Revenue Authority,kra.go.ke,85,58,3.4,0.0,0.0,3.4,65.5,0,self,,true,2026-09-28
-KEN,Intelligence,National Intelligence Service,nis.go.ke,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-28
-KEN,Interior / Home Affairs,Ministry of Interior and National Administration,interior.go.ke,7,12,8.3,0.0,0.0,0.0,58.3,0,other:Konza Technopolis (national data centre),,true,2026-09-28
-KEN,Central Bank,Central Bank of Kenya,centralbank.go.ke,79,28,0.0,0.0,7.1,7.1,35.7,0,m365,cisco-ironport,false,2026-09-28
-KEN,Commercial Banks,KCB Group,kcbgroup.com,221,433,12.7,0.0,16.9,63.5,0.0,0,m365,,false,2026-09-28
-KEN,Commercial Banks,Equity Bank,equitybank.co.ke,34,48,43.8,0.0,27.1,10.4,18.8,0,m365,forcepoint,true,2026-09-28
-KEN,Commercial Banks,Co-operative Bank of Kenya,co-opbank.co.ke,23,46,21.7,0.0,28.3,4.3,15.2,0,m365,,true,2026-09-28
-KEN,Commercial Banks,NCBA Group,ncbagroup.com,152,137,48.2,2.9,8.8,16.1,13.9,0,m365,mimecast,true,2026-09-28
-KEN,Commercial Banks,Absa Bank Kenya,absabank.co.ke,87,79,36.7,17.7,0.0,32.9,12.7,0,none,,true,2026-09-28
-KEN,Commercial Banks,Stanbic Bank Kenya,stanbicbank.co.ke,170,260,10.8,0.0,0.0,85.8,0.0,0,none,,false,2026-09-28
-KEN,Commercial Banks,I&M Bank,imbankgroup.com,9,39,0.0,0.0,33.3,66.7,0.0,0,m365,,false,2026-09-28
-KEN,Commercial Banks,Diamond Trust Bank,dtbafrica.com,76,96,13.5,0.0,2.1,74.0,6.2,0,m365,forcepoint,true,2026-09-28
-KEN,Commercial Banks,Family Bank,familybank.co.ke,39,104,0.0,0.0,17.3,70.2,7.7,0,m365,,false,2026-09-28
-KEN,Commercial Banks,Prime Bank,primebank.co.ke,27,72,52.8,0.0,16.7,8.3,6.9,0,m365,forcepoint;proofpoint,true,2026-09-28
-KEN,Immigration / Passports,Department of Immigration Services,immigration.go.ke,13,22,0.0,0.0,0.0,36.4,36.4,0,other:Konza Technopolis (national data centre),,false,2026-09-28
-KEN,Data protection authority,Office of the Data Protection Commissioner,odpc.go.ke,19,31,0.0,0.0,41.9,3.2,48.4,0,m365,,false,2026-09-28
-KEN,Electoral commission,Independent Electoral and Boundaries Commission (IEBC),iebc.or.ke,49,56,17.9,0.0,5.4,0.0,0.0,0,m365,,false,2026-09-28
-KEN,Statistics office,Kenya National Bureau of Statistics,knbs.or.ke,56,64,0.0,0.0,10.9,3.1,62.5,0,google,,false,2026-09-28
-KEN,Health ministry / National health insurance,Ministry of Health,health.go.ke,203,204,8.8,7.4,0.0,0.0,43.1,0,other:Konza Technopolis (national data centre),,true,2026-09-28
-KEN,Health ministry / National health insurance,Social Health Authority,sha.go.ke,182,210,31.0,26.7,6.2,28.6,0.5,0,m365,,true,2026-09-28
-KEN,Social protection / Social registry,National Social Security Fund,nssf.or.ke,35,32,0.0,0.0,0.0,0.0,0.0,0,other:Host Africa,,false,2026-09-28
-KEN,Social protection / Social registry,State Department for Social Protection,socialprotection.go.ke,13,18,0.0,0.0,0.0,0.0,72.2,0,other:Konza Technopolis (national data centre),,false,2026-09-28
-KEN,Land registry,Ministry of Lands (Ardhisasa),lands.go.ke,8,13,0.0,0.0,0.0,0.0,53.8,0,other:Konza Technopolis (national data centre),,false,2026-09-28
-KEN,National payment switch,Integrated Payment Services (PesaLink),ipsl.co.ke,3,15,0.0,0.0,33.3,66.7,0.0,0,google,,false,2026-09-28
-KEN,Stock exchange,Nairobi Securities Exchange,nse.co.ke,106,60,21.7,3.3,26.7,0.0,0.0,0,m365,mimecast,false,2026-09-28
-KEN,Securities regulator,Capital Markets Authority,cma.or.ke,20,41,14.6,0.0,41.5,0.0,0.0,0,m365,,false,2026-09-28
-KEN,Sovereign wealth fund / National pension fund,Retirement Benefits Authority,rba.go.ke,24,44,9.1,0.0,43.2,11.4,0.0,0,m365,,false,2026-09-28
-KEN,Public procurement authority,Public Procurement Regulatory Authority,ppra.go.ke,11,28,32.1,0.0,32.1,0.0,0.0,0,m365,,false,2026-09-28
-KEN,Public procurement authority,Government tenders portal,tenders.go.ke,3,11,0.0,0.0,45.5,0.0,0.0,0,google,,false,2026-09-28
-KEN,Energy utility,Kenya Power,kplc.co.ke,50,51,9.8,0.0,0.0,9.8,13.7,0,m365,,true,2026-09-28
-KEN,Energy utility,KenGen,kengen.co.ke,63,93,14.0,0.0,18.3,23.7,1.1,0,m365,,true,2026-09-28
-KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,53,57,19.3,0.0,31.6,3.5,26.3,0,m365,cisco-ironport,true,2026-09-28
-KEN,State-owned telco / National backbone operator,Safaricom,safaricom.co.ke,777,524,8.4,0.2,0.4,69.7,17.9,0,other:Cisco Secure Email (IronPort),cisco-ironport,true,2026-09-28
-KEN,State-owned telco / National backbone operator,Telkom Kenya,telkom.co.ke,83,69,2.9,0.0,18.8,0.0,73.9,0,m365,,true,2026-09-28
-KEN,E-government agency,eCitizen,ecitizen.go.ke,94,162,1.2,0.0,3.1,51.9,0.0,0,google,,false,2026-09-28
-KEN,E-government agency,ICT Authority,icta.go.ke,94,89,4.5,1.1,0.0,1.1,70.8,0,other:Konza Technopolis (national data centre),,true,2026-09-28
-KEN,National data centre / Government cloud operator,Konza Technopolis,konza.go.ke,307,935,0.0,0.0,0.1,97.1,2.7,0,m365,,false,2026-09-28
-KEN,Cybersecurity agency / National CERT,National KE-CIRT/CC,ke-cirt.go.ke,11,34,26.5,0.0,44.1,0.0,0.0,0,m365,,false,2026-09-28
-KEN,Communications regulator,Communications Authority of Kenya,ca.go.ke,40,52,25.0,0.0,32.7,5.8,0.0,0,m365,,false,2026-09-28
-KEN,Audit office,Office of the Auditor-General,oagkenya.go.ke,50,50,52.0,0.0,2.0,0.0,0.0,0,m365,,false,2026-09-28
-KEN,Anti-corruption commission,Ethics and Anti-Corruption Commission,eacc.go.ke,35,21,0.0,0.0,0.0,0.0,0.0,0,other:Safaricom,,false,2026-09-28
-KEN,E-government agency,"Ministry of Information, Communications and the Digital Economy",ict.go.ke,31,37,0.0,0.0,13.5,0.0,59.5,0,google,,false,2026-09-28
+KEN,Presidency,Executive Office of the President,president.go.ke,10,19,0.0,0.0,0.0,21.1,31.6,0,other:Konza Technopolis (national data centre),,false,2026-09-29
+KEN,Parliament,Parliament of Kenya,parliament.go.ke,28,96,3.1,0.0,13.5,77.1,0.0,0,m365,,false,2026-09-29
+KEN,Foreign Affairs,Ministry of Foreign and Diaspora Affairs,mfa.go.ke,15,21,0.0,0.0,0.0,0.0,61.9,0,other:Konza Technopolis (national data centre),,false,2026-09-29
+KEN,Defence,Ministry of Defence and Kenya Defence Forces,mod.go.ke,56,56,0.0,0.0,0.0,0.0,0.0,0,other:Telkom Kenya,,false,2026-09-29
+KEN,Police,National Police Service,nationalpolice.go.ke,11,13,7.7,0.0,0.0,0.0,30.8,0,other:aws,,true,2026-09-29
+KEN,Justice,Judiciary of Kenya,judiciary.go.ke,37,50,0.0,0.0,24.0,0.0,6.0,0,m365,,false,2026-09-29
+KEN,Justice,Office of the Attorney General,statelaw.go.ke,8,10,0.0,0.0,0.0,0.0,50.0,0,none,,false,2026-09-29
+KEN,Treasury / Finance,The National Treasury,treasury.go.ke,36,43,0.0,0.0,0.0,0.0,53.5,0,other:Konza Technopolis (national data centre),,false,2026-09-29
+KEN,Revenue Service,Kenya Revenue Authority,kra.go.ke,85,58,3.4,0.0,0.0,3.4,65.5,0,self,,true,2026-09-29
+KEN,Intelligence,National Intelligence Service,nis.go.ke,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+KEN,Interior / Home Affairs,Ministry of Interior and National Administration,interior.go.ke,7,12,8.3,0.0,0.0,0.0,58.3,0,other:Konza Technopolis (national data centre),,true,2026-09-29
+KEN,Central Bank,Central Bank of Kenya,centralbank.go.ke,79,28,0.0,0.0,7.1,7.1,35.7,0,m365,cisco-ironport,false,2026-09-29
+KEN,Commercial Banks,KCB Group,kcbgroup.com,221,437,12.6,0.0,17.6,62.9,0.0,0,m365,,false,2026-09-29
+KEN,Commercial Banks,Equity Bank,equitybank.co.ke,34,48,43.8,0.0,27.1,10.4,18.8,0,m365,forcepoint,true,2026-09-29
+KEN,Commercial Banks,Co-operative Bank of Kenya,co-opbank.co.ke,23,46,21.7,0.0,28.3,4.3,15.2,0,m365,,true,2026-09-29
+KEN,Commercial Banks,NCBA Group,ncbagroup.com,152,133,49.6,3.0,6.0,16.5,14.3,0,m365,mimecast,true,2026-09-29
+KEN,Commercial Banks,Absa Bank Kenya,absabank.co.ke,87,79,36.7,17.7,0.0,32.9,12.7,0,none,,true,2026-09-29
+KEN,Commercial Banks,Stanbic Bank Kenya,stanbicbank.co.ke,170,254,11.0,0.0,0.0,85.4,0.0,0,none,,false,2026-09-29
+KEN,Commercial Banks,I&M Bank,imbankgroup.com,9,35,0.0,0.0,25.7,74.3,0.0,0,m365,,false,2026-09-29
+KEN,Commercial Banks,Diamond Trust Bank,dtbafrica.com,76,96,13.5,0.0,2.1,74.0,6.2,0,m365,forcepoint,true,2026-09-29
+KEN,Commercial Banks,Family Bank,familybank.co.ke,39,104,0.0,0.0,17.3,70.2,7.7,0,m365,,false,2026-09-29
+KEN,Commercial Banks,Prime Bank,primebank.co.ke,27,72,52.8,0.0,16.7,8.3,6.9,0,m365,forcepoint;proofpoint,true,2026-09-29
+KEN,Civil registry / National ID authority,State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau),usajili.go.ke,4,19,0.0,0.0,68.4,0.0,15.8,0,m365,,false,2026-09-29
+KEN,Immigration / Passports,Department of Immigration Services,immigration.go.ke,13,22,0.0,0.0,0.0,36.4,36.4,0,other:Konza Technopolis (national data centre),,false,2026-09-29
+KEN,Data protection authority,Office of the Data Protection Commissioner,odpc.go.ke,19,31,0.0,0.0,41.9,3.2,48.4,0,m365,,false,2026-09-29
+KEN,Electoral commission,Independent Electoral and Boundaries Commission (IEBC),iebc.or.ke,49,56,17.9,0.0,5.4,0.0,0.0,0,m365,,false,2026-09-29
+KEN,Statistics office,Kenya National Bureau of Statistics,knbs.or.ke,56,64,0.0,0.0,10.9,3.1,62.5,0,google,,false,2026-09-29
+KEN,Health ministry / National health insurance,Ministry of Health,health.go.ke,203,204,8.8,7.4,0.0,0.0,43.1,0,other:Konza Technopolis (national data centre),,true,2026-09-29
+KEN,Health ministry / National health insurance,Social Health Authority,sha.go.ke,182,206,31.6,27.2,4.4,29.1,0.5,0,m365,,true,2026-09-29
+KEN,Social protection / Social registry,National Social Security Fund,nssf.or.ke,35,32,0.0,0.0,0.0,0.0,0.0,0,other:Host Africa,,false,2026-09-29
+KEN,Social protection / Social registry,State Department for Social Protection,socialprotection.go.ke,13,18,0.0,0.0,0.0,0.0,72.2,0,other:Konza Technopolis (national data centre),,false,2026-09-29
+KEN,Land registry,Ministry of Lands (Ardhisasa),lands.go.ke,8,13,0.0,0.0,0.0,0.0,53.8,0,other:Konza Technopolis (national data centre),,false,2026-09-29
+KEN,National payment switch,Integrated Payment Services (PesaLink),ipsl.co.ke,23,83,1.2,0.0,6.0,89.2,0.0,0,google,,false,2026-09-29
+KEN,Stock exchange,Nairobi Securities Exchange,nse.co.ke,106,52,25.0,3.8,15.4,0.0,0.0,0,m365,mimecast,false,2026-09-29
+KEN,Securities regulator,Capital Markets Authority,cma.or.ke,20,41,14.6,0.0,41.5,0.0,0.0,0,m365,,false,2026-09-29
+KEN,Sovereign wealth fund / National pension fund,Retirement Benefits Authority,rba.go.ke,24,40,10.0,0.0,37.5,12.5,0.0,0,m365,,false,2026-09-29
+KEN,Public procurement authority,Public Procurement Regulatory Authority,ppra.go.ke,11,32,28.1,0.0,40.6,0.0,0.0,0,m365,,false,2026-09-29
+KEN,Public procurement authority,Government tenders portal,tenders.go.ke,3,11,0.0,0.0,45.5,0.0,0.0,0,google,,false,2026-09-29
+KEN,Energy utility,Kenya Power,kplc.co.ke,50,51,9.8,0.0,0.0,9.8,13.7,0,m365,,true,2026-09-29
+KEN,Energy utility,KenGen,kengen.co.ke,59,85,15.3,0.0,10.6,25.9,1.2,0,m365,,true,2026-09-29
+KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,53,49,22.4,0.0,20.4,4.1,30.6,0,m365,cisco-ironport,true,2026-09-29
+KEN,State-owned telco / National backbone operator,Safaricom,safaricom.co.ke,777,518,8.5,0.2,0.4,69.3,18.1,0,other:Cisco Secure Email (IronPort),cisco-ironport,true,2026-09-29
+KEN,State-owned telco / National backbone operator,Telkom Kenya,telkom.co.ke,83,69,2.9,0.0,18.8,0.0,73.9,0,m365,,true,2026-09-29
+KEN,E-government agency,eCitizen,ecitizen.go.ke,94,162,1.2,0.0,3.1,51.9,0.0,0,google,,false,2026-09-29
+KEN,E-government agency,ICT Authority,icta.go.ke,94,89,4.5,1.1,0.0,1.1,70.8,0,other:Konza Technopolis (national data centre),,true,2026-09-29
+KEN,National data centre / Government cloud operator,Konza Technopolis,konza.go.ke,296,929,0.0,0.0,0.1,97.1,2.7,0,m365,,false,2026-09-29
+KEN,Cybersecurity agency / National CERT,National KE-CIRT/CC,ke-cirt.go.ke,11,34,26.5,0.0,44.1,0.0,0.0,0,m365,,false,2026-09-29
+KEN,Communications regulator,Communications Authority of Kenya,ca.go.ke,40,48,27.1,0.0,27.1,6.2,0.0,0,m365,,false,2026-09-29
+KEN,Audit office,Office of the Auditor-General,oagkenya.go.ke,50,50,52.0,0.0,2.0,0.0,0.0,0,m365,,false,2026-09-29
+KEN,Anti-corruption commission,Ethics and Anti-Corruption Commission,eacc.go.ke,35,21,0.0,0.0,0.0,0.0,0.0,0,other:Safaricom,,false,2026-09-29
+KEN,E-government agency,"Ministry of Information, Communications and the Digital Economy",ict.go.ke,31,37,0.0,0.0,13.5,0.0,59.5,0,google,,false,2026-09-29

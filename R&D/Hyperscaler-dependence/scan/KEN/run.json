@@ -1,14 +1,14 @@
 {
  "iso3": "KEN",
- "scan_date": "2026-09-28",
+ "scan_date": "2026-09-29",
  "range_files": {
-  "aws.json": "2026-09-28",
-  "google-cloud.json": "2026-09-28",
-  "google.json": "2026-09-28",
-  "cloudflare-v4.txt": "2026-09-28",
-  "cloudflare-v6.txt": "2026-09-28",
-  "oracle.json": "2026-09-28",
-  "azure.json": "2026-09-28"
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
  },
  "range_file_errors": {},
  "domains": {
@@ -74,15 +74,6 @@
    "scope": "full",
    "dead": false,
    "has_mx": false
-  },
-  "treasury.go.ke": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 24,
-   "dictionary_hits": 11,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
   },
   "kra.go.ke": {
    "wildcard": false,
@@ -210,6 +201,15 @@
    "dead": false,
    "has_mx": true
   },
+  "usajili.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
   "immigration.go.ke": {
    "wildcard": false,
    "ct_status": "ok",
@@ -293,8 +293,8 @@
   },
   "ipsl.co.ke": {
    "wildcard": true,
-   "ct_status": "failed",
-   "ct_names": 0,
+   "ct_status": "ok",
+   "ct_names": 22,
    "dictionary_hits": 0,
    "scope": "full",
    "dead": false,
@@ -354,15 +354,6 @@
    "dead": false,
    "has_mx": true
   },
-  "kengen.co.ke": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 57,
-   "dictionary_hits": 6,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
   "kpa.co.ke": {
    "wildcard": false,
    "ct_status": "ok",
@@ -408,24 +399,6 @@
    "dead": false,
    "has_mx": true
   },
-  "konza.go.ke": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 289,
-   "dictionary_hits": 17,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "ke-cirt.go.ke": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 1,
-   "dictionary_hits": 8,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
   "ca.go.ke": {
    "wildcard": false,
    "ct_status": "ok",
@@ -461,82 +434,118 @@
    "scope": "full",
    "dead": false,
    "has_mx": true
+  },
+  "treasury.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "kengen.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 57,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ke-cirt.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "konza.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 289,
+   "dictionary_hits": 17,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
   }
  },
  "new_asns": {},
  "rollup": {
   "all": {
-   "routable": 4747,
-   "us_hyperscaler_share": 11.0,
-   "african_region_share": 2.0,
-   "us_saas_share": 8.1,
-   "cdn_share": 48.2,
+   "routable": 4780,
+   "us_hyperscaler_share": 10.9,
+   "african_region_share": 1.9,
+   "us_saas_share": 7.6,
+   "cdn_share": 48.8,
    "national_or_self_share": 13.1,
    "unattributed": 0,
    "by_category": {
-    "commercial-host": 101,
-    "national-dc": 293,
-    "telco-isp": 723,
-    "cdn-origin-unknown": 2287,
-    "us-saas": 384,
-    "us-hyperscaler-offshore": 428,
-    "african-colo": 85,
-    "unresolved": 11,
+    "commercial-host": 102,
+    "national-dc": 296,
+    "telco-isp": 727,
+    "cdn-origin-unknown": 2333,
+    "us-saas": 361,
+    "us-hyperscaler-offshore": 429,
+    "african-colo": 86,
     "self-hosted": 330,
+    "unresolved": 11,
     "us-hyperscaler-africa": 93,
     "chinese-cloud": 12
    },
-   "institutions": 50,
-   "names": 3645,
-   "m365": 26,
+   "institutions": 51,
+   "names": 3654,
+   "m365": 27,
    "google": 5,
    "tangled_hybrid": 17,
-   "any_us_hyperscaler": 29
+   "any_us_hyperscaler": 30
   },
   "government": {
-   "routable": 3433,
-   "us_hyperscaler_share": 7.6,
+   "routable": 3476,
+   "us_hyperscaler_share": 7.5,
    "african_region_share": 2.2,
-   "us_saas_share": 6.6,
-   "cdn_share": 45.4,
-   "national_or_self_share": 16.3,
+   "us_saas_share": 6.0,
+   "cdn_share": 46.3,
+   "national_or_self_share": 16.2,
    "unattributed": 0,
    "by_category": {
-    "commercial-host": 72,
-    "national-dc": 293,
-    "telco-isp": 676,
-    "cdn-origin-unknown": 1558,
-    "us-saas": 228,
-    "us-hyperscaler-offshore": 186,
-    "african-colo": 58,
-    "unresolved": 9,
+    "commercial-host": 74,
+    "national-dc": 296,
+    "telco-isp": 679,
+    "cdn-origin-unknown": 1610,
+    "us-saas": 209,
+    "us-hyperscaler-offshore": 187,
+    "african-colo": 59,
     "self-hosted": 266,
+    "unresolved": 9,
     "us-hyperscaler-africa": 75,
     "chinese-cloud": 12
    },
-   "institutions": 40,
-   "names": 2807,
-   "m365": 18,
+   "institutions": 41,
+   "names": 2816,
+   "m365": 19,
    "google": 5,
    "tangled_hybrid": 11,
-   "any_us_hyperscaler": 21
+   "any_us_hyperscaler": 22
   },
   "bank": {
-   "routable": 1314,
-   "us_hyperscaler_share": 19.8,
+   "routable": 1304,
+   "us_hyperscaler_share": 19.9,
    "african_region_share": 1.4,
-   "us_saas_share": 11.9,
-   "cdn_share": 55.5,
+   "us_saas_share": 11.7,
+   "cdn_share": 55.4,
    "national_or_self_share": 4.9,
    "unattributed": 0,
    "by_category": {
-    "cdn-origin-unknown": 729,
+    "cdn-origin-unknown": 723,
     "african-colo": 27,
     "us-hyperscaler-offshore": 242,
-    "us-saas": 156,
+    "us-saas": 152,
     "unresolved": 2,
-    "telco-isp": 47,
-    "commercial-host": 29,
+    "telco-isp": 48,
+    "commercial-host": 28,
     "self-hosted": 64,
     "us-hyperscaler-africa": 18
    },
@@ -548,13 +557,5 @@
    "any_us_hyperscaler": 8
   }
  },
- "findings": [
-  {
-   "kind": "dangling-cloud-cname",
-   "domain": "safaricom.co.ke",
-   "name": "intranet.safaricom.co.ke",
-   "target": "safintranetredirect.azurewebsites.net",
-   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
-  }
- ]
+ "findings": []
 }
