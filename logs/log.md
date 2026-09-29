@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-29 15:55 · **HYPERSCALER** · unclocked · 04 TZA: institutions 44 · US 14% · shield 20% · rank 26/54 · dangling 0
 2026-09-29 15:54 · **HYPERSCALER** · unclocked · 04 UGA: institutions 36 · US 9% · shield 55% · rank 41/54 · dangling 1
 2026-09-29 15:54 · **HYPERSCALER** · unclocked · 04 GHA: institutions 44 · US 19% · shield 26% · rank 17/54 · dangling 2
 2026-09-29 15:54 · **HYPERSCALER** · unclocked · 04 NGA: institutions 52 · US 24% · shield 44% · rank 10/54 · dangling 2
