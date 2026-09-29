@@ -370,12 +370,21 @@ def first_ip(host: str) -> str:
 
 def crtsh(domain: str) -> tuple[str, set[str]]:
     url = f"https://crt.sh/?q=%25.{domain}&output=json"
+    # A day's answer is kept, so a scan resumed after a crt.sh outage does not ask again; a copy
+    # fetched by hand (curl, when crt.sh answers it and not this) is read the same way.
+    cp = CACHE / "ct" / f"{domain}.json"
     for attempt in (0, 1):
         try:
-            r = requests.get(url, headers=UA, timeout=90)
-            r.raise_for_status()
+            if fresh(cp, 1):
+                rows = json.loads(cp.read_text(encoding="utf-8"))
+            else:
+                r = requests.get(url, headers=UA, timeout=90)
+                r.raise_for_status()
+                rows = r.json()
+                cp.parent.mkdir(parents=True, exist_ok=True)
+                cp.write_text(json.dumps(rows), encoding="utf-8")
             names = set()
-            for row in r.json():
+            for row in rows:
                 for n in row.get("name_value", "").split("\n"):
                     n = n.strip().lower().rstrip(".")
                     if n.startswith("*."):
