@@ -1,35 +1,35 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-BEN,Presidency,Présidence de la République du Bénin,presidence.bj,61,68,36.8,0.0,1.5,26.5,0.0,17,m365,,false,2026-09-29
-BEN,Parliament,Assemblée nationale du Bénin,assemblee-nationale.bj,14,37,0.0,0.0,0.0,0.0,0.0,36,other:MNT-INSA|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,,false,2026-09-29
-BEN,Foreign Affairs,Ministère des Affaires étrangères et de la Coopération,diplomatie.gouv.bj,11,5,0.0,0.0,20.0,0.0,0.0,4,m365,,false,2026-09-29
-BEN,Defence,Ministère de la Défense nationale,defense.bj,90,69,0.0,0.0,5.8,2.9,0.0,14,other:Hetzner,,false,2026-09-29
-BEN,Police,Direction générale de la Police républicaine,dgpr.bj,7,11,0.0,0.0,9.1,54.5,0.0,4,m365,,false,2026-09-29
-BEN,Justice,Ministère de la Justice et de la Législation,justice.gouv.bj,8,6,0.0,0.0,0.0,0.0,0.0,6,m365,,false,2026-09-29
-BEN,Treasury / Finance,Ministère de l'Économie et des Finances,finances.bj,122,74,0.0,0.0,0.0,0.0,0.0,62,other:SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,,false,2026-09-29
-BEN,Treasury / Finance,Direction générale du Trésor et de la Comptabilité publique,tresorbenin.bj,9,19,0.0,0.0,0.0,0.0,0.0,4,other:IONOS,,false,2026-09-29
-BEN,Revenue Service,Direction générale des Impôts,impots.finances.gouv.bj,4,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-BEN,Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité publique,interieur.gouv.bj,3,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-BEN,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,41,41,9.8,0.0,22.0,0.0,0.0,25,google,,false,2026-09-29
+BEN,Presidency,Présidence de la République du Bénin,presidence.bj,61,68,36.8,0.0,1.5,26.5,23.5,0,m365,,true,2026-09-29
+BEN,Parliament,Assemblée nationale du Bénin,assemblee-nationale.bj,14,37,0.0,0.0,0.0,0.0,8.1,0,other:Infomaniak-AS Infomaniak Network SA|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQU,,false,2026-09-29
+BEN,Foreign Affairs,Ministère des Affaires étrangères et de la Coopération,diplomatie.gouv.bj,11,5,0.0,0.0,20.0,0.0,80.0,0,m365,,false,2026-09-29
+BEN,Defence,Ministère de la Défense nationale,defense.bj,90,69,0.0,0.0,5.8,2.9,18.8,0,other:Hetzner,,false,2026-09-29
+BEN,Police,Direction générale de la Police républicaine,dgpr.bj,7,11,0.0,0.0,9.1,54.5,36.4,0,m365,,false,2026-09-29
+BEN,Justice,Ministère de la Justice et de la Législation,justice.gouv.bj,8,6,0.0,0.0,0.0,0.0,100.0,0,m365,,false,2026-09-29
+BEN,Treasury / Finance,Ministère de l'Économie et des Finances,finances.bj,122,74,0.0,0.0,0.0,0.0,56.8,1,other:SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCT,,false,2026-09-29
+BEN,Treasury / Finance,Direction générale du Trésor et de la Comptabilité publique,tresorbenin.bj,9,19,0.0,0.0,0.0,0.0,0.0,0,other:IONOS,,false,2026-09-29
+BEN,Revenue Service,Direction générale des Impôts,impots.finances.gouv.bj,4,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+BEN,Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité publique,interieur.gouv.bj,3,2,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+BEN,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,41,41,9.8,0.0,22.0,0.0,0.0,0,google,,false,2026-09-29
 BEN,Commercial Banks,Banque internationale pour l'industrie et le commerce (BIIC),biic-bank.com,10,33,27.3,0.0,39.4,0.0,0.0,0,m365,,false,2026-09-29
 BEN,Commercial Banks,Bank of Africa Bénin,boabenin.com,11,16,0.0,0.0,12.5,0.0,0.0,0,other:broadcom-messagelabs,broadcom-messagelabs,false,2026-09-29
 BEN,Commercial Banks,NSIA Banque Bénin,nsiabanque.bj,11,46,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
 BEN,Commercial Banks,Coris Bank International Bénin,benin.coris.bank,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-BEN,Civil registry / National ID authority,Agence nationale d'identification des personnes (ANIP),anip.bj,33,40,0.0,0.0,22.5,5.0,0.0,29,m365,,false,2026-09-29
+BEN,Civil registry / National ID authority,Agence nationale d'identification des personnes (ANIP),anip.bj,33,40,0.0,0.0,22.5,5.0,72.5,0,m365,,false,2026-09-29
 BEN,Data protection authority,Autorité de protection des données personnelles (APDP),apdp.bj,31,45,8.9,0.0,0.0,8.9,0.0,0,other:cloudflare,,false,2026-09-29
-BEN,Electoral commission,Commission électorale nationale autonome (CENA),cena.bj,34,22,0.0,0.0,4.5,0.0,0.0,20,m365,,false,2026-09-29
-BEN,Statistics office,Institut national de la statistique et de la démographie (INStaD),instad.bj,20,22,4.5,0.0,0.0,0.0,0.0,21,other:nmm-mnt,,false,2026-09-29
-BEN,Health ministry / National health insurance,Ministère de la Santé,sante.gouv.bj,9,12,0.0,0.0,8.3,50.0,0.0,5,m365,,false,2026-09-29
-BEN,Social protection / Social registry,Agence nationale de la protection sociale (ANPS),anps.social.gouv.bj,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-BEN,Land registry,Agence nationale du domaine et du foncier (ANDF),andf.bj,61,35,17.1,0.0,0.0,0.0,0.0,27,other:dagroup,,false,2026-09-29
-BEN,National payment switch,GIM-UEMOA,gim-uemoa.org,9,20,0.0,0.0,45.0,0.0,0.0,11,m365,,false,2026-09-29
-BEN,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,36,25.0,0.0,44.4,0.0,0.0,9,m365,,false,2026-09-29
-BEN,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,1,m365,,false,2026-09-29
-BEN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale (CNSS),cnss.bj,13,31,29.0,0.0,54.8,0.0,0.0,5,m365,,false,2026-09-29
-BEN,Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp.bj,27,15,0.0,0.0,0.0,0.0,0.0,15,other:UM82926-MNT,,false,2026-09-29
-BEN,Energy utility,Société béninoise d'énergie électrique (SBEE),sbee.bj,94,68,4.4,0.0,13.2,0.0,0.0,32,m365,,false,2026-09-29
+BEN,Electoral commission,Commission électorale nationale autonome (CENA),cena.bj,34,22,0.0,0.0,4.5,0.0,86.4,0,m365,,false,2026-09-29
+BEN,Statistics office,Institut national de la statistique et de la démographie (INStaD),instad.bj,20,22,4.5,0.0,0.0,0.0,0.0,0,other:NMM-AS Neue Medien Muennich GmbH,,false,2026-09-29
+BEN,Health ministry / National health insurance,Ministère de la Santé,sante.gouv.bj,9,12,0.0,0.0,8.3,50.0,41.7,0,m365,,false,2026-09-29
+BEN,Social protection / Social registry,Agence nationale de la protection sociale (ANPS),anps.social.gouv.bj,2,2,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+BEN,Land registry,Agence nationale du domaine et du foncier (ANDF),andf.bj,61,35,17.1,0.0,0.0,0.0,31.4,0,other:DAInternationalGroup DA International Group Ltd.,,true,2026-09-29
+BEN,National payment switch,GIM-UEMOA,gim-uemoa.org,9,20,0.0,0.0,45.0,0.0,0.0,0,m365,,false,2026-09-29
+BEN,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,36,25.0,0.0,44.4,0.0,0.0,0,m365,,false,2026-09-29
+BEN,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,0,m365,,false,2026-09-29
+BEN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale (CNSS),cnss.bj,13,31,29.0,0.0,54.8,0.0,0.0,0,m365,,false,2026-09-29
+BEN,Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp.bj,27,15,0.0,0.0,0.0,0.0,0.0,0,other:AWARESOFT Awareness Software Limited,,false,2026-09-29
+BEN,Energy utility,Société béninoise d'énergie électrique (SBEE),sbee.bj,94,68,4.4,0.0,13.2,0.0,5.9,0,m365,,true,2026-09-29
 BEN,Ports authority,Port autonome de Cotonou,portdecotonou.bj,12,16,93.8,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
-BEN,E-government agency,Agence des systèmes d'information et du numérique (ASIN),asin.bj,48,29,6.9,0.0,3.4,20.7,0.0,20,m365,,false,2026-09-29
-BEN,E-government agency,Gouvernement de la République du Bénin,gouv.bj,3,5,0.0,0.0,20.0,40.0,0.0,2,m365,,false,2026-09-29
-BEN,Cybersecurity agency / National CERT,bjCSIRT,csirt.gouv.bj,8,5,0.0,0.0,20.0,0.0,0.0,4,m365,,false,2026-09-29
-BEN,Communications regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),arcep.bj,51,80,10.0,0.0,0.0,0.0,0.0,71,other:MNT-INSA,,false,2026-09-29
-BEN,Audit office,Cour des comptes,courdescomptes.bj,15,14,0.0,0.0,0.0,0.0,0.0,9,other:WHG Hosting,,false,2026-09-29
+BEN,E-government agency,Agence des systèmes d'information et du numérique (ASIN),asin.bj,48,29,6.9,0.0,3.4,20.7,51.7,0,m365,,true,2026-09-29
+BEN,E-government agency,Gouvernement de la République du Bénin,gouv.bj,3,5,0.0,0.0,20.0,40.0,40.0,0,m365,,false,2026-09-29
+BEN,Cybersecurity agency / National CERT,bjCSIRT,csirt.gouv.bj,8,5,0.0,0.0,20.0,0.0,80.0,0,m365,,false,2026-09-29
+BEN,Communications regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),arcep.bj,51,80,10.0,0.0,0.0,0.0,0.0,0,other:Infomaniak-AS Infomaniak Network SA,,false,2026-09-29
+BEN,Audit office,Cour des comptes,courdescomptes.bj,15,14,0.0,0.0,0.0,0.0,57.1,0,other:WHG Hosting,,false,2026-09-29
