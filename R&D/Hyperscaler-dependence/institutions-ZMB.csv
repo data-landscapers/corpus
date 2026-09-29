@@ -1,0 +1,48 @@
+type,institution,domain,email_domain,status,note
+Presidency,State House,sh.gov.zm,,confirmed 2026-09-29,
+Parliament,National Assembly of Zambia,parliament.gov.zm,,confirmed 2026-09-29,
+Foreign Affairs,Ministry of Foreign Affairs,mofa.gov.zm,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Defence,Ministry of Defence,mod.gov.zm,,confirmed 2026-09-29,
+Armed Forces,Zambia Defence Force,,,absent,shares mod.gov.zm with Defence
+Police,Zambia Police Service,zambiapolice.gov.zm,,confirmed 2026-09-29,
+Justice,Ministry of Justice,moj.gov.zm,,confirmed 2026-09-29,
+Justice,Judiciary of Zambia,judiciary.gov.zm,,confirmed 2026-09-29,
+Treasury / Finance,Ministry of Finance and National Planning,mofnp.gov.zm,,confirmed 2026-09-29,
+Revenue Service,Zambia Revenue Authority,zra.org.zm,,confirmed 2026-09-29,
+Customs,Zambia Revenue Authority Customs Services,,,absent,shares zra.org.zm with Revenue Service
+Intelligence,Zambia Security Intelligence Service,,,absent,no public website known
+Interior / Home Affairs,Ministry of Home Affairs and Internal Security,moha.gov.zm,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Central Bank,Bank of Zambia,boz.zm,,confirmed 2026-09-29,
+Commercial Banks,Zambia National Commercial Bank (Zanaco),zanaco.co.zm,,confirmed 2026-09-29,"Ranking source: Wikipedia and Efficacy News (Mar 2025) bank profiles by assets, 2024; Standard Chartered Zambia left out (runs on global sc.com); approximate ordering"
+Commercial Banks,Stanbic Bank Zambia,stanbicbank.co.zm,,confirmed 2026-09-29,
+Commercial Banks,Absa Bank Zambia,absa.co.zm,,confirmed 2026-09-29,
+Commercial Banks,First National Bank Zambia,fnbzambia.co.zm,,confirmed 2026-09-29,
+Commercial Banks,Indo-Zambia Bank,izb.co.zm,,confirmed 2026-09-29,
+Commercial Banks,Access Bank Zambia,accessbankzm.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Bancabc Zambia,bancabc.co.zm,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,First Capital Bank Zambia,firstcapitalbank.co.zm,,confirmed 2026-09-29,
+Commercial Banks,Investrust Bank,investrust.co.zm,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Cavmont Bank,cavmont.co.zm,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Civil registry / National ID authority,Department of National Registration Passport and Citizenship,dnrpc.gov.zm,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Data protection authority,Office of the Data Protection Commissioner,,,absent,domain not found
+Electoral commission,Electoral Commission of Zambia,elections.org.zm,,confirmed 2026-09-29,
+Statistics office,Zambia Statistics Agency,zamstats.gov.zm,,confirmed 2026-09-29,
+Immigration / Passports,Department of Immigration,zambiaimmigration.gov.zm,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,moh.gov.zm,,confirmed 2026-09-29,
+Health ministry / National health insurance,National Health Insurance Management Authority,nhima.co.zm,,confirmed 2026-09-29,
+Social protection / Social registry,Ministry of Community Development and Social Services,mcdss.gov.zm,,confirmed 2026-09-29,
+Land registry,Ministry of Lands and Natural Resources,mlnr.gov.zm,,confirmed 2026-09-29,
+National payment switch,Zambia Electronic Clearing House,zechl.co.zm,,confirmed 2026-09-29,
+Stock exchange,Lusaka Securities Exchange,luse.co.zm,,confirmed 2026-09-29,
+Securities regulator,Securities and Exchange Commission Zambia,seczambia.org.zm,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Sovereign wealth fund / National pension fund,National Pension Scheme Authority,napsa.co.zm,,confirmed 2026-09-29,
+Public procurement authority,Zambia Public Procurement Authority,zppa.org.zm,,confirmed 2026-09-29,
+Energy utility,ZESCO Limited,zesco.co.zm,,confirmed 2026-09-29,
+Ports authority,,,,absent,landlocked; no ports authority
+State-owned telco / National backbone operator,Zamtel,zamtel.zm,,confirmed 2026-09-29,
+E-government agency,Smart Zambia Institute,szi.gov.zm,,confirmed 2026-09-29,
+National data centre / Government cloud operator,,,,absent,run by Smart Zambia Institute; shares szi.gov.zm
+Cybersecurity agency / National CERT,,,,absent,ZM-CIRT sits within ZICTA; no own domain found
+Communications regulator,Zambia Information and Communications Technology Authority,zicta.zm,,confirmed 2026-09-29,
+Audit office,Office of the Auditor General,ago.gov.zm,,confirmed 2026-09-29,
+Anti-corruption commission,Anti-Corruption Commission,acc.gov.zm,,confirmed 2026-09-29,
