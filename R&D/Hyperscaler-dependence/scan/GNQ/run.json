@@ -1,0 +1,258 @@
+{
+ "iso3": "GNQ",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "primatura.gob.gq": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senado-gq.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minexteriores.gob.gq": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minhacienda-gob.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "beac.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cceibankge.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 44,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bannge.com": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "societegenerale.gq": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inege.org": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "guineasalud.org": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "gimac-afr.com": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bvm-ac.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cosumaf.org": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "segesa.gq": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "getesa.gq": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gitge.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gob.gq": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 2 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "ortelge.com": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37529": "Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial",
+  "48348": "cloudbuilders Cloud Builders SA",
+  "37337": "MUNI S.A - MUNI S.A",
+  "202054": "S4N-AS GRUPO SYS4NET, S.L.",
+  "197712": "CDmon 10dencehispahard, S.L."
+ },
+ "rollup": {
+  "all": {
+   "routable": 344,
+   "us_hyperscaler_share": 29.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.6,
+   "cdn_share": 8.1,
+   "national_or_self_share": 13.1,
+   "unattributed": 78,
+   "by_category": {
+    "unattributed": 78,
+    "commercial-host": 23,
+    "us-hyperscaler-offshore": 102,
+    "unresolved": 4,
+    "self-hosted": 45,
+    "us-saas": 64,
+    "cdn-origin-unknown": 28
+   },
+   "institutions": 18,
+   "names": 212,
+   "m365": 7,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 8
+  },
+  "government": {
+   "routable": 292,
+   "us_hyperscaler_share": 29.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 21.2,
+   "cdn_share": 9.6,
+   "national_or_self_share": 11.0,
+   "unattributed": 59,
+   "by_category": {
+    "unattributed": 59,
+    "commercial-host": 23,
+    "us-hyperscaler-offshore": 87,
+    "cdn-origin-unknown": 28,
+    "unresolved": 1,
+    "us-saas": 62,
+    "self-hosted": 32
+   },
+   "institutions": 15,
+   "names": 142,
+   "m365": 6,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 7
+  },
+  "bank": {
+   "routable": 52,
+   "us_hyperscaler_share": 28.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 3.8,
+   "cdn_share": 0.0,
+   "national_or_self_share": 25.0,
+   "unattributed": 19,
+   "by_category": {
+    "us-hyperscaler-offshore": 15,
+    "unattributed": 19,
+    "unresolved": 3,
+    "self-hosted": 13,
+    "us-saas": 2
+   },
+   "institutions": 3,
+   "names": 70,
+   "m365": 1,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 1
+  }
+ },
+ "findings": []
+}

@@ -1,0 +1,19 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+GNQ,Presidency,Presidencia del Gobierno,primatura.gob.gq,3,6,0.0,0.0,0.0,0.0,0.0,6,other:Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora,,false,2026-09-29
+GNQ,Parliament,Senado de Guinea Ecuatorial,senado-gq.org,4,9,0.0,0.0,0.0,0.0,0.0,4,other:IONOS,,false,2026-09-29
+GNQ,Foreign Affairs,Ministerio de Asuntos Exteriores y de Cooperación Internacional y Diaspora,minexteriores.gob.gq,3,6,0.0,0.0,0.0,0.0,0.0,6,other:Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora,,false,2026-09-29
+GNQ,Treasury / Finance,Ministerio de Hacienda y Presupuestos,minhacienda-gob.com,7,11,0.0,0.0,0.0,0.0,0.0,11,other:FO69586-MNT,,false,2026-09-29
+GNQ,Central Bank,Banque des États de l'Afrique Centrale (BEAC),beac.int,27,27,33.3,0.0,0.0,0.0,0.0,17,other:CAMTEL - CAMTEL,,false,2026-09-29
+GNQ,Commercial Banks,CCEI Bank GE,cceibankge.com,50,26,57.7,0.0,0.0,0.0,0.0,10,m365,,false,2026-09-29
+GNQ,Commercial Banks,Banco Nacional de Guinea Ecuatorial (BANGE),bannge.com,10,14,0.0,0.0,14.3,0.0,14.3,8,other:broadcom-messagelabs,broadcom-messagelabs,false,2026-09-29
+GNQ,Commercial Banks,Société Générale de Banques en Guinée Équatoriale (SGBGE),societegenerale.gq,10,12,0.0,0.0,0.0,0.0,91.7,1,self,,false,2026-09-29
+GNQ,Statistics office,Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE),inege.org,11,14,64.3,0.0,0.0,28.6,0.0,0,other:Oracle Cloud,,false,2026-09-29
+GNQ,Health ministry / National health insurance,Ministerio de Sanidad y Bienestar Social (MINSABS),guineasalud.org,2,10,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+GNQ,National payment switch,GIMAC,gimac-afr.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+GNQ,Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,6,m365,,false,2026-09-29
+GNQ,Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,11,53,47.2,0.0,17.0,26.4,0.0,4,m365,,false,2026-09-29
+GNQ,Energy utility,Sociedad de Electricidad de Guinea Ecuatorial (SEGESA),segesa.gq,10,28,46.4,0.0,46.4,0.0,0.0,2,m365,,false,2026-09-29
+GNQ,State-owned telco / National backbone operator,General de Telecomunicaciones SA (GETESA),getesa.gq,15,24,16.7,0.0,54.2,0.0,29.2,0,m365,,true,2026-09-29
+GNQ,State-owned telco / National backbone operator,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial (GITGE),gitge.com,31,42,21.4,0.0,31.0,0.0,40.5,3,m365,,true,2026-09-29
+GNQ,E-government agency,Gobierno de la República de Guinea Ecuatorial,gob.gq,3,9,0.0,0.0,11.1,0.0,88.9,0,m365,,false,2026-09-29
+GNQ,Communications regulator,Órgano Regulador de Telecomunicaciones (ORTEL),ortelge.com,11,40,45.0,0.0,30.0,0.0,0.0,0,other:GoDaddy,,false,2026-09-29

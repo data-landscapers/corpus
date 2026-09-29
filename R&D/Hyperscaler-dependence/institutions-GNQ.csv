@@ -1,40 +1,40 @@
 type,institution,domain,email_domain,status,note
-Presidency,Presidencia del Gobierno,primatura.gob.gq,,confirmed 2026-09-29,prime minister's office; the Presidency of the Republic has no domain found
-Parliament,Senado de Guinea Ecuatorial,senado-gq.org,,confirmed 2026-09-29,Cámara de los Diputados has no domain found
-Foreign Affairs,Ministerio de Asuntos Exteriores y de Cooperación Internacional y Diaspora,minexteriores.gob.gq,,confirmed 2026-09-29,
+Presidency,Presidencia del Gobierno,primatura.gob.gq,primatura.gob.gq,scanned 2026-09-29,prime minister's office; the Presidency of the Republic has no domain found
+Parliament,Senado de Guinea Ecuatorial,senado-gq.org,senado-gq.org,scanned 2026-09-29,Cámara de los Diputados has no domain found
+Foreign Affairs,Ministerio de Asuntos Exteriores y de Cooperación Internacional y Diaspora,minexteriores.gob.gq,minexteriores.gob.gq,scanned 2026-09-29,
 Defence,Ministerio de Defensa Nacional,,,absent,no domain found
 Armed Forces,Fuerzas Armadas de Guinea Ecuatorial,,,absent,shares Defence; no domain found
 Police,Policía Nacional de Guinea Ecuatorial,,,absent,no domain found
 Justice,"Ministerio de Justicia, Culto y Derechos Humanos",,,absent,no ministry or courts domain found
-Treasury / Finance,Ministerio de Hacienda y Presupuestos,minhacienda-gob.com,,confirmed 2026-09-29,
+Treasury / Finance,Ministerio de Hacienda y Presupuestos,minhacienda-gob.com,minhacienda-gob.com,scanned 2026-09-29,
 Revenue Service,Dirección General de Impuestos,,,absent,no own domain found
 Customs,Dirección General de Aduanas,,,absent,no own domain found
 Intelligence,Ministerio de Seguridad Nacional,,,absent,no domain found
 Interior / Home Affairs,Ministerio del Interior y Administración Territorial,,,absent,no domain found
-Central Bank,Banque des États de l'Afrique Centrale (BEAC),beac.int,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Commercial Banks,CCEI Bank GE,cceibankge.com,,confirmed 2026-09-29,Ranking: no published asset ranking found; five licensed banks per BEAC/COBAC as cited in CCEI Bank GE annual report 2018 (cceibankge.com) and banksdaily.com Banks in Equatorial Guinea (Dec 2022); order by assets not verified. BGFIBank GE (groupebgfibank.com) and Ecobank GE (ecobank.com) run on group domains and are left out
-Commercial Banks,Banco Nacional de Guinea Ecuatorial (BANGE),bannge.com,,confirmed 2026-09-29,
-Commercial Banks,Société Générale de Banques en Guinée Équatoriale (SGBGE),societegenerale.gq,,unconfirmed 2026-09-29,"SGBGE, sold to Vista Group 2026; own domain cited by APEC GE, homepage down; Vista country page is a path on group domain vistabankgroup.com"
+Central Bank,Banque des États de l'Afrique Centrale (BEAC),beac.int,beac.int,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Commercial Banks,CCEI Bank GE,cceibankge.com,cceibankge.com,scanned 2026-09-29,Ranking: no published asset ranking found; five licensed banks per BEAC/COBAC as cited in CCEI Bank GE annual report 2018 (cceibankge.com) and banksdaily.com Banks in Equatorial Guinea (Dec 2022); order by assets not verified. BGFIBank GE (groupebgfibank.com) and Ecobank GE (ecobank.com) run on group domains and are left out
+Commercial Banks,Banco Nacional de Guinea Ecuatorial (BANGE),bannge.com,bannge.com,scanned 2026-09-29,
+Commercial Banks,Société Générale de Banques en Guinée Équatoriale (SGBGE),societegenerale.gq,societegenerale.gq,scanned 2026-09-29,"SGBGE, sold to Vista Group 2026; own domain cited by APEC GE, homepage down; Vista country page is a path on group domain vistabankgroup.com"
 Civil registry / National ID authority,,,,absent,no domain found
 Data protection authority,,,,absent,none found
 Electoral commission,,,,absent,no domain found
-Statistics office,Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE),inege.org,,confirmed 2026-09-29,
+Statistics office,Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE),inege.org,inege.org,scanned 2026-09-29,
 Immigration / Passports,Ministerio de Seguridad Nacional (Migración y Extranjería),,,absent,under Security ministry; no domain found
-Health ministry / National health insurance,Ministerio de Sanidad y Bienestar Social (MINSABS),guineasalud.org,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministerio de Sanidad y Bienestar Social (MINSABS),guineasalud.org,,scanned 2026-09-29,
 Social protection / Social registry,Instituto Nacional de Seguridad Social (INSESO),,,absent,no own domain found; see the pension fund row
 Land registry,,,,absent,no domain found
-National payment switch,GIMAC,gimac-afr.com,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+National payment switch,GIMAC,gimac-afr.com,,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,bvm-ac.org,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,cosumaf.org,scanned 2026-09-29,regional (CEMAC); shared with other member states
 Sovereign wealth fund / National pension fund,Instituto Nacional de Seguridad Social (INSESO),,,absent,insesoresponde.online found but not shown to be INSESO's own; returned 500 on 2026-09-29
 Public procurement authority,,,,absent,no e-procurement portal found
-Energy utility,Sociedad de Electricidad de Guinea Ecuatorial (SEGESA),segesa.gq,,confirmed 2026-09-29,
+Energy utility,Sociedad de Electricidad de Guinea Ecuatorial (SEGESA),segesa.gq,segesa.gq,scanned 2026-09-29,
 Ports authority,,,,absent,no domain found
-State-owned telco / National backbone operator,General de Telecomunicaciones SA (GETESA),getesa.gq,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial (GITGE),gitge.com,,confirmed 2026-09-29,national backbone operator
-E-government agency,Gobierno de la República de Guinea Ecuatorial,gob.gq,,confirmed 2026-09-29,parent zone; scanned root-only
+State-owned telco / National backbone operator,General de Telecomunicaciones SA (GETESA),getesa.gq,getesa.gq,scanned 2026-09-29,
+State-owned telco / National backbone operator,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial (GITGE),gitge.com,gitge.com,scanned 2026-09-29,national backbone operator
+E-government agency,Gobierno de la República de Guinea Ecuatorial,gob.gq,gob.gq,scanned 2026-09-29,parent zone; scanned root-only
 National data centre / Government cloud operator,,,,absent,none found
 Cybersecurity agency / National CERT,,,,absent,none found
-Communications regulator,Órgano Regulador de Telecomunicaciones (ORTEL),ortelge.com,,confirmed 2026-09-29,
+Communications regulator,Órgano Regulador de Telecomunicaciones (ORTEL),ortelge.com,ortelge.com,scanned 2026-09-29,
 Audit office,Tribunal de Cuentas,,,absent,no domain found
 Anti-corruption commission,,,,absent,none found
