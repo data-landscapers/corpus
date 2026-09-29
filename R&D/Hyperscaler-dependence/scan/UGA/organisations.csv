@@ -1,37 +1,37 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-UGA,Presidency,State House Uganda,statehouse.go.ug,22,88,0.0,0.0,0.0,97.7,0.0,2,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Parliament,Parliament of Uganda,parliament.go.ug,34,47,6.4,2.1,36.2,0.0,0.0,26,m365,,false,2026-09-29
-UGA,Foreign Affairs,Ministry of Foreign Affairs,mofa.go.ug,498,350,0.0,0.0,0.0,98.9,0.0,4,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Defence,Ministry of Defence and Veteran Affairs,defence.go.ug,10,10,20.0,10.0,0.0,0.0,0.0,5,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Armed Forces,Uganda People's Defence Force,updf.go.ug,19,12,33.3,8.3,0.0,0.0,0.0,4,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Police,Uganda Police Force,upf.go.ug,151,94,0.0,0.0,12.8,0.0,0.0,54,m365,,false,2026-09-29
-UGA,Justice,Ministry of Justice and Constitutional Affairs,justice.go.ug,13,52,0.0,0.0,0.0,96.2,0.0,2,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Justice,Judiciary of Uganda,judiciary.go.ug,11,10,20.0,10.0,10.0,0.0,0.0,2,m365,,false,2026-09-29
-UGA,Treasury / Finance,Ministry of Finance Planning and Economic Development,finance.go.ug,80,88,1.1,0.0,0.0,48.9,0.0,43,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Revenue Service,Uganda Revenue Authority,ura.go.ug,50,56,19.6,1.8,0.0,0.0,62.5,7,self,,true,2026-09-29
-UGA,Interior / Home Affairs,Ministry of Internal Affairs,mia.go.ug,126,106,7.5,0.0,0.0,43.4,0.0,50,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Presidency,State House Uganda,statehouse.go.ug,22,88,0.0,0.0,0.0,97.7,2.3,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Parliament,Parliament of Uganda,parliament.go.ug,34,47,6.4,2.1,36.2,0.0,55.3,0,m365,,true,2026-09-29
+UGA,Foreign Affairs,Ministry of Foreign Affairs,mofa.go.ug,498,350,0.0,0.0,0.0,98.9,1.1,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Defence,Ministry of Defence and Veteran Affairs,defence.go.ug,10,10,20.0,10.0,0.0,0.0,40.0,0,other:National Information Technology Authority Uganda - National Information Technolo,,true,2026-09-29
+UGA,Armed Forces,Uganda People's Defence Force,updf.go.ug,19,12,33.3,8.3,0.0,0.0,33.3,0,other:National Information Technology Authority Uganda - National Information Technolo,,true,2026-09-29
+UGA,Police,Uganda Police Force,upf.go.ug,151,94,0.0,0.0,12.8,0.0,52.1,0,m365,,false,2026-09-29
+UGA,Justice,Ministry of Justice and Constitutional Affairs,justice.go.ug,13,52,0.0,0.0,0.0,96.2,3.8,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Justice,Judiciary of Uganda,judiciary.go.ug,11,10,20.0,10.0,10.0,0.0,20.0,0,m365,,true,2026-09-29
+UGA,Treasury / Finance,Ministry of Finance Planning and Economic Development,finance.go.ug,80,88,1.1,0.0,0.0,48.9,48.9,0,other:National Information Technology Authority Uganda - National Information Technolo,,true,2026-09-29
+UGA,Revenue Service,Uganda Revenue Authority,ura.go.ug,50,56,19.6,1.8,0.0,0.0,62.5,0,self,,true,2026-09-29
+UGA,Interior / Home Affairs,Ministry of Internal Affairs,mia.go.ug,126,106,7.5,0.0,0.0,43.4,46.2,0,other:National Information Technology Authority Uganda - National Information Technolo,,true,2026-09-29
 UGA,Central Bank,Bank of Uganda,bou.or.ug,126,96,22.9,0.0,17.7,0.0,56.2,0,m365,,true,2026-09-29
 UGA,Commercial Banks,Stanbic Bank Uganda,stanbicbank.co.ug,226,199,32.7,4.5,2.0,60.3,0.0,0,none,,false,2026-09-29
 UGA,Commercial Banks,Centenary Bank,centenarybank.co.ug,11,11,0.0,0.0,9.1,0.0,90.9,0,m365,,false,2026-09-29
 UGA,Commercial Banks,dfcu Bank,dfcugroup.com,34,32,75.0,75.0,3.1,6.2,15.6,0,m365,,true,2026-09-29
-UGA,Commercial Banks,Absa Bank Uganda,absa.co.ug,57,50,14.0,0.0,0.0,40.0,20.0,2,none,,true,2026-09-29
+UGA,Commercial Banks,Absa Bank Uganda,absa.co.ug,57,50,14.0,0.0,0.0,40.0,20.0,0,none,,true,2026-09-29
 UGA,Commercial Banks,Housing Finance Bank,housingfinance.co.ug,30,75,6.7,4.0,12.0,74.7,4.0,0,m365,,true,2026-09-29
-UGA,Commercial Banks,Bank of Baroda Uganda,bankofbaroda.ug,2,5,0.0,0.0,0.0,60.0,0.0,2,other:mail.bankofbaroda.ug,,false,2026-09-29
-UGA,Civil registry / National ID authority,National Identification and Registration Authority,nira.go.ug,16,27,0.0,0.0,48.1,14.8,11.1,6,m365,,false,2026-09-29
-UGA,Data protection authority,Personal Data Protection Office,pdpo.go.ug,23,25,0.0,0.0,0.0,8.0,0.0,23,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Electoral commission,Electoral Commission of Uganda,ec.or.ug,13,39,0.0,0.0,0.0,97.4,0.0,1,other:National Information Technology Authority Uganda,,false,2026-09-29
-UGA,Statistics office,Uganda Bureau of Statistics,ubos.org,56,50,56.0,2.0,6.0,0.0,0.0,13,m365,,false,2026-09-29
-UGA,Immigration / Passports,Directorate of Citizenship and Immigration Control,immigration.go.ug,51,92,0.0,0.0,0.0,84.8,0.0,14,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Health ministry / National health insurance,Ministry of Health,health.go.ug,187,511,0.0,0.0,0.0,88.8,0.0,57,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Social protection / Social registry,Ministry of Gender Labour and Social Development,mglsd.go.ug,146,117,0.0,0.0,0.0,18.8,0.0,91,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Land registry,Ministry of Lands Housing and Urban Development,mlhud.go.ug,26,31,0.0,0.0,0.0,0.0,0.0,31,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Commercial Banks,Bank of Baroda Uganda,bankofbaroda.ug,2,5,0.0,0.0,0.0,60.0,0.0,0,other:mail.bankofbaroda.ug,,false,2026-09-29
+UGA,Civil registry / National ID authority,National Identification and Registration Authority,nira.go.ug,16,27,0.0,0.0,48.1,14.8,29.6,0,m365,,false,2026-09-29
+UGA,Data protection authority,Personal Data Protection Office,pdpo.go.ug,23,25,0.0,0.0,0.0,8.0,48.0,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Electoral commission,Electoral Commission of Uganda,ec.or.ug,13,39,0.0,0.0,0.0,97.4,2.6,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Statistics office,Uganda Bureau of Statistics,ubos.org,56,50,56.0,2.0,6.0,0.0,18.0,0,m365,,true,2026-09-29
+UGA,Immigration / Passports,Directorate of Citizenship and Immigration Control,immigration.go.ug,51,92,0.0,0.0,0.0,84.8,15.2,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Health ministry / National health insurance,Ministry of Health,health.go.ug,187,511,0.0,0.0,0.0,88.8,10.6,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Social protection / Social registry,Ministry of Gender Labour and Social Development,mglsd.go.ug,146,117,0.0,0.0,0.0,18.8,77.8,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Land registry,Ministry of Lands Housing and Urban Development,mlhud.go.ug,26,31,0.0,0.0,0.0,0.0,93.5,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
 UGA,Stock exchange,Uganda Securities Exchange,use.or.ug,15,27,0.0,0.0,48.1,0.0,0.0,0,m365,,false,2026-09-29
-UGA,Securities regulator,Capital Markets Authority,cmauganda.co.ug,7,12,25.0,8.3,0.0,0.0,0.0,4,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
-UGA,Sovereign wealth fund / National pension fund,National Social Security Fund,nssfug.org,34,55,52.7,0.0,16.4,7.3,18.2,1,m365,,true,2026-09-29
-UGA,Public procurement authority,Public Procurement and Disposal of Public Assets Authority,ppda.go.ug,66,22,18.2,4.5,0.0,0.0,0.0,15,other:National Information Technology Authority Uganda,,false,2026-09-29
-UGA,Energy utility,Uganda Electricity Transmission Company,uetcl.go.ug,13,15,0.0,0.0,0.0,0.0,0.0,15,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Securities regulator,Capital Markets Authority,cmauganda.co.ug,7,12,25.0,8.3,0.0,0.0,33.3,0,other:National Information Technology Authority Uganda - National Information Technolo,,true,2026-09-29
+UGA,Sovereign wealth fund / National pension fund,National Social Security Fund,nssfug.org,34,55,52.7,0.0,16.4,7.3,18.2,0,m365,,true,2026-09-29
+UGA,Public procurement authority,Public Procurement and Disposal of Public Assets Authority,ppda.go.ug,66,22,18.2,4.5,0.0,0.0,59.1,0,other:National Information Technology Authority Uganda - National Information Technolo,,true,2026-09-29
+UGA,Energy utility,Uganda Electricity Transmission Company,uetcl.go.ug,13,15,0.0,0.0,0.0,0.0,100.0,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
 UGA,E-government agency,National Information Technology Authority Uganda,nita.go.ug,213,117,0.0,0.0,0.0,22.2,70.9,0,self,,false,2026-09-29
-UGA,Cybersecurity agency / National CERT,Uganda National CERT/CC,cert.ug,25,77,0.0,0.0,0.0,96.1,0.0,2,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
+UGA,Cybersecurity agency / National CERT,Uganda National CERT/CC,cert.ug,25,77,0.0,0.0,0.0,96.1,2.6,0,other:National Information Technology Authority Uganda - National Information Technolo,,false,2026-09-29
 UGA,Communications regulator,Uganda Communications Commission,ucc.co.ug,43,44,29.5,0.0,29.5,0.0,38.6,0,m365,,true,2026-09-29
-UGA,Audit office,Office of the Auditor General,oag.go.ug,40,17,17.6,5.9,0.0,0.0,0.0,13,google,,false,2026-09-29
-UGA,Anti-corruption commission,Inspectorate of Government,igg.go.ug,17,26,34.6,0.0,3.8,0.0,0.0,8,m365,,false,2026-09-29
+UGA,Audit office,Office of the Auditor General,oag.go.ug,40,17,17.6,5.9,0.0,0.0,76.5,0,google,,true,2026-09-29
+UGA,Anti-corruption commission,Inspectorate of Government,igg.go.ug,17,26,34.6,0.0,3.8,0.0,0.0,0,m365,,false,2026-09-29

@@ -337,18 +337,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "327724": "National Information Technology Authority Uganda - National Information Technology Authority Uganda",
-  "21491": "Uganda-Telecom - IDDQD-AS",
-  "396986": "BYTEDANCE - Bytedance Inc.",
-  "20294": "MTN Uganda - MTN Uganda",
-  "328198": "Blue Crane Communications (U) Ltd - Blue Crane Communications (U) Ltd",
-  "29039": "ECHOTEL-UG - IDDQD-AS",
-  "749": "DNIC-AS-00749 - United States Department of Defense (DoD)",
-  "133296": "WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.",
-  "37063": "Roke Investments International Ltd - Roke Investments International Ltd",
-  "31727": "NODE4-AS Node4 Limited"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 2685,
@@ -356,25 +345,25 @@
    "african_region_share": 1.7,
    "us_saas_share": 4.2,
    "cdn_share": 54.9,
-   "national_or_self_share": 8.6,
-   "unattributed": 497,
+   "national_or_self_share": 25.2,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 1474,
-    "unattributed": 497,
+    "national-dc": 447,
     "us-saas": 114,
     "us-hyperscaler-offshore": 198,
-    "commercial-host": 81,
+    "commercial-host": 89,
     "us-hyperscaler-africa": 45,
+    "telco-isp": 42,
     "unresolved": 9,
-    "telco-isp": 11,
     "self-hosted": 230,
-    "african-colo": 26
+    "african-colo": 37
    },
    "institutions": 36,
    "names": 2491,
    "m365": 13,
    "google": 1,
-   "tangled_hybrid": 7,
+   "tangled_hybrid": 17,
    "any_us_hyperscaler": 19
   },
   "government": {
@@ -383,25 +372,25 @@
    "african_region_share": 0.4,
    "us_saas_share": 4.3,
    "cdn_share": 55.0,
-   "national_or_self_share": 8.7,
-   "unattributed": 493,
+   "national_or_self_share": 28.1,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 1273,
-    "unattributed": 493,
+    "national-dc": 447,
     "us-saas": 99,
     "us-hyperscaler-offshore": 133,
-    "commercial-host": 77,
+    "commercial-host": 81,
     "us-hyperscaler-africa": 9,
+    "telco-isp": 33,
     "unresolved": 9,
-    "telco-isp": 2,
     "self-hosted": 202,
-    "african-colo": 16
+    "african-colo": 27
    },
    "institutions": 30,
    "names": 2131,
    "m365": 10,
    "google": 1,
-   "tangled_hybrid": 4,
+   "tangled_hybrid": 14,
    "any_us_hyperscaler": 15
   },
   "bank": {
@@ -411,7 +400,7 @@
    "us_saas_share": 4.0,
    "cdn_share": 54.0,
    "national_or_self_share": 7.5,
-   "unattributed": 4,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 201,
     "us-hyperscaler-africa": 36,
@@ -419,9 +408,8 @@
     "us-saas": 15,
     "african-colo": 10,
     "self-hosted": 28,
-    "commercial-host": 4,
-    "telco-isp": 9,
-    "unattributed": 4
+    "commercial-host": 8,
+    "telco-isp": 9
    },
    "institutions": 6,
    "names": 360,
