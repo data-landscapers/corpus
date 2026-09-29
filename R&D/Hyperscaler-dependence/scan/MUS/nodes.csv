@@ -1,21 +1,21 @@
 iso3,type,institution,domain,name,source,rr_type,rr_status,target,ip,cname_chain,asn,owner,category,region,provider,scan_date
-MUS,Presidency,Office of the President,president.govmu.org,president.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Presidency,Office of the President,president.govmu.org,president.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Presidency,Office of the President,president.govmu.org,www.president.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Parliament,National Assembly of Mauritius,mauritiusassembly.govmu.org,mauritiusassembly.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Parliament,National Assembly of Mauritius,mauritiusassembly.govmu.org,mauritiusassembly.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Parliament,National Assembly of Mauritius,mauritiusassembly.govmu.org,www.mauritiusassembly.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Foreign Affairs,Ministry of Foreign Affairs Regional Integration and International Trade,foreign.govmu.org,foreign.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Foreign Affairs,Ministry of Foreign Affairs Regional Integration and International Trade,foreign.govmu.org,foreign.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Foreign Affairs,Ministry of Foreign Affairs Regional Integration and International Trade,foreign.govmu.org,www.foreign.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Defence,Prime Minister's Office (National Security),pmo.govmu.org,download.pmo.govmu.org,dictionary,A,ok,,41.212.213.250,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Defence,Prime Minister's Office (National Security),pmo.govmu.org,extranet.pmo.govmu.org,dictionary,A,ok,,41.212.213.250,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Defence,Prime Minister's Office (National Security),pmo.govmu.org,pmo.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Defence,Prime Minister's Office (National Security),pmo.govmu.org,pmo.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Defence,Prime Minister's Office (National Security),pmo.govmu.org,www.pmo.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Police,Mauritius Police Force,police.govmu.org,police.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Police,Mauritius Police Force,police.govmu.org,police.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Police,Mauritius Police Force,police.govmu.org,www.police.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Justice,Attorney General's Office,attorneygeneral.govmu.org,attorneygeneral.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Justice,Attorney General's Office,attorneygeneral.govmu.org,attorneygeneral.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Justice,Attorney General's Office,attorneygeneral.govmu.org,www.attorneygeneral.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Justice,Supreme Court of Mauritius,supremecourt.govmu.org,supremecourt.govmu.org,root,A,ok,,196.13.125.165,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Justice,Supreme Court of Mauritius,supremecourt.govmu.org,supremecourt.govmu.org,root,A,ok,,196.13.125.165,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Justice,Supreme Court of Mauritius,supremecourt.govmu.org,www.supremecourt.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Treasury / Finance,Ministry of Finance Economic Planning and Development,mof.govmu.org,mof.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Treasury / Finance,Ministry of Finance Economic Planning and Development,mof.govmu.org,mof.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Treasury / Finance,Ministry of Finance Economic Planning and Development,mof.govmu.org,www.mof.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,catamauritius-registration.mra.mu,ct,A,ok,,197.227.13.11,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,catamauritius.mra.mu,ct,A,ok,,196.27.64.124,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -26,28 +26,28 @@ MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,einvoice-sandbox-test2.mr
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,einvoice-sandbox.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,enterpriseenrollment.mra.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,esercices3.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices.mra.mu,ct,A,ok,,102.163.57.183,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices.mra.mu,ct,A,ok,,102.163.57.183,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices13.mra.mu,ct,A,ok,,196.27.73.166,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices14.mra.mu,ct,A,ok,,197.227.17.129,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices15.mra.mu,ct,A,ok,,197.227.17.130,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices16.mra.mu,ct,A,ok,,102.163.56.89,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices16.mra.mu,ct,A,ok,,102.163.56.89,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices18.mra.mu,ct,A,ok,,197.227.13.9,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices19.mra.mu,ct,A,ok,,102.163.56.90,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices19.mra.mu,ct,A,ok,,102.163.56.90,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices2.mra.mu,ct,A,ok,,196.27.73.164,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices20.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices21.mra.mu,ct,A,ok,,102.163.56.95,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices21.mra.mu,ct,A,ok,,102.163.56.95,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices22.mra.mu,ct,A,ok,,196.27.73.165,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices26.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices27.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices29.mra.mu,ct,A,ok,,196.27.73.167,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices3.mra.mu,ct,A,ok,,102.163.57.182,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices3.mra.mu,ct,A,ok,,102.163.57.182,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices30.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices31.mra.mu,ct,A,ok,,196.27.64.120,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices31.mra.mu,ct,AAAA,ok,,2001:4248:7a:24::153,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices31.mra.mu,ct,AAAA,ok,,2001:4248:7a:24::153,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices32.mra.mu,ct,A,ok,,196.27.64.127,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices34.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices35.mra.mu,ct,A,ok,,196.27.64.125,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices36.mra.mu,ct,A,ok,,102.163.56.92,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices36.mra.mu,ct,A,ok,,102.163.56.92,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices39.mra.mu,ct,A,ok,,196.27.64.121,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices4.mra.mu,ct,A,ok,,196.27.64.126,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,eservices5.mra.mu,ct,A,ok,,197.227.13.10,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -69,13 +69,13 @@ MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,webmail.mra.mu,dictionary
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,webmailtest.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,website.mra.mu,ct,A,ok,,197.227.20.113,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,www.eservices19.mra.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,www.mra.mu,root;ct,A,ok,,102.163.57.181,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,www.mra.mu,root;ct,A,ok,,102.163.57.181,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,mra.mu,root,MX,ok,mail.mra.mu,196.27.73.162,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,mra.mu,root,NS,ok,dns2.intnet.mu,202.123.2.11,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,mra.mu,root,NS,ok,dns1.intnet.mu,202.123.2.6,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,mra.mu,root,TXT,ok,v=spf1 mx a ip4:196.27.73.162 ip4:102.163.56.94 include:spf_4.taleo.net -all,,,,,,,,2026-09-29
 MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,_dmarc.mra.mu,root,TXT,ok,"v=DMARC1; p=reject; pct=100; fo=1; ri=3600; rua=mailto:b640319c@inbox.ondmarc.com,mailto:mauritius-revenue-authority@rua.dmp.cisco.com,mailto:network.admin@mra.mu; ruf=mailto:b640319c@inbox.ondmarc.com,mailto:mauritius-revenue-authority@ruf.dmp.cisco.com;",,,,,,,,2026-09-29
-MUS,Interior / Home Affairs,"Ministry of Defence, Home Affairs and External Communications",dha.govmu.org,dha.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Interior / Home Affairs,"Ministry of Defence, Home Affairs and External Communications",dha.govmu.org,dha.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Interior / Home Affairs,"Ministry of Defence, Home Affairs and External Communications",dha.govmu.org,www.dha.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Central Bank,Bank of Mauritius,bom.mu,access.bom.mu,dictionary,A,ok,,197.227.4.229,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Central Bank,Bank of Mauritius,bom.mu,app.niifi.n3.erupeesandbox.bom.mu,ct,A,servfail,,,,,,unresolved,,,2026-09-29
@@ -136,12 +136,12 @@ MUS,Central Bank,Bank of Mauritius,bom.mu,bom.mu,root,NS,ok,dns2.intnet.mu,202.1
 MUS,Central Bank,Bank of Mauritius,bom.mu,bom.mu,root,NS,ok,dns1.intnet.mu,202.123.2.6,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Central Bank,Bank of Mauritius,bom.mu,bom.mu,root,TXT,ok,v=spf1 a ip4:202.123.26.122 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,adfs.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,aft.mcb.mu,ct,A,ok,,41.76.43.106,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,aft.mcb.mu,ct,A,ok,,41.76.43.106,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,api.mcb.mu,dictionary;ct,A,ok,rgw.66b7-b4468c6f.eu-gb.apiconnect.appdomain.cloud,158.175.92.77,rgw.66b7-b4468c6f.eu-gb.apiconnect.appdomain.cloud,36351,lir-us-international2-1-MNT,commercial-host,,IBM Cloud (SoftLayer),2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,app.mcb.mu,dictionary;ct,A,ok,,202.123.24.194,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,assets.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,auth.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,autodiscover.mcb.mu,dictionary;ct,A,ok,,41.76.43.99,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,autodiscover.mcb.mu,dictionary;ct,A,ok,,41.76.43.99,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,awt.mcb.mu,ct,A,ok,,197.227.4.138,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,careers.mcb.mu,dictionary;ct,A,ok,,202.123.24.197,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,cdn.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -150,16 +150,16 @@ MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dev.mcb.mu,dictionary;
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,developer.mcb.mu,ct,A,ok,rgw.66b7-b4468c6f.eu-gb.apiconnect.appdomain.cloud,158.175.92.77,rgw.66b7-b4468c6f.eu-gb.apiconnect.appdomain.cloud,36351,lir-us-international2-1-MNT,commercial-host,,IBM Cloud (SoftLayer),2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dialin.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dns1.mcb.mu,dictionary,A,ok,,202.123.24.205,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dns2.mcb.mu,dictionary,A,ok,,41.76.40.251,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dns2.mcb.mu,dictionary,A,ok,,41.76.40.251,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dns3.mcb.mu,dictionary,A,ok,,197.227.5.5,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,docupload.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dr-sbc.teams.mcb.mu,ct,A,ok,,41.76.41.87,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dr-sbc.teams.mcb.mu,ct,A,ok,,41.76.41.87,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,dr.mcb.mu,ct,A,ok,,197.227.5.118,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,eam.mcb.mu,ct,A,ok,,104.16.4.14,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,edge01.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,edge02.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,email1.mcb.mu,ct,A,ok,,197.227.4.137,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,email2.mcb.mu,ct,A,ok,,41.76.40.253,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,email2.mcb.mu,ct,A,ok,,41.76.40.253,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,email3.mcb.mu,ct,A,ok,,197.227.11.79,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ems.mcb.mu,dictionary,A,ok,,197.227.5.60,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ev.mcb.mu,ct,A,ok,,196.27.64.6,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -167,23 +167,23 @@ MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,evt.mcb.mu,ct,A,nxdoma
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,forms.mcb.mu,dictionary,A,ok,,202.123.24.193,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ib.mcb.mu,ct,A,ok,,202.123.24.198,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ibpro.mcb.mu,ct,A,ok,,151.101.63.52,,54113,"Fastly, Inc.",cdn-origin-unknown,,Fastly,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,identity.mcb.mu,ct,A,ok,,41.76.41.64,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,inac.mcb.mu,ct,A,ok,,41.76.41.83,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,identity.mcb.mu,ct,A,ok,,41.76.41.64,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,inac.mcb.mu,ct,A,ok,,41.76.41.83,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,internalcrm.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,juice.mcb.mu,ct,A,ok,,202.123.24.195,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,link.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,lync.mcb.mu,ct,A,ok,,196.27.64.5,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,lyncdiscover.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,m.mcb.mu,dictionary;ct,A,ok,,104.16.4.14,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,mail.mcb.mu,dictionary;ct,A,ok,,41.76.43.99,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,mail.mcb.mu,dictionary;ct,A,ok,,41.76.43.99,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,maintenance.mcb.mu,ct,A,ok,,104.16.4.14,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,mb.mcb.mu,ct,A,ok,,202.123.24.201,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,mcb.mu,root;ct,A,ok,,104.16.4.14,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,meet.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,on.mcb.mu,ct,A,ok,,52.72.49.79,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,online.mcb.mu,dictionary;ct,A,ok,,41.76.41.64,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,online.mcb.mu,dictionary;ct,A,ok,,41.76.41.64,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,oos.mcb.mu,ct,A,ok,,196.27.64.5,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,oosdr.mcb.mu,ct,A,ok,,41.76.44.111,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,oosdr.mcb.mu,ct,A,ok,,41.76.44.111,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,pai-expressway-e.vc.mcb.mu,ct,A,ok,,197.227.5.62,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,pai-sbc.teams.mcb.mu,ct,A,ok,,196.27.64.7,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,prepaidcards.mcb.mu,ct,A,ok,,196.27.65.190,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -196,18 +196,18 @@ MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,research.mcb.mu,ct,A,o
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,sba.teams.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,securemail.mcb.mu,ct,A,ok,,197.227.4.137,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,select.mcb.mu,ct,A,ok,,104.16.4.14,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,servicereports.mcb.mu,ct,A,ok,,41.76.43.109,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,sfbfepool02.mcb.mu,ct,A,ok,,41.76.44.111,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,servicereports.mcb.mu,ct,A,ok,,41.76.43.109,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,sfbfepool02.mcb.mu,ct,A,ok,,41.76.44.111,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,sip.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,skypewapdr.mcb.mu,ct,A,ok,,41.76.44.111,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,skypewapdr.mcb.mu,ct,A,ok,,41.76.44.111,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,sst.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,sts.mcb.mu,dictionary;ct,A,ok,,197.227.11.79,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,testcareers.mcb.mu,ct,A,ok,,41.76.43.108,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,testcareers.mcb.mu,ct,A,ok,,41.76.43.108,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,trade.mcb.mu,ct,A,ok,mu.trade.mu,213.186.33.50,mu.trade.mu,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,trade.mcb.mu,ct,AAAA,ok,mu.trade.mu,2001:41d0:1:1b00:213:186:33:50,mu.trade.mu,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,training.mcb.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,uc.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ucdr.mcb.mu,ct,A,ok,,41.76.44.106,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ucdr.mcb.mu,ct,A,ok,,41.76.44.106,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,ui.mcb.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,vc.mcb.mu,dictionary;ct,A,ok,,197.227.5.62,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,vnac.mcb.mu,ct,A,ok,,197.227.7.4,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -225,27 +225,27 @@ MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,amigos.sbmgroup.mu,ct,A,nx
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,assetmanagement.sbmgroup.mu,ct,A,ok,,202.123.27.87,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,autodiscover.sbmgroup.mu,dictionary;ct,A,ok,,202.123.31.99,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,aw.sbmgroup.mu,ct,A,ok,,202.123.27.82,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,banking.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,banking.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,commercial-host,,MWAY - ManagedWay,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,bsbmm.sbmgroup.mu,ct,A,ok,,202.123.31.108,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,capitalmarkets.sbmgroup.mu,ct,A,ok,,202.123.27.87,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,careers.sbmgroup.mu,dictionary;ct,A,ok,,197.227.20.140,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,self-hosted,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,chat.sbmgroup.mu,dictionary;ct,A,ok,,202.191.186.126,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,chat.sbmgroup.mu,dictionary;ct,A,ok,,202.191.186.126,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,custody.sbmgroup.mu,ct,A,ok,,202.123.31.91,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,dev.sbmgroup.mu,dictionary,A,ok,,52.169.255.39,,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,digitalbanking.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,drms.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmb.sbmgroup.mu,ct,A,ok,,202.191.186.116,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmg.sbmgroup.mu,ct,A,ok,,202.191.186.97,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmu.sbmgroup.mu,ct,A,ok,,202.191.186.97,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmudr.sbmgroup.mu,ct,A,ok,,202.191.147.97,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmuuat.sbmgroup.mu,ct,A,ok,,202.191.186.120,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmb.sbmgroup.mu,ct,A,ok,,202.191.186.116,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmg.sbmgroup.mu,ct,A,ok,,202.191.186.97,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmu.sbmgroup.mu,ct,A,ok,,202.191.186.97,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmudr.sbmgroup.mu,ct,A,ok,,202.191.147.97,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ebmuuat.sbmgroup.mu,ct,A,ok,,202.191.186.120,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ensairwatch.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,exchange.sbmgroup.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,flamingo.sbmgroup.mu,ct,A,ok,,202.123.27.94,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,globalpresence.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ibin.sbmgroup.mu,ct,A,ok,,202.191.186.115,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ibmg.sbmgroup.mu,ct,A,ok,,202.191.186.127,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ibmu.sbmgroup.mu,ct,A,ok,,202.191.186.111,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,globalpresence.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,commercial-host,,MWAY - ManagedWay,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ibin.sbmgroup.mu,ct,A,ok,,202.191.186.115,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ibmg.sbmgroup.mu,ct,A,ok,,202.191.186.127,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ibmu.sbmgroup.mu,ct,A,ok,,202.191.186.111,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,img.sbmmark.sbmgroup.mu,ct,A,ok,img.mailin.fr,104.17.157.243,img.mailin.fr,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,img.sbmmark.sbmgroup.mu,ct,A,ok,img.mailin.fr,104.17.159.243,img.mailin.fr,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,img.sbmmark.sbmgroup.mu,ct,A,ok,img.mailin.fr,104.17.158.243,img.mailin.fr,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -276,20 +276,20 @@ MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,inac9.sbmgroup.mu,ct,A,nxd
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,inacarsenal2026.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,inacrosebelle2025.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,inacrosebelle2026.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,investors.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,investors.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,commercial-host,,MWAY - ManagedWay,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,ipsappuat.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mail.sbmgroup.mu,dictionary,A,ok,,202.123.31.99,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mamporuat.sbmgroup.mu,ct,A,ok,,102.163.52.67,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbin.sbmgroup.mu,ct,A,ok,,202.191.186.115,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbinuat.sbmgroup.mu,ct,A,ok,,202.191.186.110,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmg.sbmgroup.mu,ct,A,ok,,202.191.147.115,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmguat.sbmgroup.mu,ct,A,ok,,202.191.186.110,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmu.sbmgroup.mu,ct,A,ok,,202.191.186.118,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmudr.sbmgroup.mu,ct,A,ok,,202.191.147.116,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmuuat.sbmgroup.mu,ct,A,ok,,202.191.186.110,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mamporuat.sbmgroup.mu,ct,A,ok,,102.163.52.67,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbin.sbmgroup.mu,ct,A,ok,,202.191.186.115,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbinuat.sbmgroup.mu,ct,A,ok,,202.191.186.110,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmg.sbmgroup.mu,ct,A,ok,,202.191.147.115,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmguat.sbmgroup.mu,ct,A,ok,,202.191.186.110,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmu.sbmgroup.mu,ct,A,ok,,202.191.186.118,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmudr.sbmgroup.mu,ct,A,ok,,202.191.147.116,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbmuuat.sbmgroup.mu,ct,A,ok,,202.191.186.110,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,mbuattest.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,myworkspace.sbmgroup.mu,ct,A,ok,,102.163.48.52,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,nbfc.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,myworkspace.sbmgroup.mu,ct,A,ok,,102.163.48.52,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,nbfc.sbmgroup.mu,ct,A,ok,,64.113.57.50,,53292,ManagedWay,commercial-host,,MWAY - ManagedWay,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,pldcpmmamapp.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,pldcpmsslapp.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,pldcpwealthapp.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -303,14 +303,14 @@ MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,rhsatellite.sbmgroup.mu,ct
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbm-rewards.sbmgroup.mu,ct,A,ok,prod-blu-front-alb-83518202.eu-west-1.elb.amazonaws.com,54.220.51.144,prod-blu-front-alb-83518202.eu-west-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbm-rewards.sbmgroup.mu,ct,A,ok,prod-blu-front-alb-83518202.eu-west-1.elb.amazonaws.com,63.34.180.20,prod-blu-front-alb-83518202.eu-west-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbm-rewards.sbmgroup.mu,ct,A,ok,prod-blu-front-alb-83518202.eu-west-1.elb.amazonaws.com,52.213.83.223,prod-blu-front-alb-83518202.eu-west-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmchat.sbmgroup.mu,ct,A,ok,,202.191.186.102,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmchat.sbmgroup.mu,ct,A,ok,,202.191.186.102,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmgroup.mu,root;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmholdingsltdannualreport.sbmgroup.mu,ct,A,ok,,162.159.135.42,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmholdingsltdannualreport2020.sbmgroup.mu,ct,A,ok,,162.159.135.42,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmmybox.sbmgroup.mu,ct,A,ok,,202.123.31.92,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmtag.sbmgroup.mu,ct,A,ok,,202.191.186.117,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmtag.sbmgroup.mu,ct,A,ok,,202.191.186.117,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmtagib.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sslporuat.sbmgroup.mu,ct,A,ok,,102.163.52.67,,30999,EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sslporuat.sbmgroup.mu,ct,A,ok,,102.163.52.67,,30999,EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,stg-banking.sbmgroup.mu,ct,A,ok,mr-a01.tm-azurefd.net,150.171.109.216,stgbankingsbmgroupmu-hbc3c7afa9fheve0.a01.azurefd.net>mr-a01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,stg-banking.sbmgroup.mu,ct,AAAA,ok,mr-a01.tm-azurefd.net,2603:1061:14:d3::1,stgbankingsbmgroupmu-hbc3c7afa9fheve0.a01.azurefd.net>mr-a01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,stg-globalpresence.sbmgroup.mu,ct,A,ok,mr-a01.tm-azurefd.net,150.171.109.216,stgglobalpresencesbmgroupmu-gfe4fybchkgpfug0.a01.azurefd.net>mr-a01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
@@ -322,18 +322,18 @@ MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,stg-nbfc.sbmgroup.mu,ct,AA
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,stg.sbmgroup.mu,ct,A,ok,mr-a01.tm-azurefd.net,150.171.109.214,stgsbmgroupmu-gedegbh3btesa3dx.a01.azurefd.net>mr-a01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,stg.sbmgroup.mu,ct,AAAA,ok,mr-a01.tm-azurefd.net,2603:1061:14:d8::1,stgsbmgroupmu-gedegbh3btesa3dx.a01.azurefd.net>mr-a01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,symen001.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,tagsbm.sbmgroup.mu,ct,A,ok,,202.191.186.103,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,tagsbm.sbmgroup.mu,ct,A,ok,,202.191.186.103,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,tcmgr.sbmgroup.mu,ct,A,ok,,197.227.20.137,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,temp.sbmgroup.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,token-sbm.sbmgroup.mu,ct,A,ok,,202.191.186.115,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,token-sbm.sbmgroup.mu,ct,A,ok,,202.191.186.115,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,tunairwatch.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,vpn.sbmgroup.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,vtsgw201.sbmgroup.mu,ct,A,ok,,202.191.186.100,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,vtsgw501.sbmgroup.mu,ct,A,ok,,202.191.186.102,,9583,SIFY-AS-IN - Sify Limited,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,vtsgw201.sbmgroup.mu,ct,A,ok,,202.191.186.100,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,vtsgw501.sbmgroup.mu,ct,A,ok,,202.191.186.102,,9583,SIFY-AS-IN - Sify Limited,commercial-host,,SIFY-AS-IN - Sify Limited,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,webmail.sbmgroup.mu,dictionary;ct,A,ok,,202.123.31.99,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,www.forums.sbmgroup.mu,ct,A,ok,,202.123.31.94,,23889,Telecom Plus Ltd,self-hosted,,,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,www.forumsuat.sbmgroup.mu,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,www.sbmgroup.mu,root;ct,A,ok,,64.113.57.50,,53292,ManagedWay,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,www.sbmgroup.mu,root;ct,A,ok,,64.113.57.50,,53292,ManagedWay,commercial-host,,MWAY - ManagedWay,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmgroup.mu,root,MX,ok,cluster9.us.messagelabs.com,67.219.246.213,,,broadcom-messagelabs,us-saas,,broadcom-messagelabs,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmgroup.mu,root,MX,ok,cluster9a.us.messagelabs.com,34.75.172.113,,,broadcom-messagelabs,us-saas,,broadcom-messagelabs,2026-09-29
 MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmgroup.mu,root,NS,ok,dns2.intnet.mu,202.123.2.11,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,self-hosted,,,2026-09-29
@@ -543,12 +543,12 @@ MUS,Commercial Banks,Bank One,bankone.mu,contest.bankone.mu,ct,AAAA,ok,sites.con
 MUS,Commercial Banks,Bank One,bankone.mu,contest.bankone.mu,ct,AAAA,ok,sites.convrrt.zone,2606:4700::6811:dcda,cname.sibpages.com>sites.convrrt.zone,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,contest.bankone.mu,ct,AAAA,ok,sites.convrrt.zone,2606:4700::6811:deda,cname.sibpages.com>sites.convrrt.zone,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,contest.bankone.mu,ct,AAAA,ok,sites.convrrt.zone,2606:4700::6811:dfda,cname.sibpages.com>sites.convrrt.zone,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,Bank One,bankone.mu,cpanel.bankone.mu,dictionary;ct,A,ok,,95.215.227.172,,59778,MNT-SYNEXTRA,unattributed,,,2026-09-29
+MUS,Commercial Banks,Bank One,bankone.mu,cpanel.bankone.mu,dictionary;ct,A,ok,,95.215.227.172,,59778,MNT-SYNEXTRA,commercial-host,,SYNEXTRA-UK Synextra Limited,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,digital.bankone.mu,dictionary;ct,A,ok,,104.21.61.108,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,digital.bankone.mu,dictionary;ct,A,ok,,172.67.209.21,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,digital.bankone.mu,dictionary;ct,AAAA,ok,,2606:4700:3034::6815:3d6c,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,digital.bankone.mu,dictionary;ct,AAAA,ok,,2606:4700:3033::ac43:d115,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,Bank One,bankone.mu,ftp.bankone.mu,dictionary,A,ok,,95.215.227.172,,59778,MNT-SYNEXTRA,unattributed,,,2026-09-29
+MUS,Commercial Banks,Bank One,bankone.mu,ftp.bankone.mu,dictionary,A,ok,,95.215.227.172,,59778,MNT-SYNEXTRA,commercial-host,,SYNEXTRA-UK Synextra Limited,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,gdn-assets.bankone.mu,ct,A,ok,,104.21.61.108,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,gdn-assets.bankone.mu,ct,A,ok,,172.67.209.21,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,Bank One,bankone.mu,gdn-assets.bankone.mu,ct,AAAA,ok,,2606:4700:3034::6815:3d6c,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -704,9 +704,9 @@ MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,legacy.afrasiabank.com,diction
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,mail.afrasiabank.com,dictionary;ct,A,ok,298_afraasia_vip1.dns.radwareddoscloud.com,197.227.11.37,298_afraasia_vip1.dns.radwareddoscloud.com,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,mail.annualreport2020.afrasiabank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,mail.integratedreport2019.afrasiabank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,mail2.afrasiabank.com,dictionary,A,ok,,75.103.118.198,,14992,"Newtek Technology Solutions, Inc",unattributed,,,2026-09-29
+MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,mail2.afrasiabank.com,dictionary,A,ok,,75.103.118.198,,14992,"Newtek Technology Solutions, Inc",commercial-host,,"CRYSTALTECH - NewtekOne, Inc.",2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,mobile.afrasiabank.com,dictionary;ct,A,ok,298_afrasia_vip4.dns.radwareddoscloud.com,202.123.24.182,298_afrasia_vip4.dns.radwareddoscloud.com,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,news.afrasiabank.com,dictionary,A,ok,,105.235.149.158,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,news.afrasiabank.com,dictionary,A,ok,,105.235.149.158,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,online.afrasiabank.com,dictionary,A,ok,,202.123.24.180,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,private-banking.afrasiabank.com,ct,A,ok,,137.135.228.122,,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,sustainabilitysummit.afrasiabank.com,ct,A,ok,,139.162.245.65,,63949,linode-mnt,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
@@ -723,10 +723,10 @@ MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.annualreport2012.afrasiaba
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.annualreport2013.afrasiabank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.annualreport2014.afrasiabank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.annualreport2020.afrasiabank.com,ct,A,ok,,176.58.98.171,,63949,linode-mnt,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
-MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.exclusiveoffer.afrasiabank.com,ct,A,ok,,77.104.143.228,,13037,Zen Internet Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.exclusiveoffer.afrasiabank.com,ct,A,ok,,77.104.143.228,,13037,Zen Internet Ltd,telco-isp,,ZEN-AS Zen Internet Ltd,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.integratedreport2019.afrasiabank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,www.mail.afrasiabank.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,xtramiles.afrasiabank.com,ct,A,ok,loyaltygateway.com,216.119.218.211,loyaltygateway.com,26380,MasterCard Technologies LLC,unattributed,,,2026-09-29
+MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,xtramiles.afrasiabank.com,ct,A,ok,loyaltygateway.com,216.119.218.211,loyaltygateway.com,26380,MasterCard Technologies LLC,us-saas,,MASTER-7-AS - MasterCard Technologies LLC,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,afrasiabank.com,root,MX,ok,za-smtp-inbound-1.mimecast.co.za,41.74.197.201,,,mimecast,commercial-host,,mimecast,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,afrasiabank.com,root,MX,ok,za-smtp-inbound-2.mimecast.co.za,41.74.193.210,,,mimecast,commercial-host,,mimecast,2026-09-29
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,afrasiabank.com,root,NS,ok,ns1-02.azure-dns.com,13.107.236.2,,8075,Microsoft Corporation,us-hyperscaler-offshore,,Microsoft,2026-09-29
@@ -737,24 +737,24 @@ MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,afrasiabank.com,root,TXT,ok,v=
 MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,_dmarc.afrasiabank.com,root,TXT,ok,v=DMARC1;p=quarantine;sp=quarantine;pct=100;rua=mailto:afrasiabank_aggregate@dmarcdefend.com;ruf=mailto:afrasiabank_forensic@dmarcdefend.com,,,,,,,,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,3dsecure.maubank.mu,ct,A,ok,,196.192.6.110,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,autodiscover.maubank.mu,dictionary;ct,A,ok,,196.192.6.109,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,feedback.maubank.mu,dictionary,A,ok,,196.46.50.190,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,feedback.maubank.mu,dictionary,A,ok,,196.46.50.190,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,forms.maubank.mu,dictionary,A,ok,,196.192.6.146,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,lyncdiscover.maubank.mu,dictionary,A,ok,,196.46.50.180,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,lyncdiscover.maubank.mu,dictionary,A,ok,,196.46.50.180,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,mail.maubank.mu,dictionary;ct,A,ok,,196.192.6.109,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,mail2.maubank.mu,dictionary,A,ok,,196.46.50.181,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,mail2.maubank.mu,dictionary,A,ok,,196.46.50.181,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root;ct,A,ok,,40.127.192.244,,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root;ct,A,ok,,20.107.224.97,,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,meet.maubank.mu,dictionary,A,ok,,196.46.50.180,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,meet.maubank.mu,dictionary,A,ok,,196.46.50.180,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,owa.maubank.mu,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,secure.maubank.mu,dictionary,A,ok,,196.192.6.150,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,sftp.maubank.mu,dictionary,A,ok,,196.46.50.187,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,sslvpn.maubank.mu,dictionary,A,ok,,196.46.50.179,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,sftp.maubank.mu,dictionary,A,ok,,196.46.50.187,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,sslvpn.maubank.mu,dictionary,A,ok,,196.46.50.179,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,testsecure.maubank.mu,ct,A,ok,,196.192.6.145,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,vpn.maubank.mu,dictionary,A,ok,,196.46.50.179,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,vpn2.maubank.mu,dictionary,A,ok,,196.46.50.179,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,vpn.maubank.mu,dictionary,A,ok,,196.46.50.179,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,vpn2.maubank.mu,dictionary,A,ok,,196.46.50.179,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,www.maubank.mu,root;ct,A,ok,mr-z01.tm-azurefd.net,150.171.109.216,maubank-eferexdvbhegf8cs.z01.azurefd.net>mr-z01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,www.maubank.mu,root;ct,AAAA,ok,mr-z01.tm-azurefd.net,2603:1061:14:d7::1,maubank-eferexdvbhegf8cs.z01.azurefd.net>mr-z01.tm-azurefd.net,,azure-front-door,us-hyperscaler-offshore,global,azure-front-door,2026-09-29
-MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root,MX,ok,mail2.maubank.mu,196.46.50.181,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root,MX,ok,mail2.maubank.mu,196.46.50.181,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root,MX,ok,mail.maubank.mu,196.192.6.109,,23889,Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root,NS,ok,ns3.p201.dns.oraclecloud.net,108.59.170.201,,31898,"Dynamic Network Services, Inc.",us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 MUS,Commercial Banks,MauBank,maubank.mu,maubank.mu,root,NS,ok,ns2.p201.dns.oraclecloud.net,108.59.168.201,,31898,"Dynamic Network Services, Inc.",us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
@@ -778,29 +778,29 @@ MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,enterpriseregistration.sbi
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,enterpriseregistration.sbimauritius.com,dictionary,A,ok,,104.21.2.145,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,enterpriseregistration.sbimauritius.com,dictionary,AAAA,ok,,2606:4700:3031::ac43:814f,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,enterpriseregistration.sbimauritius.com,dictionary,AAAA,ok,,2606:4700:3036::6815:291,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ftp.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ftp.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,localhost.sbimauritius.com,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,mail.sbimauritius.com,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,msoid.sbimauritius.com,dictionary,A,ok,,104.21.2.145,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,msoid.sbimauritius.com,dictionary,A,ok,,172.67.129.79,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,msoid.sbimauritius.com,dictionary,AAAA,ok,,2606:4700:3036::6815:291,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,msoid.sbimauritius.com,dictionary,AAAA,ok,,2606:4700:3031::ac43:814f,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ns1.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ns2.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ping.sbimauritius.com,ct,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ns1.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ns2.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,ping.sbimauritius.com,ct,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root;ct,A,ok,,104.21.2.145,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root;ct,A,ok,,172.67.129.79,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root;ct,AAAA,ok,,2606:4700:3036::6815:291,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root;ct,AAAA,ok,,2606:4700:3031::ac43:814f,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,server1.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,server1.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sip.sbimauritius.com,dictionary,A,ok,,172.67.129.79,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sip.sbimauritius.com,dictionary,A,ok,,104.21.2.145,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sip.sbimauritius.com,dictionary,AAAA,ok,,2606:4700:3031::ac43:814f,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sip.sbimauritius.com,dictionary,AAAA,ok,,2606:4700:3036::6815:291,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,vps.sbimauritius.com,dictionary;ct,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,webdisk.sbimauritius.com,dictionary;ct,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,vps.sbimauritius.com,dictionary;ct,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,webdisk.sbimauritius.com,dictionary;ct,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,webmail.sbimauritius.com,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,whm.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,unattributed,,,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,whm.sbimauritius.com,dictionary,A,ok,,37.247.48.224,,34971,PDDA-MNT,commercial-host,,PDDA-AS CDLAN SpA,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,www.ping.sbimauritius.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,www.sbimauritius.com,root;ct,A,ok,,104.21.2.145,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,www.sbimauritius.com,root;ct,A,ok,,172.67.129.79,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -812,8 +812,8 @@ MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root,NS,o
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root,NS,ok,dell.ns.cloudflare.com,108.162.192.94,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,root,TXT,ok,v=spf1 IP4:102.163.23.42 IP4:41.223.79.226  include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,_dmarc.sbimauritius.com,root,TXT,ok,v=DMARC1;p=reject;rua=mailto:dmarc.alerts@sbimauritius.com;ruf=mailto:dmarc.ruf@sbimauritius.com;fo=1,,,,,,,,2026-09-29
-MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root;ct,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,unattributed,,,2026-09-29
-MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,www.bankofbaroda-mu.com,root,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,unattributed,,,2026-09-29
+MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root;ct,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,commercial-host,,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,2026-09-29
+MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,www.bankofbaroda-mu.com,root,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,commercial-host,,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,2026-09-29
 MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root,MX,noaddress,mx1-hosting.jellyfish.system,,,,,,,,2026-09-29
 MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root,NS,ok,ns4.dfordomains.com,162.251.82.253,,13335,PDR,cdn-origin-unknown,,Cloudflare,2026-09-29
 MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root,NS,ok,ns2.dfordomains.com,162.251.82.249,,13335,PDR,cdn-origin-unknown,,Cloudflare,2026-09-29
@@ -821,21 +821,21 @@ MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-m
 MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root,NS,ok,ns3.dfordomains.com,162.251.82.119,,13335,PDR,cdn-origin-unknown,,Cloudflare,2026-09-29
 MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,root,TXT,ok,v=spf1 -all,,,,,,,,2026-09-29
 MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,_dmarc.bankofbaroda-mu.com,root,TXT,ok,v=DMARC1; p=reject;sp=reject; rua=mailto:webmaster@bankofbaroda.com; ruf=mailto:webmaster@bankofbaroda.com,,,,,,,,2026-09-29
-MUS,Civil registry / National ID authority,Civil Status Division,csd.govmu.org,csd.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Civil registry / National ID authority,Civil Status Division,csd.govmu.org,csd.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Civil registry / National ID authority,Civil Status Division,csd.govmu.org,www.csd.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Data protection authority,Data Protection Office,dataprotection.govmu.org,dataprotection.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Data protection authority,Data Protection Office,dataprotection.govmu.org,dataprotection.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Data protection authority,Data Protection Office,dataprotection.govmu.org,www.dataprotection.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,electoral.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
-MUS,Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,electoral.govmu.org,root,AAAA,ok,,2001:43f8:cc0:4800::57,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,electoral.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
+MUS,Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,electoral.govmu.org,root,AAAA,ok,,2001:43f8:cc0:4800::57,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,www.electoral.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Statistics office,Statistics Mauritius,statsmauritius.govmu.org,statsmauritius.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Statistics office,Statistics Mauritius,statsmauritius.govmu.org,statsmauritius.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Statistics office,Statistics Mauritius,statsmauritius.govmu.org,www.statsmauritius.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Immigration / Passports,Passport and Immigration Office,passport.govmu.org,passport.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
-MUS,Immigration / Passports,Passport and Immigration Office,passport.govmu.org,passport.govmu.org,root,AAAA,ok,,2001:43f8:cc0:4800::57,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Immigration / Passports,Passport and Immigration Office,passport.govmu.org,passport.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
+MUS,Immigration / Passports,Passport and Immigration Office,passport.govmu.org,passport.govmu.org,root,AAAA,ok,,2001:43f8:cc0:4800::57,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Immigration / Passports,Passport and Immigration Office,passport.govmu.org,www.passport.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Health ministry / National health insurance,Ministry of Health and Wellness,health.govmu.org,health.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Health ministry / National health insurance,Ministry of Health and Wellness,health.govmu.org,health.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Health ministry / National health insurance,Ministry of Health and Wellness,health.govmu.org,www.health.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Social protection / Social registry,Ministry of Social Integration Social Security and National Solidarity,socialsecurity.govmu.org,socialsecurity.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Social protection / Social registry,Ministry of Social Integration Social Security and National Solidarity,socialsecurity.govmu.org,socialsecurity.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Social protection / Social registry,Ministry of Social Integration Social Security and National Solidarity,socialsecurity.govmu.org,www.socialsecurity.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Land registry,Registrar General's Department,eregistry.govmu.org,eregistry.govmu.org,root,A,ok,,202.123.27.108,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Land registry,Registrar General's Department,eregistry.govmu.org,www.eregistry.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -858,10 +858,10 @@ MUS,Securities regulator,Financial Services Commission,fscmauritius.org,fscmauri
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,fscvpn.fscmauritius.org,ct,A,ok,,196.27.73.193,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,mail.fscmauritius.org,dictionary;ct,A,ok,,196.27.73.194,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,mail1.fscmauritius.org,dictionary,A,ok,,196.27.73.194,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Securities regulator,Financial Services Commission,fscmauritius.org,maildr.fscmauritius.org,ct,A,ok,,41.76.42.12,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Securities regulator,Financial Services Commission,fscmauritius.org,maildr.fscmauritius.org,ct,A,ok,,41.76.42.12,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,net.fscmauritius.org,dictionary,A,ok,,196.27.73.203,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,ns1.fscmauritius.org,dictionary,A,ok,,196.27.73.202,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Securities regulator,Financial Services Commission,fscmauritius.org,ns2.fscmauritius.org,dictionary,A,ok,,41.76.42.14,,30999,EMTEL LIMITED - EMTEL LIMITED,unattributed,,,2026-09-29
+MUS,Securities regulator,Financial Services Commission,fscmauritius.org,ns2.fscmauritius.org,dictionary,A,ok,,41.76.42.14,,30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,,EMTEL LIMITED - EMTEL LIMITED,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,odcs.fscmauritius.org,ct,A,ok,,197.227.16.18,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,ors.fscmauritius.org,ct,A,ok,6iuzimv.ng.impervadns.net,45.223.104.87,6iuzimv.ng.impervadns.net,,imperva,cdn-origin-unknown,,imperva,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,osp.fscmauritius.org,ct,A,ok,,197.227.16.17,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -882,7 +882,7 @@ MUS,Securities regulator,Financial Services Commission,fscmauritius.org,fscmauri
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,fscmauritius.org,root,TXT,ok,v=spf1 ip4:196.27.73.195 ip4:196.27.73.194 ip4:196.27.73.193 ip4:41.76.42.13 ip4:202.123.2.49 include:_spf.createsend.com include:spf.mandrillapp.com include:za._netblocks.mimecast.com ~all,,,,,,,,2026-09-29
 MUS,Securities regulator,Financial Services Commission,fscmauritius.org,_dmarc.fscmauritius.org,root,TXT,ok,v=DMARC1; p=reject; rua=mailto:48b12026c99b706@rep.dmarcanalyzer.com; ruf=mailto:48b12026c99b706@for.dmarcanalyzer.com; fo=1;,,,,,,,,2026-09-29
 MUS,Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,eproc.publicprocurement.govmu.org,ct,A,ok,,41.212.213.240,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,publicprocurement.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,publicprocurement.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,www.publicprocurement.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Energy utility,Central Electricity Board,ceb.mu,admin.ceb.mu,dictionary,A,ok,,197.227.3.75,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Energy utility,Central Electricity Board,ceb.mu,autodiscover.ceb.mu,dictionary,A,ok,autod.ms-acdc-autod.office.com,40.99.201.168,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -1375,9 +1375,9 @@ MUS,State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,
 MUS,State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,telecom.mu,root,NS,ok,dns1.intnet.mu,202.123.2.6,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,self-hosted,,,2026-09-29
 MUS,State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,telecom.mu,root,TXT,ok,v=spf1 mx ip4:197.227.34.252 ip4:197.224.67.238 ip4:69.32.224.120/30 ip4:54.240.57.46/31 ip4:159.135.238.30/32 include:spf.protection.outlook.com include:spfa.cpmails.com  include:spf_c.oraclecloud.com include:spf.mailjet.com include:_spf.elasticemail.com  include:spf-eu.emailsignatures365.com -all,,,,,,,,2026-09-29
 MUS,State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,_dmarc.telecom.mu,root,TXT,ok,v=DMARC1; p=reject; pct=100; rua=mailto:postmaster@telecom.mu,,,,,,,,2026-09-29
-MUS,E-government agency,Central Informatics Bureau,cib.govmu.org,cib.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,E-government agency,Central Informatics Bureau,cib.govmu.org,cib.govmu.org,root,A,ok,,196.13.125.126,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,E-government agency,Central Informatics Bureau,cib.govmu.org,www.cib.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-MUS,Cybersecurity agency / National CERT,CERT-MU,cert-mu.govmu.org,cert-mu.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Cybersecurity agency / National CERT,CERT-MU,cert-mu.govmu.org,cert-mu.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Cybersecurity agency / National CERT,CERT-MU,cert-mu.govmu.org,www.cert-mu.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Communications regulator,Information and Communication Technologies Authority,icta.mu,board.icta.mu,ct,A,ok,,197.227.32.8,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
 MUS,Communications regulator,Information and Communication Technologies Authority,icta.mu,board.icta.mu,ct,AAAA,ok,,2001:4290:11:200::22,,23889,Telecom Plus Ltd,telco-isp,,Mauritius Telecom,2026-09-29
@@ -1411,7 +1411,7 @@ MUS,Communications regulator,Information and Communication Technologies Authorit
 MUS,Communications regulator,Information and Communication Technologies Authority,icta.mu,icta.mu,root,NS,ok,tiffany.ns.cloudflare.com,162.159.38.60,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 MUS,Communications regulator,Information and Communication Technologies Authority,icta.mu,icta.mu,root,TXT,ok,v=spf1 mx a ip4:197.227.32.11 -all,,,,,,,,2026-09-29
 MUS,Communications regulator,Information and Communication Technologies Authority,icta.mu,_dmarc.icta.mu,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:itsupport@icta.mu; ruf=mailto:itsupport@icta.mu; rf=afrf; fo=1; adkim=s; aspf=s,,,,,,,,2026-09-29
-MUS,Audit office,National Audit Office,nao.govmu.org,nao.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,unattributed,,,2026-09-29
+MUS,Audit office,National Audit Office,nao.govmu.org,nao.govmu.org,root,A,ok,,196.13.125.177,,36894,Mauritius Digital Promotion Agency,national-dc,,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,2026-09-29
 MUS,Audit office,National Audit Office,nao.govmu.org,www.nao.govmu.org,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,autodiscover.fcc.mu,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.149.104,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,autodiscover.fcc.mu,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.149.136,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -1430,7 +1430,7 @@ MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,autodiscover.f
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,autodiscover.fcc.mu,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:185c::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,autodiscover.fcc.mu,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1860::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,c2.fcc.mu,dictionary,A,ok,,197.227.6.242,,23889,Mauritius Telecom Ltd - Mauritius Telecom Ltd,telco-isp,,Mauritius Telecom,2026-09-29
-MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,c3.fcc.mu,dictionary,A,ok,,196.46.40.86,,36868,Rogers Capital Technology Services Ltd,unattributed,,,2026-09-29
+MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,c3.fcc.mu,dictionary,A,ok,,196.46.40.86,,36868,Rogers Capital Technology Services Ltd,african-colo,,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,enterpriseenrollment.fcc.mu,dictionary,A,ok,pexsucpeu03.swedencentral.cloudapp.azure.com,20.91.147.72,enterpriseenrollment-s.manage.microsoft.com>manage-pe.trafficmanager.net>pexsucpeu03.swedencentral.cloudapp.azure.com,,azure,us-hyperscaler-offshore,swedencentral,azure,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,enterpriseregistration.fcc.mu,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,20.190.159.20,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,enterpriseregistration.fcc.mu,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,20.190.159.67,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
