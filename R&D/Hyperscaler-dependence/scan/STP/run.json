@@ -193,16 +193,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "206834": "TEAMINTERNET-CA-AS Team Internet AG",
-  "328191": "Companhia Santomense de Telecomunicacoes - Companhia Santomense de Telecomunicacoes",
-  "327725": "UNITEL STP SARL - UNITEL STP SARL",
-  "8473": "BAHNHOF Bahnhof AB",
-  "1930": "RCCN Fundacao para a Ciencia e a Tecnologia, I.P.",
-  "33876": "Flesk-AS DMNS - DOMINIOS, S.A.",
-  "12353": "VODAFONE-PT Vodafone Portugal - Communicacoes Pessoais S.A.",
-  "39384": "RACKFIBER Dream Fusion - IT Services, Lda"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 243,
@@ -211,11 +202,11 @@
    "us_saas_share": 20.2,
    "cdn_share": 1.6,
    "national_or_self_share": 1.6,
-   "unattributed": 112,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 112,
+    "commercial-host": 75,
     "us-hyperscaler-offshore": 49,
-    "commercial-host": 25,
+    "telco-isp": 62,
     "cdn-origin-unknown": 4,
     "us-saas": 49,
     "self-hosted": 4
@@ -234,11 +225,11 @@
    "us_saas_share": 17.5,
    "cdn_share": 1.0,
    "national_or_self_share": 1.9,
-   "unattributed": 101,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 101,
+    "commercial-host": 72,
     "us-hyperscaler-offshore": 40,
-    "commercial-host": 23,
+    "telco-isp": 52,
     "cdn-origin-unknown": 2,
     "us-saas": 36,
     "self-hosted": 4
@@ -257,12 +248,12 @@
    "us_saas_share": 35.1,
    "cdn_share": 5.4,
    "national_or_self_share": 0.0,
-   "unattributed": 11,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 11,
+    "telco-isp": 10,
     "us-saas": 13,
     "us-hyperscaler-offshore": 9,
-    "commercial-host": 2,
+    "commercial-host": 3,
     "cdn-origin-unknown": 2
    },
    "institutions": 2,
