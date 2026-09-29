@@ -472,9 +472,9 @@
    "us_saas_share": 8.1,
    "cdn_share": 48.2,
    "national_or_self_share": 13.1,
-   "unattributed": 1,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 100,
+    "commercial-host": 101,
     "national-dc": 293,
     "telco-isp": 723,
     "cdn-origin-unknown": 2287,
@@ -484,7 +484,6 @@
     "unresolved": 11,
     "self-hosted": 330,
     "us-hyperscaler-africa": 93,
-    "unattributed": 1,
     "chinese-cloud": 12
    },
    "institutions": 50,
@@ -501,9 +500,9 @@
    "us_saas_share": 6.6,
    "cdn_share": 45.4,
    "national_or_self_share": 16.3,
-   "unattributed": 1,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 71,
+    "commercial-host": 72,
     "national-dc": 293,
     "telco-isp": 676,
     "cdn-origin-unknown": 1558,
@@ -513,7 +512,6 @@
     "unresolved": 9,
     "self-hosted": 266,
     "us-hyperscaler-africa": 75,
-    "unattributed": 1,
     "chinese-cloud": 12
    },
    "institutions": 40,

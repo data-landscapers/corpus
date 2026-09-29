@@ -38,7 +38,7 @@ KEN,Public procurement authority,Public Procurement Regulatory Authority,ppra.go
 KEN,Public procurement authority,Government tenders portal,tenders.go.ke,3,11,0.0,0.0,45.5,0.0,0.0,0,google,,false,2026-09-28
 KEN,Energy utility,Kenya Power,kplc.co.ke,50,51,9.8,0.0,0.0,9.8,13.7,0,m365,,true,2026-09-28
 KEN,Energy utility,KenGen,kengen.co.ke,63,93,14.0,0.0,18.3,23.7,1.1,0,m365,,true,2026-09-28
-KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,53,57,19.3,0.0,31.6,3.5,26.3,1,m365,cisco-ironport,true,2026-09-28
+KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,53,57,19.3,0.0,31.6,3.5,26.3,0,m365,cisco-ironport,true,2026-09-28
 KEN,State-owned telco,Safaricom,safaricom.co.ke,777,524,8.4,0.2,0.4,69.7,17.9,0,other:Cisco Secure Email (IronPort),cisco-ironport,true,2026-09-28
 KEN,State-owned telco,Telkom Kenya,telkom.co.ke,83,69,2.9,0.0,18.8,0.0,73.9,0,m365,,true,2026-09-28
 KEN,E-government agency,eCitizen,ecitizen.go.ke,94,162,1.2,0.0,3.1,51.9,0.0,0,google,,false,2026-09-28

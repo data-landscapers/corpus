@@ -3391,7 +3391,7 @@ KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,cpcontacts.kpa.co.ke,diction
 KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,edrms.kpa.co.ke,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
 KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,email.kpa.co.ke,dictionary,A,ok,eu.mailgun.org,34.111.99.212,eu.mailgun.org,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-28
 KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,employeeselfservice.kpa.co.ke,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
-KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,ferryservices.kpa.co.ke,ct,A,ok,,196.50.21.124,,328149,,unattributed,,,2026-09-28
+KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,ferryservices.kpa.co.ke,ct,A,ok,,196.50.21.124,,328149,,commercial-host,,,2026-09-28
 KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,ftp.kpa.co.ke,dictionary,A,ok,,41.78.27.215,,37156,Xtranet Communications Ltd - Xtranet Communications Ltd,telco-isp,,Xtranet Communications,2026-09-28
 KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,icms.kpa.co.ke,ct,A,ok,,154.115.161.14,,328739,KENYA PORTS AUTHORITY,self-hosted,,,2026-09-28
 KEN,Ports authority,Kenya Ports Authority,kpa.co.ke,innovations.kpa.co.ke,ct,CNAME,nxdomain,kpa-innovation-portal-prod-fe.azurewebsites.net.kpa.co.ke,,kpa-innovation-portal-prod-fe.azurewebsites.net.kpa.co.ke,,,,,,2026-09-28
