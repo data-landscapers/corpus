@@ -736,11 +736,11 @@ def main() -> int:
     live = [r for r in inst if r["domain"].strip() and r["status"].strip().lower() != "dead"]
     domains_all = [r["domain"].strip().lower() for r in live]
     if args.reattribute:
-        by_dom = {r["domain"].strip().lower(): r for r in live}
+        # the node's own institution: a domain the scan wrote back as `dead` is no longer in `live`
         for r in existing:
             if r["rr_type"] in ("A", "AAAA", "MX", "NS", "CNAME") and (r["ip"] or r["cname_chain"] or r["target"]):
                 hosts = r["cname_chain"].split(">") if r["cname_chain"] else ([r["target"]] if r["target"] else [])
-                r.update(att.attribute(hosts, r["ip"], by_dom[r["domain"]]["institution"], r["domain"]))
+                r.update(att.attribute(hosts, r["ip"], r["institution"], r["domain"]))
         done = {r["domain"] for r in existing}
         runinfo = {d: i for d, i in runinfo.items() if d in done}
     all_rows = list(existing)
