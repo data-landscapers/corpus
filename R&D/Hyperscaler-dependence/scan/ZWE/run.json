@@ -1,0 +1,455 @@
+{
+ "iso3": "ZWE",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "theopc.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parlzim.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zimfa.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defence.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zrp.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "jsc.org.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zimtreasury.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zimra.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moha.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rbz.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 66,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cbz.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 74,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fbc.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zb.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 54,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stanbicbank.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 40,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "stewardbank.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 32,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nmbz.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firstcapitalbank.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cabs.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nedbank.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rg.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zec.org.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zimstat.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zimimmigration.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mohcc.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 44,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mpslsw.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zimswitch.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zse.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 41,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "seczim.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nssa.org.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "praz.org.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zesaholdings.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "telone.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 129,
+   "dictionary_hits": 19,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ictministry.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gisp.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "potraz.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "auditorgeneral.gov.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zacc.co.zw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37204": "Telone PVT Ltd - Telone PVT Ltd",
+  "57344": "TELEHOUSE-AS Telehouse EAD",
+  "40021": "CONTABO-40021 - Contabo Inc.",
+  "37332": "Zimbabwe Online - Zimbabwe Online",
+  "37123": "Telecontract Pvt Ltd - Telecontract Pvt Ltd",
+  "37183": "Utande Internet Services (Pvt) Ltd - Utande Internet Services (Pvt) Ltd",
+  "37441": "Digicore Electronics (Pty) Ltd - Digicore Electronics (Pty) Ltd",
+  "31856": "YoAfrica (Pvt) Ltd - YoAfrica (Pvt) Ltd",
+  "33763": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
+  "37184": "Powertel Communications - Powertel Communications",
+  "36986": "Africom Pvt Ltd - Africom Pvt Ltd",
+  "37442": "African Network Information Center - (AfriNIC) Ltd"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1293,
+   "us_hyperscaler_share": 23.6,
+   "african_region_share": 0.6,
+   "us_saas_share": 15.2,
+   "cdn_share": 15.6,
+   "national_or_self_share": 6.4,
+   "unattributed": 366,
+   "by_category": {
+    "unattributed": 366,
+    "african-colo": 106,
+    "cdn-origin-unknown": 202,
+    "us-saas": 196,
+    "commercial-host": 5,
+    "us-hyperscaler-africa": 8,
+    "us-hyperscaler-offshore": 297,
+    "self-hosted": 83,
+    "telco-isp": 23,
+    "unresolved": 7
+   },
+   "institutions": 38,
+   "names": 989,
+   "m365": 16,
+   "google": 1,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 17
+  },
+  "government": {
+   "routable": 763,
+   "us_hyperscaler_share": 24.4,
+   "african_region_share": 0.4,
+   "us_saas_share": 9.4,
+   "cdn_share": 13.6,
+   "national_or_self_share": 7.5,
+   "unattributed": 292,
+   "by_category": {
+    "unattributed": 292,
+    "african-colo": 44,
+    "cdn-origin-unknown": 104,
+    "us-saas": 72,
+    "commercial-host": 2,
+    "us-hyperscaler-africa": 3,
+    "us-hyperscaler-offshore": 183,
+    "unresolved": 6,
+    "self-hosted": 57
+   },
+   "institutions": 29,
+   "names": 634,
+   "m365": 8,
+   "google": 1,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 8
+  },
+  "bank": {
+   "routable": 530,
+   "us_hyperscaler_share": 22.5,
+   "african_region_share": 0.9,
+   "us_saas_share": 23.4,
+   "cdn_share": 18.5,
+   "national_or_self_share": 4.9,
+   "unattributed": 74,
+   "by_category": {
+    "african-colo": 62,
+    "unattributed": 74,
+    "cdn-origin-unknown": 98,
+    "us-saas": 124,
+    "us-hyperscaler-offshore": 114,
+    "us-hyperscaler-africa": 5,
+    "self-hosted": 26,
+    "telco-isp": 23,
+    "commercial-host": 3,
+    "unresolved": 1
+   },
+   "institutions": 9,
+   "names": 355,
+   "m365": 8,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 9
+  }
+ },
+ "findings": []
+}
