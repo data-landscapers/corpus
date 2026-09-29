@@ -1,0 +1,314 @@
+{
+ "iso3": "CAF",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "renaissance.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "assembleenationale-rca.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "diplomatie.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.cf": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "defense.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "justice.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "finances.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "edouanes.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "securite.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "administration-territoire.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "beac.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bpmcbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ane-rca.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "icasees.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnsscentrafrique.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "gimac-afr.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bvm-ac.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cosumaf.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp-rca.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "dgmp-rca.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "gouvernement.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "gouv.cf": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 7 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "ccis-rca.org": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arcep.cf": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "48596": "INWX InterNetworX Management GmbH",
+  "37460": "Orange Centreafrique - Orange Centreafrique",
+  "19994": "RACKSPACE - Rackspace Hosting",
+  "213298": "CTX-BRN-AS Cortex IT SA"
+ },
+ "rollup": {
+  "all": {
+   "routable": 318,
+   "us_hyperscaler_share": 21.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 14.2,
+   "cdn_share": 9.7,
+   "national_or_self_share": 0.0,
+   "unattributed": 114,
+   "by_category": {
+    "us-hyperscaler-offshore": 69,
+    "commercial-host": 58,
+    "cdn-origin-unknown": 31,
+    "us-saas": 45,
+    "unattributed": 114,
+    "telco-isp": 1
+   },
+   "institutions": 25,
+   "names": 151,
+   "m365": 5,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 5
+  },
+  "government": {
+   "routable": 313,
+   "us_hyperscaler_share": 22.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 14.4,
+   "cdn_share": 9.9,
+   "national_or_self_share": 0.0,
+   "unattributed": 109,
+   "by_category": {
+    "us-hyperscaler-offshore": 69,
+    "commercial-host": 58,
+    "cdn-origin-unknown": 31,
+    "us-saas": 45,
+    "unattributed": 109,
+    "telco-isp": 1
+   },
+   "institutions": 24,
+   "names": 147,
+   "m365": 5,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 5
+  },
+  "bank": {
+   "routable": 5,
+   "us_hyperscaler_share": 0.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 0.0,
+   "cdn_share": 0.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 5,
+   "by_category": {
+    "unattributed": 5
+   },
+   "institutions": 1,
+   "names": 4,
+   "m365": 0,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 0
+  }
+ },
+ "findings": []
+}

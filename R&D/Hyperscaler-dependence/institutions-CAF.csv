@@ -1,41 +1,41 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République centrafricaine,renaissance.cf,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Parliament,Assemblée nationale,assembleenationale-rca.cf,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères et des Centrafricains de l'Étranger,diplomatie.gouv.cf,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale et de la Reconstruction de l'armée,defense.cf,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale (portail gouv.cf),defense.gouv.cf,,confirmed 2026-09-29,
+Presidency,Présidence de la République centrafricaine,renaissance.cf,,scanned 2026-09-29,homepage did not load: ConnectionError
+Parliament,Assemblée nationale,assembleenationale-rca.cf,,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères et des Centrafricains de l'Étranger,diplomatie.gouv.cf,diplomatie.gouv.cf,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale et de la Reconstruction de l'armée,defense.cf,,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale (portail gouv.cf),defense.gouv.cf,,scanned 2026-09-29,
 Armed Forces,Forces armées centrafricaines (FACA),,,absent,shares defense.cf with Defence
 Police,Police nationale,,,absent,shares securite.gouv.cf with Interior
-Justice,Ministère de la Justice et des Droits humains,justice.gouv.cf,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.cf,,confirmed 2026-09-29,
+Justice,Ministère de la Justice et des Droits humains,justice.gouv.cf,,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.cf,finances.gouv.cf,scanned 2026-09-29,
 Revenue Service,Direction générale des Impôts et des Domaines (DGID),,,absent,shares finances.gouv.cf with Treasury / Finance
-Customs,Direction générale des Douanes et Droits indirects,edouanes.cf,,confirmed 2026-09-29,
+Customs,Direction générale des Douanes et Droits indirects,edouanes.cf,edouanes.cf,scanned 2026-09-29,
 Intelligence,Services de renseignement,,,absent,no public website found
-Interior / Home Affairs,Ministère de la Sécurité publique,securite.gouv.cf,,confirmed 2026-09-29,
-Interior / Home Affairs,Ministère de l'Administration du territoire,administration-territoire.gouv.cf,,confirmed 2026-09-29,
-Central Bank,Banque des États de l'Afrique Centrale,beac.int,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Commercial Banks,Banque Populaire Maroco-Centrafricaine (BPMC),bpmcbank.com,,unconfirmed 2026-09-29,"Source: CNEF-RCA, Situation du système bancaire à décembre 2025 (cnef-rca.org; also APECCA member list) - only four licensed banks, no assets ranking published. Left out as pan-African group domains with no country site: Ecobank Centrafrique (ecobank.com), BGFIBank Centrafrique (groupebgfibank.com), BSIC RCA (bsicbank.com); homepage did not load: ConnectionError"
+Interior / Home Affairs,Ministère de la Sécurité publique,securite.gouv.cf,securite.gouv.cf,scanned 2026-09-29,
+Interior / Home Affairs,Ministère de l'Administration du territoire,administration-territoire.gouv.cf,,scanned 2026-09-29,
+Central Bank,Banque des États de l'Afrique Centrale,beac.int,beac.int,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Commercial Banks,Banque Populaire Maroco-Centrafricaine (BPMC),bpmcbank.com,bpmcbank.com,scanned 2026-09-29,"Source: CNEF-RCA, Situation du système bancaire à décembre 2025 (cnef-rca.org; also APECCA member list) - only four licensed banks, no assets ranking published. Left out as pan-African group domains with no country site: Ecobank Centrafrique (ecobank.com), BGFIBank Centrafrique (groupebgfibank.com), BSIC RCA (bsicbank.com); homepage did not load: ConnectionError"
 Civil registry / National ID authority,État civil et identification,,,absent,shares securite.gouv.cf with Interior; no own site
 Data protection authority,Autorité de protection des données personnelles,,,absent,no such authority found
-Electoral commission,Autorité nationale des élections (ANE),ane-rca.org,,confirmed 2026-09-29,
-Statistics office,Institut centrafricain des statistiques et des études économiques et sociales (ICASEES),icasees.org,,confirmed 2026-09-29,
+Electoral commission,Autorité nationale des élections (ANE),ane-rca.org,ane-rca.org,scanned 2026-09-29,
+Statistics office,Institut centrafricain des statistiques et des études économiques et sociales (ICASEES),icasees.org,icasees.org,scanned 2026-09-29,
 Immigration / Passports,Police de l'air et des frontières / Immigration,,,absent,shares securite.gouv.cf with Interior
-Health ministry / National health insurance,Ministère de la Santé et de la Population,sante.gouv.cf,,confirmed 2026-09-29,
-Social protection / Social registry,Caisse nationale de sécurité sociale (CNSS),cnsscentrafrique.org,,unconfirmed 2026-09-29,also the national pension fund; homepage did not load: ConnectionError
+Health ministry / National health insurance,Ministère de la Santé et de la Population,sante.gouv.cf,sante.gouv.cf,scanned 2026-09-29,
+Social protection / Social registry,Caisse nationale de sécurité sociale (CNSS),cnsscentrafrique.org,,dead,also the national pension fund; homepage did not load: ConnectionError
 Land registry,Conservation foncière,,,absent,within DGID; shares finances.gouv.cf with Treasury / Finance
-National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale (GIMAC),gimac-afr.com,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale (GIMAC),gimac-afr.com,,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC),bvm-ac.org,bvm-ac.org,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),cosumaf.org,cosumaf.org,scanned 2026-09-29,regional (CEMAC); shared with other member states
 Sovereign wealth fund / National pension fund,Fonds souverain,,,absent,no sovereign fund; pension fund is CNSS (cnsscentrafrique.org)
-Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp-rca.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Public procurement authority,Direction générale des marchés publics (DGMP),dgmp-rca.com,,confirmed 2026-09-29,
+Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp-rca.com,,dead,homepage did not load: ConnectionError
+Public procurement authority,Direction générale des marchés publics (DGMP),dgmp-rca.com,,scanned 2026-09-29,
 Energy utility,Énergie Centrafricaine (ENERCA),,,absent,enerca-rca.com now serves an unrelated site (hijacked)
 Ports authority,Autorité portuaire,,,absent,no port authority website found
 State-owned telco / National backbone operator,Société centrafricaine de télécommunications (SOCATEL),,,absent,no website found
-E-government agency,Portail du Gouvernement,gouvernement.cf,,confirmed 2026-09-29,
-E-government agency,Gouvernement de la République centrafricaine,gouv.cf,,confirmed 2026-09-29,parent zone; scanned root-only
+E-government agency,Portail du Gouvernement,gouvernement.cf,,scanned 2026-09-29,
+E-government agency,Gouvernement de la République centrafricaine,gouv.cf,gouv.cf,scanned 2026-09-29,parent zone; scanned root-only
 National data centre / Government cloud operator,Centre de données national,,,absent,planned Tier III project; no operator yet
-Cybersecurity agency / National CERT,Cellule centrafricaine de l'Internet et de la Sécurité (CCIS),ccis-rca.org,,confirmed 2026-09-29,
-Communications regulator,Autorité de régulation des communications électroniques et de la Poste (ARCEP),arcep.cf,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Cellule centrafricaine de l'Internet et de la Sécurité (CCIS),ccis-rca.org,ccis-rca.org,scanned 2026-09-29,
+Communications regulator,Autorité de régulation des communications électroniques et de la Poste (ARCEP),arcep.cf,arcep.cf,scanned 2026-09-29,
 Audit office,Cour des comptes,,,absent,no own website found
 Anti-corruption commission,Haute Autorité de Bonne Gouvernance (HABG),,,absent,no website found
