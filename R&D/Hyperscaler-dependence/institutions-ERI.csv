@@ -1,0 +1,40 @@
+type,institution,domain,email_domain,status,note
+Presidency,Office of the President,,,absent,no own domain found; state news at shabait.com
+Parliament,National Assembly of Eritrea,,,absent,no domain found
+Foreign Affairs,Ministry of Foreign Affairs,,,absent,no domain found
+Defence,Ministry of Defence,,,absent,no domain found
+Armed Forces,Eritrean Defence Forces,,,absent,shares domain with Defence; none found
+Police,Eritrean Police,,,absent,no domain found
+Justice,Ministry of Justice,,,absent,no domain found
+Treasury / Finance,Ministry of Finance,,,absent,no domain found
+Revenue Service,Inland Revenue Department,,,absent,no domain found
+Customs,Customs Department,,,absent,within revenue service; no domain found
+Intelligence,National Security Office,,,absent,no public domain
+Interior / Home Affairs,Ministry of Local Government,,,absent,no domain found
+Central Bank,Bank of Eritrea,boe.gov.er,,unconfirmed 2026-09-29,cited as www.boe.gov.er; homepage did not load: ConnectTimeout
+Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,,confirmed 2026-09-29,Bank source: Wikipedia List of banks in Eritrea (2021): only 3 commercial banks; no asset ranking published; Commercial Bank of Eritrea and Eritrean Investment and Development Bank have no domain found
+Commercial Banks,Commercial Bank of Eritrea,,,absent,no domain found
+Commercial Banks,Eritrean Investment and Development Bank,,,absent,no domain found
+Civil registry / National ID authority,Civil registry,,,absent,no domain found
+Data protection authority,Data protection authority,,,absent,none exists
+Electoral commission,Electoral commission,,,absent,no electoral body or domain
+Statistics office,National Statistics Office,,,absent,no domain found
+Immigration / Passports,Department of Immigration,,,absent,under Interior; no domain found
+Health ministry / National health insurance,Ministry of Health,,,absent,no domain found
+Social protection / Social registry,Ministry of Labour and Human Welfare,,,absent,no domain found
+Land registry,Land registry,,,absent,no domain found
+National payment switch,National payment switch,,,absent,none known
+Stock exchange,Stock exchange,,,absent,none exists
+Securities regulator,Securities regulator,,,absent,none exists
+Sovereign wealth fund / National pension fund,Social Security Agency,,,absent,no domain found
+Public procurement authority,Public procurement authority,,,absent,no domain found
+Energy utility,Eritrean Electric Authority,,,absent,no domain found
+Ports authority,Eritrean Ports Authority,,,absent,no domain found
+State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,,confirmed 2026-09-29,cited as www.eritel.com.er
+E-government agency,Government of Eritrea (parent zone),gov.er,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+E-government agency,Ministry of Information,shabait.com,,confirmed 2026-09-29,official government portal and news site
+National data centre / Government cloud operator,Government data centre,,,absent,none found
+Cybersecurity agency / National CERT,National CERT,,,absent,none exists
+Communications regulator,Ministry of Transport and Communications,,,absent,no domain found
+Audit office,Office of the Auditor General,,,absent,no domain found
+Anti-corruption commission,Anti-corruption commission,,,absent,none exists
