@@ -48,7 +48,7 @@ GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration afr
 GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,ftp.mae.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,mae.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,mail.mae.gov.gn,dictionary;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,sigmae.mae.gov.gn,ct,A,ok,,175.136.193.211,,4788,TM TECHNOLOGY SERVICES SDN BHD,unattributed,,,2026-09-29
+GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,sigmae.mae.gov.gn,ct,A,ok,,175.136.193.211,,4788,TM TECHNOLOGY SERVICES SDN BHD,commercial-host,,TTSSB-MY - TM TECHNOLOGY SERVICES SDN. BHD.,2026-09-29
 GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,ssh.mae.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,www.ambaguipretoria.mae.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,www.config.mae.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -93,7 +93,7 @@ GIN,Justice,Ministère de la Justice et des Droits de l'Homme,justiceguinee.gov.
 GIN,Justice,Ministère de la Justice et des Droits de l'Homme,justiceguinee.gov.gn,justiceguinee.gov.gn,root,TXT,ok,v=spf1 +a +mx include:justiceguinee.gov.gn.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 GIN,Justice,Ministère de la Justice et des Droits de l'Homme,justiceguinee.gov.gn,_dmarc.justiceguinee.gov.gn,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,admin.tresorpay.mef.gov.gn,ct,A,ok,,178.62.225.118,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
-GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,analyse.mef.gov.gn,ct,A,ok,,102.218.137.236,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,analyse.mef.gov.gn,ct,A,ok,,102.218.137.236,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,autoconfig.mef.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,autodiscover.mef.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,balance.mef.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -116,9 +116,9 @@ GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,mail
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,mef.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,new.mef.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,oeil.mef.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,scie-doc.mef.gov.gn,ct,A,ok,,102.218.137.235,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,scie-doc.mef.gov.gn,ct,A,ok,,102.218.137.235,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,ssh.mef.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,sysop.mef.gov.gn,ct,A,ok,,102.218.137.238,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,sysop.mef.gov.gn,ct,A,ok,,102.218.137.238,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,tresor.mef.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,tresorpay.mef.gov.gn,ct,A,ok,,178.62.225.118,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,upp.mef.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -130,40 +130,40 @@ GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,mef.
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,mef.gov.gn,root,NS,ok,ns2.siteground.net,99.83.229.113,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,mef.gov.gn,root,TXT,ok,v=spf1 +a +mx include:mef.gov.gn.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,_dmarc.mef.gov.gn,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,api.nifp.mbudget.gov.gn,ct,A,ok,,41.77.184.228,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,api.nifp.mbudget.gov.gn,ct,A,ok,,102.218.137.228,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,api.nifp.mbudget.gov.gn,ct,A,ok,,41.77.184.228,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,api.nifp.mbudget.gov.gn,ct,A,ok,,102.218.137.228,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,atd.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,buse.mbudget.gov.gn,ct,A,ok,,102.218.137.229,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,buse.mbudget.gov.gn,ct,A,ok,,102.218.137.229,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cfu.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cfum.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cloud.mbudget.gov.gn,dictionary;ct,A,ok,,102.218.137.234,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cloud.mbudget.gov.gn,dictionary;ct,A,ok,,102.218.137.234,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,codebarre.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,courrier.mbudget.gov.gn,ct,A,ok,,102.218.137.227,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cpanel.mbudget.gov.gn,dictionary,A,ok,,205.251.122.87,,29838,"Atlantic Metro Communications II, Inc.",unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cpanel.mbudget.gov.gn,dictionary,A,ok,,41.77.184.231,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,dashboard.mbudget.gov.gn,dictionary;ct,A,ok,,102.218.137.236,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,courrier.mbudget.gov.gn,ct,A,ok,,102.218.137.227,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cpanel.mbudget.gov.gn,dictionary,A,ok,,205.251.122.87,,29838,"Atlantic Metro Communications II, Inc.",commercial-host,,"AMC - Atlantic Metro Communications II, Inc.",2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,cpanel.mbudget.gov.gn,dictionary,A,ok,,41.77.184.231,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,dashboard.mbudget.gov.gn,dictionary;ct,A,ok,,102.218.137.236,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,dgd.mbudget.gov.gn,ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,dgi.mbudget.gov.gn,ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,dni.mbudget.gov.gn,ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,ebiassi.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,elastic.mbudget.gov.gn,ct,A,ok,,102.218.137.235,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,elastic.mbudget.gov.gn,ct,A,ok,,102.218.137.235,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,erp.mbudget.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,gitlab.mbudget.gov.gn,dictionary,A,ok,,102.218.137.231,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,gitlab.mbudget.gov.gn,dictionary,A,ok,,41.77.184.231,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,gitlab.mbudget.gov.gn,dictionary,A,ok,,102.218.137.231,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,gitlab.mbudget.gov.gn,dictionary,A,ok,,41.77.184.231,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mail.mbudget.gov.gn,dictionary;ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root;ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,monitoring.mbudget.gov.gn,dictionary;ct,A,ok,,41.77.184.237,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,monitoring.mbudget.gov.gn,dictionary;ct,A,ok,,41.77.184.237,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,newmb.mbudget.gov.gn,ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,nifp.mbudget.gov.gn,ct,A,ok,,41.77.184.228,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,nifp.mbudget.gov.gn,ct,A,ok,,102.218.137.228,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,notification.mbudget.gov.gn,ct,A,ok,,102.218.137.238,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,onlyoffice.mbudget.gov.gn,ct,A,ok,,102.218.137.233,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,nifp.mbudget.gov.gn,ct,A,ok,,41.77.184.228,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,nifp.mbudget.gov.gn,ct,A,ok,,102.218.137.228,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,notification.mbudget.gov.gn,ct,A,ok,,102.218.137.238,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,onlyoffice.mbudget.gov.gn,ct,A,ok,,102.218.137.233,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,openerp.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,pec.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,sicom.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,tbord.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,test-sicom.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,visio.mbudget.gov.gn,ct,A,ok,,41.77.184.235,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,visio.mbudget.gov.gn,ct,A,ok,,41.77.184.235,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,www.dni.mbudget.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,www.mbudget.gov.gn,root;ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,MX,ok,aspmx.l.google.com,192.178.223.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
@@ -174,36 +174,36 @@ GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,M
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,NS,ok,ns1.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,NS,ok,ns5.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,NS,ok,ns3.sitelutions.com,192.241.206.246,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
-GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,unattributed,,,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,NS,ok,ns4.sitelutions.com,138.197.152.205,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,root,TXT,ok,v=spf1 +mx +a +ip4:144.76.240.174 include:relay.mailchannels.net ~all,,,,,,,,2026-09-29
 GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,_dmarc.mbudget.gov.gn,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,api-immatriculation.dgi.gov.gn,ct,A,ok,,197.149.231.84,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,api-immatriculation.dgi.gov.gn,ct,A,ok,,197.149.231.84,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,backend.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,backend.ebilan.dgi.gov.gn,ct,A,ok,,197.149.231.86,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,backend.ebilan.dgi.gov.gn,ct,A,ok,,197.149.231.86,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,cfugpf.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,cfupp.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,courrier-formation.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,courrier.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,courrier-formation.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,courrier.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,dgi.gov.gn,root;ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,drh.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,ebilan.dgi.gov.gn,ct,A,ok,,197.149.231.85,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,ebilan.dgi.gov.gn,ct,A,ok,,197.149.231.85,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,ee.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,form.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,form.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,forms.dgi.gov.gn,dictionary;ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,formsapi.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,gecoffice.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,gestpro.dgi.gov.gn,ct,A,ok,,197.149.206.19,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,formsapi.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,gecoffice.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,gestpro.dgi.gov.gn,ct,A,ok,,197.149.206.19,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,kc.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,kf.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,labs.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,labs.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,madistore.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,misp.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,pbs.dgi.gov.gn,ct,A,ok,,156.67.28.5,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,portainer.dgi.gov.gn,dictionary;ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,portal.dgi.gov.gn,dictionary;ct,A,ok,,197.149.206.21,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,proxy.dgi.gov.gn,dictionary;ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,signature.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,portainer.dgi.gov.gn,dictionary;ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,portal.dgi.gov.gn,dictionary;ct,A,ok,,197.149.206.21,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,proxy.dgi.gov.gn,dictionary;ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,signature.dgi.gov.gn,ct,A,ok,,197.149.206.22,,37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,timbre.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,tpu.dgi.gov.gn,ct,A,ok,,34.174.102.109,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,vmpro.dgi.gov.gn,ct,A,ok,,213.136.73.2,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
@@ -216,21 +216,21 @@ GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,dgi.gov.gn,root,
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,dgi.gov.gn,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,dgi.gov.gn,root,TXT,ok,v=spf1 +a +mx +ip4:34.174.102.109  include:dgi.gov.gn.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,_dmarc.dgi.gov.gn,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-GIN,Customs,Direction générale des douanes,dgd.gov.gn,app.dgd.gov.gn,dictionary;ct,A,ok,,41.77.184.51,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,app.dgd.gov.gn,dictionary;ct,A,ok,,41.77.184.51,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root;ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,ftp.dgd.gov.gn,dictionary,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-GIN,Customs,Direction générale des douanes,dgd.gov.gn,mail.dgd.gov.gn,dictionary;ct,A,ok,,41.77.184.52,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Customs,Direction générale des douanes,dgd.gov.gn,tracking.dgd.gov.gn,dictionary;ct,A,ok,,102.208.222.165,,328899,WEBB FONTAINE GUINEE SA,unattributed,,,2026-09-29
-GIN,Customs,Direction générale des douanes,dgd.gov.gn,vm.dgd.gov.gn,dictionary,A,ok,,41.77.184.51,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,mail.dgd.gov.gn,dictionary;ct,A,ok,,41.77.184.52,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,tracking.dgd.gov.gn,dictionary;ct,A,ok,,102.208.222.165,,328899,WEBB FONTAINE GUINEE SA,telco-isp,,Afribone - Guinee SA - Afribone - Guinee SA,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,vm.dgd.gov.gn,dictionary,A,ok,,41.77.184.51,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,www.app.dgd.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,www.dgd.gov.gn,root;ct,A,ok,,135.181.49.164,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,www.mail.dgd.gov.gn,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,MX,ok,mail.dgd.gov.gn,41.77.184.52,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,MX,ok,mail.dgd.gov.gn,41.77.184.52,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,NS,ok,ns3.sitelutions.com,192.241.206.246,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,NS,ok,ns1.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,NS,ok,ns4.sitelutions.com,138.197.152.205,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,NS,ok,ns5.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
-GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,unattributed,,,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,root,TXT,ok,v=spf1 mx a:mail.dgd.gov.gn ip4:41.77.184.52 -all,,,,,,,,2026-09-29
 GIN,Customs,Direction générale des douanes,dgd.gov.gn,_dmarc.dgd.gov.gn,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:postmaster@dgd.gov.gn; ruf=mailto:postmaster@dgd.gov.gn; adkim=r; aspf=r; rf=afrf,,,,,,,,2026-09-29
 GIN,Interior / Home Affairs,Ministère de l'Administration du territoire et de la Décentralisation,matd.gov.gn,autoconfig.matd.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
@@ -281,7 +281,7 @@ GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,ex
 GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,ftp.bcrg-guinee.org,dictionary,A,ok,ftp.cluster002.hosting.ovh.net,5.39.29.132,ftp.cluster002.ovh.net>ftp.cluster002.hosting.ovh.net,16276,Ovh Hosting,commercial-host,,OVH,2026-09-29
 GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,imap.bcrg-guinee.org,dictionary,A,ok,ssl0.ovh.net,193.70.18.144,ssl0.ovh.net,16276,TechTeam TechTeam,commercial-host,,OVH,2026-09-29
 GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,mail.bcrg-guinee.org,dictionary,A,ok,ssl0.ovh.net,193.70.18.144,ssl0.ovh.net,16276,TechTeam TechTeam,commercial-host,,OVH,2026-09-29
-GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,monitoring.bcrg-guinee.org,dictionary,A,ok,,41.79.237.220,,37141,ETI SA - ETI SA,unattributed,,,2026-09-29
+GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,monitoring.bcrg-guinee.org,dictionary,A,ok,,41.79.237.220,,37141,ETI SA - ETI SA,telco-isp,,ETI SA - ETI SA,2026-09-29
 GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,pop3.bcrg-guinee.org,dictionary,A,ok,ssl0.ovh.net,193.70.18.144,ssl0.ovh.net,16276,TechTeam TechTeam,commercial-host,,OVH,2026-09-29
 GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,smtp.bcrg-guinee.org,dictionary,A,ok,ssl0.ovh.net,193.70.18.144,ssl0.ovh.net,16276,TechTeam TechTeam,commercial-host,,OVH,2026-09-29
 GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,www.bcrg-guinee.org,root,A,ok,,46.105.204.2,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
@@ -316,40 +316,40 @@ GIN,Commercial Banks,AFG Bank Guinée,afgbank.gn,afgbank.gn,root,NS,ok,ns3.bdm.m
 GIN,Commercial Banks,AFG Bank Guinée,afgbank.gn,afgbank.gn,root,NS,ok,ns4.bdm.microsoftonline.com,208.84.5.208,,8075,Microsoft Corporation,us-hyperscaler-offshore,,Microsoft,2026-09-29
 GIN,Commercial Banks,AFG Bank Guinée,afgbank.gn,afgbank.gn,root,TXT,ok,v=spf1 include:spf.protection.outlook.com include:_spf.google.com -all,,,,,,,,2026-09-29
 GIN,Commercial Banks,AFG Bank Guinée,afgbank.gn,_dmarc.afgbank.gn,root,TXT,ok,v=DMARC1;p=reject;pct=100;rua=mailto:it.infrastructure@dbs-africa.com;ruf=mailto:it.infrastructure@dbs-africa.com;ri=86400;fo=1;adkim=s;aspf=s,,,,,,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root;ct,A,ok,,91.216.107.206,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root;ct,AAAA,ok,,2a00:7ee0:1:0:3:2215:0:65,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,ftp.big-bank.net,dictionary,A,ok,big-bank.net,91.216.107.206,big-bank.net,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,ftp.big-bank.net,dictionary,AAAA,ok,big-bank.net,2a00:7ee0:1:0:3:2215:0:65,big-bank.net,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,imap.big-bank.net,dictionary,A,ok,mail.big-bank.net,31.207.34.50,mail.big-bank.net,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,mail.big-bank.net,dictionary,A,ok,,31.207.34.50,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,pop.big-bank.net,dictionary,A,ok,mail.big-bank.net,31.207.34.50,mail.big-bank.net,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,smtp.big-bank.net,dictionary,A,ok,mail.big-bank.net,31.207.34.50,mail.big-bank.net,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,www.big-bank.net,root,A,ok,big-bank.net,91.216.107.206,big-bank.net,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,www.big-bank.net,root,AAAA,ok,big-bank.net,2a00:7ee0:1:0:3:2215:0:65,big-bank.net,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,MX,ok,mail.big-bank.net,31.207.34.50,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns7.lwsdns.com,91.216.107.202,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns6.lwsdns.com,185.98.131.180,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns5.lwsdns.com,91.216.107.165,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root;ct,A,ok,,91.216.107.206,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root;ct,AAAA,ok,,2a00:7ee0:1:0:3:2215:0:65,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,ftp.big-bank.net,dictionary,A,ok,big-bank.net,91.216.107.206,big-bank.net,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,ftp.big-bank.net,dictionary,AAAA,ok,big-bank.net,2a00:7ee0:1:0:3:2215:0:65,big-bank.net,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,imap.big-bank.net,dictionary,A,ok,mail.big-bank.net,31.207.34.50,mail.big-bank.net,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,mail.big-bank.net,dictionary,A,ok,,31.207.34.50,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,pop.big-bank.net,dictionary,A,ok,mail.big-bank.net,31.207.34.50,mail.big-bank.net,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,smtp.big-bank.net,dictionary,A,ok,mail.big-bank.net,31.207.34.50,mail.big-bank.net,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,www.big-bank.net,root,A,ok,big-bank.net,91.216.107.206,big-bank.net,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,www.big-bank.net,root,AAAA,ok,big-bank.net,2a00:7ee0:1:0:3:2215:0:65,big-bank.net,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,MX,ok,mail.big-bank.net,31.207.34.50,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns7.lwsdns.com,91.216.107.202,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns6.lwsdns.com,185.98.131.180,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns5.lwsdns.com,91.216.107.165,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,NS,ok,ns8.lwsdns.com,162.55.216.63,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,root,TXT,ok,v=spf1 mx:big-bank.net a:mail.big-bank.net a:mailphp.lws-hosting.com a:vps89776.serveur-vps.net ip4:31.207.34.50 -all,,,,,,,,2026-09-29
 GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,_dmarc.big-bank.net,root,TXT,ok,v=DMARC1; p=quarantine;,,,,,,,,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root;ct,A,ok,,169.59.5.34,,36351,lir-us-international2-1-MNT,commercial-host,,IBM Cloud (SoftLayer),2026-09-29
-GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root;ct,A,ok,,197.230.73.12,,36925,MEDITELECOM - MEDITELECOM,unattributed,,,2026-09-29
+GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root;ct,A,ok,,197.230.73.12,,36925,MEDITELECOM - MEDITELECOM,telco-isp,,MEDITELECOM - MEDITELECOM,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,ftp.bpmgbank.com,dictionary,A,ok,ftp.cluster015.hosting.ovh.net,5.135.41.164,ftp.cluster015.ovh.net>ftp.cluster015.hosting.ovh.net,16276,Ovh Hosting,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,ftp2.bpmgbank.com,dictionary,A,ok,anonymous.ftp.ovh.net,213.186.33.14,anonymous.ftp.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,jabber.bpmgbank.com,dictionary,A,ok,cluster015.ovh.net,213.186.33.3,jab1.cluster015.ovh.net>cluster015.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,jabber.bpmgbank.com,dictionary,AAAA,ok,cluster015.ovh.net,2001:41d0:1:1b00:213:186:33:3,jab1.cluster015.ovh.net>cluster015.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
-GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,lyncdiscover.bpmgbank.com,dictionary,A,ok,,212.217.30.21,,6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,unattributed,,,2026-09-29
-GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,mail.bpmgbank.com,dictionary,A,ok,,212.217.30.3,,6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,unattributed,,,2026-09-29
+GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,lyncdiscover.bpmgbank.com,dictionary,A,ok,,212.217.30.21,,6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,telco-isp,,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,2026-09-29
+GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,mail.bpmgbank.com,dictionary,A,ok,,212.217.30.3,,6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,telco-isp,,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,pop3.bpmgbank.com,dictionary,A,ok,ns0.ovh.net,193.70.18.144,ns0.ovh.net,16276,TechTeam TechTeam,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,sip.bpmgbank.com,dictionary,A,ok,cluster015.ovh.net,213.186.33.3,sip1.cluster015.ovh.net>cluster015.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,sip.bpmgbank.com,dictionary,AAAA,ok,cluster015.ovh.net,2001:41d0:1:1b00:213:186:33:3,sip1.cluster015.ovh.net>cluster015.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,smtp.bpmgbank.com,dictionary,A,ok,ns0.ovh.net,193.70.18.144,ns0.ovh.net,16276,TechTeam TechTeam,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,vpn.bpmgbank.com,dictionary,A,ok,cluster015.ovh.net,213.186.33.3,vpn.cluster015.ovh.net>cluster015.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,vpn.bpmgbank.com,dictionary,AAAA,ok,cluster015.ovh.net,2001:41d0:1:1b00:213:186:33:3,vpn.cluster015.ovh.net>cluster015.ovh.net,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
-GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,www.bpmgbank.com,root;ct,A,ok,bpmgbank.com,197.230.73.12,bpmgbank.com,36925,MEDITELECOM - MEDITELECOM,unattributed,,,2026-09-29
+GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,www.bpmgbank.com,root;ct,A,ok,bpmgbank.com,197.230.73.12,bpmgbank.com,36925,MEDITELECOM - MEDITELECOM,telco-isp,,MEDITELECOM - MEDITELECOM,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,www.bpmgbank.com,root;ct,A,ok,bpmgbank.com,169.59.5.34,bpmgbank.com,36351,lir-us-international2-1-MNT,commercial-host,,IBM Cloud (SoftLayer),2026-09-29
-GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root,MX,ok,mail.cpm.co.ma,41.137.135.9,,36884,Wana Corporate - Wana Corporate,unattributed,,,2026-09-29
+GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root,MX,ok,mail.cpm.co.ma,41.137.135.9,,36884,Wana Corporate - Wana Corporate,telco-isp,,Wana Corporate - Wana Corporate,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root,NS,ok,dns12.ovh.net,5.135.86.81,,16276,Marchand Guillaume,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root,NS,ok,ns12.ovh.net,5.39.102.21,,16276,Marchand Guillaume,commercial-host,,OVH,2026-09-29
 GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,root,TXT,ok,v=spf1 include:mx.ovh.com mx a ip4:41.137.45.34 ip4:41.137.45.41 ip4:197.230.104.174 ip4:197.230.104.158 ip4:212.217.30.3 -all,,,,,,,,2026-09-29
@@ -375,62 +375,62 @@ GIN,Commercial Banks,NSIA Banque Guinée,nsiabanqueguinee.net,www.nsiabanqueguin
 GIN,Commercial Banks,NSIA Banque Guinée,nsiabanqueguinee.net,nsiabanqueguinee.net,root,MX,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Commercial Banks,NSIA Banque Guinée,nsiabanqueguinee.net,nsiabanqueguinee.net,root,NS,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,admin.dge.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,adminrecru.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,api.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,adminrecru.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,api.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,api.recru.dge.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,api.visiondge.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,api.visiondge.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,autoconfig.dge.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,autodiscover.dge.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,candidature-exterieur.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,cep.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,connect.dge.gov.gn,dictionary,A,ok,,41.223.48.72,,37665,MOUNA Group Technology Sa.,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,contossverification.api.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,crtpv.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,d533fa1a6a.backend.api.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dashboard-recrutement.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dashboard.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,candidature-exterieur.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,cep.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,connect.dge.gov.gn,dictionary,A,ok,,41.223.48.72,,37665,MOUNA Group Technology Sa.,telco-isp,,MOUNA Group Technology Sa. - MOUNA Group Technology Sa.,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,contossverification.api.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,crtpv.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,d533fa1a6a.backend.api.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dashboard-recrutement.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dashboard.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dngr.dge.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,docker.dge.gov.gn,dictionary;ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,docker.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,flux.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,formation.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,docker.dge.gov.gn,dictionary;ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,docker.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,flux.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,formation.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,ftp.dge.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,gestion.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,ilo.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,gestion.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,ilo.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,incident.dge.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,incidents.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,infosdemembrement.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,itsupport.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,listebv.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,incidents.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,infosdemembrement.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,itsupport.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,listebv.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,mail.dge.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,monitoring.dge.gov.gn,dictionary,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,nginx.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,noc.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,observateur-api.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,observateur.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,observation.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,parrainage.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,proxy.dge.gov.gn,dictionary;ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recru-dashboard.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recru.api.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recru.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recrutement.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,rh.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,monitoring.dge.gov.gn,dictionary,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,nginx.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,noc.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,observateur-api.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,observateur.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,observation.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,parrainage.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,proxy.dge.gov.gn,dictionary;ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recru-dashboard.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recru.api.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recru.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,recrutement.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,rh.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,sgeg.dge.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,ssh.dge.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,storage.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,suividemembrement.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,test-sgeg-api.dge.gov.gn,ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,test-sgeg.dge.gov.gn,ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,test.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,transparence-api.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,transparence.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,transstorage.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,storage.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,suividemembrement.dge.gov.gn,ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,test-sgeg-api.dge.gov.gn,ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,test-sgeg.dge.gov.gn,ct,A,ok,,160.119.133.45,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,test.dge.gov.gn,dictionary;ct,A,ok,,160.119.133.118,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,transparence-api.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,transparence.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,transstorage.dge.gov.gn,ct,A,ok,,160.119.133.42,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,uatcep.dge.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,verification-observateur.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,verification.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Electoral commission,Direction générale des élections,dge.gov.gn,www.dge.gov.gn,root;ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,verification-observateur.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,verification.dge.gov.gn,ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,www.dge.gov.gn,root;ct,A,ok,,102.206.73.14,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,root,MX,ok,mx20.antispam.mailspamprotection.com,34.120.156.61,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,root,MX,ok,mx10.antispam.mailspamprotection.com,34.149.79.66,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,root,MX,ok,mx30.antispam.mailspamprotection.com,34.111.121.216,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
@@ -438,16 +438,16 @@ GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,root,TXT,ok,v=spf1 +a +mx include:dge.gov.gn.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 GIN,Electoral commission,Direction générale des élections,dge.gov.gn,_dmarc.dge.gov.gn,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root;ct,A,ok,,51.159.196.248,,12876,ONLINESAS-MNT,unattributed,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,www.stat-guinee.org,root,A,ok,,51.159.196.248,,12876,ONLINESAS-MNT,unattributed,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns3.name-services.com,64.98.148.138,,32491,Ting Fiber Inc.,unattributed,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns1.name-services.com,64.98.148.137,,32491,Ting Fiber Inc.,unattributed,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns4.name-services.com,216.40.47.202,,15348,Tucows.com Co.,unattributed,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns5.name-services.com,64.98.148.139,,32491,Ting Fiber Inc.,unattributed,,,2026-09-29
-GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns2.name-services.com,216.40.47.201,,15348,Tucows.com Co.,unattributed,,,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root;ct,A,ok,,51.159.196.248,,12876,ONLINESAS-MNT,commercial-host,,AS12876 Scaleway SAS,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,www.stat-guinee.org,root,A,ok,,51.159.196.248,,12876,ONLINESAS-MNT,commercial-host,,AS12876 Scaleway SAS,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns3.name-services.com,64.98.148.138,,32491,Ting Fiber Inc.,commercial-host,,TUCOWS-3 - Tucows.com Co.,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns1.name-services.com,64.98.148.137,,32491,Ting Fiber Inc.,commercial-host,,TUCOWS-3 - Tucows.com Co.,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns4.name-services.com,216.40.47.202,,15348,Tucows.com Co.,commercial-host,,TUCOWS - Tucows.com Co.,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns5.name-services.com,64.98.148.139,,32491,Ting Fiber Inc.,commercial-host,,TUCOWS-3 - Tucows.com Co.,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,stat-guinee.org,root,NS,ok,dns2.name-services.com,216.40.47.201,,15348,Tucows.com Co.,commercial-host,,TUCOWS - Tucows.com Co.,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,admin.esigl.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,agrements.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,apps.sante.gov.gn,dictionary;ct,A,ok,,41.191.220.78,,37141,ETI SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,apps.sante.gov.gn,dictionary;ct,A,ok,,41.191.220.78,,37141,ETI SA,telco-isp,,ETI SA - ETI SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,archives.sante.gov.gn,ct,A,ok,,51.68.36.18,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,audio.sante.gov.gn,ct,A,ok,,35.180.177.107,,,aws,us-hyperscaler-offshore,eu-west-3,aws,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,autoconfig.sante.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
@@ -467,47 +467,47 @@ GIN,Health ministry / National health insurance,Ministère de la Santé et de l'
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,cners-guinee.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,cners.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,communityhealth.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,cps.sante.gov.gn,ct,A,ok,,41.191.220.68,,37141,ETI SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,cps.sante.gov.gn,ct,A,ok,,41.191.220.68,,37141,ETI SA,telco-isp,,ETI SA - ETI SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,dashboard.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,db.esigl.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,demandeurs-kayidi.sante.gov.gn,ct,A,ok,prd-alb-mshp-public-1329104219.us-east-2.elb.amazonaws.com,3.134.25.34,prd-alb-mshp-public-1329104219.us-east-2.elb.amazonaws.com,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,demandeurs-kayidi.sante.gov.gn,ct,A,ok,prd-alb-mshp-public-1329104219.us-east-2.elb.amazonaws.com,3.150.94.27,prd-alb-mshp-public-1329104219.us-east-2.elb.amazonaws.com,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,dev.sante.gov.gn,dictionary,A,ok,,160.119.129.157,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,dhis2.sante.gov.gn,ct,A,ok,,160.119.128.1,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,dev.sante.gov.gn,dictionary,A,ok,,160.119.129.157,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,dhis2.sante.gov.gn,ct,A,ok,,160.119.128.1,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,diaspo.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,diaspora.sante.gov.gn,ct,A,ok,,13.38.239.220,,,aws,us-hyperscaler-offshore,eu-west-3,aws,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,edu.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,entrepot.sante.gov.gn,ct,A,ok,,160.119.129.155,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,entrepot.sante.gov.gn,ct,A,ok,,160.119.129.155,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,esigl-urgence.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,esigl.sante.gov.gn,ct,A,ok,,160.119.128.4,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,fbrguinee.sante.gov.gn,ct,A,ok,,160.119.128.7,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,esigl.sante.gov.gn,ct,A,ok,,160.119.128.4,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,fbrguinee.sante.gov.gn,ct,A,ok,,160.119.128.7,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,ftp.sante.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,hyperviseur.sante.gov.gn,ct,A,ok,,51.68.36.18,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,ict4h.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,ihrisguinee.sante.gov.gn,ct,A,ok,,160.119.128.5,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,ihrisguinee.sante.gov.gn,ct,A,ok,,160.119.128.5,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,info.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,kayidi.sante.gov.gn,ct,A,ok,,98.85.9.158,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,learning.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,learning.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,learningtest.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,learningtest.sante.gov.gn.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,mail.sante.gov.gn,dictionary;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,maintenance.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,maintenance.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,moodle.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,pasa2.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,pasa2.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,pevguinee.sante.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,pnlp.sante.gov.gn,ct,A,ok,,41.191.220.78,,37141,ETI SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,pnlp.sante.gov.gn,ct,A,ok,,41.191.220.78,,37141,ETI SA,telco-isp,,ETI SA - ETI SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,port.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,portail.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,portail.sante.gov.gn,ct,A,ok,,91.234.194.231,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,portal.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,protocoles.cners.sante.gov.gn,ct,A,ok,,51.68.36.18,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,report.esigl-urgence.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,sagtech.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,sante.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,sigp.sante.gov.gn,ct,A,ok,,192.162.71.92,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,sigp.sante.gov.gn,ct,A,ok,,192.162.71.92,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,sih.sante.gov.gn,ct,A,ok,,51.68.121.246,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,ssh.sante.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,support.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,surveillance.sante.gov.gn,ct,A,ok,,160.119.128.2,,328244,Skyvision Guinee SA,unattributed,,,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,surveillance.sante.gov.gn,ct,A,ok,,160.119.128.2,,328244,Skyvision Guinee SA,telco-isp,,Skyvision Guinee SA - Skyvision Guinee SA,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,test.esigl.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,training.sante.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,verifordre.sante.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -596,58 +596,58 @@ GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,autodiscover.gu
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,autodiscover.guim-gn.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:185a::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,autodiscover.guim-gn.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:185e::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,autodiscover.guim-gn.com,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:1882::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,ftp.guim-gn.com,dictionary,A,ok,guim-gn.com,213.255.195.40,guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,ftp.guim-gn.com,dictionary,AAAA,ok,guim-gn.com,2a00:7ee0:40:0:3:4101:0:7,guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root;ct,A,ok,,213.255.195.40,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root;ct,AAAA,ok,,2a00:7ee0:40:0:3:4101:0:7,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,imap.guim-gn.com,dictionary,A,ok,mail.guim-gn.com,193.203.239.41,mail.guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,mail.guim-gn.com,dictionary,A,ok,,193.203.239.41,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,pop.guim-gn.com,dictionary,A,ok,mail.guim-gn.com,193.203.239.41,mail.guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,smtp.guim-gn.com,dictionary,A,ok,mail.guim-gn.com,193.203.239.41,mail.guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,support.guim-gn.com,dictionary,A,ok,guim-gn.com,213.255.195.40,guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,support.guim-gn.com,dictionary,AAAA,ok,guim-gn.com,2a00:7ee0:40:0:3:4101:0:7,guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,www.guim-gn.com,root,A,ok,guim-gn.com,213.255.195.40,guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,www.guim-gn.com,root,AAAA,ok,guim-gn.com,2a00:7ee0:40:0:3:4101:0:7,guim-gn.com,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,ftp.guim-gn.com,dictionary,A,ok,guim-gn.com,213.255.195.40,guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,ftp.guim-gn.com,dictionary,AAAA,ok,guim-gn.com,2a00:7ee0:40:0:3:4101:0:7,guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root;ct,A,ok,,213.255.195.40,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root;ct,AAAA,ok,,2a00:7ee0:40:0:3:4101:0:7,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,imap.guim-gn.com,dictionary,A,ok,mail.guim-gn.com,193.203.239.41,mail.guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,mail.guim-gn.com,dictionary,A,ok,,193.203.239.41,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,pop.guim-gn.com,dictionary,A,ok,mail.guim-gn.com,193.203.239.41,mail.guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,smtp.guim-gn.com,dictionary,A,ok,mail.guim-gn.com,193.203.239.41,mail.guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,support.guim-gn.com,dictionary,A,ok,guim-gn.com,213.255.195.40,guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,support.guim-gn.com,dictionary,AAAA,ok,guim-gn.com,2a00:7ee0:40:0:3:4101:0:7,guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,www.guim-gn.com,root,A,ok,guim-gn.com,213.255.195.40,guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,www.guim-gn.com,root,AAAA,ok,guim-gn.com,2a00:7ee0:40:0:3:4101:0:7,guim-gn.com,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,MX,ok,guimgn-com01b.mail.protection.outlook.com,52.101.91.21,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns8.lwsdns.com,162.55.216.63,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns5.lwsdns.com,91.216.107.165,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns6.lwsdns.com,185.98.131.180,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns7.lwsdns.com,91.216.107.202,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns5.lwsdns.com,91.216.107.165,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns6.lwsdns.com,185.98.131.180,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,NS,ok,ns7.lwsdns.com,91.216.107.202,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,_dmarc.guim-gn.com,root,TXT,ok,v=DMARC1; p=quarantine;,,,,,,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,affiliation.cnss.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,api.cnss.gov.gn,dictionary;ct,A,ok,,54.154.178.164,,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,api1.cnss.gov.gn,ct,A,ok,,52.18.188.59,,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,api2.cnss.gov.gn,dictionary,A,ok,,102.218.138.90,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,api2.cnss.gov.gn,dictionary,A,ok,,102.218.138.90,,328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,autoconfig.cnss.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,av.cnss.gov.gn,dictionary;ct,A,ok,,51.91.157.111,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,biometrie.cnss.gov.gn,ct,A,ok,,54.154.178.164,,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,biosecu.cnss.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,bo.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,bo.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,cnss.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,compte.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,comptes.cnss.gov.gn,ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,compte.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,comptes.cnss.gov.gn,ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,cpanel.cnss.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,cpcalendars.cnss.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,cpcontacts.cnss.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,dirga.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,dsi.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,e.cnss.gov.gn,dictionary;ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,dirga.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,dsi.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,e.cnss.gov.gn,dictionary;ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,erp.cnss.gov.gn,dictionary;ct,A,ok,,63.33.153.151,,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,ftp.cnss.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,gec.cnss.gov.gn,ct,A,ok,,44.204.109.194,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,macnss.cnss.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,mail.cnss.gov.gn,dictionary;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,pensions.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,playground.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,portail.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,portail.cnss.gov.gn,ct,A,ok,,102.218.136.245,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,pensions.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,playground.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,portail.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,portail.cnss.gov.gn,ct,A,ok,,102.218.136.245,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,progiciel.cnss.gov.gn,ct,A,ok,,38.242.202.208,,51167,"Cogent Communications, LLC",commercial-host,,Contabo,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,rdv.cnss.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,reclamations.cnss.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,service.cnss.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,services.cnss.gov.gn,dictionary;ct,A,ok,,3.250.253.158,,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,site.cnss.gov.gn,dictionary;ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,site.cnss.gov.gn,dictionary;ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,ssh.cnss.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,uat.cnss.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,vitalpreuve.cnss.gov.gn,ct,A,ok,,51.91.157.111,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
@@ -656,18 +656,18 @@ GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.api1.cnss.gov.gn,ct,A,ok,,52.18.188.59,,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.av.cnss.gov.gn,ct,A,ok,,51.91.157.111,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.cnss.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.compte.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.comptes.cnss.gov.gn,ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.dirga.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.dsi.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.e.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.compte.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.comptes.cnss.gov.gn,ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.dirga.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.dsi.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.e.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.macnss.cnss.gov.gn,ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.pensions.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.playground.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.pensions.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.playground.cnss.gov.gn,ct,A,ok,,102.218.137.48,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.progiciel.cnss.gov.gn,ct,A,ok,,38.242.202.208,,51167,"Cogent Communications, LLC",commercial-host,,Contabo,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.service.cnss.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.services.cnss.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.site.cnss.gov.gn,ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,unattributed,,,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.site.cnss.gov.gn,ct,A,ok,,102.218.139.162,,328923,KAGNY TECHNOLOGIE SARL U,african-colo,,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.uat.cnss.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,www.vitalpreuve.cnss.gov.gn,ct,A,ok,,51.91.157.111,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,cnss.gov.gn,root,MX,ok,alt4.aspmx.l.google.com,172.253.148.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
@@ -717,8 +717,8 @@ GIN,Energy utility,Électricité de Guinée,edg.com.gn,autodiscover.edg.com.gn,d
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,clients.edg.com.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,cloud.edg.com.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,cpanel.edg.com.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,dashboard.edg.com.gn,dictionary;ct,A,ok,,91.234.194.198,,210403,LWS-MNT,unattributed,,,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root;ct,A,ok,,31.207.36.169,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,dashboard.edg.com.gn,dictionary;ct,A,ok,,91.234.194.198,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root;ct,A,ok,,31.207.36.169,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,elearning.edg.com.gn,dictionary,A,ok,,51.195.139.115,,16276,OVH Ltd,commercial-host,,OVH,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,enterpriseenrollment.edg.com.gn,dictionary,A,ok,pexsucpeu01.northeurope.cloudapp.azure.com,13.74.111.192,enterpriseenrollment-s.manage.microsoft.com>manage-pe.trafficmanager.net>pexsucpeu01.northeurope.cloudapp.azure.com,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,enterpriseregistration.edg.com.gn,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,20.190.159.66,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
@@ -731,7 +731,7 @@ GIN,Energy utility,Électricité de Guinée,edg.com.gn,enterpriseregistration.ed
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,enterpriseregistration.edg.com.gn,dictionary,AAAA,ok,www.tm.f.prd.aadg.akadns.net,2603:1026:3000:c8::3,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,fix.edg.com.gn,ct,A,ok,,51.255.173.190,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,forti.edg.com.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,iachallenge.edg.com.gn,ct,A,ok,,91.234.194.198,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,iachallenge.edg.com.gn,ct,A,ok,,91.234.194.198,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,intranet.edg.com.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,mail.edg.com.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,mta.edg.com.gn,dictionary,A,ok,mailersend.net,172.64.152.148,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -739,7 +739,7 @@ GIN,Energy utility,Électricité de Guinée,edg.com.gn,mta.edg.com.gn,dictionary
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,mta.edg.com.gn,dictionary,AAAA,ok,mailersend.net,2606:4700:4403::ac40:9894,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,mta.edg.com.gn,dictionary,AAAA,ok,mailersend.net,2a06:98c1:3100::6812:236c,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,portail.edg.com.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,qse.edg.com.gn,ct,A,ok,,91.234.194.198,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,qse.edg.com.gn,ct,A,ok,,91.234.194.198,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,recrute.edg.com.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,recrutement.edg.com.gn,ct,A,ok,,92.222.190.140,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,rh.edg.com.gn,ct,A,ok,,92.222.190.140,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
@@ -753,9 +753,9 @@ GIN,Energy utility,Électricité de Guinée,edg.com.gn,www.alert.edg.com.gn,ct,A
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,www.edg.com.gn,root;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,MX,ok,edg-com-gn.mail.protection.outlook.com,52.101.209.28,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns73.cloudns.net,51.91.57.244,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns71.cloudns.net,109.201.133.251,,43350,MNT-NFORCE,unattributed,,,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns72.cloudns.com,178.156.179.118,,213230,HOS-GUN,unattributed,,,2026-09-29
-GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns74.cloudns.uk,185.206.180.55,,205787,bg-public-1-mnt,unattributed,,,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns71.cloudns.net,109.201.133.251,,43350,MNT-NFORCE,commercial-host,,NFORCE NForce Entertainment B.V.,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns72.cloudns.com,178.156.179.118,,213230,HOS-GUN,commercial-host,,HETZNER-CLOUD2-AS Hetzner Online GmbH,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,NS,ok,ns74.cloudns.uk,185.206.180.55,,205787,bg-public-1-mnt,commercial-host,,Publicloud Public Cloud Ltd.,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,root,TXT,ok,v=spf1 include:_spf.mlsend.com include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 GIN,Energy utility,Électricité de Guinée,edg.com.gn,_dmarc.edg.com.gn,root,TXT,ok,v=DMARC1;,,,,,,,,2026-09-29
 GIN,Ports authority,Port autonome de Conakry,portconakry.gov.gn,autoconfig.portconakry.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
@@ -813,21 +813,21 @@ GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.g
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,autodiscover.ande.gov.gn,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:1801::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,autodiscover.ande.gov.gn,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:185e::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,autodiscover.ande.gov.gn,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:185f::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,backup.ande.gov.gn,dictionary;ct,A,ok,,41.77.190.236,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,backup.ande.gov.gn,dictionary;ct,A,ok,,41.77.190.236,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,dev.ande.gov.gn,dictionary;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,ftp.ande.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,localhost.ande.gov.gn,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,mail.ande.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,meeting.ande.gov.gn,ct,A,ok,,41.77.190.233,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,meeting.ande.gov.gn,ct,A,ok,,41.77.190.233,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,monitor.ande.gov.gn,dictionary;ct,A,ok,,54.39.199.86,,16276,Uhuru Consulting,commercial-host,,OVH,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,portal.ande.gov.gn,dictionary;ct,A,ok,,41.77.190.235,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,rdap.ande.gov.gn,ct,A,ok,,41.77.190.229,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,registry.ande.gov.gn,dictionary;ct,A,ok,,41.77.190.228,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,replica.ande.gov.gn,ct,A,ok,,41.77.190.229,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,ssh.ande.gov.gn,dictionary,A,ok,,41.77.190.235,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,teams.ande.gov.gn,ct,A,ok,,41.77.190.234,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,whois.ande.gov.gn,ct,A,ok,,41.77.190.229,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,whoisgn.ande.gov.gn,ct,A,ok,,41.77.190.232,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,portal.ande.gov.gn,dictionary;ct,A,ok,,41.77.190.235,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,rdap.ande.gov.gn,ct,A,ok,,41.77.190.229,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,registry.ande.gov.gn,dictionary;ct,A,ok,,41.77.190.228,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,replica.ande.gov.gn,ct,A,ok,,41.77.190.229,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,ssh.ande.gov.gn,dictionary,A,ok,,41.77.190.235,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,teams.ande.gov.gn,ct,A,ok,,41.77.190.234,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,whois.ande.gov.gn,ct,A,ok,,41.77.190.229,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,whoisgn.ande.gov.gn,ct,A,ok,,41.77.190.232,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,www.ande.gov.gn,root;ct,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,www.dev.ande.gov.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
 GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,ande.gov.gn,root,MX,ok,ande-gov-gn.mail.protection.outlook.com,52.101.209.31,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -838,7 +838,7 @@ GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.g
 GIN,E-government agency,Portail officiel e-Gouv (zone gov.gn),gov.gn,gov.gn,root,A,noanswer,,,,,,unresolved,,,2026-09-29
 GIN,E-government agency,Portail officiel e-Gouv (zone gov.gn),gov.gn,www.gov.gn,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,admin.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root;ct,A,ok,,91.234.195.40,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root;ct,A,ok,,91.234.195.40,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,api.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,chat.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,chats.anssi.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -846,9 +846,9 @@ GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des s
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,cloud.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,demo.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,grc.anssi.gov.gn,ct,A,ok,,52.95.227.92,,,aws,us-hyperscaler-offshore,eu-north-1,aws,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,mail.anssi.gov.gn,dictionary;ct,A,ok,,185.98.137.179,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,mail.anssi.gov.gn,dictionary;ct,A,ok,,185.98.137.179,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,office.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,presence.anssi.gov.gn,ct,A,ok,,180.149.199.131,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,presence.anssi.gov.gn,ct,A,ok,,180.149.199.131,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,sec.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,sensibilisation.anssi.gov.gn,ct,A,ok,prod-glb.koyeb.app.cdn.cloudflare.net,104.20.31.27,fa80ea96-c1aa-4c1d-b0dd-c017f5d8f5db.cname.koyeb.app>prod-glb.koyeb.app.cdn.cloudflare.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,sensibilisation.anssi.gov.gn,ct,A,ok,prod-glb.koyeb.app.cdn.cloudflare.net,172.66.172.174,fa80ea96-c1aa-4c1d-b0dd-c017f5d8f5db.cname.koyeb.app>prod-glb.koyeb.app.cdn.cloudflare.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -857,15 +857,15 @@ GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des s
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,signalement.anssi.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,support.anssi.gov.gn,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,vision.anssi.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,webmail.anssi.gov.gn,dictionary,A,ok,,178.170.44.12,,21409,IKOULA-MNT,unattributed,,,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,www.anssi.gov.gn,root;ct,A,ok,,91.234.195.40,,210403,LWS-MNT,unattributed,,,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,webmail.anssi.gov.gn,dictionary,A,ok,,178.170.44.12,,21409,IKOULA-MNT,commercial-host,,IKOULA Ikoula Net SAS,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,www.anssi.gov.gn,root;ct,A,ok,,91.234.195.40,,210403,LWS-MNT,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,www.mail.anssi.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,MX,ok,zimbrasmtp.ex10.biz,178.170.44.28,,21409,IKOULA-MNT,unattributed,,,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,MX,ok,zimbrasmtp.ex10.biz,178.170.44.28,,21409,IKOULA-MNT,commercial-host,,IKOULA Ikoula Net SAS,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,NS,ok,ns3.sitelutions.com,192.241.206.246,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,NS,ok,ns4.sitelutions.com,138.197.152.205,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,NS,ok,ns1.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,NS,ok,ns5.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
-GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,unattributed,,,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
 GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,root,TXT,ok,v=spf1 include:ex10.biz -all,,,,,,,,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,atlas.arpt.gov.gn,dictionary;ct,A,ok,,54.37.84.121,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
@@ -881,11 +881,11 @@ GIN,Communications regulator,Autorité de régulation des postes et télécommun
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,autodiscover.arpt.gov.gn,dictionary;ct,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c06:1461::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,autodiscover.arpt.gov.gn,dictionary;ct,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:401:74::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,autodiscover.arpt.gov.gn,dictionary;ct,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c06:1488::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,cforce.arpt.gov.gn,ct,A,ok,,197.149.235.189,,37461,ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,cforce.arpt.gov.gn,ct,A,ok,,197.149.235.189,,37461,ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,comprix.arpt.gov.gn,ct,A,ok,,51.83.47.203,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,courrier.arpt.gov.gn,ct,A,ok,,197.149.235.190,,37461,ORANGE GUINEE,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,courrier.arpt.gov.gn,ct,A,ok,,197.149.235.190,,37461,ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,demande.arpt.gov.gn,ct,A,ok,,88.223.95.167,,47583,INIT-LT,commercial-host,,Hostinger,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,e-services.arpt.gov.gn,ct,A,ok,,41.77.188.137,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,e-services.arpt.gov.gn,ct,A,ok,,41.77.188.137,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,enterpriseenrollment.arpt.gov.gn,dictionary,A,ok,pexsucpeu02.westeurope.cloudapp.azure.com,52.236.189.96,enterpriseenrollment.manage.microsoft.com>manage-pe.trafficmanager.net>pexsucpeu02.westeurope.cloudapp.azure.com,,azure,us-hyperscaler-offshore,westeurope,azure,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,enterpriseregistration.arpt.gov.gn,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,40.126.31.66,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,enterpriseregistration.arpt.gov.gn,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,20.190.159.20,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
@@ -896,25 +896,25 @@ GIN,Communications regulator,Autorité de régulation des postes et télécommun
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,enterpriseregistration.arpt.gov.gn,dictionary,AAAA,ok,www.tm.f.prd.aadg.akadns.net,2603:1026:3000:d0::4,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,enterpriseregistration.arpt.gov.gn,dictionary,AAAA,ok,www.tm.f.prd.aadg.akadns.net,2603:1026:3000:d0::5,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,evote.arpt.gov.gn,ct,A,ok,,72.60.18.127,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,formulaire.arpt.gov.gn,ct,A,ok,,41.77.188.135,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,formulaire.arpt.gov.gn,ct,A,ok,,41.77.188.135,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,mail-srv-01.arpt.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,mail.arpt.gov.gn,dictionary;ct,A,ok,,41.77.188.130,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,mail.arpt.gov.gn,dictionary;ct,A,ok,,41.191.221.154,,37141,ETI SA,unattributed,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,observatoire.arpt.gov.gn,ct,A,ok,,41.77.188.135,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,mail.arpt.gov.gn,dictionary;ct,A,ok,,41.77.188.130,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,mail.arpt.gov.gn,dictionary;ct,A,ok,,41.191.221.154,,37141,ETI SA,telco-isp,,ETI SA - ETI SA,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,observatoire.arpt.gov.gn,ct,A,ok,,41.77.188.135,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,phc.arpt.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,portal.arpt.gov.gn,dictionary;ct,A,ok,,197.149.235.188,,37461,ORANGE GUINEE,unattributed,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,ptr.arpt.gov.gn,ct,A,ok,,41.77.188.139,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,sftp.arpt.gov.gn,dictionary,A,ok,,41.77.188.131,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,tarif.arpt.gov.gn,ct,A,ok,,41.77.188.134,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,ticket.arpt.gov.gn,dictionary,A,ok,,41.77.188.136,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,portal.arpt.gov.gn,dictionary;ct,A,ok,,197.149.235.188,,37461,ORANGE GUINEE,telco-isp,,ORANGE GUINEE - ORANGE GUINEE,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,ptr.arpt.gov.gn,ct,A,ok,,41.77.188.139,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,sftp.arpt.gov.gn,dictionary,A,ok,,41.77.188.131,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,tarif.arpt.gov.gn,ct,A,ok,,41.77.188.134,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,ticket.arpt.gov.gn,dictionary,A,ok,,41.77.188.136,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,www.arpt.gov.gn,root;ct,A,ok,,72.61.111.36,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,www.demande.arpt.gov.gn,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,MX,ok,mail.arpt.gov.gn,41.77.188.130,,37430,VDC Telecom - VDC Telecom,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,MX,ok,mail.arpt.gov.gn,41.77.188.130,,37430,VDC Telecom - VDC Telecom,telco-isp,,VDC Telecom - VDC Telecom,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,MX,ok,arpt-gov-gn.mail.protection.outlook.com,52.101.68.27,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,NS,ok,ns4.sitelutions.com,138.197.152.205,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,NS,ok,ns3.sitelutions.com,192.241.206.246,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,NS,ok,ns1.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
-GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,unattributed,,,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,NS,ok,ns2.sitelutions.com,95.134.100.9,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,NS,ok,ns5.sitelutions.com,178.62.37.169,,14061,digitalocean,commercial-host,,DigitalOcean,2026-09-29
 GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,root,TXT,ok,v=spf1 ip4:41.77.188.130 ip4:41.77.188.141 include:_spf.google.com include:spf.protection.outlook.com ~all,,,,,,,,2026-09-29
 GIN,Audit office,Cour des comptes,ccomptes.org.gn,autoconfig.ccomptes.org.gn,dictionary,A,ok,,35.215.107.76,,,google-cloud,us-hyperscaler-offshore,us-west2,google-cloud,2026-09-29
@@ -939,9 +939,9 @@ GIN,Audit office,Cour des comptes,ccomptes.org.gn,ccomptes.org.gn,root,NS,ok,ns1
 GIN,Audit office,Cour des comptes,ccomptes.org.gn,ccomptes.org.gn,root,NS,ok,ns2.siteground.net,99.83.229.113,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 GIN,Audit office,Cour des comptes,ccomptes.org.gn,ccomptes.org.gn,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 GIN,Audit office,Cour des comptes,ccomptes.org.gn,_dmarc.ccomptes.org.gn,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,alerte.anlcpbg.gov.gn,ct,A,ok,,95.134.100.151,,23470,netutils-mnt,unattributed,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,anlcpbg.gov.gn,root;ct,A,ok,,95.134.100.151,,23470,netutils-mnt,unattributed,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,api-epervier.anlcpbg.gov.gn,ct,A,ok,,31.207.34.184,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,alerte.anlcpbg.gov.gn,ct,A,ok,,95.134.100.151,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,anlcpbg.gov.gn,root;ct,A,ok,,95.134.100.151,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,api-epervier.anlcpbg.gov.gn,ct,A,ok,,31.207.34.184,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,autodiscover.anlcpbg.gov.gn,dictionary,A,ok,autod.ms-acdc-autod.office.com,40.104.188.216,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,autodiscover.anlcpbg.gov.gn,dictionary,A,ok,autod.ms-acdc-autod.office.com,52.98.207.136,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,autodiscover.anlcpbg.gov.gn,dictionary,A,ok,autod.ms-acdc-autod.office.com,52.98.207.24,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -954,10 +954,10 @@ GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,autodiscover.anlcpbg.gov.gn,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:185a::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,autodiscover.anlcpbg.gov.gn,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:1881::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,autodiscover.anlcpbg.gov.gn,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:18a4::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,backoffice-epervier.anlcpbg.gov.gn,ct,A,ok,,31.207.34.184,,210403,fr-lws-1-mnt,unattributed,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,cmdev.anlcpbg.gov.gn,ct,A,ok,,95.134.100.151,,23470,netutils-mnt,unattributed,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,ftp.anlcpbg.gov.gn,dictionary,A,ok,,95.134.100.151,,23470,netutils-mnt,unattributed,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,sitedev.anlcpbg.gov.gn,ct,A,ok,,95.134.100.151,,23470,netutils-mnt,unattributed,,,2026-09-29
-GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,www.anlcpbg.gov.gn,root;ct,A,ok,,95.134.100.151,,23470,netutils-mnt,unattributed,,,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,backoffice-epervier.anlcpbg.gov.gn,ct,A,ok,,31.207.34.184,,210403,fr-lws-1-mnt,commercial-host,,LWS Groupe LWS SARL,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,cmdev.anlcpbg.gov.gn,ct,A,ok,,95.134.100.151,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,ftp.anlcpbg.gov.gn,dictionary,A,ok,,95.134.100.151,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,sitedev.anlcpbg.gov.gn,ct,A,ok,,95.134.100.151,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,www.anlcpbg.gov.gn,root;ct,A,ok,,95.134.100.151,,23470,netutils-mnt,commercial-host,,RELIABLESITE - ReliableSite.Net LLC,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,anlcpbg.gov.gn,root,MX,ok,anlcpbg-gov-gn.mail.protection.outlook.com,52.101.103.140,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,anlcpbg.gov.gn,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
