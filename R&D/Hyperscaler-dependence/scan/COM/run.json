@@ -1,0 +1,322 @@
+{
+ "iso3": "COM",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "beit-salam.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "dgpsn.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gouv.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgi.gouv.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "douane.gov.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "banque-comores.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bdevcom.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afgbankcomores.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eximbank-km.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bfcbanque.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "meck-moroni.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "snpsf.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cenicomores.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inseed-comores.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "caissederetraites.km": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armpcomores.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "soneleccomores.com": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "scp.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "comorestelecom.km": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anaden.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.km": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 4 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "ancs.gouv.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anrtic.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "coursupremecomores.km": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "36939": "Comores Telecom - Comores Telecom",
+  "37084": "Simbanet (T) Limited - Simbanet (T) Limited",
+  "328061": "TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A)",
+  "35425": "BYTEMARK-AS Iomart Managed Services Limited",
+  "20860": "IOMART-AS IOMART CLOUD SERVICES LIMITED"
+ },
+ "rollup": {
+  "all": {
+   "routable": 319,
+   "us_hyperscaler_share": 9.4,
+   "african_region_share": 0.6,
+   "us_saas_share": 13.5,
+   "cdn_share": 7.8,
+   "national_or_self_share": 5.3,
+   "unattributed": 128,
+   "by_category": {
+    "unattributed": 128,
+    "commercial-host": 75,
+    "us-hyperscaler-offshore": 28,
+    "cdn-origin-unknown": 25,
+    "us-saas": 43,
+    "unresolved": 1,
+    "self-hosted": 17,
+    "us-hyperscaler-africa": 2
+   },
+   "institutions": 25,
+   "names": 216,
+   "m365": 2,
+   "google": 3,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 8
+  },
+  "government": {
+   "routable": 221,
+   "us_hyperscaler_share": 9.0,
+   "african_region_share": 0.9,
+   "us_saas_share": 8.6,
+   "cdn_share": 11.3,
+   "national_or_self_share": 7.7,
+   "unattributed": 83,
+   "by_category": {
+    "unattributed": 83,
+    "commercial-host": 57,
+    "us-hyperscaler-offshore": 18,
+    "cdn-origin-unknown": 25,
+    "us-saas": 19,
+    "self-hosted": 17,
+    "us-hyperscaler-africa": 2
+   },
+   "institutions": 19,
+   "names": 165,
+   "m365": 1,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  },
+  "bank": {
+   "routable": 98,
+   "us_hyperscaler_share": 10.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 24.5,
+   "cdn_share": 0.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 45,
+   "by_category": {
+    "us-hyperscaler-offshore": 10,
+    "commercial-host": 18,
+    "unresolved": 1,
+    "us-saas": 24,
+    "unattributed": 45
+   },
+   "institutions": 6,
+   "names": 51,
+   "m365": 1,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 2
+  }
+ },
+ "findings": []
+}

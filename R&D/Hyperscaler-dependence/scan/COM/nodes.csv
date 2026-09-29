@@ -1,0 +1,400 @@
+iso3,type,institution,domain,name,source,rr_type,rr_status,target,ip,cname_chain,asn,owner,category,region,provider,scan_date
+COM,Presidency,Présidence de l'Union des Comores (Beit-Salam),beit-salam.km,beit-salam.km,root;ct,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Presidency,Présidence de l'Union des Comores (Beit-Salam),beit-salam.km,www.beit-salam.km,root,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Presidency,Présidence de l'Union des Comores (Beit-Salam),beit-salam.km,beit-salam.km,root,MX,servfail,,,,,,unresolved,,,2026-09-29
+COM,Presidency,Présidence de l'Union des Comores (Beit-Salam),beit-salam.km,beit-salam.km,root,NS,servfail,,,,,,unresolved,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,dgpsn.km,root;ct,A,ok,,209.16.158.181,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,ftp.dgpsn.km,dictionary,A,ok,dgpsn.km,209.16.158.181,dgpsn.km,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,mail.dgpsn.km,dictionary;ct,A,ok,,209.16.158.181,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,www.dgpsn.km,root;ct,A,ok,dgpsn.km,209.16.158.181,dgpsn.km,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,dgpsn.km,root,MX,ok,mail.dgpsn.km,209.16.158.181,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,dgpsn.km,root,NS,ok,nsa.n0c.com,199.188.223.2,,53589,PlanetHoster Anycast,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,dgpsn.km,root,NS,ok,nsb.n0c.com,85.236.159.2,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,dgpsn.km,root,NS,ok,nsc.n0c.com,185.22.111.2,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,dgpsn.km,root,TXT,ok,v=spf1 a mx ip4:209.16.158.181 ~all,,,,,,,,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,_dmarc.dgpsn.km,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,justice.gouv.km,root;ct,A,ok,,5.135.23.164,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,justice.gouv.km,root;ct,AAAA,ok,,2001:41d0:301::100,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,www.justice.gouv.km,root;ct,A,ok,,5.135.23.164,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,www.justice.gouv.km,root;ct,AAAA,ok,,2001:41d0:301::100,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,justice.gouv.km,root,MX,ok,mail.anaden.km,197.255.227.235,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,justice.gouv.km,root,NS,ok,dns1.nic.km,197.255.224.18,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,justice.gouv.km,root,NS,ok,dns2.nic.km,197.255.224.66,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,justice.gouv.km,root,TXT,ok,v=spf1 ip4:197.255.227.235 -all,,,,,,,,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,_dmarc.justice.gouv.km,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:admin@anaden.km; ruf=mailto:admin@anaden.km; pct=100; adkim=s; aspf=s,,,,,,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,autoconfig.finances.gouv.km,dictionary,A,ok,autoconfig.mail.hostinger.com,34.120.251.119,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,autoconfig.finances.gouv.km,dictionary,AAAA,ok,autoconfig.mail.hostinger.com,2600:1901:0:510c::,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,autodiscover.finances.gouv.km,dictionary,A,ok,autodiscover.mail.hostinger.com,34.120.251.119,autodiscover.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,autodiscover.finances.gouv.km,dictionary,AAAA,ok,autodiscover.mail.hostinger.com,2600:1901:0:510c::,autodiscover.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,cpanel.finances.gouv.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,dette.finances.gouv.km,ct,A,ok,,197.255.227.65,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root;ct,A,ok,,84.32.84.232,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root;ct,A,ok,,88.222.222.212,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root;ct,AAAA,ok,,2a02:4780:84:656f:9c3c:a65a:7f1d:7067,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root;ct,AAAA,ok,,2a02:4780:84:b001:f0fc:7c9f:f4b:d9d6,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,mail.finances.gouv.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,webdisk.finances.gouv.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,webmail.finances.gouv.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,www.finances.gouv.km,root;ct,A,ok,www.finances.gouv.km.cdn.hstgr.net,91.108.103.131,www.finances.gouv.km.cdn.hstgr.net,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,www.finances.gouv.km,root;ct,A,ok,www.finances.gouv.km.cdn.hstgr.net,195.200.9.161,www.finances.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,www.finances.gouv.km,root;ct,AAAA,ok,www.finances.gouv.km.cdn.hstgr.net,2a02:4780:35:5eca:cc7a:39a7:3aa6:5ce1,www.finances.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,www.finances.gouv.km,root;ct,AAAA,ok,www.finances.gouv.km.cdn.hstgr.net,2a02:4780:25:498f:4a97:2af6:c20b:4ed3,www.finances.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root,MX,ok,mx2.hostinger.com,172.65.182.103,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root,MX,ok,mx1.hostinger.com,172.65.182.103,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root,NS,ok,ns1.dns-parking.com,162.159.24.201,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root,NS,ok,ns2.dns-parking.com,162.159.25.42,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,finances.gouv.km,root,TXT,ok,v=spf1 include:_spf.mail.hostinger.com ~all,,,,,,,,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,_dmarc.finances.gouv.km,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,dgi.gouv.km,root;ct,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,www.anjouan.dgi.gouv.km,ct,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,www.dgi.gouv.km,root,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,www.moheli.dgi.gouv.km,ct,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,www.sgrl.dgi.gouv.km,ct,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,dgi.gouv.km,root,MX,servfail,,,,,,unresolved,,,2026-09-29
+COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,dgi.gouv.km,root,NS,servfail,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,autoconfig.douane.gov.km,dictionary,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,autodiscover.douane.gov.km,dictionary,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,courrier.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,courriers.douane.gov.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,cpanel.douane.gov.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,cpcalendars.douane.gov.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,cpcontacts.douane.gov.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douane.gov.km,root;ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douanes.douane.gov.km,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,ee-user.august2019.douane.gov.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,ftp.douane.gov.km,dictionary,A,ok,douane.gov.km,209.16.158.214,douane.gov.km,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,gestioncourrier.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,mail.douane.gov.km,dictionary;ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,mail.nadartech.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,mutuelle-sante.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,nadartech.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,nadjim.douane.gov.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,webdisk.douane.gov.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,webmail.douane.gov.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.courrier.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.courriers.douane.gov.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.douane.gov.km,root;ct,A,ok,douane.gov.km,209.16.158.214,douane.gov.km,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.douanes.douane.gov.km,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.ee-user.august2019.douane.gov.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.gestioncourrier.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.mutuelle-sante.douane.gov.km,ct,A,ok,,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.nadartech.douane.gov.km,ct,A,ok,nadartech.douane.gov.km,209.16.158.214,nadartech.douane.gov.km,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,www.nadjim.douane.gov.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douane.gov.km,root,MX,ok,mail.douane.gov.km,209.16.158.214,,53589,Groupe Barizco Inc.,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douane.gov.km,root,NS,ok,nsc.n0c.com,185.22.111.2,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douane.gov.km,root,NS,ok,nsa.n0c.com,199.188.223.2,,53589,PlanetHoster Anycast,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douane.gov.km,root,NS,ok,nsb.n0c.com,85.236.159.2,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,douane.gov.km,root,TXT,ok,v=spf1 a mx ip4:209.16.158.214 ~all,,,,,,,,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,_dmarc.douane.gov.km,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,autodiscover.banque-comores.km,dictionary,A,ok,webmail.banque-comores.km,197.255.227.147,webmail.banque-comores.km,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root;ct,A,ok,,128.65.195.96,,29222,MNT-INSA,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,imap.banque-comores.km,dictionary,A,ok,mail.banque-comores.km,197.255.227.146,mail.banque-comores.km,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,mail.banque-comores.km,dictionary,A,ok,,197.255.227.146,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,pop3.banque-comores.km,dictionary,A,ok,mail.banque-comores.km,197.255.227.146,mail.banque-comores.km,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,smtp.banque-comores.km,dictionary,A,ok,mail.banque-comores.km,197.255.227.146,mail.banque-comores.km,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,webmail.banque-comores.km,dictionary,A,ok,,197.255.227.147,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,www.banque-comores.km,root,A,ok,,128.65.195.96,,29222,MNT-INSA,unattributed,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root,MX,ok,banquecomores-km01e.mail.protection.outlook.com,52.101.73.123,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root,NS,ok,ns1-08.azure-dns.com,13.107.236.8,,8075,Microsoft Corporation,us-hyperscaler-offshore,,Microsoft,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root,NS,ok,ns2-08.azure-dns.net,150.171.21.8,,8075,Microsoft Corporation,us-hyperscaler-offshore,,Microsoft,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root,NS,ok,ns3-08.azure-dns.org,204.14.183.8,,8075,Microsoft Corporation,us-hyperscaler-offshore,,Microsoft,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root,NS,ok,ns4-08.azure-dns.info,208.84.5.8,,8075,Microsoft Corporation,us-hyperscaler-offshore,,Microsoft,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,banque-comores.km,root,TXT,ok,v=spf1 ip4:197.255.227.146 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,_dmarc.banque-comores.km,root,TXT,ok,v=DMARC1; p=quarantine,,,,,,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,agenda.bdevcom.net,dictionary,A,ok,ghs.google.com,142.250.151.121,ghs.google.com,,google,us-hyperscaler-offshore,global,google,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,agenda.bdevcom.net,dictionary,AAAA,ok,ghs.google.com,2a00:1450:4009:c13::79,ghs.google.com,,google,us-hyperscaler-offshore,global,google,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root;ct,A,ok,,46.105.204.27,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,client.bdevcom.net,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,km.bdevcom.net,ct,A,ok,,54.36.133.138,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,mail.bdevcom.net,dictionary,A,ok,ghs.google.com,142.250.129.121,ghs.google.com,,google,us-hyperscaler-offshore,global,google,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,mail.bdevcom.net,dictionary,AAAA,ok,ghs.google.com,2a00:1450:4009:c17::79,ghs.google.com,,google,us-hyperscaler-offshore,global,google,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,mybdc.bdevcom.net,ct,A,ok,,51.79.102.241,,16276,"OVH Hosting, Inc.",commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,mybdc.bdevcom.net,ct,AAAA,ok,,2607:5300:205:300::4df,,16276,"OVH Hosting, Inc.",commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,sigis.bdevcom.net,ct,A,ok,,192.168.1.60,,,non-public address,unresolved,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.bdevcom.net,root;ct,A,ok,,46.105.204.27,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.client.bdevcom.net,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.km.bdevcom.net,ct,A,ok,,46.105.204.27,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.km.bdevcom.net,ct,A,ok,,54.36.91.62,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.km.bdevcom.net,ct,AAAA,ok,,2001:41d0:301::27,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.mybdc.bdevcom.net,ct,A,ok,,51.79.102.241,,16276,"OVH Hosting, Inc.",commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,www.mybdc.bdevcom.net,ct,AAAA,ok,,2607:5300:205:300::4df,,16276,"OVH Hosting, Inc.",commercial-host,,OVH,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,MX,ok,alt4.aspmx.l.google.com,172.253.148.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,MX,ok,alt3.aspmx.l.google.com,142.251.127.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,MX,ok,aspmx.l.google.com,192.178.223.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,MX,ok,alt2.aspmx.l.google.com,192.178.213.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,MX,ok,alt1.aspmx.l.google.com,142.250.102.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,NS,ok,ns-178-a.gandi.net,173.246.100.179,,209453,Gandi.net,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,NS,ok,ns-238-b.gandi.net,213.167.230.239,,209453,GANDI-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,NS,ok,ns-23-c.gandi.net,217.70.187.24,,209453,GANDI-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,bdevcom.net,root,TXT,ok,v=spf1 include:spf.sendinblue.com mx ~all,,,,,,,,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root;ct,A,ok,,194.11.155.184,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,www.afgbankcomores.com,root;ct,A,ok,,194.11.155.184,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,MX,ok,eforward1.registrar-servers.com,162.255.118.51,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,MX,ok,eforward2.registrar-servers.com,162.255.118.52,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,MX,ok,eforward3.registrar-servers.com,162.255.118.51,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,MX,ok,eforward4.registrar-servers.com,162.255.118.52,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,MX,ok,eforward5.registrar-servers.com,162.255.118.51,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,NS,ok,dns1.registrar-servers.com,156.154.132.200,,12008,"Vercara, LLC",us-saas,,Vercara (UltraDNS),2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,NS,ok,dns2.registrar-servers.com,156.154.133.200,,12008,"Vercara, LLC",us-saas,,Vercara (UltraDNS),2026-09-29
+COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,afgbankcomores.com,root,TXT,ok,v=spf1 include:spf.efwd.registrar-servers.com ~all,,,,,,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,api.eximbank-km.com,dictionary,A,ok,,52.188.83.134,,,azure,us-hyperscaler-offshore,eastus,azure,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.155.56,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.217.120,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.220.184,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.227.184,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.227.200,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.227.232,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.234.248,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.240.248,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:852::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:8b6::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:901::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:903::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1833::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1856::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1857::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,autodiscover.eximbank-km.com,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1858::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,cms.eximbank-km.com,dictionary,A,ok,,52.188.83.134,,,azure,us-hyperscaler-offshore,eastus,azure,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,eximbank-km.com,root;ct,A,ok,,52.188.83.134,,,azure,us-hyperscaler-offshore,eastus,azure,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,feedback.eximbank-km.com,dictionary,A,ok,,197.255.230.36,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,ftp.eximbank-km.com,dictionary,A,ok,eximbank-km.com,52.188.83.134,eximbank-km.com,,azure,us-hyperscaler-offshore,eastus,azure,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,helpdesk.eximbank-km.com,dictionary,A,ok,csdp.manageengine.com,136.143.189.127,customer-sdpondemand.manageengine.com>csdp.manageengine.com,2639,ZOHO,commercial-host,,Zoho,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,mail.eximbank-km.com,dictionary,A,ok,eximbank-km.com,52.188.83.134,eximbank-km.com,,azure,us-hyperscaler-offshore,eastus,azure,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,mx.eximbank-km.com,dictionary,A,ok,,41.188.138.65,,37084,Simbanet (T) Limited - Simbanet (T) Limited,unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,ns1.eximbank-km.com,dictionary,A,ok,,197.255.230.37,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,ns2.eximbank-km.com,dictionary,A,ok,,102.207.178.86,,328061,TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A),unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,ns3.eximbank-km.com,dictionary,A,ok,,197.255.239.130,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,www.eximbank-km.com,root,A,ok,eximbank-km.com,52.188.83.134,eximbank-km.com,,azure,us-hyperscaler-offshore,eastus,azure,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,eximbank-km.com,root,MX,ok,eximbankkm-com02b.mail.protection.outlook.com,52.101.68.10,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,eximbank-km.com,root,NS,ok,ns2.eximbank-km.com,102.207.178.86,,328061,TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A),unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,eximbank-km.com,root,NS,ok,ns1.eximbank-km.com,197.255.230.37,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,eximbank-km.com,root,TXT,ok,v=spf1 ip4:41.188.138.65 ip4:197.255.225.28 include:spf.protection.outlook.com,,,,,,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,bfcbanque.com,root;ct,A,ok,,46.43.14.222,,35425,MNT-BYTEMARK,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,dcb00d03.bfcbanque.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,ebank.bfcbanque.com,ct,A,ok,,197.255.227.14,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,email.bfcbanque.com,dictionary,A,ok,,85.31.80.5,,205020,Talia Limited,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,mail.bfcbanque.com,dictionary,A,ok,,197.255.227.13,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,www.bfcbanque.com,root;ct,A,ok,,46.43.14.222,,35425,MNT-BYTEMARK,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,www.dcb00d03.bfcbanque.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,www.ebank.bfcbanque.com,ct,A,ok,,197.255.227.14,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,bfcbanque.com,root,MX,ok,a.mx.bfcbanque.com,46.43.3.19,,35425,MNT-BYTEMARK,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,bfcbanque.com,root,NS,ok,ns1.hostinguk.net,84.22.166.197,,20860,GB10488-RIPE-MNT,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,bfcbanque.com,root,NS,ok,ns3.hostinguk.net,109.169.17.171,,20860,Iomart Managed Services Limited,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,bfcbanque.com,root,NS,ok,ns2.hostinguk.net,78.129.182.7,,20860,Iomart Managed Services Limited,unattributed,,,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,bfcbanque.com,root,TXT,ok,v=spf1 +a +mx ip4:46.43.8.243 ip6:2001:41c9:1:421::243 ?all,,,,,,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,ftp.meck-moroni.org,dictionary,A,ok,meck-moroni.org,185.221.182.240,meck-moroni.org,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,mail.meck-moroni.org,dictionary,A,ok,,185.221.182.240,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,meck-moroni.org,root;ct,A,ok,,185.221.182.240,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,test.meck-moroni.org,dictionary,A,ok,,185.221.182.240,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,www.meck-moroni.org,root,A,ok,meck-moroni.org,185.221.182.240,meck-moroni.org,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,www.test.meck-moroni.org,dictionary,A,ok,test.meck-moroni.org,185.221.182.240,test.meck-moroni.org,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,meck-moroni.org,root,MX,ok,mail.meck-moroni.org,185.221.182.240,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,meck-moroni.org,root,NS,ok,nsb.n0c.com,85.236.159.2,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,meck-moroni.org,root,NS,ok,nsc.n0c.com,185.22.111.2,,53589,PLANETHOSTER-NOC,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,meck-moroni.org,root,NS,ok,nsa.n0c.com,199.188.223.2,,53589,PlanetHoster Anycast,unattributed,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,meck-moroni.org,root,TXT,ok,v=spf1 a mx ip4:185.221.182.240 ~all,,,,,,,,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,_dmarc.meck-moroni.org,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,ftp.snpsf.com,dictionary,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,imap.snpsf.com,dictionary,A,ok,mail.snpsf.com,79.99.167.97,mail.snpsf.com,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,mail.snpsf.com,dictionary,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,mysql.snpsf.com,dictionary;ct,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,pop.snpsf.com,dictionary,A,ok,mail.snpsf.com,79.99.167.97,mail.snpsf.com,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,postgres.snpsf.com,ct,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,postgres.snpsf.com,ct,AAAA,ok,,2a01:648:0:8::97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,smtp.snpsf.com,dictionary,A,ok,mail.snpsf.com,79.99.167.97,mail.snpsf.com,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,snpsf.com,root;ct,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,webmail.snpsf.com,dictionary;ct,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,www.snpsf.com,root;ct,A,ok,,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,snpsf.com,root,MX,ok,mail.snpsf.com,79.99.167.97,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,snpsf.com,root,NS,ok,ns2.planet-work.com,79.99.165.2,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,snpsf.com,root,NS,ok,ns3.planet-work.com,212.83.132.53,,12876,MNT-TISCALIFR,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,snpsf.com,root,NS,ok,ns1.planet-work.com,79.99.164.2,,16347,MNT-SRVC,unattributed,,,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,snpsf.com,root,TXT,ok,v=spf1 include:_spf.planet-work.com ~all,,,,,,,,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,cenicomores.km,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,pop3.cenicomores.km,dictionary,A,ok,mail1.comorestelecom.km,197.255.224.19,mail1.comorestelecom.km,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,smtp.cenicomores.km,dictionary,A,ok,mail1.comorestelecom.km,197.255.224.19,mail1.comorestelecom.km,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,www.cenicomores.km,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,cenicomores.km,root,MX,ok,mxbackup.savoirfairelinux.net,137.74.203.20,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,cenicomores.km,root,MX,ok,mail1.comorestelecom.km,197.255.224.19,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,cenicomores.km,root,NS,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,ftp.inseed-comores.org,dictionary,A,ok,,104.21.51.50,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,ftp.inseed-comores.org,dictionary,A,ok,,172.67.221.105,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,ftp.inseed-comores.org,dictionary,AAAA,ok,,2606:4700:3030::ac43:dd69,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,ftp.inseed-comores.org,dictionary,AAAA,ok,,2606:4700:3035::6815:3332,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root;ct,A,ok,,155.138.163.190,,20473,"Vultr Holdings, LLC",commercial-host,,Vultr,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,www.inseed-comores.org,root,A,ok,,155.138.163.190,,20473,"Vultr Holdings, LLC",commercial-host,,Vultr,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root,MX,ok,route1.mx.cloudflare.net,162.159.205.12,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root,MX,ok,route3.mx.cloudflare.net,162.159.205.25,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root,MX,ok,route2.mx.cloudflare.net,162.159.205.18,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root,NS,ok,junade.ns.cloudflare.com,108.162.195.30,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root,NS,ok,kinsley.ns.cloudflare.com,108.162.194.75,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Statistics office,INSEED,inseed-comores.org,inseed-comores.org,root,TXT,ok,v=spf1 include:_spf.mx.cloudflare.net ~all,,,,,,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,caissederetraites.km,root,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,cpanel.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,cpcalendars.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,cpcontacts.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,ftp.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,mail.caissederetraites.km,dictionary,A,ok,caissederetraites.km,104.161.23.61,caissederetraites.km,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,webdisk.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,webmail.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,whm.caissederetraites.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,www.caissederetraites.km,root,A,ok,caissederetraites.km,104.161.23.61,caissederetraites.km,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,caissederetraites.km,root,MX,ok,caissederetraites.km,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,caissederetraites.km,root,NS,ok,corporate.vip21.noc40.com,104.161.23.3,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,caissederetraites.km,root,NS,ok,corporate.vip22.noc40.com,104.161.23.4,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,caissederetraites.km,root,TXT,ok,v=spf1 +a +mx +ip4:107.167.93.194 +ip4:104.161.23.61 +include:relay.mailchannels.net ~all,,,,,,,,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root;ct,A,ok,,91.108.103.186,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root;ct,A,ok,,89.116.109.2,,47583,BITE-NOC,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root;ct,AAAA,ok,,2a02:4780:34:e5e6:67c8:c407:38ee:53c2,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root;ct,AAAA,ok,,2a02:4780:35:ca98:2628:f009:c2b8:71a2,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,autoconfig.armpcomores.km,dictionary,A,ok,autoconfig.mail.hostinger.com,34.120.251.119,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,autoconfig.armpcomores.km,dictionary,AAAA,ok,autoconfig.mail.hostinger.com,2600:1901:0:510c::,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,autodiscover.armpcomores.km,dictionary,A,ok,autodiscover.mail.hostinger.com,34.120.251.119,autodiscover.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,autodiscover.armpcomores.km,dictionary,AAAA,ok,autodiscover.mail.hostinger.com,2600:1901:0:510c::,autodiscover.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,ftp.armpcomores.km,dictionary,A,ok,,92.113.28.19,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,www.armpcomores.km,root;ct,A,ok,www.armpcomores.km.cdn.hstgr.net,2.57.91.237,www.armpcomores.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,www.armpcomores.km,root;ct,A,ok,www.armpcomores.km.cdn.hstgr.net,84.32.84.150,www.armpcomores.km.cdn.hstgr.net,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,www.armpcomores.km,root;ct,AAAA,ok,www.armpcomores.km.cdn.hstgr.net,2a02:4780:84:95e8:c1d1:c7c6:904:eb8e,www.armpcomores.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,www.armpcomores.km,root;ct,AAAA,ok,www.armpcomores.km.cdn.hstgr.net,2a02:4780:84:4db8:897a:167f:7cc7:7262,www.armpcomores.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root,MX,ok,mx1.hostinger.com,172.65.182.103,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root,MX,ok,mx2.hostinger.com,172.65.182.103,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root,NS,ok,ns1.dns-parking.com,162.159.24.201,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root,NS,ok,ns2.dns-parking.com,162.159.25.42,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,armpcomores.km,root,TXT,ok,v=spf1 include:_spf.mail.hostinger.com ~all,,,,,,,,2026-09-29
+COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,_dmarc.armpcomores.km,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
+COM,Energy utility,Société nationale d'électricité des Comores (SONELEC),soneleccomores.com,soneleccomores.com,root,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Energy utility,Société nationale d'électricité des Comores (SONELEC),soneleccomores.com,www.soneleccomores.com,root,A,servfail,,,,,,unresolved,,,2026-09-29
+COM,Energy utility,Société nationale d'électricité des Comores (SONELEC),soneleccomores.com,soneleccomores.com,root,MX,servfail,,,,,,unresolved,,,2026-09-29
+COM,Energy utility,Société nationale d'électricité des Comores (SONELEC),soneleccomores.com,soneleccomores.com,root,NS,servfail,,,,,,unresolved,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,cpanel.scp.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,cpcalendars.scp.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,cpcontacts.scp.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,ftp.scp.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,mail.scp.km,dictionary;ct,A,ok,scp.km,104.161.23.61,scp.km,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,scp.km,root;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,webdisk.scp.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,webmail.scp.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,whm.scp.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,www.scp.km,root;ct,A,ok,scp.km,104.161.23.61,scp.km,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,scp.km,root,MX,ok,scp.km,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,scp.km,root,NS,ok,corporate.vip22.noc40.com,104.161.23.4,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,scp.km,root,NS,ok,corporate.vip21.noc40.com,104.161.23.3,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,scp.km,root,TXT,ok,v=spf1 +a +mx +ip4:107.167.93.194 +ip4:104.161.23.61 +include:relay.mailchannels.net ~all,,,,,,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,cacti.comorestelecom.km,dictionary,A,ok,,197.255.224.16,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,comorestelecom.km,root,A,ok,,197.255.224.69,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,fax.comorestelecom.km,dictionary,A,ok,comorestelecom.km,197.255.224.69,comorestelecom.km,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,ftp.comorestelecom.km,dictionary,A,ok,,197.255.224.2,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,mail1.comorestelecom.km,dictionary,A,ok,,197.255.224.19,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,monitoring.comorestelecom.km,dictionary,A,ok,,197.255.224.16,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,nagios.comorestelecom.km,dictionary,A,ok,,197.255.224.16,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,pop3.comorestelecom.km,dictionary,A,ok,mail1.comorestelecom.km,197.255.224.19,mail1.comorestelecom.km,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,smtp.comorestelecom.km,dictionary,A,ok,mail1.comorestelecom.km,197.255.224.19,mail1.comorestelecom.km,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,test.comorestelecom.km,dictionary,A,ok,,197.255.224.18,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,web1.comorestelecom.km,dictionary,A,ok,comorestelecom.km,197.255.224.69,comorestelecom.km,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,web2.comorestelecom.km,dictionary,A,ok,,197.255.224.69,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,webmail.comorestelecom.km,dictionary,A,ok,mail1.comorestelecom.km,197.255.224.19,mail1.comorestelecom.km,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,www.comorestelecom.km,root,A,ok,,197.255.224.69,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,comorestelecom.km,root,MX,ok,mail1.comorestelecom.km,197.255.224.19,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,comorestelecom.km,root,NS,ok,dns1.nic.km,197.255.224.18,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,comorestelecom.km,root,NS,ok,dns2.nic.km,197.255.224.66,,36939,Comores Telecom,self-hosted,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,comorestelecom.km,root,TXT,ok,v=spf1 ip4:197.255.224.0/27 ip4:41.194.34.5 a mx a:mail1.comorestelecom.km a:webmail.comorestelecom.km  a:dns1.nic.km include:spf.brevo.com ~all,,,,,,,,2026-09-29
+COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,_dmarc.comorestelecom.km,root,TXT,ok,v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com,,,,,,,,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root;ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,cpanel.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,cpcalendars.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,cpcontacts.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,ftp.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,mail.anaden.org,dictionary;ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,mungagno.anaden.org,ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,traya.anaden.org,ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,webdisk.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,webmail.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,whm.anaden.org,dictionary,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,www.anaden.org,root;ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,www.mungagno.anaden.org,ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,www.traya.anaden.org,ct,A,ok,,103.138.189.101,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,MX,ok,alt4.aspmx.l.google.com,172.253.148.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,MX,ok,aspmx.l.google.com,172.217.76.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,MX,ok,alt2.aspmx.l.google.com,192.178.213.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,MX,ok,alt1.aspmx.l.google.com,142.250.102.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,MX,ok,alt3.aspmx.l.google.com,142.251.127.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,NS,ok,ns2.sg23.tmd.cloud,75.2.118.134,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,NS,ok,ns1.sg23.tmd.cloud,13.248.158.180,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,anaden.org,root,TXT,ok,v=spf1 +a +mx include:_spf.google.com ~all,,,,,,,,2026-09-29
+COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,_dmarc.anaden.org,root,TXT,ok,v=DMARC1; p=none; rua=mailto:k.djaffar@anaden.org,,,,,,,,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,gouv.km,root,A,ok,,197.255.224.69,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,www.gouv.km,root,A,noanswer,,,,,,unresolved,,,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,gouv.km,root,MX,ok,mx1.gouv.km,20.87.26.205,,,azure,us-hyperscaler-africa,southafricanorth,azure,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,gouv.km,root,MX,ok,mx2.gouv.km,20.87.27.84,,,azure,us-hyperscaler-africa,southafricanorth,azure,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,gouv.km,root,NS,ok,dns1.nic.km,197.255.224.18,,36939,Comores Telecom,unattributed,,,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,gouv.km,root,NS,noaddress,dns2.nic.km,,,,,,,,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,gouv.km,root,TXT,ok,v=spf1 mx ~all,,,,,,,,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root;ct,A,ok,,195.200.9.187,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root;ct,A,ok,,185.77.97.7,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root;ct,AAAA,ok,,2a02:4780:34:6e08:d5c2:719d:d7fe:360a,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root;ct,AAAA,ok,,2a02:4780:25:fcc3:acdc:d122:5be1:895d,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,autoconfig.ancs.gouv.km,dictionary,A,ok,autoconfig.mail.hostinger.com,34.120.251.119,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,autoconfig.ancs.gouv.km,dictionary,AAAA,ok,autoconfig.mail.hostinger.com,2600:1901:0:510c::,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,autodiscover.ancs.gouv.km,dictionary,A,ok,autodiscover.mail.hostinger.com,34.120.251.119,autodiscover.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,autodiscover.ancs.gouv.km,dictionary,AAAA,ok,autodiscover.mail.hostinger.com,2600:1901:0:510c::,autodiscover.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ftp.ancs.gouv.km,dictionary,A,ok,,185.166.188.204,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,www.ancs.gouv.km,root;ct,A,ok,www.ancs.gouv.km.cdn.hstgr.net,2.57.91.48,www.ancs.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,www.ancs.gouv.km,root;ct,A,ok,www.ancs.gouv.km.cdn.hstgr.net,88.222.222.238,www.ancs.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,www.ancs.gouv.km,root;ct,AAAA,ok,www.ancs.gouv.km.cdn.hstgr.net,2a02:4780:84:38aa:f95:605e:de2a:1f99,www.ancs.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,www.ancs.gouv.km,root;ct,AAAA,ok,www.ancs.gouv.km.cdn.hstgr.net,2a02:4780:84:d761:c0cd:12a8:387b:2dda,www.ancs.gouv.km.cdn.hstgr.net,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root,MX,ok,mx2.hostinger.com,172.65.182.103,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root,MX,ok,mx1.hostinger.com,172.65.182.103,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root,NS,ok,ns1.dns-parking.com,162.159.24.201,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root,NS,ok,ns2.dns-parking.com,162.159.25.42,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,ancs.gouv.km,root,TXT,ok,v=spf1 include:_spf.mail.hostinger.com ~all,,,,,,,,2026-09-29
+COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,_dmarc.ancs.gouv.km,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,agenda.anrtic.km,dictionary,A,ok,ghs.googlehosted.com,142.251.29.121,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,agenda.anrtic.km,dictionary,AAAA,ok,ghs.googlehosted.com,2a00:1450:4009:c15::79,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root;ct,A,ok,,213.186.33.17,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,demo.anrtic.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,dev.anrtic.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,drive.anrtic.km,dictionary,A,ok,ghs.googlehosted.com,142.250.140.121,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,drive.anrtic.km,dictionary,AAAA,ok,ghs.googlehosted.com,2a00:1450:4009:c13::79,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,homologation.anrtic.km,ct,A,ok,,91.134.137.43,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,mail.anrtic.km,dictionary,A,ok,ghs.googlehosted.com,142.250.151.121,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,mail.anrtic.km,dictionary,AAAA,ok,ghs.googlehosted.com,2a00:1450:4009:c13::79,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,mta.anrtic.km,dictionary,A,ok,mailersend.net,104.18.35.108,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,mta.anrtic.km,dictionary,A,ok,mailersend.net,172.64.152.148,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,mta.anrtic.km,dictionary,AAAA,ok,mailersend.net,2a06:98c1:3100::6812:236c,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,mta.anrtic.km,dictionary,AAAA,ok,mailersend.net,2606:4700:4403::ac40:9894,mailersend.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,n8n.anrtic.km,dictionary;ct,A,ok,,91.134.137.43,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,newsite.anrtic.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,parc.anrtic.km,ct,A,ok,,213.186.33.17,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,parc.anrtic.km,ct,AAAA,ok,,2001:41d0:1:1b00:213:186:33:17,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,sites.anrtic.km,dictionary,A,ok,ghs.googlehosted.com,142.250.151.121,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,sites.anrtic.km,dictionary,AAAA,ok,ghs.googlehosted.com,2a00:1450:4009:c15::79,ghs.googlehosted.com,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,www.anrtic.km,root;ct,A,ok,,213.186.33.17,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,www.dev.anrtic.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,www.homologation.anrtic.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,www.newsite.anrtic.km,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,www.parc.anrtic.km,ct,A,ok,,213.186.33.17,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,www.parc.anrtic.km,ct,AAAA,ok,,2001:41d0:1:1b00:213:186:33:17,,16276,OVH-MNT,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,MX,ok,alt4.aspmx.l.google.com,172.253.148.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,MX,ok,alt2.aspmx.l.google.com,192.178.213.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,MX,ok,aspmx.l.google.com,192.178.223.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,MX,ok,alt1.aspmx.l.google.com,142.250.102.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,MX,ok,alt3.aspmx.l.google.com,142.251.127.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,NS,ok,ns105.ovh.net,5.135.60.37,,16276,Marchand Guillaume,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,NS,ok,dns105.ovh.net,5.196.40.17,,16276,Marchand Guillaume,commercial-host,,OVH,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,anrtic.km,root,TXT,ok,v=spf1 include:_spf.google.com include:_spf.mailersend.net -all,,,,,,,,2026-09-29
+COM,Communications regulator,ANRTIC,anrtic.km,_dmarc.anrtic.km,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@smtp-staging.mailtrap.net; ruf=mailto:dmarc@smtp-staging.mailtrap.net; rf=afrf; pct=100,,,,,,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,autodiscover.coursupremecomores.km,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,coursupremecomores.km,root;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,cpanel.coursupremecomores.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,cpcalendars.coursupremecomores.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,cpcontacts.coursupremecomores.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,ftp.coursupremecomores.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,mail.coursupremecomores.km,dictionary;ct,A,ok,coursupremecomores.km,104.161.23.61,coursupremecomores.km,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,webdisk.coursupremecomores.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,webmail.coursupremecomores.km,dictionary;ct,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,whm.coursupremecomores.km,dictionary,A,ok,,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,www.coursupremecomores.km,root;ct,A,ok,coursupremecomores.km,104.161.23.61,coursupremecomores.km,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,coursupremecomores.km,root,MX,ok,coursupremecomores.km,104.161.23.61,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,coursupremecomores.km,root,NS,ok,corporate.vip22.noc40.com,104.161.23.4,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,coursupremecomores.km,root,NS,ok,corporate.vip21.noc40.com,104.161.23.3,,53755,Input Output Flood LLC,unattributed,,,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,coursupremecomores.km,root,TXT,ok,v=spf1 +a +mx +ip4:107.167.93.194 +ip4:104.161.23.61 +include:relay.mailchannels.net ~all,,,,,,,,2026-09-29
