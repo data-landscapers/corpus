@@ -1,39 +1,39 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-ZWE,Presidency,Office of the President and Cabinet,theopc.gov.zw,6,9,0.0,0.0,0.0,0.0,0.0,9,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Parliament,Parliament of Zimbabwe,parlzim.gov.zw,12,20,0.0,0.0,0.0,45.0,0.0,10,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Foreign Affairs,Ministry of Foreign Affairs and International Trade,zimfa.gov.zw,7,9,0.0,0.0,0.0,0.0,0.0,9,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Defence,Ministry of Defence and War Veterans,defence.gov.zw,5,8,0.0,0.0,0.0,0.0,0.0,8,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Police,Zimbabwe Republic Police,zrp.gov.zw,3,3,0.0,0.0,0.0,0.0,0.0,3,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Justice,Ministry of Justice Legal and Parliamentary Affairs,justice.gov.zw,5,7,0.0,0.0,0.0,0.0,0.0,7,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Justice,Judicial Service Commission,jsc.org.zw,14,20,0.0,0.0,45.0,0.0,0.0,10,m365,,false,2026-09-29
+ZWE,Presidency,Office of the President and Cabinet,theopc.gov.zw,6,9,0.0,0.0,0.0,0.0,0.0,0,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Parliament,Parliament of Zimbabwe,parlzim.gov.zw,12,20,0.0,0.0,0.0,45.0,0.0,0,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Foreign Affairs,Ministry of Foreign Affairs and International Trade,zimfa.gov.zw,7,9,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Defence,Ministry of Defence and War Veterans,defence.gov.zw,5,8,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Police,Zimbabwe Republic Police,zrp.gov.zw,3,3,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Justice,Ministry of Justice Legal and Parliamentary Affairs,justice.gov.zw,5,7,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Justice,Judicial Service Commission,jsc.org.zw,14,20,0.0,0.0,45.0,0.0,0.0,0,m365,,false,2026-09-29
 ZWE,Treasury / Finance,Ministry of Finance Economic Development and Investment Promotion,zimtreasury.co.zw,7,24,0.0,0.0,0.0,91.7,0.0,0,other:Xneelo (Hetzner South Africa),,false,2026-09-29
-ZWE,Revenue Service,Zimbabwe Revenue Authority,zimra.co.zw,20,31,6.5,3.2,12.9,32.3,0.0,12,other:Cisco Secure Email (IronPort),cisco-ironport,false,2026-09-29
-ZWE,Interior / Home Affairs,Ministry of Home Affairs and Cultural Heritage,moha.gov.zw,5,7,0.0,0.0,0.0,0.0,0.0,7,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Central Bank,Reserve Bank of Zimbabwe,rbz.co.zw,73,65,38.5,0.0,1.5,26.2,0.0,21,m365,,false,2026-09-29
-ZWE,Commercial Banks,CBZ Bank,cbz.co.zw,82,102,16.7,2.0,22.5,15.7,0.0,34,m365,,false,2026-09-29
-ZWE,Commercial Banks,FBC Bank,fbc.co.zw,47,47,8.5,0.0,4.3,4.3,55.3,10,m365,proofpoint,true,2026-09-29
-ZWE,Commercial Banks,ZB Bank,zb.co.zw,56,75,10.7,0.0,66.7,4.0,0.0,2,m365,,false,2026-09-29
-ZWE,Commercial Banks,Stanbic Bank Zimbabwe,stanbicbank.co.zw,42,94,34.0,0.0,4.3,58.5,0.0,2,none,,false,2026-09-29
-ZWE,Commercial Banks,Steward Bank,stewardbank.co.zw,42,30,3.3,0.0,0.0,3.3,0.0,4,m365,,false,2026-09-29
-ZWE,Commercial Banks,NMB Bank,nmbz.co.zw,26,61,44.3,0.0,29.5,3.3,0.0,3,m365,,false,2026-09-29
+ZWE,Revenue Service,Zimbabwe Revenue Authority,zimra.co.zw,20,31,6.5,3.2,12.9,32.3,0.0,0,other:Cisco Secure Email (IronPort),cisco-ironport,false,2026-09-29
+ZWE,Interior / Home Affairs,Ministry of Home Affairs and Cultural Heritage,moha.gov.zw,5,7,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Central Bank,Reserve Bank of Zimbabwe,rbz.co.zw,73,65,38.5,0.0,1.5,26.2,0.0,0,m365,,false,2026-09-29
+ZWE,Commercial Banks,CBZ Bank,cbz.co.zw,82,102,16.7,2.0,22.5,15.7,0.0,0,m365,,false,2026-09-29
+ZWE,Commercial Banks,FBC Bank,fbc.co.zw,47,47,8.5,0.0,4.3,4.3,55.3,0,m365,proofpoint,true,2026-09-29
+ZWE,Commercial Banks,ZB Bank,zb.co.zw,56,75,10.7,0.0,66.7,4.0,0.0,0,m365,,false,2026-09-29
+ZWE,Commercial Banks,Stanbic Bank Zimbabwe,stanbicbank.co.zw,42,94,34.0,0.0,4.3,58.5,0.0,0,none,,false,2026-09-29
+ZWE,Commercial Banks,Steward Bank,stewardbank.co.zw,42,30,3.3,0.0,0.0,3.3,0.0,0,m365,,false,2026-09-29
+ZWE,Commercial Banks,NMB Bank,nmbz.co.zw,26,61,44.3,0.0,29.5,3.3,0.0,0,m365,,false,2026-09-29
 ZWE,Commercial Banks,First Capital Bank Zimbabwe,firstcapitalbank.co.zw,10,27,48.1,0.0,33.3,0.0,0.0,0,m365,,false,2026-09-29
-ZWE,Commercial Banks,CABS,cabs.co.zw,37,66,16.7,0.0,25.8,28.8,0.0,18,m365,,false,2026-09-29
-ZWE,Commercial Banks,Nedbank Zimbabwe,nedbank.co.zw,13,28,21.4,10.7,3.6,0.0,0.0,1,m365,,false,2026-09-29
-ZWE,Civil registry / National ID authority,Registrar General of Zimbabwe,rg.gov.zw,4,6,0.0,0.0,0.0,0.0,0.0,6,other:wm.gisp.gov.zw,,false,2026-09-29
-ZWE,Electoral commission,Zimbabwe Electoral Commission,zec.org.zw,16,17,0.0,0.0,0.0,0.0,0.0,16,other:Africom Pvt Ltd,sophos,false,2026-09-29
-ZWE,Statistics office,Zimbabwe National Statistics Agency,zimstat.co.zw,16,22,0.0,0.0,0.0,18.2,0.0,18,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Immigration / Passports,Department of Immigration,zimimmigration.gov.zw,7,31,80.6,0.0,0.0,0.0,0.0,6,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Health ministry / National health insurance,Ministry of Health and Child Care,mohcc.gov.zw,54,56,0.0,0.0,0.0,0.0,0.0,56,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Social protection / Social registry,Ministry of Public Service Labour and Social Welfare,mpslsw.gov.zw,6,8,0.0,0.0,0.0,0.0,0.0,8,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Commercial Banks,CABS,cabs.co.zw,37,66,16.7,0.0,25.8,28.8,0.0,0,m365,,false,2026-09-29
+ZWE,Commercial Banks,Nedbank Zimbabwe,nedbank.co.zw,13,28,21.4,10.7,3.6,0.0,0.0,0,m365,,false,2026-09-29
+ZWE,Civil registry / National ID authority,Registrar General of Zimbabwe,rg.gov.zw,4,6,0.0,0.0,0.0,0.0,0.0,0,other:wm.gisp.gov.zw,,false,2026-09-29
+ZWE,Electoral commission,Zimbabwe Electoral Commission,zec.org.zw,16,17,0.0,0.0,0.0,0.0,0.0,0,other:Africom Pvt Ltd - Africom Pvt Ltd,sophos,false,2026-09-29
+ZWE,Statistics office,Zimbabwe National Statistics Agency,zimstat.co.zw,16,22,0.0,0.0,0.0,18.2,0.0,0,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Immigration / Passports,Department of Immigration,zimimmigration.gov.zw,7,31,80.6,0.0,0.0,0.0,0.0,0,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Health ministry / National health insurance,Ministry of Health and Child Care,mohcc.gov.zw,54,56,0.0,0.0,0.0,0.0,0.0,0,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Social protection / Social registry,Ministry of Public Service Labour and Social Welfare,mpslsw.gov.zw,6,8,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
 ZWE,National payment switch,Zimswitch,zimswitch.co.zw,14,35,25.7,0.0,37.1,0.0,0.0,0,m365,,false,2026-09-29
-ZWE,Stock exchange,Zimbabwe Stock Exchange,zse.co.zw,48,108,69.4,0.9,4.6,18.5,0.0,3,google,,false,2026-09-29
-ZWE,Securities regulator,Securities and Exchange Commission of Zimbabwe,seczim.co.zw,10,31,0.0,0.0,41.9,45.2,0.0,4,m365,,false,2026-09-29
-ZWE,Sovereign wealth fund / National pension fund,National Social Security Authority,nssa.org.zw,30,29,37.9,0.0,3.4,10.3,0.0,10,m365,,false,2026-09-29
-ZWE,Public procurement authority,Procurement Regulatory Authority of Zimbabwe,praz.org.zw,19,44,22.7,2.3,36.4,0.0,0.0,16,m365,,false,2026-09-29
-ZWE,Energy utility,Zimbabwe Electricity Supply Authority,zesaholdings.co.zw,38,12,0.0,0.0,8.3,0.0,0.0,11,m365,,false,2026-09-29
+ZWE,Stock exchange,Zimbabwe Stock Exchange,zse.co.zw,48,108,69.4,0.9,4.6,18.5,0.0,0,google,,false,2026-09-29
+ZWE,Securities regulator,Securities and Exchange Commission of Zimbabwe,seczim.co.zw,10,31,0.0,0.0,41.9,45.2,0.0,0,m365,,false,2026-09-29
+ZWE,Sovereign wealth fund / National pension fund,National Social Security Authority,nssa.org.zw,30,29,37.9,0.0,3.4,10.3,0.0,0,m365,,false,2026-09-29
+ZWE,Public procurement authority,Procurement Regulatory Authority of Zimbabwe,praz.org.zw,19,44,22.7,2.3,36.4,0.0,0.0,0,m365,,false,2026-09-29
+ZWE,Energy utility,Zimbabwe Electricity Supply Authority,zesaholdings.co.zw,38,12,0.0,0.0,8.3,0.0,0.0,0,m365,,false,2026-09-29
 ZWE,State-owned telco / National backbone operator,TelOne,telone.co.zw,149,87,33.3,0.0,0.0,0.0,65.5,0,self,,true,2026-09-29
-ZWE,E-government agency,Ministry of Information Communication Technology Postal and Courier Services,ictministry.gov.zw,4,6,0.0,0.0,0.0,0.0,0.0,6,other:wm.gisp.gov.zw,,false,2026-09-29
-ZWE,National data centre / Government cloud operator,Government Internet Service Provider (GISP),gisp.gov.zw,30,32,0.0,0.0,0.0,0.0,0.0,29,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
-ZWE,Communications regulator,Postal and Telecommunications Regulatory Authority of Zimbabwe,potraz.gov.zw,14,15,0.0,0.0,60.0,20.0,0.0,2,m365,,false,2026-09-29
-ZWE,Audit office,Office of the Auditor-General of Zimbabwe,auditorgeneral.gov.zw,6,9,0.0,0.0,0.0,0.0,0.0,5,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,E-government agency,Ministry of Information Communication Technology Postal and Courier Services,ictministry.gov.zw,4,6,0.0,0.0,0.0,0.0,0.0,0,other:wm.gisp.gov.zw,,false,2026-09-29
+ZWE,National data centre / Government cloud operator,Government Internet Service Provider (GISP),gisp.gov.zw,30,32,0.0,0.0,0.0,0.0,0.0,0,other:Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
+ZWE,Communications regulator,Postal and Telecommunications Regulatory Authority of Zimbabwe,potraz.gov.zw,14,15,0.0,0.0,60.0,20.0,0.0,0,m365,,false,2026-09-29
+ZWE,Audit office,Office of the Auditor-General of Zimbabwe,auditorgeneral.gov.zw,6,9,0.0,0.0,0.0,0.0,0.0,0,other:197.221.235.10|Telone PVT Ltd - Telone PVT Ltd,,false,2026-09-29
 ZWE,Anti-corruption commission,Zimbabwe Anti-Corruption Commission,zacc.co.zw,12,12,0.0,0.0,0.0,16.7,0.0,0,other:Xneelo (Hetzner South Africa),,false,2026-09-29
