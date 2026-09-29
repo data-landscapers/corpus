@@ -1,0 +1,32 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+TCD,Presidency,Présidence de la République du Tchad,presidence.td,16,29,0.0,0.0,0.0,89.7,0.0,3,other:Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommu,,false,2026-09-29
+TCD,Parliament,Assemblée nationale,assemblee-tchad.org,2,10,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+TCD,Parliament,Sénat,senat.td,9,10,0.0,0.0,0.0,0.0,0.0,10,other:lir-fr-planetcloud-1-MNT,,false,2026-09-29
+TCD,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.td,6,17,23.5,0.0,0.0,23.5,0.0,0,other:cloudflare,,false,2026-09-29
+TCD,Treasury / Finance,Ministère des Finances; du Budget; de l'Économie; du Plan et de la Coopération internationale,ecofinances.gouv.td,29,27,3.7,0.0,0.0,0.0,0.0,1,google,,false,2026-09-29
+TCD,Treasury / Finance,Ministère des Finances (former domain),finances.gouv.td,38,19,0.0,0.0,0.0,0.0,0.0,10,other:Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommu,,false,2026-09-29
+TCD,Revenue Service,Direction Générale des Impôts,dgi.td,15,56,0.0,0.0,0.0,96.4,0.0,0,other:InMotion Hosting,,false,2026-09-29
+TCD,Customs,Direction Générale des Douanes et Droits Indirects,douanes.td,39,23,0.0,0.0,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-29
+TCD,Interior / Home Affairs,Ministère de la Sécurité Publique et de l'Immigration,securite.gouv.td,9,10,0.0,0.0,0.0,0.0,0.0,10,other:lir-fr-planetcloud-1-MNT,,false,2026-09-29
+TCD,Central Bank,Banque des États de l'Afrique Centrale,beac.int,8,18,50.0,0.0,0.0,0.0,0.0,9,other:CAMTEL - CAMTEL,,false,2026-09-29
+TCD,Commercial Banks,Commercial Bank Tchad,cbt-bank.com,7,16,0.0,0.0,0.0,62.5,0.0,2,other:Contabo,,false,2026-09-29
+TCD,Commercial Banks,Banque Commerciale du Chari,commercialcharibank.com,6,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TCD,Commercial Banks,Coris Bank International Tchad,tchad.coris.bank,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TCD,Commercial Banks,United Bank for Africa Tchad,ubachad.com,4,11,18.2,0.0,0.0,45.5,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
+TCD,Commercial Banks,Banque Agricole et Commerciale,bactchad.com,3,14,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+TCD,Civil registry / National ID authority,Agence Nationale des Titres Sécurisés,anats.td,19,22,13.6,0.0,0.0,0.0,0.0,0,other:Zoho,,false,2026-09-29
+TCD,Electoral commission,Agence Nationale de Gestion des Élections,ange.td,16,22,0.0,0.0,40.9,0.0,0.0,0,m365,,false,2026-09-29
+TCD,Statistics office,Institut National de la Statistique et des Études Économiques et Démographiques,inseed.td,19,19,0.0,0.0,0.0,0.0,0.0,19,other:fr-lws-1-mnt,,false,2026-09-29
+TCD,Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.td,49,45,4.4,0.0,0.0,0.0,0.0,23,other:lir-fr-planetcloud-1-MNT,,false,2026-09-29
+TCD,Social protection / Social registry,Caisse Nationale de Prévoyance Sociale,cnps-tchad.org,4,9,0.0,0.0,0.0,22.2,0.0,0,none,,false,2026-09-29
+TCD,Social protection / Social registry,Caisse Nationale de Prévoyance Sociale (site alternatif),cnps-tchad.com,11,19,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+TCD,National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale,gimac-afr.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TCD,Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale,bvm-ac.org,2,9,0.0,0.0,11.1,0.0,0.0,6,m365,,false,2026-09-29
+TCD,Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale,cosumaf.org,13,57,43.9,0.0,22.8,24.6,0.0,4,m365,,false,2026-09-29
+TCD,Public procurement authority,Autorité de Régulation des Marchés Publics,armp-tchad.com,5,13,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+TCD,E-government agency,Agence de Développement des Technologies de l'Information et de la Communication,adetic.td,19,10,0.0,0.0,0.0,0.0,0.0,10,other:lir-fr-planetcloud-1-MNT,,false,2026-09-29
+TCD,E-government agency,Portail officiel du Gouvernement tchadien,gouv.td,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TCD,Cybersecurity agency / National CERT,Agence Nationale de Sécurité Informatique et de Certification Électronique,ansice.td,16,20,5.0,0.0,0.0,75.0,0.0,0,other:Zoho,,false,2026-09-29
+TCD,Communications regulator,Autorité de Régulation des Communications Électroniques et des Postes,arcep.td,43,41,0.0,0.0,0.0,0.0,0.0,41,other:Groupe Barizco Inc.,,false,2026-09-29
+TCD,Audit office,Cour des comptes,courdescomptes.td,13,15,0.0,0.0,0.0,0.0,0.0,0,other:Interserver,,false,2026-09-29
+TCD,Anti-corruption commission,Autorité Indépendante de Lutte contre la Corruption,ailc.td,15,16,6.2,0.0,0.0,0.0,0.0,15,other:MNT-O2SWITCH,,false,2026-09-29

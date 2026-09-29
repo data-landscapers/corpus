@@ -1,45 +1,45 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République du Tchad,presidence.td,,confirmed 2026-09-29,
-Parliament,Assemblée nationale,assemblee-tchad.org,,confirmed 2026-09-29,
-Parliament,Sénat,senat.td,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères,diplomatie.td,,confirmed 2026-09-29,
+Presidency,Présidence de la République du Tchad,presidence.td,presidence.td,scanned 2026-09-29,
+Parliament,Assemblée nationale,assemblee-tchad.org,,scanned 2026-09-29,
+Parliament,Sénat,senat.td,senat.td,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.td,diplomatie.td,scanned 2026-09-29,
 Defence,Ministère des Armées,,,absent,no ministry site found
 Armed Forces,Armée nationale tchadienne,,,absent,shares the Ministère des Armées domain with Defence; none found
 Police,Police nationale,,,absent,under the Ministère de la Sécurité publique et de l'Immigration; shares securite.gouv.td
 Justice,Ministère de la Justice et des Droits humains,,,absent,no ministry or courts site found
-Treasury / Finance,Ministère des Finances; du Budget; de l'Économie; du Plan et de la Coopération internationale,ecofinances.gouv.td,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances (former domain),finances.gouv.td,,confirmed 2026-09-29,"former ministry domain; homepage shows a hosting ""Site not installed"" page 2026-09-29 — kept so step 02 sees where it points"
-Revenue Service,Direction Générale des Impôts,dgi.td,,confirmed 2026-09-29,
-Customs,Direction Générale des Douanes et Droits Indirects,douanes.td,,confirmed 2026-09-29,
+Treasury / Finance,Ministère des Finances; du Budget; de l'Économie; du Plan et de la Coopération internationale,ecofinances.gouv.td,ecofinances.gouv.td,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances (former domain),finances.gouv.td,finances.gouv.td,scanned 2026-09-29,"former ministry domain; homepage shows a hosting ""Site not installed"" page 2026-09-29 — kept so step 02 sees where it points"
+Revenue Service,Direction Générale des Impôts,dgi.td,dgi.td,scanned 2026-09-29,
+Customs,Direction Générale des Douanes et Droits Indirects,douanes.td,douanes.td,scanned 2026-09-29,
 Intelligence,,,,absent,no public site found for any Chadian intelligence service
-Interior / Home Affairs,Ministère de la Sécurité Publique et de l'Immigration,securite.gouv.td,,confirmed 2026-09-29,
-Central Bank,Banque des États de l'Afrique Centrale,beac.int,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Commercial Banks,Commercial Bank Tchad,cbt-bank.com,,confirmed 2026-09-29,Ranking source: no asset ranking published; the 10 licensed banks come from APEC Tchad member list (apec-tchad.td/assemblee-generale) and COBAC Annual Report 2024 (10 banks in Chad at 31 Dec 2024); order approximate by 2024 lending share (Ecomatin Mar 2025). Left out as group-only or no country domain found: Ecobank Tchad; Attijariwafa bank Tchad; Orabank Tchad (group domain only); BSIC Tchad; Banque de l'Habitat du Tchad
-Commercial Banks,Banque Commerciale du Chari,commercialcharibank.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Coris Bank International Tchad,tchad.coris.bank,,confirmed 2026-09-29,
-Commercial Banks,United Bank for Africa Tchad,ubachad.com,,confirmed 2026-09-29,
-Commercial Banks,Banque Agricole et Commerciale,bactchad.com,,confirmed 2026-09-29,
-Civil registry / National ID authority,Agence Nationale des Titres Sécurisés,anats.td,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de la Sécurité Publique et de l'Immigration,securite.gouv.td,securite.gouv.td,scanned 2026-09-29,
+Central Bank,Banque des États de l'Afrique Centrale,beac.int,beac.int,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Commercial Banks,Commercial Bank Tchad,cbt-bank.com,cbt-bank.com,scanned 2026-09-29,Ranking source: no asset ranking published; the 10 licensed banks come from APEC Tchad member list (apec-tchad.td/assemblee-generale) and COBAC Annual Report 2024 (10 banks in Chad at 31 Dec 2024); order approximate by 2024 lending share (Ecomatin Mar 2025). Left out as group-only or no country domain found: Ecobank Tchad; Attijariwafa bank Tchad; Orabank Tchad (group domain only); BSIC Tchad; Banque de l'Habitat du Tchad
+Commercial Banks,Banque Commerciale du Chari,commercialcharibank.com,,dead,homepage did not load: ConnectionError
+Commercial Banks,Coris Bank International Tchad,tchad.coris.bank,,scanned 2026-09-29,
+Commercial Banks,United Bank for Africa Tchad,ubachad.com,ubachad.com,scanned 2026-09-29,
+Commercial Banks,Banque Agricole et Commerciale,bactchad.com,,scanned 2026-09-29,
+Civil registry / National ID authority,Agence Nationale des Titres Sécurisés,anats.td,anats.td,scanned 2026-09-29,
 Data protection authority,,,,absent,no separate authority found; handled by ANSICE which shares ansice.td with Cybersecurity
-Electoral commission,Agence Nationale de Gestion des Élections,ange.td,,confirmed 2026-09-29,
-Statistics office,Institut National de la Statistique et des Études Économiques et Démographiques,inseed.td,,confirmed 2026-09-29,
+Electoral commission,Agence Nationale de Gestion des Élections,ange.td,ange.td,scanned 2026-09-29,
+Statistics office,Institut National de la Statistique et des Études Économiques et Démographiques,inseed.td,inseed.td,scanned 2026-09-29,
 Immigration / Passports,,,,absent,shares securite.gouv.td with Interior; passports issued via ANATS (anats.td)
-Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.td,,confirmed 2026-09-29,
-Social protection / Social registry,Caisse Nationale de Prévoyance Sociale,cnps-tchad.org,,confirmed 2026-09-29,
-Social protection / Social registry,Caisse Nationale de Prévoyance Sociale (site alternatif),cnps-tchad.com,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.td,sante.gouv.td,scanned 2026-09-29,
+Social protection / Social registry,Caisse Nationale de Prévoyance Sociale,cnps-tchad.org,,scanned 2026-09-29,
+Social protection / Social registry,Caisse Nationale de Prévoyance Sociale (site alternatif),cnps-tchad.com,cnps-tchad.com,scanned 2026-09-29,
 Land registry,,,,absent,no land registry site found
-National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale,gimac-afr.com,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale,bvm-ac.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
-Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale,cosumaf.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale,gimac-afr.com,,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale,bvm-ac.org,bvm-ac.org,scanned 2026-09-29,regional (CEMAC); shared with other member states
+Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale,cosumaf.org,cosumaf.org,scanned 2026-09-29,regional (CEMAC); shared with other member states
 Sovereign wealth fund / National pension fund,,,,absent,Caisse des Retraites Civiles du Tchad and military pension fund have no site found; CNPS listed under Social protection
-Public procurement authority,Autorité de Régulation des Marchés Publics,armp-tchad.com,,confirmed 2026-09-29,
+Public procurement authority,Autorité de Régulation des Marchés Publics,armp-tchad.com,armp-tchad.com,scanned 2026-09-29,
 Energy utility,Tchadienne d'Électricité (TchadElec),,,absent,replaced SNE in July 2025; no site found
 Ports authority,,,,absent,landlocked; no ports authority
 State-owned telco / National backbone operator,Société des Télécommunications du Tchad (Sotel Tchad),,,absent,no working site found (gsoteltchad.td is not the institution's)
-E-government agency,Agence de Développement des Technologies de l'Information et de la Communication,adetic.td,,confirmed 2026-09-29,
-E-government agency,Portail officiel du Gouvernement tchadien,gouv.td,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+E-government agency,Agence de Développement des Technologies de l'Information et de la Communication,adetic.td,adetic.td,scanned 2026-09-29,
+E-government agency,Portail officiel du Gouvernement tchadien,gouv.td,,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
 National data centre / Government cloud operator,,,,absent,run by ADETIC; shares adetic.td with E-government agency
-Cybersecurity agency / National CERT,Agence Nationale de Sécurité Informatique et de Certification Électronique,ansice.td,,confirmed 2026-09-29,
-Communications regulator,Autorité de Régulation des Communications Électroniques et des Postes,arcep.td,,confirmed 2026-09-29,
-Audit office,Cour des comptes,courdescomptes.td,,confirmed 2026-09-29,
-Anti-corruption commission,Autorité Indépendante de Lutte contre la Corruption,ailc.td,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Agence Nationale de Sécurité Informatique et de Certification Électronique,ansice.td,ansice.td,scanned 2026-09-29,
+Communications regulator,Autorité de Régulation des Communications Électroniques et des Postes,arcep.td,arcep.td,scanned 2026-09-29,
+Audit office,Cour des comptes,courdescomptes.td,courdescomptes.td,scanned 2026-09-29,
+Anti-corruption commission,Autorité Indépendante de Lutte contre la Corruption,ailc.td,ailc.td,scanned 2026-09-29,
