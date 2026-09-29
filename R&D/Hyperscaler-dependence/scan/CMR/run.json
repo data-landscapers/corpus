@@ -373,25 +373,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "15964": "CAMTEL - CAMTEL",
-  "203476": "GANDI-AS-2 GANDI SAS",
-  "209453": "GANDI-LIVEDNS GANDI SAS",
-  "36955": "Matrix Telecoms SA - Matrix Telecoms SA",
-  "36905": "Creolink Communications - Creolink Communications",
-  "327741": "INFOGENIE Technologies - INFOGENIE Technologies",
-  "37414": "Microcom Sprl - Microcom Sprl",
-  "37461": "ORANGE GUINEE - ORANGE GUINEE",
-  "210625": "wecom-as Wecom Mobile Ltd.",
-  "3215": "AS3215 Orange S.A.",
-  "30992": "MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon)",
-  "206979": "PROLIVAL Prolival SA",
-  "210403": "LWS Groupe LWS SARL",
-  "12876": "AS12876 Scaleway SAS",
-  "39729": "REGISTER-AS REGISTER S.P.A.",
-  "327820": "SWECOM PLC - SWECOM PLC",
-  "26548": "PUREVOLTAGE-INC - PureVoltage Hosting Inc."
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 986,
@@ -400,15 +382,16 @@
    "us_saas_share": 5.3,
    "cdn_share": 16.6,
    "national_or_self_share": 6.4,
-   "unattributed": 487,
+   "unattributed": 3,
    "by_category": {
-    "unattributed": 487,
-    "commercial-host": 136,
+    "telco-isp": 438,
+    "commercial-host": 167,
     "us-hyperscaler-offshore": 73,
     "cdn-origin-unknown": 164,
-    "telco-isp": 2,
+    "african-colo": 17,
     "self-hosted": 63,
     "us-saas": 52,
+    "unattributed": 3,
     "unresolved": 9
    },
    "institutions": 39,
@@ -425,13 +408,14 @@
    "us_saas_share": 5.8,
    "cdn_share": 2.4,
    "national_or_self_share": 7.7,
-   "unattributed": 403,
+   "unattributed": 3,
    "by_category": {
-    "unattributed": 403,
-    "commercial-host": 104,
+    "telco-isp": 378,
+    "commercial-host": 126,
     "us-hyperscaler-offshore": 54,
     "us-saas": 39,
     "cdn-origin-unknown": 16,
+    "unattributed": 3,
     "unresolved": 9,
     "self-hosted": 52
    },
@@ -449,12 +433,12 @@
    "us_saas_share": 4.2,
    "cdn_share": 47.9,
    "national_or_self_share": 3.6,
-   "unattributed": 84,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 148,
-    "unattributed": 84,
-    "telco-isp": 2,
-    "commercial-host": 32,
+    "telco-isp": 60,
+    "african-colo": 17,
+    "commercial-host": 41,
     "us-hyperscaler-offshore": 19,
     "self-hosted": 11,
     "us-saas": 13
