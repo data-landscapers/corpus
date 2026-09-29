@@ -374,7 +374,14 @@ def main() -> int:
              "Not identified", "No mail on the domain scanned"]
     for k in order:
         if mail[k]:
-            w(f"- **{k}:** {len(mail[k])}. {listing(mail[k])}.")
+            xs = mail[k]
+            own = {m.group(1) for x in xs if (m := re.search(r" \(([^()]*)\)$", x))}
+            if len(own) == 1 and all(x.endswith(f" ({next(iter(own))})") for x in xs):
+                o1 = next(iter(own))
+                xs = [x[: -len(o1) - 3] for x in xs]
+                w(f"- **{k} ({o1}):** {len(xs)}. {listing(xs)}.")
+            else:
+                w(f"- **{k}:** {len(xs)}. {listing(xs)}.")
     w("")
 
     # --- Institution by institution
@@ -455,14 +462,18 @@ def main() -> int:
                        + (f", and {len(cheap) - 6} more" if len(cheap) > 6 else "") + ".")
     cn = Counter(o for (t, o), rows in by_org.items() for r in rows
                  if r["category"] == "chinese-cloud" and r["rr_type"] in ROUTABLE and r["rr_status"] == "ok")
-    if cn:
+    if len(cn) == 1:
+        k, v = next(iter(cn.items()))
+        bullets.append(f"**Chinese cloud.** {v} address{'es' if v != 1 else ''}, all at {k}, "
+                       f"{'are' if v != 1 else 'is'} on Chinese cloud.")
+    elif cn:
         bullets.append(f"**Chinese cloud.** {sum(cn.values())} address{'es' if sum(cn.values()) != 1 else ''} "
                        f"{'are' if sum(cn.values()) != 1 else 'is'} on Chinese cloud: {listing([f'{k} ({v})' for k, v in cn.most_common()])}.")
     else:
         bullets.append("**No Chinese cloud.** The scan found no address on Huawei, Alibaba or Tencent cloud.")
     if dangling:
         insts = sorted({d[0] for d in dangling})
-        bullets.append(f"**Names anyone could claim.** {len(dangling)} web address{'es' if len(dangling) != 1 else ''} at "
+        bullets.append(f"**Names anyone could claim.** {'One' if len(dangling) == 1 else len(dangling)} web address{'es' if len(dangling) != 1 else ''} at "
                        f"{listing(insts)} point{'s' if len(dangling) == 1 else ''} at a deleted cloud name that anyone "
                        f"could register and then publish under. We have flagged {'it' if len(dangling) == 1 else 'them'} "
                        f"and do not name {'it' if len(dangling) == 1 else 'them'} here.")
