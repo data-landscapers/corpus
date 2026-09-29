@@ -1,46 +1,46 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République togolaise,presidence.gouv.tg,,confirmed 2026-09-29,
-Presidency,Présidence du Conseil,presidenceduconseil.gouv.tg,,confirmed 2026-09-29,head of government under the 2025 constitution
-Parliament,Assemblée nationale,assemblee-nationale.tg,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.tg,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale,defense.gouv.tg,,confirmed 2026-09-29,
+Presidency,Présidence de la République togolaise,presidence.gouv.tg,presidence.gouv.tg,scanned 2026-09-29,
+Presidency,Présidence du Conseil,presidenceduconseil.gouv.tg,presidenceduconseil.gouv.tg,scanned 2026-09-29,head of government under the 2025 constitution
+Parliament,Assemblée nationale,assemblee-nationale.tg,assemblee-nationale.tg,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.tg,diplomatie.gouv.tg,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale,defense.gouv.tg,defense.gouv.tg,scanned 2026-09-29,
 Armed Forces,Forces armées togolaises,,,absent,shares defense.gouv.tg with Defence
 Police,Police nationale,,,absent,shares securite.gouv.tg with Interior (Ministère de la Sécurité)
-Justice,Ministère de la Justice et des Droits humains,justice.gouv.tg,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.tg,,confirmed 2026-09-29,
-Treasury / Finance,Direction générale du Trésor et de la Comptabilité publique,tresorpublic.gouv.tg,,confirmed 2026-09-29,
-Revenue Service,Office togolais des recettes,otr.tg,,confirmed 2026-09-29,
+Justice,Ministère de la Justice et des Droits humains,justice.gouv.tg,justice.gouv.tg,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.tg,finances.gouv.tg,scanned 2026-09-29,
+Treasury / Finance,Direction générale du Trésor et de la Comptabilité publique,tresorpublic.gouv.tg,tresorpublic.gouv.tg,scanned 2026-09-29,
+Revenue Service,Office togolais des recettes,otr.tg,otr.tg,scanned 2026-09-29,
 Customs,Douanes togolaises,,,absent,shares otr.tg with the revenue service
 Intelligence,Direction générale de la documentation nationale,,,absent,no public domain found
-Interior / Home Affairs,Ministère de la Sécurité et de la Protection civile,securite.gouv.tg,,confirmed 2026-09-29,
-Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Commercial Banks,Coris Bank International Togo,togo.coris.bank,,confirmed 2026-09-29,"Ranking source: Togo First, Classement des banques togolaises selon le bilan (Commission bancaire UMOA data at 31 Dec 2025). Left out (group domain only or none found): Orabank Togo, Ecobank Togo, BSIC Togo, NSIA Banque Bénin succursale, Banque Atlantique Togo, Sunu Bank Togo"
-Commercial Banks,Union Togolaise de Banque,utb.tg,,confirmed 2026-09-29,
-Commercial Banks,IB Bank Togo,ibbank.tg,,confirmed 2026-09-29,
-Commercial Banks,BIA-Togo,biat.tg,,confirmed 2026-09-29,
-Commercial Banks,Bank of Africa Togo,boatogo.com,,confirmed 2026-09-29,
-Civil registry / National ID authority,Agence nationale d'identification,anid.gouv.tg,,confirmed 2026-09-29,
-Data protection authority,Instance de protection des données à caractère personnel,ipdcp.tg,,confirmed 2026-09-29,
-Electoral commission,Commission électorale nationale indépendante,cenitogo.tg,,confirmed 2026-09-29,
-Statistics office,Institut national de la statistique et des études économiques et démographiques,inseed.tg,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de la Sécurité et de la Protection civile,securite.gouv.tg,securite.gouv.tg,scanned 2026-09-29,
+Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,bceao.int,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,Coris Bank International Togo,togo.coris.bank,,scanned 2026-09-29,"Ranking source: Togo First, Classement des banques togolaises selon le bilan (Commission bancaire UMOA data at 31 Dec 2025). Left out (group domain only or none found): Orabank Togo, Ecobank Togo, BSIC Togo, NSIA Banque Bénin succursale, Banque Atlantique Togo, Sunu Bank Togo"
+Commercial Banks,Union Togolaise de Banque,utb.tg,utb.tg,scanned 2026-09-29,
+Commercial Banks,IB Bank Togo,ibbank.tg,ibbank.tg,scanned 2026-09-29,
+Commercial Banks,BIA-Togo,biat.tg,biat.tg,scanned 2026-09-29,
+Commercial Banks,Bank of Africa Togo,boatogo.com,boatogo.com,scanned 2026-09-29,
+Civil registry / National ID authority,Agence nationale d'identification,anid.gouv.tg,anid.gouv.tg,scanned 2026-09-29,
+Data protection authority,Instance de protection des données à caractère personnel,ipdcp.tg,ipdcp.tg,scanned 2026-09-29,
+Electoral commission,Commission électorale nationale indépendante,cenitogo.tg,cenitogo.tg,scanned 2026-09-29,
+Statistics office,Institut national de la statistique et des études économiques et démographiques,inseed.tg,inseed.tg,scanned 2026-09-29,
 Immigration / Passports,Direction de l'immigration,,,absent,shares securite.gouv.tg with Interior
-Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gouv.tg,,confirmed 2026-09-29,
-Health ministry / National health insurance,Institut national d'assurance maladie,inam.tg,,confirmed 2026-09-29,
-Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tg,,confirmed 2026-09-29,registre social is run by ANID (anid.gouv.tg)
+Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gouv.tg,sante.gouv.tg,scanned 2026-09-29,
+Health ministry / National health insurance,Institut national d'assurance maladie,inam.tg,inam.tg,scanned 2026-09-29,
+Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tg,cnss.tg,scanned 2026-09-29,registre social is run by ANID (anid.gouv.tg)
 Land registry,Agence nationale du domaine et du foncier,,,absent,no own domain found
-National payment switch,GIM-UEMOA,gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+National payment switch,GIM-UEMOA,gim-uemoa.org,gim-uemoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,brvm.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,amf-umoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
 Sovereign wealth fund / National pension fund,Caisse de retraites du Togo,,,absent,pension cover via CNSS (cnss.tg); no separate domain found
-Public procurement authority,Autorité de régulation de la commande publique,arcop.tg,,confirmed 2026-09-29,
-Energy utility,Compagnie énergie électrique du Togo,ceet.tg,,confirmed 2026-09-29,
-Ports authority,Port autonome de Lomé,togo-port.net,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Togocom,togocom.tg,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-E-government agency,Agence Togo Digital,digital.gouv.tg,,confirmed 2026-09-29,
-E-government agency,Portail du gouvernement (zone gouv.tg),gouv.tg,,confirmed 2026-09-29,parent zone; scanned root-only
+Public procurement authority,Autorité de régulation de la commande publique,arcop.tg,arcop.tg,scanned 2026-09-29,
+Energy utility,Compagnie énergie électrique du Togo,ceet.tg,ceet.tg,scanned 2026-09-29,
+Ports authority,Port autonome de Lomé,togo-port.net,togo-port.net,scanned 2026-09-29,
+State-owned telco / National backbone operator,Togocom,togocom.tg,togocom.tg,scanned 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,Agence Togo Digital,digital.gouv.tg,digital.gouv.tg,scanned 2026-09-29,
+E-government agency,Portail du gouvernement (zone gouv.tg),gouv.tg,gouv.tg,scanned 2026-09-29,parent zone; scanned root-only
 National data centre / Government cloud operator,Centre de données national,,,absent,no government data centre operator domain found
-Cybersecurity agency / National CERT,Agence nationale de la cybersécurité,ancy.gouv.tg,,confirmed 2026-09-29,
-Cybersecurity agency / National CERT,CERT.tg,cert.tg,,confirmed 2026-09-29,operated by Cyber Defense Africa
-Communications regulator,Autorité de régulation des communications électroniques et des postes,arcep.tg,,confirmed 2026-09-29,
-Audit office,Cour des comptes,courdescomptes.tg,,confirmed 2026-09-29,
-Anti-corruption commission,HAPLUCIA,haplucia-togo.tg,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Agence nationale de la cybersécurité,ancy.gouv.tg,ancy.gouv.tg,scanned 2026-09-29,
+Cybersecurity agency / National CERT,CERT.tg,cert.tg,cert.tg,scanned 2026-09-29,operated by Cyber Defense Africa
+Communications regulator,Autorité de régulation des communications électroniques et des postes,arcep.tg,arcep.tg,scanned 2026-09-29,
+Audit office,Cour des comptes,courdescomptes.tg,courdescomptes.tg,scanned 2026-09-29,
+Anti-corruption commission,HAPLUCIA,haplucia-togo.tg,haplucia-togo.tg,scanned 2026-09-29,

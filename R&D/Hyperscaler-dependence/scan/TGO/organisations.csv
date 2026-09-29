@@ -1,0 +1,38 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+TGO,Presidency,Présidence de la République togolaise,presidence.gouv.tg,16,54,0.0,0.0,0.0,92.6,0.0,3,google,,false,2026-09-29
+TGO,Presidency,Présidence du Conseil,presidenceduconseil.gouv.tg,11,18,0.0,0.0,0.0,11.1,0.0,13,other:MINISTERE DES POSTES ET DE L'ECONOMIE NUMERIQUE,,false,2026-09-29
+TGO,Parliament,Assemblée nationale,assemblee-nationale.tg,5,15,0.0,0.0,0.0,66.7,0.0,4,other:MNT-ABCONNECT|MNT-CH-ASTURIAN,,false,2026-09-29
+TGO,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.tg,35,104,0.0,0.0,0.0,90.4,0.0,9,google,,false,2026-09-29
+TGO,Defence,Ministère de la Défense nationale,defense.gouv.tg,12,44,0.0,0.0,0.0,95.5,0.0,2,google,,false,2026-09-29
+TGO,Justice,Ministère de la Justice et des Droits humains,justice.gouv.tg,26,93,0.0,0.0,0.0,96.8,1.1,1,self,,false,2026-09-29
+TGO,Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.tg,15,29,0.0,0.0,0.0,62.1,27.6,2,self,,false,2026-09-29
+TGO,Treasury / Finance,Direction générale du Trésor et de la Comptabilité publique,tresorpublic.gouv.tg,12,15,0.0,0.0,0.0,0.0,53.3,7,self,,false,2026-09-29
+TGO,Revenue Service,Office togolais des recettes,otr.tg,35,29,0.0,0.0,13.8,0.0,0.0,23,google,cisco-ironport,false,2026-09-29
+TGO,Interior / Home Affairs,Ministère de la Sécurité et de la Protection civile,securite.gouv.tg,31,98,0.0,0.0,0.0,91.8,3.1,4,self,,false,2026-09-29
+TGO,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,39,39,10.3,0.0,23.1,0.0,0.0,25,google,,false,2026-09-29
+TGO,Commercial Banks,Coris Bank International Togo,togo.coris.bank,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TGO,Commercial Banks,Union Togolaise de Banque,utb.tg,44,39,64.1,0.0,0.0,0.0,0.0,14,m365,,false,2026-09-29
+TGO,Commercial Banks,IB Bank Togo,ibbank.tg,7,12,0.0,0.0,0.0,0.0,0.0,11,m365,,false,2026-09-29
+TGO,Commercial Banks,BIA-Togo,biat.tg,10,20,0.0,0.0,65.0,10.0,0.0,5,m365,,false,2026-09-29
+TGO,Commercial Banks,Bank of Africa Togo,boatogo.com,14,42,59.5,0.0,7.1,0.0,0.0,5,m365,broadcom-messagelabs,false,2026-09-29
+TGO,Civil registry / National ID authority,Agence nationale d'identification,anid.gouv.tg,30,61,0.0,0.0,0.0,82.0,0.0,11,google,,false,2026-09-29
+TGO,Data protection authority,Instance de protection des données à caractère personnel,ipdcp.tg,2,5,0.0,0.0,0.0,0.0,20.0,4,self,,false,2026-09-29
+TGO,Electoral commission,Commission électorale nationale indépendante,cenitogo.tg,14,25,16.0,0.0,0.0,16.0,0.0,0,other:cloudflare,,false,2026-09-29
+TGO,Statistics office,Institut national de la statistique et des études économiques et démographiques,inseed.tg,22,22,18.2,0.0,0.0,0.0,9.1,3,other:Contabo,,true,2026-09-29
+TGO,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gouv.tg,25,90,0.0,0.0,0.0,95.6,1.1,2,self,,false,2026-09-29
+TGO,Health ministry / National health insurance,Institut national d'assurance maladie,inam.tg,14,64,14.1,0.0,14.1,68.8,0.0,1,m365,,false,2026-09-29
+TGO,Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tg,27,61,0.0,0.0,0.0,88.5,0.0,5,other:TOGOTEL-AS - IDDQD-AS,,false,2026-09-29
+TGO,National payment switch,GIM-UEMOA,gim-uemoa.org,9,24,0.0,0.0,54.2,0.0,0.0,11,m365,,false,2026-09-29
+TGO,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,28,32.1,0.0,28.6,0.0,0.0,9,m365,,false,2026-09-29
+TGO,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,1,m365,,false,2026-09-29
+TGO,Public procurement authority,Autorité de régulation de la commande publique,arcop.tg,18,30,0.0,0.0,43.3,0.0,0.0,12,m365,,false,2026-09-29
+TGO,Energy utility,Compagnie énergie électrique du Togo,ceet.tg,31,24,0.0,0.0,0.0,0.0,0.0,24,m365,,false,2026-09-29
+TGO,Ports authority,Port autonome de Lomé,togo-port.net,14,17,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+TGO,State-owned telco / National backbone operator,Togocom,togocom.tg,30,30,0.0,0.0,3.3,0.0,0.0,25,m365,,false,2026-09-29
+TGO,E-government agency,Agence Togo Digital,digital.gouv.tg,60,150,0.0,0.0,0.0,84.0,0.0,24,google,,false,2026-09-29
+TGO,E-government agency,Portail du gouvernement (zone gouv.tg),gouv.tg,3,14,0.0,0.0,35.7,28.6,0.0,5,google,,false,2026-09-29
+TGO,Cybersecurity agency / National CERT,Agence nationale de la cybersécurité,ancy.gouv.tg,14,39,0.0,0.0,33.3,66.7,0.0,0,m365,,false,2026-09-29
+TGO,Cybersecurity agency / National CERT,CERT.tg,cert.tg,3,7,0.0,0.0,0.0,28.6,0.0,5,other:GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS,,false,2026-09-29
+TGO,Communications regulator,Autorité de régulation des communications électroniques et des postes,arcep.tg,45,65,0.0,0.0,7.7,0.0,78.5,8,google,,false,2026-09-29
+TGO,Audit office,Cour des comptes,courdescomptes.tg,12,24,25.0,0.0,0.0,75.0,0.0,0,other:Oracle Cloud,,false,2026-09-29
+TGO,Anti-corruption commission,HAPLUCIA,haplucia-togo.tg,15,19,21.1,0.0,0.0,0.0,0.0,11,other:WHG Hosting,,false,2026-09-29

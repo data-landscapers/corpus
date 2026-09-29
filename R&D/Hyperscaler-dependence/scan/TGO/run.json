@@ -1,0 +1,437 @@
+{
+ "iso3": "TGO",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "presidenceduconseil.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assemblee-nationale.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tresorpublic.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "otr.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "securite.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bceao.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "togo.coris.bank": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "utb.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ibbank.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "biat.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "boatogo.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anid.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ipdcp.tg": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cenitogo.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inseed.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inam.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gim-uemoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brvm.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amf-umoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arcop.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ceet.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "togo-port.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "togocom.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "digital.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 53,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.tg": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 12 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "ancy.gouv.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cert.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arcep.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 39,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "haplucia-togo.tg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "24691": "TOGOTEL-AS - IDDQD-AS",
+  "207758": "HOSTEUR-NET-CORE-CH Hosteur SA",
+  "30982": "CAFE Informatique et telecommunications - CAFE Informatique et telecommunications",
+  "26277": "SERVERPOINT - ServerPoint.com",
+  "204818": "HOSTEUR-NET-CORE Hosteur SAS",
+  "8739": "ICDSoft ICDSoft Ltd.",
+  "36924": "GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS",
+  "36947": "Telecom Algeria - Telecom Algeria",
+  "25394": "MK-NETZDIENSTE-AS MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG",
+  "48809": "HOSTEUR-ANYCAST Hosteur SAS",
+  "37054": "Telecom Malagasy - Telecom Malagasy"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1468,
+   "us_hyperscaler_share": 6.1,
+   "african_region_share": 0.0,
+   "us_saas_share": 7.4,
+   "cdn_share": 55.4,
+   "national_or_self_share": 5.1,
+   "unattributed": 289,
+   "by_category": {
+    "cdn-origin-unknown": 814,
+    "unresolved": 10,
+    "unattributed": 289,
+    "commercial-host": 80,
+    "self-hosted": 75,
+    "us-saas": 109,
+    "us-hyperscaler-offshore": 90,
+    "telco-isp": 1
+   },
+   "institutions": 37,
+   "names": 719,
+   "m365": 12,
+   "google": 9,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 9
+  },
+  "government": {
+   "routable": 1353,
+   "us_hyperscaler_share": 3.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 6.9,
+   "cdn_share": 60.0,
+   "national_or_self_share": 5.5,
+   "unattributed": 254,
+   "by_category": {
+    "cdn-origin-unknown": 812,
+    "unresolved": 10,
+    "unattributed": 254,
+    "commercial-host": 68,
+    "self-hosted": 75,
+    "us-saas": 93,
+    "us-hyperscaler-offshore": 40,
+    "telco-isp": 1
+   },
+   "institutions": 32,
+   "names": 642,
+   "m365": 8,
+   "google": 9,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 7
+  },
+  "bank": {
+   "routable": 115,
+   "us_hyperscaler_share": 43.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 13.9,
+   "cdn_share": 1.7,
+   "national_or_self_share": 0.0,
+   "unattributed": 35,
+   "by_category": {
+    "commercial-host": 12,
+    "unattributed": 35,
+    "us-hyperscaler-offshore": 50,
+    "us-saas": 16,
+    "cdn-origin-unknown": 2
+   },
+   "institutions": 5,
+   "names": 77,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 2
+  }
+ },
+ "findings": []
+}
