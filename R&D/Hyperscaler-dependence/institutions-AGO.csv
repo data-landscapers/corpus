@@ -1,0 +1,48 @@
+type,institution,domain,email_domain,status,note
+Presidency,Presidência da República / Governo de Angola,governo.gov.ao,,confirmed 2026-09-29,
+Parliament,Assembleia Nacional,parlamento.ao,,confirmed 2026-09-29,
+Foreign Affairs,Ministério das Relações Exteriores,mirex.gov.ao,,confirmed 2026-09-29,
+Defence,Ministério da Defesa Nacional Antigos Combatentes e Veteranos da Pátria,mindenacvp.gov.ao,,confirmed 2026-09-29,
+Armed Forces,Forças Armadas Angolanas,,,absent,shares mindenacvp.gov.ao with Defence
+Police,Polícia Nacional de Angola,pna.gov.ao,,confirmed 2026-09-29,
+Justice,Ministério da Justiça e dos Direitos Humanos,minjusdh.gov.ao,,confirmed 2026-09-29,
+Justice,Tribunal Supremo,tribunalsupremo.ao,,confirmed 2026-09-29,
+Treasury / Finance,Ministério das Finanças,minfin.gov.ao,,confirmed 2026-09-29,
+Revenue Service,Administração Geral Tributária,agt.minfin.gov.ao,,confirmed 2026-09-29,
+Customs,Serviço Nacional das Alfândegas,,,absent,within AGT (agt.minfin.gov.ao)
+Intelligence,Serviço de Inteligência e Segurança do Estado,,,absent,no public domain found
+Interior / Home Affairs,Ministério do Interior,minint.gov.ao,,confirmed 2026-09-29,
+Central Bank,Banco Nacional de Angola,bna.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco Angolano de Investimentos (BAI),bancobai.ao,,confirmed 2026-09-29,"Ranking source: Deloitte Angola, Banca em Análise 2025 (FY2024 total assets; https://www.deloitte.com/africa-lusofona/pt/industries/banking-capital-markets-ao/analysis/banca-analise-2025.html). Top 5 BAI BFA BIC Atlantico Standard Bank; ranks 6-10 from same study and Economia e Mercado (BPC 6th) plus ABANC member list; order of 7-10 approximate"
+Commercial Banks,Banco de Fomento Angola (BFA),bfa.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco BIC,bancobic.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco Millennium Atlântico,atlantico.ao,,confirmed 2026-09-29,
+Commercial Banks,Standard Bank de Angola,standardbank.co.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco de Poupança e Crédito (BPC),bpc.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco Sol,bancosol.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco Keve,keve.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco Caixa Geral Angola,caixaangola.ao,,confirmed 2026-09-29,
+Commercial Banks,Banco Comércio e Indústria (BCI),bci.ao,,confirmed 2026-09-29,
+Civil registry / National ID authority,Serviço Integrado de Atendimento ao Cidadão (SIAC),siac.gov.ao,,confirmed 2026-09-29,identity documents via DNIRN under Justice; citizen services portal
+Data protection authority,Agência de Protecção de Dados,apd.ao,,confirmed 2026-09-29,
+Electoral commission,Comissão Nacional Eleitoral,cne.ao,,confirmed 2026-09-29,
+Statistics office,Instituto Nacional de Estatística,ine.gov.ao,,confirmed 2026-09-29,
+Immigration / Passports,Serviço de Migração e Estrangeiros,,,absent,shares minint.gov.ao with Interior
+Health ministry / National health insurance,Ministério da Saúde,minsa.gov.ao,,confirmed 2026-09-29,
+Social protection / Social registry,Instituto Nacional de Segurança Social,inss.gov.ao,,confirmed 2026-09-29,
+Land registry,Instituto Geográfico e Cadastral de Angola (IGCA),igca.gov.ao,,confirmed 2026-09-29,
+National payment switch,EMIS Empresa Interbancária de Serviços,emis.ao,,confirmed 2026-09-29,
+Stock exchange,Bolsa de Dívida e Valores de Angola (BODIVA),bodiva.ao,,confirmed 2026-09-29,
+Securities regulator,Comissão do Mercado de Capitais,cmc.ao,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Fundo Soberano de Angola (FSDEA),fundosoberano.ao,,confirmed 2026-09-29,
+Public procurement authority,Serviço Nacional da Contratação Pública (Portal Compras Públicas),compraspublicas.minfin.gov.ao,,confirmed 2026-09-29,
+Energy utility,Empresa Nacional de Distribuição de Electricidade (ENDE),ende.co.ao,,confirmed 2026-09-29,
+Ports authority,Porto de Luanda E.P.,portoluanda.co.ao,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Angola Telecom,angolatelecom.ao,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI),infosi.gov.ao,,confirmed 2026-09-29,
+E-government agency,Governo de Angola (zona gov.ao),gov.ao,,confirmed 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,INFOSI Rede Privativa do Estado,,,absent,operated by INFOSI (infosi.gov.ao); no separate domain
+Cybersecurity agency / National CERT,Centro Nacional de Cibersegurança (CERT.ao),,,absent,created Dec 2025 (Decreto Presidencial 263/25); no domain found
+Communications regulator,Instituto Angolano das Comunicações (INACOM),inacom.gov.ao,,confirmed 2026-09-29,
+Audit office,Tribunal de Contas,tcontas.ao,,confirmed 2026-09-29,
+Anti-corruption commission,Procuradoria-Geral da República,pgr.ao,,unconfirmed 2026-09-29,no dedicated anti-corruption commission; PGR leads asset recovery and anti-corruption; homepage did not load: ConnectionError
