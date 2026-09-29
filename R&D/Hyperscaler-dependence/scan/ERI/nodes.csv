@@ -1,0 +1,58 @@
+iso3,type,institution,domain,name,source,rr_type,rr_status,target,ip,cname_chain,asn,owner,category,region,provider,scan_date
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,boe.gov.er,root,A,ok,,196.200.104.42,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,mail.boe.gov.er,dictionary,A,ok,mail.tse.com.er,196.200.102.9,mail.tse.com.er,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,server.boe.gov.er,dictionary,A,ok,,196.200.104.42,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,webmail.boe.gov.er,dictionary,A,ok,mail.tse.com.er,196.200.102.9,mail.tse.com.er,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,www.boe.gov.er,root,A,ok,server.boe.gov.er,196.200.104.42,server.boe.gov.er,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,boe.gov.er,root,MX,ok,barracuda.tse.com.er,196.200.102.3,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,boe.gov.er,root,NS,ok,sawanew.noc.net.er,196.200.96.1,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,boe.gov.er,root,NS,ok,zaranew.noc.net.er,196.200.96.2,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,boe.gov.er,root,TXT,ok,v=spf1 a mx -all,,,,,,,,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,autoconfig.erhcb.com,dictionary,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,autodiscover.erhcb.com,dictionary,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root;ct,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,ftp.erhcb.com,dictionary,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,mail.erhcb.com,dictionary,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,ssh.erhcb.com,dictionary,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,webmail.erhcb.com,dictionary,A,ok,,34.174.9.38,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,www.erhcb.com,root;ct,A,ok,erhcb.com,34.174.9.38,erhcb.com,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root,MX,ok,mx30.antispam.mailspamprotection.com,34.111.121.216,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root,MX,ok,mx20.antispam.mailspamprotection.com,34.120.156.61,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root,MX,ok,mx10.antispam.mailspamprotection.com,34.149.79.66,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root,NS,ok,ns2.siteground.net,99.83.229.113,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,erhcb.com,root,TXT,ok,v=spf1 +a +mx include:erhcb.com.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
+ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,_dmarc.erhcb.com,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,app.eritel.com.er,dictionary,A,ok,,196.200.96.11,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,cctv.eritel.com.er,dictionary,A,ok,,196.200.96.30,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,cloud-test.eritel.com.er,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,cloud.eritel.com.er,dictionary;ct,A,ok,,196.200.96.29,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,cpanel.eritel.com.er,dictionary,A,ok,web01.eritel.com.er,196.200.96.6,web01.eritel.com.er,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,eritel.com.er,root;ct,A,ok,,196.200.96.6,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,selfcare.eritel.com.er,ct,A,ok,,196.200.96.28,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,speedtest.eritel.com.er,dictionary,A,ok,,196.200.96.18,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,vpn.eritel.com.er,dictionary,A,ok,,196.200.96.16,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,vpn2.eritel.com.er,dictionary,A,ok,,196.200.96.5,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,web01.eritel.com.er,ct,A,ok,,196.200.96.6,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,www.eritel.com.er,root,A,ok,web01.eritel.com.er,196.200.96.6,web01.eritel.com.er,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,eritel.com.er,root,NS,ok,sawanew.noc.net.er,196.200.96.1,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,eritel.com.er,root,NS,ok,zaranew.noc.net.er,196.200.96.2,,30987,Eritrea Telecommunication Service corporation (EriTel),self-hosted,,,2026-09-29
+ERI,E-government agency,Government of Eritrea (parent zone),gov.er,gov.er,root,A,noanswer,,,,,,unresolved,,,2026-09-29
+ERI,E-government agency,Government of Eritrea (parent zone),gov.er,www.gov.er,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
+ERI,E-government agency,Government of Eritrea (parent zone),gov.er,gov.er,root,NS,ok,sawanew.noc.net.er,196.200.96.1,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,E-government agency,Government of Eritrea (parent zone),gov.er,gov.er,root,NS,ok,zaranew.noc.net.er,196.200.96.2,,30987,Eritrea Telecommunication Service corporation (EriTel),unattributed,,,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,ftp.shabait.com,dictionary,A,ok,,35.212.118.37,,,google-cloud,us-hyperscaler-offshore,us-east4,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,mail.shabait.com,dictionary,A,ok,,35.212.118.37,,,google-cloud,us-hyperscaler-offshore,us-east4,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,newshabait.shabait.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root;ct,A,ok,,35.212.118.37,,,google-cloud,us-hyperscaler-offshore,us-east4,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,ssh.shabait.com,dictionary,A,ok,,35.212.118.37,,,google-cloud,us-hyperscaler-offshore,us-east4,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,test.shabait.com,dictionary,A,ok,,35.212.118.37,,,google-cloud,us-hyperscaler-offshore,us-east4,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,www.newshabait.shabait.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,www.shabait.com,root,A,ok,shabait.com,35.212.118.37,shabait.com,,google-cloud,us-hyperscaler-offshore,us-east4,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root,MX,ok,mx30.antispam.mailspamprotection.com,34.111.121.216,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root,MX,ok,mx10.antispam.mailspamprotection.com,34.149.79.66,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root,MX,ok,mx20.antispam.mailspamprotection.com,34.120.156.61,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root,NS,ok,ns2.siteground.net,99.83.229.113,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,shabait.com,root,TXT,ok,v=spf1 +a +mx include:shabait.com.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
+ERI,E-government agency,Ministry of Information,shabait.com,_dmarc.shabait.com,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
