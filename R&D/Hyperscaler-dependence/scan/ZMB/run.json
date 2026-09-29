@@ -1,0 +1,477 @@
+{
+ "iso3": "ZMB",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "sh.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofa.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zambiapolice.gov.zm": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moj.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofnp.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zra.org.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 82,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moha.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "boz.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 85,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zanaco.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 46,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stanbicbank.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 46,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absa.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "fnbzambia.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "izb.co.zm": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "accessbankzm.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "bancabc.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firstcapitalbank.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "investrust.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "cavmont.co.zm": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "dnrpc.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "elections.org.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zamstats.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zambiaimmigration.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moh.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 116,
+   "dictionary_hits": 19,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nhima.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mcdss.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mlnr.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zechl.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "luse.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "seczambia.org.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "napsa.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 57,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zppa.org.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zesco.co.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zamtel.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "szi.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zicta.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ago.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "acc.gov.zm": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37154": "Zambia Telecommunications Company Ltd aka ZAMTEL - Zambia Telecommunications Company Ltd aka ZAMTEL",
+  "37146": "Hai Telecommunications Limited - Hai Telecommunications Limited",
+  "36959": "AfriConnect Zambia Ltd - AfriConnect Zambia Ltd",
+  "6453": "AS6453 - TATA COMMUNICATIONS (AMERICA) INC",
+  "36996": "Telecom Namibia - Telecom Namibia",
+  "7420": "Zamnet - Zamnet",
+  "25795": "ARPNET - ARP NETWORKS, INC.",
+  "328007": "",
+  "36962": "MTN Zambia - MTN Zambia",
+  "33763": "Paratus Telecommunications Limited - Paratus Telecommunications Limited",
+  "12488": "KRYSTAL Krystal Hosting Ltd",
+  "37532": "Zambia Research and Education Network (ZAMREN) - Zambia Research and Education Network (ZAMREN)",
+  "328646": "INFRATEL CORPORATION LIMITED - INFRATEL CORPORATION LIMITED",
+  "11214": "UNIVERSITY-OF-NORTH-FLORIDA - University of North Florida",
+  "36972": "MTN SUDAN - MTN SUDAN",
+  "328570": "Fibrecom Limited - Fibrecom Limited",
+  "39122": "BLACKNIGHT-AS Blacknight Internet Solutions Limited",
+  "61025": "COCCA-ASN CoCCA Registry Services (NZ) Limited"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1520,
+   "us_hyperscaler_share": 21.6,
+   "african_region_share": 0.4,
+   "us_saas_share": 24.7,
+   "cdn_share": 16.6,
+   "national_or_self_share": 7.8,
+   "unattributed": 319,
+   "by_category": {
+    "us-saas": 376,
+    "unattributed": 319,
+    "african-colo": 59,
+    "us-hyperscaler-offshore": 322,
+    "commercial-host": 64,
+    "cdn-origin-unknown": 253,
+    "self-hosted": 119,
+    "us-hyperscaler-africa": 6,
+    "unresolved": 1,
+    "telco-isp": 1
+   },
+   "institutions": 40,
+   "names": 942,
+   "m365": 30,
+   "google": 0,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 26
+  },
+  "government": {
+   "routable": 1119,
+   "us_hyperscaler_share": 20.8,
+   "african_region_share": 0.5,
+   "us_saas_share": 27.7,
+   "cdn_share": 8.1,
+   "national_or_self_share": 8.1,
+   "unattributed": 304,
+   "by_category": {
+    "us-saas": 310,
+    "unattributed": 304,
+    "african-colo": 52,
+    "us-hyperscaler-offshore": 227,
+    "commercial-host": 38,
+    "cdn-origin-unknown": 91,
+    "self-hosted": 91,
+    "us-hyperscaler-africa": 6
+   },
+   "institutions": 30,
+   "names": 713,
+   "m365": 24,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 19
+  },
+  "bank": {
+   "routable": 401,
+   "us_hyperscaler_share": 23.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 16.5,
+   "cdn_share": 40.4,
+   "national_or_self_share": 7.0,
+   "unattributed": 15,
+   "by_category": {
+    "unattributed": 15,
+    "cdn-origin-unknown": 162,
+    "us-hyperscaler-offshore": 95,
+    "commercial-host": 26,
+    "us-saas": 66,
+    "african-colo": 7,
+    "self-hosted": 28,
+    "unresolved": 1,
+    "telco-isp": 1
+   },
+   "institutions": 10,
+   "names": 229,
+   "m365": 6,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 7
+  }
+ },
+ "findings": []
+}
