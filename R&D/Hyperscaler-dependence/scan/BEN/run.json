@@ -1,0 +1,404 @@
+{
+ "iso3": "BEN",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 53,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assemblee-nationale.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 82,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgpr.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 111,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tresorbenin.bj": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "impots.finances.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "interieur.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bceao.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "biic-bank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "boabenin.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsiabanque.bj": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "benin.coris.bank": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "anip.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 32,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "apdp.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cena.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 32,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "instad.bj": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anps.social.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "andf.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gim-uemoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brvm.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amf-umoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sbee.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 81,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "portdecotonou.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "asin.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 47,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.bj": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 7 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "csirt.gouv.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arcep.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 39,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.bj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "328228": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+  "28683": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+  "37090": "ISOCEL SA - ISOCEL SA",
+  "212317": "HETZNER-CLOUD3-AS Hetzner Online GmbH",
+  "34788": "NMM-AS Neue Medien Muennich GmbH",
+  "328098": "JENY SAS - JENY SAS",
+  "37292": "Omnium des Telecom et de l'Internet (OTI Telecom) - Omnium des Telecom et de l'Internet (OTI Telecom)",
+  "203380": "DAInternationalGroup DA International Group Ltd.",
+  "8312": "ZYLON-AS Bas Smit trading as Zylon",
+  "12876": "AS12876 Scaleway SAS"
+ },
+ "rollup": {
+  "all": {
+   "routable": 944,
+   "us_hyperscaler_share": 10.1,
+   "african_region_share": 0.0,
+   "us_saas_share": 11.5,
+   "cdn_share": 10.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 459,
+   "by_category": {
+    "unattributed": 459,
+    "cdn-origin-unknown": 94,
+    "us-hyperscaler-offshore": 95,
+    "unresolved": 11,
+    "commercial-host": 176,
+    "us-saas": 109
+   },
+   "institutions": 34,
+   "names": 891,
+   "m365": 16,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 12
+  },
+  "government": {
+   "routable": 847,
+   "us_hyperscaler_share": 10.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 11.1,
+   "cdn_share": 5.7,
+   "national_or_self_share": 0.0,
+   "unattributed": 459,
+   "by_category": {
+    "unattributed": 459,
+    "cdn-origin-unknown": 48,
+    "us-hyperscaler-offshore": 86,
+    "unresolved": 11,
+    "commercial-host": 149,
+    "us-saas": 94
+   },
+   "institutions": 30,
+   "names": 857,
+   "m365": 15,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 11
+  },
+  "bank": {
+   "routable": 97,
+   "us_hyperscaler_share": 9.3,
+   "african_region_share": 0.0,
+   "us_saas_share": 15.5,
+   "cdn_share": 47.4,
+   "national_or_self_share": 0.0,
+   "unattributed": 0,
+   "by_category": {
+    "us-saas": 15,
+    "commercial-host": 27,
+    "us-hyperscaler-offshore": 9,
+    "cdn-origin-unknown": 46
+   },
+   "institutions": 4,
+   "names": 34,
+   "m365": 1,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 1
+  }
+ },
+ "findings": []
+}
