@@ -430,10 +430,16 @@ class Attributor:
     def _cached(self, sub: str, key: str, url: str):
         p = CACHE / sub / (re.sub(r"[^0-9A-Za-z.]", "_", key) + ".json")
         if fresh(p, CACHE_DAYS):
-            return json.loads(p.read_text(encoding="utf-8"))
+            try:
+                return json.loads(p.read_text(encoding="utf-8"))
+            except ValueError:  # half-written by a scan running beside this one; fetch it again
+                pass
         j = self._throttled_get(url)
         if j is not None:
-            p.write_text(json.dumps(j), encoding="utf-8")
+            # Atomic swap: up to three country scans share this cache (HYPERSCALER-DRAIN.md step 02).
+            tmp = p.with_suffix(f".{os.getpid()}.tmp")
+            tmp.write_text(json.dumps(j), encoding="utf-8")
+            tmp.replace(p)
         return j
 
     def rdap(self, ip: str) -> dict:
@@ -517,9 +523,13 @@ class Attributor:
     def save_new_asns(self) -> None:
         if not self.new_asns:
             return
+        # Re-read before appending: a scan running beside this one may have added the same ASN since start.
+        have = {r["asn"].strip() for r in read_csv(ASN_FILE)}
         with open(ASN_FILE, "a", encoding="utf-8", newline="") as f:
             w = csv.writer(f, lineterminator="\n")
             for asn, owner in sorted(self.new_asns.items(), key=lambda x: int(x[0])):
+                if asn in have:
+                    continue
                 w.writerow([asn, owner, "", f"added by scan {TODAY}; classify by hand"])
 
 
@@ -708,7 +718,8 @@ def main() -> int:
     prev = json.loads(run_p.read_text()) if run_p.exists() else {}
     runinfo = prev.get("domains", {}) if prev.get("scan_date") == TODAY else {}
 
-    live = [r for r in inst if r["status"].strip().lower() != "dead"]
+    # An `absent` row carries no domain: it records coverage, and there is nothing to scan.
+    live = [r for r in inst if r["domain"].strip() and r["status"].strip().lower() != "dead"]
     domains_all = [r["domain"].strip().lower() for r in live]
     if args.reattribute:
         by_dom = {r["domain"].strip().lower(): r for r in live}
