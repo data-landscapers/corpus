@@ -1,26 +1,26 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
 COM,Presidency,Présidence de l'Union des Comores (Beit-Salam),beit-salam.km,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,5,8,0.0,0.0,0.0,0.0,0.0,8,other:Groupe Barizco Inc.,,false,2026-09-29
-COM,Justice,Ministère de la Justice,justice.gouv.km,3,7,0.0,0.0,0.0,0.0,0.0,3,other:Comores Telecom,,false,2026-09-29
-COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,10,17,23.5,0.0,0.0,23.5,0.0,1,other:cloudflare,,false,2026-09-29
+COM,Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,5,8,0.0,0.0,0.0,0.0,0.0,0,other:PLANETHOSTER-8 - PlanetHoster,,false,2026-09-29
+COM,Justice,Ministère de la Justice,justice.gouv.km,3,7,0.0,0.0,0.0,0.0,0.0,0,other:Comores Telecom - Comores Telecom,,false,2026-09-29
+COM,Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,10,17,23.5,0.0,0.0,23.5,0.0,0,other:cloudflare,,false,2026-09-29
 COM,Revenue Service,Direction générale des Impôts,dgi.gouv.km,5,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-COM,Customs,Douanes comoriennes,douane.gov.km,29,19,0.0,0.0,0.0,0.0,0.0,19,other:Groupe Barizco Inc.,,false,2026-09-29
-COM,Central Bank,Banque Centrale des Comores,banque-comores.km,9,13,30.8,0.0,7.7,0.0,0.0,8,m365,,false,2026-09-29
-COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,11,23,17.4,0.0,21.7,0.0,0.0,3,google,,false,2026-09-29
+COM,Customs,Douanes comoriennes,douane.gov.km,29,19,0.0,0.0,0.0,0.0,0.0,0,other:PLANETHOSTER-8 - PlanetHoster,,false,2026-09-29
+COM,Central Bank,Banque Centrale des Comores,banque-comores.km,9,13,30.8,0.0,7.7,0.0,0.0,0,m365,,false,2026-09-29
+COM,Commercial Banks,Banque de Développement des Comores,bdevcom.net,11,23,17.4,0.0,21.7,0.0,0.0,0,google,,false,2026-09-29
 COM,Commercial Banks,AFG Bank Comores,afgbankcomores.com,2,9,0.0,0.0,22.2,0.0,0.0,0,other:Namecheap,,false,2026-09-29
-COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,13,31,19.4,0.0,54.8,0.0,0.0,7,m365,,false,2026-09-29
-COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,8,10,0.0,0.0,0.0,0.0,0.0,10,other:MNT-BYTEMARK,,false,2026-09-29
-COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,7,10,0.0,0.0,0.0,0.0,0.0,10,other:PLANETHOSTER-NOC,,false,2026-09-29
-COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,10,15,0.0,0.0,0.0,0.0,0.0,15,other:MNT-SRVC,,false,2026-09-29
-COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,4,4,0.0,0.0,0.0,0.0,0.0,3,other:Comores Telecom|OVH,,false,2026-09-29
+COM,Commercial Banks,Exim Bank Comores,eximbank-km.com,13,31,19.4,0.0,54.8,0.0,0.0,0,m365,,false,2026-09-29
+COM,Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,8,10,0.0,0.0,0.0,0.0,0.0,0,other:BYTEMARK-AS Iomart Managed Services Limited,,false,2026-09-29
+COM,Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,7,10,0.0,0.0,0.0,0.0,0.0,0,other:PLANETHOSTER-8 - PlanetHoster,,false,2026-09-29
+COM,Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,10,15,0.0,0.0,0.0,0.0,0.0,0,other:INHERENT ADISTA SAS,,false,2026-09-29
+COM,Electoral commission,Commission électorale nationale indépendante,cenicomores.km,4,4,0.0,0.0,0.0,0.0,0.0,0,other:Comores Telecom - Comores Telecom|OVH,,false,2026-09-29
 COM,Statistics office,INSEED,inseed-comores.org,3,11,0.0,0.0,0.0,81.8,0.0,0,other:cloudflare,,false,2026-09-29
-COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,10,13,0.0,0.0,0.0,0.0,0.0,13,other:Input Output Flood LLC,,false,2026-09-29
+COM,Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,10,13,0.0,0.0,0.0,0.0,0.0,0,other:IOFLOOD - Input Output Flood LLC,,false,2026-09-29
 COM,Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,6,17,23.5,0.0,0.0,23.5,0.0,0,other:cloudflare,,false,2026-09-29
 COM,Energy utility,Société nationale d'électricité des Comores (SONELEC),soneleccomores.com,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-COM,Ports authority,Société comorienne des ports,scp.km,10,13,0.0,0.0,0.0,0.0,0.0,13,other:Input Output Flood LLC,,false,2026-09-29
+COM,Ports authority,Société comorienne des ports,scp.km,10,13,0.0,0.0,0.0,0.0,0.0,0,other:IOFLOOD - Input Output Flood LLC,,false,2026-09-29
 COM,State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,15,17,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
 COM,E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,15,21,9.5,0.0,23.8,0.0,0.0,0,google,,false,2026-09-29
-COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,2,4,50.0,50.0,0.0,0.0,0.0,2,other:azure,,false,2026-09-29
+COM,E-government agency,Portail gouvernemental (parent zone),gouv.km,2,4,50.0,50.0,0.0,0.0,0.0,0,other:azure,,false,2026-09-29
 COM,Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,6,17,23.5,0.0,0.0,23.5,0.0,0,other:cloudflare,,false,2026-09-29
 COM,Communications regulator,ANRTIC,anrtic.km,18,27,0.0,0.0,48.1,14.8,0.0,0,google,,false,2026-09-29
-COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,11,13,0.0,0.0,0.0,0.0,0.0,13,other:Input Output Flood LLC,,false,2026-09-29
+COM,Audit office,Cour suprême (section des comptes),coursupremecomores.km,11,13,0.0,0.0,0.0,0.0,0.0,0,other:IOFLOOD - Input Output Flood LLC,,false,2026-09-29

@@ -238,13 +238,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "36939": "Comores Telecom - Comores Telecom",
-  "37084": "Simbanet (T) Limited - Simbanet (T) Limited",
-  "328061": "TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A)",
-  "35425": "BYTEMARK-AS Iomart Managed Services Limited",
-  "20860": "IOMART-AS IOMART CLOUD SERVICES LIMITED"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 319,
@@ -253,10 +247,10 @@
    "us_saas_share": 13.5,
    "cdn_share": 7.8,
    "national_or_self_share": 5.3,
-   "unattributed": 128,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 128,
-    "commercial-host": 75,
+    "commercial-host": 178,
+    "telco-isp": 25,
     "us-hyperscaler-offshore": 28,
     "cdn-origin-unknown": 25,
     "us-saas": 43,
@@ -278,10 +272,10 @@
    "us_saas_share": 8.6,
    "cdn_share": 11.3,
    "national_or_self_share": 7.7,
-   "unattributed": 83,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 83,
-    "commercial-host": 57,
+    "commercial-host": 125,
+    "telco-isp": 15,
     "us-hyperscaler-offshore": 18,
     "cdn-origin-unknown": 25,
     "us-saas": 19,
@@ -302,13 +296,13 @@
    "us_saas_share": 24.5,
    "cdn_share": 0.0,
    "national_or_self_share": 0.0,
-   "unattributed": 45,
+   "unattributed": 0,
    "by_category": {
     "us-hyperscaler-offshore": 10,
-    "commercial-host": 18,
+    "commercial-host": 53,
     "unresolved": 1,
     "us-saas": 24,
-    "unattributed": 45
+    "telco-isp": 10
    },
    "institutions": 6,
    "names": 51,
