@@ -1,0 +1,471 @@
+{
+ "iso3": "ETH",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "pmo.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "hopr.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mfa.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 91,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "federalpolice.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "moj.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fsc.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofed.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mor.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ecc.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "niss.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mop.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nbe.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "combanketh.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "awashbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 129,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dashenbanksc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankofabyssinia.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "coopbankoromia.com.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nibbanksc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "wegagenbanksc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "hibretbank.com.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oromiabank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zemenbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 49,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "id.et": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nebe.org.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "statsethiopia.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "ics.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moh.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 335,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mols.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ethswitch.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "esx.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ecma.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eih.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ppa.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eeu.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ethiotelecom.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 377,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mint.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "insa.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 122,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eca.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ofag.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "feacc.gov.et": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "24757": "Ethio Telecom - Ethio Telecom",
+  "33182": "DIMENOC - HostDime.com, Inc.",
+  "329227": "WebSprix IT Solution PLC - WebSprix IT Solution PLC",
+  "52148": "ENIXLTD Enix Ltd",
+  "34960": "Netcetera-AG-AS Netcetera AG",
+  "48254": "TWENTYI 20i Limited",
+  "25369": "BANDWIDTH-AS Hydra Communications Ltd"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1459,
+   "us_hyperscaler_share": 6.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 9.3,
+   "cdn_share": 1.1,
+   "national_or_self_share": 17.3,
+   "unattributed": 923,
+   "by_category": {
+    "unattributed": 923,
+    "us-saas": 135,
+    "us-hyperscaler-offshore": 87,
+    "unresolved": 10,
+    "cdn-origin-unknown": 16,
+    "self-hosted": 253,
+    "commercial-host": 31,
+    "chinese-cloud": 4
+   },
+   "institutions": 41,
+   "names": 1846,
+   "m365": 13,
+   "google": 5,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 11
+  },
+  "government": {
+   "routable": 1190,
+   "us_hyperscaler_share": 3.3,
+   "african_region_share": 0.0,
+   "us_saas_share": 9.6,
+   "cdn_share": 1.2,
+   "national_or_self_share": 21.0,
+   "unattributed": 748,
+   "by_category": {
+    "unattributed": 748,
+    "us-saas": 114,
+    "us-hyperscaler-offshore": 39,
+    "unresolved": 8,
+    "cdn-origin-unknown": 14,
+    "commercial-host": 13,
+    "self-hosted": 250,
+    "chinese-cloud": 4
+   },
+   "institutions": 31,
+   "names": 1437,
+   "m365": 11,
+   "google": 4,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 6
+  },
+  "bank": {
+   "routable": 269,
+   "us_hyperscaler_share": 17.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 7.8,
+   "cdn_share": 0.7,
+   "national_or_self_share": 1.1,
+   "unattributed": 175,
+   "by_category": {
+    "us-hyperscaler-offshore": 48,
+    "unattributed": 175,
+    "unresolved": 2,
+    "us-saas": 21,
+    "cdn-origin-unknown": 2,
+    "self-hosted": 3,
+    "commercial-host": 18
+   },
+   "institutions": 10,
+   "names": 409,
+   "m365": 2,
+   "google": 1,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 5
+  }
+ },
+ "findings": []
+}

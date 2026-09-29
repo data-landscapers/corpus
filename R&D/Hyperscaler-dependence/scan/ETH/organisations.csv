@@ -1,0 +1,42 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+ETH,Presidency,Office of the Prime Minister,pmo.gov.et,26,13,0.0,0.0,0.0,0.0,0.0,13,other:Ethio Telecom - Ethio Telecom,,false,2026-09-29
+ETH,Parliament,House of Peoples' Representatives,hopr.gov.et,13,13,0.0,0.0,0.0,0.0,0.0,13,other:Ethio Telecom,,false,2026-09-29
+ETH,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.et,93,9,0.0,0.0,11.1,0.0,0.0,8,m365,,false,2026-09-29
+ETH,Defence,Ministry of Defence,mod.gov.et,21,16,0.0,0.0,0.0,0.0,0.0,16,other:Ethio Telecom - Ethio Telecom,,false,2026-09-29
+ETH,Police,Federal Police Commission,federalpolice.gov.et,15,15,0.0,0.0,0.0,0.0,0.0,15,none,,false,2026-09-29
+ETH,Justice,Ministry of Justice,moj.gov.et,15,17,11.8,0.0,0.0,0.0,0.0,15,other:Ethio Telecom,,false,2026-09-29
+ETH,Justice,Federal Supreme Court,fsc.gov.et,14,12,0.0,0.0,0.0,0.0,0.0,12,other:Ethio Telecom,,false,2026-09-29
+ETH,Treasury / Finance,Ministry of Finance,mofed.gov.et,20,32,0.0,0.0,53.1,0.0,0.0,11,m365,,false,2026-09-29
+ETH,Revenue Service,Ministry of Revenues,mor.gov.et,23,23,0.0,0.0,0.0,0.0,0.0,23,google,,false,2026-09-29
+ETH,Customs,Ethiopian Customs Commission,ecc.gov.et,11,11,0.0,0.0,0.0,0.0,0.0,11,other:Ethio Telecom - Ethio Telecom,,false,2026-09-29
+ETH,Intelligence,National Intelligence and Security Service,niss.gov.et,21,22,0.0,0.0,0.0,0.0,0.0,22,other:Ethio Telecom - Ethio Telecom,,false,2026-09-29
+ETH,Interior / Home Affairs,Ministry of Peace,mop.gov.et,33,34,0.0,0.0,0.0,0.0,0.0,34,other:Ethio Telecom,,false,2026-09-29
+ETH,Central Bank,National Bank of Ethiopia,nbe.gov.et,34,31,0.0,0.0,0.0,0.0,0.0,31,google,,false,2026-09-29
+ETH,Commercial Banks,Commercial Bank of Ethiopia,combanketh.et,9,9,77.8,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+ETH,Commercial Banks,Awash Bank,awashbank.com,131,31,19.4,0.0,0.0,0.0,0.0,25,other:aws,sophos,false,2026-09-29
+ETH,Commercial Banks,Dashen Bank,dashenbanksc.com,34,34,0.0,0.0,5.9,0.0,0.0,31,m365,proofpoint,false,2026-09-29
+ETH,Commercial Banks,Bank of Abyssinia,bankofabyssinia.com,55,41,29.3,0.0,12.2,4.9,7.3,19,self,,true,2026-09-29
+ETH,Commercial Banks,Cooperative Bank of Oromia,coopbankoromia.com.et,17,11,18.2,0.0,45.5,0.0,0.0,4,google,,false,2026-09-29
+ETH,Commercial Banks,Nib International Bank,nibbanksc.com,31,29,0.0,0.0,0.0,0.0,0.0,29,"other:HostDime.com, Inc.",,false,2026-09-29
+ETH,Commercial Banks,Wegagen Bank,wegagenbanksc.com,15,15,0.0,0.0,0.0,0.0,0.0,15,"other:HostDime.com, Inc.",,false,2026-09-29
+ETH,Commercial Banks,Hibret Bank,hibretbank.com.et,25,13,0.0,0.0,0.0,0.0,0.0,13,other:Ethio Telecom - Ethio Telecom,,false,2026-09-29
+ETH,Commercial Banks,Bank of Oromia,oromiabank.com,36,52,40.4,0.0,17.3,0.0,0.0,22,m365,,false,2026-09-29
+ETH,Commercial Banks,Zemen Bank,zemenbank.com,56,34,0.0,0.0,0.0,0.0,0.0,15,other:Ethio Telecom - Ethio Telecom,broadcom-messagelabs,false,2026-09-29
+ETH,Civil registry / National ID authority,National ID Program (Fayda),id.et,8,14,0.0,0.0,35.7,0.0,0.0,9,google,,false,2026-09-29
+ETH,Electoral commission,National Election Board of Ethiopia,nebe.org.et,38,58,0.0,0.0,29.3,10.3,0.0,35,m365,,false,2026-09-29
+ETH,Statistics office,Ethiopian Statistics Service,statsethiopia.gov.et,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+ETH,Immigration / Passports,Immigration and Citizenship Service,ics.gov.et,24,7,0.0,0.0,0.0,0.0,0.0,7,other:Ethio Telecom,,false,2026-09-29
+ETH,Health ministry / National health insurance,Ministry of Health,moh.gov.et,337,205,0.0,0.0,4.4,0.0,0.0,195,m365,,false,2026-09-29
+ETH,Social protection / Social registry,Ministry of Labor and Skills,mols.gov.et,34,42,0.0,0.0,0.0,14.3,0.0,32,other:Ethio Telecom,,false,2026-09-29
+ETH,National payment switch,EthSwitch,ethswitch.com,10,22,0.0,0.0,0.0,0.0,0.0,19,other:Zoho,,false,2026-09-29
+ETH,Stock exchange,Ethiopian Securities Exchange,esx.et,18,30,13.3,0.0,43.3,0.0,0.0,13,m365,,false,2026-09-29
+ETH,Securities regulator,Ethiopian Capital Market Authority,ecma.gov.et,7,16,0.0,0.0,56.2,12.5,0.0,5,m365,,false,2026-09-29
+ETH,Sovereign wealth fund / National pension fund,Ethiopian Investment Holdings,eih.et,28,42,21.4,0.0,40.5,0.0,0.0,15,m365,,false,2026-09-29
+ETH,Public procurement authority,Public Procurement and Property Authority,ppa.gov.et,13,16,0.0,0.0,0.0,0.0,0.0,16,m365,,false,2026-09-29
+ETH,Energy utility,Ethiopian Electric Utility,eeu.gov.et,7,10,20.0,0.0,0.0,0.0,0.0,4,other:Ethio Telecom,,false,2026-09-29
+ETH,State-owned telco / National backbone operator,Ethio Telecom,ethiotelecom.et,384,267,4.5,0.0,0.0,0.0,93.6,0,self,,true,2026-09-29
+ETH,E-government agency,Ministry of Innovation and Technology,mint.gov.et,15,25,40.0,0.0,0.0,0.0,0.0,15,m365,,false,2026-09-29
+ETH,National data centre / Government cloud operator,Information Network Security Administration,insa.gov.et,129,112,0.0,0.0,0.0,0.0,0.0,109,google,,false,2026-09-29
+ETH,Communications regulator,Ethiopian Communications Authority,eca.et,26,41,0.0,0.0,41.5,0.0,0.0,24,m365,,false,2026-09-29
+ETH,Audit office,Office of the Federal Auditor General,ofag.gov.et,10,23,0.0,0.0,39.1,0.0,0.0,14,m365,,false,2026-09-29
+ETH,Anti-corruption commission,Federal Ethics and Anti-Corruption Commission,feacc.gov.et,8,12,0.0,0.0,0.0,0.0,0.0,12,other:Ethio Telecom,,false,2026-09-29
