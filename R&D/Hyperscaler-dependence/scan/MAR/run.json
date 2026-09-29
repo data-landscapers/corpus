@@ -1,0 +1,500 @@
+{
+ "iso3": "MAR",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "chefdugouvernement.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "chambredesrepresentants.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "chambredesconseillers.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "dgsn.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 52,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "csm.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mahakim.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "finances.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tax.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "douane.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gov.ma": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bkam.ma": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 16,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "attijariwafabank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "groupebcp.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankofafrica.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 41,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sgmaroc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 144,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "creditagricole.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bmci.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 57,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cihbank.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 58,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "creditdumaroc.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "albarid-bank.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "cfgbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cndp.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "elections.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "hcp.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 48,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ansa.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "ancfcc.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cmi.co.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "casablanca-bourse.com": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ammc.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cdg.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cimr.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "marchespublics.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "onee.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anp.org.ma": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "iam.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 52,
+   "dictionary_hits": 19,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "add.gov.ma": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 20,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgssi.gov.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anrt.ma": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inpplc.ma": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "328709": "Universite Mohammed VI POLYTECHNIQUE - UM6P - Universite Mohammed VI POLYTECHNIQUE - UM6P",
+  "13193": "ASN-NERIM Keyyo SA",
+  "327989": "Genious Communications - Genious Communications",
+  "25215": "BNP-Paribas BNP PARIBAS S.A.",
+  "39905": "ACTITO ACTITO S.A.",
+  "36941": "MTDS - MTDS",
+  "328055": "NPONE - NPONE",
+  "328066": "MEDAFRICA SYSTEMS - MEDAFRICA SYSTEMS",
+  "8220": "COLT COLT Technology Services Group Limited",
+  "49981": "WorldStream WorldStream B.V."
+ },
+ "rollup": {
+  "all": {
+   "routable": 1457,
+   "us_hyperscaler_share": 13.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 6.6,
+   "cdn_share": 27.8,
+   "national_or_self_share": 8.5,
+   "unattributed": 587,
+   "by_category": {
+    "us-saas": 96,
+    "cdn-origin-unknown": 405,
+    "us-hyperscaler-offshore": 196,
+    "unattributed": 587,
+    "self-hosted": 124,
+    "commercial-host": 18,
+    "unresolved": 6,
+    "telco-isp": 25
+   },
+   "institutions": 44,
+   "names": 1073,
+   "m365": 10,
+   "google": 2,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 19
+  },
+  "government": {
+   "routable": 985,
+   "us_hyperscaler_share": 13.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 9.3,
+   "cdn_share": 18.1,
+   "national_or_self_share": 12.6,
+   "unattributed": 420,
+   "by_category": {
+    "us-saas": 92,
+    "cdn-origin-unknown": 178,
+    "us-hyperscaler-offshore": 136,
+    "unattributed": 420,
+    "self-hosted": 124,
+    "telco-isp": 25,
+    "unresolved": 5,
+    "commercial-host": 5
+   },
+   "institutions": 34,
+   "names": 627,
+   "m365": 7,
+   "google": 2,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 12
+  },
+  "bank": {
+   "routable": 472,
+   "us_hyperscaler_share": 12.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 0.8,
+   "cdn_share": 48.1,
+   "national_or_self_share": 0.0,
+   "unattributed": 167,
+   "by_category": {
+    "us-hyperscaler-offshore": 60,
+    "cdn-origin-unknown": 227,
+    "unattributed": 167,
+    "us-saas": 4,
+    "commercial-host": 13,
+    "unresolved": 1
+   },
+   "institutions": 10,
+   "names": 446,
+   "m365": 3,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 7
+  }
+ },
+ "findings": []
+}

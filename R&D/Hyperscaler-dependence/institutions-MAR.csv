@@ -1,51 +1,51 @@
 type,institution,domain,email_domain,status,note
-Presidency,Chef du Gouvernement,chefdugouvernement.gov.ma,,unconfirmed 2026-09-29,Executive head; the King's Cabinet Royal has no seeded domain; homepage did not load: ConnectionError
-Parliament,Chambre des Représentants,chambredesrepresentants.ma,,confirmed 2026-09-29,
-Parliament,Chambre des Conseillers,chambredesconseillers.ma,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères,diplomatie.ma,,confirmed 2026-09-29,
+Presidency,Chef du Gouvernement,chefdugouvernement.gov.ma,,dead,Executive head; the King's Cabinet Royal has no seeded domain; homepage did not load: ConnectionError
+Parliament,Chambre des Représentants,chambredesrepresentants.ma,chambredesrepresentants.ma,scanned 2026-09-29,
+Parliament,Chambre des Conseillers,chambredesconseillers.ma,chambredesconseillers.ma,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.ma,,scanned 2026-09-29,
 Defence,Administration de la Défense Nationale,,,absent,no confident official domain found
 Armed Forces,Forces Armées Royales,,,absent,no confident official domain found; see Defence
-Police,Direction Générale de la Sûreté Nationale,dgsn.gov.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Justice,Ministère de la Justice,justice.gov.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Justice,Conseil supérieur du pouvoir judiciaire,csm.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Justice,Portail des tribunaux (Mahakim),mahakim.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Treasury / Finance,Ministère de l'Économie et des Finances,finances.gov.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Revenue Service,Direction Générale des Impôts,tax.gov.ma,,confirmed 2026-09-29,
-Customs,Administration des Douanes et Impôts Indirects,douane.gov.ma,,confirmed 2026-09-29,
+Police,Direction Générale de la Sûreté Nationale,dgsn.gov.ma,dgsn.gov.ma,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Justice,Ministère de la Justice,justice.gov.ma,justice.gov.ma,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Justice,Conseil supérieur du pouvoir judiciaire,csm.ma,csm.ma,scanned 2026-09-29,homepage did not load: ConnectionError
+Justice,Portail des tribunaux (Mahakim),mahakim.ma,,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Treasury / Finance,Ministère de l'Économie et des Finances,finances.gov.ma,finances.gov.ma,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Revenue Service,Direction Générale des Impôts,tax.gov.ma,tax.gov.ma,scanned 2026-09-29,
+Customs,Administration des Douanes et Impôts Indirects,douane.gov.ma,douane.gov.ma,scanned 2026-09-29,
 Intelligence,DGED / DGST,,,absent,no public domain
-Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Central Bank,Bank Al-Maghrib,bkam.ma,,confirmed 2026-09-29,
-Commercial Banks,Attijariwafa Bank,attijariwafabank.com,,confirmed 2026-09-29,Source: Statista Leading banks in Morocco by total assets and Tier 1 capital 2023 (statista.com/statistics/1262823)
-Commercial Banks,Banque Centrale Populaire,groupebcp.com,,confirmed 2026-09-29,
-Commercial Banks,Bank of Africa,bankofafrica.ma,,confirmed 2026-09-29,
-Commercial Banks,Société Générale Maroc,sgmaroc.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Crédit Agricole du Maroc,creditagricole.ma,,confirmed 2026-09-29,
-Commercial Banks,BMCI,bmci.ma,,confirmed 2026-09-29,
-Commercial Banks,CIH Bank,cihbank.ma,,confirmed 2026-09-29,
-Commercial Banks,Crédit du Maroc,creditdumaroc.ma,,confirmed 2026-09-29,
-Commercial Banks,Al Barid Bank,albarid-bank.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,CFG Bank,cfgbank.com,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.ma,interieur.gov.ma,scanned 2026-09-29,homepage did not load: ConnectionError
+Central Bank,Bank Al-Maghrib,bkam.ma,bkam.ma,scanned 2026-09-29,
+Commercial Banks,Attijariwafa Bank,attijariwafabank.com,attijariwafabank.com,scanned 2026-09-29,Source: Statista Leading banks in Morocco by total assets and Tier 1 capital 2023 (statista.com/statistics/1262823)
+Commercial Banks,Banque Centrale Populaire,groupebcp.com,groupebcp.com,scanned 2026-09-29,
+Commercial Banks,Bank of Africa,bankofafrica.ma,bankofafrica.ma,scanned 2026-09-29,
+Commercial Banks,Société Générale Maroc,sgmaroc.com,,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Crédit Agricole du Maroc,creditagricole.ma,creditagricole.ma,scanned 2026-09-29,
+Commercial Banks,BMCI,bmci.ma,bmci.ma,scanned 2026-09-29,
+Commercial Banks,CIH Bank,cihbank.ma,cihbank.ma,scanned 2026-09-29,
+Commercial Banks,Crédit du Maroc,creditdumaroc.ma,creditdumaroc.ma,scanned 2026-09-29,
+Commercial Banks,Al Barid Bank,albarid-bank.ma,,dead,homepage did not load: ConnectionError
+Commercial Banks,CFG Bank,cfgbank.com,cfgbank.com,scanned 2026-09-29,
 Civil registry / National ID authority,DGSN (CNIE),,,absent,shares dgsn.gov.ma with Police
-Data protection authority,Commission Nationale de contrôle de la protection des Données à caractère Personnel,cndp.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Electoral commission,Élections Maroc (Ministère de l'Intérieur),elections.ma,,confirmed 2026-09-29,
-Statistics office,Haut-Commissariat au Plan,hcp.ma,,confirmed 2026-09-29,
+Data protection authority,Commission Nationale de contrôle de la protection des Données à caractère Personnel,cndp.ma,cndp.ma,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Electoral commission,Élections Maroc (Ministère de l'Intérieur),elections.ma,,scanned 2026-09-29,
+Statistics office,Haut-Commissariat au Plan,hcp.ma,hcp.ma,scanned 2026-09-29,
 Immigration / Passports,DGSN Immigration,,,absent,shares dgsn.gov.ma / interieur.gov.ma
-Health ministry / National health insurance,Ministère de la Santé et de la Protection sociale,sante.gov.ma,,confirmed 2026-09-29,
-Health ministry / National health insurance,Caisse Nationale de Sécurité Sociale,cnss.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Social protection / Social registry,Agence Nationale des Aides Sociales,ansa.gov.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Land registry,Agence Nationale de la Conservation Foncière,ancfcc.gov.ma,,confirmed 2026-09-29,
-National payment switch,Centre Monétique Interbancaire,cmi.co.ma,,confirmed 2026-09-29,
-Stock exchange,Bourse de Casablanca,casablanca-bourse.com,,confirmed 2026-09-29,
-Securities regulator,Autorité Marocaine du Marché des Capitaux,ammc.ma,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Caisse de Dépôt et de Gestion,cdg.ma,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Caisse Interprofessionnelle Marocaine de Retraites,cimr.ma,,confirmed 2026-09-29,
-Public procurement authority,Portail des marchés publics,marchespublics.gov.ma,,confirmed 2026-09-29,
-Energy utility,Office National de l'Électricité et de l'Eau Potable,onee.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Ports authority,Agence Nationale des Ports,anp.org.ma,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Maroc Telecom,iam.ma,,confirmed 2026-09-29,
-E-government agency,Agence de Développement du Digital,add.gov.ma,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Health ministry / National health insurance,Ministère de la Santé et de la Protection sociale,sante.gov.ma,sante.gov.ma,scanned 2026-09-29,
+Health ministry / National health insurance,Caisse Nationale de Sécurité Sociale,cnss.ma,cnss.ma,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Social protection / Social registry,Agence Nationale des Aides Sociales,ansa.gov.ma,,dead,homepage did not load: ConnectionError
+Land registry,Agence Nationale de la Conservation Foncière,ancfcc.gov.ma,ancfcc.gov.ma,scanned 2026-09-29,
+National payment switch,Centre Monétique Interbancaire,cmi.co.ma,cmi.co.ma,scanned 2026-09-29,
+Stock exchange,Bourse de Casablanca,casablanca-bourse.com,casablanca-bourse.com,scanned 2026-09-29,
+Securities regulator,Autorité Marocaine du Marché des Capitaux,ammc.ma,ammc.ma,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Caisse de Dépôt et de Gestion,cdg.ma,cdg.ma,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Caisse Interprofessionnelle Marocaine de Retraites,cimr.ma,cimr.ma,scanned 2026-09-29,
+Public procurement authority,Portail des marchés publics,marchespublics.gov.ma,marchespublics.gov.ma,scanned 2026-09-29,
+Energy utility,Office National de l'Électricité et de l'Eau Potable,onee.ma,onee.ma,scanned 2026-09-29,homepage did not load: ConnectionError
+Ports authority,Agence Nationale des Ports,anp.org.ma,anp.org.ma,scanned 2026-09-29,
+State-owned telco / National backbone operator,Maroc Telecom,iam.ma,iam.ma,scanned 2026-09-29,
+E-government agency,Agence de Développement du Digital,add.gov.ma,add.gov.ma,scanned 2026-09-29,homepage did not load: ConnectTimeout
 National data centre / Government cloud operator,,,,absent,no government cloud operator domain identified
-Cybersecurity agency / National CERT,Direction Générale de la Sécurité des Systèmes d'Information,dgssi.gov.ma,,confirmed 2026-09-29,
-Communications regulator,Agence Nationale de Réglementation des Télécommunications,anrt.ma,,confirmed 2026-09-29,
-Audit office,Cour des Comptes,courdescomptes.ma,,confirmed 2026-09-29,
-Anti-corruption commission,Instance Nationale de la Probité de la Prévention et de la Lutte contre la Corruption,inpplc.ma,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Direction Générale de la Sécurité des Systèmes d'Information,dgssi.gov.ma,dgssi.gov.ma,scanned 2026-09-29,
+Communications regulator,Agence Nationale de Réglementation des Télécommunications,anrt.ma,anrt.ma,scanned 2026-09-29,
+Audit office,Cour des Comptes,courdescomptes.ma,courdescomptes.ma,scanned 2026-09-29,
+Anti-corruption commission,Instance Nationale de la Probité de la Prévention et de la Lutte contre la Corruption,inpplc.ma,inpplc.ma,scanned 2026-09-29,
