@@ -1,0 +1,43 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de l'Union des Comores (Beit-Salam),beit-salam.km,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Parliament,Assemblée de l'Union des Comores,,,absent,assemblee-comores.com (cited by IPU) now serves a parked page; no working site found
+Foreign Affairs,Ministère des Relations extérieures et de la Coopération,,,absent,shares gouv.km
+Defence,Ministère de la Défense,,,absent,shares gouv.km
+Armed Forces,Armée nationale de développement,,,absent,shares gouv.km with Defence
+Police,Direction générale de la Police et de la Sûreté nationale,dgpsn.km,,confirmed 2026-09-29,
+Justice,Ministère de la Justice,justice.gouv.km,,confirmed 2026-09-29,
+Treasury / Finance,Ministère des Finances du Budget et du Secteur bancaire,finances.gouv.km,,confirmed 2026-09-29,
+Revenue Service,Direction générale des Impôts,dgi.gouv.km,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Customs,Douanes comoriennes,douane.gov.km,,confirmed 2026-09-29,
+Intelligence,,,,absent,no public site
+Interior / Home Affairs,Ministère de l'Intérieur,,,absent,shares gouv.km
+Central Bank,Banque Centrale des Comores,banque-comores.km,,confirmed 2026-09-29,
+Commercial Banks,Banque de Développement des Comores,bdevcom.net,,confirmed 2026-09-29,Source: BCC 'Etablissements de crédit' page (banque-comores.km/page/show/etablissements-de-credit; NotreAfrik 2026 confirms 4 banks); no assets ranking published; sector has only 4 banks plus MECK and postal bank; BDC listed first
+Commercial Banks,AFG Bank Comores,afgbankcomores.com,,confirmed 2026-09-29,
+Commercial Banks,Exim Bank Comores,eximbank-km.com,,confirmed 2026-09-29,
+Commercial Banks,Banque Fédérale de Commerce,bfcbanque.com,,confirmed 2026-09-29,
+Commercial Banks,Union des Meck (Meck-Moroni),meck-moroni.org,,confirmed 2026-09-29,decentralised financial institution; largest microfinance network
+Commercial Banks,Société nationale des postes et services financiers (Banque Postale),snpsf.com,,confirmed 2026-09-29,postal bank
+Civil registry / National ID authority,,,,absent,shares gouv.km
+Data protection authority,,,,absent,no authority with own site; ANADEN authorises processing
+Electoral commission,Commission électorale nationale indépendante,cenicomores.km,,unconfirmed 2026-09-29,domain cited by IPU Parline; homepage did not load: ConnectionError
+Statistics office,INSEED,inseed-comores.org,,confirmed 2026-09-29,
+Immigration / Passports,,,,absent,shares gouv.km with Interior
+Health ministry / National health insurance,Ministère de la Santé,,,absent,shares gouv.km
+Social protection / Social registry,,,,absent,shares gouv.km with Health
+Land registry,,,,absent,shares gouv.km
+National payment switch,,,,absent,no national switch found
+Stock exchange,,,,absent,none in Comoros
+Securities regulator,,,,absent,none; banking regulator is BCC
+Sovereign wealth fund / National pension fund,Caisse nationale de retraites,caissederetraites.km,,confirmed 2026-09-29,domain cited on ANADEN site
+Public procurement authority,Autorité de régulation des marchés publics,armpcomores.km,,confirmed 2026-09-29,
+Energy utility,Société nationale d'électricité des Comores (SONELEC),soneleccomores.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Ports authority,Société comorienne des ports,scp.km,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Comores Telecom,comorestelecom.km,,confirmed 2026-09-29,
+E-government agency,Agence nationale de développement du numérique (ANADEN),anaden.org,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,Portail gouvernemental (parent zone),gouv.km,,confirmed 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,,,,absent,Data Center de l'Administration Publique run by ANADEN with Comores Câble; no own domain found
+Cybersecurity agency / National CERT,Direction nationale de cybersécurité (ANADEN),ancs.gouv.km,,confirmed 2026-09-29,
+Communications regulator,ANRTIC,anrtic.km,,confirmed 2026-09-29,
+Audit office,Cour suprême (section des comptes),coursupremecomores.km,,confirmed 2026-09-29,
+Anti-corruption commission,,,,absent,no public site found
