@@ -1,38 +1,38 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-MDG,Presidency,Présidence de la République de Madagascar,presidence.gov.mg,8,32,37.5,0.0,53.1,0.0,0.0,3,m365,,false,2026-09-29
-MDG,Parliament,Parlement de Madagascar,parlement.mg,14,15,0.0,0.0,0.0,0.0,0.0,7,other:UKSERVERS-MNT,,false,2026-09-29
-MDG,Parliament,Assemblée nationale,assemblee-nationale.mg,3,12,0.0,0.0,0.0,83.3,0.0,2,other:Telecom Malagasy,,false,2026-09-29
-MDG,Parliament,Sénat,senat.mg,6,11,18.2,0.0,0.0,0.0,0.0,9,other:RACKSRV-MNT,,false,2026-09-29
-MDG,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.mg,27,26,0.0,0.0,0.0,0.0,0.0,26,other:MNDPT,,false,2026-09-29
-MDG,Defence,Ministère des Forces armées,foloalindahy.mg,6,11,0.0,0.0,0.0,0.0,0.0,11,other:Telecom Malagasy,,false,2026-09-29
-MDG,Police,Police nationale (Ministère de la Sécurité publique),pn.gov.mg,18,19,10.5,0.0,0.0,0.0,0.0,17,other:MNDPT,,false,2026-09-29
-MDG,Justice,Ministère de la Justice,justice.mg,18,25,0.0,0.0,0.0,0.0,0.0,25,other:Telecom Malagasy,,false,2026-09-29
-MDG,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.mg,16,13,15.4,0.0,0.0,0.0,0.0,11,google,,false,2026-09-29
-MDG,Revenue Service,Direction générale des impôts,impots.mg,15,19,0.0,0.0,0.0,0.0,0.0,19,other:Telecom Malagasy,,false,2026-09-29
-MDG,Customs,Direction générale des douanes,douanes.gov.mg,7,10,30.0,10.0,0.0,0.0,0.0,7,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
-MDG,Interior / Home Affairs,Ministère de l'Intérieur et de la Décentralisation,mid.gov.mg,12,14,14.3,0.0,0.0,0.0,0.0,12,other:Telecom Malagasy,,false,2026-09-29
-MDG,Central Bank,Banky Foiben'i Madagasikara,banky-foibe.mg,6,11,0.0,0.0,0.0,0.0,0.0,11,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
-MDG,Commercial Banks,BNI Madagascar,bni.mg,16,30,0.0,0.0,0.0,33.3,0.0,17,m365,,false,2026-09-29
-MDG,Commercial Banks,Bank of Africa Madagascar,boamadagascar.com,2,4,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-MDG,Commercial Banks,BRED Madagasikara Banque Populaire,bred.mg,12,30,0.0,0.0,56.7,6.7,20.0,5,m365,,false,2026-09-29
-MDG,Commercial Banks,Banque Malgache de l'Océan Indien (BMOI),bmoi.mg,16,31,32.3,6.5,29.0,0.0,0.0,9,m365,,false,2026-09-29
+MDG,Presidency,Présidence de la République de Madagascar,presidence.gov.mg,8,32,37.5,0.0,53.1,0.0,0.0,0,m365,,false,2026-09-29
+MDG,Parliament,Parlement de Madagascar,parlement.mg,14,15,0.0,0.0,0.0,0.0,0.0,0,other:UKSERVERS-AS UK Dedicated Servers Limited,,false,2026-09-29
+MDG,Parliament,Assemblée nationale,assemblee-nationale.mg,3,12,0.0,0.0,0.0,83.3,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Parliament,Sénat,senat.mg,6,11,18.2,0.0,0.0,0.0,0.0,0,other:ENIXLTD Enix Ltd,,false,2026-09-29
+MDG,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.mg,27,26,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Defence,Ministère des Forces armées,foloalindahy.mg,6,11,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Police,Police nationale (Ministère de la Sécurité publique),pn.gov.mg,18,19,10.5,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Justice,Ministère de la Justice,justice.mg,18,25,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.mg,16,13,15.4,0.0,0.0,0.0,0.0,0,google,,false,2026-09-29
+MDG,Revenue Service,Direction générale des impôts,impots.mg,15,19,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Customs,Direction générale des douanes,douanes.gov.mg,7,10,30.0,10.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Interior / Home Affairs,Ministère de l'Intérieur et de la Décentralisation,mid.gov.mg,12,14,14.3,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Central Bank,Banky Foiben'i Madagasikara,banky-foibe.mg,6,11,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Commercial Banks,BNI Madagascar,bni.mg,16,30,0.0,0.0,0.0,33.3,0.0,0,m365,,false,2026-09-29
+MDG,Commercial Banks,Bank of Africa Madagascar,boamadagascar.com,2,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+MDG,Commercial Banks,BRED Madagasikara Banque Populaire,bred.mg,12,30,0.0,0.0,56.7,6.7,20.0,0,m365,,false,2026-09-29
+MDG,Commercial Banks,Banque Malgache de l'Océan Indien (BMOI),bmoi.mg,16,31,32.3,6.5,29.0,0.0,0.0,0,m365,,false,2026-09-29
 MDG,Commercial Banks,MCB Madagascar,mcb.mg,6,20,10.0,0.0,65.0,10.0,0.0,0,m365,,false,2026-09-29
-MDG,Commercial Banks,AccèsBanque Madagascar,accesbanque.mg,50,36,30.6,0.0,2.8,0.0,0.0,22,m365,,false,2026-09-29
+MDG,Commercial Banks,AccèsBanque Madagascar,accesbanque.mg,50,36,30.6,0.0,2.8,0.0,0.0,0,m365,,false,2026-09-29
 MDG,Commercial Banks,BGFIBank Madagascar,madagascar.bgfi.com,2,4,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
-MDG,Commercial Banks,SIPEM Banque,sipembanque.mg,16,39,23.1,0.0,33.3,0.0,0.0,16,m365,,false,2026-09-29
-MDG,Electoral commission,Commission électorale nationale indépendante (CENI),ceni-madagascar.mg,8,10,0.0,0.0,0.0,0.0,0.0,10,google,,false,2026-09-29
-MDG,Statistics office,Institut national de la statistique (INSTAT),instat.mg,41,80,1.2,1.2,0.0,87.5,0.0,9,other:Telecom Malagasy,,false,2026-09-29
-MDG,Health ministry / National health insurance,Ministère de la Santé publique,msanp.gov.mg,9,11,18.2,0.0,0.0,0.0,0.0,9,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Commercial Banks,SIPEM Banque,sipembanque.mg,16,39,23.1,0.0,33.3,0.0,0.0,0,m365,,false,2026-09-29
+MDG,Electoral commission,Commission électorale nationale indépendante (CENI),ceni-madagascar.mg,8,10,0.0,0.0,0.0,0.0,0.0,0,google,,false,2026-09-29
+MDG,Statistics office,Institut national de la statistique (INSTAT),instat.mg,41,80,1.2,1.2,0.0,87.5,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Health ministry / National health insurance,Ministère de la Santé publique,msanp.gov.mg,9,11,18.2,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
 MDG,Social protection / Social registry,Ministère de la Population et des Solidarités,population.gov.mg,38,37,5.4,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
-MDG,Land registry,Ministère de l'Aménagement du Territoire et des Services fonciers,matsf.gov.mg,6,8,25.0,0.0,0.0,0.0,0.0,6,other:Telecom Malagasy,,false,2026-09-29
-MDG,Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale (CNaPS),cnaps.mg,11,13,0.0,0.0,0.0,0.0,0.0,13,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
-MDG,Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp.mg,9,11,0.0,0.0,0.0,0.0,0.0,11,other:Telecom Malagasy,,false,2026-09-29
-MDG,Energy utility,JIRAMA,jirama.mg,13,15,0.0,0.0,0.0,0.0,0.0,15,other:Telecom Malagasy,,false,2026-09-29
+MDG,Land registry,Ministère de l'Aménagement du Territoire et des Services fonciers,matsf.gov.mg,6,8,25.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale (CNaPS),cnaps.mg,11,13,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp.mg,9,11,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
+MDG,Energy utility,JIRAMA,jirama.mg,13,15,0.0,0.0,0.0,0.0,0.0,0,other:Telecom Malagasy - Telecom Malagasy,,false,2026-09-29
 MDG,Ports authority,Société du port à gestion autonome de Toamasina (SPAT),toamasina-port.com,2,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-MDG,State-owned telco / National backbone operator,Telma (Yas Madagascar),telma.mg,38,39,25.6,0.0,2.6,5.1,0.0,26,m365,,false,2026-09-29
-MDG,E-government agency,Unité de gouvernance digitale (UGD),digital.gov.mg,209,207,29.0,15.5,0.0,0.0,0.0,140,google,,false,2026-09-29
+MDG,State-owned telco / National backbone operator,Telma (Yas Madagascar),telma.mg,38,39,25.6,0.0,2.6,5.1,0.0,0,m365,,false,2026-09-29
+MDG,E-government agency,Unité de gouvernance digitale (UGD),digital.gov.mg,209,207,29.0,15.5,0.0,0.0,0.0,0,google,,false,2026-09-29
 MDG,E-government agency,Gouvernement malagasy (zone parente),gov.mg,3,2,100.0,0.0,0.0,0.0,0.0,0,other:mail.gov.mg,,false,2026-09-29
-MDG,Cybersecurity agency / National CERT,CIRT Madagascar,cirt.gov.mg,4,11,72.7,0.0,0.0,0.0,0.0,3,other:aws,,false,2026-09-29
-MDG,Communications regulator,Autorité de régulation des technologies de communication (ARTEC),artec.mg,5,5,0.0,0.0,0.0,0.0,0.0,5,other:Orange Madagascar - Orange Madagascar,,false,2026-09-29
-MDG,Audit office,Cour des comptes,ccomptes.mg,8,31,29.0,0.0,41.9,0.0,0.0,7,m365,,false,2026-09-29
+MDG,Cybersecurity agency / National CERT,CIRT Madagascar,cirt.gov.mg,4,11,72.7,0.0,0.0,0.0,0.0,0,other:aws,,false,2026-09-29
+MDG,Communications regulator,Autorité de régulation des technologies de communication (ARTEC),artec.mg,5,5,0.0,0.0,0.0,0.0,0.0,0,other:Orange Madagascar - Orange Madagascar,,false,2026-09-29
+MDG,Audit office,Cour des comptes,ccomptes.mg,8,31,29.0,0.0,41.9,0.0,0.0,0,m365,,false,2026-09-29
 MDG,Anti-corruption commission,Bureau indépendant anti-corruption (BIANCO),bianco-mg.org,11,16,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29

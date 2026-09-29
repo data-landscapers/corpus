@@ -346,14 +346,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "37037": "Orange Madagascar - Orange Madagascar",
-  "20756": "NAMESHIELD NAMESHIELD SAS",
-  "209510": "NAMESHIELDGRP NAMESHIELD SAS",
-  "328411": "Gulfsat Madagascar - Gulfsat Madagascar",
-  "37303": "Airtel Madagascar - Airtel Madagascar",
-  "15022": "Adept Internet (Pty) Ltd CT - Adept Internet (Pty) Ltd CT"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 914,
@@ -362,12 +355,12 @@
    "us_saas_share": 9.2,
    "cdn_share": 10.9,
    "national_or_self_share": 0.7,
-   "unattributed": 485,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 84,
     "us-hyperscaler-offshore": 115,
-    "unattributed": 485,
-    "commercial-host": 88,
+    "telco-isp": 450,
+    "commercial-host": 123,
     "cdn-origin-unknown": 100,
     "us-hyperscaler-africa": 36,
     "self-hosted": 6
@@ -386,12 +379,12 @@
    "us_saas_share": 4.3,
    "cdn_share": 11.4,
    "national_or_self_share": 0.0,
-   "unattributed": 414,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 31,
     "us-hyperscaler-offshore": 85,
-    "unattributed": 414,
-    "commercial-host": 74,
+    "telco-isp": 390,
+    "commercial-host": 98,
     "cdn-origin-unknown": 82,
     "us-hyperscaler-africa": 34
    },
@@ -409,11 +402,11 @@
    "us_saas_share": 27.3,
    "cdn_share": 9.3,
    "national_or_self_share": 3.1,
-   "unattributed": 71,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 71,
+    "telco-isp": 60,
     "cdn-origin-unknown": 18,
-    "commercial-host": 14,
+    "commercial-host": 25,
     "us-saas": 53,
     "self-hosted": 6,
     "us-hyperscaler-africa": 2,
