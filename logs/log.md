@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-29 21:49 · **NOTES** · 10m · Note 72 closed: WARDIP SOP1 change-log entry added under 29 September. OSINT's uncommitted share work committed first. Share pushed.
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 STP: institutions 20 · US 20% · shield 2% · rank 15/54 · dangling 0
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNB: institutions 20 · US 16% · shield 5% · rank 24/54 · dangling 0
