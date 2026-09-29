@@ -1,0 +1,47 @@
+type,institution,domain,email_domain,status,note
+Presidency,Office of the Prime Minister,pmo.gov.et,,unconfirmed 2026-09-29,executive head of government; the presidency is ceremonial with no domain found; homepage did not load: ConnectionError
+Parliament,House of Peoples' Representatives,hopr.gov.et,,confirmed 2026-09-29,
+Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.et,,confirmed 2026-09-29,
+Defence,Ministry of Defence,mod.gov.et,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Armed Forces,Ethiopian National Defence Force,,,absent,shares mod.gov.et with Defence
+Police,Federal Police Commission,federalpolice.gov.et,,confirmed 2026-09-29,
+Justice,Ministry of Justice,moj.gov.et,,confirmed 2026-09-29,
+Justice,Federal Supreme Court,fsc.gov.et,,confirmed 2026-09-29,
+Treasury / Finance,Ministry of Finance,mofed.gov.et,,confirmed 2026-09-29,
+Revenue Service,Ministry of Revenues,mor.gov.et,,confirmed 2026-09-29,
+Customs,Ethiopian Customs Commission,ecc.gov.et,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Intelligence,National Intelligence and Security Service,niss.gov.et,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministry of Peace,mop.gov.et,,confirmed 2026-09-29,
+Central Bank,National Bank of Ethiopia,nbe.gov.et,,confirmed 2026-09-29,
+Commercial Banks,Commercial Bank of Ethiopia,combanketh.et,,confirmed 2026-09-29,Ranking source: The Banker / Africa Top 100 Banks 2025 (reported by 2merkato.com 'Ethiopian Banks Climb in Africa's 2025 Top 100 Rankings'); order approximate by assets; Ethiopia has no foreign-subsidiary banks
+Commercial Banks,Awash Bank,awashbank.com,,confirmed 2026-09-29,
+Commercial Banks,Dashen Bank,dashenbanksc.com,,confirmed 2026-09-29,
+Commercial Banks,Bank of Abyssinia,bankofabyssinia.com,,confirmed 2026-09-29,
+Commercial Banks,Cooperative Bank of Oromia,coopbankoromia.com.et,,confirmed 2026-09-29,
+Commercial Banks,Nib International Bank,nibbanksc.com,,confirmed 2026-09-29,
+Commercial Banks,Wegagen Bank,wegagenbanksc.com,,confirmed 2026-09-29,
+Commercial Banks,Hibret Bank,hibretbank.com.et,,confirmed 2026-09-29,
+Commercial Banks,Bank of Oromia,oromiabank.com,,confirmed 2026-09-29,
+Commercial Banks,Zemen Bank,zemenbank.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,National ID Program (Fayda),id.et,,confirmed 2026-09-29,
+Data protection authority,Ethiopian Communications Authority,,,absent,no dedicated data protection authority in Ethiopia (Proclamation 1321/2024 placed it with the Ethiopian Communications Authority; see Communications regulator)
+Electoral commission,National Election Board of Ethiopia,nebe.org.et,,confirmed 2026-09-29,
+Statistics office,Ethiopian Statistics Service,statsethiopia.gov.et,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Immigration / Passports,Immigration and Citizenship Service,ics.gov.et,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,moh.gov.et,,confirmed 2026-09-29,
+Social protection / Social registry,Ministry of Labor and Skills,mols.gov.et,,confirmed 2026-09-29,
+Land registry,Ministry of Urban and Infrastructure,,,absent,no separate land registry domain found
+National payment switch,EthSwitch,ethswitch.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Stock exchange,Ethiopian Securities Exchange,esx.et,,confirmed 2026-09-29,
+Securities regulator,Ethiopian Capital Market Authority,ecma.gov.et,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Ethiopian Investment Holdings,eih.et,,confirmed 2026-09-29,
+Public procurement authority,Public Procurement and Property Authority,ppa.gov.et,,confirmed 2026-09-29,
+Energy utility,Ethiopian Electric Utility,eeu.gov.et,,confirmed 2026-09-29,
+Ports authority,Ethiopian Maritime Authority,,,absent,no ports authority domain found
+State-owned telco / National backbone operator,Ethio Telecom,ethiotelecom.et,,confirmed 2026-09-29,
+E-government agency,Ministry of Innovation and Technology,mint.gov.et,,confirmed 2026-09-29,
+National data centre / Government cloud operator,Information Network Security Administration,insa.gov.et,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Information Network Security Administration (CERT),,,absent,shares insa.gov.et with National data centre
+Communications regulator,Ethiopian Communications Authority,eca.et,,confirmed 2026-09-29,
+Audit office,Office of the Federal Auditor General,ofag.gov.et,,confirmed 2026-09-29,
+Anti-corruption commission,Federal Ethics and Anti-Corruption Commission,feacc.gov.et,,confirmed 2026-09-29,
