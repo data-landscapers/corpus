@@ -1,0 +1,464 @@
+{
+ "iso3": "EGY",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidency.eg": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.gov.eg": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mfa.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 16,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moj.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mof.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eta.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "customs.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moi.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cbe.org.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nbe.com.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 62,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "banquemisr.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 95,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cibeg.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 186,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "aaib.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "qnbegypt.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bdc.com.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 50,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "abe.com.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "hsbc.com.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 51,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "adib.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 23,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "scbank.com.eg": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pdpc.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "elections.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "capmas.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mohp.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 36,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "uhia.gov.eg": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moss.gov.eg": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ebc.com.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "egx.com.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fra.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nosi.gov.eg": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "etenders.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eehc.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "apa.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "te.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 71,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "egypt.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "egcert.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tra.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "asa.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "aca.gov.eg": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "8452": "TE-AS - IDDQD-AS",
+  "24863": "Link Egypt (Link.NET) - Link Egypt (Link.NET)",
+  "25576": "AFMIC - AFMIC",
+  "6127": "IDSC - IDSC",
+  "328654": "Fixed Solutions - Fixed Solutions",
+  "31065": "Ministry of Communications and Information Technology - Ministry of Communications and Information Technology",
+  "37193": "e-finance - e-finance",
+  "24835": "Vodafone Data - Vodafone Data",
+  "328587": "Ministry of Communications and Information Technology - Ministry of Communications and Information Technology",
+  "25364": "Egypt Cyber Center aka ECC Solutions - Egypt Cyber Center aka ECC Solutions",
+  "328553": "Bank Misr S.A.E - Bank Misr S.A.E",
+  "328430": "Fawry for Banking and Electronic Payment Technology Services (S.A.E) - Fawry for Banking and Electronic Payment Technology Services (S.A.E)",
+  "30995": "Vodafone Data - Vodafone Data",
+  "15804": "",
+  "36992": "ETISALAT MISR - ETISALAT MISR",
+  "328405": "Link Datacenter For Data Circulation - Link Datacenter For Data Circulation",
+  "33905": "AKAMAI-AMS Akamai International B.V.",
+  "17477": "MCT-SYDNEY - Macquarie Technology Operations Pty Limited",
+  "20928": "The Noor Group - The Noor Group"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1051,
+   "us_hyperscaler_share": 5.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 4.4,
+   "cdn_share": 14.2,
+   "national_or_self_share": 3.1,
+   "unattributed": 743,
+   "by_category": {
+    "us-saas": 46,
+    "cdn-origin-unknown": 149,
+    "unattributed": 743,
+    "commercial-host": 20,
+    "us-hyperscaler-offshore": 58,
+    "self-hosted": 33,
+    "unresolved": 1,
+    "chinese-cloud": 1
+   },
+   "institutions": 39,
+   "names": 1132,
+   "m365": 6,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 13
+  },
+  "government": {
+   "routable": 590,
+   "us_hyperscaler_share": 6.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 7.5,
+   "cdn_share": 13.2,
+   "national_or_self_share": 4.1,
+   "unattributed": 390,
+   "by_category": {
+    "us-saas": 44,
+    "cdn-origin-unknown": 78,
+    "unattributed": 390,
+    "commercial-host": 12,
+    "us-hyperscaler-offshore": 40,
+    "self-hosted": 24,
+    "unresolved": 1,
+    "chinese-cloud": 1
+   },
+   "institutions": 29,
+   "names": 520,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 8
+  },
+  "bank": {
+   "routable": 461,
+   "us_hyperscaler_share": 3.9,
+   "african_region_share": 0.0,
+   "us_saas_share": 0.4,
+   "cdn_share": 15.4,
+   "national_or_self_share": 2.0,
+   "unattributed": 353,
+   "by_category": {
+    "unattributed": 353,
+    "us-hyperscaler-offshore": 18,
+    "cdn-origin-unknown": 71,
+    "us-saas": 2,
+    "commercial-host": 8,
+    "self-hosted": 9
+   },
+   "institutions": 10,
+   "names": 612,
+   "m365": 2,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 5
+  }
+ },
+ "findings": []
+}
