@@ -1,45 +1,42 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-MAR,Presidency,Chef du Gouvernement,chefdugouvernement.gov.ma,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-MAR,Parliament,Chambre des Représentants,chambredesrepresentants.ma,7,32,28.1,0.0,25.0,43.8,0.0,1,other:MEDITELECOM - MEDITELECOM,,false,2026-09-29
-MAR,Parliament,Chambre des Conseillers,chambredesconseillers.ma,20,54,0.0,0.0,24.1,63.0,0.0,7,google,,false,2026-09-29
-MAR,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.ma,17,16,0.0,0.0,0.0,0.0,0.0,16,none,,false,2026-09-29
-MAR,Police,Direction Générale de la Sûreté Nationale,dgsn.gov.ma,14,18,0.0,0.0,0.0,0.0,0.0,18,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
-MAR,Justice,Ministère de la Justice,justice.gov.ma,56,54,3.7,0.0,0.0,0.0,0.0,52,m365,,false,2026-09-29
-MAR,Justice,Conseil supérieur du pouvoir judiciaire,csm.ma,6,10,0.0,0.0,0.0,0.0,0.0,10,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
-MAR,Justice,Portail des tribunaux (Mahakim),mahakim.ma,2,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
+MAR,Parliament,Chambre des Représentants,chambredesrepresentants.ma,7,32,28.1,0.0,25.0,43.8,0.0,0,other:MEDITELECOM - MEDITELECOM,,false,2026-09-29
+MAR,Parliament,Chambre des Conseillers,chambredesconseillers.ma,20,54,0.0,0.0,24.1,63.0,0.0,0,google,,false,2026-09-29
+MAR,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.ma,17,16,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+MAR,Police,Direction Générale de la Sûreté Nationale,dgsn.gov.ma,14,18,0.0,0.0,0.0,0.0,5.6,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Justice,Ministère de la Justice,justice.gov.ma,56,54,3.7,0.0,0.0,0.0,0.0,0,m365,,false,2026-09-29
+MAR,Justice,Conseil supérieur du pouvoir judiciaire,csm.ma,6,10,0.0,0.0,0.0,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Justice,Portail des tribunaux (Mahakim),mahakim.ma,2,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 MAR,Treasury / Finance,Ministère de l'Économie et des Finances,finances.gov.ma,12,16,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-MAR,Revenue Service,Direction Générale des Impôts,tax.gov.ma,16,14,0.0,0.0,0.0,0.0,50.0,7,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,,false,2026-09-29
-MAR,Customs,Administration des Douanes et Impôts Indirects,douane.gov.ma,28,33,0.0,0.0,0.0,0.0,51.5,16,self,,false,2026-09-29
-MAR,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.ma,6,9,0.0,0.0,0.0,0.0,0.0,9,other:Wana Corporate - Wana Corporate,,false,2026-09-29
-MAR,Central Bank,Bank Al-Maghrib,bkam.ma,19,44,52.3,0.0,2.3,0.0,0.0,20,m365,trend-micro,false,2026-09-29
-MAR,Commercial Banks,Attijariwafa Bank,attijariwafabank.com,30,50,6.0,0.0,0.0,92.0,0.0,1,other:phoenix.bcm.co.ma,,false,2026-09-29
-MAR,Commercial Banks,Banque Centrale Populaire,groupebcp.com,12,43,20.9,0.0,0.0,51.2,0.0,12,m365,,false,2026-09-29
-MAR,Commercial Banks,Bank of Africa,bankofafrica.ma,49,51,41.2,0.0,7.8,0.0,0.0,25,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
-MAR,Commercial Banks,Société Générale Maroc,sgmaroc.com,144,69,11.6,0.0,0.0,85.5,0.0,2,none,,false,2026-09-29
-MAR,Commercial Banks,Crédit Agricole du Maroc,creditagricole.ma,27,32,37.5,0.0,0.0,0.0,0.0,20,m365,,false,2026-09-29
-MAR,Commercial Banks,BMCI,bmci.ma,59,98,0.0,0.0,0.0,73.5,0.0,21,other:AS1849-MNT,,false,2026-09-29
-MAR,Commercial Banks,CIH Bank,cihbank.ma,66,74,4.1,0.0,0.0,12.2,0.0,60,other:MEDITELECOM - MEDITELECOM|Wana Corporate - Wana Corporate,,false,2026-09-29
-MAR,Commercial Banks,Crédit du Maroc,creditdumaroc.ma,18,18,0.0,0.0,0.0,0.0,0.0,16,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
-MAR,Commercial Banks,Al Barid Bank,albarid-bank.ma,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-MAR,Commercial Banks,CFG Bank,cfgbank.com,39,37,10.8,0.0,0.0,51.4,0.0,10,m365,trend-micro,false,2026-09-29
-MAR,Data protection authority,Commission Nationale de contrôle de la protection des Données à caractère Personnel,cndp.ma,38,34,0.0,0.0,47.1,5.9,0.0,16,other:NPONE - NPONE,,false,2026-09-29
+MAR,Revenue Service,Direction Générale des Impôts,tax.gov.ma,16,14,0.0,0.0,0.0,0.0,57.1,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Customs,Administration des Douanes et Impôts Indirects,douane.gov.ma,28,33,0.0,0.0,0.0,0.0,54.5,0,self,,false,2026-09-29
+MAR,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.ma,6,9,0.0,0.0,0.0,0.0,0.0,0,other:Wana Corporate - Wana Corporate,,false,2026-09-29
+MAR,Central Bank,Bank Al-Maghrib,bkam.ma,19,44,52.3,0.0,2.3,0.0,0.0,0,m365,trend-micro,false,2026-09-29
+MAR,Commercial Banks,Attijariwafa Bank,attijariwafabank.com,30,50,6.0,0.0,0.0,92.0,0.0,0,other:phoenix.bcm.co.ma,,false,2026-09-29
+MAR,Commercial Banks,Banque Centrale Populaire,groupebcp.com,12,43,20.9,0.0,0.0,51.2,0.0,0,m365,,false,2026-09-29
+MAR,Commercial Banks,Bank of Africa,bankofafrica.ma,49,51,41.2,0.0,7.8,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Commercial Banks,Société Générale Maroc,sgmaroc.com,144,69,11.6,0.0,0.0,85.5,0.0,0,none,,false,2026-09-29
+MAR,Commercial Banks,Crédit Agricole du Maroc,creditagricole.ma,27,32,37.5,0.0,0.0,0.0,0.0,0,m365,,false,2026-09-29
+MAR,Commercial Banks,BMCI,bmci.ma,59,98,0.0,0.0,0.0,78.6,0.0,0,other:BNP-Paribas BNP PARIBAS S.A.,,false,2026-09-29
+MAR,Commercial Banks,CIH Bank,cihbank.ma,66,74,4.1,0.0,0.0,12.2,0.0,0,other:MEDITELECOM - MEDITELECOM|Wana Corporate - Wana Corporate,,false,2026-09-29
+MAR,Commercial Banks,Crédit du Maroc,creditdumaroc.ma,18,18,0.0,0.0,0.0,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Commercial Banks,CFG Bank,cfgbank.com,39,37,10.8,0.0,0.0,51.4,0.0,0,m365,trend-micro,false,2026-09-29
+MAR,Data protection authority,Commission Nationale de contrôle de la protection des Données à caractère Personnel,cndp.ma,38,34,0.0,0.0,47.1,5.9,11.8,0,other:NPONE - NPONE,,false,2026-09-29
 MAR,Electoral commission,Élections Maroc (Ministère de l'Intérieur),elections.ma,2,10,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
-MAR,Statistics office,Haut-Commissariat au Plan,hcp.ma,54,71,5.6,0.0,26.8,5.6,0.0,18,google,,false,2026-09-29
-MAR,Health ministry / National health insurance,Ministère de la Santé et de la Protection sociale,sante.gov.ma,17,26,50.0,0.0,3.8,0.0,0.0,12,m365,,false,2026-09-29
-MAR,Health ministry / National health insurance,Caisse Nationale de Sécurité Sociale,cnss.ma,24,47,21.3,0.0,17.0,0.0,0.0,29,m365,trend-micro,false,2026-09-29
-MAR,Social protection / Social registry,Agence Nationale des Aides Sociales,ansa.gov.ma,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-MAR,Land registry,Agence Nationale de la Conservation Foncière,ancfcc.gov.ma,13,28,39.3,0.0,0.0,0.0,0.0,17,other:Wana Corporate|Wana Corporate - Wana Corporate,,false,2026-09-29
-MAR,National payment switch,Centre Monétique Interbancaire,cmi.co.ma,19,48,56.2,0.0,0.0,0.0,0.0,21,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,,false,2026-09-29
-MAR,Stock exchange,Bourse de Casablanca,casablanca-bourse.com,9,28,0.0,0.0,60.7,0.0,0.0,11,m365,,false,2026-09-29
-MAR,Securities regulator,Autorité Marocaine du Marché des Capitaux,ammc.ma,18,28,32.1,0.0,0.0,0.0,0.0,19,other:MEDITELECOM - MEDITELECOM|Office National des Postes et Telecommunications ONPT ,,false,2026-09-29
-MAR,Sovereign wealth fund / National pension fund,Caisse de Dépôt et de Gestion,cdg.ma,14,23,47.8,0.0,0.0,0.0,0.0,12,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,,false,2026-09-29
-MAR,Sovereign wealth fund / National pension fund,Caisse Interprofessionnelle Marocaine de Retraites,cimr.ma,21,25,0.0,0.0,36.0,0.0,0.0,15,m365,,false,2026-09-29
-MAR,Public procurement authority,Portail des marchés publics,marchespublics.gov.ma,5,10,0.0,0.0,0.0,0.0,0.0,10,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,,false,2026-09-29
-MAR,Energy utility,Office National de l'Électricité et de l'Eau Potable,onee.ma,14,18,0.0,0.0,0.0,0.0,0.0,18,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|Wana,,false,2026-09-29
-MAR,Ports authority,Agence Nationale des Ports,anp.org.ma,9,12,33.3,0.0,0.0,16.7,0.0,6,m365,,false,2026-09-29
-MAR,State-owned telco / National backbone operator,Maroc Telecom,iam.ma,72,87,14.9,0.0,0.0,20.7,57.5,1,self,,true,2026-09-29
-MAR,E-government agency,Agence de Développement du Digital,add.gov.ma,23,32,0.0,0.0,0.0,0.0,0.0,30,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|Wana,,false,2026-09-29
+MAR,Statistics office,Haut-Commissariat au Plan,hcp.ma,54,71,5.6,0.0,26.8,5.6,1.4,0,google,,true,2026-09-29
+MAR,Health ministry / National health insurance,Ministère de la Santé et de la Protection sociale,sante.gov.ma,17,26,50.0,0.0,3.8,0.0,0.0,0,m365,,false,2026-09-29
+MAR,Health ministry / National health insurance,Caisse Nationale de Sécurité Sociale,cnss.ma,24,47,21.3,0.0,17.0,0.0,0.0,0,m365,trend-micro,false,2026-09-29
+MAR,Land registry,Agence Nationale de la Conservation Foncière,ancfcc.gov.ma,13,28,39.3,0.0,0.0,0.0,0.0,0,other:Wana Corporate - Wana Corporate,,false,2026-09-29
+MAR,National payment switch,Centre Monétique Interbancaire,cmi.co.ma,19,48,56.2,0.0,0.0,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Stock exchange,Bourse de Casablanca,casablanca-bourse.com,9,28,0.0,0.0,60.7,0.0,0.0,0,m365,,false,2026-09-29
+MAR,Securities regulator,Autorité Marocaine du Marché des Capitaux,ammc.ma,18,28,32.1,0.0,0.0,0.0,0.0,0,other:MEDITELECOM - MEDITELECOM|Office National des Postes et Telecommunications ONPT ,,false,2026-09-29
+MAR,Sovereign wealth fund / National pension fund,Caisse de Dépôt et de Gestion,cdg.ma,14,23,47.8,0.0,0.0,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Sovereign wealth fund / National pension fund,Caisse Interprofessionnelle Marocaine de Retraites,cimr.ma,21,25,0.0,0.0,36.0,0.0,0.0,0,m365,,false,2026-09-29
+MAR,Public procurement authority,Portail des marchés publics,marchespublics.gov.ma,5,10,0.0,0.0,0.0,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Energy utility,Office National de l'Électricité et de l'Eau Potable,onee.ma,14,18,0.0,0.0,0.0,0.0,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Ports authority,Agence Nationale des Ports,anp.org.ma,9,12,33.3,0.0,0.0,16.7,0.0,0,m365,,false,2026-09-29
+MAR,State-owned telco / National backbone operator,Maroc Telecom,iam.ma,72,87,14.9,0.0,0.0,20.7,57.5,0,self,,true,2026-09-29
+MAR,E-government agency,Agence de Développement du Digital,add.gov.ma,23,32,0.0,0.0,0.0,0.0,12.5,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
 MAR,Cybersecurity agency / National CERT,Direction Générale de la Sécurité des Systèmes d'Information,dgssi.gov.ma,11,16,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
 MAR,Communications regulator,Agence Nationale de Réglementation des Télécommunications,anrt.ma,15,18,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-MAR,Audit office,Cour des Comptes,courdescomptes.ma,12,28,0.0,0.0,0.0,71.4,0.0,8,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,,false,2026-09-29
-MAR,Anti-corruption commission,Instance Nationale de la Probité de la Prévention et de la Lutte contre la Corruption,inpplc.ma,30,90,0.0,0.0,0.0,82.2,0.0,15,other:nl-spamexperts-1-mnt,,false,2026-09-29
+MAR,Audit office,Cour des Comptes,courdescomptes.ma,12,28,0.0,0.0,0.0,71.4,0.0,0,other:Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Of,,false,2026-09-29
+MAR,Anti-corruption commission,Instance Nationale de la Probité de la Prévention et de la Lutte contre la Corruption,inpplc.ma,30,90,0.0,0.0,4.4,82.2,0.0,0,"other:I-3 - N-able Technologies, Inc.",,false,2026-09-29
