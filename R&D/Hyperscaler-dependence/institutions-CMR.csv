@@ -1,0 +1,49 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de la République,prc.cm,,confirmed 2026-09-29,
+Parliament,Assemblée nationale,assnat.cm,,confirmed 2026-09-29,
+Parliament,Sénat,senat.cm,,confirmed 2026-09-29,
+Foreign Affairs,Ministère des Relations extérieures,diplocam.cm,,confirmed 2026-09-29,
+Defence,Ministère de la Défense,mindef.gov.cm,,confirmed 2026-09-29,
+Armed Forces,Forces armées,,,absent,shares Defence domain
+Police,Délégation générale à la Sûreté nationale,dgsn.cm,,confirmed 2026-09-29,
+Justice,Ministère de la Justice,minjustice.cm,,confirmed 2026-09-29,
+Treasury / Finance,Ministère des Finances,minfi.gov.cm,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Treasury / Finance,Direction générale du Trésor et de la Coopération financière et monétaire,dgtcfm.cm,,confirmed 2026-09-29,
+Revenue Service,Direction générale des impôts,impots.cm,,confirmed 2026-09-29,
+Customs,Direction générale des douanes,douanes.cm,,confirmed 2026-09-29,
+Intelligence,Direction générale de la recherche extérieure,,,absent,no official website found
+Interior / Home Affairs,Ministère de l'Administration territoriale,minat.gov.cm,,confirmed 2026-09-29,
+Central Bank,Banque des États de l'Afrique centrale,beac.int,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Commercial Banks,Afriland First Bank,afrilandfirstbank.com,,confirmed 2026-09-29,top by deposits H1 2024 (no assets ranking found): Business in Cameroon 'Cameroon's Banks Collect CFA7.92 Trillion in Deposits in H1 2024' (businessincameroon.com 2024); Ecobank UBA Citibank left out: no domain of their own beyond group sites
+Commercial Banks,Société Générale Cameroun,societegenerale.cm,,confirmed 2026-09-29,
+Commercial Banks,AFG Bank Cameroun (formerly Banque Atlantique Cameroun),afgbank.cm,,confirmed 2026-09-29,
+Commercial Banks,Société Commerciale de Banque Cameroun,scbcameroun.cm,,confirmed 2026-09-29,
+Commercial Banks,CCA Bank,ccabank.com,,confirmed 2026-09-29,
+Commercial Banks,BICEC,bicec.com,,confirmed 2026-09-29,
+Commercial Banks,Commercial Bank Cameroun,commercialbank-cm.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,Bureau national de l'état civil,bunec.org,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Civil registry / National ID authority,Bureau national de l'état civil,bunec.cm,,confirmed 2026-09-29,
+Data protection authority,Autorité de protection des données personnelles,,,absent,no authority with a website found
+Electoral commission,Elections Cameroon,elecam.cm,,confirmed 2026-09-29,
+Statistics office,Institut national de la statistique,ins-cameroun.cm,,confirmed 2026-09-29,
+Immigration / Passports,Immigration / Passeports,,,absent,under DGSN (dgsn.cm)
+Health ministry / National health insurance,Ministère de la Santé publique,minsante.cm,,confirmed 2026-09-29,
+Social protection / Social registry,Ministère des Affaires sociales,,,absent,domain not found (guess did not load)
+Land registry,Ministère des Domaines du Cadastre et des Affaires foncières,mindcaf.gov.cm,,confirmed 2026-09-29,
+National payment switch,GIMAC,gimac-afr.com,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Stock exchange,Bourse des valeurs mobilières de l'Afrique centrale,bvm-ac.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Securities regulator,COSUMAF,cosumaf.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale,cnps.cm,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Public procurement authority,Agence de régulation des marchés publics,armp.cm,,confirmed 2026-09-29,
+Public procurement authority,COLEPS e-procurement,marchespublics.cm,,unconfirmed 2026-09-29,homepage did not load: ssl: SSLError
+Public procurement authority,COLEPS e-procurement (alternate),publiccontracts.cm,,unconfirmed 2026-09-29,homepage did not load: ssl: SSLError
+Energy utility,Eneo Cameroun,eneo.cm,,confirmed 2026-09-29,
+Ports authority,Port autonome de Douala,pad.cm,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Cameroon Telecommunications,camtel.cm,,confirmed 2026-09-29,
+E-government agency,Agence nationale des technologies de l'information et de la communication,antic.cm,,confirmed 2026-09-29,
+E-government agency,Government of Cameroon,gov.cm,,confirmed 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,Centre de données national,,,absent,run by ANTIC/CAMTEL; no separate domain
+Cybersecurity agency / National CERT,ANTIC / CIRT,,,absent,shares antic.cm with E-government agency
+Communications regulator,Agence de régulation des télécommunications,art.cm,,confirmed 2026-09-29,
+Audit office,Contrôle supérieur de l'État,,,absent,domain not found (guess did not load)
+Anti-corruption commission,Commission nationale anti-corruption,conac.cm,,confirmed 2026-09-29,
