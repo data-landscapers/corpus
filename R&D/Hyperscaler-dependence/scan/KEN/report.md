@@ -1,129 +1,135 @@
 ---
 title: Kenya — who hosts the state's front door
-date: 2026-09-28
+date: 2026-09-29
 author: Bill Anderson
 source: R&D/Hyperscaler-dependence/scan/KEN/ (nodes.csv, organisations.csv, run.json)
-doc: https://claude.ai/code/artifact/06b0b8c6-1ebf-4a3c-9620-ace419b400c2
+scan_date: 2026-09-29
 ---
 
 # Kenya: who hosts the state's front door
 
-28 September 2026 · Bill Anderson
+29 September 2026 · Bill Anderson · scan of 29 September 2026
 
-About one tenth (11%) of the public-facing systems of 50 Kenyan state bodies, banks and utilities run on Amazon, Microsoft, Google or Oracle. That is well under South Africa's 28%. Almost half (48%) sit behind Cloudflare and similar shields, so we can't see who hosts them. About one eighth (13%) run on the government's own data centres or the institutions' own systems.
+The scan covered 51 state bodies, banks and state-owned companies in Kenya. 11% of their working server addresses are on US cloud: Amazon, Microsoft, Google or Oracle. 49% are behind shields such as Cloudflare, which hide the host. 13% are on government data centres or the institutions' own systems.
 
-The scan covered the main ministries and agencies, the ten largest banks, the payment switch, the stock exchange and the big state-owned companies, Safaricom included. It found 3,645 web and mail names, pointing to 4,747 working server addresses. 29 of the 50 use US cloud for at least part of their public estate. 26 use Microsoft for email, and 5 use Google.
+The scan found 3,654 web and mail names and 4,780 working addresses. 30 of the 51 institutions use US cloud for at least part of their estate. 27 use Microsoft for email and 5 use Google.
+
+Of the 54 countries scanned so far, Kenya has the 31st highest US cloud share (median 13%) and the 3rd highest share behind shields (median 12%).
 
 ## Where it lives
 
-![US cloud holds 11% of the estate; half is hidden behind shields](report-chart.png)
+![US cloud: 11% of working addresses; behind shields: 49%](report-chart.png)
 
-Where Kenya does use US cloud, it mostly uses Europe. About half of the 521 US-cloud addresses are in Microsoft's Dublin and Amsterdam data centres or Amazon's in Ireland. A quarter are Amazon's and Microsoft's worldwide delivery networks, and under a fifth are in South Africa. The US itself hosts almost none.
+522 addresses are on US cloud. Where they are: 51% in Europe, 25% on worldwide delivery networks (no fixed location), 18% in Africa, 2% in a region the providers do not publish, 2% in North America and 2% in Asia or the Middle East.
 
-The shield half is the part we cannot see into. Cloudflare fronts most of it and Imperva most of the rest. The servers behind them could be anywhere, including on US cloud, so the 11% is a floor, not a ceiling.
+2,333 addresses are behind shields: Cloudflare (81%), Imperva (15%) and Radware (2%). The host behind a shield cannot be seen, so the US cloud share is a minimum.
 
 ## Banks against government
 
-Kenya's banks lean on US cloud more than twice as much as its government does. The government leans instead on telecoms companies and its own data centres.
-
-| Share of working addresses | Government (40 bodies) | Banks (10) |
+| Share of working addresses | Government (41) | Banks (10) |
 | --- | --- | --- |
 | On US cloud | 8% | 20% |
-| …of which hosted in South Africa | 2% | 1% |
-| US online services (Microsoft 365 and others) | 7% | 12% |
-| Hidden behind a shield | 45% | 55% |
-| Government data centres | 9% | — |
+| …of which in Africa | 2% | 1% |
+| US online services (Microsoft 365 and others) | 6% | 12% |
+| Behind a shield | 46% | 55% |
+| Government data centres | 9% | 0% |
 | Run by the institution itself | 8% | 5% |
-| Run by telecoms companies | 20% | 4% |
+| Telecoms companies | 20% | 4% |
+| African data centres and IT firms | 2% | 2% |
+| Other foreign hosting firms | 2% | 2% |
 
-"Government" here includes the Central Bank, the payment switch, the stock exchange and the state-owned companies (Kenya Power, KenGen, the ports, Telkom Kenya and Safaricom). Eight of the ten banks use US cloud somewhere; so do 21 of the 40 government bodies.
+8 of 10 banks and 22 of 41 government bodies use US cloud somewhere. "Government" includes the central bank, the payment switch, the stock exchange and the state-owned companies.
 
 ## Email
 
-Microsoft carries the email of 26 of the 50 institutions. But the heart of government runs its mail through its own national data centre at Konza.
+27 of the 51 institutions use Microsoft 365 for email and 5 use Google.
 
-- **Microsoft 365:** 26, including Parliament, the Judiciary, the Central Bank, the electoral commission and eight of the ten banks.
-- **The government's own data centre (Konza):** 9. They are the Office of the President, the Treasury, Foreign Affairs, Interior, Immigration, Health, Lands, Social Protection and the ICT Authority.
-- **Google:** 5. They are eCitizen, the ICT ministry, the statistics bureau, the tenders portal and PesaLink.
-- **Local providers or their own servers:** 4. Defence uses Telkom Kenya, the anti-corruption commission uses Safaricom and the revenue authority runs its own. The NSSF uses Host Africa, a South African host.
-- **Amazon:** the National Police Service.
-- **Behind a mail filter, provider unseen:** Safaricom.
-- **No mail on the domain scanned:** 4. They are the Attorney General, the intelligence service, Absa Kenya and Stanbic Kenya, which probably use other domains.
+- **Microsoft 365:** 27. Parliament of Kenya, Judiciary of Kenya, Central Bank of Kenya, KCB Group, Equity Bank, Co-operative Bank of Kenya, NCBA Group, I&M Bank, Diamond Trust Bank, Family Bank, Prime Bank, State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau), Office of the Data Protection Commissioner, Independent Electoral and Boundaries Commission (IEBC), Social Health Authority, Nairobi Securities Exchange, Capital Markets Authority, Retirement Benefits Authority, Public Procurement Regulatory Authority, Kenya Power, KenGen, Kenya Ports Authority, Telkom Kenya, Konza Technopolis, National KE-CIRT/CC, Communications Authority of Kenya and Office of the Auditor-General.
+- **Google:** 5. Kenya National Bureau of Statistics, Integrated Payment Services (PesaLink), Government tenders portal, eCitizen and Ministry of Information, Communications and the Digital Economy.
+- **Government data centre (Konza Technopolis):** 9. Executive Office of the President, Ministry of Foreign and Diaspora Affairs, The National Treasury, Ministry of Interior and National Administration, Department of Immigration Services, Ministry of Health, State Department for Social Protection, Ministry of Lands (Ardhisasa) and ICT Authority.
+- **Own mail servers:** 1. Kenya Revenue Authority.
+- **Telecoms companies:** 2. Ministry of Defence and Kenya Defence Forces (Telkom Kenya) and Ethics and Anti-Corruption Commission (Safaricom).
+- **African hosts (Host Africa):** 1. National Social Security Fund.
+- **US cloud:** 1. National Police Service.
+- **Behind a mail filter, provider not visible:** 1. Safaricom.
+- **No mail on the domain scanned:** 4. Office of the Attorney General, National Intelligence Service, Absa Bank Kenya and Stanbic Bank Kenya.
 
 ## Institution by institution
 
-Prime Bank, the Auditor-General and NCBA lean hardest on US cloud. Konza, Stanbic, DTB, Family Bank and Safaricom hide most of their estate behind a shield. Each figure is a share of that institution's working addresses. Whatever a row does not add up to sits with telecoms companies, African data centres, US online services or foreign hosts.
+Each figure is a share of that institution's working addresses. The rest are with telecoms companies, African data centres, US online services or foreign hosts. Rows follow the order of institution types.
 
-| Institution | Sector | On US cloud | …of which in SA | Behind a shield | Own or government | Email |
+| Institution | Type | On US cloud | …in Africa | Behind a shield | Own or government | Email |
 | --- | --- | --- | --- | --- | --- | --- |
-| Prime Bank | Bank | 53% | 0% | 8% | 7% | Microsoft |
-| Office of the Auditor-General | Government | 52% | 0% | 0% | 0% | Microsoft |
-| NCBA Group | Bank | 48% | 3% | 16% | 14% | Microsoft |
-| Equity Bank | Bank | 44% | 0% | 10% | 19% | Microsoft |
-| Absa Bank Kenya | Bank | 37% | 18% | 33% | 13% | — |
-| Procurement regulator (PPRA) | Government | 32% | 0% | 0% | 0% | Microsoft |
-| Social Health Authority | Government | 31% | 27% | 29% | 0% | Microsoft |
-| National KE-CIRT/CC | Government | 26% | 0% | 0% | 0% | Microsoft |
-| Communications Authority | Government | 25% | 0% | 6% | 0% | Microsoft |
-| Co-operative Bank of Kenya | Bank | 22% | 0% | 4% | 15% | Microsoft |
-| Nairobi Securities Exchange | Government | 22% | 3% | 0% | 0% | Microsoft |
-| Kenya Ports Authority | Government | 19% | 0% | 4% | 26% | Microsoft |
-| Electoral commission (IEBC) | Government | 18% | 0% | 0% | 0% | Microsoft |
-| Capital Markets Authority | Government | 15% | 0% | 0% | 0% | Microsoft |
-| KenGen | Government | 14% | 0% | 24% | 1% | Microsoft |
-| Diamond Trust Bank | Bank | 14% | 0% | 74% | 6% | Microsoft |
-| KCB Group | Bank | 13% | 0% | 64% | 0% | Microsoft |
-| Stanbic Bank Kenya | Bank | 11% | 0% | 86% | 0% | — |
-| Kenya Power | Government | 10% | 0% | 10% | 14% | Microsoft |
-| Retirement Benefits Authority | Government | 9% | 0% | 11% | 0% | Microsoft |
-| Ministry of Health | Government | 9% | 7% | 0% | 43% | Konza (government) |
-| Safaricom | Government | 8% | 0% | 70% | 18% | Filtered (Cisco) |
-| Ministry of Interior | Government | 8% | 0% | 0% | 58% | Konza (government) |
-| National Police Service | Government | 8% | 0% | 0% | 31% | Amazon |
-| ICT Authority | Government | 4% | 1% | 1% | 71% | Konza (government) |
-| Kenya Revenue Authority | Government | 3% | 0% | 3% | 66% | Own servers |
-| Parliament of Kenya | Government | 3% | 0% | 80% | 0% | Microsoft |
-| Telkom Kenya | Government | 3% | 0% | 0% | 74% | Microsoft |
-| eCitizen | Government | 1% | 0% | 52% | 0% | Google |
-| Office of the President | Government | 0% | 0% | 21% | 32% | Konza (government) |
-| Foreign Affairs | Government | 0% | 0% | 0% | 62% | Konza (government) |
-| Defence and KDF | Government | 0% | 0% | 0% | 0% | Telkom Kenya |
-| Judiciary of Kenya | Government | 0% | 0% | 0% | 6% | Microsoft |
-| Office of the Attorney General | Government | 0% | 0% | 0% | 50% | — |
-| The National Treasury | Government | 0% | 0% | 0% | 54% | Konza (government) |
-| National Intelligence Service | Government | 0% | 0% | 0% | 0% | — |
-| Central Bank of Kenya | Government | 0% | 0% | 7% | 36% | Microsoft |
-| I&M Bank | Bank | 0% | 0% | 67% | 0% | Microsoft |
-| Family Bank | Bank | 0% | 0% | 70% | 8% | Microsoft |
-| Department of Immigration Services | Government | 0% | 0% | 36% | 36% | Konza (government) |
-| Data Protection Commissioner | Government | 0% | 0% | 3% | 48% | Microsoft |
-| Statistics (KNBS) | Government | 0% | 0% | 3% | 62% | Google |
-| National Social Security Fund | Government | 0% | 0% | 0% | 0% | Host Africa |
-| Social Protection department | Government | 0% | 0% | 0% | 72% | Konza (government) |
-| Ministry of Lands (Ardhisasa) | Government | 0% | 0% | 0% | 54% | Konza (government) |
-| PesaLink (IPSL) | Government | 0% | 0% | 67% | 0% | Google |
-| Government tenders portal | Government | 0% | 0% | 0% | 0% | Google |
-| Konza Technopolis | Government | 0% | 0% | 97% | 3% | Microsoft |
-| Anti-corruption (EACC) | Government | 0% | 0% | 0% | 0% | Safaricom |
-| Ministry of ICT and Digital Economy | Government | 0% | 0% | 0% | 60% | Google |
+| Executive Office of the President | Presidency | 0% | 0% | 21% | 32% | Government |
+| Parliament of Kenya | Parliament | 3% | 0% | 77% | 0% | Microsoft |
+| Ministry of Foreign and Diaspora Affairs | Foreign Affairs | 0% | 0% | 0% | 62% | Government |
+| Ministry of Defence and Kenya Defence Forces | Defence | 0% | 0% | 0% | 0% | Telecoms |
+| National Police Service | Police | 8% | 0% | 0% | 31% | US cloud |
+| Judiciary of Kenya | Justice | 0% | 0% | 0% | 6% | Microsoft |
+| Office of the Attorney General | Justice | 0% | 0% | 0% | 50% | — |
+| The National Treasury | Treasury / Finance | 0% | 0% | 0% | 53% | Government |
+| Kenya Revenue Authority | Revenue Service | 3% | 0% | 3% | 66% | Own servers |
+| National Intelligence Service | Intelligence | 0% | 0% | 0% | 0% | — |
+| Ministry of Interior and National Administration | Interior / Home Affairs | 8% | 0% | 0% | 58% | Government |
+| Central Bank of Kenya | Central Bank | 0% | 0% | 7% | 36% | Microsoft |
+| KCB Group | Commercial Banks | 13% | 0% | 63% | 0% | Microsoft |
+| Equity Bank | Commercial Banks | 44% | 0% | 10% | 19% | Microsoft |
+| Co-operative Bank of Kenya | Commercial Banks | 22% | 0% | 4% | 15% | Microsoft |
+| NCBA Group | Commercial Banks | 50% | 3% | 17% | 14% | Microsoft |
+| Absa Bank Kenya | Commercial Banks | 37% | 18% | 33% | 13% | — |
+| Stanbic Bank Kenya | Commercial Banks | 11% | 0% | 85% | 0% | — |
+| I&M Bank | Commercial Banks | 0% | 0% | 74% | 0% | Microsoft |
+| Diamond Trust Bank | Commercial Banks | 14% | 0% | 74% | 6% | Microsoft |
+| Family Bank | Commercial Banks | 0% | 0% | 70% | 8% | Microsoft |
+| Prime Bank | Commercial Banks | 53% | 0% | 8% | 7% | Microsoft |
+| State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau) | Civil registry / National ID authority | 0% | 0% | 0% | 16% | Microsoft |
+| Department of Immigration Services | Immigration / Passports | 0% | 0% | 36% | 36% | Government |
+| Office of the Data Protection Commissioner | Data protection authority | 0% | 0% | 3% | 48% | Microsoft |
+| Independent Electoral and Boundaries Commission (IEBC) | Electoral commission | 18% | 0% | 0% | 0% | Microsoft |
+| Kenya National Bureau of Statistics | Statistics office | 0% | 0% | 3% | 63% | Google |
+| Ministry of Health | Health ministry / National health insurance | 9% | 7% | 0% | 43% | Government |
+| Social Health Authority | Health ministry / National health insurance | 32% | 27% | 29% | <1% | Microsoft |
+| National Social Security Fund | Social protection / Social registry | 0% | 0% | 0% | 0% | African host |
+| State Department for Social Protection | Social protection / Social registry | 0% | 0% | 0% | 72% | Government |
+| Ministry of Lands (Ardhisasa) | Land registry | 0% | 0% | 0% | 54% | Government |
+| Integrated Payment Services (PesaLink) | National payment switch | 1% | 0% | 89% | 0% | Google |
+| Nairobi Securities Exchange | Stock exchange | 25% | 4% | 0% | 0% | Microsoft |
+| Capital Markets Authority | Securities regulator | 15% | 0% | 0% | 0% | Microsoft |
+| Retirement Benefits Authority | Sovereign wealth fund / National pension fund | 10% | 0% | 13% | 0% | Microsoft |
+| Public Procurement Regulatory Authority | Public procurement authority | 28% | 0% | 0% | 0% | Microsoft |
+| Government tenders portal | Public procurement authority | 0% | 0% | 0% | 0% | Google |
+| Kenya Power | Energy utility | 10% | 0% | 10% | 14% | Microsoft |
+| KenGen | Energy utility | 15% | 0% | 26% | 1% | Microsoft |
+| Kenya Ports Authority | Ports authority | 22% | 0% | 4% | 31% | Microsoft |
+| Safaricom | State-owned telco / National backbone operator | 8% | <1% | 69% | 18% | Filtered |
+| Telkom Kenya | State-owned telco / National backbone operator | 3% | 0% | 0% | 74% | Microsoft |
+| eCitizen | E-government agency | 1% | 0% | 52% | 0% | Google |
+| ICT Authority | E-government agency | 4% | 1% | 1% | 71% | Government |
+| Konza Technopolis | National data centre / Government cloud operator | 0% | 0% | 97% | 3% | Microsoft |
+| National KE-CIRT/CC | Cybersecurity agency / National CERT | 26% | 0% | 0% | 0% | Microsoft |
+| Communications Authority of Kenya | Communications regulator | 27% | 0% | 6% | 0% | Microsoft |
+| Office of the Auditor-General | Audit office | 52% | 0% | 0% | 0% | Microsoft |
+| Ethics and Anti-Corruption Commission | Anti-corruption commission | 0% | 0% | 0% | 0% | Telecoms |
+| Ministry of Information, Communications and the Digital Economy | E-government agency | 0% | 0% | 0% | 59% | Google |
+
+2 of the 36 types are covered by another institution in the table: Armed Forces (in Defence) and Customs (in Revenue Service).
 
 ## What stood out
 
-- **Central government keeps its mail at home.** The Presidency, the Treasury, Foreign Affairs, Interior and five more bodies route email through Konza, the national data centre. The core of government mail is not with Microsoft or Google.
-- **Some sensitive bodies use budget foreign web hosts.** Part of the Office of the President's web estate sits with Network Solutions, a US host, and Contabo, a German budget server firm. Defence, the Judiciary and the Ministry of Health also have servers at Contabo. Part of the intelligence service's website is with WHG, a UK hosting firm.
-- **Two banks run on their South African parents.** Absa Kenya's own systems are on Absa's South African network. Stanbic Kenya hides 86% of its estate behind a shield.
-- **The Social Health Authority keeps its cloud in Africa.** A quarter of its estate is in Amazon's and Microsoft's South African data centres, the highest share of any Kenyan body.
-- **A little Chinese cloud.** Three Safaricom addresses run on Huawei Cloud, the only Chinese cloud the scan found.
-- **One Safaricom web address points at a deleted cloud name that anyone could claim.** Whoever claims it could publish under a Safaricom address. We have flagged it and are not naming it here.
+- **Most on US cloud.** Prime Bank (53%) and Office of the Auditor-General (52%) have more than half their working addresses on US cloud.
+- **US cloud in Africa.** Social Health Authority has 27% of its working addresses in US cloud data centres in Africa, the highest share in Kenya.
+- **Core state bodies on foreign hosting firms.** Executive Office of the President (Network Solutions and Contabo), Ministry of Defence and Kenya Defence Forces (Contabo), Judiciary of Kenya (TierPoint and Contabo) and Kenya Revenue Authority (DigitalOcean).
+- **Chinese cloud.** 12 addresses, all at Safaricom, are on Chinese cloud.
+- **Names anyone could claim.** One web address at Safaricom points at a deleted cloud name that anyone could register and then publish under. We have flagged it and do not name it here.
 
 ## What this can and cannot tell you
 
-The scan sees only the front door: websites, email, login portals, remote-access gateways and online banking. It cannot see where a bank's core ledger, the ID register or the payroll actually run.
+The scan sees only the front door: websites, email, login portals, remote-access gateways and online banking. It cannot see where a bank's core ledger, the ID register or the payroll run.
 
-- **Every US figure is a floor.** Anything behind a shield or a mail filter could also be on US cloud, and we cannot tell. In Kenya that is half the estate, so the floor is low.
-- **It counts addresses, not importance.** An institution with many test and marketing sites weighs more than one with a few, whatever those sites do.
-- **The list of institutions was drawn up for this scan.** Each domain was checked to exist, but not formally confirmed as the institution's main one.
-- **It is a snapshot.** Every figure is as of 28 September 2026. Running the scan again in a year shows which way each institution is moving.
-- **Nothing was touched.** The scan used public address lookups, public certificate records and the cloud companies' own published address lists. It never connected to any institution's systems.
+- **Every US figure is a minimum.** Anything behind a shield or a mail filter could also be on US cloud. In Kenya that is 49% of working addresses.
+- **It counts addresses, not importance.** An institution with many test and marketing sites weighs more than one with few.
+- **The list of institutions was drawn up for this scan.** Each domain was checked to exist, not confirmed as the institution's main one.
+- **It is a snapshot.** Every figure is as of 29 September 2026.
+- **Nothing was touched.** The scan used public address lookups, public certificate records and the cloud companies' published address lists. It never connected to any institution's systems.
 
 The data and method are in `R&D/Hyperscaler-dependence/scan/KEN/` and `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` in the Corpus repository.
