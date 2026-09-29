@@ -175,13 +175,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "37529": "Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial",
-  "48348": "cloudbuilders Cloud Builders SA",
-  "37337": "MUNI S.A - MUNI S.A",
-  "202054": "S4N-AS GRUPO SYS4NET, S.L.",
-  "197712": "CDmon 10dencehispahard, S.L."
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 344,
@@ -189,16 +183,18 @@
    "african_region_share": 0.0,
    "us_saas_share": 18.6,
    "cdn_share": 8.1,
-   "national_or_self_share": 13.1,
-   "unattributed": 78,
+   "national_or_self_share": 16.6,
+   "unattributed": 3,
    "by_category": {
-    "unattributed": 78,
-    "commercial-host": 23,
+    "national-dc": 12,
+    "commercial-host": 53,
+    "telco-isp": 33,
     "us-hyperscaler-offshore": 102,
     "unresolved": 4,
     "self-hosted": 45,
     "us-saas": 64,
-    "cdn-origin-unknown": 28
+    "cdn-origin-unknown": 28,
+    "unattributed": 3
    },
    "institutions": 18,
    "names": 212,
@@ -213,15 +209,17 @@
    "african_region_share": 0.0,
    "us_saas_share": 21.2,
    "cdn_share": 9.6,
-   "national_or_self_share": 11.0,
-   "unattributed": 59,
+   "national_or_self_share": 15.1,
+   "unattributed": 3,
    "by_category": {
-    "unattributed": 59,
-    "commercial-host": 23,
+    "national-dc": 12,
+    "commercial-host": 44,
+    "telco-isp": 23,
     "us-hyperscaler-offshore": 87,
     "cdn-origin-unknown": 28,
     "unresolved": 1,
     "us-saas": 62,
+    "unattributed": 3,
     "self-hosted": 32
    },
    "institutions": 15,
@@ -238,12 +236,13 @@
    "us_saas_share": 3.8,
    "cdn_share": 0.0,
    "national_or_self_share": 25.0,
-   "unattributed": 19,
+   "unattributed": 0,
    "by_category": {
     "us-hyperscaler-offshore": 15,
-    "unattributed": 19,
+    "telco-isp": 10,
     "unresolved": 3,
     "self-hosted": 13,
+    "commercial-host": 9,
     "us-saas": 2
    },
    "institutions": 3,
