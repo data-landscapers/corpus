@@ -2,24 +2,24 @@ iso3,type,institution,domain,name,source,rr_type,rr_status,target,ip,cname_chain
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,appointment.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,boards.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,cpanel.statehouse.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,ecowas.statehouse.gov.sl,ct,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,ecowas.statehouse.gov.sl,ct,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,independence.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,mail.statehouse.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,postebolarecovery.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,web.statehouse.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,webdisk.statehouse.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,webmail.statehouse.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.appointment.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.ecowas.statehouse.gov.sl,ct,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.ecowas.statehouse.gov.sl,ct,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.independence.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.postebolarecovery.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.statehouse.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.statehouse.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.web.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,www.yepdu.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,yepdu.statehouse.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,MX,ok,mx2.vbtechhosting.com,198.23.53.39,,14555,LiquidNet US LLC,unattributed,,,2026-09-29
-SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,MX,ok,mx1.vbtechhosting.com,198.23.53.42,,14555,LiquidNet US LLC,unattributed,,,2026-09-29
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,MX,ok,mx2.vbtechhosting.com,198.23.53.39,,14555,LiquidNet US LLC,commercial-host,,LIQUIDNETLTD1 - LiquidNet US LLC,2026-09-29
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,MX,ok,mx1.vbtechhosting.com,198.23.53.42,,14555,LiquidNet US LLC,commercial-host,,LIQUIDNETLTD1 - LiquidNet US LLC,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,NS,ok,dns33.cloudns.net,185.136.98.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,NS,ok,dns31.cloudns.net,185.136.96.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,root,NS,ok,dns32.cloudns.net,185.136.97.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
@@ -46,7 +46,7 @@ SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,webdisk.server.parli
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,webmail.parliament.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,webmail.server.parliament.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,whm.server.parliament.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,www.ecms.parliament.gov.sl,ct,A,ok,,102.23.140.60,,328581,Fiber One (SL) LIMITED,unattributed,,,2026-09-29
+SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,www.ecms.parliament.gov.sl,ct,A,ok,,102.23.140.60,,328581,Fiber One (SL) LIMITED,telco-isp,,Fiber One (SL) LIMITED - Fiber One (SL) LIMITED,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,www.id0271.parliament.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,www.parliament.gov.sl,root;ct,A,ok,,50.6.226.172,,31898,"Newfold Digital, Inc.",us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,www.server.parliament.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -56,8 +56,8 @@ SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,parliament.gov.sl,ro
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,parliament.gov.sl,root,NS,ok,ns2.optiinfo.com,139.59.81.22,,14061,"DIGITALOCEAN-ASN - DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,parliament.gov.sl,root,TXT,ok,v=spf1 +a +mx +ip4:50.6.226.172 ~all,,,,,,,,2026-09-29
 SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,_dmarc.parliament.gov.sl,root,TXT,ok,v=DMARC1;p=quarantine;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400,,,,,,,,2026-09-29
-SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,mfaic.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
-SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,www.mfaic.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
+SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,mfaic.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
+SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,www.mfaic.gov.sl,root;ct,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
 SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,mfaic.gov.sl,root,MX,ok,mx3.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,mfaic.gov.sl,root,MX,ok,mx.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,mfaic.gov.sl,root,MX,ok,mx2.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
@@ -86,8 +86,8 @@ SLE,Police,Sierra Leone Police,police.gov.sl,webmail.police.gov.sl,dictionary;ct
 SLE,Police,Sierra Leone Police,police.gov.sl,www.police.gov.sl,root;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Police,Sierra Leone Police,police.gov.sl,police.gov.sl,root,NS,ok,ns2.siteground.net,99.83.229.113,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SLE,Police,Sierra Leone Police,police.gov.sl,police.gov.sl,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
-SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
-SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,www.oagmoj.gov.sl,root,A,ok,,82.38.198.58,,205544,netutils-mnt,unattributed,,,2026-09-29
+SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
+SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,www.oagmoj.gov.sl,root,A,ok,,82.38.198.58,,205544,netutils-mnt,commercial-host,,LEASEWEB-UK-LON-11 Leaseweb UK Limited,2026-09-29
 SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,MX,ok,mx.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,MX,ok,mx3.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,MX,ok,mx2.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
@@ -97,90 +97,90 @@ SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl
 SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,NS,ok,dns34.cloudns.net,185.136.99.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,root,TXT,ok,v=spf1 include:zohomail.com ~all,,,,,,,,2026-09-29
 SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,_dmarc.oagmoj.gov.sl,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:itreport@mocti.gov.sl; ruf=mailto:itreport@mocti.gov.sl; sp=quarantine; adkim=r; aspf=r,,,,,,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,ftp.judiciary.gov.sl,dictionary,A,ok,judiciary.gov.sl,192.96.217.94,judiciary.gov.sl,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,ipv4.judiciary.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,lists.judiciary.gov.sl,dictionary,A,ok,judiciary.gov.sl,192.96.217.94,judiciary.gov.sl,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,mail.judiciary.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,webmail.judiciary.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,www.judiciary.gov.sl,root;ct,A,ok,judiciary.gov.sl,192.96.217.94,judiciary.gov.sl,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,MX,ok,mail.judiciary.gov.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,NS,ok,ns1.afcom.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,NS,ok,ns2.afcom.sl,192.96.217.105,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,ftp.judiciary.gov.sl,dictionary,A,ok,judiciary.gov.sl,192.96.217.94,judiciary.gov.sl,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,ipv4.judiciary.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,lists.judiciary.gov.sl,dictionary,A,ok,judiciary.gov.sl,192.96.217.94,judiciary.gov.sl,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,mail.judiciary.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,webmail.judiciary.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,www.judiciary.gov.sl,root;ct,A,ok,judiciary.gov.sl,192.96.217.94,judiciary.gov.sl,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,MX,ok,mail.judiciary.gov.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,NS,ok,ns1.afcom.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,NS,ok,ns2.afcom.sl,192.96.217.105,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,root,TXT,ok,v=spf1 a mx a:mail.judiciary.gov.sl include:cloudsector.net ~all,,,,,,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,admin-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,agdrcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,apidashboard.mof.gov.sl,ct,A,ok,,41.205.234.137,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,audit.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,auditapi.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,auditlog.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,agdrcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,apidashboard.mof.gov.sl,ct,A,ok,,41.205.234.137,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,audit.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,auditapi.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,auditlog.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,auth-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,autoconfig.mof.gov.sl,dictionary,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,autodiscover.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.132,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,autodiscover.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.132,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,backup.mof.gov.sl,dictionary,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,central-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,conference.mof.gov.sl,dictionary;ct,A,ok,,195.110.176.57,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,dashboard.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.137,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,conference.mof.gov.sl,dictionary;ct,A,ok,,195.110.176.57,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,dashboard.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.137,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,dashboard.sledat.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,demo.mof.gov.sl,dictionary;ct,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,eftlog.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,eftlog.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,email.mof.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,epets.mof.gov.sl,ct,A,ok,epets-production.us-east-1.elasticbeanstalk.com,98.89.189.200,epets-production.us-east-1.elasticbeanstalk.com,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ftp.mof.gov.sl,dictionary,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,fw01.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,grms.mof.gov.sl,ct,A,ok,,195.110.176.56,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,gslifmis.mof.gov.sl,ct,A,ok,,41.205.234.243,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mail.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.132,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mda1.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mda2.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,meridian.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,meridianreports.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,modrcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,grms.mof.gov.sl,ct,A,ok,,195.110.176.56,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,gslifmis.mof.gov.sl,ct,A,ok,,41.205.234.243,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mail.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.132,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mda1.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mda2.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,meridian.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,meridianreports.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,modrcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mof-smp.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mof.gov.sl,root;ct,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,opsview.mof.gov.sl,ct,A,ok,,195.110.176.55,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,outlook.mof.gov.sl,ct,A,ok,webmail.mof.gov.sl,41.205.234.132,webmail.mof.gov.sl,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.53,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,pfmsmart.mof.gov.sl,ct,A,ok,,195.110.176.50,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,opsview.mof.gov.sl,ct,A,ok,,195.110.176.55,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,outlook.mof.gov.sl,ct,A,ok,webmail.mof.gov.sl,41.205.234.132,webmail.mof.gov.sl,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.53,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,pfmsmart.mof.gov.sl,ct,A,ok,,195.110.176.50,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,psilp.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpayapi.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpayapi.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpayapps.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpayi.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,rcpayi.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,research.mof.gov.sl,ct,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,sign-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,slcsrcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,slcsrcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,sledat.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,slprcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-assl-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,slprcpay.mof.gov.sl,ct,A,ok,,41.205.234.245,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-assl-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-bsl-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-egp-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-mof-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-moh-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-ncra-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-ncra-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-nra-pfmsip.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ss-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,ssh.mof.gov.sl,dictionary,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-audit.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-auditapi.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-auditlog.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-audit.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-auditapi.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-auditlog.mof.gov.sl,ct,A,ok,,41.205.234.247,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-eftlog.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-meridian.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-pfmsmart.mof.gov.sl,ct,A,ok,,195.110.176.52,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-rcpay.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-rcpayapi.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-rcpayi.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-tsa.mof.gov.sl,ct,A,ok,,41.205.234.248,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stgreports-meridian.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,support.mof.gov.sl,dictionary;ct,A,ok,,195.110.176.60,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testadmin-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.53,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testauth-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testcentral-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.53,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testsign-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,tsa.mof.gov.sl,ct,A,ok,,41.205.234.248,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,tsaftp.mof.gov.sl,ct,A,ok,,41.205.234.248,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-meridian.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-pfmsmart.mof.gov.sl,ct,A,ok,,195.110.176.52,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-rcpay.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-rcpayapi.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-rcpayi.mof.gov.sl,ct,A,ok,,41.205.234.246,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stg-tsa.mof.gov.sl,ct,A,ok,,41.205.234.248,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,stgreports-meridian.mof.gov.sl,ct,A,ok,,41.205.234.134,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,support.mof.gov.sl,dictionary;ct,A,ok,,195.110.176.60,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testadmin-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.53,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testauth-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testcentral-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.53,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,testsign-pfmsip.mof.gov.sl,ct,A,ok,,195.110.176.54,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,tsa.mof.gov.sl,ct,A,ok,,41.205.234.248,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,tsaftp.mof.gov.sl,ct,A,ok,,41.205.234.248,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,web.mof.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,webmail.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.132,,36928,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,webmail.mof.gov.sl,dictionary;ct,A,ok,,41.205.234.132,,36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,,African Network Information Center - (AfriNIC) Ltd,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,wpt.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,www.auditfu.mof.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,www.backup.mof.gov.sl,ct,A,ok,,34.174.63.23,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
@@ -198,9 +198,9 @@ SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mof.gov.sl,root,NS,ok,ns1.
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mof.gov.sl,root,NS,ok,ns2.siteground.net,99.83.229.113,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,mof.gov.sl,root,TXT,ok,v=spf1 +a +mx +a:ns1.us186.siteground.us  include:mof.gov.sl.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,_dmarc.mof.gov.sl,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-SLE,Revenue Service,National Revenue Authority,nra.gov.sl,accounts.nra.gov.sl,ct,A,ok,,102.223.154.114,,329109,"Ministry of Information and Communications, Government of Sierra Leone",unattributed,,,2026-09-29
+SLE,Revenue Service,National Revenue Authority,nra.gov.sl,accounts.nra.gov.sl,ct,A,ok,,102.223.154.114,,329109,"Ministry of Information and Communications, Government of Sierra Leone",telco-isp,,Zoodlabs(SL) Limited - Zoodlabs(SL) Limited,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,admin.nra.gov.sl,dictionary,A,ok,,160.153.129.35,,21499,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
-SLE,Revenue Service,National Revenue Authority,nra.gov.sl,asycuda.nra.gov.sl,ct,A,ok,,102.223.154.105,,329109,"Ministry of Information and Communications, Government of Sierra Leone",unattributed,,,2026-09-29
+SLE,Revenue Service,National Revenue Authority,nra.gov.sl,asycuda.nra.gov.sl,ct,A,ok,,102.223.154.105,,329109,"Ministry of Information and Communications, Government of Sierra Leone",telco-isp,,Zoodlabs(SL) Limited - Zoodlabs(SL) Limited,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,autodiscover.nra.gov.sl,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.155.56,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,autodiscover.nra.gov.sl,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.97.233.104,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,autodiscover.nra.gov.sl,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,52.98.227.152,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -227,12 +227,12 @@ SLE,Revenue Service,National Revenue Authority,nra.gov.sl,enterpriseregistration
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,enterpriseregistration.nra.gov.sl,dictionary,AAAA,ok,www.tm.f.prd.aadg.akadns.net,2603:1026:3000:d0::5,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,enterpriseregistration.nra.gov.sl,dictionary,AAAA,ok,www.tm.f.prd.aadg.akadns.net,2603:1026:3000:c8::3,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,enterpriseregistration.nra.gov.sl,dictionary,AAAA,ok,www.tm.f.prd.aadg.akadns.net,2603:1027:1:d8::1,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
-SLE,Revenue Service,National Revenue Authority,nra.gov.sl,itas.nra.gov.sl,ct,A,ok,,102.223.154.99,,329109,"Ministry of Information and Communications, Government of Sierra Leone",unattributed,,,2026-09-29
+SLE,Revenue Service,National Revenue Authority,nra.gov.sl,itas.nra.gov.sl,ct,A,ok,,102.223.154.99,,329109,"Ministry of Information and Communications, Government of Sierra Leone",telco-isp,,Zoodlabs(SL) Limited - Zoodlabs(SL) Limited,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,mail.nra.gov.sl,dictionary,A,ok,,160.153.129.35,,21499,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,nra.gov.sl,root;ct,A,ok,,92.205.63.122,,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
-SLE,Revenue Service,National Revenue Authority,nra.gov.sl,ntr.nra.gov.sl,ct,A,ok,,102.223.154.114,,329109,"Ministry of Information and Communications, Government of Sierra Leone",unattributed,,,2026-09-29
+SLE,Revenue Service,National Revenue Authority,nra.gov.sl,ntr.nra.gov.sl,ct,A,ok,,102.223.154.114,,329109,"Ministry of Information and Communications, Government of Sierra Leone",telco-isp,,Zoodlabs(SL) Limited - Zoodlabs(SL) Limited,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,portal.nra.gov.sl,dictionary,A,ok,,92.205.63.122,,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
-SLE,Revenue Service,National Revenue Authority,nra.gov.sl,pts.nra.gov.sl,ct,A,ok,,185.210.0.177,,3303,ch-sicpa-1-mnt,unattributed,,,2026-09-29
+SLE,Revenue Service,National Revenue Authority,nra.gov.sl,pts.nra.gov.sl,ct,A,ok,,185.210.0.177,,3303,ch-sicpa-1-mnt,telco-isp,,SWISSCOM Swisscom (Schweiz) AG,2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,training.nra.gov.sl,dictionary,A,ok,,160.153.129.35,,21499,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,webdisk.nra.gov.sl,dictionary,A,ok,nra.gov.sl,92.205.63.122,nra.gov.sl,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Revenue Service,National Revenue Authority,nra.gov.sl,webmail.nra.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -272,16 +272,16 @@ SLE,Central Bank,Bank of Sierra Leone,bsl.gov.sl,bsl.gov.sl,root,NS,ok,dns33.clo
 SLE,Central Bank,Bank of Sierra Leone,bsl.gov.sl,bsl.gov.sl,root,NS,ok,dns32.cloudns.net,185.136.97.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,Central Bank,Bank of Sierra Leone,bsl.gov.sl,bsl.gov.sl,root,TXT,ok,v=spf1 include:secureserver.net -all,,,,,,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,admin.slcb.com,dictionary,A,ok,,92.205.91.242,,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,autodiscover.slcb.com,dictionary,A,ok,autodiscoverredirect.ex4.secureserver.net,72.167.83.113,autodiscoverredirect.ex4.secureserver.net,26496,"GoDaddy.com, LLC",unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,axweb.slcb.com,ct,A,ok,,197.157.233.213,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,autodiscover.slcb.com,dictionary,A,ok,autodiscoverredirect.ex4.secureserver.net,72.167.83.113,autodiscoverredirect.ex4.secureserver.net,26496,"GoDaddy.com, LLC",commercial-host,,"AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC",2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,axweb.slcb.com,ct,A,ok,,197.157.233.213,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,bg-app-live.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cmweb.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,code.slcb.com,dictionary;ct,A,ok,,169.239.246.3,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,code.slcb.com,dictionary;ct,A,ok,,169.239.246.3,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,corpib.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cpanel.slcb.com,dictionary;ct,A,ok,slcb.com,92.205.91.242,slcb.com,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cpanel.test.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cpibanking.slcb.com,ct,A,ok,,197.157.233.214,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cxweb.slcb.com,ct,A,ok,,197.157.233.222,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cpibanking.slcb.com,ct,A,ok,,197.157.233.214,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,cxweb.slcb.com,ct,A,ok,,197.157.233.222,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,dashboard.slcb.com,dictionary;ct,A,ok,site-dns.bolt.host,63.176.8.218,site-dns.bolt.host,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,dashboard.slcb.com,dictionary;ct,A,ok,site-dns.bolt.host,35.157.26.135,site-dns.bolt.host,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,dashboard.slcb.com,dictionary;ct,AAAA,ok,site-dns.bolt.host,2a05:d014:58f:6200::258,site-dns.bolt.host,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
@@ -290,39 +290,39 @@ SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,e.slcb.com,dictionary
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,e.slcb.com,dictionary,A,ok,email.secureserver.net,76.223.17.250,email.secureserver.net,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,email.slcb.com,dictionary,A,ok,email.secureserver.net,15.197.155.180,email.secureserver.net,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,email.slcb.com,dictionary,A,ok,email.secureserver.net,76.223.17.250,email.secureserver.net,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,etrax.slcb.com,ct,A,ok,,169.239.246.2,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,etrax.slcb.com,ct,A,ok,,169.239.246.2,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,facweb.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,fw1dmz.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,fw1dr.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,fw1infra.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,g2p-test.slcb.com,ct,A,ok,,169.239.246.2,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,g2p-test.slcb.com,ct,A,ok,,169.239.246.2,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,g2p.slcb.com,ct,A,servfail,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,imap.slcb.com,dictionary,A,ok,imap.eu-central.vox.secureserver.net,92.204.80.24,imap.secureserver.net>imap.vox.secureserver.net>imap.eu-central.vox.secureserver.net,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,instpay.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,ips.slcb.com,ct,A,ok,,10.9.4.22,,,non-public address,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,mail.slcb.com,dictionary;ct,A,ok,,92.205.91.242,,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,mail.test.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,mbanking.slcb.com,ct,A,ok,,197.157.233.211,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,mxapgxweb.slcb.com,ct,A,ok,,197.157.233.210,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,mbanking.slcb.com,ct,A,ok,,197.157.233.211,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,mxapgxweb.slcb.com,ct,A,ok,,197.157.233.210,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,old.slcb.com,dictionary,A,ok,,50.63.9.34,,398101,"GoDaddy.com, LLC",commercial-host,,GoDaddy,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,onlinebanking.slcb.com,ct,A,ok,,197.157.233.214,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,owa.slcb.com,dictionary,A,ok,mail.ex4.secureserver.net,72.167.83.115,mail.ex4.secureserver.net,26496,"GoDaddy.com, LLC",unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,perfo.slcb.com,ct,A,ok,,197.157.233.214,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,onlinebanking.slcb.com,ct,A,ok,,197.157.233.214,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,owa.slcb.com,dictionary,A,ok,mail.ex4.secureserver.net,72.167.83.115,mail.ex4.secureserver.net,26496,"GoDaddy.com, LLC",commercial-host,,"AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC",2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,perfo.slcb.com,ct,A,ok,,197.157.233.214,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,pop.slcb.com,dictionary,A,ok,pop.eu-central.vox.secureserver.net,92.204.80.24,pop.secureserver.net>pop.vox.secureserver.net>pop.eu-central.vox.secureserver.net,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb-ssstfw1.slcb.com,ct,A,ok,,169.239.246.4,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb-ssstfw1.slcb.com,ct,A,ok,,169.239.246.4,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,root;ct,A,ok,,92.205.91.242,,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcbip.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcbqaweb.slcb.com,ct,A,ok,,195.110.179.211,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcbqaweb.slcb.com,ct,A,ok,,195.110.179.211,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcbsmart01.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcbsmart02.slcb.com,ct,A,ok,,197.157.233.212,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcbsmart02.slcb.com,ct,A,ok,,197.157.233.212,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,smtp.slcb.com,dictionary,A,ok,smtp.secureserver.net,92.204.80.20,smtp.secureserver.net,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,spapp.slcb.com,ct,A,ok,,169.239.246.3,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,swebmail.slcb.com,ct,A,ok,,197.157.233.212,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,spapp.slcb.com,ct,A,ok,,169.239.246.3,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,swebmail.slcb.com,ct,A,ok,,197.157.233.212,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,temp.slcb.com,dictionary,A,ok,,50.63.9.34,,398101,"GoDaddy.com, LLC",commercial-host,,GoDaddy,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,test.slcb.com,dictionary;ct,A,ok,,195.110.179.214,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,testcoreapi.slcb.com,ct,A,ok,,195.110.179.214,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,test.slcb.com,dictionary;ct,A,ok,,195.110.179.214,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,testcoreapi.slcb.com,ct,A,ok,,195.110.179.214,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,uxdweb.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,walletapp.slcb.com,ct,A,ok,,197.157.233.218,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,walletapp.slcb.com,ct,A,ok,,197.157.233.218,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,webdisk.slcb.com,dictionary;ct,A,ok,slcb.com,92.205.91.242,slcb.com,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,webdisk.test.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,whm.slcb.com,dictionary,A,ok,slcb.com,92.205.91.242,slcb.com,21499,GODADDY-MNT,commercial-host,,Host Europe (GoDaddy),2026-09-29
@@ -360,7 +360,7 @@ SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,www.uxdweb.slcb.com,c
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,www.walletapp.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,www.wxweb.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,wxweb.slcb.com,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,root,MX,ok,slcbsmart02.slcb.com,197.157.233.212,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,root,MX,ok,slcbsmart02.slcb.com,197.157.233.212,,37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,,ONLIME SL LIMITED - ONLIME SL LIMITED,2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,root,NS,ok,ns35.domaincontrol.com,97.74.107.18,,44273,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,root,NS,ok,ns36.domaincontrol.com,173.201.75.18,,44273,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,root,TXT,ok,v=spf1 mx a:slcbsmart02.slcb.com ip4:197.157.233.212 ~all,,,,,,,,2026-09-29
@@ -374,7 +374,7 @@ SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,cpcalendars.rokelbank.sl
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,cpcontacts.rokelbank.sl,dictionary;ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,dangote.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,dev.rokelbank.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,ebanking.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,ebanking.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,esb.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,ftp.rokelbank.sl,dictionary,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,ibanking-api.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
@@ -383,11 +383,11 @@ SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,ibanking.rokelbank.sl,ct
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,localhost.rokelbank.sl,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,mail.rokelbank.sl,dictionary;ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,merchant.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,mergerapi.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,mergerapi.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,middleware.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rcbapi.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,referral.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,root;ct,A,ok,,69.30.235.154,,32097,"Cloud Clusters, Inc.",unattributed,,,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,root;ct,A,ok,,69.30.235.154,,32097,"Cloud Clusters, Inc.",commercial-host,,"WII - WholeSale Internet, Inc.",2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,simkorpor.rokelbank.sl,ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,webdisk.rokelbank.sl,dictionary;ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,webmail.rokelbank.sl,dictionary;ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
@@ -399,47 +399,47 @@ SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.banking-control.iban
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.dangote.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.dev.rokelbank.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.ebanking.rokelbank.sl,ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
-SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.ebanking.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.ebanking.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.esb.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.ibanking-api.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.ibanking-control.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.ibanking.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.merchant.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.mergerapi.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.mergerapi.rokelbank.sl,ct,A,ok,,195.110.181.146,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.middleware.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.rcb.rokelbank.sl,ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.rcbapi.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.referral.rokelbank.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.rokelbank.sl,root;ct,A,ok,rokelbank.sl,69.30.235.154,rokelbank.sl,32097,"Cloud Clusters, Inc.",unattributed,,,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.rokelbank.sl,root;ct,A,ok,rokelbank.sl,69.30.235.154,rokelbank.sl,32097,"Cloud Clusters, Inc.",commercial-host,,"WII - WholeSale Internet, Inc.",2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,www.simkorpor.rokelbank.sl,ct,A,ok,,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,root,MX,ok,mail.rokelbank.sl,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,root,NS,ok,ns1.sbtshosting.com,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,root,NS,ok,ns2.sbtshosting.com,72.52.252.9,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,root,TXT,ok,v=spf1 +a +mx +ip4:72.52.252.9 +ip4:69.30.235.154 +ip4:195.110.181.146 ~all,,,,,,,,2026-09-29
 SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,_dmarc.rokelbank.sl,root,TXT,ok,v=DMARC1;p=reject;sp=none;adkim=r;aspf=r;pct=100;fo=1;rf=afrf;ri=86400;rua=mailto:035e2910@mxtoolbox.dmarc-report.com;ruf=mailto:035e2910@forensics.dmarc-report.com,,,,,,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,agency.utb.sl,ct,A,ok,,169.239.246.14,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,agency.utb.sl,ct,A,ok,,169.239.246.14,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,agencyapi.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,cib.utb.sl,ct,A,ok,,169.239.246.13,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,code.utb.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,ftp.utb.sl,dictionary,A,ok,utb.sl,192.96.217.94,utb.sl,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,cib.utb.sl,ct,A,ok,,169.239.246.13,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,code.utb.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,ftp.utb.sl,dictionary,A,ok,utb.sl,192.96.217.94,utb.sl,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,ib.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,ipv4.utb.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,lists.utb.sl,dictionary,A,ok,utb.sl,192.96.217.94,utb.sl,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,mail.utb.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,merchant.utb.sl,ct,A,ok,,169.239.246.12,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,mobile.utb.sl,dictionary;ct,A,ok,,169.239.246.11,,327990,AI NETWORKS LIMITED,unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,webmail.utb.sl,dictionary;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,ipv4.utb.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,lists.utb.sl,dictionary,A,ok,utb.sl,192.96.217.94,utb.sl,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,mail.utb.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,merchant.utb.sl,ct,A,ok,,169.239.246.12,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,mobile.utb.sl,dictionary;ct,A,ok,,169.239.246.11,,327990,AI NETWORKS LIMITED,telco-isp,,AI NETWORKS LIMITED - AI NETWORKS LIMITED,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,webmail.utb.sl,dictionary;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,www.agency.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,www.agencyapi.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,www.cib.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,www.ib.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,www.merchant.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,www.mobile.utb.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,www.utb.sl,root;ct,A,ok,utb.sl,192.96.217.94,utb.sl,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,MX,ok,mail.utb.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,NS,ok,ns2.afcom.sl,192.96.217.105,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,NS,ok,ns1.afcom.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,www.utb.sl,root;ct,A,ok,utb.sl,192.96.217.94,utb.sl,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,MX,ok,mail.utb.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,NS,ok,ns2.afcom.sl,192.96.217.105,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,NS,ok,ns1.afcom.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,utb.sl,root,TXT,ok,v=spf1 mx ip4:192.96.217.94 ip4:192.96.218.31 -all,,,,,,,,2026-09-29
 SLE,Commercial Banks,Union Trust Bank,utb.sl,_dmarc.utb.sl,root,TXT,ok,v=DMARC1; p=reject; rua=mailto:skabba@utb.sl; ruf=mailto:skabba@utb.sl; fo=1; pct=100,,,,,,,,2026-09-29
 SLE,Commercial Banks,Guaranty Trust Bank Sierra Leone,gtb.sl,b2b.gtb.sl,ct,A,ok,,196.43.229.67,,37418,Guaranty Trust Bank Sierra Leone Limited,self-hosted,,,2026-09-29
@@ -500,11 +500,11 @@ SLE,Commercial Banks,First Bank Sierra Leone,fbnbanksierraleone.com,fbnbanksierr
 SLE,Commercial Banks,First Bank Sierra Leone,fbnbanksierraleone.com,_dmarc.fbnbanksierraleone.com,root,TXT,ok,v=DMARC1; p=reject; fo=1; ri=3600; rua=mailto:first-bank-of-nigeria@rua.agari.com; ruf=mailto:first-bank-of-nigeria@ruf.agari.com,,,,,,,,2026-09-29
 SLE,Commercial Banks,Access Bank Sierra Leone,sierraleone.accessbankplc.com,sierraleone.accessbankplc.com,root,A,ok,,159.60.133.8,,35280,F5-MNT,cdn-origin-unknown,,F5 Distributed Cloud,2026-09-29
 SLE,Commercial Banks,Access Bank Sierra Leone,sierraleone.accessbankplc.com,www.sierraleone.accessbankplc.com,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,autoconfig.zenithbank.com.sl,dictionary,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,autodiscover.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,cpanel.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,cpcalendars.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,cpcontacts.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,autoconfig.zenithbank.com.sl,dictionary,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,autodiscover.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,cpanel.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,cpcalendars.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,cpcontacts.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,ftp.zenithbank.com.sl,dictionary,A,ok,zenithbank.com.sl,52.233.164.195,zenithbank.com.sl,,azure,us-hyperscaler-offshore,westeurope,azure,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,ibank.zenithbank.com.sl,dictionary;ct,A,ok,8rp2uox.impervadns.net,45.60.46.43,8rp2uox.impervadns.net,,imperva,cdn-origin-unknown,,imperva,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,mail.zenithbank.com.sl,dictionary;ct,A,ok,zenithbank.com.sl,52.233.164.195,zenithbank.com.sl,,azure,us-hyperscaler-offshore,westeurope,azure,2026-09-29
@@ -513,9 +513,9 @@ SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,onlinebanking.ze
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,realtime.zenithbank.com.sl,ct,A,ok,cphec7s.x.incapdns.net,45.60.46.43,cphec7s.x.incapdns.net,,imperva,cdn-origin-unknown,,imperva,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,sip.zenithbank.com.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,tpmv3sl.zenithbank.com.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,webdisk.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,webmail.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,whm.zenithbank.com.sl,dictionary,A,ok,,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,webdisk.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,webmail.zenithbank.com.sl,dictionary;ct,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,whm.zenithbank.com.sl,dictionary,A,ok,,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,www.ibank.zenithbank.com.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,www.onlinebanking.zenithbank.com.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,www.realtime.zenithbank.com.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -523,10 +523,10 @@ SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,www.tpmv3sl.zeni
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,www.zenithbank.com.sl,root;ct,A,ok,zenithbank.com.sl,52.233.164.195,zenithbank.com.sl,,azure,us-hyperscaler-offshore,westeurope,azure,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root;ct,A,ok,,52.233.164.195,,,azure,us-hyperscaler-offshore,westeurope,azure,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,MX,ok,zenithbank-com.mail.protection.outlook.com,52.101.68.10,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns6.anyservers.com,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns1.anyservers.com,85.232.242.130,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns5.anyservers.com,85.232.242.130,,15694,ATMAN-MNT,unattributed,,,2026-09-29
-SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns2.anyservers.com,77.79.239.194,,15694,ATMAN-MNT,unattributed,,,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns6.anyservers.com,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns1.anyservers.com,85.232.242.130,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns5.anyservers.com,85.232.242.130,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,NS,ok,ns2.anyservers.com,77.79.239.194,,15694,ATMAN-MNT,commercial-host,,ATMAN-ISP-AS Atman Sp. z o.o.,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,root,TXT,ok,v=spf1 ip4:77.79.239.194 include:anyservers.com ip4:77.79.239.202 ip4:85.232.242.130 ip4:85.232.242.131 include:srv1.anyservers.com include:srv2.anyservers.com include:srv3.anyservers.com include:srv3a.anyservers.com include:srv3b.anyservers.com +a +mx include:spf.protection.outlook.com ~all,,,,,,,,2026-09-29
 SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,_dmarc.zenithbank.com.sl,root,TXT,ok,v=DMARC1; p=none; rua=mailto:zensldmarc.rua@izoologic.com; ruf=mailto:zensldmarc.ruf@izoologic.com;,,,,,,,,2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,apply.ncra.gov.sl,dictionary,A,ok,,143.95.41.123,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
@@ -535,8 +535,8 @@ SLE,Civil registry / National ID authority,National Civil Registration Authority
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,id.ncra.gov.sl,dictionary,A,ok,,143.95.41.123,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,mail.ncra.gov.sl,dictionary,A,ok,,143.95.41.123,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ncra.gov.sl,root;ct,A,ok,,143.95.41.123,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
-SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ntp.ncra.gov.sl,dictionary,A,ok,,102.220.249.154,,36988,Africell Sierra Leone Limited - Africell Sierra Leone Limited,unattributed,,,2026-09-29
-SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,testing.ncra.gov.sl,dictionary,A,ok,,102.220.249.156,,36988,Africell Sierra Leone Limited - Africell Sierra Leone Limited,unattributed,,,2026-09-29
+SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ntp.ncra.gov.sl,dictionary,A,ok,,102.220.249.154,,36988,Africell Sierra Leone Limited - Africell Sierra Leone Limited,telco-isp,,Africell Sierra Leone Limited - Africell Sierra Leone Limited,2026-09-29
+SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,testing.ncra.gov.sl,dictionary,A,ok,,102.220.249.156,,36988,Africell Sierra Leone Limited - Africell Sierra Leone Limited,telco-isp,,Africell Sierra Leone Limited - Africell Sierra Leone Limited,2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,webmail.ncra.gov.sl,dictionary,A,ok,,143.95.41.123,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,www.ncra.gov.sl,root;ct,A,ok,ncra.gov.sl,143.95.41.123,ncra.gov.sl,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ncra.gov.sl,root,MX,ok,mail.ncra.gov.sl,143.95.41.123,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
@@ -544,7 +544,7 @@ SLE,Civil registry / National ID authority,National Civil Registration Authority
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ncra.gov.sl,root,NS,ok,ns2.win.arvixe.com,143.95.40.190,,46606,"Newfold Digital, Inc.",commercial-host,,Unified Layer (Bluehost),2026-09-29
 SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ncra.gov.sl,root,TXT,ok,v=spf1 a mx include:websitewelcome.com ~all,,,,,,,,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,accreditation.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
-SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,api.ec.gov.sl,dictionary;ct,A,ok,,208.98.35.167,,46844,Sharktech,unattributed,,,2026-09-29
+SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,api.ec.gov.sl,dictionary;ct,A,ok,,208.98.35.167,,46844,Sharktech,commercial-host,,SHARKTECH - Sharktech,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,autoconfig.ec.gov.sl,dictionary;ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,autodiscover.ec.gov.sl,dictionary;ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,cpanel.ec.gov.sl,dictionary;ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
@@ -567,7 +567,7 @@ SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,localho
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,mail.ec.gov.sl,dictionary;ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,nomination.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,onlineaccreditation.ec.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,onlinenomination.ec.gov.sl,ct,A,ok,,208.98.35.167,,46844,Sharktech,unattributed,,,2026-09-29
+SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,onlinenomination.ec.gov.sl,ct,A,ok,,208.98.35.167,,46844,Sharktech,commercial-host,,SHARKTECH - Sharktech,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,results.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,smtp.ec.gov.sl,dictionary,A,ok,ec.gov.sl,198.46.93.77,ec.gov.sl,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,webdisk.ec.gov.sl,dictionary;ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
@@ -575,7 +575,7 @@ SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,webmail
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,whm.ec.gov.sl,dictionary,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,wpt-kx58.198-46-93-77.cpanel.site.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.accreditation.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
-SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.api.ec.gov.sl,ct,A,ok,,208.98.35.167,,46844,Sharktech,unattributed,,,2026-09-29
+SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.api.ec.gov.sl,ct,A,ok,,208.98.35.167,,46844,Sharktech,commercial-host,,SHARKTECH - Sharktech,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.e-accreditation.ec.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.e-verify.ec.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.ec.gov.sl,root;ct,A,ok,ec.gov.sl,198.46.93.77,ec.gov.sl,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
@@ -587,19 +587,19 @@ SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.job
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.ms365.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.nomination.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.onlineaccreditation.ec.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.onlinenomination.ec.gov.sl,ct,A,ok,,208.98.35.167,,46844,Sharktech,unattributed,,,2026-09-29
+SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.onlinenomination.ec.gov.sl,ct,A,ok,,208.98.35.167,,46844,Sharktech,commercial-host,,SHARKTECH - Sharktech,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.results.ec.gov.sl,ct,A,ok,results.ec.gov.sl,198.46.93.77,results.ec.gov.sl,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,www.wpt-kx58.198-46-93-77.cpanel.site.ec.gov.sl,ct,A,ok,,198.46.93.77,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,ec.gov.sl,root,NS,ok,ns1.inmotionhosting.com,74.124.210.242,,22611,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,ec.gov.sl,root,NS,ok,ns2.inmotionhosting.com,70.39.150.2,,54641,"InMotion Hosting, Inc.",commercial-host,,InMotion Hosting,2026-09-29
 SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,_dmarc.ec.gov.sl,root,TXT,ok,v=DMARC1;p=reject;sp=reject;adkim=s;aspf=s;pct=100;fo=0;rf=afrf;ri=86400,,,,,,,,2026-09-29
-SLE,Statistics office,Statistics Sierra Leone,statistics.sl,2021mtphc.statistics.sl,ct,A,ok,,41.78.87.190,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,2021mtphc.statistics.sl,ct,A,ok,,41.78.87.190,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,census-dashboard.statistics.sl,ct,A,ok,,49.13.245.147,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,censuspm.statistics.sl,ct,A,ok,,49.13.245.147,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,csweb.statistics.sl,ct,A,ok,,13.51.156.206,,,aws,us-hyperscaler-offshore,eu-north-1,aws,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,csweb2.statistics.sl,ct,A,ok,,16.171.206.44,,,aws,us-hyperscaler-offshore,eu-north-1,aws,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,cswebsl.statistics.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Statistics office,Statistics Sierra Leone,statistics.sl,dashboard.statistics.sl,dictionary;ct,A,ok,,41.78.87.187,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,dashboard.statistics.sl,dictionary;ct,A,ok,,41.78.87.187,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,field-monitor.statistics.sl,ct,A,ok,,49.13.245.147,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,ftp.statistics.sl,dictionary,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,geoapp.statistics.sl,ct,A,ok,,91.99.252.203,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
@@ -610,7 +610,7 @@ SLE,Statistics office,Statistics Sierra Leone,statistics.sl,infra03.statistics.s
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,infra05.statistics.sl,ct,A,ok,,168.119.146.35,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,mail.statistics.sl,dictionary,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,map.statistics.sl,dictionary;ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-SLE,Statistics office,Statistics Sierra Leone,statistics.sl,microdata.statistics.sl,ct,A,ok,,174.128.224.114,,46844,Sharktech,unattributed,,,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,microdata.statistics.sl,ct,A,ok,,174.128.224.114,,46844,Sharktech,commercial-host,,SHARKTECH - Sharktech,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,non-pii.statistics.sl,ct,A,ok,,18.216.165.238,,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,notifications-intuit.com.statistics.sl,ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,nyhantaxadvisers.statistics.sl,ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
@@ -620,7 +620,7 @@ SLE,Statistics office,Statistics Sierra Leone,statistics.sl,recruit-desk.statist
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,recruit.statistics.sl,ct,A,ok,,178.104.229.139,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,recruitment.statistics.sl,ct,A,ok,,84.46.241.211,,51167,LRTC-MNT,commercial-host,,Contabo,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,sl-csweb.statistics.sl,ct,A,ok,,49.13.245.149,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Statistics office,Statistics Sierra Leone,statistics.sl,slcsweb.statistics.sl,ct,A,ok,,157.173.195.217,,40021,MNT-CONTABO,unattributed,,,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,slcsweb.statistics.sl,ct,A,ok,,157.173.195.217,,40021,MNT-CONTABO,commercial-host,,CONTABO-40021 - Contabo Inc.,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,sldhsdashboard.statistics.sl,ct,A,ok,,147.93.86.191,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,ssh.statistics.sl,dictionary,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,statistics.sl,root;ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
@@ -630,8 +630,8 @@ SLE,Statistics office,Statistics Sierra Leone,statistics.sl,survey.statistics.sl
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.2021mtphc.statistics.sl,ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.csweb.statistics.sl,ct,A,ok,,13.51.156.206,,,aws,us-hyperscaler-offshore,eu-north-1,aws,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.dashboard.statistics.sl,ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
-SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.map.statistics.sl,ct,A,ok,,41.78.87.188,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.microdata.statistics.sl,ct,A,ok,,174.128.224.114,,46844,Sharktech,unattributed,,,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.map.statistics.sl,ct,A,ok,,41.78.87.188,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.microdata.statistics.sl,ct,A,ok,,174.128.224.114,,46844,Sharktech,commercial-host,,SHARKTECH - Sharktech,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.notifications-intuit.com.statistics.sl,ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.nyhantaxadvisers.statistics.sl,ct,A,ok,,34.174.237.52,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,www.pdashboard.statistics.sl.statistics.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -646,121 +646,121 @@ SLE,Statistics office,Statistics Sierra Leone,statistics.sl,statistics.sl,root,N
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,statistics.sl,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,statistics.sl,root,TXT,ok,v=spf1 +a +mx include:statistics.sl.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 SLE,Statistics office,Statistics Sierra Leone,statistics.sl,_dmarc.statistics.sl,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,117-cc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,300days.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,117-cc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,300days.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,analytics.issv-dqa.mohs.gov.sl,ct,A,ok,,161.97.94.211,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,api.prestrack.mohs.gov.sl,ct,A,ok,,91.98.166.146,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,autoconfig.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,autodiscover.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,autoconfig.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,autodiscover.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,collect.issv-dqa.mohs.gov.sl,ct,A,ok,,161.97.94.211,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,cpanel.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,cpcalendars.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,cpcontacts.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dashboards.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,data.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dhis.mohs.gov.sl,ct,A,ok,,185.224.196.93,,21130,IOMART-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,cpanel.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,cpcalendars.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,cpcontacts.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dashboards.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,data.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dhis.mohs.gov.sl,ct,A,ok,,185.224.196.93,,21130,IOMART-MNT,commercial-host,,IOMART-IE IOMART CLOUD SERVICES LIMITED,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dhis2.mohs.gov.sl,ct,A,ok,,49.13.214.148,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,diasporaengagement.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dms.mohs.gov.sl,dictionary,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,documents-archive.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,diasporaengagement.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dms.mohs.gov.sl,dictionary,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,documents-archive.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,dppi.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,ee-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,ee-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,emr.mohs.gov.sl,ct,A,ok,,49.13.56.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,erp-emr.mohs.gov.sl,ct,A,ok,,49.13.56.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,erp-lumley-emr.mohs.gov.sl,ct,A,ok,,88.198.100.140,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,erp.emr.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,fellowship.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,ftp.mohs.gov.sl,dictionary,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,healthsummit.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,hmis.mohs.gov.sl,ct,A,ok,,217.78.0.75,,31122,DIGIWEB-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,fellowship.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,ftp.mohs.gov.sl,dictionary,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,healthsummit.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,hmis.mohs.gov.sl,ct,A,ok,,217.78.0.75,,31122,DIGIWEB-MNT,commercial-host,,DIGIWEB-AS Digiweb ltd,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,hris.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,ihris.mohs.gov.sl,ct,A,ok,,34.229.149.87,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,issv-dqa.mohs.gov.sl,ct,A,ok,,161.97.74.211,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,issv.mohs.gov.sl,ct,A,ok,,168.119.185.131,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,kc-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,kc-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,lumley-emr.mohs.gov.sl,ct,A,ok,,88.198.100.140,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mail.mohs.gov.sl,dictionary;ct,A,ok,mohs.gov.sl,149.255.61.55,mohs.gov.sl,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mail.mohs.gov.sl,dictionary;ct,A,ok,mohs.gov.sl,149.255.61.55,mohs.gov.sl,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,metabase.prestrack.mohs.gov.sl,ct,A,ok,,91.99.137.107,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mots.mohs.gov.sl,ct,A,ok,,41.78.87.21,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mts.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mots.mohs.gov.sl,ct,A,ok,,41.78.87.21,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mts.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,nctva.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,nhs.mohs.gov.sl,ct,A,ok,,88.198.109.154,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,pikinapp.mohs.gov.sl,ct,A,ok,,13.234.202.178,,,aws,us-hyperscaler-offshore,ap-south-1,aws,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,poe.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,portal.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,portal.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,portal.surge-roster.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,poe.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,portal.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,portal.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,portal.surge-roster.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,prestrack.mohs.gov.sl,ct,A,ok,,91.98.166.146,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,project.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,project.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,recruitment.mohs.gov.sl,ct,A,ok,,91.99.236.36,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,revamp.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,scs.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,sl-kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,sla.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,revamp.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,scs.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,sl-kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,sla.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,sleshi.mohs.gov.sl,ct,A,ok,,78.46.246.107,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,staging.recruitment.mohs.gov.sl,ct,A,ok,,195.110.176.171,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,supervision.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,surge-training.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,system.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,staging.recruitment.mohs.gov.sl,ct,A,ok,,195.110.176.171,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,supervision.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,surge-training.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,system.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test-api.prestrack.mohs.gov.sl,ct,A,ok,,91.99.137.107,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.metabase.prestrack.mohs.gov.sl,ct,A,ok,,91.99.137.107,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.pekinapp.mohs.gov.sl,ct,A,ok,,13.234.202.178,,,aws,us-hyperscaler-offshore,ap-south-1,aws,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.prestrack.mohs.gov.sl,ct,A,ok,,91.99.137.107,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.prestrack.mohs.gov.sl.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.recruitment.mohs.gov.sl,ct,A,ok,,195.110.176.171,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.sleshi.mohs.gov.sl,ct,A,ok,,195.110.176.172,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.recruitment.mohs.gov.sl,ct,A,ok,,195.110.176.171,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,test.sleshi.mohs.gov.sl,ct,A,ok,,195.110.176.172,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,vaccines.mohs.gov.sl,ct,A,ok,,34.136.194.239,,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,vaccinesapi.mohs.gov.sl,ct,A,ok,,34.136.194.239,,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,webdisk.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,webmail.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,whm.mohs.gov.sl,dictionary,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.117-cc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.300days.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,webdisk.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,webmail.mohs.gov.sl,dictionary;ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,whm.mohs.gov.sl,dictionary,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.117-cc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.300days.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.analytics.issv-dqa.mohs.gov.sl,ct,A,ok,,161.97.94.211,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.collect.issv-dqa.mohs.gov.sl,ct,A,ok,,161.97.94.211,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.dashboards.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.data.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.dhis.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.dashboards.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.data.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.dhis.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.dhis2.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.diasporaengagement.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.documents-archive.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.diasporaengagement.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.documents-archive.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.dppi.mohs.gov.sl,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.ee-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.fellowship.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.healthsummit.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.hmis.mohs.gov.sl,ct,A,ok,,217.78.0.75,,31122,DIGIWEB-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.ee-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.fellowship.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.healthsummit.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.hmis.mohs.gov.sl,ct,A,ok,,217.78.0.75,,31122,DIGIWEB-MNT,commercial-host,,DIGIWEB-AS Digiweb ltd,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.hris.mohs.gov.sl,ct,A,ok,,96.126.123.124,,63949,Linode,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.issv-dqa.mohs.gov.sl,ct,A,ok,,161.97.74.211,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.kc-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.kc-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.lumley-emr.mohs.gov.sl,ct,A,ok,,88.198.100.140,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.mohs.gov.sl,root;ct,A,ok,mohs.gov.sl,149.255.61.55,mohs.gov.sl,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.mots.mohs.gov.sl,ct,A,ok,,41.78.87.21,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.mts.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.poe.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.portal.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.portal.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.portal.surge-roster.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.project.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.revamp.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.scs.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.sl-kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.sla.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.supervision.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.surge-training.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.system.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.mohs.gov.sl,root;ct,A,ok,mohs.gov.sl,149.255.61.55,mohs.gov.sl,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.mots.mohs.gov.sl,ct,A,ok,,41.78.87.21,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.mts.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.poe.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.portal.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.portal.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.portal.surge-roster.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.project.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.revamp.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.scs.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.sl-kpi-cc.mohs.gov.sl,ct,A,ok,,41.78.87.28,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.sla.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.supervision.mohs.gov.sl,ct,A,ok,,41.78.87.66,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.surge-training.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.system.surge-eoc.mohs.gov.sl,ct,A,ok,,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.vaccines.mohs.gov.sl,ct,A,ok,,34.136.194.239,,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,www.vaccinesapi.mohs.gov.sl,ct,A,ok,,34.136.194.239,,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,MX,ok,mohs.gov.sl,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,NS,ok,ns2-dedivps-136563.dedicloud.co.uk,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
-SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,NS,ok,ns1-dedivps-136563.dedicloud.co.uk,149.255.61.55,,34931,UM82926-MNT,unattributed,,,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,MX,ok,mohs.gov.sl,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,NS,ok,ns2-dedivps-136563.dedicloud.co.uk,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,NS,ok,ns1-dedivps-136563.dedicloud.co.uk,149.255.61.55,,34931,UM82926-MNT,commercial-host,,AWARESOFT Awareness Software Limited,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,root,TXT,ok,v=spf1 ip4:149.255.61.55 ip4:149.255.62.151 include:relay.thundermail.uk ip4:149.255.60.170 +a +mx ~all,,,,,,,,2026-09-29
 SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,_dmarc.mohs.gov.sl,root,TXT,ok,v=DMARC1; p=none; sp=none; rf=afrf; pct=100; ri=86400,,,,,,,,2026-09-29
-SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,cs.nacsa.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,cs.nacsa.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,dashboard.nacsa.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,dc.nacsa.gov.sl,dictionary;ct,A,ok,,146.190.63.41,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,ee.kobo.nacsa.gov.sl,ct,A,ok,,68.183.102.132,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
@@ -769,25 +769,25 @@ SLE,Social protection / Social registry,National Commission for Social Action,na
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,kf.kobo.nacsa.gov.sl,ct,A,ok,,68.183.102.132,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,kobo.nacsa.gov.sl,ct,A,ok,,68.183.102.132,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,lists.nacsa.gov.sl,dictionary,A,ok,nacsa.gov.sl,23.236.62.147,nacsa.gov.sl,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
-SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,mail.nacsa.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,mail.nacsa.gov.sl,dictionary,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root;ct,A,ok,,23.236.62.147,,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,production.sprint.nacsa.gov.sl,ct,A,ok,,172.93.48.164,,29802,"Strasmore, Inc.",commercial-host,,Hivelocity,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,test.sprint.nacsa.gov.sl,ct,A,ok,,172.93.54.235,,29802,"Strasmore, Inc.",commercial-host,,Hivelocity,2026-09-29
-SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,webmail.nacsa.gov.sl,dictionary;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,webmail.nacsa.gov.sl,dictionary;ct,A,ok,,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,www.dashboard.nacsa.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,www.nacsa.gov.sl,root;ct,A,ok,nacsa.gov.sl,23.236.62.147,nacsa.gov.sl,,google-cloud,us-hyperscaler-offshore,us-central1,google-cloud,2026-09-29
-SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,MX,ok,mail.nacsa.gov.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,NS,ok,ns1.afcom.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
-SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,NS,ok,ns2.afcom.sl,192.96.217.105,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,MX,ok,mail.nacsa.gov.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,NS,ok,ns1.afcom.sl,192.96.217.94,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,NS,ok,ns2.afcom.sl,192.96.217.105,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
-SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,app.molhcp.gov.sl,dictionary;ct,A,ok,,195.110.181.220,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,app.molhcp.gov.sl,dictionary;ct,A,ok,,195.110.181.220,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,erp.molhcp.gov.sl,dictionary,A,ok,,3.127.81.122,,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
-SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root;ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,sllap.molhcp.gov.sl,ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root;ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,sllap.molhcp.gov.sl,ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,task.molhcp.gov.sl,ct,A,ok,,19.110.181.0,,,Ford Motor Company,unattributed,,,2026-09-29
-SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,task.molhcp.gov.sl,ct,A,ok,,195.110.181.220,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,www.molhcp.gov.sl,root;ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,www.sllap.molhcp.gov.sl,ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,task.molhcp.gov.sl,ct,A,ok,,195.110.181.220,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,www.molhcp.gov.sl,root;ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,www.sllap.molhcp.gov.sl,ct,A,ok,,94.136.170.26,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root,MX,ok,mx2.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root,MX,ok,mx.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root,MX,ok,mx3.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
@@ -797,7 +797,7 @@ SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.s
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root,NS,ok,dns31.cloudns.net,185.136.96.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,root,TXT,ok,v=spf1 include:zohomail.com ~all,,,,,,,,2026-09-29
 SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,_dmarc.molhcp.gov.sl,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:itreport@mocti.gov.sl; ruf=mailto:itreport@mocti.gov.sl; sp=quarantine; adkim=r; aspf=r,,,,,,,,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,api.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,api.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,autodiscover.nassit.org.sl,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.155.56,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,autodiscover.nassit.org.sl,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.220.56,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,autodiscover.nassit.org.sl,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.220.216,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -814,27 +814,27 @@ SLE,Sovereign wealth fund / National pension fund,National Social Security and I
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,autodiscover.nassit.org.sl,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:8f3::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,autodiscover.nassit.org.sl,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:8f7::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,autodiscover.nassit.org.sl,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1858::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,cc.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,crm.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,cc.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,crm.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,email.nassit.org.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,ftp.nassit.org.sl,dictionary,A,ok,nassit.org.sl,217.174.248.151,nassit.org.sl,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,ipv4.nassit.org.sl,dictionary,A,ok,,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,mail.nassit.org.sl,dictionary,A,ok,,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,mobileapp.nassit.org.sl,ct,A,ok,,195.110.178.235,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,mssql.nassit.org.sl,ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,mobileapp.nassit.org.sl,ct,A,ok,,195.110.178.235,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,mssql.nassit.org.sl,ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nassit.org.sl,root;ct,A,ok,,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nms.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nms.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,ns1.nassit.org.sl,dictionary,A,ok,,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,ns2.nassit.org.sl,dictionary,A,ok,,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,pam.nassit.org.sl,ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,pam.nassit.org.sl,ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,pas.nassit.org.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,pm-bounces.nassit.org.sl,dictionary,A,ok,pm.mtasv.net,3.151.183.64,pm.mtasv.net,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,pm-bounces.nassit.org.sl,dictionary,A,ok,pm.mtasv.net,18.191.49.4,pm.mtasv.net,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,pm-bounces.nassit.org.sl,dictionary,A,ok,pm.mtasv.net,16.59.101.19,pm.mtasv.net,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,reports.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,selfservice.nassit.org.sl,ct,A,ok,,195.110.178.235,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,reports.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,selfservice.nassit.org.sl,ct,A,ok,,195.110.178.235,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,ss.nassit.org.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,sso.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,sso.nassit.org.sl,dictionary;ct,A,ok,,195.110.184.36,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,webmail.nassit.org.sl,dictionary;ct,A,ok,,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,www.nassit.org.sl,root;ct,A,ok,nassit.org.sl,217.174.248.151,nassit.org.sl,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nassit.org.sl,root,MX,ok,nassit-org-sl.mail.protection.outlook.com,52.101.73.120,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -842,61 +842,61 @@ SLE,Sovereign wealth fund / National pension fund,National Social Security and I
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nassit.org.sl,root,NS,ok,ns2.nassit.org.sl,217.174.248.151,,8560,AS15418-MNT,commercial-host,,IONOS,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nassit.org.sl,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,_dmarc.nassit.org.sl,root,TXT,ok,v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com,,,,,,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,administration-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,administration-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,administration-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,backup.nppa.gov.sl,dictionary;ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,administration-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,administration-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,administration-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,backup.nppa.gov.sl,dictionary;ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo.egp.nppa.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo.prod.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,bo.prod.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,citizenportal.nppa.gov.sl,ct,A,ok,,209.182.232.47,,29802,"Strasmore, Inc.",commercial-host,,Hivelocity,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,files-console-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,files-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,files-gep.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,iam-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,iam-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,iam-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,infrastructure-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,infrastructure-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,infrastructure-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,files-console-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,files-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,files-gep.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,iam-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,iam-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,iam-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,infrastructure-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,infrastructure-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,infrastructure-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,mail.nppa.gov.sl,dictionary;ct,A,ok,,169.58.89.252,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,minio-console-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,minio-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,monitor.nppa.gov.sl,dictionary;ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,marketplace.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,minio-console-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,minio-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,monitor.nppa.gov.sl,dictionary;ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,nppa.gov.sl,root;ct,A,ok,,192.250.239.215,,51713,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,portal.nppa.gov.sl,dictionary;ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,uptime-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,planning.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,portal.nppa.gov.sl,dictionary;ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,rms.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,tendering.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,uptime-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,vendor.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,webmail.nppa.gov.sl,dictionary;ct,A,ok,,169.58.89.252,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
-SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works-training-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works-uat-egp.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,works.nppa.gov.sl,ct,A,ok,,195.110.184.132,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,www.nppa.gov.sl,root;ct,A,ok,,192.250.239.215,,51713,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,nppa.gov.sl,root,MX,ok,nppa-gov-sl.mail.protection.outlook.com,52.101.73.120,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,nppa.gov.sl,root,NS,ok,dns32.cloudns.net,185.136.97.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
@@ -933,7 +933,7 @@ SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,lists.e
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,lists.edsa.sl,dictionary,AAAA,ok,,2606:4700:20::681a:943,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,lists.edsa.sl,dictionary,AAAA,ok,,2606:4700:20::ac43:4659,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,lists.edsa.sl,dictionary,AAAA,ok,,2606:4700:20::681a:843,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,mail.edsa.sl,dictionary;ct,A,ok,,41.78.86.18,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,mail.edsa.sl,dictionary;ct,A,ok,,41.78.86.18,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,ns1.edsa.sl,dictionary,A,ok,,104.26.8.67,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,ns1.edsa.sl,dictionary,A,ok,,172.67.70.89,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,ns1.edsa.sl,dictionary,A,ok,,104.26.9.67,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -963,8 +963,8 @@ SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,www.eds
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,www.edsa.sl,root;ct,AAAA,ok,,2606:4700:20::681a:943,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,www.email.edsa.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,www.mail.edsa.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,MX,ok,edsasecure.edsa.sl,41.78.87.67,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
-SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,MX,ok,edsasecure.edsa.sl,41.78.87.67,,37208,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,MX,ok,edsasecure.edsa.sl,41.78.87.67,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
+SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,MX,ok,edsasecure.edsa.sl,41.78.87.67,,37208,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Afcom (SL) Limited - Afcom (SL) Limited,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,NS,ok,chelsea.ns.cloudflare.com,108.162.194.177,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,NS,ok,junade.ns.cloudflare.com,108.162.195.30,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,root,TXT,ok,v=spf1 ip4:41.78.86.17 mx a:mail.edsa.sl ~all,,,,,,,,2026-09-29
@@ -984,20 +984,20 @@ SLE,Ports authority,Sierra Leone Ports Authority,slpa.sl,www.exitgate.slpa.sl,ct
 SLE,Ports authority,Sierra Leone Ports Authority,slpa.sl,www.slpa.sl,root;ct,A,servfail,,,,,,unresolved,,,2026-09-29
 SLE,Ports authority,Sierra Leone Ports Authority,slpa.sl,slpa.sl,root,MX,servfail,,,,,,unresolved,,,2026-09-29
 SLE,Ports authority,Sierra Leone Ports Authority,slpa.sl,slpa.sl,root,NS,servfail,,,,,,unresolved,,,2026-09-29
-SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,app.sierratel.sl,dictionary,A,ok,,41.223.133.22,,36988,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,app.sierratel.sl,dictionary,A,ok,,41.223.133.22,,36988,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Africell Sierra Leone Limited - Africell Sierra Leone Limited,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,cpanel.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,cpcalendars.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,cpcontacts.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,helpdesk.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,mail.sierratel.sl,dictionary;ct,A,ok,,192.96.211.4,,12129,"Sectorlink, L.L.C.",unattributed,,,2026-09-29
+SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,mail.sierratel.sl,dictionary;ct,A,ok,,192.96.211.4,,12129,"Sectorlink, L.L.C.",telco-isp,,"123NET - 123.Net, Inc.",2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,reports.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,sierratel.sl,root;ct,A,ok,,41.223.133.20,,36988,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,sierratel.sl,root;ct,A,ok,,41.223.133.20,,36988,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Africell Sierra Leone Limited - Africell Sierra Leone Limited,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,webdisk.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,webmail.sierratel.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,website.sierratel.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,www.helpdesk.sierratel.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,www.reports.sierratel.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,www.sierratel.sl,root;ct,A,ok,,41.223.133.20,,36988,African Network Information Center - (AfriNIC) Ltd,unattributed,,,2026-09-29
+SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,www.sierratel.sl,root;ct,A,ok,,41.223.133.20,,36988,African Network Information Center - (AfriNIC) Ltd,telco-isp,,Africell Sierra Leone Limited - Africell Sierra Leone Limited,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,sierratel.sl,root,NS,ok,dns33.cloudns.net,185.136.98.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,sierratel.sl,root,NS,ok,dns32.cloudns.net,185.136.97.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
 SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,sierratel.sl,root,NS,ok,dns34.cloudns.net,185.136.99.100,,203391,bg-cloud-1-mnt,commercial-host,,ClouDNS,2026-09-29
@@ -1005,7 +1005,7 @@ SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,sierra
 SLE,E-government agency,Government of Sierra Leone,gov.sl,gov.sl,root,A,noanswer,,,,,,unresolved,,,2026-09-29
 SLE,E-government agency,Government of Sierra Leone,gov.sl,www.gov.sl,root,A,servfail,,,,,,unresolved,,,2026-09-29
 SLE,E-government agency,Government of Sierra Leone,gov.sl,gov.sl,root,NS,ok,ns1.neoip.com,51.195.14.249,,16276,OVH GmbH,commercial-host,,OVH,2026-09-29
-SLE,E-government agency,Government of Sierra Leone,gov.sl,gov.sl,root,NS,ok,ns2.neoip.com,45.83.41.38,,204548,CloudWebManage-MNT,unattributed,,,2026-09-29
+SLE,E-government agency,Government of Sierra Leone,gov.sl,gov.sl,root,NS,ok,ns2.neoip.com,45.83.41.38,,204548,CloudWebManage-MNT,commercial-host,,CLOUDWEBMANAGE-IL-FR Kamatera Inc,2026-09-29
 SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,autoconfig.natcom.gov.sl,dictionary,A,ok,,34.174.212.58,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,autodiscover.natcom.gov.sl,dictionary,A,ok,,34.174.212.58,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
 SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,ftp.natcom.gov.sl,dictionary,A,ok,,34.174.212.58,,,google-cloud,us-hyperscaler-offshore,us-south1,google-cloud,2026-09-29
@@ -1022,32 +1022,32 @@ SLE,Communications regulator,National Telecommunications Commission,natcom.gov.s
 SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,natcom.gov.sl,root,NS,ok,ns1.siteground.net,75.2.77.104,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,natcom.gov.sl,root,TXT,ok,v=spf1 +a +mx +ip4:34.174.212.58  include:natcom.gov.sl.spf.auto.dnssmarthost.net ~all,,,,,,,,2026-09-29
 SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,_dmarc.natcom.gov.sl,root,TXT,ok,v=DMARC1; p=none; aspf=r; adkim=r;,,,,,,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root;ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,autoconfig.auditservice.gov.sl,dictionary,A,ok,,198.23.53.75,,14555,LiquidNet US LLC,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,autodiscover.auditservice.gov.sl,dictionary;ct,A,ok,auditservice.gov.sl,94.136.170.52,auditservice.gov.sl,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,imap.auditservice.gov.sl,dictionary,A,ok,,160.20.114.25,,328258,Zen Internet Company (SL) Limited,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,jobportal.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root;ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,autoconfig.auditservice.gov.sl,dictionary,A,ok,,198.23.53.75,,14555,LiquidNet US LLC,commercial-host,,LIQUIDNETLTD1 - LiquidNet US LLC,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,autodiscover.auditservice.gov.sl,dictionary;ct,A,ok,auditservice.gov.sl,94.136.170.52,auditservice.gov.sl,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,imap.auditservice.gov.sl,dictionary,A,ok,,160.20.114.25,,328258,Zen Internet Company (SL) Limited,telco-isp,,Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,jobportal.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,mail.auditservice.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,mis.auditservice.gov.sl,dictionary,A,ok,,94.136.170.44,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,pop.auditservice.gov.sl,dictionary,A,ok,,160.20.114.25,,328258,Zen Internet Company (SL) Limited,unattributed,,,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,mis.auditservice.gov.sl,dictionary,A,ok,,94.136.170.44,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,pop.auditservice.gov.sl,dictionary,A,ok,,160.20.114.25,,328258,Zen Internet Company (SL) Limited,telco-isp,,Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,sierra-seat.auditservice.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,smtp.auditservice.gov.sl,dictionary,A,ok,,160.20.114.25,,328258,Zen Internet Company (SL) Limited,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,training-seat.auditservice.gov.sl,ct,A,ok,,160.20.114.11,,328258,Zen Internet Company (SL) Limited,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,webarchive2023.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,smtp.auditservice.gov.sl,dictionary,A,ok,,160.20.114.25,,328258,Zen Internet Company (SL) Limited,telco-isp,,Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,training-seat.auditservice.gov.sl,ct,A,ok,,160.20.114.11,,328258,Zen Internet Company (SL) Limited,telco-isp,,Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,webarchive2023.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,webmail.auditservice.gov.sl,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,website.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.auditservice.gov.sl,root;ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.jobportal.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,website.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.auditservice.gov.sl,root;ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.jobportal.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.mail.auditservice.gov.sl,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.webarchive2023.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.website.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.webarchive2023.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,www.website.auditservice.gov.sl,ct,A,ok,,94.136.170.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,MX,ok,mx.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,MX,ok,mx3.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,MX,ok,mx2.zoho.com,136.143.191.44,,2639,ZOHO,commercial-host,,Zoho,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns3.vbtechhosting.com,94.136.171.52,,42831,LiquidNet Ltd.,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns2.vbtechhosting.com,198.23.55.153,,14555,LiquidNet US LLC,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns4.vbtechhosting.com,185.196.102.2,,49282,fi-liquidnet-1-mnt,unattributed,,,2026-09-29
-SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns1.vbtechhosting.com,198.23.54.154,,14555,LiquidNet US LLC,unattributed,,,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns3.vbtechhosting.com,94.136.171.52,,42831,LiquidNet Ltd.,commercial-host,,UKSERVERS-AS UK Dedicated Servers Limited,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns2.vbtechhosting.com,198.23.55.153,,14555,LiquidNet US LLC,commercial-host,,LIQUIDNETLTD1 - LiquidNet US LLC,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns4.vbtechhosting.com,185.196.102.2,,49282,fi-liquidnet-1-mnt,commercial-host,,FICOLO Glesys AB,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,NS,ok,ns1.vbtechhosting.com,198.23.54.154,,14555,LiquidNet US LLC,commercial-host,,LIQUIDNETLTD1 - LiquidNet US LLC,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,root,TXT,ok,v=spf1 all,,,,,,,,2026-09-29
 SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,_dmarc.auditservice.gov.sl,root,TXT,ok,v=DMARC1; p=reject; rua=mailto:dmarc@auditservice.gov.sl; ruf=mailto:dmarc@auditservice.gov.sl; sp=quarantine; adkim=r; aspf=r,,,,,,,,2026-09-29
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,anticorruption.gov.sl,root;ct,A,ok,,35.176.107.124,,,aws,us-hyperscaler-offshore,eu-west-2,aws,2026-09-29
@@ -1066,7 +1066,7 @@ SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,mail.anticorruption.gov.sl,dictionary;ct,A,ok,,35.178.88.117,,,aws,us-hyperscaler-offshore,eu-west-2,aws,2026-09-29
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,oldasset.anticorruption.gov.sl,ct,A,ok,,35.178.34.208,,,aws,us-hyperscaler-offshore,eu-west-2,aws,2026-09-29
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,reports.anticorruption.gov.sl,dictionary;ct,A,ok,,63.250.53.222,,29802,"Strasmore, Inc.",commercial-host,,Hivelocity,2026-09-29
-SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,staging.assets.anticorruption.gov.sl,ct,A,ok,,195.110.176.86,,209049,PSL-MNT,unattributed,,,2026-09-29
+SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,staging.assets.anticorruption.gov.sl,ct,A,ok,,195.110.176.86,,209049,PSL-MNT,commercial-host,,MICHCOM MICHCOM LIMITED,2026-09-29
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,webdisk.anticorruption.gov.sl,dictionary;ct,A,ok,,35.178.88.117,,,aws,us-hyperscaler-offshore,eu-west-2,aws,2026-09-29
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,webmail.anticorruption.gov.sl,dictionary;ct,A,ok,,35.178.88.117,,,aws,us-hyperscaler-offshore,eu-west-2,aws,2026-09-29
 SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,www.anticorruption.gov.sl,root;ct,A,ok,anticorruption.gov.sl,35.176.107.124,anticorruption.gov.sl,,aws,us-hyperscaler-offshore,eu-west-2,aws,2026-09-29

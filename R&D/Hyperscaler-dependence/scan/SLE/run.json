@@ -319,27 +319,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "205544": "LEASEWEB-UK-LON-11 Leaseweb UK Limited",
-  "328581": "Fiber One (SL) LIMITED - Fiber One (SL) LIMITED",
-  "12129": "123NET - 123.Net, Inc.",
-  "36928": "African Network Information Center - (AfriNIC) Ltd",
-  "209049": "MICHCOM MICHCOM LIMITED",
-  "329109": "Zoodlabs(SL) Limited - Zoodlabs(SL) Limited",
-  "3303": "SWISSCOM Swisscom (Schweiz) AG",
-  "26496": "AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC",
-  "37449": "ONLIME SL LIMITED - ONLIME SL LIMITED",
-  "327990": "AI NETWORKS LIMITED - AI NETWORKS LIMITED",
-  "32097": "WII - WholeSale Internet, Inc.",
-  "15694": "ATMAN-ISP-AS Atman Sp. z o.o.",
-  "36988": "Africell Sierra Leone Limited - Africell Sierra Leone Limited",
-  "37208": "Afcom (SL) Limited - Afcom (SL) Limited",
-  "34931": "AWARESOFT Awareness Software Limited",
-  "21130": "IOMART-IE IOMART CLOUD SERVICES LIMITED",
-  "31122": "DIGIWEB-AS Digiweb ltd",
-  "204548": "CLOUDWEBMANAGE-IL-FR Kamatera Inc",
-  "328258": "Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 786,
@@ -348,15 +328,16 @@
    "us_saas_share": 4.6,
    "cdn_share": 8.3,
    "national_or_self_share": 0.5,
-   "unattributed": 315,
+   "unattributed": 1,
    "by_category": {
-    "unattributed": 315,
-    "commercial-host": 207,
+    "commercial-host": 405,
     "us-hyperscaler-offshore": 154,
+    "telco-isp": 116,
     "us-saas": 36,
     "unresolved": 5,
     "self-hosted": 4,
-    "cdn-origin-unknown": 65
+    "cdn-origin-unknown": 65,
+    "unattributed": 1
    },
    "institutions": 34,
    "names": 808,
@@ -372,13 +353,14 @@
    "us_saas_share": 5.5,
    "cdn_share": 7.8,
    "national_or_self_share": 0.0,
-   "unattributed": 261,
+   "unattributed": 1,
    "by_category": {
-    "unattributed": 261,
-    "commercial-host": 177,
+    "commercial-host": 352,
     "us-hyperscaler-offshore": 114,
+    "telco-isp": 85,
     "us-saas": 35,
     "unresolved": 3,
+    "unattributed": 1,
     "cdn-origin-unknown": 50
    },
    "institutions": 27,
@@ -395,10 +377,10 @@
    "us_saas_share": 0.7,
    "cdn_share": 10.3,
    "national_or_self_share": 2.7,
-   "unattributed": 54,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 30,
-    "unattributed": 54,
+    "commercial-host": 53,
+    "telco-isp": 31,
     "us-hyperscaler-offshore": 40,
     "unresolved": 2,
     "self-hosted": 4,
