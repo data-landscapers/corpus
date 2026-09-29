@@ -3,11 +3,13 @@ Presidency,The Presidency,thepresidency.gov.za,presidency.gov.za,scanned 2026-09
 Parliament,Parliament of the Republic of South Africa,parliament.gov.za,parliament.gov.za,scanned 2026-09-28,
 Foreign Affairs,Department of International Relations and Cooperation (DIRCO),dirco.gov.za,dirco.gov.za,scanned 2026-09-28,
 Defence,Department of Defence and SANDF,dod.mil.za,dod.mil.za,scanned 2026-09-28,homepage timed out 2026-09-28; one domain for ministry and forces
+Armed Forces,Armed Forces,,,absent,the SANDF is covered by the Defence row (dod.mil.za)
 Police,South African Police Service,saps.gov.za,saps.gov.za,scanned 2026-09-28,site served by SITA
 Justice,Department of Justice and Constitutional Development,justice.gov.za,justice.gov.za,scanned 2026-09-28,
 Justice,Office of the Chief Justice / Judiciary,judiciary.org.za,judiciary.org.za,scanned 2026-09-28,
 Treasury / Finance,National Treasury,treasury.gov.za,treasury.gov.za,scanned 2026-09-28,
 Revenue Service,South African Revenue Service,sars.gov.za,sars.gov.za,scanned 2026-09-28,customs sits within SARS; no separate domain
+Customs,Customs,,,absent,SARS runs customs; covered by the Revenue Service row (sars.gov.za)
 Intelligence,State Security Agency,ssa.gov.za,ssa.gov.za,scanned 2026-09-28,
 Interior / Home Affairs,Department of Home Affairs,dha.gov.za,dha.gov.za,scanned 2026-09-28,also the civil registry and ID authority and immigration and passports
 Central Bank,South African Reserve Bank,resbank.co.za,resbank.co.za,scanned 2026-09-28,
@@ -23,30 +25,32 @@ Commercial Banks,Discovery Bank,discovery.co.za,discovery.co.za,scanned 2026-09-
 Commercial Banks,African Bank,africanbank.co.za,africanbank.co.za,scanned 2026-09-28,
 Commercial Banks,TymeBank,tymebank.co.za,tymebank.co.za,scanned 2026-09-28,digital bank
 Commercial Banks,Bidvest Bank,bidvestbank.co.za,bidvestbank.co.za,scanned 2026-09-28,foreign branches (Citi HSBC JP Morgan) excluded from the ten
+Civil registry / National ID authority,Civil registry / National ID authority,,,absent,Home Affairs keeps the population register and issues ID; covered by the Interior row (dha.gov.za)
 Data protection authority,Information Regulator,inforegulator.org.za,inforegulator.org.za,scanned 2026-09-28,
 Electoral commission,Electoral Commission of South Africa (IEC),elections.org.za,elections.org.za,scanned 2026-09-28,
 Statistics office,Statistics South Africa,statssa.gov.za,statssa.gov.za,scanned 2026-09-28,
-Health ministry,National Department of Health,health.gov.za,health.gov.za,scanned 2026-09-28,NHI has no separate domain yet
-Social protection,South African Social Security Agency (SASSA),sassa.gov.za,sassa.gov.za,scanned 2026-09-28,
-Social protection,Department of Social Development,dsd.gov.za,dsd.gov.za,scanned 2026-09-28,
+Immigration / Passports,Immigration / Passports,,,absent,Home Affairs issues passports; covered by the Interior row (dha.gov.za)
+Health ministry / National health insurance,National Department of Health,health.gov.za,health.gov.za,scanned 2026-09-28,NHI has no separate domain yet
+Social protection / Social registry,South African Social Security Agency (SASSA),sassa.gov.za,sassa.gov.za,scanned 2026-09-28,
+Social protection / Social registry,Department of Social Development,dsd.gov.za,dsd.gov.za,scanned 2026-09-28,
 Land registry,Department of Land Reform and Rural Development (Deeds Office),dalrrd.gov.za,dalrrd.gov.za,scanned 2026-09-28,homepage returned Indonesian gambling content on fetch — site may be compromised; a finding for Step Three
 National payment switch,BankservAfrica,bankservafrica.com,bankservafrica.com,scanned 2026-09-28,bank-owned
 National payment switch,Payments Association of South Africa (PASA),pasa.org.za,pasa.org.za,scanned 2026-09-28,
 Stock exchange,Johannesburg Stock Exchange,jse.co.za,jse.co.za,scanned 2026-09-28,
 Securities regulator,Financial Sector Conduct Authority,fsca.co.za,fsca.co.za,scanned 2026-09-28,
-Sovereign wealth / pension fund,Public Investment Corporation,pic.gov.za,pic.gov.za,scanned 2026-09-28,
-Sovereign wealth / pension fund,Government Employees Pension Fund,gepf.co.za,gepf.co.za,scanned 2026-09-28,
+Sovereign wealth fund / National pension fund,Public Investment Corporation,pic.gov.za,pic.gov.za,scanned 2026-09-28,
+Sovereign wealth fund / National pension fund,Government Employees Pension Fund,gepf.co.za,gepf.co.za,scanned 2026-09-28,
 Public procurement authority,National Treasury eTender portal,etenders.gov.za,etenders.gov.za,scanned 2026-09-28,portal only; the OCPO is under treasury.gov.za
 Energy utility,Eskom,eskom.co.za,eskom.co.za,scanned 2026-09-28,
 Ports authority,Transnet,transnet.net,transnet.net,scanned 2026-09-28,TNPA is a division; also transnetnationalportsauthority.net
-State-owned telco,Telkom,telkom.co.za,telkom.co.za,scanned 2026-09-28,part-state-owned
-State-owned telco,Broadband Infraco,infraco.co.za,infraco.co.za,scanned 2026-09-28,national backbone
-State-owned telco,Sentech,sentech.co.za,sentech.co.za,scanned 2026-09-28,
+State-owned telco / National backbone operator,Telkom,telkom.co.za,telkom.co.za,scanned 2026-09-28,part-state-owned
+State-owned telco / National backbone operator,Broadband Infraco,infraco.co.za,infraco.co.za,scanned 2026-09-28,national backbone
+State-owned telco / National backbone operator,Sentech,sentech.co.za,sentech.co.za,scanned 2026-09-28,
 E-government agency,Government portal (GCIS),gov.za,gcis.gov.za,scanned 2026-09-28,www.gov.za is the portal; GCIS runs it
 E-government agency,Department of Communications and Digital Technologies,dcdt.gov.za,dcdt.gov.za,scanned 2026-09-28,
-National data centre / Government cloud,State Information Technology Agency (SITA),sita.co.za,sita.co.za,scanned 2026-09-28,the sovereign bucket; its ranges must be recognised
-Cybersecurity agency / CERT,Cybersecurity Hub (national CSIRT),cybersecurityhub.gov.za,cybersecurityhub.gov.za,scanned 2026-09-28,under DCDT
+National data centre / Government cloud operator,State Information Technology Agency (SITA),sita.co.za,sita.co.za,scanned 2026-09-28,the sovereign bucket; its ranges must be recognised
+Cybersecurity agency / National CERT,Cybersecurity Hub (national CSIRT),cybersecurityhub.gov.za,cybersecurityhub.gov.za,scanned 2026-09-28,under DCDT
 Communications regulator,ICASA,icasa.org.za,icasa.org.za,scanned 2026-09-28,
 Audit office,Auditor-General of South Africa,agsa.co.za,agsa.co.za,scanned 2026-09-28,
-Anti-corruption,Special Investigating Unit,siu.org.za,siu.org.za,scanned 2026-09-28,
-Anti-corruption,Public Protector,pprotect.org,pprotect.org,scanned 2026-09-28,
+Anti-corruption commission,Special Investigating Unit,siu.org.za,siu.org.za,scanned 2026-09-28,
+Anti-corruption commission,Public Protector,pprotect.org,pprotect.org,scanned 2026-09-28,
