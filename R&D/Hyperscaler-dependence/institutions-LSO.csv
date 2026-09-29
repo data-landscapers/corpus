@@ -1,41 +1,41 @@
 type,institution,domain,email_domain,status,note
 Presidency,Office of the Prime Minister,,,absent,shares gov.ls (page under gov.ls/office-of-the-prime-minister)
-Parliament,Parliament of Lesotho,parliament.ls,,confirmed 2026-09-29,
+Parliament,Parliament of Lesotho,parliament.ls,parliament.ls,scanned 2026-09-29,
 Foreign Affairs,Ministry of Foreign Affairs and International Relations,,,absent,shares gov.ls
-Defence,Ministry of Defence and National Security,defence.gov.ls,,confirmed 2026-09-29,
-Armed Forces,Lesotho Defence Force,ldf.gov.ls,,confirmed 2026-09-29,
-Police,Lesotho Mounted Police Service,lmps.org.ls,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Justice,Ministry of Justice and Law,justice.gov.ls,,confirmed 2026-09-29,
-Justice,Judiciary of Lesotho,jud.gov.ls,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Treasury / Finance,Ministry of Finance and Development Planning,finance.gov.ls,,confirmed 2026-09-29,
-Revenue Service,Revenue Services Lesotho,rsl.org.ls,,confirmed 2026-09-29,
+Defence,Ministry of Defence and National Security,defence.gov.ls,,scanned 2026-09-29,
+Armed Forces,Lesotho Defence Force,ldf.gov.ls,,scanned 2026-09-29,
+Police,Lesotho Mounted Police Service,lmps.org.ls,,scanned 2026-09-29,homepage did not load: ConnectionError
+Justice,Ministry of Justice and Law,justice.gov.ls,,scanned 2026-09-29,
+Justice,Judiciary of Lesotho,jud.gov.ls,,dead,homepage did not load: ConnectionError
+Treasury / Finance,Ministry of Finance and Development Planning,finance.gov.ls,,scanned 2026-09-29,
+Revenue Service,Revenue Services Lesotho,rsl.org.ls,rsl.org.ls,scanned 2026-09-29,
 Customs,Lesotho Customs (Revenue Services Lesotho),,,absent,shares rsl.org.ls with Revenue Service
 Intelligence,National Security Service,,,absent,no public domain found
-Interior / Home Affairs,Ministry of Home Affairs,homeaffairs.gov.ls,,confirmed 2026-09-29,
-Central Bank,Central Bank of Lesotho,centralbank.org.ls,,confirmed 2026-09-29,
-Commercial Banks,Standard Lesotho Bank,standardlesothobank.co.ls,,confirmed 2026-09-29,Bank list: Central Bank of Lesotho licensed financial institutions list (centralbank.org.ls/other-financial-institutions-2/; July 2024): only four licensed commercial banks so four rows
-Commercial Banks,Nedbank Lesotho,nedbank.co.ls,,confirmed 2026-09-29,
-Commercial Banks,First National Bank Lesotho,fnb.co.ls,,confirmed 2026-09-29,
-Commercial Banks,Lesotho PostBank,lpb.co.ls,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Interior / Home Affairs,Ministry of Home Affairs,homeaffairs.gov.ls,,scanned 2026-09-29,
+Central Bank,Central Bank of Lesotho,centralbank.org.ls,centralbank.org.ls,scanned 2026-09-29,
+Commercial Banks,Standard Lesotho Bank,standardlesothobank.co.ls,standardlesothobank.co.ls,scanned 2026-09-29,Bank list: Central Bank of Lesotho licensed financial institutions list (centralbank.org.ls/other-financial-institutions-2/; July 2024): only four licensed commercial banks so four rows
+Commercial Banks,Nedbank Lesotho,nedbank.co.ls,nedbank.co.ls,scanned 2026-09-29,
+Commercial Banks,First National Bank Lesotho,fnb.co.ls,fnb.co.ls,scanned 2026-09-29,
+Commercial Banks,Lesotho PostBank,lpb.co.ls,lpb.co.ls,scanned 2026-09-29,homepage did not load: ConnectionError
 Civil registry / National ID authority,National Identity and Civil Registry,,,absent,shares homeaffairs.gov.ls
 Data protection authority,Data Protection Commission,,,absent,no own site found
-Electoral commission,Independent Electoral Commission,iec.org.ls,,confirmed 2026-09-29,
-Statistics office,Bureau of Statistics,bos.gov.ls,,confirmed 2026-09-29,
+Electoral commission,Independent Electoral Commission,iec.org.ls,iec.org.ls,scanned 2026-09-29,
+Statistics office,Bureau of Statistics,bos.gov.ls,,scanned 2026-09-29,
 Immigration / Passports,Department of Immigration,,,absent,shares homeaffairs.gov.ls with Home Affairs
-Health ministry / National health insurance,Ministry of Health,health.gov.ls,,confirmed 2026-09-29,
-Social protection / Social registry,Ministry of Social Development,socialdevelopment.gov.ls,,confirmed 2026-09-29,
-Land registry,Land Administration Authority,laa.org.ls,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,health.gov.ls,,scanned 2026-09-29,
+Social protection / Social registry,Ministry of Social Development,socialdevelopment.gov.ls,,scanned 2026-09-29,
+Land registry,Land Administration Authority,laa.org.ls,laa.org.ls,scanned 2026-09-29,
 National payment switch,LeSwitch,,,absent,run by Central Bank of Lesotho; shares centralbank.org.ls
-Stock exchange,Maseru Securities Market,msm.org.ls,,confirmed 2026-09-29,
+Stock exchange,Maseru Securities Market,msm.org.ls,msm.org.ls,scanned 2026-09-29,
 Securities regulator,Securities regulator,,,absent,none separate; Central Bank of Lesotho supervises
-Sovereign wealth fund / National pension fund,Public Officers' Defined Contribution Pension Fund,pensionfund.org.ls,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Public Officers' Defined Contribution Pension Fund,pensionfund.org.ls,pensionfund.org.ls,scanned 2026-09-29,
 Public procurement authority,Lesotho Public Procurement Authority,,,absent,no own site found
-Energy utility,Lesotho Electricity Company,lec.co.ls,,confirmed 2026-09-29,
+Energy utility,Lesotho Electricity Company,lec.co.ls,lec.co.ls,scanned 2026-09-29,
 Ports authority,Ports authority,,,absent,landlocked; no ports authority
-State-owned telco / National backbone operator,Econet Telecom Lesotho,etl.co.ls,,confirmed 2026-09-29,homepage did not load: ConnectionError
-E-government agency,Government of Lesotho portal,gov.ls,,confirmed 2026-09-29,parent zone; scanned root-only
+State-owned telco / National backbone operator,Econet Telecom Lesotho,etl.co.ls,etl.co.ls,scanned 2026-09-29,homepage did not load: ConnectionError
+E-government agency,Government of Lesotho portal,gov.ls,gov.ls,scanned 2026-09-29,parent zone; scanned root-only
 National data centre / Government cloud operator,National data centre,,,absent,none found
 Cybersecurity agency / National CERT,LesComCSIRT,,,absent,interim CSIRT hosted at lca.org.ls/csirt; shares lca.org.ls
-Communications regulator,Lesotho Communications Authority,lca.org.ls,,confirmed 2026-09-29,
-Audit office,Office of the Auditor General,auditgen.org.ls,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Anti-corruption commission,Directorate on Corruption and Economic Offences,dceo.org.ls,,confirmed 2026-09-29,
+Communications regulator,Lesotho Communications Authority,lca.org.ls,lca.org.ls,scanned 2026-09-29,
+Audit office,Office of the Auditor General,auditgen.org.ls,,dead,homepage did not load: ConnectionError
+Anti-corruption commission,Directorate on Corruption and Economic Offences,dceo.org.ls,dceo.org.ls,scanned 2026-09-29,

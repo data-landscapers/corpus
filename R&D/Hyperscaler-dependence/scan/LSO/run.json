@@ -1,0 +1,345 @@
+{
+ "iso3": "LSO",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "parliament.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 36,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defence.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "ldf.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "lmps.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "justice.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "jud.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "finance.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "rsl.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "homeaffairs.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "centralbank.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "standardlesothobank.co.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nedbank.co.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fnb.co.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lpb.co.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 135,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "iec.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bos.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "health.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "socialdevelopment.gov.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "laa.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "msm.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pensionfund.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lec.co.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "etl.co.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 123,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.ls": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 9 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "lca.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "auditgen.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "dceo.org.ls": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "33567": "Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD",
+  "37642": "Comnet Pty Ltd - Comnet Pty Ltd",
+  "37057": "Vodacom Lesotho (Pty) Ltd - Vodacom Lesotho (Pty) Ltd",
+  "25695": "Leo (PTY) LTD - Leo (PTY) LTD"
+ },
+ "rollup": {
+  "all": {
+   "routable": 703,
+   "us_hyperscaler_share": 14.7,
+   "african_region_share": 2.0,
+   "us_saas_share": 14.8,
+   "cdn_share": 19.1,
+   "national_or_self_share": 13.8,
+   "unattributed": 116,
+   "by_category": {
+    "african-colo": 110,
+    "unattributed": 116,
+    "cdn-origin-unknown": 134,
+    "commercial-host": 16,
+    "us-saas": 104,
+    "self-hosted": 97,
+    "us-hyperscaler-africa": 14,
+    "us-hyperscaler-offshore": 89,
+    "telco-isp": 23
+   },
+   "institutions": 27,
+   "names": 563,
+   "m365": 12,
+   "google": 1,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 8
+  },
+  "government": {
+   "routable": 416,
+   "us_hyperscaler_share": 11.3,
+   "african_region_share": 2.6,
+   "us_saas_share": 16.1,
+   "cdn_share": 13.9,
+   "national_or_self_share": 19.5,
+   "unattributed": 91,
+   "by_category": {
+    "african-colo": 58,
+    "unattributed": 91,
+    "cdn-origin-unknown": 58,
+    "commercial-host": 14,
+    "us-saas": 67,
+    "self-hosted": 81,
+    "us-hyperscaler-africa": 11,
+    "us-hyperscaler-offshore": 36
+   },
+   "institutions": 23,
+   "names": 337,
+   "m365": 8,
+   "google": 1,
+   "tangled_hybrid": 3,
+   "any_us_hyperscaler": 5
+  },
+  "bank": {
+   "routable": 287,
+   "us_hyperscaler_share": 19.5,
+   "african_region_share": 1.0,
+   "us_saas_share": 12.9,
+   "cdn_share": 26.5,
+   "national_or_self_share": 5.6,
+   "unattributed": 25,
+   "by_category": {
+    "cdn-origin-unknown": 76,
+    "us-saas": 37,
+    "us-hyperscaler-offshore": 53,
+    "self-hosted": 16,
+    "telco-isp": 23,
+    "us-hyperscaler-africa": 3,
+    "unattributed": 25,
+    "african-colo": 52,
+    "commercial-host": 2
+   },
+   "institutions": 4,
+   "names": 226,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 3
+  }
+ },
+ "findings": []
+}
