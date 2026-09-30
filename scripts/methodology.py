@@ -271,12 +271,20 @@ def toc_bar(links: list[tuple[str, str]], label: str) -> str:
     return f'<nav class="article-toc" aria-label="{label}">\n{body}\n</nav>\n'
 
 
+# Pages the bar links that this script does not build, as site-root paths. The table
+# metadata is built by `datasets.py` at `/datasets/metadata/`, where every dataset's
+# Metadata button points, and is listed here as a methodology page (Bill, 2026-09-30).
+ELSEWHERE = [("datasets/metadata/", "Table Metadata")]
+
+
 def see_also(current: str) -> str:
-    """The other three pages of the set, from `PAGES`. From an annex the hub is one
-    directory up and a sibling annex is `../<slug>/`; from the hub both are below."""
+    """The other pages of the set, from `PAGES`, then `ELSEWHERE`. From an annex the hub is
+    one directory up and a sibling annex is `../<slug>/`; from the hub both are below."""
     up = "../" if current else ""
     links = [(up + p["slug"] + "/" if p["slug"] else (up or "./"), p["nav"])
              for p in PAGES if p["slug"] != current]
+    root = "../../" if current else "../"
+    links += [(root + path, nav) for path, nav in ELSEWHERE]
     return toc_bar(links, "Other pages in this section")
 
 

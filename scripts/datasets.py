@@ -405,9 +405,6 @@ INDEX_PAGE = """<!DOCTYPE html>
     <h2 class="section-heading"><a href="../catalogue/">Catalogue</a></h2>
 {catalogue}
 
-    <h2 class="section-heading"><a href="metadata/">Metadata</a></h2>
-{metadata}
-
   </div>
   </main>
 
@@ -606,7 +603,6 @@ def main() -> int:
         ih=indent(copy("datasets", "index-institution-hosting")), **ih_counts,
         finance=indent(copy("datasets", "index-finance")),
         catalogue=indent(copy("datasets", "index-catalogue")),
-        metadata=indent(copy("datasets", "index-metadata")),
         edition=edition, **counts)), encoding="utf-8")
     print(f"datasets: {NAME} {len(rows)} rows, edition {edition} -> site/datasets/")
     return 0

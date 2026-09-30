@@ -30,10 +30,6 @@ Where ministries, regulators, security services, banks and payment systems host 
 
 A searchable index of all sources stored in the repository. While the full text of these sources cannot be shared for copyright reasons, they can all be accessed using the links provided.
 
-## index-metadata
-
-Column definitions for each of the datasets.
-
 ## data-centres-intro
 
 One row per facility, whether operational, under construction or planned. For each one the table records the operator, the ownership chain up to the ultimate parent, and who controls the facility: African, US, other foreign, or joint. **Control is our reading of the ownership chain, not a legal finding.** The table is maintained automatically. When new evidence arrives, the affected rows are corrected or added, and each change is [listed below](#changes) with its sources.
