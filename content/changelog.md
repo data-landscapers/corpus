@@ -2,7 +2,7 @@
 
 - A new dataset, [Institution hosting](/datasets/institution-hosting/), shows where 1,830 ministries, regulators, security services, banks and payment systems in 54 countries host their websites, email and name servers. Each row gives the shares on US cloud, US online services, shields, African data centres, telecoms networks and their own systems, and can be downloaded.
 - The methodology behind the Institution hosting dataset now has [its own page](/datasets/institution-hosting/methodology/), linked from the dataset. It sets out how institutions were chosen, how each address was assigned to a host, and what the figures cannot show.
-- In the data centres and institution hosting tables, hovering over a column heading now shows what the column means. The full definitions stay on the metadata page.
+- In the data centres and institution hosting tables, hovering over or tapping a column heading now shows what the column means. The full definitions stay on the metadata page.
 
 ## 29 September 2026
 
