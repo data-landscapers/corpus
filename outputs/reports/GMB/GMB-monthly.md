@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: GMB
-ledger_rows: 52
+ledger_rows: 53
 not_held: 3
-record: 5a9da72ffc71
+record: a0131d7f9fcb
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -146,6 +146,8 @@ The hub estate is listed rather than surveyed. [Four hubs appear in a continenta
 
 <!-- narrative: capacity--capacity-training -->
 The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+
+The employment ministry [signed memoranda with the applied science university, the Civil Service University and a hardware-technology institute to deliver three years of digital labour skills training under the regional digital integration programme](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/), aimed at youth, women and persons with disabilities; no budget or participant figure is stated.
 <!-- /narrative -->
 
 ## Inclusion

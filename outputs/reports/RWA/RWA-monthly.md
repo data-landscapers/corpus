@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: RWA
-ledger_rows: 62
+ledger_rows: 63
 not_held: 7
-record: 620a4aea7a58
+record: f63bfaf8b8a0
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -198,7 +198,9 @@ An [academic security operation centre is running through a university network b
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-What moved this month is a projection, not a measurement. An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
+The central bank [closed its Gendana Konti campaign, begun in 2023 when 72% of women with phones held mobile money against 81% of men, reporting 615,000 women brought into mobile financial services against a target of 150,000, more than 200,000 of them new to mobile money](https://kiny.gateofwise.com/ikoranabuhanga/abagore-barenga-600000-batangiye-gukoresha-serivisi-zimari-kuri-telefoni-nyuma-yo-kumenya-ibanga-ryayo/). No later figure for the gap is published.
+
+An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
 <!-- /narrative -->
 
 ## Data

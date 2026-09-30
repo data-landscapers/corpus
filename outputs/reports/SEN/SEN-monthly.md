@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: SEN
-ledger_rows: 72
+ledger_rows: 75
 not_held: 3
-record: bfbf04c11d17
+record: 5a379bf52bcc
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -44,7 +44,7 @@ The ministry's own account of the contents grades obligations by risk: [ordinary
 
 Every provision is still the ministry's description. The text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
 
-On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open.
+On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the vote is not held.
 <!-- /narrative -->
 ### Data protection
 
@@ -96,6 +96,11 @@ The exchange point at Dakar is the month's measurable position: it carries [260 
 
 On price, the regulator's index was [flat quarter on quarter across all four operators and all nine consumption profiles, and down 15.6% year on year](https://artp.sn/sites/default/files/2026-08/NOTE%20IPSM%20T2%202026_0.pdf), after falls of 5.3% and 10.2% in the two preceding quarters. It is an index, so it carries no franc amount. The regulator also [published a synthesis of 21 contributions to its consultation on deploying and sharing fibre to the end subscriber](https://artp.sn/partage-infrastructures/fttx), setting no rule, obligation or timetable.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given.
+<!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
@@ -107,6 +112,8 @@ A continental count puts [seven data centres in Senegal at mid-2025, level with 
 The institutions arrived after the attacks. The critical-infrastructure bill [provides for a national computer emergency response team the country does not yet have](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), and the Prime Minister [announced parliamentary hearings following recent attacks on state systems](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html); no system, breach count or data loss is named in the announcement.
 
 Procurement is the state's own diagnosis of the blockage, and it moved by memorandum: a [foreign cybersecurity supplier is reported seeking Senegalese partners](https://www.digitalbusiness.africa/cooperation-la-societe-americaine-de-cybersecurite-cybastion-recherche-des-partenaires-senegalais/), with no contract, value or scope stated. The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
+
+At the end of September the interior minister [confirmed to deputies that the identity-file directorate had been attacked and said a general security audit had been engaged](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); no auditor, scope or completion date is given.
 <!-- /narrative -->
 
 ## DPI
@@ -126,6 +133,8 @@ Deployment moved again in August, and the agency put a frame around it. At Afric
 On International Identity Day the civil-status agency's director [put the modernisation at 77 per cent of the country's 629 civil-status centres, live in six regions with Tambacounda next month and the southern regions in the last quarter, the data held on three state-owned data-centre sites in the country](https://aps.sn/etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec/), up from 74 per cent in August.
 
 At the first national forum on civil registration on 23 September, the civil-registration promotion body [said 58,462 candidates sat the primary-school leaving exam without a civil-status record, with 7,823 at the lower-secondary exam and 98 at the baccalaureate](https://www.seneweb.com/fr/news/Video/etat-civil-58-462-enfants-sans-acte-au-cfee-lalerte-de-lonpec_n_505072.html). The exam year was not stated, and a report to the authorities is to follow without a date.
+
+In committee on bill 21/2026 the interior minister [said identity-card production would pass progressively to Senegalese firms as the Malaysian contractor's contract runs out, and that passports would also be made in the country by national firms](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html). No contract end date, firm or tender is named.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

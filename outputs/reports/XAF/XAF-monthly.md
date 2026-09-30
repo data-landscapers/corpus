@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: XAF
-ledger_rows: 152
+ledger_rows: 156
 not_held: 3
-record: 5b10ae33ab4f
+record: d3fc84c3fb12
 ---
 
 # Africa: monthly update, August – September 2026
@@ -75,6 +75,8 @@ The scarcity behind African-language models is being attacked at the data layer.
 The Commission's Infrastructure and Energy Department [put draft AU Guidelines on AI Governance and Regulation to an online open consultation on 23 and 24 September, with written submissions accepted to 30 September](https://news.internetsociety.org/webinar-23-24-sep-1200-utc-african-union-open-stakeholder-consultation-on-ai-governance-and-regulation/); the draft itself is not published.
 
 A [Hub for AI and Disability Inclusion, hosted at KNUST, and an African Disability Data Network were launched in Nairobi with IDRC, UK and AI4D backing](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/), to build datasets including African sign languages and assess disability inclusion in national AI strategies; no dataset is yet published.
+
+The 2026 Global Index on Responsible AI, [presented at a regional AI governance dialogue convened by the Global Center on AI Governance, finds African countries scoring high on skilling and capacity-building and low on labour protections](https://techreviewafrica.com/news/7520/african-ai-governance-dialogue-calls-for-practical-context-responsive-frameworks), with African workers concentrated in the low-paid and precarious parts of the AI value chain; no country scores are held.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -97,6 +99,8 @@ The capacity the announcements are measured against is small. The data centres a
 
 <!-- narrative: systems--infra-energy -->
 An analysis published in August [argues that smart-metering and grid-optimisation priorities in the national energy compacts are constrained by a fragmented low-power internet-of-things layer](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/mapping-mission-300-unpacking-digitisation-priorities/): narrowband coverage reaches only markets such as South Africa, Kenya and Nigeria, and the 2G/3G networks early smart meters depend on are expected to be retired within a meter's ten-to-fifteen-year life. It calls for integrated energy-and-telecom planning and targeted incentives for low-power wide-area rollout. How many compacts have been published is itself unsettled — 29 on this source, 35 from the same author on 11 August, 30 on the financier's own count of 16 June.
+
+A philanthropic accelerator [announced on 24 September demonstrations testing whether computing load placed at mini-grids can serve as an anchor customer and improve their economics](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/): five new solar-plus-storage sites in Kenya, an under-used solar plant in DR Congo and three rural sites in Sierra Leone, serving about 85,000 people in all, with community demand given priority over compute. No budget, compute buyer or start date is stated.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -135,6 +139,8 @@ The continental rail reported growth without a base: [volumes up about 1,000% an
 Two card-network products launched on 22 September. [Mastercard launched Wallet Pay, a set of wallet interoperability, card-issuing, acceptance and cross-border services for digital wallet providers, with MTN Group Fintech and AXIAN among its African launch partners](https://techafricanews.com/2026/09/22/mastercard-launches-wallet-pay-expand-digital-wallet-interoperability/), and [Verto and Visa launched a corporate card for African businesses that settles in 11 currencies from linked wallets](https://techafricanews.com/2026/09/22/verto-visa-launch-multi-currency-corporate-cards-african-businesses/). Neither publishes African volumes or pricing.
 
 A mobile-money operator moved toward public markets: [Airtel Money, running in 13 African markets, announced on 23 September its intention to float in London, with existing shareholders selling, no new capital raised and the IFC to buy up to GBP67.2m of shares](https://www.londonstockexchange.com/news-article/market-news/airtel-mobile-commerce-n-v-intention-to-float/17799936); the prospectus is due in early October.
+
+Mastercard [said it will explore pairing its account-to-account fraud-scoring and dispute service with the Mojaloop Foundation's open-source instant-payment software, and work with AfricaNenda on instant-payment policy and governance](https://techafricanews.com/2026/09/30/mastercard-partners-with-mojaloop-and-africanenda-to-strengthen-instant-payments-in-africa/), in an announcement reported on 30 September; no country deployment, sum or timetable is stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -229,4 +235,6 @@ Two external programmes were measured against their own claims. The EU's Boost A
 Two private vehicles were announced on 16 September: a Cape Town firm [opened a R1 billion raise, reported as about US$63m, for startups and small businesses, beside an AI platform matching more than 4,000 of them to funders](https://techcabal.com/2026/09/16/22-on-sloane-launches-kumii/), with nothing yet raised; and a UK aid-funded agency [is paying a consultancy to find corporate buyers for African startups](https://techcabal.com/2026/09/16/pula-s2e/), taking no stake itself.
 
 The US development finance agency [held a signing ceremony at the UN General Assembly for its board-approved equity in a pan-African digital infrastructure operator](https://www.dfc.gov/media/press-releases/dfc-highlights-us-leadership-economic-statecraft-sidelines-un-general-assembly); closing is not reported.
+
+The European Investment Bank and the European Commission [confirmed the launch of Boost Ventures in Africa, a successor to Boost Africa backed by a EUR129m Commission guarantee over all its fund investments and EUR4.5m of initial technical assistance](https://www.eib.org/en/press/all/2026-321-africa-s-leading-venture-capital-fund-managers-convene-at-oxford-to-strengthen-investment-expertise-and-advance-venture-investing-across-africa), at the Africa Venture Finance Programme in Oxford in late September; no fund commitment under it is yet published.
 <!-- /narrative -->

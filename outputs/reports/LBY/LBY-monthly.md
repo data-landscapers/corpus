@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: LBY
-ledger_rows: 59
+ledger_rows: 60
 not_held: 2
-record: c9c61a2e8bf3
+record: efba152e8f9e
 ---
 
 # Libya: monthly update, August – September 2026
@@ -115,6 +115,8 @@ Payments moved outward rather than inward. The central bank [is reported to be p
 At a Tripoli conference on 7 September the central bank governor announced a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
+
+September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry.
 <!-- /narrative -->
 ### Registries
 

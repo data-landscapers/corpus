@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: SLE
-ledger_rows: 53
+ledger_rows: 54
 not_held: 5
-record: 11dcc097130e
+record: 4ca3f213d236
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -74,6 +74,8 @@ The same 7 August account states the biometric register runs on a Tier III data 
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
+
+Three rural mini-grid sites [were named on 24 September for a philanthropic demonstration adding computing load to under-used generation](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with local demand given priority; no site, capacity or start date is given for the country.
 <!-- /narrative -->
 ### Cybersecurity
 

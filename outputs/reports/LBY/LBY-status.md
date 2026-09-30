@@ -1,6 +1,6 @@
 ---
 title: Libya: status report
-compiled: 2026-09-29
+compiled: 2026-09-30
 place: LBY
 region: XNA
 built_by: STATUS-INIT
@@ -206,10 +206,10 @@ Social and labour registers sit apart. [A Unified Social Registry was approved i
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-[About 1.7 million public-sector employees — 76% of the workforce — were enrolled in the Ratibak Lahzi salary system at the July 2026 salary release](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/), though [the Central Bank was still working with the Ministry of Finance that month to automate complaint intake and the handling of unexecuted salaries](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/).
+[About 1.75 million of 2.2 million public-sector employees — 79% — were registered in the Ratibak Lahzi salary system when September 2026 salaries were released](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), and [the Central Bank was still automating, with the Ministry of Finance, the intake of complaints about undisbursed salaries](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/).
 
 <!-- derived -->
-Roughly half a million public-sector employees remained outside that system in July 2026.
+About 450,000 public-sector employees remained outside that system in September 2026.
 
 Behind the payroll, the core financial machinery is unbuilt. [The Financial Management Information System is under implementation and not yet operational](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), as is [the Treasury Single Account it is meant to support, with no interface to Central Bank systems and no governance arrangements for treasury operations](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). There is [no unified budget classification or chart of accounts](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [no debt management system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) and [no human resources management information system and no payroll system linked to one](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Libya scores [0.0 for tax and revenue mobilisation and 8.3 for budgetary and financial management, last of 54 African states on both](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf).
 

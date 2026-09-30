@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: SDN
-ledger_rows: 49
+ledger_rows: 51
 not_held: 5
-record: 219211c02b94
+record: acdec4fa0ef3
 ---
 
 # Sudan: monthly update, August – September 2026
@@ -90,6 +90,8 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 The payment outages ran on. [Intermittent failures of the dominant banking app and another e-payment service pushed traders back to cash](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets) and [prompted a social-media campaign to withdraw funds and switch banks](https://akher-khabar.com/archives/63864). The finance ministry [signed a framework with 11 companies to supply portable electronic collection devices to state institutions](https://suda.news/51307).
 
 The gap between cash and app money drew an order from the other side of the war. The RSF commander [told traders in areas his forces hold to charge one price whether customers pay in cash or through banking applications such as Bankak, ending the premium on app payments](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/). In Khartoum, meanwhile, [converting app balances into banknotes cost 5 per cent at most shops and up to 10 per cent at some](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9), amid a cash shortage and restricted banking applications.
+
+The central bank [revoked Sudan Pay Digital's mobile-payment and switching licence on 28 September by Administrative Decision No. 65 of 2026](https://sudanhorizon.com/cbos-revokes-sudan-pay-digitals-mobile-payment-license/), citing the 2026 banking act and the 2020 and 2013 payment regulations and giving no reason; it is the second switch licence withdrawn since July. On 27 September the finance ministry [signed an agreement with MTN Sudan for text-message services on its electronic collection system](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/), so that the operator's subscribers can use the system and follow their transactions.
 <!-- /narrative -->
 ### Registries
 
@@ -111,6 +113,8 @@ The civil-service platform's purpose was argued rather than measured. A commenta
 A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
 
 Identity services are being rebuilt in the capital. The police [reopened the Omdurman and Bahri service complexes, with transactions rising from 206,362 in 2025 to 522,225 in 2026](https://sudan4news.com/?p=35463), and [set out a plan to issue passports, ID cards and licences from home, with cash abolished at the counters through seven banks](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/).
+
+The education ministry [launched online application and electronic fee payment for the Sudan School Certificate on 29 September](https://www.alhakim.net/142777), with the certificate collectable inside or outside the country; no uptake figure is published.
 <!-- /narrative -->
 
 ## Digitalisation

@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: XEA
-ledger_rows: 27
+ledger_rows: 28
 not_held: 0
-record: a1e1e62c17b5
+record: de4ee895a349
 ---
 
 # East Africa: monthly update, August – September 2026
@@ -85,6 +85,8 @@ Under the EU-EAC DEEP programme, [GIZ tendered an e-commerce business-developmen
 
 <!-- narrative: systems--data-statistics -->
 Two statistical-harmonisation strands moved in parallel: [IGAD convened a capacity-building programme to strengthen regional statistical systems through SDMX, reported 6 August](https://igad.int/igad-convenes-capacity-building-programme-to-strengthen-regional-statistical-systems-through-sdmx/), following the EAC Secretariat's own technical session at the end of July to harmonise SDMX data-structure definitions for consumer-price and merchandise-trade statistics. Separately, [EACO published its first regulator-submitted communications-sector statistics report on 3 August, covering all seven member states: 334.69 million active mobile subscriptions in 2025 and mobile-money value up 19.6% across the five reporting countries, with the Democratic Republic of Congo and South Sudan reporting no transaction values at all and every mobile-money figure given in US dollars despite EACO's own stated local-currency methodology, with no conversion basis disclosed](https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf).
+
+IGAD's statistics committee [adopted the second Regional Strategy for the Development of Statistics, 2026-2030, on 23 September, endorsed by the heads of seven national statistical offices](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/). [Its 69 interventions carry an indicative cost of USD 13.005 million, not secured funding, with at least 30 per cent sought from domestic and institutional sources by 2030](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/).
 <!-- /narrative -->
 ### Use of satellite data
 
