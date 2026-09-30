@@ -365,6 +365,17 @@ try:
     check("a line row with no figure fails",
           any("carries a figure" in f for f in bs.check_external("GHA", str(r))[0]), True)
 
+    print("\nversions")
+    v = tmp / "versions"
+    write(v, "GHA", "2024", [row(), row(deal_id="gha-2024-revised-copy", budget_version="revised")])
+    check("a line held again under another version fails",
+          len(bs.version_overlaps("GHA", str(v))), 1)
+    write(v, "GHA", "2024", [row(), row(deal_id="gha-2024-statutory", budget_version="revised",
+                                        funding_source="own-source")])
+    check("the same line from another funding source is not an overlap",
+          bs.version_overlaps("GHA", str(v)), [])
+    check("the clean tree has no overlaps", bs.version_overlaps(budgets=str(tmp / "clean")), [])
+
     print("\nmerged file")
     check("an unmerged tree fails", bs.main(["--budgets", str(tmp / "clean")]), 1)
     bs.merge(budgets=str(tmp / "clean"))

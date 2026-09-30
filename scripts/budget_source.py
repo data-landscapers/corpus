@@ -325,6 +325,28 @@ def merged(iso3: str, budgets: str = "") -> bytes:
     return out
 
 
+def version_overlaps(iso3: str = "", budgets: str = "") -> list[str]:
+    """Lines held twice in one country-year under different `budget_version`s. A revision
+    replaces the original on the same row, its figure in `revised`; a second row for the same
+    line would sum. The funding source is part of the line: a statutory column printed beside
+    the voted one is money of its own."""
+    seen: dict[tuple, tuple[str, str]] = {}
+    fails = []
+    for country, fy, path in files(iso3, budgets):
+        for r in read(path)[1]:
+            k = (country, fy, r.get("state_level"), r.get("spending_tier_name"),
+                 r.get("admin_head_code"), r.get("admin_head"), r.get("programme_code"),
+                 r.get("programme"), r.get("sub_programme_code"), r.get("sub_programme"),
+                 r.get("econ_class"), r.get("line_name"), r.get("funding_source"))
+            v = r.get("budget_version", "")
+            if k in seen and seen[k][1] != v:
+                fails.append(f"{country}/{fy}.csv: {r.get('deal_id')!r} ({v}) is the line "
+                             f"{seen[k][0]!r} ({seen[k][1]}) again. A revision goes on the "
+                             f"original's row, not beside it.")
+            seen.setdefault(k, (r.get("deal_id", ""), v))
+    return fails
+
+
 def stale(iso3: str, budgets: str = "") -> bool:
     """Whether `budgets-{ISO3}.csv` is missing or no longer its year files. Line endings are
     not a difference: a checkout under `core.autocrlf` would otherwise read as stale."""
@@ -768,6 +790,7 @@ def main(argv: list[str] | None = None) -> int:
         print(f"budget_source: {len(w)} of {n} merged file(s) rewritten.")
         return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
+    fails += version_overlaps(a.iso3, a.budgets)
     for country in sorted({c for c, _, _ in files(a.iso3, a.budgets)}):
         if stale(country, a.budgets):
             fails.append(f"{country}/{MERGED.format(country)}: missing or behind its year "
