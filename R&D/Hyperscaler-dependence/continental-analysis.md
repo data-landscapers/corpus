@@ -9,7 +9,13 @@ summary: African-controlled data centres have multiplied since 2020, but a scan 
 has_data_table: false
 ---
 
-[Corpus dataset: Institution hosting](https://corpus.data-landscapers.io/datasets/institution-hosting/) · [Methodology](https://corpus.data-landscapers.io/datasets/institution-hosting/methodology/)
+<nav class="article-toc" aria-label="Institution hosting views">
+<a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Dataset</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/datasets/institution-hosting/methodology/">Methodology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="./" aria-current="page">Continental analysis</a>
+</nav>
 
 Africa's own data centre industry is growing fast. [We argued in June](https://data-landscapers.io/2026/06/11/sovereign-infrastructure/) that African-owned operators can now supply the trusted infrastructure that data localisation needs, and the [Corpus data centres dataset](https://corpus.data-landscapers.io/datasets/data-centres/) now records 299 African-controlled facilities in operation across 50 countries. Of those whose opening year is known, more than half opened in 2020 or later.
 
