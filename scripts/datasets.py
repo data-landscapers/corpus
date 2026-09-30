@@ -166,6 +166,11 @@ def publish_metadata(name: str, src: Path | None = None) -> Path:
     return dst
 
 
+def tips(meta: list[dict]) -> str:
+    """Each column's definition from the metadata, as the table's header tooltips."""
+    return attr({m["column"]: m["definition"] for m in meta if m.get("definition")})
+
+
 def fields(name: str, meta: list[dict] | None = None) -> list[dict]:
     # structured_data.fields_from reads the capitalised headers the older dictionaries use.
     return structured_data.fields_from([{"Column": m["column"], "Definition": m["definition"]}
@@ -217,6 +222,7 @@ DC_PAGE = """<!DOCTYPE html>
       data-filters="{filters}"
       data-numeric="{numeric}"
       data-labels="{labels}"
+      data-tips="{tips}"
       data-badges="{badges}"
       data-detail="{detail}"
       data-sort="country:asc"
@@ -319,6 +325,7 @@ IH_PAGE = """<!DOCTYPE html>
       data-filters="{filters}"
       data-numeric="{numeric}"
       data-labels="{labels}"
+      data-tips="{tips}"
       data-detail="{detail}"
       data-sort="iso3:asc"
       data-empty="No institution matches those filters.">
@@ -534,7 +541,7 @@ def build_institution_hosting(names: dict) -> dict:
         csv_name=csv_path.name, metadata=f"{IH}-metadata.csv",
         cols=", ".join(IH_COLS), filters=", ".join(IH_FILTERS), numeric=", ".join(IH_NUMERIC),
         detail=", ".join(IH_DETAIL),
-        labels=attr({"iso3": {c: names.get(c, c) for c in used}}),
+        labels=attr({"iso3": {c: names.get(c, c) for c in used}}), tips=tips(meta),
         views=indent(ih_views("")),
         institutions=f"{len(rows):,}", countries=len(used), scanned=scanned,
         built=date.today().isoformat(), edition=edition)), encoding="utf-8")
@@ -580,7 +587,7 @@ def main() -> int:
         csv_name=csv_path.name, metadata=METADATA_CSV,
         cols=", ".join(COLS), filters=", ".join(FILTERS), numeric=", ".join(NUMERIC),
         detail=", ".join(DETAIL), badges=attr(BADGES),
-        labels=attr({"country": {c: names.get(c, c) for c in used}}),
+        labels=attr({"country": {c: names.get(c, c) for c in used}}), tips=tips(dl.metadata(NAME)),
         changes=indent(changes_html(changes, fnames)), status=notice(),
         changes_csv=c_path.name, recent=min(RECENT, len(changes)), n_changes=f"{len(changes):,}", changes_s="" if len(changes) == 1 else "s",
         built=date.today().isoformat(), edition=edition, **counts)), encoding="utf-8")

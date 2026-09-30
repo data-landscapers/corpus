@@ -19,6 +19,7 @@
           data-numeric="commitment_usd_m,year"     sort these as numbers
           data-links="url"                         render these as links
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
+          data-tips='{"sector":"What the money is for"}'  a column header's tooltip
           data-badges='{"sovereignty_category":{"Fully African":"green"}}'
           data-detail="description"                also show these in the row panel
           data-sort="start_year:desc"              initial sort
@@ -360,6 +361,12 @@
     if (container.dataset.labels) {
       try { labels = JSON.parse(container.dataset.labels); } catch (e) { labels = {}; }
     }
+    /* Header tooltips: a plain `title`, so hover only. A touch reader has the row panel and
+       the metadata, which is where these definitions come from. */
+    var tips = {};
+    if (container.dataset.tips) {
+      try { tips = JSON.parse(container.dataset.tips); } catch (e) { tips = {}; }
+    }
 
     var controls = ensureControls(container);
     var countEl = container.querySelector('.dt-count');
@@ -396,6 +403,10 @@
         var linkCols = {};
         list(container.dataset.links).forEach(function (c) {
           var i = findCol(headers, c); if (i > -1) linkCols[i] = true;
+        });
+        var tipFor = {};                         // column index -> header tooltip
+        Object.keys(tips).forEach(function (c) {
+          var i = findCol(headers, c); if (i > -1) tipFor[i] = tips[c];
         });
         var labelFor = {};                       // column index -> code->label map
         Object.keys(labels).forEach(function (c) {
@@ -539,6 +550,8 @@
         cols.forEach(function (ci, vi) {
           var th = document.createElement('th');
           th.innerHTML = esc(headers[ci]).replace(/_/g, '_' + ZWSP);
+          var tip = tipFor[ci];
+          if (tip) th.title = tip;
           th.tabIndex = 0;
           th.setAttribute('role', 'button');
           if (numeric[ci]) th.className = 'num';
