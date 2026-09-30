@@ -35,6 +35,8 @@
           url: https://corpus.data-landscapers.io/finance/budgets/
     - label: Data Centres
       url: https://corpus.data-landscapers.io/datasets/data-centres/
+    - label: Institution Hosting
+      url: https://corpus.data-landscapers.io/datasets/institution-hosting/
 - label: Catalogue
   url: https://corpus.data-landscapers.io/catalogue/
 - label: Methodology
