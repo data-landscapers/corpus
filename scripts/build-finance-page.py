@@ -319,7 +319,7 @@ def recip_org(T):
     return clean(v)
 
 NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "primary_topic",
-             "instrument", "commitment_usd_m", "amount_basis", "amount_quality", "status",
+             "instrument", "aid", "commitment_usd_m", "amount_basis", "amount_quality", "status",
              "title", "description",
              "beneficiary_type", "recipient_organisation", "original_amount",
              "project_id", "iati_activity_id", "url", "financier_slug", "record"]
@@ -367,6 +367,16 @@ def amount_quality(rec):
     return (fm_get(rec["fm"], "amount_quality")
             or rec["table"].get("Amount quality", "")).strip().lower()
 
+# **`aid` is true for the three instruments that are aid** *(Bill, 2026-09-30)*: a grant, a
+# concessional loan or technical assistance. Everything else is false, `Unknown` included —
+# an instrument nobody could name is not counted as aid.
+AID_INSTRUMENTS = {"grant", "concessional loan", "technical assistance"}
+
+
+def is_aid(instrument: str) -> str:
+    return "true" if (instrument or "").strip().lower() in AID_INSTRUMENTS else "false"
+
+
 def _ns_row(r, country, lab):
     T = r["table"]; fm = r["fm"]
     usd, basis = deal_usd(T)
@@ -374,7 +384,7 @@ def _ns_row(r, country, lab):
     status = T.get("Status", "")
     return [country, deal_year(r), T.get("End year", ""), published_date(r),
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
-            T.get("Instrument", ""), usd_m_cell(usd), basis,
+            T.get("Instrument", ""), is_aid(T.get("Instrument", "")), usd_m_cell(usd), basis,
             amount_quality(r), status,
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),

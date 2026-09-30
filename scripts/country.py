@@ -538,7 +538,7 @@ FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held fo
 # where a reader reads one deal whole, and a field missing there because it is also a column
 # is missing. `finance.py` imports this for the all-Africa table.
 FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, primary_topic, "
-                  "instrument, commitment_usd_m, amount_basis, amount_quality, status, title, "
+                  "instrument, aid, commitment_usd_m, amount_basis, amount_quality, status, title, "
                   "description, beneficiary_type, recipient_organisation, original_amount, "
                   "project_id, iati_activity_id, url, financier_slug, record")
 
