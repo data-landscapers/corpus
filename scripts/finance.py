@@ -50,7 +50,7 @@ import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
-from country import FINANCE_DETAIL  # noqa: E402  - the row panel's fields, one list for every finance table
+from country import AID_LABELS, FILTER_ALL, FINANCE_DETAIL, attr_json  # noqa: E402  - the row panel's fields, one list for every finance table
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -212,6 +212,7 @@ PAGE = """<!DOCTYPE html>
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
+      data-filter-all="{filter_all}"
       data-detail="{detail}"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
@@ -469,7 +470,7 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
     attribute the browser parses on every page load is not the place to ship a
     vocabulary most of which this table never shows."""
     used = {c: names[c] for c in agg["by_place"] if c in names}
-    labels = html.escape(json.dumps({"recipient": used}, ensure_ascii=False), quote=True)
+    labels = attr_json({"recipient": used, **AID_LABELS})
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
     return PAGE.format(
         feedback=feedback("Finance", f"{SITE_BASE}/finance/"),
@@ -477,6 +478,7 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         styles=styles(1, "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 1),
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV, detail=FINANCE_DETAIL,
+        filter_all=attr_json(FILTER_ALL),
         artefacts=artefacts, toc=toc("non-state"),
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),

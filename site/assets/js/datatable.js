@@ -18,6 +18,7 @@
           data-filters="country_name,sector"       columns to give a dropdown
           data-numeric="commitment_usd_m,year"     sort these as numbers
           data-thousands="budget_usd"              show these with thousand separators
+          data-filter-all='{"aid":"Aid and non-aid"}'  a filter's unfiltered option
           data-links="url"                         render these as links
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
           data-tips='{"sector":"What the money is for"}'  a column header's tooltip
@@ -429,6 +430,12 @@
     if (container.dataset.tips) {
       try { tips = JSON.parse(container.dataset.tips); } catch (e) { tips = {}; }
     }
+    /* A filter's unfiltered option, where "All <column>" misreads: a yes/no column's
+       "All aid" sounds like a choice of rows rather than no choice at all. */
+    var filterAll = {};
+    if (container.dataset.filterAll) {
+      try { filterAll = JSON.parse(container.dataset.filterAll); } catch (e) { filterAll = {}; }
+    }
 
     var controls = ensureControls(container);
     var countEl = container.querySelector('.dt-count');
@@ -539,7 +546,8 @@
             var sel = document.createElement('select');
             sel.className = 'dt-filter';
             sel.setAttribute('aria-label', 'Filter by ' + headers[ci]);
-            sel.innerHTML = '<option value="">All ' + esc(headers[ci].replace(/_/g, ' ')) + '</option>'
+            sel.innerHTML = '<option value="">'
+              + esc(filterAll[headers[ci]] || ('All ' + headers[ci].replace(/_/g, ' '))) + '</option>'
               + values.map(function (v) {
                   var lab = display(ci, v);
                   if (lab.length > 60) lab = lab.slice(0, 59) + '…';

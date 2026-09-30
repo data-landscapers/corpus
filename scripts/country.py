@@ -56,6 +56,7 @@ from __future__ import annotations
 
 import csv
 import html
+import json
 import re
 import shutil
 import sys
@@ -542,6 +543,19 @@ FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, p
                   "description, beneficiary_type, recipient_organisation, original_amount, "
                   "project_id, iati_activity_id, url, financier_slug, record")
 
+# **The aid filter reads in words** *(Bill, 2026-09-30)*: the column holds `true`/`false`,
+# which is what a tool reading the CSV wants, and the table shows them as Aid and Not aid.
+# The unfiltered option says "Aid and non-aid", where the default "All aid" read as a choice.
+# `finance.py` imports both for the all-Africa table.
+AID_LABELS = {"aid": {"true": "Aid", "false": "Not aid"}}
+FILTER_ALL = {"aid": "Aid and non-aid"}
+
+
+def attr_json(obj) -> str:
+    """A JSON object as an HTML attribute value."""
+    return html.escape(json.dumps(obj, ensure_ascii=False), quote=True)
+
+
 FINANCE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -580,6 +594,8 @@ FINANCE = """<!DOCTYPE html>
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-detail=\"""" + FINANCE_DETAIL + """\"
+      data-labels=\"""" + attr_json(AID_LABELS).replace("{", "{{").replace("}", "}}") + """\"
+      data-filter-all=\"""" + attr_json(FILTER_ALL).replace("{", "{{").replace("}", "}}") + """\"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">
