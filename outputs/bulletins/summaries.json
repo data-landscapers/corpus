@@ -1,34 +1,4 @@
 {
-  "2026-08-30-electricity-tariff-overview": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The energy regulator's tariff page sets out its mandate to set and review retail and bulk electricity tariffs. It names no data-centre or large-load category, which dates an absence Corpus had previously recorded only as unsearched: the country is building data centres against a tariff schedule that does not distinguish them."
-  },
-  "2026-08-30-government-digital-payments-and-ecitizen": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The Treasury's Government Digital Payments Unit sets out the origin of the country's payments-into-government programme: a 2013 survey found more than a third of receipts still cash-based, a presidential directive that November ordered all payments into government digitised, and a taskforce was gazetted in April 2014. The unit's stated mandate is to digitise every payment into government, raising collection and cutting its cost."
-  },
-  "2026-08-30-integrated-financial-management-information-system": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The National Treasury's financial management system, which moves public money from budget to payment, publishes its own site. It sets out six components spanning budgeting, procurement, revenue, reporting and support, alongside a supplier portal and a training academy; no coverage of ministries and counties, transaction volume or audit finding against it appears there."
-  },
-  "2026-08-30-integrated-population-registration-service": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The State Department for Immigration and Citizen Services publishes a page for the service that holds the country's population register, the one queried when an agency needs to confirm who someone is. What the register holds, which bodies may query it and on what basis are not stated on it — a gap that matters more now that the electoral commission has confirmed it verifies voter data against the registration bureau."
-  },
-  "2026-08-30-rdc-strategie-protection-espace-informationnel": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "The Council of Ministers adopted a government-wide strategy against abusive content on social media and digital platforms at its 97th session on 28 August. It sets up an interministerial task force chaired by the communication ministry, a citizen alert mechanism and the integration of media literacy into the school curriculum, and commissions a technical and legal review of how the sector is regulated. The strategy text is not published with the readout, so what counts as abusive content, and what follows an alert, are not stated."
-  },
-  "2026-08-30-rwanda-business-registration": {
-    "published": "2026-08-30",
-    "written": "2026-08-30",
-    "summary": "Rwanda's registrar general describes company registration as wholly online and free of charge, completed within six working hours on the issue of a certificate of incorporation. There is no minimum share capital, shareholding may be entirely foreign, and a support unit at the board's Kigali offices assists applicants who cannot complete the form unaided."
-  },
   "2026-08-31-africa-smartphone-market-2026-decline-omdia": {
     "published": "2026-08-31",
     "written": "2026-08-31",
@@ -6798,5 +6768,185 @@
     "published": "2026-09-29",
     "written": "2026-09-29",
     "summary": "Vodacom South Africa tested with Nokia a compact dual-band Massive MIMO unit across its 2,600 MHz and 3,500 MHz spectrum in a Western Cape pilot. It will deploy it at space-constrained sites to add 4G and 5G capacity."
+  },
+  "2026-09-30-ago-forbes-lusofona-agt-integracao-plataformas": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Angola's tax and customs administration AGT is linking the commerce ministry's and other trade agencies' platforms to its own, and plans to let importers track customs processes by tax number, with service deadlines such as three days for the commerce ministry."
+  },
+  "2026-09-30-cmr-cameroon-tribune-forum-cybercriminalite": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Cameroon's ICT agency ANTIC reported 17,500 cybercrime complaints in 2025 with declared losses of 5.8 billion FCFA, at a cyberspace-security forum it co-hosts with the Russian embassy in Yaoundé. Since January it has counted 21,280 compromised machines and 39 attacks on government websites."
+  },
+  "2026-09-30-cmr-linkedin-ojong-beyond-infrastructure-mel-data-demand": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "A LinkedIn policy brief argues that Cameroon has spent a decade building data centres, broadband and e-government platforms while ministries still cannot produce, share or use their own data, and that weak demand for evidence, not infrastructure, is the binding constraint."
+  },
+  "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "The DRC's digital economy minister said the prime minister had signed decrees creating an online administrative-services portal and a national electronic certification agency, and that a national cybersecurity agency had been created by presidential ordinance. He said the RDC-PASS digital identity entered a first operational phase in September with 50 enrolment agents trained."
+  },
+  "2026-09-30-douanes-et-fiscalit-la-tunisie-acc-l-re-l-usage-de-l-intelli": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Tunisia's customs and tax services plan to use machine learning to target high-risk declarations and audits; a customs risk-model test on 2025 data found about 96.9 million dinars in additional amounts. The finance ministry's IT centre said a one-year big-data tax-audit project on local infrastructure is at the bidding stage."
+  },
+  "2026-09-30-egy-fintechgate-pdpc-children-digital-services-privacy": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Egypt's Personal Data Protection Centre, part of the communications ministry, told a Meta-organised youth privacy event in Cairo on 24 September that children's privacy must be built into digital services at the design stage. Participants discussed age-appropriate design and effective age verification."
+  },
+  "2026-09-30-ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-res": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Ethiopia set up a Financial Sector Cybersecurity Forum on 29 September, chaired jointly by the cyber agency INSA and the National Bank, for threat sharing and coordinated incident response across financial institutions."
+  },
+  "2026-09-30-fsca-builds-ai-guardrails-as-digital-regulation-expands": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "South Africa's Financial Sector Conduct Authority told Parliament's finance committee that an AI framework for responsible use is being developed, the one outstanding element of its data and technology governance principle. It issued 140 scam warnings in 2025/26, up from 107, and tripled crypto-provider inspections to 30."
+  },
+  "2026-09-30-ghana-ministry-receives-cybersecurity-white-paper-from-academic-city": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Ghana's communications ministry received a cybersecurity white paper from Academic City University, drawn from academia, industry and the Cyber Security Authority, recommending local talent, local solutions and a move from policy to measurable implementation."
+  },
+  "2026-09-30-gov-t-reviews-electronic-communications-and-transactions-act": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Zambia's technology ministry opened stakeholder consultations on amending the Electronic Communications and Transactions Act of 2021, approved in principle by Cabinet in September 2025. The changes would strengthen the national public key infrastructure under ZICTA and add appeal mechanisms."
+  },
+  "2026-09-30-government-launches-integration-of-national-id-tax-identific": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Uganda's internal affairs minister launched the integration of the national identification and tax identification systems at the country's first Identity Expo and Symposium in Kampala."
+  },
+  "2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "South Africa's Information Regulator said it had received no breach notification from Gauteng's e-government department over the exposed e-Panic Button database and would engage the department, noting it can issue an information notice."
+  },
+  "2026-09-30-ken-cbk-press-release-licensing-29-digital-credit-providers": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "The Central Bank of Kenya licensed 29 more digital credit providers, bringing the total to 281, from more than 900 applications since March 2022. Licensed lenders had made 9,596,509 loans worth Ksh165.1 billion by August 2026."
+  },
+  "2026-09-30-ken-itweb-cbk-licenses-29-digital-lenders": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Trade-press report of the Central Bank of Kenya's licensing of 29 more digital lenders, summarised under the bank's own press release."
+  },
+  "2026-09-30-kenya-data-commissioner-shortlist": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Kenya's Public Service Commission shortlisted 13 of 152 applicants to succeed Immaculate Kassait as Data Protection Commissioner at the end of her single six-year term, with interviews on 5 October 2026."
+  },
+  "2026-09-30-kenya-uk-deepen-cybersecurity-cooperation-through-ca-ncsc-engagement": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "The Communications Authority of Kenya hosted the UK National Cyber Security Centre's chief technology officer to discuss closer cooperation on the resilience of government systems and critical infrastructure. No agreement was announced."
+  },
+  "2026-09-30-liberia-national-data-center-investors-power": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Liberia's posts and telecommunications ministry presented a planned national data centre to investors in New York, where reliable power was raised as the binding constraint. One investor has shown interest; the site and investment model await feasibility studies."
+  },
+  "2026-09-30-lso-itweb-electronic-transactions-bill-2026": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Lesotho's ICT ministry held a two-day validation workshop with UNDP on the Electronic Transactions and Communications Bill 2026, a revision of the 2022 bill, to fill the absence of any legal framework for electronic contracts, signatures and records. The bill now moves to the next legislative stages."
+  },
+  "2026-09-30-mar-mistral-open-source-ai-bricks": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Morocco's digital transition ministry and Mistral released the first open-source tools from their AI partnership: a classifier that distinguishes Arabic dialects including Darija, and a Voxtral speech-recognition model for Darija that handles switching between Arabic, French and English. The ministry says further language and public-service models are in development."
+  },
+  "2026-09-30-mastercard-partners-with-mojaloop-and-africanenda-to-strengthen-instant-payments": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Mastercard announced it will explore pairing its A2A Protect fraud and dispute service with the Mojaloop Foundation's open-source instant-payment software, and will support AfricaNenda on instant-payment policy and governance. No country, sum or timetable was stated."
+  },
+  "2026-09-30-mwi-itweb-macra-airtel-tnm-data-probe": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Malawi's regulator MACRA is investigating complaints of rapid data-bundle depletion on Airtel and TNM, examining their charging and billing systems. It had earlier found both operators applied approved tariff rises of 22.2% and 26% before the required seven-day notice."
+  },
+  "2026-09-30-nam-csirt-data-protection-advisory": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Namibia's national computer incident response team, housed at the communications regulator, issued an advisory urging institutions to tighten information security and the public and media not to access or redistribute personal data leaked in cyber incidents. It said finalising a data protection law remains outstanding."
+  },
+  "2026-09-30-ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "At the Nigerian Communications Commission's Digital Connectivity Investment Forum in Abuja, officials and operators argued that broadband underpins the government's US$1 trillion economy target for 2030, and the regulator sought investors to close coverage gaps. Power costs and fragmented regional regulation were named as the main obstacles."
+  },
+  "2026-09-30-ndpc-chief-stronger-data-protection-practices": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Nigeria's data protection commissioner opened a training programme in Abuja for data protection officers in federal ministries and agencies, and reminded them that breaching the 2023 Data Protection Act carries consequences."
+  },
+  "2026-09-30-nibss-national-payment-stack-hits-100m-transactions": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Nigeria's interbank settlement system NIBSS said its ISO 20022-compliant National Payment Stack had passed 100 million successful transactions, as a single rail for banks, microfinance banks, fintechs and mobile money operators."
+  },
+  "2026-09-30-sen-kfw-prodap-progress-review": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "A KfW mission reviewed progress on PRODAP, the German-funded programme for more reliable digital technology in Senegal's administration, with Sénégal Numérique (formerly ADIE) and prepared its next steps. No figures on delivery were published."
+  },
+  "2026-09-30-sen-vipeoples-passports-id-cards-national-expertise": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Senegal's National Assembly took in plenary on 29 September a bill amending the ECOWAS biometric identity card law. In committee the interior minister confirmed an attack on the directorate that runs identity files, announced a security audit and a national data centre for civil-status and identity data, and said card and passport production would pass to Senegalese firms as the Malaysian contract runs out."
+  },
+  "2026-09-30-south-africa-s-competition-commission-backs-mtn-s-ihs-tower-deal-with-conditions": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Trade-press account of the Competition Commission's conditional recommendation on MTN's purchase of IHS, summarised under the Commission's own statement."
+  },
+  "2026-09-30-tanzanie-infrastructure-numerique-2-6-milliards-2031": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Tanzania presented a digital-infrastructure investment envelope of TZS 7,000 billion (about US$2.6bn) to 2031 at an EU-Tanzania business forum in Helsinki, funds still to be raised. The portfolio includes fibre-to-the-home, the Kilimanjaro One submarine cable and a technology park; the national backbone stood at 13,820 of a planned 16,280 km."
+  },
+  "2026-09-30-tchad-protection-des-donnees-digital-policy-engagement": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Paradigm Initiative and ACSIS-Tchad opened a two-day Digital Policy Engagement Series in N'Djamena on 30 September on data protection, cybersecurity and digital rights, bringing together officials, magistrates, security forces and civil society."
+  },
+  "2026-09-30-uganda-japan-discuss-expanding-ict-cooperation-through-uj-connect": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Uganda's ICT minister and Japan's ambassador discussed a second phase of the JICA-backed UJ Connect ICT industry project, adding AI, more mentorship and closer links between Ugandan ICT talent and Japanese firms. No budget or start date was given."
+  },
+  "2026-09-30-xaf-techreviewafrica-auda-nepad-astag-semiconductor": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "AUDA-NEPAD launched an Africa Semiconductor Technical Advisory Group in South Africa with the CSIR, the African Academy of Sciences and South Africa's science department, to coordinate chip design, packaging, critical minerals and skills across the continent. Its first twelve months cover six work areas including RISC-V adoption and standards."
+  },
+  "2026-09-30-xaf-techreviewafrica-day-zero-ai-governance-dialogue": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "A pre-FIFAfrica dialogue convened by the Global Center on AI Governance, Digital Action and CIPESA called for African AI governance principles to be turned into concrete commitments on training data, worker participation and community interests."
+  },
+  "2026-09-30-zaf-compcom-statement-decisions-mtn-ihs-conditions": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "South Africa's Competition Commission recommended that the Tribunal approve MTN's acquisition of tower operator IHS, on conditions of fair and non-discriminatory access to IHS towers for rival operators, fair lease renewals, ring-fencing of customer information and an operationally independent IHS. Job protection and ownership conditions are attached."
+  },
+  "2026-09-30-zaf-itweb-absa-digital-asset-custody": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "Absa launched institutional digital-asset custody for South African clients on 21 September on Ripple's technology, the first such service by an African bank. It is for institutional and large corporate clients, not retail crypto."
+  },
+  "2026-09-30-zambia-must-use-digital-platforms-to-cut-bureaucracy": {
+    "published": "2026-09-30",
+    "written": "2026-09-30",
+    "summary": "President Hichilema told the UAE's cabinet affairs minister in Abu Dhabi that Zambia must use digital platforms to cut the bureaucracy slowing investment and services, treating digital infrastructure as part of service delivery itself. The UAE offered its own bureaucracy-reduction programme as a model."
   }
 }
