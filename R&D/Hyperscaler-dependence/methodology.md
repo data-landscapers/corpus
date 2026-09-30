@@ -48,7 +48,7 @@ The same list was used in every country. Commercial Banks means the ten largest 
 
 **Coverage is recorded, not assumed.** A type with no institution in a country, or whose domain could not be found, has a row marked `absent` with the reason. Where one institution covers two types (a revenue authority that also runs customs), the second type is marked `absent` with a note naming the row that covers it. A domain that no longer resolves is marked `dead`.
 
-Across the 54 countries there are 2,425 seed rows: 1,830 scanned, 568 absent and 27 dead. 1,857 domains were scanned. The lists are in `institutions-{ISO3}.csv`.
+Across the 54 countries there are 2,425 seed rows: 1,830 scanned, 568 absent and 27 dead. 1,857 domains were scanned. The lists are in `scan/{ISO3}/institutions-{ISO3}.csv`.
 
 **What a sceptic should know.** The lists were drawn up for this scan. A domain was checked to exist and to belong to the institution, not confirmed with the institution as its main one. Some institutions use several domains and only one or two were seeded. A missing domain lowers the count for that institution. It does not move it into another category.
 
@@ -168,15 +168,15 @@ Everything is in `R&D/Hyperscaler-dependence/` in the Corpus repository.
 | File | What it is |
 | --- | --- |
 | `strategic-institutions.csv` | the 36 types |
-| `institutions-{ISO3}.csv` | the seed list for each country, with status and notes |
+| `scan/{ISO3}/institutions-{ISO3}.csv` | the seed list for each country, with status and notes |
 | `subdomains.txt`, `saas-targets.csv`, `asn-owners.csv` | the dictionary, the service suffixes and the network table |
 | `scan/{ISO3}/nodes.csv` | every record for the country, with its host and category |
 | `scan/{ISO3}/organisations.csv` | the figures for each institution |
 | `scan/{ISO3}/run.json` | range file dates, wildcards, Certificate Transparency failures, country totals and withheld findings |
-| `scan/all-nodes.csv`, `scan/all-organisations.csv` | all 54 countries in one file each, with `-metadata.csv` files that explain every column |
+| `all-nodes.csv`, `all-organisations.csv` | all 54 countries in one file each, with `-metadata.csv` files that explain every column |
 | `HYPERSCALER-SCAN.md`, `HYPERSCALER-DRAIN.md` | the runbooks the scan was run from |
 
-To scan a country: `python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/institutions-KEN.csv"`. This needs Python 3 with `dnspython` and `requests`, and takes 10 to 60 minutes a country, mostly waiting on crt.sh.
+To scan a country: `python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/scan/KEN/institutions-KEN.csv"`. This needs Python 3 with `dnspython` and `requests`, and takes 10 to 60 minutes a country, mostly waiting on crt.sh.
 
 To re-assign an existing scan after changing `asn-owners.csv` or `saas-targets.csv`, with no new lookups: add `--reattribute`. To rebuild a fact sheet: `python scripts/hyperscaler-report.py KEN`. To rebuild the combined files: `python scripts/hyperscaler-combine.py`.
 

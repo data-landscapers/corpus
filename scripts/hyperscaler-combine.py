@@ -3,7 +3,7 @@ r"""hyperscaler-combine.py — the 54 countries' scan files as one nodes file an
 
     python scripts/hyperscaler-combine.py
 
-Writes `R&D/Hyperscaler-dependence/scan/all-nodes.csv` and `all-organisations.csv`, countries in
+Writes `R&D/Hyperscaler-dependence/all-nodes.csv` and `all-organisations.csv`, countries in
 `progress.csv` order and each country's rows in its own order. A row with every field blank (what a
 spreadsheet save leaves) is dropped. The columns are explained in `all-nodes-metadata.csv` and
 `all-organisations-metadata.csv` beside them, which are kept by hand. Re-run after any scan.
@@ -24,7 +24,7 @@ def main() -> int:
         order = [r["iso3"] for r in csv.DictReader(f)]
     for name in ("nodes", "organisations"):
         header, n = None, 0
-        with open(SCAN / f"all-{name}.csv", "w", encoding="utf-8", newline="") as out:
+        with open(RD / f"all-{name}.csv", "w", encoding="utf-8", newline="") as out:
             w = csv.writer(out, lineterminator="\n")
             for iso in order:
                 p = SCAN / iso / f"{name}.csv"
