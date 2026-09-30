@@ -1,23 +1,23 @@
 ---
-title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+title: Madagascar — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: MDG
-ledger_rows: 42
+ledger_rows: 21
 not_held: 5
-record: fa69b744c5cb
+record: f95d49617ac6
 ---
 
-# Madagascar: monthly update, August – September 2026
+# Madagascar: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Cybercrime instruments arrived from three directions at once. The country [signed the United Nations Convention against Cybercrime and is revising the 2014 cyber law alongside it](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the Council of Ministers [approved accession to a China-initiated international network against online fraud on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), and the National Assembly's [extraordinary session opened on 25 August with digital bills among seven texts](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/). None of it is ratified or in force, and on 4 September the deputies [deferred the cybercrime recast and the electronic communications bill to a later session](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html) rather than vote them.
+On 4 September the deputies [deferred the cybercrime recast and the electronic communications bill to a later session](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), and [neither is on the order paper of the session that opened on 17 September](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html). [A second phase of biometric enrolment opened on 16 September, aiming at more than 10 million adults by July 2027](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/), and [the beneficial-owner register moved into operation on 18 September with four data-sharing protocols](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees).
 
-Domestically the record is about what the state can see of itself. An assessment [put digital-health maturity at 55.6%](https://moov.mg/article/120129-sante-numerique-apres-evaluation-madagascar-obtient-un-score-de-maturite-de-556-percent) without naming the instrument or who administered it; the National Assembly's [open-data interface serves five parliamentary datasets under an open licence](https://parlement.mg/opendata/) while [the general portal names no issuing institution and no dataset](https://opendata.mg/); and the dominant mobile-money operator [put the whole national market at six to seven million active users against a population of about thirty million](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html).
+In payments, the finance ministry [announced a task force on mobile-money complaints on 15 September](https://www.2424.mg/news/une-task-force-sera-mise-en-place-pour-ameliorer-le-traitement-des-reclamations-liees-au-mobile-money/), and BGFIBank [presented a mobile-banking app open to people without a bank account](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/).
 <!-- /narrative -->
 
 ## Governance
@@ -25,12 +25,12 @@ Domestically the record is about what the state can see of itself. An assessment
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. No resumed date is set and no bill text is published.
+The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. [The session that opened on 17 September lists seventeen bills and neither digital bill among them, its order paper set by presidential decree](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html); no bill text is published.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Madagascar attached itself to three external arrangements in twelve days, none of which it wrote. The Council of Ministers [approved joining a China-initiated international network against cybercrime on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), mobilising the foreign affairs, justice, public-security, digital-development and gendarmerie ministries for cross-border cooperation on online fraud; no founding text, membership list, data-sharing rule or safeguard on what is exchanged is held. Around 15 August it also [signed the United Nations Convention against Cybercrime and joined the World AI Cooperation Organization](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the account citing Interpol findings that artificial-intelligence-enabled fraud is outpacing African states' response capacity. An [editorial the same week](https://newsmada.com/2026/08/13/quand-larnaque-passe-par-lecran/) frames the turn toward Beijing on fraud as inseparable from the country's digital-transformation and investment ambitions. None of the three is evidenced by an instrument the repository holds, and the country still has no national artificial-intelligence strategy of its own.
+On 10 September Madagascar was one of 49 states, with the European Space Agency, to [sign an international declaration on space-based scientific data](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data), committing to open access to satellite observation data save justified exceptions, open licences and harmonised exchange standards. It names no implementing measure.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -41,35 +41,18 @@ Madagascar attached itself to three external arrangements in twelve days, none o
 
 The satellite route to isolated areas moved from announcement to hardware: the digital ministry [received 300 satellite kits with free internet service under a partnership with the operator](https://www.tiatanindrazana.mg/actualites/fifandraisan-davitra-sy-ny-nomerika-67990.php), after free connectivity at the main public universities. No site list is published.
 <!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The month's only storage development is a private one. A commercial provider's service page, captured on 31 August, [describes hourly replication of Madagascar-hosted servers to a Tier IV facility in another African or European country, with automated DNS failover and recovery under two hours](https://hodi.host/mg/store/pra-manage). It is an evergreen commercial page rather than a dated announcement, and the capture date stands in for a publication date. Nothing is held on off-site backup for state systems: the two government data centres are the whole of the state's published resilience arrangement, and no continuity requirement or hosting rule governs them.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-Power went the wrong way in the last week of August. A defective circuit breaker on the TAC 1 turbine at Ambohimanambola [forced JIRAMA to halt production and impose rotating load-shedding across the Antananarivo interconnected network on 29 August](https://newsmada.com/2026/08/29/tac-1-ambohimanambola-la-jirama-entreprit-des-travaux-durgence/), a first repair attempt having failed and the unit having been dismantled for emergency inspection. Two weeks earlier the World Bank had [reported the Toamasina rebuild after February's cyclone, with about 4 MW still offline and load-shedding continuing](https://www.worldbank.org/en/news/feature/2026/08/14/the-missing-ingredient-how-power-is-fueling-madagascar-s-economic-future). The state data centres commissioned this year sit on the same network, and nothing published states their load.
-<!-- /narrative -->
 
 ## DPI
 
-### Data Exchange
-
-<!-- narrative: dpi--dpi-exchange -->
-The health platform took a step the interoperability layer above it has not yet matched. The World Health Organization's quarterly bulletin, published in August, [records a June workshop launching the DHIS2 Tracker pilot for individual vaccination records across 20 public health centres and 54 private vaccination sites in one district of the capital](https://www.afro.who.int/sites/default/files/2026-08/Revue%20trimestrielle%20Version%20avril%20juin%202026%20OMS%20Madagascar.pdf), ahead of a planned national scale-up. Individual-record tracking is what makes a health system's data joinable to an identity system; the national exchange platform launched in April, and no integration between the two is recorded.
-<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The identity programme marked its own day and started its next phase. [Phase II of the enrolment operation, Izaho Tokana 2.0, was launched on the second day of the 2026 National Identity Day, under the World Bank's DECIM project](https://midi-madagasikara.mg/etat-civil-loif-aux-cotes-de-madagascar-pour-la-journee-nationale-de-lidentite/), the day itself institutionalised by decree 2024-067 and supported this year by a high-level conference of more than 150 people preparing the 2027-2036 civil-registration decade. No target or coverage figure is given for the phase, so what it adds to the six million enrolments already reported is not established.
-
-Mass biometric registration entered its second phase. The interior minister [launched it at Anosy on National Identity Day, 16 September, assigning each person a unique identification number under World Bank financing](https://www.moov.mg/article/121321-enregistrement-biometrique-izaho-tokana-20-entre-dans-sa-deuxieme-phase), [with a target of more than 10 million citizens](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/). No enrolment count has been published yet.
+The identity programme opened its second phase on National Identity Day. The interior minister [launched mass biometric registration at Anosy on 16 September, assigning each person a unique identification number, with the World Bank financing the operation through the DECIM project](https://www.moov.mg/article/121321-enregistrement-biometrique-izaho-tokana-20-entre-dans-sa-deuxieme-phase), [targeting more than 10 million citizens over 18 by July 2027, with 1,000 kits added after a three-month pause to evaluate the first phase](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/). The day itself, institutionalised by decree 2024-067, [opened on 15 September with a conference of more than 150 people preparing the 2027-2036 civil-registration decade](https://midi-madagasikara.mg/etat-civil-loif-aux-cotes-de-madagascar-pour-la-journee-nationale-de-lidentite/). No enrolment count for the second phase has been published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
+On 15 September the finance ministry [announced a task force with the banking supervisor and the telecoms regulator on lost money, failed transactions and slow complaint handling](https://www.2424.mg/news/une-task-force-sera-mise-en-place-pour-ameliorer-le-traitement-des-reclamations-liees-au-mobile-money/), with no start date given. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
 
 BGFIBank Madagasikara [presented its Gasy Money mobile-banking app on Friday 18 September](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/), [open to non-customers on any network, including people without a bank account, with transfers to other app accounts, bank accounts and Airtel Money](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/). No user or transaction figure is published.
 <!-- /narrative -->
@@ -86,29 +69,16 @@ The beneficial-owner register [moved into operation on 18 September, when the ta
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-An assessment put Madagascar's [digital-health maturity at 55.6 per cent](https://moov.mg/article/120129-sante-numerique-apres-evaluation-madagascar-obtient-un-score-de-maturite-de-556-percent). Neither the assessment instrument nor who administered it is named in the account.
+On 18 September a Japan-funded International Organization for Migration project [closed after two years, having deployed mobile kits of the MIDAS migration-data system at the port of Mahajanga that transmit directly to the national headquarters](https://moov.mg/article/121374-migration-madagascar-mieux-prepare-grace-au-projet-creer-des-frontieres-plus-intelligentes). No count of entry points covered is given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-On 28 July the national police [presented a free public reporting platform at Anosy](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/), six days after the national day of mourning of 24 July that followed a run of kidnappings and killings. Built by the police's own information-systems directorate, it runs 24 hours a day on web and an Android application in Malagasy and French, taking reports of gender-based violence and of disappearances of children, adults and people with albinism. Reports may be filed anonymously, an automatically generated reference number lets a declarant track the file, and reports are triaged by specialist services before routing. Its scope is [explicitly digital](https://www.wearetech.africa/fr/fils/actualites/tech/madagascar-la-police-nationale-numerise-le-signalement-des-violences-et-des-disparitions): online harassment, non-consensual image sharing, sextortion, online defamation and AI-falsified content are reportable categories in their own right. No data controller, retention rule or supervisory authority is named.
-
-On 3 August the higher-education ministry [presented an accreditation platform](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) centralising applications for authorisation, accreditation and equivalence and letting an institution track its file. It published its queue with it: 546 applications as at 10 July 2026, of which about 250 are expected at the commission session opening on 21 September 2026.
-
-Two further builds are financed rather than delivered. The Maritime Single Window, centralising port administrative procedures, is [being deployed on more than 3.4bn Indonesian rupiah, about 816m ariary, from Indonesia's international development agency](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) through the port, maritime and river agency; no go-live date, port coverage or procedure list is stated. And the social-protection fund is [recruiting a consultancy to build a human-resources management ERP under a World Bank-financed project, bids due 26 August](https://www.fid.mg/recrutement-dun-cabinet-pour-la-mise-en-place-dun-logiciel-erp-de-gestion-des-ressources-humaines-grh-du-fid-n-45-ami-fid-logiciel-erp-fsr-26-26-08-2026/), having separately tendered on 7 August for a payroll server under a World Bank contingent emergency response project. Neither tender discloses a value.
-
 On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given.
 <!-- /narrative -->
 
 ## Technology
 
-### AI
-
-<!-- narrative: technology--tech-ai -->
-AXIAN Telecom was [named a founding partner of an African-language artificial-intelligence initiative on 28 July 2026](https://techafricanews.com/2026/07/28/axian-telecom-named-founding-partner-of-atlas-umoja-ai-for-african-language-ai/). No Malagasy-language model or dataset has been released.
-
-A [Madagascar-Egypt government partnership on the use of artificial intelligence in public administration and the sector's digital transition was reported on 1 August](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), with no date of signature given.
-<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
@@ -122,36 +92,16 @@ The government outsourcing-skills programme [certified 99 of the 111 trainees in
 <!-- narrative: capacity--capacity-literacy -->
 The vocational training ministry [signed a partnership with France's Pix public-interest group on 11 September to develop and certify young people's digital skills, including exam centres, trainer training and a study of putting Pix into vocational curricula](https://www.moov.mg/article/121011-metfp-et-gip-pix-un-partenariat-pour-renforcer-et-certifier-les-competences-numeriques-des-jeunes). No candidate target, cost or start date is given.
 <!-- /narrative -->
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-The digital ministry [received 259 applications by 1 August 2026 for ten established civil-service posts](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), split between the capital and the regional directorates. The fields are artificial intelligence, data management, digital innovation, cybersecurity, telecommunications and digital law, the last covering personal data protection and electronic commerce. Applicants have publicly asked for integrity guarantees on the selection, and no appointment has been announced.
-<!-- /narrative -->
 
 ## Inclusion
 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
-
 A postal microfinance institution [launched 12-month laptop credit for 1,400 master's students in September, funded from the connectivity project](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/).
 <!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
 The telecoms regulator [posted the 2025 financial statements of the telecoms and ICT development fund](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf), the universal-service fund it manages, alongside those for 2024. They follow a Cour des comptes audit that asked for all the fund's disbursements to be suspended; whether an auditor's opinion accompanies the statements is not established.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The statistics institute runs a [registration-gated platform advertising household surveys for 2020 to 2022, an enterprise survey and census microdata](https://microdata.instat.mg/). The datasets sit behind account registration and were not retrieved, so no dataset documentation, sample size, licence or reuse terms is established beyond the landing page.
-<!-- /narrative -->
-### Open data
-
-<!-- narrative: data--data-open -->
-Madagascar's open data is institution-specific and has no policy over it. The National Assembly runs a [read-only interface serving five parliamentary datasets as JSON and CSV under an open licence, rate-limited to 60 requests a minute, its counters reading 163 deputies, 45 texts and 128 sittings](https://parlement.mg/opendata/). Against that, a [general portal is a reachable landing page with six undated category tiles and four unlinked project cards, naming no issuing institution, dataset count or licence, and credited in its footer only to a private vendor](https://opendata.mg/); the finance ministry's own portal does not resolve. No whole-of-government open-data policy or mandate is held.
 <!-- /narrative -->
