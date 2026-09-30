@@ -6,16 +6,16 @@
 <title>Zambia: status report — Data Landscapers</title>
 <meta name="description" content="Zambia: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-status.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
-<link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
+<link rel="stylesheet" href="../../assets/css/report.css?v=bbe0e950">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="Zambia: status report">
 <meta property="og:description" content="Zambia: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/ZMB/ZMB-status.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="18ff6b83a1e4">
+<meta name="dl-record" content="b7801828a328">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/ZMB/ZMB-status.html"
   },
-  "datePublished": "2026-09-25",
-  "dateModified": "2026-09-25",
+  "datePublished": "2026-10-01",
+  "dateModified": "2026-10-01",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/ZMB/ZMB-status-2026-09-25.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/ZMB/ZMB-status-2026-10-01.pdf"
   }
 }
 </script>
@@ -102,15 +102,60 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +187,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Zambia%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/ZMB/ZMB-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Zambia: status report</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-25">Edition of 2026-09-25 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-status-2026-09-25.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-10-01">Edition of 2026-10-01 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-status-2026-10-01.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -181,7 +226,7 @@
 
 <p>Enforcement of the Cyber Crimes Act commenced in July 2026, <a href="https://techafricanews.com/2026/07/22/zambia-reinforces-cybersecurity-and-privacy-through-cyber-crimes-act/" target="_blank" rel="noopener">the Ministry of Information and Media saying the Act "applies equally to every individual without exception"</a>, with <a href="https://techafricanews.com/2026/07/22/zambia-reinforces-cybersecurity-and-privacy-through-cyber-crimes-act/" target="_blank" rel="noopener">public servants singled out for a duty to protect confidential information held in the course of their duties</a>.</p>
 <p>The 2025 legislation is a pair of separate instruments that are routinely conflated: <a href="https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf" target="_blank" rel="noopener">the Cyber Security Act No. 3 of 2025</a>, which builds the interception and agency architecture, and <a href="https://www.parliament.gov.zm/sites/default/files/documents/acts/Acts%20No.%204%20of%202025%2C%20The%20Cyber%20Crimes.pdf" target="_blank" rel="noopener">the Cyber Crimes Act No. 4 of 2025</a>, which carries the offences, both gazetted on 15 April 2025.</p>
-<p>Underneath them sits a stack assembled in 2021. <a href="https://media.zambialii.org/media/legislation/20776/source_file/39bf6107e2fb14d7/2021-3.pdf" target="_blank" rel="noopener">The Data Protection Act No. 3 of 2021</a> regulates the collection, use, transmission and storage of personal data and establishes the Data Protection Commissioner; <a href="https://www.szi.gov.zm/wp-content/uploads/2022/02/Act-No.-41-OF-2021-THE-ELECTRONIC-GOVERNMENT-ACT-2021_0.pdf" target="_blank" rel="noopener">the Electronic Government Act No. 41 of 2021</a> mandates the digitalisation of public services and establishes the Electronic Government Division; electronic signatures and electronic transactions sit under <a href="https://www.szi.gov.zm/wp-content/uploads/2022/02/ECT-Act-2009.pdf" target="_blank" rel="noopener">an Electronic Communications and Transactions Act first enacted in 2009</a>. The World Bank's GovTech Maturity Index also <a href="https://www.worldbank.org/en/programs/govtech/gtmi-2025-update" target="_blank" rel="noopener">records a right to information law in force and rates it effective (2025)</a>.</p>
+<p>Underneath them sits a stack assembled in 2021. <a href="https://media.zambialii.org/media/legislation/20776/source_file/39bf6107e2fb14d7/2021-3.pdf" target="_blank" rel="noopener">The Data Protection Act No. 3 of 2021</a> regulates the collection, use, transmission and storage of personal data and establishes the Data Protection Commissioner; <a href="https://www.szi.gov.zm/wp-content/uploads/2022/02/Act-No.-41-OF-2021-THE-ELECTRONIC-GOVERNMENT-ACT-2021_0.pdf" target="_blank" rel="noopener">the Electronic Government Act No. 41 of 2021</a> mandates the digitalisation of public services and establishes the Electronic Government Division; electronic signatures and electronic transactions sit under <a href="https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/" target="_blank" rel="noopener">the Electronic Communications and Transactions Act No. 4 of 2021, which makes ZICTA the national root certification authority and whose amendment Cabinet approved in principle in September 2025 and put to stakeholder consultation in September 2026</a>. The World Bank's GovTech Maturity Index also <a href="https://www.worldbank.org/en/programs/govtech/gtmi-2025-update" target="_blank" rel="noopener">records a right to information law in force and rates it effective (2025)</a>.</p>
 <p>The holes are in the newer areas. <a href="https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration" target="_blank" rel="noopener">There is no dedicated digital identity law, digital ID being governed instead by the National Registration Act, the Electronic Government Act and the Data Protection Act</a>. <a href="https://itweb.africa/article/zambia-begins-amending-electronic-government-act/" target="_blank" rel="noopener">The government began amending the e-government law in January 2026, through a Bill giving legal standing to electronic submissions and digital authentication so services can run end to end digitally</a>. Nothing governs artificial intelligence: <a href="https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/" target="_blank" rel="noopener">the Ministry of Technology and Science names a Startup Bill alongside the forthcoming AI strategy, neither with published text (July 2026)</a>.</p>
 <p>The 2025 Acts are contested. <a href="https://www.lusakatimes.com/2025/04/22/laz-set-to-mount-legal-challenge-against-cyber-laws-warns-of-democratic-backslide/" target="_blank" rel="noopener">The Law Association of Zambia said in April 2025 it would mount a legal challenge to them</a>, and <a href="https://diggers.news/local/2026/07/04/well-repeal-cyber-law-makebi/" target="_blank" rel="noopener">an opposition running mate campaigned in July 2026 on repealing both</a>. Where civil society has reached for statute over an alleged election-period messaging campaign, it has reached wider than data protection, citing <a href="https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/" target="_blank" rel="noopener">section 83 of the Electoral Process Act No. 35 of 2016 and the Anti-Corruption Act 2012</a>.</p>
 <h3 id="data-protection">Data protection</h3>
@@ -436,8 +481,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-25</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/ZMB/ZMB-status-2026-09-25.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-10-01</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/ZMB/ZMB-status-2026-10-01.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Zambia%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/ZMB/ZMB-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

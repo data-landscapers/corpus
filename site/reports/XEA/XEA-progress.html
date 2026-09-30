@@ -6,16 +6,16 @@
 <title>East Africa — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="A year in East Africa, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/XEA/XEA-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
-<link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
+<link rel="stylesheet" href="../../assets/css/report.css?v=bbe0e950">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="East Africa — progress report, September 2025 – September 2026">
 <meta property="og:description" content="A year in East Africa, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.">
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/XEA/XEA-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="033fbbe0c3ef">
+<meta name="dl-record" content="cc81982cde01">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/XEA/XEA-progress.html"
   },
-  "datePublished": "2026-09-27",
-  "dateModified": "2026-09-27",
+  "datePublished": "2026-10-01",
+  "dateModified": "2026-10-01",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/XEA/XEA-progress-2026-09-27.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/XEA/XEA-progress-2026-10-01.pdf"
   }
 }
 </script>
@@ -102,15 +102,60 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,13 +187,13 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20East%20Africa%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/XEA/XEA-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">East Africa: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-27">Edition of 2026-09-27 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/XEA/XEA-progress-2026-09-27.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-10-01">Edition of 2026-10-01 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/XEA/XEA-progress-2026-10-01.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
       <div class="article-body">
-<div class="report-standfirst"><em>Compiled 2026-09-27 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.</em></div>
+<div class="report-standfirst"><em>Compiled 2026-09-30 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.</em></div>
 <nav class="article-toc" aria-label="Sections in this report">
 <a href="#summary-of-the-period">Summary of the period</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -162,8 +207,8 @@
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#finance">Finance</a>
 </nav>
-<p><em>Of 58 bodies, instruments and systems on this place's ledger, 39 changed position between 2025-09-01 and 2026-09-27, 10 did not, 9 carry no stated baseline, and 0 are </em><strong>Not held</strong><em> at both ends.</em></p>
-<p><em>Shape check, run before the comparison: 120 sources for this place in the window — 27 in the earlier half (2025-09 to 2026-02), 93 in the later (2026-03 to 2026-09). </em><em>The earlier half of the window is thin: this is a shorter comparison wearing a longer label</em><em>, and the movement below rests mostly on the later half.</em></p>
+<p><em>Of 59 bodies, instruments and systems on this place's ledger, 40 changed position between 2025-09-01 and 2026-09-30, 10 did not, 9 carry no stated baseline, and 0 are </em><strong>Not held</strong><em> at both ends.</em></p>
+<p><em>Shape check, run before the comparison: 121 sources for this place in the window — 27 in the earlier half (2025-09 to 2026-02), 94 in the later (2026-03 to 2026-09). </em><em>The earlier half of the window is thin: this is a shorter comparison wearing a longer label</em><em>, and the movement below rests mostly on the later half.</em></p>
 <p><strong>Progress values.</strong> <em>Movement</em> — some form of progress, however minor, has been recorded. <em>Stalled</em> — a stated target passed without delivery. <em>Regressed</em> — an instrument was withdrawn or neutralised, or a reported position worsened. <em>Closed</em> — the programme ended. <em>No change</em> — the repository holds a standing position and nothing in the period touched it. <strong><em>Baseline not held</em></strong> — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in <em>Movement, slipped</em>.</p>
 <h2 id="summary-of-the-period">Summary of the period</h2>
 <!-- narrative: summary -->
@@ -179,7 +224,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -276,7 +321,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -306,7 +351,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -343,7 +388,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -362,7 +407,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -422,7 +467,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -471,7 +516,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -490,7 +535,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -509,7 +554,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -528,7 +573,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -559,7 +604,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -602,7 +647,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -627,7 +672,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -652,7 +697,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -670,6 +715,12 @@
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
+<td>IGAD Regional Strategy for the Development of Statistics II (2026-2030)</td>
+<td>The first regional statistics strategy, 2021-2025, running to its close</td>
+<td><a href="https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/" target="_blank" rel="noopener">Adopted unanimously by the heads of the national statistical offices of Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Sudan and Uganda: five pillars including modernisation and interoperability and the use of administrative and geospatial data, 69 interventions costed indicatively at USD 13.005 million to 2030, with at least 30 per cent of financing sought from domestic and institutional sources by 2030</a></td>
+<td><span class="badge badge--green">Movement</span></td>
+</tr>
+<tr>
 <td>User satisfaction survey on regional statistics</td>
 <td>Did not exist</td>
 <td><a href="https://www.eac.int/press-releases/3590-eac-calls-for-public-participation-in-shaping-better-regional-statistics" target="_blank" rel="noopener">The community secretariat opened an online user satisfaction survey on regional statistics on 3 September 2026, run under an eastern Africa regional statistics programme for results. It asks users across the partner states about the quality, relevance, reliability, timeliness, accessibility and usefulness of regional statistics and about barriers to access, and is addressed to national statistics offices, central banks, regional bodies, the private sector, academia, development partners, civil society, media and independent researchers; the findings are to guide statistical products and dissemination</a></td>
@@ -683,7 +734,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -708,7 +759,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -727,7 +778,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -751,7 +802,7 @@
 <tr>
 <th>Body, instrument or system</th>
 <th>At 2025-09-01</th>
-<th>At 2026-09-27</th>
+<th>At 2026-09-30</th>
 <th>Progress</th>
 </tr>
 </thead>
@@ -784,8 +835,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-27</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/XEA/XEA-progress-2026-09-27.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-10-01</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/XEA/XEA-progress-2026-10-01.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20East%20Africa%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/XEA/XEA-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>
