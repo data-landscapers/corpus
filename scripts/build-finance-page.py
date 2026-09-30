@@ -56,8 +56,7 @@ def taxonomy_labels():
     end of the line: `dpi.registry`'s entry carries a 558-character ruling about
     where registry material files, and all 558 characters were arriving in the
     `sector` column (now `primary_topic`) of every published finance CSV and in the topic row of three
-    countries' pivot tables. `report-lint.py` imports this function, so the name
-    stays and only the source moves."""
+    countries' pivot tables. The name stays and only the source moves."""
     return taxonomy_lib.labels()
 
 
@@ -305,9 +304,8 @@ def aggregate3(ns, dom, fx):
 
 # ---------------------------------------------------------------- CSV exports
 # Canonical financier display name (approved map -> entity-page title -> prettified
-# slug) moved to finance_lib 2026-08-03: report-lint checks this build's output
-# against the same function, so the two must be one function, not two copies.
-# `fin_name` stays importable from here — report-lint calls it as `bfp.fin_name`.
+# slug) moved to finance_lib 2026-08-03, so every reader of a financier's name uses one
+# function, not a copy. `fin_name` stays importable from here.
 
 def recip_org(T):
     """Recipient organisation, name only — no descriptive suffix, no trailing (ISO3)."""

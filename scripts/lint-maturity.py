@@ -10,9 +10,10 @@ lint-maturity.py — the maturity assessment's checks (task D3; `maturity-assess
 a bad verdict at write time. These checks read the editions and `indicators.csv` as they stand,
 so a hand edit, a stray merge or a copy from somewhere else is caught the same way. A checker that
 trusted the writer would only be checking the writer's intentions. The rules are imported from
-`maturity-assess.py`, not restated, for the reason `report-lint.py`'s `load()` gives.
+`maturity-assess.py`, not restated, so a rule changed there is the rule checked here.
 
-Letters continue the report sequence (A–F `report-lint.py`, G I J L M `report-render.py`).
+Letters continue the report sequence (A–F were `report-lint.py`'s, which Corpus retired on
+2026-09-30 as OSINT's own; G I J L M `report-render.py`).
 The unit checks also run under `report-render.py --check`.
 
   N  stage domain      every stage is 1–5 on an assessed indicator, and every row it cites is in
