@@ -22,7 +22,7 @@ What a government commits from its own budget is the other half of the picture, 
 
 This table holds every digital line we have read from African states' own budget documents: what was proposed, enacted, revised and spent, and where in the document each figure is printed. Figures are in the budget's own currency; `budget_usd` gives the latest one in US dollars. Only the state's own money is here. Donor and lender money is in [non-state finance](../).
 
-Click any row to see every field. Work continues country by country, one fiscal year at a time.
+Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download. Work continues country by country, one fiscal year at a time.
 
 ## dataset-all
 

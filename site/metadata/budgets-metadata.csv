@@ -46,9 +46,9 @@ exec_vs_voted,Spent vs voted,percent,,The actual figure as a percentage of the a
 exec_vs_revised,Spent vs revised,percent,,The actual figure as a percentage of the revised figure.
 source_tier,Source type,text,"budget-document, official-statement, project-document, reporting",The kind of source the figure comes from.
 doc_type,Document type,text,,"The kind of budget document, such as appropriation-act or budget-estimates."
-doc_locator,Where printed,text,,"Where in the document the figure is printed: volume, table, page, line."
+doc_locator,Where printed,text,,"Where in the document the figure is printed: volume, table, page, line. Only in the downloadable CSV: the table on the page leaves it out."
 source_slug,Source,code,,The key of the source document in the Corpus catalogue.
 extracted,Extracted,date,YYYY-MM-DD,The date the line was read from the document.
 origin_record,Migrated from,code,,"For a line carried over from an earlier record rather than read afresh, the key of that record. Blank for a line read from the document."
-notes,Notes,text,,"How the figure was checked against the document's totals, and anything a reader needs to use it."
+notes,Notes,text,,"How the figure was checked against the document's totals, and anything a reader needs to use it. Only in the downloadable CSV: the table on the page leaves it out."
 primary_subject_id,Subject key,code,a key in the subject taxonomy,"What the money is for, as a key in the subject taxonomy (dpi.govtech, infra.connect)."

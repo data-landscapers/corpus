@@ -40,7 +40,7 @@ nothing here reads it. The budgets page reads `budgets/budgets-all-countries.csv
 is Corpus's own source, not a compile of OSINT's, so there is no `outputs/` copy to read.
 """
 from __future__ import annotations
-import csv, html, json, sys
+import csv, html, io, json, sys
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -74,6 +74,13 @@ BUDGET_TABLE_COLS = 9
 # Set True at launch: `editions.publish` then cuts the first dated edition and retires the
 # undated file itself (`editions.retire_undated`).
 BUDGETS_DATED = False
+# **The table reads a lighter file than the download** *(Bill, 2026-09-30)*. `doc_locator` and
+# `notes` are long prose and nearly half the bytes, and the browser parses every byte of
+# `data-src` before it draws a row, so the table was sluggish. They stay in the download and
+# the metadata says so; the table's file is undated working material, like the data centres'
+# display file, and is rewritten whenever the download is.
+BUDGET_TABLE_OMIT = ("doc_locator", "notes")
+BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
 
 
 def indent(html_block: str, spaces: int = 4) -> str:
@@ -278,7 +285,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 {budgets_intro}
 
     <div class="dl-datatable"
-      data-src="{csv_name}"
+      data-src="{table_csv}"
       data-cols="{cols}"
       data-filters="place, report_year, primary_subject"
       data-numeric="{numeric}"
@@ -368,6 +375,14 @@ def publish_budgets(out: Path, names: dict) -> None:
             csv_path.write_bytes(body)
         edition_rows = (f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
                         f' &mdash; updated as the data changes</dd>')
+    shown = [c for c in header if c not in BUDGET_TABLE_OMIT]
+    buf = io.StringIO(newline="")
+    w = csv.DictWriter(buf, fieldnames=shown, lineterminator="\n", extrasaction="ignore")
+    w.writeheader()
+    w.writerows(rows)
+    table = ("\ufeff" + buf.getvalue()).encode("utf-8")
+    if not (out / BUDGET_TABLE_CSV).exists() or (out / BUDGET_TABLE_CSV).read_bytes() != table:
+        (out / BUDGET_TABLE_CSV).write_bytes(table)
     used = sorted({r["place"] for r in rows})
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
     numeric = [c for c in header if c in ("report_year", "budget_usd", "proposed", "appropriated",
@@ -384,7 +399,8 @@ def publish_budgets(out: Path, names: dict) -> None:
         jsonld=budgets_dataset(rows, meta, csv_path, edition, years),
         toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")),
         csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
-        cols=", ".join(header[:BUDGET_TABLE_COLS]), detail=", ".join(header),
+        cols=", ".join(shown[:BUDGET_TABLE_COLS]), detail=", ".join(shown),
+        table_csv=BUDGET_TABLE_CSV,
         numeric=", ".join(numeric),
         labels=html.escape(json.dumps({"place": {c: names.get(c, c) for c in used}},
                                       ensure_ascii=False), quote=True),
