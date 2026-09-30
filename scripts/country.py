@@ -541,7 +541,7 @@ FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held fo
 FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, primary_topic, "
                   "instrument, aid, commitment_usd_m, amount_basis, amount_quality, status, title, "
                   "description, beneficiary_type, recipient_organisation, original_amount, "
-                  "project_id, iati_activity_id, url, financier_slug, record")
+                  "project_id, iati_activity_id, url, financier_slug, deal_id, record")
 
 # **The aid filter reads in words** *(Bill, 2026-09-30)*: the column holds `true`/`false`,
 # which is what a tool reading the CSV wants, and the table shows them as Aid and Not aid.

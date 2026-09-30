@@ -1,5 +1,6 @@
 ## 30 September 2026
 
+- Non-state finance now carries each deal's `deal_id`, the key national budget lines already carry. It is the same for a deal wherever it appears, so the two tables can be joined.
 - Non-state finance has a new column, `aid`: true for grants, concessional loans and technical assistance, false for every other instrument. It separates aid from investment and commercial lending in the download and in each row's details.
 - The finance tables now say topic throughout: non-state finance's `sector` column is `primary_topic`, and the national budgets table has `country` and `primary_topic`. The values are unchanged; only the column names moved.
 - Every country page now has an Institution hosting report, as a page and a PDF. It shows where that country's ministries, regulators, security bodies and banks host their websites and email, institution by institution.

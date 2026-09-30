@@ -322,7 +322,7 @@ NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier
              "instrument", "aid", "commitment_usd_m", "amount_basis", "amount_quality", "status",
              "title", "description",
              "beneficiary_type", "recipient_organisation", "original_amount",
-             "project_id", "iati_activity_id", "url", "financier_slug", "record"]
+             "project_id", "iati_activity_id", "url", "financier_slug", "deal_id", "record"]
 
 
 def published_date(r):
@@ -389,7 +389,7 @@ def _ns_row(r, country, lab):
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
             T.get("Project ID", ""), T.get("IATI activity ID", ""),
-            r["url"], fm_get(fm, "financier_slug"), r["fn"][:-3]]
+            r["url"], fm_get(fm, "financier_slug"), r["deal_id"], r["fn"][:-3]]
 
 def csv_nonstate(ns, lab, iso3, path):
     with open(path, "w", newline="", encoding="utf-8-sig") as f:   # BOM for Excel

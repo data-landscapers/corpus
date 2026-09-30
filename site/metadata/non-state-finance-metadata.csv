@@ -20,4 +20,5 @@ project_id,"If the financier maintains a public portfolio, this is the Id of the
 iati_activity_id,"If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data."
 url,A public url referencing the source from which the data in this table has been collected.
 financier_slug,The financier identifier within the Corpus repository
+deal_id,"A unique key for the deal in the Data Landscapers base, such as afdb-cpv-007. No two deals share one, and the national budgets table uses the same column for its lines."
 record,The identifier of the record within the  Corpus repository
