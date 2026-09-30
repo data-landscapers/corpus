@@ -75,6 +75,10 @@ IH_FILTERS = ("iso3", "type", "tangled_hybrid")
 IH_NUMERIC = ("names", "routable", "us_hyperscaler_share", "african_region_share", "us_saas_share",
               "cdn_share", "national_or_self_share", "telco_share", "african_dc_share", "foreign_host_share",
               "chinese_cloud_share", "unusable_share", "unattributed")
+# The views the Institution Hosting pages link across, in `.article-toc` like Progress's
+# Topics · Countries. (slug below the dataset, label); the continental analysis joins here.
+IH_VIEWS = (("", "Dataset"), ("methodology", "Methodology"))
+IH_METHOD = IH_DIR / "methodology.md"
 IH_DETAIL = ("domains", "names", "routable", "unattributed", "mail_security", "scan_date")
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -302,6 +306,7 @@ IH_PAGE = """<!DOCTYPE html>
       <h1 class="article-header__title">Institution hosting</h1>
     </header>
 
+{views}
     <div class="byline">{institutions} institutions &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; scanned {scanned}</div>
 
 {intro}
@@ -447,6 +452,50 @@ def read_csv(path: Path) -> list[dict]:
         return list(csv.DictReader(f))
 
 
+def ih_views(current: str) -> str:
+    """Dataset · Methodology, from the page one is on. Every entry is a link, the current one
+    to itself with `aria-current` (progress.py → `toc` sets out why)."""
+    up = "../" if current else ""
+    links = []
+    for slug, label in IH_VIEWS:
+        href = (up + slug + "/") if slug else (up or "./")
+        if slug == current:
+            href = "./"
+        cur = ' aria-current="page"' if slug == current else ""
+        links.append(f'<a href="{href}"{cur}>{label}</a>')
+    sep = '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'
+    return f'<nav class="article-toc" aria-label="Institution hosting views">\n{sep.join(links)}\n</nav>\n'
+
+
+def build_ih_methodology() -> None:
+    """`/datasets/institution-hosting/methodology/`: the scan's methodology note, converted
+    through Methodology's page shell. Its front matter and `#` title are dropped (the page has
+    its own h1) and its date-and-author line becomes the byline."""
+    lines = IH_METHOD.read_text(encoding="utf-8").splitlines()
+    if lines and lines[0] == "---":
+        lines = lines[lines.index("---", 1) + 1:]
+    while lines and (not lines[0].strip() or lines[0].startswith("# ")):
+        lines.pop(0)
+    byline = lines.pop(0).strip() if lines and "·" in lines[0] and not lines[0].startswith("#") else ""
+    out = OUT / IH / "methodology"
+    out.mkdir(parents=True, exist_ok=True)
+    canonical = f"{SITE_BASE}/datasets/{IH}/methodology/"
+    title = "Institution hosting methodology"
+    body = (ih_views("methodology") + (f'<div class="byline">{html.escape(byline)}</div>\n' if byline else "")
+            + methodology.convert(IH_METHOD, "\n".join(lines)))
+    (out / "index.html").write_text(external_links(methodology.PAGE.format(
+        feedback=feedback(title, canonical), h1=title, title=title,
+        description="How the Institution hosting dataset was made: which institutions were chosen, how "
+                    "their internet names were found and looked up, how each address was assigned to a "
+                    "host, and what the figures do and do not show.",
+        canonical=canonical, base=SITE_BASE, main=MAIN_SITE, body_class="",
+        chrome=chrome("datasets", depth=3), foot=foot(depth=3),
+        styles=styles(3, "methodology.css"), ga=ga(),
+        body=methodology.indent(body),
+        source=IH_METHOD.relative_to(CORPUS).as_posix(), built=date.today().isoformat(),
+    )), encoding="utf-8")
+
+
 def build_institution_hosting(names: dict) -> dict:
     """`/datasets/institution-hosting/`: the hyperscaler scan's per-institution file, published
     as a dated edition like the data centres. Returns the counts the index prints."""
@@ -486,8 +535,10 @@ def build_institution_hosting(names: dict) -> dict:
         cols=", ".join(IH_COLS), filters=", ".join(IH_FILTERS), numeric=", ".join(IH_NUMERIC),
         detail=", ".join(IH_DETAIL),
         labels=attr({"iso3": {c: names.get(c, c) for c in used}}),
+        views=indent(ih_views("")),
         institutions=f"{len(rows):,}", countries=len(used), scanned=scanned,
         built=date.today().isoformat(), edition=edition)), encoding="utf-8")
+    build_ih_methodology()
     print(f"datasets: {IH} {len(rows)} rows, edition {edition} -> site/datasets/{IH}/")
     return dict(ih_institutions=f"{len(rows):,}", ih_countries=len(used), ih_edition=edition)
 

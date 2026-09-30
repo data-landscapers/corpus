@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Institution hosting methodology — Data Landscapers</title>
+<meta name="description" content="How the Institution hosting dataset was made: which institutions were chosen, how their internet names were found and looked up, how each address was assigned to a host, and what the figures do and do not show.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/datasets/institution-hosting/methodology/">
+<link rel="stylesheet" href="../../../assets/css/main.css?v=646ebba6">
+<link rel="stylesheet" href="../../../assets/css/corpus.css?v=d55f78b7">
+<link rel="stylesheet" href="../../../assets/css/methodology.css?v=f43303f4">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/" class="active">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container">
+    <header class="article-header">
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Institution%20hosting%20methodology&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/datasets/institution-hosting/methodology/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <h1 class="article-header__title">Institution hosting methodology</h1>
+    </header>
+
+    <article class="article-body">
+      <nav class="article-toc" aria-label="Institution hosting views">
+      <a href="../">Dataset</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="./" aria-current="page">Methodology</a>
+      </nav>
+      <div class="byline">29 September 2026 · Bill Anderson</div>
+      <p>This note describes how the 54 country fact sheets were made: which institutions were chosen, how their internet names were found and looked up, how each address was assigned to a host, and what the figures do and do not show. It is written for readers who want to check the work or doubt it. Every file and script named here is in the Corpus repository, and every figure in the fact sheets can be recomputed from them.</p>
+      <h2 id="1-what-is-measured">1. What is measured</h2>
+      <p>For each strategic institution in a country, the scan asks one question: <strong>which organisation runs the servers that the institution's public internet names point to?</strong> A public name is a website, a mail server, a login portal or anything else the institution has published in the domain name system (DNS).</p>
+      <p>The unit of measurement is a <strong>working address record</strong>: one DNS record (A, AAAA, MX or NS) under an institution's domain that resolved to a server. Each record is assigned to a host and a category. A country's figures are shares of its working address records.</p>
+      <p>This measures the public edge of the state. It does not measure where databases, core banking systems, ID registers or payroll run. Those sit behind the edge and leave no trace in public DNS.</p>
+      <h2 id="2-why-this-approach">2. Why this approach</h2>
+      <p>The method follows Computer Weekly's September 2026 study of UK police forces. It needs no cooperation from anyone, no freedom-of-information requests and no procurement records. It uses only four public sources:</p>
+      <ul>
+      <li>the domain name system itself, queried through a public resolver;</li>
+      <li>Certificate Transparency logs, which record every publicly trusted website certificate;</li>
+      <li>the internet registries (AFRINIC, RIPE, ARIN, APNIC, LACNIC), which record who holds each block of addresses;</li>
+      <li>the address lists that Amazon, Microsoft, Google, Oracle and Cloudflare publish for their own networks.</li>
+      </ul>
+      <p>These sources are global and the same for every country. That makes the method repeatable, and it makes one country comparable with another. It also means the results depend on the quality of those sources, which section 10 covers.</p>
+      <h2 id="3-choosing-the-institutions">3. Choosing the institutions</h2>
+      <p><strong>The list of types.</strong> <code>strategic-<wbr>institutions.csv</code> defines 36 types of institution in five tiers:</p>
+      <table>
+      <thead>
+      <tr>
+      <th>Tier</th>
+      <th>Types</th>
+      <th>The types</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1 Sovereign spine</td>
+      <td>14</td>
+      <td>Presidency, Parliament, Foreign Affairs, Defence, Armed Forces, Police, Justice, Treasury, Revenue, Customs, Intelligence, Interior, Central Bank, Commercial Banks</td>
+      </tr>
+      <tr>
+      <td>2 Citizen data</td>
+      <td>8</td>
+      <td>Civil registry and ID, Data protection, Electoral commission, Statistics, Immigration, Health, Social protection, Land registry</td>
+      </tr>
+      <tr>
+      <td>3 Money and critical services</td>
+      <td>8</td>
+      <td>Payment switch, Stock exchange, Securities regulator, Pension or wealth fund, Procurement, Energy utility, Ports, State-owned telco</td>
+      </tr>
+      <tr>
+      <td>4 Digital state</td>
+      <td>4</td>
+      <td>E-government agency, National data centre, Cybersecurity agency, Communications regulator</td>
+      </tr>
+      <tr>
+      <td>5 Oversight</td>
+      <td>2</td>
+      <td>Audit office, Anti-corruption commission</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>The same list was used in every country. Commercial Banks means the ten largest banks by assets, from the central bank's list of licensed banks or the most recent published ranking. Where a sector has fewer than ten banks, all are included.</p>
+      <p><strong>Finding each institution's domain.</strong> For each country and type, the institution and its main domain were identified by knowledge and web search. Each domain was confirmed by fetching its homepage once. This is the only time any request went to an institution's own server, and it happened before the scan. The scan itself made none (section 11).</p>
+      <p><strong>Coverage is recorded, not assumed.</strong> A type with no institution in a country, or whose domain could not be found, has a row marked <code>absent</code> with the reason. Where one institution covers two types (a revenue authority that also runs customs), the second type is marked <code>absent</code> with a note naming the row that covers it. A domain that no longer resolves is marked <code>dead</code>.</p>
+      <p>Across the 54 countries there are 2,425 seed rows: 1,830 scanned, 568 absent and 27 dead. 1,857 domains were scanned. The lists are in <code>scan/<wbr>{ISO3}/<wbr>institutions-<wbr>{ISO3}.csv</code>.</p>
+      <p><strong>What a sceptic should know.</strong> The lists were drawn up for this scan. A domain was checked to exist and to belong to the institution, not confirmed with the institution as its main one. Some institutions use several domains and only one or two were seeded. A missing domain lowers the count for that institution. It does not move it into another category.</p>
+      <h2 id="4-finding-the-names">4. Finding the names</h2>
+      <p>For each seeded domain the scan collects names from three sources. Each name records which sources found it.</p>
+      <ol>
+      <li><strong>The root.</strong> The domain itself and <code>www</code>.</li>
+      <li><strong>A dictionary.</strong> 500 common names (such as <code>mail</code>, <code>vpn</code>, <code>portal</code>, <code>webmail</code>, <code>api</code>), including names common in African government and banking (<code>ecitizen</code>, <code>ifmis</code>, <code>ussd</code>, <code>etender</code>, <code>ibank</code>). A dictionary name is kept only if it resolves to an address.</li>
+      <li><strong>Certificate Transparency.</strong> One query per domain to crt.sh, which lists every name that has appeared on a public certificate under the domain. Names found only here are kept even if they no longer resolve, so that expired names are visible.</li>
+      </ol>
+      <p><strong>Wildcards.</strong> Some domains answer for any name, real or not. Before using the dictionary, the scan looks up a random 16-letter name under the domain. If it resolves, the domain is a wildcard, and dictionary names are kept only where Certificate Transparency also lists them. 71 of the 1,857 domains were wildcards.</p>
+      <p><strong>Parent zones.</strong> Where a seeded domain is the parent of other seeded domains (for example <code>gov.za</code> above <code>treasury.gov.za</code>), it is scanned at the root only. Otherwise its dictionary and certificate names would count every other institution's estate as its own.</p>
+      <p><strong>Certificate Transparency failures.</strong> crt.sh is a free public service and it often fails under load. Each call is retried once after 30 seconds. On a second failure the domain is scanned without it and <code>ct_status: failed</code> is recorded in the country's <code>run.json</code>. This happened for 97 of the 1,857 domains. Those institutions are under-counted, mostly by the loss of old or rarely used names.</p>
+      <p>The scan found 61,106 distinct names. 33,939 of them resolved to a working server.</p>
+      <h2 id="5-looking-up-the-names">5. Looking up the names</h2>
+      <p>Each name is looked up for A (IPv4 address), AAAA (IPv6 address) and CNAME (alias) records, with the full alias chain followed. The root of each domain is also looked up for MX (mail server), NS (name server) and TXT records. Only TXT records that begin <code>v=spf1</code> or <code>v=DMARC1</code> are kept; they show which services may send mail for the domain. All other TXT records are discarded unread.</p>
+      <p>Queries go to Cloudflare's public resolver (1.1.1.1), with Google's (8.8.8.8) as a fallback. Each query has a five-second timeout and one retry. No more than 20 queries are in flight at once. A failed lookup is recorded as a row with its result (<code>nxdomain</code>, <code>noanswer</code>, <code>servfail</code>, <code>timeout</code>), not dropped.</p>
+      <h2 id="6-assigning-each-address-to-a-host">6. Assigning each address to a host</h2>
+      <p>Each working record is assigned in this order. The first rule that matches is used.</p>
+      <ol>
+      <li><strong>The alias chain against known services.</strong> If a name's alias chain ends at a known service, the record is assigned to it: for example <code>mail.protection.outlook.com</code> (Microsoft 365), <code>ghs.googlehosted.com</code> (Google), <code>cloudflare.net</code> (Cloudflare), <code>mimecast.com</code> (Mimecast). The 44 suffixes are in <code>saas-<wbr>targets.csv</code>. Some suffixes name a cloud platform (<code>azurewebsites.net</code>, <code>cloudfront.net</code>) but not a region; for these the address decides the region in step 2.</li>
+      <li><strong>The address against the cloud companies' published ranges.</strong> Amazon, Microsoft (Azure Service Tags), Google Cloud, Google's other services, Oracle and Cloudflare each publish the address blocks they use, most with the region each block serves. An address inside one of these blocks is assigned to that company and region. The range files were fetched on 28 and 29 September 2026, and each country's <code>run.json</code> records the dates it used.</li>
+      <li><strong>The address against the internet registries.</strong> Otherwise the scan asks the registries, through RDAP and RIPEstat, who holds the address and which network (ASN) announces it. Answers are cached for 30 days.</li>
+      <li><strong>The network against a hand-kept table.</strong> The network number is looked up in <code>asn-<wbr>owners.csv</code>, which assigns each network a category. When the scan meets a network not yet in the table, it adds it with the category blank.</li>
+      </ol>
+      <p><strong>The hand-kept table.</strong> <code>asn-<wbr>owners.csv</code> holds 725 networks. Each was classified from its registered owner name, with at most one further lookup. The conventions were fixed before classification: a telecoms company is <code>telco-<wbr>isp</code>; a bank's or company's own network is <code>african-<wbr>colo</code>; a state body's own network is <code>national-<wbr>dc</code>; a research network is <code>telco-<wbr>isp</code>; a non-US software company is <code>commercial-<wbr>host</code>. 39 networks could not be placed with confidence. They were given the most neutral nearby category, usually <code>commercial-<wbr>host</code>, and are marked <code>unverified</code> in the table. The table is open, and anyone who disagrees with a line can change it and re-run the attribution without new lookups (section 12).</p>
+      <p><strong>Self-hosting.</strong> A record is <code>self-<wbr>hosted</code> when the registered owner of the address or the network matches the institution: two or more shared distinctive words in the names, or the domain's own label (such as <code>kra</code>) appearing in the owner's name. This rule is simple, and it can miss an institution that registered its addresses under another name. A miss moves the record into <code>national-<wbr>dc</code> or <code>african-<wbr>colo</code>, which are also counted as national or African, so the national share is little affected.</p>
+      <p><strong>What was left unassigned.</strong> After classification, 76 of 65,534 working records (0.1%) could not be assigned, mostly addresses the registries returned no network for. The drain required 2% or less in every country. The highest was 0.9%.</p>
+      <h2 id="7-the-categories">7. The categories</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>Category</th>
+      <th>Meaning</th>
+      <th>How it is assigned</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>US cloud, in Africa</td>
+      <td>Amazon, Microsoft, Google or Oracle cloud in an African region (Cape Town, Johannesburg, Lagos)</td>
+      <td>published ranges and region</td>
+      </tr>
+      <tr>
+      <td>US cloud, outside Africa</td>
+      <td>the same companies anywhere else, including their worldwide delivery networks and addresses whose region is not published</td>
+      <td>published ranges, or the company's own network number</td>
+      </tr>
+      <tr>
+      <td>US online services</td>
+      <td>Microsoft 365, Google Workspace, Salesforce and similar</td>
+      <td>alias chain and mail records</td>
+      </tr>
+      <tr>
+      <td>Chinese cloud</td>
+      <td>Huawei, Alibaba, Tencent</td>
+      <td>network number</td>
+      </tr>
+      <tr>
+      <td>Other foreign hosting firms</td>
+      <td>commercial hosts such as OVH, Hetzner, DigitalOcean, GoDaddy</td>
+      <td>network number</td>
+      </tr>
+      <tr>
+      <td>Behind a shield</td>
+      <td>Cloudflare, Akamai, Imperva, Fastly and similar, which hide the real host</td>
+      <td>published ranges or network number</td>
+      </tr>
+      <tr>
+      <td>African data centres and IT firms</td>
+      <td>African colocation, cloud and IT service companies, and banks' own networks</td>
+      <td>network number</td>
+      </tr>
+      <tr>
+      <td>Government data centres</td>
+      <td>national data centres and state IT agencies</td>
+      <td>network number</td>
+      </tr>
+      <tr>
+      <td>Telecoms companies</td>
+      <td>telecoms operators and internet providers</td>
+      <td>network number</td>
+      </tr>
+      <tr>
+      <td>The institution's own systems</td>
+      <td>the institution's own address block or network</td>
+      <td>owner name match</td>
+      </tr>
+      <tr>
+      <td>Private or unusable</td>
+      <td>an address that cannot be reached from the internet</td>
+      <td>the address itself</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>Three choices affect the headline figures and are stated here so they can be challenged:</p>
+      <ul>
+      <li><strong>Worldwide delivery networks count as outside Africa.</strong> Amazon CloudFront, Azure Front Door and Google's global front ends serve each visitor from a nearby copy. They have no single location, and they are never counted as African.</li>
+      <li><strong>Microsoft 365 is counted as a US online service, not as US cloud,</strong> where its alias chain identifies it. Microsoft addresses outside the published Azure ranges, which are often Microsoft 365 too, are counted as US cloud with the region unknown. The US cloud share and the US online services share should be read together.</li>
+      <li><strong>IBM, Rackspace and other US hosts count as other foreign hosting firms,</strong> not US cloud. Only Amazon, Microsoft, Google and Oracle are counted as US cloud.</li>
+      </ul>
+      <h2 id="8-the-measures">8. The measures</h2>
+      <p><strong>Working addresses.</strong> A, AAAA, MX and NS records that resolved. A name with both an IPv4 and an IPv6 address, or with several addresses, counts once per address. Most shields and delivery networks return several addresses for each name. This gives more weight to names behind them than a count of names would. The choice keeps the unit the same for every country. The per-name view can be computed from <code>institution-<wbr>hosting-<wbr>nodes.csv</code>.</p>
+      <p><strong>Shares.</strong> Each share is a category's working addresses divided by all working addresses, for an institution, a sector or a country. US cloud in Africa is part of the US cloud share, not added to it.</p>
+      <p><strong>Email provider.</strong> Read from the MX records of the seeded domain. If they point at Microsoft 365 or Google, that is the provider. If the mail passes through a filtering service (Mimecast, Proofpoint, Cisco and others), the SPF record is read to find the provider behind it; where it names none, the provider is reported as not visible. Otherwise the provider is the host the mail servers resolve to.</p>
+      <p><strong>Mixed home and US cloud.</strong> An institution with at least one record on a government data centre or its own network and at least one on US cloud.</p>
+      <p><strong>Banks against government.</strong> Commercial Banks are the bank sector. Every other type counts as government, including central banks, payment switches, stock exchanges and state-owned companies.</p>
+      <p><strong>Rankings.</strong> Each fact sheet ranks its country among all countries whose attribution was complete when it was written. All 54 were. A country with few institutions or few addresses can rank high or low on very little. Eritrea, with five institutions and 47 working addresses, ranks first on US cloud share.</p>
+      <h2 id="9-how-the-work-was-checked">9. How the work was checked</h2>
+      <ul>
+      <li><strong>Stepwise order.</strong> All 54 countries finished each step before any country started the next. The table of network owners was completed before any country's attribution was finalised, so every country was assigned with the same table.</li>
+      <li><strong>Attribution threshold.</strong> A country passed only with unattributed records at 2% or less of its working addresses. All 54 passed.</li>
+      <li><strong>Rescans where coverage failed.</strong> Kenya and Nigeria were scanned again on 29 September after two missing institutions were added. Where Certificate Transparency failed on a large estate, the domain was re-run until it returned, because one failure removed a fifth of Kenya's addresses.</li>
+      <li><strong>Nothing edited by hand.</strong> No figure in a fact sheet was typed. The fact sheets are generated from the scan files by <code>scripts/<wbr>hyperscaler-<wbr>report.py</code>.</li>
+      </ul>
+      <h2 id="10-limits-and-which-way-they-push-the-figures">10. Limits, and which way they push the figures</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>Limit</th>
+      <th>Effect</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Shields hide the real host</td>
+      <td>US cloud share is a <strong>minimum</strong>. Anything behind a shield could be on US cloud. In some countries half the estate is behind a shield.</td>
+      </tr>
+      <tr>
+      <td>Mail filters hide the mail provider</td>
+      <td>Microsoft 365 and Google counts are <strong>minimums</strong>.</td>
+      </tr>
+      <tr>
+      <td>Only the public edge is visible</td>
+      <td>Says nothing about core systems. A body can run its website abroad and its database at home, or the reverse.</td>
+      </tr>
+      <tr>
+      <td>One lookup location</td>
+      <td>DNS answers can depend on where the question is asked. A resolver elsewhere may be sent to a different copy of a site behind a delivery network. Region shares for delivery networks are the least stable figure.</td>
+      </tr>
+      <tr>
+      <td>Addresses, not importance</td>
+      <td>An institution with many test, marketing or old names weighs more than one with few.</td>
+      </tr>
+      <tr>
+      <td>Certificate Transparency failures</td>
+      <td>97 domains were scanned without certificate names, so their institutions are <strong>under-counted</strong>. The failures are listed in each <code>run.json</code>.</td>
+      </tr>
+      <tr>
+      <td>Seed lists</td>
+      <td>A missing domain lowers an institution's count. The choice of the ten largest banks favours large, often multinational, banks.</td>
+      </tr>
+      <tr>
+      <td>Hand-kept network table</td>
+      <td>39 of 725 networks are marked unverified. A wrong line misplaces every address on that network, in every country.</td>
+      </tr>
+      <tr>
+      <td>Owner-name matching</td>
+      <td>Can miss self-hosting under another name. Such records mostly land in other national categories.</td>
+      </tr>
+      <tr>
+      <td>Snapshot</td>
+      <td>Every figure is as of the scan date: 28 September 2026 for South Africa, 29 September for the other 53 countries.</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>Three objections come up often.</p>
+      <p><em>"A share of addresses is not a share of dependence."</em> Agreed. The figure measures where an institution's public estate is hosted. It is evidence about dependence, not a measure of it. A ministry whose one website is on a US cloud may depend on it less than one whose mail runs there.</p>
+      <p><em>"Cloudflare is American too."</em> It is, and so are Akamai, Imperva and Fastly. They are kept separate because they pass traffic on to an origin server they do not reveal. Folding them into US cloud would double the US figure in some countries on an assumption. They are shown as their own category so a reader can combine them if they choose.</p>
+      <p><em>"The African cloud regions are new, so of course they are little used."</em> The scan records use on the scan date, not intentions. Where US cloud is used, the fact sheets report how much of it is in Africa.</p>
+      <h2 id="11-what-the-scan-did-not-do">11. What the scan did not do</h2>
+      <p>The scan is passive. It sent DNS queries to public resolvers, one query per domain to crt.sh, lookups to the internet registries, and downloads of the cloud companies' published range files. It made no web request, port scan or login attempt against any host under an institution's domain, and it did not probe anything that resolved. The only direct contact with any institution was the single homepage fetch that confirmed each domain before the scan.</p>
+      <p>Some names point at a cloud name that has been deleted and that anyone could register. Whoever registered it could publish content under the institution's name. The scan found 13 such names in nine countries. The fact sheets count them but do not name them, and they were passed on for disclosure.</p>
+      <h2 id="12-reproducing-it">12. Reproducing it</h2>
+      <p>Everything is in <code>R&amp;D/<wbr>Hyperscaler-<wbr>dependence/</code> in the Corpus repository.</p>
+      <table>
+      <thead>
+      <tr>
+      <th>File</th>
+      <th>What it is</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td><code>strategic-<wbr>institutions.csv</code></td>
+      <td>the 36 types</td>
+      </tr>
+      <tr>
+      <td><code>scan/<wbr>{ISO3}/<wbr>institutions-<wbr>{ISO3}.csv</code></td>
+      <td>the seed list for each country, with status and notes</td>
+      </tr>
+      <tr>
+      <td><code>subdomains.txt</code>, <code>saas-<wbr>targets.csv</code>, <code>asn-<wbr>owners.csv</code></td>
+      <td>the dictionary, the service suffixes and the network table</td>
+      </tr>
+      <tr>
+      <td><code>scan/<wbr>{ISO3}/<wbr>nodes.csv</code></td>
+      <td>every record for the country, with its host and category</td>
+      </tr>
+      <tr>
+      <td><code>scan/<wbr>{ISO3}/<wbr>organisations.csv</code></td>
+      <td>the figures for each institution</td>
+      </tr>
+      <tr>
+      <td><code>scan/<wbr>{ISO3}/<wbr>run.json</code></td>
+      <td>range file dates, wildcards, Certificate Transparency failures, country totals and withheld findings</td>
+      </tr>
+      <tr>
+      <td><code>institution-<wbr>hosting.csv</code>, <code>institution-<wbr>hosting-<wbr>nodes.csv</code></td>
+      <td>all 54 countries in one file each, one row per institution and one per record, with <code>-<wbr>metadata.csv</code> files that explain every column</td>
+      </tr>
+      <tr>
+      <td><code>HYPERSCALER-<wbr>SCAN.md</code>, <code>HYPERSCALER-<wbr>DRAIN.md</code></td>
+      <td>the runbooks the scan was run from</td>
+      </tr>
+      </tbody>
+      </table>
+      <p>To scan a country: <code>python scripts/<wbr>hyperscaler-<wbr>scan.py "R&amp;D/<wbr>Hyperscaler-<wbr>dependence/<wbr>scan/<wbr>KEN/<wbr>institutions-<wbr>KEN.csv"</code>. This needs Python 3 with <code>dnspython</code> and <code>requests</code>, and takes 10 to 60 minutes a country, mostly waiting on crt.sh.</p>
+      <p>To re-assign an existing scan after changing <code>asn-<wbr>owners.csv</code> or <code>saas-<wbr>targets.csv</code>, with no new lookups: add <code>--<wbr>reattribute</code>. To rebuild a fact sheet: <code>python scripts/<wbr>hyperscaler-<wbr>report.py KEN</code>. To rebuild the combined files: <code>python scripts/<wbr>hyperscaler-<wbr>combine.py</code>.</p>
+      <p>A new scan will not give identical figures. DNS changes daily, certificates are issued and expire, and the cloud companies' ranges change weekly. The method is repeatable; a given day's results are not.</p>
+    </article>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-09-30</dd>
+        <dt>Source</dt><dd><code>R&D/Hyperscaler-dependence/methodology.md</code> &mdash; the page is that file, converted</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>
