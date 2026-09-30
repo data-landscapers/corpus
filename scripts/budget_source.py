@@ -339,6 +339,10 @@ def version_overlaps(iso3: str = "", budgets: str = "") -> list[str]:
                  r.get("programme"), r.get("sub_programme_code"), r.get("sub_programme"),
                  r.get("econ_class"), r.get("line_name"), r.get("funding_source"))
             v = r.get("budget_version", "")
+            if v == "original" and r.get("revised"):
+                fails.append(f"{country}/{fy}.csv: {r.get('deal_id')!r} carries a revised figure "
+                             f"under budget_version 'original'. It is `revised`, or "
+                             f"`supplementary-N` where a supplementary law restated it.")
             if k in seen and seen[k][1] != v:
                 fails.append(f"{country}/{fy}.csv: {r.get('deal_id')!r} ({v}) is the line "
                              f"{seen[k][0]!r} ({seen[k][1]}) again. A revision goes on the "

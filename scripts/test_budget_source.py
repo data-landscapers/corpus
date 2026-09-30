@@ -374,6 +374,9 @@ try:
                                         funding_source="own-source")])
     check("the same line from another funding source is not an overlap",
           bs.version_overlaps("GHA", str(v)), [])
+    write(v, "GHA", "2024", [row(budget_version="original", revised="5")])
+    check("an original row with a revised figure fails",
+          len(bs.version_overlaps("GHA", str(v))), 1)
     check("the clean tree has no overlaps", bs.version_overlaps(budgets=str(tmp / "clean")), [])
 
     print("\nmerged file")
