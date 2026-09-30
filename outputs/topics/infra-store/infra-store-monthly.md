@@ -1,15 +1,15 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 86819f5c978c
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
+record: 9db16f027889
 ---
 
 # Data Storage: monthly update, August – September 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -43,7 +43,7 @@ The Douala project was confirmed and qualified in the same week. The vendor [con
 
 ## Central African Republic
 
-The repository's only entry on storage this month is a continental project prospectus. A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
+A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
 
 Fire [damaged part of the national elections authority's data-processing centre in the week before 24 September](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/), weeks ahead of the October residual elections. The government opened an investigation and says the vote will go ahead; no cause, damage estimate or continuity arrangement is stated.
 
@@ -114,7 +114,7 @@ Two cloud platforms opened in Nairobi in September: [Nobus opened an availabilit
 
 ## Lesotho
 
-The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
+Kobong stayed an envelope, not money. [Reporting in September restated the US$6.2 billion hydropower and AI data-centre agreement with Convalt Energy as the largest foreign investment deal Lesotho has signed, with a feasibility study to run over the next year before any implementation agreement or construction](https://groundup.org.za/article/conflict-of-interest-questions-over-lesothos-record-r98-billion-energy-deal/). The same report found that a local firm the energy minister named as a potential partner is part-owned by the public works minister, who said he would recuse himself from cabinet discussion of the project.
 
 Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
 
@@ -183,6 +183,10 @@ A rating agency put a third count on the estate and named the constraint. It put
 
 The data centre and cloud service directives governing the national facility are unchanged, and their [own text carries no date on its face](https://guidelines.risa.gov.rw/books/data-center-and-cloud-services-directives) — [the ministry's sector plan is what dates them to 2023](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf). No compliance or enforcement record is published.
 
+## Senegal
+
+The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given.
+
 ## Sierra Leone
 
 The same 7 August account states the biometric register runs on a Tier III data centre, as reported by the NCRA Director-General ([consultation account](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
@@ -218,6 +222,8 @@ A sector review of 5 August put a count on what is already there: [ten data cent
 ## Tunisia
 
 Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
+
+On 29 September the health minister [named a Tunisian sovereign cloud as the host for every citizen's health identifier and digital medical record](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No operator, provider or amount is named.
 
 ## Zimbabwe
 

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2552662ca630
+record: 064da55f6d23
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
@@ -162,6 +162,8 @@ No instrument was made, gazetted or brought into force in this window. [Reportin
 
 The Cybersecurity Bill 2026 then went back to stakeholders: its draft [was circulated for review in August and taken to a second consultation workshop on 23 September](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/), proposing a two-tier regulatory regime and the registration of cybersecurity professionals.
 
+The communications ministry [took the Electronic Transactions and Communications Bill, 2026 to a stakeholder validation workshop in Maseru from 28 September](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/), with UNDP support. It [revises the unenacted 2022 Bill and goes next to the Office of the Parliamentary Counsel](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ); the revised text is not held.
+
 ## Liberia
 
 The telecommunications regulator [signed satellite communications guidelines on 19 August, after a consultation that ran from February to June](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html), and the [text sets five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for operators already here](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf). No licence has yet been issued under it on the record.
@@ -263,7 +265,7 @@ The ministry's own account of the contents grades obligations by risk: [ordinary
 
 Every provision is still the ministry's description. The text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
 
-On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open.
+On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the vote is not held.
 
 ## Sierra Leone
 
@@ -330,6 +332,8 @@ Digital lending came before Parliament's accountability committee. The central b
 ## Zambia
 
 The regulator removed an operator from the market. It [revoked a network and service licence with effect from 14 September, citing persistent failures to meet regulatory, operational and financial obligations](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/), after assessing the operator's representations.
+
+The technology ministry [opened consultations on amending the Electronic Communications and Transactions Act No. 4 of 2021, with a Lusaka Province meeting reported on 30 September](https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/): the amendment, approved in principle by Cabinet in September 2025, would end the tie between licensing certification and time-stamping providers and critical-information-infrastructure designation, and strengthen the national public key infrastructure under ZICTA. No draft text is published.
 
 ## Zimbabwe
 

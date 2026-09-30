@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a6074dd50866
+record: 0b995d40dd80
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -24,6 +24,8 @@ An operator [installed 20 towers in Cabinda with commercial service days away](h
 The national fibre network [opened its first link at Lobito on 16 September](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/), a DWDM route from Luanda through Bengo and Cuanza Sul, with Huambo, Namibe and Cabinda named next; the same day [a fibre-to-the-home service went live for a 1,000-dwelling housing centre at Baia Farta](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-lanca-servico-de-internet-tudonosso-na-baia-farta/). The ministry [put the section completed to Lobito at about 400 Gb](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/). Separately the national radio [finished the Luanda phase of a transmitter programme meant to raise coverage from 63 to 76 per cent of the population](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/).
 
 The incumbent operator [reported more than 21.2 million subscribers and 12,302 base stations for the first half of 2026, with 5G extended to Namibe, Malanje, Kwanza Sul, Zaire and Cabinda](https://techafricanews.com/2026/09/22/unitel-revenue-rises-17-percent-274-billion-kwanzas-h1-2026/), on its own figures.
+
+The national cable company [began deploying new optical equipment across its South Atlantic and MONET submarine systems](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology), adding 800G interfaces on a 12,780 km Angola-United States route at 130 ms round trip, on the equipment vendor's announcement of 29 September. No capacity total or completion date is stated.
 
 ## Benin
 
@@ -165,6 +167,8 @@ The state's own operator got its board back. On 3 September a seven-member board
 
 The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release. At the 2.3 GHz stage the second operator [took all three lots it applied for, of five on offer](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/), with neither the assignment date nor the fee stated.
 
+On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced.
+
 ## Guinea
 
 Facebook, YouTube and TikTok became inaccessible on 28 July 2026. The Association des Blogueurs de Guinée activated its monitoring protocol the same morning, ran connectivity tests through the day through independent monitors in Conakry and the interior, and [concluded that the results converge on a targeted block of those three platforms, arguing the precision of the restriction excludes an ordinary outage](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/). It grounded its objection in article 19 of the constitution, article 9 of the African Charter and article 19 of the ICCPR.
@@ -219,6 +223,8 @@ The operator's annual report [puts network infrastructure investment at MK30.87b
 
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 
+The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date.
+
 ## Mali
 
 On 15 July CSquared [added capacity on the 2Africa West subsea system](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) to the West African backbone whose inland fibre reaches Mali, giving an independent route behind the Abidjan, Accra and Lagos landings.
@@ -268,6 +274,8 @@ The largest mobile operator said it [will put N$624.9 million into telecommunica
 
 The regulator's April-June bulletin [records active mobile subscriber modules up 2 per cent to about 2.79 million, mobile broadband up 2 per cent and fixed broadband up 1 per cent, with about N$243m invested in networks](https://neweralive.na/cyber-threats-rise-57-despite-ict-sector-growth/). Modules count connections, not people.
 
+On 28 September the largest mobile operator [confirmed 5G in five more towns, Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb, and began building 19 sites across nine regions in a second phase](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/).
+
 ## Niger
 
 On 27 July the telecommunications regulator [opened a second drive-test campaign over Niamey, running to 28 August 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/), to verify the corrective actions ordered after the April-May control found voice and mobile-data quality deficient at all four operators, with SMS alone compliant and one operator additionally below the 4G coverage thresholds.
@@ -302,6 +310,8 @@ The tower programme set a first milestone and the satellite programme a first co
 Rural connectivity was folded into the electrification programme. A rural infrastructure company [secured a World Bank-backed results-based facility to deploy 2G, 4G, broadband and community Wi-Fi in 500 unserved and underserved communities under the US$750m DARES programme with the Rural Electrification Agency](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/). The account rests on documents seen by one newspaper and gives no facility amount or signing date.
 
 A rural network operator [announced a pilot of licensed satellite backhaul at one rural site with its partner Infratel](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/), buying the service through third-party resellers; no start date or result is published.
+
+An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving.
 
 ## Rwanda
 
@@ -348,6 +358,8 @@ The state-affiliated wholesaler, whose network runs to about 180,000km with just
 
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
 
+On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled.
+
 ## South Sudan
 
 Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the repository can record and a reader cannot check.
@@ -376,6 +388,8 @@ The regulator scored quality for the quarter to June 2026: [the state operator h
 
 The service providers' association [upgraded the Dar es Salaam exchange's core switching to 100G on 23 September; the exchange connects 66 networks and averaged about 205 Gbps in late September against about 110 Gbps a year earlier, on its own statistics](https://tech.africa/tix-tanzania-100g-core-upgrade/). The regulator's director general [put available international capacity at 17,690 Gbps, of which 2,731 Gbps, or 15.4%, was in use in June 2026](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 
+The same presentation [put smartphone penetration at 44.74% in June 2026](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031), against the regulator's 42.5% for March; no user count accompanies it.
+
 ## Togo
 
 The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement carrying no Togo-specific capacity, price or route figure.
@@ -385,6 +399,8 @@ The Council of Ministers [authorised a five-year renewable licence for Internet-
 A measurement study of North African 5G published on [3 August 2026](https://www.ookla.com/articles/5g-north-africa-2026), cited rather than absorbed, reports the Tunisian 5G median down 30% from launch by month six and the combined 4G and 5G median below the pre-launch baseline, while fixed-wireless lines rose to 319,554 by May 2026 under the regulator's 30 Mbps obligation. Nothing published bears on the submarine cables, data centres or satellite licensing.
 
 The one physical build to move was a stalled one. The grands projets commission [ordered immediate procurement to complete the Cite Numerique d'Ennahli technology park](https://www.lapresse.tn/2026/08/10/grands-projets-acceleration-de-lextension-de-la-centrale-de-borj-el-amri-et-de-deux-projets-hospitalier-et-numerique/) at a review session chaired by the Prime Minister on 10 August, alongside unrelated power-station and hospital projects. No cost, completion date, occupancy plan or account of why the park was incomplete is stated.
+
+On 29 September the incumbent's chief executive [put its national fibre network at more than 70,000 km](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/), the operator's own figure with no route inventory behind it.
 
 ## Uganda
 

@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: digital.localgov
 places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; KEN; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f4a1d66d0087
+record: 573bb769f7b3
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
@@ -100,6 +100,8 @@ The Gauteng e-government department's 2025/26 annual report records [96 public W
 Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
 
 Municipal digitisation programmes are bound by the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225).
+
+Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated.
 
 ## Sudan
 

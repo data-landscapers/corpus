@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 6b8b79bb89ce
+record: 6eb79f84a62f
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026

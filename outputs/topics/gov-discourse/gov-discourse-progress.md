@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — progress report, September 2025 – September 2026
-compiled: 2026-09-29
-period: 2025-09-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2025-09-01 to 2026-09-30
 subject: gov.discourse
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a7c8daf757c8
+record: 9c4ffe250074
 ---
 
 # Public debate and participation in policymaking: progress report, September 2025 – September 2026

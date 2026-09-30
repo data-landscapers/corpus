@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2774491a1eb5
+record: 16d93b9e2410
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
@@ -212,6 +212,8 @@ The health ministry [inaugurated the steering committee of a new office to coord
 The Gates Foundation and MTN's group foundation [announced a maternal health programme on 23 September with an initial investment of about US$25m for 2026 to 2030](https://techafricanews.com/2026/09/23/mtn-gates-foundation-nigeria-maternal-health-multiplier/), combining AI-enabled decision support for health workers and mothers with affordable phones, data and facility connectivity, and targeting 500,000 women, 5,000 health workers and 500 facilities by 2030. The funders' shares are not stated.
 
 The statistics bureau, the ILO and UNICEF [opened a three-day dialogue on 22 September to introduce a Social Protection Management Information System and agree regular sharing of administrative data the ILO calls fragmented and inconsistent](https://tribuneonlineng.com/nbs-ilo-unicef-move-to-unify-nigerias-social-protection-data/), after pilots in four states under an EU-funded programme; no outcome is yet reported.
+
+Opening a dialogue on the AGROW programme on 29 September, the agriculture minister [called for a national digital farmers register](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/), with states leading enumeration and verification, a federal agricultural data department coordinating one interoperable standard, and farmers linked to their national identity number.
 
 ## Rwanda
 

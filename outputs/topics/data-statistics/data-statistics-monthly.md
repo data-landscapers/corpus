@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: data.statistics
 places: AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: c3ca9f266769
+record: 76f5ed62ce62
 ---
 
 # National statistics: monthly update, August – September 2026
@@ -150,6 +150,8 @@ The statistics agency is publishing both its data and, unusually, an account of 
 An inclusive-data initiative brought the national statistics office into a five-country programme.
 
 A state put a household survey at the centre of its budgeting. Katsina [launched six planning documents on 28 August, among them a General Household Survey Report and a State Statistical Yearbook covering poverty, employment, livelihoods, agriculture, education, healthcare, housing, water, sanitation and access to basic services across its 34 local government areas](https://www.vanguardngr.com/2026/08/radda-moves-katsina-to-data-driven-governance-targets-poverty-food-crisis/), the budget commissioner directing agencies to align their programmes to the new frameworks.
+
+The agriculture ministry [said on 29 September it had finalised a Federal Department of Agricultural Data and Analytics](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/) to coordinate a single standard for a national farmers register. No establishing instrument is held.
 
 ## Rwanda
 

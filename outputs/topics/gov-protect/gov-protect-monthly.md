@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: a741627520e3
+record: b2d4b1b7d72f
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -55,6 +55,8 @@ A joint decision of the media council and the telecoms regulator, reported on 17
 
 The regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report; no charge, hearing date or penalty is on file. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550) (16 August). The instrument authorising the collection, its retention rule and any operator-side safeguard are not held. Members of parliament [called for deterrent rules to govern artificial intelligence](https://www.algomhor.com/466466) (19 August), and a member [proposed a national register letting citizens see which bodies have processed their personal data](https://gate.ahram.org.eg/News/5894387.aspx) (24 August); neither has produced a text.
 
+On 29 September two rights organisations [asked the media council and the telecoms regulator to publish the joint decision's full text, number and legal basis, which the 17 September announcement did not carry, and to state what age-verification data will be collected, by whom and for how long](https://www.eipr.org/press/2026/09/%D9%85%D8%B3%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86-%D8%A8%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89).
+
 ## Eritrea
 
 The data-protection position was re-verified rather than changed. A legal-research pass dated 1 August 2026 [records no comprehensive data-protection law in force, no supervisory authority established and no enforcement decisions published](https://research.lawlab.africa/eritrea/). What the month adds is the date, not the finding: the absence is now a searched one rather than an unexamined one.
@@ -101,6 +103,8 @@ The regulator also pressed an older instrument into the campaign. The data commi
 A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
 
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
+
+The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October.
 
 ## Lesotho
 

@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 31b8dcd35692
+record: b58cb7f7511c
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -315,6 +315,8 @@ The business register meanwhile [opened its financial-year stakeholder engagemen
 A sectoral register was added beside them. The trade, industry and cooperatives ministry, with the National Sugar Stakeholders Council, [launched a Sugar Industry Information Management System to register every sugarcane farmer in the country and centralise data across cane cultivation, harvesting, milling, processing, distribution and market trends](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026). No farmer count, registration deadline, cost or data-protection provision is published, and nothing states how it relates to the national identification register.
 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
+
+The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held.
 
 ## Zambia
 

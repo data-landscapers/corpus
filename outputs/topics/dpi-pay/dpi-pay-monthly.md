@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7a18b8dd27b4
+record: 4bfc94251a1d
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -85,6 +85,8 @@ A fault between the mobile-money service and the utility's prepaid electricity m
 
 On 3 August the [public-revenue platform went live on the national payments switch](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), payment following a declaration, authenticated, reconciled in real time and routed to the treasury against a secured electronic receipt. Roll-out runs at large then medium enterprises, all taxpayers targeted by end-2026 and no wave dates published. The same account records the [treasury single account at the regional central bank still being finalised](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/).
 
+A domestic platform, Yano, [launched on 14 September for group collections and merchant payments across mobile-money operators through a QR code or link, holding no funds itself](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/), backed by a FCFA 655m incubation vehicle. Its co-founder gives no user or transaction figure, and no licence is stated.
+
 ## Cote d'Ivoire
 
 A private schools federation signed a convention on 21 July putting fee collection onto mobile money in a 200-school pilot from August. The flat FCFA 100 agency fee levied on every mobile-money counter transaction since November 2025 was [documented on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) as authorised by no operator tariff and no regulator, regressive by construction on small transfers.
@@ -163,6 +165,8 @@ Tanzania's competition regulator [put KCB Group's stake in the payments company 
 
 An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
 
+The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf).
+
 ## Lesotho
 
 The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the repository can record that the platform is being introduced and not how far it has reached.
@@ -184,6 +188,8 @@ Payments moved outward rather than inward. The central bank [is reported to be p
 At a Tripoli conference on 7 September the central bank governor announced a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
+
+September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry.
 
 ## Madagascar
 
@@ -263,6 +269,8 @@ A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital 
 
 Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
 
+The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given.
+
 ## Rwanda
 
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
@@ -315,6 +323,10 @@ The app-only Bank Zero [recorded its first break-even month in August 2026 on 27
 
 Paystack [introduced card payment inside the Shopify merchant checkout without redirection, with a Shopify integration for its in-store terminal](https://techafricanews.com/2026/09/25/paystack-south-africa-onsite-card-checkout-shopify/), reported on 25 September. No merchant count has been published.
 
+An association of non-bank payment providers [said the last of the Payments Association of South Africa's functions passed to the Reserve Bank and PayInc on 2 September, and that the Bank is taking its papers into account in an interchange determination project](https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/). It has also sent the Bank a proposal on merchant acceptance of PayShap. No draft interchange determination has been published.
+
+Absa [put an institutional digital-asset custody service live on 21 September, built on Ripple's custody technology](https://www.itweb.africa/article/absa-sets-digital-asset-custody-milestone/WnpNgM21yNz7VrGd), for asset managers, non-bank financial institutions, corporates and treasuries. It is not a retail offering, and no client or asset figures have been published.
+
 ## South Sudan
 
 Financial technology gained a supporter rather than a system. Support for the sector [was reported in August from a foreign government](https://www.itweb.africa/article/uk-supports-south-sudan-fintech/dgp45qaBlN9vX9l8), with no value, instrument, recipient or programme document held. Separately the national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1) and remains a bill.
@@ -328,6 +340,8 @@ The rail that already moves government money to people stopped moving it. On 4 A
 The payment outages ran on. [Intermittent failures of the dominant banking app and another e-payment service pushed traders back to cash](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets) and [prompted a social-media campaign to withdraw funds and switch banks](https://akher-khabar.com/archives/63864). The finance ministry [signed a framework with 11 companies to supply portable electronic collection devices to state institutions](https://suda.news/51307).
 
 The gap between cash and app money drew an order from the other side of the war. The RSF commander [told traders in areas his forces hold to charge one price whether customers pay in cash or through banking applications such as Bankak, ending the premium on app payments](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/). In Khartoum, meanwhile, [converting app balances into banknotes cost 5 per cent at most shops and up to 10 per cent at some](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9), amid a cash shortage and restricted banking applications.
+
+The central bank [revoked Sudan Pay Digital's mobile-payment and switching licence on 28 September by Administrative Decision No. 65 of 2026](https://sudanhorizon.com/cbos-revokes-sudan-pay-digitals-mobile-payment-license/), citing the 2026 banking act and the 2020 and 2013 payment regulations and giving no reason; it is the second switch licence withdrawn since July. On 27 September the finance ministry [signed an agreement with MTN Sudan for text-message services on its electronic collection system](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/), so that the operator's subscribers can use the system and follow their transactions.
 
 ## Tanzania
 

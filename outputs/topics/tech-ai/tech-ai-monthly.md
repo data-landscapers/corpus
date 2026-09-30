@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 022b31dd17a9
+record: 52dc11fa70fa
 ---
 
 # AI: monthly update, August – September 2026
@@ -184,6 +184,8 @@ The institutional side did move. Four public-interest institutes [were establish
 
 The AI roadmap was presented as moving to delivery on 8 September. The ministry [set targets of MAD 100bn in value added, 50,000 jobs and 200,000 certified talents by 2030](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-le-8-septembre-2026-%C3%A0-rabat-une-pr%C3%A9sentation-consacr%C3%A9e-%C3%A0-l%E2%80%99%C3%A9tat-actuel-de-la-feuille-de-route-%C2%AB-maroc-pour-l%E2%80%99intelligence-artificielle-2030-%C2%BB), [showed a sovereign AI marketplace, an assistant on the administrative-procedures portal and a national e-wallet proof of concept](https://panorapost.ma/post.php?id=57071), and the four JAZARI institutes [held general assemblies and moved to operations](https://www.mmsp.gov.ma/fr/actualites/les-assembl%C3%A9es-g%C3%A9n%C3%A9rales-de-quatre-instituts-%C2%AB-jazari-%C2%BB-se-sont-tenues-le-8-septembre-2026-%C3%A0-rabat-sous-la-pr%C3%A9sidence-de-madame-la-ministre-amal-el-fallah-seghrouchni). The roadmap document is still not published.
 
+On 30 September the digital ministry and Mistral [announced a Darija dialect classifier and a Darija speech-recognition model as the first open-source tools of their partnership](https://www.maroc.ma/fr/actualites/le-ministere-de-la-transition-numerique-et-mistral-annoncent-les-premieres-briques-dia-developpees), saying further generative-AI and public-service models are in development. The release does not say when the tools become available, and no terms, cost or data-hosting arrangement of the partnership is published.
+
 ## Mozambique
 
 Mozambique signed the agreement establishing the World Artificial Intelligence Cooperation Organization in Shanghai on 16 July 2026, as one of 29 founding member states and one of ten African ones ([signing account](https://clubofmozambique.com/news/mozambique-becomes-founding-member-of-world-ai-cooperation-organization-waico/)). No ratification step, entry-into-force date or contribution is stated in the held account.
@@ -264,6 +266,8 @@ A market forecast says [80% of governments will use artificial-intelligence agen
 
 The state airports company [set a five-year plan to 2031 to use AI in check-in, security, baggage handling and parking, with terminal patrol robots and a metaverse proof of concept in the first year, tied to a R21.7bn capital pipeline that also covers wider infrastructure modernisation](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb). The pipeline is not broken down.
 
+The financial conduct regulator's 2025/26 integrated report, presented to Parliament's finance committee in the last week of September, [states that a framework for the regulator's own responsible use of AI is being developed](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4), the one outstanding item under its principle on data and technology governance. No publication date is given.
+
 ## Sudan
 
 A partner consortium [built a deep-learning model detecting school locations and boundaries from satellite imagery at 95 per cent accuracy across Sudan](https://www.omdena.com/blog/giga-unicef), delivered by 52 engineers over six weeks and designed for integration into a school-connectivity mapping system. It is the second artificial-intelligence application the repository holds inside an education system, and like the first it is externally built: the state's own role in both is as the subject of the mapping rather than its operator.
@@ -280,6 +284,8 @@ The only movement on machine-generated content is in the argument rather than th
 
 A month later the rules existed. On 31 August the e-Government Authority's board [approved standards and guidelines for AI in public institutions, binding every institution and every AI system it runs, requiring impact and risk assessments and prohibiting fully automated decisions with significant outcomes](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They are a standard under the e-government statute, not a law, and the national strategy text is still not public.
 
+On a study visit to Helsinki reported on 29 September, the ICT Commission's head of ICT development [said the National AI Strategic Framework 2026-2031 is awaiting approval, and that the commission proposes a national readiness and compute-demand assessment feeding a planned AI observatory](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). No text of the framework is published.
+
 ## Togo
 
 The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated.
@@ -288,7 +294,9 @@ The month's only artificial-intelligence movement is a procurement. The developm
 
 The period's artificial-intelligence document came from outside the state. A diaspora alumni association [presented a Livre Blanc at the Tunisia Global Forum on 21-22 July](https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/) and its contents were [reported on 5 August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/): a 2030 vision of a country able to create, adopt and deploy trustworthy artificial intelligence, against a stated baseline of 12.7% adoption at end-2025 and 4,120 developers per million inhabitants. It [names the constraints as the absence of large-scale data centres and sovereign compute, brain drain, and small firms that are 90% of the economic fabric](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/), and prescribes frugal compute investment sized by measured demand. The document is declared open source and is not posted anywhere reachable, so all of that is held at press-summary precision.
 
-The state's own document surfaced at the end of the window and settles a gap this ledger has carried. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
+The state's own document surfaced in mid-August. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
+
+At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record.
 
 ## Uganda
 

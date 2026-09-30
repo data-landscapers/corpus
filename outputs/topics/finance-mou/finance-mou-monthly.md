@@ -1,21 +1,25 @@
 ---
 title: MoUs and other agreements — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: finance.mou
-places: DZA; CIV; COD; GHA; KEN; MAR; MOZ; NER; NGA; RWA; TZA; UGA
-record: 89eb8260f70f
+places: DZA; CAF; CIV; COD; GHA; KEN; MAR; MOZ; NER; NGA; RWA; TZA; UGA
+record: 152504bd50d3
 ---
 
 # MoUs and other agreements: monthly update, August – September 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 On 20 August a continental innovation-hub network and an investment platform [announced a partnership to connect North African businesses to investors](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs). No value, term, Algerian pipeline or state involvement is stated.
+
+## Central African Republic
+
+After President Touadéra met the founder of the data-infrastructure and AI company AMINI at the UN General Assembly, the national internet and security unit [signed a cooperation memorandum with the company providing for a national data centre, a security operations centre, a national computer emergency response team and a digital twin of the mining subsoil](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/), reported on 29 September. No cost, financing, site, timetable or data-hosting terms are published.
 
 ## Cote d'Ivoire
 

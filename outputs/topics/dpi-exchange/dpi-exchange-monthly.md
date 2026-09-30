@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fd65ddd43ead
+record: a0af357ff801
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -26,6 +26,8 @@ A second unified path was proposed on 3 September. A working meeting at the digi
 The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
 
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
+
+The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated.
 
 ## Benin
 
@@ -82,6 +84,8 @@ Customs has begun preparing to put trade procedures on one platform. The adminis
 ## DR Congo
 
 The exchange being built is between revenue agencies rather than between citizens and the state. The finance inspectorate [disseminated a three-year strategic plan to public administrations, with data cross-checking between revenue agencies under systemic control](https://www.congoquotidien.com/2026/08/21/cloture-seminare-igf-plan-strategique/). No platform, data-sharing instrument or protection arrangement for the cross-checked records is named.
+
+On 28 September the digital economy minister [said the Prime Minister had signed the decree creating the national electronic certification authority provided for in the 2023 Digital Code](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No decree number or operating date was given.
 
 ## Egypt
 

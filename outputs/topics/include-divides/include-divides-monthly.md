@@ -1,10 +1,10 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: include.divides
 places: AGO; BWA; BDI; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; UGA; ZMB
-record: 5b829f573000
+record: c667081c512f
 ---
 
 # Digital divides: monthly update, August – September 2026
@@ -101,7 +101,9 @@ A civil-society account on 24 September [reported the national strategy for comm
 
 ## Rwanda
 
-What moved this month is a projection, not a measurement. An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
+The central bank [closed its Gendana Konti campaign, begun in 2023 when 72% of women with phones held mobile money against 81% of men, reporting 615,000 women brought into mobile financial services against a target of 150,000, more than 200,000 of them new to mobile money](https://kiny.gateofwise.com/ikoranabuhanga/abagore-barenga-600000-batangiye-gukoresha-serivisi-zimari-kuri-telefoni-nyuma-yo-kumenya-ibanga-ryayo/). No later figure for the gap is published.
+
+An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
 
 ## Senegal
 

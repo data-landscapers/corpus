@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 56162ae033d7
+record: 73199a80f830
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -191,6 +191,8 @@ On International Identity Day the registration bureau [launched the Nzika wallet
 
 An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
 
+On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published.
+
 ## Mauritania
 
 The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
@@ -251,6 +253,8 @@ Deployment moved again in August, and the agency put a frame around it. At Afric
 On International Identity Day the civil-status agency's director [put the modernisation at 77 per cent of the country's 629 civil-status centres, live in six regions with Tambacounda next month and the southern regions in the last quarter, the data held on three state-owned data-centre sites in the country](https://aps.sn/etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec/), up from 74 per cent in August.
 
 At the first national forum on civil registration on 23 September, the civil-registration promotion body [said 58,462 candidates sat the primary-school leaving exam without a civil-status record, with 7,823 at the lower-secondary exam and 98 at the baccalaureate](https://www.seneweb.com/fr/news/Video/etat-civil-58-462-enfants-sans-acte-au-cfee-lalerte-de-lonpec_n_505072.html). The exam year was not stated, and a report to the authorities is to follow without a date.
+
+In committee on bill 21/2026 the interior minister [said identity-card production would pass progressively to Senegalese firms as the Malaysian contractor's contract runs out, and that passports would also be made in the country by national firms](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html). No contract end date, firm or tender is named.
 
 ## Sierra Leone
 
@@ -329,6 +333,8 @@ A second identifier moved a step behind it. At a ministerial session at La Kasba
 
 The mobile identity spread to another ministry. An agriculture ministry circular [requires every body under it to integrate E-Houwiya into its online services by 15 November 2026, making its identifier the sole reference for any new service and requiring strong multi-factor authentication](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/).
 
+On 29 September the health minister [set a target of a unique health identifier and a digital medical record for every citizen before the end of 2026](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No coverage figure accompanied the target.
+
 ## Uganda
 
 The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
@@ -340,6 +346,8 @@ The Cabinet decision of 1 September was narrowed twice in the week after it. The
 The cards are printed and not working. The registration authority [holds about 5.4 million printed cards uncollected, with 418 of 571 posts filled and 201 at client counters](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/), and told legislators on 9 September that [one mobile operator is the only partner fully onboarded to the information-exchange module it opened in March, so new cards are refused at banks and SIM counters](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/).
 
 The revenue authority then gave a firmer account than the finance minister's: [the TIN will be phased out for individuals in favour of the NIN, with companies using their registration number](https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026).
+
+The internal affairs minister [launched the integration of the national identification and tax identification systems](https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems) at the first national identity expo in Kololo, reported on 30 September. No commencement date or count of linked records is given.
 
 ## Zambia
 

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: eeb0d4e78043
+record: ec972cf8c288
 ---
 
 # Training and skills: monthly update, August – September 2026
@@ -104,6 +104,8 @@ The primary-school digitalisation programme [entered its scale-up phase, the pil
 ## Gambia
 
 The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+
+The employment ministry [signed memoranda with the applied science university, the Civil Service University and a hardware-technology institute to deliver three years of digital labour skills training under the regional digital integration programme](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/), aimed at youth, women and persons with disabilities; no budget or participant figure is stated.
 
 ## Ghana
 
@@ -283,3 +285,5 @@ Training in the window is a private programme rather than a state one. A ride-ha
 ## Zimbabwe
 
 The artificial-intelligence grand challenge opened on 4 August [across agriculture, health, education, financial services, mining and public administration, and was stated as a recurring programme](https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/). The regulator reported [738 applications received and 68 projects selected for a boot camp in Nyanga, narrowed to 18 candidates for the next stage](https://binduraeye.co.zw/mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses/). No award, prize or budget has been published against any of it.
+
+The youth ministry, UNDP and a training firm [opened a solar-powered digital and AI hub with satellite connectivity at the Nyamuroro vocational training centre in Gokwe, enrolling 50 young people in a free one-year bootcamp from September and targeting 3,000 school learners and 300 teachers](https://technomag.co.zw/undp-partners-gvt-to-launch-first-rural-ai-digital-and-innovation-hub-at-nyamuroro-vtc-in-gokwe/). No budget has been published.

@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: include.access
 places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b214725e6fa0
+record: 2b2fe3e0134e
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -185,6 +185,10 @@ The accessibility requirement is not reaching the platforms it binds. [None of e
 Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
 
 A wider sample gave a less bleak figure: [47% of about 30 government digital platforms met an accessibility threshold](https://www.itweb.africa/article/nigerian-govt-platforms-fail-access-test/KA3Ww7dzPjkqrydZ) in an assessment presented to the technology agency, which said it is considering national accessibility standards.
+
+An urban survey of 13,251 respondents in 12 cities, published in September by a consultancy and an operator group, [put smartphone ownership at 75% in 2025 against 64% in 2023, and found more than a third of mobile subscribers still on 2G in May 2026](https://assets.kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf).
+
+A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people.
 
 ## Sao Tome and Principe
 

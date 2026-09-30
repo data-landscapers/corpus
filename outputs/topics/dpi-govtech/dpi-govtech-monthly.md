@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ffcd457a54ca
+record: 997b5e5b6744
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
@@ -114,6 +114,8 @@ On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a l
 The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
 
 The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
+
+The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced.
 
 ## Egypt
 
@@ -226,11 +228,7 @@ The state auditor is following it: the General Auditing Commission [has begun au
 
 ## Libya
 
-On 23 July the Ministry of Labour and Rehabilitation [reported the Libya Experts Forum electronic application ready for launch](https://lana.gov.ly/post.php?id=362213&lang=en), with the minister instructing that the highest standards of data protection and confidentiality be observed. The instruction names no statute, regulator or standard.
-
-On 30 July the Libyan Export Development Authority reported [LD 79.5 million of exports processed through the electronic Unified Export Window between April and July 2026](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/): 354 registered companies, 190 distinct products, more than 20 destinations, and 129 orders to Tunisia — 66% of the total, against 28 to Turkey and eight to South Korea.
-
-On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
+On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. No supplier, cost, hosting arrangement or data-protection basis is stated.
 
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 
@@ -326,6 +324,8 @@ Two September measures reach further into the state. A [single 112 emergency num
 
 Ondo State followed its payroll platform with [Ondo AI, launched to automate personnel administration, payroll, retirement processing and pension migration](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/). The report does not say whether it is the same platform as Ondo Pay or a second one, and gives no launch date.
 
+The National Assembly's library trust fund [said on 28 September it is building electronic repositories, a legislative app and a Bills Tracker, and will translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html). No launch date is stated.
+
 ## Rwanda
 
 The e-government platform's own numbers reached the record this month through an account of other governments coming to study it. [Two hundred and forty-eight public services from close to 50 institutions are online, birth, celibacy and marriage certificates issued through the platform rose from 683,560 in 2020 to 1,977,628 in 2024, and the share processed in under an hour went from 61 per cent to 70 per cent over the same period](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/). The figures are the operator's own and the most recent year is 2024; nothing for 2025 or 2026 is published.
@@ -391,6 +391,8 @@ Tax audit moved off paper on 21 September, when the revenue authority [launched 
 A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
 
 Identity services are being rebuilt in the capital. The police [reopened the Omdurman and Bahri service complexes, with transactions rising from 206,362 in 2025 to 522,225 in 2026](https://sudan4news.com/?p=35463), and [set out a plan to issue passports, ID cards and licences from home, with cash abolished at the counters through seven banks](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/).
+
+The education ministry [launched online application and electronic fee payment for the Sudan School Certificate on 29 September](https://www.alhakim.net/142777), with the certificate collectable inside or outside the country; no uptake figure is published.
 
 ## Tanzania
 

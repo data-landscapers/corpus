@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 0895b489e63c
+record: 318a9ff31dd7
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -111,6 +111,8 @@ Guinea took the presidency of the regional audiovisual regulators' platform on 3
 The continental data convention still has no Kenyan signature behind it. A policy brief prepared for the accession process records that [Kenya has neither signed nor ratified the Malabo Convention, that the Cabinet approved a process step towards accession in September 2025, that the data protection commissioner then led national consultations closing 6 October 2025, and that the Attorney-General had cleared the Convention before the process stalled twice on cabinet reshuffles](https://fra1.digitaloceanspaces.com/mzdocs/prod/media/publications/documents/2026/Building_a_Resilient_Kenya_.pdf); twenty African Union member states had ratified as at March 2026. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
 
 On 21 September the ICT cabinet secretary [proposed that willing African Union states jointly test one cross-border public service and report by February 2027](https://techreviewafrica.com/news/7426/), citing eCitizen and the interoperability framework. No state is on record as joining.
+
+The ICT cabinet secretary [signed the Digital Cooperation Organization's Charter in New York during the UN General Assembly, reported on 28 September, making Kenya a Signatory Member and one of eight approved candidates whose accession would take membership from 16 to 24 countries](https://africaneyereport.com/kenya-signs-dco-charter-on-the-sidelines-of-unga81/). Neither the signing date nor the date accession completes is given.
 
 ## Lesotho
 
@@ -229,6 +231,8 @@ On 23 September the data-protection authority [signed a cooperation agreement wi
 ## Tunisia
 
 Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab League's working group on artificial-intelligence innovation and technological solutions at the permanent committee's inaugural meeting in Tunis](https://www.businesstec.news/23334), and [hosted the ninth Arab conference of directors of nationality and civil-status departments, which closed in Tunis on 19 August](https://gate.ahram.org.eg/News/5891986.aspx). Neither carries a work programme, a decision or a text on the record.
+
+An international telehealth conference opened in Tunis on 29 September with representatives of more than 30 countries, and the health minister [announced a Tunis Declaration on digital health for adoption at its close](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No text is held.
 
 ## Uganda
 

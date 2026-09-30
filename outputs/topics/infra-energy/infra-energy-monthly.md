@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: infra.energy
-places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; TGO; UGA; ZMB; ZWE
-record: f2e13ea8c513
+places: BWA; BFA; BDI; CMR; CAF; TCD; COM; COD; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; TGO; UGA; ZMB; ZWE
+record: 78883b1fdbcb
 ---
 
 # Energy: monthly update, August – September 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -45,6 +45,10 @@ The grid the digital estate sits on went backwards. After a fire at the Farcha t
 
 The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the repository.
 
+## DR Congo
+
+A philanthropic accelerator [announced on 24 September a demonstration that will add computing load to an existing solar plant with underused generation, serving more than 30,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), to test whether demand for compute can make mini-grids pay without raising local tariffs. The site, operator, computing load and start date have not been stated.
+
 ## Ethiopia
 
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
@@ -64,6 +68,8 @@ On 28 August the energy ministry [launched a GHS598 million project to connect 2
 ## Kenya
 
 The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the repository says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195).
+
+On 24 September a Rockefeller Foundation accelerator [announced five Kenyan sites to test computing load as the anchor customer for new solar-plus-storage mini-grids serving about 50,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with community demand given priority over compute. No site, developer, capacity or start date is named.
 
 ## Lesotho
 
@@ -92,6 +98,8 @@ The same data centre draws on grid, photovoltaic and generator supply ([inaugura
 ## Sierra Leone
 
 The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
+
+Three rural mini-grid sites [were named on 24 September for a philanthropic demonstration adding computing load to under-used generation](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with local demand given priority; no site, capacity or start date is given for the country.
 
 ## South Africa
 

@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: digital.rural
 places: BDI; TCD; COM; CIV; COD; EGY; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 43d319d61399
+record: 97b4afcb952c
 ---
 
 # Rural digital data capture: monthly update, August – September 2026

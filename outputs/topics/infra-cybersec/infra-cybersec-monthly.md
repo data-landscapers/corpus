@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: infra.cybersec
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 90c38778c8f8
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 37c6ec846f6b
 ---
 
 # Cybersecurity: monthly update, August – September 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -31,6 +31,8 @@ The year's national technology fair took cybersecurity as its theme rather than 
 
 The month's one figure for how exposed the country is came from a vendor rather than the state. In a national newspaper interview the head of the computer emergency response body [cited 631 ransomware threats detected in Benin in 2024, on security-vendor telemetry reported through Interpol's Africa assessment](https://lanation.bj/numerique/francois-amour-bakpe-a-propos-des-cybermenaces-les-631-detections-doivent-nous-inciter-a-renforcer-la-prevention-et-la-reaction), attributing the rise to fast adoption outrunning security practice and to a criminal market where access and tooling can be rented rather than built. How much of the national estate that vendor sees is unpublished, so the count is not a measure of national exposure, and no incident, ransom-payment or recovery figure stands beside it.
 
+Information-security officers from public and private institutions [constituted a professional club on 26 September](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux), adopting statutes and electing an 11-member board, with the aim of pooling expertise, training members and sharing lessons from incidents in confidence.
+
 ## Botswana
 
 A published account documents a [growing digital safety problem](https://www.mmegi.bw/features/inside-botswanas-growing-digital-safety-challenge/news). It is journalistic and carries no measure: no incident count, reporting route or response instrument accompanies it, which is what the record can and cannot say.
@@ -50,6 +52,8 @@ What the testing is against is now measured on two series that do not sit togeth
 The month produced the repository's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
 
 The gap between the governing statute and the threat it governs was measured from outside government. A policy institute's brief puts [cyberattacks up 156% between 2020 and 2023, financial losses from digital fraud above US$45m over the same period, and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/), and argues that cybersecurity belongs in the national development strategy as industrial policy rather than as a compliance obligation. The figures are the institute's own, with no underlying series or agency return held — which is itself part of its case.
+
+At a national cyberspace-security forum opened in Yaoundé on 29 September, co-hosted with the Russian embassy, the national ICT agency [reported 17,500 cybercrime complaints in 2025 with 5.8 billion FCFA of declared losses, and, since January 2026, 21,280 compromised machines, 39 attacks on public-administration websites and 5,369 vulnerabilities across 150 scanned websites](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise). It cited a March 2026 ransomware attack that [halted half of a public body's systems and cut its email for nearly a month](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise).
 
 ## Cape Verde
 
@@ -78,6 +82,10 @@ The national cybersecurity agency [certified the country's first cohort of RGSSI
 ## Eswatini
 
 Government applications got somewhere to be tested. Eswatini [opened a Government Mobile App Testing Lab, funded and supported by the government of the Republic of China (Taiwan)](https://www.eswatiniobserver.com/govt-puts-cybersecurity-at-heart-of-digital-services/). Testing capacity is the practical end of the cybersecurity legislation still awaiting assent. Nothing in the record held says what the lab has tested, or whether testing is a condition of any application going live.
+
+## Ethiopia
+
+On 29 September the Information Network Security Administration and the central bank [established a Financial Sector Cybersecurity Forum, jointly chaired by the two, for threat-information sharing, coordinated incident response and support to implementing cybersecurity policies and laws](https://techreviewafrica.com/news/7510/ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-resilience). Its membership and terms of reference are not published.
 
 ## Gabon
 
@@ -129,6 +137,8 @@ Police [confirmed in September that a man held over AI-generated images of the V
 The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
 
 The interior ministry answered with an agreement rather than an instrument. It [signed a technical cooperation agreement with the national telecommunications company on 12 August](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) covering digital transformation, cybersecurity and telecommunications infrastructure, including shared platforms, installation of towers and equipment at ministry sites, and technical support. No value, duration or delivery date is published.
+
+Work [opened on 20 September on an integrated national cybersecurity plan](https://lana.gov.ly/post.php?id=365878&lang=ar), bringing together the heads of the cybersecurity and digital sovereignty authority, the information authority and the information security authority. No draft or timetable is published.
 
 ## Malawi
 
@@ -190,6 +200,8 @@ The institutions arrived after the attacks. The critical-infrastructure bill [pr
 
 Procurement is the state's own diagnosis of the blockage, and it moved by memorandum: a [foreign cybersecurity supplier is reported seeking Senegalese partners](https://www.digitalbusiness.africa/cooperation-la-societe-americaine-de-cybersecurite-cybastion-recherche-des-partenaires-senegalais/), with no contract, value or scope stated. The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
 
+At the end of September the interior minister [confirmed to deputies that the identity-file directorate had been attacked and said a general security audit had been engaged](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); no auditor, scope or completion date is given.
+
 ## Sierra Leone
 
 The telecoms regulator ran two public-facing cyber messages in nine days. It [set out a consumer education campaign on online fraud on 28 July](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/), stating that the fraudulent links circulating did not originate from the mobile networks and placing the burden on the consumer; on 30 July it [confirmed it was coordinating a response to ongoing cybersecurity incidents affecting digital services](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/), naming no affected service, no attribution and no incident count.
@@ -213,6 +225,8 @@ A provider [that runs verification checks for Cell C, EasyEquities and Bidvest B
 After the insurance-software supplier breached in June reportedly paid a ransom, [the attackers began extorting insurers directly](https://techcentral.co.za/hackers-extort-insurers-mip-ransom-hollard/286251/) and [published data allegedly taken from one insurer on the dark web; a researcher confirmed it was public](https://www.itweb.co.za/article/hollard-data-hits-dark-web-after-mip-hack/wbrpOqg2J5oMDLZn).
 
 Fake traffic-fine messages quoting motorists' correct number plates led the road traffic infringement agency [to consider investigating whether the national vehicle database had been accessed](https://www.itweb.co.za/article/inside-the-fake-aarto-fine-scam/DZQ58vV8BazMzXy2). The fines platform being impersonated says its own system was not breached.
+
+Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised.
 
 ## Sudan
 

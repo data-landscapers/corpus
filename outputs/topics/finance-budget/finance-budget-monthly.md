@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: finance.budget
 places: AGO; BFA; COD; EGY; GMB; LBY; NER; SEN; SDN; TZA; TUN
-record: 8dde0141912b
+record: 00d02eb55de3
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August – September 2026

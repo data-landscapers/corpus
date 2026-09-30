@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 subject: finance.new
 places: AGO; BEN; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB; ZWE
-record: 97cb085a31c0
+record: 624aee53f0cd
 ---
 
 # New investments: monthly update, August – September 2026
@@ -124,6 +124,8 @@ The digital foundations programme runs to 2027 with the European Union delegatio
 
 The Universal Service Fund [published its Integrated Annual Report 2025 in September](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf), carrying the fund's financial statements and its first two mobile network deployment phases, for 2024/25 and 2025/26. It is the first set of the fund's own accounts the repository holds.
 
+The largest mobile operator [holds a N$32.3m award under the Universal Service Fund's second phase for nine network solutions, including ten towers in underserved areas](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/). The award date and site list have not been published.
+
 ## Niger
 
 Rural connectivity was financed rather than built. A [US$100m agreement, about CFA 55bn, was signed for a smart villages project for rural growth and financial inclusion, to be implemented by the information society agency across every region, its main aim to widen access to mobile telephony and broadband in rural areas](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger). No start date or coverage target is published.
@@ -163,6 +165,8 @@ A Korean development cooperation fund [committed US$170m to build an AI and digi
 The women's digital-finance programme launched on 2 September was committed a year and a half earlier, inside a larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
 
 The Fair Competition Commission opened a review on 21 August of a [Kenyan bank's acquisition of 22.23% of the payments company Pesapal, which gives it indirect control of Pesapal's Tanzanian subsidiary, a payment service provider licensed by the Bank of Tanzania](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/). Public comment closed on 4 September; the price is undisclosed and no decision is on record.
+
+At the EU-Tanzania investment forum in Helsinki on 28 September the government [presented TZS 7,000bn of digital infrastructure investment to 2031, still to be mobilised, covering fibre-to-the-premises, the Kilimanjaro One submarine cable, device manufacture, a technology park and smart classrooms](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031). No financier or split between public and private money is published.
 
 ## Zambia
 
