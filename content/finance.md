@@ -1,12 +1,12 @@
 # The Finance page
 
-Two pages built by `scripts/finance.py` under one toc bar *(Bill, 2026-09-22)*: `site/finance/index.html`, non-state finance, and `site/finance/budgets/index.html`, which carries `budgets-intro` and nothing else. The budget tables published from 2026-09-20 (R53) came off the site the same day.
+Two pages built by `scripts/finance.py` under one toc bar *(Bill, 2026-09-22)*: `site/finance/index.html`, non-state finance, and `site/finance/budgets/index.html`, which carries `budgets-intro` and the table of every budget line Corpus has read (Bill, 2026-09-30). The budget tables first published on 2026-09-20 (R53) came off the site on 2026-09-22; this one replaced them.
 
 `non-state-intro` is what a reader meets before the commitments table, and it has to say three things: what a row is, what the money figures do and do not mean, and why the totals cannot be read as a market size. **No count of rows is written into this file** — the page prints its own from the run that built it, and a number here drifts the moment the base moves.
 
-`budgets-intro` is the whole of the budgets page, and it must not describe a table: there is none under it.
+`budgets-intro` is what a reader meets before the budget table. Like `non-state-intro`, it carries no count: the page prints its own.
 
-The two `dataset-*` blocks are not shown on the page: they are the descriptions in the `Dataset` structured data `finance.py` and `country.py` write into the head, which is what a reader meets in a dataset search before they have clicked anything. They live here because they are prose a reader reads. Each has to carry on its own the caveat the page spends a paragraph on — these are **commitments**, not disbursements, and a total of them is not a market size — because whoever sees one has not seen the page. Keep them between 50 and 5,000 characters, which is what a dataset search will take.
+The `dataset-*` blocks are not shown on the page: they are the descriptions in the `Dataset` structured data `finance.py` and `country.py` write into the head, which is what a reader meets in a dataset search before they have clicked anything. They live here because they are prose a reader reads. Each has to carry on its own the caveat the page spends a paragraph on — these are **commitments**, not disbursements, and a total of them is not a market size — because whoever sees one has not seen the page. Keep them between 50 and 5,000 characters, which is what a dataset search will take.
 
 ## non-state-intro
 
@@ -20,11 +20,17 @@ Click any row to open the full record. Sort on any column heading, filter with t
 
 What a government commits from its own budget is the other half of the picture, and the more important half: domestic spending is where a state's actual priorities are visible, and where external finance either is or is not being matched.
 
-**Work is ongoing to compile national budgets, expenditure and audits.** We are reading state budget documents country by country, one fiscal year at a time. No figures are shown here yet.
+This table holds every digital line we have read from African states' own budget documents: what was proposed, enacted, revised and spent, and where in the document each figure is printed. Figures are in the budget's own currency; `budget_usd` gives the latest one in US dollars. Only the state's own money is here. Donor and lender money is in [non-state finance](../).
+
+Click any row to see every field. Work continues country by country, one fiscal year at a time.
 
 ## dataset-all
 
 Every non-state financial commitment to Africa's digital sector held by Data Landscapers, as a single table: the recipient country, the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised and not what was spent — it is not a measure of market size. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table.
+
+## dataset-budgets
+
+Every digital line Data Landscapers has read from African states' own budget documents, as a single table: the country, the fiscal year, what the money is for, the ministry, spending body, programme and line, and the figure at each stage of the budget cycle held, from the bill tabled in parliament through the enacted law and in-year revisions to the outturn and audited accounts. Each line gives its currency, a US dollar figure for its latest stage, and the document, table and page the figure is printed on. Only the state's own money is included: lines financed by donors or lenders are in the non-state finance table. A line is included when its stated purpose is digital, so the totals are what budgets say about digital transformation, digital public infrastructure and data governance, not the whole of a state's ICT spending.
 
 ## dataset-place
 

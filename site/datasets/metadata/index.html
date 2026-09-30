@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Datasets — metadata — Data Landscapers</title>
-<meta name="description" content="What each column in the Data Landscapers datasets means: data centres, institution hosting, non-state finance and the catalogue.">
+<meta name="description" content="What each column in the Data Landscapers datasets means: data centres, institution hosting, non-state finance, national budgets and the catalogue.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/datasets/metadata/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
@@ -114,6 +114,8 @@
       <a href="#institution-hosting">Institution hosting</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#non-state-finance">Non-state finance</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#national-budgets">National budgets</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#catalogue">Catalogue</a>
       </nav>
@@ -713,6 +715,339 @@
       <tr>
       <td>record</td>
       <td>The identifier of the record within the  Corpus repository</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="national-budgets">National budgets</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/budgets-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>column</th>
+      <th>label</th>
+      <th>values</th>
+      <th>definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>place</td>
+      <td>Country</td>
+      <td>ISO3</td>
+      <td>The country whose budget the line is in, as a three-letter code (KEN is Kenya).</td>
+      </tr>
+      <tr>
+      <td>report_year</td>
+      <td>Year</td>
+      <td></td>
+      <td>The year the fiscal year starts in. A 2024/25 budget that starts in April 2024 is 2024.</td>
+      </tr>
+      <tr>
+      <td>primary_subject</td>
+      <td>Subject</td>
+      <td>a Level 2 label in the subject taxonomy</td>
+      <td>What the money is for, as the taxonomy's name for primary_subject_id.</td>
+      </tr>
+      <tr>
+      <td>budget_usd</td>
+      <td>US$</td>
+      <td>whole US dollars</td>
+      <td>The latest figure held for the line, in US dollars: audited if there is one, else actual, released, revised, appropriated or proposed. Converted at the IMF annual average rate for the year the fiscal year starts in. Blank where no rate is held.</td>
+      </tr>
+      <tr>
+      <td>admin_head</td>
+      <td>Admin head</td>
+      <td></td>
+      <td>The top level the budget allocates money to, usually a ministry or vote, as the document names it.</td>
+      </tr>
+      <tr>
+      <td>spending_entity</td>
+      <td>Spending entity</td>
+      <td></td>
+      <td>The body that spends the money, as the document names it. Often the same as the admin head.</td>
+      </tr>
+      <tr>
+      <td>programme</td>
+      <td>Programme</td>
+      <td></td>
+      <td>The programme the line sits in, as the document names it. Where a budget has no programmes, the next level it prints; programme_level says which.</td>
+      </tr>
+      <tr>
+      <td>sub_programme</td>
+      <td>Sub-programme</td>
+      <td></td>
+      <td>The sub-programme, where the document prints one.</td>
+      </tr>
+      <tr>
+      <td>line_name</td>
+      <td>Line</td>
+      <td></td>
+      <td>The name of the budget line as the document prints it.</td>
+      </tr>
+      <tr>
+      <td>purpose</td>
+      <td>Purpose</td>
+      <td></td>
+      <td>What the line pays for, in our words.</td>
+      </tr>
+      <tr>
+      <td>deal_id</td>
+      <td>Line ID</td>
+      <td></td>
+      <td>A unique key for the line in one fiscal year: the country, the year and the line's codes.</td>
+      </tr>
+      <tr>
+      <td>state_level</td>
+      <td>Level of state</td>
+      <td>national, sub-national, soe, levy-fund, regulator</td>
+      <td>The part of the state whose budget holds the line: central government, a province, a state-owned enterprise, a levy-funded fund or a regulator.</td>
+      </tr>
+      <tr>
+      <td>spending_tier_name</td>
+      <td>Tier</td>
+      <td></td>
+      <td>The tier of government the document files the line under, where it prints tiers (Mozambique's central and provincial levels).</td>
+      </tr>
+      <tr>
+      <td>fiscal_year_label</td>
+      <td>Fiscal year</td>
+      <td></td>
+      <td>The fiscal year as the state writes it (2024/25, Exercice 2024, FY2025).</td>
+      </tr>
+      <tr>
+      <td>fy_start</td>
+      <td>Fiscal year start</td>
+      <td>YYYY-MM-DD</td>
+      <td>The first day of the fiscal year.</td>
+      </tr>
+      <tr>
+      <td>fy_end</td>
+      <td>Fiscal year end</td>
+      <td>YYYY-MM-DD</td>
+      <td>The last day of the fiscal year.</td>
+      </tr>
+      <tr>
+      <td>fy_calendar</td>
+      <td>Calendar</td>
+      <td>gregorian, ethiopian</td>
+      <td>The calendar the state's fiscal year is set in. Dates in this file are Gregorian either way.</td>
+      </tr>
+      <tr>
+      <td>budget_version</td>
+      <td>Budget version</td>
+      <td>original, revised, supplementary-N</td>
+      <td>The latest version of the budget the line's figures come from: the original law, a revised budget, or the Nth supplementary budget.</td>
+      </tr>
+      <tr>
+      <td>supplementary_basis</td>
+      <td>Supplementary basis</td>
+      <td>restated-total, increment, unclear</td>
+      <td>How a revised or supplementary figure is stated: a restated total that replaces the original, or an increment added to it. Lines marked unclear are left out of totals.</td>
+      </tr>
+      <tr>
+      <td>admin_head_code</td>
+      <td>Admin head code</td>
+      <td></td>
+      <td>The admin head's code as the document prints it.</td>
+      </tr>
+      <tr>
+      <td>spending_entity_code</td>
+      <td>Spending entity code</td>
+      <td></td>
+      <td>The spending entity's code as the document prints it.</td>
+      </tr>
+      <tr>
+      <td>programme_code</td>
+      <td>Programme code</td>
+      <td></td>
+      <td>The programme's code as the document prints it.</td>
+      </tr>
+      <tr>
+      <td>sub_programme_code</td>
+      <td>Sub-programme code</td>
+      <td></td>
+      <td>The sub-programme's code as the document prints it.</td>
+      </tr>
+      <tr>
+      <td>econ_class</td>
+      <td>Economic class</td>
+      <td></td>
+      <td>The economic classification the document gives the line, such as goods and services or capital.</td>
+      </tr>
+      <tr>
+      <td>admin_head_basis</td>
+      <td>Admin head basis</td>
+      <td>printed, derived</td>
+      <td>Whether admin_head is the document's own name (printed) or worked out from what the line holds (derived).</td>
+      </tr>
+      <tr>
+      <td>programme_basis</td>
+      <td>Programme basis</td>
+      <td>printed, derived</td>
+      <td>Whether programme is the document's own name (printed) or worked out from what the line holds (derived).</td>
+      </tr>
+      <tr>
+      <td>programme_level</td>
+      <td>Programme level</td>
+      <td>programme, project, activity, action, chapter, line, account, body, vote</td>
+      <td>The level of the budget that the programme column holds.</td>
+      </tr>
+      <tr>
+      <td>scope_confidence</td>
+      <td>Scope</td>
+      <td>whole, partial, unclear</td>
+      <td>Whether the whole line is digital, part of it is (the digital part cannot be separated), or it is unclear.</td>
+      </tr>
+      <tr>
+      <td>scope_basis</td>
+      <td>Scope basis</td>
+      <td></td>
+      <td>Why the line was judged digital, in our words.</td>
+      </tr>
+      <tr>
+      <td>finance_origin</td>
+      <td>Origin</td>
+      <td>domestic-state</td>
+      <td>Whose money it is. Every line here is the state's own money; externally financed lines are in the non-state finance dataset.</td>
+      </tr>
+      <tr>
+      <td>funding_source</td>
+      <td>Funding source</td>
+      <td>domestic-revenue, domestic-borrowing, own-source, counterpart, unstated</td>
+      <td>The source the document names for the money: tax revenue, domestic borrowing, a body's own fees and levies, the state's counterpart to a donor project, or not stated.</td>
+      </tr>
+      <tr>
+      <td>is_transfer</td>
+      <td>Transfer</td>
+      <td>true, false</td>
+      <td>Whether the line is a transfer to another public body. A transfer is counted once, at the body that spends it.</td>
+      </tr>
+      <tr>
+      <td>transfer_to</td>
+      <td>Transfer to</td>
+      <td></td>
+      <td>The body that receives a transfer.</td>
+      </tr>
+      <tr>
+      <td>currency</td>
+      <td>Currency</td>
+      <td>ISO 4217</td>
+      <td>The currency of the figures, as a three-letter code.</td>
+      </tr>
+      <tr>
+      <td>amount_scale</td>
+      <td>Amount scale</td>
+      <td></td>
+      <td>How the document prints its figures (in thousands, in millions). Every figure in this file is in whole units of the currency.</td>
+      </tr>
+      <tr>
+      <td>proposed</td>
+      <td>Proposed</td>
+      <td>units of currency</td>
+      <td>The figure in the budget bill tabled before parliament.</td>
+      </tr>
+      <tr>
+      <td>appropriated</td>
+      <td>Appropriated</td>
+      <td>units of currency</td>
+      <td>The figure enacted in law.</td>
+      </tr>
+      <tr>
+      <td>revised</td>
+      <td>Revised</td>
+      <td>units of currency</td>
+      <td>The figure after an in-year revision or supplementary budget.</td>
+      </tr>
+      <tr>
+      <td>released</td>
+      <td>Released</td>
+      <td>units of currency</td>
+      <td>The figure released to the spending body.</td>
+      </tr>
+      <tr>
+      <td>actual</td>
+      <td>Actual</td>
+      <td>units of currency</td>
+      <td>The figure spent in the year (the outturn).</td>
+      </tr>
+      <tr>
+      <td>audited</td>
+      <td>Audited</td>
+      <td>units of currency</td>
+      <td>The figure in the audited accounts.</td>
+      </tr>
+      <tr>
+      <td>baseline_stage</td>
+      <td>Baseline stage</td>
+      <td>proposed, appropriated, revised, released, actual, audited, unclear</td>
+      <td>The earliest stage a figure is held for.</td>
+      </tr>
+      <tr>
+      <td>current_stage</td>
+      <td>Current stage</td>
+      <td>proposed, appropriated, revised, released, actual, audited, unclear</td>
+      <td>The latest stage a figure is held for.</td>
+      </tr>
+      <tr>
+      <td>exec_vs_voted</td>
+      <td>Spent vs voted</td>
+      <td></td>
+      <td>The actual figure as a percentage of the appropriated figure.</td>
+      </tr>
+      <tr>
+      <td>exec_vs_revised</td>
+      <td>Spent vs revised</td>
+      <td></td>
+      <td>The actual figure as a percentage of the revised figure.</td>
+      </tr>
+      <tr>
+      <td>source_tier</td>
+      <td>Source type</td>
+      <td>budget-document, official-statement, project-document, reporting</td>
+      <td>The kind of source the figure comes from.</td>
+      </tr>
+      <tr>
+      <td>doc_type</td>
+      <td>Document type</td>
+      <td></td>
+      <td>The kind of budget document, such as appropriation-act or budget-estimates.</td>
+      </tr>
+      <tr>
+      <td>doc_locator</td>
+      <td>Where printed</td>
+      <td></td>
+      <td>Where in the document the figure is printed: volume, table, page, line.</td>
+      </tr>
+      <tr>
+      <td>source_slug</td>
+      <td>Source</td>
+      <td></td>
+      <td>The key of the source document in the Corpus catalogue.</td>
+      </tr>
+      <tr>
+      <td>extracted</td>
+      <td>Extracted</td>
+      <td>YYYY-MM-DD</td>
+      <td>The date the line was read from the document.</td>
+      </tr>
+      <tr>
+      <td>origin_record</td>
+      <td>Migrated from</td>
+      <td></td>
+      <td>For a line carried over from an earlier record rather than read afresh, the key of that record. Blank for a line read from the document.</td>
+      </tr>
+      <tr>
+      <td>notes</td>
+      <td>Notes</td>
+      <td></td>
+      <td>How the figure was checked against the document's totals, and anything a reader needs to use it.</td>
+      </tr>
+      <tr>
+      <td>primary_subject_id</td>
+      <td>Subject key</td>
+      <td>a key in the subject taxonomy</td>
+      <td>What the money is for, as a key in the subject taxonomy (dpi.govtech, infra.connect).</td>
       </tr>
       </tbody>
       </table>

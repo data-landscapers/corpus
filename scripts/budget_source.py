@@ -23,11 +23,12 @@ year a row belongs to is its own `fy_start`. Two things in the folder are derive
 **A row is a record, so it carries what a record carries.** The field vocabulary is
 `finance-load-domestic-state.md`'s, deliberately — a Corpus row and an OSINT record say the
 same thing in the same words, which is what lets `build-finance-page.py` merge the two into
-one export without a mapping table between them. The 52 columns are the whole shape: the
+one export without a mapping table between them. The 53 columns are the whole shape: the
 line, the year, the classification chain and its codes, the scope judgement and its basis,
 the origin gate and its funding source, six stage figures, the currency and its scale, and
 the citation — `source_slug` naming the held document and `doc_locator` the page and table
-the figure is printed on — plus two derived ones, `report_year` and `budget_usd`.
+the figure is printed on — plus three derived ones, `report_year`, `primary_subject` and
+`budget_usd`.
 
 **Two kinds of row, and `origin_record` is which** *(R56a)*. A row a **BUDGET-EXTRACT sitting
 read** carries the full schema and `origin_record` is empty. A row **migrated** from an OSINT
@@ -75,20 +76,22 @@ BUDGETS = os.path.join(ROOT, "budgets")
 CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "catalogue-internal.csv")
 
 COLUMNS = (
-    # identity
-    "deal_id", "place", "state_level", "spending_tier_name",
-    # the fiscal year; `report_year` is derived, never typed: `fy_start`'s year, which `--update` writes
-    "report_year", "fiscal_year_label", "fy_start", "fy_end", "fy_calendar",
+    # **The reader's columns first** *(Bill, 2026-09-30)*: the order the published table shows,
+    # where, when, what for and how much, then the names of the line; the subject's key goes
+    # last. Three are derived and never typed — `report_year` (`fy_start`'s year),
+    # `primary_subject` (the Level 2 label of `primary_subject_id` in `lookups/taxonomy.csv`)
+    # and `budget_usd` — and `--update` writes them.
+    "place", "report_year", "primary_subject", "budget_usd",
+    "admin_head", "spending_entity", "programme", "sub_programme", "line_name", "purpose",
+    # identity and the fiscal year
+    "deal_id", "state_level", "spending_tier_name",
+    "fiscal_year_label", "fy_start", "fy_end", "fy_calendar",
     "budget_version", "supplementary_basis",
-    # the classification chain — names and codes, verbatim, never invented
-    "admin_head_code", "admin_head", "spending_entity_code", "spending_entity",
-    "programme_code", "programme", "sub_programme_code", "sub_programme", "econ_class",
+    # the classification chain's codes, verbatim, never invented
+    "admin_head_code", "spending_entity_code", "programme_code", "sub_programme_code",
+    "econ_class",
     # where the head and the programme came from, and what grain "programme" is
     "admin_head_basis", "programme_basis", "programme_level",
-    # what the line is
-    "line_name", "purpose", "primary_subject",
-    # derived, never typed: the latest stage figure in US dollars, which `--update` writes
-    "budget_usd",
     # is it digital
     "scope_confidence", "scope_basis",
     # whose money it is
@@ -101,6 +104,8 @@ COLUMNS = (
     "source_tier", "doc_type", "doc_locator", "source_slug",
     # who read it, and what they had to say about it
     "extracted", "origin_record", "notes",
+    # the subject as a taxonomy key, which `primary_subject` labels
+    "primary_subject_id",
 )
 
 STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
@@ -157,13 +162,13 @@ GAPS_FILE = "structure-gaps.csv"
 REQUIRED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start", "fy_end",
             "fy_calendar", "budget_version", "admin_head_code", "admin_head",
             "spending_entity", "programme", "admin_head_basis", "programme_basis",
-            "programme_level", "line_name", "purpose", "primary_subject",
+            "programme_level", "line_name", "purpose", "primary_subject_id",
             "scope_confidence", "scope_basis", "finance_origin", "funding_source",
             "is_transfer", "currency", "amount_scale", "baseline_stage", "current_stage",
             "source_tier", "source_slug", "extracted")
 
 REQUIRED_MIGRATED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start",
-                     "line_name", "primary_subject", "budget_version",
+                     "line_name", "primary_subject_id", "budget_version",
                      "scope_confidence", "finance_origin", "is_transfer", "currency",
                      "baseline_stage", "current_stage", "source_tier", "extracted",
                      "origin_record")
@@ -190,6 +195,8 @@ class SourceError(Exception):
 COUNTRY = "budgets-{}.csv"
 COUNTRY_FILE = re.compile(r"^budgets-([A-Z]{3})\.csv$")
 MERGED_ALL = "budgets-all-countries.csv"
+# The field dictionary the published table links: one row per column, in the schema's order.
+METADATA = "budgets-metadata.csv"
 # `budget_usd` is converted with OSINT's FX table, as the finance build converts a domestic line.
 FX_TABLE = "fx-imf-annual.csv"
 
@@ -253,10 +260,21 @@ def budget_usd(row: dict) -> str:
     return ""
 
 
+def subject_label(key: str) -> str:
+    """The Level 2 label of a subject key in `lookups/taxonomy.csv`, blank for no key."""
+    if not key:
+        return ""
+    sys.path.insert(0, os.path.join(ROOT, "scripts"))
+    import taxonomy_lib
+    return taxonomy_lib.label(key)
+
+
 def derive(row: dict) -> dict:
-    """The row with its two derived columns written: `report_year`, the four-digit start year
-    of its fiscal year, and `budget_usd`."""
-    return {**row, "report_year": fy_of(row), "budget_usd": budget_usd(row)}
+    """The row with its derived columns written: `report_year`, the four-digit start year of
+    its fiscal year; `primary_subject`, its subject's Level 2 label; and `budget_usd`."""
+    return {**row, "report_year": fy_of(row),
+            "primary_subject": subject_label((row.get("primary_subject_id") or "").strip()),
+            "budget_usd": budget_usd(row)}
 
 
 def _csv(header: list[str], rs: list[dict]) -> bytes:
@@ -514,11 +532,11 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
             if slugs is not None and g("source_slug") and g("source_slug") not in slugs:
                 bad(f"source_slug {g('source_slug')!r} is in no catalogue row, so it names "
                     f"no held document.")
-            if subjects is not None and g("primary_subject"):
-                if g("primary_subject") not in subjects:
-                    bad(f"primary_subject {g('primary_subject')!r} is not a taxonomy key.")
-                elif g("primary_subject").startswith("finance."):
-                    bad("primary_subject is a finance facet. It is what the money is FOR.")
+            if subjects is not None and g("primary_subject_id"):
+                if g("primary_subject_id") not in subjects:
+                    bad(f"primary_subject_id {g('primary_subject_id')!r} is not a taxonomy key.")
+                elif g("primary_subject_id").startswith("finance."):
+                    bad("primary_subject_id is a finance facet. It is what the money is FOR.")
 
             for f in STRUCTURE:
                 b = g(f + "_basis")
@@ -645,7 +663,7 @@ FM_COLS = {
     "supplementary_basis": "supplementary_basis",
     "currency": "currency", "source_tier": "source_tier",
     "doc_type": "doc_type", "doc_locator": "doc_locator",
-    "source_slug": "source_slug", "primary_subject": "primary_subject",
+    "source_slug": "source_slug", "primary_subject": "primary_subject_id",
     "origin_record": "origin_record",
     "admin_head_basis": "admin_head_basis", "programme_basis": "programme_basis",
     "programme_level": "programme_level",
@@ -664,7 +682,7 @@ def records(iso3: str, budgets: str = "") -> list[dict]:
                           + "\n  ".join(fails))
     out = []
     for country, fy, r in rows(iso3, budgets):
-        subj = (r.get("primary_subject") or "").strip()
+        subj = (r.get("primary_subject_id") or "").strip()
         out.append(dict(
             fn="", fm=_fm(r, FM_COLS), body="",
             table={"Spending entity": (r.get("spending_entity") or "").strip()},
@@ -693,7 +711,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--budgets", default="", help="another budgets/ root, for tests")
     ap.add_argument("--columns", action="store_true", help="print the header and stop")
     ap.add_argument("--update", action="store_true",
-                    help="after any change: refresh report_year and budget_usd in each country file, rewrite "
+                    help="after any change: refresh the derived columns in each country file, rewrite "
                          "budgets-all-countries.csv, and stop")
     ap.add_argument("--ratchet", action="store_true",
                     help="lower the admin-head/programme ceilings to what is left, and stop")
@@ -719,10 +737,16 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
     fails += version_overlaps(a.iso3, a.budgets)
+    meta = os.path.join(a.budgets or BUDGETS, METADATA)
+    if not a.iso3 and os.path.exists(meta):
+        described = [r.get("column") for r in read(meta)[1]]
+        if described != list(COLUMNS):
+            fails.append(f"{METADATA}: its column list is not the schema's, in the schema's "
+                         f"order. Every column published is described, once.")
     for country, _ in files(a.iso3, a.budgets):
         if stale(country, a.budgets):
-            fails.append(f"{COUNTRY.format(country)}: report_year or budget_usd is behind the "
-                         f"figures or the FX table. `--update` rewrites them.")
+            fails.append(f"{COUNTRY.format(country)}: a derived column is behind the figures, "
+                         f"the taxonomy or the FX table. `--update` rewrites them.")
     if stale_all(a.budgets):
         fails.append(f"{MERGED_ALL}: missing or behind the country files. `--update` "
                      f"rewrites it.")

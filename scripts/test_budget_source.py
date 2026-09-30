@@ -59,7 +59,7 @@ GOOD = {
     "admin_head_basis": "printed", "programme_basis": "printed", "programme_level": "programme",
     "line_name": "Management and Administration — Research, Statistics and IM",
     "purpose": "Runs the ministry's district development data platform and its databases.",
-    "primary_subject": "data.statistics",
+    "primary_subject_id": "data.statistics",
     "scope_confidence": "partial",
     "scope_basis": "The sub-programme's stated function is information management; research "
                    "and publicity sit in the same line and are not separable.",
@@ -155,9 +155,9 @@ try:
         ("a budget-document line with no locator", "doc_locator is empty", row(doc_locator="")),
         ("a required field left empty", "purpose is empty", row(purpose="")),
         ("a finance facet as the subject", "what the money is FOR",
-         row(primary_subject="finance.budget")),
+         row(primary_subject_id="finance.budget")),
         ("a subject outside the taxonomy", "not a taxonomy key",
-         row(primary_subject="data.nonsense")),
+         row(primary_subject_id="data.nonsense")),
     ]
     for label, want, r_ in bad:
         d = tmp / "bad" / label.replace(" ", "-")
@@ -250,9 +250,9 @@ try:
 
     d = tmp / "migrated-still-identified"
     write(d, "GHA", [row(origin_record="x-rec", currency="", line_name="",
-                                 primary_subject="")])
+                                 primary_subject_id="")])
     got = failures(d)
-    for want in ("currency", "line_name is empty", "primary_subject is empty"):
+    for want in ("currency", "line_name is empty", "primary_subject_id is empty"):
         check(f"but {want.split()[0]} is still required", any(want in f for f in got), True)
 
     print("\nthe unclear stage")
@@ -357,8 +357,10 @@ try:
         rd = csv.DictReader(fh)
         first = next(rd)
     check("update fills report_year from fy_start", first["report_year"], "2024")
-    check("report_year sits before fiscal_year_label",
-          rd.fieldnames[rd.fieldnames.index("report_year") + 1], "fiscal_year_label")
+    check("the file carries the schema's column order", rd.fieldnames, list(bs.COLUMNS))
+    check("update fills primary_subject with the Level 2 label", first["primary_subject"],
+          bs.subject_label("data.statistics"))
+    check("which is a label, not the key", first["primary_subject"] != "data.statistics", True)
     check("the all-countries file is written",
           (c / bs.MERGED_ALL).read_bytes() == bs.merged_all(str(c)), True)
     check("and is not read as a country", [i for i, _ in bs.files(budgets=str(c))], ["GHA"])

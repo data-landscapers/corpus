@@ -3,16 +3,23 @@
 
     python scripts/finance.py
       -> site/finance/index.html                   non-state finance
-      -> site/finance/budgets/index.html           national budgets: intro text only
+      -> site/finance/budgets/index.html           national budgets, with their table
       -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
+      -> site/finance/budgets/budgets-all-countries-{edition}.csv   likewise, for budgets
 
 **Two pages under one toc bar, the Progress arrangement** *(Bill, 2026-09-22)*.
-`/finance/` carries non-state finance and nothing else; `/finance/budgets/` carries
-the intro to the budget work and no figures. The budget tables — the coverage table
-and the line-level datatable, published from 2026-09-20 (R53) — came off the site the
-same day, and no further `all-budgets` edition is cut; the editions already published
-stay where they are (§9). Finance also left the nav bar that day: the home page and
-the Datasets page are the ways in.
+`/finance/` carries non-state finance and nothing else; `/finance/budgets/` carries the
+budget work. Its table came off the site on 2026-09-22 and returned on 2026-09-30 (Bill)
+as `budgets/budgets-all-countries.csv`, every line Corpus has read from a state's own budget
+document, published as a dated `budgets-all-countries` edition. The `all-budgets` editions
+published before 2026-09-22 stay where they are (§9). Finance also left the nav bar on
+2026-09-22: the home page and the Datasets page are the ways in.
+
+**The budget table shows the first nine columns and the row panel shows all of them**
+*(Bill, 2026-09-30)*. The file's column order is the schema's (`budget_source.COLUMNS`),
+which puts the reader's columns first, so "the first nine" is read off the file's own header
+rather than listed here. The field dictionary is `budgets/budgets-metadata.csv`, which
+`datasets.py` publishes beside the others.
 
 The table is the cross-country counterpart of each country's `finance.html` and uses
 the same component: `site/assets/js/datatable.js` fetches the published CSV and draws
@@ -29,7 +36,8 @@ partition — one row per deal). Vocabularies come from `outputs/vocab/` like th
 catalogue, so the site still reads only `outputs/`.
 
 The domestic-budget side is still compiled per country into `outputs/budgets/{ISO3}-budget.csv`;
-nothing here reads it.
+nothing here reads it. The budgets page reads `budgets/budgets-all-countries.csv` directly: it
+is Corpus's own source, not a compile of OSINT's, so there is no `outputs/` copy to read.
 """
 from __future__ import annotations
 import csv, html, json, sys
@@ -54,6 +62,12 @@ MAIN_SITE = "https://data-landscapers.io"
 # The one field dictionary for every non-state finance table (country.py writes the
 # same link). Hand-maintained; nothing generates it.
 METADATA_CSV = "non-state-finance-metadata.csv"
+
+# The budgets table: Corpus's own extractions, every country in one file, and its dictionary.
+BUDGETS_CSV = CORPUS / "budgets" / "budgets-all-countries.csv"
+BUDGETS_META = CORPUS / "budgets" / "budgets-metadata.csv"
+BUDGETS_METADATA_CSV = "budgets-metadata.csv"
+BUDGET_TABLE_COLS = 9
 
 
 def indent(html_block: str, spaces: int = 4) -> str:
@@ -230,10 +244,12 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>National budgets — Data Landscapers</title>
-<meta name="description" content="What African states spend from their own budgets on digital transformation: work in progress.">
+<meta name="description" content="What African states budget for digital transformation from their own money: every digital line read from their budget documents, searchable and downloadable.">
 <link rel="canonical" href="{base}/finance/budgets/">
+{artefacts}
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
+{jsonld}
 {ga}
 </head>
 <body>
@@ -251,7 +267,41 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 
 {toc}
 
+    <div class="byline">{lines} budget lines &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; fiscal years {yr}</div>
+
 {budgets_intro}
+
+    <div class="dl-datatable"
+      data-src="{csv_name}"
+      data-cols="{cols}"
+      data-filters="place, report_year, primary_subject"
+      data-numeric="{numeric}"
+      data-labels="{labels}"
+      data-tips="{tips}"
+      data-detail="{detail}"
+      data-sort="place:asc"
+      data-empty="No budget line matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; national budgets</span>
+        <span class="dt-count">{lines} rows</span>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../datasets/metadata/#national-budgets">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Edition</dt><dd class="mono">{edition}</dd>
+        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, kept as published and never revised</dd>
+        <dt>Fields</dt><dd><a href="../../datasets/metadata/#national-budgets">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
 
   </div>
   </main>
@@ -259,18 +309,74 @@ BUDGETS_PAGE = """<!DOCTYPE html>
 {foot}
 
 </div>
+{datatable}
 </body>
 </html>
 """
 
 
-def render_budgets() -> str:
-    """The budgets page: the intro and nothing under it *(Bill, 2026-09-22)*."""
-    return BUDGETS_PAGE.format(
+def read_rows(path: Path) -> tuple[list[str], list[dict]]:
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        rdr = csv.DictReader(fh)
+        return list(rdr.fieldnames or []), list(rdr)
+
+
+def budgets_dataset(rows: list[dict], meta: list[dict], csv_path: Path, edition: str,
+                    years: list[int]) -> str:
+    """The budgets table described as data, dated to its edition like the non-state one."""
+    return structured_data.dataset(
+        name="Data Landscapers national budgets — Africa",
+        description=copy_md("finance", "dataset-budgets"),
+        url=f"{SITE_BASE}/finance/budgets/",
+        csv_url=f"{SITE_BASE}/finance/budgets/{csv_path.name}",
+        csv_bytes=structured_data.bytes_of(csv_path),
+        records=len(rows),
+        fields=structured_data.fields_from([{"Column": m["column"], "Definition": m["definition"]}
+                                            for m in meta]),
+        entity={"@type": "Place", "name": "Africa"},
+        temporal=structured_data.year_span([min(years), max(years)] if years else [None, None]),
+        modified=edition or None,
+        version=edition or None,
+        extra_keywords=("Government budgets", "Public finance", "Digital transformation"))
+
+
+def publish_budgets(out: Path, names: dict) -> None:
+    """`/finance/budgets/`: the intro, then every budget line in one table *(Bill, 2026-09-30)*.
+
+    The CSV is cut as a dated edition like every other download here, so the file a reader
+    keeps is never revised under them. The table shows the file's first nine columns and the
+    row panel every column; tooltips are the dictionary's definitions."""
+    page = out / "index.html"
+    header, rows = read_rows(BUDGETS_CSV)
+    _, meta = read_rows(BUDGETS_META)
+    body = BUDGETS_CSV.read_bytes().replace(b"\r\n", b"\n")
+    csv_path, _ = editions.publish(body, out, "budgets-all-countries", ".csv", page=page)
+    edition = editions.edition_of(csv_path.stem) or ""
+    used = sorted({r["place"] for r in rows})
+    years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
+    numeric = [c for c in header if c in ("report_year", "budget_usd", "proposed", "appropriated",
+                                          "revised", "released", "actual", "audited",
+                                          "exec_vs_voted", "exec_vs_revised")]
+    page.write_text(external_links(BUDGETS_PAGE.format(
         feedback=feedback("National budgets", f"{SITE_BASE}/finance/budgets/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=chrome('finance', depth=2),
-        foot=foot(depth=2), styles=styles(2, "country.css"), ga=ga(),
-        toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")))
+        foot=foot(depth=2), styles=styles(2, "country.css", "datatable.css"), ga=ga(),
+        datatable=script("datatable.js", 2),
+        artefacts=editions.artefact_meta("budgets-all-countries", edition, editions.digest(body)),
+        jsonld=budgets_dataset(rows, meta, csv_path, edition, years),
+        toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")),
+        csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
+        cols=", ".join(header[:BUDGET_TABLE_COLS]), detail=", ".join(header),
+        numeric=", ".join(numeric),
+        labels=html.escape(json.dumps({"place": {c: names.get(c, c) for c in used}},
+                                      ensure_ascii=False), quote=True),
+        tips=html.escape(json.dumps({m["column"]: m["definition"] for m in meta
+                                     if m.get("definition")}, ensure_ascii=False), quote=True),
+        lines=f"{len(rows):,}", countries=len(used),
+        yr=f"{years[0]}–{years[-1]}" if years else "n/a",
+        built=date.today().isoformat(), edition=edition)), encoding="utf-8")
+    print(f"finance: budgets {len(rows):,} lines, {len(used)} countries, edition {edition} "
+          f"-> site/finance/budgets/")
 
 
 def field_dictionary() -> list[dict]:
@@ -375,8 +481,7 @@ def main() -> int:
     page.write_text(external_links(render(agg, names, csv_path.name, edition, artefacts)),
                     encoding="utf-8")
     (out / "budgets").mkdir(exist_ok=True)
-    (out / "budgets" / "index.html").write_text(external_links(render_budgets()),
-                                                 encoding="utf-8")
+    publish_budgets(out / "budgets", names)
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html
         stale.unlink()

@@ -446,7 +446,7 @@ def build_metadata() -> None:
         feedback=feedback("Datasets — metadata", canonical),
         h1="Metadata", title="Datasets — metadata",
         description="What each column in the Data Landscapers datasets means: data centres, "
-                    "institution hosting, non-state finance and the catalogue.",
+                    "institution hosting, non-state finance, national budgets and the catalogue.",
         canonical=canonical, base=SITE_BASE, main=MAIN_SITE, body_class="",
         chrome=chrome("datasets", depth=2), foot=foot(depth=2),
         styles=styles(2, "methodology.css"), ga=ga(),
@@ -559,6 +559,7 @@ def main() -> int:
     out.mkdir(parents=True, exist_ok=True)
     publish_metadata(NAME)
     publish_metadata(IH, IH_DIR / f"{IH}-metadata.csv")
+    publish_metadata("budgets", CORPUS / "budgets" / "budgets-metadata.csv")   # finance.py links it
     build_metadata()
 
     # Published before the page, which links it by name (finance.py sets out why, and why LF).

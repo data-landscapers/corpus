@@ -12,5 +12,8 @@ What each column in the downloadable datasets means. Each table can be downloade
 ## Non-state finance
 <!-- table: site/metadata/non-state-finance-metadata.csv -->
 
+## National budgets
+<!-- table: site/metadata/budgets-metadata.csv | column, label, values, definition -->
+
 ## Catalogue
 <!-- table: site/metadata/catalogue-metadata.csv -->

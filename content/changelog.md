@@ -5,6 +5,7 @@
 - The methodology behind the Institution hosting dataset now has [its own page](/datasets/institution-hosting/methodology/), linked from the dataset. It sets out how institutions were chosen, how each address was assigned to a host, and what the figures cannot show.
 - In the data centres and institution hosting tables, hovering over or tapping a column heading now shows what the column means. The full definitions stay on the metadata page.
 - Tables across the site can now sort on more than one column: shift-click a second heading to sort within the first. Each sorted heading shows its place in the order.
+- [National budgets](/finance/budgets/) now has a table of every digital line read from 52 states' own budget documents, 10,960 lines for fiscal years 2024 to 2026. Each row opens to show every field, and the columns are described on the [metadata page](/datasets/metadata/#national-budgets).
 - Corpus's own budget extractions now sit in one file per country, `budgets/budgets-{ISO3}.csv`, with every year in it and each line's report year and US-dollar figure. The record column in the budget tables points to that file.
 
 ## 29 September 2026
