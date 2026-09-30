@@ -277,6 +277,13 @@ def classify_table(headers: list[str]) -> str:
     # one column fewer.
     if len(headers) == 3 and headers[2].startswith("progress"):
         return "topic-progress"
+    # The Institution hosting report's two tables (`hyperscaler-publish.py`, 2026-09-30): the
+    # banks-against-government split, a short table of figures sized to its content, and the
+    # seven-column institution table, which the three-column gaps widths could not hold.
+    if headers and headers[0].startswith("share of working addresses"):
+        return "hosting-split"
+    if len(headers) == 7 and headers[0] == "institution" and headers[2] == "on us cloud":
+        return "hosting-inst"
     return "gaps"
 
 

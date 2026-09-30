@@ -288,6 +288,26 @@ table.gaps td:nth-child(1) { font-weight: 600; }
 table.gaps td:nth-child(2) { font-family: var(--serif); text-transform: none; letter-spacing: 0; }
 table.gaps td:nth-child(3) { color: var(--ink-faint); font-family: var(--mono); font-size: 0.72rem; }
 
+/* Institution hosting: the banks-against-government split is a few figures, so
+   it takes the width its content needs rather than the page's. */
+.article-body table.hosting-split { width: auto; table-layout: auto; }
+table.hosting-split td:nth-child(1) { font-weight: 600; }
+table.hosting-split td:nth-child(n+2), table.hosting-split th:nth-child(n+2) {
+  text-align: right; padding-left: 1.5rem; white-space: nowrap; }
+
+/* Institution hosting: institution | type | four shares | email. Seven columns
+   on a page width, so the type is smaller and the shares take a tenth each. */
+table.hosting-inst { font-size: 0.74rem; }
+table.hosting-inst th { font-size: 0.62rem; letter-spacing: 0.02em; }
+table.hosting-inst td:nth-child(1), table.hosting-inst th:nth-child(1) { width: 27%; }
+table.hosting-inst td:nth-child(2), table.hosting-inst th:nth-child(2) { width: 21%; }
+table.hosting-inst td:nth-child(n+3), table.hosting-inst th:nth-child(n+3) { width: 10%; }
+table.hosting-inst td:nth-child(7), table.hosting-inst th:nth-child(7) { width: 12%; }
+table.hosting-inst td:nth-child(1) { font-weight: 600; }
+table.hosting-inst td:nth-child(2) { color: var(--ink-light); }
+table.hosting-inst td:nth-child(n+3):nth-child(-n+6),
+table.hosting-inst th:nth-child(n+3):nth-child(-n+6) { text-align: right; }
+
 /* Indicator frame (country progress reports): topic | indicator | developments
    | progress. The Developments column is the document — terse summary plus the
    row's expander — so it takes the room the other three do not need. Topic
