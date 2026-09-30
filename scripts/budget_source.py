@@ -323,15 +323,24 @@ def merged(iso3: str, budgets: str = "") -> bytes:
     return out
 
 
+def stale(iso3: str, budgets: str = "") -> bool:
+    """Whether `budgets-{ISO3}.csv` is missing or no longer its year files. Line endings are
+    not a difference: a checkout under `core.autocrlf` would otherwise read as stale."""
+    path = os.path.join(budgets or BUDGETS, iso3, MERGED.format(iso3))
+    if not os.path.exists(path):
+        return True
+    with open(path, "rb") as fh:
+        return fh.read().replace(b"\r\n", b"\n") != merged(iso3, budgets)
+
+
 def merge(iso3: str = "", budgets: str = "") -> list[str]:
-    """Write `budgets-{ISO3}.csv` wherever it would change. Returns the paths written."""
+    """Write `budgets-{ISO3}.csv` wherever it is stale. Returns the paths written."""
     written = []
     for country in sorted({c for c, _, _ in files(iso3, budgets)}):
-        path = os.path.join(budgets or BUDGETS, country, MERGED.format(country))
-        body = merged(country, budgets)
-        if not os.path.exists(path) or open(path, "rb").read() != body:
+        if stale(country, budgets):
+            path = os.path.join(budgets or BUDGETS, country, MERGED.format(country))
             with open(path, "wb") as fh:
-                fh.write(body)
+                fh.write(merged(country, budgets))
             written.append(path)
     return written
 
@@ -733,8 +742,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
     for country in sorted({c for c, _, _ in files(a.iso3, a.budgets)}):
-        path = os.path.join(a.budgets or BUDGETS, country, MERGED.format(country))
-        if not os.path.exists(path) or open(path, "rb").read() != merged(country, a.budgets):
+        if stale(country, a.budgets):
             fails.append(f"{country}/{MERGED.format(country)}: missing or behind its year "
                          f"files. `--merge` rewrites it.")
     xfails, xrows = check_external(a.iso3, a.budgets)
