@@ -6,6 +6,14 @@ scan_date: 2026-09-29
 
 # Sao Tome and Principe: who hosts the state's front door
 
+<nav class="article-toc" aria-label="Institution hosting views">
+<a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Dataset</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/datasets/institution-hosting/methodology/">Methodology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://data-landscapers.io/2026/09/30/institution-hosting/">Continental analysis</a>
+</nav>
+
 
 The scan covered 20 state bodies, banks and state-owned companies in Sao Tome and Principe. 20% of their working server addresses are on US cloud: Amazon, Microsoft, Google or Oracle. 2% are behind shields such as Cloudflare, which hide the host. 2% are on government data centres or the institutions' own systems.
 

@@ -19,6 +19,7 @@ What changes on the way *(Bill, 2026-09-30)*:
   whose web addresses point at a deleted cloud name; the published report says how many, as the
   methodology promises. Naming them narrows an attacker's search to a handful of estates.
 - **The last paragraph links the dataset** in place of the repository path.
+- **The views bar** (Dataset · Methodology · Continental analysis) opens the body.
 - **The chart is embedded** as a data URI, so the page and the PDF carry it without a second
   file: `render.py` gives WeasyPrint a base URL in the stylesheet directory, where a relative
   image would not resolve.
@@ -36,6 +37,16 @@ from pathlib import Path
 SCAN = Path(__file__).resolve().parent.parent / "R&D" / "Hyperscaler-dependence" / "scan"
 DATASET = "https://corpus.data-landscapers.io/datasets/institution-hosting/"
 BYLINE = "compiled by Claude Opus 5.5 from a scan of public internet records"
+# The bar the dataset, methodology and continental analysis pages carry (`datasets.py` →
+# `IH_VIEWS`), so a country report links the same three views (Bill, 2026-09-30).
+VIEWS = """<nav class="article-toc" aria-label="Institution hosting views">
+<a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Dataset</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://corpus.data-landscapers.io/datasets/institution-hosting/methodology/">Methodology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="https://data-landscapers.io/2026/09/30/institution-hosting/">Continental analysis</a>
+</nav>
+"""
 
 CLAIMABLE = re.compile(
     r"(\*\*Names anyone could claim\.\*\* \S+ web address(?:es)? at )(.+?)( points? at a deleted)")
@@ -58,6 +69,7 @@ def publish(iso: str) -> Path:
     # the byline under the h1: "29 September 2026 · Bill Anderson · scan of …"
     lines = [ln for ln in lines if not (ln and "·" in ln and not ln.startswith(("#", "|", "-", "!")))]
     body = "\n".join(lines) + "\n"
+    body = body.replace(h1 + "\n", h1 + "\n\n" + VIEWS, 1)
 
     body = CLAIMABLE.sub(count_names, body)
     body = body.replace("Of the 54 countries scanned so far,", "Of the 54 countries scanned,")
