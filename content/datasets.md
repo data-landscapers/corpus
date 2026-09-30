@@ -50,7 +50,7 @@ Data centres in Africa: one record per facility, whether operational, under cons
 
 ## institution-hosting-intro
 
-One row per institution: the presidency, ministries, regulators, security services, the largest banks and the payment systems, in 54 countries. For each one the table shows where its public internet services are hosted: on US cloud (Amazon, Microsoft, Google, Oracle), on US online services such as Microsoft 365, behind a shield such as Cloudflare that hides the real host, on government or the institution's own systems, on African data centres, on telecoms networks, or with other foreign hosts. **Figures are shares of the institution's working addresses on the scan date, and together they add up to 100.** The scan sees websites, mail and name servers only. It does not see where databases, payroll or core banking systems run.
+This dataset shows who hosts the public internet services of Africa's strategic institutions, and how much of that hosting is with US cloud companies. It covers the presidency, ministries, regulators, security services, the largest banks and the payment systems in 54 countries, one row per institution. Each row splits the institution's working addresses between US cloud (Amazon, Microsoft, Google, Oracle), US online services such as Microsoft 365, shields such as Cloudflare that hide the real host, government or the institution's own systems, African data centres, telecoms networks and other foreign hosts. **The shares add up to 100 and are as of the scan date.** The scan sees websites, mail and name servers only, not where databases, payroll or core banking systems run.
 
 ## institution-hosting-table-note
 
