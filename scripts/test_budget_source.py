@@ -353,6 +353,12 @@ try:
     with open(c / bs.COUNTRY.format("GHA"), encoding="utf-8-sig", newline="") as fh:
         usd = next(csv.DictReader(fh))["budget_usd"]
     check("update fills budget_usd", usd.isdigit(), True)
+    with open(c / bs.COUNTRY.format("GHA"), encoding="utf-8-sig", newline="") as fh:
+        rd = csv.DictReader(fh)
+        first = next(rd)
+    check("update fills report_year from fy_start", first["report_year"], "2024")
+    check("report_year sits before fiscal_year_label",
+          rd.fieldnames[rd.fieldnames.index("report_year") + 1], "fiscal_year_label")
     check("the all-countries file is written",
           (c / bs.MERGED_ALL).read_bytes() == bs.merged_all(str(c)), True)
     check("and is not read as a country", [i for i, _ in bs.files(budgets=str(c))], ["GHA"])

@@ -36,7 +36,7 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 
 **4a. Externally financed lines get no file of their own.** `external.csv`, which held them as the denominator of the financial sustainability measure, was retired as stale on 2026-09-30 (Bill). Their magnitude goes in the log note, as in step 4.
 
-**5. Write the rows.** Add them to the country's one file, `budgets/budgets-{ISO3}.csv` *(Bill, 2026-09-30)*: every fiscal year sits in it, and a new year is new rows, never a new file. A first country starts the file with the header exactly as `python scripts/budget_source.py --columns` prints it, UTF-8 with BOM. `origin_record` is empty on every row — that column is what says a row was migrated rather than read, and a sitting that leaves it in place has not replaced anything. Leave `budget_usd` blank; it is derived. A row's fiscal year is its `fy_start`, and `fiscal_year_label` carries the state's own form verbatim. Replacing a year means deleting its old rows from the file, not keeping them beside the new ones. One row per budget line per fiscal year, at the **finest grain the document prints for that line** — and never a programme alongside its own sub-programmes, which would sum.
+**5. Write the rows.** Add them to the country's one file, `budgets/budgets-{ISO3}.csv` *(Bill, 2026-09-30)*: every fiscal year sits in it, and a new year is new rows, never a new file. A first country starts the file with the header exactly as `python scripts/budget_source.py --columns` prints it, UTF-8 with BOM. `origin_record` is empty on every row — that column is what says a row was migrated rather than read, and a sitting that leaves it in place has not replaced anything. Leave `report_year` and `budget_usd` blank; both are derived. A row's fiscal year is its `fy_start`, and `fiscal_year_label` carries the state's own form verbatim. Replacing a year means deleting its old rows from the file, not keeping them beside the new ones. One row per budget line per fiscal year, at the **finest grain the document prints for that line** — and never a programme alongside its own sub-programmes, which would sum.
 
 **Every row names its admin head and its programme** *(Bill, 2026-09-22)*. `admin_head_basis` and `programme_basis` say `printed` for the document's own name; `programme_level` says what grain `programme` holds, and a budget with no programmes gives the next level it prints — `project`, `activity`, `action`, `chapter`, `line` — or `vote`/`body` for a whole appropriation. `derived` was for the one-time backfill of migrated rows (2026-09-22), not for a sitting.
 
@@ -49,7 +49,7 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 ## Checks, then publish
 
 ```
-python scripts/budget_source.py --update         # budget_usd and budgets-all-countries.csv, after any change
+python scripts/budget_source.py --update         # the derived columns and budgets-all-countries.csv, after any change
 python scripts/budget_source.py {ISO3}          # the schema, from the repo root
 cd scripts/.workroot
 python scripts/build-finance-page.py {ISO3}     # merges; prints the swap it made

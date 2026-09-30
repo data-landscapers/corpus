@@ -23,11 +23,11 @@ year a row belongs to is its own `fy_start`. Two things in the folder are derive
 **A row is a record, so it carries what a record carries.** The field vocabulary is
 `finance-load-domestic-state.md`'s, deliberately — a Corpus row and an OSINT record say the
 same thing in the same words, which is what lets `build-finance-page.py` merge the two into
-one export without a mapping table between them. The 51 columns are the whole shape: the
+one export without a mapping table between them. The 52 columns are the whole shape: the
 line, the year, the classification chain and its codes, the scope judgement and its basis,
 the origin gate and its funding source, six stage figures, the currency and its scale, and
 the citation — `source_slug` naming the held document and `doc_locator` the page and table
-the figure is printed on — plus the derived `budget_usd`.
+the figure is printed on — plus two derived ones, `report_year` and `budget_usd`.
 
 **Two kinds of row, and `origin_record` is which** *(R56a)*. A row a **BUDGET-EXTRACT sitting
 read** carries the full schema and `origin_record` is empty. A row **migrated** from an OSINT
@@ -77,8 +77,8 @@ CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "catalogue-internal.csv")
 COLUMNS = (
     # identity
     "deal_id", "place", "state_level", "spending_tier_name",
-    # the fiscal year
-    "fiscal_year_label", "fy_start", "fy_end", "fy_calendar",
+    # the fiscal year; `report_year` is derived, never typed: `fy_start`'s year, which `--update` writes
+    "report_year", "fiscal_year_label", "fy_start", "fy_end", "fy_calendar",
     "budget_version", "supplementary_basis",
     # the classification chain — names and codes, verbatim, never invented
     "admin_head_code", "admin_head", "spending_entity_code", "spending_entity",
@@ -253,6 +253,12 @@ def budget_usd(row: dict) -> str:
     return ""
 
 
+def derive(row: dict) -> dict:
+    """The row with its two derived columns written: `report_year`, the four-digit start year
+    of its fiscal year, and `budget_usd`."""
+    return {**row, "report_year": fy_of(row), "budget_usd": budget_usd(row)}
+
+
 def _csv(header: list[str], rs: list[dict]) -> bytes:
     buf = io.StringIO(newline="")
     w = csv.DictWriter(buf, fieldnames=header, lineterminator="\n", extrasaction="ignore")
@@ -262,14 +268,14 @@ def _csv(header: list[str], rs: list[dict]) -> bytes:
 
 
 def updated(iso3: str, budgets: str = "") -> bytes:
-    """A country file as it should stand: its rows in file order, `budget_usd` recomputed."""
+    """A country file as it should stand: its rows in file order, the derived columns recomputed."""
     path = os.path.join(budgets or BUDGETS, COUNTRY.format(iso3))
-    return _csv(list(COLUMNS), [{**r, "budget_usd": budget_usd(r)} for r in read(path)[1]])
+    return _csv(list(COLUMNS), [derive(r) for r in read(path)[1]])
 
 
 def merged_all(budgets: str = "") -> bytes:
     """Every country file as one CSV, the header once, countries in ISO3 order."""
-    out = [{**r, "budget_usd": budget_usd(r)} for _, _, r in rows(budgets=budgets)]
+    out = [derive(r) for _, _, r in rows(budgets=budgets)]
     return _csv(list(COLUMNS), out)
 
 
@@ -283,7 +289,7 @@ def _differs(path: str, body: bytes) -> bool:
 
 
 def stale(iso3: str, budgets: str = "") -> bool:
-    """Whether a country file's `budget_usd` is behind its figures or the FX table."""
+    """Whether a country file's derived columns are behind its figures or the FX table."""
     return _differs(os.path.join(budgets or BUDGETS, COUNTRY.format(iso3)), updated(iso3, budgets))
 
 
@@ -293,7 +299,7 @@ def stale_all(budgets: str = "") -> bool:
 
 
 def update(iso3: str = "", budgets: str = "") -> list[str]:
-    """After any change: rewrite each country file whose `budget_usd` is stale, then
+    """After any change: rewrite each country file whose derived columns are stale, then
     `budgets-all-countries.csv` if it is. Returns the paths written."""
     written = []
     for country, path in files(iso3, budgets):
@@ -687,7 +693,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--budgets", default="", help="another budgets/ root, for tests")
     ap.add_argument("--columns", action="store_true", help="print the header and stop")
     ap.add_argument("--update", action="store_true",
-                    help="after any change: refresh budget_usd in each country file and rewrite "
+                    help="after any change: refresh report_year and budget_usd in each country file, rewrite "
                          "budgets-all-countries.csv, and stop")
     ap.add_argument("--ratchet", action="store_true",
                     help="lower the admin-head/programme ceilings to what is left, and stop")
@@ -715,8 +721,8 @@ def main(argv: list[str] | None = None) -> int:
     fails += version_overlaps(a.iso3, a.budgets)
     for country, _ in files(a.iso3, a.budgets):
         if stale(country, a.budgets):
-            fails.append(f"{COUNTRY.format(country)}: budget_usd is behind the figures or the "
-                         f"FX table. `--update` rewrites it.")
+            fails.append(f"{COUNTRY.format(country)}: report_year or budget_usd is behind the "
+                         f"figures or the FX table. `--update` rewrites them.")
     if stale_all(a.budgets):
         fails.append(f"{MERGED_ALL}: missing or behind the country files. `--update` "
                      f"rewrites it.")
