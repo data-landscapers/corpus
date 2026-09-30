@@ -60,6 +60,9 @@ KIND_LABEL = {
     "status": "Status report",
     "monthly": "Monthly update",
     "progress": "Progress report",
+    # The hyperscaler scan's country fact sheet, published by `hyperscaler-publish.py` from
+    # `R&D/Hyperscaler-dependence/scan/{ISO3}/` (Bill, 2026-09-30).
+    "hosting": "Institution hosting",
     "bulletin": "",
 }
 
@@ -156,7 +159,7 @@ PRIOR_RECORD = re.compile(r'<meta name="dl-record" content="([0-9a-f]+)">')
 PRIOR_EDITION = re.compile(r'data-edition="([^"]+)"')
 
 
-KINDS = ("status", "monthly", "progress", "bulletin")
+KINDS = ("status", "monthly", "progress", "hosting", "bulletin")
 
 
 def parse_name(path: Path) -> tuple[str, str]:
@@ -545,6 +548,7 @@ META_KEY = {
     ("reports", "status"):   "meta-status",
     ("reports", "monthly"):  "meta-monthly",
     ("reports", "progress"): "meta-progress",
+    ("reports", "hosting"):  "meta-hosting",
     ("topics",  "monthly"):  "meta-topic-monthly",
     ("topics",  "progress"): "meta-topic-progress",
 }

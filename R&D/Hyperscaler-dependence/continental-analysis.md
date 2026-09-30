@@ -110,7 +110,7 @@ A few careful conclusions follow.
 - **The easiest gains may be in budget hosting.** Institutions on shared foreign hosting are using commodity services that African operators already sell, often in the same countries.
 - **Governments can answer what this scan cannot.** They know where their servers and databases are. Publishing that would settle how far the state has moved into Africa's own data centres.
 
-The scan also found 13 names, in nine countries, that point to cloud addresses which have been deleted and could be claimed by anyone, who could then publish under the institution's name. We have not named them and have passed them on for disclosure.
+The scan also found 13 names, in eight countries, that point to cloud addresses which have been deleted and could be claimed by anyone, who could then publish under the institution's name. We have not named them and have passed them on for disclosure.
 
 ## The data
 

@@ -76,6 +76,13 @@ for md in outputs/bulletins/*-bulletin.md; do
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
+# Institution hosting — the hyperscaler scan's country fact sheets, authored under R&D/, so
+# outside the count below. hyperscaler-publish.py rewrites a source only when its fact sheet moved.
+python scripts/hyperscaler-publish.py
+for md in "R&D/Hyperscaler-dependence/scan/"*/*-hosting.md; do
+  python scripts/render.py "$md" || echo "RENDER FAIL: $md"
+done
+
 # Coverage assertion: the patterns above must have reached every report document.
 present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | wc -l)
 missed=$((present - rendered - failed))

@@ -159,7 +159,7 @@ Three objections come up often.
 
 The scan is passive. It sent DNS queries to public resolvers, one query per domain to crt.sh, lookups to the internet registries, and downloads of the cloud companies' published range files. It made no web request, port scan or login attempt against any host under an institution's domain, and it did not probe anything that resolved. The only direct contact with any institution was the single homepage fetch that confirmed each domain before the scan.
 
-Some names point at a cloud name that has been deleted and that anyone could register. Whoever registered it could publish content under the institution's name. The scan found 13 such names in nine countries. The fact sheets count them but do not name them, and they were passed on for disclosure.
+Some names point at a cloud name that has been deleted and that anyone could register. Whoever registered it could publish content under the institution's name. The scan found 13 such names in eight countries. The fact sheets count them but do not name them, and they were passed on for disclosure.
 
 ## 12. Reproducing it
 

@@ -46,6 +46,10 @@ What moved this month in {subject}: digital transformation, DPI, data governance
 
 A year in {subject}, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.
 
+## meta-hosting
+
+Who hosts the websites, email and online services of {subject}'s ministries, regulators, security bodies and banks: US cloud, security shields, telecoms operators, government data centres or foreign hosts.
+
 ## meta-topic-monthly
 
 {subject} across Africa this month: digital transformation, DPI and data governance, country by country, each item sourced.

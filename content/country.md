@@ -22,6 +22,10 @@ A summary of sources published since the beginning of last month.
 
 A breakdown of progress recorded over the past twelve months
 
+## report-hosting
+
+Where the state's websites and email are hosted: US cloud, shields, telecoms, government or foreign hosts
+
 ## no-reports
 
 No reports are yet published for this place.
