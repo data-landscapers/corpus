@@ -15,14 +15,15 @@ finance records from raw/ and writes three CSV exports:
 Every row links to its raw/ record. DERIVED — do not hand-edit; rebuilt each compile.
 
 **The budget export has two sources from 2026-09-20** *(strategic review 4 R54)*. OSINT's
-domestic-state records in `raw/`, as always, and Corpus's own extractions in `budgets/{ISO3}/
-{FY}.csv` — a tracked source folder, written by a `BUDGET-EXTRACT.md` sitting reading a budget
+domestic-state records in `raw/`, as always, and Corpus's own extractions in
+`budgets/budgets-{ISO3}.csv` — tracked source files, one per country, written by a `BUDGET-EXTRACT.md` sitting reading a budget
 document, and the one thing in this pipeline a build does not regenerate. The rule is
-`merge_source()`: **a country-year present in the source folder replaces OSINT's rows for that
+`merge_source()`: **a country-year present in the source file replaces OSINT's rows for that
 year, and never adds to them.** Add-and-dedupe was the alternative and it is the wrong one —
 the two sides read the same document at different grains, so a union double-counts a programme
 against its own sub-programmes and no key detects it. Replacement means the folder's coverage
-is legible: if `budgets/GHA/2024.csv` exists, every GHA FY2024 row published came out of it.
+is legible: if `budgets/budgets-GHA.csv` holds FY2024, every GHA FY2024 row published came
+out of it.
 
 Outputs land in outputs/ so that everything the website serves sits together;
 the build's two INPUTS (fx-imf-annual.csv, financier-names.csv) stay in lookups/
@@ -553,8 +554,9 @@ def merge_source(iso3, dom):
     """OSINT's records for this place, with Corpus's own extractions swapped in.
 
     **Replace, never add** — the rule the review set with the source folder (R56a). Where
-    `budgets/{ISO3}/{FY}.csv` exists, every OSINT record for that fiscal year is dropped and
-    the file's rows stand in their place; a year the folder says nothing about is untouched.
+    `budgets/budgets-{ISO3}.csv` holds a fiscal year, every OSINT record for that year is
+    dropped and the file's rows stand in their place; a year the file says nothing about is
+    untouched.
     Returns `(records, [(fy, dropped, added), ...])` so the caller can *print* the swap: a
     build that silently replaced a country's published figures with a different reading of
     the same document would be indistinguishable from one that lost them.
@@ -578,8 +580,8 @@ def swap_note(iso3, swaps):
     no longer the ones OSINT's records would have produced."""
     if not swaps:
         return ""
-    parts = [f"FY{fy} {out}->{ins} from budgets/{iso3}/{fy}.csv" for fy, out, ins in swaps]
-    return "  [source folder: " + "; ".join(parts) + "]"
+    parts = [f"FY{fy} {out}->{ins}" for fy, out, ins in swaps]
+    return f"  [budgets/budgets-{iso3}.csv: " + "; ".join(parts) + "]"
 
 
 def build_one(iso3, ns, dom, lab, fx):
@@ -615,9 +617,9 @@ def main():
         # country with a budget export. `scan_all` only sees raw/, so it would be skipped
         # entirely — and the 32 states with no domestic records at all (R58) are exactly the
         # ones the source folder is for.
-        for iso3, _, _ in budget_source.files():
+        for iso3, _ in budget_source.files():
             by_place.setdefault(iso3, {"ns": [], "dom": []})
-        budget_source.merge()
+        budget_source.update()
         for iso3 in sorted(by_place):
             nn, nd, swaps = build_one(iso3, by_place[iso3]["ns"], by_place[iso3]["dom"], lab, fx)
             print(f"  {iso3}: {nn} non-state, {nd} domestic" + swap_note(iso3, swaps))
@@ -628,6 +630,7 @@ def main():
         by_place = scan_all()
         in_window(by_place)
         b = by_place.get(arg, {"ns": [], "dom": []})     # place-based, matches --all exactly
+        budget_source.update(arg)       # the country file's budget_usd, then the all-countries file
         nn, nd, swaps = build_one(arg, b["ns"], b["dom"], lab, fx)
         print(f"wrote {arg} CSV exports  ({nn} non-state, {nd} domestic)"
               + swap_note(arg, swaps))

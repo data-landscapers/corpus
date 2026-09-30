@@ -23,7 +23,7 @@ fy_start_month, fy_source, last_published, http, state, checked`.
 - `institution` — the commonest `publisher:` among the host's companions.
 - `type_months` — `type:MM,MM;type:MM`, the months of `published:` each type has appeared in,
   counting only dates stated to the month or day. R103's due rule reads it.
-- `fy_start_month` — from Corpus's own `budgets/{ISO3}/*.csv` `fy_start` where the country has
+- `fy_start_month` — from Corpus's own `budgets/budgets-{ISO3}.csv` `fy_start` where the country has
   rows (`fy_source: budgets`), else a companion's `fy_start:` (`companion`), else `01` where
   every `fiscal_years_covered` label is a bare year (`label`), else blank.
 - `state` — `live` (answered below 400), `refind` (404 or 410), `unreached` (anything else,
@@ -91,6 +91,7 @@ import collections
 import concurrent.futures as cf
 import csv
 import datetime as dt
+import functools
 import hashlib
 import importlib.util
 import os
@@ -239,14 +240,22 @@ def common_dir(urls: list[str]) -> str:
     return f"{parts[0].scheme}://{parts[0].netloc}{path}"
 
 
+@functools.lru_cache(maxsize=None)
+def country_rows(iso3: str) -> list[dict]:
+    """The rows of `budgets/budgets-{ISO3}.csv`, every fiscal year the country holds."""
+    f = BUDGETS / f"budgets-{iso3}.csv"
+    if not f.exists():
+        return []
+    with open(f, encoding="utf-8-sig", newline="") as fh:
+        return list(csv.DictReader(fh))
+
+
 def budgets_fy_month(iso3: str) -> str:
     months = collections.Counter()
-    for f in (BUDGETS / iso3).glob("[0-9][0-9][0-9][0-9].csv"):
-        with open(f, encoding="utf-8-sig", newline="") as fh:
-            for row in csv.DictReader(fh):
-                if row.get("state_level", "national") == "national" and re.match(
-                        r"\d{4}-\d{2}", row.get("fy_start") or ""):
-                    months[row["fy_start"][5:7]] += 1
+    for row in country_rows(iso3):
+        if row.get("state_level", "national") == "national" and re.match(
+                r"\d{4}-\d{2}", row.get("fy_start") or ""):
+            months[row["fy_start"][5:7]] += 1
     return months.most_common(1)[0][0] if months else ""
 
 
@@ -1132,14 +1141,14 @@ def followups(docs: list[dict] | None = None) -> int:
     for d in sorted(docs, key=lambda d: (d["iso3"], d["fy"] or 0, d["slug"])):
         if not (d["raw"] and d["batch"].startswith("budget-poll-")) or f"[[{d['slug']}]]" in text:
             continue
-        year_file = BUDGETS / d["iso3"] / f"{d['fy']}.csv"
-        if not year_file.exists():
+        year_rows = [r for r in country_rows(d["iso3"])
+                     if (r.get("fy_start") or "")[:4] == str(d["fy"])]
+        if not year_rows:
             continue
         held = set()
-        with open(year_file, encoding="utf-8-sig", newline="") as fh:
-            for row in csv.DictReader(fh):
-                held |= {s for s in ("proposed", "appropriated", "revised", "released", "actual",
-                                     "audited") if (row.get(s) or "").strip()}
+        for row in year_rows:
+            held |= {s for s in ("proposed", "appropriated", "revised", "released", "actual",
+                                 "audited") if (row.get(s) or "").strip()}
         wanted = stages.get(d["doc_type"], "")
         new = [s for s in wanted.split("|") if s and s not in held and s not in ("none", "as-stated")]
         adds = (f"adds {' or '.join(new)}" if new else

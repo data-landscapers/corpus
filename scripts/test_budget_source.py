@@ -15,7 +15,7 @@ that returns an empty list.
 and the failure mode is not an error: it is a programme published beside its own
 sub-programmes, summing to twice the money, in a file that parses perfectly. So the merge is
 tested on the thing that makes it hard — OSINT records whose fiscal year is written three
-different ways, all of which have to match the source file's bare start year.
+different ways, all of which have to match the source row's bare start year.
 """
 from __future__ import annotations
 
@@ -78,10 +78,9 @@ GOOD = {
 }
 
 
-def write(root: Path, iso3: str, fy: str, rows: list[dict], header=None) -> Path:
-    d = root / iso3
-    d.mkdir(parents=True, exist_ok=True)
-    p = d / f"{fy}.csv"
+def write(root: Path, iso3: str, rows: list[dict], header=None) -> Path:
+    root.mkdir(parents=True, exist_ok=True)
+    p = root / bs.COUNTRY.format(iso3)
     with open(p, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=list(header or bs.COLUMNS))
         w.writeheader()
@@ -110,18 +109,16 @@ try:
 
     print("\na row that says everything")
     r = tmp / "clean"
-    write(r, "GHA", "2024", [row()])
+    write(r, "GHA", [row()])
     check("passes", failures(r), [])
 
     print("\nthe shape of the file")
     cases = [
         ("a header missing a column", "header is not the schema",
-         lambda d: write(d, "GHA", "2024", [{k: v for k, v in row().items() if k != "notes"}],
+         lambda d: write(d, "GHA", [{k: v for k, v in row().items() if k != "notes"}],
                          header=[c for c in bs.COLUMNS if c != "notes"])),
-        ("a file named for something other than a year", "not a bare fiscal-year start year",
-         lambda d: write(d, "GHA", "2024-25", [row()])),
         ("a file with no rows", "no rows",
-         lambda d: write(d, "GHA", "2024", [])),
+         lambda d: write(d, "GHA", [])),
     ]
     for label, want, make in cases:
         d = tmp / label.replace(" ", "-")
@@ -131,9 +128,7 @@ try:
 
     print("\nthe row itself")
     bad = [
-        ("place disagreeing with the folder", "the folder is GHA", row(place="KEN")),
-        ("a year outside the file's own", "does not begin in 2024", row(
-            fy_start="2025-01-01", fy_end="2025-12-31")),
+        ("place disagreeing with the file", "the file is GHA's", row(place="KEN")),
         ("a deal_id for another country", "does not open with gha-", row(
             deal_id="ken-2024-011-01101")),
         ("an unknown state_level", "state_level", row(state_level="municipal")),
@@ -166,17 +161,17 @@ try:
     ]
     for label, want, r_ in bad:
         d = tmp / "bad" / label.replace(" ", "-")
-        write(d, "GHA", "2024", [r_])
+        write(d, "GHA", [r_])
         got = failures(d)
         check(label, any(want in f for f in got), True)
 
     print("\nthe two whole-file rules")
     d = tmp / "dupe"
-    write(d, "GHA", "2024", [row(), row(appropriated="90000")])
+    write(d, "GHA", [row(), row(appropriated="90000")])
     check("one deal_id twice", any("already row" in f for f in failures(d)), True)
 
     d = tmp / "parent-and-child"
-    write(d, "GHA", "2024", [
+    write(d, "GHA", [
         row(),
         row(deal_id="gha-2024-011-01101", sub_programme_code="", sub_programme="",
             line_name="Management and Administration", appropriated="2812541905"),
@@ -184,9 +179,20 @@ try:
     check("a parent held with its own children",
           any("would sum" in f for f in failures(d)), True)
 
+    print("\nevery year in one file")
+    y25 = dict(deal_id="gha-2025-011-01101-01101004", fiscal_year_label="2025",
+               fy_start="2025-01-01", fy_end="2025-12-31")
+    d = tmp / "two-years"
+    write(d, "GHA", [row(), row(**y25)])
+    check("two fiscal years sit in one country file", failures(d), [])
+    check("and each row keeps its own year", bs.years("GHA", str(d)), ["2024", "2025"])
+    write(d, "GHA", [row(), row(**y25, sub_programme_code="", sub_programme="",
+                               line_name="Management and Administration")])
+    check("a parent in one year and its children in another do not sum", failures(d), [])
+
     if have_catalogue:
         d = tmp / "bad-slug"
-        write(d, "GHA", "2024", [row(source_slug="2026-01-01-not-a-document")])
+        write(d, "GHA", [row(source_slug="2026-01-01-not-a-document")])
         check("a citation naming nothing held",
               any("no catalogue row" in f for f in failures(d)), True)
     else:
@@ -206,12 +212,12 @@ try:
          dict(programme_level="ministry")),
     ]:
         d = tmp / label.replace(" ", "-").replace("'", "")
-        write(d, "GHA", "2024", [row(**over)])
+        write(d, "GHA", [row(**over)])
         check(label, any(want in f for f in failures(d)), True)
 
     short = dict(origin_record="x-rec", programme="", programme_basis="", programme_level="")
     d = tmp / "ceiling"
-    write(d, "GHA", "2024", [row(**short), row(**short, deal_id="gha-2024-011-01102")])
+    write(d, "GHA", [row(**short), row(**short, deal_id="gha-2024-011-01102")])
     check("no ceiling file: migrated rows short of a programme pass", failures(d), [])
     (d / bs.GAPS_FILE).write_text("country,rows\n GHA,1\n".replace(" ", ""), encoding="utf-8-sig")
     check("above its ceiling fails", any("ceiling" in f for f in failures(d)), True)
@@ -232,18 +238,18 @@ try:
         thin[c] = ""
     thin["origin_record"] = "2024-01-01-gha-2024-011-01101-01101004"
     d = tmp / "migrated"
-    write(d, "GHA", "2024", [thin])
+    write(d, "GHA", [thin])
     check("carries what the record carried and passes", failures(d), [])
 
     d = tmp / "migrated-free-text"
-    write(d, "GHA", "2024", [row(origin_record="x-rec",
+    write(d, "GHA", [row(origin_record="x-rec",
                                  funding_source="domestic-revenue (recurrent); the "
                                                 "development column reads nil",
                                  budget_version="supplementary-iii")])
     check("a closed list it never closed is not a failure", failures(d), [])
 
     d = tmp / "migrated-still-identified"
-    write(d, "GHA", "2024", [row(origin_record="x-rec", currency="", line_name="",
+    write(d, "GHA", [row(origin_record="x-rec", currency="", line_name="",
                                  primary_subject="")])
     got = failures(d)
     for want in ("currency", "line_name is empty", "primary_subject is empty"):
@@ -253,11 +259,11 @@ try:
     unclear = row(origin_record="x-rec", baseline_stage="unclear", current_stage="unclear",
                   appropriated="")
     d = tmp / "unclear-migrated"
-    write(d, "GHA", "2024", [unclear])
+    write(d, "GHA", [unclear])
     check("a migrated row may be unclear with no figure", failures(d), [])
 
     d = tmp / "unclear-extracted"
-    write(d, "GHA", "2024", [row(baseline_stage="unclear", current_stage="unclear",
+    write(d, "GHA", [row(baseline_stage="unclear", current_stage="unclear",
                                  appropriated="")])
     got = failures(d)
     check("a row a sitting wrote may not be",
@@ -269,7 +275,7 @@ try:
     check("one record per row", len(recs), 1)
     check("the merge key is the bare start year", recs[0]["source_fy"], "2024")
     check("the record column names the file and the line", recs[0]["record_ref"],
-          "budgets/GHA/2024.csv#gha-2024-011-01101-01101004")
+          "budgets/budgets-GHA.csv#gha-2024-011-01101-01101004")
     check("the stage total is renamed the way the driver names it",
           bfp.fm_get(recs[0]["fm"], "appropriated_total"), "80000")
     check("the subject survives into topics", bfp.primary_subject(recs[0]), "data.statistics")
@@ -305,11 +311,11 @@ try:
           ["d", "gha-2024-011-01101-01101004"])
     check("and the swap is reported", swaps, [("2024", 3, 1)])
     check("which prints", bfp.swap_note("GHA", swaps),
-          "  [source folder: FY2024 3->1 from budgets/GHA/2024.csv]")
+          "  [budgets/budgets-GHA.csv: FY2024 3->1]")
 
     bs.BUDGETS = str(tmp / "empty")
     merged, swaps = bfp.merge_source("GHA", dom)
-    check("no source folder, no change", len(merged), 4)
+    check("no source file, no change", len(merged), 4)
     check("and nothing to report", swaps, [])
 
     print("\nthe export row")
@@ -323,70 +329,33 @@ try:
     check("the citation travels", got[0]["source_slug"],
           "2024-01-01-gha-pbb-2024-mlgrd-companion")
     check("the locator travels", got[0]["doc_locator"].startswith("2024 PBB, table 1.5"), True)
-    check("and record points at the source folder", got[0]["record"],
-          "budgets/GHA/2024.csv#gha-2024-011-01101-01101004")
-
-    print("\nthe external companion and the share")
-
-    def ext(root: Path, iso3: str, rows: list[dict]):
-        with open(root / iso3 / bs.EXTERNAL, "w", encoding="utf-8-sig", newline="") as fh:
-            w = csv.DictWriter(fh, fieldnames=list(bs.EXTERNAL_COLUMNS))
-            w.writeheader()
-            for r in rows:
-                w.writerow({c: r.get(c, "") for c in bs.EXTERNAL_COLUMNS})
-
-    line = dict(fy="2024", fiscal_year_label="2024", basis="line", line_name="Donor line",
-                code="1", primary_subject="infra.connect", scope_confidence="whole",
-                funding_source="external-grant", currency="GHS", amount_scale="units",
-                appropriated="20000", doc_locator="p. 6", source_slug="some-slug")
-    r = tmp / "ext"
-    write(r, "GHA", "2024", [row()])
-    check("no external file: no share, and it says why",
-          bs.share("GHA", "2024", str(r))["share"], None)
-    ext(r, "GHA", [line])
-    check("external.csv is not read as a fiscal year",
-          [fy for _, fy, _ in bs.files("GHA", str(r))], ["2024"])
-    check("a clean external file passes", bs.check_external("GHA", str(r))[0], [])
-    got = bs.share("GHA", "2024", str(r))
-    check("share is domestic over domestic plus external", got["share"], 80.0)
-    check("taken at the stage both sides carry", got["stage"], "appropriated")
-    check("the partial domestic line is flagged", got["flags"], ["includes partial lines"])
-    ext(r, "GHA", [dict(line, appropriated="", revised="20000")])
-    check("no common stage: no share", bs.share("GHA", "2024", str(r))["share"], None)
-    ext(r, "GHA", [dict(line, basis="not-printed", appropriated="", line_name="")])
-    got = bs.share("GHA", "2024", str(r))
-    check("a document with no financing split is all domestic, flagged origin inferred",
-          (got["share"], got["flags"][0]), (100.0, "origin inferred"))
-    ext(r, "GHA", [dict(line, fy="2023")])
-    check("a denominator for a year with no read file fails",
-          any("has no budgets/GHA/2023.csv" in f for f in bs.check_external("GHA", str(r))[0]),
-          True)
-    ext(r, "GHA", [dict(line, appropriated="")])
-    check("a line row with no figure fails",
-          any("carries a figure" in f for f in bs.check_external("GHA", str(r))[0]), True)
+    check("and record points at the source file", got[0]["record"],
+          "budgets/budgets-GHA.csv#gha-2024-011-01101-01101004")
 
     print("\nversions")
     v = tmp / "versions"
-    write(v, "GHA", "2024", [row(), row(deal_id="gha-2024-revised-copy", budget_version="revised")])
+    write(v, "GHA", [row(), row(deal_id="gha-2024-revised-copy", budget_version="revised")])
     check("a line held again under another version fails",
           len(bs.version_overlaps("GHA", str(v))), 1)
-    write(v, "GHA", "2024", [row(), row(deal_id="gha-2024-statutory", budget_version="revised",
+    write(v, "GHA", [row(), row(deal_id="gha-2024-statutory", budget_version="revised",
                                         funding_source="own-source")])
     check("the same line from another funding source is not an overlap",
           bs.version_overlaps("GHA", str(v)), [])
-    write(v, "GHA", "2024", [row(budget_version="original", revised="5")])
+    write(v, "GHA", [row(budget_version="original", revised="5")])
     check("an original row with a revised figure fails",
           len(bs.version_overlaps("GHA", str(v))), 1)
     check("the clean tree has no overlaps", bs.version_overlaps(budgets=str(tmp / "clean")), [])
 
-    print("\nmerged file")
-    check("an unmerged tree fails", bs.main(["--budgets", str(tmp / "clean")]), 1)
-    bs.merge(budgets=str(tmp / "clean"))
-    check("the merged file is not read as a year",
-          [fy for _, fy, _ in bs.files(budgets=str(tmp / "clean"))
-           if not fy.isdigit()], [])
+    print("\nthe derived parts")
+    c = tmp / "clean"
+    check("a tree not yet updated fails", bs.main(["--budgets", str(c)]), 1)
+    bs.update(budgets=str(c))
+    with open(c / bs.COUNTRY.format("GHA"), encoding="utf-8-sig", newline="") as fh:
+        usd = next(csv.DictReader(fh))["budget_usd"]
+    check("update fills budget_usd", usd.isdigit(), True)
     check("the all-countries file is written",
-          (tmp / "clean" / bs.MERGED_ALL).read_bytes() == bs.merged_all(str(tmp / "clean")), True)
+          (c / bs.MERGED_ALL).read_bytes() == bs.merged_all(str(c)), True)
+    check("and is not read as a country", [i for i, _ in bs.files(budgets=str(c))], ["GHA"])
 
     print("\nexit codes")
     check("a clean tree exits 0", bs.main(["--budgets", str(tmp / "clean")]), 0)

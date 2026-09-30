@@ -94,7 +94,7 @@ Every record carries `scope_confidence` (`whole` | `partial` | `unclear`) and `s
 
 Every record carries `doc_type` from the closed list and `doc_locator` as printed, and links to the one companion page holding the document's citation, scope, classification structure and scale headers.
 
-**Corpus's carrier is a CSV row, not a wiki record** (`budgets/{ISO3}/{FY}.csv`, tracked, citing the source slug per row). The field vocabulary is deliberately the same on both sides.
+**Corpus's carrier is a CSV row, not a wiki record** (`budgets/budgets-{ISO3}.csv`, one file per country, tracked, citing the source slug per row). The field vocabulary is deliberately the same on both sides.
 
 ## Reading the document
 
@@ -132,4 +132,4 @@ An envelope: a ministry total, a thematic total that spans ministries, or a body
 
 The **instrument-level method** — how to get a figure off a particular kind of page — is OSINT's `documentation/budget-extraction-strategies.md`, the archetype library A–T. The **per-country reconnaissance and its incident history** are OSINT's `documentation/domestic-budget-extraction.md`. The **record's field definitions** are OSINT's `wiki/finance-load-domestic-state.md` and `wiki/finance-record-spec.md`.
 
-Corpus's own runbook is `BUDGET-EXTRACT.md`. **The row shape this spec describes is stated as data in `scripts/budget_source.py`** — the 46 columns of `budgets/{ISO3}/{FY}.csv`, the closed vocabularies, and the checks a file has to pass before the finance compile will build from it.
+Corpus's own runbook is `BUDGET-EXTRACT.md`. **The row shape this spec describes is stated as data in `scripts/budget_source.py`** — the columns of `budgets/budgets-{ISO3}.csv`, the closed vocabularies, and the checks a file has to pass before the finance compile will build from it.

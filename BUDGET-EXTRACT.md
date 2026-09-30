@@ -9,7 +9,7 @@ opened: 2026-09-20
 
 *(Commissioned by Bill on 2026-09-20, strategic review 4 R54. Written so a sitting survives a cleared context: the spec is `documentation/budget-extract.md`, the archetype table is `lookups/budget-archetypes.csv` with its method note `documentation/budget-archetypes.md`, the schema and its checker are `scripts/budget_source.py`, and the log is `logs/budget-extract.csv`. Nothing below needs the session that opened it.)*
 
-**The one-line brief for a fresh session.** *Take one country-year, read the digital lines out of that state's own budget document, write them to `budgets/{ISO3}/{FY}.csv` with a citation on every row, and publish — the build merges the file into the Finance page and a country-year in the folder replaces whatever OSINT's records said about that year.*
+**The one-line brief for a fresh session.** *Take one country-year, read the digital lines out of that state's own budget document, add them to `budgets/budgets-{ISO3}.csv` with a citation on every row, and publish — the build merges the file into the Finance page and a country-year in the file replaces whatever OSINT's records said about that year.*
 
 ## Why this is Corpus's job now
 
@@ -34,11 +34,11 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 
 **4. Run the origin gate on every line** before building it. An externally financed line is a non-state deal and builds no row here; a line naming no funder beyond *external*, *Dons* or *Externo* builds nothing anywhere and its magnitude is a dated finding in the log. Own-source levy and fee income is domestic-state, and is often legislated in the finance law's articles rather than appropriated in a vote — read the articles and the special accounts.
 
-**4a. Record every externally financed digital line in `budgets/{ISO3}/external.csv`** *(2026-09-23)*. It is the denominator of the maturity assessment's financial sustainability measure — domestic ÷ (domestic + external) — and a log note cannot be summed. One row per line per fiscal year, header as `budget_source.EXTERNAL_COLUMNS`, the same citation and scope discipline as a domestic row, amounts normalised to units at the stage printed. A document that prints no financing split gets one `not-printed` row for the year instead, so the share reads *origin inferred* rather than a silent hundred per cent. A year with no row here has no share.
+**4a. Externally financed lines get no file of their own.** `external.csv`, which held them as the denominator of the financial sustainability measure, was retired as stale on 2026-09-30 (Bill). Their magnitude goes in the log note, as in step 4.
 
-**5. Write the rows.** `budgets/{ISO3}/{FY}.csv`, UTF-8 with BOM, the header exactly as `python scripts/budget_source.py --columns` prints it, and `origin_record` empty on every row — that column is what says a row was migrated rather than read, and a sitting that leaves it in place has not replaced anything. `{FY}` is the **bare start year** of the fiscal year, whatever the state calls it; `fiscal_year_label` carries the state's own form verbatim. One row per budget line per fiscal year, at the **finest grain the document prints for that line** — and never a programme alongside its own sub-programmes, which would sum.
+**5. Write the rows.** Add them to the country's one file, `budgets/budgets-{ISO3}.csv` *(Bill, 2026-09-30)*: every fiscal year sits in it, and a new year is new rows, never a new file. A first country starts the file with the header exactly as `python scripts/budget_source.py --columns` prints it, UTF-8 with BOM. `origin_record` is empty on every row — that column is what says a row was migrated rather than read, and a sitting that leaves it in place has not replaced anything. Leave `budget_usd` blank; it is derived. A row's fiscal year is its `fy_start`, and `fiscal_year_label` carries the state's own form verbatim. Replacing a year means deleting its old rows from the file, not keeping them beside the new ones. One row per budget line per fiscal year, at the **finest grain the document prints for that line** — and never a programme alongside its own sub-programmes, which would sum.
 
-**Every row names its admin head and its programme** *(Bill, 2026-09-22)*. `admin_head_basis` and `programme_basis` say `printed` for the document's own name; `programme_level` says what grain `programme` holds, and a budget with no programmes gives the next level it prints — `project`, `activity`, `action`, `chapter`, `line` — or `vote`/`body` for a whole appropriation. `derived` is for the one-time backfill of migrated rows (`scripts/budget-structure-backfill.py`), not for a sitting.
+**Every row names its admin head and its programme** *(Bill, 2026-09-22)*. `admin_head_basis` and `programme_basis` say `printed` for the document's own name; `programme_level` says what grain `programme` holds, and a budget with no programmes gives the next level it prints — `project`, `activity`, `action`, `chapter`, `line` — or `vote`/`body` for a whole appropriation. `derived` was for the one-time backfill of migrated rows (2026-09-22), not for a sitting.
 
 **6. Cite every row.** `source_slug` is the held document's catalogue slug; `doc_locator` is where in it the figure is printed, as printed — volume, table, entity, line, column. Both are the row's whole provenance, and `doc_locator` is what publishes.
 
@@ -49,13 +49,13 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 ## Checks, then publish
 
 ```
+python scripts/budget_source.py --update         # budget_usd and budgets-all-countries.csv, after any change
 python scripts/budget_source.py {ISO3}          # the schema, from the repo root
-python scripts/budget_source.py {ISO3} --share  # the domestic share; read it
 cd scripts/.workroot
 python scripts/build-finance-page.py {ISO3}     # merges; prints the swap it made
 ```
 
-The build's line says what happened: `[source folder: FY2024 12->15 from budgets/GHA/2024.csv]` — twelve OSINT records for that year dropped, fifteen Corpus rows in their place. **Read that number.** A year the source folder covers publishes entirely from the source folder, so a count that fell means lines were lost, not that the file is smaller.
+The build's line says what happened: `[budgets/budgets-GHA.csv: FY2024 12->15]` — twelve OSINT records for that year dropped, fifteen Corpus rows in their place. **Read that number.** A year the source file covers publishes entirely from the source file, so a count that fell means lines were lost, not that the file is smaller.
 
 Then, from the repo root:
 

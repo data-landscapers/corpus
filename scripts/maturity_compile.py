@@ -8,7 +8,9 @@ decides more than the band does. **A compiled figure outranks a reference**, sin
 own primary (`maturity-assessment-norms.md` §7), and a drafter's verdict outranks both.
 
 The four measures computed here:
-- `finance.sustain`: the domestic-state share of the digital budget lines, `budget_source.share()`.
+- `finance.sustain`: the domestic-state share of the digital budget lines. **No compiled figure
+  since 2026-09-30**: its denominator, `budgets/{ISO3}/external.csv`, was retired as stale
+  (Bill), so it stands only on a drafter's verdict until a denominator is held again.
 - `finance.new--mobilisation-of-non-state-finance`: private non-state digital commitments over
   three years, as a share of GDP.
 - the two data-centre rows, from `outputs/datasets/data-centres/data-centres.csv`: the count of
@@ -33,7 +35,6 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
-import budget_source  # noqa: E402
 
 CORPUS = HERE.parent
 NONSTATE = CORPUS / "outputs" / "non-state-finance"
@@ -84,21 +85,7 @@ def gdp(unit: str, as_at: dt.date) -> tuple[float, int] | None:
 
 
 def sustain(unit: str, as_at: dt.date, live_from: dt.date) -> dict | None:
-    """The latest read fiscal year up to the as-at's year whose share can be taken."""
-    for iso3, fy, path in sorted(budget_source.files(unit), key=lambda t: -int(t[1])):
-        if int(fy) > as_at.year:
-            continue
-        s = budget_source.share(unit, fy)
-        if s.get("share") is None:
-            continue
-        slugs = [r.get("source_slug", "") for r in budget_source.read(path)[1]]
-        dates = [d for d in map(_date, slugs) if d and _seen(d, as_at, live_from)]
-        if not dates:
-            continue
-        flags = f"; {', '.join(s['flags'])}" if s.get("flags") else ""
-        return {"value": f"{s['share']:g}", "unit": "per cent", "value_year": fy,
-                "value_source": f"budgets/{unit}/{fy}.csv@{max(dates)}",
-                "qualifier": f"on the state's own FY{fy} budget document, {s['stage']} figures{flags}"}
+    """No compiled figure: the external denominator was retired on 2026-09-30 (see the head)."""
     return None
 
 

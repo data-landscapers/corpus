@@ -3,26 +3,31 @@ r"""budget_source.py — Corpus's own budget extractions: the schema, the loader
 
     python scripts/budget_source.py            # check every file under budgets/
     python scripts/budget_source.py GHA        # check one country
-    python scripts/budget_source.py --columns  # print the header a new file needs
-    python scripts/budget_source.py --share    # the domestic-state share, per read country-year
-    python scripts/budget_source.py --merge    # rewrite budgets-{ISO3}.csv and budgets-all-countries.csv
+    python scripts/budget_source.py --columns  # print the header a country file carries
+    python scripts/budget_source.py --update   # refresh budget_usd and budgets-all-countries.csv
 
-**`budgets/{ISO3}/{FY}.csv` is a source folder, not an output** *(strategic review 4 R54)*.
+**`budgets/budgets-{ISO3}.csv` is a source file, not an output** *(strategic review 4 R54)*.
 Everything else Corpus publishes is derived from OSINT's `raw/`: a compile reads records and
 writes `outputs/`, and a hand-edit anywhere in that chain is overwritten by the next build.
 These files are the one exception. A sitting reads a budget document OSINT holds, extracts
-the digital lines against `documentation/budget-extract.md`, and writes them here; nothing
-regenerates them, so they are tracked and they are the record. `BUDGET-EXTRACT.md` is the
-runbook that produces one.
+the digital lines against `documentation/budget-extract.md`, and adds them to the country's
+file; nothing regenerates them, so they are tracked and they are the record.
+`BUDGET-EXTRACT.md` is the runbook that produces them.
+
+**One file per country, every fiscal year in it** *(Bill, 2026-09-30)*. It replaced a folder
+per country holding a file per year: a new year's rows are added to the one file, and the
+year a row belongs to is its own `fy_start`. Two things in the folder are derived, and
+`--update` writes both after any change: the `budget_usd` column of each country file, and
+`budgets-all-countries.csv`, every country file in one. The check fails either when behind.
 
 **A row is a record, so it carries what a record carries.** The field vocabulary is
 `finance-load-domestic-state.md`'s, deliberately — a Corpus row and an OSINT record say the
 same thing in the same words, which is what lets `build-finance-page.py` merge the two into
-one export without a mapping table between them. The 47 columns are the whole shape: the
+one export without a mapping table between them. The 51 columns are the whole shape: the
 line, the year, the classification chain and its codes, the scope judgement and its basis,
 the origin gate and its funding source, six stage figures, the currency and its scale, and
 the citation — `source_slug` naming the held document and `doc_locator` the page and table
-the figure is printed on.
+the figure is printed on — plus the derived `budget_usd`.
 
 **Two kinds of row, and `origin_record` is which** *(R56a)*. A row a **BUDGET-EXTRACT sitting
 read** carries the full schema and `origin_record` is empty. A row **migrated** from an OSINT
@@ -82,6 +87,8 @@ COLUMNS = (
     "admin_head_basis", "programme_basis", "programme_level",
     # what the line is
     "line_name", "purpose", "primary_subject",
+    # derived, never typed: the latest stage figure in US dollars, which `--update` writes
+    "budget_usd",
     # is it digital
     "scope_confidence", "scope_basis",
     # whose money it is
@@ -175,141 +182,45 @@ class SourceError(Exception):
     publishing it."""
 
 
-# ---------------------------------------------------------------- the external companion
-# **`budgets/{ISO3}/external.csv` is the denominator of the financial sustainability measure**
-# (`documentation/archived/indicator-financial-sustainability.md` §5). The origin gate sends an externally
-# financed digital line to the non-state side, so no `{FY}.csv` row holds it, and its size used to
-# live only in the sitting's log note. Here it is a row with the same citation discipline as a
-# domestic one: one per external line per fiscal year, at the grain the document prints it.
-# `basis` says what kind of row it is: `line` is a printed external line; `not-printed` is one row
-# for a year whose document prints no financing split at all, so the share is *origin inferred*
-# rather than a hundred per cent.
-EXTERNAL = "external.csv"
-EXTERNAL_COLUMNS = ("fy", "fiscal_year_label", "basis", "line_name", "code", "primary_subject",
-                    "scope_confidence", "funding_source", "currency", "amount_scale",
-                    "proposed", "appropriated", "revised", "doc_locator", "source_slug", "extracted", "notes")
-EXTERNAL_BASIS = {"line", "not-printed"}
-# `budgets-{ISO3}.csv` is every year file of the country in one, for readers who want the
-# country and not the year. It is derived: `merge` writes it from the year files, the finance
-# build calls `merge`, and `check` fails a copy that no longer matches its years. The year
-# files stay the record, and a hand-edit to the merged file is overwritten.
-MERGED = "budgets-{}.csv"
-# And every country's merged file in one, at the folder root, derived the same way.
+# ---------------------------------------------------------------- the files
+# `budgets/budgets-{ISO3}.csv` holds a country, every fiscal year in it; `budgets-all-countries.csv`
+# is every country file in one, derived. The external companion that sat beside each year
+# (`external.csv`, the denominator of the financial sustainability measure) was retired as
+# stale on 2026-09-30 (Bill), and the share it fed with it.
+COUNTRY = "budgets-{}.csv"
+COUNTRY_FILE = re.compile(r"^budgets-([A-Z]{3})\.csv$")
 MERGED_ALL = "budgets-all-countries.csv"
-# The merged files carry `budget_usd`, converted with OSINT's FX table as the finance build is.
+# `budget_usd` is converted with OSINT's FX table, as the finance build converts a domestic line.
 FX_TABLE = "fx-imf-annual.csv"
-EXTERNAL_FUNDING = {"external-grant", "external-loan", "external"}
-# The stages a share may be taken at, in preference order. Both sides must carry the stage on
-# every row counted, or the share would divide an appropriation by a revision. `proposed` is last:
-# a year held only as a bill still has a share, and the stage it was taken at says so.
-SHARE_STAGES = ("appropriated", "revised", "proposed")
-# The digital lines as the extract defines them. `unclear` is neither side's.
-SHARE_SCOPE = ("whole", "partial")
 
 
 # ---------------------------------------------------------------- reading
-def files(iso3: str = "", budgets: str = "") -> list[tuple[str, str, str]]:
-    """`(ISO3, FY, path)` for every source file, sorted. `FY` is the bare start year."""
+def files(iso3: str = "", budgets: str = "") -> list[tuple[str, str]]:
+    """`(ISO3, path)` for every country file, sorted."""
     base = budgets or BUDGETS
-    out = []
     if not os.path.isdir(base):
-        return out
-    for country in sorted(os.listdir(base)):
-        if iso3 and country != iso3:
-            continue
-        d = os.path.join(base, country)
-        if not os.path.isdir(d):
-            continue
-        for fn in sorted(os.listdir(d)):
-            # Every other CSV is taken, so that `check` can refuse a misnamed year.
-            if fn.endswith(".csv") and fn not in (EXTERNAL, MERGED.format(country)):
-                out.append((country, fn[:-4], os.path.join(d, fn)))
+        return []
+    out = []
+    for fn in sorted(os.listdir(base)):
+        m = COUNTRY_FILE.match(fn)
+        if m and (not iso3 or m.group(1) == iso3):
+            out.append((m.group(1), os.path.join(base, fn)))
     return out
 
 
-def external(iso3: str, budgets: str = "") -> list[dict]:
-    """The rows of `budgets/{ISO3}/external.csv`, or none where the file does not exist."""
-    path = os.path.join(budgets or BUDGETS, iso3, EXTERNAL)
-    return read(path)[1] if os.path.exists(path) else []
+def fy_of(row: dict) -> str:
+    """The bare start year of the row's fiscal year, which is the year it belongs to."""
+    return (row.get("fy_start") or "").strip()[:4]
 
 
-def check_external(iso3: str = "", budgets: str = "") -> tuple[list[str], int]:
-    """Failures in every `external.csv`, and the rows read. A `line` row carries a figure and a
-    citation; a `not-printed` row carries a citation and no figure; either names a fiscal year
-    the country has a read file for, since a denominator with no numerator is nobody's."""
-    base = budgets or BUDGETS
-    fails, n = [], 0
-    for country in sorted(os.listdir(base)) if os.path.isdir(base) else []:
-        if iso3 and country != iso3:
-            continue
-        path = os.path.join(base, country, EXTERNAL)
-        if not os.path.exists(path):
-            continue
-        header, rows = read(path)
-        where = f"{country}/{EXTERNAL}"
-        if tuple(header) != EXTERNAL_COLUMNS:
-            fails.append(f"{where}: header is not {','.join(EXTERNAL_COLUMNS)}")
-            continue
-        years = {fy for _, fy, _ in files(country, budgets)}
-        for i, r in enumerate(rows, start=2):
-            n += 1
-            at = f"{where} line {i}"
-            if r["fy"] not in years:
-                fails.append(f"{at}: FY{r['fy']} has no budgets/{country}/{r['fy']}.csv")
-            if r["basis"] not in EXTERNAL_BASIS:
-                fails.append(f"{at}: basis {r['basis']!r}")
-            if not r["source_slug"] or not r["doc_locator"]:
-                fails.append(f"{at}: every row cites its document")
-            if not r["currency"]:
-                fails.append(f"{at}: no currency")
-            amounts = [r[s] for s in SHARE_STAGES if r[s]]
-            for a in amounts:
-                if not MONEY.match(a):
-                    fails.append(f"{at}: amount {a!r} is not normalised units")
-            if r["basis"] == "line":
-                if not amounts:
-                    fails.append(f"{at}: a line row carries a figure at some stage")
-                if r["funding_source"] not in EXTERNAL_FUNDING:
-                    fails.append(f"{at}: funding_source {r['funding_source']!r}")
-                if r["scope_confidence"] not in SCOPE:
-                    fails.append(f"{at}: scope_confidence {r['scope_confidence']!r}")
-            elif r["basis"] == "not-printed" and amounts:
-                fails.append(f"{at}: a not-printed row carries no figure")
-    return fails, n
+def rows(iso3: str = "", budgets: str = "") -> list[tuple[str, str, dict]]:
+    """`(ISO3, FY, row)` for every row, country by country in file order."""
+    return [(c, fy_of(r), r) for c, path in files(iso3, budgets) for r in read(path)[1]]
 
 
-def share(iso3: str, fy: str, budgets: str = "") -> dict:
-    """The domestic-state share of the digital lines for one read country-year.
-
-    `{share, stage, domestic, external, currency, flags}`, or `{share: None, why}` where it
-    cannot be taken. The figure of record for the financial sustainability indicator: domestic
-    ÷ (domestic + external) over whole and partial lines, at the first of `SHARE_STAGES` that
-    every counted row on both sides carries."""
-    path = os.path.join(budgets or BUDGETS, iso3, f"{fy}.csv")
-    if not os.path.exists(path):
-        return {"share": None, "why": f"no budgets/{iso3}/{fy}.csv"}
-    dom = [r for r in read(path)[1] if r.get("scope_confidence") in SHARE_SCOPE
-           and r.get("finance_origin") == "domestic-state"]
-    if any(r.get("origin_record") for r in dom):
-        return {"share": None, "why": "the year holds migrated rows and has not been read"}
-    ext_all = [r for r in external(iso3, budgets) if r["fy"] == fy]
-    if not ext_all:
-        return {"share": None, "why": f"no external.csv row for FY{fy} — the sitting did not "
-                                      f"record the denominator"}
-    ext = [r for r in ext_all if r["basis"] == "line" and r["scope_confidence"] in SHARE_SCOPE]
-    flags = []
-    if any(r["basis"] == "not-printed" for r in ext_all):
-        flags.append("origin inferred")
-    if any(r["scope_confidence"] == "partial" for r in dom + ext):
-        flags.append("includes partial lines")
-    for stage in SHARE_STAGES:
-        if all(r.get(stage) for r in dom) and all(r[stage] for r in ext) and dom:
-            d = sum(float(r[stage]) for r in dom)
-            e = sum(float(r[stage]) for r in ext)
-            return {"share": round(100 * d / (d + e), 1) if d + e else None, "stage": stage,
-                    "domestic": d, "external": e, "currency": dom[0].get("currency", ""),
-                    "flags": flags}
-    return {"share": None, "why": "no stage is carried by every counted row on both sides"}
+def years(iso3: str, budgets: str = "") -> list[str]:
+    """The fiscal years a country's file holds, oldest first."""
+    return sorted({fy for _, fy, _ in rows(iso3, budgets) if fy})
 
 
 _FX: dict | None = None
@@ -336,25 +247,68 @@ def budget_usd(row: dict) -> str:
     import finance_lib
     for stage in reversed(STAGES):
         v = (row.get(stage) or "").strip()
-        if v:
-            rate = finance_lib.fx_rate(_fx(), (row.get("currency") or "").strip(),
-                                       (row.get("fy_start") or "")[:4])
+        if v and MONEY.match(v):
+            rate = finance_lib.fx_rate(_fx(), (row.get("currency") or "").strip(), fy_of(row))
             return "" if not rate else f"{float(v) / rate:.0f}"
     return ""
 
 
-def merged(iso3: str, budgets: str = "") -> bytes:
-    """The year files of one country as one CSV: the header once, then each year's rows in
-    year order, with `budget_usd` computed and inserted after `primary_subject`."""
-    header = list(COLUMNS)
-    header.insert(header.index("primary_subject") + 1, "budget_usd")
+def _csv(header: list[str], rs: list[dict]) -> bytes:
     buf = io.StringIO(newline="")
-    w = csv.DictWriter(buf, fieldnames=header, lineterminator="\n")
+    w = csv.DictWriter(buf, fieldnames=header, lineterminator="\n", extrasaction="ignore")
     w.writeheader()
-    for _, _, path in files(iso3, budgets):
-        for r in read(path)[1]:
-            w.writerow({**r, "budget_usd": budget_usd(r)})
+    w.writerows(rs)
     return ("﻿" + buf.getvalue()).encode("utf-8")
+
+
+def updated(iso3: str, budgets: str = "") -> bytes:
+    """A country file as it should stand: its rows in file order, `budget_usd` recomputed."""
+    path = os.path.join(budgets or BUDGETS, COUNTRY.format(iso3))
+    return _csv(list(COLUMNS), [{**r, "budget_usd": budget_usd(r)} for r in read(path)[1]])
+
+
+def merged_all(budgets: str = "") -> bytes:
+    """Every country file as one CSV, the header once, countries in ISO3 order."""
+    out = [{**r, "budget_usd": budget_usd(r)} for _, _, r in rows(budgets=budgets)]
+    return _csv(list(COLUMNS), out)
+
+
+def _differs(path: str, body: bytes) -> bool:
+    """Missing, or not `body`. Line endings are no difference: a checkout under `core.autocrlf`
+    would otherwise read as stale."""
+    if not os.path.exists(path):
+        return True
+    with open(path, "rb") as fh:
+        return fh.read().replace(b"\r\n", b"\n") != body
+
+
+def stale(iso3: str, budgets: str = "") -> bool:
+    """Whether a country file's `budget_usd` is behind its figures or the FX table."""
+    return _differs(os.path.join(budgets or BUDGETS, COUNTRY.format(iso3)), updated(iso3, budgets))
+
+
+def stale_all(budgets: str = "") -> bool:
+    """Whether `budgets-all-countries.csv` is missing or no longer the country files."""
+    return _differs(os.path.join(budgets or BUDGETS, MERGED_ALL), merged_all(budgets))
+
+
+def update(iso3: str = "", budgets: str = "") -> list[str]:
+    """After any change: rewrite each country file whose `budget_usd` is stale, then
+    `budgets-all-countries.csv` if it is. Returns the paths written."""
+    written = []
+    for country, path in files(iso3, budgets):
+        body = updated(country, budgets)
+        if _differs(path, body):
+            with open(path, "wb") as fh:
+                fh.write(body)
+            written.append(path)
+    path = os.path.join(budgets or BUDGETS, MERGED_ALL)
+    body = merged_all(budgets)
+    if _differs(path, body):
+        with open(path, "wb") as fh:
+            fh.write(body)
+        written.append(path)
+    return written
 
 
 def version_overlaps(iso3: str = "", budgets: str = "") -> list[str]:
@@ -364,70 +318,23 @@ def version_overlaps(iso3: str = "", budgets: str = "") -> list[str]:
     the voted one is money of its own."""
     seen: dict[tuple, tuple[str, str]] = {}
     fails = []
-    for country, fy, path in files(iso3, budgets):
-        for r in read(path)[1]:
-            k = (country, fy, r.get("state_level"), r.get("spending_tier_name"),
-                 r.get("admin_head_code"), r.get("admin_head"), r.get("programme_code"),
-                 r.get("programme"), r.get("sub_programme_code"), r.get("sub_programme"),
-                 r.get("econ_class"), r.get("line_name"), r.get("funding_source"))
-            v = r.get("budget_version", "")
-            if v == "original" and r.get("revised"):
-                fails.append(f"{country}/{fy}.csv: {r.get('deal_id')!r} carries a revised figure "
-                             f"under budget_version 'original'. It is `revised`, or "
-                             f"`supplementary-N` where a supplementary law restated it.")
-            if k in seen and seen[k][1] != v:
-                fails.append(f"{country}/{fy}.csv: {r.get('deal_id')!r} ({v}) is the line "
-                             f"{seen[k][0]!r} ({seen[k][1]}) again. A revision goes on the "
-                             f"original's row, not beside it.")
-            seen.setdefault(k, (r.get("deal_id", ""), v))
+    for country, fy, r in rows(iso3, budgets):
+        at = COUNTRY.format(country)
+        k = (country, fy, r.get("state_level"), r.get("spending_tier_name"),
+             r.get("admin_head_code"), r.get("admin_head"), r.get("programme_code"),
+             r.get("programme"), r.get("sub_programme_code"), r.get("sub_programme"),
+             r.get("econ_class"), r.get("line_name"), r.get("funding_source"))
+        v = r.get("budget_version", "")
+        if v == "original" and r.get("revised"):
+            fails.append(f"{at}: {r.get('deal_id')!r} carries a revised figure under "
+                         f"budget_version 'original'. It is `revised`, or `supplementary-N` "
+                         f"where a supplementary law restated it.")
+        if k in seen and seen[k][1] != v:
+            fails.append(f"{at}: {r.get('deal_id')!r} ({v}) is the line {seen[k][0]!r} "
+                         f"({seen[k][1]}) again in FY{fy}. A revision goes on the original's "
+                         f"row, not beside it.")
+        seen.setdefault(k, (r.get("deal_id", ""), v))
     return fails
-
-
-def stale(iso3: str, budgets: str = "") -> bool:
-    """Whether `budgets-{ISO3}.csv` is missing or no longer its year files. Line endings are
-    not a difference: a checkout under `core.autocrlf` would otherwise read as stale."""
-    path = os.path.join(budgets or BUDGETS, iso3, MERGED.format(iso3))
-    if not os.path.exists(path):
-        return True
-    with open(path, "rb") as fh:
-        return fh.read().replace(b"\r\n", b"\n") != merged(iso3, budgets)
-
-
-def merged_all(budgets: str = "") -> bytes:
-    """Every country's merged file as one CSV, the header once, countries in ISO3 order."""
-    out = b""
-    for country in sorted({c for c, _, _ in files(budgets=budgets)}):
-        head, _, rows = merged(country, budgets).partition(b"\n")
-        out = out or head + b"\n"
-        out += rows
-    return out
-
-
-def stale_all(budgets: str = "") -> bool:
-    """Whether `budgets-all-countries.csv` is missing or no longer the country files."""
-    path = os.path.join(budgets or BUDGETS, MERGED_ALL)
-    if not os.path.exists(path):
-        return True
-    with open(path, "rb") as fh:
-        return fh.read().replace(b"\r\n", b"\n") != merged_all(budgets)
-
-
-def merge(iso3: str = "", budgets: str = "") -> list[str]:
-    """Write `budgets-{ISO3}.csv` wherever it is stale, then `budgets-all-countries.csv`.
-    Returns the paths written."""
-    written = []
-    for country in sorted({c for c, _, _ in files(iso3, budgets)}):
-        if stale(country, budgets):
-            path = os.path.join(budgets or BUDGETS, country, MERGED.format(country))
-            with open(path, "wb") as fh:
-                fh.write(merged(country, budgets))
-            written.append(path)
-    if stale_all(budgets):
-        path = os.path.join(budgets or BUDGETS, MERGED_ALL)
-        with open(path, "wb") as fh:
-            fh.write(merged_all(budgets))
-        written.append(path)
-    return written
 
 
 def read(path: str) -> tuple[list[str], list[dict]]:
@@ -468,9 +375,9 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
     gap: dict[str, int] = {}        # country -> rows with no admin head or no programme
     nmig = 0
 
-    for country, fy, path in files(iso3, budgets):
+    for country, path in files(iso3, budgets):
         nfiles += 1
-        rel = os.path.relpath(path, budgets or BUDGETS).replace("\\", "/")
+        rel = os.path.basename(path)
         header, rows = read(path)
         if tuple(header) != COLUMNS:
             missing = [c for c in COLUMNS if c not in header]
@@ -480,20 +387,19 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                          + (f" — unknown {extra}" if extra else "")
                          + ("" if missing or extra else " — the columns are out of order"))
             continue                       # every other check reads by name; stop here
-        if not re.fullmatch(r"\d{4}", fy):
-            fails.append(f"{rel}: the file name is not a bare fiscal-year start year. "
-                         f"A bare year means the fiscal year beginning in it.")
         if not rows:
-            fails.append(f"{rel}: no rows. A country-year with nothing in it is a stated "
-                         f"absence in the runbook's log, not an empty file here.")
+            fails.append(f"{rel}: no rows. A country with nothing read is a stated absence "
+                         f"in the runbook's log, not an empty file here.")
 
         seen: dict[str, int] = {}
-        # Keyed by head as well as code: a programme code is unique only within its head in
-        # some states (every Zambian head's support programme is 3499).
-        parents: set[str] = set()          # head/programme_code held with no sub-programme
-        children: set[str] = set()         # head/programme_code held at sub-programme grain
+        # Keyed by year and head as well as code: a programme code is unique only within its
+        # head in some states (every Zambian head's support programme is 3499), and a parent
+        # and its children sum only within one fiscal year.
+        parents: set[str] = set()          # FY/head/programme_code held with no sub-programme
+        children: set[str] = set()         # FY/head/programme_code held at sub-programme grain
         for i, r in enumerate(rows, start=2):
             nrows += 1
+            fy = fy_of(r)
             def bad(msg: str) -> None:
                 fails.append(f"{rel}:{i} {msg}")
             g = lambda k: (r.get(k) or "").strip()                       # noqa: E731
@@ -522,10 +428,7 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                     thin[country] = thin.get(country, 0) + 1
 
             if g("place") != country:
-                bad(f"place is {g('place')!r} and the folder is {country}.")
-            if g("fy_start")[:4] != fy:
-                bad(f"fy_start {g('fy_start')!r} does not begin in {fy}, which the file "
-                    f"name says every row in it does.")
+                bad(f"place is {g('place')!r} and the file is {country}'s.")
             did = g("deal_id")
             if did in seen:
                 bad(f"deal_id {did!r} is already row {seen[did]}. One record per line-year.")
@@ -627,7 +530,7 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                 gap[country] = gap.get(country, 0) + 1
 
             if g("programme_code"):
-                key = f'{g("admin_head_code") or g("admin_head")}/{g("programme_code")}'
+                key = f'FY{fy} {g("admin_head_code") or g("admin_head")}/{g("programme_code")}'
                 (children if g("sub_programme_code") else parents).add(key)
 
         both = parents & children
@@ -679,10 +582,9 @@ def read_gaps(budgets: str = "") -> dict[str, int] | None:
 def ratchet(budgets: str = "") -> dict[str, int]:
     """Lower each country's ceiling to what it now lacks. Never raises one."""
     gap: dict[str, int] = {}
-    for country, _, path in files("", budgets):
-        for r in read(path)[1]:
-            if any(not (r.get(f) or "").strip() for f in STRUCTURE):
-                gap[country] = gap.get(country, 0) + 1
+    for country, _, r in rows(budgets=budgets):
+        if any(not (r.get(f) or "").strip() for f in STRUCTURE):
+            gap[country] = gap.get(country, 0) + 1
     old = read_gaps(budgets)
     if old is not None:
         gap = {c: min(n, old.get(c, 0)) for c, n in gap.items() if old.get(c, 0)}
@@ -752,30 +654,29 @@ def records(iso3: str, budgets: str = "") -> list[dict]:
     `record_ref`, what the export's `record` column says instead of a raw/ filename."""
     fails, _, _ = check(iso3, budgets)
     if fails:
-        raise SourceError(f"budgets/{iso3}/ does not pass:\n  " + "\n  ".join(fails))
+        raise SourceError(f"budgets/{COUNTRY.format(iso3)} does not pass:\n  "
+                          + "\n  ".join(fails))
     out = []
-    for country, fy, path in files(iso3, budgets):
-        _, rows = read(path)
-        for r in rows:
-            subj = (r.get("primary_subject") or "").strip()
-            out.append(dict(
-                fn="", fm=_fm(r, FM_COLS), body="",
-                table={"Spending entity": (r.get("spending_entity") or "").strip()},
-                origin="domestic-state", published=(r.get("fy_start") or "").strip(),
-                topics=[subj, "finance.budget"] if subj else ["finance.budget"],
-                url="", title=(r.get("line_name") or "").strip(),
-                # The display name as the file gives it, never recomputed. `line_name()`
-                # derives one from the classification chain and falls back through the
-                # title and the spending entity, and on a row whose programme is blank
-                # those fallbacks find different text here than they found in the record
-                # — 145 of the 488 migrated rows changed their published line name when
-                # this was left to be recomputed.
-                line_name=(r.get("line_name") or "").strip(),
-                deal_id=(r.get("deal_id") or "").strip(),
-                currency=(r.get("currency") or "").strip(),
-                source_fy=fy,
-                record_ref=f"budgets/{country}/{fy}.csv#{(r.get('deal_id') or '').strip()}",
-            ))
+    for country, fy, r in rows(iso3, budgets):
+        subj = (r.get("primary_subject") or "").strip()
+        out.append(dict(
+            fn="", fm=_fm(r, FM_COLS), body="",
+            table={"Spending entity": (r.get("spending_entity") or "").strip()},
+            origin="domestic-state", published=(r.get("fy_start") or "").strip(),
+            topics=[subj, "finance.budget"] if subj else ["finance.budget"],
+            url="", title=(r.get("line_name") or "").strip(),
+            # The display name as the file gives it, never recomputed. `line_name()`
+            # derives one from the classification chain and falls back through the
+            # title and the spending entity, and on a row whose programme is blank
+            # those fallbacks find different text here than they found in the record
+            # — 145 of the 488 migrated rows changed their published line name when
+            # this was left to be recomputed.
+            line_name=(r.get("line_name") or "").strip(),
+            deal_id=(r.get("deal_id") or "").strip(),
+            currency=(r.get("currency") or "").strip(),
+            source_fy=fy,
+            record_ref=f"budgets/{COUNTRY.format(country)}#{(r.get('deal_id') or '').strip()}",
+        ))
     return out
 
 
@@ -785,10 +686,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("iso3", nargs="?", default="", help="one country, else all of them")
     ap.add_argument("--budgets", default="", help="another budgets/ root, for tests")
     ap.add_argument("--columns", action="store_true", help="print the header and stop")
-    ap.add_argument("--share", action="store_true",
-                    help="print the domestic-state share for every read country-year, and stop")
-    ap.add_argument("--merge", action="store_true",
-                    help="rewrite each country's budgets-{ISO3}.csv from its year files, and stop")
+    ap.add_argument("--update", action="store_true",
+                    help="after any change: refresh budget_usd in each country file and rewrite "
+                         "budgets-all-countries.csv, and stop")
     ap.add_argument("--ratchet", action="store_true",
                     help="lower the admin-head/programme ceilings to what is left, and stop")
     a = ap.parse_args(argv)
@@ -801,41 +701,25 @@ def main(argv: list[str] | None = None) -> int:
         print(f"budget_source: no source folder at {base}. "
               f"BUDGET-EXTRACT.md is how the first one is written.")
         return 2
-    if a.share:
-        for country in sorted({c for c, _, _ in files(a.iso3, a.budgets)}):
-            if not external(country, a.budgets):
-                continue
-            for _, fy, _ in files(country, a.budgets):
-                r = share(country, fy, a.budgets)
-                if r["share"] is None:
-                    print(f"{country} FY{fy}: no share — {r['why']}")
-                else:
-                    fl = f" ({'; '.join(r['flags'])})" if r["flags"] else ""
-                    print(f"{country} FY{fy}: {r['share']}% domestic at {r['stage']} — "
-                          f"{r['domestic']:,.0f} of {r['domestic'] + r['external']:,.0f} "
-                          f"{r['currency']}{fl}")
-        return 0
     if a.ratchet:
         left = ratchet(a.budgets)
         print(f"budget_source: ceilings now {sum(left.values())} row(s) over {len(left)} "
               f"countr{'y' if len(left) == 1 else 'ies'}.")
         return 0
-    if a.merge:
-        n = len({c for c, _, _ in files(a.iso3, a.budgets)}) + 1
-        w = merge(a.iso3, a.budgets)
-        print(f"budget_source: {len(w)} of {n} merged file(s) rewritten.")
+    if a.update:
+        n = len(files(a.iso3, a.budgets)) + 1
+        w = update(a.iso3, a.budgets)
+        print(f"budget_source: {len(w)} of {n} file(s) rewritten.")
         return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
     fails += version_overlaps(a.iso3, a.budgets)
-    for country in sorted({c for c, _, _ in files(a.iso3, a.budgets)}):
+    for country, _ in files(a.iso3, a.budgets):
         if stale(country, a.budgets):
-            fails.append(f"{country}/{MERGED.format(country)}: missing or behind its year "
-                         f"files. `--merge` rewrites it.")
+            fails.append(f"{COUNTRY.format(country)}: budget_usd is behind the figures or the "
+                         f"FX table. `--update` rewrites it.")
     if stale_all(a.budgets):
-        fails.append(f"{MERGED_ALL}: missing or behind the country files. `--merge` rewrites it.")
-    xfails, xrows = check_external(a.iso3, a.budgets)
-    fails += xfails
-    nrows += xrows
+        fails.append(f"{MERGED_ALL}: missing or behind the country files. `--update` "
+                     f"rewrites it.")
     for f in fails:
         print(f"budget_source: FAIL — {f}")
     if fails:

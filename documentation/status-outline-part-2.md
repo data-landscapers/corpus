@@ -249,7 +249,7 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Is the digital state paying for itself — are the systems in service funded from the state's own resources, and is the money voted actually spent?*
 
-- What share of the digital lines in the state's own budget document the state finances itself — answered from `budgets/{ISO3}/{FY}.csv` and `external.csv` (`python scripts/budget_source.py --share`); no variable
+- What share of the digital lines in the state's own budget document the state finances itself — not answerable since `external.csv` was retired (2026-09-30): `budgets/budgets-{ISO3}.csv` holds the domestic side only; no variable
 - Whether the lines that keep systems running — maintenance, licences, subscriptions, connectivity — are domestically financed — answered from the budget extract's economic classification, where the document prints one; no variable
 - Whether what is voted is spent — execution against the voted figure, where an outturn is held — answered from the budget extract's stage history; no variable
 - Whether own-source revenue or a levy finances digital programmes in law — answered from the finance law's articles as the budget extract reads them; `finance.budget` asks the same of the mechanism
