@@ -424,7 +424,7 @@ def field_dictionary() -> list[dict]:
         return structured_data.fields_from(list(csv.DictReader(fh)))
 
 
-def dataset(agg: dict, csv_name: str, edition: str) -> str:
+def dataset(agg: dict, csv_name: str, edition: str, size: int | None = None) -> str:
     """The whole non-state finance table, described as data *(Bill, 2026-09-20)*.
 
     **This one is an edition, and the catalogue is not** — which is the whole difference between
@@ -441,7 +441,9 @@ def dataset(agg: dict, csv_name: str, edition: str) -> str:
         description=copy_md("finance", "dataset-all"),
         url=f"{SITE_BASE}/finance/",
         csv_url=f"{SITE_BASE}/finance/{csv_name}",
-        csv_bytes=structured_data.bytes_of(SITE / "finance" / csv_name),
+        # The bytes this build published, where the edition itself has already gone to R2:
+        # a re-render after `--prune-local` would otherwise drop the size it knows.
+        csv_bytes=structured_data.bytes_of(SITE / "finance" / csv_name) or size,
         records=agg["deals"],
         fields=field_dictionary(),
         entity={"@type": "Place", "name": "Africa"},
@@ -452,7 +454,7 @@ def dataset(agg: dict, csv_name: str, edition: str) -> str:
 
 
 def render(agg: dict, names: dict, csv_name: str, edition: str,
-           artefacts: str = "") -> str:
+           artefacts: str = "", size: int | None = None) -> str:
     """The Finance page: non-state finance with its table.
 
     **One page, not two** *(Bill, 2026-08-19)*. The table had its own URL at
@@ -480,7 +482,7 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         table_note=indent(copy("finance", "non-state-table-note")),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], regions=agg["regions"], yr=yr,
-        jsonld=dataset(agg, csv_name, edition),
+        jsonld=dataset(agg, csv_name, edition, size),
         built=date.today().isoformat(), edition=edition,
     )
 
@@ -512,7 +514,7 @@ def main() -> int:
     # how one page comes to disagree with sixty-one others about what it is offering.
     edition = editions.edition_of(csv_path.stem) or ""
     artefacts = editions.artefact_meta("all-nonstate", edition, editions.digest(body))
-    page.write_text(external_links(render(agg, names, csv_path.name, edition, artefacts)),
+    page.write_text(external_links(render(agg, names, csv_path.name, edition, artefacts, len(body))),
                     encoding="utf-8")
     (out / "budgets").mkdir(exist_ok=True)
     publish_budgets(out / "budgets", names)
