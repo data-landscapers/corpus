@@ -9,6 +9,14 @@ programme,Programme,text,,"The programme the line sits in, as the document names
 sub_programme,Sub-programme,text,,"The sub-programme, where the document prints one."
 line_name,Line,text,,The name of the budget line as the document prints it.
 purpose,Purpose,text,,"What the line pays for, in our words."
+currency,Currency,code,ISO 4217,"The currency of the figures, as a three-letter code."
+amount_scale,Amount scale,text,,"How the document prints its figures (in thousands, in millions). Every figure in this file is in whole units of the currency."
+proposed,Proposed,number,units of currency,The figure in the budget bill tabled before parliament.
+appropriated,Appropriated,number,units of currency,The figure enacted in law.
+revised,Revised,number,units of currency,The figure after an in-year revision or supplementary budget.
+released,Released,number,units of currency,The figure released to the spending body.
+actual,Actual,number,units of currency,The figure spent in the year (the outturn).
+audited,Audited,number,units of currency,The figure in the audited accounts.
 deal_id,Line ID,code,,"A unique key for the line in one fiscal year: the country, the year and the line's codes."
 state_level,Level of state,text,"national, sub-national, soe, levy-fund, regulator","The part of the state whose budget holds the line: central government, a province, a state-owned enterprise, a levy-funded fund or a regulator."
 spending_tier_name,Tier,text,,"The tier of government the document files the line under, where it prints tiers (Mozambique's central and provincial levels)."
@@ -32,14 +40,6 @@ finance_origin,Origin,text,domestic-state,Whose money it is. Every line here is 
 funding_source,Funding source,text,"domestic-revenue, domestic-borrowing, own-source, counterpart, unstated","The source the document names for the money: tax revenue, domestic borrowing, a body's own fees and levies, the state's counterpart to a donor project, or not stated."
 is_transfer,Transfer,true/false,"true, false","Whether the line is a transfer to another public body. A transfer is counted once, at the body that spends it."
 transfer_to,Transfer to,text,,The body that receives a transfer.
-currency,Currency,code,ISO 4217,"The currency of the figures, as a three-letter code."
-amount_scale,Amount scale,text,,"How the document prints its figures (in thousands, in millions). Every figure in this file is in whole units of the currency."
-proposed,Proposed,number,units of currency,The figure in the budget bill tabled before parliament.
-appropriated,Appropriated,number,units of currency,The figure enacted in law.
-revised,Revised,number,units of currency,The figure after an in-year revision or supplementary budget.
-released,Released,number,units of currency,The figure released to the spending body.
-actual,Actual,number,units of currency,The figure spent in the year (the outturn).
-audited,Audited,number,units of currency,The figure in the audited accounts.
 baseline_stage,Baseline stage,text,"proposed, appropriated, revised, released, actual, audited, unclear",The earliest stage a figure is held for.
 current_stage,Current stage,text,"proposed, appropriated, revised, released, actual, audited, unclear",The latest stage a figure is held for.
 exec_vs_voted,Spent vs voted,percent,,The actual figure as a percentage of the appropriated figure.

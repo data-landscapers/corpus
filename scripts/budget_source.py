@@ -83,6 +83,9 @@ COLUMNS = (
     # and `budget_usd` — and `--update` writes them.
     "place", "report_year", "primary_subject", "budget_usd",
     "admin_head", "spending_entity", "programme", "sub_programme", "line_name", "purpose",
+    # the money, in the budget's own currency (Bill, 2026-09-30: beside the line it belongs to)
+    "currency", "amount_scale",
+    "proposed", "appropriated", "revised", "released", "actual", "audited",
     # identity and the fiscal year
     "deal_id", "state_level", "spending_tier_name",
     "fiscal_year_label", "fy_start", "fy_end", "fy_calendar",
@@ -96,9 +99,7 @@ COLUMNS = (
     "scope_confidence", "scope_basis",
     # whose money it is
     "finance_origin", "funding_source", "is_transfer", "transfer_to",
-    # the money
-    "currency", "amount_scale",
-    "proposed", "appropriated", "revised", "released", "actual", "audited",
+    # the stages the money is held at, and what was spent of it
     "baseline_stage", "current_stage", "exec_vs_voted", "exec_vs_revised",
     # where it is printed
     "source_tier", "doc_type", "doc_locator", "source_slug",
