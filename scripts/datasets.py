@@ -76,8 +76,9 @@ IH_NUMERIC = ("names", "routable", "us_hyperscaler_share", "african_region_share
               "cdn_share", "national_or_self_share", "telco_share", "african_dc_share", "foreign_host_share",
               "chinese_cloud_share", "unusable_share", "unattributed")
 # The views the Institution Hosting pages link across, in `.article-toc` like Progress's
-# Topics · Countries. (slug below the dataset, label); the continental analysis joins here.
-IH_VIEWS = (("", "Dataset"), ("methodology", "Methodology"))
+# Topics · Countries. (slug below the dataset, or an absolute URL, label).
+IH_VIEWS = (("", "Dataset"), ("methodology", "Methodology"),
+            ("https://data-landscapers.io/2026/09/30/institution-hosting/", "Continental analysis"))
 IH_METHOD = IH_DIR / "methodology.md"
 IH_DETAIL = ("domains", "names", "routable", "unattributed", "mail_security", "scan_date")
 
@@ -465,7 +466,8 @@ def ih_views(current: str) -> str:
     up = "../" if current else ""
     links = []
     for slug, label in IH_VIEWS:
-        href = (up + slug + "/") if slug else (up or "./")
+        href = (slug if slug.startswith("https://")
+                else (up + slug + "/") if slug else (up or "./"))
         if slug == current:
             href = "./"
         cur = ' aria-current="page"' if slug == current else ""
