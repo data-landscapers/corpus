@@ -68,6 +68,12 @@ BUDGETS_CSV = CORPUS / "budgets" / "budgets-all-countries.csv"
 BUDGETS_META = CORPUS / "budgets" / "budgets-metadata.csv"
 BUDGETS_METADATA_CSV = "budgets-metadata.csv"
 BUDGET_TABLE_COLS = 9
+# **No dated editions until the launch is announced** *(Bill, 2026-09-30)*. Until then the page
+# offers one undated `budgets-all-countries.csv`, rewritten whenever the data moves — a
+# deliberate, time-boxed exception to design.md §9, for a table nobody has been told of yet.
+# Set True at launch: `editions.publish` then cuts the first dated edition and retires the
+# undated file itself (`editions.retire_undated`).
+BUDGETS_DATED = False
 
 
 def indent(html_block: str, spaces: int = 4) -> str:
@@ -297,8 +303,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
       <strong>About this table</strong>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Edition</dt><dd class="mono">{edition}</dd>
-        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, kept as published and never revised</dd>
+{edition_rows}
         <dt>Fields</dt><dd><a href="../../datasets/metadata/#national-budgets">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
@@ -351,8 +356,18 @@ def publish_budgets(out: Path, names: dict) -> None:
     header, rows = read_rows(BUDGETS_CSV)
     _, meta = read_rows(BUDGETS_META)
     body = BUDGETS_CSV.read_bytes().replace(b"\r\n", b"\n")
-    csv_path, _ = editions.publish(body, out, "budgets-all-countries", ".csv", page=page)
-    edition = editions.edition_of(csv_path.stem) or ""
+    if BUDGETS_DATED:
+        csv_path, _ = editions.publish(body, out, "budgets-all-countries", ".csv", page=page)
+        edition = editions.edition_of(csv_path.stem) or ""
+        edition_rows = (f'        <dt>Edition</dt><dd class="mono">{edition}</dd>\n'
+                        f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
+                        f' &mdash; a dated edition, kept as published and never revised</dd>')
+    else:
+        csv_path, edition = out / "budgets-all-countries.csv", ""
+        if not csv_path.exists() or csv_path.read_bytes() != body:
+            csv_path.write_bytes(body)
+        edition_rows = (f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
+                        f' &mdash; updated as the data changes</dd>')
     used = sorted({r["place"] for r in rows})
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
     numeric = [c for c in header if c in ("report_year", "budget_usd", "proposed", "appropriated",
@@ -363,7 +378,9 @@ def publish_budgets(out: Path, names: dict) -> None:
         base=SITE_BASE, main=MAIN_SITE, chrome=chrome('finance', depth=2),
         foot=foot(depth=2), styles=styles(2, "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 2),
-        artefacts=editions.artefact_meta("budgets-all-countries", edition, editions.digest(body)),
+        artefacts=(editions.artefact_meta("budgets-all-countries", edition, editions.digest(body))
+                   if BUDGETS_DATED else ""),
+        edition_rows=edition_rows,
         jsonld=budgets_dataset(rows, meta, csv_path, edition, years),
         toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")),
         csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
@@ -375,8 +392,8 @@ def publish_budgets(out: Path, names: dict) -> None:
                                      if m.get("definition")}, ensure_ascii=False), quote=True),
         lines=f"{len(rows):,}", countries=len(used),
         yr=f"{years[0]}–{years[-1]}" if years else "n/a",
-        built=date.today().isoformat(), edition=edition)), encoding="utf-8")
-    print(f"finance: budgets {len(rows):,} lines, {len(used)} countries, edition {edition} "
+        built=date.today().isoformat())), encoding="utf-8")
+    print(f"finance: budgets {len(rows):,} lines, {len(used)} countries, edition {edition or 'undated'} "
           f"-> site/finance/budgets/")
 
 
