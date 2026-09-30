@@ -17,6 +17,7 @@
           data-cols="a,b,c"                        visible columns, in order (default: all)
           data-filters="country_name,sector"       columns to give a dropdown
           data-numeric="commitment_usd_m,year"     sort these as numbers
+          data-thousands="budget_usd"              show these with thousand separators
           data-links="url"                         render these as links
           data-labels='{"recipient_country":{"ZAF":"South Africa"}}'
           data-tips='{"sector":"What the money is for"}'  a column header's tooltip
@@ -473,9 +474,18 @@
         Object.keys(labels).forEach(function (c) {
           var i = findCol(headers, c); if (i > -1) labelFor[i] = labels[c];
         });
+        /* Thousand separators on the columns `data-thousands` names, for display only:
+           the numeric sort and the search read the raw value, and so does the CSV. */
+        var thousands = {};
+        list(container.dataset.thousands).forEach(function (c) {
+          var i = findCol(headers, c); if (i > -1) thousands[i] = true;
+        });
         /* One place decides what a value looks like, so the cells, the filter
            options, the sort keys and the search all agree about it. */
-        function display(ci, v) { return dewiki((labelFor[ci] && labelFor[ci][v]) || v); }
+        function display(ci, v) {
+          if (thousands[ci] && /^-?\d+(\.\d+)?$/.test(v)) return Number(v).toLocaleString('en-US');
+          return dewiki((labelFor[ci] && labelFor[ci][v]) || v);
+        }
 
         /* Badges: a column whose values are a small closed set worth reading as a
            status rather than as text. The mapping is given, never inferred — the

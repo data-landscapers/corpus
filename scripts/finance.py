@@ -276,6 +276,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
       data-cols="{cols}"
       data-filters="place, report_year, primary_subject"
       data-numeric="{numeric}"
+      data-thousands="budget_usd"
       data-labels="{labels}"
       data-tips="{tips}"
       data-detail="{detail}"
