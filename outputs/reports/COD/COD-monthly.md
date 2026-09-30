@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: COD
-ledger_rows: 85
+ledger_rows: 88
 not_held: 7
-record: a05fc30f511d
+record: 5f2deb6a2631
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -98,6 +98,11 @@ Starlink users in Kinshasa [face four to six months of possible slowdowns while 
 
 A cross-border route was reaffirmed rather than started. The Tanzanian and Congolese foreign ministries [agreed to fast-track a fibre-optic cable from Kigoma to Kalemie in Tanganyika province through Lake Tanganyika, alongside a standard gauge railway link through Burundi and the establishment of a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). The statement came at a farewell meeting for the Congolese ambassador in Dar es Salaam; no route survey, cost, financing, landing point or delivery date is published, and no Congolese ministry statement is on file.
 <!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+A philanthropic accelerator [announced on 24 September a demonstration that will add computing load to an existing solar plant with underused generation, serving more than 30,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), to test whether demand for compute can make mini-grids pay without raising local tariffs. The site, operator, computing load and start date have not been stated.
+<!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
@@ -111,6 +116,8 @@ Assembly capacity for digital hardware appears in this repository for the first 
 
 <!-- narrative: dpi--dpi-exchange -->
 The exchange being built is between revenue agencies rather than between citizens and the state. The finance inspectorate [disseminated a three-year strategic plan to public administrations, with data cross-checking between revenue agencies under systemic control](https://www.congoquotidien.com/2026/08/21/cloture-seminare-igf-plan-strategique/). No platform, data-sharing instrument or protection arrangement for the cross-checked records is named.
+
+On 28 September the digital economy minister [said the Prime Minister had signed the decree creating the national electronic certification authority provided for in the 2023 Digital Code](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No decree number or operating date was given.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -158,6 +165,8 @@ The revenue side of the digitisation put a number on itself. On a broadcast acco
 The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
 
 The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
+
+The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced.
 <!-- /narrative -->
 
 ## Digitalisation

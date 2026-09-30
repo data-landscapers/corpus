@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: NAM
-ledger_rows: 57
+ledger_rows: 59
 not_held: 9
-record: decb51f51286
+record: 3e5a59ab94de
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -65,6 +65,8 @@ The dominant mobile operator [publicly rejected customer claims that it takes da
 
 <!-- narrative: finance--finance-new -->
 The Universal Service Fund [published its Integrated Annual Report 2025 in September](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf), carrying the fund's financial statements and its first two mobile network deployment phases, for 2024/25 and 2025/26. It is the first set of the fund's own accounts the repository holds.
+
+The largest mobile operator [holds a N$32.3m award under the Universal Service Fund's second phase for nine network solutions, including ten towers in underserved areas](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/). The award date and site list have not been published.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -77,6 +79,8 @@ Spectrum is being taken back rather than added. Operators [were instructed to re
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) — a stated commitment rather than a delivered figure.
 
 The regulator's April-June bulletin [records active mobile subscriber modules up 2 per cent to about 2.79 million, mobile broadband up 2 per cent and fixed broadband up 1 per cent, with about N$243m invested in networks](https://neweralive.na/cyber-threats-rise-57-despite-ict-sector-growth/). Modules count connections, not people.
+
+On 28 September the largest mobile operator [confirmed 5G in five more towns, Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb, and began building 19 sites across nine regions in a second phase](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/).
 <!-- /narrative -->
 ### Data Storage
 

@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: EGY
 ledger_rows: 136
 not_held: 45
-record: 65e7422183d3
+record: 4901b672df45
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -44,6 +44,8 @@ The ministry's investment conference on 7 September [carried a session on the da
 A joint decision of the media council and the telecoms regulator, reported on 17 September, [bars social platforms from holding independent accounts for children under 13, makes a safe mode the child cannot disable compulsory for those aged 13 to under 15, and requires age verification that collects no more data than it needs](https://www.youm7.com/story/2026/9/17/%C2%AB%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%C2%BB-%D9%88%C2%AB%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%C2%BB-%D9%8A%D9%84%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AF%D9%88%D9%86-15/7549926). The regulator says platforms have [three months to comply, existing accounts included, and can be blocked in Egypt if they do not](https://www.fintechgate.net/252234), and that [tens of thousands subscribed in two months to the operators' child online-protection services](https://www.fintechgate.net/252234). The decision's text is not held.
 
 The regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report; no charge, hearing date or penalty is on file. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550) (16 August). The instrument authorising the collection, its retention rule and any operator-side safeguard are not held. Members of parliament [called for deterrent rules to govern artificial intelligence](https://www.algomhor.com/466466) (19 August), and a member [proposed a national register letting citizens see which bodies have processed their personal data](https://gate.ahram.org.eg/News/5894387.aspx) (24 August); neither has produced a text.
+
+On 29 September two rights organisations [asked the media council and the telecoms regulator to publish the joint decision's full text, number and legal basis, which the 17 September announcement did not carry, and to state what age-verification data will be collected, by whom and for how long](https://www.eipr.org/press/2026/09/%D9%85%D8%B3%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86-%D8%A8%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89).
 <!-- /narrative -->
 ### Regional collaboration
 

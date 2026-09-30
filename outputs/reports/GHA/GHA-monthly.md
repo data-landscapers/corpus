@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: GHA
-ledger_rows: 155
+ledger_rows: 156
 not_held: 9
-record: 830e307b8801
+record: e155582927f8
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -93,6 +93,8 @@ The backbone under it is losing ground faster than the record showed. Industry n
 The state's own operator got its board back. On 3 September a seven-member board was sworn in for the company behind the AT Ghana brand, [releasing policy directives that had gone unimplemented for almost two months for want of one: spectrum in three bands from the regulator, and core-network access from the universal-access fund, both held back pending audited accounts](https://www.myjoyonline.com/sam-george-swears-in-at-ghanas-ppl-net-board-as-directors-vow-we-will-not-let-ghana-down/). Neither the bands nor the terms of the access are published.
 
 The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release. At the 2.3 GHz stage the second operator [took all three lots it applied for, of five on offer](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/), with neither the assignment date nor the fee stated.
+
+On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced.
 <!-- /narrative -->
 ### Data Storage
 

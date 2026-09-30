@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: ZWE
-ledger_rows: 68
+ledger_rows: 69
 not_held: 7
-record: 1cfc0892aee4
+record: b2fce9e60182
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -211,6 +211,8 @@ The Civil Aviation Authority of Zimbabwe [approved Drone Solutions Zimbabwe to f
 
 <!-- narrative: capacity--capacity-training -->
 The artificial-intelligence grand challenge opened on 4 August [across agriculture, health, education, financial services, mining and public administration, and was stated as a recurring programme](https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/). The regulator reported [738 applications received and 68 projects selected for a boot camp in Nyanga, narrowed to 18 candidates for the next stage](https://binduraeye.co.zw/mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses/). No award, prize or budget has been published against any of it.
+
+The youth ministry, UNDP and a training firm [opened a solar-powered digital and AI hub with satellite connectivity at the Nyamuroro vocational training centre in Gokwe, enrolling 50 young people in a free one-year bootcamp from September and targeting 3,000 school learners and 300 teachers](https://technomag.co.zw/undp-partners-gvt-to-launch-first-rural-ai-digital-and-innovation-hub-at-nyamuroro-vtc-in-gokwe/). No budget has been published.
 <!-- /narrative -->
 ### Research institutions
 

@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: ZAF
-ledger_rows: 196
+ledger_rows: 202
 not_held: 22
-record: fbb7362a11fa
+record: 8bd3c5b0c725
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -101,6 +101,8 @@ On 7 September a development bank and National Planning Commission study [costed
 The state-affiliated wholesaler, whose network runs to about 180,000km with just under R3bn of capital expenditure a year, [completed a third fibre route between Cape Town and Pretoria, via Springbok and Mahikeng](https://www.businessday.co.za/companies/2026-09-07-openserve-completes-third-fibre-route-to-reduce-network-outage-risk/), after the double cable break of 2025. No capacity figure has been published for the new route.
 
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
+
+On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled.
 <!-- /narrative -->
 ### Data Storage
 
@@ -145,6 +147,8 @@ A provider [that runs verification checks for Cell C, EasyEquities and Bidvest B
 After the insurance-software supplier breached in June reportedly paid a ransom, [the attackers began extorting insurers directly](https://techcentral.co.za/hackers-extort-insurers-mip-ransom-hollard/286251/) and [published data allegedly taken from one insurer on the dark web; a researcher confirmed it was public](https://www.itweb.co.za/article/hollard-data-hits-dark-web-after-mip-hack/wbrpOqg2J5oMDLZn).
 
 Fake traffic-fine messages quoting motorists' correct number plates led the road traffic infringement agency [to consider investigating whether the national vehicle database had been accessed](https://www.itweb.co.za/article/inside-the-fake-aarto-fine-scam/DZQ58vV8BazMzXy2). The fines platform being impersonated says its own system was not breached.
+
+Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised.
 <!-- /narrative -->
 
 ## DPI
@@ -195,6 +199,10 @@ The rand stablecoin ZARU, [listed on an exchange on 7 August](https://www.itweb.
 The app-only Bank Zero [recorded its first break-even month in August 2026 on 275,000 direct customers, and is onboarding 500,000 customers of the remittance firm Mukuru through an alliance-banking platform live since January](https://techcabal.com/2026/09/22/bank-zero-break-even-alliance-partnerships/). The figures are the bank's own.
 
 Paystack [introduced card payment inside the Shopify merchant checkout without redirection, with a Shopify integration for its in-store terminal](https://techafricanews.com/2026/09/25/paystack-south-africa-onsite-card-checkout-shopify/), reported on 25 September. No merchant count has been published.
+
+An association of non-bank payment providers [said the last of the Payments Association of South Africa's functions passed to the Reserve Bank and PayInc on 2 September, and that the Bank is taking its papers into account in an interchange determination project](https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/). It has also sent the Bank a proposal on merchant acceptance of PayShap. No draft interchange determination has been published.
+
+Absa [put an institutional digital-asset custody service live on 21 September, built on Ripple's custody technology](https://www.itweb.africa/article/absa-sets-digital-asset-custody-milestone/WnpNgM21yNz7VrGd), for asset managers, non-bank financial institutions, corporates and treasuries. It is not a retail offering, and no client or asset figures have been published.
 <!-- /narrative -->
 ### Registries
 
@@ -246,6 +254,8 @@ The Gauteng e-government department's 2025/26 annual report records [96 public W
 Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
 
 Municipal digitisation programmes are bound by the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225).
+
+Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated.
 <!-- /narrative -->
 
 ## Technology
@@ -270,6 +280,8 @@ Provincial police warned that [creating and sharing artificial-intelligence face
 A market forecast says [80% of governments will use artificial-intelligence agents by 2028, and that the revenue service is exploring digital twins in tax processing](https://sundayworld.co.za/technology/ai-agents-could-change-face-of-service-delivery/). At a first summit on youth, artificial intelligence and the future of work, a deputy minister described inclusion as [connection, capability and command — the third meaning who builds and shapes the technology, not only who can reach it](https://www.sanews.gov.za/south-africa/call-inclusive-approach-ai-revolution). Neither statement comes with a programme, budget or date.
 
 The state airports company [set a five-year plan to 2031 to use AI in check-in, security, baggage handling and parking, with terminal patrol robots and a metaverse proof of concept in the first year, tied to a R21.7bn capital pipeline that also covers wider infrastructure modernisation](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb). The pipeline is not broken down.
+
+The financial conduct regulator's 2025/26 integrated report, presented to Parliament's finance committee in the last week of September, [states that a framework for the regulator's own responsible use of AI is being developed](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4), the one outstanding item under its principle on data and technology governance. No publication date is given.
 <!-- /narrative -->
 ### ICT Industry
 
