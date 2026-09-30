@@ -16,7 +16,7 @@ These datasets are constructed solely from the data in the Corpus repository and
 
 ## index-finance
 
-It is currently impossible to calculate total investments into digital transformation. There are three main reasons for this. Firstly no one has integrated non-state finance data with national budgets, expenditure and audits. Secondly no one has attempted to align the full spectrum of cross-border and domestic, public and private investment. Thirdly, with the exception of the World Bank, no investors have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation. Over the next year we aim to fill this vacuum.
+[Non-state finance](../finance/) is the money committed to Africa's digital sector by donors, development finance institutions, foundations, private investors and others outside the state. [National budgets](../finance/budgets/) holds every digital line read from African states' own budget documents, from the bill tabled in parliament to the audited accounts.
 
 ## index-data-centres
 
