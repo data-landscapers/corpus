@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Datasets — metadata — Data Landscapers</title>
-<meta name="description" content="What each column in the Data Landscapers datasets means: data centres, non-state finance and the catalogue.">
+<meta name="description" content="What each column in the Data Landscapers datasets means: data centres, institution hosting, non-state finance and the catalogue.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/datasets/metadata/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
@@ -109,6 +109,8 @@
       <a href="#introduction">Introduction</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#data-centres">Data centres</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#institution-hosting">Institution hosting</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#non-state-finance">Non-state finance</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -475,6 +477,147 @@
       </tr>
       </tbody>
       </table>
+      <h2 id="institution-hosting">Institution hosting</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/institution-hosting-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>column</th>
+      <th>label</th>
+      <th>values</th>
+      <th>definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>iso3</td>
+      <td>Country code</td>
+      <td>ISO3</td>
+      <td>The country the institution belongs to, as a three-letter code (KEN is Kenya).</td>
+      </tr>
+      <tr>
+      <td>type</td>
+      <td>Institution type</td>
+      <td>one of 36 types</td>
+      <td>The kind of institution, such as Central Bank or Defence.</td>
+      </tr>
+      <tr>
+      <td>institution</td>
+      <td>Institution</td>
+      <td></td>
+      <td>The institution's name.</td>
+      </tr>
+      <tr>
+      <td>domains</td>
+      <td>Domains scanned</td>
+      <td>domains joined by ';'</td>
+      <td>The institution's internet domains that the scan started from.</td>
+      </tr>
+      <tr>
+      <td>names</td>
+      <td>Names found</td>
+      <td></td>
+      <td>How many different web and mail names the scan found under the institution's domains.</td>
+      </tr>
+      <tr>
+      <td>routable</td>
+      <td>Working addresses</td>
+      <td></td>
+      <td>How many address, mail-server and name-server records led to a working server. Every share in this file is a share of this number.</td>
+      </tr>
+      <tr>
+      <td>us_hyperscaler_share</td>
+      <td>On US cloud</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on Amazon, Microsoft, Google or Oracle cloud, wherever the data centre is.</td>
+      </tr>
+      <tr>
+      <td>african_region_share</td>
+      <td>US cloud in Africa</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on those US cloud companies' African data centres. It is part of the US cloud share, not added to it.</td>
+      </tr>
+      <tr>
+      <td>us_saas_share</td>
+      <td>US online services</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on US online services such as Microsoft 365 or Salesforce.</td>
+      </tr>
+      <tr>
+      <td>cdn_share</td>
+      <td>Behind a shield</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses behind a shield such as Cloudflare or Akamai, which hides the real host. Any of these could also be on US cloud.</td>
+      </tr>
+      <tr>
+      <td>national_or_self_share</td>
+      <td>Government or own systems</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on a government data centre or the institution's own network.</td>
+      </tr>
+      <tr>
+      <td>telco_share</td>
+      <td>On telecoms networks</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on a telecoms operator or internet provider.</td>
+      </tr>
+      <tr>
+      <td>african_dc_share</td>
+      <td>African data centres and IT firms</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on African colocation, cloud and IT service companies, including banks' own networks.</td>
+      </tr>
+      <tr>
+      <td>foreign_host_share</td>
+      <td>Other foreign hosting</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on non-African hosting firms other than the four US cloud companies, such as OVH, Hetzner, DigitalOcean or GoDaddy.</td>
+      </tr>
+      <tr>
+      <td>chinese_cloud_share</td>
+      <td>Chinese cloud</td>
+      <td>0 to 100</td>
+      <td>Share of working addresses on Huawei, Alibaba or Tencent cloud.</td>
+      </tr>
+      <tr>
+      <td>unusable_share</td>
+      <td>Private or unusable</td>
+      <td>0 to 100</td>
+      <td>An address that cannot be reached from the internet.</td>
+      </tr>
+      <tr>
+      <td>unattributed</td>
+      <td>Not identified</td>
+      <td></td>
+      <td>How many working addresses no source could place. A count</td>
+      </tr>
+      <tr>
+      <td>mail_provider</td>
+      <td>Email provider</td>
+      <td>m365; google; self; none; other:<name></td>
+      <td>Who receives the institution's email, from its mail records. m365: Microsoft 365. google: Google. self: the institution's own servers. none: no mail record on the domain scanned. other: another provider, named after the colon.</td>
+      </tr>
+      <tr>
+      <td>mail_security</td>
+      <td>Mail filter</td>
+      <td>names joined by ';'</td>
+      <td>A mail security service the mail passes through first, such as mimecast or proofpoint. It can hide which provider holds the mailboxes. Blank if none seen.</td>
+      </tr>
+      <tr>
+      <td>tangled_hybrid</td>
+      <td>Mixed home and US cloud</td>
+      <td>true; false</td>
+      <td>true where the institution has at least one address on a government data centre or its own network and at least one on US cloud.</td>
+      </tr>
+      <tr>
+      <td>scan_date</td>
+      <td>Scan date</td>
+      <td>YYYY-MM-DD</td>
+      <td>The day the institution was scanned. Every figure is as of this date.</td>
+      </tr>
+      </tbody>
+      </table>
       <h2 id="non-state-finance">Non-state finance</h2>
       <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/non-state-finance-metadata.csv" download>&darr; CSV</a></p>
 
@@ -630,7 +773,7 @@
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">2026-09-29</dd>
+        <dt>Built</dt><dd class="mono">2026-09-30</dd>
         <dt>Source</dt><dd><code>content/datasets-metadata.md</code> &mdash; the page is that file, converted</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
       </dl>

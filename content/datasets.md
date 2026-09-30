@@ -6,7 +6,9 @@ The Data Centres blocks have to make three things clear without a lecture: what 
 
 `data-centres-status` is the notice at the top of both pages while the dataset is being finalised (documentation/datasets.md, T1–T10). **Empty the block once the last task closes**, and the notice disappears; delete the key and the build stops.
 
-`dataset-data-centres` is not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
+The Institution Hosting blocks have to make two things clear: a row is an institution and its figures are shares of its working addresses on the scan date; and the scan sees the public edge only (websites, mail, name servers), not where databases or core systems run.
+
+`dataset-data-centres` and `dataset-institution-hosting` are not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
 
 ## index-intro
 
@@ -19,6 +21,10 @@ It is currently impossible to calculate total investments into digital transform
 ## index-data-centres
 
 The location, ownership and (where available) capacity of the growing number of data centres across Africa.
+
+## index-institution-hosting
+
+Where ministries, regulators, security services, banks and payment systems host their websites, email and name servers: US cloud, US online services, behind a shield, African data centres, telecoms networks or their own systems.
 
 ## index-catalogue
 
@@ -41,3 +47,15 @@ Click a row to see the full record. Sort on any column, filter with the dropdown
 ## dataset-data-centres
 
 Data centres in Africa: one record per facility, whether operational, under construction or planned. Each record gives the facility's location, status, type and capacity; its operator, ownership chain and ultimate parent; and who controls it (African, US, other foreign or joint), with a confidence rating. It also records relationships with hyperscalers (AWS, Microsoft, Google), Chinese involvement, DFI finance, connectivity (subsea cable, IXP, carrier neutrality) and certifications. Every record lists its sources. The table is maintained rather than rebuilt: corrections and additions are logged with their sources, and each published file is a dated edition that is never revised.
+
+## institution-hosting-intro
+
+One row per institution: the presidency, ministries, regulators, security services, the largest banks and the payment systems, in 54 countries. For each one the table shows where its public internet services are hosted: on US cloud (Amazon, Microsoft, Google, Oracle), on US online services such as Microsoft 365, behind a shield such as Cloudflare that hides the real host, on government or the institution's own systems, on African data centres, on telecoms networks, or with other foreign hosts. **Figures are shares of the institution's working addresses on the scan date, and together they add up to 100.** The scan sees websites, mail and name servers only. It does not see where databases, payroll or core banking systems run.
+
+## institution-hosting-table-note
+
+Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field. Shares are percentages.
+
+## dataset-institution-hosting
+
+Where strategic institutions in 54 African countries host their public internet services: one record per institution, covering the presidency, ministries, regulators, security services, the largest banks and the payment systems. Each record gives the domains scanned, the number of working addresses found, and the share of them on US cloud (Amazon, Microsoft, Google, Oracle), on those companies' African data centres, on US online services, behind a shield such as Cloudflare, on government or the institution's own systems, on African data centres and IT firms, on telecoms networks, on other foreign hosts and on Chinese cloud. It also records the email provider and any mail filter. Figures come from passive DNS lookups on the scan date and describe websites, mail and name servers, not internal systems. Each published file is a dated edition that is never revised.

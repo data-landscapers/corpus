@@ -6,6 +6,9 @@ What each column in the downloadable datasets means. Each table can be downloade
 ## Data centres
 <!-- table: site/metadata/data-centres-metadata.csv | column, label, values, definition -->
 
+## Institution hosting
+<!-- table: site/metadata/institution-hosting-metadata.csv | column, label, values, definition -->
+
 ## Non-state finance
 <!-- table: site/metadata/non-state-finance-metadata.csv -->
 

@@ -154,10 +154,10 @@ python scripts/build-title-index.py --stats           # the same for the title s
 
 ```bash
 python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
-python scripts/datasets.py        # -> site/datasets/ + data-centres-{edition}.csv
+python scripts/datasets.py        # -> site/datasets/ + data-centres-{edition}.csv, institution-hosting-{edition}.csv
 ```
 
-The Datasets pages publish maintained tables (`documentation/datasets.md`): an edition is cut only when a master under `outputs/datasets/` has changed.
+The Datasets pages publish maintained tables (`documentation/datasets.md`): an edition is cut only when a master under `outputs/datasets/` has changed. Institution Hosting is the exception: its source is `R&D/Hyperscaler-dependence/institution-hosting.csv`, rewritten by `hyperscaler-combine.py` after a rescan.
 
 ## The prose
 

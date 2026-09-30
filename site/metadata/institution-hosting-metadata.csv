@@ -1,0 +1,22 @@
+column,label,type,values,definition
+iso3,Country code,code,ISO3,"The country the institution belongs to, as a three-letter code (KEN is Kenya)."
+type,Institution type,text,one of 36 types,"The kind of institution, such as Central Bank or Defence."
+institution,Institution,text,,The institution's name.
+domains,Domains scanned,text,domains joined by ';',The institution's internet domains that the scan started from.
+names,Names found,number,,How many different web and mail names the scan found under the institution's domains.
+routable,Working addresses,number,,"How many address, mail-server and name-server records led to a working server. Every share in this file is a share of this number."
+us_hyperscaler_share,On US cloud,percent,0 to 100,"Share of working addresses on Amazon, Microsoft, Google or Oracle cloud, wherever the data centre is."
+african_region_share,US cloud in Africa,percent,0 to 100,"Share of working addresses on those US cloud companies' African data centres. It is part of the US cloud share, not added to it."
+us_saas_share,US online services,percent,0 to 100,Share of working addresses on US online services such as Microsoft 365 or Salesforce.
+cdn_share,Behind a shield,percent,0 to 100,"Share of working addresses behind a shield such as Cloudflare or Akamai, which hides the real host. Any of these could also be on US cloud."
+national_or_self_share,Government or own systems,percent,0 to 100,Share of working addresses on a government data centre or the institution's own network.
+telco_share,On telecoms networks,percent,0 to 100,Share of working addresses on a telecoms operator or internet provider.
+african_dc_share,African data centres and IT firms,percent,0 to 100,"Share of working addresses on African colocation, cloud and IT service companies, including banks' own networks."
+foreign_host_share,Other foreign hosting,percent,0 to 100,"Share of working addresses on non-African hosting firms other than the four US cloud companies, such as OVH, Hetzner, DigitalOcean or GoDaddy."
+chinese_cloud_share,Chinese cloud,percent,0 to 100,"Share of working addresses on Huawei, Alibaba or Tencent cloud."
+unusable_share,Private or unusable,percent,0 to 100,An address that cannot be reached from the internet.
+unattributed,Not identified,number,,How many working addresses no source could place. A count, not a share.
+mail_provider,Email provider,text,m365; google; self; none; other:<name>,"Who receives the institution's email, from its mail records. m365: Microsoft 365. google: Google. self: the institution's own servers. none: no mail record on the domain scanned. other: another provider, named after the colon."
+mail_security,Mail filter,text,names joined by ';',"A mail security service the mail passes through first, such as mimecast or proofpoint. It can hide which provider holds the mailboxes. Blank if none seen."
+tangled_hybrid,Mixed home and US cloud,true/false,true; false,true where the institution has at least one address on a government data centre or its own network and at least one on US cloud.
+scan_date,Scan date,date,YYYY-MM-DD,The day the institution was scanned. Every figure is as of this date.

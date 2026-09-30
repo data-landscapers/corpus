@@ -113,7 +113,7 @@ Three choices affect the headline figures and are stated here so they can be cha
 
 ## 8. The measures
 
-**Working addresses.** A, AAAA, MX and NS records that resolved. A name with both an IPv4 and an IPv6 address, or with several addresses, counts once per address. Most shields and delivery networks return several addresses for each name. This gives more weight to names behind them than a count of names would. The choice keeps the unit the same for every country. The per-name view can be computed from `all-nodes.csv`.
+**Working addresses.** A, AAAA, MX and NS records that resolved. A name with both an IPv4 and an IPv6 address, or with several addresses, counts once per address. Most shields and delivery networks return several addresses for each name. This gives more weight to names behind them than a count of names would. The choice keeps the unit the same for every country. The per-name view can be computed from `institution-hosting-nodes.csv`.
 
 **Shares.** Each share is a category's working addresses divided by all working addresses, for an institution, a sector or a country. US cloud in Africa is part of the US cloud share, not added to it.
 
@@ -173,7 +173,7 @@ Everything is in `R&D/Hyperscaler-dependence/` in the Corpus repository.
 | `scan/{ISO3}/nodes.csv` | every record for the country, with its host and category |
 | `scan/{ISO3}/organisations.csv` | the figures for each institution |
 | `scan/{ISO3}/run.json` | range file dates, wildcards, Certificate Transparency failures, country totals and withheld findings |
-| `all-nodes.csv`, `all-organisations.csv` | all 54 countries in one file each, with `-metadata.csv` files that explain every column |
+| `institution-hosting.csv`, `institution-hosting-nodes.csv` | all 54 countries in one file each, one row per institution and one per record, with `-metadata.csv` files that explain every column |
 | `HYPERSCALER-SCAN.md`, `HYPERSCALER-DRAIN.md` | the runbooks the scan was run from |
 
 To scan a country: `python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/scan/KEN/institutions-KEN.csv"`. This needs Python 3 with `dnspython` and `requests`, and takes 10 to 60 minutes a country, mostly waiting on crt.sh.

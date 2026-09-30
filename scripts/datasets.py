@@ -7,6 +7,7 @@
       -> site/datasets/data-centres/data-centres-{edition}.csv   the download, a dated edition (§9)
       -> site/metadata/data-centres-metadata.csv              its field dictionary, undated
       -> site/datasets/metadata/index.html                    every dataset's field dictionary
+      -> site/datasets/institution-hosting/                   the Institution Hosting table, the same way
 
 **One metadata page for every dataset** *(Bill, 2026-09-21)*. The field dictionaries used to
 sit at the foot of Methodology's process lookups, beside the vocabularies. They describe the
@@ -17,6 +18,10 @@ same `lookup_tables` the lookups page uses. Each dataset's Metadata button links
 `outputs/datasets/{name}/` is edited record by record, and every edit is logged in
 `logs/dataset-updates.csv`. This script only publishes: it cuts an edition when the master's bytes
 move, and shows the latest changes from the log under the table.
+
+**Institution Hosting is compiled, not maintained** *(Bill, 2026-09-30)*. It is the hyperscaler
+scan's per-institution file, `R&D/Hyperscaler-dependence/institution-hosting.csv`, written by
+`hyperscaler-combine.py`; a rescan replaces it, so it has no change log. Editions work the same.
 
 The index lists the downloadable tables that already exist elsewhere on the site as well, Finance
 and the Catalogue, so that it is not a page with one entry. Those pages keep their own URLs.
@@ -61,6 +66,16 @@ DETAIL = ("services_offered", "govt_data_hosted", "ownership_type", "ownership_s
           "security_certifications", "comments", "source_urls")
 BADGES = {"control_category": {"African control": "green", "Joint African/foreign control": "blue",
                                "US control": "amber", "Other foreign control": "amber"}}
+
+IH = "institution-hosting"
+IH_DIR = CORPUS / "R&D" / "Hyperscaler-dependence"
+IH_COLS = ("iso3", "institution", "type", "us_hyperscaler_share", "us_saas_share", "cdn_share",
+           "national_or_self_share", "african_dc_share", "telco_share", "foreign_host_share", "mail_provider")
+IH_FILTERS = ("iso3", "type", "tangled_hybrid")
+IH_NUMERIC = ("names", "routable", "us_hyperscaler_share", "african_region_share", "us_saas_share",
+              "cdn_share", "national_or_self_share", "telco_share", "african_dc_share", "foreign_host_share",
+              "chinese_cloud_share", "unusable_share", "unattributed")
+IH_DETAIL = ("domains", "names", "routable", "unattributed", "mail_security", "scan_date")
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -136,20 +151,21 @@ def changes_html(rows: list[dict], names: dict) -> str:
     return "\n".join(out)
 
 
-def publish_metadata(name: str) -> Path:
+def publish_metadata(name: str, src: Path | None = None) -> Path:
     """The field dictionary beside the other two in `site/metadata/`, undated like them: it
-    describes columns, not findings. A build product — the master is `outputs/datasets/`."""
+    describes columns, not findings. A build product — the master is `outputs/datasets/`, or
+    `src` for a dataset kept elsewhere."""
     dst = SITE / "metadata" / f"{name}-metadata.csv"
-    body = (dl.DATASETS / name / "metadata.csv").read_bytes().replace(b"\r\n", b"\n")
+    body = (src or dl.DATASETS / name / "metadata.csv").read_bytes().replace(b"\r\n", b"\n")
     if not dst.exists() or dst.read_bytes() != body:
         dst.write_bytes(body)
     return dst
 
 
-def fields(name: str) -> list[dict]:
+def fields(name: str, meta: list[dict] | None = None) -> list[dict]:
     # structured_data.fields_from reads the capitalised headers the older dictionaries use.
     return structured_data.fields_from([{"Column": m["column"], "Definition": m["definition"]}
-                                        for m in dl.metadata(name)])
+                                        for m in (meta if meta is not None else dl.metadata(name))])
 
 
 CHROME = chrome("datasets", depth=2)
@@ -258,13 +274,89 @@ DC_PAGE = """<!DOCTYPE html>
 </html>
 """
 
+IH_PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Institution hosting in Africa — Data Landscapers</title>
+<meta name="description" content="Where 1,830 strategic institutions in 54 African countries host their websites, email and name servers: US cloud, US online services, shields such as Cloudflare, or government and own systems. Searchable and downloadable.">
+<link rel="canonical" href="{base}/datasets/institution-hosting/">
+{artefacts}
+{styles}
+<link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
+{jsonld}
+{ga}
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      {feedback}
+      <div class="article-header__crumb"><a href="{base}/datasets/">Datasets</a></div>
+      <h1 class="article-header__title">Institution hosting</h1>
+    </header>
+
+    <div class="byline">{institutions} institutions &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; scanned {scanned}</div>
+
+{intro}
+
+{table_note}
+
+    <div class="dl-datatable"
+      data-src="{csv_name}"
+      data-cols="{cols}"
+      data-filters="{filters}"
+      data-numeric="{numeric}"
+      data-labels="{labels}"
+      data-detail="{detail}"
+      data-sort="iso3:asc"
+      data-empty="No institution matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; institution hosting</span>
+        <span class="dt-count">{institutions} rows</span>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../metadata/#institution-hosting">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Edition</dt><dd class="mono">{edition}</dd>
+        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, kept as published and never revised</dd>
+        <dt>Fields</dt><dd><a href="../metadata/#institution-hosting">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+{datatable}
+</body>
+</html>
+"""
+
 INDEX_PAGE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Datasets — Data Landscapers</title>
-<meta name="description" content="Downloadable datasets on Africa's digital transformation: data centres, non-state finance, and the catalogue of every source we hold.">
+<meta name="description" content="Downloadable datasets on Africa's digital transformation: data centres, where strategic institutions host their services, non-state finance, and the catalogue of every source we hold.">
 <link rel="canonical" href="{base}/datasets/">
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
@@ -292,6 +384,10 @@ INDEX_PAGE = """<!DOCTYPE html>
     <div class="byline">{facilities} facilities &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; edition {edition}</div>
 {dc}
 {status}
+
+    <h2 class="section-heading"><a href="institution-hosting/">Institution hosting</a></h2>
+    <div class="byline">{ih_institutions} institutions &nbsp;·&nbsp; {ih_countries} countries &nbsp;·&nbsp; edition {ih_edition}</div>
+{ih}
 
     <h2 class="section-heading"><a href="../catalogue/">Catalogue</a></h2>
 {catalogue}
@@ -337,7 +433,7 @@ def build_metadata() -> None:
         feedback=feedback("Datasets — metadata", canonical),
         h1="Metadata", title="Datasets — metadata",
         description="What each column in the Data Landscapers datasets means: data centres, "
-                    "non-state finance and the catalogue.",
+                    "institution hosting, non-state finance and the catalogue.",
         canonical=canonical, base=SITE_BASE, main=MAIN_SITE, body_class="",
         chrome=chrome("datasets", depth=2), foot=foot(depth=2),
         styles=styles(2, "methodology.css"), ga=ga(),
@@ -346,12 +442,63 @@ def build_metadata() -> None:
     )), encoding="utf-8")
 
 
+def read_csv(path: Path) -> list[dict]:
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        return list(csv.DictReader(f))
+
+
+def build_institution_hosting(names: dict) -> dict:
+    """`/datasets/institution-hosting/`: the hyperscaler scan's per-institution file, published
+    as a dated edition like the data centres. Returns the counts the index prints."""
+    src = IH_DIR / f"{IH}.csv"
+    meta_src = IH_DIR / f"{IH}-metadata.csv"
+    rows, meta = read_csv(src), read_csv(meta_src)
+    out = OUT / IH
+    out.mkdir(parents=True, exist_ok=True)
+    body = src.read_bytes().replace(b"\r\n", b"\n")
+    page = out / "index.html"
+    csv_path, _ = editions.publish(body, out, IH, ".csv", page=page)
+    edition = editions.edition_of(csv_path.stem) or ""
+    used = sorted({r["iso3"] for r in rows})
+    dates = sorted({r["scan_date"] for r in rows if r["scan_date"]})
+    scanned = dates[0] if len(dates) == 1 else f"{dates[0]} to {dates[-1]}"
+    jsonld = structured_data.dataset(
+        name="Data Landscapers institution hosting — Africa",
+        description=copy_md("datasets", "dataset-institution-hosting"),
+        url=f"{SITE_BASE}/datasets/{IH}/",
+        csv_url=f"{SITE_BASE}/datasets/{IH}/{csv_path.name}",
+        csv_bytes=structured_data.bytes_of(csv_path),
+        records=len(rows),
+        fields=fields(IH, meta),
+        entity={"@type": "Place", "name": "Africa"},
+        modified=edition or None,
+        version=edition or None,
+        extra_keywords=("Cloud computing", "Digital infrastructure", "Data sovereignty"))
+    page.write_text(external_links(IH_PAGE.format(
+        feedback=feedback("Institution hosting", f"{SITE_BASE}/datasets/{IH}/"),
+        base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=foot(depth=2),
+        styles=styles(2, "country.css", "datatable.css"), ga=ga(),
+        datatable=script("datatable.js", 2),
+        artefacts=editions.artefact_meta(IH, edition, editions.digest(body)), jsonld=jsonld,
+        intro=indent(copy("datasets", "institution-hosting-intro")),
+        table_note=indent(copy("datasets", "institution-hosting-table-note")),
+        csv_name=csv_path.name, metadata=f"{IH}-metadata.csv",
+        cols=", ".join(IH_COLS), filters=", ".join(IH_FILTERS), numeric=", ".join(IH_NUMERIC),
+        detail=", ".join(IH_DETAIL),
+        labels=attr({"iso3": {c: names.get(c, c) for c in used}}),
+        institutions=f"{len(rows):,}", countries=len(used), scanned=scanned,
+        built=date.today().isoformat(), edition=edition)), encoding="utf-8")
+    print(f"datasets: {IH} {len(rows)} rows, edition {edition} -> site/datasets/{IH}/")
+    return dict(ih_institutions=f"{len(rows):,}", ih_countries=len(used), ih_edition=edition)
+
+
 def main() -> int:
     rows = dl.read(NAME)
     names = country_names()
     out = OUT / NAME
     out.mkdir(parents=True, exist_ok=True)
     publish_metadata(NAME)
+    publish_metadata(IH, IH_DIR / f"{IH}-metadata.csv")
     build_metadata()
 
     # Published before the page, which links it by name (finance.py sets out why, and why LF).
@@ -387,12 +534,15 @@ def main() -> int:
         changes_csv=c_path.name, recent=min(RECENT, len(changes)), n_changes=f"{len(changes):,}", changes_s="" if len(changes) == 1 else "s",
         built=date.today().isoformat(), edition=edition, **counts)), encoding="utf-8")
 
+    ih_counts = build_institution_hosting(names)
+
     (OUT / "index.html").write_text(external_links(INDEX_PAGE.format(
         feedback=feedback("Datasets", f"{SITE_BASE}/datasets/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME_INDEX, foot=foot(depth=1),
         styles=styles(1, "country.css"), ga=ga(), status=notice(),
         intro=indent(copy("datasets", "index-intro")),
         dc=indent(copy("datasets", "index-data-centres")),
+        ih=indent(copy("datasets", "index-institution-hosting")), **ih_counts,
         finance=indent(copy("datasets", "index-finance")),
         catalogue=indent(copy("datasets", "index-catalogue")),
         metadata=indent(copy("datasets", "index-metadata")),

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Institution hosting in Africa — Data Landscapers</title>
+<meta name="description" content="Where 1,830 strategic institutions in 54 African countries host their websites, email and name servers: US cloud, US online services, shields such as Cloudflare, or government and own systems. Searchable and downloadable.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/datasets/institution-hosting/">
+<meta name="dl-artefact" content="institution-hosting|2026-09-30|ba659e857e64">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
+<link rel="stylesheet" href="../../assets/css/country.css?v=f707e846">
+<link rel="stylesheet" href="../../assets/css/datatable.css?v=59432600">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/datasets/institution-hosting/#dataset",
+  "name": "Data Landscapers institution hosting — Africa",
+  "description": "Where strategic institutions in 54 African countries host their public internet services: one record per institution, covering the presidency, ministries, regulators, security services, the largest banks and the payment systems. Each record gives the domains scanned, the number of working addresses found, and the share of them on US cloud (Amazon, Microsoft, Google, Oracle), on those companies' African data centres, on US online services, behind a shield such as Cloudflare, on government or the institution's own systems, on African data centres and IT firms, on telecoms networks, on other foreign hosts and on Chinese cloud. It also records the email provider and any mail filter. Figures come from passive DNS lookups on the scan date and describe websites, mail and name servers, not internal systems. Each published file is a dated edition that is never revised.",
+  "url": "https://corpus.data-landscapers.io/datasets/institution-hosting/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Cloud computing",
+    "Digital infrastructure",
+    "Data sovereignty",
+    "Africa"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Africa"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "iso3",
+      "description": "The country the institution belongs to, as a three-letter code (KEN is Kenya)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "type",
+      "description": "The kind of institution, such as Central Bank or Defence."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "institution",
+      "description": "The institution's name."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "domains",
+      "description": "The institution's internet domains that the scan started from."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "names",
+      "description": "How many different web and mail names the scan found under the institution's domains."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "routable",
+      "description": "How many address, mail-server and name-server records led to a working server. Every share in this file is a share of this number."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "us_hyperscaler_share",
+      "description": "Share of working addresses on Amazon, Microsoft, Google or Oracle cloud, wherever the data centre is."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "african_region_share",
+      "description": "Share of working addresses on those US cloud companies' African data centres. It is part of the US cloud share, not added to it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "us_saas_share",
+      "description": "Share of working addresses on US online services such as Microsoft 365 or Salesforce."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "cdn_share",
+      "description": "Share of working addresses behind a shield such as Cloudflare or Akamai, which hides the real host. Any of these could also be on US cloud."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "national_or_self_share",
+      "description": "Share of working addresses on a government data centre or the institution's own network."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "telco_share",
+      "description": "Share of working addresses on a telecoms operator or internet provider."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "african_dc_share",
+      "description": "Share of working addresses on African colocation, cloud and IT service companies, including banks' own networks."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "foreign_host_share",
+      "description": "Share of working addresses on non-African hosting firms other than the four US cloud companies, such as OVH, Hetzner, DigitalOcean or GoDaddy."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "chinese_cloud_share",
+      "description": "Share of working addresses on Huawei, Alibaba or Tencent cloud."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "unusable_share",
+      "description": "An address that cannot be reached from the internet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "unattributed",
+      "description": "How many working addresses no source could place. A count"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "mail_provider",
+      "description": "Who receives the institution's email, from its mail records. m365: Microsoft 365. google: Google. self: the institution's own servers. none: no mail record on the domain scanned. other: another provider, named after the colon."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "mail_security",
+      "description": "A mail security service the mail passes through first, such as mimecast or proofpoint. It can hide which provider holds the mailboxes. Blank if none seen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "tangled_hybrid",
+      "description": "true where the institution has at least one address on a government data centre or its own network and at least one on US cloud."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scan_date",
+      "description": "The day the institution was scanned. Every figure is as of this date."
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/datasets/institution-hosting/institution-hosting-2026-09-30.csv",
+      "contentSize": "298 KB"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 1830
+  },
+  "dateModified": "2026-09-30",
+  "version": "2026-09-30",
+  "datePublished": "2026-09-30"
+}
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/" class="active">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Institution%20hosting&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/datasets/institution-hosting/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <div class="article-header__crumb"><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a></div>
+      <h1 class="article-header__title">Institution hosting</h1>
+    </header>
+
+    <div class="byline">1,830 institutions &nbsp;·&nbsp; 54 countries &nbsp;·&nbsp; scanned 2026-09-28 to 2026-09-29</div>
+
+    <p>One row per institution: the presidency, ministries, regulators, security services, the largest banks and the payment systems, in 54 countries. For each one the table shows where its public internet services are hosted: on US cloud (Amazon, Microsoft, Google, Oracle), on US online services such as Microsoft 365, behind a shield such as Cloudflare that hides the real host, on government or the institution's own systems, on African data centres, on telecoms networks, or with other foreign hosts. <strong>Figures are shares of the institution's working addresses on the scan date, and together they add up to 100.</strong> The scan sees websites, mail and name servers only. It does not see where databases, payroll or core banking systems run.</p>
+
+    <p>Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field. Shares are percentages.</p>
+
+    <div class="dl-datatable"
+      data-src="institution-hosting-2026-09-30.csv"
+      data-cols="iso3, institution, type, us_hyperscaler_share, us_saas_share, cdn_share, national_or_self_share, african_dc_share, telco_share, foreign_host_share, mail_provider"
+      data-filters="iso3, type, tangled_hybrid"
+      data-numeric="names, routable, us_hyperscaler_share, african_region_share, us_saas_share, cdn_share, national_or_self_share, telco_share, african_dc_share, foreign_host_share, chinese_cloud_share, unusable_share, unattributed"
+      data-labels="{&quot;iso3&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;ERI&quot;: &quot;Eritrea&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;GNB&quot;: &quot;Guinea-Bissau&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;STP&quot;: &quot;Sao Tome and Principe&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;}}"
+      data-detail="domains, names, routable, unattributed, mail_security, scan_date"
+      data-sort="iso3:asc"
+      data-empty="No institution matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; institution hosting</span>
+        <span class="dt-count">1,830 rows</span>
+        <a class="btn btn--sm" href="institution-hosting-2026-09-30.csv" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../metadata/#institution-hosting">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="institution-hosting-2026-09-30.csv">institution-hosting-2026-09-30.csv</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-09-30</dd>
+        <dt>Edition</dt><dd class="mono">2026-09-30</dd>
+        <dt>This file</dt><dd><a href="institution-hosting-2026-09-30.csv">institution-hosting-2026-09-30.csv</a> &mdash; a dated edition, kept as published and never revised</dd>
+        <dt>Fields</dt><dd><a href="../metadata/#institution-hosting">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/institution-hosting-metadata.csv">institution-hosting-metadata.csv</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+<script src="../../assets/js/datatable.js?v=20dcfdfd"></script>
+</body>
+</html>

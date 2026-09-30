@@ -1,3 +1,7 @@
+## 30 September 2026
+
+- A new dataset, [Institution hosting](/datasets/institution-hosting/), shows where 1,830 ministries, regulators, security services, banks and payment systems in 54 countries host their websites, email and name servers. Each row gives the shares on US cloud, US online services, shields, African data centres, telecoms networks and their own systems, and can be downloaded.
+
 ## 29 September 2026
 
 - West Africa's regional finance figures now count the first phase of the WARDIP programme once, through its country and institution components. The US$266.5m regional total that repeated them no longer adds to the region's figures.
