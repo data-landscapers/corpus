@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: TUN
-ledger_rows: 70
+ledger_rows: 75
 not_held: 5
-record: 5f5c6d0cdfdf
+record: 7c38e4635836
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -42,6 +42,8 @@ The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-e
 
 <!-- narrative: governance--gov-regional -->
 Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab League's working group on artificial-intelligence innovation and technological solutions at the permanent committee's inaugural meeting in Tunis](https://www.businesstec.news/23334), and [hosted the ninth Arab conference of directors of nationality and civil-status departments, which closed in Tunis on 19 August](https://gate.ahram.org.eg/News/5891986.aspx). Neither carries a work programme, a decision or a text on the record.
+
+An international telehealth conference opened in Tunis on 29 September with representatives of more than 30 countries, and the health minister [announced a Tunis Declaration on digital health for adoption at its close](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No text is held.
 <!-- /narrative -->
 ### Standards
 
@@ -74,11 +76,15 @@ A restricted ministerial council on [4 August 2026 set the orientations of the 2
 A measurement study of North African 5G published on [3 August 2026](https://www.ookla.com/articles/5g-north-africa-2026), cited rather than absorbed, reports the Tunisian 5G median down 30% from launch by month six and the combined 4G and 5G median below the pre-launch baseline, while fixed-wireless lines rose to 319,554 by May 2026 under the regulator's 30 Mbps obligation. Nothing published bears on the submarine cables, data centres or satellite licensing.
 
 The one physical build to move was a stalled one. The grands projets commission [ordered immediate procurement to complete the Cite Numerique d'Ennahli technology park](https://www.lapresse.tn/2026/08/10/grands-projets-acceleration-de-lextension-de-la-centrale-de-borj-el-amri-et-de-deux-projets-hospitalier-et-numerique/) at a review session chaired by the Prime Minister on 10 August, alongside unrelated power-station and hospital projects. No cost, completion date, occupancy plan or account of why the park was incomplete is stated.
+
+On 29 September the incumbent's chief executive [put its national fibre network at more than 70,000 km](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/), the operator's own figure with no route inventory behind it.
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
 Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
+
+On 29 September the health minister [named a Tunisian sovereign cloud as the host for every citizen's health identifier and digital medical record](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No operator, provider or amount is named.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -107,6 +113,8 @@ The health identifier's provenance became public on [27 July 2026](https://www.a
 A second identifier moved a step behind it. At a ministerial session at La Kasbah on 18 August the government decided to [upgrade the social identifier system, digitise social-security cards and services and put interconnected systems in place for real-time data exchange between the social funds, health structures and insured persons](https://www.pm.gov.tn/ar/article/mjls-wzary-19), with drafting of the reform texts to begin immediately. The communique states no timetable, no legal basis for the identifier and no scope.
 
 The mobile identity spread to another ministry. An agriculture ministry circular [requires every body under it to integrate E-Houwiya into its online services by 15 November 2026, making its identifier the sole reference for any new service and requiring strong multi-factor authentication](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/).
+
+On 29 September the health minister [set a target of a unique health identifier and a digital medical record for every citizen before the end of 2026](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No coverage figure accompanied the target.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -168,7 +176,9 @@ Two records of rural service digitisation carry the same date, both from the bod
 <!-- narrative: technology--tech-ai -->
 The period's artificial-intelligence document came from outside the state. A diaspora alumni association [presented a Livre Blanc at the Tunisia Global Forum on 21-22 July](https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/) and its contents were [reported on 5 August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/): a 2030 vision of a country able to create, adopt and deploy trustworthy artificial intelligence, against a stated baseline of 12.7% adoption at end-2025 and 4,120 developers per million inhabitants. It [names the constraints as the absence of large-scale data centres and sovereign compute, brain drain, and small firms that are 90% of the economic fabric](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/), and prescribes frugal compute investment sized by measured demand. The document is declared open source and is not posted anywhere reachable, so all of that is held at press-summary precision.
 
-The state's own document surfaced at the end of the window and settles a gap this ledger has carried. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
+The state's own document surfaced in mid-August. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
+
+At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record.
 <!-- /narrative -->
 ### Innovation ecosystem
 

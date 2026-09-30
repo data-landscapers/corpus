@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: AGO
-ledger_rows: 68
+ledger_rows: 70
 not_held: 6
-record: d59621692218
+record: 280d416d1799
 ---
 
 # Angola: monthly update, August – September 2026
@@ -85,6 +85,8 @@ An operator [installed 20 towers in Cabinda with commercial service days away](h
 The national fibre network [opened its first link at Lobito on 16 September](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/), a DWDM route from Luanda through Bengo and Cuanza Sul, with Huambo, Namibe and Cabinda named next; the same day [a fibre-to-the-home service went live for a 1,000-dwelling housing centre at Baia Farta](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-lanca-servico-de-internet-tudonosso-na-baia-farta/). The ministry [put the section completed to Lobito at about 400 Gb](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/). Separately the national radio [finished the Luanda phase of a transmitter programme meant to raise coverage from 63 to 76 per cent of the population](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/).
 
 The incumbent operator [reported more than 21.2 million subscribers and 12,302 base stations for the first half of 2026, with 5G extended to Namibe, Malanje, Kwanza Sul, Zaire and Cabinda](https://techafricanews.com/2026/09/22/unitel-revenue-rises-17-percent-274-billion-kwanzas-h1-2026/), on its own figures.
+
+The national cable company [began deploying new optical equipment across its South Atlantic and MONET submarine systems](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology), adding 800G interfaces on a 12,780 km Angola-United States route at 130 ms round trip, on the equipment vendor's announcement of 29 September. No capacity total or completion date is stated.
 <!-- /narrative -->
 ### Data Storage
 
@@ -113,6 +115,8 @@ The year's national technology fair took cybersecurity as its theme rather than 
 The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
 
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
+
+The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

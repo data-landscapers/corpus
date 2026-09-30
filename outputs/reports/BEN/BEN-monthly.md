@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: BEN
-ledger_rows: 42
+ledger_rows: 43
 not_held: 4
-record: 4e18a7fc153b
+record: cf400a5892b6
 ---
 
 # Benin: monthly update, August – September 2026
@@ -69,6 +69,8 @@ The regulator published a competitive ranking. Its weekly readings [placed the s
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The month's one figure for how exposed the country is came from a vendor rather than the state. In a national newspaper interview the head of the computer emergency response body [cited 631 ransomware threats detected in Benin in 2024, on security-vendor telemetry reported through Interpol's Africa assessment](https://lanation.bj/numerique/francois-amour-bakpe-a-propos-des-cybermenaces-les-631-detections-doivent-nous-inciter-a-renforcer-la-prevention-et-la-reaction), attributing the rise to fast adoption outrunning security practice and to a criminal market where access and tooling can be rented rather than built. How much of the national estate that vendor sees is unpublished, so the count is not a measure of national exposure, and no incident, ransom-payment or recovery figure stands beside it.
+
+Information-security officers from public and private institutions [constituted a professional club on 26 September](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux), adopting statutes and electing an 11-member board, with the aim of pooling expertise, training members and sharing lessons from incidents in confidence.
 <!-- /narrative -->
 
 ## DPI

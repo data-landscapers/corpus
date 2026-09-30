@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: LSO
-ledger_rows: 36
+ledger_rows: 37
 not_held: 4
-record: bbed3d2bb881
+record: e51455898131
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -33,6 +33,8 @@ The month's policy work is a strategy being drafted rather than one adopted. A [
 No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both then awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the repository does not hold.
 
 The Cybersecurity Bill 2026 then went back to stakeholders: its draft [was circulated for review in August and taken to a second consultation workshop on 23 September](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/), proposing a two-tier regulatory regime and the registration of cybersecurity professionals.
+
+The communications ministry [took the Electronic Transactions and Communications Bill, 2026 to a stakeholder validation workshop in Maseru from 28 September](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/), with UNDP support. It [revises the unenacted 2022 Bill and goes next to the Office of the Parliamentary Counsel](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ); the revised text is not held.
 <!-- /narrative -->
 ### Data protection
 

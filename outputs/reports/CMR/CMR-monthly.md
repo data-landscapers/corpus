@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: CMR
-ledger_rows: 50
+ledger_rows: 51
 not_held: 4
-record: eb4578fb786c
+record: b3613eaa15cf
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -91,6 +91,8 @@ The digital transformation project [launched train.patnucelearning.cm on 21 Sept
 The month produced the repository's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
 
 The gap between the governing statute and the threat it governs was measured from outside government. A policy institute's brief puts [cyberattacks up 156% between 2020 and 2023, financial losses from digital fraud above US$45m over the same period, and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/), and argues that cybersecurity belongs in the national development strategy as industrial policy rather than as a compliance obligation. The figures are the institute's own, with no underlying series or agency return held — which is itself part of its case.
+
+At a national cyberspace-security forum opened in Yaoundé on 29 September, co-hosted with the Russian embassy, the national ICT agency [reported 17,500 cybercrime complaints in 2025 with 5.8 billion FCFA of declared losses, and, since January 2026, 21,280 compromised machines, 39 attacks on public-administration websites and 5,369 vulnerabilities across 150 scanned websites](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise). It cited a March 2026 ransomware attack that [halted half of a public body's systems and cut its email for nearly a month](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise).
 <!-- /narrative -->
 
 ## DPI

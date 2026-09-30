@@ -1,12 +1,12 @@
 ---
 title: Nigeria: status report
-compiled: 2026-09-29
+compiled: 2026-09-30
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 272
+sources_cited: 273
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -174,7 +174,7 @@ Outward, the credential travels further than it did. Nigeria [began issuing the 
 
 The IMF found in June 2026 that [Nigerians' shift into dollar-linked stablecoins is weakening demand for the naira and blunting the transmission of monetary policy](https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria), which makes retail crypto adoption a monetary-sovereignty question rather than a consumer-protection one. The scale behind that finding is [US$59bn of crypto-asset inflows between July 2023 and June 2024, second place globally on the 2024 adoption index and sixth in 2025, and around 60% of sub-Saharan Africa's stablecoin inflows since 2019](https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria).
 
-The domestic rails are old and heavily used. [The instant payment scheme has run since 2011 and handled around 11 billion transactions in 2024](https://www.africanenda.org/uploads/files/siips2025/siips_2025_NIP-Nigeria_CaseStudy_en.pdf), and [electronic transactions were worth ₦1.2 quadrillion in 2025, against ₦395 trillion in 2022](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/). [The first live transaction on a next-generation National Payment Stack, built to ISO 20022, settled on 7 November 2025](https://www.thisdaylive.com/2025/11/10/nibss-executes-first-transaction-on-national-payment-stack/). Who decides how that rail runs is narrower than who uses it — [the scheme is governed by a board of a central bank deputy governor and the chief executives of the deposit-taking banks, other participants reaching it through focus groups and industry engagement sessions rather than seats](https://www.africanenda.org/uploads/files/siips2025/siips_2025_NIP-Nigeria_CaseStudy_en.pdf). [Access to banking services ranks Nigeria 12th of 54 in Africa on a score of 31.6 out of 100, up 2.3 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf) (2023).
+The domestic rails are old and heavily used. [The instant payment scheme has run since 2011 and handled around 11 billion transactions in 2024](https://www.africanenda.org/uploads/files/siips2025/siips_2025_NIP-Nigeria_CaseStudy_en.pdf), and [electronic transactions were worth ₦1.2 quadrillion in 2025, against ₦395 trillion in 2022](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/). [The first live transaction on a next-generation National Payment Stack, built to ISO 20022, settled on 7 November 2025](https://www.thisdaylive.com/2025/11/10/nibss-executes-first-transaction-on-national-payment-stack/), and [the settlement operator said the stack had passed 100 million successful transactions by late September 2026, as one rail for banks, microfinance banks, fintechs, mobile money operators and payment service providers](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/). Who decides how that rail runs is narrower than who uses it — [the scheme is governed by a board of a central bank deputy governor and the chief executives of the deposit-taking banks, other participants reaching it through focus groups and industry engagement sessions rather than seats](https://www.africanenda.org/uploads/files/siips2025/siips_2025_NIP-Nigeria_CaseStudy_en.pdf). [Access to banking services ranks Nigeria 12th of 54 in Africa on a score of 31.6 out of 100, up 2.3 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf) (2023).
 
 The state's own digital currency has gone the other way: [the eNaira is being redesigned toward a wholesale model in which licensed institutions hold the customer relationship](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/). Virtual assets are handled by coordination rather than consolidation: an executive order [establishes a Virtual Asset Council chaired by the central bank with the revenue service and the securities commission as vice-chairs, and a shared supervisory-technology platform](https://www.vanguardngr.com/2026/08/from-ban-to-blueprint-nigerias-virtual-assets-turn/), while [creating no new regulator and transferring no statutory power](https://www.vanguardngr.com/2026/08/from-ban-to-blueprint-nigerias-virtual-assets-turn/).
 

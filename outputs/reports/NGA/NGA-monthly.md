@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: NGA
-ledger_rows: 231
+ledger_rows: 236
 not_held: 9
-record: dddca99c329a
+record: 1423a252b71c
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -147,6 +147,8 @@ The tower programme set a first milestone and the satellite programme a first co
 Rural connectivity was folded into the electrification programme. A rural infrastructure company [secured a World Bank-backed results-based facility to deploy 2G, 4G, broadband and community Wi-Fi in 500 unserved and underserved communities under the US$750m DARES programme with the Rural Electrification Agency](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/). The account rests on documents seen by one newspaper and gives no facility amount or signing date.
 
 A rural network operator [announced a pilot of licensed satellite backhaul at one rural site with its partner Infratel](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/), buying the service through third-party resellers; no start date or result is published.
+
+An operator executive [said at the regulator's investment forum on 29 September that more than 13 states had removed right-of-way fees or cut them to the federal benchmark of N145 per metre](https://guardian.ng/news/ncc-hinges-1tr-economy-on-telecoms-digital-infrastructure/), adding that separate state road-reinstatement charges offset the saving.
 <!-- /narrative -->
 ### Data Storage
 
@@ -234,6 +236,8 @@ On the cross-border rail the operator reported [Nigeria–Rwanda volumes approac
 A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). The same round [puts overall use at 79 per cent of adults and formal inclusion at 73 per cent, past the national strategy's 70 per cent target](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
 
 Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
+
+The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given.
 <!-- /narrative -->
 ### Registries
 
@@ -260,6 +264,8 @@ The health ministry [inaugurated the steering committee of a new office to coord
 The Gates Foundation and MTN's group foundation [announced a maternal health programme on 23 September with an initial investment of about US$25m for 2026 to 2030](https://techafricanews.com/2026/09/23/mtn-gates-foundation-nigeria-maternal-health-multiplier/), combining AI-enabled decision support for health workers and mothers with affordable phones, data and facility connectivity, and targeting 500,000 women, 5,000 health workers and 500 facilities by 2030. The funders' shares are not stated.
 
 The statistics bureau, the ILO and UNICEF [opened a three-day dialogue on 22 September to introduce a Social Protection Management Information System and agree regular sharing of administrative data the ILO calls fragmented and inconsistent](https://tribuneonlineng.com/nbs-ilo-unicef-move-to-unify-nigerias-social-protection-data/), after pilots in four states under an EU-funded programme; no outcome is yet reported.
+
+Opening a dialogue on the AGROW programme on 29 September, the agriculture minister [called for a national digital farmers register](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/), with states leading enumeration and verification, a federal agricultural data department coordinating one interoperable standard, and farmers linked to their national identity number.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -277,6 +283,8 @@ The police opened a public fraud-reporting channel on 1 September, and it is the
 Two September measures reach further into the state. A [single 112 emergency number, approved by the National Economic Council, went to a rollout committee of the police, communications regulator, emergency agency and road safety corps on 8 September](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line), with funding promised once the roadmap exists. And the procurement bureau's [Digital Submission Portal was made mandatory for every federal agency's procurement requests](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/), an internal record that publishes no award. On the one citizen survey held, [digital-government adoption stands at 50% while net satisfaction fell five points from 2024 to 64%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91).
 
 Ondo State followed its payroll platform with [Ondo AI, launched to automate personnel administration, payroll, retirement processing and pension migration](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/). The report does not say whether it is the same platform as Ondo Pay or a second one, and gives no launch date.
+
+The National Assembly's library trust fund [said on 28 September it is building electronic repositories, a legislative app and a Bills Tracker, and will translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html). No launch date is stated.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -354,6 +362,10 @@ The accessibility requirement is not reaching the platforms it binds. [None of e
 Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
 
 A wider sample gave a less bleak figure: [47% of about 30 government digital platforms met an accessibility threshold](https://www.itweb.africa/article/nigerian-govt-platforms-fail-access-test/KA3Ww7dzPjkqrydZ) in an assessment presented to the technology agency, which said it is considering national accessibility standards.
+
+An urban survey of 13,251 respondents in 12 cities, published in September by a consultancy and an operator group, [put smartphone ownership at 75% in 2025 against 64% in 2023, and found more than a third of mobile subscribers still on 2G in May 2026](https://assets.kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf).
+
+A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people.
 <!-- /narrative -->
 ### Digital divides
 
@@ -373,6 +385,8 @@ A civil-society account on 24 September [reported the national strategy for comm
 An inclusive-data initiative brought the national statistics office into a five-country programme.
 
 A state put a household survey at the centre of its budgeting. Katsina [launched six planning documents on 28 August, among them a General Household Survey Report and a State Statistical Yearbook covering poverty, employment, livelihoods, agriculture, education, healthcare, housing, water, sanitation and access to basic services across its 34 local government areas](https://www.vanguardngr.com/2026/08/radda-moves-katsina-to-data-driven-governance-targets-poverty-food-crisis/), the budget commissioner directing agencies to align their programmes to the new frameworks.
+
+The agriculture ministry [said on 29 September it had finalised a Federal Department of Agricultural Data and Analytics](https://fmino.gov.ng/at-agrow-dialogue-in-abuja-kyari-calls-for-national-digital-farmers-register-to-end-duplication-target-support-to-real-farmers/) to coordinate a single standard for a national farmers register. No establishing instrument is held.
 <!-- /narrative -->
 ### Open data
 
