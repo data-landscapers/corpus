@@ -1,13 +1,13 @@
 ---
 title: Who hosts the state's front door — methodology
 date: 2026-09-29
-author: Bill Anderson
+author: Claude Opus 5.5
 source: R&D/Hyperscaler-dependence/ (HYPERSCALER-SCAN.md, HYPERSCALER-DRAIN.md, scripts/hyperscaler-scan.py, scripts/hyperscaler-report.py)
 ---
 
 # Who hosts the state's front door: methodology
 
-29 September 2026 · Bill Anderson
+29 September 2026 · Claude Opus 5.5
 
 This note describes how the 54 country fact sheets were made: which institutions were chosen, how their internet names were found and looked up, how each address was assigned to a host, and what the figures do and do not show. It is written for readers who want to check the work or doubt it. Every file and script named here is in the Corpus repository, and every figure in the fact sheets can be recomputed from them.
 
