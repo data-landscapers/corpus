@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: MAR
 ledger_rows: 51
 not_held: 14
-record: e7ccc12fb48e
+record: f39310e22fcd
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -152,6 +152,8 @@ The one artificial-intelligence figure to move in the window is a ranking rather
 The institutional side did move. Four public-interest institutes [were established by publication in the Official Gazette, covering artificial-intelligence research and sovereign systems, education, industrial automation and smart cities](https://en.7news.ma/morocco-ai-institutes/), under the national digital and artificial-intelligence strategies. No budget, staffing or opening date is stated for any of them.
 
 The AI roadmap was presented as moving to delivery on 8 September. The ministry [set targets of MAD 100bn in value added, 50,000 jobs and 200,000 certified talents by 2030](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-le-8-septembre-2026-%C3%A0-rabat-une-pr%C3%A9sentation-consacr%C3%A9e-%C3%A0-l%E2%80%99%C3%A9tat-actuel-de-la-feuille-de-route-%C2%AB-maroc-pour-l%E2%80%99intelligence-artificielle-2030-%C2%BB), [showed a sovereign AI marketplace, an assistant on the administrative-procedures portal and a national e-wallet proof of concept](https://panorapost.ma/post.php?id=57071), and the four JAZARI institutes [held general assemblies and moved to operations](https://www.mmsp.gov.ma/fr/actualites/les-assembl%C3%A9es-g%C3%A9n%C3%A9rales-de-quatre-instituts-%C2%AB-jazari-%C2%BB-se-sont-tenues-le-8-septembre-2026-%C3%A0-rabat-sous-la-pr%C3%A9sidence-de-madame-la-ministre-amal-el-fallah-seghrouchni). The roadmap document is still not published.
+
+On 30 September the digital ministry and Mistral [announced a Darija dialect classifier and a Darija speech-recognition model as the first open-source tools of their partnership](https://www.maroc.ma/fr/actualites/le-ministere-de-la-transition-numerique-et-mistral-annoncent-les-premieres-briques-dia-developpees), saying further generative-AI and public-service models are in development. The release does not say when the tools become available, and no terms, cost or data-hosting arrangement of the partnership is published.
 <!-- /narrative -->
 ### ICT Industry
 

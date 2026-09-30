@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: CAF
-ledger_rows: 25
+ledger_rows: 26
 not_held: 4
-record: 25cef8402cad
+record: 9a10382d7e6c
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -50,6 +50,11 @@ The government gave itself a unit to watch public debate. A presidential decree 
 
 ## Finance
 
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+After President Touadéra met the founder of the data-infrastructure and AI company AMINI at the UN General Assembly, the national internet and security unit [signed a cooperation memorandum with the company providing for a national data centre, a security operations centre, a national computer emergency response team and a digital twin of the mining subsoil](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/), reported on 29 September. No cost, financing, site, timetable or data-hosting terms are published.
+<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -68,7 +73,7 @@ The country's dependence on one neighbour was examined. A published assessment [
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The repository's only entry on storage this month is a continental project prospectus. A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
+A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
 
 Fire [damaged part of the national elections authority's data-processing centre in the week before 24 September](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/), weeks ahead of the October residual elections. The government opened an investigation and says the vote will go ahead; no cause, damage estimate or continuity arrangement is stated.
 <!-- /narrative -->

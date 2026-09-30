@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: COG
-ledger_rows: 33
+ledger_rows: 34
 not_held: 6
-record: 27ff6cb05785
+record: 3b1cebae75d5
 ---
 
 # Congo: monthly update, August – September 2026
@@ -95,6 +95,8 @@ The credential layer moved on stock rather than on design: the government [annou
 
 <!-- narrative: dpi--dpi-pay -->
 On 3 August the [public-revenue platform went live on the national payments switch](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), payment following a declaration, authenticated, reconciled in real time and routed to the treasury against a secured electronic receipt. Roll-out runs at large then medium enterprises, all taxpayers targeted by end-2026 and no wave dates published. The same account records the [treasury single account at the regional central bank still being finalised](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/).
+
+A domestic platform, Yano, [launched on 14 September for group collections and merchant payments across mobile-money operators through a QR code or link, holding no funds itself](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/), backed by a FCFA 655m incubation vehicle. Its co-founder gives no user or transaction figure, and no licence is stated.
 <!-- /narrative -->
 ### Registries
 

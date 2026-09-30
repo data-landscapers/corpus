@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-09-25
+compiled: 2026-09-30
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 102
+sources_cited: 103
 sections_written: 39
 not_established: 3
 acquire_lines: 27
@@ -153,7 +153,7 @@ The law has arrived ahead of the institutions. [A cybersecurity law and a data p
 
 What the state operates is governed no more tightly than what it legislates: [none of the government management systems in use - financial management, the treasury single account, customs, tax, human resources and payroll - has formal governance arrangements for compliance, security and audit trails (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). International assessment puts the country in [the weakest tier for national cybersecurity capacity in 2024](https://fraudforensics.substack.com/p/africas-standing-in-the-global-cybersecurity), after [a score of 3.6 on the 2018 index against 29.5 for Sub-Saharan Africa](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf).
 
-The most recent cybersecurity initiative points outward at speech rather than inward at the state's own systems: after AI-generated deepfakes of President Touadéra and other officials circulated, [the media regulator framed them as cybercrime and proposed tighter identification of SIM-card holders as the remedy (June 2026)](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/).
+Two initiatives followed in 2026. After AI-generated deepfakes of President Touadéra and other officials circulated, [the media regulator framed them as cybercrime and proposed tighter identification of SIM-card holders as the remedy (June 2026)](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/). [A memorandum signed by the national internet and security unit with the data-infrastructure company AMINI, reported in September 2026, provides for a national computer emergency response team and a security operations centre](https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/); neither is recorded as built.
 
 ## DPI
 

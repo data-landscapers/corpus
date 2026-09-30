@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: MWI
-ledger_rows: 70
+ledger_rows: 72
 not_held: 35
-record: 889c802a3cc1
+record: e5802a940ac2
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -78,6 +78,8 @@ The gap the licensing round is meant to close acquired figures in August. An ind
 The operator's annual report [puts network infrastructure investment at MK30.87bn in 2025, mainly modernisation, 4G site expansion and 5G](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
 
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
+
+The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date.
 <!-- /narrative -->
 ### Data Storage
 
@@ -129,6 +131,8 @@ The mobile credential launched on schedule. [The Nzika wallet went live in Lilon
 On International Identity Day the registration bureau [launched the Nzika wallet, holding national ID, birth, marriage and death credentials on a phone as an optional complement to the physical card, and the minister ended expiry dates on the card with immediate effect](https://www.biometricupdate.com/202609/malawi-drops-id-card-expiry-date-policy-as-digital-wallet-launches). The wallet was built under the donor-funded inclusive digital transformation programme. No verification standard or count of services accepting it is stated.
 
 An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
+
+On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

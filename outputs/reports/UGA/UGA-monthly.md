@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: UGA
-ledger_rows: 117
+ledger_rows: 118
 not_held: 11
-record: 327c631fb333
+record: 9789e2439ee0
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -128,6 +128,8 @@ The Cabinet decision of 1 September was narrowed twice in the week after it. The
 The cards are printed and not working. The registration authority [holds about 5.4 million printed cards uncollected, with 418 of 571 posts filled and 201 at client counters](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/), and told legislators on 9 September that [one mobile operator is the only partner fully onboarded to the information-exchange module it opened in March, so new cards are refused at banks and SIM counters](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/).
 
 The revenue authority then gave a firmer account than the finance minister's: [the TIN will be phased out for individuals in favour of the NIN, with companies using their registration number](https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026).
+
+The internal affairs minister [launched the integration of the national identification and tax identification systems](https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems) at the first national identity expo in Kololo, reported on 30 September. No commencement date or count of linked records is given.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -161,6 +163,8 @@ The business register meanwhile [opened its financial-year stakeholder engagemen
 A sectoral register was added beside them. The trade, industry and cooperatives ministry, with the National Sugar Stakeholders Council, [launched a Sugar Industry Information Management System to register every sugarcane farmer in the country and centralise data across cane cultivation, harvesting, milling, processing, distribution and market trends](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026). No farmer count, registration deadline, cost or data-protection provision is published, and nothing states how it relates to the national identification register.
 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
+
+The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held.
 <!-- /narrative -->
 ### Sectoral management information systems
 

@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: ETH
-ledger_rows: 46
+ledger_rows: 47
 not_held: 5
-record: cd531f745cb8
+record: 42f1d191bf68
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -75,6 +75,11 @@ The incumbent closed its financial year with [data and internet at 31.1% of reve
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
 
 The state utility then [cut the electricity it supplies to bitcoin and other data-mining customers by about 75 per cent, to around 23 per cent of contracted volumes, as reservoir levels fell ahead of the dry season](https://norvanreports.com/ethiopia-sacrifices-lucrative-bitcoin-mining-revenue-as-hydropower-crisis-deepens/), putting households and domestic industry first. How long the curtailment will last is not stated.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+On 29 September the Information Network Security Administration and the central bank [established a Financial Sector Cybersecurity Forum, jointly chaired by the two, for threat-information sharing, coordinated incident response and support to implementing cybersecurity policies and laws](https://techreviewafrica.com/news/7510/ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-resilience). Its membership and terms of reference are not published.
 <!-- /narrative -->
 
 ## DPI

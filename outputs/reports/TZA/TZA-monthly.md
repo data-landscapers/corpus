@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: TZA
-ledger_rows: 112
+ledger_rows: 116
 not_held: 5
-record: fe0870468cff
+record: 3d18155f3ff2
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -85,6 +85,8 @@ A Korean development cooperation fund [committed US$170m to build an AI and digi
 The women's digital-finance programme launched on 2 September was committed a year and a half earlier, inside a larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
 
 The Fair Competition Commission opened a review on 21 August of a [Kenyan bank's acquisition of 22.23% of the payments company Pesapal, which gives it indirect control of Pesapal's Tanzanian subsidiary, a payment service provider licensed by the Bank of Tanzania](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/). Public comment closed on 4 September; the price is undisclosed and no decision is on record.
+
+At the EU-Tanzania investment forum in Helsinki on 28 September the government [presented TZS 7,000bn of digital infrastructure investment to 2031, still to be mobilised, covering fibre-to-the-premises, the Kilimanjaro One submarine cable, device manufacture, a technology park and smart classrooms](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031). No financier or split between public and private money is published.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -105,6 +107,8 @@ The month's other route is a border crossing that has not begun. The foreign min
 The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated. The state operator [agreed with the Burundian backbone operator to raise cross-border capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/), reported 9 September.
 
 The service providers' association [upgraded the Dar es Salaam exchange's core switching to 100G on 23 September; the exchange connects 66 networks and averaged about 205 Gbps in late September against about 110 Gbps a year earlier, on its own statistics](https://tech.africa/tix-tanzania-100g-core-upgrade/). The regulator's director general [put available international capacity at 17,690 Gbps, of which 2,731 Gbps, or 15.4%, was in use in June 2026](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
+
+The same presentation [put smartphone penetration at 44.74% in June 2026](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031), against the regulator's 42.5% for March; no user count accompanies it.
 <!-- /narrative -->
 ### Data Storage
 
@@ -230,6 +234,8 @@ Three deployments were reported. A cardiac institute stated on 16 July that its 
 The only movement on machine-generated content is in the argument rather than the rule. Technology, academic and creative voices [backed digital watermarking of machine-generated content as a way to restore accountability and discourage over-reliance on the tools, following the European transparency duties that took effect on 2 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-watermarks-to-curb-excessive-reliance-on-ai-5581724). No domestic proposal, consultation or instrument follows from it, against online content rules that already prohibit such content outright.
 
 A month later the rules existed. On 31 August the e-Government Authority's board [approved standards and guidelines for AI in public institutions, binding every institution and every AI system it runs, requiring impact and risk assessments and prohibiting fully automated decisions with significant outcomes](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They are a standard under the e-government statute, not a law, and the national strategy text is still not public.
+
+On a study visit to Helsinki reported on 29 September, the ICT Commission's head of ICT development [said the National AI Strategic Framework 2026-2031 is awaiting approval, and that the commission proposes a national readiness and compute-demand assessment feeding a planned AI observatory](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). No text of the framework is published.
 <!-- /narrative -->
 ### ICT Industry
 

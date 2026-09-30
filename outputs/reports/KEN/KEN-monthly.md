@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-30
+period: 2026-08-01 to 2026-09-30
 place: KEN
-ledger_rows: 216
+ledger_rows: 219
 not_held: 7
-record: 130f45c819dc
+record: 1a664c542fa8
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -62,6 +62,8 @@ The regulator also pressed an older instrument into the campaign. The data commi
 A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
 
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
+
+The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -69,6 +71,8 @@ The regulator's [2026 guidance notes on cross-border transfers add standard cont
 The continental data convention still has no Kenyan signature behind it. A policy brief prepared for the accession process records that [Kenya has neither signed nor ratified the Malabo Convention, that the Cabinet approved a process step towards accession in September 2025, that the data protection commissioner then led national consultations closing 6 October 2025, and that the Attorney-General had cleared the Convention before the process stalled twice on cabinet reshuffles](https://fra1.digitaloceanspaces.com/mzdocs/prod/media/publications/documents/2026/Building_a_Resilient_Kenya_.pdf); twenty African Union member states had ratified as at March 2026. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
 
 On 21 September the ICT cabinet secretary [proposed that willing African Union states jointly test one cross-border public service and report by February 2027](https://techreviewafrica.com/news/7426/), citing eCitizen and the interoperability framework. No state is on record as joining.
+
+The ICT cabinet secretary [signed the Digital Cooperation Organization's Charter in New York during the UN General Assembly, reported on 28 September, making Kenya a Signatory Member and one of eight approved candidates whose accession would take membership from 16 to 24 countries](https://africaneyereport.com/kenya-signs-dco-charter-on-the-sidelines-of-unga81/). Neither the signing date nor the date accession completes is given.
 <!-- /narrative -->
 ### Standards
 
@@ -146,6 +150,8 @@ Two cloud platforms opened in Nairobi in September: [Nobus opened an availabilit
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the repository says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195).
+
+On 24 September a Rockefeller Foundation accelerator [announced five Kenyan sites to test computing load as the anchor customer for new solar-plus-storage mini-grids serving about 50,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with community demand given priority over compute. No site, developer, capacity or start date is named.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -204,6 +210,8 @@ The regulator's June-quarter return [put mobile money subscriptions at 54,005,80
 Tanzania's competition regulator [put KCB Group's stake in the payments company Pesapal at 22.23%](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/) in a notice of 21 August, the first public figure for a deal announced in November 2025; the price is undisclosed and approval is pending.
 
 An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
+
+The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf).
 <!-- /narrative -->
 ### Registries
 
