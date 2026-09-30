@@ -88,7 +88,7 @@ Every record carries `scope_confidence` (`whole` | `partial` | `unclear`) and `s
 
 `currency` is the announcing state's own, the code in force in that fiscal year, with any redenomination noted rather than back-converted. `amount_usd` is a dated conversion at a named fiscal-year average rate, never a spot rate at capture, and **USD is never summed across fiscal years**.
 
-`state_level` is `national` | `sub-national` | `soe` | `levy-fund` | `regulator`; `place` is always the country ISO-3 and a sub-national unit is an entity plus a verbatim tier name. Three actors are tagged: the **financier** — the fisc, an institution and never a minister — the **spending entity**, and the **vendor** where the document names one.
+`state_level` is `national` | `sub-national` | `soe` | `levy-fund` | `regulator`; `place` (Corpus's `country` column) is always the country ISO-3 and a sub-national unit is an entity plus a verbatim tier name. Three actors are tagged: the **financier** — the fisc, an institution and never a minister — the **spending entity**, and the **vendor** where the document names one.
 
 `deal_id` is `{ISO3}[-{tier}]-{fy}-{admin_head_code}-{programme_code}[-{sub_programme_code}]`, with no stage suffix: the stem is the record id, one per line-year. Gaining sub-programme grain is a new id, a rename plus the parent's retirement.
 

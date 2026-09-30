@@ -1,4 +1,4 @@
-﻿recipient,start_year,end_year,published_date,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
+﻿recipient,start_year,end_year,published_date,financier,primary_topic,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
 XEA,2026,,2026-09-22,African Export-Import Bank (Afreximbank),Other GovTech and e-Gov,Guarantee,29,commitment,reported,Approved,"Afreximbank — BSMART Technology, EAC Customs Bond guarantee, 2026","The announcing party's own sentences:
 
 > Cairo, Egypt, 22 September 2026: African Export-Import Bank (Afreximbank) has issued a US$ 29 million guarantee to BSMART Technology Ltd to support the implementation and scaling of the EAC Customs Bond, the technology-enabled regional customs guarantee solution that facilitates the movement of goods across East African countries.

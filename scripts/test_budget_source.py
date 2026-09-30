@@ -47,7 +47,7 @@ def check(label, got, want):
 
 
 GOOD = {
-    "deal_id": "gha-2024-011-01101-01101004", "place": "GHA", "state_level": "national",
+    "deal_id": "gha-2024-011-01101-01101004", "country": "GHA", "state_level": "national",
     "spending_tier_name": "",
     "fiscal_year_label": "2024", "fy_start": "2024-01-01", "fy_end": "2024-12-31",
     "fy_calendar": "gregorian", "budget_version": "original", "supplementary_basis": "",
@@ -59,7 +59,7 @@ GOOD = {
     "admin_head_basis": "printed", "programme_basis": "printed", "programme_level": "programme",
     "line_name": "Management and Administration — Research, Statistics and IM",
     "purpose": "Runs the ministry's district development data platform and its databases.",
-    "primary_subject_id": "data.statistics",
+    "primary_topic_id": "data.statistics",
     "scope_confidence": "partial",
     "scope_basis": "The sub-programme's stated function is information management; research "
                    "and publicity sit in the same line and are not separable.",
@@ -128,7 +128,7 @@ try:
 
     print("\nthe row itself")
     bad = [
-        ("place disagreeing with the file", "the file is GHA's", row(place="KEN")),
+        ("country disagreeing with the file", "the file is GHA's", row(country="KEN")),
         ("a deal_id for another country", "does not open with gha-", row(
             deal_id="ken-2024-011-01101")),
         ("an unknown state_level", "state_level", row(state_level="municipal")),
@@ -155,9 +155,9 @@ try:
         ("a budget-document line with no locator", "doc_locator is empty", row(doc_locator="")),
         ("a required field left empty", "purpose is empty", row(purpose="")),
         ("a finance facet as the subject", "what the money is FOR",
-         row(primary_subject_id="finance.budget")),
+         row(primary_topic_id="finance.budget")),
         ("a subject outside the taxonomy", "not a taxonomy key",
-         row(primary_subject_id="data.nonsense")),
+         row(primary_topic_id="data.nonsense")),
     ]
     for label, want, r_ in bad:
         d = tmp / "bad" / label.replace(" ", "-")
@@ -250,9 +250,9 @@ try:
 
     d = tmp / "migrated-still-identified"
     write(d, "GHA", [row(origin_record="x-rec", currency="", line_name="",
-                                 primary_subject_id="")])
+                                 primary_topic_id="")])
     got = failures(d)
-    for want in ("currency", "line_name is empty", "primary_subject_id is empty"):
+    for want in ("currency", "line_name is empty", "primary_topic_id is empty"):
         check(f"but {want.split()[0]} is still required", any(want in f for f in got), True)
 
     print("\nthe unclear stage")
@@ -358,9 +358,9 @@ try:
         first = next(rd)
     check("update fills report_year from fy_start", first["report_year"], "2024")
     check("the file carries the schema's column order", rd.fieldnames, list(bs.COLUMNS))
-    check("update fills primary_subject with the Level 2 label", first["primary_subject"],
-          bs.subject_label("data.statistics"))
-    check("which is a label, not the key", first["primary_subject"] != "data.statistics", True)
+    check("update fills primary_topic with the Level 2 label", first["primary_topic"],
+          bs.topic_label("data.statistics"))
+    check("which is a label, not the key", first["primary_topic"] != "data.statistics", True)
     check("the all-countries file is written",
           (c / bs.MERGED_ALL).read_bytes() == bs.merged_all(str(c)), True)
     check("and is not read as a country", [i for i, _ in bs.files(budgets=str(c))], ["GHA"])

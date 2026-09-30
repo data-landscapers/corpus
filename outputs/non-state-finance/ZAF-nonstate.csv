@@ -1,4 +1,4 @@
-﻿recipient,start_year,end_year,published_date,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
+﻿recipient,start_year,end_year,published_date,financier,primary_topic,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
 ZAF,2026,,2026-08-18,Quona Capital,Digital Payments and Fintech,Equity,8,commitment,reported,Completed,"Quona Capital — Jem Series A, 2026","Verbatim from the source:
 
 > South African HR technology company Jem has raised $8.4 million in a Series A funding round led by global fintech investor Quona Capital, as it expands its workforce management platform for frontline workers.

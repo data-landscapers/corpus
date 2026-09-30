@@ -1,4 +1,4 @@
-﻿recipient,start_year,end_year,published_date,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
+﻿recipient,start_year,end_year,published_date,financier,primary_topic,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
 XSS,2026,,2026-08-05,Emerging Africa Infrastructure Fund (EAIF),Connectivity,Commercial Loan,50,commitment,reported,Approved,"EAIF — Liquid Intelligent Technologies pan-African fibre refinancing, 2026","Verbatim from the financier's own release:
 
 > EAAIF has also committed USD 50 million to Liquid Intelligent Technologies as part of a USD 450 million restructuring and expansion package. This investment supports the optimisation of Liquid's capital structure and the maintenance of its 110,000 km cross-border fibre network across 25 countries, including Kenya, South Africa and Zimbabwe.

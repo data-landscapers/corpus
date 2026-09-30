@@ -27,7 +27,7 @@ one export without a mapping table between them. The 53 columns are the whole sh
 line, the year, the classification chain and its codes, the scope judgement and its basis,
 the origin gate and its funding source, six stage figures, the currency and its scale, and
 the citation — `source_slug` naming the held document and `doc_locator` the page and table
-the figure is printed on — plus three derived ones, `report_year`, `primary_subject` and
+the figure is printed on — plus three derived ones, `report_year`, `primary_topic` and
 `budget_usd`.
 
 **Two kinds of row, and `origin_record` is which** *(R56a)*. A row a **BUDGET-EXTRACT sitting
@@ -76,12 +76,14 @@ BUDGETS = os.path.join(ROOT, "budgets")
 CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "catalogue-internal.csv")
 
 COLUMNS = (
+    # **`country` and `primary_topic`, never `place` or `subject`** *(Bill, 2026-09-30)*: one word
+    # for one thing across the site, and the taxonomy's word is topic.
     # **The reader's columns first** *(Bill, 2026-09-30)*: the order the published table shows,
-    # where, when, what for and how much, then the names of the line; the subject's key goes
+    # where, when, what for and how much, then the names of the line; the topic's key goes
     # last. Three are derived and never typed — `report_year` (`fy_start`'s year),
-    # `primary_subject` (the Level 2 label of `primary_subject_id` in `lookups/taxonomy.csv`)
+    # `primary_topic` (the Level 2 label of `primary_topic_id` in `lookups/taxonomy.csv`)
     # and `budget_usd` — and `--update` writes them.
-    "place", "report_year", "primary_subject", "budget_usd",
+    "country", "report_year", "primary_topic", "budget_usd",
     "admin_head", "spending_entity", "programme", "sub_programme", "line_name", "purpose",
     # the money, in the budget's own currency (Bill, 2026-09-30: beside the line it belongs to)
     "currency", "amount_scale",
@@ -105,8 +107,8 @@ COLUMNS = (
     "source_tier", "doc_type", "doc_locator", "source_slug",
     # who read it, and what they had to say about it
     "extracted", "origin_record", "notes",
-    # the subject as a taxonomy key, which `primary_subject` labels
-    "primary_subject_id",
+    # the topic as a taxonomy key, which `primary_topic` labels
+    "primary_topic_id",
 )
 
 STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
@@ -160,16 +162,16 @@ GAPS_FILE = "structure-gaps.csv"
 # review asked for neither. So the bar is narrower and **the gap is counted rather than
 # waived**: `check` reports, per country, how many migrated rows fall short of the full set,
 # which is the work order R58 reads.
-REQUIRED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start", "fy_end",
+REQUIRED = ("deal_id", "country", "state_level", "fiscal_year_label", "fy_start", "fy_end",
             "fy_calendar", "budget_version", "admin_head_code", "admin_head",
             "spending_entity", "programme", "admin_head_basis", "programme_basis",
-            "programme_level", "line_name", "purpose", "primary_subject_id",
+            "programme_level", "line_name", "purpose", "primary_topic_id",
             "scope_confidence", "scope_basis", "finance_origin", "funding_source",
             "is_transfer", "currency", "amount_scale", "baseline_stage", "current_stage",
             "source_tier", "source_slug", "extracted")
 
-REQUIRED_MIGRATED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start",
-                     "line_name", "primary_subject_id", "budget_version",
+REQUIRED_MIGRATED = ("deal_id", "country", "state_level", "fiscal_year_label", "fy_start",
+                     "line_name", "primary_topic_id", "budget_version",
                      "scope_confidence", "finance_origin", "is_transfer", "currency",
                      "baseline_stage", "current_stage", "source_tier", "extracted",
                      "origin_record")
@@ -261,8 +263,8 @@ def budget_usd(row: dict) -> str:
     return ""
 
 
-def subject_label(key: str) -> str:
-    """The Level 2 label of a subject key in `lookups/taxonomy.csv`, blank for no key."""
+def topic_label(key: str) -> str:
+    """The Level 2 label of a topic key in `lookups/taxonomy.csv`, blank for no key."""
     if not key:
         return ""
     sys.path.insert(0, os.path.join(ROOT, "scripts"))
@@ -272,9 +274,9 @@ def subject_label(key: str) -> str:
 
 def derive(row: dict) -> dict:
     """The row with its derived columns written: `report_year`, the four-digit start year of
-    its fiscal year; `primary_subject`, its subject's Level 2 label; and `budget_usd`."""
+    its fiscal year; `primary_topic`, its topic's Level 2 label; and `budget_usd`."""
     return {**row, "report_year": fy_of(row),
-            "primary_subject": subject_label((row.get("primary_subject_id") or "").strip()),
+            "primary_topic": topic_label((row.get("primary_topic_id") or "").strip()),
             "budget_usd": budget_usd(row)}
 
 
@@ -452,8 +454,8 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                         or g("baseline_stage") == "unclear"):
                     thin[country] = thin.get(country, 0) + 1
 
-            if g("place") != country:
-                bad(f"place is {g('place')!r} and the file is {country}'s.")
+            if g("country") != country:
+                bad(f"country is {g('country')!r} and the file is {country}'s.")
             did = g("deal_id")
             if did in seen:
                 bad(f"deal_id {did!r} is already row {seen[did]}. One record per line-year.")
@@ -533,11 +535,11 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
             if slugs is not None and g("source_slug") and g("source_slug") not in slugs:
                 bad(f"source_slug {g('source_slug')!r} is in no catalogue row, so it names "
                     f"no held document.")
-            if subjects is not None and g("primary_subject_id"):
-                if g("primary_subject_id") not in subjects:
-                    bad(f"primary_subject_id {g('primary_subject_id')!r} is not a taxonomy key.")
-                elif g("primary_subject_id").startswith("finance."):
-                    bad("primary_subject_id is a finance facet. It is what the money is FOR.")
+            if subjects is not None and g("primary_topic_id"):
+                if g("primary_topic_id") not in subjects:
+                    bad(f"primary_topic_id {g('primary_topic_id')!r} is not a taxonomy key.")
+                elif g("primary_topic_id").startswith("finance."):
+                    bad("primary_topic_id is a finance facet. It is what the money is FOR.")
 
             for f in STRUCTURE:
                 b = g(f + "_basis")
@@ -664,7 +666,7 @@ FM_COLS = {
     "supplementary_basis": "supplementary_basis",
     "currency": "currency", "source_tier": "source_tier",
     "doc_type": "doc_type", "doc_locator": "doc_locator",
-    "source_slug": "source_slug", "primary_subject": "primary_subject_id",
+    "source_slug": "source_slug", "primary_subject": "primary_topic_id",
     "origin_record": "origin_record",
     "admin_head_basis": "admin_head_basis", "programme_basis": "programme_basis",
     "programme_level": "programme_level",
@@ -683,7 +685,7 @@ def records(iso3: str, budgets: str = "") -> list[dict]:
                           + "\n  ".join(fails))
     out = []
     for country, fy, r in rows(iso3, budgets):
-        subj = (r.get("primary_subject_id") or "").strip()
+        subj = (r.get("primary_topic_id") or "").strip()
         out.append(dict(
             fn="", fm=_fm(r, FM_COLS), body="",
             table={"Spending entity": (r.get("spending_entity") or "").strip()},

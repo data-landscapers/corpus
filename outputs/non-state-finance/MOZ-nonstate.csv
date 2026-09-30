@@ -1,4 +1,4 @@
-﻿recipient,start_year,end_year,published_date,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
+﻿recipient,start_year,end_year,published_date,financier,primary_topic,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
 MOZ,2026,,2026-09-09,Korea International Cooperation Agency,Technical Capacity,Grant,0.3,disbursed,rounded,Active,"KOICA - INGD Mozambique, ICT equipment for disaster risk management, 2026","Verbatim press release, Programa das Nacoes Unidas para o Desenvolvimento, 9 September 2026:
 
 COMUNICADO DE IMPRENSA

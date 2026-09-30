@@ -129,8 +129,8 @@ def load_finance(sdir: Path) -> dict:
                 by_financier[r["financier"]] += amt
             if r.get("recipient"):
                 by_place[r["recipient"]] += 1
-            if r.get("sector"):
-                by_sector[r["sector"]] += 1
+            if r.get("primary_topic"):
+                by_sector[r["primary_topic"]] += 1
             for y in (r.get("start_year"), r.get("end_year")):
                 if y and y.isdigit():
                     years.append(int(y))
@@ -207,8 +207,8 @@ PAGE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{csv_name}"
-      data-cols="recipient, start_year, published_date, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="recipient, sector, instrument, status, beneficiary_type"
+      data-cols="recipient, start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
+      data-filters="recipient, primary_topic, instrument, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
@@ -287,13 +287,13 @@ BUDGETS_PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{table_csv}"
       data-cols="{cols}"
-      data-filters="place, report_year, primary_subject"
+      data-filters="country, report_year, primary_topic"
       data-numeric="{numeric}"
       data-thousands="budget_usd"
       data-labels="{labels}"
       data-tips="{tips}"
       data-detail="{detail}"
-      data-sort="place:asc"
+      data-sort="country:asc"
       data-empty="No budget line matches those filters.">
       <div class="dt-controls">
         <span class="dt-title">Africa &mdash; national budgets</span>
@@ -383,7 +383,7 @@ def publish_budgets(out: Path, names: dict) -> None:
     table = ("\ufeff" + buf.getvalue()).encode("utf-8")
     if not (out / BUDGET_TABLE_CSV).exists() or (out / BUDGET_TABLE_CSV).read_bytes() != table:
         (out / BUDGET_TABLE_CSV).write_bytes(table)
-    used = sorted({r["place"] for r in rows})
+    used = sorted({r["country"] for r in rows})
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
     numeric = [c for c in header if c in ("report_year", "budget_usd", "proposed", "appropriated",
                                           "revised", "released", "actual", "audited",
@@ -402,7 +402,7 @@ def publish_budgets(out: Path, names: dict) -> None:
         cols=", ".join(shown[:BUDGET_TABLE_COLS]), detail=", ".join(shown),
         table_csv=BUDGET_TABLE_CSV,
         numeric=", ".join(numeric),
-        labels=html.escape(json.dumps({"place": {c: names.get(c, c) for c in used}},
+        labels=html.escape(json.dumps({"country": {c: names.get(c, c) for c in used}},
                                       ensure_ascii=False), quote=True),
         tips=html.escape(json.dumps({m["column"]: m["definition"] for m in meta
                                      if m.get("definition")}, ensure_ascii=False), quote=True),

@@ -1,5 +1,6 @@
 ## 30 September 2026
 
+- The finance tables now say topic throughout: non-state finance's `sector` column is `primary_topic`, and the national budgets table has `country` and `primary_topic`. The values are unchanged; only the column names moved.
 - Every country page now has an Institution hosting report, as a page and a PDF. It shows where that country's ministries, regulators, security bodies and banks host their websites and email, institution by institution.
 - A new dataset, [Institution hosting](/datasets/institution-hosting/), shows where 1,830 ministries, regulators, security services, banks and payment systems in 54 countries host their websites, email and name servers. Each row gives the shares on US cloud, US online services, shields, African data centres, telecoms networks and their own systems, and can be downloaded.
 - The methodology behind the Institution hosting dataset now has [its own page](/datasets/institution-hosting/methodology/), linked from the dataset. It sets out how institutions were chosen, how each address was assigned to a host, and what the figures cannot show.

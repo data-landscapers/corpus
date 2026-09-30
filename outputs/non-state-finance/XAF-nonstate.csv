@@ -1,4 +1,4 @@
-﻿recipient,start_year,end_year,published_date,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
+﻿recipient,start_year,end_year,published_date,financier,primary_topic,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
 XAF,2026,,2026-09-16,US International Development Finance Corporation (DFC),Connectivity,Equity,155,commitment,verified,Approved,"US DFC — WIOCC Group equity investment, 2026","The announcing party's own sentences:
 
 > Founded in 2008, WIOCC is a pan-African digital infrastructure platform that provides wholesale enterprise connectivity, data center, and metro fiber services to U.S. hyperscalers, telecom carriers, content providers, and internet service providers

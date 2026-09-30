@@ -55,7 +55,7 @@ def taxonomy_labels():
     well as vocabulary, and the pattern `- \`slug\` — label` matched greedily to the
     end of the line: `dpi.registry`'s entry carries a 558-character ruling about
     where registry material files, and all 558 characters were arriving in the
-    `sector` column of every published finance CSV and in the sector row of three
+    `sector` column (now `primary_topic`) of every published finance CSV and in the topic row of three
     countries' pivot tables. `report-lint.py` imports this function, so the name
     stays and only the source moves."""
     return taxonomy_lib.labels()
@@ -320,7 +320,7 @@ def recip_org(T):
     v = re.sub(r'\s*\([A-Z]{3}\)\s*$', '', v).strip()  # drop a trailing country tag
     return clean(v)
 
-NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "sector",
+NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "primary_topic",
              "instrument", "commitment_usd_m", "amount_basis", "amount_quality", "status",
              "title", "description",
              "beneficiary_type", "recipient_organisation", "original_amount",

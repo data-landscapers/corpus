@@ -332,7 +332,7 @@ def pivot(rows: list[dict]) -> str:
         y = year(r.get("start_year"))
         if y is None:
             continue
-        cell[r.get("sector") or "(unstated)"][col(y)] += float(r.get("commitment_usd_m") or 0)
+        cell[r.get("primary_topic") or "(unstated)"][col(y)] += float(r.get("commitment_usd_m") or 0)
     order = sorted(cell, key=lambda s: -sum(cell[s].values()))
 
     head = "".join(f'<th class="num">{c}</th>' for c in cols)
@@ -347,11 +347,10 @@ def pivot(rows: list[dict]) -> str:
         f'<td class="num">{num(sum(cell[s][c] for s in order))}</td>' for c in cols)
     grand = num(sum(v for s in order for v in cell[s].values()))
 
-    # **"Topic", not "Sector"** *(Bill, 2026-08-25)*. The underlying CSV column is still `sector`
-    # and is not renamed — it is the compiled field, and every published edition carries it — but
-    # the word on the page was doing a different job from the word in the schema: a reader arriving
-    # from the Topics tab reads these rows as topics, and "sector" collides with the economic sense
-    # the finance vocabulary uses elsewhere.
+    # **"Topic", not "Sector"** *(Bill, 2026-08-25)*: a reader arriving from the Topics tab reads
+    # these rows as topics, and "sector" collides with the economic sense the finance vocabulary
+    # uses elsewhere. The CSV column followed on 2026-09-30 and is `primary_topic` (Bill: one word,
+    # topic, across the site); editions before that date carry `sector`.
     return f"""<div class="table-scroll"><table class="pivot">
         <thead><tr><th scope="col">Topic</th>{head}<th class="num total">Total</th></tr></thead>
         <tbody>
@@ -538,7 +537,7 @@ FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held fo
 # The row panel carries every field, shown columns included (Bill, 2026-09-27): the panel is
 # where a reader reads one deal whole, and a field missing there because it is also a column
 # is missing. `finance.py` imports this for the all-Africa table.
-FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, sector, "
+FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, primary_topic, "
                   "instrument, commitment_usd_m, amount_basis, amount_quality, status, title, "
                   "description, beneficiary_type, recipient_organisation, original_amount, "
                   "project_id, iati_activity_id, url, financier_slug, record")
@@ -576,8 +575,8 @@ FINANCE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{csv_name}"
-      data-cols="start_year, published_date, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="financier, sector, instrument, status, beneficiary_type"
+      data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
+      data-filters="financier, primary_topic, instrument, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-detail=\"""" + FINANCE_DETAIL + """\"

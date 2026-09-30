@@ -1,4 +1,4 @@
-﻿recipient,start_year,end_year,published_date,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
+﻿recipient,start_year,end_year,published_date,financier,primary_topic,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
 MWI,2026,,2026-06-19,World Bank,Digitalisation of sub-national government,Grant,80,commitment,stated,Approved,"World Bank/IDA — Governance to Enable Service Delivery Project 2.0 (GESD 2), Malawi, 2026","Successor to the Governance to Enable Service Delivery (GESD) Project, which closed on
 30 June 2026. Per the Minister of Finance, Economic Planning and Decentralisation presenting
 the ratification bill, GESD 2 ""strengthens efficiency in financial resource management and
