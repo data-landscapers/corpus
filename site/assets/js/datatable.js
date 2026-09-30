@@ -351,6 +351,68 @@
     return Math.ceil(Math.min(MAX_W, Math.max(lo, headMin, wordFloor, MIN_W)) + pad);
   }
 
+  /* ── header tooltips ─────────────────────────────────────────────────── */
+  /* One box for the page, fixed to the viewport so the table's scrolling edges never clip it.
+     Not the native `title`: its delay is the browser's and cannot be shortened, and it never
+     shows on touch. Hover or keyboard focus shows it after TIP_DELAY; a tap shows it for
+     TIP_TOUCH_MS and still sorts, since the tap is also the sort. */
+  var TIP_DELAY = 150, TIP_TOUCH_MS = 3000;
+  var tipBox = null, tipTimer = null, tipOwner = null;
+
+  function tipEl() {
+    if (!tipBox) {
+      tipBox = document.createElement('div');
+      tipBox.className = 'dt-tip';
+      tipBox.id = 'dt-tip';
+      tipBox.setAttribute('role', 'tooltip');
+      tipBox.hidden = true;
+      document.body.appendChild(tipBox);
+      window.addEventListener('scroll', hideTip, true);
+      window.addEventListener('resize', hideTip);
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape') hideTip(); });
+    }
+    return tipBox;
+  }
+
+  function placeTip(th) {
+    var box = tipEl(), r = th.getBoundingClientRect(), m = 8;
+    box.hidden = false;
+    var w = box.offsetWidth, h = box.offsetHeight;
+    var left = Math.max(m, Math.min(r.left, window.innerWidth - w - m));
+    var top = r.bottom + 6;
+    if (top + h > window.innerHeight - m) top = Math.max(m, r.top - h - 6);
+    box.style.left = left + 'px';
+    box.style.top = top + 'px';
+  }
+
+  function showTip(th, after, hideAfter) {
+    clearTimeout(tipTimer);
+    tipTimer = setTimeout(function () {
+      var box = tipEl();
+      box.textContent = th.dataset.tip;
+      if (tipOwner && tipOwner !== th) tipOwner.removeAttribute('aria-describedby');
+      tipOwner = th;
+      th.setAttribute('aria-describedby', box.id);
+      placeTip(th);
+      if (hideAfter) tipTimer = setTimeout(hideTip, hideAfter);
+    }, after);
+  }
+
+  function hideTip() {
+    clearTimeout(tipTimer);
+    if (tipBox) tipBox.hidden = true;
+    if (tipOwner) { tipOwner.removeAttribute('aria-describedby'); tipOwner = null; }
+  }
+
+  function addTip(th, text) {
+    th.dataset.tip = text;
+    th.addEventListener('pointerenter', function (e) { if (e.pointerType === 'mouse') showTip(th, TIP_DELAY); });
+    th.addEventListener('pointerleave', function (e) { if (e.pointerType === 'mouse') hideTip(); });
+    th.addEventListener('pointerup', function (e) { if (e.pointerType !== 'mouse') showTip(th, 0, TIP_TOUCH_MS); });
+    th.addEventListener('focus', function () { showTip(th, TIP_DELAY); });
+    th.addEventListener('blur', hideTip);
+  }
+
   /* ── one table ────────────────────────────────────────────────────────── */
   function build(container) {
     var src = container.dataset.src;
@@ -361,8 +423,7 @@
     if (container.dataset.labels) {
       try { labels = JSON.parse(container.dataset.labels); } catch (e) { labels = {}; }
     }
-    /* Header tooltips: a plain `title`, so hover only. A touch reader has the row panel and
-       the metadata, which is where these definitions come from. */
+    /* Header tooltips (`addTip` above): hover, focus or tap. */
     var tips = {};
     if (container.dataset.tips) {
       try { tips = JSON.parse(container.dataset.tips); } catch (e) { tips = {}; }
@@ -550,8 +611,7 @@
         cols.forEach(function (ci, vi) {
           var th = document.createElement('th');
           th.innerHTML = esc(headers[ci]).replace(/_/g, '_' + ZWSP);
-          var tip = tipFor[ci];
-          if (tip) th.title = tip;
+          if (tipFor[ci]) addTip(th, tipFor[ci]);
           th.tabIndex = 0;
           th.setAttribute('role', 'button');
           if (numeric[ci]) th.className = 'num';

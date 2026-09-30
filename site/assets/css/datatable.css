@@ -258,3 +258,23 @@
   .dl-datatable .dt-detail__cell dl { grid-template-columns: 1fr; gap: 0.1rem 0; }
   .dl-datatable .dt-detail__cell dd { margin-bottom: 0.6rem; }
 }
+
+/* Header tooltip (datatable.js → addTip): one box, fixed to the viewport. */
+.dt-tip {
+  position: fixed;
+  z-index: 50;
+  max-width: 20rem;
+  padding: 0.45rem 0.6rem;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--serif);
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.4;
+  text-transform: none;
+  letter-spacing: normal;
+  border-radius: 3px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  pointer-events: none;
+}
+.dt-tip[hidden] { display: none; }
