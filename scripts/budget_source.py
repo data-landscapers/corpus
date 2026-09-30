@@ -53,6 +53,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import io
 import json
 import os
 import re
@@ -195,6 +196,8 @@ EXTERNAL_BASIS = {"line", "not-printed"}
 MERGED = "budgets-{}.csv"
 # And every country's merged file in one, at the folder root, derived the same way.
 MERGED_ALL = "budgets-all-countries.csv"
+# The merged files carry `budget_usd`, converted with OSINT's FX table as the finance build is.
+FX_TABLE = "fx-imf-annual.csv"
 EXTERNAL_FUNDING = {"external-grant", "external-loan", "external"}
 # The stages a share may be taken at, in preference order. Both sides must carry the stage on
 # every row counted, or the share would divide an appropriation by a revision. `proposed` is last:
@@ -309,20 +312,49 @@ def share(iso3: str, fy: str, budgets: str = "") -> dict:
     return {"share": None, "why": "no stage is carried by every counted row on both sides"}
 
 
+_FX: dict | None = None
+
+
+def _fx() -> dict:
+    """OSINT's IMF annual-average table, the one the finance build converts domestic lines with."""
+    global _FX
+    if _FX is None:
+        sys.path.insert(0, os.path.join(ROOT, "scripts"))
+        import finance_lib
+        import osint_lib
+        path = os.path.join(osint_lib.MIRROR, "lookups", FX_TABLE)
+        if not os.path.exists(path):
+            raise SourceError(f"no FX table at {path}; budget_usd cannot be computed")
+        _FX = finance_lib.load_fx(path)
+    return _FX
+
+
+def budget_usd(row: dict) -> str:
+    """The row's latest stage figure in whole US dollars, or blank where it has none or no
+    rate is held. The finance build's rule for a domestic line: the IMF annual average for
+    the currency in the fiscal year's start year, else the nearest year held; USD is 1."""
+    import finance_lib
+    for stage in reversed(STAGES):
+        v = (row.get(stage) or "").strip()
+        if v:
+            rate = finance_lib.fx_rate(_fx(), (row.get("currency") or "").strip(),
+                                       (row.get("fy_start") or "")[:4])
+            return "" if not rate else f"{float(v) / rate:.0f}"
+    return ""
+
+
 def merged(iso3: str, budgets: str = "") -> bytes:
     """The year files of one country as one CSV: the header once, then each year's rows in
-    year order, byte for byte as written."""
-    out = b""
+    year order, with `budget_usd` computed and inserted after `primary_subject`."""
+    header = list(COLUMNS)
+    header.insert(header.index("primary_subject") + 1, "budget_usd")
+    buf = io.StringIO(newline="")
+    w = csv.DictWriter(buf, fieldnames=header, lineterminator="\n")
+    w.writeheader()
     for _, _, path in files(iso3, budgets):
-        with open(path, "rb") as fh:
-            body = fh.read().replace(b"\r\n", b"\n")
-        head, _, rows = body.partition(b"\n")
-        if not out:
-            out = head + b"\n"
-        if rows and not rows.endswith(b"\n"):
-            rows += b"\n"
-        out += rows
-    return out
+        for r in read(path)[1]:
+            w.writerow({**r, "budget_usd": budget_usd(r)})
+    return ("﻿" + buf.getvalue()).encode("utf-8")
 
 
 def version_overlaps(iso3: str = "", budgets: str = "") -> list[str]:
