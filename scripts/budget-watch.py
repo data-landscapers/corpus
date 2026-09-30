@@ -241,7 +241,7 @@ def common_dir(urls: list[str]) -> str:
 
 def budgets_fy_month(iso3: str) -> str:
     months = collections.Counter()
-    for f in (BUDGETS / iso3).glob("*.csv"):
+    for f in (BUDGETS / iso3).glob("[0-9][0-9][0-9][0-9].csv"):
         with open(f, encoding="utf-8-sig", newline="") as fh:
             for row in csv.DictReader(fh):
                 if row.get("state_level", "national") == "national" and re.match(

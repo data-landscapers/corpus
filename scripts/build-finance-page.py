@@ -617,6 +617,7 @@ def main():
         # ones the source folder is for.
         for iso3, _, _ in budget_source.files():
             by_place.setdefault(iso3, {"ns": [], "dom": []})
+        budget_source.merge()
         for iso3 in sorted(by_place):
             nn, nd, swaps = build_one(iso3, by_place[iso3]["ns"], by_place[iso3]["dom"], lab, fx)
             print(f"  {iso3}: {nn} non-state, {nd} domestic" + swap_note(iso3, swaps))

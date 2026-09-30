@@ -365,6 +365,13 @@ try:
     check("a line row with no figure fails",
           any("carries a figure" in f for f in bs.check_external("GHA", str(r))[0]), True)
 
+    print("\nmerged file")
+    check("an unmerged tree fails", bs.main(["--budgets", str(tmp / "clean")]), 1)
+    bs.merge(budgets=str(tmp / "clean"))
+    check("the merged file is not read as a year",
+          [fy for _, fy, _ in bs.files(budgets=str(tmp / "clean"))
+           if not fy.isdigit()], [])
+
     print("\nexit codes")
     check("a clean tree exits 0", bs.main(["--budgets", str(tmp / "clean")]), 0)
     check("a bad row exits 1", bs.main(["--budgets", str(tmp / "dupe")]), 1)

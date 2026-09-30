@@ -5,6 +5,7 @@ r"""budget_source.py — Corpus's own budget extractions: the schema, the loader
     python scripts/budget_source.py GHA        # check one country
     python scripts/budget_source.py --columns  # print the header a new file needs
     python scripts/budget_source.py --share    # the domestic-state share, per read country-year
+    python scripts/budget_source.py --merge    # rewrite each budgets/{ISO3}/budgets-{ISO3}.csv
 
 **`budgets/{ISO3}/{FY}.csv` is a source folder, not an output** *(strategic review 4 R54)*.
 Everything else Corpus publishes is derived from OSINT's `raw/`: a compile reads records and
@@ -187,6 +188,11 @@ EXTERNAL_COLUMNS = ("fy", "fiscal_year_label", "basis", "line_name", "code", "pr
                     "scope_confidence", "funding_source", "currency", "amount_scale",
                     "proposed", "appropriated", "revised", "doc_locator", "source_slug", "extracted", "notes")
 EXTERNAL_BASIS = {"line", "not-printed"}
+# `budgets-{ISO3}.csv` is every year file of the country in one, for readers who want the
+# country and not the year. It is derived: `merge` writes it from the year files, the finance
+# build calls `merge`, and `check` fails a copy that no longer matches its years. The year
+# files stay the record, and a hand-edit to the merged file is overwritten.
+MERGED = "budgets-{}.csv"
 EXTERNAL_FUNDING = {"external-grant", "external-loan", "external"}
 # The stages a share may be taken at, in preference order. Both sides must carry the stage on
 # every row counted, or the share would divide an appropriation by a revision. `proposed` is last:
@@ -211,7 +217,7 @@ def files(iso3: str = "", budgets: str = "") -> list[tuple[str, str, str]]:
             continue
         for fn in sorted(os.listdir(d)):
             # Every other CSV is taken, so that `check` can refuse a misnamed year.
-            if fn.endswith(".csv") and fn != EXTERNAL:
+            if fn.endswith(".csv") and fn not in (EXTERNAL, MERGED.format(country)):
                 out.append((country, fn[:-4], os.path.join(d, fn)))
     return out
 
@@ -299,6 +305,35 @@ def share(iso3: str, fy: str, budgets: str = "") -> dict:
                     "domestic": d, "external": e, "currency": dom[0].get("currency", ""),
                     "flags": flags}
     return {"share": None, "why": "no stage is carried by every counted row on both sides"}
+
+
+def merged(iso3: str, budgets: str = "") -> bytes:
+    """The year files of one country as one CSV: the header once, then each year's rows in
+    year order, byte for byte as written."""
+    out = b""
+    for _, _, path in files(iso3, budgets):
+        with open(path, "rb") as fh:
+            body = fh.read().replace(b"\r\n", b"\n")
+        head, _, rows = body.partition(b"\n")
+        if not out:
+            out = head + b"\n"
+        if rows and not rows.endswith(b"\n"):
+            rows += b"\n"
+        out += rows
+    return out
+
+
+def merge(iso3: str = "", budgets: str = "") -> list[str]:
+    """Write `budgets-{ISO3}.csv` wherever it would change. Returns the paths written."""
+    written = []
+    for country in sorted({c for c, _, _ in files(iso3, budgets)}):
+        path = os.path.join(budgets or BUDGETS, country, MERGED.format(country))
+        body = merged(country, budgets)
+        if not os.path.exists(path) or open(path, "rb").read() != body:
+            with open(path, "wb") as fh:
+                fh.write(body)
+            written.append(path)
+    return written
 
 
 def read(path: str) -> tuple[list[str], list[dict]]:
@@ -658,6 +693,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--columns", action="store_true", help="print the header and stop")
     ap.add_argument("--share", action="store_true",
                     help="print the domestic-state share for every read country-year, and stop")
+    ap.add_argument("--merge", action="store_true",
+                    help="rewrite each country's budgets-{ISO3}.csv from its year files, and stop")
     ap.add_argument("--ratchet", action="store_true",
                     help="lower the admin-head/programme ceilings to what is left, and stop")
     a = ap.parse_args(argv)
@@ -689,7 +726,17 @@ def main(argv: list[str] | None = None) -> int:
         print(f"budget_source: ceilings now {sum(left.values())} row(s) over {len(left)} "
               f"countr{'y' if len(left) == 1 else 'ies'}.")
         return 0
+    if a.merge:
+        n = len({c for c, _, _ in files(a.iso3, a.budgets)})
+        w = merge(a.iso3, a.budgets)
+        print(f"budget_source: {len(w)} of {n} merged file(s) rewritten.")
+        return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
+    for country in sorted({c for c, _, _ in files(a.iso3, a.budgets)}):
+        path = os.path.join(a.budgets or BUDGETS, country, MERGED.format(country))
+        if not os.path.exists(path) or open(path, "rb").read() != merged(country, a.budgets):
+            fails.append(f"{country}/{MERGED.format(country)}: missing or behind its year "
+                         f"files. `--merge` rewrites it.")
     xfails, xrows = check_external(a.iso3, a.budgets)
     fails += xfails
     nrows += xrows
