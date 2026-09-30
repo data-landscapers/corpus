@@ -5,7 +5,7 @@ r"""budget_source.py — Corpus's own budget extractions: the schema, the loader
     python scripts/budget_source.py GHA        # check one country
     python scripts/budget_source.py --columns  # print the header a new file needs
     python scripts/budget_source.py --share    # the domestic-state share, per read country-year
-    python scripts/budget_source.py --merge    # rewrite each budgets/{ISO3}/budgets-{ISO3}.csv
+    python scripts/budget_source.py --merge    # rewrite budgets-{ISO3}.csv and budgets-all-countries.csv
 
 **`budgets/{ISO3}/{FY}.csv` is a source folder, not an output** *(strategic review 4 R54)*.
 Everything else Corpus publishes is derived from OSINT's `raw/`: a compile reads records and
@@ -193,6 +193,8 @@ EXTERNAL_BASIS = {"line", "not-printed"}
 # build calls `merge`, and `check` fails a copy that no longer matches its years. The year
 # files stay the record, and a hand-edit to the merged file is overwritten.
 MERGED = "budgets-{}.csv"
+# And every country's merged file in one, at the folder root, derived the same way.
+MERGED_ALL = "budgets-all-countries.csv"
 EXTERNAL_FUNDING = {"external-grant", "external-loan", "external"}
 # The stages a share may be taken at, in preference order. Both sides must carry the stage on
 # every row counted, or the share would divide an appropriation by a revision. `proposed` is last:
@@ -333,8 +335,28 @@ def stale(iso3: str, budgets: str = "") -> bool:
         return fh.read().replace(b"\r\n", b"\n") != merged(iso3, budgets)
 
 
+def merged_all(budgets: str = "") -> bytes:
+    """Every country's merged file as one CSV, the header once, countries in ISO3 order."""
+    out = b""
+    for country in sorted({c for c, _, _ in files(budgets=budgets)}):
+        head, _, rows = merged(country, budgets).partition(b"\n")
+        out = out or head + b"\n"
+        out += rows
+    return out
+
+
+def stale_all(budgets: str = "") -> bool:
+    """Whether `budgets-all-countries.csv` is missing or no longer the country files."""
+    path = os.path.join(budgets or BUDGETS, MERGED_ALL)
+    if not os.path.exists(path):
+        return True
+    with open(path, "rb") as fh:
+        return fh.read().replace(b"\r\n", b"\n") != merged_all(budgets)
+
+
 def merge(iso3: str = "", budgets: str = "") -> list[str]:
-    """Write `budgets-{ISO3}.csv` wherever it is stale. Returns the paths written."""
+    """Write `budgets-{ISO3}.csv` wherever it is stale, then `budgets-all-countries.csv`.
+    Returns the paths written."""
     written = []
     for country in sorted({c for c, _, _ in files(iso3, budgets)}):
         if stale(country, budgets):
@@ -342,6 +364,11 @@ def merge(iso3: str = "", budgets: str = "") -> list[str]:
             with open(path, "wb") as fh:
                 fh.write(merged(country, budgets))
             written.append(path)
+    if stale_all(budgets):
+        path = os.path.join(budgets or BUDGETS, MERGED_ALL)
+        with open(path, "wb") as fh:
+            fh.write(merged_all(budgets))
+        written.append(path)
     return written
 
 
@@ -736,7 +763,7 @@ def main(argv: list[str] | None = None) -> int:
               f"countr{'y' if len(left) == 1 else 'ies'}.")
         return 0
     if a.merge:
-        n = len({c for c, _, _ in files(a.iso3, a.budgets)})
+        n = len({c for c, _, _ in files(a.iso3, a.budgets)}) + 1
         w = merge(a.iso3, a.budgets)
         print(f"budget_source: {len(w)} of {n} merged file(s) rewritten.")
         return 0
@@ -745,6 +772,8 @@ def main(argv: list[str] | None = None) -> int:
         if stale(country, a.budgets):
             fails.append(f"{country}/{MERGED.format(country)}: missing or behind its year "
                          f"files. `--merge` rewrites it.")
+    if stale_all(a.budgets):
+        fails.append(f"{MERGED_ALL}: missing or behind the country files. `--merge` rewrites it.")
     xfails, xrows = check_external(a.iso3, a.budgets)
     fails += xfails
     nrows += xrows

@@ -371,6 +371,8 @@ try:
     check("the merged file is not read as a year",
           [fy for _, fy, _ in bs.files(budgets=str(tmp / "clean"))
            if not fy.isdigit()], [])
+    check("the all-countries file is written",
+          (tmp / "clean" / bs.MERGED_ALL).read_bytes() == bs.merged_all(str(tmp / "clean")), True)
 
     print("\nexit codes")
     check("a clean tree exits 0", bs.main(["--budgets", str(tmp / "clean")]), 0)

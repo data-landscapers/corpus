@@ -12,4 +12,6 @@ Three pointers, and no copy of what they say:
 - **`documentation/budget-extract.md`** — what a figure means: scope, the origin gate, the stages, the record shape. **`lookups/budget-archetypes.csv`** — how to get a table off a particular shape of page, one row per archetype; its method note is `documentation/budget-archetypes.md`.
 - **`scripts/budget_source.py`** — the 46 columns and every rule they are held to. `python scripts/budget_source.py --columns` prints the header; `python scripts/budget_source.py {ISO3}` checks a country, and the compile refuses to build from a file that does not pass.
 
+**`budgets/{ISO3}/budgets-{ISO3}.csv` and `budgets/budgets-all-countries.csv` are derived**: the year files merged per country, then every country in one. `python scripts/budget_source.py --merge` writes them, and the check fails either when it falls behind. Never edit them by hand.
+
 `budgets/.documents/` is gitignored working space for a fetched document. Nothing in it is ever committed.
