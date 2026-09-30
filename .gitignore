@@ -147,5 +147,5 @@ budgets/.documents/
 
 # The hyperscaler scan's downloaded range files and RDAP/RIPEstat cache (R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md).
 # Refetched or re-queried on demand; the scan outputs under R&D/Hyperscaler-dependence/scan/{ISO3}/ are the record.
-R&D/Hyperscaler-dependence/scan/ranges/
-R&D/Hyperscaler-dependence/scan/cache/
+R&D/Hyperscaler-dependence/ranges/
+R&D/Hyperscaler-dependence/cache/

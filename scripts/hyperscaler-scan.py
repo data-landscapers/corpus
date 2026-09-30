@@ -59,8 +59,8 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 RD = ROOT / "R&D" / "Hyperscaler-dependence"
 SCAN = RD / "scan"
-RANGES = SCAN / "ranges"
-CACHE = SCAN / "cache"
+RANGES = RD / "ranges"
+CACHE = RD / "cache"
 ASN_FILE = RD / "asn-owners.csv"
 SAAS_FILE = RD / "saas-targets.csv"
 DICT_FILE = RD / "subdomains.txt"
