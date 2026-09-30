@@ -187,7 +187,7 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     # offers the CSV itself; the noscript and colophon links still name the file (Bill, 2026-09-11).
     return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
             "fields_page": "../../datasets/metadata/#non-state-finance",
-            "csv_edition": edition,
+            "csv_edition": edition, "csv_bytes": len(body),
             "artefacts": editions.artefact_meta(f"{iso}-nonstate", edition,
                                                 editions.digest(body))}
 
@@ -576,7 +576,7 @@ FINANCE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_name}"
       data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="financier, primary_topic, instrument, status, beneficiary_type"
+      data-filters="financier, primary_topic, instrument, aid, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-detail=\"""" + FINANCE_DETAIL + """\"
@@ -632,7 +632,7 @@ def ensure_catalogue_csv() -> None:
 
 
 def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
-                    csv_name: str, edition: str) -> str:
+                    csv_name: str, edition: str, size: int | None = None) -> str:
     """The place's non-state finance table, described as data *(Bill, 2026-09-20)*.
 
     **This one is an edition and the catalogue cut beside it is not**, which is the only real
@@ -642,10 +642,11 @@ def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
     on every render of a table nobody has touched since August, to the one audience that reads
     `dateModified` literally — and the colophon two screens below would be saying the opposite.
 
-    **`contentSize` is absent where the edition has been pruned**, which is the normal state of
-    a table that did not move this run: `--prune-local` takes the file out of the tree once R2
-    has it, and a size carried over from a build that did see it would be a claim rather than a
-    measurement.
+    **`contentSize` is measured this run, never carried over.** `--prune-local` takes the file
+    out of the tree once R2 has it, so the size comes from the bytes this run published
+    (`size`), which `editions.publish` only keeps as the standing edition when they are that
+    edition byte for byte; a size remembered from an earlier build would be a claim rather
+    than a measurement.
 
     `temporalCoverage` is the years the money covers, not the years the rows were written — the
     table carries no finer date than the year, and it is the question anyone searching for
@@ -656,7 +657,7 @@ def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
         description=copy_md("finance", "dataset-place", name=name),
         url=f"{SITE_BASE}/countries/{code}/finance.html",
         csv_url=f"{SITE_BASE}/countries/{code}/{csv_name}",
-        csv_bytes=structured_data.bytes_of(out_dir / csv_name),
+        csv_bytes=structured_data.bytes_of(out_dir / csv_name) or size,
         records=len(fin),
         fields=finance_field_dictionary(),
         entity=structured_data.place(code, name),
@@ -780,7 +781,7 @@ def build(iso: str) -> list[Path]:
                               f"{SITE_BASE}/countries/{iso}/finance.html"),
             unit="country",
             jsonld=finance_dataset(iso, name, out_dir, fin, csv_names["csv_name"],
-                                   csv_names["csv_edition"]),
+                                   csv_names["csv_edition"], csv_names["csv_bytes"]),
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "country.css", "datatable.css"),
