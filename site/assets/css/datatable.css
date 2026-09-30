@@ -278,3 +278,7 @@
   pointer-events: none;
 }
 .dt-tip[hidden] { display: none; }
+
+/* Sorting on more than one column (shift-click): each sorted header's arrow carries its place. */
+.dl-datatable table thead th.sort-asc[data-rank]::after { content: " ↑" attr(data-rank); }
+.dl-datatable table thead th.sort-desc[data-rank]::after { content: " ↓" attr(data-rank); }

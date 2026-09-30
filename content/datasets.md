@@ -42,7 +42,7 @@ One row per facility, whether operational, under construction or planned. For ea
 
 ## data-centres-table-note
 
-Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field.
+Click a row to see the full record. Sort on any column, shift-click another to sort within it, filter with the dropdowns, and search across every field.
 
 ## dataset-data-centres
 
@@ -54,7 +54,7 @@ One row per institution: the presidency, ministries, regulators, security servic
 
 ## institution-hosting-table-note
 
-Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field. Shares are percentages.
+Click a row to see the full record. Sort on any column, shift-click another to sort within it, filter with the dropdowns, and search across every field. Shares are percentages.
 
 ## dataset-institution-hosting
 

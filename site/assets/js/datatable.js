@@ -498,13 +498,14 @@
         var filterState = {};
         filterCols.forEach(function (i) { filterState[i] = ''; });
 
-        var sortCol = -1, sortAsc = true;
+        /* The sort is a list of keys, first decides and the rest break ties: a click sorts
+           on one column, a shift-click adds a column within the ones already set. */
+        var sorts = [];                          // [{vi: visible column, asc: bool}]
         if (container.dataset.sort) {
           var bits = container.dataset.sort.split(':');
           var si = findCol(headers, bits[0]);
           if (si > -1 && cols.indexOf(si) > -1) {
-            sortCol = cols.indexOf(si);
-            sortAsc = bits[1] !== 'desc';
+            sorts = [{ vi: cols.indexOf(si), asc: bits[1] !== 'desc' }];
           }
         }
         var search = '';
@@ -562,22 +563,29 @@
           });
         }
 
+        function compare(ci, asc, a, b) {
+          var av = a[ci] || '', bv = b[ci] || '';
+          if (av === '' && bv === '') return 0;
+          if (av === '') return 1;                   // blanks last, either direction
+          if (bv === '') return -1;
+          var cmp;
+          if (numeric[ci]) {
+            var an = numOf(av), bn = numOf(bv);
+            cmp = (an == null ? 0 : an) - (bn == null ? 0 : bn);
+          } else {
+            cmp = display(ci, av).localeCompare(display(ci, bv), undefined, { numeric: true });
+          }
+          return asc ? cmp : -cmp;
+        }
+
         function ordered(data) {
-          if (sortCol < 0) return data;
-          var ci = cols[sortCol], asNum = numeric[ci];
+          if (!sorts.length) return data;
           return data.slice().sort(function (a, b) {
-            var av = a[ci] || '', bv = b[ci] || '';
-            if (av === '' && bv === '') return 0;
-            if (av === '') return 1;                 // blanks last, either direction
-            if (bv === '') return -1;
-            var cmp;
-            if (asNum) {
-              var an = numOf(av), bn = numOf(bv);
-              cmp = (an == null ? 0 : an) - (bn == null ? 0 : bn);
-            } else {
-              cmp = display(ci, av).localeCompare(display(ci, bv), undefined, { numeric: true });
+            for (var k = 0; k < sorts.length; k++) {
+              var c = compare(cols[sorts[k].vi], sorts[k].asc, a, b);
+              if (c) return c;
             }
-            return sortAsc ? cmp : -cmp;
+            return 0;
           });
         }
 
@@ -615,13 +623,22 @@
           th.tabIndex = 0;
           th.setAttribute('role', 'button');
           if (numeric[ci]) th.className = 'num';
-          function flip() {
-            if (sortCol === vi) sortAsc = !sortAsc; else { sortCol = vi; sortAsc = true; }
+          /* Plain: this column alone, or its direction flipped if it already is the sort.
+             Shift: flip it where it stands in the list, or add it at the end. */
+          function flip(add) {
+            var at = -1;
+            sorts.forEach(function (s, k) { if (s.vi === vi) at = k; });
+            if (add) {
+              if (at > -1) sorts[at].asc = !sorts[at].asc; else sorts.push({ vi: vi, asc: true });
+            } else {
+              sorts = [{ vi: vi, asc: (at === 0 && sorts.length === 1) ? !sorts[0].asc : true }];
+            }
             render();
           }
-          th.addEventListener('click', flip);
+          th.addEventListener('mousedown', function (e) { if (e.shiftKey) e.preventDefault(); });  // no text selection
+          th.addEventListener('click', function (e) { flip(e.shiftKey); });
           th.addEventListener('keydown', function (e) {
-            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); flip(); }
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); flip(e.shiftKey); }
           });
           headRow.appendChild(th);
         });
@@ -671,7 +688,12 @@
 
           Array.prototype.forEach.call(headRow.cells, function (th, i) {
             th.classList.remove('sort-asc', 'sort-desc');
-            if (i - 1 === sortCol) th.classList.add(sortAsc ? 'sort-asc' : 'sort-desc');
+            th.removeAttribute('data-rank');
+            sorts.forEach(function (s, k) {
+              if (s.vi !== i - 1) return;
+              th.classList.add(s.asc ? 'sort-asc' : 'sort-desc');
+              if (sorts.length > 1) th.setAttribute('data-rank', k + 1);
+            });
           });
 
           if (!current.length) {
