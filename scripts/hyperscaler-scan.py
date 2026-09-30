@@ -6,7 +6,7 @@ Implements `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` §A; that runbook is
 RIPEstat and the providers' published range files. **No request of any kind goes to a host under an
 institution's domain.**
 
-    python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/institutions-ZAF.csv"
+    python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/scan/ZAF/institutions-ZAF.csv"
 
 Writes `R&D/Hyperscaler-dependence/scan/{ISO3}/nodes.csv`, `organisations.csv` and `run.json`, then writes `status` (and a
 blank `email_domain`) back into the input file (runbook Step 4). Resumes: a domain whose names are

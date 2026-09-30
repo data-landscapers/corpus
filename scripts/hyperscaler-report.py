@@ -184,7 +184,7 @@ def main() -> int:
     nodes = read_csv(out / "nodes.csv")
     orgs = read_csv(out / "organisations.csv")
     run = json.loads((out / "run.json").read_text(encoding="utf-8"))
-    inp = read_csv(RD / f"institutions-{iso}.csv")
+    inp = read_csv(out / f"institutions-{iso}.csv")
     tiers = {r["institution"]: r["tier"] for r in read_csv(RD / "strategic-institutions.csv")}
     ntypes = len(tiers)
     progress = read_csv(RD / "progress.csv")

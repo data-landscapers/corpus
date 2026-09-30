@@ -3,8 +3,8 @@ r"""hyperscaler-seeds.py — confirm and lint one country's seed list for the hy
 
 Step 01 of `R&D/Hyperscaler-dependence/HYPERSCALER-DRAIN.md`. Two subcommands:
 
-    python scripts/hyperscaler-seeds.py confirm "R&D/Hyperscaler-dependence/institutions-GHA.csv"
-    python scripts/hyperscaler-seeds.py lint    "R&D/Hyperscaler-dependence/institutions-GHA.csv"
+    python scripts/hyperscaler-seeds.py confirm "R&D/Hyperscaler-dependence/scan/GHA/institutions-GHA.csv"
+    python scripts/hyperscaler-seeds.py lint    "R&D/Hyperscaler-dependence/scan/GHA/institutions-GHA.csv"
 
 `confirm` fetches the homepage of every row that has a domain and no `confirmed` status, trying
 https and http, bare and `www.`. Any HTTP answer — a 403 from a WAF included — confirms the domain

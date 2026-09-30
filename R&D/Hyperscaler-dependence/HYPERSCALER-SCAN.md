@@ -8,7 +8,7 @@ status: R&D; ZAF scanned 2026-09-28, pilot countries not yet run
 
 # Hyperscaler scan — runbook for Claude Code
 
-*(Step Three of the hyperscaler-dependence R&D. The input is one file, `R&D/Hyperscaler-dependence/institutions-{ISO3}.csv`, built by hand in Step Two; the output is the DNS footprint of every institution in it, attributed and classified, under `R&D/Hyperscaler-dependence/scan/{ISO3}/`. Read `R&D/Hyperscaler-dependence/hyperscaler-dependence.md` first — §3 is the classification, §5 the pilot and what it has to decide. This runs on the laptop, not in Cowork, because Cowork's shell has no resolver. OSINT is not read or written by any step here. Everything here is passive: DNS queries through a public resolver, reads of public logs and registries, and the hyperscalers' own published range files. Nothing connects to an institution's own hosts.)*
+*(Step Three of the hyperscaler-dependence R&D. The input is one file, `R&D/Hyperscaler-dependence/scan/{ISO3}/institutions-{ISO3}.csv`, built by hand in Step Two; the output is the DNS footprint of every institution in it, attributed and classified, under `R&D/Hyperscaler-dependence/scan/{ISO3}/`. Read `R&D/Hyperscaler-dependence/hyperscaler-dependence.md` first — §3 is the classification, §5 the pilot and what it has to decide. This runs on the laptop, not in Cowork, because Cowork's shell has no resolver. OSINT is not read or written by any step here. Everything here is passive: DNS queries through a public resolver, reads of public logs and registries, and the hyperscalers' own published range files. Nothing connects to an institution's own hosts.)*
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ A domain that does not resolve, a crt.sh call that times out, an IP no source wi
 
 ## A. The script — what `scripts/hyperscaler-scan.py` does
 
-`python scripts/hyperscaler-scan.py R&D/Hyperscaler-dependence/institutions-{ISO3}.csv` reads the file, takes ISO3 from the filename, and writes `R&D/Hyperscaler-dependence/scan/{ISO3}/nodes.csv`, `organisations.csv` and `run.json`. It resumes: a name already in `nodes.csv` with today's `scan_date` is not queried again.
+`python scripts/hyperscaler-scan.py R&D/Hyperscaler-dependence/scan/{ISO3}/institutions-{ISO3}.csv` reads the file, takes ISO3 from the filename, and writes `R&D/Hyperscaler-dependence/scan/{ISO3}/nodes.csv`, `organisations.csv` and `run.json`. It resumes: a name already in `nodes.csv` with today's `scan_date` is not queried again.
 
 **A.1 Input.** Columns `type,institution,domain,email_domain,status,note`. One row per domain; an institution with two domains has two rows. A row whose `status` is `dead` is skipped. Anything else is scanned whatever its status says.
 
@@ -44,7 +44,7 @@ A domain that does not resolve, a crt.sh call that times out, an IP no source wi
 ## Step 0 — the input exists and is well-formed
 
 ```bash
-f="R&D/Hyperscaler-dependence/institutions-${ISO3}.csv"
+f="R&D/Hyperscaler-dependence/scan/${ISO3}/institutions-${ISO3}.csv"
 [ -e "$f" ] || { echo "SCAN STOP: $f not found"; exit 1; }
 head -1 "$f" | grep -q '^type,institution,domain,email_domain,status,note$' || { echo "SCAN STOP: $f has the wrong columns"; exit 1; }
 grep -q "^${ISO3}," lookups/countries.csv || { echo "SCAN STOP: ${ISO3} not in lookups/countries.csv"; exit 1; }
@@ -59,14 +59,14 @@ The script does this itself on start: it fetches the range files of A.4(2) into 
 ## Step 2 — scan
 
 ```bash
-python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/institutions-${ISO3}.csv"
+python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/scan/${ISO3}/institutions-${ISO3}.csv"
 ```
 
 Announce the country by name as it starts. A domain whose root returns NXDOMAIN on A, AAAA and MX alike is written to `nodes.csv` with `rr_status: nxdomain` and its `status` in the input file set to `dead` in Step 4.
 
 ## Step 3 — read what came out
 
-Before writing anything, read `organisations.csv` end to end and `nodes.csv` for every institution with `unattributed > 0`. Three things to look for, none of which changes the data: an institution whose every record is `unattributed`, which usually means its ASN is missing from `asn-owners.csv` and is the first thing to fill — classify the rows the run appended there, then `python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/institutions-${ISO3}.csv" --reattribute`, which re-runs attribution over today's `nodes.csv` without touching DNS; a domain whose records point somewhere no institution of that type should be — a gambling host, a parked page, a country it has no business in — which is a finding and goes in the note under Step 5; and a category share that looks wrong for the country, which is a reason to re-read the rows, not to adjust them.
+Before writing anything, read `organisations.csv` end to end and `nodes.csv` for every institution with `unattributed > 0`. Three things to look for, none of which changes the data: an institution whose every record is `unattributed`, which usually means its ASN is missing from `asn-owners.csv` and is the first thing to fill — classify the rows the run appended there, then `python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/scan/${ISO3}/institutions-${ISO3}.csv" --reattribute`, which re-runs attribution over today's `nodes.csv` without touching DNS; a domain whose records point somewhere no institution of that type should be — a gambling host, a parked page, a country it has no business in — which is a finding and goes in the note under Step 5; and a category share that looks wrong for the country, which is a reason to re-read the rows, not to adjust them.
 
 ## Step 4 — write back to the input file
 
@@ -78,7 +78,7 @@ One log line: `python scripts/log-line.py scan "{ISO3}: NN institutions, NN name
 
 A message in `logs/messages-for-bill.md` only for a finding under Step 3 that is irreversible or already public — a site serving someone else's content is public; a high hyperscaler share is not. Within the cap; at the cap, the finding goes in `run.json` under `findings` instead.
 
-Commit `R&D/Hyperscaler-dependence/scan/{ISO3}/`, the input file, `R&D/Hyperscaler-dependence/asn-owners.csv` and `R&D/Hyperscaler-dependence/saas-targets.csv`, never `ranges/` or `cache/`: `git add "R&D/Hyperscaler-dependence/scan/${ISO3}" "R&D/Hyperscaler-dependence/institutions-${ISO3}.csv" "R&D/Hyperscaler-dependence/asn-owners.csv" "R&D/Hyperscaler-dependence/saas-targets.csv" && git commit -m "Scan ${ISO3}: NN institutions, NN% US hyperscaler"`. The commit body carries every judgement the run made — an ASN classified by hand, a wildcard domain, a range file used from cache.
+Commit `R&D/Hyperscaler-dependence/scan/{ISO3}/`, the input file, `R&D/Hyperscaler-dependence/asn-owners.csv` and `R&D/Hyperscaler-dependence/saas-targets.csv`, never `ranges/` or `cache/`: `git add "R&D/Hyperscaler-dependence/scan/${ISO3}" "R&D/Hyperscaler-dependence/scan/${ISO3}/institutions-${ISO3}.csv" "R&D/Hyperscaler-dependence/asn-owners.csv" "R&D/Hyperscaler-dependence/saas-targets.csv" && git commit -m "Scan ${ISO3}: NN institutions, NN% US hyperscaler"`. The commit body carries every judgement the run made — an ASN classified by hand, a wildcard domain, a range file used from cache.
 
 ## On screen — one line and nothing else
 
