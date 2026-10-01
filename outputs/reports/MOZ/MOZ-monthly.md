@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: MOZ
 ledger_rows: 30
 not_held: 19
-record: 8c6b8a9b2c5e
+record: 8b848eaba52c
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -23,7 +23,9 @@ The digital agency said [the X-Road interoperability platform is expected in the
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The operative plan is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
+The Digital Transformation Operational Plan 2026-2029 [was under appraisal at the technical commission's second session on 21 September, to be harmonised and costed within two to three months](https://aimnews.org/2026/09/21/governo-quer-acelerar-transformacao-digital-dos-servicos-publicos-ate-2029/). It names an interoperability portal, a payments platform for state services, a government cloud and a government data centre, and [the state administration minister told the session that data produced by the public administration must belong to the State](https://www.diarioeconomico.co.mz/2026/09/21/desenvolvimento-2/governo-garante-soberania-do-estado-sobre-dados-publicos/).
+
+The plan in force is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
 The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October.
 <!-- /narrative -->
@@ -31,6 +33,8 @@ The communications regulator [called on 23 September for consultants to diagnose
 
 <!-- narrative: governance--gov-legislate -->
 On 15 September the Council of Ministers [approved a Postal Security Regulation](https://mznews.co.mz/governo-aprova-vovo-regulamento-para-reforcar-a-seguranca-postal-e-proteger-o-comercio-electronico/) setting controls against fraud, theft and cyber threats to the postal network as e-commerce parcels grow; its text is not held.
+
+A law regulating artificial intelligence in education [is almost ready and will reach the Council of Ministers before the end of 2026, the minister said in an account of 17 September](https://integritymagazine.co.mz/arquivos/69322), covering every institution from primary school to university. No draft text is published.
 <!-- /narrative -->
 ### Data protection
 
@@ -62,6 +66,8 @@ ICT equipment financed by a bilateral cooperation agency and delivered through U
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
+
+The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/).
 <!-- /narrative -->
 
 ## DPI
@@ -80,6 +86,8 @@ The digital agency [has submitted a consultancy shortlist to the World Bank for 
 
 <!-- narrative: dpi--dpi-pay -->
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
+
+Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/).
 <!-- /narrative -->
 ### Registries
 
@@ -89,9 +97,9 @@ Birth registration is moving into the maternity ward. The justice sector [is ins
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
+The citizen portal was presented as a single counter for about 140 public services, [resting on the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Early in the month the agency counted [21 services already offered, citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/); on 21 September it [said about 26 were available, including road-transport licensing and the taxpayer number, and that more than 3,000 citizens had used the portal ahead of an official launch not yet held](https://aimnews.org/2026/09/21/governo-quer-acelerar-transformacao-digital-dos-servicos-publicos-ate-2029/). Which of the four dependencies is in service behind it is not stated.
 
-The citizen portal put a live count beside its target: [21 services already offered against about 140 planned, the agency citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
+The road transport institute [moved applications for special transit licences for oversize and overweight vehicles to an end-to-end online process on 1 September](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
 
 The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began.
 <!-- /narrative -->
