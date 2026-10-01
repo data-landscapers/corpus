@@ -6,9 +6,9 @@
 <title>Sierra Leone: status report — Data Landscapers</title>
 <meta name="description" content="Sierra Leone: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/SLE/SLE-status.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
-<link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
+<link rel="stylesheet" href="../../assets/css/report.css?v=bbe0e950">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="Sierra Leone: status report">
 <meta property="og:description" content="Sierra Leone: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
@@ -102,15 +102,61 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/all/">All finance</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
