@@ -42,11 +42,11 @@ Work is ongoing to compile information on national budgets, expenditures and aud
 
 ## budget-summary
 
-What {name} budgets for digital from its own money, read from its own budget documents. Figures are in millions of US Dollars, converted at the IMF annual average rate for the year the fiscal year starts in. Each line counts at the latest stage held: audited, else spent, released, revised, enacted or proposed.
+What {name} budgets for digital from its own money, read from its own budget documents. Figures are in millions of US Dollars, converted at the IMF annual average rate for the year the fiscal year starts in. Each line counts at the latest stage held: audited, else spent, released, revised, enacted or proposed. A line that is only partly digital, or whose scope is unclear, counts at 50% of its value, because its digital part cannot be separated; the full table gives every line's scope and its full figures in the local currency.
 
 ## budget-table-note
 
-US$m, by topic and the year the fiscal year starts in. A line that is only partly digital, or whose scope is unclear, counts at 50% of its value, because its digital part cannot be separated. The full table gives every line's scope and its full figures in the local currency. An empty cell is a year with no line read, not a zero.
+US$m, by topic and the year the fiscal year starts in. Partly digital and unclear lines are in at 50%. An empty cell is a year with no line read, not a zero.
 
 ## budget-none-counted
 
