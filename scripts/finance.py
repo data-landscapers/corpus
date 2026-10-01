@@ -31,7 +31,7 @@ code in the data and shown as a country name in the table, through the `data-lab
 map built from `outputs/vocab/countries.csv`.
 
 **All finance is the two tables in one** *(Bill, 2026-10-01)*: `/finance/all/`, every
-non-state commitment and every budget line in the twelve columns of `ALL_COLUMNS`, joined
+non-state commitment from 2024 and every budget line in the twelve columns of `ALL_COLUMNS`, joined
 here at render from the two files the other pages publish. `documentation/joined-up-finance-spec.csv`
 is Bill's mapping; `lookups/all-finance-metadata.csv` is the dictionary. It follows
 `BUDGETS_DATED`, because half of it is the budget table.
@@ -90,6 +90,10 @@ BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
 ALL_COLUMNS = ("country", "year", "primary_topic", "type", "financier", "recipient", "title",
                "description", "value_usd", "deal_id", "scope", "scope_basis")
 ALL_META = CORPUS / "lookups" / "all-finance-metadata.csv"
+# **Both sides from 2024** *(Bill, 2026-10-01)*: the budget lines start there, and a joined
+# table that set eleven years of commitments beside three of budgets would compare nothing.
+# Earlier non-state commitments stay in the non-state table.
+ALL_FIRST_YEAR = 2024
 ALL_METADATA_CSV = "all-finance-metadata.csv"
 ALL_TABLE_COLS = ("country", "year", "primary_topic", "type", "value_usd", "financier",
                   "recipient", "title", "description")
@@ -523,9 +527,12 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
     whose scope is partial or unclear: each source table halves its own."""
     out = []
     for r in nonstate:
+        year = (r.get("start_year") or "").strip()[:4]
+        if not year.isdigit() or int(year) < ALL_FIRST_YEAR:
+            continue
         m = r.get("commitment_usd_m") or ""
         out.append({
-            "country": r["recipient"], "year": (r.get("start_year") or "").strip()[:4],
+            "country": r["recipient"], "year": year,
             "primary_topic": r["primary_topic"],
             "type": "aid" if r.get("aid") == "true" else "other finance",
             "financier": r["financier"], "recipient": r["recipient_organisation"],
@@ -600,7 +607,7 @@ def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
         detail=", ".join(ALL_COLUMNS),
         labels=attr_json({"country": {c: names.get(c, c) for c in used}}),
         tips=attr_json({m["column"]: m["definition"] for m in meta if m.get("definition")}),
-        rows=f"{len(rows):,}", deals=f"{len(nonstate):,}", lines=f"{len(budget):,}",
+        rows=f"{len(rows):,}", deals=f"{len(rows) - len(budget):,}", lines=f"{len(budget):,}",
         countries=sum(1 for c in used if not c.startswith("X")),
         regions=sum(1 for c in used if c.startswith("X")),
         yr=f"{years[0]}–{years[-1]}" if years else "n/a",

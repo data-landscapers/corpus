@@ -26,7 +26,7 @@ def check(label, got, want):
     print(f"  {'ok  ' if ok else 'FAIL'}  {label}" + ("" if ok else f"  — got {got!r}, want {want!r}"))
 
 
-NS = {"recipient": "KEN", "start_year": "2015 (2015-07-06)", "primary_topic": "Connectivity",
+NS = {"recipient": "KEN", "start_year": "2025 (2025-07-06)", "primary_topic": "Connectivity",
       "aid": "true", "financier": "World Bank", "recipient_organisation": "ICT Authority",
       "title": "Fibre", "description": "A loan.", "commitment_usd_m": "22.5",
       "deal_id": "wb-ken-1", "scope": "partial", "scope_basis": "Broadband with power."}
@@ -37,12 +37,16 @@ BD = {"country": "KEN", "report_year": "2025", "primary_topic": "Registries",
       "scope_confidence": "whole", "scope_basis": "Named system."}
 
 rows = {r["deal_id"]: r for r in finance.all_finance_rows(
-    [NS, {**NS, "deal_id": "wb-ken-2", "aid": "false", "commitment_usd_m": ""}], [BD])}
+    [NS, {**NS, "deal_id": "wb-ken-2", "aid": "false", "commitment_usd_m": ""},
+     {**NS, "deal_id": "wb-ken-old", "start_year": "2023"},
+     {**NS, "deal_id": "wb-ken-undated", "start_year": ""}], [BD])}
 ns, other, bd = rows["wb-ken-1"], rows["wb-ken-2"], rows["ken-2025-x"]
 
 check("every row has exactly the published columns", list(ns), list(finance.ALL_COLUMNS))
 check("a non-state value is whole dollars", ns["value_usd"], "22500000")
-check("its year is the bare year", ns["year"], "2015")
+check("its year is the bare year", ns["year"], "2025")
+check("a commitment before 2024, or with no year, is not joined",
+      sorted(rows), ["ken-2025-x", "wb-ken-1", "wb-ken-2"])
 check("aid is aid", ns["type"], "aid")
 check("and anything else non-state is other finance", other["type"], "other finance")
 check("no amount stays blank, never zero", other["value_usd"], "")
