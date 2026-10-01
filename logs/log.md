@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-01 22:34 · **BUDGET-EXTRACT** · 1m · CPV FY2026: data protection commission added, CVE 38,128,770 appropriated, from the National Assembly's budget resolution - ok
 2026-10-01 22:33 · **BUDGET-EXTRACT** · 2m · SYC FY2026: re-read against the Appropriation Act, 10 lines to appropriated (four heads enacted at the bill's figure), 15 stay proposed - ok
 2026-10-01 22:31 · **BUDGET-EXTRACT** · 2m · GHA FY2024-26: Ghana Statistical Service added from the Ministry of Finance estimates, 6 rows (GoG 15.0m, 26.7m, 37.2m cedis; IGF beside each); donor columns not built; notes-for-corpus 73 - ok
 2026-10-01 22:29 · **BUDGET-EXTRACT** · 7m · AGO FY2026: 53 lines from the allocation-by-organ report (29 whole, 23 partial, 1 unclear), organ totals reconcile to the budget law, replaces 9 migrated rows; NGA FY2026 1,209 rows re-pointed to the catalogued Act - ok
