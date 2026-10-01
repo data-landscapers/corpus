@@ -12,6 +12,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-10-01 22:40 · build
+
+- The two-hour limit on budget readings does not bind in a session: this cycle's five readings (AGO, GHA statistics, SYC, CPV, NGA re-point) took 12 minutes by the clock. I stopped there on judgement; BEN, MUS, GHA FY2025, TUN FY2025 and 115 polled documents wait. Say a number of readings a cycle if you want a cap that holds.
+
 ## 2026-10-01 12:28 · non-state scope
 
 - Reports still quote non-state commitments at full value, from the wiki; the finance tables now halve 181 deals and leave 90 out. A report's figure can be twice its country table's, or name a deal the table omits. MDG's status report says two broad operations are "counted whole"; both are now out. Each report corrects at its next unit review. Say "align the reports" for one pass over all 54.
