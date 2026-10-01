@@ -10,7 +10,9 @@ The `dataset-*` blocks are not shown on the page: they are the descriptions in t
 
 ## non-state-intro
 
-This table documents funds committed to Africa's digital sector by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators and private. See [this introduction](https://data-landscapers.io/2026/09/27/non-state-finance/) to its contents and processes.
+This table documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators and private. See [this introduction](https://data-landscapers.io/2026/09/27/non-state-finance/) to its contents and processes.
+
+We parse the text accompanying each commitment to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the government's.
 
 ## non-state-table-note
 
@@ -18,9 +20,9 @@ Click any row to open the full record. Sort on any column heading, filter with t
 
 ## budgets-intro
 
-What a government commits from its own budget is the other half of the picture, and the more important half: domestic spending is where a state's actual priorities are visible, and where external finance either is or is not being matched.
+This table monitors national budgets since 2024. Where available every budget line is traced from proposed through appropriated and revised through to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison. 
 
-This table holds every digital line we have read from African states' own budget documents: what was proposed, enacted, revised and spent, and where in the document each figure is printed. Figures are in the budget's own currency; `budget_usd` gives the latest one in US dollars. Only the state's own money is here. Donor and lender money is in [non-state finance](../).
+We parse each line's programme and sub-programme text to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the government's.
 
 Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download. Work continues country by country, one fiscal year at a time.
 
