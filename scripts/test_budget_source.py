@@ -354,6 +354,13 @@ try:
         usd = next(csv.DictReader(fh))["budget_usd"]
     check("update fills budget_usd", usd.isdigit(), True)
     with open(c / bs.COUNTRY.format("GHA"), encoding="utf-8-sig", newline="") as fh:
+        row = next(csv.DictReader(fh))
+    whole = int(bs.budget_usd({**row, "scope_confidence": "whole"}))
+    half = int(bs.budget_usd({**row, "scope_confidence": "partial"}))
+    check("a partial line counts at half", abs(whole - 2 * half) <= 1 and half < whole, True)
+    check("an unclear line counts in full",
+          int(bs.budget_usd({**row, "scope_confidence": "unclear"})), whole)
+    with open(c / bs.COUNTRY.format("GHA"), encoding="utf-8-sig", newline="") as fh:
         rd = csv.DictReader(fh)
         first = next(rd)
     check("update fills report_year from fy_start", first["report_year"], "2024")

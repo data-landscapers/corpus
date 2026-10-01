@@ -17,11 +17,11 @@ Is the line **digital**; is the money the **state's own**; and which **stage** o
 
 **The unit of capture is the programme, sub-programme or project line whose stated purpose is a digital activity.** A ministry's total vote is an envelope and is never a record.
 
-**Never compute a digital share of a mixed line.** No percentages, no apportionment. A line that demonstrably contains digital spend that cannot be separated is held at `partial`, not estimated.
+**Never compute a digital share of a mixed line.** No percentages, no apportionment. A line that demonstrably contains digital spend that cannot be separated is held at `partial`, not estimated. **The one apportionment is in the derived dollar column** *(Bill's ruling, 2026-10-01)*: `budget_usd` counts a `partial` line at 50%. The stage figures on the row stay as printed.
 
 **One carve-out — the single-mandate body.** Where a body's entire statutory mandate falls within data governance or digital transformation, its whole appropriation is a record at `whole`. The test is the mandate, not the name: a regulator that also licenses broadcast content or postal services is multi-purpose, and only its digital programmes record.
 
-Every record carries `scope_confidence` (`whole` | `partial` | `unclear`) and `scope_basis`, one line on how the line was identified — programme title, project code, classification tag, narrative paragraph, named system. `partial` and `unclear` records are built and held, and reported separately from the headline total, never folded into it.
+Every record carries `scope_confidence` (`whole` | `partial` | `unclear`) and `scope_basis`, one line on how the line was identified — programme title, project code, classification tag, narrative paragraph, named system. `unclear` records are built and held, and reported separately from the headline total, never folded into it; `partial` ones are in it at half.
 
 **A national statistics office is a single-mandate data body** *(2026-09-24, budget sprint)*. Official statistics is in the frame (`data.statistics`, with censuses and surveys an indicator of its own), so the office's whole appropriation records at `whole`. Where the vote prints the office's programmes or sub-programmes, hold them at that grain, never the office's total beside them. A statistics unit inside a line ministry is part of that ministry's administration and records only where it prints a digital line of its own. **The same holds for a geospatial data body** *(2026-09-25)*: a remote-sensing, mapping or earth-observation centre whose whole mandate is producing and distributing geospatial data records at `whole`. A space agency that also does space science, launch or satellite engineering has a mixed mandate and records at `partial`, not nil.
 

@@ -20,7 +20,9 @@ Click any row to open the full record. Sort on any column heading, filter with t
 
 ## budgets-intro
 
-This table monitors national budgets since 2024. Where available every budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison. 
+This table monitors national budgets since 2024. Where available every budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.
+
+Some lines are only partly digital: a ministry's IT directorate, for example, whose budget also pays for other work. The digital part cannot be separated, so `budget_usd` counts 50% of such a line. The figures in the local currency are never adjusted: they are the full amounts as the document prints them. Open a row to see them beside the line's scope, or filter on scope to list the partly digital lines.
 
 We parse each line's programme and sub-programme text to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the government's.
 

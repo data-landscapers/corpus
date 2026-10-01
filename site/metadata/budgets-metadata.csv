@@ -2,7 +2,7 @@ column,label,type,values,definition
 country,Country,code,ISO3,"The country whose budget the line is in, as a three-letter code (KEN is Kenya)."
 report_year,Year,year,,The year the fiscal year starts in. A 2024/25 budget that starts in April 2024 is 2024.
 primary_topic,Topic,text,a Level 2 label in the topic taxonomy,"What the money is for, as the topic taxonomy's name for primary_topic_id."
-budget_usd,US$,number,whole US dollars,"The latest figure held for the line, in US dollars: audited if there is one, else actual, released, revised, appropriated or proposed. Converted at the IMF annual average rate for the year the fiscal year starts in. Blank where no rate is held."
+budget_usd,US$,number,whole US dollars,"The latest figure held for the line, in US dollars: audited if there is one, else actual, released, revised, appropriated or proposed. Converted at the IMF annual average rate for the year the fiscal year starts in. A line that is only partly digital (scope is partial) counts at half its value. Blank where no rate is held."
 admin_head,Admin head,text,,"The top level the budget allocates money to, usually a ministry or vote, as the document names it."
 spending_entity,Spending entity,text,,"The body that spends the money, as the document names it. Often the same as the admin head."
 programme,Programme,text,,"The programme the line sits in, as the document names it. Where a budget has no programmes, the next level it prints; programme_level says which."
@@ -34,7 +34,7 @@ econ_class,Economic class,text,,"The economic classification the document gives 
 admin_head_basis,Admin head basis,text,"printed, derived",Whether admin_head is the document's own name (printed) or worked out from what the line holds (derived).
 programme_basis,Programme basis,text,"printed, derived",Whether programme is the document's own name (printed) or worked out from what the line holds (derived).
 programme_level,Programme level,text,"programme, project, activity, action, chapter, line, account, body, vote",The level of the budget that the programme column holds.
-scope_confidence,Scope,text,"whole, partial, unclear","Whether the whole line is digital, part of it is (the digital part cannot be separated), or it is unclear."
+scope_confidence,Scope,text,"whole, partial, unclear","Whether the whole line is digital, part of it is (the digital part cannot be separated, so budget_usd counts half), or it is unclear."
 scope_basis,Scope basis,text,,"Why the line was judged digital, in our words."
 finance_origin,Origin,text,domestic-state,Whose money it is. Every line here is the state's own money; externally financed lines are in the non-state finance dataset.
 funding_source,Funding source,text,"domestic-revenue, domestic-borrowing, own-source, counterpart, unstated","The source the document names for the money: tax revenue, domestic borrowing, a body's own fees and levies, the state's counterpart to a donor project, or not stated."

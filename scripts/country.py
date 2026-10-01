@@ -321,11 +321,10 @@ def budgets(iso: str) -> tuple[list[str], list[dict]]:
 
 
 def budget_counted(r: dict) -> bool:
-    """A line the summary may add up: wholly digital, spent where it is printed, and stated
-    as a total. `build-finance-page.py` -> `in_headline` is the same rule over OSINT's
-    records. A partial-scope line's figure is mostly something else — Egypt's lines sum to
-    US$1.6bn and its wholly digital ones to US$133m — so it is in the full table and not here."""
-    return (r.get("scope_confidence") == "whole" and r.get("is_transfer") != "true"
+    """A line the summary may add up: its scope known, spent where it is printed, and
+    stated as a total. A `partial` line is in at half its value, which `budget_usd` already
+    carries *(Bill's ruling, 2026-10-01)*; an `unclear` one is in the full table and not here."""
+    return (r.get("scope_confidence") in ("whole", "partial") and r.get("is_transfer") != "true"
             and r.get("supplementary_basis") != "unclear" and bool(r.get("budget_usd")))
 
 

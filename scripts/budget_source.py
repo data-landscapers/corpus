@@ -250,16 +250,24 @@ def _fx() -> dict:
     return _FX
 
 
+# **A partly digital line counts at half** *(Bill's ruling, 2026-10-01)*. The digital part of
+# a `partial` line cannot be separated, so `budget_usd` takes 50% of it. The stage figures
+# stay as the document prints them; only the derived dollar column is halved.
+PARTIAL_SHARE = 0.5
+
+
 def budget_usd(row: dict) -> str:
     """The row's latest stage figure in whole US dollars, or blank where it has none or no
     rate is held. The finance build's rule for a domestic line: the IMF annual average for
-    the currency in the fiscal year's start year, else the nearest year held; USD is 1."""
+    the currency in the fiscal year's start year, else the nearest year held; USD is 1.
+    A `partial` line counts at `PARTIAL_SHARE` of that."""
     import finance_lib
+    share = PARTIAL_SHARE if (row.get("scope_confidence") or "").strip() == "partial" else 1
     for stage in reversed(STAGES):
         v = (row.get(stage) or "").strip()
         if v and MONEY.match(v):
             rate = finance_lib.fx_rate(_fx(), (row.get("currency") or "").strip(), fy_of(row))
-            return "" if not rate else f"{float(v) / rate:.0f}"
+            return "" if not rate else f"{float(v) / rate * share:.0f}"
     return ""
 
 

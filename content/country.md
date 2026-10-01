@@ -46,15 +46,15 @@ What {name} budgets for digital from its own money, read from its own budget doc
 
 ## budget-table-note
 
-US$m, by topic and the year the fiscal year starts in. Lines only partly digital are left out; they are in the full table. An empty cell is a year with no line read, not a zero.
+US$m, by topic and the year the fiscal year starts in. A line that is only partly digital counts at 50% of its value, because its digital part cannot be separated. The full table gives every line's scope and its full figures in the local currency. Lines whose scope is unclear are left out of this summary. An empty cell is a year with no line read, not a zero.
 
 ## budget-none-counted
 
-Every line read so far is only partly digital, so no totals are shown. The lines are in the full table.
+No line read so far is clearly digital, so no totals are shown. The lines are in the full table.
 
 ## budget-table-intro
 
-Every digital line read from {name}'s own budget documents: what was proposed, enacted, revised and spent. Figures are in the budget's own currency; `budget_usd` gives the latest one in US dollars. Only the state's own money is here. Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download.
+Every digital line read from {name}'s own budget documents: what was proposed, enacted, revised and spent. Figures are in the budget's own currency; `budget_usd` gives the latest one in US dollars. Only the state's own money is here. Some lines are only partly digital: a ministry's IT directorate, for example, whose budget also pays for other work. The digital part cannot be separated, so `budget_usd` counts 50% of such a line. The figures in the local currency are never adjusted: they are the full amounts as the document prints them. Open a row to see them beside the line's scope, or filter on scope to list the partly digital lines. Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download.
 
 ## dataset-description
 
