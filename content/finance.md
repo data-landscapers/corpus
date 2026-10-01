@@ -20,11 +20,11 @@ Click any row to open the full record. Sort on any column heading, filter with t
 
 ## budgets-intro
 
-This table monitors national budgets since 2024. Where available every budget line is traced from proposed through appropriated and revised through to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison. 
+This table monitors national budgets since 2024. Where available every budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison. 
 
 We parse each line's programme and sub-programme text to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the government's.
 
-Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download. Work continues country by country, one fiscal year at a time.
+Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download. The table is updated automatically when new documents are discovered.
 
 ## dataset-all
 
