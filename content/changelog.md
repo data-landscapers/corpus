@@ -1,5 +1,6 @@
 ## 1 October 2026
 
+- Ten of Seychelles' 2026 budget lines now stand at the appropriated stage: the Appropriation Act, 2026 votes the ICT department, the statistics bureau, the Information Commission and the communications regulator the same totals the bill proposed. The other fifteen 2026 lines stay proposed, because the Act prints one figure for each head and nothing below it.
 - Ghana's budget table now carries the Ghana Statistical Service for 2024, 2025 and 2026, read from the Ministry of Finance's own estimates, where the service is a cost centre and has no vote of its own. The state proposed GH¢15.0m, GH¢26.7m and GH¢37.2m in those years, most of it pay, against donor money of GH¢111.7m, GH¢210.8m and GH¢312.5m printed on the same lines, which the table does not count as the state's.
 - Angola's 2026 national budget has been read from the state's own allocation-by-organ report: 53 digital lines, all at the appropriated stage, replace nine thinner entries. Angola's budget table now covers 2024 to 2026 at the same grain, and its 2026 figures can be compared line by line with 2025.
 - A new table, [All finance](/finance/all/), joins non-state commitments and national budget lines from 2024 onwards in one set of columns. Money for a country, a year or a topic can now be read together, and each row's `deal_id` leads back to its full record.
