@@ -1,6 +1,6 @@
 ## 1 October 2026
 
-- In national budgets, a line that is only partly digital now counts at half its value in `budget_usd`; it had counted in full. The table's total falls from US$16.7bn to US$13.2bn; the figures in each line's own currency are unchanged, and the scope filter lists the lines affected.
+- In national budgets, a line that is only partly digital, or whose scope is unclear, now counts at half its value in `budget_usd`; it had counted in full. The table's total falls from US$16.7bn to US$13.1bn; the figures in each line's own currency are unchanged, and the scope filter lists the lines affected.
 - Every country page with budget lines now shows what the state budgets for digital from its own money, in US$m by topic and year, for 52 countries. Behind it are the country's full budget table and a CSV of its lines.
 
 ## 30 September 2026

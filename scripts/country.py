@@ -321,10 +321,10 @@ def budgets(iso: str) -> tuple[list[str], list[dict]]:
 
 
 def budget_counted(r: dict) -> bool:
-    """A line the summary may add up: its scope known, spent where it is printed, and
-    stated as a total. A `partial` line is in at half its value, which `budget_usd` already
-    carries *(Bill's ruling, 2026-10-01)*; an `unclear` one is in the full table and not here."""
-    return (r.get("scope_confidence") in ("whole", "partial") and r.get("is_transfer") != "true"
+    """A line the summary may add up: spent where it is printed, and stated as a total.
+    Scope does not exclude a line: a `partial` or `unclear` one is in at half its value,
+    which `budget_usd` already carries *(Bill's ruling, 2026-10-01)*."""
+    return (r.get("is_transfer") != "true"
             and r.get("supplementary_basis") != "unclear" and bool(r.get("budget_usd")))
 
 

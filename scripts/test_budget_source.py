@@ -358,8 +358,8 @@ try:
     whole = int(bs.budget_usd({**row, "scope_confidence": "whole"}))
     half = int(bs.budget_usd({**row, "scope_confidence": "partial"}))
     check("a partial line counts at half", abs(whole - 2 * half) <= 1 and half < whole, True)
-    check("an unclear line counts in full",
-          int(bs.budget_usd({**row, "scope_confidence": "unclear"})), whole)
+    check("and so does an unclear one",
+          int(bs.budget_usd({**row, "scope_confidence": "unclear"})), half)
     with open(c / bs.COUNTRY.format("GHA"), encoding="utf-8-sig", newline="") as fh:
         rd = csv.DictReader(fh)
         first = next(rd)
