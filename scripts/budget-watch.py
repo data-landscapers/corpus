@@ -22,7 +22,8 @@ fy_start_month, fy_source, last_published, http, state, checked`.
 
 - `institution` — the commonest `publisher:` among the host's companions.
 - `type_months` — `type:MM,MM;type:MM`, the months of `published:` each type has appeared in,
-  counting only dates stated to the month or day. R103's due rule reads it.
+  counting only dates stated to the month or day. Nothing reads it since 2026-10-01, when
+  the due rule became every library every day.
 - `fy_start_month` — from Corpus's own `budgets/budgets-{ISO3}.csv` `fy_start` where the country has
   rows (`fy_source: budgets`), else a companion's `fy_start:` (`companion`), else `01` where
   every `fiscal_years_covered` label is a bare year (`label`), else blank.
@@ -35,7 +36,7 @@ not write (R103's poll state), so a rebuild after a night's ingest adds what is 
 overwrites nothing a later step decided.
 
 **`poll` (R103) fetches each due `live` library and stages what is new.** No model call. A row
-is due weekly in a month one of its types has appeared in, monthly otherwise, and always if it
+is due once a day *(Bill, 2026-10-01: there is no publishing season)*, and always if it
 has never been polled; `refind` and `unreached` rows wait for R104. For each page:
 
 1. Every link is read. A link already recorded for the library in `logs/budget-poll/links.csv`
@@ -482,10 +483,11 @@ def superseded(href: str, label: str, doc_type: str, iso3: str, fy_month: str,
 def due(row: dict, today: dt.date) -> bool:
     if not row.get("last_poll"):
         return True
-    gap = (today - dt.date.fromisoformat(row["last_poll"])).days
-    in_season = any(f"{today.month:02d}" in part.split(":", 1)[1].split(",")
-                    for part in (row.get("type_months") or "").split(";") if ":" in part)
-    return gap >= (7 if in_season else 28)
+    # **Every library, every day** *(Bill, 2026-10-01)*. The rule was weekly in a month one of
+    # the library's types had appeared in and every 28 days otherwise. There is no publishing
+    # season: a treasury's web publishing does not follow its budget calendar, and a pass over
+    # all 66 libraries with nothing new takes under four minutes.
+    return dt.date.fromisoformat(row["last_poll"]) < today
 
 
 def read_csv(path: Path) -> list[dict]:

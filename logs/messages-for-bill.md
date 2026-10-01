@@ -18,7 +18,7 @@ last_reviewed: 2026-08-28
 
 ## 2026-10-01 12:02 · runbook caps
 
-- `lint-docs.py` fails on five root runbooks over the 1,500-word cap: STATUS-INIT 4,064, BUILD 3,074, CYCLE 2,412, CITE-REREAD 2,042, BUDGET-EXTRACT 1,756. About 5,800 words must move to `documentation/`, as R92 did for the rest. Not done in the budgets session: it rewrites the procedures the cycle runs on and wants a session of its own. Say "trim the runbooks" to start it.
+- `lint-docs.py` fails on five root runbooks over the 1,500-word cap: STATUS-INIT 4,064, BUILD 3,074, CYCLE 2,489, CITE-REREAD 2,042, BUDGET-EXTRACT 1,768. About 5,900 words must move to `documentation/`, as R92 did for the rest. Not done in the budgets session: it rewrites the procedures the cycle runs on and wants a session of its own. Say "trim the runbooks" to start it.
 
 ## 2026-09-29 16:05 · hyperscaler reports
 
