@@ -1,5 +1,6 @@
 ## 1 October 2026
 
+- Angola's 2026 national budget has been read from the state's own allocation-by-organ report: 53 digital lines, all at the appropriated stage, replace nine thinner entries. Angola's budget table now covers 2024 to 2026 at the same grain, and its 2026 figures can be compared line by line with 2025.
 - A new table, [All finance](/finance/all/), joins non-state commitments and national budget lines from 2024 onwards in one set of columns. Money for a country, a year or a topic can now be read together, and each row's `deal_id` leads back to its full record.
 - Non-state finance now counts a commitment that is only partly digital, or whose scope is unclear, at half its amount, and leaves out 90 where digital is incidental to another purpose, such as cash-transfer programmes and general scholarships. The table now holds 1,312 commitments worth US$68.9bn, down from 1,402 worth US$83.3bn, and two new columns, `scope` and `scope_basis`, give each judgement and the reason.
 - In national budgets, a line that is only partly digital, or whose scope is unclear, now counts at half its value in `budget_usd`; it had counted in full. The table's total falls from US$16.7bn to US$13.1bn; the figures in each line's own currency are unchanged, and the scope filter lists the lines affected.
