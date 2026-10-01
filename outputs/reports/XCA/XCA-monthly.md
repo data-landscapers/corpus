@@ -1,21 +1,21 @@
 ---
-title: Central Africa — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+title: Central Africa — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: XCA
-ledger_rows: 14
+ledger_rows: 7
 not_held: 0
-record: 954d34ab123b
+record: 82f3f4bea944
 ---
 
-# Central Africa: monthly update, August – September 2026
+# Central Africa: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Payments infrastructure carried the month: BEAC put [SYSTAC 2 into production on 3 August](https://www.beac.int/wp-content/uploads/2026/08/CP_MISE-EN-PROD-SYSTAC.pdf), replacing a platform in service since 2007, and its [PAPSS accession](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/) reached its first public test when Cameroonian businesses [reported no operational access a month on](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). Africa CDC [closed a health-data-sharing workshop in Libreville on 21 August](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) setting short deadlines for a data-sharing convention, and a [CEMAC/ILO labour-statistics workshop in Pointe-Noire](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301) produced a regional methodological guide against the organisers' own finding that no member state runs a regular labour force survey. Two announcements — a [Central Africa Peering Forum](https://tech.africa/capf-2026/) and a [PIDA data-centre prospectus](https://au-pida.org/prospectus/brochure-onepage.php?id=17) — were published with no delivery yet behind them.
+CEMAC energy ministers [validated a regulation creating a common energy information system on 25 September](https://agpgabon.ga/gabon-cemac-energie-validation-du-reglement-portant-creation-du-sie/). A Libreville workshop on statistical harmonisation [closed on 18 September with 14 recommendations and a 2026-2029 migration calendar](https://gabonactu.com/blog/2026/09/20/statistiques-et-donnees-les-pays-de-lafrique-centrale-sur-la-meme-longueur-dondes/). A [regional workshop on national emergency telecommunications plans was held in Brazzaville on 15-16 September](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621), and ECCAS [held a stakeholder workshop in Douala on a framework for cross-border data governance](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/).
 <!-- /narrative -->
 
 ## Institutions and mandates
@@ -23,8 +23,6 @@ Payments infrastructure carried the month: BEAC put [SYSTAC 2 into production on
 ### Regional collaboration
 
 <!-- narrative: institutions--gov-regional -->
-Africa CDC [closed a regional advocacy workshop in Libreville on 21 August](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) setting a six-week deadline for drafting an inter-country health-data-sharing convention and a four-week deadline for a formal sharing mechanism, to be put to the health ministers of the seven of nine member states that have yet to sign the underlying protocol. The deadlines fall after this window and are not yet due.
-
 The regional data-governance framework closed its consultations. [The Douala sessions ended on 4 September with 27 participants and European Union and German development backing, a framework and an accompanying roadmap due out of them](https://www.uneca.org/stories/eca-and-partners-advance-eccas-regional-data-governance-framework). No draft text, adoption route, member-state commitment or publication date for either is held — which leaves the region with a process and no instrument.
 
 A second account of the same Douala workshop [names the African Union development agency, the UN economic commission and the African Union Commission as engaged alongside the European and German backing, and presents the exercise as a further step in the community's regional digital integration](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/). It adds partners and no text.
@@ -35,7 +33,7 @@ A second account of the same Douala workshop [names the African Union developmen
 ### Standards
 
 <!-- narrative: instruments--gov-standards -->
-A trade-press account of the CEMAC interoperable QR-code standard [put GIMAC's tariff structure under revision on 3 August](https://leconomie.info/guy-noel-londongo-les-tarifs-du-gimac-ont-ete-revus-a-la-baisse-dans-quasiment-tous-les-compartiments-de-linteroperabilite/), GIMAC's director-general conceding that current pricing penalises low-value transactions and drives artificial splitting of payments — the tariff-revision workshop itself opened 30 July, just outside this window, and the revised grid still needs BEAC's agreement, with entry into force hoped for 1 January 2027.
+A Libreville workshop on harmonising CEMAC statistics on the SDMX standard and the Open Data Platform [closed on 18 September 2026 with 14 recommendations and a 2026-2029 migration calendar](https://gabonactu.com/blog/2026/09/20/statistiques-et-donnees-les-pays-de-lafrique-centrale-sur-la-meme-longueur-dondes/). It was stated at the workshop that [no member state has yet migrated to the platform's second version](https://7joursinfo.com/actualites/cemac-acceleration-de-la-modernisation-des-systemes-statistiques-avec-ladoption-du-sdmx-et-la-migration-vers-lodp-2-0/). No adoption instrument or budget is published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -43,22 +41,11 @@ A trade-press account of the CEMAC interoperable QR-code standard [put GIMAC's t
 ### Connectivity
 
 <!-- narrative: systems--infra-connect -->
-A [Central Africa Peering Forum was announced for Yaounde, 30 September to 1 October](https://tech.africa/capf-2026/), covering peering, interconnection, routing security and RPKI. It closes a 2026 regional calendar that already ran West Africa's forum in Cotonou in June and the continental AfPIF in Kigali in August, and the announcement itself carries no agenda or attendance detail yet.
-
 Eight ECCAS states [met in Brazzaville on 15 and 16 September with the ITU and the regional regulators' assembly on a model framework for national emergency telecommunications plans](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621), which each state is to adapt; no framework is adopted and no national plan is held.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: systems--infra-store -->
-The African Union's PIDA programme [published a project prospectus for ECCAS-level data-centre infrastructure on 25 August](https://au-pida.org/prospectus/brochure-onepage.php?id=17), framed as underpinning the digital economy. No financing, sponsor or timetable is stated in the prospectus itself.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: systems--dpi-pay -->
-BEAC [put SYSTAC 2 into production on 3 August](https://www.beac.int/wp-content/uploads/2026/08/CP_MISE-EN-PROD-SYSTAC.pdf), the bank's own communique settling a date a trade-press account had misdated to 2027: a centralised, fully online ISO 20022-compliant platform for transfers, direct debits, cheques and card payments across all six CEMAC states, with the instant-payments module explicitly not yet in production and the incoming RTGS system SYGMA V10 dated only to "the coming weeks". [Further reporting through the month](https://www.ecofinagency.com/news-finances/1408-58143-beac-deploys-new-cemac-retail-payment-platform-as-regional-rtgs-upgrade-nears) added no new capability beyond BEAC's own account.
-
-BEAC's July accession to PAPSS had its first public test this month: a Cameroonian trade outlet [reported on 25 August that Cameroonian businesses still had no operational access](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/) to the continental settlement rail, with no public list yet of operational Cameroonian banks, open corridors, tariffs or ceilings.
-
 The accession then moved to the banks that have to use it. On 9 September the central bank and the operator [held a webinar to accelerate the accession of the zone's commercial banks, setting out the practical terms of participation and the next steps in the process](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/), the central bank framing it as a move toward African financial sovereignty and reduced dependence on the dollar and the euro. Still no member-state bank is named as acceded or in process, and no timetable, volume or corridor figure is published — a month after businesses in the zone's largest economy reported no operational access, the answer is another briefing.
 
 The regional central bank named a digital currency as a reform priority. Its governor [met the IMF's Africa director on 14 September to define a banking model for the next decade, with a central bank digital currency among the priorities](https://www.lepaystchad.com/46551-2/), framed as protecting monetary sovereignty against private digital assets; no design, timetable or legal instrument is published.
@@ -66,15 +53,5 @@ The regional central bank named a digital currency as a reform priority. Its gov
 ### National statistics
 
 <!-- narrative: systems--data-statistics -->
-A nine-day CEMAC/ILO workshop [closed in Pointe-Noire on 27 August](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301), producing a regional methodological guide and a preliminary roadmap toward quarterly labour-force surveys across the six member states — against the organisers' own statement that no member state currently runs one. The [World Bank-financed HISWACA workshop put informal employment above 65% of jobs bloc-wide and unemployment ranging from 1.1% in Chad to nearly 20% in Gabon](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301).
-
 CEMAC experts from six member states [opened preparatory work in Libreville on 21 September on national energy information systems and a common community system, examining a draft community regulation on energy data and a regional roadmap](https://www.gabonreview.com/energie-la-cemac-prepare-un-systeme-dinformation-commun/). On 23 September they [validated the draft regulation and the roadmap, and asked member states for a dedicated recurring budget and permanent staff for national cells](https://agpgabon.ga/gabon-cemac-atelier-sie-les-experts-formulent-des-recommandations-avant-la-reunion-ministerielle/), and the energy ministers [took up the draft regulation at Libreville on 25 September](https://www.gabonreview.com/donnees-energetiques-la-cemac-veut-parler-dune-meme-voix/), Gabon's minister asking the African Energy Commission for technical and financial support and saying the sharing of some energy data falls under national sovereignty. The ministers [validated the regulation and adopted its roadmap](https://agpgabon.ga/gabon-cemac-energie-validation-du-reglement-portant-creation-du-sie/), recommending both to the UEAC Council of Ministers, whose adoption is still to come.
-<!-- /narrative -->
-
-## Capacity and inclusion
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-The region's own training institution came back into view on 4 August, when the ECCAS commissioner for gender and human development [visited the African Institute of Informatics in Yaounde and opened collaboration on education and digital skills](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/). The institute is inter-state by construction — it is the one training body in this ledger the region owns rather than hosts. Nothing in the account carries an enrolment figure, a qualification, or a commitment beyond the visit.
 <!-- /narrative -->

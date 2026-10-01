@@ -1,27 +1,21 @@
 ---
-title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Kenya — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: KEN
-ledger_rows: 219
+ledger_rows: 111
 not_held: 7
-record: 1a664c542fa8
+record: 467332007753
 ---
 
-# Kenya: monthly update, August – September 2026
+# Kenya: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Election technology is where the month's arguments concentrated. Procurement of the integrated elections management system [is halted at the review board](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations), the commission having rejected allegations over the results-transmission procurement in the same account; and an amendment bill [would repeal the duty to livestream polling-station results](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024). A year out from a general election, the systems that will run it are contested at both the procurement end and the transparency end.
-
-Speech law went backwards and forwards at once. Parliament [is appealing to the Supreme Court to restore the struck-down false-information provisions of the cybercrimes Act](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne); a gazette notice [requires cyber cafes to register customers and log sessions from 7 September](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj); and the artificial-intelligence governance bill under debate [was criticised for omitting child-specific protection](https://www.amnesty.org/en/latest/news/2026/08/amnesty-internation/).
-
-Two working systems went the other way. The health claims platform is [failing at the counter, with the President putting its KSh 104bn at a ten-year service fee rather than a payment made](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system), and a court [barred discontinuation of physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks). Against them, an advanced cargo declaration system and a port smart gate [entered service on 3 August](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays), and the 47 counties [were given until 30 September to complete integration with electronic procurement](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques).
-
-The platform the state runs its services on had a bad month. eCitizen's payment layer [failed for much of 26 August](https://swalanyeti.co.ke/news/article/10773/motorists-cry-foul-as-ntsa-payment-glitch-causes-double-charges-and-delays), and the tax invoicing service reached through it [was down for three days to 31 August](https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546), while the Treasury [moved to take formal ownership of it by regulation](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/).
+Kenya [signed the Digital Cooperation Organization's charter as a signatory member](https://africaneyereport.com/kenya-signs-dco-charter-on-the-sidelines-of-unga81/), reported on 28 September. The central bank [licensed 29 more digital credit providers on 30 September, bringing the total to 281](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). Interviews for the next Data Protection Commissioner [are set for 5 October](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/). An Indian IT firm's [sovereign cloud was announced live at a Nairobi data centre](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/), and the largest operator [put M-PESA tap-to-pay on 30,000 point-of-sale terminals](https://techcabal.com/2026/10/01/safaricom-taps-pesapals-30000-pos-terminals-to-take-m-pesa-contactless/). The Ardhisasa land platform [went down again on 21 September](https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services).
 <!-- /narrative -->
 
 ## Governance
@@ -29,38 +23,16 @@ The platform the state runs its services on had a bad month. eCitizen's payment 
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Safaricom's revised M-Pesa business tariffs [took effect on 7 August, its own customer notice attributing the change to alignment with the Central Bank's pricing principles](https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move); no gazetted rule stands behind them.
-
 Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published.
 <!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-Virtual-asset operators [face a 4 November 2026 deadline to transition into the licensed regime](https://techcabal.com/2026/08/24/kenya-virtual-asset-marke/), under regulations [gazetted as Legal Notice 134](https://new.kenyalaw.org/akn/ke/act/ln/2026/134/eng@2026-07-22/source) that set paid-up capital by licence class from KES 300m for stablecoin issuance to nil for investment advisers.
-
-On 31 August the National Assembly was reported to have [asked the Supreme Court to restore sections 22 and 23, which punished the intentional publication of false, misleading or fictitious data presented as authentic and the knowing spread of false information liable to cause panic, chaos or violence or to damage a reputation, with fines of up to KES 5m and, for some offences, up to ten years' imprisonment](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne). [The Court of Appeal had held the wording too broad, catching users who share false content without knowing it is false along with journalists and people expressing opinions; Parliament's case is that the sections reach neither opinion, satire nor good-faith error, only knowing publication presented as authentic](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne). The narrowing is therefore contested rather than settled.
-
-Cyber cafés acquired licence conditions and then a clarification of them. The conditions came in [Gazette Notice 12180 of 7 August 2026, which sets licence conditions for two categories under a revised telecommunications market structure — Public Communications Access Centre and Communications Equipment Vendor — after public consultation, effective 30 days from the notice](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf); the same page carries [a second notice covering five further categories, among them Network Facilities Provider Tier 2 and Tier 3 and International Gateway Systems and Services](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf), so the market structure is being licensed category by category rather than in one instrument. The access-centre conditions require [customer name and identity number, terminal and session times to be captured and kept at least three years, taking effect on 7 September](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/), and the regulator [clarified on 13 August that operators need not track customers' browsing history](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/).
-
-A separate bill would meter what those records cover. An internet service provider [told Parliament on 14 August that mandatory consumption-based internet billing under the Kenya Information and Communications (Amendment) Bill 2025 could raise costs and create data-privacy risks](https://peopledaily.digital/business/faiba-warns-parliament-new-internet-billing-rules-could-raise-costs-and-threaten-privacy), metering at subscriber level implying retained usage records. No committee report or enactment date is published.
-
-
-The intellectual-property bill acquired its shape in public. Parliament [invited submissions on a draft that would merge the industrial property institute, the copyright board and the anti-counterfeit authority into a single regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444).
-
 The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-On 4 August the data-protection regulator published [draft guidance on offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) requiring a lawful transfer basis, a documented adequacy assessment and a written processing agreement before personal data leaves Kenya; the note itself is not held.
-
-The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) that it is investigating three licensed operators on a complaint dated 19 May 2026, with police requesting its entire record on the licensees back to 2018.
-
-
-The regulator also pressed an older instrument into the campaign. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. The guidance itself is not new: the Office [issued its Guidance Notes for Electoral Purposes on 29 February 2024, covering the voter register, political parties' member registers and campaign use of personal data under the Data Protection Act 2019](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf). What changed in August is the statement of it, not the rule. No enforcement action under the guidance is on record.
-
-A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
-
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
 The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October.
@@ -68,7 +40,7 @@ The Public Service Commission [shortlisted 13 of 152 applicants to succeed the i
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The continental data convention still has no Kenyan signature behind it. A policy brief prepared for the accession process records that [Kenya has neither signed nor ratified the Malabo Convention, that the Cabinet approved a process step towards accession in September 2025, that the data protection commissioner then led national consultations closing 6 October 2025, and that the Attorney-General had cleared the Convention before the process stalled twice on cabinet reshuffles](https://fra1.digitaloceanspaces.com/mzdocs/prod/media/publications/documents/2026/Building_a_Resilient_Kenya_.pdf); twenty African Union member states had ratified as at March 2026. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+The continental data convention still has no Kenyan signature behind it. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record.
 
 On 21 September the ICT cabinet secretary [proposed that willing African Union states jointly test one cross-border public service and report by February 2027](https://techreviewafrica.com/news/7426/), citing eCitizen and the interoperability framework. No state is on record as joining.
 
@@ -77,35 +49,19 @@ The ICT cabinet secretary [signed the Digital Cooperation Organization's Charter
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-Two sets of standards arrived, one binding and one draft. The revenue allocation commission [gazetted binding standards for county own-source revenue automation, covering the system lifecycle from procurement to audit and requiring data ownership and portability safeguards to cut vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/); no compliance date, county baseline or enforcement mechanism accompanies them. The pharmacy regulator [published draft guidelines for digital pharmacy services covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/), with no consultation close or adoption date stated. The text is [a second revision that widens the scope of regulation from internet pharmacy services to digital pharmacy services generally, reaching digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers, and carrying a 2026 effective date against a 2029 review](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068); its approval blocks are unsigned.
+The technology authority [put the National Information Security Framework's audit, risk-management and certification toolkits to a stakeholder workshop in Nairobi](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/), reported on 7 September, to test whether they are practical before critical information infrastructure is certified.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-A former deputy president [told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838). He says he is still documenting the claim; the report names neither the company nor the contract, and no commission or appeals-board response is on file.
-
-The commission answered on 27 August. It [said no company has been awarded the 2027 election-technology tender, that tenders for the management system's hardware and for ballot papers are frozen at the Public Procurement Administrative Review Board on a request for review, and that the documents were published on 11 August with generic performance-based specifications](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations). The forum that would normally host this argument met the same week: KICTANet [published the report of the nineteenth Kenya Internet Governance Forum, held with more than 300 participants and confirming Kenya as host of the global forum, in Nairobi for the first time since 2011](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/).
-
 The Digital Superhighway's procurement went to court and lost. On 4 September the High Court [quashed the 2024 advisory opinion of the Attorney-General that had cleared payments connected to the Sh15bn Nightigale tender, and referred the conflict-of-interest question to the anti-corruption commission](https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184). The challenge came from a consumer federation, which had contested [the award of two 2022-23 tenders and the payment made to the communications regulator's former chairperson on the strength of that opinion](https://cofek.africa/news/high-court-nullifies-the-attorney-general-s-opinion-on-which-communications-authority-relied). The judgment itself is not held, and no response from the agencies or the Attorney-General is on file — but the opinion that stood behind the payments no longer does.
 <!-- /narrative -->
 
 ## Finance
 
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-The judiciary took on a foreign partner for its access-to-justice work. A memorandum [was signed at the Supreme Court on 10 August with a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/), building on the country's own access-to-justice blueprint. No value, term or deliverable is stated. In the same week the chamber of commerce and the council of governors [signed a five-year agreement to harmonise county business licensing and digitise small-enterprise data across all 47 counties](https://www.kenyachamber.or.ke/2026/08/13/kncci-and-cog-sign-landmark-strategic-partnership-to-drive-msme-growth-data-digitization-and-county-led-economic-development/), with no budget, milestone or data-governance arrangement for the pooled data stated.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A [EUR270m facility across 21 obligors in eight jurisdictions, signed on 9 July and announced on 4 August, has a committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations.
-
-On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
-
-
-One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
-
 The World Bank's digital acceleration project was reviewed on 14 September: [more than 62,000 teachers trained and more than 5,000 smart boards distributed, reaching nearly 100,000 students, with disbursement delays raised](https://www.ecofinagency.com/news-digital/1509-58912-kenya-world-bank-take-stock-of-digital-economy-project-kdeap-s-gains-and-challenges). The operation closes in October 2028.
 
 Under the DigiKen programme a commercial bank and the UN Capital Development Fund [launched a USD 900,000 loan portfolio guarantee backing up to USD 1.8m of lending to fintechs, digital credit providers, e-commerce firms and innovation hubs](https://biznakenya.com/co-op-bank-uncdf-launch-financing-facility-to-boost-kenyas-digital/), covering half of principal and 70 per cent in arid and semi-arid counties. No loan under it is reported yet.
@@ -116,13 +72,7 @@ Under the DigiKen programme a commercial bank and the UN Capital Development Fun
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-On 4 August the second mobile operator [said its direct-to-cell satellite pilot had been completed and the service awaits the regulator's approval](https://businessday.ng/technology/article/airtel-seeks-kenya-approval-for-spacex-powered-mobile-service/).
-
 The government fibre programme was measured against its own deadline for the first time. The ICT Cabinet Secretary put [37,000km installed against the 100,000km target serving 53,000 government facilities, leaving 63,000km outstanding months before the 2027 deadline](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286); the programme was announced in November 2022 and split in 2023 into 52,000km for government and 48,000km for private companies, with Sh940.6m paid to the power utility by June 2025. The same account puts [broadband subscriptions at 52.85 million by March 2026 against 22.08 million in June 2020, fixed internet at 2.66 million, 4G population coverage at 73.4% and 5G at 3.04%](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286). The 37,000km is the minister's own figure and no route or county breakdown stands behind it.
-
-The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
-
-An industry survey filled a gap in the record on 5G: commercial networks opened between October 2022 and July 2023, the largest operator [doubled its 5G sites to about 1,700 in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and coverage is projected to reach 94 per cent by 2030, helped by rules that let operators refarm existing spectrum. The service is used mainly as an alternative to fibre for connecting homes and businesses.
 
 On the delivery side of the same programme, coordination was stepped up rather than the schedule revised: two principal secretaries began [co-chairing a standing review of the implementing agencies on 4 September, the coordination framed against a target of taking the technology industry from US$7bn to US$100bn](https://peopledaily.digital/news/govt-steps-up-digital-superhighway-implementation). No revised delivery date came with it, and 63,000km of the 100,000km fibre target remains outstanding before the 2027 deadline.
 
@@ -135,13 +85,6 @@ The Communications Authority [called stakeholders to an online validation forum 
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
-
-Two prospective builds at the technopolis went from talk to signature inside five days. On 13 August the authority and a hyperscaler were [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/) and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/); by 18 August the authority had [signed a collaboration agreement putting the hyperscaler's technical leadership behind an Outpost for hybrid cloud and a startup and innovation centre of excellence](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8), with certification courses for its staff and for young Kenyans and credits for startups, and [a memorandum with the Chinese group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure on the site](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/). Neither instrument carries a capacity, a site, an investment figure or a date, and the second states its financing models as still to be explored.
-
-
-A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
-
 One build opened rather than slipping. The operator of the largest colocation campus [added 6.4MW at a second Nairobi facility on 7 September, and retired the iColo brand in Kenya and Mozambique in favour of its parent's](https://www.digitalrealty.com/about/newsroom/press-releases/3357028/digital-realty-strengthens-nairobi-as-east-africa-digital-gateway-with-new-data-center). The figure is critical IT load rather than delivered live load, and no occupancy, customer count or campus total is published.
 
 Two cloud platforms opened in Nairobi in September: [Nobus opened an availability zone](https://cioafrica.co/nobus-opens-nairobi-availability-zone/), and [Tata Consultancy Services announced its sovereign cloud live on iXAfrica's campus on 28 September, delivered with the integrator Sybyl, with its capacity and pricing undisclosed](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/). [Oracle was still preparing its Nairobi region at the same campus](https://cioafrica.co/nobus-opens-nairobi-availability-zone/).
@@ -149,8 +92,6 @@ Two cloud platforms opened in Nairobi in September: [Nobus opened an availabilit
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
-The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the repository says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195).
-
 On 24 September a Rockefeller Foundation accelerator [announced five Kenyan sites to test computing load as the anchor customer for new solar-plus-storage mini-grids serving about 50,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with community demand given priority over compute. No site, developer, capacity or start date is named.
 <!-- /narrative -->
 ### Technical Capacity
@@ -161,12 +102,6 @@ The advanced science and technology institute, its [operationalisation under rev
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-In the regulator's own quarterly report the national response centre [detected 2,355,938,192 threat events in April-June 2026, down 30.03% on the previous quarter, while web application attacks rose 43.68% to 17,406,495 and 20,748,489 advisories were issued](https://www.ca.go.ke/sites/default/files/2026-07/Cyber%20Security%20Report%20Q4%202025-2026_1.pdf); government systems and internet service providers were named the primary targets, with attackers seeking authentication credentials, vulnerable browsers and database servers. Events detected are not incidents suffered, and no national incident series is published.
-
-A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
-
-The new cybersecurity agency acquired its leadership: [an inaugural non-executive chair was announced on 24 August](https://techafricanews.com/2026/08/24/kenya-appoints-martin-koyabe-inaugural-chair-national-cybersecurity-agency/) and the President [appointed a director to lead it](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). No budget line, staff complement or first published function is on file.
-
 The standards the new agency will enforce were put to the people who would have to work them. The technology authority [tested the National Information Security Framework's audit, risk-management and certification mechanisms at a Nairobi workshop, to establish whether they are practical for national implementation](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/) ahead of certifying critical information infrastructure. Neither the framework text nor the certification criteria nor the list of infrastructure to be certified is published.
 
 The government's scorecard [reported the director-general recruited and deployed, board seats and technical posts still being filled, and the agency not yet fully operational](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running), and [two board members were then gazetted with effect from 11 September](https://cioafrica.co/kenya-appoints-two-members-to-national-cybersecurity-agency-board/). The prosecutor's office meanwhile [issued a reference guide setting out each offence under the cybercrimes Act with its elements, required evidence, sample charges and court application templates](https://nc4.go.ke/regulations/rapid-reference-guide/).
@@ -177,10 +112,6 @@ The government's scorecard [reported the director-general recruited and deployed
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The Treasury is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
-
-The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
-
 The head of the public service [convened the examinations council, the public service commission and the education ministry to link academic credential databases directly to hiring agencies](https://nairobiwire.com/2026/09/kenya-academic-certificate-verification-fake-certificates.html), against fake certificates. No design or date is set.
 
 The President [announced Masterkey, a wallet for verifiable qualification and work records across African borders whose first phase targets 150,000 placements with Kenya, Ghana and Rwanda, Kenya leading the first national implementation through eCitizen](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). He said the system will not itself award jobs, visas or professional recognition; no cost or launch date is stated.
@@ -192,17 +123,11 @@ The back end became the stated priority. The ICT principal secretary said [a uni
 <!-- narrative: dpi--dpi-id -->
 The hospital-to-registry birth notification system, launched in June, [registered more than 270,000 newborns and assigned each a unique personal identifier within two months](https://www.biometricupdate.com/202609/kenyas-digital-birth-registration-platform-enrols-270k-newborns-in-two-months), according to the immigration and citizen services department, which also put national identity cards issued between January and September 2026 at 2.4 million. Integration with the health ministry's hospital management system and a death e-notification system are planned; no facility count or county coverage is published.
 
-The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
-
-The transport and safety authority's own disclosure notice under the PPP Act settles the smart driving licence partnership the repository had held only in summary: a twenty-one-year Strategic Partnership with [a KCB Bank Limited and Pesa Print consortium, estimated at KSh 42bn over its first two to three years and funded entirely from private debt and equity, approved by Cabinet on 15 December 2025 after the Attorney-General cleared the draft agreement in January](https://gaa.go.ke/sites/default/files/2026-02/NTSA%20Public%20Notice%20on%20Disclosure%20On%20The%20Implementation%20Of%20The%20Public%20Private%20Partnership%20%28PPP%29%20Strategic%20Partnership%20For%20The%20Design%2C%20Supply%2C%20Delivery%2C%20Installation%20And%20Maintenance%20Of%20Smart%20Driving%20Licences%20And%20Associated%20Services.pdf). It is to issue 5 million polycarbonate cards every three years, stand up 102 enrolment centres, install 700 fixed and 300 mobile speed cameras behind a national command centre, and carry a licence wallet taking deposits and payments. The project began in 2017 with the National Bank of Kenya and passed to KCB by novation after Access Bank bought NBK. No financial close or first issuance date is named.
-
 The registration bureau said [more than 600,000 people who could not previously get identity cards have been registered since extra vetting in border counties was scrapped](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties), and [rights groups asked that the removal be made permanent](https://www.the-star.co.ke/counties/nairobi/2026-09-17-end-id-vetting-for-good-rights-groups-urge-government).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A second operator [launched a merchant wallet on 3 August](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/).
-
 The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 
 The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while registered agents fell from 602,470 to 568,463](https://www.ca.go.ke/sites/default/files/2026-09/Sector%20Statistics%20Report%20Q4%202025-2026_0.pdf). Subscriptions count accounts, not people.
@@ -216,17 +141,11 @@ The central bank [licensed 29 more digital credit providers on 30 September, tak
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the repository currently has no instrument for. The Bill itself is now on file, [gazetted on 24 July 2026 as National Assembly Bills No. 53](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf). Nothing is settled beyond that: it is a bill, with no enactment date, hosting arrangement or access rule on record.
-
-A second register was announced rather than built. The agriculture cabinet secretary is championing a nationwide rollout of an [animal identification and traceability system giving every head of livestock a unique identity and a lifetime record of origin, ownership, health, vaccination and movement, tagged physically and linked to a central platform readable by veterinarians, abattoirs and traders](https://ynews.digital/development-news/kagwe-digital-ids-livestock-theft/). No operator, legal basis, budget or start date accompanies it.
+The lands ministry [announced a fresh outage of the Ardhisasa land platform on 21 September 2026](https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services); users asked for an explanation, a restoration timeline and an assurance of no penalties. The communications regulator [hosted Lesotho's regulator on 2 September to benchmark the national addressing system](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/), whose bill has been in committee since April 2026.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The health claims platform's cost was disputed in August: the President denied on 18 August that the state entered a KSh 104bn technology contract, and was reported on 21 August putting [the KSh 104 billion at the total project service fee over ten years rather than a lump-sum government payment](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system). No contract text is held.
-
-An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
-
 The claims platform was quantified from the settlement end for the first time. The health ministry and the counties jointly put [settlement at 78% across all 47 counties with KSh 159.3bn paid, and reconciliation and sign-off completed for legacy insurance-fund claims](https://www.health.go.ke/national-and-county-governments-strengthen-coordination-health-reforms), at an intergovernmental budget council session on 31 August. It is their own joint figure, published without a denominator, an ageing profile or a rejection breakdown.
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
@@ -236,16 +155,7 @@ The health authority [made a functioning electronic medical records system a con
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-eCitizen's operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
-
-The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
-
 The election system's own procurement was sent back. The electoral commission had [said the tenders were temporarily halted after a request for review, with the Register of Voters to undergo a 30-day biometric verification and an independent audit before certification](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations); on 4 September the review board [ordered it to correct and re-publish the tender, finding it disclosed neither the methodology and objective benchmarks for the 100-point technical evaluation nor the evidence establishing compliance with mandatory requirements, ownership or manufacturer authorisation, and directing it to take advice from the procurement regulator and allow bidders not less than seven days](https://nation.africa/kenya/news/2027-elections-technology-iebc-ordered-to-review-tender-rules-5583270). The board rejected a claim that the specifications were tailored to one supplier.
-
-
-The platform also failed twice. On 26 August the payment layer [went down for much of the day, leaving transport authority services unusable, transactions abandoned or paid for twice and invoices missing](https://swalanyeti.co.ke/news/article/10773/motorists-cry-foul-as-ntsa-payment-glitch-causes-double-charges-and-delays); the authority confirmed the fault and said a platform team had been dispatched. Five days later the electronic tax invoicing service reached through eCitizen [was down for three days to 31 August, taxpayers able to generate invoices but not download them](https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546) — and because revenue rules make payment conditional on that invoice, rent, school fees and a semester start were delayed. No uptime figure is published for the platform, so its reliability is measured only by the outages that get reported.
-
-Its legal footing moved the other way. On 27 August the Treasury [presented draft regulations to the National Assembly's delegated legislation committee that would replace eCitizen's convenience fee with a statutory access fee and vest ownership, hosting, administration, maintenance and security of the platform in the Treasury](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/), and members of parliament [demanded clarity on who owns the platform](https://peopledaily.digital/news/mps-demand-clarity-on-ecitizen-ownership-as-treasury-unveils-new-regulations) as they did so.
 
 On the one citizen survey held, [digital-government adoption stands at 49% and net satisfaction fell five points from 2024 to 64%, with 12% of users reporting no problems, the lowest share of 44 countries surveyed](https://techtrendske.co.ke/2026/09/10/kenyans-among-worlds-heaviest-ai-users-survey-shows/).
 
@@ -272,10 +182,6 @@ Rural digitalisation arrived as a marketplace rather than an office. [Mkulima Bo
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August on the draft AI and emerging technologies policy, reported as nearing Cabinet consideration. Separately, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
-
-The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
-
 A model provider [disclosed that it had removed a domestic actor's account mass-producing posts in batches of 50, praising the energy minister's tariff decision and claiming the opposition was fracturing ahead of 2027](https://www.itweb.africa/article/anthropic-flags-kenya-ai-influence-operation/kLgB1MezZe6q59N4), with no reach established; the minister [denied any ministry role](https://www.the-star.co.ke/news/2026-09-11-wandayi-distances-himself-from-ai-campaign-praising-tariff-move). The state's own compute moved a step: a [Letter of Agreement with the UN development agency commits to operationalising sovereign AI infrastructure at the Konza Data Centre](https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre), and the Treasury [describes the Konza Digital Media City as recently approved for Korean financing](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership).
 
 The Kenya Medical Research Institute [is a partner in openScopes AIDDiA, a four-year, GBP 4.4m Wellcome Trust-funded programme led by the University of Cape Town that pairs open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which held its kick-off from 7 to 11 September.
@@ -292,8 +198,6 @@ The state's largest telecoms divestment was undone in court and is heading back 
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-A publication's retrospective put [about US$500m raised by a set of Kenyan startups that have since shut down](https://techcabal.com/2026/08/19/500m-raised-shutdown-kenyan-startup-founders-now/), across five named companies with no full sample or method stated.
-
 An online-work platform launched in 2024 [matches businesses to freelancers, uses local cybercafes as access points and settles through mobile money, reporting more than 1,650 users and 200 partner cybercafes](https://www.wearetech.africa/fr/fils/tech-stars/avec-workke-le-kenyan-kennedy-mokaya-democratise-le-travail-en-ligne-en-afrique); the counts are the company's own.
 <!-- /narrative -->
 
@@ -302,8 +206,6 @@ An online-work platform launched in 2024 [matches businesses to freelancers, use
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-Three school laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech).
-
 The state literacy programme's second phase [began putting teacher laptops and smartboards into 10,382 public junior schools, with 91 of 98 Nairobi schools complete](https://techafricanews.com/2026/09/16/kenya-begins-digital-literacy-programme-phase-ii-device-rollout-in-nairobi/), and [1,000 ICT graduates are being recruited as 12-month interns to support it in schools](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-1000-diplomes-en-tic-recrutes-pour-soutenir-la-numerisation-des-ecoles). No learning-outcome measure accompanies either.
 
 On 21 September deliveries of 65-inch smart boards, teacher laptops and ICT equipment [began to 178 public junior schools in Nyeri County](https://techafricanews.com/2026/09/22/kenya-smart-boards-178-junior-schools-nyeri/), under the World Bank-supported digital economy project, towards [all 377 in the county](https://techafricanews.com/2026/09/22/kenya-ict-authority-expands-digital-learning-rollout-377-junior-schools-nyeri/). The ICT state department [signed a partnership with Intel on 22 September to deliver AI literacy through the public library network](https://techafricanews.com/2026/09/22/kenya-and-intel-partner-to-expand-ai-literacy-through-public-libraries/), implemented by the national library service; no budget or target is published.
@@ -311,8 +213,6 @@ On 21 September deliveries of 65-inch smart boards, teacher laptops and ICT equi
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
-
 A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
 
 The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/).
@@ -320,9 +220,7 @@ The largest vocational digitalisation project, [some EUR 50m co-financed by KfW,
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
-A Kenyan [data-for-social-impact leader was profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
-
-On 24 September a regional digital-rights network [published its comments on the data regulator's draft guidance notes on AI and on emerging technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/), asking for impact assessments before any biometric processing, audits of platform feed algorithms and a high-risk category for AI in political communication. It had [made a submission on the draft AI and emerging technologies policy in August](https://cipesa.org/wp-content/files/briefs/Kenya_National_AI_and_Other_Emerging_Technologies_Policy_-_CIPESA_Submissions.pdf).
+On 24 September a regional digital-rights network [published its comments on the data regulator's draft guidance notes on AI and on emerging technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/), asking for impact assessments before any biometric processing, audits of platform feed algorithms and a high-risk category for AI in political communication.
 <!-- /narrative -->
 
 ## Inclusion
@@ -335,10 +233,6 @@ A UN children’s agency report found [about one million internet-using Kenyan c
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
-
-Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
-
 One programme did reach the refugee-hosting counties: a Dutch-funded course [targeting 1,700 refugee and host-community youth in Garissa and Turkana, with more than 700 enrolled from over 1,000 applications](https://techmoran.com/2026/09/11/power-learn-project-trains-1700-youth-in-kenya-ai-cloud-skills/).
 <!-- /narrative -->
 
@@ -355,24 +249,5 @@ The communications regulator and the University of Nairobi [began reviewing prel
 ### US / hyperscaler activities
 
 <!-- narrative: geopolitics--geopol-usa -->
-A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published.
-
 Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
-<!-- /narrative -->
-### China activities
-
-<!-- narrative: geopolitics--geopol-china -->
-The broadcasting and telecommunications department [received two Chinese delegations in eight days in August to discuss broadband, smart-city and ICT investment](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1); no memorandum, value or project followed from either.
-
-At a Chinese equipment vendor's event on 24 August, the ministry [described student training under way and a planned East Africa research and development centre](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo), with no contract or date stated. The same day a Chinese state bank [held a renminbi cross-border payment roadshow in Nairobi for more than 180 participants](https://www.boc.cn/aboutboc/bi1/202608/t20260824_25687502.html), including the operator of China's cross-border interbank payment system; no corridor, volume or participating Kenyan bank is stated.
-<!-- /narrative -->
-### EU activities
-
-<!-- narrative: geopolitics--geopol-eu -->
-A European data-adequacy decision was described as being in prospect, in [a development agency interview that mentions it in passing alongside cross-border identity work](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No application, assessment stage or timetable is stated, and neither the European Commission nor the government has said anything on the record here.
-<!-- /narrative -->
-### Gulf/UAE activities
-
-<!-- narrative: geopolitics--geopol-gulf -->
-Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project.
 <!-- /narrative -->

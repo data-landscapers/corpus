@@ -1,37 +1,28 @@
 ---
-title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Lesotho — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: LSO
-ledger_rows: 37
+ledger_rows: 13
 not_held: 4
-record: e51455898131
+record: a065b35ec705
 ---
 
-# Lesotho: monthly update, August – September 2026
+# Lesotho: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Four cybersecurity institutions were stood up ahead of their statute. The ministry and the communications authority [launched an interim national computer security incident response team and the inaugural National Cybersecurity Forum, appointed a first government chief information security officer and began standing up a security operations centre](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/), while the Cybercrime and Cybersecurity Bills remain before the National Assembly.
-
-Two builds and a platform followed. Project Kobong, a hydropower and artificial-intelligence data-centre scheme, [was approved and launched at a ceremony hosted by the US Embassy](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/); a Maseru workshop [opened drafting of a national artificial-intelligence strategy and a data-centre implementation roadmap on 17 August](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/); and the [National Single Window was launched at Maseru on 24 August](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/). Against them, a freeze on refugee identity documents [is reported to have left families stranded and bank accounts frozen](https://lestimes.com/?p=91350).
+The revised Electronic Transactions and Communications Bill [went to a stakeholder validation workshop from 28 September](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ), and [a second consultation was held on the Cybersecurity Bill](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/). The national single window [has twelve agencies connected, and a whole-of-government payment gateway is being developed for the central bank to run](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/). Census enumeration [is complete, with mop-up operations still running in Maseru on 17 September](https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/). A [US$6.2bn hydropower and AI data centre agreement was signed, with a feasibility study to follow](https://groundup.org.za/article/conflict-of-interest-questions-over-lesothos-record-r98-billion-energy-deal/).
 <!-- /narrative -->
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both then awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the repository does not hold.
-
 The Cybersecurity Bill 2026 then went back to stakeholders: its draft [was circulated for review in August and taken to a second consultation workshop on 23 September](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/), proposing a two-tier regulatory regime and the registration of cybersecurity professionals.
 
 The communications ministry [took the Electronic Transactions and Communications Bill, 2026 to a stakeholder validation workshop in Maseru from 28 September](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/), with UNDP support. It [revises the unenacted 2022 Bill and goes next to the Office of the Parliamentary Counsel](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ); the revised text is not held.
@@ -47,35 +38,13 @@ The ICT ministry's principal secretary told UNGA81 side meetings that the minist
 
 The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published.
 <!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
-### Connectivity
-
-<!-- narrative: ict-infrastructure--infra-connect -->
-The incumbent operator [began selling managed satellite connectivity as an enterprise service on 26 August](https://www.thereporter.co.ls/2026/08/26/vodacom-launches-satellite-broadband-for-enterprises/). For a landlocked country whose every terrestrial route to the internet crosses South Africa, it is the first international path that does not.
-<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
 Kobong stayed an envelope, not money. [Reporting in September restated the US$6.2 billion hydropower and AI data-centre agreement with Convalt Energy as the largest foreign investment deal Lesotho has signed, with a feasibility study to run over the next year before any implementation agreement or construction](https://groundup.org.za/article/conflict-of-interest-questions-over-lesothos-record-r98-billion-energy-deal/). The same report found that a local firm the energy minister named as a potential partner is part-owned by the public works minister, who said he would recuse himself from cabinet discussion of the project.
-
-Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the repository holds nothing that tests them.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The [interim Lesotho National Computer Security Incident Response Team](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) and the inaugural National Cybersecurity Forum were launched in Maseru on 29 July 2026. The forum is described by the Lesotho Communications Authority as a standing collaboration across government, industry, regulators, financial institutions and telecommunications providers. The response team is thus operating ahead of its enabling statute — the Cybercrime and Cybersecurity Bills it would sit under remain before the National Assembly — and on no published timetable. The ministry also reported a first Chief Information Security Officer appointed across government and a national Security Operations Centre being stood up.
 <!-- /narrative -->
 
 ## DPI
@@ -83,43 +52,22 @@ The [interim Lesotho National Computer Security Incident Response Team](https://
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-Lesotho [launched its National Single Window at Victory Hall in Maseru on 24 August 2026](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/), under a World Bank-financed competitiveness and financial-inclusion project. No agency coverage, transaction volume or phasing is stated.
-<!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-A freeze on refugee identity documents is reported to have left [families stranded and bank accounts frozen](https://lestimes.com/?p=91350). Where an identity system is the gate to banking, an administrative freeze is a financial exclusion as well as a documentary one; no instrument, affected count or review route is on file.
+The national single window [has twelve agencies connected and cost M50m to design and implement](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/), on the financing project's account reported on 27 September. It runs without its own law, drafting of which has started, and the government payment gateway is still to be integrated.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the repository can record that the platform is being introduced and not how far it has reached.
+A whole-of-government e-payment gateway [is being developed, to be run by the central bank and integrated with the national single window](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/), reported on 27 September. The dominant operator [launched electronic airtime top-up without physical vouchers in the week of 4 September](https://lestimes.com/?p=91407).
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-A sector got its own register. Lesotho [launched a National Farmers Portal, placing every farmer in a single digital registry](https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html). A farmer register is the repository for subsidy, extension and insurance delivery, so what matters next is enrolment and what other systems it connects to. The record held carries neither: no farmer count, and no statement that the portal exchanges data with the social registry or any payment mechanism.
-<!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-The national commission [advertised a consultancy to strengthen its capacity to coordinate national monitoring and evaluation reporting](https://selibeng.com/consultant-to-strengthen-nac-capacity-to-coordinate-national-me-reporting/). A tender for the capacity to coordinate reporting is itself a statement that the reporting is not coordinated; no scope, budget or deliverable date is published.
-
+No national address register exists. The communications regulator [visited Kenya's regulator in September to benchmark its national addressing system and legal framework](https://techafricanews.com/2026/09/02/kenya-and-lesotho-deepen-ict-regulatory-cooperation-on-national-addressing-system/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
-
 The data blueprint opened in July reached validation in September. A national workshop in Maseru with Smart Africa and GIZ [validated the draft Data Value Creation Blueprint, the first country to do so, reviewing its vision, pillars, use cases and a diagnostic that calls the country's data landscape emerging but fragmented](https://lestimes.com/?p=91596). Validation is not adoption, and the text is not published.
-<!-- /narrative -->
-
-## Digitalisation
-
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
 <!-- /narrative -->
 
 ## Technology
@@ -130,26 +78,10 @@ Two movements reached rural service points from opposite directions. Thirty [SMS
 At the second UN Digital Cooperation Day the prime minister [said Lesotho was the first country to implement the UN AI Blueprint, that planning was complete and that Phase One of a National Compute Roadmap running 2026 to 2029 had begun](https://www.gov.ls/development/lesotho-first-country-to-implement-un-ai-blueprint/) (23 September). The roadmap is not published, and no source relates it to the data-centre roadmap drafted in August.
 <!-- /narrative -->
 
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-MICSTI reported [digital-literacy training running across all ten districts](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) at the CSIRT launch on 29 July, with no participant numbers published.
-<!-- /narrative -->
-
 ## Data
 
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The Bureau of Statistics [lists the strategy for 2022/23 to 2026/27 alongside the 2001 Act as its current framework](http://www.bos.gov.ls/about_bos.htm). The strategy runs out in the coming financial year and no successor is on the record.
-<!-- /narrative -->
-
-## Geopolitics
-
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-The [US Embassy stated](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) at the Kobong ceremony that it has facilitated US$7.3bn of commercial partnerships in Lesotho over the previous eighteen months.
+Census enumeration [is complete, with mop-up operations still running in Maseru on 17 September 2026](https://publiceyenews.com/2026/09/17/we-felt-like-part-of-the-basotho-census-gives-lgbtiq-community-a-place-in-national-data/); it is the first census to ask questions recognising gender identity and sexuality. A [second phase of the mapping of financial access points was tendered in September](https://selibeng.com/consultancy-data-collection-and-analytics-for-lesotho-gis-financial-access-points-mapping-project-phase-2/), to update the 2018 baseline across the ten districts.
 <!-- /narrative -->

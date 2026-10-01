@@ -1,23 +1,21 @@
 ---
-title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Senegal — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: SEN
-ledger_rows: 75
+ledger_rows: 45
 not_held: 3
-record: 5a379bf52bcc
+record: df987d4c203b
 ---
 
-# Senegal: monthly update, August – September 2026
+# Senegal: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-A law was passed and the systems it protects were breached in the same week. The National Assembly [adopted the critical-infrastructure protection bill unanimously on 20 August](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), which [provides for a national computer emergency response team the country does not yet have](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), and the Prime Minister [announced parliamentary hearings after recent attacks on state systems](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html). Recorded offences barely moved: [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite).
-
-Civil registration is the busiest part of the record and the least funded. Remediation of the registry digitisation system [ran at Kaolack from 10 to 20 August](https://directactu.net/2026/08/16/par-matar-ndiaye-dg-de-lanec-avancement-de-la-remediation-nationale-sur-la-digitalisation-de-letat-civil-une-progression-territoriale-structuree-du-lgec-et-de-sama-etat-civil/), the agency [gave its software-deployment figure at African Civil Registration Day](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), and its director-general [stated that the agency's 2026 appropriation has still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/). On the other side of the ledger, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html).
+The interior minister told a National Assembly committee that [identity-document production will pass to national firms as the Malaysian contractor's contract runs out, with a national data centre for civil-status and identity data and a security audit of the identity-file directorate](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), reported on 30 September. A [plan to connect 6,888 schools to broadband was announced on 25 September](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-6888-etablissements-scolaires-cibles-par-un-vaste-plan-de-connexion-haut-debit). The data protection commission and the identity-file directorate [put two options for linking the civil registry and public-service identification up for arbitration](https://www.pressafrik.com/Protection-des-donnees-la-CDP-et-la-DAF-s-unissent-pour-securiser-les-donnees-d-identite-des-Senegalais_a311700.html).
 <!-- /narrative -->
 
 ## Governance
@@ -25,8 +23,6 @@ Civil registration is the busiest part of the record and the least funded. Remed
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
-
 The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 
 The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
@@ -38,32 +34,12 @@ The ministry [called on 24 September for firms to study the interoperability pla
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The critical-infrastructure framework moved from undated draft to adopted law inside the month. The National Assembly [adopted law n° 25/2026 unanimously on 20 August, mandating in-country storage of state-sensitive data, empowering a National Cybersecurity Authority and folding in technology-neutral standards for the artificial-intelligence era and the child-online-protection plan](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), seven days after [reaching the Assembly's intercommission on 13 August](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r).
-
-The ministry's own account of the contents grades obligations by risk: [ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — against a national authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited providers and skilled jobs.
-
-Every provision is still the ministry's description. The text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
-
 On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the vote is not held.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Regionally, Senegal became [one of 29 founding states of an intergovernmental artificial-intelligence governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three regional statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
-
-The bilateral channel moved from signature to work. The June memorandum with the Gambia took its [first steering-committee session at Banjul on 29 August 2026, where four priorities were settled — infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation — with rural electronic-government access named among them](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/). What Senegal supplies in that relationship is transit: the Gambia depends largely on a single submarine cable, with only limited terrestrial redundancy through Senegal. No timetable, budget or named deliverable is attached to any of the four.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-Senegal adopted [non-binding Francophone West African AI governance guidelines on 6 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework).
-
-Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 people from the sector to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -73,11 +49,6 @@ Where a mast is put became a parliamentary question. A member of the National As
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The repository holds no appropriation figure for the agency for 2026, which is recorded as a gap.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -93,26 +64,15 @@ The commitment was presented to the president in Washington on 14 September: [Cy
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
-
-On price, the regulator's index was [flat quarter on quarter across all four operators and all nine consumption profiles, and down 15.6% year on year](https://artp.sn/sites/default/files/2026-08/NOTE%20IPSM%20T2%202026_0.pdf), after falls of 5.3% and 10.2% in the two preceding quarters. It is an index, so it carries no franc amount. The regulator also [published a synthesis of 21 contributions to its consultation on deploying and sharing fibre to the end subscriber](https://artp.sn/partage-infrastructures/fttx), setting no rule, obligation or timetable.
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given.
 <!-- /narrative -->
-### Technical Capacity
-
-<!-- narrative: ict-infrastructure--infra-capacity -->
-A continental count puts [seven data centres in Senegal at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html). It is a reference figure, cited and not absorbed: the repository holds no Senegalese primary count and no capacity figure at all.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The institutions arrived after the attacks. The critical-infrastructure bill [provides for a national computer emergency response team the country does not yet have](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), and the Prime Minister [announced parliamentary hearings following recent attacks on state systems](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html); no system, breach count or data loss is named in the announcement.
-
-Procurement is the state's own diagnosis of the blockage, and it moved by memorandum: a [foreign cybersecurity supplier is reported seeking Senegalese partners](https://www.digitalbusiness.africa/cooperation-la-societe-americaine-de-cybersecurite-cybastion-recherche-des-partenaires-senegalais/), with no contract, value or scope stated. The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
-
 At the end of September the interior minister [confirmed to deputies that the identity-file directorate had been attacked and said a general security audit had been engaged](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); no auditor, scope or completion date is given.
 <!-- /narrative -->
 
@@ -121,15 +81,11 @@ At the end of September the interior minister [confirmed to deputies that the id
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-A government enterprise-architecture account of 3 August records [platforms still siloed sixteen months after the interoperability platform launched](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy), with the architecture to be fed by a full inventory of national digital systems. Four narrower exchanges moved in the same weeks: a [workshop on 23 July to diagnose social-protection systems](https://aps.sn/vers-la-creation-dun-guichet-unique-pour-un-meilleur-acces-aux-services-sociaux/), the minister stating each structure runs its own system and cannot share data; a [climate-transparency data project launched on 22 July over 42 months](https://www.seneweb.com/fr/news/M%C3%A9t%C3%A9o/donnees-climatiques-le-ministere-de-lenvironnement-lance-le-projet-cbit-senegal-pour-renforcer-les-capacites-nationales_n_499084.html); a [three-month customs roadmap with Gambia](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict); and a [convention to interconnect the digital agency and the health-cover platform](https://www.seneweb.com/fr/news/Sante/le-numerique-au-service-de-la-sante-senum-sa-et-la-sen-csu-unissent-leurs-forces-pour-rapprocher-la-couverture-sanitaire-universelle-des-citoyens_n_499078.html), whose personal-data commitment was not referred to the regulator.
+The data protection commission and the identity-file directorate [announced on 16 September 2026 that their joint work on interoperability between the civil registry and public-service identification is complete, with two options put up for arbitration](https://www.pressafrik.com/Protection-des-donnees-la-CDP-et-la-DAF-s-unissent-pour-securiser-les-donnees-d-identite-des-Senegalais_a311700.html).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/).
-
-Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
-
 On International Identity Day the civil-status agency's director [put the modernisation at 77 per cent of the country's 629 civil-status centres, live in six regions with Tambacounda next month and the southern regions in the last quarter, the data held on three state-owned data-centre sites in the country](https://aps.sn/etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec/), up from 74 per cent in August.
 
 At the first national forum on civil registration on 23 September, the civil-registration promotion body [said 58,462 candidates sat the primary-school leaving exam without a civil-status record, with 7,823 at the lower-secondary exam and 98 at the baccalaureate](https://www.seneweb.com/fr/news/Video/etat-civil-58-462-enfants-sans-acte-au-cfee-lalerte-de-lonpec_n_505072.html). The exam year was not stated, and a report to the authorities is to follow without a date.
@@ -154,17 +110,11 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The higher-education, research and innovation ministry [reported a further step in the digital transformation of its services](https://mesrisenegal.sn/2026/08/22/mesri-une-nouvelle-etape-franchie-dans-la-transformation-numerique-des-services/), framed around interoperability; no service list, user count or completion date is given.
-
 The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The month's clearest movement is a removal rather than an addition. The tax authority [withdrew the paper fiscal stamp on 20 July, making the digital service the sole recognised channel nationwide](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), with QR-coded stamps bought and received remotely. Unused paper stamps were exchangeable until 15 August and no offline or assisted route is stated. Eight days later the [free electronic stamp service was suspended by its provider, citing an administrative decision outside its control, with refunds promised within 72 hours and users stating they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) — the first consumer-cost consequence of state-platform exclusivity the repository holds, and it is not stated whether the decision was addressed to that provider or to the distribution channel generally. Separately the state procurement platform is [operating and named by the procurement regulator as intended to capture the procedures of a thousand administrations](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/), with its protection a stated priority alongside critical state digital infrastructure; no count of administrations onboarded, procurement volume, availability record or security accreditation is given.
-
-Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the repository holds on it.
-
 A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no the removal of paper at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-the removal of paper/).
 <!-- /narrative -->
 
@@ -189,10 +139,6 @@ The online civil-status certificate platform has left its pilot: by August it [w
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
-
-What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
-
 An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html).
 <!-- /narrative -->
 ### ICT Industry
@@ -211,8 +157,6 @@ Belgium's development agency [opened a tender on 21 September for a women-in-tec
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
-
 The civil service plan cleared validation on 10 September, [setting role-graded digital competences for state employees in data, information systems, AI and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), with no target population, budget or start date published.
 
 An EU-funded civil-society project [ran a regional workshop at Kaolack training community leaders on digital hygiene, passwords and data governance, with Saint-Louis, Bignona and Dakar to follow](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/), reported on 25 September. No participant count or budget was stated.
@@ -220,7 +164,7 @@ An EU-funded civil-society project [ran a regional workshop at Kaolack training 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-Two facts about the state's own capacity arrived in the same week and point opposite ways. The national statistics agency [graduated 60 statisticians - 33 statistician-economists and 27 statistician-analysts, drawn from ten African countries - taking its school's cumulative output past 900 since 2011](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/), and used the ceremony to press ministries to recruit them into sectoral statistical services: an absorption problem stated rather than measured, since no figure is published for how many of the 900 work in Senegalese public statistics. Against it, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). The programme has run for nine years and publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
+A national digital training plan for state employees [was validated at a workshop on 10 September 2026](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), setting role-graded competences in digital tools, data, AI and cybersecurity.
 <!-- /narrative -->
 
 ## Inclusion
@@ -228,14 +172,7 @@ Two facts about the state's own capacity arrived in the same week and point oppo
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The flagship access programme is under investigation. The National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). Nine years in, the programme publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
-
 The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated.
-<!-- /narrative -->
-### Digital divides
-
-<!-- narrative: inclusion--include-divides -->
-The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
 <!-- /narrative -->
 
 ## Data
@@ -254,16 +191,6 @@ The national data archive is the only Senegalese public-data system that publish
 
 ## Geopolitics
 
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-The digital minister pitched the technology strategy in Washington, holding [working sessions on financing mechanisms for digital infrastructure, data centres, digital identity and payment systems](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington). No financier, amount or instrument was reported.
-<!-- /narrative -->
-### China activities
-
-<!-- narrative: geopolitics--geopol-china -->
-The sovereign cloud is [in testing, with data-centre infrastructure deployed and verified for redundancy and reliability to host sensitive national data on Senegalese territory](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/), accelerated ahead of an international sporting event. No contract, value, hosting term, exit arrangement or data-access terms are reported — a sovereignty claim resting on a vendor relationship whose terms are not held.
-<!-- /narrative -->
 ### EU activities
 
 <!-- narrative: geopolitics--geopol-eu -->

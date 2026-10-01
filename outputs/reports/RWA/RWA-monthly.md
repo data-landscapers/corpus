@@ -1,60 +1,36 @@
 ---
-title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Rwanda — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: RWA
-ledger_rows: 63
+ledger_rows: 33
 not_held: 7
-record: f63bfaf8b8a0
+record: 6beeedf2987c
 ---
 
-# Rwanda: monthly update, August – September 2026
+# Rwanda: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two layers of the stack were consolidated and one was audited. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding broadband expansion, a labour market information system and livestock traceability technology](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation), and the capital markets authority [began benchmarking the country's first dedicated virtual-asset legislation against the United Arab Emirates' framework](https://techafricanews.com/2026/08/27/rwanda-cma-dubai-vara-study-tour-virtual-asset-regulation/) — the law itself [gazetted in May and known to the repository only at second hand](https://www.itweb.africa/article/digital-assets-drive-rwanda-uae-deal/P3gQ2qGAzzE7nRD1).
-
-The social registry's appeals process is the month's most useful disclosure: [360,000 people challenged their category since it opened in early 2024, with 93% of disputed classifications corrected](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024) — a rate that measures both the system's responsiveness and how often it was wrong. On the payments side the single interoperable rail [cut a transfer that could previously cost as much as RWF 5,000 to a flat RWF 20](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), while the second operator's agent network [contracted from 53,316 agents to 48,847 over the year](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/): the cash-in and cash-out layer rural households depend on shrinking while the rail above it got cheaper. An [academic security operation centre is meanwhile running through a university network based in Rwanda](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html).
+Rwanda [was selected on 21 September to host the UN World Data Forum in 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/). The largest commercial bank [became a direct participant in China's cross-border interbank payment system](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), and the government [signed a digital transformation memorandum with Jordan on 23 September](https://www.newtimes.co.rw/article/39202/news/technology/rwanda-jordan-sign-agreement-on-cooperation-in-digital-transformation). Cabinet [approved a bill on 18 September to ratify IDA additional financing for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/). A phone-based community death notification system, rolled out nationwide this year, [had logged about 10,000 community deaths in its first months](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/).
 <!-- /narrative -->
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-Beyond the switch-off dates, the ministry's retirement plan makes timetable extensions temporary and regulator-approved only, and cites a government-commissioned study finding more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
-
-A development agency reported on 6 July, from engagements run to March 2026, that Rwandan participants said [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally), while the technology sits in payments, judiciary filing, identity verification and service delivery. The report is qualitative and claims no representativeness.
-
-The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the repository still records no sovereign compute of any kind.
-<!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The virtual-asset law moved from a rationale approved in principle to an instrument on the books, and the repository learned of it only through the regulator's travel. Rwanda [gazetted its first dedicated legislation regulating virtual-asset businesses in May 2026, under which the Capital Market Authority is the primary licensing and supervisory authority for virtual-asset service providers](https://www.itweb.africa/article/digital-assets-drive-rwanda-uae-deal/P3gQ2qGAzzE7nRD1). The authority is now benchmarking that framework against the United Arab Emirates', a delegation led by its chief executive [concluding a study tour in the UAE that included a two-day visit to Dubai's Virtual Assets Regulatory Authority, with the two regulators beginning work towards a memorandum of understanding](https://techafricanews.com/2026/08/27/rwanda-cma-dubai-vara-study-tour-virtual-asset-regulation/) — the UAE side framing it as part of an initiative to expand regulatory partnerships with emerging markets across Africa. No gazette number, licence granted or supervised provider is on record, so what is held is a law reported at second hand and a benchmarking exercise against the jurisdiction it is being modelled on.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-Rwanda is [preparing a restriction on social media use by under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), one of several African measures moving from a minimum age for opening an account towards design duties on the platforms themselves — Gabon's February 2026 ordinance fixing digital majority at 16 and additionally obliging platforms to limit publication and interaction functions, disable contacts from unidentified users by default and provide age verification. The African Union's 2024 child online safety policy already asks states to require protection by design and by default, risk assessments, personal-data safeguards, researcher access to platform data and independent oversight. No draft text, sponsoring body or timetable is named here, and the constraint reported across the region is enforcement rather than law.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Country consultations for a [regional artificial-intelligence framework were held at Kigali on 3 August](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/), to feed a study toward a regional strategy, model policy guidelines and model regulatory frameworks; no text or timetable is published, and Rwanda reported unquantified progress on its own national policy. The [bilateral licence passporting memorandum with Ghana remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, cited as a working precedent with no firm reported as having used it.
-
-
-One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
+One piece of regional machinery moved from design into use. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
 
 The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The [government-wide enterprise architecture framework, version 2.1, is in force to govern ICT architecture standards](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf) and is now held in excerpt. It is distinct from the interoperability framework named in earlier academic work, for which the repository still holds no separate instrument.
+The standards bodies of Rwanda and Zambia [signed a technical cooperation agreement at the continental standards general assembly in Mombasa](https://www.zambiamonitor.com/zambia-rwanda-sign-technical-cooperation-agreement-to-harmonise-standards/), reported on 3 September, providing for mutual recognition of standards and conformity assessment results.
 <!-- /narrative -->
 
 ## Finance
@@ -62,14 +38,14 @@ The [government-wide enterprise architecture framework, version 2.1, is in force
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->
-On 7 August the Capital Markets Authority [signed a memorandum with a Nigerian registrar company](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems. It follows a study visit in June to that company's digital investor-services model — virtual shareholder meetings, electronic voting and mobile-based investment tracking. No term, value or workplan is published, and nothing in the account addresses the protection of the investor data the cooperation is about. The ICT ministry [signed a memorandum with a chip-design company to build local semiconductor design skills, reported on 22 September](https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/); no signature date, value or target is published.
+The ICT ministry [signed a memorandum with a chip-design company to build local semiconductor design skills, reported on 22 September](https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/); no signature date, value or target is published.
 
 On 23 September, at the UN General Assembly, the ICT ministry [signed a digital transformation memorandum with Jordan's digital economy ministry](https://www.newtimes.co.rw/article/39202/news/technology/rwanda-jordan-sign-agreement-on-cooperation-in-digital-transformation), with Jordan's government super-app offered as the model for public services. It [covers AI, digital identity, data protection and payments and sets up a joint technical committee to meet quarterly](https://www.wearetech.africa/fr/fils/actualites/tech/le-rwanda-et-la-jordanie-ouvrent-une-cooperation-sur-l-ia-l-identite-numerique-et-les-services-publics); no sum, timetable or joint project is named.
 <!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The month's financing arrived as a parliamentary approval rather than a disbursement. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding national strategy measures that include broadband expansion, a labour market information system linking job seekers to employers, and technology for livestock traceability](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation). Three digital lines sit inside one headline number and none of them is separately priced, so the repository can record that the money was voted and not what share of it reaches any of the three.
+Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA additional financing agreement for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/), signed in Kigali on 11 July. No amount is stated.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -77,25 +53,12 @@ The month's financing arrived as a parliamentary approval rather than a disburse
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
-
-
-The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own. The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The data centre and cloud service directives governing the national facility are unchanged, and their [own text carries no date on its face](https://guidelines.risa.gov.rw/books/data-center-and-cloud-services-directives) — [the ministry's sector plan is what dates them to 2023](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf). No compliance or enforcement record is published.
+The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
 <!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
-Cabinet [approved an institute of computing on 24 July](https://www.ktpress.rw/2026/06/rwandas-ai-ambition-takes-shape-as-cabinet-approves-new-agency/), to open in September 2026 as an affiliated institute of the national university offering degrees in artificial intelligence and cyber security, with admission for the first two intakes limited to graduates of a single secondary coding academy at equal male and female representation. No capital budget, intake size or named international partner is published.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-A fraud figure moved the right way. The central bank reported that [cases of fraud involving digital payments fell 30% while electronic transactions rose](https://radiotv10.rw/en/digital-payment-fraud-cases-fall-30-as-electronic-transactions-rise/). What is counted is reported cases, not losses, and the record held carries no reporting rate — so a fall in cases is consistent with better controls and with fewer people bothering to report.
+A UNDP review published on 17 September [records AI compute capacity hosted in the country under its regional programme, with 42 priority AI applications identified across eight sectors](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). No capacity, host institution or utilisation figure is held.
 <!-- /narrative -->
 
 ## DPI
@@ -110,17 +73,11 @@ Kenya's president [announced Masterkey, a cross-border wallet for verifiable qua
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The social registry has run an appeals process since it opened in early 2024, and [360,000 people challenged their category, with 93% of disputed classifications corrected](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024). Disputes trace largely to stale asset records — unrecorded land or vehicle sales — and the correction rate is the social affairs directorate's own.
-
 Enrolment passed ten million in September. The identification agency [put biometric capture at more than 10 million people across 27 of 30 districts as enrolment opened in Rusizi on 16 September](https://umunota.com/en/over-10-million-rwandans-registered-for-digital-id/), against about 14 million expected and a June 2027 deadline after which legacy cards lapse. The agency described the credential as usable as a card, as a QR code on a phone and through a separate access token.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
-
-The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
-
 The central bank put the gap on its own record: [85.3% of Rwandans hold a digital account and 92% still pay mainly in cash](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/), and it launched a national campaign touring the districts to close it, with no target published.
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
@@ -130,9 +87,7 @@ Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Int
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Business registration moved entirely online in January. The Office of the Registrar General's own page states the process is [wholly online, free of charge, and completed within six working hours](https://org.rdb.rw/business-registration/), where a July account had put it at [24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The registrar's page carries no date of its own, so which figure is current cannot be settled here.
-
-The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
+A phone-based system for notifying community deaths, rolled out nationwide in spring 2026, [logged about 10,000 community deaths in its first months, and 94% of registered deaths now receive a verbal autopsy](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/), on a funder's account of 28 September; the government plans to drop the US$1 death-certificate fee.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -151,7 +106,7 @@ The e-government platform's own numbers reached the record this month through an
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-The argument about local delivery was made in public. A published commentary [held that Rwanda's next decade of decentralisation requires urgent focus on delivery rather than structure](https://www.newtimes.co.rw/article/38460/opinions/rwandas-next-decade-of-decentralisation-requires-urgent-focus-on-delivery). It is one author's case, not a government position, and the record held carries no measure of service delivery at district level against which to test it.
+A civil-society organisation [called on 17 September for stronger powers at cell level and more decentralised services, putting the share of public services decentralised at 44 per cent of 522](https://www.newtimes.co.rw/article/39008/news/featured/never-again-rwanda-calls-for-stronger-powers-at-cell-level-more-decentralised-services). No earlier share is held.
 <!-- /narrative -->
 
 ## Technology
@@ -159,16 +114,7 @@ The argument about local delivery was made in public. A published commentary [he
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-Rwanda and a North African state signed an artificial-intelligence and digital-transformation memorandum on 10 July, with no funding, deliverable or timeline stated. The head of state was confirmed on 3 July as co-chair of an international commission on artificial intelligence, with no national work programme attached to the seat.
-
-At the internet governance forum on 30 July a ministry official said artificial intelligence is already in use in Rwandan health, education and fraud detection. The national agency approved in June still has no published structure, budget, law or implementation timeline.
-
-On 13 August the ICT ministry [held a two-day working session with a hyperscaler to scope a structured artificial-intelligence partnership](https://www.techreviewafrica.com/news/6745/rwanda-and-google-engage-on-ai-partnership-to-accelerate-digital-transformation) spanning digital public infrastructure, data exchange, cloud, cybersecurity and skills. Nothing was signed and no value or timetable was given. The question a scoping session of that breadth raises — on what terms national data would sit with a foreign provider — is not addressed in the account.
-<!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
+An agriculture official [set out a plan to reach 2.5 million farmers with AI advisory services](https://www.ktpress.rw/2026/09/here-is-our-ai-plan-to-reach-2-5-million-rwandan-farmers/), reported on 2 September, with a Kinyarwanda voice assistant being tested through the ministry's call centre. A regional forum in Kigali on 7 September [considered how higher-education quality assurance should change as AI spreads](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/). A UNDP review [records country-hosted AI compute deployed under its regional programme](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use), with no national or local-language model named.
 <!-- /narrative -->
 
 ## Capacity
@@ -176,21 +122,12 @@ As at 3 August the development bank is [the sole committed backer, at US$6m, of 
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-[More than 5,000 teachers across every district were trained in the first phase of a national artificial-intelligence literacy programme, reported complete at end-2025](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/). The assertion is a diplomat's, in an opinion piece, and no ministry primary is held for it.
-
 The online-safety half of literacy was taught to the adults rather than the children. A civil-society internet chapter [trained 50 parents and teachers in Karongi District on online safety and on using the national e-services portal](https://www.internetsociety.org/blog/2026/09/empowering-parents-in-rwanda-through-digital-literacy-training/). It is a single district cohort run by a non-governmental body, with no curriculum, follow-up, national programme or reach target published — and it sits beside a restriction on minors' social-media use that is still in development.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
-
-Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the repository.
+A first cohort of 24 teachers [completed a ten-day training-of-trainers programme to introduce cybersecurity courses in technical and vocational schools](https://www.newtimes.co.rw/article/38825/news/featured/rwanda-takes-cybersecurity-to-tvet-schools-as-first-24-teachers-complete-training), reported on 9 September.
 <!-- /narrative -->
 
 ## Inclusion
@@ -208,16 +145,9 @@ An industry association [puts more than a million additional people on mobile in
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
-
 The higher education council said it is [building a national performance measurement framework to capture, digitise and publish standardised data on students, staff, research and graduate outcomes](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/), having lacked comparable data across institutions. No publication date is set.
 
 The same announcement records that Kigali [hosts the UN regional hub for big data and data science, run with the statistics institute and two UN bodies to help African statistical offices use new data sources](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/); no output figure is stated.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-A [national satellite data programme launched with a commercial imagery provider on 10 August](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1), giving government agencies, public universities, selected startups and development partners access to near-daily imagery for agriculture and food-security monitoring, forest health, urban planning and disaster response, managed by the space agency. It was announced jointly by vendor and government, and no cost, term, data-licence arrangement, contract or appropriation is held.
 <!-- /narrative -->
 
 ## Geopolitics

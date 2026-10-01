@@ -1,23 +1,21 @@
 ---
-title: Angola — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Angola — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: AGO
-ledger_rows: 70
+ledger_rows: 34
 not_held: 6
-record: 280d416d1799
+record: e5b3f501957e
 ---
 
-# Angola: monthly update, August – September 2026
+# Angola: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's law-making outran its infrastructure. The National Assembly [adopted the cybersecurity bill on 12 August by 104 votes to 56](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire), not yet promulgated and objected to over its data-access provisions a year before the presidential election, while [a law punishing the spread of false information online came into force on 4 August](https://www.novojornal.co.ao/politica/detalhe/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao-73765.html) carrying up to ten years' imprisonment, [which journalists' bodies warn will inhibit citizen journalism](https://www.novojornal.co.ao/politica/detalhe/jornalistas-advertem-que-lei-vai-inibir-jornalismo-de-cidadania-erro-jornalistico-dependera-da-interpretacao-dos-tribunais-e-do-lesado-74134.html).
-
-The incumbent operator closed out July's cyberattack: [core services were declared fully restored nationwide on 21 August](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/) and [customers compensated automatically](https://angop.ao/noticias/economia/unitel-compensa-clientes-pelo-ataque-cibernetico/), against a base that still holds no critical-infrastructure designation instrument. Money went to identity: the President [authorised US$28m and opened tender for a national digital identity and electronic-signature platform](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/), and [US$2.5m by direct award to digitise the finance ministry](https://valoreconomico.co.ao/artigo/pr-autoriza-2-5-milhoes-de-dolares-para-digitalizar-ministerio-das-financas). The electoral register was the contested ground, with opposition parties [demanding an independent audit of the database](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html).
+The statistics institute [put a revision of the statistics law and a draft 2026-2032 statistics strategy to public consultation from 29 September to 2 October](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/). The state operator [inaugurated the first link of the national broadband network at Lobito on 16 September](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/), and the registries director [put identity cards issued at home and abroad at 17,166,000](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). The Constitutional Court [opened a limited tender on 22 September for its candidate-registration platform](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html).
 <!-- /narrative -->
 
 ## Governance
@@ -25,52 +23,20 @@ The incumbent operator closed out July's cyberattack: [core services were declar
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The cybersecurity bill re-entered detailed consideration. Three specialised committees met jointly on 3 August and [voted it chapter by chapter](https://pti.ao/proposta-de-lei-da-ciberseguranca-entra-na-fase-de-analise-detalhada/) on three axes — drafting, systematisation and harmonisation — all presented as preserving the substance approved in generality in January 2026 on 105 votes for, one against and 75 abstentions. Deputies had suspended the same discussion on 7 and 8 July over drafting non-conformities in the preamble and first two chapters, one party warning that a redraft that deep might require a wholly new bill.
-
-The bill then passed. The National Assembly [adopted it on 12 August by 104 votes to 56](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), the governing party for and the opposition against with no abstentions, on a text of presidential initiative directed at protecting networks, critical infrastructure and essential services through prevention, detection, incident response and restoration. The penalties are administrative and graduated: [seven to 70 minimum wages for individuals on the lightest infringements, rising to 500 for individuals and 4,000 for legal persons on the most serious](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/). No promulgation, gazette number or entry-into-force date is on file.
-
-What the vote settles and what it leaves open are different things. The law [requires telecommunications operators to transmit any communication whose content is criminal or prejudicial to state security](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire), and the opposition and part of civil society object that neither the qualifying content nor the circumstances in which a subscriber's personal data reaches the authorities is defined — a lawyer quoted in the same account gives the circulation of a call to demonstrate as an example that might qualify. The vote came a year before the presidential election, days after the online-falsehoods law entered into force, and weeks after the cyberattack on the incumbent operator that the governing party cited for it.
-
-The national cybersecurity centre, whose statute was published in December 2025, is still described in the future tense by the minister responsible: on 10 August he [said it would be launched during 2026](https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430) to monitor digital threats, defend critical infrastructure and coordinate incident response.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
-
-A report published on 15 August by the South African organisation Intelwatch [found the intelligence service SINSE reaching biometric data without judicial supervision](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and identified no rule stating when it may obtain identity, biometric or mobility data and no independent body to review such requests; the migration service confirmed at the Santa Clara border post that SINSE may request access under established protocols. The same report puts the [national biometric border-control system at US$112m, awarded in February 2025 to Dolinveste Lda with Poland's Technology for Business, reportedly by direct award rather than open tender](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and adds a [EUR 130m passport and biometric identity contract with Hungary's ANY Security Printing, taking the total past US$250m without significant tender, parliamentary scrutiny or human-rights impact assessment](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/). Against that spending it records [no biometric system operating at the border posts with the Democratic Republic of the Congo](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), crossings there regulated by a manually checked seven-day paper pass, and the one functional post reading passports against the migration database but with fingerprint and height capture discontinued on maintenance grounds. It also records that the electoral register is [derived from the civil identity database, with the voter card to be used for the last time in 2027 before the identity card becomes the sole registration credential](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/) under the 2025 official-registration law, and that the register has never had a comprehensive independent technical audit. The figures and the characterisation of the awards are Intelwatch's; no procurement record is on file.
+The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The national satellite began earning its keep across the border. Mozambique's state operator [started proof-of-concept testing of the Angolan satellite for providing telecommunications services in Mozambique, announced by the Angolan telecommunications ministry as a step towards a commercial agreement to distribute communication and broadcasting signals over Angolan space infrastructure](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m). It follows the Mozambican public broadcaster's own proof of concept, implements a bilateral memorandum signed in June 2026, and runs in parallel with a commercial pilot with a Namibian operator for satellite-driven backhaul. No commercial terms are published.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-The consultation on the artificial intelligence bill can now be counted, which is unusual for this repository. The telecommunications ministry's portal [records 18 contributions from companies, 18 from specialists and 5 from the general public](https://consultapublica.minttics.gov.ao/) against the 20-page bill it serves, a text dated September 2025 whose comparative section reviews artificial-intelligence regulation in the United States, the European Union, China, Japan, Canada and Brazil and the national strategies of Egypt, Kenya, South Africa and Rwanda. Forty-one contributions is a small number and it is a published one; nothing else on this ledger states how many people answered a government consultation.
-
-The duty behind it is general. The [administrative procedure code of 2022](https://lex.ao/docs/assembleia-nacional/2022/lei-n-o-31-22-de-30-de-agosto/) requires administrative bodies to enable participation by individuals and associations in forming their decisions, with hearing of interested parties and public consultation on draft regulations. What the portal adds is evidence that the duty produces something measurable when a ministry chooses to measure it.
+Angola is one of 49 states that signed, with the European Space Agency, [a declaration that Earth- and Universe-observation satellite data should be accessible to all under open licences, save justified exceptions](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data), published on 10 September.
 <!-- /narrative -->
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated set of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what that integrated set of services consists of, who will build it, or by when.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-
-
-The higher-education programme entered the repository with its digital content itemised. A [US$150m loan and a US$50m education-partnership grant, phase one of a US$550m multi-phase programme closing 31 December 2028, carry US$10m to digitalise higher-education service delivery and build digital competency, US$15m to establish a national research and education network and upgrade university networks, and US$15m to modernise the sector management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
+The higher-education programme entered the repository with its digital content itemised. A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
 
 The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html).
 <!-- /narrative -->
@@ -80,8 +46,6 @@ The US export-import bank [announced a US$99.6m loan to the private mobile opera
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-An operator [installed 20 towers in Cabinda with commercial service days away](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/), and the satellite licence application open since 2024 [remains unresolved](https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html), with no decision published either way.
-
 The national fibre network [opened its first link at Lobito on 16 September](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/), a DWDM route from Luanda through Bengo and Cuanza Sul, with Huambo, Namibe and Cabinda named next; the same day [a fibre-to-the-home service went live for a 1,000-dwelling housing centre at Baia Farta](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-lanca-servico-de-internet-tudonosso-na-baia-farta/). The ministry [put the section completed to Lobito at about 400 Gb](https://pti.ao/fibra-optica-de-400-gb-chega-ao-lobito-e-tudo-nosso-da-angola-telecom-avanca-na-baia-farta/). Separately the national radio [finished the Luanda phase of a transmitter programme meant to raise coverage from 63 to 76 per cent of the population](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/).
 
 The incumbent operator [reported more than 21.2 million subscribers and 12,302 base stations for the first half of 2026, with 5G extended to Namibe, Malanje, Kwanza Sul, Zaire and Cabinda](https://techafricanews.com/2026/09/22/unitel-revenue-rises-17-percent-274-billion-kwanzas-h1-2026/), on its own figures.
@@ -91,20 +55,7 @@ The national cable company [began deploying new optical equipment across its Sou
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The government's own hosting moved rather than the commercial estate. The telecommunications ministry [reinaugurated the government cloud's backup centre on 25 August after modernisation](https://pti.ao/minttics-conclui-modernizacao-do-centro-de-backup-da-cloud-do-governo/). No capacity, power figure or recovery objective is published with it, so what the repository holds is that the facility exists and has been worked on.
-
 The state printer [inaugurated a data centre on 11 September with more than 170 TB of storage and full redundancy for the official gazette's records](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/); no investment value is disclosed.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The incumbent operator's mobile voice, data and internet services failed nationwide from 02:20 on 28 July, affecting more than twenty million customers; fixed fibre and fixed-wireless stayed up throughout, so the failure was confined to the mobile layer. The network itself came back over four days — localised from 11:45 on 29 July, full second- and third-generation national coverage at about 23:00 on 30 July, and [messaging and electronic airtime sales back on 31 July](https://angop.ao/noticias/economia/unitel-recupera-servicos-de-mensagens-e-venda-de-recargas/). The services running on it took nine: the operator dates [voice, messaging, mobile data, internet access and the third-party services carried over its network to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/), and gives the same close in [its own market update](https://techafricanews.com/2026/08/06/unitel-restores-core-services-after-nationwide-cyberattack/). Four days in, [card terminals were unreliable in Luanda shops and at filling stations and citizens were queueing at the ATMs for cash](https://jornaloguardiao.com/2026/07/31/ciberataque-a-unitel-mantem-impacto-nos-pagamentos-e-provoca-corrida-aos-atm-em-luanda/); a week in, [the cardless payment app was still unusable and Luanda bank branches were queueing one to two hours](https://www.verangola.net/va/en/082026/Telecommunications/49721/Attack-on-Unitel-continues-to-affect-business-and-debt-settlement-in-Luanda.htm). No attribution, access vector or scope of data loss is established.
-
-The aftermath produced the first public pressure for rules rather than repair: customers and security practitioners [called for mandatory incident-reporting obligations and a national computer security incident response team](https://angop.ao/noticias/tecnologia/clientes-advogam-mecanismos-mais-robustos-para-prevenir-crimes-ciberneticos/), small businesses describing lost sales and failed card payments across the disruption. Angola has neither: the repository holds no CSIRT and no reporting duty, and the critical national infrastructure designation that would carry one is itself ***Not held***.
-
-Check Point Research's July telemetry [puts Angolan organisations at 5,714 attacks a week against an African average of 3,237](https://techtrends.africa/ransomware-attacks-double-year-over-year/), the highest of the four African markets it broke out — the vendor's installed base, not a national measurement.
-
-The year's national technology fair took cybersecurity as its theme rather than its subject. Opening the seventeenth edition at the telecommunications institute on 3 September under the heading of [cybersecurity and digital trust in the era of artificial intelligence, the telecommunications minister argued the country's digital future depends on research, training and building national solutions](https://angop.ao/noticias/economia/ministro-defende-aposta-na-investigacao-para-futuro-digital-de-angola/). It is a ministerial position rather than an instrument, and it sits over a strategy, a council and a centre that the repository still records as having no operating account.
 <!-- /narrative -->
 
 ## DPI
@@ -112,18 +63,9 @@ The year's national technology fair took cybersecurity as its theme rather than 
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
-
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
 The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated.
-<!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
-
-The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -134,39 +76,19 @@ A renminbi route opened for Angola-China trade: the largest private bank [signed
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
-
-Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
-
-The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html); it gave no provincial breakdown, so the audit the opposition asked for is still not possible.
+The education ministry made school enrolment independent of documentation. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html); it gave no provincial breakdown, so the audit the opposition asked for is still not possible.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart; [the initiative was launched in Luanda from 5 to 7 August](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems). No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
-
-The research and education network is funded rather than only presented: [US$15m within the tertiary education project to establish it and upgrade university networks, with the draft network recorded as under way in the lender's April 2026 implementation report](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). No operator, governance model, connection count or commissioning date is published, so what has moved is the money rather than the network.
-
 Customs control got its own procurement in September. A presidential order of 14 September [authorised about AOA 90.5bn, some US$98m, in two lots by direct award for a customs supervision project covering centralised supervision, automated inspection and data analysis](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/), and delegated the contract to the finance minister. The order names no supplier and no timetable, and does not say how the project relates to the logistics single window announced in July.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the repository rather than the repository.
-
-The health ministry's recruitment competition shows what online registration costs when it goes wrong. Of more than 420,000 who registered in July, [more than 170,000 were excluded for defective registration, leaving more than 262,000 to sit tests for 6,030 posts on 21-25 September, sat simultaneously nationwide and marked online](https://novojornal.co.ao/sociedade/detalhe/minsa-seleccionou-262-mil-candidatos-para-concurso-publico-mas-excluiu-170-mil-por-ma-inscricao-74185.html); a complaints window ran from 25 to 31 August.
-
 The in-person counterpart to the missing online service inventory does publish numbers. The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown, a waiting-time measure or any online equivalent — so the state can say how many people came through a door and still not say what it does online.
 
 The Constitutional Court is preparing its own systems for the 2027 elections: on 22 September it [opened a limited tender with pre-qualification, valued at Kz 20 billion, to modernise its platform for registering candidacies and to migrate the records of earlier electoral cycles in full](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html). The tender document is not published.
-<!-- /narrative -->
-
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-Benguela's provincial water utility [begins installing prepaid smart meters on 7 September, targeting 25,000 to 26,000 by March 2027 on a stated USD 23 million budget drawn from a USD 191.3 million rehabilitation project across five municipalities, starting with 500 units at Restinga and using 266 technicians](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html). It follows [a USD 15 million registration exercise that produced a 70,000-client database, replacing estimate-based billing against arrears stated above 10 billion kwanzas](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html).
 <!-- /narrative -->
 
 ## Technology
@@ -190,15 +112,10 @@ The month’s startup news is a lawsuit. The founders of Paga3, owned by Cafeje-
 
 ## Capacity
 
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the machines-to-students ratio at the one site it named is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
-<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-A new technology centre [entered service in August](https://www.opais.ao/politica/soberania-digital-e-aposta-na-formacao-de-jovens-reforcadas-com-a-entrada-em-funcionamento-de-novo-centro-tecnologico/), framed by the ministry around protecting citizens' data and training young people. No intake, curriculum, cost or site detail is published, and the data-protection framing is the ministry's rather than a stated function of the centre.
+The telecommunications institute and a cable operator [signed a cooperation protocol on 3 September at the technology innovation fair](https://angop.ao/noticias/economia/itel-e-tv-cabo-assinam-acordo-de-cooperacao-para-capacitar-jovens/), under which the operator offers internships to students and supplies internet service to the institute.
 <!-- /narrative -->
 
 ## Inclusion
@@ -207,13 +124,11 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 
 <!-- narrative: inclusion--include-access -->
 The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), and now by a national total: [17,166,000 cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate.
-
-The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 <!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
+Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/); a local administrator put the direct free beneficiaries at 1,400 residents. No national site count, tariff or programme budget is published.
 <!-- /narrative -->
 
 ## Data

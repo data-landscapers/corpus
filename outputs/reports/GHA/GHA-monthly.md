@@ -1,25 +1,21 @@
 ---
-title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Ghana — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: GHA
-ledger_rows: 156
+ledger_rows: 78
 not_held: 9
-record: e155582927f8
+record: 93fa5c7bf04d
 ---
 
-# Ghana: monthly update, August – September 2026
+# Ghana: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two government portals broke in the same fortnight. Tax payment processing on the services portal [failed from 14 August and was still unresolved a week later](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/), and the [online passport application portal went down, the outage confirmed by the foreign ministry](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). Against that, government [directed that public-service salaries be suspended from 15 September for staff whose identity-card details do not match](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/) — a state making its own systems a condition of pay while two of its public-facing systems are down.
-
 The month closed on the ministry's own account of itself, and the honest half of it is the arithmetic: the coders programme holds [141,954 registrations against 5,812 completions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), the rural telephony project [1,400 live sites of 2,016](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), and the network [8,578 fibre cuts projected for 2026 against a dig-once policy still awaiting Cabinet](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). Parliament passed the instrument for [biometric SIM registration](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/), which has not begun.
-
-Enforcement is the month's other thread, and it is unusually visible. The information-rights commission [fined 254 public bodies over reporting delays](https://www.graphic.com.gh/news/general-news/upsa-37-military-hospital-among-254-public-institutions-fined-by-rti-commission-over-report-delays.html); the cybersecurity authority's first published fines against a public body and its supplier [were called premature and referred to the Attorney-General](https://www.citinewsroom.com/2026/08/orc-csa-sanction-was-premature-seeks-ags-intervention/); and the data protection commission [took delivery of field-enforcement vehicles](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/). On virtual assets a [coordinating committee was inaugurated](https://www.citinewsroom.com/2026/08/vacc-inaugurated-to-strengthen-ghanas-virtual-asset-oversight/), and a bank [opened direct renminbi settlement](https://www.myjoyonline.com/stanbic-bank-becomes-first-bank-in-ghana-to-offer-direct-chinese-yuan-settlement-via-cips/).
 <!-- /narrative -->
 
 ## Governance
@@ -27,7 +23,7 @@ Enforcement is the month's other thread, and it is unusually visible. The inform
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The public sector reform that carries the digital pillar reached validation on 12 August: a [five-year, seven-pillar public sector reform strategy was validated at a stakeholder workshop ahead of formal adoption, one pillar being digitalised public-sector systems](http://psrs.gov.gh/index.php/component/content/article/59-stakeholders-validate-national-public-sector-reform-strategy-ii-ahead-of-formal-adoption?Itemid=101&catid=2). No text, budget or adoption date is published.
+The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -37,25 +33,16 @@ The legislative programme itself got a ministerial account on 7 September: under
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the repository holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. The registrar has since contested it, [saying the procurement of its network and security operations centre was substantially complete before the tier-one directive was issued](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/); no adjudication of that timeline is held.
-
 The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Ghana's regional position moved on three fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee. African Union ministers [endorsed continental roll-out of the illicit-financial-flows policy tracker](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) from the six-country pilot Ghana ran over eighteen months, the finance ministry reporting that it contributed to recovering millions of dollars in revenue — with no Ghana-specific score, finding or reform list published. The communications ministry [announced a partnership on digital-policy intelligence and regulatory-analysis tools](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) at an Accra workshop on 10 August, covering the national AI strategy, data-governance work and the coders programme, with no funding, duration or deliverables stated.
-
-
-A fourth front does have something running. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated.
+Ghana's regional position moved on three fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-The statistical service put a number on what digitisation is being asked to fix. Its governance series records citizens reporting demands for unofficial payments [rising from 51% in the first half of 2025 to 69% in the second](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/), and the service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation and saying the Office of the Chief of Staff has directed the ten institutions the series flagged as high-risk to report back on remediation. The passport-office comparison is asserted without a before-and-after figure, and the series measures reported demands rather than cases proven.
-
-The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
-
 On 13 September a senior nursing officer was arrested and then [charged with abetting the publication of false news under section 208 of the Criminal Offences Act and remanded without bail, over videos from a UK-based TikTok account](https://www.myjoyonline.com/barker-vormawor-urges-courts-to-scrutinise-rights-violations-in-ghana-jollof-case/); rights lawyers have put the detention and the evidence-gathering as constitutional questions, and the case returns to court on 30 September.
 
 On 22 September the Secretary to the President [asked the Media Foundation for West Africa and the Ghana Journalists Association to convene a national stakeholder engagement and draft a roadmap on hate speech and harmful online content](https://www.myjoyonline.com/wp-content/uploads/2026/09/OPS308.3.26.1386-NATIONAL-STAKEHOLDER-ENGAGEMENT-ON-HATE-SPEECH-ABUSIVE-ONLINE-CONTENT-RESPONSIBLE-DIGITAL-COMMUNICATION.pdf), including guidance for law enforcement and alternatives to arrest and prosecution for speech that is not criminal. The letter cautions that arrests over criticism out of proportion to the conduct may be counterproductive, and sets no deadline.
@@ -63,16 +50,10 @@ On 22 September the Secretary to the President [asked the Media Foundation for W
 
 ## Finance
 
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-The country renewed the agreement under which several of its digital customs systems are financed. The [TradeMark Africa country programme memorandum was renewed on 14 August](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/), continuing trade-facilitation and continental-free-trade-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders. No financing sum, term or workplan is stated — and the same border post is where a regional dialogue on identity-card and transit-system interoperability was held four days earlier.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-
-Two new commitments enter the repository this month, one domestic and one from a development partner. The government [put GH¢100 million, about US$8.88 million, behind the Ghana National Research Fund for 2026](https://shore.africa/2026/08/31/ghana-ai-research-fund/), separately from its US$250 million commitment to a national artificial-intelligence computing centre; no disbursement or call for proposals is reported against the allocation. The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
+The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
 
 A third, much smaller commitment closed the month: a Ghanaian remittance startup moving money from the United States to Ghana [raised US$333,000 from a blockchain foundation's community fund, to launch an international payment card usable online and in stores](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/ghana-s-seevcash-raises-333-000-launches-visa-card). The commitment date is not stated in the source and no valuation, corridor volume or user count is published.
 <!-- /narrative -->
@@ -83,8 +64,6 @@ A third, much smaller commitment closed the month: a Ghanaian remittance startup
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 Spectrum assignment got a date on 7 September: the minister said that spectrum assignment would be [completed and 5G deployment begin by December 2026](https://www.myjoyonline.com/ghana-to-begin-5g-deployment-by-december-2026-sam-george/), alongside a road-excavation coordination framework, an Emergency Telecommunications Framework and upgraded network-quality standards operators would be required to meet. It is a ministerial statement, not a published award timetable.
-
-Beneath the licensing argument, the traffic that never leaves the country was counted. On 16 August the Accra exchange was reported [past 200 Gbps, against three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/). The headline figure is the smaller finding. An exchange is worth the traffic it keeps local, and three partly-overlapping exchanges keep less of it than one would.
 
 The build was then put in proportion. On 6 September the minister put the national requirement at [about 6,000 additional cell sites against roughly 1,100 in the current round, which is to complete in 2027](https://thehighstreetjournal.com/ghana-needs-6000-new-cell-sites-to-improve-nationwide-connectivity-minister/) — stated without the coverage or quality standard it is measured against. What is actually being built is [800 sites committed by the dominant operator with 180 already active and carrying traffic, and a 2026 plan of 2,698 sites at the second operator of which 1,890 are live within a network of roughly 9,000](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), and the regulator spent the week [taking radio-frequency exposure messaging to market traders and transport operators in Koforidua](https://techafricanews.com/2026/09/07/ghana-nca-public-education-telecom-masts-infrastructure-concerns/) after opposition to a mast at a lorry station — the cost of the build showing up as consent rather than capital.
 
@@ -101,30 +80,9 @@ On 25 September in New York the President [discussed with Amazon's chief global 
 <!-- narrative: ict-infrastructure--infra-store -->
 The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum.
 <!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-The transmission system failed nationally twice in three weeks. A major fault on the Akosombo-Volta line at about 4.30am on 20 August [tripped the Akosombo units and some thermal plants](https://www.graphic.com.gh/news/general-news/gridco-on-why-there-is-a-second-nationwide-electric-power-outage.html), three weeks after [a system disturbance at about 3.11am on 29 July had tripped generating plants simultaneously](https://gna.org.gh/2026/07/gridco-attributes-nationwide-power-outage-to-system-disturbance/). The operator opened a technical investigation into the first and said further measures were needed to strengthen reliability after the second; no interruption index is published for either.
-
-On 28 August the energy ministry [launched a GHS598 million project to connect 206 communities across all 18 districts of the Volta Region within six months](https://gna.org.gh/2026/08/government-launches-ghs598m-electrification-project-for-206-volta-communities/), part of a programme covering four regions this year and four more annually to 2030. It is the largest funded rural-electrification commitment the repository holds, and it lands in the same month as the second national outage.
-<!-- /narrative -->
-### Technical Capacity
-
-<!-- narrative: ict-infrastructure--infra-capacity -->
-The cable inventory did not move; what moved is the repository's reading of it. The regulator [names five submarine cable providers on an undated page](https://nca.org.gh/submarine-cable-landing/) resting the licence on section 3(8) of the Electronic Communications Act 2008, a list that predates later landings, while an analyst brief [counts six cables at Accra and about 2.5 Tbps of international capacity in use](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf) on a 2024 estimate. Neither is the regulator's own current count.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-A community-media cyber capability project launched on 3 August, certifying community-radio journalists into a standing press corps.
-
-The Cybersecurity Act's licensing regime produced its first published penalties. The Cyber Security Authority [fined the Office of the Registrar of Companies and Purpleline Solutions a combined GH¢360,000 for breaching the Act's licensing requirements](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html) on 13 August — [GH¢240,000 against the Registrar in two penalties of GH¢120,000 for engaging an unlicensed cybersecurity service provider, and GH¢120,000 against the provider for operating without a licence](https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html). One of the two penalised bodies is itself a state registry. Five days later the Authority [fined a Big Four firm's Ghana practice GH¢360,000 — three penalties of GH¢120,000 — for continuing to provide regulated cybersecurity services, including to owners of critical information infrastructure, after three directives to obtain a licence](https://techafricanews.com/2026/08/18/ghana-cyber-security-authority-fines-ey-ghana-gh360000-for-unlicensed-services/), ordering it to cease and desist, governance, risk and compliance work included. The repository holds no published penalty under the Act before 13 August, so both actions fall inside six days, and the Authority states it will name unlicensed providers publicly as an enforcement measure. Neither of the two largest penalties survived the week as announced. The firm's fine was declared [satisfactorily resolved in a joint statement issued the same day](https://www.myjoyonline.com/cyber-security-authority-ey-resolve-satisfactorily-matters-relating-to-licence-fees/), which does not state whether it was paid, reduced or withdrawn; and the Registrar [rejected its own sanction as premature and procedurally unfair, dating a finance-ministry commitment authorisation to 28 November 2025 and its tender to 4 December, before the directive it is said to have breached](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/). A regime whose first week of enforcement produces one settlement without terms and one contested timeline has published a gross figure, not a collected one.
-
-The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
-
-
-The community-media project started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
-
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
 On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published.
@@ -142,8 +100,6 @@ Kenya's president [announced Masterkey, a cross-border wallet for verifiable qua
 <!-- narrative: dpi--dpi-id -->
 The photocopy ban has an enforcer: the identification authority's head said [verification teams will begin visiting institutions on 2 November 2026 to enforce the law against photocopying or visual inspection of the card](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html).
 
-The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published; by 13 August the agency described the Labone centre as [running registration on three shifts around the clock](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/), presented as part of the government's wider 24-hour economy programme. No throughput or staffing figure is published, and the repository holds no equivalent extension of the free daytime service.
-
 The central bank republished its standing directive on 2 September: under regulation 7 of the 2012 national identity register regulations, [the card has been the only identification accepted for transactions at every institution the bank licenses and regulates since 1 July 2022](https://www.bog.gov.gh/news/use-of-ghana-card-for-all-financial-transactions/). The repository had carried that requirement only from a January 2026 guidance note. Dated four years earlier, it makes the photocopy ban an enforcement step against a rule already long in force rather than a new obligation.
 
 The SIM half of the identity regime moved for the first time in nine months. The minister said on 7 September that [Parliament has passed the legislative instrument governing SIM registration and the biometric verification phase will be introduced before the end of 2026](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/), the same account putting completion of the 2021-2023 exercise it replaces at 44.28% of subscribers. What has moved is the authority to act: no start date, enrolment route or subscriber deadline is published and the instrument itself is not held.
@@ -155,13 +111,6 @@ The licensing authority [put its DVLAverify biometric identity-verification app 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Enforcement of the digital-credit regime opened. A notice of [3 August named twenty unlicensed lending applications](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf), cautioning banks and payment providers against processing for them and framing the harm first as a violation of customer data privacy. The promised register of licensed providers remains unpublished.
-
-The dominant operator opened a channel to the next cohort of providers instead. A [three-month fintech accelerator launched on 12 August across Accra, Kumasi and Tamale](https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/), with a domestic technology firm as its official technology partner. No cohort size, selection criteria, funding or equity terms are stated.
-
-
-Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
-
 The virtual-asset regime acquired its coordinating machinery. A five-agency committee is [constituted and chaired by the central bank governor, joining the securities regulator, the finance ministry, the cyber security authority and the financial intelligence centre, working towards having the Virtual Asset Service Providers Act fully in force by 2027](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/), and on 4 September the securities regulator [admitted a second sandbox cohort of ten participants, run with the central bank to test and refine the framework the Act introduced](https://www.myjoyonline.com/yellow-card-joins-ghanas-second-virtual-asset-regulatory-sandbox/), one of them a stablecoin infrastructure provider testing stablecoin payment, fiat settlement and wallet infrastructure under supervision. The cohort list, the first cohort's outcomes and the sandbox's exit criteria are not published.
 
 The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
@@ -171,10 +120,6 @@ On 23 September a fintech [began opening bank-backed virtual accounts for its Gh
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Two registries entered the repository this month as standing descriptions rather than events. The revenue authority's own page sets out [the taxpayer identification number system it maintains under the 2016 revenue administration Act](https://gra.gov.gh/tin/), and the national digital address system's [official page records it live](https://www.ghanapostgps.com/). Neither carries an internal date, so both are dated to capture and neither reports a change: what moved is the repository's own coverage, not the registries.
-
-Nothing published with either gives a register size, a coverage rate or a public-sector consumer, which is the figure each would need before it could be said to be working.
-
 A third registry arrived as a private product reading public records. [Marrify launched in Accra on 28 August, letting users search and verify registered marriage and divorce records drawn from the registrar-general's department, the courts, district assemblies and the Gazette](https://itweb.africa/article/ghana-launches-digital-marriage-records-platform/VgZeyqJlpyX7djX9), presented by the gender ministry as answering the need for reliable information before people marry. No data-sharing agreement, fee schedule, coverage figure or record count is published, so what is established is that the records are searchable, not that they are complete.
 
 The household registry published its national total: [11.24 million people in 2,906,288 households across all 16 regions, 508,870 households classed extremely poor](https://www.myjoyonline.com/ghanas-household-registry-now-profiles-11-24-million-people-for-social-protection-targeting/), the base for cash-grant targeting as that programme's ceiling rises to 450,000 households.
@@ -182,8 +127,6 @@ The household registry published its national total: [11.24 million people in 2,
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-One sectoral system was assessed rather than built. A Danish-funded gap assessment of the meteorological agency [reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/), presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published, so what the month holds is a diagnosis and no commitment to act on it.
-
 The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
 
 The education ministry [said more than 6,000 of 8,000 complaints against this year's computerised school placements had been resolved](https://onuaonline.com/cssps-over-6000-of-8000-complaints-resolved-sept-18-reopening-date-unchanged/), with reopening left at 18 September.
@@ -191,13 +134,7 @@ The education ministry [said more than 6,000 of 8,000 complaints against this ye
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-Tax payments broke on the government's own front door. Payments initiated through the customs and tax systems on the Ghana.gov payment platform [failed intermittently from 14 August, filing unaffected](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/), and the revenue authority gave no restoration date.
-
 The paper record gained a contract. The ministry said on 7 September that a contract had been [signed on 13 August to digitise 3.5 million public records held by the Public Records and Archives Administration Department](https://www.myjoyonline.com/government-begins-digitisation-of-3-5-million-public-records-sam-george/), as part of moving public administration off paper. No contractor, value, timetable or completion date was stated.
-
-The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
-
-Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
 
 The Rent Control Department's acting commissioner [called for an investigation into a digitisation programme on which US$1.7m was reportedly spent, having found four computers at the facility](https://www.adomonline.com/heads-must-roll-there-is-nothing-to-show-for-npps-1-7m-digitisation-rent-control-boss/). No audit finding is held.
 
@@ -214,41 +151,17 @@ Local government has gone in one month from a reform strategy's integration targ
 
 Assembly business is to be put on air: the local government ministry [announced live nationwide broadcasts of assembly general meetings and town halls](https://www.graphic.com.gh/news/general-news/local-government-ministry-to-roll-out-live-broadcasts-of-assembly-meetings-nationwide.html) with the civic education commission and the state broadcaster, with no start date.
 <!-- /narrative -->
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-The police service's own page on its criminal data bureau entered the repository this month, and what it establishes is where the paper stops: [the bureau at investigations headquarters receives fingerprints and crime details on forms sent in from police stations](https://police.gov.gh/en/index.php/criminal-data-service-bureau-cdsb/), including rural and district ones. The digitisation is at the centre and the stations feed it on paper.
-
-It is a standing description dated to capture rather than an event, and it sits against the interior ministry's own sector plan, which names limited logistics particularly in rural and border communities as the constraint on digitisation reaching those stations.
-<!-- /narrative -->
 
 ## Technology
 
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The external assessment of readiness arrived on 7 September. Ghana is [one of 77 countries to have run UNESCO's readiness assessment methodology, under an EU-funded project on implementing the ethics recommendation](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana), and the draft findings presented at consultation stated that the country lacks binding AI-specific regulation and comprehensive data governance frameworks. The report also puts a third dating on the national strategy — 2023-2033, approved 24 April 2026 — against the held text titled 2025-2035 and dated December 2025 and a [ministerial statement placing Cabinet approval in the week before 26 February 2026](https://www.citinewsroom.com/2026/02/ghanas-national-ai-strategy-secures-cabinet-approval-sam-george/). None of the three is reconciled.
-
-The finance ministry [adopted a legal AI tool across its legal directorate on 27 August](https://techafricanews.com/2026/08/27/ghana-ministry-finance-eskwai-government-legal-ai-deployment/), described by the vendor as the first team-wide deployment of legal AI in a government legal department. No contract value or seat count is stated.
-
 Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
 
 Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
 
 Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/).
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-A Ghanaian-founded remittance platform that pays schools, hospitals and insurers directly [was profiled on 26 August as having processed over US$450 million in a decade](https://techcabal.com/2026/08/26/how-a-diverted-tuition-fee-birthed-a-450-million-remittance-platform/). The figure is the company's own, with no period breakdown or corridor split.
-<!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-Two assistive devices are [in pilot with a disability association — smart glasses and an ultrasonic obstacle detector — at a target price of about GH¢2,000 and a 1,500-user target within a year](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/).
-
-
-A freight platform founded in 2023 was profiled on 19 August: it [takes booking, cost estimation, secured payment and cargo tracking, and handles customs formalities and border documentation for importers, exporters and online merchants](https://www.wearetech.africa/fr/fils/tech-stars/avec-swiftway-shippers-abubakar-fuseini-automatise-la-gestion-du-fret). No volume, revenue or customer figure is stated, and the account is a profile rather than a filing.
 <!-- /narrative -->
 
 ## Capacity
@@ -283,16 +196,12 @@ The month's research capacity news is a funding gap stated by the minister who h
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-A women's business bundle from the dominant operator [passed 54,000 female subscribers by May 2026 against a target of 20,000 by 2028](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/empowering-women-micro-entrepreneurs-to-use-mobile-for-business-lessons-from-mtn-ghanas-adwumapa/), on figures published on 24 August. A European Union-funded action [trained more than 200 births-registry and health-service staff to close registration gaps in the six regions where coverage is lowest](https://www.icmpd.org/news/ghana-strengthens-the-systems-behind-birth-registration-and-refugee-protection), finding the registry short-staffed in many districts.
+Fieldwork for [a research network's first multi-country survey of how people experience digital identity and digital payment systems](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/) began in the week to 7 September. It is to reach more than 5,000 households through to April and asks whether the systems leave people feeling more included.
 <!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-American money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
-
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
-
-The rural telephony count now has a dated start. The previous minister's February 2024 statement [put 1,010 sites built, 659 integrated and 618 on air against the 2,016 target](https://moc.gov.gh/wp-content/uploads/2023/03/FEB-2024-PRESS-BRIEFING_MOCD.pdf), which is the figure the present government's 1,400 live sites should be read against.
 <!-- /narrative -->
 
 ## Data
@@ -300,19 +209,10 @@ The rural telephony count now has a dated start. The previous minister's Februar
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held.
-
 The statistical service and Statistics Denmark [agreed the design of a third three-year phase of their cooperation, centred on integrating administrative data held by ministries and agencies](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data); no start date or funding figure is stated.
 <!-- /narrative -->
 ### Open data
 
 <!-- narrative: data--data-open -->
-The one open-data movement in the window is a system that exists and a commitment that cannot pay for it. The fisheries ministry and the national multi-stakeholder group built an online Fisheries Information System, launched at an ocean conference in June 2026, but [inadequate funding is constraining the 2024 Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/), with the minister pointing to part of a goods-and-services allocation and to unconcluded talks with Norway on reviving a development funding mechanism. A published system with no secured budget behind the disclosure regime is the familiar shape here, and the national open-data instrument remains **Not held**.
-
 An air-quality system reached testing: [a national air quality data hub built at a university laboratory went through utility testing with the environmental agency](https://www.myjoyonline.com/knust-epa-test-national-air-quality-data-hub-ahead-of-ghana-rollout/), which is to own it once a sustainability plan is agreed.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-Two satellite-derived systems were [named as live deployments at a university lecture reported on 10 August](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/): an agricultural information and monitoring system, and a national forest monitoring system paired with a deforestation tracker built toward European deforestation-regulation compliance for cocoa and gold supply chains. Both are named by their builder, and no coverage, accuracy, user or funding figure is published for either.
 <!-- /narrative -->

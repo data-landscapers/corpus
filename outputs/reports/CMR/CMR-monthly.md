@@ -1,23 +1,21 @@
 ---
-title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Cameroon — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: CMR
-ledger_rows: 51
+ledger_rows: 24
 not_held: 4
-record: b3613eaa15cf
+record: 772f723921a0
 ---
 
-# Cameroon: monthly update, August – September 2026
+# Cameroon: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Identity and enforcement dates were the month's fixed points. A ministerial letter of 26 August [restarted the school-based birth-certificate drive from September](https://www.biometricupdate.com/202608/cameroon-restarts-birth-registration-drive-using-schools-as-gateway-to-legal-identity), a programme this ledger has carried as stalled, and the census [extended complementary enumeration to 15 September](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/). From 1 September the networks [begin deactivating handsets that have not cleared customs, on a date set by ministerial communique of 20 August](https://www.digitalbusiness.africa/blocage-des-telephones-non-dedouanes-cameroun-enfin-le-consensus-entre-les-acteurs/).
-
-Payments are opening at the edges rather than the middle. [Less than 1% of regional transactions were interoperable merchant payments in the first quarter](https://leconomie.info/paiement-marchand-moins-de-1-des-transactions-interoperables-enregistrees-en-zone-cemac-au-premier-trimestre-2026/), the trade minister [called on businesses to take up the pan-African settlement system, which is not yet available to them](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/), and [a private payments platform launched on 31 August](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). On infrastructure, the United States and Cameroon [announced an intention to build an artificial-intelligence data centre and power plant at Douala](https://www.africa-newsroom.com/press/united-states-and-cameroon-announce-7-billion-in-investment-and-trade-opportunities-at-inaugural-economic-and-commercial-dialogue?lang=en), with nothing signed.
+Counting for the fourth population census [closed on 15 September with coverage stated to be below expectation](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/). The finance ministry [announced a procedure for state agents flagged when the payroll was checked against border-movement data](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/). A new mobile money institution, Konoom, [announced its licence on 17 September](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile), and the state operator [received a second equipment shipment for its mobile network expansion](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals).
 <!-- /narrative -->
 
 ## Governance
@@ -31,7 +29,7 @@ The state has commissioned a plan to digitise the system through which it buys e
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The one legislative act in the window changes the regulator rather than the rules it applies. A finance ministry order [moved the telecoms regulator from the third to the second category of public establishments, on its average realised budget across the 2022, 2023 and 2024 financial years](https://art.cm/fr/article/lart-accede-a-la-2e-categorie-des-etablissements-publics-la-performance-institutionnelle). The category governs institutional standing and pay structure, so what moved is the regulator's own position in the state rather than any power it holds over the sector. Neither the order text nor the budget figures behind it are published.
+The telecommunications regulator [gave operators until 30 September 2026 to file identification forms for a public directory of licensed operators](https://techafricanews.com/2026/09/17/cameroon-trb-updates-telecom-operators-directory-transparency-3/); nothing is yet published. A policy institute's brief of 4 September [argues the 2010 cybercrime law is outdated, citing cyberattacks up 156% between 2020 and 2023 and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -39,21 +37,12 @@ The one legislative act in the window changes the regulator rather than the rule
 
 The region began drafting the rules for moving data across its own borders, in this country's second city. Experts from Central African member states [met in Douala from 31 August to 4 September to assess national readiness and agree the pillars of a regional framework on cross-border data governance, with technical and financial support from the German development agency, a continental development agency, the Economic Commission for Africa and the African Union Commission](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/). Pillars are all that is agreed: no draft text, adoption route or timetable is published.
 <!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The repository holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
-
-The 2026 national Internet Governance Forum [met at the Palais des Congres in Yaounde from 18 to 20 August](https://techgriot.co/english/cameroon/2026/08/cameroons-fgi-2026-bet-on-data-to-connect-public-services/) under the theme of moving from fragmentation to interoperability and making data the backbone of public digital services. No resolution, communique or follow-up mechanism came out of it.
-<!-- /narrative -->
 
 ## Finance
 
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
-
 The EU's digital money was set out in September: [CFAF 9.83bn for the regional Digital Business Boost for Africa and CFAF 9.83bn for Digital Acceleration in Cameroon, signed on 16 June](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization).
 <!-- /narrative -->
 
@@ -62,8 +51,6 @@ The EU's digital money was set out in September: [CFAF 9.83bn for the regional D
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
-
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
 
 The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing.
@@ -71,14 +58,7 @@ The lender [reviewed the E-National Higher Education Network with the higher-edu
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The state operator spent the month selling capacity it has already built. It [showed the Zamengoe data centre to a second prospective tenant on 13 August](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/), presenting hosting, storage and security services and the facility's Tier III certification, eight months after the central bank toured the same site with a view to hosting. The repository holds no signed hosting contract from either visit.
-
 The Douala project was confirmed and qualified in the same week. The vendor [confirmed US$75m, about FCFA 42.25bn, for a data centre designed in part for artificial-intelligence workloads with dedicated power generation](https://www.biometricupdate.com/202609/cybastion-backs-cameroon-digital-sovereignty-with-75m-infrastructure-project), while the [planning ministry described it as an intention presented at the first bilateral economic forum rather than a commitment](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala). The distinction is worth holding onto: the same vendor's Ivorian project is underwritten by a United States export-credit guarantee, which is the shape a commitment takes on the record, and nothing of that kind is published here.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the repository holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -88,8 +68,6 @@ The digital transformation project [launched train.patnucelearning.cm on 21 Sept
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The month produced the repository's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
-
 The gap between the governing statute and the threat it governs was measured from outside government. A policy institute's brief puts [cyberattacks up 156% between 2020 and 2023, financial losses from digital fraud above US$45m over the same period, and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/), and argues that cybersecurity belongs in the national development strategy as industrial policy rather than as a compliance obligation. The figures are the institute's own, with no underlying series or agency return held — which is itself part of its case.
 
 At a national cyberspace-security forum opened in Yaoundé on 29 September, co-hosted with the Russian embassy, the national ICT agency [reported 17,500 cybercrime complaints in 2025 with 5.8 billion FCFA of declared losses, and, since January 2026, 21,280 compromised machines, 39 attacks on public-administration websites and 5,369 vulnerabilities across 150 scanned websites](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise). It cited a March 2026 ransomware attack that [halted half of a public body's systems and cut its email for nearly a month](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise).
@@ -100,46 +78,27 @@ At a national cyberspace-security forum opened in Yaoundé on 29 September, co-h
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
-
-The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) — a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
-
 Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Two identity operations ran in the month, both municipal. On 27 July [4,000 free identity cards were handed over at Yaoundé 5](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/), some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site; the operation was timed to public-service and police recruitment competitions, for which the card is a precondition. From 3 July, [compulsory registration of taxi owners and drivers opened on a city platform](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers), with a QR code and a unique door number per driver and unregistered taxis barred after 5 October.
-
-The register underneath both is only now being equipped. On 7 August the United Nations development programme [opened a tender for the equipment of three pilot centres digitising civil-status registration](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center). Three centres is the whole of the stated scope, and the notice names neither their locations nor a value or timetable — against a paper record the repository elsewhere shows being used to draw fraudulent payroll claims.
+The youth ministry [signed a three-year renewable partnership on 14 September 2026 to digitise access to employment and training for 15- to 35-year-olds](https://fr.journalducameroun.com/cameroun-le-minjec-et-nera-pulse-en-accord-pour-digitaliser-linsertion-professionnelle-des-jeunes/). No system, budget or delivery date is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Payments had the month's densest run. On 9 July the regional central bank [joined the pan-African settlement system, extending it to all six member states and 72m people](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/), with member-state banks to be integrated by end-2026; no Cameroonian bank is yet named as live on it. On 29 July an [interoperable QR-code standard launched under a regional regulation of 8 April](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any bank, microfinance or mobile-money application scan any merchant code across the six states. A day later a [consultation opened on revising the switch's tariff grid](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), the operator conceding that current pricing penalises low-value transactions and drives artificial splitting of payments; no revised grid or effective date is published.
-
-The continental rail reached the monetary union without reaching its businesses. The central bank joined the pan-African payment and settlement system on 9 July, which [an analysis of the trade minister's 21 August call to business describes as the necessary monetary and regulatory piece and not one that opens the service to customers: commercial banks, fintechs and payment providers must still connect technically and switch on the channels that initiate transactions](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). The operator's coverage claims - 28 countries, more than 190 banks and fintechs, 16 switches - establish reachability rather than that any institution here can yet send and receive.
-
-A domestic entrant arrived on 31 August. A Cameroonian technology company [launched a payments platform carrying transfers across mobile-money networks, wallet management, bill and airtime payment, payment links and developer interfaces, opening here with a stated ambition to reach other African markets](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). It is a launch announcement on the company's own account: no user, merchant or transaction figure, licence or partner bank is named.
-
 A third mobile money provider [was licensed as a payment institution by finance ministry order of 21 July, announced on 17 September](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile), into a market held by the two main operators. It has not yet launched.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
-
 The civil registration bureau's director [said on 14 September that digitalising birth, marriage and death records, begun in 2020, has stalled for want of funds, that FCFA 52bn is being sought, and that completion could come in 2029-2030 if it is found](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil).
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported. Collection moved where the plans did not: the health ministry [took delivery of nearly 1,000 smartphones on 7 August to run the SCANFORM data-collection system in place of paper forms](https://cameroonpress.com/pres-de-1000-smartphones-pour-accelerer-la-transformation-numerique-du-systeme-de-sante/), across ten regions, 175 health districts and 395 facilities, with over 1,500 health workers to be trained. The counts are the ministry's own and no go-live date is given.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-The water utility [began rolling out a centralised commercial platform, WATERIS, with five days of internal training from 10 August](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/), replacing decentralised commercial management with automated meter reading and more electronic payment channels. The account is the director general's; no customer count, cost or completion date is stated.
+The water utility [awarded a CFA721.76 million contract on 17 August 2026 for 3,000 smart meters](https://www.businessincameroon.com/public-management/0109-16648-cameroon-s-water-utility-turns-to-smart-meters-to-recover-more-revenue), 7.5 per cent of the 40,000 a World Bank-supported programme plans for the two main cities. First installations are not expected before October 2026.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -150,29 +109,6 @@ The water utility [began rolling out a centralised commercial platform, WATERIS,
 Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
 
 The housing and telecoms ministries [launched a National Action Plan for Smart City Development with UN-Habitat on 8 September, on three pillars with decentralised authorities as lead actors and the mobile operators and state operator named for delivery](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/). No costing or pilot city list is published.
-<!-- /narrative -->
-
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-Cabinet was told on 30 July that the [national AI strategy is still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and no adoption instrument published; a 2040 roadmap on seven pillars had been presented in July 2025. The [AI authority and presidential council that roadmap provided for remain uncreated](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and are absent from the ten priorities, which carry only adaptation of the legal framework. Among the priorities is a [national high-performance computing centre](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), announced with no site, cost, operator or timetable. At the same session the telecommunications minister said Cameroon had [acceded as a founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy); the accession date is not published.
-
-The higher-education ministry [set out a strategy for artificial intelligence in higher education](https://www.scoop-afrique.com/articles/ia-et-education-le-pari-camerounais-presente-a-pekin) at the Global Smart Education Conference in Beijing from 18 to 20 August 2026. No strategy document, budget or implementation date has been published behind it.
-<!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-A domestically built platform for creating online shops was [profiled on 26 August](https://www.wearetech.africa/fr/fils/tech-stars/le-camerounais-tamko-clarence-automatise-la-creation-de-boutiques-en-ligne), co-founded by a Cameroonian software engineer and pitched at widening access to digital markets for regional traders. No user, merchant, transaction or revenue figure is published, and the account is a founder profile in a trade outlet rather than a company disclosure.
-<!-- /narrative -->
-
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the repository holds is an intention with a meeting behind it.
 <!-- /narrative -->
 
 ## Inclusion
@@ -189,5 +125,5 @@ The entitlements behind disability inclusion were set out in public, and the onl
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The fourth population and agriculture census is still in the field: a [complementary enumeration period runs from 1 August to 15 September to reach households, persons and agricultural holdings missed by the 29 May close](https://www.cameroon-tribune.cm/article.html/79313/en.html/details_2). Enumeration ran with [32,059 agents at a budget of FCFA 13.28bn against FCFA 64bn initially projected](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/), and no results are published. It is the first census in over twenty years, with population and agriculture merged into one questionnaire.
+Counting for the fourth population and agriculture census [closed on 15 September 2026](https://fr.journalducameroun.com/cameroun-le-4e-recensement-general-de-la-population-et-de-lhabitat-sacheve/), the date set by the prime minister's July order, after a start on 24 April and two extensions. Coverage is stated to have stayed below expectation; no final rate or date for results is published.
 <!-- /narrative -->

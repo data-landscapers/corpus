@@ -1,50 +1,34 @@
 ---
-title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+title: Somalia — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: SOM
-ledger_rows: 34
+ledger_rows: 12
 not_held: 2
-record: ed62c8733ebe
+record: c06335103cc5
 ---
 
-# Somalia: monthly update, August – September 2026
+# Somalia: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Registers and identity documents moved. Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/), the health ministry [launched the country's first unified national registry of health facilities](https://www.emro.who.int/somalia/news/somalia-launches-its-first-unified-national-registry-of-health-facilities.html), and the mobile identity application [passed 50,000 downloads on a renewed public adoption call](https://www.biometricupdate.com/202608/somalia-pushes-for-stronger-adoption-of-eaqoonsi-digital-id-app) — a figure that measures how marginal it still is.
-
-The Auditor-General supplied the month's hardest finding. The 2025 annual audit [puts seven government revenue and financial-management systems outside the state financial management information system, and records 66 legal-compliance breaches across 22 audited bodies covering 60.1% of the national budget](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/). Against that, the cybersecurity bill [had its first reading in the Upper House on 29 August](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills), and accession to the continental free-trade area [is to be deposited in September](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/).
+The identity authority [reported more than 1.5 million people registered since 2023, against a target of 15 million by 2029](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx), and [a national ID requirement for SIM cards was announced at the close of National Identification Week](https://sonna.so/en/article/National-Identification-Week-2026-Concludes-in-Mogadishu). The deputy prime minister [asked for a national ID requirement for social media accounts](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), and the information ministry [counted 82,000 social media pages closed in 2026](https://www.hiiraan.com/security4/2026/Sep/206174/somali_government_closes_82000_extremistlinked_social_media_pages_in_2026.aspx). The planning ministry [launched a digital system to monitor the National Transformation Plan on 8 September](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan).
 <!-- /narrative -->
 
 ## Governance
 
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The Cybersecurity Law is not yet through parliament. The Upper House [gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August 2026](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills), at the first sitting of its eighth term, alongside a separate bill establishing a national meteorological agency. The chamber's [own published procedure requires three readings](https://senate.gov.so/laws/?lang=en) before a bill passes it.
-
-The House of the People [approved a Cybersecurity Law on 26 January 2026](https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/), assigning policy to the communications ministry, technical oversight to the regulator and obligations to critical-infrastructure operators. Nothing on file states whether the bill now before the Upper House is that instrument, and neither text is held.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Accession to the continental free-trade area reached its last procedural step: the [instrument of ratification is to be deposited in September 2026](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/), with a first shipment named as the test that follows it. No implementation roadmap, tariff schedule or customs-systems requirement is published alongside it.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The auditor general's office and a partner supreme audit institution [completed the third phase of a cooperation programme on auditing government information systems](https://arlaadimedia.com/2026/08/23/somalia-turkey-strengthen-cooperation-on-digital-auditing/). No audit report, scope or next-phase date has been published.
+A 15-member delegation's ten-day mission to Pakistan [closed with a roundtable in Islamabad on 16 September 2026 that set three working groups on identity, data exchange and financial inclusion](https://somalistream.com/peer-learning-to-collaboration-somalia-pakistan-deepen-partnership-on-digital-infrastructure/), with an action matrix of 30-, 60- and 90-day steps.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
 The state gave a number for what it removes from the internet. On 3 September the information ministry's director general said the federal government had [closed 82,000 social media pages during 2026 that it alleges carried armed-group propaganda, across Facebook, TikTok and Telegram, with the count still rising](https://www.hiiraan.com/security4/2026/Sep/206174/somali_government_closes_82000_extremistlinked_social_media_pages_in_2026.aspx), placing the removals as the ideological front of a counter-terrorism strategy alongside its military and economic ones. The count, the platforms and the attribution are the ministry's; no legal basis, appeal route, oversight mechanism or platform confirmation was stated.
-
-Separately, a former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -52,46 +36,25 @@ Separately, a former prime minister published an argument that [the country cann
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-Price is Somalia's unusual strength. Mobile data prices [were reported among the cheapest in Africa, alongside smartphone financing offers](https://radiodalsan.com/2026/08/29/somalia-mobile-data-prices/). The record held carries no price-to-income figure, which is the measure that decides affordability; cheap data in a low-income country is not the same as affordable data, and nothing here settles which this is.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The national data centre went backwards in the telling. A facility described at a ministerial inspection in May 2025 as nearing completion was, on 7 August 2026, [described by the state minister for communications as planned](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure), to strengthen digital infrastructure — said at the launch of an artificial-intelligence product by a private centre. Nothing in the record reconciles the two accounts, and the ministry's stated rationale, ending reliance on data storage outside the country, remains its own statement that government data sits offshore.
+A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held.
 <!-- /narrative -->
 
 ## DPI
 
-### Data Exchange
-
-<!-- narrative: dpi--dpi-exchange -->
-The Auditor-General put a number on how far the state's own systems are from talking to each other. The 2025 annual audit finds [seven government revenue and financial-management systems not integrated with the state financial management information system](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/), and records 66 legal-compliance breaches across 22 audited bodies covering 60.1% of the national budget, including US$18.5m of contracts awarded without following committee procedures. It also finds that a [port and airport revenue-share operator's reporting of US$38.08m, of a combined US$42.24m, could not be verified](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/). The audit report itself is not held, the seven systems are not named, and no remediation plan or timetable is reported against any of it.
-<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/). No issuance date is published, and it follows the clearance in February to adopt and print the East African Community e-passport.
-
 The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026).
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Somalia [launched its first unified national registry of health facilities](https://www.emro.who.int/somalia/news/somalia-launches-its-first-unified-national-registry-of-health-facilities.html) in Mogadishu, to underpin health-sector planning; no facility count, update cycle or public access route is stated. In Somaliland, the central bank and the International Finance Corporation [agreed a path forward on a credit registry project](https://www.somalilandcurrent.com/somaliland-central-bank-and-ifc-world-bank-forge-path-forward-on-credit-registry-project/), with no design, timetable or funding figure yet on file.
+Somaliland's central bank [met banks and mobile-money operators on 11 September 2026 and it was agreed that the central bank will lead a credit information bureau](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/). No design, timetable or funding figure is on file.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Health information gained a project and a set of funders. The health minister [launched a Pandemic Fund project in Mogadishu to strengthen prevention, preparedness, detection and response for infectious disease and public health emergencies](https://afenet.net/the-minister-of-health-somalia-launched-the-pandemic-fund-project/), with multilateral and regional partners named alongside it. What is not published is the part that would make it a system: no budget, no duration, and no specification of the surveillance and reporting infrastructure the project is meant to build.
-
 The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-A [national single window is named as planned within a regional trade project, alongside a trade information portal and the existing customs and livestock traceability systems it is to connect to](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx). It is stated in an agenda piece by the national trade facilitation coordinator rather than in an instrument, and no design, timetable or budget is published.
-
-The federal electronic visa is running and contested: [a fee exemption for one region is under negotiation](https://raxanreeb.com/dfs-oo-somaliland-kala-hadashay-e-visa-da/). A national travel system whose terms are settled region by region is a federal question before it is a technical one, and no agreed text is held.
 <!-- /narrative -->
 
 ## Technology
@@ -99,19 +62,7 @@ The federal electronic visa is running and contested: [a fee exemption for one r
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The Somali National University [launched an AI centre on 20 July](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) for research and digital skills. No funding, staffing or research programme is stated, and the country still holds no national artificial intelligence policy of any kind.
-
-August added a product and an assessment. A private artificial-intelligence centre [launched Garad.ai on 7 August alongside the communications and technology ministry](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure); the record describes the launch rather than the product, and states no capability, language coverage, user base or hosting arrangement for it. Separately a national AI readiness assessment is under way, [led by the same ministry with UNESCO and joined by a private university on 17 August](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia), examining artificial-intelligence policy, data governance and higher-education capacity. No methodology, participant list, score or publication date is stated — so the assessment is, for now, the closest thing the country has to a policy position on the subject.
-
 Ownership was stated as the goal rather than capability. A senior government adviser told a food-systems forum panel in Kigali that [the disaster management agency is building systems so that government holds full ownership of disaster data](https://shabellemedia.com/somalia-participates-in-africa-food-systems-forum-in-rwanda/). No system, agreement or transition plan away from partner-held data is named, so what is recorded is an intention about custody — which is the question the early-warning platform's own arrangements leave open.
-<!-- /narrative -->
-
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the repository carries no earlier position for it.
 <!-- /narrative -->
 
 ## Inclusion
@@ -129,9 +80,4 @@ The operator-led smartphone financing programme [reported more than 2,500 phones
 <!-- narrative: data--data-open -->
 
 The national research and education network [set up Somalia's first DataCite national consortium, letting universities and research centres mint persistent identifiers for more than 30 types of research output and data](https://www.dawan.so/news/somaliren-oo-soomaaliya-ka-hirgelisay-dalladdii-ugu-horreysay-ee-qaran-ee-datacite). No member count is published.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-Earth observation here is a service rather than a programme, and the record caught up with it this month rather than the service changing. A partner information unit [operates high, medium and low-resolution satellite imagery to estimate cultivable area and production, map land use and cover, monitor irrigation infrastructure and track land degradation](https://faoswalim.org/information-management/information-services/remote-sensing), and its routine output — [a national monthly vegetation index series extended through July 2026, mapping deficits against short-term averages](https://fsnau.org/downloads/NDVI-Index-for-Somalia-Jan-2007-Jul-2026.pdf) — is published without interruption. No Somali public body operates an equivalent capability, and the strategic plan for a national meteorological agency, released in December 2025, has not yet produced one.
 <!-- /narrative -->

@@ -1,23 +1,21 @@
 ---
-title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Sierra Leone — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: SLE
-ledger_rows: 54
+ledger_rows: 23
 not_held: 5
-record: 4ca3f213d236
+record: b0945e09bb35
 ---
 
-# Sierra Leone: monthly update, August – September 2026
+# Sierra Leone: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Fraud was the month's organising subject. The government [validated a national roadmap for a multi-agency response to mobile and digital fraud at the close of a workshop on 18 and 19 August](https://techafricanews.com/2026/08/20/sierra-leone-validates-national-roadmap-to-tackle-mobile-and-digital-fraud/), an operator [launched a scam-alert reporting tool](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/), and an original investigation [set out how messaging-account takeovers work here](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) — against a base that holds no rule allocating the loss when a customer is defrauded.
-
-The state's own systems produced the harder finding. The anti-corruption commission [found backend manipulation of the customs system, with processed declarations deliberately deleted and dormant bank-teller profiles used to validate transactions](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y). Around it the identity estate advanced on several fronts at once: the registration authority [put population coverage at about 93%](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/), a [private-sector consultation opened on a trusted digital identity framework](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework), and the migration of the identity system to an open platform [completed its pilot and is still seeking funding for full implementation](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids).
+The national campaign against deepfakes and digital misinformation [was launched in Freetown on 16 September](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2). The statistics office [set census night for 1 December 2026 and stated a US$37m financing gap](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/). A bidder's complaint over the government network contract [is under review by the Independent Procurement Review Panel](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/). At the UN General Assembly the government [presented its open source software policy](https://techreviewafrica.com/news/7450/), and Cabinet [approved a national land title certification scheme that still needs parliament's approval](https://thisdaysl.com/sierra-leone-govt-plans-free-nationwide-land-registration-minister-says/).
 <!-- /narrative -->
 
 ## Governance
@@ -25,11 +23,6 @@ The state's own systems produced the harder finding. The anti-corruption commiss
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Delivering a ministerial statement on 4 August after [MPs demanded an explanation for the surge](https://www.sierraleonemonitor.com/parliament-orange-money-scams/), the communications minister [set out education, institutional strengthening and better investigation](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/). No liability rule, refund duty or operator obligation was proposed.
-
-
-The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
-
 A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date.
 
 The open source policy Cabinet approved in July was [presented by the communications minister at a UNICEF showcase on the UNGA81 sidelines](https://techreviewafrica.com/news/7450/) as the answer to duplicated government systems, proprietary-technology costs and vendor lock-in. Its text is still not published.
@@ -37,25 +30,12 @@ The open source policy Cabinet approved in July was [presented by the communicat
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-A public-private dialogue was convened [to operationalise the Electronic Transactions Act, in force since December 2019 and never given certification authorities, evidence procedures, dispute mechanisms or penalties](https://sierraloaded.sl/news/government-activate-e-transactions-law/). It is to produce a gap analysis, a policy memorandum and an implementation roadmap, with no adoption date for any of the three, and worked to [functional equivalence and technological neutrality](https://libertyonlinetv.com/2026/08/03/koica-itc-partner-with-government-of-sierra-leone-to-strengthen-e-transactions-legal-framework/).
-
-The regulator has said the [Subscribers Regulations 2025 will fine operators 25,000 new leones for each unregistered or pre-activated SIM, with a staged disconnection ladder and SIMs matched to National Identification Numbers](https://sierraloaded.sl/local/natca-phase-out-unregistered-national-fraud/). The six-month transition is presented as running from that announcement, so the phase-out date is unestablished, and the instrument's own text is not held.
-
-Mobile-money fraud reached Parliament. A legal analysis found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
-
-A further instrument entered consultation: the Public Financial Management Act 2026 [went to stakeholder consultation in Freetown on 18 August, with digital reforms proposed in it](https://sierraloaded.sl/news/digital-reforms-proposed-new-finance-law/). The draft is not published, so which reforms those are cannot be read off the record.
-
 A [Digital Government Bill with data-governance and child-protection provisions is being prepared with the Attorney-General's office](https://sierraloaded.sl/local/reviews-security-childrens-vaccination-data/), with no draft or timetable published.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-Data-protection work in the window was training rather than enforcement, and it went to the government's own builders. The communications ministry [took the science and technology directorate's technical team through artificial intelligence and data protection by design, and through its obligations under the cybersecurity statute, the civil registration act and the forthcoming data protection law](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design). Training a state team on a law not yet passed is the sequence this section keeps recording: the Data Protection and Right to Access Information Bill is still In development, so the obligations taught are prospective.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Regional health data gained an institutional seat. The health minister [attended the inaugural board meeting of the Health Intelligence Centres for Africa in Addis Ababa with the head of the national health information hub, Sierra Leone being a founding member and sitting on the strategic advisory board](https://sierraloaded.sl/news/health-minister-represents-sierra-leone/). Founding membership is a position the repository can state; what it cannot yet state is what the body will do with member states' health data, since no constitutive instrument, budget or data-sharing arrangement is published.
+The communication, technology and innovation ministry, with UNICEF and a digital public infrastructure centre, [led a three-day workshop on how government systems handle children's data](https://techreviewafrica.com/news/7144/sierra-leone-enhances-child-data-protection-in-connected-government-systems), reported on 10 September.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -65,26 +45,10 @@ Regional health data gained an institutional seat. The health minister [attended
 <!-- narrative: ict-infrastructure--infra-connect -->
 The contract to network government offices was challenged. On 21 September the Independent Procurement Review Panel [opened an investigation into a bidder's complaint over the Digital Transformation Project's contract to supply and install wide and local area networks across ministries, departments and agencies](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/), and said it would publish the outcome. No award, supplier or contract value is on record.
 <!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The same 7 August account states the biometric register runs on a Tier III data centre, as reported by the NCRA Director-General ([consultation account](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
-<!-- /narrative -->
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
-The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
-
 Three rural mini-grid sites [were named on 24 September for a philanthropic demonstration adding computing load to under-used generation](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with local demand given priority; no site, capacity or start date is given for the country.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The telecoms regulator ran two public-facing cyber messages in nine days. It [set out a consumer education campaign on online fraud on 28 July](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/), stating that the fraudulent links circulating did not originate from the mobile networks and placing the burden on the consumer; on 30 July it [confirmed it was coordinating a response to ongoing cybersecurity incidents affecting digital services](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/), naming no affected service, no attribution and no incident count.
-
-The first tool rather than message came from an operator, not the state. On 18 August a mobile operator [launched a scam-alert channel for suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a 111 call](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/). It is one operator's own channel: no report volume, response time, remedy, referral route to the police or coordination with the regulator's response is published, and the Cyber Security and Crime Act 2021 still carries no reported prosecution.
-
-The communications, technology and innovation ministry [published draft digital protection plans for four critical sectors](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/); nothing is adopted and no implementation date is given. An original investigation [documented 27 WhatsApp account-takeover cases](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) and located the governance failure in the payout leg rather than in the platform — which makes it a mobile-money supervision question rather than a platform one.
 <!-- /narrative -->
 
 ## DPI
@@ -92,55 +56,27 @@ The communications, technology and innovation ministry [published draft digital 
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The finance ministry is [piloting a data exchange layer on X-Road](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/). No production date, list of connected agencies or governance rules is published.
-
-
-The exchange that already carries the state's money was found to be carrying something else. The anti-corruption commission [puts over 300 billion leones lost to backend manipulation of the customs system, with processed declarations deliberately deleted and dormant bank-teller profiles used to validate transactions after the account holders had left their institutions](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/), and reasonable grounds to suspect coordinated collusion. The finding and the figure are the commission's own; no revenue-authority response, prosecution or remediation is on record.
-<!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-Identity took three public positions in four days. MoCTI [convened a national dialogue on digital identity and digital public infrastructure on 5 August](https://mocti.gov.sl/sierra-leone-advances-national-dialogue-on-digital-identity-and-digital-public-infrastructure/), describing it as the first of a series and as the beginning of the policy work rather than its result. A private-sector consultation the following day settled two specifications: the register being built on is [MOSIP-based, and the credentials envisaged under the Bhutan National Digital Identity and SIGN Foundation partnership are W3C-compliant verifiable credentials](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework). On 7 August the NCRA Director-General told the consultation that [the biometric register already covers about 93% of the population with a unique National Identification Number and a live eKYC platform, and that the Authority's own MOSIP pilot is complete but unfunded for full implementation](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) — and warned against parallel identity systems being built alongside it.
-
-In a 4 August ministerial statement responding to the mobile-money fraud surge, the communications minister [conceded the NIN-SIM linkage does not yet cover every subscriber](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
+A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), examining identity, payment and data exchange systems.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this repository accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
-
-The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
-
 A self-service route into pensions was announced. The social security trust [is to launch an application for pensioners and contributors with a short-code fallback for feature phones, biometric verification, and integration with the three mobile-money services](https://sierraloaded.sl/news/nassit-launch-mobile-app-pensioners/). It is announced rather than launched: no launch date, pensioner count, transaction route or fee arrangement is published, and the short-code fallback is the part that decides whether it reaches anyone outside the smartphone base.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The registry the state has least of is the one for deaths. The national public health agency [opened supplier engagement on 7 August for an Integrated National Digital Mortality Surveillance, Registration and Certification System](https://sierraloaded.sl/health/npha-advances-digital-mortality-system/), with the health ministry and the civil registration authority, aligned to WHO ICD-11 and built on a national health information hub established in January 2026 — against a gap in which only 13.4% of deaths are fully registered. No cost, supplier, timetable or coverage target is stated.
-
-Two days later the civil registration authority and its partners marked African civil-registration day by [calling for an integrated, decentralised, digital birth-to-death registration system, with UNICEF costing US$1.16m of strengthening needs over three years](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/), and the electoral commission and the central bank naming the 2028 elections and financial inclusion as what depends on it. What a citizen pays for the document at the end of that chain is contested: a civil-society account [questions whether people can afford the national identity card at NLe140 now that it is central to linking identity numbers to SIM registration](https://www.linkedin.com/posts/citizens-barray_freeid-identity-telecommunications-activity-7492303807360679936-U3Br).
+Cabinet [approved a national land title certification scheme](https://thisdaysl.com/sierra-leone-govt-plans-free-nationwide-land-registration-minister-says/), reported on 15 September; it needs parliament's approval before it runs. The lands minister says registration and certification will be free. No cost, timetable or register design is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Two sectoral systems moved in the same week. The government [launched a digital jobs portal, stated as intended to break the nepotism cycle in youth employment](https://sierraloaded.sl/local/sierra-leone-digital-jobs-youth-employment/), and the science and technology directorate [signed a memorandum with the pharmacy board to advance digital pharmaceutical regulation](https://owlpress-sl.com/dsti-pharmacy-board-sign-mou-advance-digital-pharmaceutical-regulation/). Neither carries a volume figure: no vacancies posted, no placements made, no products registered.
+Government bodies and partners [held a workshop on 17-18 September 2026 on a shared health digital public infrastructure architecture](https://sierraloaded.sl/local/nmsa-health-digital-infrastructure-workshop/), mapping the digital health estate for gaps and duplication; a technical working group is to finalise the implementation plan.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). Sierra Leone's own platform [had its supplier registration module live by January 2026, hosted in the finance ministry's data centre](https://sierraloaded.sl/news/nppa-inspects-e-gp-data-center-finance/); no date for its full rollout is published. The visit was reported on 12 August as [a deepening of bilateral cooperation between the two countries' regulators and procurement authorities on digital transformation and procurement transparency](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), which restates the same event rather than adding a commitment.
-
-Two systems the state watches itself with did move. The audit service's [management information system entered final user-acceptance testing after post-configuration training on 3 to 5 August](https://sierraleoneconcordtimes.com/audit-service-conducts-sierraseat-post-configuration-training/), built with World Bank funding by customising a platform of the African organisation of English-speaking supreme audit institutions, before it is declared operational. And the monitoring and evaluation agency is [expanding its information system for real-time remote tracking of the 100 to 250 public projects launched each year](https://apanews.net/namea-highlights-achievements-in-sierra-leone-project-oversight/). Neither account states a cost, a go-live date, or whether any of the tracked data reaches the public.
-
 The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself.
-<!-- /narrative -->
-
-## Digitalisation
-
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
 <!-- /narrative -->
 
 ## Technology
@@ -148,7 +84,7 @@ The agriculture ministry is [finalising an upgraded interactive voice response p
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The electoral commission is thinking two years ahead. It [publicly considered the use of artificial intelligence for the 2028 elections](https://sierraloaded.sl/news/ecsl-use-ai-for-2028-sierra-leone-elections/). What function is contemplated, and what safeguards would attach to it, is not stated. An electoral body considering artificial intelligence in public is worth recording early, because the decisions that matter are taken before procurement rather than after it.
+The information minister [launched a national campaign against deepfakes and digital misinformation in Freetown on 16 September 2026](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2), in two phases across all 16 districts. The national security office [warned of risks from artificial intelligence in the 2028 elections](https://www.sierraleonemonitor.com/ons-warns-ai-election-security/), as the electoral commission considers using it.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -169,17 +105,7 @@ The information minister [launched a National AI and Deepfake Sensitization Camp
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-MoCTI and three other bodies [launched a digital skills programme for civil servants on 10 July 2026, with 1,000 places in year one and stated targets of 3,000 medium-term and 5,000 long-term](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) across six areas including artificial intelligence and cybersecurity, aimed at gaps outside Freetown.
-
-The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has [taught more than 1,100 students and appointed 14 campus champions across four universities](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
-
-
-On the skills side, [eighty young people graduated from a nine-month digital-literacy course at Kenema on 8 August, reporting job retention and promotion](http://www.critiqueecho.com/80-youth-graduate-in-advanced-digital-literacy-as-yad-boosts-employability-in-sierra-leone/). The outcomes are the graduates' own and no tracer study is held.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-The council that would steer research funding is still writing its own first plan. A three-day workshop opened on 4 August to [support the National Science, Technology and Innovation Council in developing that plan](https://www.sierraleonepress.com/mthe-and-nstic-collaborate-on-workshop-for-research-funding-and-governance/), with digital transformation named among the priorities funded research should answer. No plan, timetable or funding envelope has been published.
+A first cohort of the civil service digital skills programme [was in training in September and due to conclude on 25 September](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants), with 1,000 civil servants planned in year one.
 <!-- /narrative -->
 
 ## Inclusion
@@ -187,10 +113,7 @@ The council that would steer research funding is still writing its own first pla
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the repository holds no state measurement to set beside it.
-
-
-The cost of the handset is being financed rather than reduced. An operator and a commercial bank [opened a 24-month device-financing scheme to individual and business customers, on top of their existing prepaid card relationship](https://www.thewatchnewssl.com/africells-ecobank-boost-digital-inclusion/). No price, interest rate, eligibility test or uptake figure is stated.
+The registration authority and the correctional service [registered 100 inmates from three Freetown correctional centres for National Identification Numbers on 17 September 2026](https://thecalabashnewspaper.com/archives/64446), their cards issued free. Fieldwork for [a research network's survey of how people experience digital identity and payment systems](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/) began in the week to 7 September.
 <!-- /narrative -->
 
 ## Data
@@ -198,16 +121,9 @@ The cost of the handset is being financed rather than reduced. An operator and a
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
-
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 
 The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-DSTI announced on 4 August that it is [developing a national base map with the Ministry of Lands, with JICA support and Japanese technical direction, phase one covering Western Area Urban District](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/). No cost, timetable, hosting arrangement or data licence is stated.
 <!-- /narrative -->
 
 ## Geopolitics

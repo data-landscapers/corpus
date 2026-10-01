@@ -1,68 +1,44 @@
 ---
-title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Tanzania — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: TZA
-ledger_rows: 116
+ledger_rows: 55
 not_held: 5
-record: 3d18155f3ff2
+record: 01c4d77fd8f8
 ---
 
-# Tanzania: monthly update, August – September 2026
+# Tanzania: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-The state is tightening its grip on its own records and promising to rewrite the law around them. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), the procurement appeals authority [now takes all bidder challenges through its online module, with more than 30 system integrations](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), and a technical working group [settled on integrating the existing forest-products revenue systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). Against that the government [announced a review of more than 1,000 laws to build a framework supporting artificial intelligence, digital commerce and technology investment](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/), naming no statute, sequence or date.
-
-Two outside measures frame the month. An external assessment [found the country not meeting minimum fiscal transparency requirements](https://www.state.gov/reports/2026-fiscal-transparency-report/tanzania), the same finding as the previous review; and a research organisation [documented online gendered violence against election candidates as cyclical across successive elections](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/), in an election period during which no state body published a comparable count. Government also [launched a programme to help more than 5,000 innovators register their work as intellectual property](https://fullshangweblog.co.tz/2026/08/23/577246/).
+The government [presented a digital infrastructure investment envelope of US$2.6bn to 2031 to European investors in Helsinki on 28 September](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031). The ICT Commission said [a National AI Strategic Framework 2026-2031 is awaiting approval](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). The Citizen Budget published on 22 September [raises the digital service tax on foreign providers to 3% for 2026/27](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf). The Dar es Salaam internet exchange [upgraded its core to 100G on 23 September](https://tech.africa/tix-tanzania-100g-core-upgrade/), and the competition regulator [is reviewing a Kenyan bank's purchase of a 22.23% stake in a payments firm](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/).
 <!-- /narrative -->
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-At a university health conference on 31 July the government stated [three requirements: that health data be stored inside Tanzania, that healthcare AI systems be approved by the relevant authorities, and that local capacity to build them be developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). No instrument and no approving authority was named, and a dedicated regulator was called for from the floor rather than announced.
-
-The coordination that did get a name came from outside the state. A [multi-stakeholder body launched on 8 August to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia](https://www.linkedin.com/posts/sandbox-security_tanzaniadigitaltrustinitiative-digitaltrust-activity-7491819343543173121--VE7), founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the [same forum published a digital trust outlook report and inaugurated a cross-border corridor with the Gulf Cooperation Council for regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm). No constitution, funding, membership list or statement of the named regulators' role in it is held.
-
-The education, science and technology ministry [completed a draft National Technology Roadmap](https://eastleighvoice.co.ke/news/392552/tanzania-drafts-25-year-national-technology-roadmap) forecasting the country's technology needs over the next 25 years across 13 sectors, presented at a stakeholder discussion. It is a draft: nothing on file records adoption or publication.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The legislative response to all of this is a review rather than a bill. The government says it will [review more than 1,000 laws, including the public-private partnership act, the companies act and financial legislation, to build a regulatory framework supporting artificial intelligence, digital commerce and technology investment](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/) under the 2050 development vision. No list of statutes, sequencing, responsible body, timetable or consultation route is stated — and the repository still records no online-content or cybercrime regulation for the country, and no adopted artificial-intelligence strategy.
-
 The [Citizen Budget 2026/27, published on 22 September, lists the digital service tax on foreign digital service providers as raised from 2% to 3%](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf). Its effective date and statutory clause are not stated.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
-
-A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
-
-The regulator set a date for the enforcement it announced in April. On-site inspections [begin on 31 August, after preliminary assessment found limited understanding of legal obligations, inaccurate registration information, difficulty implementing data-subject rights and personal data leaving the country outside the statutory procedure](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710).
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Tanzania was the one being studied this month. A Somali government delegation [examined the labour and employment digital systems in Dodoma on 28 August](https://www.kazi.go.tz/news/somalia-yakoshwa-na-mifumo-ya-kidijitali-sekta-ya-kazi-na-ajira), and Somalia is [seeking to learn from the wider public-service digitalisation experience](https://dailynews.co.tz/somalia-eyes-tanzanias-e-governance-model/). Both accounts are the host's. Nothing in the record held sets out what is to be transferred, on what terms, or whether either side has committed anything beyond a visit.
+The community development ministry told parliament on 31 August 2026 that [a National Advisory Committee on Online Child Protection and Safety has been established and that an online-safety education campaign had reached 1,811,212 children across all 26 mainland regions](https://allafrica.com/stories/202609010237.html).
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the repository holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
-
 Zanzibar's government [told its House of Representatives on 9 September that a guideline on shared fibre poles and a single fibre contractor is being prepared](https://www.mwananchi.co.tz/mw/zanzibar/habari/serikali-yaandaa-mwongozo-kudhibiti-utitiri-wa-nguzo-za-fiber-mitaani-5589092), after each provider erected its own.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-The month's one finding about political speech came from outside the state. A civil-society research organisation [documented online gendered violence against election candidates as cyclical across successive elections in Tanzania and Côte d'Ivoire](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/), timed to a national election period. No regulator, electoral commission or platform publishes a comparable measurement, so the only quantification of the problem the record holds is the researcher's own.
+An activist and social-media influencer [filed a complaint against a platform company in a California court on 21 August 2026, alleging that her accounts were disabled at the direction of the government](https://techcabal.com/2026/09/01/tanzanian-influence-mange-kimambi-sues-meta-facebook/).
 <!-- /narrative -->
 
 ## Finance
@@ -80,10 +56,6 @@ A Korean track was pressed at the Korea-Africa economic cooperation ministerial,
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A Korean development cooperation fund [committed US$170m to build an AI and digital technology training institute, approved at its 159th management committee and announced on 23 August 2026](https://techafricanews.com/2026/08/25/south-korea-approves-170-million-loan-ai-digital-training-tanzania/) - the fund's first AI project, with the institute to offer four programmes. No site, start date or disbursement schedule is published.
-
-The women's digital-finance programme launched on 2 September was committed a year and a half earlier, inside a larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
-
 The Fair Competition Commission opened a review on 21 August of a [Kenyan bank's acquisition of 22.23% of the payments company Pesapal, which gives it indirect control of Pesapal's Tanzanian subsidiary, a payment service provider licensed by the Bank of Tanzania](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/). Public comment closed on 4 September; the price is undisclosed and no decision is on record.
 
 At the EU-Tanzania investment forum in Helsinki on 28 September the government [presented TZS 7,000bn of digital infrastructure investment to 2031, still to be mobilised, covering fibre-to-the-premises, the Kilimanjaro One submarine cable, device manufacture, a technology park and smart classrooms](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031). No financier or split between public and private money is published.
@@ -94,14 +66,6 @@ At the EU-Tanzania investment forum in Helsinki on 28 September the government [
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The minister inspected the national backbone at Mpwapwa on 24 July. The network stands at about [14,000 km carrying four public data centres and a third landing cable](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718); in the region inspected, 942.5 km had been built against 65 people connected. The regional manager stated that phase one connected government offices and public institutions, with individual citizens next. At the same inspection [636 masts were stated due in March 2027, with a second programme of 280 masts under way](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718) with no cost, financier or completion date given.
-
-On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link across the border, integrating the national backbone with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/). No capacity, cost or financing was stated, and the repository does not reconcile it against the 2025 connection on the route.
-
-A separate tower programme reported its own reach to Parliament on 15 August: a [TZS 126bn, 758-tower project — TZS 55bn from the World Bank and TZS 71bn from the universal service fund — has connected 8.5 million people across 1,400 villages](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/), in the same report that records 14,826 data controllers and processors registered with the data protection commission by June 2026. The ministry gives no count of towers completed against the 758 planned, and no measure of service uptake in the villages it says are connected.
-
-The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinagency.com/news-digital/2608-58349-yas-targets-tanzania-s-fixed-internet-market-with-new-fiber-rollout), with plans to widen coverage across the city on a stated 300 billion shilling investment.
-
 The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
 
 The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated. The state operator [agreed with the Burundian backbone operator to raise cross-border capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/), reported 9 September.
@@ -110,22 +74,10 @@ The service providers' association [upgraded the Dar es Salaam exchange's core s
 
 The same presentation [put smartphone penetration at 44.74% in June 2026](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031), against the regulator's 42.5% for March; no user count accompanies it.
 <!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
-
-A sector review of 5 August put a count on what is already there: [ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers](https://african.business/2026/08/free-article/tanzanias-digital-dividend). It is a count and nothing more — no capacity, load or utilisation accompanies it — and it is a trade magazine's rather than the regulator's, so it does not replace the state's own count of public centres commissioned.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
-
-August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held. The regulator's director general later [set the June 2026 count against 23,328 reported cases in September 2023, a 69% fall, and said awareness campaigns may have raised reporting](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
-
-
-The same budget statement [provides for cybercrime investigation centres at Dodoma and Zanzibar](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). Nothing is built, sited or staffed on the record, and the country still holds no published national cybersecurity strategy to place them in.
+August gave the national series the earlier account lacked. The regulator's director general later [set the June 2026 count against 23,328 reported cases in September 2023, a 69% fall, and said awareness campaigns may have raised reporting](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 <!-- /narrative -->
 
 ## DPI
@@ -133,20 +85,11 @@ The same budget statement [provides for cybercrime investigation centres at Dodo
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The public procurement appeals authority [directed all domestic and international bidders to lodge challenges through its online module and announced plans to integrate it with the judiciary's system](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), reported 31 July, with hearings by video conference already taking cases from bidders in five other countries. No date is attached to the integration.
-
-On forest-products revenue the government chose integration over replacement, a two-day technical working group in Dodoma [settling on joining the existing systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). That is the working group's stated choice and not yet an outcome: no interface specification, timetable or go-live date is on file.
-
 The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The identity register is the most heavily integrated rail the repository holds anywhere, and its coverage is flat. [Over 138 public and private institutions are integrated across banking, insurance and social security](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) — the hardest adoption figure the repository carries for any African identity-verification rail. Against that, the register stands at [26.4m registered, 22.3m numbers issued and 20.6m cards physically distributed, about 81% of eligible adults](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at December 2025: counts up, percentage flat to slightly down against a growing adult denominator. The [gap between numbers issued and cards in citizens' hands is 1.7m](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf), and it did not close over the period.
-
-
-The budget behind it was set out to Parliament on 19 August: the home affairs ministry [put the identifier's rollout among its 2026/27 priorities under the national blueprint, alongside new district registration offices and a headquarters at Dodoma](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). No cost line or timetable accompanies the priority.
-
 Where the checks run became the point. The central bank [backed a credit bureau’s locally hosted fraud detection, anti-money-laundering screening and know-your-customer verification for Tanzanian lenders](https://www.thecitizen.co.tz/tanzania/business/bank-of-tanzania-backs-creditinfo-s-locally-operated-fraud-identity-solutions-5586696), the local operation being what is claimed for it. No directive, licence, hosting requirement or supervisory condition is held.
 
 On 16 September the Prime Minister [directed the identity authority to drop the age bar and register young children](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344), and the authority restated its plan to carry birth certificates, health insurance and the passport on the national ID; no start date is set.
@@ -156,37 +99,16 @@ On International Identity Day the registration authority [said it will link the 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The [mandatory electronic payments order came into operation on 1 July 2026](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf). It is an order under the electronic transactions Act rather than regulations, as widely mis-reported; it is prospective only, businesses taking cash at commencement have until 1 January 2027 to comply, and cash remains legal tender.
-
-One month in, the price of using the rails became the argument. On 31 July the central bank [capped bank-to-wallet interoperability at TZS 5,000 above TZS 500,000, single instant transactions and retail bank-to-bank transfers at TZS 2,000, and card payments at zero](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380), removing intra-bank transfer charges and a Zanzibar card surcharge. The same day the governor rejected a general price cap demanded by users and analysts; one analyst [put the worked cost at about TZS 3,500 per TZS 100,000 paid](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380) and argued that the mandate manufactures avoidance.
-
-A technical meeting in Zanzibar from 7 to 11 July [advanced the governance, commercial and risk frameworks for a cross-border instant-payment corridor with Rwanda](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374). No launch date was set.
-
-August supplied the adoption side of the same picture, from two directions. The government is [promoting affordable-smartphone financing to widen electronic-payment take-up, with active mobile money accounts up 7.5% to 87.05 million and smartphone penetration at 44.74% in June 2026](https://dailynews.co.tz/govt-spurs-e-payments/), as the central bank directs eight business sectors to adopt electronic payment systems within six months from January 2027. And in the countryside an operator's agricultural service [pays crop proceeds straight to farmers' phones, reporting more than TSh150bn paid to farmers in two southern regions in the 2025/26 season and over TSh50bn already in 2026/27](https://dailynews.co.tz/mixx-digital-payments-boost-farmers-incomes-businesses/), covering [more than 2,000 coffee and pigeon-pea farmers in two northern regions](https://www.thecitizen.co.tz/tanzania/news/national/over-2-000-northern-tanzania-farmers-benefit-from-mixx-digital-services-5551992) and [expanding into the southern highlands](https://www.thecitizen.co.tz/tanzania/news/national/mixx-by-yas-eases-payments-for-southern-highlands-farmers-5552008), alongside linked credit and health insurance. Every figure is the operator's own, given at a promotional exhibition at which it also awarded vehicles and phones to loyal users, and no farmer total, fee schedule or default rate on the linked credit is published.
-
-
-Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
-
-Zanzibar moved a fare box onto a wallet. Fares on the fifteen electric buses that entered commercial service on 1 August [are paid by smart card through a single mobile-money platform at Sh700 a journey and Sh350 for students and passengers over 70, the same platform carrying municipal parking fees, traffic fines and state payments to clove farmers](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738).
-
-The state operator took its card into a stadium. On 30 August it and the Zanzibar Football Federation [signed a sponsorship and partnership agreement to introduce e-ticketing for Zanzibar football through the operator's N-Card platform](https://techafricanews.com/2026/08/31/ttcl-and-zff-launch-digital-push-with-n-card-e-ticketing-system/). No launch date, ticket volume or fee is stated, and the repository holds nothing on the platform's other uses or acceptance footprint. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country.
+The state operator took its card into a stadium. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
-
-Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The repository already holds estimates of [about 60% for 2022](https://www.biometricupdate.com/202601/tanzania-working-on-legislative-framework-for-infant-id-registration) and a [five-year range of 61 to 76%](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) on different bases, and does not reconcile them to one series.
-
 The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-At the same exhibition the agency described a farmer-records and permits system and a fertiliser monitoring system, with no user counts, spend or timeline given.
-
-The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
-
 Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
 
 The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given.
@@ -194,12 +116,6 @@ The planning ministry [presented e-Delivery as the system that will track every 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. [Retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), on the governor's own figures given at the launch.
-
-Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
-
-The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
-
 Zanzibar's automated road cameras [reached the House of Representatives](https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252), members calling the 50 km/h limit too low and the Sh230,000 fine too high and asking why government vehicles go unpenalised.
 
 The same board approved an [emerging technologies governance framework for public institutions on 31 August](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520492-FINAL%20e-Government%20Emerging%20Technologies%20Govarnance%20Framework_Signed%20%281%29.pdf), setting principles, roles and risk and impact duties for AI, blockchain, the internet of things and other technologies before an institution adopts them.
@@ -210,14 +126,7 @@ The same board approved an [emerging technologies governance framework for publi
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-A [constituency digitalisation strategy opened on 4 August with 20 computers and two printers valued at TZS 100m donated by a consumer lender](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047), starting with the education department's administration, inter-departmental communication and examination coordination, with secondary schools stated next and ward offices in phases over three to four years. It was announced by the ICT minister in the constituency she represents, and no funding is disclosed for any phase beyond the donated equipment.
-
 The mandatory project-records system produced a throughput figure for the first time: [150 development projects registered since its launch on 1 July 2026, against a target of more than 500](https://www.tanzaniainvest.com/economy/e-delivery-150-projects-vision-2050), with the planning commission pressing ministries' policy and planning directors to register faster, the platform being the instrument through which the 2050 development vision is to be implemented. No deadline attaches to the 500 target, no list of registered projects is published, and nothing states what registration obliges an institution to do.
-<!-- /narrative -->
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-Rural service digitisation appeared this month as an inventory and a pilot, both counted in tens rather than thousands. The health ministry's own service page [lists what its eHealth estate actually consists of — the health management information platform, the human resources system, the health facility registry, the immunisation information system and the supply-chain platform](https://www.moh.go.tz/en/services/18); it carries no date of its own, and the primary-care digital transformation roadmap that would say what any of it reaches at dispensary level does not resolve at its published address. In education, [a tablet-based literacy and numeracy programme reached 50 rural primary schools and more than 24,000 pupils in Manyara, with a second 50-school phase under way](https://dailynews.co.tz/msingitek-unveiled-in-manyara-to-boost-learning/). Neither record carries a denominator, so what share of the rural estate either reaches cannot be read off the month.
 <!-- /narrative -->
 
 ## Technology
@@ -225,12 +134,6 @@ Rural service digitisation appeared this month as an inventory and a pilot, both
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-At an international AI meeting on 18 July the ICT minister stated that a [national AI data centre is under construction, justified on ending raw-data export and training models on domestic hydro and geothermal power](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026), and that a Kiswahili large language model is set out in the national vision. No site, cost, capacity, operator or completion date was given for the centre, and no developer, budget, corpus or timetable for the model.
-
-Twelve days later, at a training event on 30 July, an archives officer said [government is still drafting AI guidelines](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292); an [external policy outlook published the same day placed Tanzania among states still developing a strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/).
-
-Three deployments were reported. A cardiac institute stated on 16 July that its [digital patient tracking system is in use for medical-camp follow-up](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), alongside AI-enabled echocardiography and contactless vital-signs monitoring, with no patient volumes or procurement route. A peer-reviewed study published 3 August reported a ports enquiry chatbot at [95.1% weighted task success with fifteen domain experts](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), with no production deployment. At the agricultural exhibition on 4 August a university showed [a medicine-authenticity lookup at development stage and a voice-driven mobile-money service for blind users in testing](https://www.thecitizen.co.tz/tanzania/news/national/ardhi-university-unveils-ai-solutions-to-fight-counterfeit-drugs-expand-financial-access-5546322); both are student prototypes, self-reported, with no institutional partner, regulator or funder named.
-
 The only movement on machine-generated content is in the argument rather than the rule. Technology, academic and creative voices [backed digital watermarking of machine-generated content as a way to restore accountability and discourage over-reliance on the tools, following the European transparency duties that took effect on 2 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-watermarks-to-curb-excessive-reliance-on-ai-5581724). No domestic proposal, consultation or instrument follows from it, against online content rules that already prohibit such content outright.
 
 A month later the rules existed. On 31 August the e-Government Authority's board [approved standards and guidelines for AI in public institutions, binding every institution and every AI system it runs, requiring impact and risk assessments and prohibiting fully automated decisions with significant outcomes](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They are a standard under the e-government statute, not a law, and the national strategy text is still not public.
@@ -248,8 +151,6 @@ One account of the trading economy the fintech count sits above reached the repo
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
-
 A private channel opened alongside the state ventures programme. The leading mobile operator entered a [three-year partnership with a global entrepreneurship network to reach 1,000 entrepreneurs and 40 ventures, with a first cohort of entrepreneur-support organisations due in October 2026](https://ippmedia.co.tz/the-guardian/business/read/vodacom-bridge-for-billions-partner-to-boost-startup-ecosystem-2026-09-07-142532). No commitment amount is stated, so what exists is a set of targets with no measurable resource behind them.
 
 A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
@@ -262,19 +163,12 @@ A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [ten
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The telecoms regulator's director general put the [digital clubs programme at 800 clubs from nursery to university level](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/), funded through the regulator and anchored in the digital economy framework, alongside its sponsorship of the national schools mathematics olympiad team. No establishment dates, per-club spend, enrolment or outcome measure is published. Separately the annual report records [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf); no prior-year figure is held, so the count stands unbenchmarked.
+The national service said on 18 September that [its patriotism and digital patriotism subjects will continue to be improved](https://www.thecitizen.co.tz/tanzania/news/national/jkt-puts-digital-patriotism-at-the-heart-of-youth-training-5600324), for an intake that began on 8 September. No curriculum text, hours or recruit count is held.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the repository can date the commitments and cannot size them.
-
-The instrument behind teacher training entered the repository, and it is eleven years old. The [2015 ICT competency standards for teachers, built with the United Nations education agency on its global framework and covering six modules across two knowledge stages](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf), are what the repository holds; a 2025 revision is referred to and not published. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the repository can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-A national institution of science and technology was [selected as the country's only member of the global AI capacity development network, announced at its graduation ceremony on 22 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-enters-global-ai-network-to-drive-digital-transformation-5567548). The network is supported by the UN office for digital and emerging technologies, was itself launched in July 2026, and works across AI foundations, AI enablers, capacity development and open science.
+The instrument behind teacher training entered the repository, and it is eleven years old. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the repository can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
 <!-- /narrative -->
 
 ## Inclusion
@@ -282,8 +176,6 @@ A national institution of science and technology was [selected as the country's 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
-
 Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 <!-- /narrative -->
 
@@ -292,10 +184,5 @@ Mobile-industry research [found identity requirements for SIM registration leave
 ### Open data
 
 <!-- narrative: data--data-open -->
-An external assessment found the country [not meeting the minimum fiscal transparency requirements](https://www.state.gov/reports/2026-fiscal-transparency-report/tanzania) over a review period running to the end of 2025, the same finding as the previous review. It is the only recurring transparency measure the repository holds here, and it is a foreign government's criteria rather than a domestic one.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-A research capability ended rather than started. The three-year Precision Livestock Farming project, run by a national institution with a foreign university and foundation funding, [closed on 27 August and presented its results](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-turns-to-smart-technology-to-boost-livestock-productivity-5574406). Nothing in the record held says the work continues under national funding, which is the question a closing donor project always raises.
+A mapping organisation working with government [began handing ward flood preparedness plans to communities in five Dar es Salaam wards from 14 September 2026](https://timesmajira.co.tz/omdtz-yawezesha-wananchi-mipango-kukabili-mafuriko/), built on mapping and community participation under an externally funded project.
 <!-- /narrative -->

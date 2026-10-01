@@ -1,24 +1,20 @@
 ---
-title: Togo — monthly update, August – September 2026
-compiled: 2026-09-29
-period: 2026-08-01 to 2026-09-29
+title: Togo — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: TGO
-ledger_rows: 71
+ledger_rows: 46
 not_held: 21
-record: 03f74e3ffac0
+record: 39fe248442e7
 ---
 
-# Togo: monthly update, August – September 2026
+# Togo: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two commercial-justice bills moved through both chambers while the digital instruments stayed unpublished. The National Assembly [adopted commercial-courts reform and accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/) and the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), while a scoping meeting [opened a review of the 2009 civil registration law](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation) with proposals due this year. The Council of Ministers [authorised an Internet-of-Things licence on 4 August](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) and the repository holds the announcement, not the decree.
-
-The firmest dates are obligations on citizens and firms rather than on the state: [retirement allowances stop on 31 August for anyone who has not registered payment details](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/) and [cadastral plan submissions became digital-only from 17 August](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html).
-
 Three framework documents entered the repository this month and not one is in force: the [enterprise-architecture guide](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html) at version 1.0, status *Brouillon*, revision log empty; the [governance model](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html) for building state systems, which lists giving itself force of law as outstanding; and the [statistics strategy](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf), expired in 2024 with no successor.
 <!-- /narrative -->
 
@@ -27,15 +23,11 @@ Three framework documents entered the repository this month and not one is in fo
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital.
-
 A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published.
 <!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
-
 On 22 September the communication regulator HARC [held its first official meeting with content creators, bloggers and influencers, asserting a remit over social-media content under article 78 of the 2024 Constitution and saying advertising on social networks should in principle take its prior visa](https://togopresse.tg/regulation-du-numerique-la-harc-engage-le-dialogue-avec-les-createurs-de-contenus/). The communication ministry said the 2020 press and communication code would be revised to cover them; no draft or timetable is published.
 <!-- /narrative -->
 ### Data protection
@@ -46,22 +38,16 @@ The data protection regulator turned to the state's own compliance. It [convened
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated,.
-
 On 23 September the data-protection authority [signed a cooperation agreement with its Malian counterpart covering information exchange, complaints handling, compliance checks and staff capacity-building, with cross-border data transfers among the subjects discussed](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise). The agreement text is not published.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-Togo launched the National Accounting Council, [the body a regional directive of 28 November 1997 requires each member state to establish](https://www.togofirst.com/en/economic-governance/3108-19908-togo-activates-national-accounting-council-to-improve-financial-reporting). [The directive itself](https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B003-97-CM-UEMOA%20portant%20cr%C3%A9ation%20d%27un%20Conseil%20National%20de%20la%20Comptabilit%C3%A9%20ds%20l%27Uemoa..pdf) is now held. Twenty-nine years between obligation and institution is the finding.
-
 The standards machinery came into view too: the [national standards agency is a full member body](https://www.iso.org/member/2143.html) of the international standards organisation; under the food-system resilience programme it drew up [46 national standards and the accreditation committee 31 certification programmes](https://agriculture.gouv.tg/fsrp-togo-46-normes-nationales-et-31-programmes-de-certification-pour-renforcer-la-qualite-et-la-competitivite-des-produits-agroalimentaires/) in August — drawn up and disseminated, the ministry says, not homologated.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing them on electronic-communications rights. At the Kara leg, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less.
-
 The room where digital policy is argued is now on record: the [national internet governance forum](https://intgovforum.tg/) has run annually since 2010 and held its twelfth edition on 19 June, with every digital regulator on the panels alongside civil society. Civic space around it is rated [Repressed at 29 of 100](https://monitor.civicus.org/country/togo/), unchanged since 2020.
 <!-- /narrative -->
 
@@ -70,7 +56,7 @@ The room where digital policy is argued is now on record: the [national internet
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement carrying no Togo-specific capacity, price or route figure.
+The regulator's first national monitoring campaign of 2026, across 86 locations from 13 July to 21 August, [found neither mobile operator meeting its quality standards, at 75.15 and 54.07 per cent overall compliance](https://www.togofirst.com/en/telecom/2709-20179-togo-s-mobile-quality-results-show-yas-ahead-nationally-mat-leading-on-4g), with quality lower outside Greater Lome. A civic-space monitor's [country page](https://monitor.civicus.org/country/togo/) records no internet shutdown.
 <!-- /narrative -->
 ### Energy
 
@@ -86,9 +72,7 @@ The digital agency's [governance model for building and maintaining government s
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The cyber institutions are in place and the record of what they do is thin. [The national incident-response function runs inside a joint venture of the Togolese state and a Polish group](https://www.togofirst.com/en/itc/2907-19721-palakiyem-assih-named-chairman-of-cyber-defense-africa), so the incident record, tooling and institutional memory sit with a foreign supplier. The agency's director-general put [more than 333,000 incidents handled between 2021 and 2024, rising from 39,168 to 181,088](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) — with no figure for 2022, 2023 or 2025 and no definition of an incident.
-
-The team is visibly operating: it [issued a high-severity alert on an active account-compromise campaign on 19 August](https://savoirnews.net/togo-le-cert-tg-alerte-sur-une-nouvelle-vague-de-piratage-de-comptes-en-ligne/), the first published alert the repository holds from it.
+The cybersecurity agency [issued a call for expressions of interest on 27 August 2026 to build a national pool of cybersecurity professionals](https://www.ecofinagency.com/news-digital/0309-58604-togo-builds-cybersecurity-talent-pool-as-digital-threats-intensify), in support of the 2024-2028 national cybersecurity strategy; applications close on 30 October.
 <!-- /narrative -->
 
 ## DPI
@@ -96,49 +80,30 @@ The team is visibly operating: it [issued a high-severity alert on an active acc
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The tax authority closed the paper route into the land record. From 17 August 2026 [digital submission of land parcel plans is mandatory through its single land window, ending paper filing by surveyors registered with the professional order](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html). No fallback channel, fee schedule, submission volume or data-protection basis for the cadastral record is stated.
-
 The shared layer it would fit into is now visible, and it is a draft: the enterprise-architecture guide defines a common interoperability framework over four levels, and its own [version page](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html) still records version 1.0, status *Brouillon*, with an empty revision log. This is still a single authority's window rather than a piece of a shared layer; the reason has changed from an absent framework to an unadopted one.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Enrolment now goes to people rather than waiting for them. The documentation directorate [has spent about a year sending mobile identity-card teams to large public gatherings, handling every step of an application on site](https://togo-today.com/carte-didentite-la-direction-generale-de-la-documentation-nationale-veut-se-rapprocher-des-populations/), aiming to shorten processing times and put a card in the hands of the majority of Togolese by 2028. No count of cards issued through the mobile teams is published, so the register's own figure — more than six million unique identification numbers at the end of 2025 — remains the only measure of how far the effort has got.
-
-What no amount of enrolment has produced is a way to use the credential: there is still no citizen account or single sign-on, and June's [examination-results service asked candidates to pre-register by e-mail and table number](https://education.gouv.tg/resultats-du-bac1-2026-quand-la-digitalisation-du-systeme-educatif-prend-corps/) rather than to sign in.
+More than six million people [have been registered for the unique identification number and biometric identity card; enrolment in the Centrale region closed on 26 September and Kara, the last region, follows from October to December 2026](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/). A campaign [is issuing free nationality certificates to 4,200 schoolgirls, 300 of them in the first week](https://www.republiquetogolaise.tg/services-publics/1409-12277-citoyennete-4200-eleves-filles-bientot-dotees-de-certificats-de-nationalite).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July, and stop on 31 August for beneficiaries who have not registered payment details](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/); no beneficiary count is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi).
-
-Elsewhere a domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos), with no volume, licence or customer figure stated.
-
 Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
 
 Public transport is next: [digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
 
 Online tax filing reached the smallest taxpayers. The revenue office [launched e-TPU on 17 September, letting small and micro enterprises, artisans and traders declare and pay the single business tax from a phone without visiting a tax centre](https://www.otr.tg/index.php/en/1619-la-plateforme-de-declaration-et-de-paiement-en-ligne-de-la-taxe-professionnelle-unique-e-tpu-officiellement-lancee.html). No uptake figure has been published yet.
 <!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-The [second national birth-registration catch-up campaign opened at Agbandi on 31 July](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), targeting a further 6,461 children across 25 communes and taking the two campaigns to 11,461. The same report [carries the funder's figure of nearly 7,400 for the same campaign](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), and the two are not reconciled.
-<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Togo put a [platform online centralising climate-risk data across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Drought and flood indicators are keyed by field agents and checked by sector and regional focal points before national consolidation, time-stamped to leave an audit trail; no launch date is given. The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response) after a training-of-trainers workshop, with no go-live date or facility coverage stated.
-
-Both sit on a system the repository can now describe: [DHIS2 has been the health ministry's platform since 2016](https://dhis2.org/climate/country-profiles/togo/) and is the national repository. The chain into it still begins on paper at the facility.
-
 An agricultural information system changed hands: [SIHAM, which sends forecasts, prices and input availability to farmers free by SMS, was handed to the national farmers' organisation to run on 15 September](https://www.togofirst.com/en/agriculture/1609-20075-togo-rolls-out-siham-to-improve-farmers-access-to-agricultural-information).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The ministry the same week [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
-
 The transit-tracking system took on a new cargo type: the revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo), under a system operational since October 2022. No device count, cost or evaluation criterion is published.
 
 The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/).
@@ -146,11 +111,6 @@ The public-services portal [moved to a modernised version in September that keep
 
 ## Digitalisation
 
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
-<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
@@ -164,18 +124,13 @@ Togo's agricultural digital work is now being copied. Chad [drew on the Togolese
 <!-- narrative: technology--tech-ai -->
 The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated.
 <!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-[Fuel marking and traceability began at Lome](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the obligation having applied since 1 July: every litre through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure and closure. Neither the contract amendment nor the marking regulation is held, and no contract value, duration or data-ownership term is published.
-<!-- /narrative -->
 
 ## Capacity
 
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The staffing has moved ahead of the estate. On 24 August [101 fabmanagers, recruited through the national teacher competition, began a month-long training](https://education.gouv.tg/fablabs-educatifs-et-crit-le-togo-prepare-une-generation-de-createurs-et-dinnovateurs/) in programming, robotics, artificial intelligence, the internet of things and 3D printing, to run educational FabLabs in colleges and scientific lycees and in regional innovation centres — a [programme set out publicly](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) the week before. The trainers are named and dated; the laboratories have no site count, budget or opening date. Separately, a development bank and telecoms group programme [launched on 2 September carries a component to train 25,000 women in financial and digital skills across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), the digital financial products themselves going only to the first three. No Togolese allocation, timetable, provider or curriculum is published.
+The staffing has moved ahead of the estate. Separately, a development bank and telecoms group programme [launched on 2 September carries a component to train 25,000 women in financial and digital skills across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), the digital financial products themselves going only to the first three. No Togolese allocation, timetable, provider or curriculum is published.
 <!-- /narrative -->
 ### Training and skills
 
@@ -190,9 +145,7 @@ The first artificial-intelligence summer school finished, [training 100 young pe
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part; no case volume, coverage or referral outcome is in the record held.
-
-Documentation for the displaced is the larger operation. A [grant of US$1 million approved on 4 August funds registration and documentation of 5,000 new arrivals in the Savanes, a region now hosting more than 55,000 refugees and close to 16,000 internally displaced people](https://www.afdb.org/fr/news-and-events/togo-un-don-dun-million-de-dollars-pour-repondre-lurgence-humanitaire-dans-la-region-des-savanes-96033). None of it runs through the national identity register: refugees are documented on a separate system.
+The national service portal carries [a published procedure for sending suggestions to the security ministry](https://service-public.gouv.tg/service/676b18a5e55165ff3908c676/securite-surete/suggestions-au-ministere-de-la-securite); no count of suggestions received is published.
 <!-- /narrative -->
 
 ## Data
@@ -200,15 +153,5 @@ Documentation for the displaced is the larger operation. A [grant of US$1 millio
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The dissemination layer is being rebuilt while the strategy above it has lapsed. The 2024 [national statistical yearbook](https://inseed.tg/download/7668/) was reissued in a revised edition in August, compiled from sectoral administrative systems and ministry returns as well as censuses. The [2020-2024 statistics strategy](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf) beneath it expired with no successor adopted; orientations were set in June, and orientations are not a strategy.
-
 The statistics institute put a second survey in the field. The third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december) — the second of two rounds opened within six weeks, after a demographic and health gap of more than a decade.
-<!-- /narrative -->
-
-## Geopolitics
-
-### China activities
-
-<!-- narrative: geopolitics--geopol-china -->
-Togolese officials [toured China's G60 science and technology corridor on 31 July](https://territoire.gouv.tg/seminaire-en-chine-les-cadres-togolais-decouvrent-le-modele-dinnovation-du-corridor-scientifique-et-technologique-g60/) during a seminar run by the Chinese commerce ministry, with partnerships, internships and training named as prospects. Nothing was signed. The standing instrument remains a [protocol concluded with Huawei in September 2024](https://www.republiquetogolaise.com/tic/0909-9696-numerique-le-togo-et-huawei-scellent-un-partenariat-strategique) whose text, amount, scope and timetable are unpublished.
 <!-- /narrative -->

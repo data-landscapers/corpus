@@ -1,23 +1,21 @@
 ---
-title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Gambia — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 place: GMB
-ledger_rows: 53
+ledger_rows: 40
 not_held: 3
-record: a0131d7f9fcb
+record: b100b32c97c0
 ---
 
-# Gambia: monthly update, August – September 2026
+# Gambia: monthly update, September – October 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Identity and elections were the month's two threads. The government [launched the first phase of the new biometric national identity card, publishing a phased rollout calendar and a fee](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout), and published its first unified land policy, which [mandates a digitalised national land administration system and a centralised land information system](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1).
-
-The electoral register is contested. Opposition parties put it to the commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), and the [commission's chairman gave a public assurance on the register's credibility](https://thepoint.gm/africa/gambia/headlines/iec-chair-assures-gambians-of-credible-voter-register-ahead-of-2026-polls) without a reconciled figure being published. Elsewhere the civil servant and pensioner verification exercise [was suspended up-country over technical difficulties](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/), the press union [reported the access-to-information law still largely unimplemented](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/), and Senegal and Gambia [held the first steering-committee session of their digital cooperation memorandum at Banjul on 29 August](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/).
+The National Numbering Plan 2026 [took effect on 3 September, moving mobile numbers to nine digits with seven-digit numbers retiring on 28 February 2027](https://pura.gm/wp-content/uploads/2026/09/scan0001_compressed.pdf). The Competition and Consumer Protection Commission Bill [was committed after its second reading on 15 September](https://mansabanko.gm/parliament-commits-bill-to-prohibit-anti-competitive-practices/). The National Assembly was told on 22 September that [contracts to digitalise land administration have been awarded](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system), and the revenue authority [announced a memorandum with Liberia's revenue authority for a revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation). The trade ministry [signed memoranda with three training institutions for a labour digital skills programme](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/).
 <!-- /narrative -->
 
 ## Governance
@@ -25,43 +23,17 @@ The electoral register is contested. Opposition parties put it to the commission
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The policy shelf was restocked, with an unusually frank admission attached. The Gambia [validated a ten-year science, technology and innovation policy for 2027-2035 after its minister conceded the previous one achieved none of its objectives](https://thepoint.gm/africa/gambia/national-news/gambia-validates-new-10-year-sti-policy-to-drive-jobs-innovation-and-climate-resilience). A minister saying so on the record is worth more than the policy document itself, because it dates the failure the successor has to avoid. Cabinet separately [approved a bill to establish a national research, development and innovation council](https://www.linkedin.com/posts/ministry-of-higher-education-research-science-and-technology_cabinet-approves-national-research-development-activity-7499615459382775808-MOKX); the council does not yet exist.
+The higher education ministry [validated a draft science, technology and innovation policy for 2027 to 2035 and its accompanying bill at a national workshop](https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/), reported on 3 September. An evaluation of the 2015-2024 policy found that none of its objectives were met.
 <!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-An Act already in force showed what passing one is worth on its own: the press union reported on 7 August that [most public institutions have yet to appoint the information officers the Access to Information Act requires, and that twenty-one-day requests go unanswered](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/). No government response, compliance count or enforcement action is on record. The Communications Bill 2025, meanwhile, stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
-
-A second instrument was validated on [31 July 2026: the State Intelligence Service Bill](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service), at a workshop attended by the National Security Adviser, the Chief of Defence Staff, the Assembly's defence committee and civil society. The Adviser said the draft prohibits torture, unlawful detention and political targeting, requires judicial warrants and oversight for intrusive measures, and gives the Assembly review of the Service's budgets. Its threat frame is cybercrime, espionage, disinformation and organised crime, so it is where Gambian communications interception would sit. The text is not held, the Bill has not been tabled, and it does not appear in the Assembly's bills library, checked 2026-08-08.
-
 The National Assembly [committed the Competition and Consumer Protection Commission Bill 2026 after its second reading on 15 September](https://mansabanko.gm/parliament-commits-bill-to-prohibit-anti-competitive-practices/). It would replace the 2007 competition and 2014 consumer protection Acts with a single independent commission.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The body that carries both of the country's information statutes surfaced in the record for the first time this window, and it surfaced as a recipient of support rather than as a regulator acting. The Information Commission, responsible for the Access to Information Act 2021 and the Personal Data Protection and Privacy Act 2025, is [receiving UNFPA-funded support under the Peacebuilding Fund's Public Accountability Project to build a communication strategy raising public awareness of both statutes](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia). No budget, staffing, caseload or enforcement record for the commission is held, and awareness-raising support is not evidence of capacity to enforce.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Master Class in Banjul on 23-24 July 2026](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). The Forum's executive secretary argued from Rwanda, Kenya and Morocco that digital systems deliver only alongside governance reform — "technology alone collects nothing" — and [pressed for a united African position at the United Nations](https://foroyaa.net/african-tax-officials-meet-in-gambia-to-strengthen-revenue-mobilisation/).
-
-The bilateral channel that bears on connectivity moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with Senegal [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the Senegalese telecommunications and digital minister travelling to Banjul to agree the first joint work, the two regulators having separately deepened cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). The structural case for it is the country's own: a limited terrestrial fibre build and dependence on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published. That work took its first steering-committee session at [Banjul on 29 August 2026](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/), where the four priorities were settled as infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation, with rural electronic-government access named among them. No timetable, budget or named deliverable is attached to any of the four.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 The standards bureau's position was restated from both ends this month. Its director general put adoptions at [around 500 standards, alongside membership of the African standards organisation](https://thepoint.gm/africa/gambia/headlines/iso-secretary-general-visits-gambia-to-deepen-partnership), while the international body's own profile records the bureau as a [Correspondent member without a vote at the standards and electrotechnical organisations, and the country's technical-barriers enquiry point](https://www.iso.org/member/576505.html). A correspondent member may adopt standards; it does not help make them.
-<!-- /narrative -->
-
-## Finance
-
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-The finance ministry gave its fullest account yet of what digitalised collection has recovered. On [30 July 2026 the minister said total tax collected rose from D11 billion in 2022 to D25 billion in 2025](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with rate rises only on gambling, alcohol and tobacco, and credited a named stack running from ASYCUDA World and digital excise stamps to fuel marking, rental tax digitalisation and electronic invoicing. He read reforms lifting collections by more than 100% as evidence of prior leakage rather than of under-taxation, and said tax to GDP moved from [9% in 2022 to 13% in 2025](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). It is an attribution by the collecting side, not an evaluation.
-
-Four days later the revenue authority [published a 2026 target of D27.5 billion](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans) — the first forward number in the series, and the first testable one. The implied step from 2025 is about a tenth, far below the run rate the attribution rests on.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -108,12 +80,7 @@ The country appears here in a survey of other people's pilots rather than in an 
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
-
-
-A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
-
-Two registers moved from intention to a dated position. The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/). And the tax system moved from planned to contracted: a [US$7.27m, 24-month contract signed on 7 October 2025 on lender funding](https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas), with the revenue authority since [briefing manufacturers ahead of rollout and pledging fully online filing](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/).
+The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/).
 
 On 22 September the lands minister told the National Assembly that [contracts for the World Bank-supported land digitalisation had been awarded, that leases would issue within three days once it is fully operational, and that the ministry was releasing about 50 backlogged lease files a week](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). No contractor, value or go-live date was given.
 <!-- /narrative -->
@@ -125,11 +92,7 @@ The month's one management system came from outside government. The Gambia Red C
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The revenue authority said on [30 July 2026 that South African and Rwandan customs officials will study its digital excise tax stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), after officials from Nigeria, Senegal and Sierra Leone; the commissioner general attached to it [a claimed 95% reduction in smuggling of excisable goods](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/), a figure with no method, made by the authority whose system is being studied. The finance ministry also [named a planned Integrated Tax Administration System](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with no procurement, vendor or timetable.
-
-The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
-
-The electoral commission's digitalisation produced its first published contest figure. At a stakeholders' forum on 7 August the chief electoral officer disclosed [1,600 objections filed against the 2026 supplementary voter roll](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie), on eligibility and residency, now before Revising Court Magistrates ahead of the provisional register being merged with the 2021 Voter Register. No denominator of supplementary registrations, no outcome of the hearings and no merged register total is held.
+The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published.
 <!-- /narrative -->
 
 ## Technology
@@ -145,7 +108,7 @@ The hub estate is listed rather than surveyed. [Four hubs appear in a continenta
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds.
 
 The employment ministry [signed memoranda with the applied science university, the Civil Service University and a hardware-technology institute to deliver three years of digital labour skills training under the regional digital integration programme](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/), aimed at youth, women and persons with disabilities; no budget or participant figure is stated.
 <!-- /narrative -->
@@ -158,25 +121,17 @@ The employment ministry [signed memoranda with the applied science university, t
 The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without.
 <!-- /narrative -->
 
-## Data
-
-### Open data
-
-<!-- narrative: data--data-open -->
-One measured position moved into the record. The Gambia [ranked third in sub-Saharan Africa on budget transparency in the 2025 open budget survey](https://foroyaa.net/gambia-ranks-third-in-sub-saharan-africa-on-budget-transparency/). Budget transparency and open data are different things: the survey measures what a government publishes about its own spending, and the record held still carries no dataset count or portal for The Gambia.
-<!-- /narrative -->
-
 ## Geopolitics
 
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->
-Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date. A second channel opened at official level: on a visit to Guizhou University the country's permanent representative in Geneva [announced four initiatives — the Guizhou Provincial Big Data Laboratory as a data-governance research centre for the UN science and technology commission, a national data laboratory in The Gambia replicating it, scholarships in big data and artificial-intelligence governance, and a joint summer school](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university). They are announcements, not agreements: no text, funding or timetable is held, and none is a Gambian government instrument.
+Chinese engagement remained visible as training rather than infrastructure. A second channel opened at official level: on a visit to Guizhou University the country's permanent representative in Geneva [announced four initiatives — the Guizhou Provincial Big Data Laboratory as a data-governance research centre for the UN science and technology commission, a national data laboratory in The Gambia replicating it, scholarships in big data and artificial-intelligence governance, and a joint summer school](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university). They are announcements, not agreements: no text, funding or timetable is held, and none is a Gambian government instrument.
 <!-- /narrative -->
 ### EU activities
 
 <!-- narrative: geopolitics--geopol-eu -->
-The Commission's country page sets the frame at [EUR 193m of grants for 2021-2027, with digitalisation named as one clause under jobs and growth](https://international-partnerships.ec.europa.eu/countries/gambia_en), so the digital share remains unstated. The delivered items are smaller and dated: a [EUR 493,346 platform tracking 237 national development plan indicators](https://www.eeas.europa.eu/delegations/gambia/european-union-supports-digital-tracking-system-boost-transparency-gambia_en) and the [fingerprint identification system launched in May](https://www.eeas.europa.eu/delegations/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en).
+The Commission's country page sets the frame at [EUR 193m of grants for 2021-2027, with digitalisation named as one clause under jobs and growth](https://international-partnerships.ec.europa.eu/countries/gambia_en), so the digital share remains unstated.
 <!-- /narrative -->
 ### Gulf/UAE activities
 
