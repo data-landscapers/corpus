@@ -580,7 +580,7 @@ COUNTRY = """<!DOCTYPE html>
 </html>
 """
 
-FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in millions of US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year.</p>
+FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in millions of US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year. A commitment that is only partly digital, or whose scope is unclear, counts at 50% of its amount; one where digital is incidental to another purpose is left out.</p>
 
 {pivot}
     <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-{cutoff}&rsquo; aggregates every year before {cutoff}. An empty cell is a year with no commitment recorded, not a zero.</p>
@@ -643,7 +643,8 @@ def budget_section(name: str, header: list[str], rows: list[dict], csv_name: str
 # where a reader reads one deal whole, and a field missing there because it is also a column
 # is missing. `finance.py` imports this for the all-Africa table.
 FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, primary_topic, "
-                  "instrument, aid, commitment_usd_m, amount_basis, amount_quality, status, title, "
+                  "instrument, aid, commitment_usd_m, amount_basis, amount_quality, scope, scope_basis, "
+                  "status, title, "
                   "description, beneficiary_type, recipient_organisation, original_amount, "
                   "project_id, iati_activity_id, url, financier_slug, deal_id, record")
 
@@ -691,10 +692,12 @@ FINANCE = """<!DOCTYPE html>
 
     <p>Every non-state commitment the repository holds for {name}. One row per commitment; each is tagged to one {unit} only, so per-{unit} totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
+    <p>{scope_note}</p>
+
     <div class="dl-datatable"
       data-src="{csv_name}"
       data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="financier, primary_topic, instrument, aid, status, beneficiary_type"
+      data-filters="financier, primary_topic, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-detail=\"""" + FINANCE_DETAIL + """\"
@@ -1017,6 +1020,7 @@ def build(iso: str) -> list[Path]:
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{iso}/finance.html"),
             unit="country",
+            scope_note=copy_inline("finance", "non-state-scope"),
             jsonld=finance_dataset(iso, name, out_dir, fin, csv_names["csv_name"],
                                    csv_names["csv_edition"], csv_names["csv_bytes"]),
             fin_total=f"{sum(amounts):,.0f}",
@@ -1026,6 +1030,11 @@ def build(iso: str) -> list[Path]:
             ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])
+
+    if not fin and (out_dir / "finance.html").exists():
+        # The place's last deal left the dataset: `site/` is never purged, so the table
+        # page would go on being served with nothing behind it.
+        (out_dir / "finance.html").unlink()
 
     if bud:
         meta = budget_dictionary()

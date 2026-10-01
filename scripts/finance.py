@@ -205,7 +205,7 @@ PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_name}"
       data-cols="recipient, start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="recipient, primary_topic, instrument, aid, status, beneficiary_type"
+      data-filters="recipient, primary_topic, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
@@ -475,7 +475,8 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV, detail=FINANCE_DETAIL,
         filter_all=attr_json(FILTER_ALL),
         artefacts=artefacts, toc=toc("non-state"),
-        non_state_intro=indent(copy("finance", "non-state-intro")),
+        non_state_intro=indent(copy("finance", "non-state-intro")
+                               + "\n" + copy("finance", "non-state-scope")),
         table_note=indent(copy("finance", "non-state-table-note")),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], regions=agg["regions"], yr=yr,

@@ -666,7 +666,7 @@
       </tr>
       <tr>
       <td>commitment_usd_m</td>
-      <td>The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates.</td>
+      <td>The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates. A commitment whose scope is partial or unclear counts at half its value.</td>
       </tr>
       <tr>
       <td>amount_basis</td>
@@ -675,6 +675,14 @@
       <tr>
       <td>amount_quality</td>
       <td>Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data.</td>
+      </tr>
+      <tr>
+      <td>scope</td>
+      <td>Whether the whole commitment is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. commitment_usd_m counts a partial or unclear commitment at half. Blank where the commitment has not yet been assessed. Commitments where digital is incidental to another purpose are not in the table.</td>
+      </tr>
+      <tr>
+      <td>scope_basis</td>
+      <td>Why the commitment was judged whole, partial or unclear, in our words.</td>
       </tr>
       <tr>
       <td>status</td>

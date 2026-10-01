@@ -7,9 +7,11 @@ financier,The short or abbreviated name of the institution providing the finance
 primary_topic,"What the money is for, as a topic in Data Landscapers' taxonomy, which is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics"
 instrument,"The financial instrument such as grant, loan equity."
 aid,"true where the instrument is a grant, a concessional loan or technical assistance; false for every other instrument, including Unknown"
-commitment_usd_m,The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates.
+commitment_usd_m,The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates. A commitment whose scope is partial or unclear counts at half its value.
 amount_basis,"Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this."
 amount_quality,"Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data."
+scope,"Whether the whole commitment is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. commitment_usd_m counts a partial or unclear commitment at half. Blank where the commitment has not yet been assessed. Commitments where digital is incidental to another purpose are not in the table."
+scope_basis,"Why the commitment was judged whole, partial or unclear, in our words."
 status,"Whether the contract is pipeline, approved, active or completed"
 title,The title of the investment
 description,A brief description of the investment

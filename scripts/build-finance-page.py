@@ -42,6 +42,10 @@ from finance_lib import (split_front, fm_get, section, deal_table, raw_sources, 
                          load_fx, fx_rate, fin_name)                            # noqa: E402
 
 RAW = "raw"
+# Corpus's own judgement of each non-state deal's scope. Absolute, because the build runs
+# from the workroot, where `lookups/` is OSINT's; `realpath`, because it runs through a junction.
+SCOPE_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))),
+                          "lookups", "deal-scope.csv")
 BUDGET_OUT = "outputs/budgets"                 # {ISO3}-budget.csv
 NONSTATE_OUT = "outputs/non-state-finance"     # {ISO3}-nonstate.csv, {ISO3}-summary.csv, all-nonstate.csv
 
@@ -276,6 +280,54 @@ def in_window(by_place):
         b["ns"] = keep
     return dropped
 
+# **Scope, as the budget lines carry it** *(Bill's ruling, 2026-10-01)*. `lookups/deal-scope.csv`
+# gives each deal `whole`, `partial`, `unclear` or `out`, with a sentence saying why. A
+# `partial` or `unclear` deal counts at half its amount, as `budget_source.PARTIAL_SHARE` does
+# for a budget line; an `out` deal is one where digital is incidental to another purpose and
+# is left out of the dataset. OSINT keeps every record. `documentation/nonstate-scope.md`.
+HALF_SCOPES = ("partial", "unclear")
+SCOPE_SHARE = 0.5
+
+
+def load_scope():
+    with open(SCOPE_FILE, encoding="utf-8-sig", newline="") as f:
+        return {r["deal_id"]: (r["scope"], r["scope_basis"]) for r in csv.DictReader(f)}
+
+
+def in_scope(by_place, scope):
+    """Tag each non-state deal with its scope and basis, and drop the ones marked `out`,
+    in place. Returns `(out, halved, unassessed)` as sets of deal ids. A deal the lookup
+    does not hold yet stays in at its full amount with a blank scope, and is counted so
+    the build can say so."""
+    out, halved, unassessed = set(), set(), set()
+    for b in by_place.values():
+        keep = []
+        for r in b["ns"]:
+            s, basis = scope.get(r["deal_id"], ("", ""))
+            if s == "out":
+                out.add(r["deal_id"])
+                continue
+            if not s:
+                unassessed.add(r["deal_id"])
+            elif s in HALF_SCOPES:
+                halved.add(r["deal_id"])
+            r["scope"], r["scope_basis"] = s, basis
+            keep.append(r)
+        b["ns"] = keep
+    return out, halved, unassessed
+
+
+def scope_note(out, halved, unassessed):
+    return (f"  scope: {len(out)} non-state deals left out, {len(halved)} counted at half"
+            + (f"; {len(unassessed)} NOT YET ASSESSED, counted in full - judge them into "
+               f"lookups/deal-scope.csv: {', '.join(sorted(unassessed)[:20])}"
+               if unassessed else ""))
+
+
+def share(r):
+    return SCOPE_SHARE if r.get("scope") in HALF_SCOPES else 1
+
+
 def aggregate3(ns, dom, fx):
     """Both blocks US$m (ball-park). Domestic converted at the IMF annual average for
     the currency and the fiscal year's START year. Excluded lines are reported apart,
@@ -287,6 +339,7 @@ def aggregate3(ns, dom, fx):
         s = primary_subject(r); fy = fy_label_from_year(deal_year(r))
         u = usd_millions(r["table"].get("Commitment (USD)", ""))
         if s and u:
+            u *= share(r)
             nsb.setdefault(s, {}).setdefault(fy, 0); nsb[s][fy] += u; fys_ns.add(fy)
     for r in dom:
         s = primary_subject(r); fy = fy_normalise(fm_get(r["fm"], "fiscal_year_label"))
@@ -319,7 +372,8 @@ def recip_org(T):
     return clean(v)
 
 NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "primary_topic",
-             "instrument", "aid", "commitment_usd_m", "amount_basis", "amount_quality", "status",
+             "instrument", "aid", "commitment_usd_m", "amount_basis", "amount_quality",
+             "scope", "scope_basis", "status",
              "title", "description",
              "beneficiary_type", "recipient_organisation", "original_amount",
              "project_id", "iati_activity_id", "url", "financier_slug", "deal_id", "record"]
@@ -354,6 +408,15 @@ def usd_m_cell(usd):
     return f"{usd:.0f}" if usd >= 1 else f"{usd:.3g}"
 
 
+def halved_cell(usd):
+    """A halved amount keeps its half million: US$45m at half is 22.5, never 22, so that
+    doubling the cell gives back the amount as announced."""
+    if not usd:
+        return ""
+    h = usd * SCOPE_SHARE
+    return f"{h:.1f}".rstrip("0").rstrip(".") if h >= 1 else f"{h:.3g}"
+
+
 def amount_quality(rec):
     """How the amount was arrived at — frontmatter first, body table as fallback.
 
@@ -384,8 +447,9 @@ def _ns_row(r, country, lab):
     status = T.get("Status", "")
     return [country, deal_year(r), T.get("End year", ""), published_date(r),
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
-            T.get("Instrument", ""), is_aid(T.get("Instrument", "")), usd_m_cell(usd), basis,
-            amount_quality(r), status,
+            T.get("Instrument", ""), is_aid(T.get("Instrument", "")),
+            halved_cell(usd) if share(r) != 1 else usd_m_cell(usd), basis,
+            amount_quality(r), r.get("scope", ""), r.get("scope_basis", ""), status,
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
             T.get("Project ID", ""), T.get("IATI activity ID", ""),
@@ -621,6 +685,7 @@ def main():
     if arg == "--all":
         by_place = scan_all()
         print(f"  before {FIRST_YEAR}: {in_window(by_place)} non-state deals left out")
+        print(scope_note(*in_scope(by_place, load_scope())))
         # A country Corpus has extracted and OSINT holds no finance record for is still a
         # country with a budget export. `scan_all` only sees raw/, so it would be skipped
         # entirely — and the 32 states with no domestic records at all (R58) are exactly the
@@ -637,6 +702,7 @@ def main():
     else:
         by_place = scan_all()
         in_window(by_place)
+        print(scope_note(*in_scope(by_place, load_scope())))
         b = by_place.get(arg, {"ns": [], "dom": []})     # place-based, matches --all exactly
         budget_source.update(arg)       # the country file's budget_usd, then the all-countries file
         nn, nd, swaps = build_one(arg, b["ns"], b["dom"], lab, fx)

@@ -2,6 +2,8 @@
 
 Two pages built by `scripts/finance.py` under one toc bar *(Bill, 2026-09-22)*: `site/finance/index.html`, non-state finance, and `site/finance/budgets/index.html`, which carries `budgets-intro` and the table of every budget line Corpus has read (Bill, 2026-09-30). The budget tables first published on 2026-09-20 (R53) came off the site on 2026-09-22; this one replaced them.
 
+`non-state-scope` is the paragraph on how partly digital commitments are counted (Bill's ruling, 2026-10-01); `finance.py` prints it after `non-state-intro`, and `country.py` on every place's full table.
+
 `non-state-intro` is what a reader meets before the commitments table, and it has to say three things: what a row is, what the money figures do and do not mean, and why the totals cannot be read as a market size. **No count of rows is written into this file** — the page prints its own from the run that built it, and a number here drifts the moment the base moves.
 
 `budgets-intro` is what a reader meets before the budget table. Like `non-state-intro`, it carries no count: the page prints its own.
@@ -13,6 +15,10 @@ The `dataset-*` blocks are not shown on the page: they are the descriptions in t
 This table documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. See [this introduction](https://data-landscapers.io/2026/09/27/non-state-finance/) to its contents and processes.
 
 We parse the text accompanying each commitment to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the financier's.
+
+## non-state-scope
+
+Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so `commitment_usd_m` counts 50% of a commitment whose scope is partial or unclear. Double it for the amount as announced; `original_amount` gives that amount where it was made in another currency. `scope_basis` says why each commitment was judged as it was. Open a row to see both, or filter on scope to list the commitments counted at half. A commitment where digital is incidental to another purpose, such as a cash-transfer programme with a beneficiary registry, is left out.
 
 ## non-state-table-note
 
@@ -30,7 +36,7 @@ Click any row to see more. Where each figure is printed, and our notes on it, ar
 
 ## dataset-all
 
-Every non-state financial commitment to Africa's digital sector held by Data Landscapers, as a single table: the recipient country, the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised and not what was spent — it is not a measure of market size. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table.
+Every non-state financial commitment to Africa's digital sector held by Data Landscapers, as a single table: the recipient country, the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised and not what was spent — it is not a measure of market size. A commitment that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table.
 
 ## dataset-budgets
 
@@ -38,7 +44,7 @@ Every digital line Data Landscapers has read from African states' own budget doc
 
 ## dataset-place
 
-Every non-state financial commitment to the digital sector in {name} held by Data Landscapers, as a single table: the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised to {name} and not what was spent there — it is not a measure of market size. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table. This is the {name} cut of the full Data Landscapers non-state finance table.
+Every non-state financial commitment to the digital sector in {name} held by Data Landscapers, as a single table: the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised to {name} and not what was spent there — it is not a measure of market size. A commitment that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table. This is the {name} cut of the full Data Landscapers non-state finance table.
 
 ## dataset-budgets-place
 

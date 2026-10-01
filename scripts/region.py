@@ -129,6 +129,7 @@ def build(code: str) -> list[Path]:
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{code}/finance.html"),
             unit="place",
+            scope_note=copy_inline("finance", "non-state-scope"),
             jsonld=country.finance_dataset(code, name, out_dir, fin, csv_names["csv_name"],
                                            csv_names["csv_edition"], csv_names["csv_bytes"]),
             fin_total=f"{sum(amounts):,.0f}",
@@ -138,6 +139,11 @@ def build(code: str) -> list[Path]:
             ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])
+
+    if not fin and (out_dir / "finance.html").exists():
+        # The place's last deal left the dataset: `site/` is never purged, so the table
+        # page would go on being served with nothing behind it.
+        (out_dir / "finance.html").unlink()
 
     return written
 

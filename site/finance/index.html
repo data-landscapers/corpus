@@ -6,7 +6,7 @@
 <title>Finance — Data Landscapers</title>
 <meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/finance/">
-<meta name="dl-artefact" content="all-nonstate|2026-09-30-3|d0eac36394bb">
+<meta name="dl-artefact" content="all-nonstate|2026-10-01|9492af2dab89">
 <link rel="stylesheet" href="../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../assets/css/country.css?v=f707e846">
@@ -18,7 +18,7 @@
   "@type": "Dataset",
   "@id": "https://corpus.data-landscapers.io/finance/#dataset",
   "name": "Data Landscapers non-state finance — Africa",
-  "description": "Every non-state financial commitment to Africa's digital sector held by Data Landscapers, as a single table: the recipient country, the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised and not what was spent — it is not a measure of market size. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table.",
+  "description": "Every non-state financial commitment to Africa's digital sector held by Data Landscapers, as a single table: the recipient country, the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised and not what was spent — it is not a measure of market size. A commitment that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table.",
   "url": "https://corpus.data-landscapers.io/finance/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -103,7 +103,7 @@
     {
       "@type": "PropertyValue",
       "name": "commitment_usd_m",
-      "description": "The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates."
+      "description": "The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates. A commitment whose scope is partial or unclear counts at half its value."
     },
     {
       "@type": "PropertyValue",
@@ -114,6 +114,16 @@
       "@type": "PropertyValue",
       "name": "amount_quality",
       "description": "Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope",
+      "description": "Whether the whole commitment is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. commitment_usd_m counts a partial or unclear commitment at half. Blank where the commitment has not yet been assessed. Commitments where digital is incidental to another purpose are not in the table."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope_basis",
+      "description": "Why the commitment was judged whole, partial or unclear, in our words."
     },
     {
       "@type": "PropertyValue",
@@ -180,19 +190,19 @@
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://corpus.data-landscapers.io/finance/all-nonstate-2026-09-30-3.csv",
+      "contentUrl": "https://corpus.data-landscapers.io/finance/all-nonstate-2026-10-01.csv",
       "contentSize": "1.4 MB"
     }
   ],
   "size": {
     "@type": "QuantitativeValue",
     "unitText": "records",
-    "value": 1402
+    "value": 1312
   },
   "temporalCoverage": "2015/2046",
-  "dateModified": "2026-09-30",
-  "version": "2026-09-30-3",
-  "datePublished": "2026-09-30"
+  "dateModified": "2026-10-01",
+  "version": "2026-10-01",
+  "datePublished": "2026-10-01"
 }
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -297,32 +307,33 @@
     <a href="budgets/">Budgets</a>
     </nav>
 
-    <div class="byline">1,402 commitments &nbsp;·&nbsp; US$83,303m &nbsp;·&nbsp; 186 financiers &nbsp;·&nbsp; 54 countries &nbsp;·&nbsp; 6 regions &nbsp;·&nbsp; 2015–2046</div>
+    <div class="byline">1,312 commitments &nbsp;·&nbsp; US$68,943m &nbsp;·&nbsp; 180 financiers &nbsp;·&nbsp; 54 countries &nbsp;·&nbsp; 6 regions &nbsp;·&nbsp; 2015–2046</div>
 
     <p>This table documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. See <a href="https://data-landscapers.io/2026/09/27/non-state-finance/">this introduction</a> to its contents and processes.</p>
     <p>We parse the text accompanying each commitment to arrive at a primary topic categorisation based on <a href="https://corpus.data-landscapers.io/methodology/lookups/#topics">our taxonomy</a>. This is our assessment, not the financier's.</p>
+    <p>Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear. Double it for the amount as announced; <code>original_amount</code> gives that amount where it was made in another currency. <code>scope_basis</code> says why each commitment was judged as it was. Open a row to see both, or filter on scope to list the commitments counted at half. A commitment where digital is incidental to another purpose, such as a cash-transfer programme with a beneficiary registry, is left out.</p>
 
     <p>Click any row to open the full record. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. Regions are recipients in their own right, not aggregates of the countries beside them.</p>
 
     <div class="dl-datatable"
-      data-src="all-nonstate-2026-09-30-3.csv"
+      data-src="all-nonstate-2026-10-01.csv"
       data-cols="recipient, start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="recipient, primary_topic, instrument, aid, status, beneficiary_type"
+      data-filters="recipient, primary_topic, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
-      data-labels="{&quot;recipient&quot;: {&quot;KEN&quot;: &quot;Kenya&quot;, &quot;XEA&quot;: &quot;East Africa&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;XAF&quot;: &quot;Africa&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;AGO&quot;: &quot;Angola&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;XWA&quot;: &quot;West Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;, &quot;XSS&quot;: &quot;Sub-Saharan Africa&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;XCA&quot;: &quot;Central Africa&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;STP&quot;: &quot;Sao Tome and Principe&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;XGL&quot;: &quot;Global/Developing Countries&quot;, &quot;GNB&quot;: &quot;Guinea-Bissau&quot;, &quot;ERI&quot;: &quot;Eritrea&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;}, &quot;aid&quot;: {&quot;true&quot;: &quot;Aid&quot;, &quot;false&quot;: &quot;Not aid&quot;}}"
+      data-labels="{&quot;recipient&quot;: {&quot;KEN&quot;: &quot;Kenya&quot;, &quot;XEA&quot;: &quot;East Africa&quot;, &quot;XAF&quot;: &quot;Africa&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;AGO&quot;: &quot;Angola&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;XWA&quot;: &quot;West Africa&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;, &quot;XSS&quot;: &quot;Sub-Saharan Africa&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;XCA&quot;: &quot;Central Africa&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;STP&quot;: &quot;Sao Tome and Principe&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;XGL&quot;: &quot;Global/Developing Countries&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;GNB&quot;: &quot;Guinea-Bissau&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;ERI&quot;: &quot;Eritrea&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;}, &quot;aid&quot;: {&quot;true&quot;: &quot;Aid&quot;, &quot;false&quot;: &quot;Not aid&quot;}}"
       data-filter-all="{&quot;aid&quot;: &quot;Aid and non-aid&quot;}"
-      data-detail="recipient, start_year, end_year, published_date, financier, primary_topic, instrument, aid, commitment_usd_m, amount_basis, amount_quality, status, title, description, beneficiary_type, recipient_organisation, original_amount, project_id, iati_activity_id, url, financier_slug, deal_id, record"
+      data-detail="recipient, start_year, end_year, published_date, financier, primary_topic, instrument, aid, commitment_usd_m, amount_basis, amount_quality, scope, scope_basis, status, title, description, beneficiary_type, recipient_organisation, original_amount, project_id, iati_activity_id, url, financier_slug, deal_id, record"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">
         <span class="dt-title">Africa &mdash; non-state finance</span>
-        <span class="dt-count">1,402 rows</span>
-        <a class="btn btn--sm" href="all-nonstate-2026-09-30-3.csv" download>&darr; CSV</a>
+        <span class="dt-count">1,312 rows</span>
+        <a class="btn btn--sm" href="all-nonstate-2026-10-01.csv" download>&darr; CSV</a>
         <a class="btn btn--sm" href="../datasets/metadata/#non-state-finance">Metadata</a>
       </div>
       <noscript>
-        <p>The table is drawn in the browser from <a href="all-nonstate-2026-09-30-3.csv">all-nonstate-2026-09-30-3.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field. At 1,402 rows it is the one table on this site that could not sensibly be written into the page itself.</p>
+        <p>The table is drawn in the browser from <a href="all-nonstate-2026-10-01.csv">all-nonstate-2026-10-01.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field. At 1,312 rows it is the one table on this site that could not sensibly be written into the page itself.</p>
       </noscript>
     </div>
 
@@ -330,8 +341,8 @@
       <strong>About this table</strong>
       <dl>
         <dt>Built</dt><dd class="mono">2026-10-01</dd>
-        <dt>Edition</dt><dd class="mono">2026-09-30-3</dd>
-        <dt>This file</dt><dd><a href="all-nonstate-2026-09-30-3.csv">all-nonstate-2026-09-30-3.csv</a> &mdash; a dated edition, retained as published and never revised</dd>
+        <dt>Edition</dt><dd class="mono">2026-10-01</dd>
+        <dt>This file</dt><dd><a href="all-nonstate-2026-10-01.csv">all-nonstate-2026-10-01.csv</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/all-nonstate.csv</code>, compiled by the finance pass</dd>
         <dt>Fields</dt><dd><a href="../metadata/non-state-finance-metadata.csv">non-state-finance-metadata.csv</a> &mdash; what each column means. The same dictionary every country&rsquo;s finance table uses</dd>
         <dt>Recipient</dt><dd><code>recipient</code> is an ISO-3 code in the file and a country or region name in the table; the two are the same thing</dd>

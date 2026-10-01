@@ -1,0 +1,1403 @@
+deal_id,scope,scope_basis
+absa-zaf-2024,whole,Loan to a data centre company for a hyperscale data centre and the solar plant that powers its facilities.
+actis-nga-rackcentre-2020,whole,Equity platform for carrier-neutral data centres.
+actis-zaf-octotel-2020,whole,Acquisition of a fibre-to-the-home network operator.
+actis-zaf-swiftnet-2024,whole,"Acquisition of a telecom masts and towers company, whose whole business is connectivity infrastructure."
+adc-gha-accra-acc1-2023,whole,Construction of a data centre.
+adc-ken-nairobi-2021,whole,Investment in building data centre facilities.
+adc-reg-500m-programme-2021,whole,Programme to build ten data centres.
+adc-zaf-johannesburg-capetown-2021,whole,Investment in building and expanding data centres in Johannesburg and Cape Town.
+adc-zaf-rmb-expansion-2024,whole,Financing facility to expand hyperscale data centre capacity.
+adenia-reg-eastcastle-2021,whole,Equity in a telecoms tower developer.
+afc-ken-mkopa-convertible-2023,whole,Note supports a fintech's expansion of mobile device financing and digital financial services.
+afc-nga-9mobile-loan-2019,whole,Debt facility to a mobile network operator for vendor obligations and network upgrades.
+afc-nga-mtn-equip-facility-2018,whole,Facility funds a mobile operator's capital expenditure on network equipment.
+afc-nga-telecoms-equip-syndication-2020,whole,Debt facility finances equipment supply to a telecoms company for network deployment.
+afc-reg-tech-funds-2026,whole,Commitment to fund managers investing in African technology companies.
+afcfta-adjustment-fund-telecel-global-services-2025,whole,Loan to a telecoms company to expand connectivity infrastructure.
+afd-ben-001,whole,"Project modernises the tax administration's information systems, digital procedures and system security."
+afd-cod-001,whole,"Digital transformation loan for infrastructure, digital government, digital ID, connectivity and skills."
+afd-dji-001,partial,Loan covers professionalisation of higher education as well as its digitalisation.
+afd-eth-001,partial,Hybrid project improving electricity networks as well as telecommunications networks through the power utility.
+afd-gin-2025,whole,Computer and solar kits bought to run commune accounting software.
+afd-nga-001,whole,Loan to harmonise the national digital identification system.
+afd-nga-002,partial,Programme covers creative industries as well as technology enterprises and digital skills.
+afd-reg-001,partial,Programme supports independent journalism as well as regulation of the digital space.
+afd-reg-002,whole,Production and use of gender statistics through national statistics institutes.
+afd-reg-003,partial,Call for projects supports social enterprises as well as digital entrepreneurship.
+afd-rwa-001,whole,"Loan supports digital public services, e-government infrastructure and the digital economy."
+afd-sen-001,whole,Support strengthens collection and use of gender-disaggregated data.
+afdb-caf-001,whole,Fibre optic backbone project laying cable on interconnection routes.
+afdb-civ-001,whole,"Project is e-government strengthening, aimed at digital public services."
+afdb-cog-001,whole,Fibre optic interconnection links and a national data centre.
+afdb-com-001,whole,Project supports digitisation of the economy.
+afdb-cpv-002,partial,Programme-based budget support; e-governance is paired with wider public administration modernisation.
+afdb-cpv-003,whole,Loan finances a technology park for the digital and innovation sector.
+afdb-cpv-004,partial,Programme loan for a reform series covering public administration modernisation as well as e-governance.
+afdb-cpv-005,unclear,Truncated description gives only financing structure; what the innovation project buys is not stated.
+afdb-cpv-006,partial,"Reform programme pairing e-governance, open data and a transparency portal with public financial management reform."
+afdb-cpv-007,partial,Budget support operation; public financial management and governance reforms accompany digital transformation.
+afdb-eri-001,whole,Finances financial management and debt information systems and statistical capacity.
+afdb-eri-003,whole,Tax administration project whose principal output is an integrated tax administration system.
+afdb-eth-001,whole,Grant to modernise the national payment switch.
+afdb-gmb-001,out,Urban development programme; the digital master plan is one element beside general capacity building.
+afdb-gmb-002,whole,Project applies digital solutions to governance and aid coordination.
+afdb-janngo-xwa-2026,whole,Equity in a tech start-up fund.
+afdb-lbr-001,whole,Upgrade of central bank payment systems and their data centres.
+afdb-lso-001,whole,Second phase of e-government infrastructure to improve access to digital services.
+afdb-mdg-001,whole,Strengthening governance and financial management through digitalisation.
+afdb-mwi-001,partial,Institutional support project spanning financial inclusion and competitiveness as well as digitalisation.
+afdb-nga-001,partial,"Programme promotes investment in creative industries as well as ICT, so part of the money is not digital."
+afdb-nga-002,whole,Nationwide digital infrastructure project to expand broadband connectivity and digital inclusion.
+afdb-reg-002,whole,Programme builds statistical capacity.
+afdb-reg-003,whole,Invests in infrastructure extending a regional payment system to microfinance institutions.
+afdb-reg-005,whole,"Installation of fibre optic cable with active equipment, power and cooling."
+afdb-reg-008,whole,AI-enabled complaints management systems for central banks.
+afdb-reg-009,whole,Project supports digital payments and e-commerce policies.
+afdb-reg-010,whole,"Grant funds research and development in ICT cybersecurity, fintech and digital financial services."
+afdb-reg-011,whole,Project supports digital market and digital economy development.
+afdb-reg-012,whole,Project to create a regional single digital market.
+afdb-reg-015,whole,Technical assistance to harmonise payment system infrastructure.
+afdb-reg-016,whole,Project builds unique bank identification and digital interoperability.
+afdb-reg-017,whole,Corporate loan to a telecom group for 4G and 5G network expansion.
+afdb-reg-018,unclear,Financial inclusion project; the description is cut off before saying how far it relies on digital means.
+afdb-sen-001,whole,Grant develops a digital technology park to host the IT industry.
+afdb-sen-002,whole,Additional financing for a digital technology park.
+afdb-sle-001,whole,Digital solutions for government efficiency and aid coordination.
+afdb-som-001,whole,National statistical capacity building.
+afdb-som-002,whole,Statistics capacity development project.
+afdb-stp-001,whole,Payment system infrastructure and electronic payment instruments.
+afdb-xea-entrepreneurship-innovation,unclear,"Start-up, MSME and youth employment project; text states no digital activity."
+afreximbank-bsmart-technology-2026,partial,Guarantee backs the financial capacity behind a customs bond as well as its technology platform.
+africa-finance-corporation-wiocc-2026,whole,"Equity in a digital infrastructure company for data centres, terrestrial fibre and subsea cables."
+africa50-raya-data-center-2024,whole,Equity in a data centre operator for a new facility.
+africa50-reg-paix-data-centers-2022,whole,Equity in a colocation data centre company for capacity expansion.
+african-capital-alliance-wiocc-group-2021,whole,"Equity in a digital infrastructure company, partly to fund its open-access data centres."
+african-development-bank-cca-bank-2025,out,General trade finance facility for a bank; only a portion is earmarked for telecom equipment.
+african-development-bank-cmr-2024,out,Electricity sector reform financing; smart metering and a data centre are components of a wider power-sector plan.
+african-development-bank-nga-2026,whole,Loan for a national open-access fibre programme with digital skills.
+african-development-bank-saviu-ii-2026,whole,Stake in a venture fund for technology start-ups.
+african-development-bank-syc-2026,out,"Budget support for economic governance, business environment and climate resilience; e-invoicing, e-procurement and an investment portal are among the reforms."
+african-development-bank-wataf-2026,partial,Tax administration capacity project; digital tax tools and e-invoicing sit beside natural resource revenue and taxpayer education work.
+african-infrastructure-investment-managers-n-one-datacenters-2023,whole,Equity in a data centre and cloud services platform.
+africell-sle-sierratel-mvno-2026,whole,Payment to the state telecom operator under a mobile network partnership.
+africinvest-nga-bfree-2026,whole,Equity in a technology-enabled credit management fintech.
+africinvest-nga-palmpay-2021,whole,Equity in a digital payments platform.
+africinvest-reg-mfsafrica-2021,whole,Financing round for a digital payments network.
+aiib-egy-2023,partial,Guaranteed bond proceeds are split between digital infrastructure and green transport subprojects.
+aiib-rwa-digital-acceleration-2021,whole,"All four components are digital: access, digital public services, digital innovation and project management."
+airtel-africa-ken-2025,whole,Construction of a 44MW data centre.
+airtel-nigeria-nga-2025,whole,Construction of a hyperscale data centre.
+al-mada-ventures-gozem-2025,partial,"Super-app round also pays to strengthen the vehicle fleet and logistics services, which are not digital."
+algebra-ventures-blnk-2026,whole,Equity in a consumer-lending fintech.
+alphacode-venture-partners-moment-2026,whole,Equity in a payments infrastructure fintech.
+aws-zaf-cape-town,whole,All of the spend is attributed to building and operating the AWS Cape Town cloud region.
+aws-zaf-cloud,whole,Planned spend is on building and running the AWS Cape Town cloud region.
+axian-ken-wananchi-acquisition-2025,whole,Acquisition of a broadband and enterprise connectivity operator.
+axian-sen-tigo-acquisition-2018,whole,"Investment programme in a mobile operator for network expansion, 4G and mobile money."
+axian-telecom-aptus-gofiber-2025,whole,Acquisition of a fibre broadband provider.
+axian-telecom-xea-2025,whole,Pledge is for 4G network expansion.
+axian-tza-tigo-acquisition-2022,whole,Acquisition of mobile telecom operators.
+banco-santander-cmr-2024,whole,Loan for phase two of an urban video-surveillance system.
+bank-of-china-cmr-2018,whole,"Loan finances surveillance cameras, radios and command centres under a Huawei contract."
+bergmans-security-consultants-afcfta-2026,partial,Customs modernisation concession covering physical border infrastructure and inspection equipment as well as data centres and customs portals.
+bgk-tgo-2026,whole,Loan finances a cybersecurity company's investment project.
+bii-eth-001,whole,Equity investments in mobile telecoms operators.
+bii-ken-001,partial,"Company sold solar home systems as well as smartphones and digital finance, and was primarily a solar business at first investment."
+bii-ken-002,partial,Debt pre-finances pay-as-you-go solar devices as well as digital lending receivables.
+bii-nga-001,whole,Equity in a telecom tower company.
+bii-nga-002,whole,Equity in a payments and digital banking fintech.
+bii-nga-003,whole,Commitment to a venture fund investing in tech start-ups.
+bii-nga-004,whole,Commitment to a seed fund investing in tech-enabled businesses.
+bii-nga-005,whole,Commitment to a venture fund investing in technology businesses.
+bii-reg-001,whole,Equity in a fibre network operator to expand its cable network.
+bii-reg-002,whole,Equity to expand a data centre business.
+bii-reg-003,whole,Debt to a telecoms group for subscriber growth and new telecom sites.
+bii-reg-004,whole,"Debt investment in a telecom group providing mobile, broadband and mobile financial services."
+bii-reg-005,whole,"Commitment to a fund investing in data centres, fibre, broadband and tech-enabled services."
+bii-reg-006,whole,Commitment to a venture fund for tech start-ups.
+bii-reg-007,whole,Commitment to a venture fund investing in tech start-ups.
+bii-reg-008,whole,Commitment to a venture fund backing early-stage tech-enabled businesses.
+bii-reg-009,whole,Commitment to a venture fund investing in tech-enabled businesses.
+bii-reg-010,whole,Commitment to a fund investing in tech-enabled companies.
+bii-reg-011,whole,Loan to a digital cross-border payments processor.
+bii-reg-012,partial,"Financial-inclusion fund investing in credit, savings and insurance companies as well as payments infrastructure."
+bii-reg-013,out,"Infrastructure fund; digital connectivity is one target beside logistics, power, water, sanitation and social infrastructure."
+bii-rwa-001,whole,Investment in a shared telecom tower company.
+bii-sen-001,whole,Debt investment in a mobile money company.
+bii-sen-002,whole,Loan to a telecoms operator for telecommunications infrastructure and broadband services.
+bii-tza-001,whole,Debt to a telecom tower company for new sites.
+bii-zaf-001,whole,Equity in a digital bank.
+bii-zaf-002,whole,Debt for a wireless broadband internet provider.
+bii-zmb-001,whole,Equity in a telecoms tower operator.
+bio-reg-africinvest-five-2017,partial,"Financial inclusion fund investing in banks, insurers and non-bank lenders as well as fintech."
+bio-reg-cathay-africinvest-2021,whole,Equity in a venture fund investing in digital tech companies.
+bio-reg-cpdif-2022,whole,"Equity in a fund investing in fibre, wireless broadband, data centres and digital platforms."
+bio-reg-lendable-fintech-2022,whole,Equity in a credit fund that lends to fintech companies.
+bio-reg-terrapay-2024,whole,Loan to a digital payments infrastructure provider.
+bio-reg-tide-africa-2020,whole,Equity in a venture capital fund focused on technology companies.
+bio-uga-towerco-2024,whole,Loan to a tower company for rural telecom towers.
+bluepeak-monty-mobile-xaf-2026,whole,Equity in a company providing enterprise messaging infrastructure over mobile networks.
+bmz-ben-001,whole,Technical cooperation programme to strengthen digital transformation.
+bmz-ben-002,out,"General support to small and medium enterprises; digitalisation is one advisory topic among business planning, marketing and staffing."
+bmz-cmr-002,whole,Project addresses the digital gender divide and women's use of digital innovations in business.
+bmz-cmr-005,whole,"Project is about producing harmonised, quality-assured soil and groundwater data for planning."
+bmz-eac-xea-2026,whole,"Regional AI research and training network, AI strategy and digital skills."
+bmz-eth-2025-desta-digitalised-tvet,whole,Project accelerates the digital transition of the vocational training system and digital skills.
+bmz-gha-001,whole,Project is about digital transformation for micro-enterprises.
+bmz-gha-002,whole,Enables a university to run ICT qualification programmes with accompanying employment measures.
+bmz-ken-001,whole,Project is a digital transformation centre promoting the digital economy and digital skills.
+bmz-ken-003,whole,Youth training delivered through ICT-based approaches; the text names no non-digital use.
+bmz-mrt-001,whole,Digital transformation promotion project.
+bmz-mwi-001,partial,Public financial management reform; the financial management information system is one focus beside the legal framework.
+bmz-nga-001,whole,Project is a digital transformation centre promoting digital solutions.
+bmz-reg-001,whole,Digital skills programme.
+bmz-reg-002,whole,Digital skills and AI research alliance.
+bmz-reg-003,whole,Academic centre of excellence for ICT and digital innovation.
+bmz-reg-004,whole,Project supports an alliance for accelerating digital transformation.
+bmz-reg-005,whole,Programme on digital and data policy harmonisation across Africa.
+bmz-reg-006,whole,Project supports data-based digital innovations developed in Africa.
+bmz-reg-007,whole,Programme builds digital skills in formal and non-formal education.
+bmz-reg-008,whole,Initiative supports cross-border e-commerce.
+bmz-reg-009,whole,"Initiative to enable cross-border e-commerce: electronic payments, digital skills and regulation."
+bmz-reg-010,whole,Digitalisation and data exchange for regional trade and integration.
+bmz-rwa-001,whole,"Project supports digitalisation of economy and society, including digital skills and access."
+bmz-rwa-002,whole,Strengthening the ICT industry chamber and ICT sector employment.
+bmz-rwa-003,whole,Project is a digital centre supporting digital transformation.
+bmz-rwa-004,whole,"Partnership between a German IT association and Rwanda's ICT chamber, supporting the ICT industry."
+bmz-rwa-005,whole,Builds capacity to develop and scale digital solutions.
+bmz-sen-001,whole,Project promotes digital transformation processes in the public sector.
+bmz-tgo-001,whole,Technical cooperation programme on digital transformation and digital innovation.
+bmz-tza-001,whole,Digital transformation centre applying digital approaches to rights and gender work.
+bmz-zaf-001,whole,Project is a digital skills for jobs programme.
+bmz-zaf-003,whole,Digital skills for jobs programme.
+boc-bfa-001,whole,Loan builds a fibre optic backbone section.
+boc-civ-001,whole,Loan finances a Huawei contract for a digital education project.
+boc-civ-002,whole,Loan finances a Huawei contract for the interior ministry's unified communication system.
+boc-civ-003,whole,Loan finances a Huawei contract for a digital education project.
+boc-civ-004,whole,Loan finances a Huawei contract for a ministry's unified communication system.
+boc-civ-005,whole,Loan finances a contract to build an integrated information system for the armed services.
+boc-civ-006,whole,Fibre and networked video surveillance platform in three cities.
+boc-civ-007,whole,Second loan for the same fibre and video surveillance platform.
+boc-civ-008,whole,Loan finances an integrated information system for the armed services.
+boc-civ-009,whole,"Loan finances a security communication system: command centre, video surveillance, IT network and communications modernisation."
+boc-civ-010,whole,"Fibre, networked surveillance cameras and a connected traffic monitoring system."
+boc-cmr-002,whole,Credit line finances an urban video surveillance system installed by Huawei.
+boc-cmr-003,whole,Finances a Huawei contract for video surveillance cameras and two-way radios.
+caf-france-2024-appui-budgetaire-reformes-mfb,whole,Amount is the share earmarked for three finance ministry IT systems.
+caf-undp-2024-digitalisation-administration-publique-p2,whole,Title states the agreement is for digitalisation of public administration; no description is given.
+cardinalstone-nomba-2026,whole,Debt facility for a fintech's cross-border payments infrastructure.
+cassava-reg-nvidia-ai-factory,whole,GPU-equipped data-centre capacity for AI across five hubs.
+ccb-mwi-001,whole,Loan for last-mile connectivity towers and a national data centre.
+cdb-gha-accra-traffic-management-2020,whole,Loan for an IT-based traffic management system; no non-digital use is named.
+cdb-gnq-001,whole,Loan is for a video surveillance camera system project.
+cdb-zmb-001,whole,Loan finances a ZTE contract for a city CCTV surveillance and public security network.
+cdb-zwe-001,whole,Loan to a mobile operator for market consolidation and new services.
+cdc-ci-civ-2026,unclear,"Seed grants to eight start-ups, only three identified as technology companies; the rest are not described."
+ceiec-ago-2017,whole,Contract for an integrated civil and criminal identification platform.
+china-citic-bank-cmr-2024,whole,Loan for an intelligent urban video-surveillance system; no other use is named.
+china-citic-bank-cmr-2025,whole,Loan gives further financing for the national urban video surveillance system.
+china-mofcom-cpv-001,whole,"Grant funds network infrastructure, computing, storage and data centre equipment for e-government."
+china-mofcom-cpv-002,whole,"Grant for fibre, local networks and WiFi for public institutions."
+china-mofcom-cpv-003,whole,Extension of a networked video surveillance system to three islands.
+china-mofcom-cpv-004,whole,"Safe city phase covering command centres, data centres, wireless base stations and video surveillance."
+china-mofcom-dji-001,whole,Grant for an urban video surveillance and security monitoring system.
+china-mofcom-mrt-001,partial,"Surveillance system and command centre, but the grant also builds regional security service buildings and police observation posts."
+china-mofcom-sen-001,whole,"Smart Senegal ICT project: safe city, smart education and network infrastructure."
+china-mofcom-ssd-001,out,"Education project of courses, teacher training and printed textbooks; ICT training centre equipment is a small part."
+china-mofcom-ssd-003,out,"Education cooperation project; textbooks printing and general teacher training dominate, with an ICT teacher training centre as one element."
+china-mofcom-tcd-001,whole,"Grant toward a national data centre, fibre network and mobile sites."
+china-mofcom-uga-002,partial,Customs modernisation grant; cargo scanners and border infrastructure sit beside risk management and communication systems.
+china-mofcom-zwe-001,whole,Loan for a high-performance computing centre.
+china-mofcom-zwe-002,whole,Grant to expand a high-performance computing centre and add cloud services.
+china-other-bwa-001,whole,Donation of video conferencing equipment to a ministry.
+commercial-bank-cameroun-cmr-2026,whole,Syndicated financing funds the telecom operator's mobile network expansion.
+convergencepart-nga-vgn-2015,whole,Equity in a fintech and payment-processing technology company.
+convergencepart-reg-42markets-2023,whole,Growth equity in a capital-markets fintech group.
+convergencepart-zaf-ctrack-2021,whole,Acquisition of a telematics software-as-a-service and IoT analytics company.
+crdi-bfa-2025,whole,Grant funds an artificial intelligence research centre.
+cybastion-angola-telecom-2025,whole,"Cybersecurity agency and training, subsea cables and digital infrastructure with the telecom operator."
+deg-eth-m-birr-mobile-money-2018,whole,Equity in a mobile money platform operator.
+deg-gha-surfline-2015,whole,Co-investment in a 4G network operator for network expansion.
+deg-reg-axian-telecom-bond-2022,whole,"Bond of a telecom group, used for new mobile antennas and digital infrastructure."
+deg-reg-axian-telecom-bond-2025,whole,Bond issued by a telecoms group for refinancing and digital infrastructure.
+deg-reg-copia-global-equity-2022,whole,Equity in an e-commerce company with digital financial services.
+deg-reg-helios-towers-bond-2020,whole,Bond of a telecom tower company for tower expansion.
+deg-reg-helios-towers-bond-2024,whole,Bond investment in a telecom tower company.
+deg-reg-ipt-powertech-telecom-energy-2019,whole,"Loan funds power systems that keep telecom towers running, which is part of mobile network infrastructure."
+deg-reg-liquid-intelligent-technologies-bond-2021,whole,Bond investment in a fibre and data centre group.
+deg-reg-partech-africa-fund-ii-2023,whole,Stake in a venture fund for technology companies.
+deg-reg-tide-africa-ii-tlcom-2023,whole,Equity in a venture fund backing tech start-ups.
+deg-zaf-lulalend-series-b-2023,whole,Equity in a digital SME lender.
+deg-zaf-naked-insurance-seriesb-2023,whole,Equity in a fully digital insurance platform.
+deg-zaf-naked-insurance-seriesb2-2025,whole,Equity in a digital insurance platform company.
+dfat-reg-commonwealth-digital-id-2018,whole,Initiative supports digital identity and civil registration systems.
+dfat-reg-digital-earth-africa-ii-2019,whole,Grant funds satellite data infrastructure and open data products.
+dfat-reg-digital-earth-africa-iii-2023,whole,Platform providing open satellite-derived data to African countries.
+dfc-ken-apollo-agriculture-2021,partial,"Agri-fintech's loan book bundles seeds, fertiliser and crop insurance with digital credit and advisory."
+dfc-ken-mkopa-2024,partial,Loan finances smartphone receivables but also solar home system receivables and cash loans.
+dfc-ken-poa-internet-2022,whole,Loan to an internet provider for towers and customer equipment.
+dfc-ken-twiga-2020,partial,"Digital food distribution platform, but the loan also finances cold storage and logistics."
+dfc-reg-africa-data-centres-2020,whole,"Loan finances acquisition, expansion and construction of carrier-neutral data centres."
+dfc-reg-aiif4-2023,partial,"Infrastructure fund also investing in energy transition and mobility and logistics, not only digital infrastructure."
+dfc-reg-cassava-technologies-2024,whole,"Equity in a digital infrastructure group, directed at new data centre construction."
+dfc-reg-convergence-partners-dif-2021,whole,Equity in a fund investing only in digital infrastructure.
+dfc-reg-janngo-capital-2023,whole,Equity in a venture fund investing in tech start-ups.
+dfc-reg-lendable-fintech-fund-2021,whole,Loan to a fund lending only to fintech companies.
+dfc-reg-norrsken22-fund-2022,whole,Equity in a growth-stage technology fund.
+dfc-sen-quantumid-2024,whole,"Loan to expand an e-commerce, logistics and cargo-tracking technology platform."
+dfc-zaf-usplus-2023,whole,Loan to a fintech providing digital invoice financing.
+dgis-ken-dadaab-digital-skills-2019,whole,Digital skills training with linked business support.
+dgis-ner-idan-digital-agritech-2021,whole,Digital platform delivering integrated digital services to agro-pastoralists.
+dgis-reg-care-pay-mobile-health-2017,whole,Funds a mobile health insurance and payment platform.
+dgis-reg-d4d-hub-digital-coordination-2023,whole,Funds coordination of EU digital-for-development work through the D4D Hub.
+dgis-reg-digital-trade-competitiveness-2021,whole,Programme develops digital trade: e-commerce and digital services exports.
+dgis-reg-hif-mobile-health-innovation-2022,whole,Fund described wholly as mobile and technology platforms connecting health service demand and supply.
+dgis-reg-unctad-digital-economy-2023,partial,"Two tracks; digital economy and e-commerce is one, investment facilitation and business climate simplification is the other."
+dgis-reg-unctad-ecommerce-partnership-2018,partial,"Partnership also covers investment and governance for private sector development, not only e-commerce and digital economy."
+dgis-reg-wb-digital-dev-partnership-2020,whole,Contribution to a digital development partnership's emergency work on digital infrastructure.
+dgis-uga-emata-digital-loans-dairy-2022,whole,Capital for a digital lender.
+dpi-nga-moniepoint-2024,whole,Equity in a digital banking and payments company.
+dpi-reg-channelvas-2019,whole,Equity in a mobile fintech provider of airtime credit and nano loans.
+dpi-zaf-ukheshe-2022,whole,Equity in a digital payments infrastructure company.
+eaif-axian-telecom-2025,whole,Bond investment in a telecoms group for network capital expenditure.
+eaif-liquid-intelligent-technologies-2026,whole,Loan to a fibre network operator for refinancing and network maintenance.
+eaif-wiocc-group-2025,whole,Loan funds fibre-to-the-home rollout by a telecom infrastructure provider.
+eand-mli-sotelma-licence-2024,whole,Telecoms licence renewal fee paid by a mobile operator.
+eand-reg-moov-africa-capex-2023,whole,Telecom group's annual network capital spending on 4G and mobile broadband in its subsidiaries.
+eand-reg-moov-africa-capex-2024,whole,Mobile operators' capital expenditure on networks and spectrum licences; the whole business is telecoms.
+eand-reg-moov-mobile-money-2022,whole,Investment in mobile money services.
+eand-reg-transafrican-cable-2022,whole,Investment in a transafrican terrestrial fibre cable.
+eand-reg-west-africa-cable-2021,whole,Construction of a submarine fibre optic cable.
+ebrd-nga-001,whole,Sovereign loan funds Nigeria's stake in a company rolling out national fibre-optic broadband.
+ebrd-tun-2024,whole,"Loan for a telecom operator's fibre, mobile network and submarine cable capital expenditure."
+ebrd-yas-2026,whole,"Loan to a telecom operator to expand 4G, 5G and fibre networks."
+ec-bwa-001,unclear,"Title says digital transformation, but the described components are a general cooperation facility and the text is truncated."
+ec-civ-001,partial,"Two components; digital initiatives are one, corporate social responsibility in business is the other."
+ec-civ-002,partial,Digital innovation action whose first component concerns corporate responsibility and jobs; the text is cut short.
+ec-cog-001,whole,"Action supports digital transformation, starting with transmission networks and data storage capacity."
+ec-cog-002,whole,Project accelerates digital transformation and modernises government information systems.
+ec-eth-001,whole,Action develops digital skills through vocational training.
+ec-eth-005,whole,Grant supports the technology ministry's role in guiding digital reforms.
+ec-eth-006,partial,Action restores financial institutions' traditional lending capacity as well as introducing digital financial services.
+ec-eth-008,whole,Project counters hate speech and incitement on social media.
+ec-eth-009,whole,Technical assistance for a health insurance information system.
+ec-glo-001,whole,"Knowledge hub covering digital economy, connectivity, cybersecurity and related digital priority areas."
+ec-glo-003,whole,"Action on cyber capacity building, secure connectivity, responsible AI and digital capacities."
+ec-glo-005,whole,Action supporting ICT and digital standardisation.
+ec-glo-006,partial,Action promotes green tech innovation and the green transition alongside the digital one.
+ec-glo-007,whole,Action promotes the EU's vision of digitalisation and digital governance in multilateral fora.
+ec-glo-008,whole,Action to establish digital standards for social protection systems; no non-digital use is named.
+ec-glo-013,whole,Initiative protects democratic space in the digital sphere; thin text names no non-digital use.
+ec-glo-014,whole,Contract promotes the EU's vision of digitalisation and a civic internet in multilateral fora.
+ec-glo-017,whole,Supports implementation of a recommendation on the ethics of AI.
+ec-glo-019,whole,"Contribution to a digital convergence initiative, as the title states; the description adds nothing further."
+ec-glo-022,whole,Contribution to a fund window dedicated to digital transformation.
+ec-glo-024,whole,Deployment of digital finance solutions.
+ec-glo-029,whole,Contributes to digital standards for social protection systems.
+ec-glo-035,whole,Seed financing for a facility on energy-sector digitalisation; no separate non-digital use is named.
+ec-glo-036,whole,Facility for digitalisation of the energy sector; no specific non-digital use is named.
+ec-ken-001,partial,Security programme; cybersecurity is one strand beside wider security and conflict-related support.
+ec-ken-003,whole,Programme focused on digitalisation in Kenya; nothing non-digital is named.
+ec-ken-008,whole,Project is titled for a safe and inclusive digital space; the text names no separate non-digital use.
+ec-ken-009,partial,Youth civil society grant covering the green transition as well as the digital one.
+ec-ken-010,whole,Project for the digital transformation of the technical and vocational training sector.
+ec-ken-011,whole,Contract for last-mile internet connectivity of schools.
+ec-moz-002,whole,Titled as a digital programme; the truncated description gives only country context and names nothing non-digital.
+ec-mwi-001,whole,Titled as a digital transformation action; truncated text names no specific non-digital use.
+ec-nga-004,whole,Digital innovation ecosystem support.
+ec-reg-001,whole,Supports telecom regulators on ICT regulation and broadband infrastructure facilitation.
+ec-reg-002,whole,"Action covers e-commerce, e-payments, e-governance and cybersecurity."
+ec-reg-003,whole,Initiative on ICT policy and regulation for Africa.
+ec-reg-004,whole,Programme supports adoption of satellite-based navigation augmentation in Africa.
+ec-reg-005,whole,"Grant supports research and education networks, connectivity and data infrastructure."
+ec-reg-006,whole,Grant improves governance and the enabling environment of the ICT sector.
+ec-reg-007,whole,Action to build a digital innovation market between Africa and Europe.
+ec-reg-008,whole,Grant deploys digital health tools.
+ec-reg-009,whole,"Digital solutions, connectivity and e-learning for education and health continuity."
+ec-reg-010,whole,Support to a digital economy task force.
+ec-reg-011,whole,Action funds digital health solutions and onboarding to the digital health certificate network.
+ec-reg-012,whole,Internet connectivity for national research and education networks.
+ec-reg-014,unclear,Text says only regional infrastructure support; it does not say whether any or all of it is digital.
+ec-reg-015,partial,Regional infrastructure programme; digital networks are one strand beside transport and energy networks.
+ec-reg-016,unclear,Truncated text describes science and innovation support for green-transition centres of excellence; no digital content is stated.
+ec-reg-018,whole,Project builds national broadband mapping systems.
+ec-reg-019,whole,Institutional strengthening of telecommunications regulators and ICT policy.
+ec-reg-022,whole,Spectrum harmonisation and regulation for wireless broadband.
+ec-reg-024,whole,Grant for ICT standardisation.
+ec-reg-041,whole,Contract deploys a digital traceability and verification system for vaccines and health products.
+ec-reg-050,whole,Action deepens financial inclusion through digital ecosystems and innovative solutions; no non-digital use is named.
+ec-reg-051,whole,Contract funds research and education institutions' access to digital infrastructure.
+ec-reg-052,whole,Contract funds research and education networks' access to digital infrastructure.
+ec-reg-053,whole,"Action wholly on data governance, data policy, sharing and data infrastructure."
+ec-reg-055,unclear,Truncated text describes green-transition centres of excellence and names no digital activity.
+ec-reg-061,whole,Technical assistance for a connectivity guarantee investment programme.
+ec-rwa-001,partial,"Project also funds tourism and hospitality skills for youth, beside digital-based opportunities."
+ec-rwa-002,whole,Innovation and incubation hubs for digital-based employment.
+ec-sen-001,whole,"Support to governance of the digital sector, its legal framework and last-mile connectivity studies."
+ec-sen-002,whole,Project supports governance of the digital sector.
+ec-sle-001,partial,"Model combines a digital extension tool with a block farm employing 250 farmers, which is not digital."
+ec-sle-002,whole,IT and physical infrastructure for the civil registration system.
+ec-som-001,whole,Provision of IT equipment to institutions for digitalisation; office equipment is incidental.
+ec-tgo-001,whole,Programme addresses limited digital skills to support digital transformation of the economy.
+ec-tza-002,whole,Digital4Tanzania action on connectivity and digital governance; thin text names no non-digital use.
+ec-tza-004,whole,"Project improves digital infrastructure, tools, policies and digitally enabled services."
+ec-tza-006,partial,Business environment programme; ICT infrastructure capacity is one of three outputs beside regulatory reform and its assessment.
+edcf-eth-land-information-system-2019,whole,Loan builds a land information management system.
+edcf-eth-tax-customs-system-2022,whole,Loan for tax and customs administration IT systems.
+edcf-ken-its-transport-ph2-2019,whole,"Loan for an intelligent transport system: integrated traffic management, smart signals and digital surveillance."
+edcf-ken-konza-digital-media-city-2023,partial,"Media city development; production studios, broadcasting stations and media training institutes sit beside gaming and animation facilities."
+edcf-tza-ai-digital-training-institute-2026,whole,"Loan builds and equips an institute dedicated to AI, robotics, data analytics and IoT training."
+edcf-tza-land-information-system-2021,whole,Loan to digitise the land information system and cadastral maps.
+edcf-tza-resident-registration-2021,whole,Loan expands the resident registration and national ID system.
+efinance-tamweely-2026,partial,Acquired company is a conventional small-business lender; the digital element is the acquirer's technology and planned data-led lending.
+eib-cod-001,whole,Financing builds a fibre-optic backbone in eastern DRC.
+eib-cod-002,whole,Investment deploys a fibre-optic backbone.
+eib-cog-001,whole,"Loan funds public administration digitalisation: data protection, cybersecurity, interoperability, sector digital systems and digital skills."
+eib-cog-2022,whole,"Loan to a digital transformation project covering e-administration, data governance and cybersecurity."
+eib-cpv-001,whole,"Submarine cable branch, transmission network modernisation and the telecom operator's information systems."
+eib-cpv-002,whole,Loan to the telecom operator for submarine cable and broadband.
+eib-ken-001,whole,Loan to a telecom operator to expand mobile broadband capacity and coverage.
+eib-mrt-001,whole,Loan finances a submarine cable.
+eib-mrt-002,whole,Loan for a submarine cable system.
+eib-mrt-003,whole,Loan finances construction and certification of the national data centre.
+eib-mrt-2025,whole,"Financing connects Mauritania to a submarine cable, covering execution and maintenance."
+eib-nga-001,whole,Loan expands a 4G mobile broadband core and radio network.
+eib-nga-002,whole,Loan for national digital identity infrastructure and biometric enrolment.
+eib-reg-001,whole,Financing for a telecom operator's 4G and 5G network expansion.
+eib-reg-002,whole,Loan builds mobile telecom networks to cover unserved rural communities.
+eib-reg-003,whole,Financing is for optical fibre roll-out.
+eib-reg-005,whole,Equity in a venture fund for digital and technology start-ups.
+eib-reg-006,whole,Equity in a venture fund targeting digital and technology start-ups.
+eib-uga-001,whole,Loan builds new mobile tower sites.
+enabel-ben-digiboost-2019,whole,Support to digital start-ups and their support structures.
+enabel-bfa-d4gw-2021,whole,"Project promotes digital skills, digital rights and gender-sensitive digital policies."
+enabel-reg-datagov-africa-2023,whole,Data governance and data protection frameworks.
+enabel-reg-wehubit1-2018,whole,Grants programme for scaling digital social innovations.
+enabel-reg-wehubit2-2023,whole,Grants programme for scaling digital social innovations.
+enabel-sen-direcct-2021,whole,Digital transformation of health data systems and of small enterprises.
+enabel-uga-d4gw-2021,whole,Digital skills and digital rights for women and girls.
+equinix-nga-lg3-2025,whole,Investment plan for new and expanded data centres.
+equinix-reg-mainone-acq-2022,whole,"Acquisition of a company whose assets are data centres, terrestrial fibre and a submarine cable."
+equinix-zaf-2026,whole,Investment is entirely in new data centre facilities and land for them.
+equinix-zaf-johannesburg-jn1-2022,whole,Investment builds a colocation data centre in Johannesburg.
+eu-afd-eth-001-rised,partial,"Programme combines renewable energy and digitalisation strands, and the sum is not split between them."
+eu-dji-e-skills,whole,"Digital skills programme: a coding school, digital houses and digitisation support."
+eu-eth-002-digital-economy-package,whole,"Amount is the digital economy package alone: fibre, digital skills and tech governance reform."
+eu-moz-001,whole,The recorded slice is the digital transformation agreement only.
+eu-moz-govnet-team-europe,whole,Action expands the government network to more districts and sets up community multimedia centres.
+european-union-cmr-2026,whole,Digital acceleration programme for small-enterprise competitiveness.
+european-union-cog-2023,whole,"Grant belongs to a digital transformation project covering administrative modernisation, digital skills, data governance and cybersecurity."
+european-union-ken-2026,whole,"Cyber resilience project: governance, coordination, awareness and critical information infrastructure."
+european-union-ken-2026-02,whole,"Commitment under a digital partnership for digital infrastructure, connectivity and innovation, including a submarine cable."
+european-union-mar-2026-pap-num,unclear,"No description, and the title names only a financing decision and annex."
+european-union-nga-2025,whole,"Digital economy package covering connectivity, digital public infrastructure and digital skills."
+european-union-nga-2026,whole,"The amount is the digitalisation share of the package: fibre, digital public infrastructure, digital services and skills."
+european-union-sen-2020,whole,"Civil registration modernisation, digitising records into a national register."
+european-union-sen-2024,whole,"Digital economy package covering digital governance, innovation and inclusion."
+european-union-tun-2023,whole,Grant part-funds a submarine cable.
+european-union-xca-2026,whole,Grant for digital business and digital economy foundations.
+european-union-xwa-2025,unclear,"Text gives only dates, amount and education sector tags for a project titled digital campus."
+exim-bank-usa-ago-2026,whole,"No description, but the title is a loan to a mobile operator for technology investment."
+exim-bank-usa-civ-2025,whole,Guarantee to fund construction of a national data centre.
+exim-bank-usa-civ-2025-02,whole,"Guarantee covers digitalisation of a ministry: information systems, cybersecurity and cloud."
+exim-bank-usa-civ-2026,whole,"Finances a sovereign data centre, a government digitisation platform and a smart border surveillance system."
+eximbank-cn-ago-002,whole,Loan installs a camera surveillance network and the monitoring centres that process its data.
+eximbank-cn-ago-003,whole,"Loan builds national broadband fibre, a submarine link and core telecoms infrastructure."
+eximbank-cn-ben-001,whole,"Loan for national fibre backbone, metro network and broadband access."
+eximbank-cn-bfa-002,whole,Loan finances fibre-optic backbone networks and a video surveillance system.
+eximbank-cn-cmr-001,whole,Loan finances a phase of the national fibre optic backbone.
+eximbank-cn-cmr-002,whole,Credit for the national broadband network built by Huawei for the state telecom operator.
+eximbank-cn-cmr-003,whole,Loan finances the SAIL submarine internet cable between Cameroon and Brazil.
+eximbank-cn-cmr-004,whole,Loan is for a national higher-education e-network built by a telecom contractor.
+eximbank-cn-cmr-005,whole,Loan for an electronic certificate verification e-government system.
+eximbank-cn-cmr-006,whole,Title describes an extension of the national fibre-optic transmission backbone for the state telecom operator.
+eximbank-cn-cod-002,whole,"Loan modernises the computer systems of tax, customs and revenue authorities, including a data centre."
+eximbank-cn-cog-001,whole,Credit extends the national fibre network and strengthens the state telecoms operator.
+eximbank-cn-cog-003,whole,Loan for national fibre network coverage and the state telecom operator.
+eximbank-cn-com-001,whole,Loan to the state telecom operator for network modernisation and fibre-to-the-home.
+eximbank-cn-cpv-001,whole,"E-government project: network upgrades and computing, storage and data-centre equipment."
+eximbank-cn-gha-002,whole,Credit finances a national security communications network supplied by Huawei.
+eximbank-cn-gha-004,whole,Finances a Huawei and CNTIC contract for rural telephony and digital inclusion.
+eximbank-cn-gha-005,whole,Loan pays for network links and technical systems connecting university campuses for distance learning.
+eximbank-cn-gha-006,whole,Loan to establish ICT-based distance learning facilities for a training institute.
+eximbank-cn-gin-001,whole,"Urban surveillance system: cameras, command centres and security management platforms."
+eximbank-cn-gmb-001,whole,Loan for a national broadband network.
+eximbank-cn-gnq-001,whole,Loan pays for the Ceiba-2 submarine cable system contract.
+eximbank-cn-ken-001,whole,Loan for the national fibre backbone and e-government expansion.
+eximbank-cn-ken-003,whole,Loan finances a Huawei contract for the Konza national data centre and smart city systems.
+eximbank-cn-ken-004,whole,"Loan for an intelligent transport system: AI traffic management, cameras, sensors and smart city backbone."
+eximbank-cn-mdg-002,whole,"Loan funds a government fibre and eLTE network, data centres, software and surveillance equipment."
+eximbank-cn-mli-001,whole,"Fibre backbone, government network, surveillance network and electronic ID card system."
+eximbank-cn-moz-002,whole,Loan to modernise and expand a state-owned operator's mobile network.
+eximbank-cn-moz-005,whole,Title states the loan is for a telecoms operator's network expansion; no description is given.
+eximbank-cn-mus-001,whole,"Finances a Huawei contract for surveillance cameras, radio trunking and command and emergency response systems."
+eximbank-cn-mwi-001,whole,Loan for phase one of the national fibre backbone.
+eximbank-cn-mwi-002,whole,Loan for phase two of the national fibre backbone.
+eximbank-cn-nga-001,whole,Credit for a mobile operator's telecom equipment purchase.
+eximbank-cn-rwa-001,whole,Loan for digital technology infrastructure and platforms in education.
+eximbank-cn-sen-001,whole,"Loan funds an e-government project built on fibre backbone, government intranet and data centres."
+eximbank-cn-sen-002,whole,"Loan funds ICT sub-projects: safe city systems, smart education platforms and related digital infrastructure."
+eximbank-cn-sen-003,whole,Loan for a national data centre's expansion and the second phase of a government digital infrastructure programme.
+eximbank-cn-sle-001,whole,Loan for phase two of the national fibre optic backbone.
+eximbank-cn-tcd-001,whole,"All three components are digital: a national data centre, a fibre backbone and mobile sites."
+eximbank-cn-uga-001,whole,Loan for national fibre backbone and e-government infrastructure.
+eximbank-cn-zmb-001,whole,Finances a Huawei contract for three data centres and an ICT training centre.
+eximbank-cn-zmb-004,whole,"Loan finances communication towers, wireless stations and transmission network."
+eximbank-cn-zmb-005,whole,"Finances a Huawei contract for fibre backbone, metropolitan networks and an IP access network."
+eximbank-cn-zwe-001,whole,Credit finances a state telecoms company's broadband expansion contract.
+eximbank-cn-zwe-002,whole,Loan for the third phase of a state-owned mobile operator's network expansion.
+expertise-france-lby-2023,whole,Digital skills training project.
+expfr-reg-datafid-2021,whole,Project strengthens digital economy statistics and data science use in tax and customs administrations.
+fcdo-eth-001,whole,"Programme funds an AI facility providing technical assistance, AI models and AI skills."
+fcdo-ken-001,whole,"Programme for digital access, last-mile connectivity and digital skills."
+fcdo-ken-002,whole,Digital literacy and digital financial services access.
+fcdo-mwi-001,whole,"Programme delivers technology solutions: census technology, digital data collection, geospatial applications and digital platforms."
+fcdo-reg-001,whole,"Programme entirely about digital access: connectivity, digital skills and digital inclusion regulation."
+fcdo-reg-002,whole,Programme supports digital public goods and digital transformation strategies.
+fcdo-reg-003,whole,Programme supports digital public goods and digital transformation advisory.
+fcdo-reg-004,whole,"Promotes accountable use of emerging digital technologies, AI and digital governance reforms."
+fcdo-reg-006,whole,"Programme improves cybersecurity capability, data protection and digital forensics."
+fcdo-reg-007,whole,Capacity building and certification in digital finance.
+fcdo-reg-008,whole,"Programme is wholly about AI: policy research, talent, datasets, innovation and scaling."
+fcdo-reg-009,whole,Funds an initiative on digital identification and civil registration systems.
+fcdo-reg-010,whole,"Partnership wholly about mobile technology: connectivity, mobile money and mobile-enabled services."
+fcdo-reg-011,whole,Programme develops mobile technology services for humanitarian response.
+fcdo-reg-012,whole,Programme producing and managing geospatial and demographic data.
+fcdo-reg-013,whole,"Programme tests frontier technologies, including AI and digital tools, in development work."
+fcdo-reg-014,out,Support to science granting councils; research management and knowledge transfer accompany the digital research infrastructure and data systems.
+fcdo-som-001,whole,Support to the national statistical system and statistical capacity.
+fcdo-uga-001,partial,"Agricultural innovation investment programme; digital and AI are among the technologies supported, alongside other agricultural innovations and evidence work."
+fincart-egy-seed-2026,unclear,"No description is given, and the title states only a seed round."
+findev-ken-mkopa-convertible-2023,whole,Notes fund a fintech platform's expansion in smartphones and digital financial services.
+findev-ken-mkopa-equity-2018,whole,Equity in a pay-as-you-go fintech platform built on digital micropayments and connected devices.
+findev-reg-lendable-fintech-fund-2026,whole,Loan to a debt fund that lends to fintech platforms.
+finnfund-cod-bcs-2021,whole,Loan builds fibre-optic backbone and broadband networks.
+finnfund-eth-mbirr-2017,whole,Investment in a mobile money platform.
+finnfund-reg-cassava-2024,whole,"Equity in a group whose businesses are fibre, data centres, cloud, AI and fintech."
+finnfund-reg-cpdif-2022,whole,Commitment to a digital infrastructure fund.
+finnfund-reg-wave-2022,whole,Loan to a mobile money platform.
+finnfund-ssd-2026,whole,Solar-hybrid energy systems solely for a mobile operator's telecom sites.
+finnfund-ssd-crei-2024,whole,"Loan funds power systems for mobile network sites, which is telecoms site infrastructure."
+finnfund-zaf-fibertime-2023,whole,Equity in a fibre internet provider.
+fmo-eth-coop-bank-digital-lending-2024,partial,General senior loan to a bank; its digital lending app and mobile channels are only part of its business.
+fmo-hub2-2024,whole,Equity in a mobile wallet and payments fintech.
+fmo-ken-mkopa-paygo-solar-2017,partial,Debt to an asset-financing platform; solar home systems are financed alongside smartphones and digital financial services.
+fmo-mus-fido-fintech-digital-credit-2024,whole,Equity in a digital credit fintech.
+fmo-reg-partech-africa-fund-ii-2022,whole,Commitment to a venture fund that invests only in tech start-ups.
+fmo-reg-tide-africa-ii-vc-fund-2024,whole,Commitment to a venture fund for early-stage tech companies.
+fourdx-civ-cinetpay-2021,whole,Seed equity in a digital payments platform.
+fourdx-ken-sokowatch-2018,whole,Seed equity in an e-commerce platform.
+fourdx-nga-tizeti-2018,whole,Equity in an internet service provider.
+gac-bfa-tech-platform-civic-health-2017,whole,Digital platform for citizen engagement and health data.
+gac-cmr-digital-gender-gap-cmr-sn-2025,whole,"Project supports women's digital skills, access to technology and digital enterprises."
+gac-cod-birth-reg-drc-2015,whole,Grant increases birth registration through technology-enabled civil registration systems.
+gac-moz-vital-stats-mnch-2017,whole,Project raises civil and vital registration using digital registration technology and vital statistics systems.
+gac-moz-vital-stats-mnch-2021,whole,Civil registration and vital statistics systems.
+gac-mul-digital-livelihoods-yfw-2015,whole,Expands a digital skills and digital livelihoods programme for youth.
+gac-reg-crvs-centre-excellence-2015,whole,Centre of excellence for civil registration and vital statistics systems.
+gac-tza-birth-reg-tech-2015,whole,Birth registration at scale using mobile data collection and digital registration systems.
+gates-eth-001,unclear,Support for a financial inclusion strategy; the text does not mention any digital content.
+gates-eth-003,whole,Grant builds the digital financial inclusion knowledge base and information flow.
+gates-eth-004,whole,Grant strengthens data governance and data sharing frameworks.
+gates-foundation-ken-2026,whole,Development of AI use cases with open data.
+gates-foundation-nga-2026-maternal-health-multiplier,whole,"All three components are digital: AI decision tools, smartphones and data, and facility connectivity."
+gates-foundation-rwa-2026,whole,"Funding, technology and support to apply AI tools in primary healthcare clinics."
+gates-foundation-sen-2025,whole,"Funds a national technology strategy: universal digital identity, an AI hub and its delivery unit."
+gates-foundation-sen-2026,whole,Capacity to analyse and use learning data.
+gates-foundation-xaf-2026-lingua,whole,Grants fund African language AI datasets and models.
+gates-gmb-001,whole,Pilot of an inclusive digital payment system.
+gates-ken-001,partial,Supervisory technology sits beside building regulators' supervision teams and grievance mechanisms.
+gates-ken-002,unclear,Policy advocacy on women's financial inclusion; no digital activity is stated.
+gates-ken-003,whole,Grant supports the central bank in establishing digital payment services.
+gates-nga-001,whole,Expanding financial inclusion through access to digital financial services and related consumer protection.
+gates-nga-002,partial,"State public finance support through peer learning and capacity building, with digital tools as one means."
+gates-nga-003,whole,Grant supports collection of financial inclusion survey data.
+gates-nga-005,unclear,Sets up an intermediary for financial inclusion programmes; the text does not say whether they are digital.
+gates-nga-007,whole,Grant builds a partner ecosystem for AI and digital public infrastructure solutions.
+gates-nga-008,whole,Grant is titled as support for digital financial services for women.
+gates-reg-001,whole,Supports a network of digital payment scheme experts; its whole mandate is digital payments.
+gates-reg-003,whole,Contribution to a facility dedicated to digital financial inclusion and interoperable payments.
+gates-reg-004,whole,Grant establishes a network of digital payment scheme experts.
+gates-reg-005,whole,Grant supports an open-source digital identity platform.
+gates-reg-006,whole,Fund for building digital public infrastructure.
+gates-reg-007,unclear,Core support for a financial inclusion body; the text names no digital element.
+gates-reg-008,whole,Development of instant digital payment systems.
+gates-reg-009,whole,Mobilising resources for countries to build digital public infrastructure.
+gates-reg-010,unclear,General operating support to a financial-sector body; the text says nothing about what it pays for.
+gates-reg-012,whole,Grant to scale digital payments to campaign workers.
+gates-reg-013,partial,"Core support to a financial inclusion body's whole strategy: policy frameworks, enabling infrastructure and financial solutions, not only digital ones."
+gates-reg-014,whole,Supports bundled digital services for farmers.
+gates-reg-016,whole,Grant supports digitisation of social benefit payments and of a loan scheme.
+gates-reg-017,unclear,"Text speaks only of the quality of financial services and women's empowerment, with no digital content stated."
+gates-reg-018,unclear,Support for affordable financial solutions for women and youth; the text does not mention any digital content.
+gates-reg-019,whole,"Innovation on cash-in cash-out agent services, the access layer of digital financial services."
+gates-reg-020,out,"Supports inclusive financial systems, women's empowerment and resilience generally; digital financial access is one aim."
+gates-reg-021,whole,Grant develops a national instant retail payment system.
+gates-reg-022,unclear,Text describes inclusive financial systems generally; no digital activity is stated.
+gates-reg-023,whole,Scale-up of inclusive instant payment systems.
+gates-reg-026,unclear,"Text describes inclusive financial markets research generally, with no digital content stated."
+gates-reg-027,unclear,Text describes access to financial services generally; no digital activity is stated.
+gates-reg-028,whole,Adoption of an open-source payments platform as digital public infrastructure.
+gates-reg-029,unclear,Text mentions only increasing transaction accounts for poor consumers; whether the work is digital is not stated.
+gates-reg-030,whole,Grant to build an interoperable real-time payment platform.
+gates-reg-031,whole,Capacity building for digital financial services professionals.
+gates-reg-032,whole,Grant develops an open-source digital identity platform.
+gates-reg-033,unclear,Financial consumer protection monitoring and evaluation; the text names no digital element.
+gates-reg-034,partial,Central bank support; institutional strengthening and market growth accompany payment system modernisation.
+gates-reg-035,whole,Regulator capacity to remove barriers to digital financial services.
+gates-reg-036,whole,Grant improves access to and use of digital financial services.
+gates-reg-037,unclear,Support to inclusive financial markets; the text names no digital element.
+gates-reg-038,whole,Improving merchant and cash-in cash-out agent networks that serve digital financial services.
+gates-reg-039,whole,Research on government use of payments and identification technologies.
+gates-reg-040,unclear,General operating support to a financial sector body; the text says nothing about digital content.
+gates-reg-041,whole,Research on the role of digital delivery in cash transfers; no other use is named.
+gates-reg-042,whole,"Grant advances digital payments through advocacy, research and technical assistance."
+gates-reg-043,whole,Building a health campaign management software platform.
+gates-reg-045,whole,Capacity building for fintech practitioners and regulators on digital financial services.
+gates-reg-046,whole,"Grant advances digital payments through advocacy, research and technical assistance."
+gates-reg-047,whole,Deployment of a regional instant digital payment system.
+gates-reg-049,whole,"Supports cash-in cash-out agent networks, the access layer of digital financial services."
+gates-reg-050,unclear,Advocacy for financial inclusion policy; the text states no digital content.
+gates-reg-051,whole,Grant funds research on digital financial services and women's empowerment.
+gates-reg-052,whole,Grant helps regulators remove barriers to digital financial services and harmonise payment systems.
+gates-reg-054,unclear,Text concerns financial consumer protection research; no digital activity is stated.
+gates-reg-055,whole,Development of products for a digital knowledge exchange.
+gates-reg-056,whole,Grant supports design and implementation of next-generation digital identification systems.
+gates-reg-057,whole,"Support for building secure, interoperable digital public infrastructure."
+gates-reg-059,whole,Grant develops language models and tools for African languages.
+gates-reg-060,whole,Research on digital platforms and digital finance adoption.
+gates-reg-061,whole,Centre of excellence for instant payment systems and payments digital public infrastructure.
+gates-reg-062,whole,Development of a bulk digital payment solution.
+gates-reg-064,whole,Improving women's access to digital financial services.
+gates-reg-065,whole,Grant establishes a foundation to host open-source payments software.
+gates-reg-066,whole,Grant funds a generative AI agricultural advisory service.
+gates-reg-069,whole,Supports a mobile money programme.
+gates-reg-070,whole,Grant develops open-source digital tools for government social protection delivery.
+gates-reg-072,unclear,Support to women-led enterprises' financial resilience; the text names no digital element.
+gates-reg-073,whole,Research on tax policy's intersection with digital payment and digital ID infrastructure.
+gates-reg-074,whole,Support for digital payments to health workers.
+gates-reg-076,unclear,Technical support for an enabling regulatory environment in Nigeria; the text does not say for what.
+gates-reg-077,unclear,Aims at cheaper cross-border remittances; the text does not say whether the work is a digital payment system.
+gates-reg-079,whole,Systems and capacity to digitise cash transfers.
+gates-reg-080,whole,Research network on digital credit products.
+gates-reg-082,whole,Grant pilots an interoperability service for transfers and payments.
+gates-reg-083,whole,Grant establishes national digital agriculture roadmaps and digital public infrastructure.
+gates-reg-084,unclear,Financial consumer protection assistance to regulators; the text does not say whether it concerns digital finance.
+gates-reg-085,unclear,Text concerns financial service providers' product design; no digital activity is stated.
+gates-reg-086,whole,Develops a regulatory reporting software solution for financial regulators.
+gates-reg-087,out,Capacity for financial inclusion policy broadly; digital financial services are a cross-cutting focus beside women's inclusion.
+gates-reg-089,whole,Supports digital payments to campaign workers.
+gates-reg-090,unclear,Text concerns the gender gap in financial services generally and does not say the work is digital.
+gates-reg-091,whole,Develops and assesses innovations on a mobile money platform.
+gates-reg-092,whole,Grant builds evidence and regulatory capacity for digital public infrastructure.
+gates-reg-093,whole,Grant runs a digital agriculture solution tracker supporting agtech and fintech firms.
+gates-reg-095,whole,Designs and deploys an interoperable payment platform.
+gates-reg-096,whole,Research into adoption of digital financial services.
+gates-reg-097,whole,Grant collects nationally representative data on financial and digital connectivity indicators.
+gates-reg-098,whole,Grant provides fraud management tools for instant payment systems.
+gates-reg-099,whole,Grant funds data collection and model development for voice technologies.
+gates-reg-100,whole,Accelerates digital payments in pilot countries.
+gates-reg-101,whole,Open-source civil registration systems.
+gates-reg-103,partial,"Research on tax policy and administration in general, with digital public infrastructure and merchant payments as one theme."
+gates-reg-104,whole,Grant delivers agricultural advisory services using digital public infrastructure.
+gates-reg-105,whole,Test built on mobile financial technology; no other use is named.
+gates-reg-106,whole,Grant expands women's use of digital financial services through a mobile-based bank account.
+gates-reg-107,whole,Grant supports digitising government-to-person payments.
+gates-reg-108,whole,"Deployment of geospatial data, tools and technology for health planning."
+gates-reg-109,whole,Grant tests a digital public infrastructure approach to health resource tracking.
+gates-reg-110,whole,Research and surveys on digital inclusion and inequality.
+gates-reg-111,whole,Grant supports policy reform and payment systems infrastructure.
+gates-reg-112,whole,Building regulatory technology capacity.
+gates-reg-114,whole,Grant funds the mobile industry body's mobile money programme and innovation lab.
+gates-reg-115,whole,Tools and coordination for cybersecurity in digital development projects.
+gates-reg-116,whole,Grant develops a fraud portal supervisory technology tool for regulators.
+gates-reg-117,whole,Grant funds and mentors digital financial inclusion start-ups.
+gates-reg-118,whole,Grant tests and scales digital payment services for farmers and rural merchants.
+gates-reg-119,whole,Grant establishes a digital public infrastructure network for farmer services.
+gates-reg-121,whole,Scales agent networks for digital financial services.
+gates-reg-122,whole,Tests digitally enabled primary health facilities; no other use is named.
+gates-reg-123,partial,Supports a tax technology innovation hub and also tobacco and health taxation work.
+gates-reg-124,unclear,Addresses regulatory gaps for financial inclusion; the text names no digital element.
+gates-reg-125,whole,Laboratory on mobile money use cases and interoperability.
+gates-reg-126,unclear,Leadership programme for financial regulators; no digital activity is stated.
+gates-reg-127,whole,Grant develops open-source biometric quality tools for identity systems.
+gates-reg-129,unclear,Launch of a financial-sector deepening body in Ethiopia; no digital content is stated.
+gates-reg-130,whole,Grant funds research and tools for digital financial services technology.
+gates-reg-131,whole,Grant improves cash-in cash-out agent networks for digital finance and builds a measurement dashboard.
+gates-reg-132,whole,Sets up a digital lab to build public-sector digital capability and digital solutions.
+gates-reg-133,unclear,Funds a partner's repositioning strategy and operations; the text names no digital element.
+gates-reg-134,whole,Language AI and voice technology innovation.
+gates-reg-135,whole,Security and privacy of national digital identity systems.
+gates-reg-136,whole,Method for measuring costs of digital financial services.
+gates-reg-137,whole,Evidence on affordability of digital financial services.
+gates-reg-139,whole,Supports a mobile money programme.
+gates-reg-140,whole,Grant funds an open catalogue and marketplace of training data for AI.
+gates-reg-141,unclear,Online training for regulators on competition enablers; the text does not say what the subject matter is.
+gates-reg-142,unclear,Text concerns consumer protection supervision at the central bank; no digital activity is stated.
+gates-reg-143,whole,Grant strengthens government innovation capacity and the young technology ecosystem.
+gates-reg-144,whole,Grant funds surveys on payment digitisation and use of financial services.
+gates-reg-145,out,Financial inclusion policy capacity; digital financial services are a cross-cutting focus beside women's financial inclusion policy.
+gates-reg-146,unclear,Text concerns anti-money-laundering evaluation and financial inclusion; no digital activity is stated.
+gates-reg-147,whole,Scales complaints chatbots for financial regulators.
+gates-reg-148,whole,Framework for cross-border mobile money transactions.
+gates-reg-149,whole,Development of digital payment and account offerings.
+gates-reg-150,whole,Grant funds a rapid data collection platform.
+gates-reg-152,whole,Grant demonstrates privacy-enhancing technologies for exchanging sensitive data.
+gates-reg-153,whole,Cybersecurity capacity for financial digital infrastructure.
+gates-reg-154,whole,Builds regulators' capacity on digital financial services and payment system harmonisation.
+gates-reg-155,whole,"Grant funds advocacy for the foundation's digitise, direct and design payment principles."
+gates-reg-156,whole,Grant supports digitising government-to-person payments.
+gates-reg-157,whole,Builds advocates' capacity on consumer protection in instant payment systems.
+gates-reg-158,whole,Implements fraud-detection software in instant payment systems.
+gates-reg-159,unclear,Financial products for underserved people; the text does not say whether they are digital.
+gates-reg-160,whole,Grant creates a facility for data analysis and research on digital financial services.
+gates-reg-161,whole,Initiatives to reach women through government-to-person payment systems.
+gates-reg-162,whole,Supports scale-up of instant payment systems.
+gates-reg-163,whole,Testing applications of open transaction networks.
+gates-reg-165,whole,Grant builds consumer advocacy capacity specifically on digital financial services.
+gates-reg-167,unclear,Better use of data on gender gaps in financial inclusion; too thin to tell how much is data production.
+gates-reg-168,whole,Work on digital merchant payments ecosystems.
+gates-reg-169,whole,Business case for a regional digital payment scheme.
+gates-reg-170,whole,Research grant to improve digital financial products.
+gates-reg-171,unclear,Learning on women's financial inclusion; no digital activity is stated.
+gates-reg-172,whole,Grant raises financial service uptake by leveraging digital public infrastructure.
+gates-reg-173,unclear,Text concerns competition and financial inclusion evidence; no digital activity is stated.
+gates-reg-174,whole,Policy framework for digital financial services and instant payments.
+gates-reg-175,whole,Grant supports policy reform and payment systems infrastructure.
+gates-reg-176,unclear,Financial inclusion policy work in East Africa; no digital content is stated.
+gates-reg-177,whole,Grant builds cybersecurity expertise.
+gates-reg-178,unclear,Learning agenda on cash-in and cash-out principles; the text does not say how far this is digital.
+gates-reg-179,whole,Advocacy for digital public infrastructure and digital financial inclusion.
+gates-reg-180,whole,Grant implements an interoperable retail payment system.
+gates-reg-181,whole,"Grant funds research on open transaction networks, a digital commerce infrastructure."
+gates-reg-182,whole,Advocacy campaign for digital public infrastructure.
+gates-reg-183,whole,Grant helps software and financial providers connect to an open-source payments platform.
+gates-reg-184,whole,Promotes uptake of an interoperable payment system by microfinance institutions.
+gates-reg-185,whole,Supports a regional digital retail payments platform.
+gates-reg-186,whole,Community engagement to widen access to digital public infrastructure.
+gates-reg-187,whole,Moving community health worker functions and payments to digital systems.
+gates-reg-188,whole,Advocacy platform for digital public goods and infrastructure.
+gates-reg-189,unclear,One-line description of gender-based programming for a financial sector body; nothing digital is stated.
+gates-reg-190,unclear,Research on small firms' finances; no digital activity is stated.
+gates-reg-191,whole,Tech sprint and prototype data dashboard for regulators.
+gates-reg-193,whole,Grant runs the management unit for a digital public infrastructure for verification and tracing.
+gates-reg-195,whole,Cybersecurity training modules and coordination.
+gates-reg-196,whole,Supports digital financial inclusion reforms and their country coordination.
+gates-reg-197,whole,Donor collaboration platform on digital public infrastructure.
+gates-reg-198,unclear,Gender initiatives to improve women's financial access; the text names nothing digital.
+gates-reg-200,whole,Evidence on the impact of digital and mobile financial services.
+gates-reg-201,unclear,Text says only business financing for agents; too thin to tell.
+gates-reg-202,whole,Deployment of digital public infrastructure.
+gates-reg-203,unclear,Funds a partner's operations and programme continuity; the text names no digital element.
+gates-reg-204,whole,Builds regulators' capacity to use regulatory technology for digital financial services.
+gates-reg-205,whole,Consumer protection lab for digital financial services.
+gates-reg-206,whole,Technical support for a digital public infrastructure roadmap.
+gates-reg-207,whole,Research grant on the use of digital payments in agri-food chains.
+gates-reg-208,whole,Delivers digital learning content to build women's use of financial and job platforms.
+gates-reg-209,whole,Support for a digital ecosystem.
+gates-reg-210,whole,Supports digital financial inclusion reforms and their country coordination.
+gates-reg-213,whole,Safeguards for digital public infrastructure.
+gates-reg-215,whole,Grant supports approaches using digital financial infrastructure and digital platforms for inclusive digital economies.
+gates-reg-216,whole,Grant tests transaction data and metadata for credit risk scoring.
+gates-rwa-001,whole,Grant builds digital capacity and infrastructure.
+gates-rwa-002,whole,Upgrade of the national payment switch.
+gates-rwa-003,whole,"Grant supports digital public infrastructure: payments, identity and data sharing systems."
+gates-tza-002,whole,National instant payment system.
+gates-tza-003,partial,Funds collateral-free loans for women entrepreneurs alongside digital financial services and data systems.
+gates-tza-004,whole,Grant supports regulator data capacity and women's use of digital financial services.
+gates-tza-005,whole,Research on digital and financial inclusion of women merchants through payments and credit solutions.
+gateway-partners-uga-2024,out,Debt for onward vehicle lending by an asset financier; the text names no digital use of the money.
+gcf-sle-sap033-2023,unclear,Forecasting and early warning system with agency training; the text does not say how much is data and information systems.
+genew-technologies-cod-2026,whole,The whole sum is the cost of a fibre-optic route along the Congo River and its terrestrial links.
+giz-eth-001,out,"Technical assistance for business environment and investment climate reform, of which e-government is one part."
+giz-reg-001,whole,Project supports digital government and cybersecurity.
+global-affairs-canada-ben-2026,whole,The recorded line is digital transformation of women-led businesses.
+global-environment-facility-sen-2025,whole,All components build a national climate transparency data platform and its modules.
+google-akuna-group-2026,whole,Funding delivers AI creative education and digital tools.
+google-gha-ai-research-centre-2025,whole,"Investment in an AI research centre, AI community centre and AI start-ups."
+google-nga-2026-aaup,whole,Funds an advanced AI training programme at universities.
+google-reg-africa-investment-fund-2021,whole,Fund makes equity investments in African technology start-ups.
+google-reg-black-founders-fund-2021,whole,Cash grants to technology start-ups.
+google-reg-kiva-sme-loans-2021,unclear,Low-interest loans to small businesses; the text does not say whether borrowers or uses are digital.
+google-reg-nonprofits-africa-2021,out,"Support to nonprofits working on health, education and economic development as well as digital inclusion."
+google-wethinkcode-2026,whole,Digital innovation and skills centre.
+google-zaf-2025,whole,Investment in a cloud region.
+government-of-china-gha-damongo-university-2025,out,Grant starts construction of a science and technology university; digital sciences and AI are among its wider fields.
+government-of-china-nam-2026,whole,"Smart city pilot funding for digital infrastructure, AI capabilities and skills."
+government-of-japan-dji-2026,unclear,Rural solar electrification and water access pilot; the text names no digital element.
+government-of-japan-gin-2026,partial,"Besides the telehealth application, the grant pays for a mobile clinic, health facility equipment, midwife training and awareness campaigns."
+gpe-cpv-2026,out,Education system capacity grant; the school management platform is one activity among evidence and institutional strengthening.
+gpe-eri-001,out,"Foundational learning reform covering school readiness, literacy and sector leadership; the education information system is one strand."
+gpe-swz-2026,out,"Education system grant; the information system sits beside teacher coaching, curriculum, assessments and inclusive education."
+gpx-global-systems-egy-2023,whole,Expansion of a data centre.
+greenline-technologies-caf-2025,whole,"Investment in the national telecom operator, a data centre and connectivity infrastructure."
+hassan-allam-egy-2026,whole,"Investment builds and operates a data centre offering hosting, cloud and AI-ready infrastructure."
+helios-ken-ixafrica-2022,whole,Growth capital for a hyperscale data centre campus.
+helios-towers-cod-2026,whole,Tower company investment to extend telecoms connectivity.
+hewlett-gha-data-sdg-2021,whole,Data use and national statistical systems for SDG monitoring.
+hewlett-reg-data-evidence-policy-2021a,unclear,Advances use of data and evidence in policymaking; too thin to tell how much is data systems or production.
+hewlett-reg-data-privacy-2020,whole,Data privacy and data protection work.
+hhs-oga-ken-strengthening-nation-2020,whole,Programme develops and maintains health information systems for HIV and TB.
+hhs-oga-tza-tanzania-digital-hea-2021,whole,Strengthens digital health information systems.
+huawei-bdi-2017,whole,"Vendor credit funds the state telecom operator's recovery plan, including modernising its mobile equipment."
+huawei-egy-cloud-2024,whole,Investment in a public cloud region and its cloud services ecosystem.
+huawei-gab-2024,whole,Pledge is for a smart cities project and other digital services; no non-digital use is named.
+huawei-tza-001,whole,"No description, but the title is a broadband backbone extension."
+huawei-zaf-cloud-2019,whole,"Cloud provider's own capital spending on data centres, networks and cloud services."
+hustle-fund-fusepay-2025,whole,Pre-seed equity in a payments fintech.
+iati-44000-p133798,partial,"Policy operation with two pillars; open data is one, the other is cash management, public investment and procurement reform."
+iati-44000-p150924,out,"Budget-support policy operation; ICT sector reform sits beside economic management, transparency and electricity reforms."
+iati-44000-p155759,partial,"Judicial modernisation project; e-justice and statistics sit beside court administration reform, judicial training, inspection and access-to-justice components."
+iati-44000-p160717,whole,Support to the national statistical institute for data production and dissemination.
+iati-44000-p164906,partial,Land tenure project; the land information system is one component beside mass titling and physical land offices.
+iati-44000-p168587,partial,Development policy loan; financial inclusion and wider growth reforms sit alongside the digital economy measures.
+iati-44000-p171585,out,"Budget-support policy operation; broadband access sits beside business environment, climate resilience and education aims."
+iati-44000-p171587,partial,Budget-support policy operation; financial inclusion and household and firm resilience reforms accompany the digital payments and broadband measures.
+iati-44000-p174004,partial,"Budget-support policy operation; digital access sits beside financial inclusion, household resilience, health cover and public sector reform."
+iati-44000-p174005,partial,"Policy loan for financial inclusion, small-firm and household resilience reforms as well as digital entrepreneurship and infrastructure."
+iati-44000-p176924,out,"Public administration operation on revenue mobilisation, human resource management and citizen engagement; no digital system is singled out."
+iati-44000-p178808,partial,Governance project; technology for tax and financial management sits beside civil service human resource reform and training.
+iati-44000-p179665,out,Cash transfer programme; the social registry and delivery systems are one component beside the transfers and economic inclusion.
+iati-44000-p181310,out,"Budget-support policy operation; digital services uptake sits beside fiscal resilience, renewable energy and economic opportunity."
+iati-44000-p504398,whole,"Finances the population registry, digital identifier and social registry systems."
+iati-44000-p509948,out,"Budget-support operation on fiscal management and business environment in telecoms, energy and mining; telecoms reform is one strand."
+iati-44000-p513981,out,"Skills and jobs project; information systems sit beside training grants, internships, qualifications and centres of excellence."
+iati-44000-p515128,out,Agricultural innovation project; information systems are one component beside delivering innovations to farmers and skills training.
+iati-46002-g-ng-i00-sty-001,partial,Feasibility study for an innovation programme covering creative industries as well as technology.
+iati-46002-g-tn-i00-zzz-002,partial,Statistics and open data dissemination are two components; another supports macroeconomic and structural policy design.
+iati-46002-p-et-hb0-002,whole,Launch of a shared mobile money platform.
+iati-46002-p-ke-aa0-022,whole,Develops and deploys a digital platform linking farmers to value chain actors.
+iati-46002-p-ma-h00-029,whole,Technical assistance to develop the insurtech ecosystem.
+iati-46002-p-ma-h00-032,whole,Grant to accelerate merchant adoption of digital payments.
+iati-46002-p-mu-kz0-001,whole,Assistance assesses the electronic procurement system and trains its users.
+iati-46002-p-td-i00-012,out,Microfinance and entrepreneurship project; digital finance is one part beside wider microfinance supply and rural entrepreneurship support.
+iati-46002-p-td-k00-019,partial,"Digital tax and customs systems sit beside audit court support, investment law reform, territorial marketing and SME formalisation."
+iati-46002-p-z1-gz0-001,whole,"Feasibility study for a fibre backbone, national data centre and cyber response centre."
+iati-46002-p-z1-h00-091,whole,Project mainstreams gender in digital financial services regulatory frameworks for payments and digital identity.
+iati-46002-p-z1-ib0-044,out,"Health project mostly funds medicines regulators, laboratories and medical equipment; the data hub and e-records are one part."
+iati-ca-3-p013834002,whole,"Institutional support to an open aid-data standard, its registry and tools."
+iati-de-1-202501146,whole,"Grant digitalises cooperative financial institutions through hardware, software and digital financial services."
+iati-gb-chc-1099776-2u-mz,whole,Scales up an electronic community health information system and equips health workers with digital devices.
+iati-gb-coh-954616-taxdeviii,out,"Tax policy research programme; policy analysis, training and research accompany new data resources and tools."
+iati-gb-gov-1-400101-405,whole,Implementation of a national AI strategy.
+iati-kr-gov-010-kr-gov-051-2026040101632000,whole,Public-sector capacity building on the ICT industry ecosystem.
+iati-kr-gov-010-kr-gov-051-2026040101634000,whole,Training for officials in digital governance and ICT policy.
+iati-kr-gov-010-kr-gov-051-2026040101634001,whole,Training officials in digital governance and ICT policy.
+iati-kr-gov-010-kr-gov-051-2026040101634002,whole,Training for officials in digital governance and ICT policy.
+iati-kr-gov-010-kr-gov-051-2026040101634003,whole,Training for officials in digital governance and ICT policy-making.
+iati-kr-gov-010-kr-gov-051-2026040101648000,whole,Training on online learning management systems.
+iati-kr-gov-010-kr-gov-051-2026040101698000,whole,Training police in cybercrime investigation and cyber security.
+iati-kr-gov-010-kr-gov-051-2026040101723000,whole,"Training on e-government, education ICT and communications for public service digital transformation."
+iati-kr-gov-010-kr-gov-051-2026040101794000,whole,Capacity building for a digital development agency on public-sector digital transformation.
+iati-kr-gov-010-kr-gov-051-2026040101955000,whole,Digital capacity building for youth workers.
+iati-kr-gov-010-kr-gov-051-2026040101955001,whole,Digital capacity building.
+iati-kr-gov-010-kr-gov-051-2026040101955002,whole,Programme builds digital capacity of youth workers.
+iati-kr-gov-010-kr-gov-051-2026040101955003,whole,Programme builds digital capacity of youth workers.
+iati-kr-gov-010-kr-gov-051-2026040101955004,whole,Digital capacity building for youth workers.
+iati-kr-gov-010-kr-gov-051-2026040101955005,whole,Digital capacity building for youth workers.
+iati-kr-gov-010-kr-gov-051-2026040101955006,whole,Digital capacity building for youth workers.
+iati-se-0-se-6-10058-10058a0101,out,Broad staff capacity development for the land authority; land information systems are only part of it.
+iati-se-0-se-6-10058-10058a0102,out,Broad staff capacity development for the land authority; land information systems are only part of it.
+iati-se-0-se-6-11793-11793a0101,whole,Contribution to a population and housing census.
+iati-se-0-se-6-11793-11793a0103,whole,Co-funding of the national population census.
+iati-se-0-se-6-11793-11793a0201,whole,Contribution co-funds the national population census.
+iati-se-0-se-6-11988-11988a0101,whole,Project builds capacity to produce migration statistics.
+iati-se-0-se-6-11988-11988a0102,whole,Capacity for producing and harmonising migration statistics.
+iati-se-0-se-6-12296-12296a0101,whole,Support to the national statistics agency and its census data processing.
+iati-se-0-se-6-13015-13015a0101,whole,"Strengthens the national statistics agency's production, dissemination and ICT."
+iati-se-0-se-6-13015-13015a0102,whole,"Strengthens the national statistics agency's production, dissemination and ICT."
+iati-se-0-se-6-15037-15037a0101,out,"Land authority capacity programme covering management, land administration and land-use planning as well as mapping and GIS systems."
+iati-se-0-se-6-15037-15037a0102,out,Land management capacity programme; surveying and GIS systems are one outcome beside land administration and land use planning.
+iati-se-0-se-6-17479-17479a0101,whole,Capacity support to the national statistics agency and a household budget survey.
+iati-se-0-se-6-17479-17479a0201,whole,Support to the national statistics agency's capacity and a household budget survey.
+iati-se-0-se-6-61070121-6107012101,out,"Core support to a free-expression NGO; digital is one of five themes beside civic space, protection, transparency and media."
+iati-us-ein-941655673-2026-06784-gra,whole,Supports a research organisation's digital transformation programme.
+iati-us-ein-941655673-2026-06796-gra,whole,Grant supports a data hub helping organisations generate and use data.
+iati-us-ein-941655673-2026-06832-gra,partial,General operating support to a budget-transparency organisation whose work includes advocacy and citizen mobilisation as well as civic tech.
+iati-us-ein-941655673-2026-07006-gra,whole,Grant for adopting AI in evidence work.
+iati-us-ein-941655673-2026-07008-gra,unclear,Funds a budget transparency organisation's learning systems and communications; the text does not say how much is digital.
+iati-xi-iati-ec-intpa-2026-pc-61708,partial,The energy statistical system is one component; the other supports regional energy policy implementation.
+iati-xi-ror-0130vhy65-gb-coh-rc000631-gb-gov-10-rp05302422,partial,Newborn care project combining digital health tools with bedside staff training and community engagement.
+iati-xm-dac-21-1-2025000105b1kenpqs,whole,"Digital literacy, online safety and technology-facilitated violence awareness."
+iati-xm-dac-21-1-2025000132b1mlwoc1pol,whole,"Grant supports inclusive digital transformation: digital access, services and innovation."
+iati-xm-dac-21-1-2025000243b1nigpqs,whole,Grant supports a digital literacy ICT club.
+iati-xm-dac-21-1-2025000348b1sierraoc4gov,whole,Grant supports the statistics office's digital census mapping and census system.
+iati-xm-dac-21-1-2025000408b1tanpsd,whole,Scaling a digital legal assistant.
+iati-xm-dac-21-1-2025000869b2miscara,partial,Vocational project; IT training sits beside a special needs education initiative.
+iati-xm-dac-21-1-2025000879b2miscara,whole,Digital literacy project: ICT labs and training in schools.
+iati-xm-dac-301-2-110967-001,whole,"Research project on AI's effects, producing open datasets and AI policy tools."
+iati-xm-dac-41114-output-01006034,whole,Digital and data backbone for township enterprises.
+iati-xm-dac-41114-output-01006100,whole,Project integrates AI technologies into the processing of citizen requests.
+iati-xm-dac-41114-output-01006212,whole,"Inception work on a national emissions monitoring, reporting and verification data system."
+iati-xm-dac-41301-762022,whole,Technical assistance for the national agricultural census.
+iati-xm-dac-41301-763888,whole,Project is titled as digitally enabled extension services; the text names no separate non-digital use.
+iati-xm-dac-41304-507cmr1000,whole,Supports digital skills in the basic education ministry.
+iati-xm-dac-41304-507zam1000,whole,"Digital education pilot: computer lab, smart classrooms and digital pedagogy training."
+iati-xm-dac-41304-a210642111,unclear,Text concerns freedom of expression and information integrity and names no digital activity.
+iati-xm-dac-41304-a210643031,unclear,Awareness raising on freedom of expression and journalist safety; the text names no digital element.
+iati-xm-dac-46021-2026008,whole,Loan modernises a ministry data centre and several government and postal information systems.
+iati-xm-dac-46021-2026028,whole,Project is stated as digital transformation of public services.
+iati-xm-dac-7-ppr-260001238,out,Freedom of expression project; online disinformation monitoring sits beside community training and legal reform advocacy.
+iati-xm-dac-903-sii-52276,whole,Debt facility for a shared telecom tower company.
+iati-xm-dac-903-sii-52548,whole,"Loan to a telecom tower company for new towers, tower power and refinancing."
+icbc-zaf-001,whole,Loan finances a mobile operator's network equipment supply and network upgrade.
+icbc-zaf-002,whole,Capex loan to a mobile operator for radio network equipment and LTE expansion.
+icbc-zaf-006,whole,Credit finances a telecoms operator's purchase of 4G equipment.
+icbc-zaf-007,whole,Loan finances a telecoms operator's purchase of 4G equipment.
+ifc-airtel-africa-2026,whole,Loan to mobile operator subsidiaries to expand and upgrade mobile networks.
+ifc-com-2025,whole,"Loan to a telecom operator for network, 5G and fibre deployment."
+ifc-eth-001,whole,"Equity in the holding entity of a mobile network operator, which also runs mobile money."
+ifc-eth-002,whole,Loan to a mobile operator for 4G network and mobile money infrastructure.
+ifc-eth-003,whole,"Loan to a mobile operator for 4G/5G network, mobile money platform and broadband infrastructure."
+ifc-jumia-2026,whole,Equity in an e-commerce platform company.
+ifc-ken-001,whole,Equity in a telecoms tower company.
+ifc-ken-002,whole,Loan to a telecom tower company to build towers.
+ifc-ken-003,whole,Commitment to a venture fund investing in early-stage technology companies.
+ifc-lbr-2026,partial,Pledge covers policy and regulatory work as well as rollout of the digital traceability system.
+ifc-maroc-telecom-2025,whole,Loans to finance 4G rollout by two mobile operators.
+ifc-mli-001,whole,Loan to a mobile operator for network modernisation and mobile money.
+ifc-nga-001,whole,Loan to a tower company to acquire and upgrade telecom towers.
+ifc-nga-002,whole,Commitment to a venture fund investing in tech companies.
+ifc-reg-001,whole,Bond proceeds expand a pan-African operator's fibre network and data centre capacity.
+ifc-reg-002,whole,Equity in the holding entity for data-centre operations.
+ifc-reg-003,whole,"Bond of a telecoms group financing network expansion, spectrum and mobile money."
+ifc-reg-004,whole,Loan to a mobile operator for 4G rollout and network upgrades.
+ifc-reg-005,whole,Loan to a mobile operator for 4G and 5G-ready network expansion.
+ifc-reg-006,whole,Equity in a telecoms tower company.
+ifc-reg-007,partial,Multi-sector private equity fund; digital and fintech are a significant allocation among other sectors.
+ifc-reg-008,partial,"Private equity fund investing across sectors; digital infrastructure and fintech are a significant allocation, not the whole."
+ifc-reg-009,whole,Loan to a mobile network operator for 3G/4G rollout and capacity upgrades.
+ifc-reg-010,whole,Loan to a wholesale connectivity carrier for fibre and data centre expansion.
+ifc-reg-011,whole,Loan to a wholesale fibre and data centre carrier for liquidity and continued network investment.
+ifc-reg-012,whole,Equity for data centres and fibre networks.
+ifc-reg-013,whole,Debt funds a carrier's data centres and fibre networks.
+ifc-reg-014,whole,Debt for a data centre operator to build and expand facilities.
+ifc-reg-015,whole,Debt facility to a mobile money company.
+ifc-reg-016,partial,"Lender finances smartphones and digital financial services but also solar home systems, which are not digital."
+ifc-reg-017,whole,Commitment to a venture fund investing in technology businesses.
+ifc-reg-018,whole,Commitment to a fund investing only in digital infrastructure and tech businesses.
+ifc-reg-019,whole,"Fund commitment focused on payments infrastructure, digital credit, mobile insurance and fintech companies."
+ifc-seacom-2023,whole,Loan to a submarine cable and fibre operator for broadband and cloud expansion.
+ifc-sen-001,whole,Loan to a telecom operator to modernise and expand mobile and broadband networks.
+ifc-sen-2024,whole,Advisory project designs the digitisation of agricultural subsidy payments.
+ifc-tgo-001,whole,Loan to a telecoms operator for mobile network expansion and mobile money infrastructure.
+ifc-wiocc-group-2025,whole,"Loan funds submarine capacity, data centres and fibre."
+ifc-zaf-001,whole,Loan to a fibre and data centre operator to expand network capacity and data centre operations.
+ifc-zaf-002,whole,Loan to a broadband infrastructure company to expand open-access fibre.
+ifc-zaf-003,whole,"Loan to a fibre, broadband and data centre company."
+ifc-zmb-001,whole,Loan to a telecom tower company for refinancing and tower upgrades.
+ifu-gha-icps-2015,whole,Investment in a producer of biometric national identity cards and digital vehicle registration.
+ifu-ken-sidian-2016,partial,Regulatory capital for a bank; digital banking is one aim beside the bank's general growth.
+ifu-ken-sidian-2019,whole,Loan's stated purpose is digital and mobile banking expansion; no other use is named.
+ifu-reg-africinvest-five-2020,partial,Fund invests in conventional financial institutions as well as fintech companies.
+ifu-reg-symbiotics-bond-2022,out,"Bond funds general lending by microfinance institutions and small business banks; digital describes the lenders, not the use."
+india-ministry-of-external-affairs-eth-2025,whole,Establishing a data centre.
+indiaexim-nga-nrbn-2019,whole,Line of credit for a national rural broadband network.
+indiaexim-swz-drs-data-centre-2021,whole,Credit builds a disaster recovery site for the national data centre.
+indo-aid-mdg-2026,whole,"Deploys a digital maritime single window platform, with related training."
+infracoafrica-ken-mawingu-telecoms-2023,whole,Equity in a rural internet service provider.
+infracoafrica-tza-mawingu-2-2024,whole,Investment funds a rural broadband provider's acquisition of an internet service provider.
+invest-international-paix-data-centres-2024,whole,Funds a feasibility study for a data centre.
+isdb-civ-digital-health-transformation-2022,partial,Health project pairing digital health systems with health security and crisis management in healthcare services.
+isdb-com-padec-digitalization-2025,whole,Project to digitalise public services and develop digital services.
+isdb-dji-dare-submarine-cable-2019,whole,Financing for a regional submarine cable.
+isdb-dji-submarine-telecom-2015,whole,Loan finances a submarine cable connection.
+isdb-nga-idice-digital-enterprise-2023,partial,Programme funds creative-industry enterprises and general MSME financing alongside technology start-ups.
+islamic-development-bank-mrt-2026,whole,"Digital transformation programme: infrastructure, cybersecurity, interoperability and digital skills."
+itu-moz-vamoz-digital-2023,whole,"Project covers digital policy and regulation, digital skills and digital innovation."
+itu-reg-africabbmaps-2024,whole,Establishes national broadband mapping systems.
+itu-reg-dtc-digital-skills-2021,whole,Digital skills training through digital transformation centres.
+itu-reg-giga-school-connectivity-2020,whole,School connectivity coordination and mapping.
+itu-reg-ict-benchmarking-cafrica-2021,whole,ICT indicator data collection and benchmarking.
+itu-reg-prida-spectrum-2018,whole,"Spectrum policy, licensing and coordination for wireless broadband."
+itu-uga-ict-strategy-2021,whole,Technical assistance on a national ICT development strategy.
+japan-ben-2026,partial,"Project combines AI and geospatial mapping with drone spraying of larvicides, a non-digital malaria control activity."
+japan-cpv-2025,whole,Telemedicine and videoconference equipment.
+japan-moz-cabo-delgado-doc,partial,"Besides civil registration and identification, the grant pays for rebuilding service points, legal aid and outreach."
+jbic-ago-sacs-submarine-cable-2016,whole,Credit finances a submarine fibre cable.
+jenny-internet-swz-2026,whole,Sponsorship provides Wi-Fi connectivity at a trade fair.
+jica-ago-2025,whole,Grant builds a digital terrestrial television transmission network.
+jica-nga-abuja-startup-hub-2025,whole,Construction and equipping of a start-up hub for the national IT agency.
+jica-nga-startup-social-env-2026,unclear,"Start-up fund for agriculture, health, education, energy and water; text does not say whether the start-ups are digital."
+jica-rwa-digital-innovation-2022,whole,Technical cooperation to build the ICT industry and innovation ecosystem.
+jica-rwa-ict-innovation-ecosystem-2017,whole,"ICT innovation ecosystem, incubation and hubs."
+jica-rwa-kigali-its-2023,whole,"Grant for an intelligent transport system: traffic control equipment, signal control systems and traffic data analysis."
+jica-sen-interoperable-database-2024,whole,Project builds an inter-ministerial data exchange platform and related capacity.
+kfw-civ-001,whole,E-governance project built on standardised digital processes and the government administrative network.
+kfw-ken-001,whole,Project develops vocational training to supply skills for Kenya's digital economy.
+kfw-ken-002,whole,Title marks the loan as vocational training for ICT; the truncated text names no other use.
+kfw-mwi-001,whole,"Grant equips learning centres with tablets, learning software and the solar power to run them."
+kfw-reg-001,whole,Fund for digitalising public administration in West Africa.
+kfw-reg-003,out,"Fund provides hybrid capital to microfinance institutions, small banks, leasing and factoring firms as well as fintechs."
+kfw-reg-004,out,"Fund provides hybrid capital to microfinance institutions, small banks, leasing and factoring firms as well as fintechs."
+kfw-reg-005,whole,Second phase of a fund for digital transformation of public administrations.
+kfw-reg-006,whole,Fund for digital transformation of public administrations.
+kfw-reg-007,whole,Contribution to a venture fund investing in African tech start-ups.
+kfw-reg-008,whole,Contribution to a venture fund investing in African tech start-ups.
+kfw-rwa-001,whole,Facility finances ICT investment for digitalisation of the public sector.
+kfw-rwa-002,whole,ICT facility financing investment in digitalisation of the public sector.
+kfw-rwa-003,whole,"Contribution funds a modernised monitoring, evaluation and information system for local administrations, under the ICT facility."
+kfw-sen-001,whole,"Digitalisation of public administration, including access to the government intranet."
+kfw-sen-002,partial,Land administration project; decentralised buildings and equipment and wider modernisation accompany the digitisation of land records.
+kfw-sen-003,partial,Land administration project; decentralised buildings and equipment and wider modernisation accompany the digitisation of land records.
+kfw-tgo-001,whole,"Grant funds fibre network expansion, connection of public institutions and e-governance equipment for town halls."
+kfw-tgo-002,whole,"E-governance project financing fibre expansion, connection of public institutions and equipment for town halls."
+kfw-tza-001,whole,Expands the health insurer's IT systems and related processes.
+kfw-tza-002,whole,Title is traffic management through digital solutions; truncated text names no other use.
+khazna-data-center-egy-2023,whole,Joint venture to build a hyperscale data centre.
+koica-cmr-2025,whole,Grant funds an e-procurement platform.
+koica-eth-esw-single-window-2017,whole,Development of an electronic single window customs platform.
+koica-eth-ict-sme-jobs-2020,whole,"Support for ICT-based start-ups and SMEs, innovation clusters and an innovation fund."
+koica-gha-gkimpact-ict-innovation-2022,partial,"Mainly an ICT innovation centre, but the title also names Asian studies at the university."
+koica-moz-2026,whole,ICT equipment handover.
+koica-nga-digital-governance-ph2-2020,whole,"E-government capacity, government service portal and ID enrolment centres."
+koica-rwa-cadie-ict-education-2017,whole,ICT smart classrooms and teacher ICT training.
+koica-rwa-coding-academy-2021,whole,Grant builds and supports a coding academy.
+koica-rwa-digital-ambassador-2022,whole,Grant trains citizens in basic digital skills and access to e-government services.
+koica-rwa-ebm-taxation-2018,whole,Develops electronic billing machine and taxpayer relationship management systems.
+koica-rwa-sisic-standardisation-ict-2024,whole,Builds ICT capacity and tools for the standards body.
+koica-sen-isep-establishment-2015,partial,Establishes a technical college; an automotive engineering department sits beside the ICT department and labs.
+koica-sen-isep-makerspace-incubator-2021,whole,Start-up incubation centre and makerspace for youth tech entrepreneurship.
+koica-sen-national-assembly-ict-2021,whole,"Parliament ICT systems: e-voting, conference systems and record digitalisation."
+koica-tza-science-ict-education-2022,partial,"Covers science education as well as ICT education, equipment and digital skills."
+koica-uga-makerere-elearning-2025,whole,"Grant builds e-learning capability, e-content and digital learning systems at a university."
+konecta-egy-genai-coe-2026,unclear,No description; title pairs a regional headquarters with a GenAI centre and the split is not stated.
+leapfrog-nga-interswitch-2022,whole,Equity in a digital payments company.
+leapfrog-nga-moniepoint-2025,whole,Equity in a payments and business banking fintech.
+linkwise-group-dji-2026,partial,Integrated investment: the AI compute centre and digital park sit alongside renewable energy generation.
+lumitel-bdi-pafen-4g,whole,Contract to extend rural 4G broadband.
+luxembourg-development-cooperation-tgo-2026,partial,"Amount covers three cooperation agreements; only part supports digital administration and cybersecurity, the rest being the wider cooperation programme."
+madica-talenteo-2026,whole,Pre-seed investment in an HR software company.
+mars-growth-capital-nala-2026,whole,Credit facility for a fintech's payment infrastructure across remittance corridors.
+mastercard-foundation-dawn-ai-study-2026,whole,Fellowship funding for an AI education technology start-up.
+mastercardinc-reg-airtel-africa-mm-equity-2021,whole,Equity in the holding company of a mobile money business.
+mastercardinc-reg-mtn-fintech-equity-2024,whole,Equity stake in a mobile money and fintech business.
+mcc-civ-emis-2017,whole,The recorded sum is the contract for an education management information system.
+mcf-eth-youngafricaworks-2019,out,Broad youth employment programme; the digital economy is one sector among those supported.
+mcf-eth-youngafricaworks-2021,out,Broad youth employment commitment across many partnerships; the digital economy is one sector among them.
+mcf-eth-youngafricaworks-2023,out,Broad youth employment programme; the digital economy is one sector among those supported.
+mcf-nga-youngafricaworks-2020,out,Youth employment programme; digital is one focus sector alongside agriculture and the creative economy.
+mcf-reg-africagrowthfund-2022,out,Fund-of-funds backing general venture and SME funds for women-led enterprises; not specific to technology companies.
+mcf-reg-citl-edtech-2020,whole,Programme supporting EdTech ventures and digital solutions in teaching.
+mcf-reg-scholars-2016,out,General university scholarship programme; technology and engineering degrees are only one focus among the scholars funded.
+mcf-reg-scholars-2019,out,General university scholarship programme; technology degrees are one focus among wider study and leadership training.
+mcf-reg-scholars-2021,out,General university scholarship programme; technology and engineering degrees are only one focus among the scholars funded.
+mcf-reg-scholars-2022,out,General university scholarship programme; technology and engineering degrees are only one focus among the scholars funded.
+mcf-rwa-cmu-digital-2022,whole,"Funds engineering, AI and technology education at CMU-Africa and a digital transformation centre; all aimed at digital skills."
+mcf-sen-youngafricaworks-2019,out,"Youth employment programme across small business, agriculture value chains and education; digital skills are an enabler only."
+mcf-uga-youngafricaworks-2020,out,"Youth employment programme; the digital economy is one enabling sector alongside agriculture, tourism and construction."
+mcfafricagrow-nga-ventures-2022,whole,Commitment to an early-stage venture fund investing in technology companies.
+mcfafricagrow-reg-caif-2020,whole,Commitment to a venture fund investing in digital-sector tech companies.
+mcfafricagrow-reg-tlcom2-2022,whole,Commitment to a venture fund investing in tech start-ups.
+mcfafricagrow-zaf-knife3-2023,whole,Commitment to a fund investing in technology companies.
+meridiam-raxio-group-2021,whole,Investment in a data centre developer to deploy data centres.
+microsoft-reg-africa-development-centre-2019,whole,Software engineering centre building cloud and AI products.
+microsoft-zaf-azure,whole,Spending is entirely on building enterprise cloud datacentres in Johannesburg and Cape Town.
+microsoft-zaf-azure-expansion-2025,whole,"Cloud and AI infrastructure expansion, data centre capacity and AI skills."
+microsoft-zaf-azure-expansion-2026,whole,"Data-centre expansion with land, power and water readiness for those facilities, plus AI skills."
+miga-cod-airtel-mobile-money-2022,whole,Guarantee covers an equity investment in a mobile money business.
+miga-cod-helios-towers-drc-2015,whole,Guarantee for a telecom tower company's network expansion.
+miga-cog-airtel-mobile-money-2022,whole,Guarantee covering an equity investment in a mobile money business.
+miga-eth-safaricom-telecom-2023,whole,Guarantee covering equity in a greenfield mobile telecoms operator.
+miga-gab-airtel-mobile-money-2022,whole,Guarantee on equity in a mobile money business.
+miga-gin-orange-finance-mobile-guinea-2024,whole,Guarantee covering an equity investment in a mobile money subsidiary.
+miga-gin-orange-guinea-2024,whole,Guarantee on equity in a telecoms operator.
+miga-gnb-orange-bissau-2025,whole,Guarantee on equity in a telecoms operator.
+miga-ken-airtel-mobile-money-2022,whole,Guarantee on equity in a mobile money business.
+miga-lbr-escotel-2021,whole,Guarantee for power systems installed solely at telecom tower sites.
+miga-lbr-orange-liberia-2024,whole,"Guarantee covers investment in a telecom operator's towers, fibre, telecom and mobile finance services."
+miga-mdg-airtel-mobile-money-2022,whole,Guarantee covers equity in a mobile money business.
+miga-mwi-airtel-mobile-money-2022,whole,Guarantee on equity in a mobile money business.
+miga-ner-airtel-mobile-money-2022,whole,Guarantee covering an equity investment in a mobile money business.
+miga-raxio-group-2022,whole,Guarantee covers investments in data centres.
+miga-rwa-airtel-mobile-money-2022,whole,Guarantee on equity in a mobile money business.
+miga-sle-escotel-2021,whole,"Solar-hybrid power systems installed solely at telecom network sites, so the whole amount is telecom infrastructure."
+miga-sle-orange-sierraleone-2018,whole,Guarantee on an equity stake in a mobile operator expanding its network.
+miga-tza-airtel-mobile-money-2025,whole,Guarantee covers equity in a mobile money business.
+miga-uga-airtel-mobile-money-2022,whole,Guarantee on equity in a mobile money business.
+miga-zmb-airtel-mobile-money-2022,whole,Guarantee on equity in a mobile money business.
+mtn-cameroon-cmr-2025,whole,Mobile operator's capex pledge for its network and fintech division.
+mtn-gha-capex-network-2022,whole,"Operator capex on mobile sites, upgrades, IT systems and the mobile money platform."
+mtn-gha-fibre-home-2026,whole,"Mobile operator's capital programme for network sites, 4G/5G, fibre, home broadband and data centres."
+mtn-gha-spectrum-4g-2015,whole,Payment is for a 4G spectrum licence.
+mtn-group-ben-2025,whole,"Mobile operator's own investment in 5G, fibre and its headquarters."
+mtn-group-zaf-2026,whole,A mobile operator's investment in its own ICT and network infrastructure.
+mtn-nga-spectrum-5g-2022,whole,Payment is for a 5G spectrum licence.
+mtn-zaf-spectrum-5g-2022,whole,Payment is for mobile spectrum licences used for 4G and 5G networks.
+mubadala-nga-moove-equity-2023,whole,Equity in a mobility fintech start-up.
+mubadala-reg-bpifrance-africa-partnership-2021,out,"Co-investment in private equity and venture funds backing start-ups, SMEs and mid-caps generally, not only technology companies."
+national-bank-of-malawi-ictam-2025,whole,Sponsorship of an ICT innovation competition.
+ndb-zaf-001,out,"Infrastructure credit line; digital networks are one sector beside renewable energy, housing, student accommodation and healthcare."
+nexus-core-systems-mar-2026,whole,Investment is an AI factory built around a high-performance data centre with an attached innovation hub.
+ninety-one-open-access-data-centres-2025,whole,Loan to build a new data centre and expand existing ones.
+norfund-ken-dlight-blk1-2021,out,"Facility buys solar home system receivables; the money finances off-grid energy products, with digital collection and scoring as enablers."
+norfund-ken-dlight-blk2-2022,out,Receivables facility for pay-as-you-go solar home systems; the digital elements are features of the solar product.
+norfund-ken-sunking-payg-2019,out,Loan finances pay-as-you-go solar home systems; metering and mobile money collection are features of the solar product.
+norfund-ken-sunking-securitisation-2023,out,Securitisation raises growth capital for a solar products company; metering and mobile payments are the digital part.
+norfund-mdg-welight-minigrid-2019,out,Equity in a solar mini-grid company; digital metering and mobile payment are features of an electrification business.
+norfund-nga-omniretail-fintech-2025,whole,Equity in a digital B2B commerce and embedded finance platform.
+norfund-nga-ventures-platform-fund-2025,whole,Investment in a venture fund for tech start-ups.
+norfund-reg-aktivco-telecom-solar-2021,whole,Solar and battery power deployed solely at telecom tower sites.
+norfund-reg-baobab-plus-solar-2021,out,Equity in a solar home systems distributor; tablets and mobile payments are bundled with solar kits.
+norfund-reg-crei-telecom-solar-2025,whole,Debt to a telecom tower infrastructure company for powering tower sites.
+norfund-reg-escotel-telecom-solar-2020,whole,Equity in a company whose sole business is powering telecom tower sites.
+norfund-reg-mkopa-payg-2017,partial,Facility finances pay-as-you-go solar home systems alongside digital credit.
+norfund-reg-wave-money-2022,whole,Loan to a pure-play mobile money company.
+norfund-zaf-lulalend-fintech-2021,whole,Loan to a fully digital lending fintech.
+norleo-space-investments-terra-industries-2026,whole,Seed equity in a technology start-up building software-driven autonomous systems.
+norrsken22-nga-sabi-2023,whole,Equity in a digital commerce platform.
+norrsken22-reg-smileid-2023,whole,Equity in a digital identity verification platform.
+norrsken22-tza-nala-2024,whole,Equity in a remittance and cross-border payments fintech.
+norrsken22-zaf-tymebank-2023,whole,Equity in a digital-only bank.
+novastar-ken-poainternet-2022,whole,Equity in a low-cost internet service provider.
+novastar-ken-turaco-2022,whole,Series A equity in an insurtech company distributing through digital platforms.
+novastar-nga-moniepoint-2021,whole,Equity in a digital banking and payments platform.
+oakvale-invest-tennsa-2026,whole,Pre-seed equity in an AI business intelligence start-up.
+omidyar-reg-digital-id-africa-uneca-2018,whole,Supports a digital identity platform and a centre of excellence on digital identity.
+omidyar-reg-mojaloop-2020,whole,Open-source digital payments infrastructure.
+omidyar-reg-mosip-2018,whole,Develops an open-source national identity platform.
+opic-ken-mawingu-2016,whole,Loan finances a rural broadband internet network.
+opic-reg-africell-2018,whole,Loan finances a mobile operator's network upgrades and refinances its debt.
+opic-reg-ecp-africa-fund-iv-2018,out,Private equity fund invests across multiple consumer sectors; a tower company is only one holding.
+opic-zaf-ihs-fund-ii-sa-2015,whole,Guaranty for a fund investing in telecom tower infrastructure.
+orange-burkina-faso-bfa-2022,whole,Spend installs mobile sites to cover unserved zones.
+orange-corners-mli-2025,partial,"Of three firms funded, one is IT services; the others are logistics and agro-pastoral."
+orange-egypt-egy-2021,whole,Investment builds a data centre to host the new capital's smart city platforms.
+orange-reg-mea-capex-annual-2022,whole,"Operator network capital expenditure on 4G, 5G and fibre."
+orange-reg-mea-capex-annual-2023,whole,"Operator's network capital spending on 4G/5G, fibre and mobile broadband."
+orange-reg-odc-ssa-2021,whole,Digital skills training centres and start-up incubation.
+orange-reg-orange-money-ssa-2023,whole,Investment is in a mobile financial services platform.
+orange-reg-sonatel-capex-2023,whole,"Operator capital spending on fibre, 4G, a 5G licence and digital services infrastructure."
+orange-reg-sonatel-capex-2024,whole,"Telecom operator capex on 5G, fibre, mobile broadband coverage and satellite internet."
+orange-reg-ventures-africa-fund-2020,whole,Fund invests in early-stage tech start-ups.
+orange-sle-bo-dc-2025,whole,Investment is a data centre.
+orange-sle-tonkolili-2025,whole,Mobile operator's network modernisation programme.
+pandemic-fund-cmr-2026,unclear,No description; the title presents a wider pandemic preparedness project with digital surveillance and system interoperability in brackets.
+paratus-nam-2025,whole,Investment builds a mobile network and its digital service platform.
+partech-ken-kyosk-2022,whole,Equity in a B2B e-commerce platform start-up.
+partech-nga-nomba-2019,whole,Series A equity in a digital payments provider.
+partech-nga-tradedepot-2018,whole,Equity in a software platform linking consumer goods brands to retailers.
+partech-synapse-analytics-2026,whole,Equity round in an AI software company.
+partech-uga-tugende-2021,whole,Equity in a technology-enabled asset finance company.
+partech-uga-tugende-2022,whole,Equity in a technology-enabled asset finance company.
+pepkor-shop2shop-2026,whole,Cash subscription for shares in a merchant commerce and fintech platform.
+pidg-cod-eastcastle-2023,whole,Loan to a tower company to buy and develop telecom towers.
+pidg-reg-africell-2024,whole,Bond investment in a mobile operator rolling out digital infrastructure.
+pidg-reg-axian-telecom-2022,whole,Bond investment in a telecom group for telecom expansion.
+pidg-reg-hta-group-2020,whole,Bond investment in a telecoms tower company to fund tower expansion.
+pidg-reg-ihs-towers-2024,whole,Bond investment in a telecom tower company.
+pidg-reg-liquid-telecom-2021,whole,"Bond investment in a fibre, cloud and broadband provider."
+pidg-reg-paratus-2023,whole,Loan expands an internet provider's fibre and data centre business.
+pidg-reg-raxio-2023,whole,Debt financing for a data centre operator.
+pidg-reg-wiocc-2020,whole,"Loan to an internet infrastructure provider operating fibre, cables and data centres."
+pidg-sen-sonatel-2020,partial,"Bond proceeds fund the 4G network but also new activities in energy, banking and multimedia content."
+pjmf-reg-dhia-global-fund-2022,whole,Pledge to a digital health accelerator.
+pjmf-reg-sci-africa-ai-2023,whole,Grant to run a grand challenge on AI.
+press-chn-ben-2021-001,whole,Title names a national broadband network densification project; no other use is stated.
+press-chn-uga-2023-001,whole,"Loan for fibre backbone, last-mile links to government sites and a data centre."
+proparco-civ-anka-2022,whole,Equity in an e-commerce and payments software platform.
+proparco-civ-anka-ext-2023,whole,Equity in an e-commerce and payments software platform.
+proparco-reg-africell-2024,whole,Bond participation in a mobile network operator.
+proparco-reg-amn-2021,whole,Equity in a company deploying rural telecom towers.
+proparco-reg-axian-telecom-2025,whole,Bond participation in a mobile network operator for network expansion.
+proparco-reg-cauridor-2026,whole,Equity in a cross-border payments infrastructure fintech.
+proparco-reg-dlight-2021,out,Equity in an off-grid solar kit provider; the digital element is its pay-as-you-go payment model.
+proparco-reg-ihs-towers-2024,whole,Bond participation in a telecom tower company.
+proparco-reg-jumo-2018,whole,Equity in a mobile financial services fintech.
+proparco-reg-novastar-iii-2026,partial,Venture fund whose tech-enabled portfolio spans e-mobility and sustainable agriculture as well as digital businesses.
+proparco-reg-raxio-2023,whole,Loan funds development of colocation data centres.
+proparco-reg-sunking-2022,out,Finances distribution of off-grid solar home systems and lanterns; the digital part is the pay-as-you-go payment model.
+proparco-reg-tide-africa-i-2017,whole,Equity in a venture fund dedicated to technology-enabled start-ups.
+proparco-reg-tide-africa-ii-2023,whole,Commitment to a venture fund dedicated to technology-enabled start-ups.
+proparco-reg-wiocc-2020,whole,"Loan to a telecoms infrastructure company for fibre, cable and broadband expansion."
+proparco-reg-wiocc-oadc-2024,whole,Loan to expand core and edge data centres.
+quona-capital-jem-2026,whole,Equity in a workforce technology platform start-up.
+rand-merchant-bank-telecom-namibia-2026,whole,Loan to a telecom operator for broadband and mobile network modernisation.
+rand-merchant-bank-wave-2025,whole,Debt for a mobile money company to scale its operations.
+rand-merchant-bank-wingu-africa-2025,whole,Loan to a data centre operator for expansion.
+rockefeller-reg-dscf-2019,whole,Grant strengthens community health information systems using digital tools and analytics.
+rockefeller-reg-mojaloop-2020,whole,Sponsorship of open-source interoperable payment infrastructure.
+rockefeller-reg-sat-data-ai-2022,whole,Grant develops an AI-powered satellite data platform.
+roha-raxio-group-2023,whole,Equity for a data-centre operator's expansion.
+sida-16842-imf-somalia,out,"Technical assistance fund; macroeconomic statistics is one of several areas beside central banking, financial supervision and public financial management."
+sida-17253-unicef-femtech,whole,Funding supports the female health technology start-up industry through a venture fund.
+sida-17618-zamstats-isk,whole,Small review commissioned for the national statistics office.
+sida-51170113-lmi-tanzania,whole,Planning for a labour market information system.
+sida-51190115-znfu-evoucher,whole,Pilot of an electronic voucher system.
+sida-moz-ine-census-2015,whole,Co-financing of a national census.
+sida-moz-maputo-internet-forum-2015,whole,"Grant funds a forum on internet freedom, security and openness."
+sida-reg-accessnow-digital-rights-2023,whole,Core support to an organisation whose whole mandate is digital rights.
+sida-reg-accion-digital-transform-2022,whole,"Fund finances digital financial infrastructure, agent networks and mobile money platforms."
+sida-reg-apc-internet-rights-2020,whole,"Core support to an organisation working wholly on internet rights, digital policy and community connectivity."
+sida-reg-apc-internet-rights-2024,whole,Core support to an internet rights and digital inclusion organisation.
+sida-reg-article19-freedom-expression-2023,whole,Support for online freedom of expression and internet governance advocacy.
+sida-reg-btca-digital-payments-2017,whole,Advocacy for digital payments.
+sida-reg-ddp-digital-security-2020,whole,Programme provides digital security assistance and training to civil society.
+sida-reg-ddp-digital-security-2024,whole,Digital security assistance for civil society and journalists.
+sida-reg-dial-2015-dpg,whole,Core support to an alliance whose mandate is digital public goods and mobile-enabled development.
+sida-reg-dial-2020-dpg,whole,Core support to an organisation advancing digital public goods and infrastructure.
+sida-reg-gsma-connectivity-2025,whole,Core grant for mobile broadband expansion and digital inclusion.
+sida-reg-gsma-mobile-dev-2021,whole,Core grant to a mobile-for-development programme on connectivity and digital inclusion.
+sida-reg-gsma-mobile-leadership-2017,whole,"Programme on mobile operator commitments to connectivity, digital inclusion and mobile money."
+sida-reg-ipris-ict-regulation-2023,whole,Capacity of telecom regulators on ICT policy and regulation.
+sida-reg-itp316-ict-regulation-2017,whole,Training programme for ICT regulators on telecom policy and spectrum.
+sida-reg-privacy-intl-data-rights-2021,whole,Core support for data privacy and data protection advocacy.
+sida-reg-spider-2015-ict-ssa-2015,whole,"Programme's whole purpose is ICT capacity development, research and training."
+sida-reg-spider-phaseout-2022,whole,Phase-out support for an ICT capacity programme.
+sida-reg-uncdf-remit2-2022,whole,"Remittances programme built on regulator data, digital channels and open digital payment ecosystems."
+sida-reg-wb-ddp-2020,whole,"Partnership supporting digital strategies, e-government and digital infrastructure policy."
+sida-reg-wb-ddp-2023,whole,"Contribution to a partnership for digital government, digital finance and broadband."
+sida-reg-wwwf-internet-access-2016,whole,Core support for affordable internet access and digital rights advocacy.
+sida-som-digital-health-2019,whole,Support strengthens the national health management information system.
+sida-uga-connect-rural-uncdf-2019,whole,"Components are mobile broadband, digital financial services, mobile money and digital agricultural information."
+sida-zmb-daz-dims-digital-ag-2018,whole,Grant develops and deploys a digital information management platform for the dairy value chain.
+sida-zmb-fsdz-win2-digital-finance-2020,whole,"Text describes only digitisation, mobile money and fintech for financial inclusion."
+sida-zmb-uncdf-digital-finance-2020,whole,Programme expands digital payment platforms and mobile money.
+sida-zwe-plan-digital-skills-youth-2023,whole,Programme teaches youth digital literacy and coding.
+sifem-reg-apis-gm-iii-2024,whole,Fund investing in tech-enabled financial services such as cashless payments and digital lending.
+sifem-reg-caifi-2022,whole,Commitment to a venture fund investing in tech companies.
+sifem-reg-cpdif-2022,whole,"Commitment to a fund investing in fibre, data centres, cloud and telecom platforms."
+sifem-reg-helios-v-2024,partial,Growth equity fund; financial services and business services sit alongside digital infrastructure.
+sifem-reg-lendable-lmfcf-2022,whole,Commitment to a fund lending only to fintech companies.
+societe-generale-ago-2025,whole,"Finances design, manufacture and launch of an Earth observation satellite system."
+soff-stp-001,whole,Grant upgrades weather observation stations and training so the country produces standard meteorological data; no separate non-data use is named.
+startup-abuja-nga-2026,unclear,"Student aid covering tuition, stipends and internships; no digital activity is stated."
+state-eth-afghs-data-systems-2025,whole,The recorded sum is the data-systems line of the health agreement.
+state-gab-cybersecurity-gabon-2024,whole,Cybersecurity capacity building and incident response.
+state-ken-afghs-data-systems-2025,whole,"The line is specifically for health data systems: HMIS, logistics, laboratory and surveillance systems, and data warehouses."
+state-lbr-afghs-data-systems-2025,whole,"The recorded sum is the data-systems line, itemised across health information systems."
+state-moz-afghs-data-systems-2025,whole,"The line funds health data systems: electronic medical records, laboratory, surveillance, logistics and a data warehouse."
+state-nga-afghs-data-systems-2025,whole,"The recorded sum is the data-systems line of the health agreement, covering health information exchanges and records systems."
+state-reg-prc-disinformation-africa-2020,unclear,Media capacity programme against disinformation; text does not state any digital system or activity.
+state-tza-tanzania-cyber-partnership-2021,whole,Programme supports 5G/6G policy frameworks and cybersecurity capacity.
+state-uga-afghs-data-systems-2025,whole,The amount is the MOU's dedicated funding line for health data systems.
+sweden-fao-som-anticipatory-action-cdi,out,Early-warning systems are funded beside livestock treatment and cash transfers to households.
+swedfund-nga-moniepoint-2025,whole,Equity in a digital payments fintech.
+swedfund-reg-accion-digital-transformation-fund-2022,whole,Fund whose stated purpose is the digital transformation of financial institutions.
+swedfund-reg-apis-growth-fund-i-2015,partial,Fund invests in financial services companies as well as fintech; its portfolio includes a small-business lender.
+swedfund-reg-apis-growth-fund-ii-2019,whole,Fund targets fintech and financial companies providing digital financial services.
+swedfund-reg-apis-growth-markets-fund-iii-2023,whole,Fund investing in digitally enabled financial-services companies.
+swedfund-reg-tide-africa-fund-ii-2022,whole,Commitment to a venture fund for digital businesses.
+sysroad-gmb-2026,whole,Partnership upgrades the national broadband backbone and telecom infrastructure.
+tdb-syc-cws-acquisition-2019,whole,Acquisition financing for a telecoms operator.
+tdb-syc-cws-refinancing-2022,whole,Financing package for a telecoms operator.
+telkom-zaf-2026,whole,Pledge establishes an institute for AI and digital skills.
+tell-group-volz-2025,whole,Equity in a travel-tech start-up.
+tlcom-ken-twiga-2018,whole,Equity in a mobile-based food distribution platform; a tech start-up with no separate non-digital use named.
+tlcom-nga-ulesson-2019,whole,Equity in an education technology start-up.
+tlcom-nga-ulesson-2020,whole,Equity in an edtech start-up for product and content development.
+trident-digital-tech-cod-2025,whole,Partnership to build the national digital ID and e-KYC system.
+uk-fcdo-xsa-2026,out,"Science and technology programme also covering climate, energy, health and space beside AI and digital access."
+uncdf-gha-fido-phase2-2026,whole,Grant scales a digital lender's financial services for small enterprises.
+uncdf-ken-coopbank-digiken-lpg-2026,whole,Guarantee restricted to loans to digital businesses.
+undp-ben-timbuktoo-uac-2022,whole,Grant sets up a digital innovation lab with prototyping and tech incubation at a university.
+undp-bfa-inclusive-digital-2021,whole,"Project covers digital inclusion, ICT policy, the digital economy and digital skills."
+undp-eri-data-stats-2019,whole,Project produces and disseminates national economic statistics.
+undp-eth-innov-finance-2022,out,Small business development programme; digital finance tools sit beside blended finance and general enterprise support.
+undp-eth-timbuktoo-2024,whole,"Initiative supports start-ups in fintech, agritech and digital entrepreneurship."
+undp-funguo-tza-2026,unclear,Awards to a start-up cohort; the text does not say the businesses are digital.
+undp-gha-digital-health-2021,whole,"Digital health tools: electronic records, telemedicine, digital supply chain."
+undp-gnb-mais-digital-2025,whole,National digital transformation programme implementing the digital strategy.
+undp-mwi-idt4m-2024,whole,"Digital ID, digital public infrastructure, e-government services and ICT regulation."
+undp-mwi-mubas-lab-2019,whole,Equips a university innovation hub.
+undp-nga-idike-2024,whole,"Programme on digital transformation, innovation, digital infrastructure and skills."
+undp-reg-accelerator-labs-africa-2019,out,Labs test local innovations for development challenges generally; digital prototyping is one activity among them.
+undp-reg-timbuktoo-2024,whole,Start-up and innovation hub programme centred on tech sectors.
+undp-zwe-2026,whole,Procurement contract for ICT equipment.
+unicef-civ-2026,whole,"Equipment is entirely for a national household survey run by the statistics agency, which is data production."
+unicef-ken-giga-eu-2023,whole,Grant to connect schools to the internet.
+unicef-reg-giga-ssa-2019,whole,Initiative to map schools and connect them to the internet.
+unicef-reg-reimagine-edu-2021,whole,Commitment connects schools to the internet and provides digital learning platforms.
+unicef-sle-giga-isdb-2022,whole,Connects schools to the internet.
+us-dfc-wiocc-2026,whole,Equity in a connectivity company for subsea and terrestrial networks and data centres.
+us-dfc-zaf-2024,whole,Loan expands a Cape Town data centre.
+usadf-reg-usadf-agricultural-t-2020,partial,Grant portfolio to cooperatives; agricultural technology sits beside digital financial services and market platforms.
+usaid-eth-digital-health-dha-2020,whole,"Activity is entirely about the digital health ecosystem: DHIS2, OpenMRS and interoperability platforms."
+usaid-gin-notre-santé-guinea-2023,partial,Health programme; national health information systems and DHIS2 are components of it.
+usaid-ken-healthit-sustaining-2016,whole,Support to the DHIS2 health information system.
+usaid-ken-hpn-afya-halisi-2017,partial,"Reproductive, maternal and child health programme; health information systems are a component of it."
+usaid-ken-hpn-afya-uzazi-2016,out,Maternal and child health service programme; health information systems are components within it.
+usaid-ken-hpn-cmlap-western-2016,whole,Activity strengthens health management and community health information systems.
+usaid-ken-kenya-digital-health-2018,whole,Support to county health information systems.
+usaid-ken-kenya-digital-health-2021,whole,"Digital health ecosystem: health information systems, interoperability and governance."
+usaid-ken-national-hmis-afyain-2015,whole,Health management information system programme.
+usaid-lbr-collaborative-health-2015,out,Broad health systems strengthening programme in which health information systems are one element.
+usaid-lbr-connectivity-liberia-2016,whole,Activity improves internet connectivity and broadband infrastructure.
+usaid-lbr-digital-invest-dccp-2022,whole,Activity supports digital connectivity and cybersecurity.
+usaid-mli-mali-digital-ecosyst-2023,whole,Digital ecosystem assessment.
+usaid-nga-dccp-nigeria-digital-2020,whole,"Supports connectivity policy, broadband regulatory reform and cybersecurity capacity."
+usaid-reg-alliance-digital-fin-2018,whole,"Activity supports digital financial inclusion, fintech and digital payment adoption."
+usaid-reg-civic-defenders-digi-2024,whole,"Activity supports digital rights, digital safety and cybersecurity for civil society."
+usaid-reg-critical-infrastruct-2021,whole,Programme on digitalisation and cyber resilience of critical infrastructure; no non-digital use is named.
+usaid-reg-cyber-security-2024,whole,Cybersecurity capacity building.
+usaid-reg-cyber-workforce-2021,whole,Cybersecurity workforce and response-team capacity.
+usaid-reg-digital-economy-mark-2019,whole,"Digital financial services, digital skills and digital market development."
+usaid-reg-digital-frontiers-ce-2017,whole,"Agreement exists to identify and scale digital approaches across fintech, ICT policy and digital health."
+usaid-reg-digital-health-digit-2016,whole,"Initiative entirely for digital health tools, health information systems and interoperability."
+usaid-reg-digital-invest-integ-2021,whole,Activity mobilises private capital for digital financial services and fintech.
+usaid-reg-digital-transformati-2023,whole,"Initiative covering digital skills, digital entrepreneurship, digital public services and the enabling environment."
+usaid-reg-greater-internet-fre-2020,whole,"Programme wholly about internet freedom, digital rights and secure open internet access."
+usaid-reg-gsa-facilitation-dig-2019,unclear,"Task order covers training, facilitation and digital services; the text does not say how much is digital."
+usaid-reg-information-communic-2020,whole,"Task order covers ICT infrastructure, digital services and connectivity."
+usaid-reg-itrt-digital-forward-2023,whole,Activity supports digital transformation across several digital pillars; nothing non-digital is named.
+usaid-reg-lendable-msme-fintec-2021,whole,Support to a fintech credit fund.
+usaid-reg-vernonburg-connect-o-2024,whole,Award to mobilise capital for internet service providers and connectivity expansion.
+usaid-reg-women-digital-econom-2023,whole,"Fund for women's digital inclusion, digital skills and digital financial inclusion."
+usaid-reg-women-digital-econom-2023-2,whole,Fund for women's mobile internet access and digital financial services.
+usaid-sen-health-systems-stren-2016,out,Health systems strengthening activity; the health information system is a component of wider health support.
+usaid-tza-digital-square-tanza-2021,whole,"Strengthens health information systems, data exchange and interoperability."
+usaid-tza-health-information-s-2017,whole,Strengthening national health information systems.
+ustda-ken-kenya-hospital-assoc-2022,whole,Description says the feasibility study is for digital health services and systems.
+ustda-ken-mombasa-malaba-fiber-2023,whole,Feasibility study for a fibre and tower network.
+ustda-mwi-fixed-wireless-fiber-2022,whole,Feasibility study for fixed wireless and fibre broadband expansion.
+ustda-nga-bonny-island-branchi-2020,whole,Feasibility study for a submarine cable branching unit and landing station.
+ustda-nga-national-fiber-backb-2024,whole,Feasibility study for a national fibre backbone.
+ustda-nga-north-west-infraco-2018,whole,Feasibility study for a data centre and ICT infrastructure.
+ustda-reg-ustda-digital-infras-2023,whole,"Feasibility and training activities for fibre, broadband, data centres and cloud."
+ustda-zaf-affordable-offgrid-c-2023,whole,Feasibility study for internet connectivity.
+ustda-zaf-dark-fibre-africa-2021,whole,Feasibility study for fibre network expansion.
+ustda-zaf-ict-investment-analy-2017,whole,Study analyses investment in the ICT sector.
+ustda-zaf-western-cape-provinc-2021,whole,Feasibility study for broadband network expansion.
+ustda-zaf-white-space-wifi-2019,whole,Feasibility study for TV white space rural connectivity.
+vantage-zaf-2025,whole,Joint venture investment in a data centre building.
+village-capital-nga-2026,partial,"Two start-ups funded; one is a digital finance platform, the other makes biochar fertiliser."
+visa-nga-interswitch-equity-2019,whole,Equity stake in a digital payments company.
+visa-nga-moniepoint-equity-2025,whole,Equity in a fintech payments and business banking company.
+visa-zaf-datacenter-johannesburg-2025,partial,"A data centre is the core, but the same sum also covers small business enablement and youth training."
+vodacom-safaricom-2025,whole,Purchase of a controlling equity stake in a mobile network operator.
+vodacom-tza-mpesa-upgrade-2026,whole,Migration of a mobile money platform to a new system.
+vodacom-zaf-spectrum-5g-2022,whole,Payment is for mobile spectrum licences used for 4G and 5G networks.
+wb-ago-001,whole,"Digital economy project: broadband infrastructure, digital financial services and digital skills."
+wb-ago-002,whole,Support to the national statistics institute and statistical system.
+wb-bdi-001,whole,Additional financing to a digital foundations project; no specific non-digital use is named.
+wb-bdi-002,whole,"Stated uses are broadband, digital government platforms, cybersecurity and digital skills."
+wb-bdi-003,whole,The amount recorded is only the digital payment delivery sub-component.
+wb-ben-001,whole,"Stated uses are digital agricultural services, rural broadband, digital financial inclusion and digital skills."
+wb-ben-002,whole,The amount is the imputed digital payment and MIS sub-component of the safety nets programme.
+wb-bfa-001,whole,"Every listed strand is digital: broadband, digital government, digital financial services and digital entrepreneurship."
+wb-bfa-002,whole,"Described wholly as GovTech solutions, digital public services and digital accountability tools."
+wb-bfa-003,whole,The amount is the project's digital payments component alone: government payment digitisation and digital microfinance channels.
+wb-caf-001,whole,"Digital government infrastructure, e-services and related capacity building."
+wb-caf-efcrp-af2,out,"Emergency food crisis financing; cash-for-work and food support dominate, with beneficiary database consolidation a small part."
+wb-civ-001,whole,"Described wholly as e-agriculture platforms, digital advisory services and digital value chains."
+wb-civ-003,whole,The amount is the digital skills and job-matching platform sub-component only.
+wb-civ-004,whole,"Digital acceleration project: broadband for public facilities, digital agencies, AI governance and digital skills."
+wb-cmr-001,whole,"Project is entirely broadband, digital government, digital financial services and ICT sector development."
+wb-cmr-003,whole,Amount is the digital delivery systems component: social registry and digital payment system.
+wb-cmr-004,partial,Strengthening the statistics system is paired with improving the effectiveness of public spending in selected sectors.
+wb-cod-001,whole,"Digital transformation project covering connectivity, digital government services, digital ID and digital skills."
+wb-cog-001,whole,"Stated uses are broadband infrastructure, digital financial services and digital skills."
+wb-com-002,out,"Budget-support policy operation; fiscal reforms on debt guarantees and procurement oversight, with no separable systems spend."
+wb-cpv-001,whole,"Project covers internet connectivity, digital government services and digital skills."
+wb-cpv-002,out,"Budget-support operation; e-invoicing and a digital portal sit beside revenue authority, energy, fisheries, tourism and childcare reforms."
+wb-dji-001,whole,"Described as GovTech-focused: tax administration system, financial management information systems and digital service delivery."
+wb-dji-003,partial,"E-government platform is the main component, but the credit also funds revenue administration efficiency, a citizen service centre and institution building."
+wb-dji-004,whole,"All components concern the ICT enabling environment, connectivity and digital skills."
+wb-dji-005,out,"Education project; data systems are one small component beside preschool, school access and teaching."
+wb-dji-007,out,Social registry upgrade sits within safety nets; nearly half the grant is socio-economic infrastructure and economic opportunities.
+wb-eth-001,whole,Project is entirely the development and rollout of a national digital ID system.
+wb-eth-002,whole,"Broadband, digital government platforms, cybersecurity and digital skills."
+wb-eth-003,partial,Public financial management project; the financial management information system is the main component beside capacity building and accountability reforms.
+wb-eth-004,whole,Amount is the earmark for the education management information system.
+wb-gab-001,whole,"Connectivity, digital government services, digital financial infrastructure and ICT sector development."
+wb-gab-002,whole,Additional financing for broadband backbone infrastructure.
+wb-gab-003,whole,"E-government infrastructure: digital services, a government data centre and digital administrative procedures."
+wb-gab-004,whole,Project strengthens the national statistical system and statistical production.
+wb-gha-001,whole,"Every listed strand is digital: broadband, digital financial services, digital public services and digital skills."
+wb-gmb-001,whole,Expansion of the integrated financial management information system.
+wb-ken-001,whole,"Every stated component is digital: broadband, digital public infrastructure and services, and digital financial services."
+wb-lbr-001,partial,"Public financial management reform; IFMIS, tax and customs systems sit beside financial control and institutional capacity building."
+wb-mdg-001,partial,Combines rural electricity access with broadband; the energy component is not separated from the digital one.
+wb-mdg-002,whole,"Project covers digital identification infrastructure, e-government platforms and digital financial services."
+wb-mdg-003,whole,"The amount is the imputed digital payment sub-component: mobile money delivery, digital ID registration and electronic payment systems."
+wb-mdg-004,whole,Project builds the capacity of the national statistics institute.
+wb-moz-001,whole,"Project is entirely broadband, digital government, digital financial infrastructure and digital skills."
+wb-moz-002,partial,"Project pairs rural broadband with rural electrification and sustainable energy access, which is not digital."
+wb-moz-003,whole,"Digital government platforms, broadband infrastructure and digital financial services."
+wb-moz-mass-civil-reg,whole,Campaign wholly for birth registration and identity card issuance.
+wb-mrt-001,partial,Policy operation covers private sector and human capital reforms as well as digital reforms.
+wb-mwi-001,whole,"Broadband infrastructure, digital financial services and e-government platforms."
+wb-mwi-gesd2-2026,unclear,Text describes performance-based grants to local councils and names no digital component.
+wb-ner-001,whole,"Text describes smart villages, broadband connectivity, digital financial services and digital skills only."
+wb-ner-002,whole,Amount is the digital payment system component only.
+wb-nga-001,whole,"National digital ID enrolment, harmonisation of ID systems and authentication infrastructure."
+wb-nga-002,whole,The amount is the digital delivery component only: payment infrastructure and biometric-linked accounts.
+wb-reg-001,whole,Regional programme for connectivity and digital public infrastructure.
+wb-reg-003,whole,"Regional digital integration project: shared digital infrastructure, regulation and digital public goods."
+wb-reg-004,whole,Regional programme to extend unique digital identification across West African states.
+wb-reg-005,whole,Programme is entirely about a foundational unique identification system and digital ID credentials.
+wb-reg-006,whole,Additional financing for regional broadband infrastructure.
+wb-reg-007,whole,Regional communications infrastructure financing for broadband backbone.
+wb-reg-008,whole,Regional communications infrastructure programme for broadband connectivity.
+wb-rwa-001,whole,"Project is entirely broadband, digital financial services, digital government platforms and digital skills."
+wb-rwa-002,whole,"The amount recorded covers only the digital payment, registry and beneficiary-system components."
+wb-rwa-003,partial,Public finance reform project; the IT systems rollout is one component beside transparency and professionalisation of officials.
+wb-sdn-001,out,"Family support project; most of the money is cash transfers to households, with safety-net delivery systems alongside."
+wb-sdn-002,out,"Mostly solar electricity for irrigation, agribusiness and public facilities; digital access shares one component with energy."
+wb-sen-001,whole,"All stated components are digital: connectivity, digital public infrastructure, digital financial services and digital skills."
+wb-sen-002,partial,"Land tenure project; the land information system sits beside systematic land registration, institutional strengthening, training and an emergency component."
+wb-sen-003,out,"Safety-net project; registry and beneficiary systems are described, but the title covers wider social protection delivery."
+wb-sen-procasef-af,partial,"Land tenure project funding field land operations, communal support and land offices as well as the land-information system."
+wb-sle-001,whole,"Every listed strand is digital: broadband, digital government systems, digital financial services and digital skills."
+wb-som-001,whole,"Text describes only digital skills, digital financial services and digital job creation."
+wb-som-002,whole,"Stated uses are digital skills, digital financial inclusion, digital entrepreneurship and ICT sector development."
+wb-som-003,whole,"Technical assistance on ICT policy, regulation, universal access and connectivity."
+wb-som-004,partial,"Public financial management project; IFMIS and revenue systems sit alongside expenditure control, accountability and capacity strengthening."
+wb-som-eardip,whole,"Every listed activity is digital: backbone and last-mile connectivity, cybersecurity, data protection, e-commerce enablers and digital skills."
+wb-stp-001,whole,"Project is entirely connectivity, digital public services and digital skills."
+wb-stp-003,out,"Expands cash transfers to more households alongside the social registry, management information system and electronic payments."
+wb-stp-004,partial,"Budget support with pillars on state-enterprise oversight, fiscal transparency and energy supply beside telecoms competition and digital ID."
+wb-swz-001,whole,Broadband infrastructure and digital government platforms.
+wb-swz-002,whole,Deployment and rollout of an integrated financial management information system.
+wb-tcd-001,whole,"Project is entirely ICT infrastructure, digital government, digital financial services and capacity building."
+wb-tcd-002,whole,Described wholly as digitalisation of revenue administration systems.
+wb-tcd-003,whole,Support to the national statistics institute for data collection and dissemination.
+wb-tcd-pfsap,out,Social safety net project funding income-generating support to households; the unified social registry is one element.
+wb-tgo-001,whole,"Digital acceleration project: broadband infrastructure, digital public services and digital skills."
+wb-tza-001,whole,"Project is entirely broadband, digital government platforms, digital financial services and digital skills."
+wb-uga-001,whole,"Digital acceleration project: government network, digital public services, broadband and digital inclusion."
+wb-uga-002,whole,The amount recorded is only the digital agro-climatic information systems sub-component.
+wb-zmb-001,out,"A rural roads project: the World Bank gives its objective as rural road accessibility, not broadband."
+wingu-africa-tza-2025,whole,Investment is the second phase of a data centre.
+world-bank-african-union-2023,whole,Allocation under a regional digital integration programme for the single digital market agenda.
+world-bank-ago-2019,out,Most of the money is cash transfers to poor households; the safety-net delivery system is a smaller component.
+world-bank-ago-2023,partial,Local governance project in 53 municipalities; birth registration and ID issuance is one component of several.
+world-bank-ago-2023-test,unclear,Text gives only the tertiary education project's financing; it does not say what the US$40m covers or its digital content.
+world-bank-bdi-2026,whole,Contribution to a rural high-speed internet rollout.
+world-bank-ben-2026,whole,"Allocation under a regional digital integration programme, including a data-centre redundancy site."
+world-bank-bfa-2026,out,Economic opportunities and social protection project; the social registry and database integration are one element.
+world-bank-cmr-2024,out,Electricity-sector reform programme; smart metering and a data centre sit within wider power-sector recovery spending.
+world-bank-cmr-2026,whole,Cybersecurity equipment for the national incident response team.
+world-bank-ecowas-2023,whole,Allocation under a regional digital integration programme.
+world-bank-egy-2020,out,Health insurance programme; the information system is one component beside coverage expansion and financial protection for the vulnerable.
+world-bank-gin-2023,whole,Credit is Guinea's share of a regional programme for broadband access and a single digital market.
+world-bank-gmb-2023,whole,Allocation under a regional digital integration programme for broadband access.
+world-bank-gnb-2023,whole,National allocation under a regional digital integration programme.
+world-bank-lbr-2025,whole,Funding is for national digital ID enrolment and a digital-government ecosystem.
+world-bank-lbr-2026,whole,Country allocation under a regional digital integration programme run by the telecoms ministry.
+world-bank-lso-2024,partial,Shared digital government foundations are one component; expenditure management and human resource reform take the rest.
+world-bank-mar-2021,partial,"Public sector performance programme; interoperability and open data are one of three results areas, beside public expenditure performance."
+world-bank-mar-2026,whole,Programme is entirely about digital public services and digitising the private sector.
+world-bank-mdg-2018,unclear,Text describes a financial inclusion project and gives no detail of any digital content.
+world-bank-mdg-2026-02,out,Urban resilience project funding infrastructure and housing reconstruction; digital land services are a small part.
+world-bank-moz-2021,out,Amount is the whole social protection and economic resilience project; any information-system part sits within cash-transfer and resilience financing.
+world-bank-mrt-2023,whole,Country allocation under a regional digital integration programme run by the digital ministry.
+world-bank-mwi-2024,partial,"Public financial management reform on revenue, budget execution and procurement; digitalised fiscal systems are one part."
+world-bank-mwi-2024-02,whole,"Digital acceleration project: broadband, data hosting, digital ID, data exchange and digital services."
+world-bank-nga-2025,whole,"Financing is for a nationwide fibre network company, including its rings, metro loops and edge data centres."
+world-bank-sle-2026,whole,Allocation under a regional digital integration programme.
+world-bank-smart-africa-2023,whole,"Grant is Smart Africa's allocation under a regional digital integration programme, including its digital academy."
+world-bank-som-2025,out,Social protection and youth employment project; the social registry and survey sit beside cash transfers and jobs support.
+world-bank-swz-2020,partial,Health system strengthening project; the community health information system is one of its components.
+world-bank-syc-2021,out,Social protection programme-for-results; the registry and information system is only the digital element within it.
+world-bank-tgo-2025,out,"Policy operation for private investment and jobs; a broadband price cap sits beside land, electricity, investment and training reforms."
+world-bank-tgo-2026,whole,Additional financing for a digital identification project.
+world-bank-tza-2026,out,"Safety-net credit described as cash transfers, business grants and public works; any information system is at most a small part."
+world-bank-waemu-2026,whole,Allocation under a regional digital integration programme.
+world-bank-zmb-2025,whole,"All components are digital: affordable broadband, interoperable secure platforms and digital skills."
+yahsat-sdn-2023,whole,Agreement for satellite broadband capacity.
+yas-tanzania-tza-2026,whole,Public-private partnership to roll out fibre broadband.
+ycell-gamcel-2026,whole,Investment modernises a mobile operator's network and business systems; the new head office is incidental to the operator.
+zte-cmr-001,whole,Grant for construction of two data centres.
+zte-tza-001,whole,Grant installs a CCTV surveillance system with a command centre and analysis tools.
