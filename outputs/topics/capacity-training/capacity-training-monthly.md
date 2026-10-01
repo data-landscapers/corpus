@@ -1,17 +1,15 @@
 ---
-title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Training and skills — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ec972cf8c288
+places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: 6eb053b7c61f
 ---
 
-# Training and skills: monthly update, August – September 2026
+# Training and skills: monthly update, September – October 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -19,11 +17,11 @@ On 10 September the higher education and scientific research minister directed t
 
 ## Angola
 
-A new technology centre [entered service in August](https://www.opais.ao/politica/soberania-digital-e-aposta-na-formacao-de-jovens-reforcadas-com-a-entrada-em-funcionamento-de-novo-centro-tecnologico/), framed by the ministry around protecting citizens' data and training young people. No intake, curriculum, cost or site detail is published, and the data-protection framing is the ministry's rather than a stated function of the centre.
+The telecommunications institute and a cable operator [signed a cooperation protocol on 3 September at the technology innovation fair](https://angop.ao/noticias/economia/itel-e-tv-cabo-assinam-acordo-de-cooperacao-para-capacitar-jovens/), under which the operator offers internships to students and supplies internet service to the institute.
 
 ## Benin
 
-Two cohorts opened in the month, both small and both institutional. The state information-systems agency [began a certification programme for 25 departmental information-security officers on 3 August](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi), and the capital's town hall [opened an artificial-intelligence academy for 60 secondary pupils on 19 August](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains), framed on urban problems. Neither publishes a curriculum, a completion standard or a plan for a second cohort.
+UNICEF [handed the secondary education ministry 628 items of computer equipment on 11 September](https://www.africa-newsroom.com/press/benin--enseignement-secondaire--le-gouvernement-accelere-la-transformation-numerique-avec-628-equipements-informatiques?lang=fr), for 43 schools in nine departments, enough for 12 new digital classrooms beside the 55 already deployed.
 
 ## Burkina Faso
 
@@ -31,79 +29,33 @@ On 24 September the digital ministry [opened a two-day artificial-intelligence c
 
 An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
 
-## Burundi
-
-School equipment moved as procurement. A national request for proposals [opened on 11 August and closed on 24 August for the supply and installation of computer equipment in 39 central schools in three former provinces, its bill of quantities naming 585 computers and uninterruptible power supplies across three lots](https://www.ungm.org/Public/Notice/310460). Set against the education ministry's own target of 760 school networks, thirty-nine schools is the increment this month records; nothing states when the equipment arrives or who maintains it.
-
-## Cameroon
-
-Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the repository holds is an intention with a meeting behind it.
-
-## Comoros
-
-Two pupils of the private école Mouigni Baraka, Anmar Mohamed and Hafsoit Idrisse, [became Comoros's first entrants to the International Olympiad in Artificial Intelligence, competing at the third edition in Astana, Kazakhstan, from 2 to 8 August 2026](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html), selected from four shortlisted candidates drawn from several schools. The delegation was led by Chamsoudine Soudjay, secretary-general of the Association comorienne des technologies de l'information et de la communication (ACTIC), and entered through the Olympiad's GAITE (Global AI Talent Empowerment) programme for emerging nations, with the participation funded jointly by ANADEN, its supervising ministry and ACTIC Academy rather than by any domestic training programme. No result is on record, and the competition's own close falls after this window.
-
-The standing public provision was recorded for the first time: the university's [technology institute carries departments in computer engineering, information-systems administration and security, and network administration and security](https://univ-comores.com/composantes/institut-universitaire-de-technologie). No enrolment, graduation or staffing figure is published for any of them, and the institute's own presentation fields on the university site are blank.
-
 ## Cote d'Ivoire
 
-The civil-service digital-skills programme [closed its thirteenth edition on 29 July](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins), training 192 officials from about thirty public bodies over 40 days, against a cumulative claim of more than 37,500 civil servants funded from the ministry's own budget line.
-
-Outside the service, a German-funded accelerator closed a three-month cohort on 4 August, [closing with 51 artificial-intelligence projects across finance, health, law, education and cybersecurity](https://startupmedias.africa/articles/tech-talent-accelerator-51-projets-intelligence-artificielle-cote-divoire). The project count is the only measure published: participant numbers, cost and what becomes of the projects after the demonstration day are not stated, and a project shown at one is not a deployed system.
+The technical education ministry and UNESCO [launched a project on 17 September to train some 3,000 technical and vocational teachers and heads in the teaching use of AI by 2027](https://www.aip.ci/cote-divoire-aip-trois-mille-enseignants-bientot-formes-a-lusage-pedagogique-de-lia/). The pilot is in Abidjan, with 1,907 enrolled at launch against 1,000 planned.
 
 ## Djibouti
 
-The labour ministry [presented Djibouti Emploi on 24 August, a single portal meant to centralise its services for jobseekers, employers and the administration and to interconnect the institutions handling employment](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). No registration count or placement figure is published. The problem it is written against is measured in the [spring economic monitor](https://documents1.worldbank.org/curated/en/099209305122650698/pdf/IDU-3d483253-60ba-4a4c-b634-fc8f02408c05.pdf), whose school-to-work analysis is the closest thing the repository holds.
-
 Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre on 5 September](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/), and [Djibouti Telecom certified 35 of its engineers in artificial intelligence on 17 September](https://www.adi.dj/article/138906). Neither account gives a cost.
 
-## DR Congo
-
-The employment office launched a [portal and mobile application in July](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) on which jobseekers register skills and employers post needs, intended to build a national skills database. It was externally financed, and no user or placement figure is held.
-
-The digital economy ministry [opened the first of a planned series of five-day training sessions for 580 of its own agents and managers](https://actu7.cd/2026/08/24/le-ministere-de-leconomie-numerique-lance-la-premiere-session-de-formation-de-pres-de-600-agents-et-cadres-de-son-administration/) at the INPES in Kinshasa on 24 August 2026. No curriculum, completion target or budget line is published.
-
-The land ministry [closed a roughly month-long course for 50 conservators of property titles on 25 August, drawn from several provinces and run with the national school of administration as part of a capacity-building programme under the land reform](https://actualite.cd/2026/08/25/rdc-oneige-nsele-cloture-la-formation-de-50-conservateurs-des-titres-immobiliers-pour), setting it alongside archiving operations already running in seven pilot land districts of Kinshasa; no further wave or provincial timetable is stated.
-
 ## Egypt
-
-The state's university artificial-intelligence programme closed its fourth round on 4 August with 1,090 students and 445 projects, taking the cumulative total since 2022 to 2,710 students ([round account](https://gate.ahram.org.eg/News/5882834.aspx)). A tripartite agreement added mentoring and real healthcare datasets to student projects, with no data-governance arrangement stated for the patient-derived data.
 
 The national telecommunication institute [signed a memorandum with Cisco to certify 3,000 technology instructors, 1,000 a year for three years](https://www.connectingafrica.com/ai/egypt-cisco-to-train-3-000-ai-instructors) (2 September), and protocols on [AI capacity building with a state authority](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/117432), [enterprise-systems training with a private firm](https://techafricanews.com/2026/09/17/egypts-nti-partners-jupiter-2000-train-youth-enterprise-resource-management/) and [digital transformation and automation with another](https://techafricanews.com/2026/09/21/egypts-nti-partners-with-4dtio-to-train-youth-in-digital-transformation-and-automation/). None publishes a cohort size, cost or placement target.
 
 The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published.
 
-## Equatorial Guinea
-
-An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the repository can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
-
 ## Eswatini
-
-At the Macetjeni handover the ICT ministry's principal secretary said [AI, robotics, coding and cybersecurity courses would follow](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) at the innovation hubs.
-
-The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 
 In schools, the education minister [set out more than 1,140 computers donated by Taiwan to 49 schools and 40 interactive screens installed in five schools per region, with 106 more schools to follow](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/), and a US$4.75 million Global Partnership grant whose terms were not given.
 
 The civil service is being prepared for the Digital Eswatini Project's implementation phase. On 24 September [about 40 change agents from five ministries and participating parastatals, organised as a change-agent network since their first training, assessed the readiness of their own directorates](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/); no count of the staff they cover is published.
 
-## Ethiopia
-
-The flagship coder-training programme is [now reported as a seven million coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/), a target raised from the five million the digital transformation council had been working to. The raise is reported rather than gazetted, and no enrolment, completion or certification figure accompanies it.
-
-UNESCO and the labour and skills ministry [validated findings on the digital-skills training needs of TVET teachers and students, to inform policy, capacity development and investment in the system](https://www.unesco.org/en/articles/strengthening-digital-skills-ethiopias-tvet-system). The findings themselves are not published with the account.
-
 ## Gabon
-
-Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
-
-More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
 
 The primary-school digitalisation programme [entered its scale-up phase, the pilot having grown from nine schools to 69](https://agpgabon.ga/gabon-mouila-ouverture-dun-seminaire-sur-la-digitalisation-a-lecole-primaire/), as teacher training opened at Mouila on 25 September; the coordinator put satellite-connected schools at more than 120, below the operator's own count.
 
 ## Gambia
 
-The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds.
 
 The employment ministry [signed memoranda with the applied science university, the Civil Service University and a hardware-technology institute to deliver three years of digital labour skills training under the regional digital integration programme](https://newglobalmedia.net/motie-signs-mous-to-boost-digital-labour-skills/), aimed at youth, women and persons with disabilities; no budget or participant figure is stated.
 
@@ -125,19 +77,11 @@ The state digitalisation agency [put the feasibility study for a national digita
 
 ## Kenya
 
-A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
-
 A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
 
 The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/).
 
-## Lesotho
-
-MICSTI reported [digital-literacy training running across all ten districts](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) at the CSIRT launch on 29 July, with no participant numbers published.
-
 ## Liberia
-
-UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
 
 A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
 
@@ -145,37 +89,13 @@ The gender ministry [signed an agreement with Cybastion to build women's technol
 
 Outside government, a foundation-backed computer and robotics laboratory in Monrovia, open since July 2024, [reached 1,717 high-school students in 2025, up from about 200 in 2024](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), on the partner foundation's own figures.
 
-## Libya
-
-The Islamic Development Bank Institute [announced on 2 August that it had run an executive programme for Central Bank of Libya officials](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) covering Sukuk issuance, liquidity and portfolio management, treasury operations and settlements, and emerging AI-related security risks. The Libya Observer places the programme at IsDB headquarters in Jeddah from 27 to 30 July 2026. Participant numbers, curriculum and any standard behind the AI component are unstated.
-
-## Madagascar
-
-The digital ministry [received 259 applications by 1 August 2026 for ten established civil-service posts](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), split between the capital and the regional directorates. The fields are artificial intelligence, data management, digital innovation, cybersecurity, telecommunications and digital law, the last covering personal data protection and electronic commerce. Applicants have publicly asked for integrity guarantees on the selection, and no appointment has been announced.
-
-## Malawi
-
-An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). The same foundation's scholarship arm named its [first 25 beneficiaries on 18 August, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) — the places announced at the January launch, filled seven months later. No continuation beyond the one cohort is stated.
-
 ## Mali
-
-The same 22 July an operator [reported 350 young people placed on the labour market](https://www.maliweb.net/formation-professionnelle/metiers-au-numerique-orange-met-350-jeunes-talents-sur-le-marche-du-travail-3118599.html) from its digital centre.
-
-On 30 July UNESCO and Japan [handed the education ministry FCFA 88,740,927 of equipment for eight teacher-training institutes](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) — 40 laptops, 16 all-in-one computers, 32 tablets, and projectors, whiteboards, printers and backup devices — with no maintenance, connectivity or software provision stated.
-
-On 1 August recruitment opened for the first cohort of a [digital-skills programme for 15,000 young people](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) run under a convention with the Association Kabakoo.
 
 The youth digital skills convention delivered its [first cohort of 1,000, in bursaried four-month training toward a target of 15,000 over three years](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html).
 
 ## Mauritania
 
-The Ministry of Vocational Training [launched a digital-employability project on 23 July](https://www.ami.mr/archives/264918) financed by France's Fonds Équipe France and implemented by Simplon: 2,150 beneficiaries across six cities, about 2,000 of them young people, with a stated focus on women and people with disabilities. It succeeds a programme closed in 2025.
-
-The university opened the first edition of a summer school on language models for low-resource African languages at Nouadhibou on 25 August, [taking participants from corpus construction and semantic annotation through model adaptation and evaluation to prototypes in translation and conversational assistants](https://www.ami.mr/archives/267189).
-
-## Mauritius
-
-The incumbent operator opened a national cybersecurity and artificial-intelligence awareness programme for secondary students with the education ministry, [starting on 13 August at the Mahatma Gandhi Institute with about 500 Grade 10 to Grade 12 students drawn from all four education zones](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), and free ten-hour AWS training on offer alongside. A [companion account of the same workshop](https://lexpress.mu/node/561500) describes its content as online risk and responsible use of new technologies. It is an operator-run programme rather than a curriculum change, and no full-year target, budget or evaluation is stated.
+The education ministry [opened a ten-day course on 8 September 2026 for 20 secondary education inspectors in documentation, archiving and electronic document management](https://lequotidien.mr/?p=40495).
 
 ## Morocco
 
@@ -183,78 +103,41 @@ The Génération AIoT programme [opened seven cohorts in Casablanca, Fès and Ou
 
 The administration school and the digital development agency [agreed on 22 September to train civil servants in digital transformation, AI and data management](https://en.7news.ma/ena-add-digital-skills-partnership/); no number of officials or start date was announced.
 
-## Mozambique
-
-The European Union digital programme's training reached delivery. [Pilot training was delivered and assessments completed under the digital skills curriculum](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so no cohort size, completion rate or date can be placed against it.
-
-## Namibia
-
-A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the repository otherwise holds nothing of here; no intake, curriculum or fee structure is published.
-
 ## Niger
 
-Skills work travelled rather than sat still. The Niger Digital Day caravan [trained 140 young people at its Tahoua stage on 25 August](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/), one leg of a programme its organisers say will run in all eight regions and reach more than 800 young people. Coverage and reach are the organisers' own figures and no completion or follow-up count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
-
-Two university facilities moved within three days. Dosso [called for projects to incubate at its innovation hub, offering digital fabrication, robotics and artificial-intelligence modules, coworking space and equipment access](https://udo.edu.ne/2026/08/14/appel-a-candidatures-pour-la-selection-de-projets-innovants-a-incuber-a-lunipod-niger-2/), further along than Diffa's, still at project-document validation. Two days earlier a Nigerian university and Université André Salifou at Zinder [signed a five-year memorandum on student and faculty exchange and joint research](https://abu.edu.ng/abu-signs-pact-with-nigerien-varsity-to-promote-partnership-on-education-research-innovation/), naming no computing degree or laboratory.
+Algeria's state operator [signed a convention in Niamey on 8 September 2026 covering telecommunications infrastructure capacity and training](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/), following a July accord aimed at a digital competence centre; its delegation visited the national telecommunications college on 9 September.
 
 ## Nigeria
-
-A [diaspora health-workforce registry is described as newly launched](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/), with no launch date, custodian agency, enrolment terms or data-protection basis stated in anything held — a register standing up ahead of its governance.
 
 The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/).
 
 ## Rwanda
 
-The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
-
-Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
-
-## Sao Tome and Principe
-
-The national university [graduated at least 94 students on 24 August 2026, 79 of them women](https://rstp.st/2026/08/24/ustp-gradua-pelo-menos-94-estudantes-com-apelo-a-maior-responsabilidade-e-integridade/), across courses it lists as agronomy, languages, law, public relations, public administration, tourism and technologies. The source gives no breakdown by course, so how many are computing or telecommunications graduates is unstated, and [no official publication counts graduates by field of study, ICT graduate destinations or the size of the national ICT professional workforce](https://www.ine.st/phocadownload/userupload/Documentos/STPemNumeros/STPemNumeros%20%202017.pdf). It is the largest single addition to the graduate stock reported in this window, against [a domestic information and communication sector of six enterprises employing 209 people](https://www.ine.st/images/Imagens/RE/Relatorio%20%20RE2020_final_v06_Final_decinel_25-10-2021_revisadoFinal.pdf).
+A first cohort of 24 teachers [completed a ten-day training-of-trainers programme to introduce cybersecurity courses in technical and vocational schools](https://www.newtimes.co.rw/article/38825/news/featured/rwanda-takes-cybersecurity-to-tvet-schools-as-first-24-teachers-complete-training), reported on 9 September.
 
 ## Senegal
 
-Two facts about the state's own capacity arrived in the same week and point opposite ways. The national statistics agency [graduated 60 statisticians - 33 statistician-economists and 27 statistician-analysts, drawn from ten African countries - taking its school's cumulative output past 900 since 2011](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/), and used the ceremony to press ministries to recruit them into sectoral statistical services: an absorption problem stated rather than measured, since no figure is published for how many of the 900 work in Senegalese public statistics. Against it, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). The programme has run for nine years and publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
+A national digital training plan for state employees [was validated at a workshop on 10 September 2026](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), setting role-graded competences in digital tools, data, AI and cybersecurity.
 
 ## Sierra Leone
 
-MoCTI and three other bodies [launched a digital skills programme for civil servants on 10 July 2026, with 1,000 places in year one and stated targets of 3,000 medium-term and 5,000 long-term](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/) across six areas including artificial intelligence and cybersecurity, aimed at gaps outside Freetown.
-
-The country held its [first academic exhibition dedicated to Digital Public Goods on 27 July, where 11 student-built solutions were evaluated against the DPG Standard](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent). The curriculum behind it, built with UNICEF, the United Nations University and Limkokwing University, has [taught more than 1,100 students and appointed 14 campus champions across four universities](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent).
-
-
-On the skills side, [eighty young people graduated from a nine-month digital-literacy course at Kenema on 8 August, reporting job retention and promotion](http://www.critiqueecho.com/80-youth-graduate-in-advanced-digital-literacy-as-yad-boosts-employability-in-sierra-leone/). The outcomes are the graduates' own and no tracer study is held.
-
-## Somalia
-
-In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the repository carries no earlier position for it.
+A first cohort of the civil service digital skills programme [was in training in September and due to conclude on 25 September](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants), with 1,000 civil servants planned in year one.
 
 ## South Africa
-
-The information technology sector education and training authority was [referred for a governance assessment](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL).
-
-On 14 August a development bank report prepared with the higher education department, with philanthropic funding, [found the route from school through universities and technical colleges into employment constrained at both ends: young people arrive without the foundational digital skills the workplace needs, and employers cannot fill digital vacancies despite high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). It finds the mismatch structural and says it will not correct itself.
-
-A networking vendor's academy and a private group agreed with the Northern Cape education department to offer [networking, cyber security and artificial-intelligence courses in 235 schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N), part of a global programme the vendor says has trained more than 600,000 South Africans. No learner target, cost, funding split, teacher training or certification route has been stated.
-
-The industry association [launched a portal linking employers, ICT jobseekers and graduates, and professional development in one platform, to address what it calls the disconnect between people with ICT skills and the businesses that need them](https://www.itweb.co.za/article/saicta-targets-ict-jobs-gap-with-new-portal/KjlyrvwBrx5qk6am); no listing, placement or funding figures were given. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort; one provides a newly launched OEM training facility in Midrand and the other a live data centre for the practical part of a graduate-to-employment programme](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/). The sponsoring founder described it as a recruitment cost, not a training cost. No cohort size, placement rate or cost per place has been published.
 
 Employers report [about 55% of workers showing little or no proficiency in mathematics or data skills, 55% saying their workforce has only basic digital literacy, 52% finding it difficult to hire anyone prepared for digital transformation and 70% rating workforce technology skills poor or very poor, against 118,500 unfilled ICT vacancies, 36% of them junior roles](https://businessexplainer.co.za/opinion/2026/09/07/sa-is-not-future-ready-says-oosthuysen/); the country is ranked second in the world on education spending and 67th on digital skills. The figures come from an industry opinion piece citing a university survey and a non-profit's vacancy count.
 
 ## South Sudan
 
-Two private training deliverables closed the month. A mobile operator's money arm [graduated 1,225 entrepreneurs from a digital-finance skills programme on 24 August](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/), and the same operator [opened an ICT hub at Aweil in Northern Bahr el Ghazal](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/). Both are the operator's own programmes and its own figures; no state training line stands beside them on this ledger.
+A mobile operator [opened an ICT hub at Rumbek, Lakes State, on 8 September 2026](https://techafricanews.com/2026/09/09/mtn-south-sudan-launches-rumbek-ict-hub-to-boost-digital-skills-and-innovation/) with the state government. A state branch of the journalists' union [trained more than 20 civil society, security and media representatives at Yei River County on cybercrime, the Computer Misuse Act 2026 and electoral preparedness](https://www.onecitizendaily.com/index.php/2026/09/09/over-20-civil-society-and-security-officials-trained-in-yei/).
 
 ## Sudan
 
-Türkiye's higher education council and the Sudanese higher education ministry [signed a protocol in Ankara on 3 August 2026 to establish a joint public university in Khartoum](https://www.yok.edu.tr/en/news/turkish-universities-expand-their-global-footprint-following-kazakhstan-kyrgyzstan-azerbaijan-and-uzbekistan-next-destination-is-sudan-w1zjQ), with information technologies and artificial intelligence named among its priority fields, and recording a parallel arrangement hosting three Sudanese universities on Turkish campuses. A protocol is a provision, not a faculty: no site, intake or opening date is stated, and the institution has no students.
+The higher education council's president [approved by decision 138 of 2026 a regulation giving e-learning and blended learning in higher-education institutions a legal basis](https://aswatnews.net/?p=62393), in force from signature on 12 September.
 
 ## Tanzania
 
-Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the repository can date the commitments and cannot size them.
-
-The instrument behind teacher training entered the repository, and it is eleven years old. The [2015 ICT competency standards for teachers, built with the United Nations education agency on its global framework and covering six modules across two knowledge stages](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf), are what the repository holds; a 2025 revision is referred to and not published. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the repository can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
+The instrument behind teacher training entered the repository, and it is eleven years old. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the repository can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
 
 ## Togo
 
@@ -264,26 +147,12 @@ The first artificial-intelligence summer school finished, [training 100 young pe
 
 ## Tunisia
 
-The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
-
 Against that intake runs the outflow. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
 
 ## Uganda
 
-The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and [fewer than 4% of those trained were government officers](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/).
-
-The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
-
-An operator's programme published a cohort figure on 31 August. It [graduated 503 young people at the National ICT Innovation Hub from a hybrid course in information and communication technology, digital marketing, e-commerce, cybersecurity and artificial intelligence, taking its cumulative total to 1,191](https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/). The counts are the operator's own, and no employment outcome, start year or cost per participant is published.
-
 The same operator [handed over the second of four university innovation hubs under a Shs4 billion three-year programme at Busitema](https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde).
 
-## Zambia
-
-Training in the window is a private programme rather than a state one. A ride-hailing company's fellowship [expanded to six African countries and selected its 2026 cohort](https://techafricanews.com/2026/08/31/yango-fellowship-expands-six-african-countries/), this country among them. No Zambian intake figure, curriculum or placement outcome is published, and no state training total sits on the ledger for the month.
-
 ## Zimbabwe
-
-The artificial-intelligence grand challenge opened on 4 August [across agriculture, health, education, financial services, mining and public administration, and was stated as a recurring programme](https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/). The regulator reported [738 applications received and 68 projects selected for a boot camp in Nyanga, narrowed to 18 candidates for the next stage](https://binduraeye.co.zw/mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses/). No award, prize or budget has been published against any of it.
 
 The youth ministry, UNDP and a training firm [opened a solar-powered digital and AI hub with satellite connectivity at the Nyamuroro vocational training centre in Gokwe, enrolling 50 young people in a free one-year bootcamp from September and targeting 3,000 school learners and 300 teachers](https://technomag.co.zw/undp-partners-gvt-to-launch-first-rural-ai-digital-and-innovation-hub-at-nyamuroro-vtc-in-gokwe/). No budget has been published.

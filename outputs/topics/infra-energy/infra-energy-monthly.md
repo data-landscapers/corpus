@@ -1,17 +1,15 @@
 ---
-title: Energy — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Energy — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: infra.energy
-places: BWA; BFA; BDI; CMR; CAF; TCD; COM; COD; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; TGO; UGA; ZMB; ZWE
-record: 78883b1fdbcb
+places: BWA; COD; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO
+record: 767c6fe66d4a
 ---
 
-# Energy: monthly update, August – September 2026
+# Energy: monthly update, September – October 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
@@ -19,39 +17,11 @@ The facility's power is the unusual part. [On-site gas-fired generation is suppl
 
 The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the repository still holds no measured electricity cost for any digital facility in the country.
 
-## Burkina Faso
-
-A [26.4 MW thermal plant was commissioned at Bobo 2 on 7 August, raising that site from 60 MW to 86.4 MW at over FCFA 33 billion financed entirely from national funds](https://www.aib.media/guiriko-une-nouvelle-centrale-thermique-de-264-mw-mise-en-service-pour-renforcer-les-capacites-de-production-electrique-de-bobo-2/), presented as reducing supply interruptions. It follows a 50 MW plant seventeen days earlier. Neither is tied to a digital load: nothing states what any data centre or telecom site draws, and no interruption series is published against which either can be judged.
-
-## Burundi
-
-Among the regulator's remedies for degraded service, named [on 3 August](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), is a planned study on powering mobile base stations.
-
-## Cameroon
-
-The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the repository holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
-
-## Central African Republic
-
-The power the digital estate runs on moved more this month than the estate did. A [50MW solar plant with 15MWh of battery storage was inaugurated on 12 August](https://www.wam.ae/en/article/c1p3six-uae%E2%80%99s-global-south-utilities-delivers-largest), reported to raise national generation capacity by over 60% and to strengthen grid stability.
-
-Against a baseline of 28MW installed and 16 to 18 hours of daily load-shedding, that is the largest single change on this ledger. What is not published is any post-commissioning figure: no availability, no load-shedding hours and no connection count, so the capacity is stated and its effect is not.
-
-## Chad
-
-The grid the digital estate sits on went backwards. After a fire at the Farcha thermal plant in late July, [load-shedding in parts of N'Djamena had run close to a month by 20 August, the utility saying the burnt sets need new equipment and giving no date](https://www.rfi.fr/fr/afrique/20260820-tchad-des-d%C3%A9lestages-r%C3%A9currents-%C3%A0-ndjamena-depuis-l-incendie-de-la-centrale-%C3%A9lectrique-de-farcha). The data centre awaiting certification and the government network both sit on that supply, and no power arrangement for either is held.
-
-## Comoros
-
-The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the repository.
-
 ## DR Congo
 
 A philanthropic accelerator [announced on 24 September a demonstration that will add computing load to an existing solar plant with underused generation, serving more than 30,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), to test whether demand for compute can make mini-grids pay without raising local tariffs. The site, operator, computing load and start date have not been stated.
 
 ## Ethiopia
-
-The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
 
 The state utility then [cut the electricity it supplies to bitcoin and other data-mining customers by about 75 per cent, to around 23 per cent of contracted volumes, as reservoir levels fell ahead of the dry season](https://norvanreports.com/ethiopia-sacrifices-lucrative-bitcoin-mining-revenue-as-hydropower-crisis-deepens/), putting households and domestic industry first. How long the curtailment will last is not stated.
 
@@ -59,74 +29,26 @@ The state utility then [cut the electricity it supplies to bitcoin and other dat
 
 The power the digital estate runs on was explained and priced in the same month. The utility put the year's worst outages down to [ageing generating units and spare parts taking six to seven months to import, promising relief within a fortnight](https://standard.gm/nawec-blames-maintenance-challenges-for-worst-power-outages1/); a lender's public finance review puts [tariffs at an average US$0.21 a kilowatt-hour, among the highest globally, driven by weak utility financial performance with subsidies found misdirected](https://standard.gm/world-bank-says-weak-financial-performance-makes-gambias-electricity-tariffs-among-the-highest-globally/). The target above both is now traceable to its instrument: a [draft national compact seeking US$552m to reach 100% access by 2030](https://nawec.gm/wp-content/uploads/2025/09/Gambia-Compact-M300.pdf), unsigned and unfunded.
 
-## Ghana
-
-The transmission system failed nationally twice in three weeks. A major fault on the Akosombo-Volta line at about 4.30am on 20 August [tripped the Akosombo units and some thermal plants](https://www.graphic.com.gh/news/general-news/gridco-on-why-there-is-a-second-nationwide-electric-power-outage.html), three weeks after [a system disturbance at about 3.11am on 29 July had tripped generating plants simultaneously](https://gna.org.gh/2026/07/gridco-attributes-nationwide-power-outage-to-system-disturbance/). The operator opened a technical investigation into the first and said further measures were needed to strengthen reliability after the second; no interruption index is published for either.
-
-On 28 August the energy ministry [launched a GHS598 million project to connect 206 communities across all 18 districts of the Volta Region within six months](https://gna.org.gh/2026/08/government-launches-ghs598m-electrification-project-for-206-volta-communities/), part of a programme covering four regions this year and four more annually to 2030. It is the largest funded rural-electrification commitment the repository holds, and it lands in the same month as the second national outage.
-
 ## Kenya
-
-The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the repository says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195).
 
 On 24 September a Rockefeller Foundation accelerator [announced five Kenyan sites to test computing load as the anchor customer for new solar-plus-storage mini-grids serving about 50,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with community demand given priority over compute. No site, developer, capacity or start date is named.
 
-## Lesotho
-
-The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the repository holds nothing that tests them.
-
 ## Libya
 
-The utility [fired the first of four units at a new South Tripoli plant on 28 August, toward 1,320 MW of added capacity](https://ar.libyaobserver.ly/article/38496). It follows a [failure in July that lost 1,350 MW and darkened most of the country](https://alwasat.ly/news/libya/525055), blamed on a tripped 400kV line. The standing policy for Libyan data centres asks for [99.9 per cent power uptime and twenty-four hours of fuel](https://nissa.gov.ly/main-services/physical-security-policy/).
-
-## Madagascar
-
-Power went the wrong way in the last week of August. A defective circuit breaker on the TAC 1 turbine at Ambohimanambola [forced JIRAMA to halt production and impose rotating load-shedding across the Antananarivo interconnected network on 29 August](https://newsmada.com/2026/08/29/tac-1-ambohimanambola-la-jirama-entreprit-des-travaux-durgence/), a first repair attempt having failed and the unit having been dismantled for emergency inspection. Two weeks earlier the World Bank had [reported the Toamasina rebuild after February's cyclone, with about 4 MW still offline and load-shedding continuing](https://www.worldbank.org/en/news/feature/2026/08/14/the-missing-ingredient-how-power-is-fueling-madagascar-s-economic-future). The state data centres commissioned this year sit on the same network, and nothing published states their load.
-
-## Malawi
-
-The generator's own account of 22 August [records reduced hydropower generation across several stations with remediation timelines running on](https://www.egenco.mw/status-of-power-generation-in-malawi/). It follows the commissioning in July of the [country's first standalone utility-scale battery storage system, 20 megawatts and 40 megawatt-hours at Kanengo, returning about 100 megawatts of previously curtailed renewable capacity to use](https://www.prnewswire.com/news-releases/malawi-commissions-first-standalone-utility-scale-battery-storage-project-to-strengthen-grid-reliability-and-unlock-energy-access-for-households-and-businesses-302834257.html). Storage was added in the same quarter generation fell.
-
-## Mauritius
-
-Cabinet also [approved for signature a memorandum with Saudi Arabia](https://www.lemauricien.com/actualites/societe/energie-un-partenariat-strategique-en-preparation-avec-larabie-saoudite/714051/) putting digital transformation and energy-sector cybersecurity alongside hydrocarbons — an approval to sign, not a signature, with no date, term, value or committed system stated.
-
-## Mozambique
-
-The same data centre draws on grid, photovoltaic and generator supply ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)).
+The renewable energy authority's [off-grid programme](https://reaol.ly/index.php/portfolio/pro1/) covers 400 solar systems at 310 kW peak for remote clusters and border posts.
 
 ## Sierra Leone
-
-The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
 
 Three rural mini-grid sites [were named on 24 September for a philanthropic demonstration adding computing load to under-used generation](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with local demand given priority; no site, capacity or start date is given for the country.
 
 ## South Africa
 
-Eskom [put its energy availability factor at 67.55%, the highest in six years, with unplanned outages down 44.5% year on year, about 1.2 million customers removed from load reduction and 505,607 smart meters installed](https://www.eskom.co.za/energy-availability-factor-at-highest-level-in-six-years-reaching-67-55-unplanned-outages-nearly-halved-year-on-year-and-customers-impacted-by-load-reduction-reduced-to-6-8-and-the-eastern-cape-beco/). The Eastern Cape became the seventh province removed from load reduction. These are Eskom's own figures.
-
-The last unit of Eskom's two flagship stations [entered commercial operation in September 2025, adding 800 MW](https://www.eskom.co.za/kusile-unit-6-achieves-commercial-operation-unlocking-full-9600mw-capacity-across-eskoms-flagship-stations/), completing the build programme. The system operator's own assessment names supply adequacy after 2029 as the main risk.
+A [Strategic Framework for Offshore Wind Development, published on 10 September 2026, was launched at the Africa Green Hydrogen Summit on 17 September](https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/).
 
 ## South Sudan
-
-Two connections completed in one week. A project [connecting more than 400 customers in the border town of Nimule](https://www.eyeradio.org/400-customers-connected-as-nimule-electrification-project-launches/) on imported Ugandan power launched on 15 August, and two days later government and a development agency handed over a [150 kWp solar plant with 200 kWh of battery storage giving continuous power to the Aweil Regional Reference Laboratory](https://www.undp.org/south-sudan/news/government-undp-launch-17m-aweil-reference-lab-solar-system-and-incinerator-funded-global-fund) in Northern Bahr el Ghazal.
-
-The larger supply picture moved too: the energy minister reported on 18 August that [transmission works are advancing to bring Ugandan hydropower to Juba through Nimule](https://www.eyeradio.org/juba-set-to-receive-karuma-hydropower-by-late-2026-says-energy-minister/), with a distribution substation already built at Nesitu. Against a rural population almost entirely unserved, four hundred customers is the scale of what completed.
 
 The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
 
 ## Togo
 
 The energy ministry [put out an international tender for 5,200 smart-metering devices for the state utility CEET, 1,200 modems for medium-voltage meters and 4,000 low-voltage data concentrators, under its revenue protection programme and financed from the IDA-backed IDEA project, with bids due 28 October 2026; official 2026 figures put the utility's technical and commercial losses at nearly 16%](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility).
-
-## Uganda
-
-The largest operator's 2025 sustainability report puts [45% of network sites on solar or hydro, with a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). The [figures are the company's own and unaudited](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf), and no prior-year share is held against which to read that share.
-
-## Zambia
-
-Power at the tower is where a network's reliability is decided, and one operator put money against it. The tower company INFRATEL [says it has invested US$5 million in power resilience at mobile sites, deploying high-powered thermal batteries and upgrading solar plant](https://efficacynews.africa/2026/08/31/infratel-invests-us5-million-to-strengthen-mobile-network-power-resilience/). The figure is the company's own; no site count, no before-and-after outage measure and no independent verification is in the record held.
-
-## Zimbabwe
-
-The listed infrastructure company commenced phase 1 of a 100 MW solar farm for its technology park, and its fuel-management system was credited with reducing energy consumption on tower sites, with no percentage, litre, cost or uptime figure given ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).

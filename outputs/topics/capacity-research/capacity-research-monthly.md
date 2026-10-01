@@ -1,45 +1,23 @@
 ---
-title: Research institutions — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Research institutions — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: capacity.research
-places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
-record: ba5f2f43e060
+places: COM; EGY; GHA; KEN; MAR; UGA; ZWE
+record: f46f4e2d96a0
 ---
 
-# Research institutions: monthly update, August – September 2026
+# Research institutions: monthly update, September – October 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Central African Republic
-
-The University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/) supplies most of the country's professional engineering graduates and runs a master's in engineering sciences; its page carries no date, enrolment or research-output figure.
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Comoros
 
-The research institute that has run the data-governance work since May [recorded the national data strategy as validated on 26 August, delivered through a joint African Union, European Union and German cooperation project after technical capacity-building on localising the continental data policy framework](https://www.linkedin.com/posts/research-ict-africa_digitaltransformation-nationaldatastrategy-activity-7498401504303845376-wyiI). It is the third such strategy the project has delivered, after the Gambia and Somalia. The research contribution on file is a foreign institute's; no Comorian department is named as authoring any of it.
-
-## Congo
-
-Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for the use of artificial intelligence in research](https://congotimes.com/2026/08/24/congos-researchers-confront-ais-real-limits/). No code, guideline text or adopting institution has come out of it yet.
-
-## Cote d'Ivoire
-
-The cyber agency and a technology school validated curricula for two cyber-security master's degrees on 28 July, with enrolment stated for the September 2026 academic year and no intake size or funding published.
-
-## DR Congo
-
-The national university's transdisciplinary research programme [awarded its excellence prize on 29 August to a project building an artificial-intelligence and spatial-analysis decision-support tool for traffic governance in Kinshasa](https://www.unikin.ac.cd/prix-d-excellence-en-recherche-transdisciplinaire-ares-unikin). It is applied digital research produced inside a Congolese department rather than commissioned abroad. No domestic public funding line for digital or artificial-intelligence research is held.
+The national university and UNDP [signed a memorandum on 14 September 2026 covering training, research and innovation, with a UniPod space at its centre](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9ducation-l%E2%80%99udc-et-le-pnud-misent-sur-l%E2%80%99innovation-et-l%E2%80%99intelligence-artificielle-.html). No budget, site or opening date is published.
 
 ## Egypt
 
 A peer-reviewed study [assessed administrative readiness and institutional capacity for governing artificial-intelligence-driven digital transformation in the public health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full), written by authors at Egyptian, Saudi and Jordanian institutions. The repository holds no state readiness assessment of the same question against which to read it.
-
-## Ethiopia
-
-University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
 ## Ghana
 
@@ -47,41 +25,11 @@ The month's research capacity news is a funding gap stated by the minister who h
 
 ## Kenya
 
-A Kenyan [data-for-social-impact leader was profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
-
-On 24 September a regional digital-rights network [published its comments on the data regulator's draft guidance notes on AI and on emerging technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/), asking for impact assessments before any biometric processing, audits of platform feed algorithms and a high-risk category for AI in political communication. It had [made a submission on the draft AI and emerging technologies policy in August](https://cipesa.org/wp-content/files/briefs/Kenya_National_AI_and_Other_Emerging_Technologies_Policy_-_CIPESA_Submissions.pdf).
-
-## Libya
-
-On 4 August the Libyan Authority for Scientific Research's scientific committee [approved an integrated cloud platform for higher education and scientific research](https://www.lananews.com/ar/?p=499199), described in the authority's own account as using Microsoft 365.
+On 24 September a regional digital-rights network [published its comments on the data regulator's draft guidance notes on AI and on emerging technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/), asking for impact assessments before any biometric processing, audits of platform feed algorithms and a high-risk category for AI in political communication.
 
 ## Morocco
 
 Two published outputs show what the university departments are working on, neither of them adopted by anyone. Researchers at two universities built an [electronic voting model combining biometric verification of the voter, blockchain and the ability to keep working where connectivity is weak or absent, tested in a field trial with 300 participants and published on 4 September in a peer-reviewed cybersecurity journal](https://www.hespress.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b9-1802990.html). It is a research platform, not an electoral system the authorities have taken up. Separately a scientific review available from 1 September records an [expansion of Moroccan research applying artificial intelligence to drought, water scarcity and rising temperatures, across water, agriculture, energy, cities and natural hazards](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%88%d8%b3%d8%b9-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%84%d9%85-1804454.html). Neither account carries a paper count, a funding figure or any record of operational adoption.
-
-## Mozambique
-
-At the university data centre's inauguration the communications minister proposed transferring management of the research and education network from his own ministry to the universities, naming no date, instrument or governance model ([ministerial account](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/)).
-
-## Niger
-
-The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the repository holds the announcement and not the instruments.
-
-## Rwanda
-
-An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the repository.
-
-## Sierra Leone
-
-The council that would steer research funding is still writing its own first plan. A three-day workshop opened on 4 August to [support the National Science, Technology and Innovation Council in developing that plan](https://www.sierraleonepress.com/mthe-and-nstic-collaborate-on-workshop-for-research-funding-and-governance/), with digital transformation named among the priorities funded research should answer. No plan, timetable or funding envelope has been published.
-
-## South Africa
-
-A twenty-year bibliometric review [places South Africa 18th in the world, and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). It finds refugees, people with disabilities, older people and racial and ethnic minorities underrepresented in that research.
-
-## Tanzania
-
-A national institution of science and technology was [selected as the country's only member of the global AI capacity development network, announced at its graduation ceremony on 22 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-enters-global-ai-network-to-drive-digital-transformation-5567548). The network is supported by the UN office for digital and emerging technologies, was itself launched in July 2026, and works across AI foundations, AI enablers, capacity development and open science.
 
 ## Uganda
 

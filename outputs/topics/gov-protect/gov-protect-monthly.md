@@ -1,27 +1,17 @@
 ---
-title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Data protection — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: gov.protect
-places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: b2d4b1b7d72f
+places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZWE
+record: 7419a03613d9
 ---
 
-# Data protection: monthly update, August – September 2026
+# Data protection: monthly update, September – October 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Angola
-
-The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
-
-A report published on 15 August by the South African organisation Intelwatch [found the intelligence service SINSE reaching biometric data without judicial supervision](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and identified no rule stating when it may obtain identity, biometric or mobility data and no independent body to review such requests; the migration service confirmed at the Santa Clara border post that SINSE may request access under established protocols. The same report puts the [national biometric border-control system at US$112m, awarded in February 2025 to Dolinveste Lda with Poland's Technology for Business, reportedly by direct award rather than open tender](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and adds a [EUR 130m passport and biometric identity contract with Hungary's ANY Security Printing, taking the total past US$250m without significant tender, parliamentary scrutiny or human-rights impact assessment](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/). Against that spending it records [no biometric system operating at the border posts with the Democratic Republic of the Congo](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), crossings there regulated by a manually checked seven-day paper pass, and the one functional post reading passports against the migration database but with fingerprint and height capture discontinued on maintenance grounds. It also records that the electoral register is [derived from the civil identity database, with the voter card to be used for the last time in 2027 before the identity card becomes the sole registration credential](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/) under the 2025 official-registration law, and that the register has never had a comprehensive independent technical audit. The figures and the characterisation of the awards are Intelwatch's; no procurement record is on file.
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
-
-Body-worn cameras have become standard kit for traffic police in the largest city, on the [500 devices and the dedicated information system the Council of Ministers authorised on 1 March 2023](https://sgg.gouv.bj/cm/2023-03-01/) for the police and customs, piloted from 2024 in three cities. What the record does not carry is the part that governs the footage: [who may view it, how long it is kept and whether a citizen can obtain their own sequence remain unstated](https://www.lanation.bj/actualites/cameras-pietons-a-cotonou-pourquoi-sont-elles-de-plus-en-plus-visibles-sur-les-policiers). A collection authorised by decree and a retention rule published nowhere is the shape this ledger already holds for the data-protection layer generally.
 
 The data-protection authority took its position abroad rather than issuing it at home. Its president told a fintech regulators' forum in Johannesburg that [trust, cooperation between regulators and coordination with financial authorities are what secure the growth of artificial intelligence and cross-border data flows](https://www.lanation.bj/numerique/ia-et-flux-transfrontaliers-en-afrique-lappel-de-lapdp-benin-a-une-gouvernance-fiable-des-donnees). It is a set of recommendations rather than an instrument, and no bilateral or regional arrangement follows from it on the record.
 
@@ -29,78 +19,29 @@ The data-protection authority took its position abroad rather than issuing it at
 
 The commencement instrument behind the data-protection regime is now held in full: [Statutory Instrument 86 of 2021 brought the Data Protection Act No. 32 of 2018 into operation on publication on 15 October 2021](https://www.dataguidance.com/sites/default/files/government_gazette_15th_october_2021.pdf). It dates a regime the repository had been carrying from its 2024 re-enactment, and it is the kind of document that settles when an obligation actually started rather than when it was last restated.
 
-## Burkina Faso
-
-On 3 August the legislature [voted the personal-data protection bill and the organic law creating a merged communications and data-protection authority](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). The new law prohibits and sanctions processing without consent, indexes administrative fines to turnover excluding tax and scales them by gravity, and prohibits transferring sensitive data abroad. The merged authority takes the data-protection commission's mandate and is given its own rule-making power with artificial intelligence named specifically. Neither text is held, neither is promulgated, and no commencement, seat or leadership is stated.
-
 ## Cape Verde
 
 Oversight of the state's own intelligence capability moved by administrative act rather than statute, and the act is contested. The prime minister's [delegation of powers over the Republic's information service to the minister of internal administration was formalised by despacho no 15/2026 in the official gazette](https://www.anacao.cv/noticia/2026/09/08/servico-de-informacoes-da-republica-entre-a-defesa-do-estado-e-os-limites-da-democracia/), with the opposition calling it unconstitutional, the government invoking the delegation regime provided for in the Organic Law of the Government, and the President of the Republic declining to address it publicly after discussing it with the prime minister. The despacho text is not held, so whether the delegated powers reach communications interception or data access is not established here.
-
-## Central African Republic
-
-The month's sharpest item is an allegation about surveillance. A critical outlet reported that [the president has turned to mobile operators to trace citizens through SIM card records](https://corbeaunews-centrafrique.org/depasse-par-lia-touadera-se-tourne-vers-les-operateurs-mobiles-pour-traquer-les-centrafricains-via-les-cartes-sim/). The account is one outlet's and the record held carries no official instrument authorising such tracing, no operator confirmation and no data-protection safeguard attached to it. It is recorded here because a claim of state access to subscriber records is the kind of thing a base should carry even before it is confirmed.
-
-## Djibouti
-
-On 4 August 2026 the state daily *La Nation* [described the Police Nationale and road-safety officers carrying body-worn cameras routinely in central Djibouti](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/), not piloting them. The protocols it reports require the device to be worn visibly and the subject to be told they are being recorded, with recording triggered manually or automatically according to the type of intervention or the threat level detected. No retention period, access rule, data controller or authorising instrument is named, and nothing on file establishes one as at 4 August 2026. The Digital Code's prior-authorisation regime, in force since 30 June 2025, reaches biometric processing, and no authorisation or published rule covering the camera fleet is held.
-
-## DR Congo
-
-Data protection has an authority that does not exist, a code that is now being prosecuted, and a population whose service does not reach it. The prosecutor general [mobilised judicial police officers against offences committed on social media](https://kinshasamagazine.cd/rdc-le-parquet-mobilise-les-opj-contre-les-infractions-commises-sur-les-reseaux-sociaux/) — enforcement against speech running ahead of any body protecting the data the same code governs. In the east, [mobile and internet service has been off across Fizi territory, Baraka included, since 3 July, with a press-freedom call for restoration on 17 August](https://cpj.org/2026/08/drc-shutdown-of-internet-mobile-networks-in-east-extends-for-over-a-month-amid-war/). It is reported as war damage rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
 
 ## Egypt
 
 A joint decision of the media council and the telecoms regulator, reported on 17 September, [bars social platforms from holding independent accounts for children under 13, makes a safe mode the child cannot disable compulsory for those aged 13 to under 15, and requires age verification that collects no more data than it needs](https://www.youm7.com/story/2026/9/17/%C2%AB%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%C2%BB-%D9%88%C2%AB%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%C2%BB-%D9%8A%D9%84%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AF%D9%88%D9%86-15/7549926). The regulator says platforms have [three months to comply, existing accounts included, and can be blocked in Egypt if they do not](https://www.fintechgate.net/252234), and that [tens of thousands subscribed in two months to the operators' child online-protection services](https://www.fintechgate.net/252234). The decision's text is not held.
 
-The regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report; no charge, hearing date or penalty is on file. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550) (16 August). The instrument authorising the collection, its retention rule and any operator-side safeguard are not held. Members of parliament [called for deterrent rules to govern artificial intelligence](https://www.algomhor.com/466466) (19 August), and a member [proposed a national register letting citizens see which bodies have processed their personal data](https://gate.ahram.org.eg/News/5894387.aspx) (24 August); neither has produced a text.
-
 On 29 September two rights organisations [asked the media council and the telecoms regulator to publish the joint decision's full text, number and legal basis, which the 17 September announcement did not carry, and to state what age-verification data will be collected, by whom and for how long](https://www.eipr.org/press/2026/09/%D9%85%D8%B3%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86-%D8%A8%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89).
-
-## Eritrea
-
-The data-protection position was re-verified rather than changed. A legal-research pass dated 1 August 2026 [records no comprehensive data-protection law in force, no supervisory authority established and no enforcement decisions published](https://research.lawlab.africa/eritrea/). What the month adds is the date, not the finding: the absence is now a searched one rather than an unexamined one.
 
 ## Eswatini
 
-The next day ESCCOM, as the data protection authority, [began validating draft advisory guidelines on the lawful processing of personal health data](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/) at Ezulwini, with the health ministry, providers, insurers, pharmacies and medical aid schemes. They will be published as a regulatory instrument under the Data Protection Act 2022, covering collection, retention, sharing, breach notification, cloud services and patient rights. The commission disclosed that it has concluded a complaint over a practitioner's unlawful disclosure of a patient's information.
-
-In August the same rule-making reached a second sector and produced a ranking. A week-long workshop [validated draft sector data-protection guidelines and produced a proposed whistle-blower-protection framework, with the regulator naming the financial sector as the leading source of personal-data breaches](https://times.co.sz/41235/news/financial-sector-tops-customer-information-leaks/) — through misdirected statements and invoices, and cybersecurity incidents exposing customer records. No breach count, penalty or enforcement action is published behind the ranking, and the draft guidelines are not held.
-
-## Ethiopia
-
-The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated.
-
-Two further positions sit beside it. A public critique [set out the absence of independent data-protection safeguards over the national digital identity](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), which this ledger records as not held. And the foreign ministry [circulated a diplomatic note asking missions for staff and property records](https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/), with no legal basis, retention period or purpose limitation stated for the collection.
+The data protection authority [is taking information desks into major towns in an outreach campaign](https://eswatinipositivenews.online/edpa-takes-data-protection-services-closer-to-emaswati/), reported on 17 September.
 
 ## Gabon
 
 The data protection authority described itself, which is the most the record holds about it. Its president [set out the mandate and its limits: the authority holds a regulatory power to set rules published in the official journal, personal data remains the property of the citizen while collectors hold and process it, and insult and digital communication fall outside its competence and to the media regulator — which is what it is most often asked about](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse). He put dealing directly with the large social platforms as requiring a common African response rather than a national one. No budget, staffing, caseload or enforcement action for the authority is published, so its independence is asserted rather than evidenced.
 
-## Gambia
-
-The body that carries both of the country's information statutes surfaced in the record for the first time this window, and it surfaced as a recipient of support rather than as a regulator acting. The Information Commission, responsible for the Access to Information Act 2021 and the Personal Data Protection and Privacy Act 2025, is [receiving UNFPA-funded support under the Peacebuilding Fund's Public Accountability Project to build a communication strategy raising public awareness of both statutes](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia). No budget, staffing, caseload or enforcement record for the commission is held, and awareness-raising support is not evidence of capacity to enforce.
-
 ## Ghana
-
-The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the repository holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. The registrar has since contested it, [saying the procurement of its network and security operations centre was substantially complete before the tier-one directive was issued](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/); no adjudication of that timeline is held.
 
 The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published.
 
-## Guinea
-
-Enforcement arrived before the institutions did. A first-instance court [convicted a defendant under the cybersecurity and data-protection law on 19 August, imposing six months' imprisonment of which five were suspended, a 40 million GNF fine and deletion of the defendant's social-media account](https://mediaguinee.com/2026/08/tpi-dixinn-bella-bah-condamne-a-6-mois-de-prison-dont-5-avec-sursis-40-millions-gnf-damende-et-a-la-suppression-de-son-compte-facebook/) — the first conviction under that law on file, and an account deletion ordered by a court rather than by a platform. Separately the central bank [warned against unauthorised crypto-asset and online trading platforms](https://www.africaguinee.com/crypto-actifs-et-placements-financiers-en-ligne-la-banque-centrale-alerte-sur-les-plateformes-non-autorisees-de-trading/), naming no platform and stating no licensing route.
-
 ## Kenya
-
-On 4 August the data-protection regulator published [draft guidance on offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) requiring a lawful transfer basis, a documented adequacy assessment and a written processing agreement before personal data leaves Kenya; the note itself is not held.
-
-The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) that it is investigating three licensed operators on a complaint dated 19 May 2026, with police requesting its entire record on the licensees back to 2018.
-
-
-The regulator also pressed an older instrument into the campaign. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. The guidance itself is not new: the Office [issued its Guidance Notes for Electoral Purposes on 29 February 2024, covering the voter register, political parties' member registers and campaign use of personal data under the Data Protection Act 2019](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf). What changed in August is the statement of it, not the rule. No enforcement action under the guidance is on record.
-
-A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
 
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
@@ -112,8 +53,6 @@ The ICT ministry's principal secretary told UNGA81 side meetings that the minist
 
 ## Liberia
 
-The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
-
 Officials [posted enrolment lists of children in a social protection programme to Facebook](https://frontpageafricaonline.com/liberian-officials-post-vulnerable-childrens-data-to-prove-aid-programs-work/), including home addresses, as proof the programme was real. On 13 September the gender and social protection ministry [confirmed the records are authentic, said their disclosure was never authorised and opened an internal investigation](https://smartnewsliberia.com/mgcsp-admits-authentic-beneficiary-data-leaked-launches-internal-investigation/).
 
 ## Malawi
@@ -121,8 +60,6 @@ Officials [posted enrolment lists of children in a social protection programme t
 A gap the repository has carried since April closed this month, though not by the route that would have settled it. The United States embassy [said Malawian biological specimens will be shared with Washington only during public health emergencies and outbreaks and that no personally identifiable information passes under the agreements](https://mwnation.com/us-insists-specimen-data-wont-be-shared/), dating the specimen-sharing agreement to 11 February 2026 inside a five-year health package valued at US$936 million. Malawi must supply requested specimens within seven days and gets priority access to any resulting diagnostics, vaccines or therapeutics only after meeting its own domestic needs - a clause Malawian health advocates call a major limitation. The instrument's own text remains withheld and in litigation, so what is now on the record is the shape of the deal and both governments' account of it, not its terms.
 
 ## Mali
-
-On 3 August the [data-protection authority opened its second 2026 session](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) with more than 1,000 files before it over ten days — authorisations, declarations, video-surveillance oversight, formal notices and direct sanction procedures — its president grounding the sanctions in Loi n2013-015 as amended.
 
 The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
 
@@ -136,46 +73,23 @@ Interception gained its first reform instrument since the 2025 parliamentary rev
 
 ## Morocco
 
-The data-protection authority moved first on the election. It [set out in a communiqué of 28 August the rules binding political parties, candidates and artificial-intelligence-generated content during the campaign](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM), having already [set out the requirements for processing personal data in the legislative elections](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere). Naming synthetic content in an election instrument is the notable part. The record held carries no enforcement action under it and no complaint mechanism a voter could use.
-
-Spying claims reached a prosecutor. The Casablanca prosecutor general [opened a judicial investigation on 14 September into a party leader's claim that his party's phones were monitored](https://nichan.ma/365880/), citing the conduct of the elections.
+The Casablanca prosecutor general [opened a judicial investigation on 14 September into a party leader's claim that his party's phones were monitored](https://nichan.ma/365880/), citing the conduct of the elections. No finding is held.
 
 ## Mozambique
 
-The data-protection law is closer to Parliament than it has been. Authorities [are preparing to submit the draft bill](https://clubofmozambique.com/news/mozambique-calls-to-strengthen-data-protection-digital-space-legislation/). Preparing to submit is not tabling: no bill number, date or text is held, and the country remains without a data-protection law in force while its identity, humanitarian and payment registers all expand.
+A media freedom organisation told a Maputo round table on 3 September that [the draft Personal Data Protection Law must not restrict press freedom and the right to information](https://ikweli.co.mz/2026/09/03/protecao-de-dados-nao-pode-travar-liberdade-de-imprensa-alerta-misa/); the ICT institute's board chair said approval of the law is only the start and needs supervision and accountability mechanisms. At a Maputo fair on 1-2 September the institute [set out its registration and licensing regime for digital platforms and named enforcement capacity as the main challenge](https://360mozambique.com/innovation/tech/facim-2026-intic-accelerates-ict-regulation-to-protect-citizens-online/).
 
 ## Namibia
-
-Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this repository to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
 
 Refusing to share health data had a price. After the government rejected US terms on health data and specimens, the two governments [announced that US HIV funding ends after a single US$45m year in fiscal 2027](https://healthpolicy-watch.news/us-to-phase-out-hiv-support/).
 
 ## Nigeria
-
-On 28–29 July the Federal High Court [upheld the data-protection commission's power](https://leadership.ng/court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos-data-controllers/) to designate and register controllers and processors of major importance, dismissing a suit that had sought to place PoS agents outside the class; the commission immediately directed every unregistered entity to register. The judgment is not held and its delivery date is unestablished. The commission then used the power: on 13 August it [opened a forensic investigation into a federal university, a bank and a technology vendor over the alleged use of students' personal data to open bank accounts without consent](https://dailytrust.com/ndpc-investigates-varsity-bank-over-data-violations/). No finding or penalty has followed.
-
-Its other August move was institutional rather than adversarial: the commission and the securities regulator [agreed to deepen collaboration on data-protection compliance in the capital market](https://techeconomy.ng/ndpc-sec-strengthen-collaboration-on-data-protection-and-investor-privacy), the commission's head visiting the regulator in Abuja and being invited to its compliance summit. No memorandum, joint supervisory arrangement, compliance standard or enforcement commitment is stated.
-
-
-A civil-society platform began watching the same election from the data side, [tracking parties' websites and social media for privacy violations and access restrictions, piloted at the 15 August state governorship poll](https://www.nationalrecord.com.ng/citad-launches-pawsom-monitor-to-track-digital-rights-breaches-ahead-of-2027-elections/). No findings from the pilot are published.
-
-Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
-
-An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
 
 The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
 
 The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
 
 The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/).
-
-## Rwanda
-
-Rwanda is [preparing a restriction on social media use by under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), one of several African measures moving from a minimum age for opening an account towards design duties on the platforms themselves — Gabon's February 2026 ordinance fixing digital majority at 16 and additionally obliging platforms to limit publication and interaction functions, disable contacts from unidentified users by default and provide age verification. The African Union's 2024 child online safety policy already asks states to require protection by design and by default, risk assessments, personal-data safeguards, researcher access to platform data and independent oversight. No draft text, sponsoring body or timetable is named here, and the constraint reported across the region is enforcement rather than law.
-
-## Sao Tome and Principe
-
-A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the repository holds no signature date or text for it.
 
 ## Senegal
 
@@ -187,31 +101,15 @@ The information commission's visible work is inducting the officers other public
 
 ## Sierra Leone
 
-Data-protection work in the window was training rather than enforcement, and it went to the government's own builders. The communications ministry [took the science and technology directorate's technical team through artificial intelligence and data protection by design, and through its obligations under the cybersecurity statute, the civil registration act and the forthcoming data protection law](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design). Training a state team on a law not yet passed is the sequence this section keeps recording: the Data Protection and Right to Access Information Bill is still In development, so the obligations taught are prospective.
+The communication, technology and innovation ministry, with UNICEF and a digital public infrastructure centre, [led a three-day workshop on how government systems handle children's data](https://techreviewafrica.com/news/7144/sierra-leone-enhances-child-data-protection-in-connected-government-systems), reported on 10 September.
 
 ## South Africa
 
-The data protection Act has been enforceable since 2021. It [permits cross-border transfers where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m; the average cost of a breach is put at R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/).
-
-At a webinar on 18 August the regulator [said it cannot test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), and the human rights commission described misuse of personal information as a constitutional harm affecting dignity, equality and access to services. A peer-reviewed study published on 14 August [finds South Africa among three of four countries studied that have not signed the continental data convention, and finds all four countries' health-data governance fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
-
 An extortion attack on an insurance-technology provider, detected on 14 June and reported to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m). On 16 September one insurer said a ransomware group's claim against it came from that incident.
-
-## South Sudan
-
-There is still no data protection authority, and the communications regulator carries the function in its absence. Its own overview describes a statutory mandate under the National Communication Act 2012 that [includes information protection and data privacy](https://www.nca.gov.ss/overview-of-nca) alongside telecommunications, broadcasting and postal regulation. A sector regulator holding a privacy function inside a telecoms mandate is what the country has instead of an authority, and the Bill that would create one has not left drafting.
-
-## Sudan
-
-[The Council of Ministers reviewed a draft Data and Artificial Intelligence Law on 6 August 2026](https://sudantribune.net/article/317108), paired with the cybersecurity and digital-transformation drafts, and sent all three back for further study; the enactment route is a joint sitting of the Sovereignty Council and Council of Ministers rather than an elected chamber, and no text has been published.
 
 ## Tanzania
 
-The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
-
-A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
-
-The regulator set a date for the enforcement it announced in April. On-site inspections [begin on 31 August, after preliminary assessment found limited understanding of legal obligations, inaccurate registration information, difficulty implementing data-subject rights and personal data leaving the country outside the statutory procedure](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710).
+The community development ministry told parliament on 31 August 2026 that [a National Advisory Committee on Online Child Protection and Safety has been established and that an online-safety education campaign had reached 1,811,212 children across all 26 mainland regions](https://allafrica.com/stories/202609010237.html).
 
 ## Togo
 
@@ -219,29 +117,9 @@ The data protection regulator turned to the state's own compliance. It [convened
 
 ## Uganda
 
-The data protection office's letter of 17 July confirmed compliance with the five orders in its [decision of 20 February 2026](https://adlegalug.com/wp-content/uploads/2026/02/PDPO-Decision-in-Ad-legal-International-Ltd-v-WhatsApp-LLC-Meta-Platforms-Inc.pdf), which had required a data-protection impact assessment, an adequacy assessment, a legitimate-interests assessment and a Uganda-specific privacy notice. The decision imposed no fine and refused the complainant's prayers for cessation of intra-group sharing.
-
-On 14 August the ICT ministry launched a [three-year child online-safety campaign in Kampala with the communications regulator and a private partner](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8). No budget, reach target or evaluation arrangement is published for it, which is the same gap that closed the previous awareness campaign without a measured result.
-
-The sharpest test of the protection regime in the window came from another arm of the state. The revenue authority has [issued more than 1,000 compliance notices since June 2026, and wrote to a commercial bank on 27 July seeking five years of customer bank statements, the directors' personal identity information and the bank-client correspondence](https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674), under the Tax Procedures Code Act and against a ten-month collection shortfall of Ush1.5 trillion. Nothing from the data protection office is on record about it.
-
-## Zambia
-
-The data-protection regulator exists and travels; nothing in the repository shows it acting. It joined a multi-sectoral delegation to the continental identity conference, and on 31 July [nine civil society organisations asked it to examine the source of the contact list behind SMS messages sent to social cash transfer beneficiaries](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/) before the 13 August election. No response from the Office is on the record. No registration count, enforcement decision, fine, breach notification, guidance note or annual report is held for it at any date. The Data Protection Act 2021 remains in force and was [named by the information ministry on 18 July as one of three instruments regulating online communications, cybersecurity and personal data](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/); the reported Cabinet intention to repeal it has produced nothing on the record in sixteen months.
-
-What is being built for it is a system rather than a case. The World Bank-financed acceleration project [opened tender on 10 August, closing 21 August, for a digital data-protection compliance management system to serve the Commission](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498), to integrate with the government service bus and payment gateway and to meet ISO/IEC 27001, ISO/IEC 27701 and WCAG 2.1 AA, alongside a [parallel tender to review the national data-protection guidelines and compliance frameworks](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500). Tenders rather than awards, and neither states a value, a delivery date, or the caseload the system would manage.
+Three men [were held at a Kampala station over alleged false news and unlawful obtaining or disclosure of personal data](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media), reported on 1 September, on offences under the computer misuse statute; the posts, the data and the complainant are not disclosed.
 
 ## Zimbabwe
-
-Certification of every data protection officer is required under the same 26 July notice, at US$1,250 for a Zimbabwean ([notice account](https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/)).
-
-August brought the objections. Healthcare providers and the medical association [objected to the data-controller licensing regime as applied to them — roughly US$300 a year plus a mandatory data protection officer — calling it costly and duplicative of existing health-professions regulation](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) ahead of the September inspections, and a published analysis [argued the regulator's threshold-based licensing model is disproportionately burdensome for small entities](https://www.techzim.co.zw/2026/08/why-our-data-protection-regulations-need-review/) against the risk-based approach of the European regulation it is compared with. The statutory instrument's fee schedule is not held, and no licence count, exemption or regulator response to the objections is on record.
-
-Two further protection questions surfaced without a regulator attached. The anti-corruption commission is [investigating cyber-enabled fraud across three state digital systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/): suspected manipulation of the driver-licensing platform, a US$150m diversion of state mobile-operator airtime with a criminal case pending and asset forfeiture completed, and a scheme crediting more than ZiG55m and US$260,000 of fictitious prepayments on the revenue authority's customs platform. And the National Child Online Protection Policy 2026-2030, [approved by Cabinet in June, has no reporting route, responder training or funded rollout on record](https://www.newsday.co.zw/opinion-analysis/article/200059225/protecting-zimbabwes-children-online-will-take-more-than-a-policy) — which is what a published analysis argues will decide whether it protects anyone.
-
-The government put the national data volume at [179 petabytes against 114 previously](https://technomag.co.zw/from-114pb-to-179pb-as-zimbabwes-data-doubles-govt-tells-tech-firms-corporate-responsibility-is-non-negotiable/) and cited the near-doubling in telling technology firms that corporate responsibility is not negotiable, resting the point on the National Child Online Protection Policy approved by Cabinet in June. Separately, civil-society organisations say [data-protection certification fees are high enough to exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/) from compliance; no fee schedule, exemption or regulator response is on file. The repository had been carrying that child-protection policy as three separate rows, minted from three separate reports; they are now resolved to one.
-
-The approval date itself is now settled from the primary record: the Office of the President and Cabinet's own briefing dates approval to the [Seventeenth Cabinet Meeting of 2 June 2026, and sets out nine strategic focus areas from institutional capacity and legal framework through technical control and corporate responsibility to monitoring and learning, aligned to the Constitution and the Children's Act, with legislation carrying enforceable sanctions to follow](https://www.zbcnews.co.zw/wp-content/uploads/2026/06/17th-PRESS-FINAL.pdf). The repository had been carrying 10 July 2026, which is the policy's Bulawayo launch.
 
 The child online protection policy moved to delivery. The ICT minister [told the National Assembly on 9 September that content gateways are being installed on public free Wi-Fi and in schools, with teacher and parent training](https://newziana.co.zw/zim-rolling-out-gateways-teacher-and-parents-training-in-line-with-the-child-online-protection-policy/), under an implementation committee with two other ministries.
 

@@ -1,17 +1,15 @@
 ---
-title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Strategies, plans and policies — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: gov.policy
-places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 189afc807085
+places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 89fa06b310dc
 ---
 
-# Strategies, plans and policies: monthly update, August – September 2026
+# Strategies, plans and policies: monthly update, September – October 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -25,9 +23,11 @@ The national digital transformation strategy has a launch date. President Duma B
 
 ## Burkina Faso
 
-Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
-
 The other plan in hand is being redrawn rather than written: the authorities are [revising the national plan for the digital development of the territory to a 2030 horizon](https://www.wearetech.africa/fr/fils/actualites/telecom/le-burkina-faso-repense-l-amenagement-numerique-de-son-territoire-a-l-horizon-2030), against an international estimate putting about 70 per cent of the population off the internet in 2024. No revised text, timetable or cost is published.
+
+## Burundi
+
+The draft law on access to public information, adopted in Council of Ministers on 10 June, [was adopted by the Senate on 29 September 2026](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/). Promulgation is not on record and no text is published.
 
 ## Cameroon
 
@@ -35,41 +35,19 @@ The state has commissioned a plan to digitise the system through which it buys e
 
 ## Cape Verde
 
-A [strategic consultation on the national digital transformation agenda was convened in Praia on 6 August](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/), seating public administration, private sector, academia and named specialists, whose contributions are to feed a national diagnosis and the agenda's priorities. Its stated scope runs from interoperability of the public administration to digital inclusion, data protection and cybersecurity. No draft, adoption date or budget is held. On 10 September the prime minister [named state modernisation and digital transformation among the government's priorities for the new phase of the United Nations partnership](https://expressodasilhas.cv/politica/2026/09/10/governo-prioriza-modernizacao-do-estado-acao-climatica-e-juventude-na-parceria-com-a-onu/104554), with no framework document or envelope attached. On 16 September a [territorial programme for Maio was launched with internet-access, digital-economy and training projects and free internet points in three localities, Fogo to follow](https://www.inforpress.cv/en/maio-governo-apresenta-programa-maio-transforma-para-acelerar-economia-e-transformacao-digital-da-ilha); no budget is stated.
-
-## Central African Republic
-
-The World Bank published a public finance review of the Central African Republic on 2 July 2026, and it puts digitisation at the centre of what it proposes. Against domestic revenue of about [FCFA 187bn, or 10.1% of GDP, in a 2025 budget of about FCFA 385bn](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale), it argues for a rise to 12% in the short and medium term and 15% in the long term, and estimates that [digitising the tax administration alone could raise up to two points of GDP in the short term](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale). Electronic public procurement and a digital cadastre are named among its longer-term recommendations, against [63% of public contracts let by direct award in 2023 and 11% of domestically financed investment executed that year](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale).
-
-It is the first independent assessment the repository holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
+On 10 September the prime minister [named state modernisation and digital transformation among the government's priorities for the new phase of the United Nations partnership](https://expressodasilhas.cv/politica/2026/09/10/governo-prioriza-modernizacao-do-estado-acao-climatica-e-juventude-na-parceria-com-a-onu/104554), with no framework document or envelope attached. On 16 September a [territorial programme for Maio was launched with internet-access, digital-economy and training projects and free internet points in three localities, Fogo to follow](https://www.inforpress.cv/en/maio-governo-apresenta-programa-maio-transforma-para-acelerar-economia-e-transformacao-digital-da-ilha); no budget is stated.
 
 ## Chad
-
-The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the repository can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
 
 The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/).
 
 ## Comoros
 
-ANADEN, the digital development agency, [held the first meeting of its board of directors on 27 July 2026 at the Hôtel Retaj in Moroni](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html), members having been named by decree n°26-075/PR of 11 June 2026. The board adopted its rules of procedure and elected Nourdine Mohamed of the Commissariat général au Plan as chair, Najwa Aichem Hissami Eddine of the Presidency of the Union as vice-chair and El Amine Souef of the ICT ministry as rapporteur. It then examined ANADEN's 2026 action plan, presented by director-general Said Mouinou Ahamada, who [framed the session as the institutional footing for delivery of the Stratégie Comores Numérique 2028](https://lagazettedescomores.com/société/l’anaden-élit-son-bureau-du-conseil-d’administration-.html) and called for tighter coordination between the state bodies represented on the board. The agency had operated without constituted governance organs since the decree naming the board was signed seven weeks earlier.
-
-A second strategy was validated in the same period, this one on data: government, private sector and civil society met the African Union development agency in Moroni on 24 and 25 August to [review and validate a national data governance strategy for 2027 to 2031 over five pillars - digital infrastructure, data governance, interoperability, value creation and data skills](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique). Validation at a workshop is not adoption: the text is not published and no adopting instrument, date, budget or responsible body is on record.
-
 In September the agency turned to measuring where it stands. It and UNDP [signed a memorandum on 16 September to run a national digital readiness assessment covering skills, connectivity, public services, regulation and the digital economy across the three islands](https://www.wearetech.africa/fr/fils/actualites/tech/transformation-numerique-les-comores-passent-a-l-evaluation), presented as a way to target the next investments under the 2028 strategy. No timetable or publication date is given.
-
-## Congo
-
-The education ministry's digital roadmap [was validated at a Brazzaville workshop on 19 August](https://www.adiac-congo.com/content/education-la-feuille-de-route-sur-le-numerique-validee-171319). Validated is not adopted: no text, budget line, sequencing or implementing body is published with it.
 
 ## Cote d'Ivoire
 
-The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder review on 23 July](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) and awaits the Council of Ministers; the 2021 to 2025 text remains the instrument formally in force. The draft extends scope to artificial intelligence, emerging technologies and cloud.
-
 Closing the national workshop on prioritising public digital services on 4 September, the digital transition minister argued for [unified governance through a relaunched National Digital Council placed under the Prime Minister, presenting it as a condition of the state's digital transformation](https://www.linfodrome.com/economie/125096-digitalisation-des-services-publics-la-cote-d-ivoire-veut-un-pilote-unique-pour-ses-projets-d-etat), against a paperless state by 2030. It is an argument for a relaunch: no decree, membership or first meeting is held.
-
-The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
-
-The space agency got its first head more than a year after the decree that created it. The government [appointed an inaugural Director General of the Space Agency, a public administrative institution of a scientific and technological character under the higher education ministry with programme areas spanning Earth observation, space meteorology, astronomy, satellite navigation and satellite communications](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/); the appointment date is not stated.
 
 The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030.
 
@@ -79,17 +57,11 @@ The interoperability framework acquired a statement of intent for the first time
 
 ## DR Congo
 
-Experts validated the [sectoral digital economy policy 2026-2030 on 21 and 22 July, subject to completing the costing, indicators and institutional responsibilities](https://www.mediacongo.net/article-actualite-165910_economie_numerique_les_experts_valident_le_projet_de_politique_sectorielle_2026_2030.html). A restitution workshop on 29 and 30 July presented a ten-dimension maturity diagnostic and named the [instruments to be articulated: the digital and data strategies, the AI strategy, the identity platform, the sovereign cloud, a certification authority and a cybersecurity agency](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/), plus a rule barring AI platform deployment without data quality, auditability and human supervision.
-
-The connectivity side of that framework acquired numbers in August. The universal service fund [published a National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, and signed subsidy agreements with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html), against a target of 3,000 localities and 16 million people by 2030. The strategy text is not held, and neither the subsidy amounts, the tower company nor the selection rule for the first 40 localities is stated.
-
 Two World Bank-supported studies [on infrastructure sharing, national roaming, local-loop unbundling and telecom taxation were presented in Kinshasa on 9 September, recommending lower duties on equipment and new sites and a central infrastructure database](https://numerico.cd/2026/09/09/pact-et-telecoms-en-rdc-baisse-des-couts-en-vue/). No government decision on them is recorded.
 
 ## Egypt
 
 The communications minister said on 22 September that a national data-centre strategy [would be launched by the end of 2026](https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/), having told a cabinet meeting on 20 September that it is [being drawn up with other ministries to expand data-centre capacity inside Egypt](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399); no draft text is held. On 9 September he put the Digital Egypt platform at [about 245 live services, with more than 400 targeted by 2030](https://hapijournal.com/2026/09/09/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-400-%D8%AE%D8%AF%D9%85%D8%A9-%D8%B9%D9%84/), against the [over 270 by end-2026 and about 450 by 2030 he set out in July](https://gate.ahram.org.eg/News/5814629.aspx).
-
-A review published on 3 August records that [Egypt launched 5G on refarmed 2.6 GHz blocks of 20 to 30 MHz, where the other three North African markets used dedicated 3.5 GHz spectrum](https://www.ookla.com/articles/5g-north-africa-2026), before the February 2026 award of [410 MHz across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos).
 
 ## Equatorial Guinea
 
@@ -97,11 +69,7 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 
 ## Eritrea
 
-The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the repository holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that the repository does not hold.
-
-## Eswatini
-
-The National Data Governance Policy is still being written. The ICT minister [told the Senate it is targeted for completion before the end of 2026, with government undecided between a standalone instrument and a broader one](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy). The text is not published and no adoption date is given; being undecided on the instrument's form is itself a statement about how far the drafting has got.
+The month adds the sector's policy furniture rather than a new instrument. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that the repository does not hold.
 
 ## Gabon
 
@@ -109,57 +77,25 @@ The new infrastructure and cybersecurity directorate has a head. The Council of 
 
 ## Gambia
 
-The policy shelf was restocked, with an unusually frank admission attached. The Gambia [validated a ten-year science, technology and innovation policy for 2027-2035 after its minister conceded the previous one achieved none of its objectives](https://thepoint.gm/africa/gambia/national-news/gambia-validates-new-10-year-sti-policy-to-drive-jobs-innovation-and-climate-resilience). A minister saying so on the record is worth more than the policy document itself, because it dates the failure the successor has to avoid. Cabinet separately [approved a bill to establish a national research, development and innovation council](https://www.linkedin.com/posts/ministry-of-higher-education-research-science-and-technology_cabinet-approves-national-research-development-activity-7499615459382775808-MOKX); the council does not yet exist.
+The higher education ministry [validated a draft science, technology and innovation policy for 2027 to 2035 and its accompanying bill at a national workshop](https://standard.gm/moherst-moves-to-strengthen-science-technology-and-innovation/), reported on 3 September. An evaluation of the 2015-2024 policy found that none of its objectives were met.
 
 ## Ghana
 
-The public sector reform that carries the digital pillar reached validation on 12 August: a [five-year, seven-pillar public sector reform strategy was validated at a stakeholder workshop ahead of formal adoption, one pillar being digitalised public-sector systems](http://psrs.gov.gh/index.php/component/content/article/59-stakeholders-validate-national-public-sector-reform-strategy-ii-ahead-of-formal-adoption?Itemid=101&catid=2). No text, budget or adoption date is published.
-
-## Guinea
-
-The legislature acquired a standing counterpart to all of this: the National Assembly's ICT committee [held its first working session on 7 August and named mobile money, social-media regulation and network security as its priorities](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/), to be worked in coordination with the telecommunications ministry; no work programme or timetable is published. A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP. Soumah was then [dismissed by a presidential decree made public on 21 August, with no reason given](https://www.africaguinee.com/limogeage-de-mory-conde-et-mourana-soumah-le-president-doumbouya-designe-les-interimaires/), and the ministry's secretary-general holds the portfolio on an interim basis.
+The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan.
 
 ## Guinea-Bissau
-
-The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
 
 The strategy's implementation plan is in preparation with a United Nations university unit. On 9 September UNU-EGOV [presented a delegation from the territorial-administration ministry with the project document for implementing the national digital transformation strategy](https://unu.edu/egov/news/unu-egov-welcomes-delegation-guinea-bissau), meant to set priorities, governance structures, partners and resources; no adoption date is published.
 
 ## Kenya
 
-Safaricom's revised M-Pesa business tariffs [took effect on 7 August, its own customer notice attributing the change to alignment with the Central Bank's pricing principles](https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move); no gazetted rule stands behind them.
-
 Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published.
-
-## Lesotho
-
-The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
 
 ## Liberia
 
 The financial inclusion strategy reached validation. The central bank's [draft went through a two-day validation and will be revised](https://frontpageafricaonline.com/liberia-cbls-new-financial-inclusion-plan-hinges-on-id-business-registry-reforms/), with participants naming the identification registry, business registration and credit reference systems as what it depends on; no launch date is set.
 
-## Libya
-
-On 26 July the Ministry of Civil Service [discussed implementation of its digital transformation plan with Huawei Libya](https://lana.gov.ly/post.php?id=362365&lang=ar), covering the ministry's systems and electronic services. No agreement, scope or value was announced.
-
-On 4 August the same ministry [convened the General Information Authority, the Libyan Digital Company and its own IT office to prepare a national digital transformation plan](https://alwasat.ly/news/libya/526991) covering digitised administrative procedures, unified databases and integration between state institutions. No timetable, budget, lead agency or published document was stated, and the announcement was made on the ministry's Facebook page.
-
-## Malawi
-
-The draft national artificial intelligence strategy the UNESCO readiness assessment is intended to guide remains pre-adoption.
-
-The revenue authority launched a five-year Corporate Strategic Plan in Blantyre on 24 August, [resting on a wider tax base, digitisation and evidence-based research and targeting a rise in the tax-to-GDP ratio from 16 per cent towards 20 per cent by 2031](https://malawi24.com/2026/08/25/mra-strategy-plan-targets-stronger-domestic-revenue-for-malawi/), the finance minister framing domestic taxation as the route left by falling donor support and shrinking customs revenue.
-
-## Mali
-
-On 15 July, at the UEMOA digital economy salon in Ouagadougou, Mali [spoke for the three AES states and the salon adopted a Declaration de Ouagadougou](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) recommending that member governments place digital at the centre of national strategies, and identifying financing opportunities under the union's ICT fund. The [same communique records the minister at the Global Dialogue on AI Governance and the World Summit on the Information Society in Geneva from 6 to 10 July](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-31-sgg/), arguing for Global South data rights, fairer sharing of the benefits of artificial intelligence, a capacity-building fund for least-developed countries, and the integration of African languages into AI models. Positions stated, with no instrument or commitment attached to any of them.
-
-The same 1 August recommendations also included establishing [a Conseil national du Numerique](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
-
 ## Mauritania
-
-The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
 
 On 16 September the Council of Ministers [took a statement proposing a national framework on minors' access to social media](https://www.ami.mr/archives/268298): an access threshold at 16, recommendation algorithms, infinite scroll and autoplay off by default for minors, no advertising targeted at them, and a reporting and support mechanism for children harmed online. It is a proposal; no draft text or date is published.
 
@@ -169,39 +105,15 @@ Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn eco
 
 ## Mozambique
 
-Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window. Until one is adopted the operative plan is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
-
-Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
+The operative plan is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
 The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October.
 
-## Namibia
-
-The ICT minister met a consultancy delegation in Windhoek on 3 August on trustworthy artificial intelligence, broadband access, cybersecurity, data centres, clean energy and women in technology, and stated that consultations on the strategy framework had already begun under the research council and that government has prioritised a strategy before introducing legislation ([ministerial account](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r)). No contract, terms of reference or procurement route involving the consultancy is established ([second account](https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/)).
-
 ## Nigeria
-
-An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign ministry](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/), coordinating engagement on emerging technologies, established after the 2025 inaugural seminar.
-
-Two coordination bodies were constituted in August, one with a deadline that tells you what it is. The Head of Service [inaugurated an eleven-member technical working committee to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) ahead of a steering committee; no terms of reference, budget or publication commitment is stated. And a national strategy for the digital transformation of technical and vocational education was [validated at an Abuja workshop by UNESCO, the education ministry and the technical education board](https://www.thisdaylive.com/2026/08/12/unesco-fg-nbte-seek-human-centred-digital-transformation-of-nigerias-technical-vocational-education-training-system/), which named connectivity, teacher digital competency, financing and coordination as the gaps to close before implementation. Validated is not adopted, and neither text is held.
-
-The month's substantive instrument is the cloud policy. On 17 August the communications ministry [issued a National Digital Cloud Policy](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/) superseding the 2019 cloud policy, in force on publication apart from its sovereignty provisions, which await presidential approval. It makes cloud the default for new federal systems, with [time-bound exemptions assessed by the IT development agency against published criteria and held in a register](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/); pools ministry demand through the government infrastructure company into framework agreements bought on a National Digital Marketplace, with the procurement bureau overseeing compliance; and [sorts government and regulated data into four levels — national-security data hosted only in Nigeria, financial, health, biometric and identity data stored at rest in Nigeria, internal operational records hybrid by prior authorisation, and public data unrestricted](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/). Commercial data carries no general localisation duty, and a regulator has to apply for a category to be designated sovereign. The [ministry states the 2019 Cloud First principle was applied unevenly for want of a coordinating framework](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/), which is what the aggregation, marketplace, provider registration and compliance machinery is for. The policy text carries no published canonical link, and its relationship to the draft National Policy on Data and Cloud — five years in draft — is not stated.
-
-The cloud programme gained its investment case: the agency's [strategy, dated August, offers investors an Approval in Principle pathway with government as anchor customer](https://nitda.gov.ng/wp-content/uploads/2026/08/NITDA26-CLOUD-INV-STRATEGY-2025-FN-1.pdf).
 
 The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
 
-## Rwanda
-
-Beyond the switch-off dates, the ministry's retirement plan makes timetable extensions temporary and regulator-approved only, and cites a government-commissioned study finding more than two million people could still be on the older network in 2030 without a planned transition — the study is unpublished, so its method and definitions are unestablished. The ministry also published capability check codes and an institutional audit checklist covering messaging services, payment terminals, utility meters and vehicle trackers.
-
-A development agency reported on 6 July, from engagements run to March 2026, that Rwandan participants said [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally), while the technology sits in payments, judiciary filing, identity verification and service delivery. The report is qualitative and claims no representativeness.
-
-The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the repository still records no sovereign compute of any kind.
-
 ## Senegal
-
-The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
 
 The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 
@@ -213,16 +125,9 @@ The ministry [called on 24 September for firms to study the interoperability pla
 
 ## Seychelles
 
-Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion. On 10 August the institution meant to carry that work was described as back in place: [the National Institute for Science, Technology and Innovation has been reinstated, its Secretariat sitting under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) after five years in which it was closed and its functions folded into a ministry division. Its Secretary of State puts its near-term focus on technological innovation in government procedures and on accelerating the digitalisation of public-service delivery. No commencement notice for the NISTI Act 2025 is on record, so the body is described as functioning without the statute behind it being shown to be in force.
-
 Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds.
 
 ## Sierra Leone
-
-Delivering a ministerial statement on 4 August after [MPs demanded an explanation for the surge](https://www.sierraleonemonitor.com/parliament-orange-money-scams/), the communications minister [set out education, institutional strengthening and better investigation](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/). No liability rule, refund duty or operator obligation was proposed.
-
-
-The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
 
 A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date.
 
@@ -232,52 +137,30 @@ The open source policy Cabinet approved in July was [presented by the communicat
 
 On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them.
 
-The communications department put two studies out to tender. The first, a market analysis, [states that there is a policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), and names market concentration, spectrum allocation and the burden on prepaid consumers as causes; it is to produce a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. The second [seeks an ICT-indicators and scenario-modelling system to plan the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD). No award, value or delivery date has been given for either. The reform programme's quarterly report, whose last figure was 80% of reforms on track, [says progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf).
-
-The Presidency and the planning and evaluation department [presented a digital dashboard for monitoring mega infrastructure projects to the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), with a review of progress on the state-of-the-nation commitments. No delivery date, data source or custodian was given, nor whether the dashboard will be public. The communications minister [set out continuing governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda): the boards and the state IT agency's leadership have been stabilised, a funding model for the public broadcaster has been completed and sent to the Treasury, and a compulsory household levy is ruled out.
-
 ## South Sudan
 
-The interoperability blueprint is still a purchase order. The ICT ministry's current-projects page, as it stood on 29 August, [lists hiring a firm to develop a Government Enterprise Architecture and implementation plan as active work](https://mictps.gov.ss/projects/) under the World Bank-financed regional digital integration project. Nothing adopted sits behind it, and the data governance strategy that would run alongside it is at tender too.
+Officials [took part in a three-day data governance workshop hosted by the African Union Commission, its development agency and partners with the ICT ministry](https://techreviewafrica.com/news/7228/south-sudan-advances-data-governance-framework-through-capacity-building-workshop), reported on 15 September, to set a roadmap for implementing the continental data policy framework. No national policy, law or timetable has followed.
 
 ## Sudan
 
-Nothing was made this month; what changed is what the record holds. The regulator's own framework catalogue names [Regulations for the Organization of Data Center and Cloud Computing Services, 2025 as the current sector instrument](https://tpra.gov.sd/en/regulatory-frameworks/regulations/), and its licensing service requires an internet-applications applicant to [disclose whether its hosting server sits inside or outside Sudan](https://tpra.gov.sd/en/services/telecom-licensing/), with data-centre licence categories separating operators that own facilities in Sudan from cloud resellers. Both instruments predate the window and neither's own text is held. In the absence of an economy-wide data-localisation law, a licence condition is where the question of where Sudanese data sits is answered.
-
-## Tanzania
-
-At a university health conference on 31 July the government stated [three requirements: that health data be stored inside Tanzania, that healthcare AI systems be approved by the relevant authorities, and that local capacity to build them be developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). No instrument and no approving authority was named, and a dedicated regulator was called for from the floor rather than announced.
-
-The coordination that did get a name came from outside the state. A [multi-stakeholder body launched on 8 August to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia](https://www.linkedin.com/posts/sandbox-security_tanzaniadigitaltrustinitiative-digitaltrust-activity-7491819343543173121--VE7), founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the [same forum published a digital trust outlook report and inaugurated a cross-border corridor with the Gulf Cooperation Council for regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm). No constitution, funding, membership list or statement of the named regulators' role in it is held.
-
-The education, science and technology ministry [completed a draft National Technology Roadmap](https://eastleighvoice.co.ke/news/392552/tanzania-drafts-25-year-national-technology-roadmap) forecasting the country's technology needs over the next 25 years across 13 sectors, presented at a stakeholder discussion. It is a draft: nothing on file records adoption or publication.
+A banker's review published on 21 September [finds no implementation programmes, budgets or indicators attached to the central bank's 2026-2030 strategic plan](https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation). The plan carries 150 initiatives, and its digital axis commits to a banking disaster-recovery centre, a wider data-centre network and a hybrid cloud project.
 
 ## Togo
-
-The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital.
 
 A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published.
 
 ## Tunisia
 
-Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the repository can carry is the fact that it met and the framing it used.
-
-The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
-
 Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the trade ministry in drafting a national e-commerce strategy, with planning meetings held from 31 March to 2 April 2026](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9); no adoption date is stated.
 
 ## Uganda
 
-The ICT ministry [states a device-tax-cut paper is ready for cabinet before the end of the quarter](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026). The [proposals behind it would take excise duty on data and airtime from 12% to 5% and VAT on mobile data from 18% to 14%](https://techafricanews.com/2026/06/22/ucc-proposes-major-telecom-tax-cuts-to-boost-ugandas-digital-economy/), with duty relief on entry-level handsets; no measure is adopted and the study itself is not held.
+The revenue authority [began implementing a compliance risk management strategy for 2026/27 that uses taxpayer information, business transactions and sector trends to find compliance gaps](https://eagle.co.ug/2026/09/14/ura-unveils-data-driven-tax-compliance-strategy-for-fy2026-27/). The science, technology and innovation minister said [a national artificial intelligence strategy is under development](https://nilepost.co.ug/news/370019/uganda-targets-ai-sovereignty-minister-says), reported on 10 September.
 
 ## Zambia
-
-The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the repository can state; no review terms of reference, timetable or drafting body is published.
 
 The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
 
 ## Zimbabwe
 
-The ICT ministry committed on 29 July to an artificial-intelligence ethics framework tabled by the end of the first quarter of 2027, publishing neither a standard nor a compliance deadline ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
-
-On children online the country has taken the policy route where its neighbours have taken the legislative one. Zimbabwe [has adopted a policy covering cyber-harassment, sextortion and data protection, while Gabon has fixed digital majority at 16 by ordinance with platform design duties attached and Rwanda is preparing a restriction on under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux). The policy text and its adoption date are not held, only a comparative account of it, and no instrument, supervisory body or enforcement action is on record — which is the distinction the comparison turns on, since the constraint reported across the region is enforcement rather than law.
+The ICT minister said on 18 September 2026 that [a Postal and Courier Services Policy is being drafted](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy). No draft or date is published.

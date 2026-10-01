@@ -1,17 +1,15 @@
 ---
-title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Data Storage — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 9db16f027889
+places: DZA; AGO; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; SEN; ZAF; TUN
+record: 4d93337e2513
 ---
 
-# Data Storage: monthly update, August – September 2026
+# Data Storage: monthly update, September – October 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -21,59 +19,31 @@ The same day the investment agency [awarded a private e-commerce firm a land con
 
 ## Angola
 
-The government's own hosting moved rather than the commercial estate. The telecommunications ministry [reinaugurated the government cloud's backup centre on 25 August after modernisation](https://pti.ao/minttics-conclui-modernizacao-do-centro-de-backup-da-cloud-do-governo/). No capacity, power figure or recovery objective is published with it, so what the repository holds is that the facility exists and has been worked on.
-
 The state printer [inaugurated a data centre on 11 September with more than 170 TB of storage and full redundancy for the official gazette's records](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/); no investment value is disclosed.
 
-## Botswana
-
-The Kala data centre [completed its first full quarter of continuous operation to 30 June, with revenue the company itself describes as modest and at proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It is designed for up to 1 MW and expansion is subject to funding. The repository holds nothing on the facility before September 2025.
-
-## Burkina Faso
-
-A wholly domestic commercial hosting provider [launched on 31 July](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) with more than 600 domain names, more than 196 web hostings and 98% availability at launch — the vendor's own figures, with capacity, tier and certification unstated.
-
-The state's own cloud is in operation on the same sovereignty argument, its first two modular datacentres inaugurated at Ouagadougou under the zero-data-abroad programme to host and secure public data and to bring back data still held outside the country ([cloud](https://lefaso.net/spip.php?article148338)). The government publishes no capacity, operator or cost for it.
-
 ## Cameroon
-
-The state operator spent the month selling capacity it has already built. It [showed the Zamengoe data centre to a second prospective tenant on 13 August](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/), presenting hosting, storage and security services and the facility's Tier III certification, eight months after the central bank toured the same site with a view to hosting. The repository holds no signed hosting contract from either visit.
 
 The Douala project was confirmed and qualified in the same week. The vendor [confirmed US$75m, about FCFA 42.25bn, for a data centre designed in part for artificial-intelligence workloads with dedicated power generation](https://www.biometricupdate.com/202609/cybastion-backs-cameroon-digital-sovereignty-with-75m-infrastructure-project), while the [planning ministry described it as an intention presented at the first bilateral economic forum rather than a commitment](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala). The distinction is worth holding onto: the same vendor's Ivorian project is underwritten by a United States export-credit guarantee, which is the shape a commitment takes on the record, and nothing of that kind is published here.
 
 ## Central African Republic
 
-A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
-
 Fire [damaged part of the national elections authority's data-processing centre in the week before 24 September](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/), weeks ahead of the October residual elections. The government opened an investigation and says the vote will go ahead; no cause, damage estimate or continuity arrangement is stated.
 
 ## Congo
 
-The published roadmap names [sovereign hosting and connectivity at the two highest tiers](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) among its infrastructure programmes; neither exists, with no standing-up instrument, host body, budget or date.
-
-The national data centre is not in service. On 22 September the vice-prime minister [put works at 82% and operation at the end of 2026 or early 2027, with energy tests within a month](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/), and a [12 MW solar farm is to back it because grid power alone would deter clients](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/). The operator's own estate is a different thing. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the repository holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
+The national data centre is not in service. On 22 September the vice-prime minister [put works at 82% and operation at the end of 2026 or early 2027, with energy tests within a month](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/), and a [12 MW solar farm is to back it because grid power alone would deter clients](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/). The operator's own estate is a different thing.
 
 ## Cote d'Ivoire
 
-The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
+The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
 
 A data centre was [installed at the national polytechnic institute in Yamoussoukro to support electronic administration and the storage, processing and security of public data](https://www.ivoirematin.com/fr/news/Societe/administration-electronique-un-data-center-installe-a-linp-hb-de-yamoussoukro_n_125289.html). No capacity, operator or cost is stated.
 
 ## Egypt
 
-Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed. On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
-
-The incumbent's chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues. No entry-into-service date or capacity figure is confirmed, against a schedule the repository already records as slipped.
+On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
 
 Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
-
-## Equatorial Guinea
-
-The government [formally pressed the supplier to deliver the equipment still outstanding under the 2020 contract to digitise the state broadcaster's technical infrastructure](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_exige_a_startimes_cumplir_con_el_envio_del_material_pendiente_para_digitalizar_rtvge). Six years after signature the contract is being chased rather than closed, and no delivery schedule, contract value or penalty is on file.
-
-## Eritrea
-
-Domestic hosting appears on this repository for the first time, and it is the state operator that put it there. Eritel [publishes a private cloud service hosted entirely in its own data centres, in three subscription tiers of 100, 250 and 500 gigabytes for 20, 50 and 100 users, each carrying a 90 per cent uptime service level and a recovery-time objective of up to six days](https://eritel.com.er/contents.php?id=1046). Those are subscription sizes rather than a statement of the estate behind them: no aggregate capacity figure, facility count or location is published for Eritrea by anyone, and a six-day recovery objective is the measure of what backup means in this market. Three weeks earlier a diaspora outlet [set out a national digital infrastructure agenda — a submarine cable landing at Massawa and Assab, redundant fibre, an exchange point at Asmara, domestic data-centre capacity, diversified technology partners and a national digital infrastructure authority](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway). It is an independent publication rather than a think tank or a government document, and nothing records the adoption of any part of it.
 
 ## Eswatini
 
@@ -101,13 +71,6 @@ The national data centre at Koloma is nearly built and not yet working. On a sit
 
 ## Kenya
 
-On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
-
-Two prospective builds at the technopolis went from talk to signature inside five days. On 13 August the authority and a hyperscaler were [exploring a local cloud outpost and a startup and technical centre of excellence](https://techmoran.com/2026/08/13/konza-aws-explore-local-cloud-outpost-and-startup-center-in-kenya/) and the ICT principal secretary [received a Chinese network communications group on broadband, smart cities and digital infrastructure investment](https://techafricanews.com/2026/08/13/kenya-eyes-chinese-investment-in-broadband-smart-cities-and-digital-infrastructure/); by 18 August the authority had [signed a collaboration agreement putting the hyperscaler's technical leadership behind an Outpost for hybrid cloud and a startup and innovation centre of excellence](https://itweb.africa/article/aws-konza-team-up-on-hybrid-cloud-infrastructure/dgp45vaBlRg7X9l8), with certification courses for its staff and for young Kenyans and credits for startups, and [a memorandum with the Chinese group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure on the site](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/). Neither instrument carries a capacity, a site, an investment figure or a date, and the second states its financing models as still to be explored.
-
-
-A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
-
 One build opened rather than slipping. The operator of the largest colocation campus [added 6.4MW at a second Nairobi facility on 7 September, and retired the iColo brand in Kenya and Mozambique in favour of its parent's](https://www.digitalrealty.com/about/newsroom/press-releases/3357028/digital-realty-strengthens-nairobi-as-east-africa-digital-gateway-with-new-data-center). The figure is critical IT load rather than delivered live load, and no occupancy, customer count or campus total is published.
 
 Two cloud platforms opened in Nairobi in September: [Nobus opened an availability zone](https://cioafrica.co/nobus-opens-nairobi-availability-zone/), and [Tata Consultancy Services announced its sovereign cloud live on iXAfrica's campus on 28 September, delivered with the integrator Sybyl, with its capacity and pricing undisclosed](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/). [Oracle was still preparing its Nairobi region at the same campus](https://cioafrica.co/nobus-opens-nairobi-availability-zone/).
@@ -116,117 +79,44 @@ Two cloud platforms opened in Nairobi in September: [Nobus opened an availabilit
 
 Kobong stayed an envelope, not money. [Reporting in September restated the US$6.2 billion hydropower and AI data-centre agreement with Convalt Energy as the largest foreign investment deal Lesotho has signed, with a feasibility study to run over the next year before any implementation agreement or construction](https://groundup.org.za/article/conflict-of-interest-questions-over-lesothos-record-r98-billion-energy-deal/). The same report found that a local firm the energy minister named as a potential partner is part-owned by the public works minister, who said he would recuse himself from cabinet discussion of the project.
 
-Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
-
 ## Libya
 
-A first independent assessment of a Libyan facility reached the record: a [tier III design certification for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=), with no capacity figures disclosed. It certifies design rather than construction, and it arrives while the sector is still unlicensed — the regulator [floated a first data centre and cloud licensing framework in February, at which point storage firms were operating unpermitted](https://lana.gov.ly/post.php?id=351103&lang=ar).
-
-## Madagascar
-
-The month's only storage development is a private one. A commercial provider's service page, captured on 31 August, [describes hourly replication of Madagascar-hosted servers to a Tier IV facility in another African or European country, with automated DNS failover and recovery under two hours](https://hodi.host/mg/store/pra-manage). It is an evergreen commercial page rather than a dated announcement, and the capture date stands in for a publication date. Nothing is held on off-site backup for state systems: the two government data centres are the whole of the state's published resilience arrangement, and no continuity requirement or hosting rule governs them.
+A first independent assessment of a Libyan facility reached the record: a [tier III design certification for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=), with no capacity figures disclosed.
 
 ## Malawi
 
-The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
-
 The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due.
-
-## Mauritania
-
-The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
 
 ## Mauritius
 
-At the regional summit on 17 August the prime minister announced [a carrier-neutral green data centre and a "Digital Embassy Village"](https://lexpress.mu/node/561649) as the digital leg of a bid to position the country as a regional hub and gateway. No site, capacity, cost, operator or date is stated, which is what separates it from the two data centres already running.
+The central information systems division [runs a central backup service for government](https://cisd.govmu.org/Pages/support.aspx).
 
 ## Morocco
 
-The ministry signed a memorandum of understanding with a data-centre power and cooling supplier in Rabat on 27 July, covering digital infrastructure, cloud, artificial intelligence, high-performance computing and data centres. The ministry's own text commits only to exchanged expertise, technical studies and the identification of structuring projects, and attaches no sum; the 50 MW sovereign data centre in Rabat is named as something the cooperation will feed ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv)). Parallel talks were held the same day with two other suppliers on the same ground.
-
-The Dakhla campus acquired a shape without acquiring a date. It is [planned as a green data-centre campus under the Igoudar Numerique programme, one part for the kingdom's sovereign digital needs and another open to private investment, with feasibility studies launched in April 2026](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html). No capacity, cost, operator or commissioning date is held for it, and the same account gives no national facility count that would place it in an estate.
-
-
-The compute platform behind that estate acquired a price. A press account citing third-party analysis [puts the Casablanca project at roughly US$1.2bn and up to 500MW, naming a South Korean cloud operator, a chip maker and the platform's developer, with a second renewable-powered project planned for Dakhla](https://en.walaw.press/country/geopolitics/QWSP/articles/morocco_bets_on_data_centers_and_artificial_intelligence_to_strengthen_its_digital_position_in_africa/GPFFXPMLMSMF). Neither figure comes from a filing, and the question the same account raises is whether hosting foreign-operated infrastructure builds anything domestic beyond the hosting.
-
-The Dakhla campus now has a size: [100 hectares and 500MW, in a portfolio presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html), with no financing close or build date.
-
-## Mozambique
-
-The country's first university-operated data centre was inaugurated on 3 August with about 14 times the storage of the server room it replaces, precision cooling and redundant systems ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)). It is World Bank financed with no amount, operation name or project number stated.
-
-A carrier-neutral operator announced on 23 July that a wholesale network will co-locate in its Mozambican and Angolan facilities, with no deployment date, capacity or value stated ([partnership announcement](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/)).
-
-
-It was formally inaugurated eight days later, on 11 August, [sited at the university in recognition of its running of the country-code domain and the internet exchange, and intended to carry artificial-intelligence, cloud and research services](https://uem.mz/uem-inaugura-centro-de-dados/). No capacity, cost or service date accompanies the intention.
+On 8 September the Dakhla green data-centre campus was [put at 100 hectares and a potential 500MW, part sovereign and part open to private investment, in a portfolio the ministry presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html). No cost, operator, financing close or build date is held.
 
 ## Namibia
-
-The national data centre moved from a Cabinet directive to a budget line: it is now [one of the ICT ministry's flagship projects for 2026/27 inside a N$639.2 million budget](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/). Four years after a government task force found the country had none and recommended building one, it still has no site, capacity, cost or completion date.
 
 The ICT minister said on 23 September that [construction had begun beside the new AI institute at Kenya House](https://neweralive.na/ai-to-boost-digital-services-theofelus/). Capacity, cost and completion date are still unpublished.
 
 ## Nigeria
 
-A Lagos cloud region [entered service on 10 August](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/), the third on its operator's platform alongside Lisbon and Johannesburg and presented around data residency since the Nigeria Data Protection Act took effect — three legal jurisdictions carried on one platform. It joins [about 26 facilities carrying 50 to 56 MW live](https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/), a figure that [reaches some 124 MW only when operators' design specifications are counted rather than declared capacity](https://insights.techcabal.com/can-nigerias-data-centres-power-africas-ai-future/), Africa's second-largest market after South Africa at about 15% of continental capacity, most of it in Lagos.
-
-The state put its own instrument behind the same argument on 5 August, [signing the regulatory framework for a National Sovereign Cloud Initiative with the state-owned Galaxy Backbone](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl), setting policy, technical and quality requirements for hosting government and business services in the country. It excludes nobody: the stated ask of Google, Microsoft and Amazon is a clearer path to local deployment. The dependence it is aimed at is [more than 85% of national workloads running on public clouds, and 22% of the thousand most-visited sites hosted in Nigeria against a sub-Saharan average of 34%](https://africa.businessinsider.com/local/markets/nigeria-pushes-microsoft-google-and-amazon-to-build-locally-as-cloud-dependence-grows/ppzrecl).
-
-
-Four sovereign-cloud instruments were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
-
-The operator group [named the UAE backer of its Africa Data Hub Holding vehicle on 27 August as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub, with its own connectivity business a shareholder supplying open-access connectivity and go-to-market support](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), the vehicle having been named in the group's half-year results booklet three days earlier without the partner behind it. The [first phase targets 150MW of AI-ready capacity across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/), with no split between the two countries, no Nigerian site, no cost and no commissioning date stated — a number to hold against the 50 to 56 MW the country's twenty-six existing facilities actually carry.
-
 A rating agency put a third count on the estate and named the constraint. It puts national data-centre capacity at [about 197 MW, below Saudi Arabia's 435 MW, and classifies the country's power availability for data-centre development as very low, citing heavy reliance on self-generation and backup power, limited renewable transmission and chronic grid instability](https://moneycentral.com.ng/markets/article/nigerias-197-megawatt-data-center-market-needs-power-reform-to-scale/). The figure is on a third basis again and reconciles with neither of the two the repository already holds; what it adds is the finding that power, not demand, is what would stop the country converting artificial-intelligence interest into operating capacity.
-
-## Rwanda
-
-The data centre and cloud service directives governing the national facility are unchanged, and their [own text carries no date on its face](https://guidelines.risa.gov.rw/books/data-center-and-cloud-services-directives) — [the ministry's sector plan is what dates them to 2023](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf). No compliance or enforcement record is published.
 
 ## Senegal
 
 The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given.
 
-## Sierra Leone
-
-The same 7 August account states the biometric register runs on a Tier III data centre, as reported by the NCRA Director-General ([consultation account](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
-
-## Somalia
-
-The national data centre went backwards in the telling. A facility described at a ministerial inspection in May 2025 as nearing completion was, on 7 August 2026, [described by the state minister for communications as planned](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure), to strengthen digital infrastructure — said at the launch of an artificial-intelligence product by a private centre. Nothing in the record reconciles the two accounts, and the ministry's stated rationale, ending reliance on data storage outside the country, remains its own statement that government data sits offshore.
-
 ## South Africa
-
-Equinix is [expanding its Johannesburg facility to 24MW and has a ZAR7.5bn South African expansion budget covering that site and land held in Johannesburg and Cape Town](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85), with further building dependent on demand. No grid connection, water use or municipal approval details were given.
 
 On 8 September a ratings agency [rated South Africa's water resilience relatively low, citing water stress in Johannesburg, Gauteng and elsewhere; named energy and water as the main risks to a data-centre pipeline it puts at almost twice current global operating capacity across emerging markets; and counted more than 60 known data centres with about 500MW of disclosed capacity](https://www.sundaytimes.timeslive.co.za/news/2026-09-08-sas-data-centre-boom-risks-hitting-a-wall-over-water-and-power/). It suggested operators may need modular energy supplies that bypass the main grid, and named water, not power, as the constraint that will decide growth.
 
-On 10 August a civil-society coalition [asked the human rights commission to halt data-centre developments until there is transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/).
-
-In August the main data-centre companies [defended their electricity and water use, citing renewable-energy and resource-management programmes; one stated science-based climate targets and full clean and renewable coverage in South Africa](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb). In September the commission [said it had received more than 250 submissions, and that the main issue was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure needs and effects on nearby communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/). Civil-society groups repeated the call for construction to stop until that use has been investigated, after Cape Town approved a hyperscale facility; the city came close to running out of water in 2018. The commission has published no finding or timetable.
-
-Three partners [launched what they describe as Africa's most powerful AI cloud: a 7.2 EFLOPS deployment on more than 50 NVIDIA B300 HGX servers with over 400 GPUs in carrier-neutral Tier-3+ colocation, intended to keep African training and inference workloads, and their data, on the continent](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/). No independent benchmark, customer, price or site was given. MTN [named the UAE backer of its Africa Data Hub Holding vehicle as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), three days after its half-year results named the vehicle but not the partner. The vehicle's first phase [targets 150MW across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/), with no split, site, cost or commissioning date. The Cape Town artificial-intelligence factory [entered the June 2026 global supercomputer list at rank 36, with 285,696 cores and 77.79 PFlop/s measured against a theoretical peak of 102.16 PFlop/s](https://www.top500.org/system/180464/); it is the only deployment in the country with an independently measured figure.
+In September the commission [said it had received more than 250 submissions, and that the main issue was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure needs and effects on nearby communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/). Civil-society groups repeated the call for construction to stop until that use has been investigated, after Cape Town approved a hyperscale facility; the city came close to running out of water in 2018. The commission has published no finding or timetable.
 
 Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues.
-
-## South Sudan
-
-The only nationally owned data centre in the repository is a [Tier 2 facility at Hai Malakal in Juba](https://trinitytechnologies.tech/about.html) offering colocation, hosting, data management, backup and replication, run by a South Sudanese-owned operator and commissioned in 2019. No capacity figure or power rating is published, and no second national provider appears.
-
-## Tanzania
-
-A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
-
-A sector review of 5 August put a count on what is already there: [ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers](https://african.business/2026/08/free-article/tanzanias-digital-dividend). It is a count and nothing more — no capacity, load or utilisation accompanies it — and it is a trade magazine's rather than the regulator's, so it does not replace the state's own count of public centres commissioned.
 
 ## Tunisia
 
 Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
 
 On 29 September the health minister [named a Tunisian sovereign cloud as the host for every citizen's health identifier and digital medical record](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No operator, provider or amount is named.
-
-## Zimbabwe
-
-The ICT ministry's 29 July address named a national high-performance computing centre, the state fixed operator and a private operator's data centre — the listed infrastructure company's Harare technology park among them — as the infrastructural spine for future government artificial intelligence ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
-
-Against that argument for a national spine, the country's largest operator moved the other way. It says it has [fully migrated its operations, mobile money and telecommunications infrastructure included, off on-premise computing and private data centres onto Google Cloud, and intends to sell cloud services on to local enterprises next](https://itweb.africa/article/econet-targets-zim-enterprise-cloud-market/rW1xL75ngDKMRk6m), citing resilience, continuity and faster feature deployment. No migration date, workload split, contract term or data-residency arrangement is published, and nothing in the repository records a regulator's position on the country's mobile money platform running on infrastructure sited and operated elsewhere.

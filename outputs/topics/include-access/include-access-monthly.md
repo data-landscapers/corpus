@@ -1,17 +1,15 @@
 ---
-title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Access to services — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: include.access
-places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2b2fe3e0134e
+places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
+record: 5db4569756b1
 ---
 
-# Access to services: monthly update, August – September 2026
+# Access to services: monthly update, September – October 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -19,39 +17,17 @@ On 13 September a ministerial order [fixed the calendar of a universal-service t
 
 The social card's working group reached its fifth session, [setting the card's indicators and data towards a unified database, with the President's June 2026 three-month deadline putting delivery before the end of September](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/). No delivery, data-sharing instrument, beneficiary count or governing decree is published.
 
-Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market and two others on the continent; the account gives no local subscriber base against which to read the rise.
-
 ## Angola
 
 The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), and now by a national total: [17,166,000 cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate.
-
-The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 
 ## Benin
 
 The identification agency [handed 1,422 equal-opportunity cards for persons with disabilities to the social-action ministry on 18 September, after 4,718 distributed in 2024 and 2025 and with about 4,000 applications registered for 2026](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees). The card is what gives access to the rights a 2017 law attaches to disability status, and the step that holds applicants back is not digital: [the ministry and the disability federation both named the medical certificate that establishes eligibility as the obstacle](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees).
 
-## Botswana
-
-The Ministry of Youth and Gender Affairs [describes the Department of Gender Affairs as secretariat to the National Gender Commission](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs), the standing institution behind this subject. Nothing else in the inclusion ledger moved in this window; the gender-based violence programme and the one-stop centres both date from earlier in the year.
-
-## Burundi
-
-A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP). It is a single site reported by its own organisers; no programme, national count, funding line or usage figure stands behind it.
-
 ## Cameroon
 
 The entitlements behind disability inclusion were set out in public, and the online harms alongside them. The social affairs ministry [described National Disability Cards issued through the ministry and its regional delegations, carrying income-tax and salary-tax exemption under the 2026 finance law and, under a joint ministerial decision, a 50 per cent higher-education fee waiver and free school enrolment for children living with disabilities](https://mail.cameroon-tribune.cm/article.html/80235/en.html/details_2); the same session heard that unguided adoption of short-video platforms exposes disabled users to targeted cyberbullying, hate speech and algorithmically reinforced stereotypes. No card count or take-up figure is published.
-
-## Central African Republic
-
-Registration and feedback for displaced people moved, and it moved outside government. An operational update for the second quarter records [37,389 registered Sudanese refugees, card-based registration, and a complaints and feedback system that had received 535 complaints](https://data.unhcr.org/en/documents/download/123755).
-
-It is the clearest instance on this ledger of a digital feedback channel reaching a displaced population, and the state's own centralised portal, launched in December, still carries no described feedback function at all.
-
-## Comoros
-
-The justice ministry's site carries a [live contact form letting a citizen select a complaint as the object of a request, alongside administrative information, case follow-up and document access](https://justice.gouv.km/nous-contacter/); it was built under a French-financed justice project. It is the widest general-purpose citizen feedback channel in the repository, and no response time, case count or escalation route is stated. The page is undated and is dated by the day it was retrieved.
 
 ## Congo
 
@@ -59,21 +35,11 @@ The state-control ministry publishes an [online channel for reporting irregulari
 
 ## Cote d'Ivoire
 
-Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
-
 On 4 September the national coordination of disabled people's associations and the incumbent operator [signed a partnership at Abobo Sogefiha for training in digital tools toward autonomy and employment, a first office-skills course already running at the coordination's headquarters, refurbished and equipped under the initiative](https://www.linfodrome.com/economie/125103-a-abobo-un-partenariat-strategique-pour-renforcer-l-inclusion-numerique-des-personnes-handicapees). It is an operator foundation's programme rather than a public one, and the repository holds no state instrument on digital accessibility against which to read it.
 
 ## Djibouti
 
-The urban rehabilitation agency runs [a complaint-management portal that routes recovery and technical problems to named internal divisions](https://www.doleances.arulos.dj/). It is the only digital citizen-feedback channel the repository holds, and it covers one agency's own business: no whole-of-government mechanism, service standard or complaint volume is published.
-
 The corridor programme put training against formalisation rather than connectivity: [forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). The training was delivered on the Ethiopian side of the corridor and no Djiboutian cohort, customs-system component or digital element is separately costed.
-
-## DR Congo
-
-On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned. What subscribers pay moved the other way. Users and resellers in Bukavu say a [1GB bundle that ran 48 hours at 1,500 Congolese francs now expires in 24 at the same price](https://laprunellerdc.cd/bukavu-des-usagers-denoncent-la-modification-des-tarifs-des-forfaits-internet/), and a 2GB 48-hour bundle at 2,000 francs has been replaced by 1GB over 72 hours; subscribers across the eastern provinces [report the same pattern across four operators and have asked a consumer body to intervene](https://radiomaendeleo.org/forfaits-internet-les-abonnes-denoncent-une-hausse-des-prix-et-une-reduction-de-la-validite/). Both ends are subscribers' accounts; no operator or regulator has stated anything.
-
-Accessibility entered the record as an argument about a process rather than a system. A tribune set out [six levers for deaf participation in the national dialogue relaunched on 17 July 2026 — interpretation, captioning, accessible documents and the rest — on the ground that a democracy that speaks without being understood has already excluded part of its citizenry](https://actualite.cd/2026/09/04/dialogue-national-en-rdc-sans-les-personnes-sourdes-linclusion-restera-un-slogan-tribune). No public data on deaf access to state processes is held, which is what makes the piece the repository's only statement on the question.
 
 ## Egypt
 
@@ -83,21 +49,9 @@ The refugee agency's [year-end monitoring of its 2024 multi-purpose cash assista
 
 ## Equatorial Guinea
 
-The refugee agency's rights mapping put an absence on the record this month: [Equatorial Guinea has acceded to the refugee treaties and enacted no domestic status determination law](https://rimap.unhcr.org/countries/equatorial-guinea), so no registration or documentation system follows from one. It sits alongside the state's own periodic review report, which [names no disability statute either](https://upr-info.org/sites/default/files/country-document/2025-04/A_HRC_WG.6_47_GNQ_1.pdf).
-
-## Eritrea
-
-One digital feedback channel is on the record, and it belongs to the operator rather than the state. The sole state telecommunications provider [runs a live web form for internet-connectivity, website-access and web-application complaints, with telephone and email alternatives](https://eritel.com.er/internet_complaint_hub.php?id=1041). No whole-of-government complaint route is recorded, and no volume of complaints made or resolved is published.
-
-## Eswatini
-
-The country's second innovation hub opened at [Macetjeni in the Lubombo region on 7 August, extending digital-skills and small-business support to a rural community](https://times.co.sz/41030/news/empowering-lubombo-macetjeni-ihub-officially-launched/), built by the small enterprise development company with the communications commission and UNDP under a youth empowerment programme, and following the Piggs Peak hub of 2025. No financing figure was disclosed for the facility, and no user, training or enterprise-support count is published for either.
-
-What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the repository holds no reliability series to test it against.
+The refugee agency's rights mapping put an absence on the record this month: [Equatorial Guinea has acceded to the refugee treaties and enacted no domestic status determination law](https://rimap.unhcr.org/countries/equatorial-guinea), so no registration or documentation system follows from one.
 
 ## Ethiopia
-
-The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up.
 
 The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). That [94%](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/) is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
 
@@ -105,13 +59,9 @@ The incumbent [secured 15 billion birr of financing from Siinqee Bank, four bill
 
 Mobile-industry research [found refugee women twice as likely as men to have their SIM registered in someone else's name](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 
-## Gabon
-
-The communications regulator [put its consumer short code 1331 back in service after a period of unavailability, announced at a 20 August meeting with operators and consumer associations](https://www.arcep.ga/pages/detail_actu/119), and set out the route a complaint takes: to the operator first, then to the regulator, with quality incidents reported through an application. A reactivation says what the position was before it. No complaint volume or resolution figure is published, and no national feedback portal exists.
-
 ## Ghana
 
-A women's business bundle from the dominant operator [passed 54,000 female subscribers by May 2026 against a target of 20,000 by 2028](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/empowering-women-micro-entrepreneurs-to-use-mobile-for-business-lessons-from-mtn-ghanas-adwumapa/), on figures published on 24 August. A European Union-funded action [trained more than 200 births-registry and health-service staff to close registration gaps in the six regions where coverage is lowest](https://www.icmpd.org/news/ghana-strengthens-the-systems-behind-birth-registration-and-refugee-protection), finding the registry short-staffed in many districts.
+Fieldwork for [a research network's first multi-country survey of how people experience digital identity and digital payment systems](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/) began in the week to 7 September. It is to reach more than 5,000 households through to April and asks whether the systems leave people feeling more included.
 
 ## Guinea
 
@@ -127,60 +77,29 @@ Two institutions moved outward in the same week. The telecommunications regulato
 
 ## Libya
 
-On 5 August a Central Bank source told Libya Herald that cash distribution to commercial bank branches would begin on 9 August under an August operational plan, with [withdrawal limits starting at LD 3,000 per customer and LD 4,000 in the south](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase), subject to increase as liquidity allows.
+A foreign cultural body [signed a memorandum giving Benghazi university's students access to its digital library of over 80,000 resources](https://libyaherald.com/2026/09/british-council-signs-mou-with-benghazi-university-allowing-access-to-the-councils-digital-library-to-70000-students), announced on 9 September; the university lost much of its physical collection during the war. The administrative oversight authority's [Raqib platform](https://raqeb.aca.gov.ly/) takes complaints against about 750 state bodies.
 
 ## Madagascar
-
-The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
 
 A postal microfinance institution [launched 12-month laptop credit for 1,400 master's students in September, funded from the connectivity project](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/).
 
 ## Malawi
 
-The first usable figure for how many Malawians are online came from the operators' own trade association rather than from the state. Its report [puts 80% of the population offline despite 87% 4G population coverage, and estimates MWK 1.1 trillion of economic value and 490,000 jobs by 2030 from closing the usage gap](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/), setting out six policy priorities for the government and the regulator. The gap it identifies is usage and not coverage, which is a finding the repository had no measurement for; the value estimate is modelled by an interested party, and among the six asks is cutting the mobile-service taxes its members pay. Against it stands [a presidential target of 80% internet usage by 2026](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) that has never had a published baseline.
-
-## Mali
-
-The month's one measure of what connectivity costs a Malian is a comparison with the neighbour. About [1.5GB of mobile data in Bamako buys what 25GB buys in Dakar](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) — a ratio of roughly 25 to 1, which critics attribute to weak market oversight by the regulator, the duopoly of the two incumbent operators, and the years since a new operator licence was issued. It is a press comparison rather than a regulator or operator tariff series, and neither the basket nor the date of the prices compared is stated; taken at its own weight it still sits awkwardly against the digital-sovereignty case the same month's fora were built around.
+Farmers, extension workers, agro-dealers and policymakers [tested a digital plant health service ahead of wider rollout](https://www.nibio.no/en/news/2026/malawan-farmers-help-shape-digital-plant-health-services), and asked for coverage of soil health, fertilisers, irrigation and weather and for changes to language and accessibility.
 
 ## Morocco
 
-A national survey put a number on the gap between owning a phone and being online. Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The repository holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
-
-## Mozambique
-
-The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
-
-The central bank's second-quarter indicators, published on 31 August, [counted 532,761 access points at end-June 2026, 494,955 of them e-money agents, with 650 bank branches, 1,291 cash machines and 31,316 card terminals](https://www.bancomoc.mz/media/tmkhk1cm/indicadores-estatisticos-de-inclus%C3%A3o-financeira-ii-trimestre-de-2026.xlsx); [agents grew 5.8% in the quarter while branches, cash machines and card terminals each fell slightly](https://www.bancomoc.mz/en/media/highlights/financial-inclusion-indicators-q2-2026/).
-
-August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
-
-What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the repository holds against the access counts above.
-
-A commercial bank [opened its mobile banking application to customers without consuming their mobile data balances or packages](https://360mozambique.com/innovation/tech/millennium-bim-offers-zero-data-access-to-smart-izi-banking-app/). Zero-rating a single private application raises a net-neutrality question the repository holds no ruling on, and no user count or operator agreement is published behind it.
+Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The repository holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
 
 ## Namibia
 
-The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
-
-Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated, which matters most for the audience the platform names.
-
-
-What that looks like in one region was put to the parliamentary ICT committee on 11 August: [21 of Kavango West's 188 schools have workable connectivity, leaving 55,002 learners without digital teaching tools](https://www.nampa.org/text/22988531), and health officials told the same committee that clinics there still struggle with unreliable mobile coverage. The figures are the regional education director's own, and they sit against a target of full telecommunications coverage by 2030.
+The Vice-President [set out new guidelines and digital systems for disability assessment and access to the disability grant](https://www.namibiansun.com/local-news-we/grant-system-goes-digital-to-better-serve-disabled-namibians-nmh017539-1-21681), reported on 8 September.
 
 ## Niger
 
 A national digital-skills caravan reached the country's far east. About sixty young people [took part over two days in the university's computer room at Diffa, on training covering digital tools, occupations and opportunities](https://anp.ne/diffa-le-niger-digital-day-renforce-les-competences-numeriques-des-jeunes/). It is one stage of a caravan for which no national total, stage list, curriculum or funder is published.
 
-Disability inclusion produced recommendations rather than an instrument. A national review closing on 5 August [called for a disability-inclusion strategy, disability-responsive budget lines, better disability data collection and faster issuance of the equal opportunity card](https://www.lesahel.org/revue-nationale-sur-linclusion-des-personnes-handicapees-des-recommandations-formulees-en-faveur-dune-meilleure-inclusion-socio-professionnelle-des-personnes-handicapees-ph/). Every item on it is a thing not yet built.
-
 ## Nigeria
-
-A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
-
-Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
-
-The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 
 Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
 
@@ -190,36 +109,17 @@ An urban survey of 13,251 respondents in 12 cities, published in September by a 
 
 A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people.
 
-## Sao Tome and Principe
-
-Two communities turned resident-identified priorities into completed works in six and a half months through pilot participatory budgeting exercises: [a paved stretch of the Estrada da Oficina in Alges, Cantagalo district, and a new water capture and distribution system with a decanting process at Ribeira Palma Praia, Lemba district](https://www.cascais.pt/noticia/orcamento-participativo-transforma-sao-tome-e-principe). The project was a partnership between two civil-society organisations and the two district councils, with support from a Portuguese municipality and the European Union, and residents took part at every stage from identifying the problem to delivering the investment. The publisher is the partner municipality rather than a Sao Tomean body, and the source describes pilot experiences rather than a national participatory budgeting system.
-
 ## Senegal
-
-The flagship access programme is under investigation. The National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). Nine years in, the programme publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
 
 The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated.
 
-## Seychelles
-
-The same survey puts a number on demand for open government, which the Access to Information Act reform has been drafted against since November 2025 without a Bill reaching Parliament. [62% say the public should have access to government information, against 25% who say it is for officials only](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/); support is strongest where the information is fiscal — [84% for district-administration budgets and 82% for bids and contracts on government projects](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — and falls to 47% for the salaries of district administrators and teachers.
-
 ## Sierra Leone
 
-Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the repository holds no state measurement to set beside it.
-
-
-The cost of the handset is being financed rather than reduced. An operator and a commercial bank [opened a 24-month device-financing scheme to individual and business customers, on top of their existing prepaid card relationship](https://www.thewatchnewssl.com/africells-ecobank-boost-digital-inclusion/). No price, interest rate, eligibility test or uptake figure is stated.
+The registration authority and the correctional service [registered 100 inmates from three Freetown correctional centres for National Identification Numbers on 17 September 2026](https://thecalabashnewspaper.com/archives/64446), their cards issued free. Fieldwork for [a research network's survey of how people experience digital identity and payment systems](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/) began in the week to 7 September.
 
 ## South Africa
 
-The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) with a projected saving of R1.5bn; beneficiaries flagged from September 2025 [reported that they were still not being paid](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account published on 25 July [described the bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/) by the digitalised grants system. The test remains in use pending appeal; the Supreme Court of Appeal hearing was set for 25 August 2026. Gold Cards were confirmed to [stop working after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); what happens to beneficiaries who miss the deadline was not stated.
-
-South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), built around a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement has been published.
-
-The Public Service Commission's investigation of government IT procurement from 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board terms too short for strategic continuity, and irregular expenditure above R2bn across four audited years, which it attributed to failed controls and a lack of deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am). The agency's managing director [said on 22 September that 60% of executive committee posts had been vacant and that a permanent chief financial officer and executives for supply chain and for network, cloud and platform have since been appointed](https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea). Some of the more than a hundred departments it serves are buying elsewhere.
-
-The grant reviews have reached [105,600 of 352,000 targeted, with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while payments to lawful beneficiaries have been suspended without effective notice. The saving is the agency's own estimate.
+The agency's managing director [said on 22 September that 60% of executive committee posts had been vacant and that a permanent chief financial officer and executives for supply chain and for network, cloud and platform have since been appointed](https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea). Some of the more than a hundred departments it serves are buying elsewhere.
 
 The [Presidential Hotline, run since September 2009 on the state IT agency's case-management platform, was the subject of an oversight visit on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre), with automation on the agenda. The [ParliMeter platform, which tracks MPs' attendance, bills, committees and ministerial answers, passed to the Parliamentary Monitoring Group as its EU-funded phase ended](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figures.
 
@@ -231,29 +131,13 @@ Access got dearer and the machinery for questioning it got weaker, in the same w
 
 ## Tanzania
 
-Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
-
 Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 
 ## Togo
 
-A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part; no case volume, coverage or referral outcome is in the record held.
-
-Documentation for the displaced is the larger operation. A [grant of US$1 million approved on 4 August funds registration and documentation of 5,000 new arrivals in the Savanes, a region now hosting more than 55,000 refugees and close to 16,000 internally displaced people](https://www.afdb.org/fr/news-and-events/togo-un-don-dun-million-de-dollars-pour-repondre-lurgence-humanitaire-dans-la-region-des-savanes-96033). None of it runs through the national identity register: refugees are documented on a separate system.
-
-## Tunisia
-
-The month's inclusion movement was a marketplace rather than an access measure. The family and women's ministry [launched a national digital marketplace for women's and girls' products, with payment and delivery agreements with the postal service and a partnership with the handicrafts office](http://www.femmes.gov.tn/ar/2026/08/12/%d9%88%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%91%d8%a9-%d8%a7%d9%84%d9%88/), putting home-based craftswomen in reach of national markets without an intermediary. It is a concrete service mechanism rather than a policy statement, which is the more common form here; no seller count or transaction volume has followed it.
+The national service portal carries [a published procedure for sending suggestions to the security ministry](https://service-public.gouv.tg/service/676b18a5e55165ff3908c676/securite-surete/suggestions-au-ministere-de-la-securite); no count of suggestions received is published.
 
 ## Uganda
-
-At a readiness inspection on 27 July, [six of nineteen planned one-stop service centres were recorded as operational](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations), with three pilots funded through the Uganda Digital Acceleration Project and centre throughput made contingent on the fifth phase of the national backbone.
-
-An [ICT hub for persons with disabilities was commissioned in Kasese](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills), reported on 1 August, offering computer literacy, vocational skills and digital-empowerment programmes and open to the wider community. No commitment value was published, so the repository carries no finance record for it.
-
-The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
-
-A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
 
 Mobile-industry research [put internet use at about a quarter of refugee women against about half of refugee men](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/), with device and data costs the main barrier.
 
@@ -261,16 +145,8 @@ The ICT ministry described [a Smart Villages pilot classroom in Butaleja distric
 
 ## Zambia
 
-The citizen support portal reached a ministry that has no offices in much of the country. Labour and social security staff [were trained to handle labour cases through the portal, extending it to districts with no physical office](https://www.zamjob.com/news-details.php?nid=388). Where a portal substitutes for a counter that was never there, the question is what happens to a claimant without connectivity — and no fallback, case volume or resolution figure is published for it.
-
 At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure.
 
 ## Zimbabwe
-
-The health minister told the National Assembly on 17 July that more than 400 health facilities had received satellite kits with 300 more to be added, but that subscriptions had not been paid because the fees were too high ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
-
-At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
-
-A media institute's August review sets the country's headline connectivity figure against what it costs. It records [internet penetration at 84.55% on the regulator's fourth-quarter 2025 data, many households spending more than 10% of income to be online against the United Nations' 2% benchmark, and only 62% of the population with reliable electricity](https://zimbabwe.misa.org/2026/08/16/internet-affordability-and-access-in-zimbabwe/), and asks whether the 2026-2030 artificial-intelligence strategy can be delivered on those foundations. The penetration figure counts active subscriptions rather than individual users, which is the gap the affordability finding sits in.
 
 A larger round of the regulator's disability training ran, and it reached teachers rather than learners: a [five-day workshop at Chiredzi for 37 teachers with visual impairments and their assistants and aides, drawn from all ten provinces, covering assistive technologies and accessible digital platforms](https://dig.watch/updates/zimbabwe-ict-skills-teachers-visual-impairments), facilitated with the same civil-society internet chapter as the June cohort. The Act that would give any of this a statutory footing was passed in November 2025 and still awaits commencement.

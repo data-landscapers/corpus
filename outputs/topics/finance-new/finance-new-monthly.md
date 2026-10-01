@@ -1,35 +1,23 @@
 ---
-title: New investments — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: New investments — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: finance.new
-places: AGO; BEN; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB; ZWE
-record: 624aee53f0cd
+places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA
+record: 28678673c894
 ---
 
-# New investments: monthly update, August – September 2026
+# New investments: monthly update, September – October 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
-The higher-education programme entered the repository with its digital content itemised. A [US$150m loan and a US$50m education-partnership grant, phase one of a US$550m multi-phase programme closing 31 December 2028, carry US$10m to digitalise higher-education service delivery and build digital competency, US$15m to establish a national research and education network and upgrade university networks, and US$15m to modernise the sector management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
+The higher-education programme entered the repository with its digital content itemised. A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
 
 The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html).
 
-## Benin
-
-One commitment entered the window. During a ministerial visit of 4 to 6 August, Canada [announced CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html). The remaining six lines are outside the digital estate. What the digital line does not carry is an implementing partner, a start date or a duration, so there is nothing yet to follow from the announcement to a system.
-
-## Burkina Faso
-
-The regional development bank's Digital Transformation Fund [was presented to public administrations on 18 and 19 August, with its programme site and eligibility terms published](https://ftd.boad.org/). No allocation to this country, application window or committed amount is stated.
-
 ## Cameroon
-
-What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
 
 The EU's digital money was set out in September: [CFAF 9.83bn for the regional Digital Business Boost for Africa and CFAF 9.83bn for Digital Acceleration in Cameroon, signed on 16 June](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization).
 
@@ -41,25 +29,15 @@ At the World Bank's September review mission the task team leader [put the Digit
 
 The regional programme acquired a date rather than money. The country's component of the Central Africa digital integration programme [is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale). No national allocation or workplan is published.
 
-The country's own digital financing reported on itself. The public sector digital governance project's strategic committee [put it at 78% of activities complete and 54% disbursed](https://oubanguimedias.com/2026/08/19/centrafrique-le-projet-de-gouvernance-numerique-du-secteur-public-affiche-un-taux-davancement-de-78/) with six months to its December 2026 closing, the first disbursement reading since April 2025 on committee figures.
-
 ## Chad
 
-The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
-
-The fund's own appraisal report now settles the amount the repository could not reconcile: the [grant is UA 9.52m against a phase-one total cost of UA 10.535m](https://www.afdb.org/sites/default/files/documents/projects-and-operations/chad_-_support_program_to_improve_the_business_climate_and_the_modernization_of_public_administration_paacama_phase_i.pdf), so the FCFA figure the repository had been carrying was a reporting outlet's conversion, and the gap between the two is the rest of the financing plan rather than a discrepancy.
+The digital minister [reviewed the World Bank-financed digital transformation support project with the financier on 16 September 2026](https://journaldutchad.com/le-tchad-presente-a-la-banque-mondiale-ses-exigences-pour-reussir-la-transformation-numerique/); 500 sites are to be built under it, and about 500 unserved localities are named as the outstanding challenge.
 
 ## Congo
-
-A number was put on the sector's future. Consultancy forecasts reported by the state news agency [attribute more than 800 billion of gross domestic product to the digital economy within five years](https://www.aci.cg/congo-numerique-plus-de-800-milliards-du-pib-pour-leconomie-numerique-dici-cinq-ans/). It is a projection carried by the state agency, not a measurement, and the record held carries no current figure for the sector's contribution against which to read it.
 
 Works on the AfDB-financed data centre [are running again, put at 82% at a ministerial inspection on 22 September](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/); whether the unpaid state tranche that halted them in 2025 was released is not stated.
 
 ## Cote d'Ivoire
-
-The month's one new financing commitment is large and thinly documented. The government has [authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/). No signed contract, financing instrument, component list, timetable or procurement route is held for it, and it [sits beside the same firm's US$170m data-centre and border-surveillance package announced from Washington in July](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/), which the record does not distinguish from it.
-
-The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 
 A further figure was attached to the digitalisation programme at the prioritisation workshop: [US$150m, about FCFA 88.5bn, stated as lender support for digitalising public services, against a state informatics company count of 315 services already digitalised](https://afriksoir.net/connectivite-des-infrastructures-publiques-la-cote-divoire-se-lance-dans-la-modernisation-de-son-administration/). It was stated at a workshop rather than in a financing instrument, and its relationship to the inclusive-digitalisation credit already ratified by decree is not explained — two figures for the same donor and the same purpose, with no statement of whether they are one commitment or two.
 
@@ -67,36 +45,21 @@ A further figure was attached to the digitalisation programme at the prioritisat
 
 The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would bring them about](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
 
-## DR Congo
-
-A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. [The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/).
-
 ## Egypt
 
-Zeal, an Egyptian payments-software company, [raised US$10m to take its checkout customer-identification layer for card terminals into the Middle East, Europe and Africa](https://www.wearetech.africa/fr/fils/breves/breves-simple/egypte-zeal-leve-10-millions-de-dollars-pour-dynamiser-le-commerce-physique) (10 September); no investor is named. Synapse Analytics [raised a US$13m Series A led by Partech](https://www.globenewswire.com/news-release/2026/09/14/3360726/0/en/synapse-analytics-secures-us-13m-led-by-partech-to-drive-ai-powered-decisioning-for-financial-institutions.html) (14 September). Under the state's startup charter, [UMAMI was named among the first companies to receive the Startup Label certificate](https://techafricanews.com/2026/08/10/umami-launches-ai-powered-learning-operating-system-for-mena-institutions/) (10 August).
+Zeal, an Egyptian payments-software company, [raised US$10m to take its checkout customer-identification layer for card terminals into the Middle East, Europe and Africa](https://www.wearetech.africa/fr/fils/breves/breves-simple/egypte-zeal-leve-10-millions-de-dollars-pour-dynamiser-le-commerce-physique) (10 September); no investor is named. Synapse Analytics [raised a US$13m Series A led by Partech](https://www.globenewswire.com/news-release/2026/09/14/3360726/0/en/synapse-analytics-secures-us-13m-led-by-partech-to-drive-ai-powered-decisioning-for-financial-institutions.html) (14 September).
 
 ## Eswatini
 
-A domestic internet provider put [E570,000 into free wireless access across the nine-day national trade fair](https://eswatinipositivenews.online/jenny-internet-boosts-eitf-2026-with-e570-000-wifi-sponsorship/), its third consecutive year as official sponsor. It is the month's only new private digital commitment on this ledger, and it is a sponsorship rather than an investment.
-
-## Ethiopia
-
-The month's finance entry is an allegation rather than a commitment. Corruption allegations against a donor-funded digital project [were raised in the German federal parliament](https://afdbundestag.de/betruegereien-in-der-entwicklungshilfe-muessen-konsequent-aufgeklaert-werden/). No project name, amount, Ethiopian response or investigation outcome is on the record held, so what the repository carries is that the question has been asked in a donor's own legislature.
+The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills.
 
 ## Ghana
 
-Two new commitments enter the repository this month, one domestic and one from a development partner. The government [put GH¢100 million, about US$8.88 million, behind the Ghana National Research Fund for 2026](https://shore.africa/2026/08/31/ghana-ai-research-fund/), separately from its US$250 million commitment to a national artificial-intelligence computing centre; no disbursement or call for proposals is reported against the allocation. The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
+The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
 
 A third, much smaller commitment closed the month: a Ghanaian remittance startup moving money from the United States to Ghana [raised US$333,000 from a blockchain foundation's community fund, to launch an international payment card usable online and in stores](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/ghana-s-seevcash-raises-333-000-launches-visa-card). The commitment date is not stated in the source and no valuation, corridor volume or user count is published.
 
 ## Kenya
-
-A [EUR270m facility across 21 obligors in eight jurisdictions, signed on 9 July and announced on 4 August, has a committed portion of up to EUR170m including a local-currency tranche of up to EUR20m equivalent in shillings for fibre modernisation in Kenya](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270), with a further uncommitted EUR100m for future acquisitions and capital expenditure across the lender's sub-Saharan operations.
-
-On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
-
-
-One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
 
 The World Bank's digital acceleration project was reviewed on 14 September: [more than 62,000 teachers trained and more than 5,000 smart boards distributed, reaching nearly 100,000 students, with disbursement delays raised](https://www.ecofinagency.com/news-digital/1509-58912-kenya-world-bank-take-stock-of-digital-economy-project-kdeap-s-gains-and-challenges). The operation closes in October 2028.
 
@@ -104,21 +67,15 @@ Under the DigiKen programme a commercial bank and the UN Capital Development Fun
 
 ## Malawi
 
-The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). Against it sits an estimate of what the reform agenda is worth: [about 1.1 trillion kwacha, some US$634 million, in economic value projected from targeted digital reforms](https://www.financialafrik.com/en/2026/08/28/malawi-634-million-in-economic-value-expected-through-targeted-digital-reforms/). A projection and a mission are not results; the record held carries no disbursement figure and no delivered output against either. A consultation in Blantyre on 3 September then [put the project's second phase at US$35 million to US$75 million over a six-year implementation, covering more than 500 public-sector institutions and more than 2,000 schools](https://news.broadcastmediaafrica.com/2026/09/04/malawi-advances-next-phase-of-digital-connectivity/) — the first sizing of the next tranche on record, and no commitment or approval date is stated for it. The same account carries the US$150 million programme total that the Bank's own [appraisal puts at US$90 million](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt), and nothing on file reconciles the two.
-
-## Mauritius
-
-A United Nations development agency published its [country annual report for 2025](https://www.undp.org/mauritius-seychelles/publications/undp-mauritius-2025-annual-report), held in full. It is the agency's own account of its year rather than an independent evaluation, and the digital component is not separately costed in it, so no figure can be lifted from it for this section. What it gives the repository is the shape of one external programme against which domestic appropriations can be read.
+The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). A consultation in Blantyre on 3 September then [put the project's second phase at US$35 million to US$75 million over a six-year implementation, covering more than 500 public-sector institutions and more than 2,000 schools](https://news.broadcastmediaafrica.com/2026/09/04/malawi-advances-next-phase-of-digital-connectivity/) — the first sizing of the next tranche on record, and no commitment or approval date is stated for it.
 
 ## Morocco
 
-The ministry stated on 22 July that the digital transformation acceleration programme, approved and signed in June 2026, is backed by US$250m over five years, and that bringing it into force before 23 September 2026 was its immediate priority ([ministry account](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/)). The programme was not in force at 6 August.
-
-A corporate venture fund of US$250m, writing cheques of up to US$5m into regional start-ups, was reported operating on 2 August, the figure attributed by the reporting outlet to a third-party tracker rather than to any Moroccan disclosure ([tracker account](https://techtrends.africa/the-rise-of-african-corporate-venture-capital/)).
+[The African Development Bank and the insurance supervisor ACAPS launched a US$680,000 InsurTech programme in September, US$510,000 of it an AfDB grant](https://canal212.ma/en/insurtech-maroc-bad-insurtech-bad-appuie-programme-moderniser-assurance-maroc/), to run until early 2027 and extend digital insurance to the under-insured.
 
 ## Mozambique
 
-The digital foundations programme runs to 2027 with the European Union delegation funding and the telecommunications union implementing. It reports [a national digital skills assessment drawing on more than 30 interviews and a survey of about 400 young people, a Matola pilot training 50 young people and 5 teachers, 15 women trained under a govtech challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by accessibility work](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so none of those outputs can be placed inside this window, and no disbursement update is held.
+ICT equipment financed by a bilateral cooperation agency and delivered through UNDP [was handed to the national disaster risk management institute in Maputo on 9 September 2026](https://www.undp.org/sites/g/files/zskgke326/files/2026-09/comunicado_de_imprensa-pnud_entrega_de_equipamentos.pdf), for information management and coordination at national, provincial and district level.
 
 ## Namibia
 
@@ -138,7 +95,7 @@ The lending frame around all of it was settled earlier in the summer and its num
 
 ## Rwanda
 
-The month's financing arrived as a parliamentary approval rather than a disbursement. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding national strategy measures that include broadband expansion, a labour market information system linking job seekers to employers, and technology for livestock traceability](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation). Three digital lines sit inside one headline number and none of them is separately priced, so the repository can record that the money was voted and not what share of it reaches any of the three.
+Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA additional financing agreement for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/), signed in Kigali on 11 July. No amount is stated.
 
 ## Senegal
 
@@ -152,32 +109,10 @@ The African Development Bank [approved a USD 34 million loan on 22 September for
 
 ## South Africa
 
-On 11 August the United Kingdom [published a call for expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme). It covers artificial intelligence, emerging technologies and digital access, as well as climate, energy, health and space. South Africa is the main focus; Zimbabwe and Zambia are the focus of the first year. The delivery consortium has not been chosen, and a contract is expected later in the year.
-
 The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
 
-A payments-infrastructure firm [closed a US$22m Series A led by a local venture firm on 5 August](https://techafricanews.com/2026/08/05/moment-raises-22-million-series-a-to-expand-payment-infrastructure-across-africa/), taking its total raised to US$55m.
-
 ## Tanzania
-
-A Korean development cooperation fund [committed US$170m to build an AI and digital technology training institute, approved at its 159th management committee and announced on 23 August 2026](https://techafricanews.com/2026/08/25/south-korea-approves-170-million-loan-ai-digital-training-tanzania/) - the fund's first AI project, with the institute to offer four programmes. No site, start date or disbursement schedule is published.
-
-The women's digital-finance programme launched on 2 September was committed a year and a half earlier, inside a larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
 
 The Fair Competition Commission opened a review on 21 August of a [Kenyan bank's acquisition of 22.23% of the payments company Pesapal, which gives it indirect control of Pesapal's Tanzanian subsidiary, a payment service provider licensed by the Bank of Tanzania](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/). Public comment closed on 4 September; the price is undisclosed and no decision is on record.
 
 At the EU-Tanzania investment forum in Helsinki on 28 September the government [presented TZS 7,000bn of digital infrastructure investment to 2031, still to be mobilised, covering fibre-to-the-premises, the Kilimanjaro One submarine cable, device manufacture, a technology park and smart classrooms](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031). No financier or split between public and private money is published.
-
-## Zambia
-
-On 27 July a domestic digital lender [reported more than K500 million lent to over 120,000 customers since founding, and committed a further K500 million over the next decade](https://techafricanews.com/2026/07/27/lupiya-commits-k500-million-to-expand-financial-inclusion-over-next-decade/) — a forward intention by the lender itself, with no external financier named.
-
-External money made a smaller and vaguer offer. On 11 August the United Kingdom [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zambia with Zimbabwe as the first year's focus and South Africa as the programme's primary one. No Zambian allocation is stated, and the delivery consortium has not been chosen.
-
-## Zimbabwe
-
-The ICT minister also committed on 29 July to ring-fencing a share of the universal services fund for public-good artificial-intelligence projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
-
-Two external commitments arrived in August, and only one of them has a number attached to Zimbabwe. A United Nations contract award of 10 August [puts US$5,947,948 into the supply of ICT equipment to the country](https://www.ungm.org/Public/ContractAward/158535) — an exact figure against a purpose stated as nothing more than ICT equipment, with neither the receiving government body nor the awarded vendor named. The United Kingdom separately [opened expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m to March 2030](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), naming Zimbabwe and Zambia as its first year's focus with South Africa the primary one. No Zimbabwean allocation is stated and no delivery consortium has been chosen.
-
-A third is a conversation. The President met a delegation from an emirate government and a technology company at State House on 8 August to [explore a digitisation partnership for aviation and border security](https://positiveeyenews.co.zw/2026/08/08/zimbabwe-fujairah-explore-digital-security-partnership-to-modernise-border-systems/), aimed at modernising immigration and border-management systems. Talks only, and no instrument, value, scope or data-protection provision is stated for systems that would process traveller data.

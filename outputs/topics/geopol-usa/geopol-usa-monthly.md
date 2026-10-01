@@ -1,17 +1,15 @@
 ---
-title: US / hyperscaler activities — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: US / hyperscaler activities — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: geopol.usa
-places: CPV; DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; ZAF; UGA; ZWE
-record: 78dad6154f97
+places: CPV; DJI; EGY; KEN; ZAF; ZWE
+record: 0d67d9f00db1
 ---
 
-# US / hyperscaler activities: monthly update, August – September 2026
+# US / hyperscaler activities: monthly update, September – October 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Cape Verde
 
@@ -27,40 +25,12 @@ The prime minister [witnessed the signing of a letter of intent between the comm
 
 ## Kenya
 
-A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published.
-
 Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
-
-## Lesotho
-
-The [US Embassy stated](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) at the Kobong ceremony that it has facilitated US$7.3bn of commercial partnerships in Lesotho over the previous eighteen months.
-
-## Mauritius
-
-The summit's other announcements differ in kind. The [Amazon memorandum was executed at the opening ceremony](https://techreviewafrica.com/news/6321/mauritius-telecoms-allmyt-summit-2026-brings-together-digital-leaders-to-drive-innovation) with soft scope and no disclosed value, and [its training will run initially in rented premises](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/). The claim that the operator's data centre already hosts current-generation accelerators is the chief executive's own.
-
-## Nigeria
-
-The month's hyperscaler activity is a renewal rather than a new commitment. Google [gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at ₦92,400 (US$68.56)](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/), the second consecutive year of the offer and one of 27 Sub-Saharan rollouts, with eligibility verified through a third-party enrolment-checking platform. No cohort figure is published for Nigeria, and the take-up of the equivalent 2025 offer is not stated, so the programme's reach is unmeasured at both ends.
-
-## Sao Tome and Principe
-
-The United States mission [marked fifty years of diplomatic relations at a reception on 20 August 2026](https://ao.usembassy.gov/united-states-celebrates-250-years-of-independence-and-50-years-of-diplomatic-relations-with-sao-tome-and-principe/), at which the charge d'affaires met the foreign minister and the delegation visited the country's coastguard headquarters and maritime operations control centre, described as ongoing cooperation on maritime security. The release names the arrival of Starlink satellite internet among recent initiatives. The standing bilateral position is unchanged: [there is no bilateral investment treaty and no taxation treaty with the United States, and the development finance corporation is authorised to operate in the country but has run no programmes there](https://www.state.gov/reports/2025-investment-climate-statements/sao-tome-and-principe).
-
-## Senegal
-
-The digital minister pitched the technology strategy in Washington, holding [working sessions on financing mechanisms for digital infrastructure, data centres, digital identity and payment systems](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington). No financier, amount or instrument was reported.
 
 ## South Africa
 
 Microsoft [told a government technology briefing that it has committed R25.8bn to cloud and AI investment in the country through 2027](https://techreviewafrica.com/news/7405/), offering departments its two in-country cloud regions and deployment options down to disconnected private environments under customer-held keys. The figure is the company's own, with no spend to date or delivery measure published.
 
-## Uganda
-
-The United States health-data memorandum is now held, and it is not the instrument the reporting describes. The signed text [caps the arrangement at seven years, places it under joint steering-committee governance with Uganda as data owner, binds all activity to the Data Protection and Privacy Act and the national data-governance framework, and has Uganda approve the health information architecture before any United States-financed investment](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf); [planned support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf). It provides only for a future data-sharing agreement. A [news organisation reported on 23 July that it had reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy). The two accounts describe different instruments rather than contradicting each other; the agreement's own text is unpublished and not held, and no Ugandan or United States primary has confirmed or denied the account.
-
 ## Zimbabwe
-
-Zimbabwe withdrew from the bilateral health talks, and the dispute over why was settled this month against the templates rather than the parties. Harare's account is that talks ended over long-term United States access to national health data and an attempt to fold in critical minerals; the [embassy stated the conditions were co-investment, financial accountability and specimen sharing during outbreaks, and that assertions it sought Zimbabweans' personal data are categorically false](https://www.newzimbabwe.com/america-disputes-zimbabwean-governments-recent-account-on-us365-million-health-deal/). Both are supportable. The [model data-sharing agreement gives the United States secure, uninterrupted access, expressly including login credentials, to seven national health systems for twenty-five years continuing ten years past termination](https://www.citizen.org/wp-content/uploads/Model-Data-Sharing-Agreement.pdf) — and in the same clause tells the partner not to provide individual-level or personally identifiable data unless there is no other way. The [template memorandum requires physical specimens and related genetic sequence data of pathogens with epidemic potential within five days of detection, for twenty-five years](https://www.citizen.org/wp-content/uploads/Template-MoU-AFGHS.pdf). Harare is describing standing credentialled access to live systems; Washington is denying transfer of identifiable records. Neither template is the Zimbabwe draft, which was never signed and does not exist as a public document. [About 1.2m people on United States-supported HIV treatment face wind-down](https://apnews.com/article/zimbabwe-us-health-funding-deal-b2d3fce8b9a340c53d117675319be120).
 
 The embassy [said on 25 September that all US funding for the country's health programmes ends at the end of the month](https://www.independent.co.uk/news/world/americas/zimbabwe-donald-trump-hiv-harare-washington-b3056549.html).

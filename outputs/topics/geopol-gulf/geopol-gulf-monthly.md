@@ -1,25 +1,19 @@
 ---
-title: Gulf/UAE activities — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Gulf/UAE activities — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: geopol.gulf
-places: AGO; BWA; EGY; GMB; KEN; SSD; ZWE
-record: 6a7b44ff9d02
+places: AGO; EGY; GMB
+record: fbc79f29dfd6
 ---
 
-# Gulf/UAE activities: monthly update, August – September 2026
+# Gulf/UAE activities: monthly update, September – October 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*3 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
 The national space programme office [signed a letter of intent with the UAE Space Agency at the Africa Space Expo in Abidjan, naming satellite-data exchange, Earth-observation applications and satellite development as areas for cooperation](https://techreviewafrica.com/news/7466/). It carries no money, programme or timetable.
-
-## Botswana
-
-The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the repository holds for Botswana at any date.
 
 ## Egypt
 
@@ -28,15 +22,3 @@ On 21 September Abu Dhabi's sovereign investor [co-led a US$35m pre-Series C rou
 ## Gambia
 
 Gulf involvement is now on the record in two forms, neither carrying a figure. The Islamic Development Bank's own sector page records it [financing the regional fibre backbone reaching The Gambia alongside two other lenders, with no date or sum given](https://www.isdb.org/sectors/ict), and a Bahraini firm's [January memorandum with the regulator offers a free critical-infrastructure security tier with no value or duration stated](https://pura.gm/press-release-ctm360-partners-with-pura-to-strengthen-the-gambias-national-cybersecurity-resilience/).
-
-## Kenya
-
-Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project.
-
-## South Sudan
-
-The legislature [ratified the general cooperation agreement with Saudi Arabia](https://www.radiotamazuj.org/en/news/article/tnla-ratifies-south-sudan-saudi-arabia-cooperation-agreement) on 19 August, three months after rejecting it on sovereignty grounds. The agreement, signed in 2022, covers agriculture, education, mining, infrastructure, health, trade, investment, security and social development. No digital or data commitment appears in it.
-
-## Zimbabwe
-
-The Emirati minister of state [met the President in Harare on 10 August to discuss economy, investment and trade](https://www.wam.ae/en/article/c1nwx85-shakhboot-bin-nahyan-meets-president-zimbabwe). No agreement was announced, which is the movement: the two governments had [agreed in Dubai in February to conclude a comprehensive economic partnership agreement within three months](https://www.zimbabwenow.co.zw/articles/21312/zimbabwe-uae-push-three-month-cepa), and August is three months past that deadline.

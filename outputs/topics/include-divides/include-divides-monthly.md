@@ -1,29 +1,19 @@
 ---
-title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Digital divides — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: include.divides
-places: AGO; BWA; BDI; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; UGA; ZMB
-record: c667081c512f
+places: AGO; CPV; TCD; COD; EGY; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; UGA; ZMB
+record: 68f81c1f163a
 ---
 
-# Digital divides: monthly update, August – September 2026
+# Digital divides: monthly update, September – October 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
-The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
-
-## Botswana
-
-The creative sector was surveyed for a digital purpose. A two-day multistakeholder workshop in Gaborone [mapped Botswana's creative industries to shape a more inclusive digital future](https://www.unesco.org/en/articles/botswana-maps-its-creative-industries-shape-more-inclusive-digital-future). A mapping is a starting position; the record held carries no output from it and no policy it is to feed.
-
-## Burundi
-
-The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the repository can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
+Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/); a local administrator put the direct free beneficiaries at 1,400 residents. No national site count, tariff or programme budget is published.
 
 ## Cape Verde
 
@@ -35,15 +25,11 @@ The ICT development agency [inaugurated a community multimedia centre at Moundou
 
 ## DR Congo
 
-This is the month's clearest movement with both ends dated. The universal service fund [signed subsidy conventions with four operators on 8 August for a first tranche of 40 localities, about 258,000 people](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites), against a national diagnostic published the day before finding nearly 3,000 uncovered localities — about 4.3m people — and coverage of 77% 2G, 68% 3G and 57% 4G. A [second phase of 300 sites is planned, with a 2030 target of 3,000 localities and 100 digital community centres](https://www.agenceecofin.com/actualites-numerique/1108-140849-rdc-quatre-operateurs-subventionnes-pour-etendre-la-couverture-mobile-dans-40-localites). An unfunded fund at the window's start, a first funded tranche at its end; no per-locality budget or fund appropriation figure is held. The diagnostic's own spread is wide: [coverage runs from about 98% in Kinshasa to 14% in Tshuapa and 28% in each of Kwango and Sud-Ubangi](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/), and the fund is [drafting a national strategy that prioritises investment by coverage gap, population, economic activity, public infrastructure and geography, naming the Lobito, National and Peace corridors as its three strategic routes and shared passive infrastructure as its approach](https://techafricanews.com/2026/08/14/dr-congo-plans-national-strategy-to-expand-mobile-coverage-in-underserved-areas/). No adoption date, budget or target is published for it.
+For the school year that opened on 1 September, the education and health ministries [provide distance teaching by worksheets and radio and television broadcasts in the 18 educational sub-divisions classed as high Ebola risk](https://edu-nc.gouv.cd/actualites/annee-scolaire-2026-2027-une-reprise-effective-des-cours-sur-toute-l-etendue-du-territoire-national-malgre-les-defis-securitaires-et-sanitaires), designed so that families need neither internet access nor digital equipment.
 
 ## Egypt
 
 The transport ministry [added text-to-speech, sign-language and other accessibility tools to its website, built with the ICT ministry and its academy for persons with disabilities](https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148) (17 September), after the ICT ministry [published an accessibility toolbar on every page of its own site](https://gate.ahram.org.eg/News/5882651.aspx) on 4 August. No deadline, list of bound entities, conformance level or audit route is stated.
-
-## Eswatini
-
-On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
 
 ## Gambia
 
@@ -51,21 +37,13 @@ The schools' side of the divide has a figure for the first time, and it is small
 
 ## Ghana
 
-American money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
-
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
-
-The rural telephony count now has a dated start. The previous minister's February 2024 statement [put 1,010 sites built, 659 integrated and 618 on air against the 2,016 target](https://moc.gov.gh/wp-content/uploads/2023/03/FEB-2024-PRESS-BRIEFING_MOCD.pdf), which is the figure the present government's 1,400 live sites should be read against.
 
 ## Guinea-Bissau
 
-The first measurement of adolescent access the repository holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
+A survey of 2,039 adolescents in Bissau, reported on 3 September, [finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools](https://english.hi.is/news/covid-19-exposed-global-digital-divide-among-adolescents-guinea-bissau).
 
 ## Kenya
-
-An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
-
-Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
 
 One programme did reach the refugee-hosting counties: a Dutch-funded course [targeting 1,700 refugee and host-community youth in Garissa and Turkana, with more than 700 enrolled from over 1,000 applications](https://techmoran.com/2026/09/11/power-learn-project-trains-1700-youth-in-kenya-ai-cloud-skills/).
 
@@ -75,29 +53,15 @@ The telecoms regulator [posted the 2025 financial statements of the telecoms and
 
 ## Malawi
 
-The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the repository holds no regulator annual report or fund account at all.
+The ICT minister [put smartphone ownership at 33 per cent and basic internet skills at 12.5 per cent](https://malawi24.com/2026/09/17/digital-gap-challenges-nzika-id-rollout/) at the launch of the mobile identity wallet.
 
 ## Morocco
 
-The divide reported this month is one of hours rather than of coverage. Residents of thirteen douars in the Ben Cherro area of Beni Mellal province say [phone service cuts from about 8pm until the following morning, with internet throughput degraded over the same hours, and that the consequences are sharpest in emergencies](https://al3omk.com/1188460.html). The account is a local association figure's through a news outlet; no operator statement, regulator measurement or restoration commitment stands beside it.
-
-## Mozambique
-
-The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
-
-The funding aimed at those gaps shrank in the same window. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Mozambique slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Mozambican figure is given.
-
-## Niger
-
-One training cohort is the whole of the window's movement here. [500 women working in agri-food processing and pottery at Zinder completed a ten-day programme in business management, financial planning and the use of digital financial tools, run by a mobile operator's foundation as part of an effort it is extending across several countries](https://techafricanews.com/2026/08/28/airtel-africa-foundation-expands-financial-inclusion-support-for-women/). What is established is a completed cohort, not any change in the women's access to financial services: no follow-up, account-opening figure, cost or continuation is published.
+Residents of thirteen douars in the Ben Cherro area of Beni Mellal province say [phone service cuts from about 8pm until the following morning, with internet throughput degraded over the same hours, and that the consequences are sharpest in emergencies](https://al3omk.com/1188460.html), reported on 17 September. The account is a local association figure's through a news outlet; no operator statement, regulator measurement or restoration commitment stands beside it.
 
 ## Nigeria
 
-A disability charity and a philanthropic foundation [opened a four-and-a-half-year programme in Lagos on 17 August to bring young people with disabilities into work through digital skills, entrepreneurship and inclusive employment pathways](https://qualitativemagazine.com/lasoda-gm-champions-digital-inclusion-for-young-nigerians-with-disabilities-at-digital-futures-workshop/), with the state disability office committing its support; no participant target or budget is published.
-
-Device prices are rising: [entry-level laptops sold for ₦350,000 to ₦610,000 in Nigerian retail in July 2026, as a memory-chip shortage cut global PC shipments by 4.9% in the second quarter](https://www.vanguardngr.com/2026/07/why-laptops-may-become-more-expensive-in-nigeria/), in a market that imports almost every computer it sells.
-
-A civil-society account on 24 September [reported the national strategy for community-centred connectivity moving into implementation, with regulators estimating over 100,000 communities potentially eligible and an aggregator licensing model under study](https://www.apc.org/en/news/strategy-action-nigerias-communities-push-bridge-digital-divide). The [strategy](https://www.apc.org/sites/default/files/nigeria-ccc-national-strategy_v3.pdf), published in June and running to March 2027, is multistakeholder rather than a government instrument.
+A civil-society account on 24 September [reported the national strategy for community-centred connectivity moving into implementation, with regulators estimating over 100,000 communities potentially eligible and an aggregator licensing model under study](https://www.apc.org/en/news/strategy-action-nigerias-communities-push-bridge-digital-divide).
 
 ## Rwanda
 
@@ -105,23 +69,15 @@ The central bank [closed its Gendana Konti campaign, begun in 2023 when 72% of w
 
 An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
 
-## Senegal
-
-The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
-
 ## Somalia
 
 The operator-led smartphone financing programme [reported more than 2,500 phones sold since its May launch and extended through 15 more branches in Jubaland, South West, Hirshabelle and Galmudug](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/), against its own target of 100,000 by year end. Its [early repayment data, on nearly 1,700 August contracts, show little difference between low- and high-scored borrowers](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/); the figures are the partners' own.
 
 ## South Africa
 
-Official household figures published on 28 August show [the share of households with no telephone at all down to 3.7%, about 740,000 households, from nearly 55% in 2002, with 93.8% now having a mobile phone only](https://groundup.org.za/article/a-look-at-south-africas-mobile-revolution/). On 27 August the communications minister [said the zero-rating of public-benefit websites required under the 2022 spectrum auction is moving slowly, five months before its deadline](https://www.businessday.co.za/economy/2026-08-27-concern-over-slow-rollout-of-free-data-for-public-benefit-sites/), and expressed confidence that the deadline will be met.
+A study reported on 21 September [finds 34.2% of adults shopped online in 2025 against 79.1% of adults online](https://techafricanews.com/2026/09/21/south-africa-online-shopping-lags-internet-access/): 23.9% among LSM 3 to 6 adults, and 31.7% of women against 36.9% of men.
 
 ## Uganda
-
-A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
-
-Money went the other way as well. An implementing partner's account of 12 August reports that [work on connectivity and digital inclusion in Uganda slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. What is described as lost is the convening as much as the money. No replacement funder is named and no Ugandan figure is given.
 
 In the north, [a community broadband network built by a women's ICT organisation is in technical testing across 12 sites in Oyam district, with market traders already using it](https://observer.ug/technology/free-internet-access-excites-traders-in-oyam-market/). No user count or model for sustaining it is stated.
 

@@ -1,21 +1,15 @@
 ---
-title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-30
-period: 2026-08-01 to 2026-09-30
+title: Technical Capacity — monthly update, September – October 2026
+compiled: 2026-10-01
+period: 2026-09-01 to 2026-10-01
 subject: infra.capacity
-places: BDI; CMR; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: 1438d7297a18
+places: CMR; COD; KEN; LBY; RWA; TGO
+record: b4d196972f77
 ---
 
-# Technical Capacity: monthly update, August – September 2026
+# Technical Capacity: monthly update, September – October 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Burundi
-
-The revenue authority's own platform went into production. From 4 August [all new taxpayer registration applications are made exclusively online, with three routes for natural persons, legal persons and cooperatives and a biometric appointment step for fingerprints and photograph](https://obr.bi/index.php/e-kori). It is a government system entering service rather than a procurement notice, which is the rarer of the two on this ledger, and no uptime, throughput or fallback for an applicant who cannot use it is stated.
+*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Cameroon
 
@@ -25,33 +19,17 @@ The digital transformation project [launched train.patnucelearning.cm on 21 Sept
 
 Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to.
 
-## Ghana
-
-The cable inventory did not move; what moved is the repository's reading of it. The regulator [names five submarine cable providers on an undated page](https://nca.org.gh/submarine-cable-landing/) resting the licence on section 3(8) of the Electronic Communications Act 2008, a list that predates later landings, while an analyst brief [counts six cables at Accra and about 2.5 Tbps of international capacity in use](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf) on a 2024 estimate. Neither is the regulator's own current count.
-
 ## Kenya
 
 The advanced science and technology institute, its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) in August, was [stated completed at US$94m by the Treasury principal secretary in Seoul on 10 September](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership), with no opening, intake or operating budget published.
 
 ## Libya
 
-The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist. Inside government, the technical and vocational education ministry said its own information systems section had [rebuilt its electronic archiving system, with operator training due from 28 September](https://lana.gov.ly/post.php?id=366096&lang=ar).
-
-## Mozambique
-
-At the same event the communications minister put the research and education network MoRENet at [60 Gbps, funded for a fifteen-year term](https://techafricanews.com/2026/08/06/mozambique-inaugurates-uem-data-center-to-advance-digital-transformation/) — a single account of the same remarks reported 100 Gbit/s and attributed it to the country rather than to the network, and that figure is not carried.
+A private certification is on record: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist. Inside government, the technical and vocational education ministry said its own information systems section had [rebuilt its electronic archiving system, with operator training due from 28 September](https://lana.gov.ly/post.php?id=366096&lang=ar).
 
 ## Rwanda
 
-Cabinet [approved an institute of computing on 24 July](https://www.ktpress.rw/2026/06/rwandas-ai-ambition-takes-shape-as-cabinet-approves-new-agency/), to open in September 2026 as an affiliated institute of the national university offering degrees in artificial intelligence and cyber security, with admission for the first two intakes limited to graduates of a single secondary coding academy at equal male and female representation. No capital budget, intake size or named international partner is published.
-
-## Senegal
-
-A continental count puts [seven data centres in Senegal at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html). It is a reference figure, cited and not absorbed: the repository holds no Senegalese primary count and no capacity figure at all.
-
-## South Africa
-
-After an oversight visit, Parliament's science committee reported that the [Centre for High Performance Computing has reached maximum capacity and that available infrastructure is insufficient for future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). The centre is one of three parts of the national cyber infrastructure system, with the research network and the secure national data centre, and supports the electronic vaccination data system.
+A UNDP review published on 17 September [records AI compute capacity hosted in the country under its regional programme, with 42 priority AI applications identified across eight sectors](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). No capacity, host institution or utilisation figure is held.
 
 ## Togo
 
