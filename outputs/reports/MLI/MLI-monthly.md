@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: MLI
 ledger_rows: 13
 not_held: 1
-record: a18d59d2d13f
+record: 325653ecdbae
 ---
 
 # Mali: monthly update, September – October 2026
@@ -32,17 +32,19 @@ On 23 September the authority [signed a cooperation agreement with Togo's person
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The Burkinabè, Malian and Nigerien telecommunications regulators [announced on 23 September that they would sign a cooperation convention in Ouagadougou on 25 September creating a Council of Sahel Regulators](https://lefaso.net/spip.php?article149443), covering confederation roaming, cybersecurity, frequency management and mutual recognition of type-approved equipment.
+The Burkinabè, Malian and Nigerien telecommunications regulators [signed a cooperation convention creating a Council of Sahel Regulators, reported on 26 September](https://lefaso.net/spip.php?article149528), covering free roaming, frequency coordination at the borders, mutual recognition of type-approved equipment and coordinated 5G introduction; its statutes and first work programme are still to be adopted. They had [announced the signing on 23 September](https://lefaso.net/spip.php?article149443).
+
+The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model.
 <!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The standards agency's own budget is the month's clearest measure of it. Its fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published, so what is measurable about it is the money.
+The standards agency's fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-A second editor followed. The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
+The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
 <!-- /narrative -->
 
 ## DPI
