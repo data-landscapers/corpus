@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: data.statistics
 places: AGO; BWA; BFA; CMR; CAF; TCD; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 9f96e3896b7f
+record: 54120c25496a
 ---
 
 # National statistics: monthly update, September – October 2026
@@ -29,7 +29,7 @@ Counting for the fourth population and agriculture census [closed on 15 Septembe
 
 ## Central African Republic
 
-The statistics institute posted [the regulator's first-half 2026 market observatory](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0) on 16 September. It is compiled from the returns operators must file under the regulator's decision of 25 June 2025, and puts internet clients at more than 23% of the population.
+The statistics institute posted the regulator's first-half 2026 market observatory on 16 September, compiled from the returns operators must file under the regulator's decision of 25 June 2025. [It puts internet clients at more than 23% of the population](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0).
 
 ## Chad
 

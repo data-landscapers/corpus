@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: ZWE
 ledger_rows: 27
 not_held: 7
-record: 099ebb78701e
+record: 146063fab952
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -81,7 +81,7 @@ The stock exchange [launched InvoiceX, an invoice-discounting marketplace under 
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/). Validation costs US$215.
+The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/).
 <!-- /narrative -->
 ### Sectoral management information systems
 

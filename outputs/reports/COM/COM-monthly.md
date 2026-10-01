@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: COM
 ledger_rows: 7
 not_held: 24
-record: cee68dd0df5d
+record: 0d6015789db5
 ---
 
 # Comoros: monthly update, September – October 2026
@@ -39,7 +39,7 @@ Cybersecurity cooperation moved outside the usual partners. A Russian embassy de
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-An account of the central bank's 2025 annual report, published on 3 September, [records deployment of the clearing platform for cheques and transfers alongside the interbank switch](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/), under a financial inclusion strategy for 2025 to 2030 that targets 75 per cent inclusion. The same account puts the banking sector's balance sheet at KMF 262.3 billion at the end of 2025 and non-performing loans at 9 per cent, against 14 per cent in 2024.
+An account of the central bank's 2025 annual report, published on 3 September, [records deployment of the clearing platform for cheques and transfers alongside the interbank switch](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/), under a financial inclusion strategy for 2025 to 2030 that targets 75 per cent inclusion. The same account [puts the banking sector's balance sheet at KMF 262.3 billion at the end of 2025 and non-performing loans at 9 per cent, against 14 per cent in 2024](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/).
 <!-- /narrative -->
 ### Registries
 

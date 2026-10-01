@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: TUN
 ledger_rows: 42
 not_held: 5
-record: dca30e6f8c55
+record: 353799ee7009
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -75,7 +75,7 @@ The administration was then given a baseline to meet. Circular n. 5 of 2 Septemb
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn.
+The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. [The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

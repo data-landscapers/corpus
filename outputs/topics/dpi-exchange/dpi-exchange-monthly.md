@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b2863754ab61
+record: 29f1037d32df
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -161,7 +161,7 @@ The shared layer it would fit into is now visible, and it is a draft: the enterp
 
 ## Tunisia
 
-The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn.
+The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. [The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/).
 
 ## Uganda
 

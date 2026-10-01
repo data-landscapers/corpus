@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: GIN
 ledger_rows: 16
 not_held: 4
-record: 01a5aa20d0d6
+record: 92a8d717de2b
 ---
 
 # Guinea: monthly update, September – October 2026
@@ -54,7 +54,7 @@ The national data centre at Koloma is nearly built and not yet working. On a sit
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%.
+Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/).
 <!-- /narrative -->
 ### Registries
 

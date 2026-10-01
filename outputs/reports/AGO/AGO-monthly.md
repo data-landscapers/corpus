@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: AGO
 ledger_rows: 34
 not_held: 6
-record: e5b3f501957e
+record: 09a08c8f4ea6
 ---
 
 # Angola: monthly update, September – October 2026
@@ -128,7 +128,7 @@ The identity-card universalisation programme is being reported by throughput: [m
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/); a local administrator put the direct free beneficiaries at 1,400 residents. No national site count, tariff or programme budget is published.
+Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September, a local administrator putting the direct free beneficiaries at 1,400 residents](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/). No national site count, tariff or programme budget is published.
 <!-- /narrative -->
 
 ## Data

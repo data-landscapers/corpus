@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: include.divides
 places: AGO; CPV; TCD; COD; EGY; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; UGA; ZMB
-record: 68f81c1f163a
+record: a22e56c1d62f
 ---
 
 # Digital divides: monthly update, September – October 2026
@@ -13,7 +13,7 @@ record: 68f81c1f163a
 
 ## Angola
 
-Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/); a local administrator put the direct free beneficiaries at 1,400 residents. No national site count, tariff or programme budget is published.
+Two Conecta Angola satellite connectivity points in Zaire province, at Madimba and Serra da Kanda, [were returned to service in September, a local administrator putting the direct free beneficiaries at 1,400 residents](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/). No national site count, tariff or programme budget is published.
 
 ## Cape Verde
 

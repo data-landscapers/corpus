@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: RWA
 ledger_rows: 33
 not_held: 7
-record: 6beeedf2987c
+record: a52cffad79a4
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 6beeedf2987c
 ## Summary of the month
 
 <!-- narrative: summary -->
-Rwanda [was selected on 21 September to host the UN World Data Forum in 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/). The largest commercial bank [became a direct participant in China's cross-border interbank payment system](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), and the government [signed a digital transformation memorandum with Jordan on 23 September](https://www.newtimes.co.rw/article/39202/news/technology/rwanda-jordan-sign-agreement-on-cooperation-in-digital-transformation). Cabinet [approved a bill on 18 September to ratify IDA additional financing for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/). A phone-based community death notification system, rolled out nationwide this year, [had logged about 10,000 community deaths in its first months](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/).
+Rwanda [was selected on 21 September to host the UN World Data Forum in 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/). The largest commercial bank [became a direct participant in China's cross-border interbank payment system](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), and the government [signed a digital transformation memorandum with Jordan on 23 September](https://www.newtimes.co.rw/article/39202/news/technology/rwanda-jordan-sign-agreement-on-cooperation-in-digital-transformation). Cabinet [approved a bill on 18 September to ratify IDA additional financing for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/). A phone-based community death notification system, introduced nationwide this year, [had logged about 10,000 community deaths in its first months](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/).
 <!-- /narrative -->
 
 ## Governance
@@ -87,7 +87,7 @@ Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Int
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-A phone-based system for notifying community deaths, rolled out nationwide in spring 2026, [logged about 10,000 community deaths in its first months, and 94% of registered deaths now receive a verbal autopsy](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/), on a funder's account of 28 September; the government plans to drop the US$1 death-certificate fee.
+A phone-based system for notifying community deaths, introduced nationwide in spring 2026, [logged about 10,000 community deaths in its first months, and 94% of registered deaths now receive a verbal autopsy, with the government planning to drop the US$1 death-certificate fee](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/), on a funder's account of 28 September.
 <!-- /narrative -->
 ### Sectoral management information systems
 

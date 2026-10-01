@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; TZA; TUN; UGA; ZMB; ZWE
-record: b17a2a849f59
+record: 092b04ded66b
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -137,7 +137,7 @@ The companies registry [announced AI across business registration with Google, i
 
 ## Rwanda
 
-A phone-based system for notifying community deaths, rolled out nationwide in spring 2026, [logged about 10,000 community deaths in its first months, and 94% of registered deaths now receive a verbal autopsy](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/), on a funder's account of 28 September; the government plans to drop the US$1 death-certificate fee.
+A phone-based system for notifying community deaths, introduced nationwide in spring 2026, [logged about 10,000 community deaths in its first months, and 94% of registered deaths now receive a verbal autopsy, with the government planning to drop the US$1 death-certificate fee](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/), on a funder's account of 28 September.
 
 ## Senegal
 
@@ -175,4 +175,4 @@ One district office in Muchinga Province [reported registering more than 3,000 c
 
 ## Zimbabwe
 
-The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/). Validation costs US$215.
+The justice minister told Parliament on 9 September that [when the 24-month validation period for securitised deeds ends in July 2027, the Digital Land Administrative Platform becomes the sole authoritative property register and unvalidated paper deeds cannot be used in formal transfers, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/).

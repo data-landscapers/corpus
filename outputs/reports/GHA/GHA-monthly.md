@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: GHA
 ledger_rows: 78
 not_held: 9
-record: 93fa5c7bf04d
+record: 4f64cdc5663d
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -196,7 +196,7 @@ The month's research capacity news is a funding gap stated by the minister who h
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Fieldwork for [a research network's first multi-country survey of how people experience digital identity and digital payment systems](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/) began in the week to 7 September. It is to reach more than 5,000 households through to April and asks whether the systems leave people feeling more included.
+Fieldwork for [a research network's first multi-country survey of how people experience digital identity and digital payment systems, to reach more than 5,000 households through to April](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/), began in the week to 7 September. It asks whether the systems leave people feeling more included.
 <!-- /narrative -->
 ### Digital divides
 

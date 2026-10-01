@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 57880be9712c
+record: 2c67eb8a4168
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -51,7 +51,7 @@ A September press account [places the 3,000 payment terminals in the revenue off
 
 ## Comoros
 
-An account of the central bank's 2025 annual report, published on 3 September, [records deployment of the clearing platform for cheques and transfers alongside the interbank switch](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/), under a financial inclusion strategy for 2025 to 2030 that targets 75 per cent inclusion. The same account puts the banking sector's balance sheet at KMF 262.3 billion at the end of 2025 and non-performing loans at 9 per cent, against 14 per cent in 2024.
+An account of the central bank's 2025 annual report, published on 3 September, [records deployment of the clearing platform for cheques and transfers alongside the interbank switch](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/), under a financial inclusion strategy for 2025 to 2030 that targets 75 per cent inclusion. The same account [puts the banking sector's balance sheet at KMF 262.3 billion at the end of 2025 and non-performing loans at 9 per cent, against 14 per cent in 2024](https://www.financialafrik.com/2026/09/03/comores-le-reveil-bancaire-dun-archipel-de-la-zone-franc/).
 
 ## Congo
 
@@ -99,7 +99,7 @@ On 23 September a fintech [began opening bank-backed virtual accounts for its Gh
 
 ## Guinea
 
-Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%.
+Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/).
 
 ## Kenya
 

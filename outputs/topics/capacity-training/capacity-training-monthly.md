@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 6eb053b7c61f
+record: 6261d2de2d76
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -31,7 +31,7 @@ An association of blind and partially sighted students [closed its fifth adapted
 
 ## Cote d'Ivoire
 
-The technical education ministry and UNESCO [launched a project on 17 September to train some 3,000 technical and vocational teachers and heads in the teaching use of AI by 2027](https://www.aip.ci/cote-divoire-aip-trois-mille-enseignants-bientot-formes-a-lusage-pedagogique-de-lia/). The pilot is in Abidjan, with 1,907 enrolled at launch against 1,000 planned.
+The technical education ministry and UNESCO [launched a project on 17 September to train some 3,000 technical and vocational teachers and heads in the teaching use of AI by 2027, piloted in Abidjan with 1,907 enrolled at launch against 1,000 planned](https://www.aip.ci/cote-divoire-aip-trois-mille-enseignants-bientot-formes-a-lusage-pedagogique-de-lia/).
 
 ## Djibouti
 

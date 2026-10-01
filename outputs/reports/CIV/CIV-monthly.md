@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: CIV
 ledger_rows: 30
 not_held: 10
-record: f03bca398239
+record: 2c04793b7db7
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -118,7 +118,7 @@ Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup la
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The technical education ministry and UNESCO [launched a project on 17 September to train some 3,000 technical and vocational teachers and heads in the teaching use of AI by 2027](https://www.aip.ci/cote-divoire-aip-trois-mille-enseignants-bientot-formes-a-lusage-pedagogique-de-lia/). The pilot is in Abidjan, with 1,907 enrolled at launch against 1,000 planned.
+The technical education ministry and UNESCO [launched a project on 17 September to train some 3,000 technical and vocational teachers and heads in the teaching use of AI by 2027, piloted in Abidjan with 1,907 enrolled at launch against 1,000 planned](https://www.aip.ci/cote-divoire-aip-trois-mille-enseignants-bientot-formes-a-lusage-pedagogique-de-lia/).
 <!-- /narrative -->
 
 ## Inclusion

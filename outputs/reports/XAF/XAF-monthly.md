@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-01
 place: XAF
 ledger_rows: 88
 not_held: 3
-record: a264e940a94b
+record: 57f4c9e46a13
 ---
 
 # Africa: monthly update, September – October 2026
@@ -126,7 +126,7 @@ The African Telecommunications Union [opened the fifth edition of its Africa Inn
 ### China activities
 
 <!-- narrative: coordination--geopol-china -->
-Ten African states, Algeria, Cameroon, Ethiopia, Kenya and South Africa among them, [are among the 29 founding members of the World Artificial Intelligence Cooperation Organisation](http://www.china.org.cn/2026-09/01/content_118674053.shtml), on a Chinese state account of 1 September; the same announcement carries 5,000 AI training places for developing countries over five years and agreements with Cote d'Ivoire, Guinea and Cameroon to extend a weather-warning system.
+Ten African states, Algeria, Cameroon, Ethiopia, Kenya and South Africa among them, [are among the 29 founding members of the World Artificial Intelligence Cooperation Organisation, in an announcement that also carries 5,000 AI training places for developing countries over five years and agreements with Cote d'Ivoire, Guinea and Cameroon to extend a weather-warning system](http://www.china.org.cn/2026-09/01/content_118674053.shtml), on a Chinese state account of 1 September.
 <!-- /narrative -->
 ### India activities
 

@@ -4,7 +4,7 @@ compiled: 2026-10-01
 period: 2026-09-01 to 2026-10-01
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: 5db4569756b1
+record: 15402fdba896
 ---
 
 # Access to services: monthly update, September – October 2026
@@ -61,7 +61,7 @@ Mobile-industry research [found refugee women twice as likely as men to have the
 
 ## Ghana
 
-Fieldwork for [a research network's first multi-country survey of how people experience digital identity and digital payment systems](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/) began in the week to 7 September. It is to reach more than 5,000 households through to April and asks whether the systems leave people feeling more included.
+Fieldwork for [a research network's first multi-country survey of how people experience digital identity and digital payment systems, to reach more than 5,000 households through to April](https://www.linkedin.com/feed/update/urn:li:activity:7502720462666321920/), began in the week to 7 September. It asks whether the systems leave people feeling more included.
 
 ## Guinea
 
