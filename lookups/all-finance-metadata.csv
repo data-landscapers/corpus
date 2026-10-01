@@ -1,0 +1,13 @@
+column,label,type,values,definition
+country,Country,code,ISO3 or a region code,"The country the money is for, as a three-letter code (KEN is Kenya). A non-state commitment to several countries carries a region code, such as XSS for Sub-Saharan Africa."
+year,Year,year,,"For a non-state commitment, the year it was approved or committed; the whole amount sits in that year. For a budget line, the year the fiscal year starts in."
+primary_topic,Topic,text,a Level 2 label in the topic taxonomy,"What the money is for, as the topic taxonomy's name. It is our assessment, not the financier's or the government's."
+type,Type,text,"aid, other finance, budget","Aid is a non-state grant, concessional loan or technical assistance. Other finance is every other non-state commitment. Budget is a line in a state's own budget."
+financier,Financier,text,,"Who provides the money. For a budget line, the admin head: the ministry or vote the budget allocates it to."
+recipient,Recipient,text,,"Who receives or spends the money: the recipient organisation of a non-state commitment, or the spending entity of a budget line. Blank where the source names none."
+title,Title,text,,"The commitment's title, or the budget line's programme, sub-programme and line name, each given once."
+description,Description,text,,"What the money pays for. A budget line's is in our words."
+value_usd,US$,number,whole US dollars,"The amount in US dollars: a non-state commitment as committed, or the latest figure held for a budget line. A row whose scope is partial or unclear counts at half its value. Blank where no amount or no exchange rate is held."
+deal_id,ID,code,,"A unique key for the row. The same key finds the full record in the non-state finance table or the national budgets table."
+scope,Scope,text,"whole, partial, unclear","Whether the whole amount is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. value_usd counts a partial or unclear row at half. Blank on a non-state commitment not yet assessed."
+scope_basis,Scope basis,text,,"Why the row was judged whole, partial or unclear, in our words."

@@ -557,6 +557,7 @@ def main() -> int:
     publish_metadata(NAME)
     publish_metadata(IH, IH_DIR / f"{IH}-metadata.csv")
     publish_metadata("budgets", CORPUS / "budgets" / "budgets-metadata.csv")   # finance.py links it
+    publish_metadata("all-finance", CORPUS / "lookups" / "all-finance-metadata.csv")   # likewise
     build_metadata()
 
     # Published before the page, which links it by name (finance.py sets out why, and why LF).

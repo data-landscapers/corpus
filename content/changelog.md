@@ -1,5 +1,6 @@
 ## 1 October 2026
 
+- A new table, [All finance](/finance/all/), joins non-state commitments and national budget lines in one set of columns. Money for a country, a year or a topic can now be read together, and each row's `deal_id` leads back to its full record.
 - Non-state finance now counts a commitment that is only partly digital, or whose scope is unclear, at half its amount, and leaves out 90 where digital is incidental to another purpose, such as cash-transfer programmes and general scholarships. The table now holds 1,312 commitments worth US$68.9bn, down from 1,402 worth US$83.3bn, and two new columns, `scope` and `scope_basis`, give each judgement and the reason.
 - In national budgets, a line that is only partly digital, or whose scope is unclear, now counts at half its value in `budget_usd`; it had counted in full. The table's total falls from US$16.7bn to US$13.1bn; the figures in each line's own currency are unchanged, and the scope filter lists the lines affected.
 - Every country page with budget lines now shows what the state budgets for digital from its own money, in US$m by topic and year, for 52 countries. Behind it are the country's full budget table and a CSV of its lines.

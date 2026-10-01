@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>All finance — Data Landscapers</title>
+<meta name="description" content="Non-state commitments and national budget lines for Africa's digital transformation in one table, searchable and downloadable.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/finance/all/">
+
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
+<link rel="stylesheet" href="../../assets/css/country.css?v=f707e846">
+<link rel="stylesheet" href="../../assets/css/datatable.css?v=363a33a0">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/finance/all/#dataset",
+  "name": "Data Landscapers all finance — Africa",
+  "description": "Every non-state financial commitment to Africa's digital sector and every digital line read from African states' own budget documents, joined in one table by Data Landscapers: the country or region, the year, what the money is for, whether the row is aid, other non-state finance or a state budget line, the financier, the recipient, a title and description, the amount in US dollars and a key to the full record. Non-state rows are commitments, not disbursements, and sit in the year they were made; budget rows are one fiscal year's figure at the latest stage held. A row that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance.",
+  "url": "https://corpus.data-landscapers.io/finance/all/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Development finance",
+    "Government budgets",
+    "Public finance",
+    "Africa"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Africa"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "country",
+      "description": "The country the money is for, as a three-letter code (KEN is Kenya). A non-state commitment to several countries carries a region code, such as XSS for Sub-Saharan Africa."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "year",
+      "description": "For a non-state commitment, the year it was approved or committed; the whole amount sits in that year. For a budget line, the year the fiscal year starts in."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "primary_topic",
+      "description": "What the money is for, as the topic taxonomy's name. It is our assessment, not the financier's or the government's."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "type",
+      "description": "Aid is a non-state grant, concessional loan or technical assistance. Other finance is every other non-state commitment. Budget is a line in a state's own budget."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "financier",
+      "description": "Who provides the money. For a budget line, the admin head: the ministry or vote the budget allocates it to."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "recipient",
+      "description": "Who receives or spends the money: the recipient organisation of a non-state commitment, or the spending entity of a budget line. Blank where the source names none."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "title",
+      "description": "The commitment's title, or the budget line's programme, sub-programme and line name, each given once."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "description",
+      "description": "What the money pays for. A budget line's is in our words."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "value_usd",
+      "description": "The amount in US dollars: a non-state commitment as committed, or the latest figure held for a budget line. A row whose scope is partial or unclear counts at half its value. Blank where no amount or no exchange rate is held."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "deal_id",
+      "description": "A unique key for the row. The same key finds the full record in the non-state finance table or the national budgets table."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope",
+      "description": "Whether the whole amount is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. value_usd counts a partial or unclear row at half. Blank on a non-state commitment not yet assessed."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope_basis",
+      "description": "Why the row was judged whole, partial or unclear, in our words."
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/finance/all/all-finance.csv",
+      "contentSize": "6.6 MB"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 12272
+  },
+  "temporalCoverage": "2015/2026",
+  "dateModified": "2026-10-01"
+}
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/all/">All finance</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20All%20finance&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/finance/all/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <h1 class="article-header__title">Finance</h1>
+    </header>
+
+    <nav class="article-toc" aria-label="Finance views">
+    <a href="../">Non-state finance</a>
+    <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+    <a href="../budgets/">Budgets</a>
+    <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+    <a href="./" aria-current="page">All finance</a>
+    </nav>
+
+    <div class="byline">12,272 rows &nbsp;·&nbsp; 1,312 non-state commitments &nbsp;·&nbsp; 10,960 budget lines &nbsp;·&nbsp; 54 countries &nbsp;·&nbsp; 6 regions &nbsp;·&nbsp; 2015–2026</div>
+
+    <p>This table joins the two finance tables: every non-state commitment and every national budget line, in one set of columns. It shows the money for a country, a year or a topic from every source together.</p>
+    <p><code>type</code> says what a row is: aid (a grant, concessional loan or technical assistance), other finance (every other non-state commitment) or budget (the state's own money). Each row's full record is in <a href="../">non-state finance</a> or <a href="../budgets/">national budgets</a>, under the same <code>deal_id</code>.</p>
+    <p>Read totals with care. A non-state row is a commitment and sits wholly in the year it was made, back to 2015; a budget row is one fiscal year's figure, from 2024. Some rows are only partly digital and the digital part cannot be separated, so <code>value_usd</code> counts 50% of a row whose scope is partial or unclear. Double it for the full amount; <code>scope_basis</code> says why the row was judged as it was. Filter on scope to list the rows counted at half. Some non-state rows are for a region, not a country.</p>
+
+    <div class="dl-datatable"
+      data-src="all-finance.csv"
+      data-cols="country, year, primary_topic, type, value_usd, financier, recipient, title, description"
+      data-filters="country, year, primary_topic, type, scope"
+      data-numeric="year, value_usd"
+      data-thousands="value_usd"
+      data-labels="{&quot;country&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;ERI&quot;: &quot;Eritrea&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;GNB&quot;: &quot;Guinea-Bissau&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;STP&quot;: &quot;Sao Tome and Principe&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;XAF&quot;: &quot;Africa&quot;, &quot;XCA&quot;: &quot;Central Africa&quot;, &quot;XEA&quot;: &quot;East Africa&quot;, &quot;XGL&quot;: &quot;Global/Developing Countries&quot;, &quot;XSS&quot;: &quot;Sub-Saharan Africa&quot;, &quot;XWA&quot;: &quot;West Africa&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;}}"
+      data-tips="{&quot;country&quot;: &quot;The country the money is for, as a three-letter code (KEN is Kenya). A non-state commitment to several countries carries a region code, such as XSS for Sub-Saharan Africa.&quot;, &quot;year&quot;: &quot;For a non-state commitment, the year it was approved or committed; the whole amount sits in that year. For a budget line, the year the fiscal year starts in.&quot;, &quot;primary_topic&quot;: &quot;What the money is for, as the topic taxonomy&#x27;s name. It is our assessment, not the financier&#x27;s or the government&#x27;s.&quot;, &quot;type&quot;: &quot;Aid is a non-state grant, concessional loan or technical assistance. Other finance is every other non-state commitment. Budget is a line in a state&#x27;s own budget.&quot;, &quot;financier&quot;: &quot;Who provides the money. For a budget line, the admin head: the ministry or vote the budget allocates it to.&quot;, &quot;recipient&quot;: &quot;Who receives or spends the money: the recipient organisation of a non-state commitment, or the spending entity of a budget line. Blank where the source names none.&quot;, &quot;title&quot;: &quot;The commitment&#x27;s title, or the budget line&#x27;s programme, sub-programme and line name, each given once.&quot;, &quot;description&quot;: &quot;What the money pays for. A budget line&#x27;s is in our words.&quot;, &quot;value_usd&quot;: &quot;The amount in US dollars: a non-state commitment as committed, or the latest figure held for a budget line. A row whose scope is partial or unclear counts at half its value. Blank where no amount or no exchange rate is held.&quot;, &quot;deal_id&quot;: &quot;A unique key for the row. The same key finds the full record in the non-state finance table or the national budgets table.&quot;, &quot;scope&quot;: &quot;Whether the whole amount is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. value_usd counts a partial or unclear row at half. Blank on a non-state commitment not yet assessed.&quot;, &quot;scope_basis&quot;: &quot;Why the row was judged whole, partial or unclear, in our words.&quot;}"
+      data-detail="country, year, primary_topic, type, financier, recipient, title, description, value_usd, deal_id, scope, scope_basis"
+      data-sort="year:desc"
+      data-empty="No row matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; all finance</span>
+        <span class="dt-count">12,272 rows</span>
+        <a class="btn btn--sm" href="all-finance.csv" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../datasets/metadata/#all-finance">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="all-finance.csv">all-finance.csv</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-10-01</dd>
+        <dt>This file</dt><dd><a href="all-finance.csv">all-finance.csv</a> &mdash; updated as the data changes</dd>
+        <dt>Fields</dt><dd><a href="../../datasets/metadata/#all-finance">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/all-finance-metadata.csv">all-finance-metadata.csv</a></dd>
+        <dt>Joined from</dt><dd><a href="../">Non-state finance</a> and <a href="../budgets/">National budgets</a>, which carry every other field under the same <code>deal_id</code></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+<script src="../../assets/js/datatable.js?v=cbb26daa"></script>
+</body>
+</html>

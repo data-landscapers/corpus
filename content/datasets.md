@@ -16,7 +16,7 @@ These datasets are constructed solely from the data in the Corpus repository and
 
 ## index-finance
 
-[Non-state finance](../finance/) is the money committed to Africa's digital sector by donors, development finance institutions, foundations, private investors and others outside the state. [National budgets](../finance/budgets/) holds every digital line read from African states' own budget documents, from the bill tabled in parliament to the audited accounts.
+[Non-state finance](../finance/) is the money committed to Africa's digital sector by donors, development finance institutions, foundations, private investors and others outside the state. [National budgets](../finance/budgets/) holds every digital line read from African states' own budget documents, from the bill tabled in parliament to the audited accounts. [All finance](../finance/all/) joins the two in one table.
 
 ## index-data-centres
 

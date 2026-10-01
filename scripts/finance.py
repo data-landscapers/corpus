@@ -6,6 +6,7 @@
       -> site/finance/budgets/index.html           national budgets, with their table
       -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
       -> site/finance/budgets/budgets-all-countries-{edition}.csv   likewise, for budgets
+      -> site/finance/all/index.html               the two joined: all finance, with its table
 
 **Two pages under one toc bar, the Progress arrangement** *(Bill, 2026-09-22)*.
 `/finance/` carries non-state finance and nothing else; `/finance/budgets/` carries the
@@ -28,6 +29,12 @@ columns baked into HTML is a multi-megabyte page, where the CSV it reads instead
 1.1 MB and is a file the reader can keep. `recipient` is carried as an ISO-3
 code in the data and shown as a country name in the table, through the `data-labels`
 map built from `outputs/vocab/countries.csv`.
+
+**All finance is the two tables in one** *(Bill, 2026-10-01)*: `/finance/all/`, every
+non-state commitment and every budget line in the twelve columns of `ALL_COLUMNS`, joined
+here at render from the two files the other pages publish. `documentation/joined-up-finance-spec.csv`
+is Bill's mapping; `lookups/all-finance-metadata.csv` is the dictionary. It follows
+`BUDGETS_DATED`, because half of it is the budget table.
 
 **The prose is in `content/finance.md`**, not here (RENDER.md -> *The prose*).
 
@@ -78,6 +85,14 @@ BUDGETS_METADATA_CSV = "budgets-metadata.csv"
 # the metadata says so; the table's file is undated working material, like the data centres'
 # display file, and is rewritten whenever the download is.
 BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
+
+# All finance: the joined table's columns, in the spec's order, and its dictionary.
+ALL_COLUMNS = ("country", "year", "primary_topic", "type", "financier", "recipient", "title",
+               "description", "value_usd", "deal_id", "scope", "scope_basis")
+ALL_META = CORPUS / "lookups" / "all-finance-metadata.csv"
+ALL_METADATA_CSV = "all-finance-metadata.csv"
+ALL_TABLE_COLS = ("country", "year", "primary_topic", "type", "value_usd", "financier",
+                  "recipient", "title", "description")
 
 
 def indent(html_block: str, spaces: int = 4) -> str:
@@ -154,11 +169,14 @@ FOOT = foot(depth=1)
 
 
 def toc(current: str) -> str:
-    """NON-STATE FINANCE · BUDGETS, the bar `progress.py` → `toc` puts over its two
-    views. Both items are links, the current one pointing at itself with
+    """NON-STATE FINANCE · BUDGETS · ALL FINANCE, the bar `progress.py` → `toc` puts over
+    its views. Every item is a link, the current one pointing at itself with
     `aria-current`, for the reason given there: `.article-toc a` styles the whole bar."""
-    items = [("non-state", "Non-state finance", "./" if current == "non-state" else "../"),
-             ("budgets", "Budgets", "budgets/" if current == "non-state" else "./")]
+    up = "" if current == "non-state" else "../"      # `/finance/` is the non-state page
+    items = [(key, label, "./" if key == current else (up + path or "./"))
+             for key, label, path in (("non-state", "Non-state finance", ""),
+                                      ("budgets", "Budgets", "budgets/"),
+                                      ("all", "All finance", "all/"))]
     sep = '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'
     here = ' aria-current="page"'
     body = sep.join(
@@ -409,6 +427,188 @@ def publish_budgets(out: Path, names: dict) -> None:
           f"-> site/finance/budgets/")
 
 
+ALL_PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>All finance — Data Landscapers</title>
+<meta name="description" content="Non-state commitments and national budget lines for Africa's digital transformation in one table, searchable and downloadable.">
+<link rel="canonical" href="{base}/finance/all/">
+{artefacts}
+{styles}
+<link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
+{jsonld}
+{ga}
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      {feedback}
+      <h1 class="article-header__title">Finance</h1>
+    </header>
+
+{toc}
+
+    <div class="byline">{rows} rows &nbsp;·&nbsp; {deals} non-state commitments &nbsp;·&nbsp; {lines} budget lines &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; {regions} regions &nbsp;·&nbsp; {yr}</div>
+
+{all_intro}
+
+    <div class="dl-datatable"
+      data-src="{csv_name}"
+      data-cols="{cols}"
+      data-filters="country, year, primary_topic, type, scope"
+      data-numeric="year, value_usd"
+      data-thousands="value_usd"
+      data-labels="{labels}"
+      data-tips="{tips}"
+      data-detail="{detail}"
+      data-sort="year:desc"
+      data-empty="No row matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; all finance</span>
+        <span class="dt-count">{rows} rows</span>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../datasets/metadata/#all-finance">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+{edition_rows}
+        <dt>Fields</dt><dd><a href="../../datasets/metadata/#all-finance">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
+        <dt>Joined from</dt><dd><a href="../">Non-state finance</a> and <a href="../budgets/">National budgets</a>, which carry every other field under the same <code>deal_id</code></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+{datatable}
+</body>
+</html>
+"""
+
+
+def budget_title(r: dict) -> str:
+    """Programme : sub-programme : line, each said once. Budgets repeat a name down the
+    chain where they print no finer level — the programme is the line on 4,659 rows."""
+    parts: list[str] = []
+    for key in ("programme", "sub_programme", "line_name"):
+        v = (r.get(key) or "").strip()
+        if v and v.casefold() not in (p.casefold() for p in parts):
+            parts.append(v)
+    return " : ".join(parts)
+
+
+def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
+    """The two tables as one, in `ALL_COLUMNS`: Bill's mapping in
+    `documentation/joined-up-finance-spec.csv`, plus `scope` and `scope_basis`, which both
+    sides carry. `value_usd` is whole dollars on both sides, and already at half on a row
+    whose scope is partial or unclear: each source table halves its own."""
+    out = []
+    for r in nonstate:
+        m = r.get("commitment_usd_m") or ""
+        out.append({
+            "country": r["recipient"], "year": (r.get("start_year") or "").strip()[:4],
+            "primary_topic": r["primary_topic"],
+            "type": "aid" if r.get("aid") == "true" else "other finance",
+            "financier": r["financier"], "recipient": r["recipient_organisation"],
+            "title": r["title"], "description": r["description"],
+            "value_usd": f"{float(m) * 1e6:.0f}" if m else "",
+            "deal_id": r["deal_id"], "scope": r["scope"], "scope_basis": r["scope_basis"]})
+    for r in budget:
+        out.append({
+            "country": r["country"], "year": r["report_year"],
+            "primary_topic": r["primary_topic"], "type": "budget",
+            "financier": r["admin_head"], "recipient": r["spending_entity"],
+            "title": budget_title(r), "description": r["purpose"],
+            "value_usd": r["budget_usd"], "deal_id": r["deal_id"],
+            "scope": r["scope_confidence"], "scope_basis": r["scope_basis"]})
+    out.sort(key=lambda r: (r["country"], r["year"], r["type"], r["deal_id"]))
+    return out
+
+
+def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
+    """`/finance/all/`: the joined table, its CSV beside it. Undated until `BUDGETS_DATED`,
+    a dated edition after, as the budget table it is half made of."""
+    page = out / "index.html"
+    _, nonstate = read_rows(sdir / "all-nonstate.csv")
+    _, budget = read_rows(BUDGETS_CSV)
+    _, meta = read_rows(ALL_META)
+    if [m["column"] for m in meta] != list(ALL_COLUMNS):
+        raise SystemExit(f"finance: {ALL_META.relative_to(CORPUS)} does not describe ALL_COLUMNS")
+    rows = all_finance_rows(nonstate, budget)
+    buf = io.StringIO(newline="")
+    w = csv.DictWriter(buf, fieldnames=ALL_COLUMNS, lineterminator="\n")
+    w.writeheader()
+    w.writerows(rows)
+    body = ("\ufeff" + buf.getvalue()).encode("utf-8")
+    if BUDGETS_DATED:
+        csv_path, _ = editions.publish(body, out, "all-finance", ".csv", page=page)
+        edition = editions.edition_of(csv_path.stem) or ""
+        edition_rows = (f'        <dt>Edition</dt><dd class="mono">{edition}</dd>\n'
+                        f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
+                        f' &mdash; a dated edition, kept as published and never revised</dd>')
+    else:
+        csv_path, edition = out / "all-finance.csv", ""
+        if not csv_path.exists() or csv_path.read_bytes() != body:
+            csv_path.write_bytes(body)
+        edition_rows = (f'        <dt>This file</dt><dd><a href="{csv_path.name}">{csv_path.name}</a>'
+                        f' &mdash; updated as the data changes</dd>')
+    used = sorted({r["country"] for r in rows})
+    years = sorted({int(r["year"]) for r in rows if r["year"].isdigit()})
+    page.write_text(external_links(ALL_PAGE.format(
+        feedback=feedback("All finance", f"{SITE_BASE}/finance/all/"),
+        base=SITE_BASE, main=MAIN_SITE, chrome=chrome('finance', depth=2),
+        foot=foot(depth=2), styles=styles(2, "country.css", "datatable.css"), ga=ga(),
+        datatable=script("datatable.js", 2),
+        artefacts=(editions.artefact_meta("all-finance", edition, editions.digest(body))
+                   if BUDGETS_DATED else ""),
+        edition_rows=edition_rows,
+        jsonld=structured_data.dataset(
+            name="Data Landscapers all finance — Africa",
+            description=copy_md("finance", "dataset-all-finance"),
+            url=f"{SITE_BASE}/finance/all/",
+            csv_url=f"{SITE_BASE}/finance/all/{csv_path.name}",
+            csv_bytes=structured_data.bytes_of(csv_path) or len(body),
+            records=len(rows),
+            fields=structured_data.fields_from(
+                [{"Column": m["column"], "Definition": m["definition"]} for m in meta]),
+            entity={"@type": "Place", "name": "Africa"},
+            temporal=structured_data.year_span([years[0], years[-1]] if years else [None, None]),
+            modified=edition or None, version=edition or None,
+            extra_keywords=("Development finance", "Government budgets", "Public finance")),
+        toc=toc("all"), all_intro=indent(copy("finance", "all-intro")),
+        csv_name=csv_path.name, metadata=ALL_METADATA_CSV,
+        cols=", ".join(ALL_TABLE_COLS),
+        detail=", ".join(ALL_COLUMNS),
+        labels=attr_json({"country": {c: names.get(c, c) for c in used}}),
+        tips=attr_json({m["column"]: m["definition"] for m in meta if m.get("definition")}),
+        rows=f"{len(rows):,}", deals=f"{len(nonstate):,}", lines=f"{len(budget):,}",
+        countries=sum(1 for c in used if not c.startswith("X")),
+        regions=sum(1 for c in used if c.startswith("X")),
+        yr=f"{years[0]}–{years[-1]}" if years else "n/a",
+        built=date.today().isoformat())), encoding="utf-8")
+    print(f"finance: all finance {len(rows):,} rows, edition {edition or 'undated'} "
+          f"-> site/finance/all/")
+
+
 def field_dictionary() -> list[dict]:
     """`variableMeasured` for the finance table, from the dictionary every finance page links as
     *what each column means* — twenty columns described in one hand-maintained file, which is
@@ -516,6 +716,8 @@ def main() -> int:
                     encoding="utf-8")
     (out / "budgets").mkdir(exist_ok=True)
     publish_budgets(out / "budgets", names)
+    (out / "all").mkdir(exist_ok=True)
+    publish_all_finance(out / "all", sdir, names)
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html
         stale.unlink()

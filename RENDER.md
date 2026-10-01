@@ -160,7 +160,7 @@ python scripts/build-title-index.py --stats           # the same for the title s
 ## Step 6 — build the non-state finance landing
 
 ```bash
-python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
+python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv, budgets/, all/
 python scripts/datasets.py        # -> site/datasets/ + data-centres-{edition}.csv, institution-hosting-{edition}.csv
 ```
 

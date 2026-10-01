@@ -58,6 +58,7 @@
                   <ul>
                     <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
                     <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/all/">All finance</a></li>
                   </ul>
                 </li>
                 <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
@@ -116,6 +117,8 @@
       <a href="#non-state-finance">Non-state finance</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#national-budgets">National budgets</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#all-finance">All finance</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#catalogue">Catalogue</a>
       </nav>
@@ -1064,6 +1067,93 @@
       <td>Topic key</td>
       <td>a key in the topic taxonomy</td>
       <td>What the money is for, as a key in the topic taxonomy (dpi.govtech, infra.connect).</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="all-finance">All finance</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/all-finance-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>column</th>
+      <th>label</th>
+      <th>values</th>
+      <th>definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>country</td>
+      <td>Country</td>
+      <td>ISO3 or a region code</td>
+      <td>The country the money is for, as a three-letter code (KEN is Kenya). A non-state commitment to several countries carries a region code, such as XSS for Sub-Saharan Africa.</td>
+      </tr>
+      <tr>
+      <td>year</td>
+      <td>Year</td>
+      <td></td>
+      <td>For a non-state commitment, the year it was approved or committed; the whole amount sits in that year. For a budget line, the year the fiscal year starts in.</td>
+      </tr>
+      <tr>
+      <td>primary_topic</td>
+      <td>Topic</td>
+      <td>a Level 2 label in the topic taxonomy</td>
+      <td>What the money is for, as the topic taxonomy's name. It is our assessment, not the financier's or the government's.</td>
+      </tr>
+      <tr>
+      <td>type</td>
+      <td>Type</td>
+      <td>aid, other finance, budget</td>
+      <td>Aid is a non-state grant, concessional loan or technical assistance. Other finance is every other non-state commitment. Budget is a line in a state's own budget.</td>
+      </tr>
+      <tr>
+      <td>financier</td>
+      <td>Financier</td>
+      <td></td>
+      <td>Who provides the money. For a budget line, the admin head: the ministry or vote the budget allocates it to.</td>
+      </tr>
+      <tr>
+      <td>recipient</td>
+      <td>Recipient</td>
+      <td></td>
+      <td>Who receives or spends the money: the recipient organisation of a non-state commitment, or the spending entity of a budget line. Blank where the source names none.</td>
+      </tr>
+      <tr>
+      <td>title</td>
+      <td>Title</td>
+      <td></td>
+      <td>The commitment's title, or the budget line's programme, sub-programme and line name, each given once.</td>
+      </tr>
+      <tr>
+      <td>description</td>
+      <td>Description</td>
+      <td></td>
+      <td>What the money pays for. A budget line's is in our words.</td>
+      </tr>
+      <tr>
+      <td>value_usd</td>
+      <td>US$</td>
+      <td>whole US dollars</td>
+      <td>The amount in US dollars: a non-state commitment as committed, or the latest figure held for a budget line. A row whose scope is partial or unclear counts at half its value. Blank where no amount or no exchange rate is held.</td>
+      </tr>
+      <tr>
+      <td>deal_id</td>
+      <td>ID</td>
+      <td></td>
+      <td>A unique key for the row. The same key finds the full record in the non-state finance table or the national budgets table.</td>
+      </tr>
+      <tr>
+      <td>scope</td>
+      <td>Scope</td>
+      <td>whole, partial, unclear</td>
+      <td>Whether the whole amount is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. value_usd counts a partial or unclear row at half. Blank on a non-state commitment not yet assessed.</td>
+      </tr>
+      <tr>
+      <td>scope_basis</td>
+      <td>Scope basis</td>
+      <td></td>
+      <td>Why the row was judged whole, partial or unclear, in our words.</td>
       </tr>
       </tbody>
       </table>
