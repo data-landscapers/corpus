@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-01 22:47 · **REVIEW** · 4m · MOZ: status 17 sections revised, progress 5 cells, monthly 5 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
+2026-10-01 22:43 · **REVIEW** · 3m · MLI: status 9 sections revised, progress 1 cell, monthly 3 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-01 22:40 · **BUILD** · 1h00m · catalogue 25,949; finance 1,801; 28 units / 219 sources, 11 minted, 21 moved; monthlies rolled to September, 224 blocks rewritten; 20 baseline sections revised; bulletin 28; 5 budget readings, 122 waiting; 30 register hits stand — ok
 2026-10-01 22:34 · **BUDGET-EXTRACT** · 1m · CPV FY2026: data protection commission added, CVE 38,128,770 appropriated, from the National Assembly's budget resolution - ok
 2026-10-01 22:33 · **BUDGET-EXTRACT** · 2m · SYC FY2026: re-read against the Appropriation Act, 10 lines to appropriated (four heads enacted at the bill's figure), 15 stay proposed - ok
