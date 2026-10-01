@@ -670,11 +670,17 @@
         var probeTd = tbody.querySelector('td');
         var mText = measurer(probeTd), mHead = measurer(headRow.cells[1] || caretTh);
         var pad = padOf(probeTd);
+        /* A numeric cell is set in the mono face, which is wider a digit than the
+           text face the probe measures. Measured as text, `10,170,313` came out a
+           few pixels short and wrapped its last digit *(2026-10-01)*. */
+        probeTd.className = 'num';
+        var mNum = measurer(probeTd);
+        probeTd.className = '';
         var CARET_W = 26;
 
         var widths = cols.map(function (ci) {
           var w = columnWidth(headers[ci], rows.map(function (r) { return display(ci, r[ci]); }),
-                              mText, mHead, pad, !!linkCols[ci]);
+                              numeric[ci] ? mNum : mText, mHead, pad, !!linkCols[ci]);
           return minColW ? Math.max(w, minColW) : w;      // data-min-col-width is a floor
         });
         var total = widths.reduce(function (a, b) { return a + b; }, CARET_W);

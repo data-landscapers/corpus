@@ -42,7 +42,7 @@ Work is ongoing to compile information on national budgets, expenditures and aud
 
 ## budget-summary
 
-What {name} budgets for digital from its own money, read from its own budget documents. Figures are in US dollars, converted at the IMF annual average rate for the year the fiscal year starts in. Each line counts at the latest stage held: audited, else spent, released, revised, enacted or proposed.
+What {name} budgets for digital from its own money, read from its own budget documents. Figures are in millions of US Dollars, converted at the IMF annual average rate for the year the fiscal year starts in. Each line counts at the latest stage held: audited, else spent, released, revised, enacted or proposed.
 
 ## budget-table-note
 

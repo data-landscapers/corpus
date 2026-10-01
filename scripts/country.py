@@ -550,18 +550,18 @@ COUNTRY = """<!DOCTYPE html>
     <h2 class="section-heading">Reports</h2>
 {reports}
 
+    <h2 class="section-heading">Public budgeting and expenditure</h2>
+{budget_section}
+
+    <h2 class="section-heading">Non-state finance</h2>
+{finance_section}
+
     <h2 class="section-heading">Catalogue</h2>
     <p>{catalogue_intro}</p>
     <div class="table-acts">
       <a class="btn" href="{base}/catalogue/#places={iso}">Browse {name} in the catalogue &rarr;</a>
       <a class="btn btn--accent" href="{cat_csv}" download>&darr; {name} catalogue CSV</a>
     </div>
-
-    <h2 class="section-heading">Non-state finance</h2>
-{finance_section}
-
-    <h2 class="section-heading">Public budgeting and expenditure</h2>
-{budget_section}
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -581,7 +581,7 @@ COUNTRY = """<!DOCTYPE html>
 </html>
 """
 
-FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year.</p>
+FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in millions of US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year.</p>
 
 {pivot}
     <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-{cutoff}&rsquo; aggregates every year before {cutoff}. An empty cell is a year with no commitment recorded, not a zero.</p>
