@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Côte d'Ivoire — national budget — Data Landscapers</title>
+<meta name="description" content="Every digital line read from Côte d'Ivoire's own budget documents, all fields, searchable and downloadable.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/countries/CIV/budgets.html">
+
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
+<link rel="stylesheet" href="../../assets/css/country.css?v=f707e846">
+<link rel="stylesheet" href="../../assets/css/datatable.css?v=363a33a0">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/countries/CIV/budgets.html#dataset",
+  "name": "Data Landscapers national budgets — Côte d'Ivoire",
+  "description": "Every digital line Data Landscapers has read from the budget documents of Côte d'Ivoire, as a single table: the fiscal year, what the money is for, the ministry, spending body, programme and line, and the figure at each stage of the budget cycle held, from the bill tabled in parliament through the enacted law and in-year revisions to the outturn and audited accounts. Each line gives its currency, a US dollar figure for its latest stage, and the document, table and page the figure is printed on. Only the state's own money is included: lines financed by donors or lenders are in the non-state finance table. A line is included when its stated purpose is digital, so the totals are what the budget says about digital transformation, digital public infrastructure and data governance, not the whole of the state's ICT spending. This is the Côte d'Ivoire cut of the full Data Landscapers national budgets table.",
+  "url": "https://corpus.data-landscapers.io/countries/CIV/budgets.html",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Government budgets",
+    "Public finance",
+    "Digital transformation",
+    "Côte d'Ivoire"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Côte d'Ivoire"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "country",
+      "description": "The country whose budget the line is in, as a three-letter code (KEN is Kenya)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "report_year",
+      "description": "The year the fiscal year starts in. A 2024/25 budget that starts in April 2024 is 2024."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "primary_topic",
+      "description": "What the money is for, as the topic taxonomy's name for primary_topic_id."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "budget_usd",
+      "description": "The latest figure held for the line, in US dollars: audited if there is one, else actual, released, revised, appropriated or proposed. Converted at the IMF annual average rate for the year the fiscal year starts in. Blank where no rate is held."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "admin_head",
+      "description": "The top level the budget allocates money to, usually a ministry or vote, as the document names it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "spending_entity",
+      "description": "The body that spends the money, as the document names it. Often the same as the admin head."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "programme",
+      "description": "The programme the line sits in, as the document names it. Where a budget has no programmes, the next level it prints; programme_level says which."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sub_programme",
+      "description": "The sub-programme, where the document prints one."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "line_name",
+      "description": "The name of the budget line as the document prints it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "purpose",
+      "description": "What the line pays for, in our words."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "currency",
+      "description": "The currency of the figures, as a three-letter code."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "amount_scale",
+      "description": "How the document prints its figures (in thousands, in millions). Every figure in this file is in whole units of the currency."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "proposed",
+      "description": "The figure in the budget bill tabled before parliament."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "appropriated",
+      "description": "The figure enacted in law."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "revised",
+      "description": "The figure after an in-year revision or supplementary budget."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "released",
+      "description": "The figure released to the spending body."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "actual",
+      "description": "The figure spent in the year (the outturn)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "audited",
+      "description": "The figure in the audited accounts."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "deal_id",
+      "description": "A unique key for the line in one fiscal year: the country, the year and the line's codes."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "state_level",
+      "description": "The part of the state whose budget holds the line: central government, a province, a state-owned enterprise, a levy-funded fund or a regulator."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "spending_tier_name",
+      "description": "The tier of government the document files the line under, where it prints tiers (Mozambique's central and provincial levels)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "fiscal_year_label",
+      "description": "The fiscal year as the state writes it (2024/25, Exercice 2024, FY2025)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "fy_start",
+      "description": "The first day of the fiscal year."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "fy_end",
+      "description": "The last day of the fiscal year."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "fy_calendar",
+      "description": "The calendar the state's fiscal year is set in. Dates in this file are Gregorian either way."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "budget_version",
+      "description": "The latest version of the budget the line's figures come from: the original law, a revised budget, or the Nth supplementary budget."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "supplementary_basis",
+      "description": "How a revised or supplementary figure is stated: a restated total that replaces the original, or an increment added to it. Lines marked unclear are left out of totals."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "admin_head_code",
+      "description": "The admin head's code as the document prints it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "spending_entity_code",
+      "description": "The spending entity's code as the document prints it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "programme_code",
+      "description": "The programme's code as the document prints it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sub_programme_code",
+      "description": "The sub-programme's code as the document prints it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "econ_class",
+      "description": "The economic classification the document gives the line, such as goods and services or capital."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "admin_head_basis",
+      "description": "Whether admin_head is the document's own name (printed) or worked out from what the line holds (derived)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "programme_basis",
+      "description": "Whether programme is the document's own name (printed) or worked out from what the line holds (derived)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "programme_level",
+      "description": "The level of the budget that the programme column holds."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope_confidence",
+      "description": "Whether the whole line is digital, part of it is (the digital part cannot be separated), or it is unclear."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope_basis",
+      "description": "Why the line was judged digital, in our words."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "finance_origin",
+      "description": "Whose money it is. Every line here is the state's own money; externally financed lines are in the non-state finance dataset."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "funding_source",
+      "description": "The source the document names for the money: tax revenue, domestic borrowing, a body's own fees and levies, the state's counterpart to a donor project, or not stated."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "is_transfer",
+      "description": "Whether the line is a transfer to another public body. A transfer is counted once, at the body that spends it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "transfer_to",
+      "description": "The body that receives a transfer."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "baseline_stage",
+      "description": "The earliest stage a figure is held for."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "current_stage",
+      "description": "The latest stage a figure is held for."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "exec_vs_voted",
+      "description": "The actual figure as a percentage of the appropriated figure."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "exec_vs_revised",
+      "description": "The actual figure as a percentage of the revised figure."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "source_tier",
+      "description": "The kind of source the figure comes from."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "doc_type",
+      "description": "The kind of budget document, such as appropriation-act or budget-estimates."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "doc_locator",
+      "description": "Where in the document the figure is printed: volume, table, page, line. Only in the downloadable CSV: the table on the page leaves it out."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "source_slug",
+      "description": "The key of the source document in the Corpus catalogue."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "extracted",
+      "description": "The date the line was read from the document."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "origin_record",
+      "description": "For a line carried over from an earlier record rather than read afresh, the key of that record. Blank for a line read from the document."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "notes",
+      "description": "How the figure was checked against the document's totals, and anything a reader needs to use it. Only in the downloadable CSV: the table on the page leaves it out."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "primary_topic_id",
+      "description": "What the money is for, as a key in the topic taxonomy (dpi.govtech, infra.connect)."
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/countries/CIV/CIV-budgets.csv",
+      "contentSize": "1.2 MB"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 712
+  },
+  "temporalCoverage": "2024/2026",
+  "dateModified": "2026-10-01",
+  "isPartOf": "https://corpus.data-landscapers.io/finance/budgets/#dataset"
+}
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/" class="active">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <div class="article-header__crumb"><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">Côte d'Ivoire</a></div>
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20C%C3%B4te%20d%27Ivoire%20%E2%80%94%20national%20budget&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/countries/CIV/budgets.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <h1 class="article-header__title">National budget</h1>
+      <div class="article-header__byline">Côte d'Ivoire &nbsp;·&nbsp; 712 budget lines &nbsp;·&nbsp; fiscal years 2024&ndash;2026</div>
+    </header>
+
+    <p>Every digital line read from Côte d'Ivoire's own budget documents: what was proposed, enacted, revised and spent. Figures are in the budget's own currency; <code>budget_usd</code> gives the latest one in US dollars. Only the state's own money is here. Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download.</p>
+
+    <div class="dl-datatable"
+      data-src="CIV-budgets.csv"
+      data-cols="report_year, primary_topic, budget_usd, admin_head, spending_entity, programme, sub_programme, line_name, purpose"
+      data-filters="report_year, primary_topic, scope_confidence"
+      data-numeric="report_year, budget_usd, proposed, appropriated, revised, released, actual, audited, exec_vs_voted, exec_vs_revised"
+      data-thousands="budget_usd"
+      data-labels="{&quot;country&quot;: {&quot;CIV&quot;: &quot;Côte d&#x27;Ivoire&quot;}}"
+      data-tips="{&quot;country&quot;: &quot;The country whose budget the line is in, as a three-letter code (KEN is Kenya).&quot;, &quot;report_year&quot;: &quot;The year the fiscal year starts in. A 2024/25 budget that starts in April 2024 is 2024.&quot;, &quot;primary_topic&quot;: &quot;What the money is for, as the topic taxonomy&#x27;s name for primary_topic_id.&quot;, &quot;budget_usd&quot;: &quot;The latest figure held for the line, in US dollars: audited if there is one, else actual, released, revised, appropriated or proposed. Converted at the IMF annual average rate for the year the fiscal year starts in. Blank where no rate is held.&quot;, &quot;admin_head&quot;: &quot;The top level the budget allocates money to, usually a ministry or vote, as the document names it.&quot;, &quot;spending_entity&quot;: &quot;The body that spends the money, as the document names it. Often the same as the admin head.&quot;, &quot;programme&quot;: &quot;The programme the line sits in, as the document names it. Where a budget has no programmes, the next level it prints; programme_level says which.&quot;, &quot;sub_programme&quot;: &quot;The sub-programme, where the document prints one.&quot;, &quot;line_name&quot;: &quot;The name of the budget line as the document prints it.&quot;, &quot;purpose&quot;: &quot;What the line pays for, in our words.&quot;, &quot;currency&quot;: &quot;The currency of the figures, as a three-letter code.&quot;, &quot;amount_scale&quot;: &quot;How the document prints its figures (in thousands, in millions). Every figure in this file is in whole units of the currency.&quot;, &quot;proposed&quot;: &quot;The figure in the budget bill tabled before parliament.&quot;, &quot;appropriated&quot;: &quot;The figure enacted in law.&quot;, &quot;revised&quot;: &quot;The figure after an in-year revision or supplementary budget.&quot;, &quot;released&quot;: &quot;The figure released to the spending body.&quot;, &quot;actual&quot;: &quot;The figure spent in the year (the outturn).&quot;, &quot;audited&quot;: &quot;The figure in the audited accounts.&quot;, &quot;deal_id&quot;: &quot;A unique key for the line in one fiscal year: the country, the year and the line&#x27;s codes.&quot;, &quot;state_level&quot;: &quot;The part of the state whose budget holds the line: central government, a province, a state-owned enterprise, a levy-funded fund or a regulator.&quot;, &quot;spending_tier_name&quot;: &quot;The tier of government the document files the line under, where it prints tiers (Mozambique&#x27;s central and provincial levels).&quot;, &quot;fiscal_year_label&quot;: &quot;The fiscal year as the state writes it (2024/25, Exercice 2024, FY2025).&quot;, &quot;fy_start&quot;: &quot;The first day of the fiscal year.&quot;, &quot;fy_end&quot;: &quot;The last day of the fiscal year.&quot;, &quot;fy_calendar&quot;: &quot;The calendar the state&#x27;s fiscal year is set in. Dates in this file are Gregorian either way.&quot;, &quot;budget_version&quot;: &quot;The latest version of the budget the line&#x27;s figures come from: the original law, a revised budget, or the Nth supplementary budget.&quot;, &quot;supplementary_basis&quot;: &quot;How a revised or supplementary figure is stated: a restated total that replaces the original, or an increment added to it. Lines marked unclear are left out of totals.&quot;, &quot;admin_head_code&quot;: &quot;The admin head&#x27;s code as the document prints it.&quot;, &quot;spending_entity_code&quot;: &quot;The spending entity&#x27;s code as the document prints it.&quot;, &quot;programme_code&quot;: &quot;The programme&#x27;s code as the document prints it.&quot;, &quot;sub_programme_code&quot;: &quot;The sub-programme&#x27;s code as the document prints it.&quot;, &quot;econ_class&quot;: &quot;The economic classification the document gives the line, such as goods and services or capital.&quot;, &quot;admin_head_basis&quot;: &quot;Whether admin_head is the document&#x27;s own name (printed) or worked out from what the line holds (derived).&quot;, &quot;programme_basis&quot;: &quot;Whether programme is the document&#x27;s own name (printed) or worked out from what the line holds (derived).&quot;, &quot;programme_level&quot;: &quot;The level of the budget that the programme column holds.&quot;, &quot;scope_confidence&quot;: &quot;Whether the whole line is digital, part of it is (the digital part cannot be separated), or it is unclear.&quot;, &quot;scope_basis&quot;: &quot;Why the line was judged digital, in our words.&quot;, &quot;finance_origin&quot;: &quot;Whose money it is. Every line here is the state&#x27;s own money; externally financed lines are in the non-state finance dataset.&quot;, &quot;funding_source&quot;: &quot;The source the document names for the money: tax revenue, domestic borrowing, a body&#x27;s own fees and levies, the state&#x27;s counterpart to a donor project, or not stated.&quot;, &quot;is_transfer&quot;: &quot;Whether the line is a transfer to another public body. A transfer is counted once, at the body that spends it.&quot;, &quot;transfer_to&quot;: &quot;The body that receives a transfer.&quot;, &quot;baseline_stage&quot;: &quot;The earliest stage a figure is held for.&quot;, &quot;current_stage&quot;: &quot;The latest stage a figure is held for.&quot;, &quot;exec_vs_voted&quot;: &quot;The actual figure as a percentage of the appropriated figure.&quot;, &quot;exec_vs_revised&quot;: &quot;The actual figure as a percentage of the revised figure.&quot;, &quot;source_tier&quot;: &quot;The kind of source the figure comes from.&quot;, &quot;doc_type&quot;: &quot;The kind of budget document, such as appropriation-act or budget-estimates.&quot;, &quot;doc_locator&quot;: &quot;Where in the document the figure is printed: volume, table, page, line. Only in the downloadable CSV: the table on the page leaves it out.&quot;, &quot;source_slug&quot;: &quot;The key of the source document in the Corpus catalogue.&quot;, &quot;extracted&quot;: &quot;The date the line was read from the document.&quot;, &quot;origin_record&quot;: &quot;For a line carried over from an earlier record rather than read afresh, the key of that record. Blank for a line read from the document.&quot;, &quot;notes&quot;: &quot;How the figure was checked against the document&#x27;s totals, and anything a reader needs to use it. Only in the downloadable CSV: the table on the page leaves it out.&quot;, &quot;primary_topic_id&quot;: &quot;What the money is for, as a key in the topic taxonomy (dpi.govtech, infra.connect).&quot;}"
+      data-detail="country, report_year, primary_topic, budget_usd, admin_head, spending_entity, programme, sub_programme, line_name, purpose, currency, amount_scale, proposed, appropriated, revised, released, actual, audited, deal_id, state_level, spending_tier_name, fiscal_year_label, fy_start, fy_end, fy_calendar, budget_version, supplementary_basis, admin_head_code, spending_entity_code, programme_code, sub_programme_code, econ_class, admin_head_basis, programme_basis, programme_level, scope_confidence, scope_basis, finance_origin, funding_source, is_transfer, transfer_to, baseline_stage, current_stage, exec_vs_voted, exec_vs_revised, source_tier, doc_type, source_slug, extracted, origin_record, primary_topic_id"
+      data-sort="report_year:desc"
+      data-empty="No budget line matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Côte d'Ivoire &mdash; national budget</span>
+        <span class="dt-count">712 rows</span>
+        <a class="btn btn--sm" href="CIV-budgets.csv" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../datasets/metadata/#national-budgets">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="CIV-budgets.csv">CIV-budgets.csv</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-10-01</dd>
+        <dt>This file</dt><dd><a href="CIV-budgets.csv">CIV-budgets.csv</a> &mdash; updated as the data changes</dd>
+        <dt>Fields</dt><dd><a href="../../datasets/metadata/#national-budgets">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/budgets-metadata.csv">budgets-metadata.csv</a></dd>
+        <dt>All countries</dt><dd><a href="../../finance/budgets/">National budgets</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+
+<script src="../../assets/js/datatable.js?v=713b8ec2"></script>
+</body>
+</html>

@@ -6,6 +6,8 @@ These render 54 times each, so they carry the weight of the whole Countries sect
 
 Blocks that carry `{placeholders}` are still in `scripts/country.py` and have not moved here yet.
 
+`budget-intro` is what a place with no budget lines shows. The other `budget-*` blocks are the section on a country that has them: `budget-summary` above the topic-by-year table, `budget-table-note` under it, and `budget-table-intro` on `budgets.html`.
+
 ## report-status
 
 A summary of the status of all known systems and instruments
@@ -37,6 +39,22 @@ The repository holds {sources} documents for {name}. The catalogue only contains
 ## budget-intro
 
 Work is ongoing to compile information on national budgets, expenditures and audits. See [National budgets](../../finance/budgets/).
+
+## budget-summary
+
+What {name} budgets for digital from its own money, read from its own budget documents. Figures are in US dollars, converted at the IMF annual average rate for the year the fiscal year starts in. Each line counts at the latest stage held: audited, else spent, released, revised, enacted or proposed.
+
+## budget-table-note
+
+US$m, by topic and the year the fiscal year starts in. Lines only partly digital are left out; they are in the full table. An empty cell is a year with no line read, not a zero.
+
+## budget-none-counted
+
+Every line read so far is only partly digital, so no totals are shown. The lines are in the full table.
+
+## budget-table-intro
+
+Every digital line read from {name}'s own budget documents: what was proposed, enacted, revised and spent. Figures are in the budget's own currency; `budget_usd` gives the latest one in US dollars. Only the state's own money is here. Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download.
 
 ## dataset-description
 

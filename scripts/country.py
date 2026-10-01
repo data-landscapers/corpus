@@ -25,8 +25,9 @@ generalising from one country to all of them:
     shared `site/catalogue/` copy, both by `build()` below.
 
 Nothing is typed by hand: the counts come from the report frontmatter and the
-catalogue, the report rows from the PDFs in `site/reports/{ISO3}/`, and both
-finance tables from `{ISO3}-nonstate.csv`.
+catalogue, the report rows from the PDFs in `site/reports/{ISO3}/`, both
+finance tables from `{ISO3}-nonstate.csv`, and both budget tables from
+`budgets/budgets-{ISO3}.csv`.
 
 The two finance tables are built differently, on purpose *(2026-08-19)*. The
 sector-by-year pivot on `index.html` is an aggregate of a few dozen cells and is
@@ -44,12 +45,13 @@ because the build cannot read outside `outputs/` — the same duplication
 `scripts/home.py` already carries, and osint-corpus-exchange/notes-for-osint.md #9 flags it as a
 standing note rather than a pattern to repeat deliberately.
 
-Budget work is suspended, so `{ISO3}-summary.csv` is not read and no budget figures appear. The
-page nevertheless carries a *Public budgeting and expenditure* heading saying the work is under
-way *(Bill, 2026-08-25)* — the same reasoning the wiki applies to a known vacuum: a reader who
-finds nothing about budgets cannot tell an absent subject from an absent finding, and the heading
-is what makes the difference visible. It states a horizon, not a placeholder, so it carries no
-"coming soon" and no date.
+**The budget section is the non-state section again** *(Bill, 2026-10-01)*: a topic-by-year
+pivot on `index.html`, the full table on `budgets.html`, and the country's CSV beside them. It
+reads `budgets/budgets-{ISO3}.csv`, Corpus's own source, as `finance.py` reads the all-countries
+file; `{ISO3}-summary.csv` is still not read. A place with no budget file keeps the *Public
+budgeting and expenditure* heading and one sentence saying the work is under way *(Bill,
+2026-08-25)*: a reader who finds nothing about budgets cannot tell an absent subject from an
+absent finding, and the heading is what makes the difference visible.
 """
 
 from __future__ import annotations
@@ -84,6 +86,24 @@ FINANCE_CUTOFF = 2022  # years before this are aggregated into one pivot column
 # Hand-maintained by Bill; nothing here writes it, and a build that cannot find it
 # should say so rather than quietly link a 404.
 METADATA_CSV = "non-state-finance-metadata.csv"
+
+# Corpus's own budget extractions, one file per country, and their dictionary.
+BUDGETS = CORPUS / "budgets"
+BUDGETS_META = BUDGETS / "budgets-metadata.csv"
+BUDGETS_METADATA_CSV = "budgets-metadata.csv"
+BUDGET_TABLE_COLS = 9
+# **No dated editions until the launch is announced** *(Bill, 2026-09-30)*. Until then each
+# budget download is one undated file, rewritten whenever the data moves — a deliberate,
+# time-boxed exception to design.md §9, for tables nobody has been told of yet. Set True at
+# launch: `editions.publish` then cuts the first dated editions and retires the undated files
+# itself (`editions.retire_undated`). One flag, for `finance.py`'s all-Africa file and every
+# country's here.
+BUDGETS_DATED = False
+# `doc_locator` and `notes` are in the download and not in a table *(Bill, 2026-09-30)*,
+# which is what the metadata page says of them.
+BUDGET_TABLE_OMIT = ("doc_locator", "notes")
+BUDGET_NUMERIC = ("report_year", "budget_usd", "proposed", "appropriated", "revised",
+                  "released", "actual", "audited", "exec_vs_voted", "exec_vs_revised")
 
 # ISO3 -> full country name, from lookups/countries.csv (see module docstring
 # and osint-corpus-exchange/notes-for-osint.md #9). Two entries carry proper accents the source CSV
@@ -289,6 +309,49 @@ def finance(iso: str) -> list[dict]:
         return list(csv.DictReader(fh))
 
 
+def budgets(iso: str) -> tuple[list[str], list[dict]]:
+    """The place's budget lines and their columns, or `([], [])` where no document has
+    been read — a region, and the two states `budgets/` holds no file for."""
+    f = BUDGETS / f"budgets-{iso}.csv"
+    if not f.exists():
+        return [], []
+    with open(f, encoding="utf-8-sig", newline="") as fh:
+        rdr = csv.DictReader(fh)
+        return list(rdr.fieldnames or []), list(rdr)
+
+
+def budget_counted(r: dict) -> bool:
+    """A line the summary may add up: wholly digital, spent where it is printed, and stated
+    as a total. `build-finance-page.py` -> `in_headline` is the same rule over OSINT's
+    records. A partial-scope line's figure is mostly something else — Egypt's lines sum to
+    US$1.6bn and its wholly digital ones to US$133m — so it is in the full table and not here."""
+    return (r.get("scope_confidence") == "whole" and r.get("is_transfer") != "true"
+            and r.get("supplementary_basis") != "unclear" and bool(r.get("budget_usd")))
+
+
+def publish_budget_csv(iso: str, out_dir: Path) -> dict[str, str]:
+    """Publish the country's budget lines beside its page: `{ISO3}-budgets.csv`, undated until
+    `BUDGETS_DATED`, a dated edition after. LF on the way out and `page=` for the comparison,
+    both for the reasons `publish_finance_csvs` gives."""
+    body = (BUDGETS / f"budgets-{iso}.csv").read_bytes().replace(b"\r\n", b"\n")
+    stem = f"{iso}-budgets"
+    if BUDGETS_DATED:
+        path, _ = editions.publish(body, out_dir, stem, ".csv", page=out_dir / "budgets.html")
+        edition = editions.edition_of(path.stem) or ""
+        rows = (f'        <dt>Edition</dt><dd class="mono">{edition}</dd>\n'
+                f'        <dt>This file</dt><dd><a href="{path.name}">{path.name}</a>'
+                f' &mdash; a dated edition, kept as published and never revised</dd>')
+        artefacts = editions.artefact_meta(stem, edition, editions.digest(body))
+    else:
+        path, edition, artefacts = out_dir / f"{stem}.csv", "", ""
+        if not path.exists() or path.read_bytes() != body:
+            path.write_bytes(body)
+        rows = (f'        <dt>This file</dt><dd><a href="{path.name}">{path.name}</a>'
+                f' &mdash; updated as the data changes</dd>')
+    return {"csv_name": path.name, "csv_edition": edition, "csv_bytes": len(body),
+            "edition_rows": rows, "artefacts": artefacts}
+
+
 # ── rendering ─────────────────────────────────────────────────────
 
 def e(s: str) -> str:
@@ -310,8 +373,13 @@ def year(v: str) -> int | None:
     return int(m.group(1)) if m else None
 
 
-def pivot(rows: list[dict]) -> str:
-    """Sector by year, US$m committed.
+def usd_m(r: dict) -> float:
+    return float(r.get("commitment_usd_m") or 0)
+
+
+def pivot(rows: list[dict], year_col: str = "start_year", amount=usd_m,
+          cutoff: int | None = FINANCE_CUTOFF) -> str:
+    """Topic by year, US$m: committed, or with `year_col` and `amount` set, budgeted.
 
     An empty cell is a year in which nothing was committed to that sector, and
     is left empty rather than zeroed: a zero reads as a measured quantity.
@@ -321,19 +389,22 @@ def pivot(rows: list[dict]) -> str:
     Years before FINANCE_CUTOFF are aggregated into one leading '-2022'
     column: those early years each carry few commitments, so a column per
     year back to a country's first was mostly empty cells (Bill, 2026-08-11).
+    `cutoff=None` gives every year its own column, which is what three budget years want.
     """
-    def col(y: int) -> str:
-        return str(y) if y >= FINANCE_CUTOFF else f"-{FINANCE_CUTOFF}"
+    first = cutoff if cutoff is not None else 0
 
-    yrs = {y for y in (year(r.get("start_year")) for r in rows) if y is not None}
-    cols = ([f"-{FINANCE_CUTOFF}"] if any(y < FINANCE_CUTOFF for y in yrs) else []) \
-        + [str(y) for y in sorted(y for y in yrs if y >= FINANCE_CUTOFF)]
+    def col(y: int) -> str:
+        return str(y) if y >= first else f"-{first}"
+
+    yrs = {y for y in (year(r.get(year_col)) for r in rows) if y is not None}
+    cols = ([f"-{first}"] if any(y < first for y in yrs) else []) \
+        + [str(y) for y in sorted(y for y in yrs if y >= first)]
     cell: dict[str, dict[str, float]] = defaultdict(lambda: defaultdict(float))
     for r in rows:
-        y = year(r.get("start_year"))
+        y = year(r.get(year_col))
         if y is None:
             continue
-        cell[r.get("primary_topic") or "(unstated)"][col(y)] += float(r.get("commitment_usd_m") or 0)
+        cell[r.get("primary_topic") or "(unstated)"][col(y)] += amount(r)
     order = sorted(cell, key=lambda s: -sum(cell[s].values()))
 
     head = "".join(f'<th class="num">{c}</th>' for c in cols)
@@ -357,7 +428,7 @@ def pivot(rows: list[dict]) -> str:
         <tbody>
 {chr(10).join(body)}
         </tbody>
-        <tfoot><tr><th scope="row">All sectors</th>{foot}<td class="num total">{grand}</td></tr></tfoot>
+        <tfoot><tr><th scope="row">All topics</th>{foot}<td class="num total">{grand}</td></tr></tfoot>
       </table></div>"""
 
 
@@ -490,7 +561,7 @@ COUNTRY = """<!DOCTYPE html>
 {finance_section}
 
     <h2 class="section-heading">Public budgeting and expenditure</h2>
-    <p>{budget_intro}</p>
+{budget_section}
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -521,6 +592,40 @@ FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from fina
     </div>"""
 
 FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held for {name}.</p>"""
+
+# The budget section, in the shape of the finance one above it. The prose is in
+# `content/country.md`; `{summary}` is the pivot and its note, or one sentence where no
+# line read so far can be added up.
+BUDGET_BLOCK = """    <p>{intro}</p>
+
+{summary}
+
+    <div class="table-acts">
+      <a class="btn" href="budgets.html">Full table &mdash; {bud_n} budget lines, all {ncols} fields &rarr;</a>
+      <a class="btn btn--accent" href="{csv_name}" download>&darr; Download CSV</a>
+    </div>"""
+
+BUDGET_SUMMARY = """{pivot}
+    <p class="table-note">{note}</p>"""
+
+# A place with no budget file: the sentence saying the work is under way.
+BUDGET_EMPTY = """    <p>{intro}</p>"""
+
+
+def budget_section(name: str, header: list[str], rows: list[dict], csv_name: str) -> str:
+    """The country page's budget block: the intro, the topic-by-year pivot of the lines
+    `budget_counted` passes, and the way in to the full table and the CSV."""
+    counted = [r for r in rows if budget_counted(r)]
+    if counted:
+        summary = BUDGET_SUMMARY.format(
+            pivot=pivot(counted, "report_year",
+                        lambda r: float(r["budget_usd"]) / 1e6, cutoff=None),
+            note=copy_inline("country", "budget-table-note"))
+    else:
+        summary = f'    <p class="table-note">{copy_inline("country", "budget-none-counted")}</p>'
+    return BUDGET_BLOCK.format(
+        intro=copy_inline("country", "budget-summary", name=name), summary=summary,
+        bud_n=f"{len(rows):,}", ncols=len(header), csv_name=csv_name)
 
 
 # The non-state finance table, for a country page and a region page alike.
@@ -632,6 +737,116 @@ FINANCE = """<!DOCTYPE html>
 </body>
 </html>
 """
+
+
+# The country's budget lines as a table: `finance.py`'s `BUDGETS_PAGE` for one country, as
+# `FINANCE` above is its `PAGE` for one place. The table reads the download itself — one
+# country's file is small enough that the lighter table file the all-Africa page needs is
+# not — and leaves `BUDGET_TABLE_OMIT` out of the row panel.
+BUDGETS_PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{name} — national budget — Data Landscapers</title>
+<meta name="description" content="Every digital line read from {name}'s own budget documents, all fields, searchable and downloadable.">
+<link rel="canonical" href="{base}/countries/{iso}/budgets.html">
+{artefacts}
+{styles}
+<link rel="icon" href="{favicon}" type="image/svg+xml">
+{jsonld}
+{ga}
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a></div>
+      {feedback}
+      <h1 class="article-header__title">National budget</h1>
+      <div class="article-header__byline">{name} &nbsp;·&nbsp; {bud_n} budget lines &nbsp;·&nbsp; fiscal years {yr}</div>
+    </header>
+
+    <p>{intro}</p>
+
+    <div class="dl-datatable"
+      data-src="{csv_name}"
+      data-cols="{cols}"
+      data-filters="report_year, primary_topic, scope_confidence"
+      data-numeric="{numeric}"
+      data-thousands="budget_usd"
+      data-labels="{labels}"
+      data-tips="{tips}"
+      data-detail="{detail}"
+      data-sort="report_year:desc"
+      data-empty="No budget line matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">{name} &mdash; national budget</span>
+        <span class="dt-count">{bud_n} rows</span>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../datasets/metadata/#national-budgets">Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+{edition_rows}
+        <dt>Fields</dt><dd><a href="../../datasets/metadata/#national-budgets">What each column means</a> and its allowed values &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
+        <dt>All countries</dt><dd><a href="../../finance/budgets/">National budgets</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+
+{datatable}
+</body>
+</html>
+"""
+
+
+def budget_dictionary() -> list[dict]:
+    """`budgets/budgets-metadata.csv`: the column tooltips and `variableMeasured`."""
+    with open(BUDGETS_META, encoding="utf-8-sig", newline="") as fh:
+        return list(csv.DictReader(fh))
+
+
+def budgets_dataset(code: str, name: str, rows: list[dict], meta: list[dict],
+                    pub: dict[str, str]) -> str:
+    """The country's budget lines described as data: `finance_dataset` for the other table,
+    and a slice of the all-Africa one at `/finance/budgets/`. Undated, it dates itself to
+    the build; as an edition, to the edition."""
+    years = [year(r.get("report_year")) for r in rows]
+    return structured_data.dataset(
+        name=f"Data Landscapers national budgets — {name}",
+        description=copy_md("finance", "dataset-budgets-place", name=name),
+        url=f"{SITE_BASE}/countries/{code}/budgets.html",
+        csv_url=f"{SITE_BASE}/countries/{code}/{pub['csv_name']}",
+        csv_bytes=pub["csv_bytes"],
+        records=len(rows),
+        fields=structured_data.fields_from([{"Column": m["column"], "Definition": m["definition"]}
+                                            for m in meta]),
+        entity=structured_data.place(code, name),
+        temporal=structured_data.year_span([y for y in years if y is not None]),
+        modified=pub["csv_edition"] or None,
+        version=pub["csv_edition"] or None,
+        part_of=f"{SITE_BASE}/finance/budgets/",
+        extra_keywords=("Government budgets", "Public finance", "Digital transformation"))
 
 
 def ensure_catalogue_csv() -> None:
@@ -777,13 +992,20 @@ def build(iso: str) -> list[Path]:
         cols, ys, amounts = [], [], []
         finance_section = FINANCE_EMPTY.format(name=name)
 
+    bud_cols, bud = budgets(iso)
+    if bud:
+        bud_pub = publish_budget_csv(iso, out_dir)     # before the pages, which link it by name
+        budget_block = budget_section(name, bud_cols, bud, bud_pub["csv_name"])
+    else:
+        budget_block = BUDGET_EMPTY.format(intro=copy_inline("country", "budget-intro"))
+
     (out_dir / "index.html").write_text(external_links(COUNTRY.format(
         feedback=feedback(name, f"{SITE_BASE}/countries/{iso}/"),
         cat_csv=cat_csv,
         jsonld=catalogue_dataset(iso, name, out_dir, cat_csv, cat_rows),
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
-        budget_intro=copy_inline("country", "budget-intro"),
+        budget_section=budget_block,
         reports=report_rows(report_editions(iso), iso),
         finance_section=finance_section,
         styles=styles(2, "country.css"), ga=ga(),
@@ -805,6 +1027,31 @@ def build(iso: str) -> list[Path]:
             ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])
+
+    if bud:
+        meta = budget_dictionary()
+        shown = [c for c in bud_cols if c not in BUDGET_TABLE_OMIT]
+        bud_ys = sorted({y for y in (year(r.get("report_year")) for r in bud) if y is not None})
+        (out_dir / "budgets.html").write_text(external_links(BUDGETS_PAGE.format(
+            feedback=feedback(f"{name} — national budget",
+                              f"{SITE_BASE}/countries/{iso}/budgets.html"),
+            jsonld=budgets_dataset(iso, name, bud, meta, bud_pub),
+            intro=copy_inline("country", "budget-table-intro", name=name),
+            # The file's own order puts the reader's columns first (`budget_source.COLUMNS`);
+            # `country` is the one this page has no use for as a column.
+            cols=", ".join([c for c in shown if c != "country"][:BUDGET_TABLE_COLS]),
+            detail=", ".join(shown),
+            numeric=", ".join(c for c in bud_cols if c in BUDGET_NUMERIC),
+            labels=attr_json({"country": {iso: name}}),
+            tips=attr_json({m["column"]: m["definition"] for m in meta if m.get("definition")}),
+            bud_n=f"{len(bud):,}",
+            yr=(f"{bud_ys[0]}&ndash;{bud_ys[-1]}" if bud_ys else "&mdash;"),
+            metadata=BUDGETS_METADATA_CSV,
+            styles=styles(2, "country.css", "datatable.css"),
+            datatable=script("datatable.js", 2),
+            ga=ga(), **bud_pub, **common)), encoding="utf-8")
+        written.append(out_dir / "budgets.html")
+        written.append(out_dir / bud_pub["csv_name"])
 
     return written
 

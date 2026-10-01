@@ -79,8 +79,9 @@ EDITION_FILE = re.compile(r"-\d{4}-\d{2}-\d{2}(-\d+)?\.[a-z]+$")
 # The page's own record of the dated artefact it is offering: `stem|edition|digest`.
 ARTEFACT = re.compile(r'<meta name="dl-artefact" content="([^"|]+)\|([^"|]+)\|([0-9a-f]+)">')
 
-# The two whole datasets a cut may be part of: the document catalogue and the finance table.
-PARENTS = {f"{SITE_BASE}/catalogue/#dataset", f"{SITE_BASE}/finance/#dataset"}
+# The whole datasets a cut may be part of: the document catalogue and the two finance tables.
+PARENTS = {f"{SITE_BASE}/catalogue/#dataset", f"{SITE_BASE}/finance/#dataset",
+           f"{SITE_BASE}/finance/budgets/#dataset"}
 
 # The pages `render.py` writes — the ones that must carry a document block. Everything else is
 # linted if it has one and not demanded to have one: the finance pages publish dated CSVs and

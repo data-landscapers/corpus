@@ -115,7 +115,8 @@ def build(code: str) -> list[Path]:
         jsonld=country.catalogue_dataset(code, name, out_dir, cat_csv, cat_rows),
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
-        budget_intro=copy_inline("country", "budget-intro"),
+        budget_section=country.BUDGET_EMPTY.format(
+            intro=copy_inline("country", "budget-intro")),
         reports=country.report_rows(country.report_editions(code), code),
         finance_section=finance_section,
         styles=styles(2, "country.css"), ga=ga(),

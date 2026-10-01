@@ -51,6 +51,11 @@ from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 from country import AID_LABELS, FILTER_ALL, FINANCE_DETAIL, attr_json  # noqa: E402  - the row panel's fields, one list for every finance table
+# `BUDGETS_DATED` is the launch switch, set in `country.py`: one flag for this page's file
+# and every country's. `BUDGET_TABLE_OMIT` keeps `doc_locator` and `notes` out of the table,
+# here by writing a lighter file for it to read.
+from country import (BUDGETS_DATED, BUDGET_NUMERIC, BUDGET_TABLE_COLS,  # noqa: E402
+                     BUDGET_TABLE_OMIT)
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -67,19 +72,11 @@ METADATA_CSV = "non-state-finance-metadata.csv"
 BUDGETS_CSV = CORPUS / "budgets" / "budgets-all-countries.csv"
 BUDGETS_META = CORPUS / "budgets" / "budgets-metadata.csv"
 BUDGETS_METADATA_CSV = "budgets-metadata.csv"
-BUDGET_TABLE_COLS = 9
-# **No dated editions until the launch is announced** *(Bill, 2026-09-30)*. Until then the page
-# offers one undated `budgets-all-countries.csv`, rewritten whenever the data moves — a
-# deliberate, time-boxed exception to design.md §9, for a table nobody has been told of yet.
-# Set True at launch: `editions.publish` then cuts the first dated edition and retires the
-# undated file itself (`editions.retire_undated`).
-BUDGETS_DATED = False
 # **The table reads a lighter file than the download** *(Bill, 2026-09-30)*. `doc_locator` and
 # `notes` are long prose and nearly half the bytes, and the browser parses every byte of
 # `data-src` before it draws a row, so the table was sluggish. They stay in the download and
 # the metadata says so; the table's file is undated working material, like the data centres'
 # display file, and is rewritten whenever the download is.
-BUDGET_TABLE_OMIT = ("doc_locator", "notes")
 BUDGET_TABLE_CSV = "budgets-all-countries-table.csv"
 
 
@@ -386,9 +383,7 @@ def publish_budgets(out: Path, names: dict) -> None:
         (out / BUDGET_TABLE_CSV).write_bytes(table)
     used = sorted({r["country"] for r in rows})
     years = sorted({int(r["report_year"]) for r in rows if r["report_year"].isdigit()})
-    numeric = [c for c in header if c in ("report_year", "budget_usd", "proposed", "appropriated",
-                                          "revised", "released", "actual", "audited",
-                                          "exec_vs_voted", "exec_vs_revised")]
+    numeric = [c for c in header if c in BUDGET_NUMERIC]
     page.write_text(external_links(BUDGETS_PAGE.format(
         feedback=feedback("National budgets", f"{SITE_BASE}/finance/budgets/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=chrome('finance', depth=2),

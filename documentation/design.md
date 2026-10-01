@@ -53,7 +53,7 @@ All seven exist and publish.
 
 **Lead with place and topic, not document type** — readers arrive working on Algeria, or on data protection.
 
-**The country page is the atomic unit**: position statement and last-updated date; the three reports as dated rows, ungated; the ledger counts; the catalogue count, the country's cut and a link into the filtered browse; the finance summary; a budgets heading with a sentence under it even while work is under way, so an absent subject is distinguishable from an absent finding. Index rows and bylines say *last updated*, not *built*, and carry no ***Not held*** count, which belongs inside the document. Region and topic pages take the same shape.
+**The country page is the atomic unit**: position statement and last-updated date; the three reports as dated rows, ungated; the ledger counts; the catalogue count, the country's cut and a link into the filtered browse; the finance summary; the budget summary in the same shape, a topic-by-year table of the wholly digital lines with the full table and CSV behind it, or where no budget has been read a heading with a sentence under it, so an absent subject is distinguishable from an absent finding. Index rows and bylines say *last updated*, not *built*, and carry no ***Not held*** count, which belongs inside the document. Region and topic pages take the same shape.
 
 **`Data` is the tables as tables** — the CSVs for someone who wants the numbers, serving researchers (the second of the two equally-weighted audiences, with policy readers) without a separate site.
 

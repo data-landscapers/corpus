@@ -1,3 +1,7 @@
+## 1 October 2026
+
+- Every country page with budget lines now shows what the state budgets for digital from its own money, in US$m by topic and year, for 52 countries. Behind it are the country's full budget table and a CSV of its lines.
+
 ## 30 September 2026
 
 - Non-state finance now carries each deal's `deal_id`, the key national budget lines already carry. It is the same for a deal wherever it appears, so the two tables can be joined.
