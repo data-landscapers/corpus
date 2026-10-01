@@ -10,9 +10,9 @@ The `dataset-*` blocks are not shown on the page: they are the descriptions in t
 
 ## non-state-intro
 
-This table documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators and private. See [this introduction](https://data-landscapers.io/2026/09/27/non-state-finance/) to its contents and processes.
+This table documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. See [this introduction](https://data-landscapers.io/2026/09/27/non-state-finance/) to its contents and processes.
 
-We parse the text accompanying each commitment to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the government's.
+We parse the text accompanying each commitment to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the financier's.
 
 ## non-state-table-note
 
