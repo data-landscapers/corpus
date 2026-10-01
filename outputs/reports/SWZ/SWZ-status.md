@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-09-28
+compiled: 2026-10-01
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 156
+sources_cited: 157
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -174,7 +174,7 @@ Eswatini sits in the [establishing tier of the ITU Global Cybersecurity Index 20
 
 The detail is worse than the headline. [Nine of the roughly 22 ministries assessed keep no regular data backups and only seven back up daily](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) (May 2026), the [Ministry of Finance runs mainframe software past end-of-life and without vendor support](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/), and the near-universal dependence on one hosting provider leaves ministries with nowhere to fail over.
 
-Policy and law are further along than practice. The [National Cybersecurity Strategy 2022-2027](https://esccom.org.sz/publications/reports/docs/Eswatini_National_Cybersecurity_Strategy_2022-2027.pdf) covers cybersecurity, data centres and cloud services, data protection, digital identification, payments and signatures, and the [Computer Crime and Cybercrime Act 2022](https://www.esccom.org.sz/legislation/COMPUTER%20CRIME%20&%20CYBERCRIME%20ACT.pdf) is the binding statute. Dedicated cybersecurity and critical-infrastructure legislation was [announced as in preparation and not yet enacted](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) (August 2025), so no critical information infrastructure regime is in force. [Breach notification is mandatory](https://dataprotection.africa/eswatini-data-protection-act-introduced/) under the data protection regime. A [digital forensic unit works on cybercrime investigation](https://eswatinipositivenews.online/natcom-praises-digital-forensic-unit-for-cybercrime-fight/) (2025), and the Prime Minister opened a [Cybersecurity Awareness Month](https://itweb.africa/article/eswatini-calls-for-collaboration-to-protect-cyber-space/DZQ58vV8DV6MzXy2) in October 2025 under a "Secure Eswatini" banner, framing cyber security as national, economic and personal security.
+Policy and law are further along than practice. The [National Cybersecurity Strategy 2022-2027](https://esccom.org.sz/publications/reports/docs/Eswatini_National_Cybersecurity_Strategy_2022-2027.pdf) covers cybersecurity, data centres and cloud services, data protection, digital identification, payments and signatures, and the [Computer Crime and Cybercrime Act 2022](https://www.esccom.org.sz/legislation/COMPUTER%20CRIME%20&%20CYBERCRIME%20ACT.pdf) is the binding statute. Dedicated cybersecurity and critical-infrastructure legislation was [announced as in preparation and not yet enacted](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) (August 2025), so no critical information infrastructure regime is in force. [Breach notification is mandatory](https://dataprotection.africa/eswatini-data-protection-act-introduced/) under the data protection regime. A [digital forensic unit works on cybercrime investigation](https://eswatinipositivenews.online/natcom-praises-digital-forensic-unit-for-cybercrime-fight/) (2025), and the Prime Minister opened a [Cybersecurity Awareness Month](https://itweb.africa/article/eswatini-calls-for-collaboration-to-protect-cyber-space/DZQ58vV8DV6MzXy2) in October 2025 under a "Secure Eswatini" banner, framing cyber security as national, economic and personal security. [The ICT minister said on 1 October 2026 that a review of the strategy has begun, and the Director of Public Prosecutions that her office has set up a Cybercrime Unit and trained prosecutors on the 2022 Act](https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/).
 
 The flagship government platform was security-tested in public rather than in audit: six weeks after GIYH launched, a [reporter located other people's data on it](https://www.biometricupdate.com/202507/digital-government-app-in-eswatini-sparks-public-criticism-over-data-privacy) and the eGovernment services director conceded the gaps, pointing to the need for a proper digital ID and digital signatures (July 2025). The regulator has separately [urged broadcasters to handle artificial intelligence ethically](https://times.co.sz/news/readmore.php?bhsadjgfoh=ESCCOM+issues+AI+warning+on+deep+fakes&bvhdgsj=News&yiphi=1904), warning that deepfakes erode public trust (November 2025).
 

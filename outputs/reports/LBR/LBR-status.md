@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-09-28
+compiled: 2026-10-01
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 167
+sources_cited: 168
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -206,7 +206,7 @@ Civil registration underneath is only partly digital and not joined to the regis
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-Liberia's mobile money silos ended on 16 December 2025, when the Central Bank launched [Pay Na-Na, a national real-time interoperable payment system built on the open-source Mojaloop platform](https://mojaloop.io/central-bank-of-liberia-launches-transformational-inclusive-instant-payments-system-iips-powered-by-mojaloop/), carrying person-to-person and government-to-person transfers between [the Lonestar MTN and Orange wallets that had operated as separate silos](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/). It was built [in 73 business days](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/). Under the approved fee regime a transfer carries [no more than 1.0 per cent of value between US$1 and US$2,000, and a flat fee of no more than US$25 above that](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) (August 2026).
+Liberia's mobile money silos ended on 16 December 2025, when the Central Bank launched [Pay Na-Na, a national real-time interoperable payment system built on the open-source Mojaloop platform](https://mojaloop.io/central-bank-of-liberia-launches-transformational-inclusive-instant-payments-system-iips-powered-by-mojaloop/), carrying person-to-person and government-to-person transfers between [the Lonestar MTN and Orange wallets that had operated as separate silos](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/). It was built [in 73 business days](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/). Under the approved fee regime a transfer carries [no more than 1.0 per cent of value between US$1 and US$2,000, and a flat fee of no more than US$25 above that](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) (August 2026). The central bank governor [put the system at more than 5.3 million interoperable transactions since launch, about 4.2 million in Liberian dollars and 1.1 million in US dollars](https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html) (October 2026).
 
 <!-- derived -->
 That schedule turns regressive above its US$2,000 break: the US$25 cap equals 1.25 per cent of a US$2,000 transfer, so the charge rises at the threshold and then falls as a share of value on every larger transfer, becoming cheaper in percentage terms than the 1.0 per cent band from roughly US$2,500 upward.

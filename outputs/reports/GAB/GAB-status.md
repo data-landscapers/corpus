@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-09-25
+compiled: 2026-10-01
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 153
+sources_cited: 154
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -242,7 +242,7 @@ The constraints under all of this are physical. Rural electricity access remains
 ### AI
 <!-- tech.ai -->
 
-The first artificial intelligence in service in Gabon is commercial and runs over the voice network: [Moov Africa Gabon Telecom presented MIA on 21 August 2026, an assistant that answers spoken questions to anyone dialling 333 from an ordinary phone, with no smartphone or internet connection needed](https://fr.infosgabon.com/gabon-mia-lintelligence-artificielle-sans-internet/). Inside the state it is still at the training stage: [two officials of the forward-planning directorate were trained in Lusaka in August 2026 in using generative AI tools to monitor and report on the African Union's Agenda 2063](https://agpgabon.ga/gabon-planification-la-dgpro-se-forme-a-lia-pour-ameliorer-le-suivi-de-lagenda-2063/). The telecoms regulator ARCEP [ran a national workshop on internet governance and digital sovereignty that took in artificial intelligence alongside cybersecurity, its president setting the aim of making the country a hub of digital soft power](https://www.gabonreview.com/cybersecurite-ia-souverainete-faire-du-gabon-un-hub-du-soft-power-numerique/) (January 2026), which is an ambition and not a deployment. In citizen engagement, [no chatbot or AI-enabled discussion forum is in use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The nearest thing to a domestic capability is teaching: the public [Université Numérique du Gabon teaches computer science among its disciplines, in person and by distance learning](https://ung.ga/index.html) (2025).
+The first artificial intelligence in service in Gabon is commercial and runs over the voice network: [Moov Africa Gabon Telecom presented MIA on 21 August 2026, an assistant that answers spoken questions to anyone dialling 333 from an ordinary phone, with no smartphone or internet connection needed](https://fr.infosgabon.com/gabon-mia-lintelligence-artificielle-sans-internet/). Inside the state it is still at the training stage: [two officials of the forward-planning directorate were trained in Lusaka in August 2026 in using generative AI tools to monitor and report on the African Union's Agenda 2063](https://agpgabon.ga/gabon-planification-la-dgpro-se-forme-a-lia-pour-ameliorer-le-suivi-de-lagenda-2063/). No national strategy is adopted: [preparatory work for one closed in Libreville on 30 September 2026 with 22 challenges and 36 recommendations from six working groups supported by the UN development programme](https://www.gabonreview.com/22-defis-36-recommandations-la-feuille-de-route-de-lia-gabonaise-prend-forme/), and drafting is the next step. The telecoms regulator ARCEP [ran a national workshop on internet governance and digital sovereignty that took in artificial intelligence alongside cybersecurity, its president setting the aim of making the country a hub of digital soft power](https://www.gabonreview.com/cybersecurite-ia-souverainete-faire-du-gabon-un-hub-du-soft-power-numerique/) (January 2026), which is an ambition and not a deployment. In citizen engagement, [no chatbot or AI-enabled discussion forum is in use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The nearest thing to a domestic capability is teaching: the public [Université Numérique du Gabon teaches computer science among its disciplines, in person and by distance learning](https://ung.ga/index.html) (2025).
 
 ### ICT Industry
 <!-- tech.industry -->
