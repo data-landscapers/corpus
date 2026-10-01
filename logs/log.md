@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-01 22:31 · **BUDGET-EXTRACT** · 15m · GHA FY2024-26: Ghana Statistical Service added from the Ministry of Finance estimates, 6 rows (GoG 15.0m, 26.7m, 37.2m cedis; IGF beside each); donor columns not built; notes-for-corpus 73 - ok
 2026-10-01 22:29 · **BUDGET-EXTRACT** · 40m · AGO FY2026: 53 lines from the allocation-by-organ report (29 whole, 23 partial, 1 unclear), organ totals reconcile to the budget law, replaces 9 migrated rows; NGA FY2026 1,209 rows re-pointed to the catalogued Act - ok
 2026-10-01 21:40 · **ANALYTICS** · 1m · 2026-09-29..2026-09-30 written; 30 Sep: dl.io 97 views / 1 clicks, corpus 172 views / 3 clicks
 2026-10-01 12:38 · **RENDER** · unclocked · All finance at /finance/all/ (11,431 rows, 2024 on); menu re-paged across 305 documents and the site pages, deployed — ok
