@@ -815,6 +815,12 @@
         }
         placeSticky();
         window.addEventListener('resize', debounce(placeSticky, 120));
+        /* The bar's height moves without the window's: its count grows when a filter is
+           set ("266 of 11,431 rows") and pushes a button onto a second line, and a late
+           web font can do the same. Left unmeasured, the scrollbar and the header sit
+           hidden behind the taller bar *(2026-10-01)*. */
+        var barEl = container.querySelector('.dt-controls');
+        if (barEl && window.ResizeObserver) new ResizeObserver(placeSticky).observe(barEl);
 
         render();
       })
