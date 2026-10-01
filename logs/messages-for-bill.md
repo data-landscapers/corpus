@@ -12,6 +12,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-10-01 12:02 · runbook caps
+
+- `lint-docs.py` fails on five root runbooks over the 1,500-word cap: STATUS-INIT 4,064, BUILD 3,074, CYCLE 2,412, CITE-REREAD 2,042, BUDGET-EXTRACT 1,756. About 5,800 words must move to `documentation/`, as R92 did for the rest. Not done in the budgets session: it rewrites the procedures the cycle runs on and wants a session of its own. Say "trim the runbooks" to start it.
+
 ## 2026-09-29 16:05 · hyperscaler reports
 
 - 13 names in 9 countries point at deleted cloud names anyone can re-register and publish under: Absa, Standard Bank and SARS (ZAF); Safaricom; the Central Bank and health ministry (NGA); ECG (Ghana); Stanbic Uganda; First Capital Bank Malawi; Zambia immigration; Libya's electoral commission. Each is in its country's `run.json` → `findings`; the reports do not name them. Disclosure is your call.
