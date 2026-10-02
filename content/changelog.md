@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Burkina Faso's budget table now carries the running costs of the unified social registry's technical secretariat: XOF 14.6m in 2024 and 60m in 2025 and 2026. Its staff costs are printed but not included.
 - Madagascar's 2026 budget table now carries the statistics institute, INSTAT, at MGA 1.64bn in both the original and the revised law. It was in the table for 2024 and 2025 only.
 - Niger's budget table now carries the state grant to the Institut national de la statistique: XOF 4.12bn in 2024, 3.60bn in 2025 and 3.55bn in 2026. The grant was in the finance law's annex in every year and had been left out.
 - Sierra Leone's budget table now carries Statistics Sierra Leone, which had no line: NLe 35.2m in 2024, 186.5m in 2025 and 436.8m proposed for 2026. Most of the last two is the population and housing census, at NLe 150m and 400m.
