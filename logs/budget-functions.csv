@@ -97,8 +97,8 @@ CIV,land-registry,absent,,,,Agence foncière rurale (AFOR),hand,"keyword scan of
 CIV,social-registry,found,whole,5,civ-2024-369-90103000005,,rows,,
 CIV,population-register,absent,,,,,hand,"keyword scan of the finance laws for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names a population register",2026-10-02
 CIV,data-exchange,found,whole,12,civ-2024-323-78016002230,,rows,,
-CMR,statistics,absent,,,,Institut national de la statistique,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. The statistics institute and the census bureau print no programme and sit inside the economy and planning ministry's chapter 22.",2026-10-02
-CMR,civil-registration-id,found,partial,1,cmr-2026-27-290,Bureau national de l'état civil,hand,"FY2026: programme 290 of the decentralisation ministry, whose indicators include a computerised civil registry; held at partial. No identity line at programme grain in any year.",2026-10-02
+CMR,statistics,found,whole,2,cmr-2024-22-022-01-p36,Institut national de la statistique,rows,,
+CMR,civil-registration-id,found,whole,3,cmr-2024-27-100-04-p48,Bureau national de l'état civil,rows,,
 CMR,communications-regulator,found,whole,3,cmr-2024-taxes-affectees-art,Agence de régulation des télécommunications,rows,,
 CMR,ict-ministry-egov,found,whole,15,cmr-2024-45-130,Agence nationale des technologies de l'information et de la communication; Government of Cameroon,rows,,
 CMR,cybersecurity,found,whole,8,cmr-2024-45-132,,rows,,
@@ -106,8 +106,8 @@ CMR,data-protection,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints e
 CMR,revenue-systems,found,partial,3,cmr-2024-20-032,Direction générale des impôts,rows,,
 CMR,treasury-fmis,found,partial,1,cmr-2026-20-233,Ministère des Finances; Direction générale du Trésor et de la Coopération financière et monétaire,hand,"FY2026: programme 233, budget management, whose indicators name the budget applications; held at partial.",2026-10-02
 CMR,procurement,absent,,,,Agence de régulation des marchés publics; COLEPS e-procurement; COLEPS e-procurement (alternate),hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. The public procurement ministry (chapter 10) prints four programmes for the procurement system, none naming the e-procurement platform.",2026-10-02
-CMR,electoral-register,absent,,,,Elections Cameroon,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. Elections Cameroon (chapter 51) prints two programmes, governance and the running of elections, and no register line.",2026-10-02
-CMR,land-registry,found,whole,5,cmr-2024-37-026,Ministère des Domaines du Cadastre et des Affaires foncières,rows,,
+CMR,electoral-register,found,whole,1,cmr-2024-51-183-01-p100,Elections Cameroon,hand,"FY2024: the bill's project journal prints biometric enrolment kits and tablets for Elections Cameroon (chapitre 51, programme 183, action 01, PDF p. 100), XAF 60m; FY2025 and FY2026 print programmes only and no register line",2026-10-02
+CMR,land-registry,found,whole,6,cmr-2024-37-026,Ministère des Domaines du Cadastre et des Affaires foncières,rows,,
 CMR,social-registry,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. The social affairs ministry's programmes name social protection of groups and no registry.",2026-10-02
 CMR,population-register,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. No programme names a population register.",2026-10-02
 CMR,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. No programme names interoperability or data exchange.",2026-10-02
@@ -252,7 +252,7 @@ GAB,social-registry,absent,,,,Caisse Nationale de Sécurité Sociale,hand,"FY202
 GAB,population-register,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names a population register.",2026-10-02
 GAB,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names interoperability or data exchange.",2026-10-02
 GHA,statistics,found,whole,8,gha-2024-010-01003-statistical-service,Ghana Statistical Service,rows,,
-GHA,civil-registration-id,found,whole,14,gha-2024-001-ow-nia,National Identification Authority,rows,,
+GHA,civil-registration-id,found,whole,15,gha-2024-001-ow-nia,National Identification Authority,rows,,
 GHA,communications-regulator,found,partial,3,gha-2024-026-0268002,National Communications Authority,rows,,
 GHA,ict-ministry-egov,found,whole,29,gha-2024-026-02604,National Information Technology Agency,rows,,
 GHA,cybersecurity,found,whole,4,gha-2024-026-02604,Cyber Security Authority,rows,,

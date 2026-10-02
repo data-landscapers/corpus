@@ -203,7 +203,7 @@ CIV,deal-recipient,Private Sector,,Hub2 / Connekt 4 SAS,no line,
 CMR,hosting,Presidency,,Présidence de la République,no line,
 CMR,hosting,Parliament,,Assemblée nationale,no line,
 CMR,hosting,Parliament,,Sénat,no line,
-CMR,hosting,Foreign Affairs,,Ministère des Relations extérieures,no line,
+CMR,hosting,Foreign Affairs,,Ministère des Relations extérieures,line,cmr-2024-06-090-02-p7
 CMR,hosting,Defence,,Ministère de la Défense,no line,
 CMR,hosting,Police,,Délégation générale à la Sûreté nationale,no line,
 CMR,hosting,Justice,,Ministère de la Justice,no line,
@@ -211,11 +211,11 @@ CMR,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances,line,cmr-20
 CMR,hosting,Treasury / Finance,treasury-fmis,Direction générale du Trésor et de la Coopération financière et monétaire,no line,
 CMR,hosting,Revenue Service,revenue-systems,Direction générale des impôts,no line,
 CMR,hosting,Customs,,Direction générale des douanes,no line,
-CMR,hosting,Interior / Home Affairs,,Ministère de l'Administration territoriale,no line,
+CMR,hosting,Interior / Home Affairs,,Ministère de l'Administration territoriale,line,cmr-2024-07-164-03-p9
 CMR,hosting,Central Bank,,Banque des États de l'Afrique centrale,no line,
-CMR,hosting,Civil registry / National ID authority,civil-registration-id,Bureau national de l'état civil,line,cmr-2026-27-290
-CMR,hosting,Electoral commission,electoral-register,Elections Cameroon,no line,
-CMR,hosting,Statistics office,statistics,Institut national de la statistique,no line,
+CMR,hosting,Civil registry / National ID authority,civil-registration-id,Bureau national de l'état civil,line,cmr-2024-27-100-04-p48
+CMR,hosting,Electoral commission,electoral-register,Elections Cameroon,line,cmr-2024-51-183-01-p100
+CMR,hosting,Statistics office,statistics,Institut national de la statistique,line,cmr-2024-22-022-04-p37
 CMR,hosting,Health ministry / National health insurance,,Ministère de la Santé publique,no line,
 CMR,hosting,Land registry,land-registry,Ministère des Domaines du Cadastre et des Affaires foncières,line,cmr-2024-37-026
 CMR,hosting,Securities regulator,,COSUMAF,no line,
