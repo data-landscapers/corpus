@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Madagascar's budget table now carries the directorate of the single social registry: MGA 120m in the 2024 revised law and in 2025, and MGA 90m in 2026, which the revised 2026 law cut to nil.
 - Cabo Verde's 2026 budget table now carries the electoral registration commissions, CVE 63.6m, counted as partly digital. They enrol voters and keep the electoral register.
 - Ghana's budget table gains the Controller and Accountant-General's ICT directorate for 2025 and 2026 (GHS 6.7m and 9.0m) and the Treasury's GHS 27.5m for the Births and Deaths Registry in 2026. Fifteen more lines from the ministry volumes that arrived today wait for the next catalogue build.
 - Mauritius's budget table for 2025-26 and 2026-27 now covers every ministry: 132 lines added, about MUR 1.0bn a year. The largest are the e-Social Security system, hospital digitalisation, the e-licensing project and the land information system; before, only the ICT ministry, the Prime Minister's Office, the Treasury and statistics were read for those years.

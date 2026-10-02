@@ -29,17 +29,17 @@ BDI,population-register,not looked,,,,,,,
 BDI,data-exchange,not looked,,,,,,,
 BEN,statistics,found,whole,4,ben-2026-015-080-080002055,Institut national de la statistique et de la démographie (INStaD),rows,,
 BEN,civil-registration-id,found,partial,1,ben-2026-015-083-1,Agence nationale d'identification des personnes (ANIP),rows,,
-BEN,communications-regulator,not looked,,,,Autorité de régulation des communications électroniques et de la poste (ARCEP),,,
+BEN,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et de la poste (ARCEP),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the regulator (ARCEP) appears as a source of indicators and in one line for building the regulators' shared headquarters (6bn), a building line",2026-10-02
 BEN,ict-ministry-egov,found,whole,9,ben-2024-035-111,Agence des systèmes d'information et du numérique (ASIN); Gouvernement de la République du Bénin,rows,,
 BEN,cybersecurity,found,whole,2,ben-2026-015-080-080004028,bjCSIRT,rows,,
 BEN,data-protection,found,whole,3,ben-2024-010-014,Autorité de protection des données personnelles (APDP),rows,,
-BEN,revenue-systems,not looked,,,,Direction générale des Impôts,,,
-BEN,treasury-fmis,not looked,,,,Ministère de l'Économie et des Finances; Direction générale du Trésor et de la Comptabilité publique,,,
-BEN,procurement,not looked,,,,Autorité de régulation des marchés publics (ARMP),,,
-BEN,electoral-register,not looked,,,,Commission électorale nationale autonome (CENA),,,
+BEN,revenue-systems,absent,,,,Direction générale des Impôts,hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: dematerialised tax procedures appear in the revised law's note as text; no line is named for a tax or customs system",2026-10-02
+BEN,treasury-fmis,absent,,,,Ministère de l'Économie et des Finances; Direction générale du Trésor et de la Comptabilité publique,hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the financial management system (SIGFP) prints the pages; no programme or project line funds it by name",2026-10-02
+BEN,procurement,absent,,,,Autorité de régulation des marchés publics (ARMP),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: procurement appears as staff and capacity text in one ministry's plan; no line names a procurement system or the regulator",2026-10-02
+BEN,electoral-register,absent,,,,Commission électorale nationale autonome (CENA),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the electoral commission is dotation 008, one sum, with no line for the electoral list",2026-10-02
 BEN,land-registry,found,partial,2,ben-2026-037-088-pip13,Agence nationale du domaine et du foncier (ANDF),rows,,
-BEN,social-registry,not looked,,,,Agence nationale de la protection sociale (ANPS),,,
-BEN,population-register,not looked,,,,,,,
+BEN,social-registry,absent,,,,Agence nationale de la protection sociale (ANPS),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: no line names a social registry",2026-10-02
+BEN,population-register,absent,,,,,hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the population register appears once, in the interior ministry's programme text beside civil status, whose agency is held",2026-10-02
 BEN,data-exchange,not looked,,,,,,,
 BFA,statistics,found,whole,9,bfa-2024-14-032-0320213,Institut national de la statistique et de la démographie,rows,,
 BFA,civil-registration-id,found,whole,14,bfa-2024-09-012-0120809,Office national d'identification,rows,,
@@ -183,18 +183,18 @@ DJI,population-register,not looked,,,,,,,
 DJI,data-exchange,not looked,,,,,,,
 DZA,statistics,found,whole,2,dza-2024-developpement-des-statistiques,Office national des statistiques,rows,,
 DZA,civil-registration-id,found,whole,3,dza-2024-identite-titres-documents-securises,,rows,,
-DZA,communications-regulator,not looked,,,,Autorité de régulation de la poste et des communications électroniques,,,
-DZA,ict-ministry-egov,not looked,,,,Ministère de la Poste et des Télécommunications,,,
+DZA,communications-regulator,absent,,,,Autorité de régulation de la poste et des communications électroniques,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: the regulator (ARPCE) appears in the bill's text only and is funded from its own fees",2026-10-02
+DZA,ict-ministry-egov,found,whole,1,dza-2024-developpement-des-statistiques,Ministère de la Poste et des Télécommunications,hand,"the Ministry of Digitalisation and Statistics is held for 2024, the one year it has a decree; public-service digitalisation is held under Interior in every year",2026-10-02
 DZA,cybersecurity,found,whole,3,dza-2024-environnement-de-confiance,,rows,,
-DZA,data-protection,not looked,,,,Autorité nationale de protection des données à caractère personnel,,,
-DZA,revenue-systems,not looked,,,,Direction générale des impôts,,,
-DZA,treasury-fmis,not looked,,,,Ministère des Finances,,,
-DZA,procurement,not looked,,,,,,,
-DZA,electoral-register,not looked,,,,Autorité nationale indépendante des élections,,,
-DZA,land-registry,not looked,,,,Agence nationale du cadastre,,,
-DZA,social-registry,not looked,,,,Ministère du Travail de l'Emploi et de la Sécurité sociale,,,
-DZA,population-register,not looked,,,,,,,
-DZA,data-exchange,not looked,,,,,,,
+DZA,data-protection,absent,,,,Autorité nationale de protection des données à caractère personnel,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: no programme names the personal-data authority",2026-10-02
+DZA,revenue-systems,absent,,,,Direction générale des impôts,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: electronic filing appears in the laws' tax articles; no programme is named for a tax or customs system",2026-10-02
+DZA,treasury-fmis,found,whole,1,dza-2025-modernisation-systemes-information-paiement,Ministère des Finances,hand,the Treasury's programme for modernising its information and payment systems is held in each year,2026-10-02
+DZA,procurement,absent,,,,,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: electronic procurement appears in a law article; no programme funds it",2026-10-02
+DZA,electoral-register,absent,,,,Autorité nationale indépendante des élections,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: no programme names the electoral authority's register",2026-10-02
+DZA,land-registry,absent,,,,Agence nationale du cadastre,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: cadastre and land conservation appear as fee articles and a programme title with no system named",2026-10-02
+DZA,social-registry,absent,,,,Ministère du Travail de l'Emploi et de la Sécurité sociale,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: no programme names a social registry",2026-10-02
+DZA,population-register,absent,,,,,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: no programme names a population register apart from identity and secure documents, held",2026-10-02
+DZA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: no programme names a data exchange",2026-10-02
 EGY,statistics,found,whole,15,egy-2024-capmas-ch1,Central Agency for Public Mobilization and Statistics,rows,,
 EGY,civil-registration-id,found,partial,15,egy-2024-csf-ch1,,rows,,
 EGY,communications-regulator,not looked,,,,National Telecom Regulatory Authority,,,
@@ -393,18 +393,18 @@ MAR,population-register,absent,,,,,hand,"FY2024 and FY2025: no project line name
 MAR,data-exchange,absent,,,,,hand,"FY2024 and FY2025: no project line names interoperability or data exchange. Morasses, every chapter searched, and the finance law.",2026-10-02
 MDG,statistics,found,whole,3,mdg-2024-21-220-013-00-21-f-01m,Institut national de la statistique (INSTAT),rows,,
 MDG,civil-registration-id,found,whole,7,mdg-2024-14-142-133-00-14-0-395,,rows,,
-MDG,communications-regulator,not looked,,,,Autorité de régulation des technologies de communication (ARTEC),,,
+MDG,communications-regulator,absent,,,,Autorité de régulation des technologies de communication (ARTEC),hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: the regulator (ARTEC) is funded from its own fees; only its annual report is held",2026-10-02
 MDG,ict-ministry-egov,found,whole,13,mdg-2024-60-670-043,Unité de gouvernance digitale (UGD); Gouvernement malagasy (zone parente),rows,,
 MDG,cybersecurity,found,whole,2,mdg-2024-37-370-030-00-37-0-a30,CIRT Madagascar,rows,,
-MDG,data-protection,not looked,,,,,,,
+MDG,data-protection,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service names data protection",2026-10-02
 MDG,revenue-systems,found,partial,4,mdg-2024-21-220-116-00-23-0-322,Direction générale des impôts,rows,,
-MDG,treasury-fmis,not looked,,,,Ministère de l'Économie et des Finances,,,
-MDG,procurement,not looked,,,,Autorité de régulation des marchés publics (ARMP),,,
-MDG,electoral-register,not looked,,,,Commission électorale nationale indépendante (CENI),,,
+MDG,treasury-fmis,absent,,,,Ministère de l'Économie et des Finances,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service is named for the financial management system; the finance ministry's information-systems directorate is held under the in-house IT rule",2026-10-02
+MDG,procurement,absent,,,,Autorité de régulation des marchés publics (ARMP),hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: procurement appears as a tax and as a regulator in the text; no service names a procurement system",2026-10-02
+MDG,electoral-register,absent,,,,Commission électorale nationale indépendante (CENI),hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: the electoral commission is institution 07, one body (16.4bn in 2025), with no service for the electoral list",2026-10-02
 MDG,land-registry,found,whole,4,mdg-2024-68-460-409-253,Ministère de l'Aménagement du Territoire et des Services fonciers,rows,,
-MDG,social-registry,not looked,,,,Ministère de la Population et des Solidarités,,,
-MDG,population-register,not looked,,,,,,,
-MDG,data-exchange,not looked,,,,,,,
+MDG,social-registry,found,whole,3,mdg-2024-76-762-830-00-76-0-520,Ministère de la Population et des Solidarités,rows,,
+MDG,population-register,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service names a population register",2026-10-02
+MDG,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: interoperable information systems appear as an indicator only",2026-10-02
 MLI,statistics,found,whole,14,mli-2024-310-3.008-31-1-2017-0011-001-000000,Institut national de la statistique (INSTAT),rows,,
 MLI,civil-registration-id,found,whole,13,mli-2024-330-2.036-12-2-2011-0013-001-000000-62-9-1-27,,rows,,
 MLI,communications-regulator,absent,,,,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no section or programme names the telecommunications regulator (AMRTP), which is funded from its own fees",2026-10-02
