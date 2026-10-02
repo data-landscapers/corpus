@@ -155,18 +155,18 @@ COM,population-register,absent,,,,,hand,FY2025 and FY2026: the budget classifica
 COM,data-exchange,absent,,,,,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service or line names interoperability or data exchange.,2026-10-02
 CPV,statistics,found,whole,3,cpv-2024-01.03.01-ine,Instituto Nacional de Estatística,rows,,
 CPV,civil-registration-id,found,whole,9,cpv-2024-sniac-pec,,rows,,
-CPV,communications-regulator,not looked,,,,Agência Reguladora Multissectorial da Economia,,,
-CPV,ict-ministry-egov,not looked,,,,NOSi - Núcleo Operacional para a Sociedade de Informação; Portal Único do Governo,,,
-CPV,cybersecurity,not looked,,,,,,,
+CPV,communications-regulator,absent,,,,Agência Reguladora Multissectorial da Economia,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: the multisector regulator is funded from its own fees and is not a column of the autonomous-funds maps",2026-10-02
+CPV,ict-ministry-egov,found,whole,1,cpv-2025-cv-plataforma-digital-e-inovacao,NOSi - Núcleo Operacional para a Sociedade de Informação; Portal Único do Governo,hand,the digital economy ministry's cross-vote programme Cabo Verde Plataforma Digital e da Inovação is held whole,2026-10-02
+CPV,cybersecurity,absent,,,,,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: no line or programme names cyber security",2026-10-02
 CPV,data-protection,found,whole,3,cpv-2024-cnpd,Comissão Nacional de Proteção de Dados,rows,,
-CPV,revenue-systems,not looked,,,,,,,
-CPV,treasury-fmis,not looked,,,,Ministério das Finanças,,,
-CPV,procurement,not looked,,,,Autoridade Reguladora das Aquisições Públicas,,,
-CPV,electoral-register,not looked,,,,Comissão Nacional de Eleições,,,
-CPV,land-registry,not looked,,,,,,,
-CPV,social-registry,not looked,,,,Instituto Nacional de Previdência Social,,,
-CPV,population-register,not looked,,,,,,,
-CPV,data-exchange,not looked,,,,,,,
+CPV,revenue-systems,absent,,,,,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: no line names a tax or customs system",2026-10-02
+CPV,treasury-fmis,absent,,,,Ministério das Finanças,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: no line names the budget and financial management system, which the state IT company runs",2026-10-02
+CPV,procurement,absent,,,,Autoridade Reguladora das Aquisições Públicas,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: an e-procurement assistance project appears in the 2024 accounts (432.8m budgeted, 2.3m spent) with no source of financing printed, and in no budget law map",2026-10-02
+CPV,electoral-register,found,partial,1,cpv-2026-01.03.20-cre,Comissão Nacional de Eleições,rows,,
+CPV,land-registry,absent,,,,,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: the cadastre appears in the law's articles on fee exemptions only",2026-10-02
+CPV,social-registry,absent,,,,Instituto Nacional de Previdência Social,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: the single social registry appears in the law's articles on exemptions only; no line funds it",2026-10-02
+CPV,population-register,absent,,,,,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: no line names a population register apart from the civil identification system that is held",2026-10-02
+CPV,data-exchange,absent,,,,,hand,"keyword scan of the budget laws, their annexes and the accounts for 2024 to 2026, read at the sitting of 2026-09-25: no line names a data exchange",2026-10-02
 DJI,statistics,found,whole,3,dji-2024-mefi-instad,Institut national de la statistique de Djibouti (INSTAD),rows,,
 DJI,civil-registration-id,not looked,,,,,,,
 DJI,communications-regulator,absent,,,,Autorité de régulation multisectorielle de Djibouti (ARMD),hand,"FY2025 and FY2026: the multisector regulator's gazetted budget was read on 2026-09-24. It regulates electronic communications and energy, prints one balanced total with no telecom split, and is not held.",2026-10-02
@@ -267,32 +267,32 @@ GHA,population-register,not looked,,,,,,,
 GHA,data-exchange,not looked,,,,,,,
 GIN,statistics,found,whole,4,gin-2024-08-230631000000-4-2-3-99-00,Institut national de la statistique,rows,,
 GIN,civil-registration-id,found,whole,7,gin-2024-02-211150000000-2-1-1-14-02-cp,,rows,,
-GIN,communications-regulator,not looked,,,,Autorité de régulation des postes et télécommunications,,,
+GIN,communications-regulator,absent,,,,Autorité de régulation des postes et télécommunications,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: the regulator (ARPT) appears only as a payer of the state's share of fees,2026-10-02
 GIN,ict-ministry-egov,found,whole,75,gin-2024-37-151171000000-3-1-2-10-00,Agence nationale de digitalisation de l'État; Portail officiel e-Gouv (zone gov.gn),rows,,
 GIN,cybersecurity,found,whole,3,gin-2024-05-232481000000-4-2-3-99-00,Agence nationale de la sécurité des systèmes d'information,rows,,
-GIN,data-protection,not looked,,,,,,,
+GIN,data-protection,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names data protection,2026-10-02
 GIN,revenue-systems,found,whole,2,gin-2024-64-150151000000-5-1-2-12-00,Direction générale des impôts,rows,,
-GIN,treasury-fmis,not looked,,,,Ministère de l'Économie et des Finances; Ministère du Budget,,,
+GIN,treasury-fmis,absent,,,,Ministère de l'Économie et des Finances; Ministère du Budget,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a financial management system,2026-10-02
 GIN,procurement,found,whole,4,gin-2024-09-265471000000-3-3-6-10-00,Autorité de régulation des marchés publics,rows,,
-GIN,electoral-register,not looked,,,,Direction générale des élections,,,
+GIN,electoral-register,absent,,,,Direction générale des élections,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names the electoral file,2026-10-02
 GIN,land-registry,found,whole,3,gin-2024-15-264141000000-5-1-2-12-00-cp,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",rows,,
-GIN,social-registry,not looked,,,,Agence nationale d'inclusion économique et sociale,,,
-GIN,population-register,not looked,,,,,,,
-GIN,data-exchange,not looked,,,,,,,
+GIN,social-registry,absent,,,,Agence nationale d'inclusion économique et sociale,hand,"keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: the one line naming the unified social registry (265791010000, 1.04bn in 2024, nil in 2025) is the construction of its headquarters, a building line; the inclusion agency that runs it is a mixed-mandate body",2026-10-02
+GIN,population-register,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a population register,2026-10-02
+GIN,data-exchange,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a data exchange,2026-10-02
 GMB,statistics,found,whole,3,gmb-2024-12-1217-121702,Gambia Bureau of Statistics,rows,,
 GMB,civil-registration-id,found,partial,6,gmb-2024-08-0812-081202,,rows,,
-GMB,communications-regulator,not looked,,,,Public Utilities Regulatory Authority,,,
+GMB,communications-regulator,absent,,,,Public Utilities Regulatory Authority,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the utilities regulator (PURA) is funded from its own fees and has no budget entity",2026-10-02
 GMB,ict-ministry-egov,found,whole,12,gmb-2024-34-3403-340301,Ministry of Information and Communication Infrastructure,rows,,
-GMB,cybersecurity,not looked,,,,,,,
-GMB,data-protection,not looked,,,,,,,
-GMB,revenue-systems,not looked,,,,Gambia Revenue Authority,,,
+GMB,cybersecurity,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: cyber security appears as posts in the digital ministry's staff list; no programme or line carries it apart from the ministry's held rows",2026-10-02
+GMB,data-protection,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the Access to Information Commission (7.0m in 2025) administers access to information; no data protection body is funded",2026-10-02
+GMB,revenue-systems,absent,,,,Gambia Revenue Authority,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: tax digitalisation appears in report text only",2026-10-02
 GMB,treasury-fmis,found,whole,3,gmb-2024-12-0845-001,Ministry of Finance and Economic Affairs,rows,,
-GMB,procurement,not looked,,,,Gambia Public Procurement Authority,,,
-GMB,electoral-register,not looked,,,,Independent Electoral Commission,,,
+GMB,procurement,absent,,,,Gambia Public Procurement Authority,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the procurement authority is funded as a body and no line names a system",2026-10-02
+GMB,electoral-register,absent,,,,Independent Electoral Commission,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: the electoral commission is entity 04, one body (189.1m in 2025), with no line for the voter register",2026-10-02
 GMB,land-registry,found,partial,6,gmb-2024-11-1104-110404,,rows,,
-GMB,social-registry,not looked,,,,,,,
-GMB,population-register,not looked,,,,,,,
-GMB,data-exchange,not looked,,,,,,,
+GMB,social-registry,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: a social registry manager is a post in a staff list; no line funds the registry",2026-10-02
+GMB,population-register,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: no line names a population register",2026-10-02
+GMB,data-exchange,absent,,,,,hand,"keyword scan of the approved estimates and programme budgets for 2024 to 2026 and the regulator's report, read at the sitting of 2026-09-25: no line names a data exchange",2026-10-02
 GNB,statistics,found,whole,6,gnb-2025-14-351940101,Instituto Nacional de Estatística (INE),rows,,
 GNB,civil-registration-id,absent,,,,,hand,"FY2025 and FY2026: the detail annex prints every chapter of every secção, 380 and 367 chapters, and was read whole on 2026-09-24. No chapter names identification, civil registration or the registries.",2026-10-02
 GNB,communications-regulator,absent,,,,Autoridade Reguladora Nacional das TIC (ARN),hand,"FY2025 and FY2026: the detail annex prints every chapter of every secção, 380 and 367 chapters, and was read whole on 2026-09-24. No chapter names the telecommunications regulator; it is funded outside the state budget.",2026-10-02
