@@ -117,7 +117,7 @@ Both assert a property invisible in any diff.
 
 **The repair for either never cuts an edition** — fix the builder and re-run the step that wrote the page, or `render.py --repage` for a report — so a finding can stop the push at no cost.
 
-**The push is not the deploy.** The Pages workflow publishes what is committed; it does not build, and its deploy step sometimes fails on GitHub's side — which is why the runbook reads the workflow run rather than trusting the push.
+**The push is not the deploy.** The Pages workflow publishes what is committed; it does not build, and its run sometimes fails or sits queued on GitHub's side — which is why the runbook reads the workflow run rather than trusting the push. `scripts/deploy-state.py` is that reading: its header says what counts as stuck and what `--fix` will and will not do. **A stuck deploy is the one message outside the five-block cap, and the one that also goes as a push notification**, because a public site serving yesterday's tree is already-public, and at the cap a run would otherwise drop the block. `/poll` runs the same check on every tick, so a run that stalls after the render has gone home is still caught.
 
 ## The bulletin
 

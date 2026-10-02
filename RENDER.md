@@ -236,13 +236,15 @@ git push
 
 **Step 0 is the only STOP in this runbook.** The GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
 
-**The push is not the deploy, so check the run before the log says `deployed`** — before the mirror step, and again after it if it still reads `in_progress`:
+**The push is not the deploy; read the run:**
 
 ```bash
-curl -s "https://api.github.com/repos/data-landscapers/corpus/actions/runs?head_sha=$(git rev-parse HEAD)" | python -c "import json,sys; r=json.load(sys.stdin).get('workflow_runs',[]); print(r[0]['status'], r[0]['conclusion']) if r else print('no run')"
+python scripts/deploy-state.py --fix --wait 300     # 0 deployed · 1 pending · 2 stuck · 3 could not tell
 ```
 
-`completed success` is `deployed`. Anything else is logged as `pushed, deploy <status>`, and the fix is **Re-run failed jobs** on that run in GitHub Actions.
+- **0** logs `deployed`; strike any `· deploy` block.
+- **1 or 3** logs `pushed, deploy pending`; re-run after the mirror.
+- **2** logs `pushed, deploy stuck`: **write one `· deploy` block quoting the line (cap-exempt, replacing any open one) and send it with `PushNotification`.**
 
 ## The bulletin
 

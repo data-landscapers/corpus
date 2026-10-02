@@ -10,12 +10,18 @@ Do these three things and nothing else — no exploring the repo, no reading the
 no work of your own. This command exists to be typed into a clean session and answered in
 one turn.
 
-1. **Report the state in three lines**: the output of `python scripts/osint-cycle-ready.py`
-   and of `python scripts/osint-cycle-ready.py --status`, and — if the trigger reads ready —
-   say plainly that arming will start a full BUILD+RENDER now, so Bill can stop you.
+1. **Report the state in four lines**: the output of `python scripts/osint-cycle-ready.py`,
+   of `python scripts/osint-cycle-ready.py --status` and of `python scripts/deploy-state.py`,
+   and — if the trigger reads ready — say plainly that arming will start a full BUILD+RENDER
+   now, so Bill can stop you.
 2. **Arm the loop.** Invoke the `loop` skill with the interval, then this prompt verbatim:
 
-   > Run `python scripts/osint-cycle-ready.py --claim` from C:\CORPUS. On exit 1, stop the
+   > From C:\CORPUS, first run `python scripts/deploy-state.py --fix --quiet`. On exit 2,
+   > unless `logs/messages-for-bill.md` already holds a `· deploy` block quoting the same
+   > line: write that block (it is exempt from the five-block cap; replace an older one),
+   > commit and push it, and send the line with the `PushNotification` tool. On exit 0,
+   > delete a `· deploy` block if one is open, commit and push. On exit 1 or 3 do nothing.
+   > Then run `python scripts/osint-cycle-ready.py --claim`. On exit 1, stop the
    > turn and say nothing further. On exit 2, write one block in `logs/messages-for-bill.md`
    > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — drain any
    > open notes in `C:\corpus-osint-xfer\notes-for-corpus.md` first, then BUILD.md whole, then

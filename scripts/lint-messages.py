@@ -21,6 +21,14 @@ holds what the block said and the commit that struck it holds why, so nothing is
 deletion — which is the same reasoning the share applies to a closed note, minus the
 number, because a message carries no citable identity to preserve.
 
+**A stuck deploy is outside the five, and there is at most one of it.** A `· deploy` block
+says the public site is not serving what was pushed, which is the already-public case the
+cap was never meant to silence: at the cap a run drops its sixth block, and this is the
+one block that must not be dropped. So it is not counted against the five — and a second
+is refused, because the newer state replaces the older and an exemption that can stack is
+a second file. The word cap and the strike rule bind it like any other;
+`scripts/deploy-state.py` exit 0 is what settles it.
+
 The word cap applies **forward only**, to blocks dated on or after 2026-08-28 — the day
 it entered code. An older block a rule postdates is reported, never failed: failing it
 would press for an edit to a message Bill may not have read, and only he clears this
@@ -52,6 +60,8 @@ CAP_FROM = dt.date(2026, 8, 28)
 
 HEADING = re.compile(r"^## (\d{4}-\d{2}-\d{2})")
 ANY_HEADING = re.compile(r"^## ")
+# `## 2026-10-02 08:10 · deploy` — the one job exempt from BLOCK_CAP, and capped at one.
+DEPLOY_HEADING = re.compile(r"^## \d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · deploy\s*$")
 
 # **What a struck-but-present block looks like.** Two shapes, both of them an edit made
 # instead of a deletion: a heading struck through or prefixed out of its dated form, and a
@@ -118,11 +128,19 @@ def main() -> int:
 
     failed = False
 
-    if len(found) > BLOCK_CAP:
+    deploys = sum(1 for heading, *_ in found if DEPLOY_HEADING.match(heading))
+    counted = len(found) - deploys
+
+    if counted > BLOCK_CAP:
         failed = True
-        print(f"lint-messages: {len(found)} open blocks against the cap of {BLOCK_CAP}. "
+        print(f"lint-messages: {counted} open blocks against the cap of {BLOCK_CAP}. "
               f"At the cap a run does not write another - it takes the conservative "
               f"option and logs it in logs/log.md.")
+
+    if deploys > 1:
+        failed = True
+        print(f"lint-messages: {deploys} deploy blocks. A stuck deploy is exempt from the "
+              f"cap as one block - the newer replaces the older, it does not join it.")
 
     for heading, date, words, struck in found:
         if not struck:
@@ -148,7 +166,8 @@ def main() -> int:
                   f"in git.")
 
     if not failed:
-        print(f"lint-messages: ok - {len(found)} block(s), cap {BLOCK_CAP}; word cap "
+        exempt = " + 1 deploy block outside it" if deploys else ""
+        print(f"lint-messages: ok - {counted} block(s), cap {BLOCK_CAP}{exempt}; word cap "
               f"{BLOCK_WORD_CAP} holds on every block it binds; none annotated as "
               f"settled.")
     return 1 if failed else 0

@@ -81,6 +81,22 @@ try:
     check("and says so",
           "predates the cap" in run(block(date="2026-08-01", body="word " * 81))[1], True)
 
+    # ---- the stuck deploy, outside the five ----------------------------------
+
+    print("\na stuck deploy")
+    DEPLOY = "## 2026-10-02 08:10 · deploy\n\n- Run 7 queued for 9h42m.\n\n"
+    code, text = run(block() * 5 + DEPLOY)
+    check("five blocks and a deploy block pass", code, 0)
+    check("and the count leaves it out", "5 block(s)" in text and "1 deploy block" in text, True)
+    check("six and a deploy block still fail", run(block() * 6 + DEPLOY)[0], 1)
+    code, text = run(DEPLOY * 2)
+    check("two deploy blocks fail", code, 1)
+    check("and says why", "2 deploy blocks" in text, True)
+    check("the word cap still binds it",
+          run("## 2026-10-02 08:10 · deploy\n\n" + "word " * 81 + "\n\n")[0], 1)
+    check("a job merely starting 'deploy' is counted",
+          run(block() * 5 + "## 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 1)
+
     # ---- struck, not gone ---------------------------------------------------
 
     print("\na block annotated as settled instead of deleted")
