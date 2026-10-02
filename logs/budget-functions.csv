@@ -619,12 +619,12 @@ SWZ,statistics,found,whole,14,swz-2024-23-31,,rows,,
 SWZ,civil-registration-id,found,whole,7,swz-2024-43-T524,,rows,,
 SWZ,communications-regulator,absent,,,,Eswatini Communications Commission,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: the communications commission (ESCCOM) is funded outside the budget",2026-10-02
 SWZ,ict-ministry-egov,found,whole,1,swz-2024-43-G649,Government of Eswatini portal,hand,"the ICT ministry (head 43) is held: its computer services department, the e-services platform and the disaster recovery site",2026-10-02
-SWZ,cybersecurity,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: capital project G629 Cyber Security is printed under the computer services activity with no allocation in either year",2026-10-02
+SWZ,cybersecurity,absent,,,,,hand,"FY2025/26: the capital estimates print project G629 Cyber Security under head 43 (project cost E8,772,000, spent 6,072,000 to March 2024) with nothing for 2025/26 or later (PDF p. 223); no cybersecurity agency line",2026-10-03
 SWZ,data-protection,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names data protection",2026-10-02
-SWZ,revenue-systems,absent,,,,Eswatini Revenue Service,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names a tax or customs system; the revenue service is outside the head structure",2026-10-02
+SWZ,revenue-systems,absent,,,,Eswatini Revenue Service,hand,"FY2025/26: the 2025/26-2027/28 estimates print the Eswatini Revenue Service only as a transfer from head 34 Finance (item 10008, E780,000,000, PDF p. 124), with no systems line",2026-10-03
 SWZ,treasury-fmis,found,whole,3,swz-2024-34-G600,,rows,,
 SWZ,procurement,found,whole,3,swz-2024-34-G648,Eswatini Public Procurement Regulatory Agency,rows,,
-SWZ,electoral-register,absent,,,,Elections and Boundaries Commission,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: the elections commission's head describes continuous voter registration and prints no line for the register",2026-10-02
+SWZ,electoral-register,absent,,,,Elections and Boundaries Commission,hand,"FY2025/26: the estimates print the Elections and Boundaries Secretariat (activity 12) by economic item only - vehicle charges, personnel, travel and communication, professional services - with no voter-register line (PDF p. 149)",2026-10-03
 SWZ,land-registry,found,partial,2,swz-2025-10-X509,,rows,,
 SWZ,social-registry,found,whole,3,swz-2024-06-S354,,rows,,
 SWZ,population-register,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names a population register apart from the civil registration systems that are held",2026-10-02
