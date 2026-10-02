@@ -727,20 +727,20 @@ ZAF,land-registry,found,whole,2,zaf-2025-42-2-south-african-spatial-data-infrast
 ZAF,social-registry,not looked,,,,South African Social Security Agency (SASSA); Department of Social Development,,,
 ZAF,population-register,not looked,,,,,,,
 ZAF,data-exchange,found,whole,5,zaf-2024-14-7-data-and-information-management,,rows,,
-ZMB,statistics,found,partial,2,zmb-2024-80-5599-9007,Zambia Statistics Agency,rows,,
+ZMB,statistics,found,whole,5,zmb-2024-37-3467-03-01-13,Zambia Statistics Agency,rows,,
 ZMB,civil-registration-id,found,whole,6,zmb-2024-15-4176-02-02-15,Department of National Registration Passport and Citizenship,rows,,
-ZMB,communications-regulator,not looked,,,,Zambia Information and Communications Technology Authority,,,
+ZMB,communications-regulator,found,partial,1,zmb-2026-66-2152-002,Zambia Information and Communications Technology Authority,hand,"FY2024 to FY2026: the technology ministry's ICT services and regulation sub-programme, mostly the grant to the ICT authority; held at partial.",2026-10-02
 ZMB,ict-ministry-egov,found,whole,9,zmb-2024-66-2152-001,Smart Zambia Institute,rows,,
 ZMB,cybersecurity,found,whole,4,zmb-2024-39-3416-6003,,rows,,
-ZMB,data-protection,not looked,,,,,,,
+ZMB,data-protection,absent,,,,,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No programme, sub-programme or named line is for data protection or its commissioner.",2026-10-02
 ZMB,revenue-systems,found,partial,3,zmb-2024-21-3440-002-02-02-15,Zambia Revenue Authority,rows,,
 ZMB,treasury-fmis,found,whole,6,zmb-2024-37-3422-02-02-40,Ministry of Finance and National Planning,rows,,
 ZMB,procurement,found,whole,3,zmb-2024-39-3499-9005,Zambia Public Procurement Authority,rows,,
-ZMB,electoral-register,not looked,,,,Electoral Commission of Zambia,,,
-ZMB,land-registry,not looked,,,,Ministry of Lands and Natural Resources,,,
-ZMB,social-registry,not looked,,,,Ministry of Community Development and Social Services,,,
-ZMB,population-register,not looked,,,,,,,
-ZMB,data-exchange,not looked,,,,,,,
+ZMB,electoral-register,absent,,,,Electoral Commission of Zambia,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. The electoral commission (head 05) prints electoral planning and elections, and no register line; its information technology unit is held at partial.",2026-10-02
+ZMB,land-registry,absent,,,,Ministry of Lands and Natural Resources,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. The lands ministry's Land Registration and Titling sub-programme (K133.3m in 2026) names no digital system and is not held.",2026-10-02
+ZMB,social-registry,absent,,,,Ministry of Community Development and Social Services,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No sub-programme or named line is a social registry.",2026-10-02
+ZMB,population-register,absent,,,,,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No line names a population register; the integrated national registration system is held under identity.",2026-10-02
+ZMB,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No line names interoperability or data exchange.",2026-10-02
 ZWE,statistics,not looked,,,,Zimbabwe National Statistics Agency,,,
 ZWE,civil-registration-id,found,partial,3,zwe-2024-18-2,Registrar General of Zimbabwe,rows,,
 ZWE,communications-regulator,not looked,,,,Postal and Telecommunications Regulatory Authority of Zimbabwe,,,

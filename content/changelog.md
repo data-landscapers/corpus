@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Zambia's budget table now carries the state's grant to the Zambia Statistics Agency: K13.0m in 2024 and 2025 and K13.5m in 2026. A larger statistics line in the same programme mixes state and World Bank money with no split printed, and stays out.
 - Tanzania's budget table now carries the recurrent grant to its National Bureau of Statistics for 2024/25, 2025/26 and 2026/27: TZS 12.9bn in each year. The bureau's development project was already in the table; the grant that pays its staff and running costs was not.
 - Liberia's budget table now carries its statistics and geo-information institute, LISGIS, for 2024, 2025 and 2026: US$1.85m, US$1.80m and US$2.64m appropriated, almost all of it pay. It spent US$1.83m in 2024.
 - The Central African Republic's budget table now carries its national statistics institute for 2024, 2025 and 2026, read from the same budget volumes and finance laws as its other lines. The state voted the institute XAF 531.8m, 505.0m and 295.0m in those years, most of it transfers, and cut it by 43% for 2026.

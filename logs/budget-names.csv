@@ -1539,13 +1539,13 @@ ZMB,hosting,Defence,,Ministry of Defence,line,zmb-2024-77-4199-9006
 ZMB,hosting,Police,,Zambia Police Service,line,zmb-2024-11-4199-049
 ZMB,hosting,Justice,,Ministry of Justice,no line,
 ZMB,hosting,Justice,,Judiciary of Zambia,no line,
-ZMB,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and National Planning,line,zmb-2024-21-3440-002-02-02-13
+ZMB,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and National Planning,line,zmb-2024-37-3467-03-01-13
 ZMB,hosting,Revenue Service,revenue-systems,Zambia Revenue Authority,line,zmb-2024-21-3440-002-02-02-15
 ZMB,hosting,Interior / Home Affairs,,Ministry of Home Affairs and Internal Security,line,zmb-2024-15-4176-02-02-15
 ZMB,hosting,Central Bank,,Bank of Zambia,no line,
 ZMB,hosting,Civil registry / National ID authority,civil-registration-id,Department of National Registration Passport and Citizenship,no line,
 ZMB,hosting,Electoral commission,electoral-register,Electoral Commission of Zambia,line,zmb-2024-05-3499-054
-ZMB,hosting,Statistics office,statistics,Zambia Statistics Agency,line,zmb-2024-80-5599-9007
+ZMB,hosting,Statistics office,statistics,Zambia Statistics Agency,line,zmb-2024-37-3467-03-01-13
 ZMB,hosting,Immigration / Passports,,Department of Immigration,no line,
 ZMB,hosting,Health ministry / National health insurance,,Ministry of Health,line,zmb-2024-39-3415-5002
 ZMB,hosting,Health ministry / National health insurance,,National Health Insurance Management Authority,no line,
@@ -1561,7 +1561,7 @@ ZMB,hosting,Communications regulator,communications-regulator,Zambia Information
 ZMB,hosting,Audit office,,Office of the Auditor General,no line,
 ZMB,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
 ZMB,deal-recipient,Public Sector,,"Zambia Statistics Agency (ZamStats), channelled through the Ministry of Finance",no line,
-ZMB,deal-recipient,Public Sector,,Zambia Statistics Agency (ZamStats),line,zmb-2024-80-5599-9007
+ZMB,deal-recipient,Public Sector,,Zambia Statistics Agency (ZamStats),line,zmb-2024-37-3467-03-01-13
 ZMB,deal-recipient,NGO,,Misean Cara,no line,
 ZMB,deal-recipient,Private Sector,,PricewaterhouseCoopers Zambia,no line,
 ZMB,deal-recipient,Public Sector,,Republic of Zambia,no line,
