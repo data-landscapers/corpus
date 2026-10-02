@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Senegal's two 2026 lines for the statistics agency now carry the enacted figure as well as the proposed one. The finance law voted the programme unchanged, so both are XOF 6.9bn.
 - Ghana's 2024 budget table gains 26 lines from 24 ministries' and bodies' volumes, GHS 317m. Nearly all of it is the Electoral Commission's election-year spending on the voters register (GHS 219.7m) and its information technology (GHS 72.2m); the rest are statistics and information directorates, held at partial scope.
 - Ghana's 2026 passport line now carries the figure the budget proposed, GHS 117.1m, beside the GHS 148.8m the Act appropriated. The proposed sum was all fee income; the Act added GHS 20m of government money.
 - Ghana's 2026 budget table gains 11 lines from nine ministries' and bodies' volumes that are published as page images, GHS 19.7m: Parliament's two ICT services, the civil service office's information management unit and seven statistics and information directorates. Each was read from the page and is held at partial scope except Parliament's ICT support service.
