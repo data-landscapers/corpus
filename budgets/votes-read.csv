@@ -516,42 +516,42 @@ GAB,2026,art. 55,Recettes concédées par l'Etat aux établissements publics (ar
 GHA,2026,001,Office of Government Machinery,not read,"2026 volume held as a scan, not catalogued; the identity authority's 2026 line is not taken",2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,Office of the Head of Civil Service,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,Parliament of Ghana,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Audit Service,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Public Services Commission,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Electoral Commission,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,005,Audit Service,"read, none digital","table 1.6 of the AS volume, 72 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,,Public Services Commission,"read, none digital",the volume prints no cost-centre table; its sub-programme tables were scanned by keyword on 2026-10-02 and none names a system or an IT unit,2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,008,Electoral Commission,"read, none digital","table 1.6 of the EC volume, 4 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,009,Ministry of Foreign Affairs,not read,rows are from the Act's programme schedule; the 2026 volume is held and its cost centres are not read,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,010,Ministry of Finance,lines taken,"cost-centre table of the ministry's 2026 volume read; the statistics office taken, the Controller's ICT cost centre 0100207 a candidate",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
-GHA,2026,011,"Ministry of Local Government, Chieftaincy and Religious Affairs",lines taken,sub-programme table of the ministry's 2026 volume,2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,010,Ministry of Finance,lines taken,"table 1.6 of the MOF volume, 145 cost-centre rows, parsed by position and scanned on 2026-10-02",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,011,"Ministry of Local Government, Chieftaincy and Religious Affairs",lines taken,"table 1.6 of the MLGCRA volume, 1685 cost-centre rows, parsed by position and scanned on 2026-10-02",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,,National Media Commission,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,National Development Planning Commission,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,082,Right to Information Commission,not read,the body's whole appropriation from the Act; no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Food and Agriculture,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,082,Right to Information Commission,lines taken,"table 1.6 of the RTC volume, 5 cost-centre rows, parsed by position and scanned on 2026-10-02",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,012,Ministry of Food and Agriculture,"read, none digital","table 1.6 of the MOFA volume, 112 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,,Ministry of Fisheries and Aquaculture,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Lands and Natural Resources,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,"Ministry of Trade, Agribusiness and Industry",not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,"Ministry of Tourism, Culture and Creative Arts",not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,013,Ministry of Lands and Natural Resources,"read, none digital","table 1.6 of the MLN volume, 38 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,015,"Ministry of Trade, Agribusiness and Industry","read, none digital","table 1.6 of the MOTI volume, 99 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,016,"Ministry of Tourism, Culture and Creative Arts","read, none digital","table 1.6 of the MTAC volume, 72 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,,"Ministry of Environment, Science and Technology",not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Energy and Green Transition,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,,Ministry of Energy and Green Transition,"read, none digital",the volume prints no cost-centre table; its sub-programme tables were scanned by keyword on 2026-10-02 and none names a system or an IT unit,2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,,"Ministry of Works, Housing and Water Resources",not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Roads and Highways,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,022,Ministry of Roads and Highways,"read, none digital","table 1.6 of the MRH volume, 35 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,026,"Ministry of Communication, Digital Technology and Innovations",lines taken,the ministry's 2026 volume,2025-11-13-gha-budget-statement-2026-companion,2026-10-02
-GHA,2026,,Ministry of Transport,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Education,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,"Ministry of Labour, Jobs, and Employment",not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,043,Ministry of Transport,"read, none digital","table 1.6 of the MOT volume, 47 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,,Ministry of Education,"read, none digital",the volume prints no cost-centre table; its sub-programme tables were scanned by keyword on 2026-10-02 and none names a system or an IT unit,2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,024,"Ministry of Labour, Jobs, and Employment","read, none digital","table 1.6 of the MELR volume, 33 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,,Ministry of Sports and Recreation,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,National Commission for Civic Education,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Youth Development and Empowerment,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,027,National Commission for Civic Education,"read, none digital","table 1.6 of the NCCE volume, 37 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,084,Ministry of Youth Development and Empowerment,"read, none digital","table 1.6 of the MOYDE volume, 21 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,029,Ministry of Health,not read,rows are from the Budget Statement; no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,"Ministry of Gender, Children and Social Protection",not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,National Labour Commission,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Office of the Attorney-General and Ministry of Justice,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Legal Aid Commission,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Ministry of Defence,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,033,Office of the Attorney-General and Ministry of Justice,"read, none digital","table 1.6 of the OAGMJ volume, 52 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,081,Legal Aid Commission,"read, none digital","table 1.6 of the LAC volume, 20 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
+GHA,2026,034,Ministry of Defence,"read, none digital","table 1.6 of the MOD volume, 25 cost-centre rows, parsed by position and scanned on 2026-10-02; any statistics-and-information directorate or IT office found is parked until the catalogue carries the volume",2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GHA,2026,,Commission on Human Rights and Administrative Justice,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,Judicial Service,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,037,Ministry of the Interior,not read,rows are from the Act's programme schedule; no volume held,2025-11-13-gha-budget-statement-2026-companion,
 GHA,2026,,National Security Council,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
-GHA,2026,,Office of the Special Prosecutor,not read,no volume held,2025-11-13-gha-budget-statement-2026-companion,
+GHA,2026,,Office of the Special Prosecutor,"read, none digital",the volume prints no cost-centre table; its sub-programme tables were scanned by keyword on 2026-10-02 and none names a system or an IT unit,2025-11-13-gha-budget-statement-2026-companion,2026-10-02
 GNB,2025,1,Assembleia Nacional Popular,"read, none digital","every chapter and natureza of the secção in Anexo IV, read by the sitting of 2026-09-24",2024-09-01-gnb-proposta-oge-2025-companion,2026-09-24
 GNB,2025,2,Presidência da República,"read, none digital","every chapter and natureza of the secção in Anexo IV, read by the sitting of 2026-09-24",2024-09-01-gnb-proposta-oge-2025-companion,2026-09-24
 GNB,2025,3,Presidência do Conselho de Ministros,lines taken,"every chapter and natureza of the secção in Anexo IV, read by the sitting of 2026-09-24",2024-09-01-gnb-proposta-oge-2025-companion,2026-09-24
