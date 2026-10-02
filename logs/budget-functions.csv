@@ -85,17 +85,17 @@ CAF,population-register,absent,,,,,hand,"FY2024 to FY2026: the SIM_ba volumes pr
 CAF,data-exchange,found,whole,1,caf-2026-30-3002804230000xxxx04,,rows,,
 CIV,statistics,found,whole,44,civ-2024-229-78042100594,Institut national de la statistique (INS),rows,,
 CIV,civil-registration-id,found,whole,31,civ-2024-226-78021000515,Office national de l'état civil et de l'identification (ONECI),rows,,
-CIV,communications-regulator,not looked,,,,Autorité de régulation des télécommunications/TIC (ARTCI),,,
+CIV,communications-regulator,absent,,,,Autorité de régulation des télécommunications/TIC (ARTCI),hand,"keyword scan of the finance laws for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no section or activity names the telecommunications regulator (ARTCI), which is funded from its own fees; it appears only in the performance report's glossary",2026-10-02
 CIV,ict-ministry-egov,found,whole,167,civ-2024-336-78046000618,Portail du gouvernement (parent zone),rows,,
 CIV,cybersecurity,found,whole,74,civ-2024-226-90021000003,,rows,,
-CIV,data-protection,not looked,,,,ARTCI - Autorité de protection des données personnelles,,,
+CIV,data-protection,absent,,,,ARTCI - Autorité de protection des données personnelles,hand,"keyword scan of the finance laws for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names personal-data protection; the CNDP hits are the public debt committee",2026-10-02
 CIV,revenue-systems,found,whole,53,civ-2024-322-78011201821,Direction générale des impôts (DGI),rows,,
 CIV,treasury-fmis,found,whole,12,civ-2024-322-78011201788,Ministère de l'Économie et des Finances,rows,,
 CIV,procurement,found,whole,15,civ-2024-322-78010200302,Autorité de régulation de la commande publique (ARCOP),rows,,
-CIV,electoral-register,not looked,,,,Commission électorale indépendante (CEI),,,
-CIV,land-registry,not looked,,,,Agence foncière rurale (AFOR),,,
+CIV,electoral-register,found,partial,3,civ-2024-110-13971,Commission électorale indépendante (CEI),rows,,
+CIV,land-registry,absent,,,,Agence foncière rurale (AFOR),hand,"keyword scan of the finance laws for 2024, 2025 and 2026, read at the sitting of 2026-09-24: action 2208505, Cadastre et gestion de la propriété foncière, funds the cadastre's regional offices in about forty small activities and none names a land information system; not held, on the ruling that a land registry with no digital system named is not a row",2026-10-02
 CIV,social-registry,found,whole,5,civ-2024-369-90103000005,,rows,,
-CIV,population-register,not looked,,,,,,,
+CIV,population-register,absent,,,,,hand,"keyword scan of the finance laws for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names a population register",2026-10-02
 CIV,data-exchange,found,whole,12,civ-2024-323-78016002230,,rows,,
 CMR,statistics,absent,,,,Institut national de la statistique,hand,"FY2024 to FY2026: the finance bill prints each chapter's programmes (183, 182 and 167) with objectives and indicators, and nothing finer; all were read on 2026-09-25. The statistics institute and the census bureau print no programme and sit inside the economy and planning ministry's chapter 22.",2026-10-02
 CMR,civil-registration-id,found,partial,1,cmr-2026-27-290,Bureau national de l'état civil,hand,"FY2026: programme 290 of the decentralisation ministry, whose indicators include a computerised civil registry; held at partial. No identity line at programme grain in any year.",2026-10-02
@@ -116,14 +116,14 @@ COD,civil-registration-id,found,whole,19,cod-2024-25-25307-221001,Office nationa
 COD,communications-regulator,found,partial,3,cod-2024-10-10805-bpo,Autorité de régulation de la poste et des télécommunications (ARPTC),rows,,
 COD,ict-ministry-egov,found,whole,4,cod-2024-31-31200-241018,Agence pour le développement du numérique (ADN); Portail gouvernemental (zone parente des ministères),rows,,
 COD,cybersecurity,found,whole,17,cod-2024-10-10310-fi,,rows,,
-COD,data-protection,not looked,,,,,,,
+COD,data-protection,absent,,,,,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names data protection",2026-10-02
 COD,revenue-systems,found,partial,1,cod-2024-30-30302-231607,"Direction générale des impôts; Direction générale des recettes administratives, judiciaires, domaniales et de participations (DGRAD)",rows,,
-COD,treasury-fmis,not looked,,,,Administration des Finances (Secrétariat général aux Finances); Ministère du Budget,,,
+COD,treasury-fmis,absent,,,,Administration des Finances (Secrétariat général aux Finances); Ministère du Budget,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: the one hit, SIGMAP, is the public procurement management system, held under procurement if at all; no chapter names a treasury or financial management system",2026-10-02
 COD,procurement,found,whole,3,cod-2024-31-31301-241005,Autorité de régulation des marchés publics (ARMP); Système intégré de gestion des marchés publics,rows,,
-COD,electoral-register,not looked,,,,Commission électorale nationale indépendante (CENI),,,
+COD,electoral-register,absent,,,,Commission électorale nationale indépendante (CENI),hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: the electoral commission is section 77, printed as one body with no line for the voter register",2026-10-02
 COD,land-registry,found,whole,2,cod-2024-55-55200-231012,Ministère des Affaires foncières,rows,,
 COD,social-registry,found,whole,2,cod-2024-64-64200-231023,Caisse nationale de sécurité sociale des agents publics de l'État (CNSSAP),rows,,
-COD,population-register,not looked,,,,,,,
+COD,population-register,absent,,,,,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names a population register",2026-10-02
 COD,data-exchange,found,whole,8,cod-2024-48-48261-231005,,rows,,
 COG,statistics,absent,,,,Institut national de la statistique,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The plan ministry (Code 36 in 2025, 88 in 2026) prints steering, planning and regional integration, and no statistics programme; the institute has no line at this grain.",2026-10-02
 COG,civil-registration-id,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme names civil registration or identity; a civil-status fee system appears in the law as a levy key with no amount.",2026-10-02
@@ -659,17 +659,17 @@ TCD,population-register,absent,,,,,hand,"FY2024 to FY2026: each fascicule prints
 TCD,data-exchange,absent,,,,,hand,"FY2024 to FY2026: each fascicule prints every section to imputation and paragraph (2,128, 2,638 and 3,007 lines) and was read whole on 2026-09-24; labels and paragraphs searched again on 2026-10-02. No line names interoperability or data exchange.",2026-10-02
 TGO,statistics,found,whole,15,tgo-2024-220-010-1391080071000,Institut national de la statistique et des études économiques et démographiques,rows,,
 TGO,civil-registration-id,found,whole,6,tgo-2024-870-100-1131011117000,Agence nationale d'identification,rows,,
-TGO,communications-regulator,not looked,,,,Autorité de régulation des communications électroniques et des postes,,,
+TGO,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et des postes,hand,keyword scan of the sprint's chapter list for the 2024 finance law: no chapter names the regulator (ARCEP); the ANAC hits are civil aviation,2026-10-02
 TGO,ict-ministry-egov,found,whole,37,tgo-2024-870-099-1171010696000,Agence Togo Digital; Portail du gouvernement (zone gouv.tg),rows,,
 TGO,cybersecurity,found,whole,3,tgo-2024-870-100-1131011116000,Agence nationale de la cybersécurité; CERT.tg,rows,,
 TGO,data-protection,found,whole,2,tgo-2025-870-098-1131081483000,Instance de protection des données à caractère personnel,rows,,
-TGO,revenue-systems,not looked,,,,Office togolais des recettes,,,
+TGO,revenue-systems,absent,,,,Office togolais des recettes,hand,keyword scan of the sprint's chapter list for the 2024 finance law: no chapter names a tax or customs system; the revenue office (OTR) is outside the vote,2026-10-02
 TGO,treasury-fmis,found,whole,3,tgo-2024-210-006-1191080047004,Ministère des Finances et du Budget; Direction générale du Trésor et de la Comptabilité publique,rows,,
-TGO,procurement,not looked,,,,Autorité de régulation de la commande publique,,,
-TGO,electoral-register,not looked,,,,Commission électorale nationale indépendante,,,
+TGO,procurement,absent,,,,Autorité de régulation de la commande publique,hand,keyword scan of the sprint's chapter list for the 2024 finance law: no chapter names a procurement system or the procurement regulator,2026-10-02
+TGO,electoral-register,absent,,,,Commission électorale nationale indépendante,hand,"keyword scan of the sprint's chapter list for the 2024 finance law: the electoral commission's chapter (100,000 thousand) names no voter register",2026-10-02
 TGO,land-registry,found,partial,4,tgo-2024-210-007-1131080052000,,rows,,
 TGO,social-registry,found,whole,1,tgo-2026-870-151-2131011548000-a5,Caisse nationale de sécurité sociale,rows,,
-TGO,population-register,not looked,,,,,,,
+TGO,population-register,absent,,,,,hand,keyword scan of the sprint's chapter list for the 2024 finance law: no chapter names a population register,2026-10-02
 TGO,data-exchange,found,whole,5,tgo-2024-820-078-1391080454000,,rows,,
 TUN,statistics,found,whole,15,tun-2024-05-4-1-605-0003,Institut national de la statistique,rows,,
 TUN,civil-registration-id,found,whole,4,tun-2024-05-1-2-632-J001,,rows,,

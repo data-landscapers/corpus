@@ -178,7 +178,7 @@ CIV,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécuri
 CIV,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
 CIV,hosting,Civil registry / National ID authority,civil-registration-id,Office national de l'état civil et de l'identification (ONECI),line,civ-2024-237-78013300683
 CIV,hosting,Data protection authority,data-protection,ARTCI - Autorité de protection des données personnelles,no line,
-CIV,hosting,Electoral commission,electoral-register,Commission électorale indépendante (CEI),no line,
+CIV,hosting,Electoral commission,electoral-register,Commission électorale indépendante (CEI),line,civ-2024-110-13971
 CIV,hosting,Statistics office,statistics,Institut national de la statistique (INS),line,civ-2024-325-90033000003
 CIV,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,civ-2024-335-78074000549
 CIV,hosting,Land registry,land-registry,Agence foncière rurale (AFOR),no line,
