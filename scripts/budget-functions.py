@@ -17,7 +17,8 @@ is not there, dated, with the document and page) or `not looked`. `found` is der
 from the rows; **`absent` is a reading and is only ever entered by hand**, with
 `basis: hand`, and this script keeps a hand row until the rows themselves find the function.
 `--absent` enters one: the country, the function, and the evidence — the fiscal year, what
-was read and where — dated today.
+was read and where — dated today. `--found ISO3 function deal_id "evidence"` is the other
+hand entry: a held row that is the function under a name no pattern reaches.
 A function is found by its topic where the taxonomy has one for it, and by the body's or
 the system's name where it does not. `scope` says how well: `whole` is the plan's test, and
 a function held only at `partial` or `unclear` is `found` with that scope and still worth a
@@ -285,6 +286,21 @@ def mark_absent(iso3: str, function: str, evidence: str) -> int:
     return 0
 
 
+def mark_found(iso3: str, function: str, deal_id: str, evidence: str) -> int:
+    """Enter one hand reading the other way: a held row is the function, under a name no
+    pattern reaches. The row has to exist, and its scope is the cell's."""
+    cells = existing()
+    rows = [r for _, _, r in budget_source.rows(iso3) if r.get("deal_id") == deal_id]
+    if (iso3, function) not in cells or not rows:
+        print(f"budget-functions: no cell {iso3} {function}, or no row {deal_id}", file=sys.stderr)
+        return 1
+    cells[(iso3, function)].update(status="found", scope=rows[0].get("scope_confidence", ""), rows="1",
+                                   deal_id=deal_id, basis="hand", evidence=evidence,
+                                   looked=datetime.date.today().isoformat())
+    write(FUNCTIONS_OUT, FUNCTION_COLUMNS, list(cells.values()))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     args = sys.argv[1:] if argv is None else argv
     if args[:1] == ["--absent"]:
@@ -292,6 +308,11 @@ def main(argv: list[str] | None = None) -> int:
             print("usage: budget-functions.py --absent ISO3 function \"evidence\"", file=sys.stderr)
             return 1
         return mark_absent(args[1].upper(), args[2], args[3])
+    if args[:1] == ["--found"]:
+        if len(args) != 5:
+            print("usage: budget-functions.py --found ISO3 function deal_id \"evidence\"", file=sys.stderr)
+            return 1
+        return mark_found(args[1].upper(), args[2], args[3], args[4])
     if not os.path.isdir(budget_source.BUDGETS):
         print("budget-functions: no budgets/ folder", file=sys.stderr)
         return 2

@@ -590,17 +590,17 @@ SOM,data-exchange,not looked,,,,,,,
 SSD,statistics,found,whole,12,ssd-2024-sta-natstat-fss-monitoring-evaluation,National Bureau of Statistics,rows,,
 SSD,civil-registration-id,found,partial,2,ssd-2024-mih-isc-immigration,,rows,,
 SSD,communications-regulator,found,whole,2,ssd-2024-nca-regulating-telecoms,National Communication Authority,rows,,
-SSD,ict-ministry-egov,not looked,,,,Government of South Sudan eGovernment portal; Government eServices portal,,,
-SSD,cybersecurity,not looked,,,,,,,
-SSD,data-protection,not looked,,,,,,,
-SSD,revenue-systems,not looked,,,,South Sudan National Revenue Authority,,,
-SSD,treasury-fmis,not looked,,,,Ministry of Finance and Planning,,,
-SSD,procurement,not looked,,,,Public Procurement and Disposal of Assets Authority,,,
-SSD,electoral-register,not looked,,,,National Elections Commission,,,
-SSD,land-registry,not looked,,,,,,,
-SSD,social-registry,not looked,,,,,,,
-SSD,population-register,not looked,,,,,,,
-SSD,data-exchange,not looked,,,,,,,
+SSD,ict-ministry-egov,found,whole,1,ssd-2025-tps-itps-ict,Government of South Sudan eGovernment portal; Government eServices portal,hand,"FY2025: the ICT directorate of Telecom and Postal Services, the ICT ministry's vote.",2026-10-02
+SSD,cybersecurity,absent,,,,,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; no agency or line is a national cybersecurity body. The financial intelligence unit's ICT and system security line is its own.,2026-10-02
+SSD,data-protection,absent,,,,,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; no agency or line names data protection.,2026-10-02
+SSD,revenue-systems,absent,,,,South Sudan National Revenue Authority,hand,"FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; the revenue authority's digital revenue systems appear only in its task lists, with no line.",2026-10-02
+SSD,treasury-fmis,found,whole,1,ssd-2025-mof-nfm-ict,Ministry of Finance and Planning,hand,"FY2025: the finance ministry's new ICT directorate, in its national financial management programme.",2026-10-02
+SSD,procurement,absent,,,,Public Procurement and Disposal of Assets Authority,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; the procurement authority is one administration cost centre with no e-procurement line.,2026-10-02
+SSD,electoral-register,absent,,,,National Elections Commission,hand,"FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; the elections commission prints elections management, logistics and outreach, and no register line.",2026-10-02
+SSD,land-registry,absent,,,,,hand,"FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; the lands ministry's land registration and licensing line (240.8m in 2024/25) names no digital system and is not held. The Financial Act gives 80% of registry charges to a technology provider, a fee share and not an appropriation.",2026-10-02
+SSD,social-registry,absent,,,,,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; the gender and social welfare ministry prints no registry line.,2026-10-02
+SSD,population-register,absent,,,,,hand,"FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; no line names a population register. Civil registry, nationality and passports sit in the immigration line, held at partial.",2026-10-02
+SSD,data-exchange,absent,,,,,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; no line names interoperability or data exchange.,2026-10-02
 STP,statistics,found,whole,3,stp-2024-27110-004-1113,Instituto Nacional de Estatística,rows,,
 STP,civil-registration-id,found,whole,2,stp-2024-25105-006-1053,Direcção Geral dos Registos Notariado e Identificação,rows,,
 STP,communications-regulator,absent,,,,Autoridade Geral de Regulação (AGER),hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; the regulator has no line in it and is funded outside the state budget.,2026-10-02
