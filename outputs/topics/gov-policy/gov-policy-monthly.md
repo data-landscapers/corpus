@@ -1,15 +1,17 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 89fa06b310dc
+record: 8cf74420b7df
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
 
 *35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -49,7 +51,7 @@ In September the agency turned to measuring where it stands. It and UNDP [signed
 
 Closing the national workshop on prioritising public digital services on 4 September, the digital transition minister argued for [unified governance through a relaunched National Digital Council placed under the Prime Minister, presenting it as a condition of the state's digital transformation](https://www.linfodrome.com/economie/125096-digitalisation-des-services-publics-la-cote-d-ivoire-veut-un-pilote-unique-pour-ses-projets-d-etat), against a paperless state by 2030. It is an argument for a relaunch: no decree, membership or first meeting is held.
 
-The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030.
+The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030. The digital acceleration project [shortlisted six firms or consortia to support implementation of the country's digital and artificial intelligence compact](https://www.jeuneafrique.com/annonce/1847460/avis-de-resultats-de-la-manifestation-dinteret-n-ci-padci-564344-cs-cqs-26/), in a results notice published on 30 September; the compact's own text is not held.
 
 ## Djibouti
 
@@ -81,7 +83,7 @@ The higher education ministry [validated a draft science, technology and innovat
 
 ## Ghana
 
-The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan.
+The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan. The communications minister [announced a centralised technical review of every AI system bought by a public institution](https://itweb.africa/article/ghana-tightens-scrutiny-of-public-sector-ai-buys/mYZRX79gbbjqOgA8), scoped by the national information technology agency against interoperability, data-protection, cybersecurity and skills-transfer requirements; no directive or start date is published.
 
 ## Guinea-Bissau
 
@@ -105,7 +107,9 @@ Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn eco
 
 ## Mozambique
 
-The operative plan is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
+The Digital Transformation Operational Plan 2026-2029 [was under appraisal at the technical commission's second session on 21 September, to be harmonised and costed within two to three months](https://aimnews.org/2026/09/21/governo-quer-acelerar-transformacao-digital-dos-servicos-publicos-ate-2029/). It names an interoperability portal, a payments platform for state services, a government cloud and a government data centre, and [the state administration minister told the session that data produced by the public administration must belong to the State](https://www.diarioeconomico.co.mz/2026/09/21/desenvolvimento-2/governo-garante-soberania-do-estado-sobre-dados-publicos/).
+
+The plan in force is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
 The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October.
 
@@ -135,7 +139,7 @@ The open source policy Cabinet approved in July was [presented by the communicat
 
 ## South Africa
 
-On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them.
+On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date.
 
 ## South Sudan
 
@@ -151,7 +155,7 @@ A sectoral instrument moved alongside it. On 21 September the education ministry
 
 ## Tunisia
 
-Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the trade ministry in drafting a national e-commerce strategy, with planning meetings held from 31 March to 2 April 2026](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9); no adoption date is stated.
+Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the trade ministry in drafting a national e-commerce strategy, with planning meetings held from 31 March to 2 April 2026](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9); no adoption date is stated. The health and communication technologies ministers [signed a National Health Pact on 1 October](https://www.tunisienumerique.com/sante-tunisie-pacte-national-couverture-sanitaire-universelle/), with sovereign governance of health data and modernised digital platforms among its six axes; its text and budget are not held.
 
 ## Uganda
 

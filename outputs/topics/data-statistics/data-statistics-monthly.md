@@ -1,15 +1,17 @@
 ---
 title: National statistics — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: data.statistics
 places: AGO; BWA; BFA; CMR; CAF; TCD; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 54120c25496a
+record: d6f83f9870ed
 ---
 
 # National statistics: monthly update, September – October 2026
 
 *25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -37,7 +39,7 @@ The statistics institute set out what it publishes and on what terms: [five chan
 
 ## DR Congo
 
-The central census bureau's technical coordinator said on 1 September that [the cartography phase of the second general population census is under way with digital tools and satellite imagery](https://www.radiookapi.net/2026/09/01/emissions/parole-aux-auditeurs/operations-de-la-cartographie-en-cours). No enumeration date is published.
+The central census bureau's technical coordinator said on 1 September that [the cartography phase of the second general population census is under way with digital tools and satellite imagery](https://www.radiookapi.net/2026/09/01/emissions/parole-aux-auditeurs/operations-de-la-cartographie-en-cours). No enumeration date is published. Census cartography [was launched on 28 September, the operation costed at USD 192 million with general enumeration from July 2027](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir); ministers said the census counts residents and identifies no one.
 
 ## Equatorial Guinea
 
@@ -113,7 +115,7 @@ The statistics institute put a second survey in the field. The third harmonised 
 
 ## Tunisia
 
-The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it.
+The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it. The regulator's survey [breaks internet use down by age, income, sex and district](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/): 99.2 per cent at 18 to 24 against 54.1 per cent at 60 to 70, and 69.1 per cent in the poorest households against 95.9 per cent in the richest.
 
 ## Uganda
 

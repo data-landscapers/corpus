@@ -1,15 +1,17 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 20275b2761ee
+record: 0c926d7bf7a5
 ---
 
 # Regional collaboration: monthly update, September – October 2026
 
 *35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -107,7 +109,9 @@ Officials of Malawi and Japan [discussed stronger digital and innovation ties](h
 
 ## Mali
 
-The Burkinabè, Malian and Nigerien telecommunications regulators [announced on 23 September that they would sign a cooperation convention in Ouagadougou on 25 September creating a Council of Sahel Regulators](https://lefaso.net/spip.php?article149443), covering confederation roaming, cybersecurity, frequency management and mutual recognition of type-approved equipment.
+The Burkinabè, Malian and Nigerien telecommunications regulators [signed a cooperation convention creating a Council of Sahel Regulators, reported on 26 September](https://lefaso.net/spip.php?article149528), covering free roaming, frequency coordination at the borders, mutual recognition of type-approved equipment and coordinated 5G introduction; its statutes and first work programme are still to be adopted. They had [announced the signing on 23 September](https://lefaso.net/spip.php?article149443).
+
+The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model.
 
 ## Mauritius
 

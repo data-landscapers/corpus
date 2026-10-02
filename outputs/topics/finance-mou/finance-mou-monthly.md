@@ -1,15 +1,17 @@
 ---
 title: MoUs and other agreements — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: finance.mou
 places: CAF; COD; MAR; MOZ; NER; NGA; RWA; TZA
-record: 8046755e19eb
+record: 84163996c195
 ---
 
 # MoUs and other agreements: monthly update, September – October 2026
 
 *8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Central African Republic
 

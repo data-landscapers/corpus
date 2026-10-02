@@ -1,15 +1,17 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a236c0fd49de
+record: 41e3f66f3799
 ---
 
 # AI: monthly update, September – October 2026
 
 *33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -89,7 +91,7 @@ A model provider [disclosed that it had removed a domestic actor's account mass-
 
 The Kenya Medical Research Institute [is a partner in openScopes AIDDiA, a four-year, GBP 4.4m Wellcome Trust-funded programme led by the University of Cape Town that pairs open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which held its kick-off from 7 to 11 September.
 
-At the UN General Assembly Kenya [co-hosted the launch of a 2026-2027 roadmap for children's rights and protection in the age of AI, backed by 23 states and eight UN entities](https://techreviewafrica.com/news/7445/); no national instrument implements it. In Nairobi a [pan-African hub and data network for disability-inclusive AI was launched](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/) with Maseno University's applied AI centre among its partners, and the same centre [began onboarding Dholuo speakers for a speech dataset](https://techreviewafrica.com/news/7404/).
+At the UN General Assembly Kenya [co-hosted the launch of a 2026-2027 roadmap for children's rights and protection in the age of AI, backed by 23 states and eight UN entities](https://techreviewafrica.com/news/7445/); no national instrument implements it. In Nairobi a [pan-African hub and data network for disability-inclusive AI was launched](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/) with Maseno University's applied AI centre among its partners, and the same centre [began onboarding Dholuo speakers for a speech dataset](https://techreviewafrica.com/news/7404/). The central bank [published its March 2025 survey on 22 September: half of surveyed institutions had adopted AI, 30 per cent held a formal AI strategy and credit risk assessment was the leading use, at 65 per cent of adopters](https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf).
 
 ## Lesotho
 

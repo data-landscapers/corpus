@@ -1,15 +1,17 @@
 ---
 title: Access to services — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: 15402fdba896
+record: b5f45e1edbdf
 ---
 
 # Access to services: monthly update, September – October 2026
 
 *30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -123,7 +125,7 @@ The agency's managing director [said on 22 September that 60% of executive commi
 
 The [Presidential Hotline, run since September 2009 on the state IT agency's case-management platform, was the subject of an oversight visit on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre), with automation on the agenda. The [ParliMeter platform, which tracks MPs' attendance, bills, committees and ministerial answers, passed to the Parliamentary Monitoring Group as its EU-funded phase ended](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figures.
 
-A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a total across five southern African countries with no figure for South Africa alone.
+A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a total across five southern African countries with no figure for South Africa alone. The regulator [withdrew its telecommunications affordability inquiry notice on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), 26 days after gazetting it, and [says it will republish it with a draft questionnaire](https://www.icasa.org.za/news/2026/icasa-withdraws-notices-on-ott-services-and-telecommunications-affordability-inquiries).
 
 ## South Sudan
 

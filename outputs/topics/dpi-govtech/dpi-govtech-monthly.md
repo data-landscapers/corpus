@@ -1,15 +1,17 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: dpi.govtech
-places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6d141f9ab68a
+places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 503556c1005e
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -61,7 +63,7 @@ The administration's electronic signature reached local government: the civil se
 
 The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
 
-The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced.
+The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced. The electoral commission [launched on 28 September a programme to digitise the electoral archives produced since 2005 into a single document repository](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/), with training for 762 staff; no cost or funder is stated.
 
 ## Egypt
 
@@ -137,6 +139,10 @@ Customs [met international contractors on 15 September to revive automated inspe
 
 On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given.
 
+## Mauritania
+
+The tax directorate [said public establishments must use an electronic platform for invoicing, tax declarations and payment of taxes and withholdings from 1 November 2026](https://fr.tawassoul.net/mauritanie-les-etablissements-publics-passeront-a-la-facturation-et-aux-paiements-electroniques-des-novembre/): suppliers register invoices on it first, and no invoice within the system may be paid unless validated there. The platform is not named and no legal instrument is cited.
+
 ## Mauritius
 
 The environment ministry [made online filing of Waste Carrier Licence applications through the Economic Development Board platform compulsory from October](https://fr.allafrica.com/stories/202609220486.html), for individuals, firms, parastatals, local authorities and ministries alike; an online submission does not itself authorise transport.
@@ -149,9 +155,9 @@ The interior ministry [made the elections portal the compulsory route for candid
 
 ## Mozambique
 
-The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
+The citizen portal was presented as a single counter for about 140 public services, [resting on the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Early in the month the agency counted [21 services already offered, citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/); on 21 September it [said about 26 were available, including road-transport licensing and the taxpayer number, and that more than 3,000 citizens had used the portal ahead of an official launch not yet held](https://aimnews.org/2026/09/21/governo-quer-acelerar-transformacao-digital-dos-servicos-publicos-ate-2029/). Which of the four dependencies is in service behind it is not stated.
 
-The citizen portal put a live count beside its target: [21 services already offered against about 140 planned, the agency citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
+The road transport institute [moved applications for special transit licences for oversize and overweight vehicles to an end-to-end online process on 1 September](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
 
 The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began.
 
@@ -215,7 +221,7 @@ The same board approved an [emerging technologies governance framework for publi
 
 The transit-tracking system took on a new cargo type: the revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo), under a system operational since October 2022. No device count, cost or evaluation criterion is published.
 
-The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/).
+The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/). The foreign ministry [put ten administrative procedures on the portal from 1 October, and six consular services on a separate portal for Togolese abroad](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/).
 
 ## Tunisia
 

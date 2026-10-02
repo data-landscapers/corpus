@@ -1,15 +1,17 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: dpi.pay
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2c67eb8a4168
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f4dab7e99720
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -83,7 +85,7 @@ A bank wallet is closing for want of use: Standard Bank [will decommission its U
 
 The challenger's wallet [more than doubled its monthly active users to 2.58 million in the quarter to June, yet contributes about 2% of the unit's service revenue against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and its [cardless ATM withdrawal was extended to Awash Bank's ATM network](https://techafricanews.com/2026/09/08/m-pesa-ethiopia-cardless-atm-withdrawals-awash-bank/).
 
-Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage).
+Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it.
 
 ## Gambia
 
@@ -149,9 +151,15 @@ A retrospective rather than an operator disclosure, and it is the repository's f
 
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 
+Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/). The central bank governor [said the country will join the regional settlement system with the metical in the first quarter of 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/), so that invoices from South Africa are settled from metical accounts.
+
 ## Namibia
 
 The system acquired a public name. The instant payment solution is [carried publicly as WayaMe, operated by Instant Payments Namibia under the central bank, with customers transacting through their existing bank applications, wallets or USSD services while the payment is routed through the national instant-payment infrastructure](https://www.namibian.com.na/explainer-what-is-wayame/), designed to carry bank-to-bank, bank-to-wallet, wallet-to-bank and wallet-to-wallet payments between participating institutions. No participant list, transaction volume, value or fee schedule is published, so interoperability is a stated design property rather than a measured one.
+
+## Niger
+
+The operator of the vehicle one-stop shop [opened payment of some of its services by mobile money on 1 October](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money), by app or an offline code; which services are covered is not stated.
 
 ## Nigeria
 

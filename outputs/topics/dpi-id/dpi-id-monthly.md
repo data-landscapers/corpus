@@ -1,15 +1,17 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: dpi.id
-places: BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 6900afd15317
+places: BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
+record: e10c2a9806ea
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -37,7 +39,7 @@ The identity pilot is hiring before it enrols: the ministry [retained 50 agents 
 
 The national digital identity platform moved to enrolment: [its first 50 agents began training on 15 September](https://7sur7.cd/2026/09/16/rdc-pass-lancement-de-la-formation-des-50-premiers-agents-denregistrement), the minister stating that it is an authentication tool and not a national identity card.
 
-On International Identity Day the identification office [said preparations for the population identification system are complete and that data collection will begin in December 2026](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/). No enrolment target or budget line accompanies the date.
+On International Identity Day the identification office [said preparations for the population identification system are complete and that data collection will begin in December 2026](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/). No enrolment target or budget line accompanies the date. The minister delegate for the diaspora [launched the pilot phase of digital identification of Congolese abroad at the embassy in Paris on 27 September and presented the registration platform in Brussels two days later](https://b-onetv.cd/diaspora-congolaise-lancement-a-paris-et-bruxelles-de-la-phase-pilote-de-lidentification-numerique/); no enrolment figure or link to the national identification office is given.
 
 ## Egypt
 
@@ -113,6 +115,10 @@ An investigation reported that [a US$5.09m World Bank-financed contract for 2,40
 
 On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published.
 
+## Mauritius
+
+The digital driving licence [was soft-launched on the KOREK app on 29 September, with legal effect from 1 January 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027); [access needs a fully activated MauPass account, and promotion-agency staff are to help the 883,700 licence holders register from October](https://defimedia.info/maupass-et-korek-les-citoyens-accompagnes-dans-leurs-demarches). No count of licences activated is published.
+
 ## Mozambique
 
 The digital agency [has submitted a consultancy shortlist to the World Bank for a national mobile digital identity and electronic signature infrastructure, with contracting planned for September 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services).
@@ -155,7 +161,7 @@ The credential was proposed for speech as well as services. On 7 September the d
 
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
-In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published.
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly.
 
 ## Sudan
 
@@ -187,7 +193,7 @@ The cards are printed and not working. The registration authority [holds about 5
 
 The revenue authority then gave a firmer account than the finance minister's: [the TIN will be phased out for individuals in favour of the NIN, with companies using their registration number](https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026).
 
-The internal affairs minister [launched the integration of the national identification and tax identification systems](https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems) at the first national identity expo in Kololo, reported on 30 September. No commencement date or count of linked records is given.
+The internal affairs minister [launched the integration of the national identification and tax identification systems](https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems) at the first national identity expo in Kololo, reported on 30 September. No commencement date or count of linked records is given. The registration authority [announced a nationwide exercise in December 2026 to register learners without identification numbers and correct errors in identity records](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026).
 
 ## Zambia
 

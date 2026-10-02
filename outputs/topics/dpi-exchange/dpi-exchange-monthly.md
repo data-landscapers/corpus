@@ -1,15 +1,17 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 29f1037d32df
+record: 983db2adc041
 ---
 
 # Data Exchange: monthly update, September – October 2026
 
 *36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -21,7 +23,7 @@ A second unified path was proposed on 3 September. A working meeting at the digi
 
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
-The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated.
+The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated.
 
 ## Benin
 
@@ -117,7 +119,7 @@ The digital agency said [the X-Road interoperability platform is being implement
 
 The education repository put figures against its institution count. It now holds [907 enrolled institutions — 259 universities and 163 polytechnics among them — past 400,000 theses and dissertations with 115,000 credentials verified](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), reported on 7 September. [Submissions run 409,456 undergraduate against 1,563 postgraduate](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), a ratio of 262 to one, so what is being built is a record of first degrees.
 
-Three more exchanges were proposed in September, none yet built. The education ministry [disclosed talks with the national youth service scheme on an interface to verify qualifications against the repository](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/); at Seme-Krake the customs service [offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts, the two administrations sharing one post but no system](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/); and the financial intelligence unit [opened co-design with banks, fintechs and insurers of a platform to share intelligence against illicit flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/). None states a legal basis for the sharing.
+Three more exchanges were proposed in September, none yet built. The education ministry [disclosed talks with the national youth service scheme on an interface to verify qualifications against the repository](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/); at Seme-Krake the customs service [offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts, the two administrations sharing one post but no system](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/); and the financial intelligence unit [opened co-design with banks, fintechs and insurers of a platform to share intelligence against illicit flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/). None states a legal basis for the sharing. The disease control centre [signed a memorandum to pilot automated disease reporting from private facilities into its surveillance system](https://thesun.ng/ncdc-hfn-pharmaccess-sign-moc-to-strengthen-private-sector-disease-surveillance/), with no start date stated.
 
 ## Rwanda
 
@@ -165,7 +167,7 @@ The health ministry [puts 99 facilities at various stages of implementing electr
 
 ## Uganda
 
-The month's exchange story is a border system working for someone else. The revenue authority, with its Kenyan counterpart, [continues to enforce a US-dollar e-Permit charge on imports bound for South Sudan, levied before any tax assessment is issued, on behalf of a UK-registered firm the United States sanctioned in May over the diversion of public resources and foreign assistance](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern); the firm's staff are deployed at border points under South Sudan Revenue Authority cover, and the Tanzanian and Rwandan authorities have publicly dissociated themselves from the arrangement. The revenue authority is not recorded as answering the account, and no agreement or legal basis for the Ugandan side is published.
+The month's exchange story is a border system working for someone else. The revenue authority, with its Kenyan counterpart, [continues to enforce a US-dollar e-Permit charge on imports bound for South Sudan, levied before any tax assessment is issued, on behalf of a UK-registered firm the United States sanctioned in May over the diversion of public resources and foreign assistance](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern); the firm's staff are deployed at border points under South Sudan Revenue Authority cover, and the Tanzanian and Rwandan authorities have publicly dissociated themselves from the arrangement. The revenue authority is not recorded as answering the account, and no agreement or legal basis for the Ugandan side is published. The information technology authority [said on 1 October that its integration platform connects the identity register to more than 150 agencies, banks and telecoms operators](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026) for real-time verification.
 
 ## Zambia
 

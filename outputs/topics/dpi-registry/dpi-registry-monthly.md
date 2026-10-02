@@ -1,15 +1,17 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; TZA; TUN; UGA; ZMB; ZWE
-record: 092b04ded66b
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
+record: 818cf92531e8
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -53,7 +55,7 @@ Control arrived before the system did. A [circular of 1 September 2026 from the 
 
 ## DR Congo
 
-A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own.
+A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own. The President [gave the government three months, at the Council of Ministers of 25 September, to define a single identifier for businesses recognised across administrations](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/); no lead agency or system is named.
 
 ## Egypt
 
@@ -119,9 +121,13 @@ On National Identity Day a second phase of the Izaho Tokana 2.0 registration dri
 
 The beneficial-owner register [moved into operation on 18 September, when the tax directorate signed four protocols to cross-match it with the trade and companies register, the anti-corruption bureau, the economic development board and the chamber of notaries](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees).
 
+## Malawi
+
+The tobacco regulator's new biometric grower registration [broke down at centres in Lilongwe, Ntcheu and Rumphi](https://www.nyasatimes.com/malawi-tobacco-farmers-face-days-in-the-cold-amid-registration-chaos/): devices failed to sync with the central server and scanners failed to capture elderly farmers' fingerprints, leaving farmers camped for days. An unregistered grower gets no quota and no access to the auction floor. The account is one outlet's; the regulator's response is not held.
+
 ## Mauritania
 
-The digital and land ministers [presented a national digital addressing system for consultation at a four-day workshop from 29 September 2026](https://www.ami.mr/archives/269446), under the World Bank-financed regional digital integration programme; no launch date is published. Holders of rural land concessions inside the capital's urban zone [were called to register on a national platform by 18 September](https://ami.mr/fr/archives/301729).
+The digital and land ministers [presented a national digital addressing system for consultation at a four-day workshop from 29 September 2026](https://www.ami.mr/archives/269446), under the World Bank-financed regional digital integration programme; [a pilot version is expected by the end of 2026](https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce). Holders of rural land concessions inside the capital's urban zone [were called to register on a national platform by 18 September](https://ami.mr/fr/archives/301729).
 
 ## Mozambique
 
@@ -133,7 +139,7 @@ The electoral roll got its own numbers on 8 September. The commission said the r
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
-The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published.
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published.
 
 ## Rwanda
 
@@ -153,6 +159,10 @@ Cabinet [approved a national land title certification scheme](https://thisdaysl.
 
 Somaliland's central bank [met banks and mobile-money operators on 11 September 2026 and it was agreed that the central bank will lead a credit information bureau](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/). No design, timetable or funding figure is on file.
 
+## South Africa
+
+The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping.
+
 ## Tanzania
 
 The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated.
@@ -167,7 +177,7 @@ A sectoral register was added beside them. The trade, industry and cooperatives 
 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 
-The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held.
+The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight.
 
 ## Zambia
 

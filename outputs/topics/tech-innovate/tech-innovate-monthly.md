@@ -1,15 +1,17 @@
 ---
 title: Innovation ecosystem — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: c28f1b790d8f
+record: f38519b864b7
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
 
 *22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -105,7 +107,7 @@ A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [ten
 
 ## Uganda
 
-Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform and the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Uganda, Tanzania and Senegal. No contract value is stated.
+Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform and the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Uganda, Tanzania and Senegal. No contract value is stated. The communications regulator [re-advertised its call for a single partner to run the third phase of its innovation programme](https://pmldaily.com/news/2026/09/ucc-seeks-partner-to-accelerate-local-ict-innovations-under-third-e-booster-phase.html), closing on 12 October.
 
 ## Zimbabwe
 

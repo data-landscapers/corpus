@@ -1,15 +1,17 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bda7aa98e822
+record: c3fae5339bf0
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
 
 *37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -17,7 +19,7 @@ The high commission for digitalisation says [a digitalisation law covering data,
 
 ## Angola
 
-The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held.
+The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held.
 
 ## Benin
 
@@ -29,7 +31,7 @@ Civil status abroad got a new legal base: the Council of Ministers [adopted a de
 
 ## Burundi
 
-The Senate [unanimously adopted the access to information bill on 29 September 2026](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/), after its committee reviewed the government's and the National Assembly's versions. The bill creates a National Commission on Access to Public Information that hears appeals and a duty to publish certain information within 30 days, with exceptions for national security, private life and ongoing judicial investigations and no statutory ceiling on access fees. The account rests on a Senate committee report as read by one outlet; no text is published.
+The Senate [unanimously adopted the access to information bill on 29 September 2026](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/), after its committee reviewed the government's and the National Assembly's versions. The bill creates a National Commission on Access to Public Information that hears appeals and a duty to publish certain information within 30 days, with exceptions for national security, private life and ongoing judicial investigations and no statutory ceiling on access fees. The account rests on a Senate committee report as read by one outlet; no text is published. Mandatory SIM registration, begun in mid-June, [was about 70 per cent complete on the regulator's count](https://www.connectingafrica.com/regulation/burundi-sim-registration-process-faces-challenges-scams-persist), amid long queues, few service points, slow systems and continuing scams; operators must keep customer data for at least five years.
 
 ## Cameroon
 
@@ -53,7 +55,7 @@ An analysis published on 10 September sets out [the banking reform that brings f
 
 ## DR Congo
 
-Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection of minors in the digital environment with the National Assembly on 21 September](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la), framed as a special law beside the Code du numérique and the child-protection law, with rules for children under six and under eleven and stronger provisions for under-15s. The text is not published.
+Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection of minors in the digital environment with the National Assembly on 21 September](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la), framed as a special law beside the Code du numérique and the child-protection law, with rules for children under six and under eleven and stronger provisions for under-15s. The text is not published. The Senate [declared admissible on 28 September a senator's bill amending the Digital Code to bar children under 13 from social platforms, with supervised accounts from 13 to 15 and mandatory age verification](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13); it went to a joint committee.
 
 ## Egypt
 
@@ -85,7 +87,7 @@ The Council of Ministers [approved a draft National Data Management Proclamation
 
 ## Gabon
 
-The Council of Ministers at Port-Gentil on 18 September 2026 [adopted a decree setting how qualified electronic-signature certificates and other trust services are issued](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf). It covers electronic signatures and seals, website authentication, the electronic stamp, the standardised e-invoice and the e-visa, with accreditation conditions for providers. Its publication in the official journal is not held.
+The Council of Ministers at Port-Gentil on 18 September 2026 [adopted a decree setting how qualified electronic-signature certificates and other trust services are issued](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf). It covers electronic signatures and seals, website authentication, the electronic stamp, the standardised e-invoice and the e-visa, with accreditation conditions for providers. Its publication in the official journal is not held. Draft legal texts on digital infrastructure, cybersecurity, digital services and the institutional framework [went to a validation review of about ten days at Nkok from 1 October](https://techafricanews.com/2026/10/02/gabon-begins-validation-of-digital-transformation-legal-framework/), under the World Bank-financed digital programme; the texts are not held.
 
 ## Gambia
 
@@ -101,7 +103,7 @@ A Bissau law professor told an ECOWAS Court conference in Dakar on 22 September 
 
 ## Kenya
 
-The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come.
+The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice.
 
 ## Lesotho
 
@@ -115,17 +117,19 @@ Trade was tied to the banking system and to a register. Importing goods for trad
 
 ## Madagascar
 
-The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. [The session that opened on 17 September lists seventeen bills and neither digital bill among them, its order paper set by presidential decree](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html); no bill text is published.
+The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. [The session that opened on 17 September lists seventeen bills and neither digital bill among them, its order paper set by presidential decree](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html); no bill text is published. The electronic communications bill, [submitted to the Assembly on 28 August, waits for a future session](https://www.ecofinagency.com/news/0210-59411-madagascar-has-80-4g-coverage-yet-mobile-internet-remains-out-of-reach-for-most); [its text](https://pub-7e0d3a35c1b949698a7ced344fa56252.r2.dev/textes/040-2026/traduction/PL-040-2026_AUTRE_MG.docx), 140 articles, would end every monopoly in the sector with no transitional period and oblige data-centre operators to keep data on national territory.
 
 ## Mauritius
 
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 
-The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject.
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record.
 
 ## Mozambique
 
 On 15 September the Council of Ministers [approved a Postal Security Regulation](https://mznews.co.mz/governo-aprova-vovo-regulamento-para-reforcar-a-seguranca-postal-e-proteger-o-comercio-electronico/) setting controls against fraud, theft and cyber threats to the postal network as e-commerce parcels grow; its text is not held.
+
+A law regulating artificial intelligence in education [is almost ready and will reach the Council of Ministers before the end of 2026, the minister said in an account of 17 September](https://integritymagazine.co.mz/arquivos/69322), covering every institution from primary school to university. No draft text is published.
 
 ## Namibia
 
@@ -143,7 +147,7 @@ The platform penalty moved toward a deal: Meta [is negotiating a settlement with
 
 ## Senegal
 
-On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the vote is not held.
+On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the plenary [sent it back to committee that day](https://senego.com/assemblee-coup-de-theatre-le-projet-de-loi-sur-la-carte-didentite-retourne-en-commission_2007288.html) on a motion by the law committee's chair, who raised procurement, the use of national firms and foreign custody of citizens' data. The interior minister [had told the committee the card contract with the Malaysian supplier ends on 21 May 2027, too soon to renew every card](https://senegaldirect.com/cartes-didentite-mouhamadou-moukhtar-cisse-explique-la-prorogation-exceptionnelle/).
 
 ## Sierra Leone
 

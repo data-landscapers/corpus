@@ -1,15 +1,17 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: infra.connect
 places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 28f7cd071592
+record: 6866f38aee72
 ---
 
 # Connectivity: monthly update, September – October 2026
 
 *43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -139,7 +141,7 @@ The satellite route to isolated areas moved from announcement to hardware: the d
 
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 
-The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date.
+The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used.
 
 ## Mauritania
 
@@ -148,6 +150,8 @@ A satellite broadband operator [lists Mauritania among sixteen African markets i
 ## Mozambique
 
 The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
+
+The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/).
 
 ## Namibia
 

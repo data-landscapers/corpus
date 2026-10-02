@@ -1,15 +1,17 @@
 ---
 title: Research institutions — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: capacity.research
 places: COM; EGY; GHA; KEN; MAR; UGA; ZWE
-record: f46f4e2d96a0
+record: c9a30e98cdad
 ---
 
 # Research institutions: monthly update, September – October 2026
 
 *7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Comoros
 

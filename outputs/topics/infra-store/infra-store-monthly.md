@@ -1,15 +1,17 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: infra.store
 places: DZA; AGO; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; SEN; ZAF; TUN
-record: 4d93337e2513
+record: f8207d55835f
 ---
 
 # Data Storage: monthly update, September – October 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -105,7 +107,7 @@ A rating agency put a third count on the estate and named the constraint. It put
 
 ## Senegal
 
-The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given.
+The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given. A commercial operator [reported expanded data-centre capacity at its site](https://techafricanews.com/2026/10/02/stellarix-senegal-expands-data-centre-capacity-to-support-ai-and-digital-growth/), with no capacity or cost figure.
 
 ## South Africa
 

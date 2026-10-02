@@ -1,15 +1,17 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 6261d2de2d76
+record: 6dca91730863
 ---
 
 # Training and skills: monthly update, September – October 2026
 
 *30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -109,7 +111,7 @@ Algeria's state operator [signed a convention in Niamey on 8 September 2026 cove
 
 ## Nigeria
 
-The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/).
+The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/). Free digital and employability training [opened for 50,000 young people in the North-Central states and the federal capital](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/), towards a national target of 300,000.
 
 ## Rwanda
 

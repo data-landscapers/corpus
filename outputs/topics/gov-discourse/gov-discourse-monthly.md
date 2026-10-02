@@ -1,15 +1,17 @@
 ---
 title: Public debate and participation in policymaking — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: gov.discourse
 places: CAF; TCD; GNQ; ETH; GHA; GIN; KEN; LBR; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 89a17388b761
+record: 0e6bfd231908
 ---
 
 # Public debate and participation in policymaking: monthly update, September – October 2026
 
 *21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Central African Republic
 
@@ -51,7 +53,7 @@ Ten civil society organisations [signed a founding memorandum for a Digital Advo
 
 ## Mali
 
-A second editor followed. The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
+The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
 
 ## Morocco
 

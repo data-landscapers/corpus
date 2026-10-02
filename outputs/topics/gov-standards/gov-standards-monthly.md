@@ -1,15 +1,17 @@
 ---
 title: Standards — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 subject: gov.standards
 places: ETH; GAB; GMB; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: b1acaea312aa
+record: 8b43153a5561
 ---
 
 # Standards: monthly update, September – October 2026
 
 *20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Ethiopia
 
@@ -25,7 +27,7 @@ The standards bureau's position was restated from both ends this month. Its dire
 
 ## Kenya
 
-The technology authority [put the National Information Security Framework's audit, risk-management and certification toolkits to a stakeholder workshop in Nairobi](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/), reported on 7 September, to test whether they are practical before critical information infrastructure is certified.
+The technology authority [put the National Information Security Framework's audit, risk-management and certification toolkits to a stakeholder workshop in Nairobi](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/), reported on 7 September, to test whether they are practical before critical information infrastructure is certified. The central bank [said its AI survey will feed a guidance note for the banking sector on data and AI governance, risk mitigation and third-party vendors](https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf); no draft or date is published.
 
 ## Liberia
 
@@ -37,7 +39,7 @@ The committee behind the national information system spent its sixth meeting fix
 
 ## Mali
 
-The standards agency's own budget is the month's clearest measure of it. Its fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published, so what is measurable about it is the money.
+The standards agency's fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published.
 
 ## Mauritania
 
