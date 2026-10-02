@@ -141,18 +141,18 @@ COG,population-register,absent,,,,,hand,"FY2025 and FY2026: the finance law prin
 COG,data-exchange,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme names interoperability or data exchange.",2026-10-02
 COM,statistics,found,whole,12,com-2024-08-0808,INSEED,rows,,
 COM,civil-registration-id,found,partial,3,com-2024-06-0615,,rows,,
-COM,communications-regulator,not looked,,,,ANRTIC,,,
+COM,communications-regulator,absent,,,,ANRTIC,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The communications regulator is not a service in any ministry; it is funded from its own fees.,2026-10-02
 COM,ict-ministry-egov,found,whole,16,com-2024-09-0905,Agence nationale de développement du numérique (ANADEN); Portail gouvernemental (parent zone),rows,,
-COM,cybersecurity,not looked,,,,Direction nationale de cybersécurité (ANADEN),,,
-COM,data-protection,not looked,,,,,,,
-COM,revenue-systems,not looked,,,,Direction générale des Impôts,,,
+COM,cybersecurity,absent,,,,Direction nationale de cybersécurité (ANADEN),hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service is a cybersecurity body; the digital agency is held whole under the posts and digital ministry.,2026-10-02
+COM,data-protection,absent,,,,,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service is a data protection body.,2026-10-02
+COM,revenue-systems,absent,,,,Direction générale des Impôts,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The customs and tax directorates are services with four natures each and no systems line.,2026-10-02
 COM,treasury-fmis,not looked,,,,Ministère des Finances du Budget et du Secteur bancaire,,,
-COM,procurement,not looked,,,,Autorité de régulation des marchés publics,,,
-COM,electoral-register,not looked,,,,Commission électorale nationale indépendante,,,
-COM,land-registry,not looked,,,,,,,
-COM,social-registry,not looked,,,,,,,
-COM,population-register,not looked,,,,,,,
-COM,data-exchange,not looked,,,,,,,
+COM,procurement,absent,,,,Autorité de régulation des marchés publics,hand,"FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The procurement regulator is service 0413 of the presidency, with no e-procurement line.",2026-10-02
+COM,electoral-register,absent,,,,Commission électorale nationale indépendante,hand,"FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The electoral commission is service 1320 of the interior ministry, with no register line.",2026-10-02
+COM,land-registry,absent,,,,,hand,"FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The domain and land directorate is service 1614, with no registry or cadastre system line.",2026-10-02
+COM,social-registry,absent,,,,,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The social protection directorates are services with no registry line.,2026-10-02
+COM,population-register,absent,,,,,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service is a population register; civil status is held at partial.,2026-10-02
+COM,data-exchange,absent,,,,,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service or line names interoperability or data exchange.,2026-10-02
 CPV,statistics,found,whole,3,cpv-2024-01.03.01-ine,Instituto Nacional de Estatística,rows,,
 CPV,civil-registration-id,found,whole,9,cpv-2024-sniac-pec,,rows,,
 CPV,communications-regulator,not looked,,,,Agência Reguladora Multissectorial da Economia,,,
@@ -351,18 +351,18 @@ LBR,population-register,absent,,,,,hand,"FY2024 to FY2026: each budget book prin
 LBR,data-exchange,absent,,,,,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. No line names interoperability or data exchange.",2026-10-02
 LBY,statistics,found,whole,4,lby-2024-t6.10-r9-ch1,Bureau of Statistics and Census,rows,,
 LBY,civil-registration-id,found,partial,4,lby-2024-t6.9-r12-ch1,General Information Authority,rows,,
-LBY,communications-regulator,not looked,,,,,,,
+LBY,communications-regulator,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. Table 6-24 lists the communications ministry's own office and the information security authority; no regulator is a body in it.",2026-10-02
 LBY,ict-ministry-egov,found,whole,4,lby-2024-t6.24-r2-ch1,Citizen Service Center; Libyan government parent zone,rows,,
 LBY,cybersecurity,found,whole,2,lby-2024-t6.24-r2-ch1,National Information Security and Safety Authority,rows,,
-LBY,data-protection,not looked,,,,,,,
-LBY,revenue-systems,not looked,,,,Libyan Tax Authority,,,
-LBY,treasury-fmis,not looked,,,,Ministry of Finance,,,
-LBY,procurement,not looked,,,,,,,
-LBY,electoral-register,not looked,,,,High National Elections Commission,,,
-LBY,land-registry,not looked,,,,,,,
-LBY,social-registry,not looked,,,,Social Security Fund,,,
-LBY,population-register,not looked,,,,,,,
-LBY,data-exchange,not looked,,,,,,,
+LBY,data-protection,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body is a data protection authority.",2026-10-02
+LBY,revenue-systems,absent,,,,Libyan Tax Authority,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. The tax authority (85.3m and 10.0m in 2025) and customs are bodies with two chapters each and no systems line.",2026-10-02
+LBY,treasury-fmis,absent,,,,Ministry of Finance,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. The finance ministry's information and documentation centre is held at partial; no line names the treasury's system.",2026-10-02
+LBY,procurement,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body is a procurement authority.",2026-10-02
+LBY,electoral-register,absent,,,,High National Elections Commission,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body in the tables is the elections commission.",2026-10-02
+LBY,land-registry,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. The real estate registration authority is a body under the justice ministry (46.2m and 4.0m in 2025), with no system named; not held.",2026-10-02
+LBY,social-registry,absent,,,,Social Security Fund,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body or line is a social registry.",2026-10-02
+LBY,population-register,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. The civil status authority is held at partial under identity; no separate population register is a body.",2026-10-02
+LBY,data-exchange,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body or line names data exchange.",2026-10-02
 LSO,statistics,found,whole,3,lso-2024-304-04-04,Bureau of Statistics,rows,,
 LSO,civil-registration-id,found,whole,8,lso-2024-308-03-02,,rows,,
 LSO,communications-regulator,not looked,,,,Lesotho Communications Authority,,,
