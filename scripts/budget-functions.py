@@ -85,7 +85,8 @@ FUNCTIONS = (
     ("cybersecurity", "Cybersecurity agency / National CERT", ("infra.cybersec",), r""),
     ("data-protection", "Data protection authority", ("gov.protect",), r""),
     ("revenue-systems", "Revenue Service", (),
-     r"revenue (authority|service|administration)|\btax\w*|impots|douan|customs|tribut|"
+     r"revenue (authority|service|administration)|\btax(es|ation)? (admin|depart|division|system|service|"
+     r"policy|modern|collect)|domestic tax|taxpayer|\bitas\b|impots|douan|customs|tribut|"
      r"alfandeg|fiscal\w* (system|information)|aduan|sydonia|asycuda"),
     ("treasury-fmis", "Treasury / Finance", (),
      r"ifmis|\bifms\b|sigfip|sigfe|\bsigif|sistafe|siafe|sigof|financial management "
