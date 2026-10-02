@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Cameroon's seven 2024 programme lines now show what was spent, from the 2024 settlement law. The digital ecosystem programme spent XAF 1.7bn of the 9.5bn voted, because in-year regulation cut its payment credits to 2.0bn.
 - Senegal's 2026 budget table gains four lines from ministry planning volumes: computerising the road transport directorate (XOF 400m), digitalising student grants management (200m), the foreign ministry's digital transformation (77m) and the state's share of the health system digitalisation project (42.8m). The finance law voted each programme unchanged, so each line carries the same figure as proposed and enacted.
 - Tanzania's 2024/25 budget table now shows what the government proposed beside what the Assembly passed, for 115 of its 122 lines. Four changed on the way: the tax modernisation project rose from TZS 20bn to 30bn, the postcode and addressing system fell from 11.1bn to 9.6bn.
 - Kenya's budget tables gain 17 lines from the recurrent estimates, which had not been read: the electoral commission's voter registration (KSh 3.2bn in 2026/27, 2.5bn in 2025/26), the cybercrime coordination committee, the Digital Health Authority and three ministry IT units. None is inside a line already shown.
