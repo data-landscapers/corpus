@@ -525,7 +525,7 @@ GAB,hosting,Communications regulator,communications-regulator,Autorité de Régu
 GAB,deal-recipient,Public Sector,,Government of Gabon,no line,
 GAB,deal-recipient,Public Sector,,Government of Gabon / Agence Nationale de l'Infrastructure Numérique et des Fréquences (ANINF),line,gab-2024-10-10416-adp-aninf
 GHA,hosting,Presidency,,Office of the President,no line,
-GHA,hosting,Parliament,,Parliament of Ghana,no line,
+GHA,hosting,Parliament,,Parliament of Ghana,line,gha-2026-003-00303-00303002
 GHA,hosting,Foreign Affairs,,Ministry of Foreign Affairs and Regional Integration,line,gha-2024-009-passport-office-igf
 GHA,hosting,Defence,,Ministry of Defence,no line,
 GHA,hosting,Armed Forces,,Ghana Armed Forces,no line,

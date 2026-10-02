@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Ghana's 2026 budget table gains 11 lines from nine ministries' and bodies' volumes that are published as page images, GHS 19.7m: Parliament's two ICT services, the civil service office's information management unit and seven statistics and information directorates. Each was read from the page and is held at partial scope except Parliament's ICT support service.
 - Ghana's 2024 budget table gains the Controller and Accountant-General's ICT directorate, GHS 6.2m. It runs the government's financial management system and was already shown for 2025 and 2026.
 - Cameroon's 2024 budget table gains 18 investment projects from the finance bill's project journal, XAF 2.8bn of state money. They include the support line for the National Institute of Statistics (XAF 634m), which no programme-level line showed, the computerisation of the civil registry (133m), the agriculture ministry's central file (300m) and the higher-education network (245m).
 - Ghana's 2025 line for the National Identification Authority rises from GHS 41.9m to 657.5m. The authority is funded under two votes that year, GHS 404.6m under the Interior ministry and 252.9m under the Office of Government Machinery, and the earlier figure left out staff pay and the second vote; the Ghana Card Project's GHS 205.3m is inside the second and is no longer a separate line.
