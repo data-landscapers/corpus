@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- The Central African Republic's budget table now carries its national statistics institute for 2024, 2025 and 2026, read from the same budget volumes and finance laws as its other lines. The state voted the institute XAF 531.8m, 505.0m and 295.0m in those years, most of it transfers, and cut it by 43% for 2026.
 - Guinea-Bissau's budget table now carries official statistics: the state's transfer to the national statistics institute for 2026, and its own money for the population census in 2025 and 2026 and for a household survey in 2025. The four lines total XOF 234m; donor money for the same census and survey is larger and is not counted as state spending.
 - South Sudan's budget table now carries the whole National Bureau of Statistics for 2024/25 and 2025/26, not only its GIS and IT units: twelve more lines from the same two budget books. Nearly all of the money is one capital item, SSP 95.3bn appropriated in 2024/25 and SSP 220.3bn proposed in 2025/26, and the bureau spent SSP 0.4bn in 2024/25.
 
