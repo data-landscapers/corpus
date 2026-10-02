@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-02 09:59 · **BUDGET-REVIEW** · 16m · Budget data review: checks A to D built, pilot on GHA, SEN, MAR, all 52 queued worst first, STP votes read, SSD statistics bureau taken (12 lines); notes-for-osint 197 - ok
 2026-10-02 09:29 · **FIX** · 15m · housekeeping register moved to the share as corpus-housekeeping.md; notes-for-osint 196 asks OSINT to rename its register and archive to osint-housekeeping; lints read either name meanwhile
 2026-10-02 09:19 · **FIX** · 35m · messages-for-bill.md moved to the share; Bill's five replies applied: readings run the full two hours, logs/housekeeping-jobs.md opened with runbook trims 1-5, third-party exposures no longer messaged; one block left open
 2026-10-02 09:05 · **FIX** · 40m · scripts/deploy-state.py: deployed/pending/stuck for the newest site/ commit, --fix cancels and re-runs with GITHUB_TOKEN; called from RENDER Step 7 and /poll; a stuck deploy is one block outside the five, plus a push notification
