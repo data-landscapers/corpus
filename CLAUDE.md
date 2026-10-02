@@ -42,7 +42,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **A finding that carries its own solution is a task, not a message** — do it and log it.
 
-**Upkeep that needs no decision is a housekeeping job, never a message** *(Bill, 2026-10-02)*. `logs/housekeeping-jobs.md` is the register: work that is real, closable and CC's to do, but too big for the run that found it — an over-cap runbook, a stale document, a lint left failing. Each job names its cause and its finish line and fits one session; the counter at the head issues the numbers. **Two things read it**: a cycle started by `/poll` works the oldest open job once, after `--done`, and "run housekeeping" or "run housekeeping job N" works it by hand. A finished job is deleted in the commit that finishes it.
+**Upkeep that needs no decision is a housekeeping job, never a message** *(Bill, 2026-10-02)*. `C:\corpus-osint-xfer\corpus-housekeeping.md` is the register, on the share beside OSINT's: work that is real, closable and CC's to do, but too big for the run that found it — an over-cap runbook, a stale document, a lint left failing. Each job names its cause and its finish line and fits one session; the counter at the head issues the numbers. **Two things read it**: a cycle started by `/poll` works the oldest open job once, after `--done`, and "run housekeeping" or "run housekeeping job N" works it by hand. A finished job is deleted in the commit that finishes it, committed and pushed in the share.
 
 **Corpus observes; it does not disclose** *(Bill, 2026-10-02)*. A third party's exposure met in passing — a hijackable name, a compromised site — is recorded where the work records findings and is not a message.
 

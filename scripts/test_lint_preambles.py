@@ -56,6 +56,7 @@ JOBS = ("# jobs\n\n## NEXT JOB NUMBER: 9\n\n*(Pointer.)*\n\n"
         "## Rough sizing\n\n| Job | Est. |\n\n"
         "## The bar - all six\n\nThe register's own rules, which stay.\n\n"
         "## Done - oldest first\n\n8. A job.\n")
+CORPUS_JOBS = "# jobs\n\n## NEXT JOB NUMBER: 2\n\n*(Pointer.)*\n\n## 1 · A job\n\n- Work.\n"
 FROM_BILL = "# Messages from Bill\n\n*(Pointer.)*\n\n## Block 1\n\nText.\n"
 FOR_BILL = ("---\ntype: log\n---\n\n# Messages for Bill\n\n*(Pointer.)*\n\n"
             "<!-- newest first: a new block goes directly below this line -->\n\n"
@@ -77,6 +78,7 @@ def build(tmp: Path, **over: str) -> tuple[Path, Path]:
         "housekeeping-jobs-resolved.md": JOBS,
         "messages-from-bill.md": FROM_BILL,
         "messages-for-bill.md": FOR_BILL,
+        "corpus-housekeeping.md": CORPUS_JOBS,
     }
     files.update({k: v for k, v in over.items() if k in files})
     for name, text in files.items():

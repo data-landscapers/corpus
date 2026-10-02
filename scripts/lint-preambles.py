@@ -77,8 +77,11 @@ SHARE_FILES = [
     # OSINT's two files, on the boundaries OSINT's own LINT #24 reads. The register's used to
     # run to "## The bar", which counted the sizing table: a table that grows with every open
     # job is content, and under a 100-word cap it would breach whenever jobs were open (R91).
-    ("housekeeping-jobs.md", False, SIZING),         # OSINT's register
-    ("housekeeping-jobs-resolved.md", False, DONE),  # OSINT's archive
+    # Under either name until notes-for-osint 196 (the rename to osint-housekeeping) closes;
+    # then the old names come out.
+    (("osint-housekeeping.md", "housekeeping-jobs.md"), False, SIZING),                 # OSINT's register
+    (("osint-housekeeping-resolved.md", "housekeeping-jobs-resolved.md"), False, DONE),  # OSINT's archive
+    ("corpus-housekeeping.md", True, NOTE),          # CORPUS's register, measured to its first job
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
     ("messages-for-bill.md", True, MARKER),         # CORPUS to Bill; on the share since 2026-10-02
 ]
@@ -103,7 +106,7 @@ RULES = [
 # an archive to satisfy a lint would be falsifying it, so they are held to the preamble cap
 # and nothing else.
 NO_DUPLICATE_CHECK = {"notes-for-osint-resolved.md", "notes-for-corpus-resolved.md",
-                      "housekeeping-jobs-resolved.md"}
+                      "housekeeping-jobs-resolved.md", "osint-housekeeping-resolved.md"}
 
 
 def preamble_of(text: str, stop: str) -> str:
@@ -146,8 +149,11 @@ def main() -> int:
               f"or pass --share.")
         return 2
 
-    files = [(os.path.join(args.share, n), n, owned, stop)
-             for n, owned, stop in SHARE_FILES]
+    files = []
+    for names, owned, stop in SHARE_FILES:
+        names = (names,) if isinstance(names, str) else names
+        n = next((x for x in names if os.path.exists(os.path.join(args.share, x))), names[0])
+        files.append((os.path.join(args.share, n), n, owned, stop))
     texts: dict[str, str] = {}
     failures: list[str] = []
     advisories: list[str] = []

@@ -58,10 +58,11 @@ import sys
 
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 
-HOUSEKEEPING = "housekeeping-jobs.md"
+# OSINT's register, under either name until notes-for-osint 196 (the rename) closes.
+HOUSEKEEPING = ("osint-housekeeping.md", "housekeeping-jobs.md")
 NOTES = "notes-for-osint.md"
 NOTES_RESOLVED = "notes-for-osint-resolved.md"
-RESOLVED = "housekeeping-jobs-resolved.md"
+RESOLVED = ("osint-housekeeping-resolved.md", "housekeeping-jobs-resolved.md")
 # The review registers, read together: numbering continues across reviews, so an R-line names one line
 # in whichever file holds it. They moved into `strategic-reviews/` on 2026-09-25 (share `cbeb6c5`), and
 # the root path this read until then no longer existed, so every R-line closer read as unknown.
@@ -222,8 +223,12 @@ def main(argv=None) -> int:
         print("lint-prepared: ok - no prepared/ folder, so nothing is waiting in it.")
         return 0
 
-    src = {"open": _read(os.path.join(a.share, HOUSEKEEPING)),
-           "resolved": _read(os.path.join(a.share, RESOLVED)),
+    def either(names: tuple[str, ...]) -> str:
+        return next((p for p in (os.path.join(a.share, n) for n in names) if os.path.exists(p)),
+                    os.path.join(a.share, names[0]))
+
+    src = {"open": _read(either(HOUSEKEEPING)),
+           "resolved": _read(either(RESOLVED)),
            "register": "\n".join(_read(p) for g in REGISTERS
                                    for p in sorted(glob.glob(os.path.join(a.share, g)))
                                    if "-comments-" not in os.path.basename(p)),

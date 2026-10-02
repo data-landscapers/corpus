@@ -29,7 +29,7 @@ one turn.
    > RENDER.md Step 0 and its checks, then RENDER Steps 1-7, Log and Mirror —
    > following its unattended rules: never stop to ask, leave anything needing Bill in
    > `C:\corpus-osint-xfer\messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
-   > Then work the oldest open job in `logs/housekeeping-jobs.md`, if there is one, once.
+   > Then work the oldest open job in `C:\corpus-osint-xfer\corpus-housekeeping.md`, if there is one, once.
    > Before standing down, check `C:\corpus-osint-xfer` for uncommitted work, commit it
    > naming OSINT in the subject if the work is OSINT's, and push immediately.
 
