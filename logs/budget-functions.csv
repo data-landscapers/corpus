@@ -57,18 +57,18 @@ BFA,population-register,absent,,,,,hand,"keyword scan of the finance laws' volum
 BFA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names interoperability of data or a data exchange; the one hit is military equipment",2026-10-02
 BWA,statistics,found,whole,6,bwa-2024-0300-0301-02115,Statistics Botswana,rows,,
 BWA,civil-registration-id,found,partial,6,bwa-2024-0400-0402-00725,,rows,,
-BWA,communications-regulator,not looked,,,,Botswana Communications Regulatory Authority,,,
+BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the communications regulator (BOCRA) appears only as a dividend in revenue",2026-10-02
 BWA,ict-ministry-egov,found,whole,39,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
-BWA,cybersecurity,not looked,,,,BW-CIRT,,,
+BWA,cybersecurity,absent,,,,BW-CIRT,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no department or account names cyber security",2026-10-02
 BWA,data-protection,found,whole,3,bwa-2024-2500-2501-02208,,rows,,
 BWA,revenue-systems,found,whole,3,bwa-2024-2000-2004-02014,Botswana Unified Revenue Service,rows,,
-BWA,treasury-fmis,not looked,,,,Ministry of Finance,,,
-BWA,procurement,not looked,,,,Public Procurement Regulatory Authority (formerly PPADB),,,
+BWA,treasury-fmis,absent,,,,Ministry of Finance,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no account names the government accounting and budgeting system",2026-10-02
+BWA,procurement,absent,,,,Public Procurement Regulatory Authority (formerly PPADB),hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the procurement regulator is funded as a body in two accounts and none names a procurement system",2026-10-02
 BWA,electoral-register,found,partial,1,bwa-2026-1600-12341,Independent Electoral Commission,rows,,
-BWA,land-registry,not looked,,,,,,,
-BWA,social-registry,not looked,,,,,,,
-BWA,population-register,not looked,,,,,,,
-BWA,data-exchange,not looked,,,,,,,
+BWA,land-registry,absent,,,,,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Deeds Registry is department 1806, a registry office with no system named; the land administration system sits in a three-department line the sitting did not hold",2026-10-02
+BWA,social-registry,absent,,,,,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no account names a social registry",2026-10-02
+BWA,population-register,absent,,,,,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no account names a population register apart from civil and national registration, held under civil registration",2026-10-02
+BWA,data-exchange,absent,,,,,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no account names a data exchange",2026-10-02
 CAF,statistics,found,whole,3,caf-2024-31-31-00-00-00-150005,Institut centrafricain des statistiques et des études économiques et sociales (ICASEES),rows,,
 CAF,civil-registration-id,found,whole,1,caf-2026-21-2101704240000xxxx03,,rows,,
 CAF,communications-regulator,found,partial,3,caf-2024-85-85-88-00-20-120000-6439-11,Autorité de régulation des communications électroniques et de la Poste (ARCEP),rows,,
@@ -365,18 +365,18 @@ LBY,population-register,absent,,,,,hand,"FY2024 and FY2025: the House of Represe
 LBY,data-exchange,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body or line names data exchange.",2026-10-02
 LSO,statistics,found,whole,3,lso-2024-304-04-04,Bureau of Statistics,rows,,
 LSO,civil-registration-id,found,whole,8,lso-2024-308-03-02,,rows,,
-LSO,communications-regulator,not looked,,,,Lesotho Communications Authority,,,
+LSO,communications-regulator,absent,,,,Lesotho Communications Authority,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the communications authority is funded from its own fees and has no head",2026-10-02
 LSO,ict-ministry-egov,found,whole,3,lso-2024-310-0480,Government of Lesotho portal,rows,,
-LSO,cybersecurity,not looked,,,,,,,
-LSO,data-protection,not looked,,,,,,,
+LSO,cybersecurity,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: cyber security appears as a policy aim and a risk in the text; no cost centre or project is named for it",2026-10-02
+LSO,data-protection,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no head or cost centre names data protection",2026-10-02
 LSO,revenue-systems,found,partial,2,lso-2024-304-0528,Revenue Services Lesotho,rows,,
 LSO,treasury-fmis,found,whole,4,lso-2024-304-02-11,Ministry of Finance and Development Planning,rows,,
-LSO,procurement,not looked,,,,,,,
-LSO,electoral-register,not looked,,,,Independent Electoral Commission,,,
-LSO,land-registry,not looked,,,,Land Administration Authority,,,
-LSO,social-registry,not looked,,,,Ministry of Social Development,,,
-LSO,population-register,not looked,,,,,,,
-LSO,data-exchange,not looked,,,,,,,
+LSO,procurement,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the procurement authority is named in the text and no line funds a procurement system",2026-10-02
+LSO,electoral-register,absent,,,,Independent Electoral Commission,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the electoral commission is head 318, one body, with no line for the voters' register",2026-10-02
+LSO,land-registry,absent,,,,Land Administration Authority,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the deeds register appears in the performance text only; the land authority is funded outside the heads",2026-10-02
+LSO,social-registry,absent,,,,Ministry of Social Development,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a social registry",2026-10-02
+LSO,population-register,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a population register",2026-10-02
+LSO,data-exchange,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a data exchange",2026-10-02
 MAR,statistics,found,whole,40,mar-2024-31-432-00-23-mdd,Haut-Commissariat au Plan,rows,,
 MAR,civil-registration-id,found,whole,5,mar-2024-08-310-00-45-inv,,rows,,
 MAR,communications-regulator,absent,,,,Agence Nationale de Réglementation des Télécommunications,hand,FY2024 and FY2025: the telecommunications regulator has no line in the morasses; it is a public establishment outside the general budget. Every chapter searched.,2026-10-02
@@ -477,16 +477,16 @@ MWI,population-register,not looked,,,,,,,
 MWI,data-exchange,not looked,,,,,,,
 NAM,statistics,found,whole,3,nam-2024-26-md02-nsa,Namibia Statistics Agency,rows,,
 NAM,civil-registration-id,found,whole,7,nam-2026-28-md02-mvrk-sla,,rows,,
-NAM,communications-regulator,not looked,,,,Communications Regulatory Authority of Namibia,,,
+NAM,communications-regulator,absent,,,,Communications Regulatory Authority of Namibia,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Communications Regulatory Authority is funded from its own fees and has no main division",2026-10-02
 NAM,ict-ministry-egov,found,whole,10,nam-2024-02-md06,Office of the Prime Minister,rows,,
-NAM,cybersecurity,not looked,,,,,,,
-NAM,data-protection,not looked,,,,,,,
-NAM,revenue-systems,not looked,,,,Namibia Revenue Agency,,,
-NAM,treasury-fmis,not looked,,,,Ministry of Finance and Public Enterprises,,,
+NAM,cybersecurity,found,whole,1,nam-2026-29-md05,,hand,"the cyber security programme (N$6,000,000 in 2026/27) is an item of the ICT Development main division, which is held whole",2026-10-02
+NAM,data-protection,absent,,,,,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no data protection body is funded; the Information Commission that is held administers access to information",2026-10-02
+NAM,revenue-systems,absent,,,,Namibia Revenue Agency,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a tax or customs system; the revenue agency is funded by one transfer",2026-10-02
+NAM,treasury-fmis,found,partial,1,nam-2026-09-md13,Ministry of Finance and Public Enterprises,hand,"IFMS support (N$9,000,000 in 2026/27) and the Oracle licences are items of the finance vote's ICT main division, which is held at partial",2026-10-02
 NAM,procurement,found,whole,1,nam-2026-09-md09-egp,Central Procurement Board of Namibia,rows,,
 NAM,electoral-register,found,whole,5,nam-2026-28-md01-vpn,Electoral Commission of Namibia,rows,,
 NAM,land-registry,found,whole,9,nam-2024-37-md04-statistica,,rows,,
-NAM,social-registry,not looked,,,,Ministry of Gender Equality Poverty Eradication and Social Welfare,,,
+NAM,social-registry,absent,,,,Ministry of Gender Equality Poverty Eradication and Social Welfare,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a social registry",2026-10-02
 NAM,population-register,found,partial,3,nam-2024-39-md05,,rows,,
 NAM,data-exchange,found,partial,1,nam-2024-37-p37-13-5,,rows,,
 NER,statistics,found,whole,15,ner-2024-06-110-11001004,Institut national de la statistique (INS),rows,,
@@ -519,17 +519,17 @@ NGA,population-register,absent,,,,,hand,"the Appropriation Acts for 2024 to 2026
 NGA,data-exchange,found,whole,3,nga-2024-0156001001-ergp30204129,,rows,,
 RWA,statistics,found,whole,13,rwa-2024-12-1202-01-0101,National Institute of Statistics of Rwanda,rows,,
 RWA,civil-registration-id,found,whole,25,rwa-2024-28-2313-01-0101,National Identification Agency,rows,,
-RWA,communications-regulator,not looked,,,,Rwanda Utilities Regulatory Authority,,,
-RWA,ict-ministry-egov,not looked,,,,Irembo,,,
+RWA,communications-regulator,absent,,,,Rwanda Utilities Regulatory Authority,hand,"keyword scan of the finance laws' annexes for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the utilities regulator (RURA) is funded from its own fees and has no budget agency line",2026-10-02
+RWA,ict-ministry-egov,found,whole,1,rwa-2026-28-1903-98-9803,Irembo,hand,"the Rwanda Information Society Authority, under the ICT ministry, is held in every year",2026-10-02
 RWA,cybersecurity,found,whole,9,rwa-2024-01-0111-01-0101,National Cyber Security Authority,rows,,
 RWA,data-protection,found,whole,3,rwa-2024-01-0111-fr-fr02,,rows,,
 RWA,revenue-systems,found,whole,3,rwa-2024-28-2313-b9-b902,Rwanda Revenue Authority,rows,,
-RWA,treasury-fmis,not looked,,,,Ministry of Finance and Economic Planning,,,
-RWA,procurement,not looked,,,,Rwanda Public Procurement Authority (Umucyo e-procurement),,,
-RWA,electoral-register,not looked,,,,National Electoral Commission,,,
-RWA,land-registry,not looked,,,,Rwanda Land Management and Use Authority,,,
-RWA,social-registry,not looked,,,,Local Administrative Entities Development Agency,,,
-RWA,population-register,not looked,,,,,,,
+RWA,treasury-fmis,absent,,,,Ministry of Finance and Economic Planning,hand,"keyword scan of the finance laws' annexes for 2024/25 to 2026/27, read at the sitting of 2026-09-25: sub-programme 5106, Integrated Financial Management System, appears in 2026/27 at 6,325,920,276 and Annex II-2 prints all of it as externally financed development, so it is not a state row",2026-10-02
+RWA,procurement,absent,,,,Rwanda Public Procurement Authority (Umucyo e-procurement),hand,"keyword scan of the finance laws' annexes for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the procurement authority is funded as a body and no line names a procurement system",2026-10-02
+RWA,electoral-register,absent,,,,National Electoral Commission,hand,"keyword scan of the finance laws' annexes for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the electoral commission is funded as a body with no line for the voter register",2026-10-02
+RWA,land-registry,absent,,,,Rwanda Land Management and Use Authority,hand,"keyword scan of the finance laws' annexes for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no sub-programme names the land register or the land information system",2026-10-02
+RWA,social-registry,absent,,,,Local Administrative Entities Development Agency,hand,"keyword scan of the finance laws' annexes for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the social registry appears once, in a performance target; no sub-programme funds it",2026-10-02
+RWA,population-register,found,whole,1,rwa-2026-28-2313-b9-b903,,hand,the national identification agency's ID system and its population data are held under civil registration and ID; no separate population register is printed,2026-10-02
 RWA,data-exchange,found,whole,2,rwa-2024-01-0102-fcg,,rows,,
 SDN,statistics,not looked,,,,Central Bureau of Statistics,,,
 SDN,civil-registration-id,not looked,,,,,,,
@@ -547,18 +547,18 @@ SDN,population-register,not looked,,,,,,,
 SDN,data-exchange,not looked,,,,,,,
 SEN,statistics,not looked,,,,Agence nationale de la Statistique et de la Démographie,,,
 SEN,civil-registration-id,found,whole,4,sen-2026-33-2009-cni-enrolement,Agence nationale de l'État civil,rows,,
-SEN,communications-regulator,not looked,,,,Autorité de régulation des télécommunications et des postes,,,
+SEN,communications-regulator,absent,,,,Autorité de régulation des télécommunications et des postes,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: no programme or activity names the telecommunications regulator (ARTP), which is funded from its own fees",2026-10-02
 SEN,ict-ministry-egov,found,whole,6,sen-2024-63-2083,Sénégal Numérique S.A. (ex-ADIE); Portail gouvernemental,rows,,
 SEN,cybersecurity,found,whole,2,sen-2026-33-2009-cybercriminalite,,rows,,
-SEN,data-protection,not looked,,,,Commission de protection des données personnelles,,,
+SEN,data-protection,absent,,,,Commission de protection des données personnelles,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: personal-data protection appears in programme text only; no activity funds the data protection commission",2026-10-02
 SEN,revenue-systems,found,whole,1,sen-2026-43-2032-si-douanier,Direction générale des Impôts et des Domaines,rows,,
 SEN,treasury-fmis,found,whole,2,sen-2026-43-1011-sigif,Ministère des Finances et du Budget,rows,,
-SEN,procurement,not looked,,,,Autorité de régulation de la commande publique,,,
+SEN,procurement,absent,,,,Autorité de régulation de la commande publique,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: procurement cells are staff units in each ministry and one activity of 8.9m is procurement management; none names a procurement system or the regulator",2026-10-02
 SEN,electoral-register,found,partial,2,sen-2024-33-cartes-identite-biometriques-ph2,Direction générale des Élections,rows,,
 SEN,land-registry,found,whole,2,sen-2026-43-2037-si-dgid,,rows,,
-SEN,social-registry,not looked,,,,,,,
-SEN,population-register,not looked,,,,,,,
-SEN,data-exchange,not looked,,,,,,,
+SEN,social-registry,absent,,,,,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: no activity names the single national registry or a social registry",2026-10-02
+SEN,population-register,absent,,,,,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: no activity names a population register",2026-10-02
+SEN,data-exchange,absent,,,,,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: interoperability appears in programme text only; no activity funds a data exchange",2026-10-02
 SLE,statistics,found,whole,42,sle-2024-138-1380101-08000000,Statistics Sierra Leone,rows,,
 SLE,civil-registration-id,found,whole,13,sle-2025-203-2030101-1502082204,National Civil Registration Authority,rows,,
 SLE,communications-regulator,found,partial,2,sle-2025-412-4120101-1502031301,National Telecommunications Commission,rows,,
@@ -617,18 +617,18 @@ STP,population-register,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints
 STP,data-exchange,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names interoperability or data exchange.,2026-10-02
 SWZ,statistics,found,whole,14,swz-2024-23-31,,rows,,
 SWZ,civil-registration-id,found,whole,7,swz-2024-43-T524,,rows,,
-SWZ,communications-regulator,not looked,,,,Eswatini Communications Commission,,,
-SWZ,ict-ministry-egov,not looked,,,,Government of Eswatini portal,,,
-SWZ,cybersecurity,not looked,,,,,,,
-SWZ,data-protection,not looked,,,,,,,
-SWZ,revenue-systems,not looked,,,,Eswatini Revenue Service,,,
+SWZ,communications-regulator,absent,,,,Eswatini Communications Commission,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: the communications commission (ESCCOM) is funded outside the budget",2026-10-02
+SWZ,ict-ministry-egov,found,whole,1,swz-2024-43-G649,Government of Eswatini portal,hand,"the ICT ministry (head 43) is held: its computer services department, the e-services platform and the disaster recovery site",2026-10-02
+SWZ,cybersecurity,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: capital project G629 Cyber Security is printed under the computer services activity with no allocation in either year",2026-10-02
+SWZ,data-protection,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names data protection",2026-10-02
+SWZ,revenue-systems,absent,,,,Eswatini Revenue Service,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names a tax or customs system; the revenue service is outside the head structure",2026-10-02
 SWZ,treasury-fmis,found,whole,3,swz-2024-34-G600,,rows,,
 SWZ,procurement,found,whole,3,swz-2024-34-G648,Eswatini Public Procurement Regulatory Agency,rows,,
-SWZ,electoral-register,not looked,,,,Elections and Boundaries Commission,,,
+SWZ,electoral-register,absent,,,,Elections and Boundaries Commission,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: the elections commission's head describes continuous voter registration and prints no line for the register",2026-10-02
 SWZ,land-registry,found,partial,2,swz-2025-10-X509,,rows,,
 SWZ,social-registry,found,whole,3,swz-2024-06-S354,,rows,,
-SWZ,population-register,not looked,,,,,,,
-SWZ,data-exchange,not looked,,,,,,,
+SWZ,population-register,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names a population register apart from the civil registration systems that are held",2026-10-02
+SWZ,data-exchange,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names interoperability or a data exchange",2026-10-02
 SYC,statistics,found,whole,12,syc-2024-040j000-p1,National Bureau of Statistics,rows,,
 SYC,civil-registration-id,found,partial,3,syc-2024-064x000-p2,,rows,,
 SYC,communications-regulator,found,partial,3,syc-2024-020d000-p1,,rows,,
@@ -715,17 +715,17 @@ UGA,population-register,absent,,,,,hand,"keyword scan of Vol. I of the approved 
 UGA,data-exchange,absent,,,,,hand,"keyword scan of Vol. I of the approved estimates for 2024/25, 2025/26 and 2026/27, every row of which was read at the sitting of 2026-09-24: no row names interoperability or a data exchange; the government network (GOVNET) is held under the ICT authority",2026-10-02
 ZAF,statistics,found,whole,120,zaf-2024-14-5-business-modernisation,Statistics South Africa,rows,,
 ZAF,civil-registration-id,found,whole,7,zaf-2024-5-1-transversal-information-technology-management,,rows,,
-ZAF,communications-regulator,not looked,,,,ICASA,,,
+ZAF,communications-regulator,absent,,,,ICASA,hand,"keyword scan of the Estimates of National Expenditure for 2024, 2025 and 2026, read across every vote at the sitting of 2026-09-22: the Independent Communications Authority's transfer in Vote 30 is to a multi-purpose regulator (broadcasting, postal and electronic communications) and is not a row under the single-mandate test",2026-10-02
 ZAF,ict-ministry-egov,found,whole,12,zaf-2024-11-4-e-enablement-and-ict-service-infrastructure-management,Government portal (GCIS); Department of Communications and Digital Technologies,rows,,
-ZAF,cybersecurity,not looked,,,,Cybersecurity Hub (national CSIRT),,,
+ZAF,cybersecurity,absent,,,,Cybersecurity Hub (national CSIRT),hand,"keyword scan of the Estimates of National Expenditure for 2024, 2025 and 2026, read across every vote at the sitting of 2026-09-22: cybersecurity appears in Vote 30's programme text with no sub-programme of its own; the CSIR cyberinfrastructure line that is held is research computing",2026-10-02
 ZAF,data-protection,found,whole,4,zaf-2024-25-5-information-regulator,Information Regulator,rows,,
 ZAF,revenue-systems,found,partial,3,zaf-2024-8-8-south-african-revenue-service,South African Revenue Service,rows,,
-ZAF,treasury-fmis,not looked,,,,National Treasury,,,
+ZAF,treasury-fmis,found,whole,1,zaf-2026-8-5-financial-systems,National Treasury,hand,"the National Treasury's Financial Systems sub-programme, which maintains the financial systems and builds the integrated financial management system, is held whole in each year",2026-10-02
 ZAF,procurement,found,whole,1,zaf-2026-8-5-e-government-procurement-system,National Treasury eTender portal,rows,,
-ZAF,electoral-register,not looked,,,,Electoral Commission of South Africa (IEC),,,
+ZAF,electoral-register,absent,,,,Electoral Commission of South Africa (IEC),hand,"keyword scan of the Estimates of National Expenditure for 2024, 2025 and 2026, read across every vote at the sitting of 2026-09-22: the Electoral Commission is one transfer in Home Affairs' vote with no line for the voters' roll",2026-10-02
 ZAF,land-registry,found,whole,2,zaf-2025-42-2-south-african-spatial-data-infrastructure,Department of Land Reform and Rural Development (Deeds Office),rows,,
-ZAF,social-registry,not looked,,,,South African Social Security Agency (SASSA); Department of Social Development,,,
-ZAF,population-register,not looked,,,,,,,
+ZAF,social-registry,absent,,,,South African Social Security Agency (SASSA); Department of Social Development,hand,"keyword scan of the Estimates of National Expenditure for 2024, 2025 and 2026, read across every vote at the sitting of 2026-09-22: no sub-programme or transfer names a social registry",2026-10-02
+ZAF,population-register,found,partial,1,zaf-2026-5-2-status-services,,hand,Home Affairs' Status Services sub-programme keeps the national population register and is held at partial,2026-10-02
 ZAF,data-exchange,found,whole,5,zaf-2024-14-7-data-and-information-management,,rows,,
 ZMB,statistics,found,whole,5,zmb-2024-37-3467-03-01-13,Zambia Statistics Agency,rows,,
 ZMB,civil-registration-id,found,whole,6,zmb-2024-15-4176-02-02-15,Department of National Registration Passport and Citizenship,rows,,
