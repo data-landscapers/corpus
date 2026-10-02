@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Sierra Leone's budget table now carries Statistics Sierra Leone, which had no line: NLe 35.2m in 2024, 186.5m in 2025 and 436.8m proposed for 2026. Most of the last two is the population and housing census, at NLe 150m and 400m.
 - Uganda's budget table now carries the whole vote of the Uganda Bureau of Statistics for 2024/25 to 2026/27, department by department: UGX 158.3bn, 134.3bn and 141.4bn. Only its two digital departments were in the table before; the 2024/25 lines carry what was released and spent.
 - Tunisia's 2024 budget table now carries the whole of its National Institute of Statistics: the pay and operating grants and nine more project lines, including TND 56.0m for the 2024 population census. The institute's state money for 2024 is TND 95.0m; only its IT plan and mapping system were in the table before.
 - Zimbabwe's budget table now carries the state's grants to its national statistics agency, ZIMSTAT, for 2024, 2025 and 2026: nine lines for pay, running costs and capital. The grants are ZiG 748.6m for 2025 and ZiG 684.0m for 2026, and Z$193.9bn for 2024, which was voted before the currency changed.

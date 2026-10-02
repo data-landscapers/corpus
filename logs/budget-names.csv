@@ -1199,30 +1199,30 @@ SLE,hosting,Defence,,Ministry of Defence,no line,
 SLE,hosting,Police,,Sierra Leone Police,line,sle-2025-206-2060201-1502081003
 SLE,hosting,Justice,,Office of the Attorney General and Ministry of Justice,line,sle-2024-124-1240501-0404040202
 SLE,hosting,Justice,,Sierra Leone Judiciary,line,sle-2024-118-1180102-0404020417
-SLE,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,sle-2024-129-1290103-0404010206
+SLE,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,sle-2024-138-1380602-0807010122
 SLE,hosting,Revenue Service,revenue-systems,National Revenue Authority,line,sle-2026-129-1290303-1502030306
 SLE,hosting,Intelligence,,Office of National Security,line,sle-2024-214-2140101-04000000
 SLE,hosting,Interior / Home Affairs,,Ministry of Internal Affairs,line,sle-2024-205-2050101-0407040217
 SLE,hosting,Central Bank,,Bank of Sierra Leone,no line,
 SLE,hosting,Civil registry / National ID authority,civil-registration-id,National Civil Registration Authority,line,sle-2024-203-2030101-04000000
 SLE,hosting,Electoral commission,electoral-register,Electoral Commission for Sierra Leone,line,sle-2024-134-1340101-0406020405
-SLE,hosting,Statistics office,statistics,Statistics Sierra Leone,line,sle-2024-132-1320102-0404020505
-SLE,hosting,Health ministry / National health insurance,,Ministry of Health,line,sle-2024-304-3040202-0103030139
+SLE,hosting,Statistics office,statistics,Statistics Sierra Leone,line,sle-2024-138-1380101-08000000
+SLE,hosting,Health ministry / National health insurance,,Ministry of Health,line,sle-2024-138-1380301-0807010111
 SLE,hosting,Social protection / Social registry,social-registry,National Commission for Social Action,no line,
 SLE,hosting,Land registry,land-registry,"Ministry of Lands, Housing and Country Planning",no line,
 SLE,hosting,Sovereign wealth fund / National pension fund,,National Social Security and Insurance Trust,no line,
-SLE,hosting,Public procurement authority,procurement,National Public Procurement Authority,line,sle-2024-129-1290103-0404010206
+SLE,hosting,Public procurement authority,procurement,National Public Procurement Authority,line,sle-2024-138-1380604-0807010145
 SLE,hosting,Energy utility,,Electricity Distribution and Supply Authority,no line,
 SLE,hosting,Ports authority,,Sierra Leone Ports Authority,no line,
 SLE,hosting,State-owned telco / National backbone operator,,Sierratel,no line,
 SLE,hosting,E-government agency,ict-ministry-egov,Government of Sierra Leone,no line,
 SLE,hosting,Communications regulator,communications-regulator,National Telecommunications Commission,line,sle-2024-412-4120101-0807011206
-SLE,hosting,Audit office,,Audit Service Sierra Leone,no line,
+SLE,hosting,Audit office,,Audit Service Sierra Leone,line,sle-2024-138-1380102-0807010104
 SLE,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
 SLE,deal-recipient,Public Sector,,Sierratel,no line,
 SLE,deal-recipient,Public Sector,,Republic of Sierra Leone,no line,
 SLE,deal-recipient,Private Sector,,Orange Sierra Leone,no line,
-SLE,deal-recipient,Public Sector,,Statistics Sierra Leone (Stats-SL),line,sle-2024-132-1320102-0404020505
+SLE,deal-recipient,Public Sector,,Statistics Sierra Leone (Stats-SL),line,sle-2024-138-1380101-08000000
 SOM,hosting,Presidency,,Office of the President (Villa Somalia),no line,
 SOM,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
 SOM,hosting,Defence,,Ministry of Defence,no line,
