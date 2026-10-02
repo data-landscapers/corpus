@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-09-25
+compiled: 2026-10-02
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 131
+sources_cited: 132
 sections_written: 39
 not_established: 4
 acquire_lines: 39
@@ -187,7 +187,7 @@ The demand side is thin. [Account ownership at a financial institution or with a
 
 The other registries are uneven. [The 2024 presidential register held 1,939,342 voters against a voting-age population of 2,510,244, a coverage rate of 77.2%](https://www.idea.int/data-tools/data/country?country=141&database_theme=293), compiled as [the biometric RAVEL 2023 register, which requires a valid biometric identity card and is deduplicated against the national ID database](https://www.ifes.org/sites/default/files/2024-06/Election%20Snapshot%20Mauritania%20Presidential%20Elections%202024.pdf). A [single general Tax Identification Number covers all tax operations, individuals and businesses alike](https://impots.gov.mr/DGI/espace_particulier.html) (2025), and a [National Social Registry of the poorest households](https://www.worldbank.org/en/news/feature/2024/09/05/afw-transforming-lives-in-mauritania-through-adaptive-social-protection) carries social-protection targeting (2024). Consular registration has moved online for the Riyadh mission's zone, [through a platform delivering the consular card, travel authorisation, legalisation and repatriation permits without attending a mission](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/), though [the consular registration service remains the competent authority for issuing services and updating records](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/).
 
-Land is the weakest. World Bank land governance work finds [no national cadastral plan or land register, with formal registration concentrated in urban areas](https://documents1.worldbank.org/curated/en/099110824061522855/pdf/P500687-27dfa6ec-9081-4e5a-ac8b-5f3fec38494e.pdf) (2025), and the [TEHLIL legal cadastre and the electronic land registry set up in Nouakchott in 2014 now sit under a modernisation reform launched in September 2025 and being extended progressively across the country](https://www.domaines.gov.mr/index.php/mot-dg/). There is [no operational national address register either: terms of reference were issued in March 2025 for support to MAURIPOST in implementing a georeferenced digital addressing system under the World Bank's WARDIP programme](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf).
+Land is the weakest. World Bank land governance work finds [no national cadastral plan or land register, with formal registration concentrated in urban areas](https://documents1.worldbank.org/curated/en/099110824061522855/pdf/P500687-27dfa6ec-9081-4e5a-ac8b-5f3fec38494e.pdf) (2025), and the [TEHLIL legal cadastre and the electronic land registry set up in Nouakchott in 2014 now sit under a modernisation reform launched in September 2025 and being extended progressively across the country](https://www.domaines.gov.mr/index.php/mot-dg/). There is [no operational national address register either: terms of reference were issued in March 2025 for support to MAURIPOST in implementing a georeferenced digital addressing system under the World Bank's WARDIP programme](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf). The digital ministry [presented the system on 29 September 2026, with a pilot version expected by the end of the year](https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
