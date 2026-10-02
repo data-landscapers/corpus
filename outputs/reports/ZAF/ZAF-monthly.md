@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: ZAF
-ledger_rows: 108
+ledger_rows: 111
 not_held: 22
-record: 92882fb7452d
+record: 9a67389f487f
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The home affairs minister [set 31 March 2027 as the end of green ID book product
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them.
+On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -107,7 +107,7 @@ On 9 September South Africa and Lesotho [agreed to speed up smart one-stop borde
 <!-- narrative: dpi--dpi-id -->
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
-In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published.
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -123,6 +123,11 @@ Paystack [introduced card payment inside the Shopify merchant checkout without r
 An association of non-bank payment providers [said the last of the Payments Association of South Africa's functions passed to the Reserve Bank and PayInc on 2 September, and that the Bank is taking its papers into account in an interchange determination project](https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/). It has also sent the Bank a proposal on merchant acceptance of PayShap. No draft interchange determination has been published.
 
 Absa [put an institutional digital-asset custody service live on 21 September, built on Ripple's custody technology](https://www.itweb.africa/article/absa-sets-digital-asset-custody-milestone/WnpNgM21yNz7VrGd), for asset managers, non-bank financial institutions, corporates and treasuries. It is not a retail offering, and no client or asset figures have been published.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -194,7 +199,7 @@ The agency's managing director [said on 22 September that 60% of executive commi
 
 The [Presidential Hotline, run since September 2009 on the state IT agency's case-management platform, was the subject of an oversight visit on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre), with automation on the agenda. The [ParliMeter platform, which tracks MPs' attendance, bills, committees and ministerial answers, passed to the Parliamentary Monitoring Group as its EU-funded phase ended](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figures.
 
-A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a total across five southern African countries with no figure for South Africa alone.
+A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a total across five southern African countries with no figure for South Africa alone. The regulator [withdrew its telecommunications affordability inquiry notice on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), 26 days after gazetting it, and [says it will republish it with a draft questionnaire](https://www.icasa.org.za/news/2026/icasa-withdraws-notices-on-ott-services-and-telecommunications-affordability-inquiries).
 <!-- /narrative -->
 ### Digital divides
 

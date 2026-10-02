@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: SEN
-ledger_rows: 45
+ledger_rows: 46
 not_held: 3
-record: df987d4c203b
+record: 892412150d59
 ---
 
 # Senegal: monthly update, September – October 2026
@@ -34,7 +34,7 @@ The ministry [called on 24 September for firms to study the interoperability pla
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the vote is not held.
+On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open. The text, bill 21/2026, [was adopted in committee and taken in plenary on 29 September](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); the plenary [sent it back to committee that day](https://senego.com/assemblee-coup-de-theatre-le-projet-de-loi-sur-la-carte-didentite-retourne-en-commission_2007288.html) on a motion by the law committee's chair, who raised procurement, the use of national firms and foreign custody of citizens' data. The interior minister [had told the committee the card contract with the Malaysian supplier ends on 21 May 2027, too soon to renew every card](https://senegaldirect.com/cartes-didentite-mouhamadou-moukhtar-cisse-explique-la-prorogation-exceptionnelle/).
 <!-- /narrative -->
 ### Data protection
 
@@ -68,7 +68,7 @@ The exchange point at Dakar is the month's measurable position: it carries [260 
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given.
+The interior minister [told a National Assembly committee that the government is developing national storage for civil-status, identity-card and passport data, including a data centre](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html), after the attack on the identity-file directorate; no site, cost or date is given. A commercial operator [reported expanded data-centre capacity at its site](https://techafricanews.com/2026/10/02/stellarix-senegal-expands-data-centre-capacity-to-support-ai-and-digital-growth/), with no capacity or cost figure.
 <!-- /narrative -->
 ### Cybersecurity
 

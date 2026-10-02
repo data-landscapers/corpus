@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: AGO
-ledger_rows: 34
+ledger_rows: 36
 not_held: 6
-record: 09a08c8f4ea6
+record: 3a20fdf7297a
 ---
 
 # Angola: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The statistics institute [put a revision of the statistics law and a draft 2026-
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held.
+The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -65,7 +65,7 @@ The state printer [inaugurated a data centre on 11 September with more than 170 
 <!-- narrative: dpi--dpi-exchange -->
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
-The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated.
+The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

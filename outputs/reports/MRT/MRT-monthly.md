@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: MRT
-ledger_rows: 16
+ledger_rows: 17
 not_held: 3
-record: d55404420557
+record: 2a4663e2aed2
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -60,7 +60,12 @@ A retrospective rather than an operator disclosure, and it is the repository's f
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The digital and land ministers [presented a national digital addressing system for consultation at a four-day workshop from 29 September 2026](https://www.ami.mr/archives/269446), under the World Bank-financed regional digital integration programme; no launch date is published. Holders of rural land concessions inside the capital's urban zone [were called to register on a national platform by 18 September](https://ami.mr/fr/archives/301729).
+The digital and land ministers [presented a national digital addressing system for consultation at a four-day workshop from 29 September 2026](https://www.ami.mr/archives/269446), under the World Bank-financed regional digital integration programme; [a pilot version is expected by the end of 2026](https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce). Holders of rural land concessions inside the capital's urban zone [were called to register on a national platform by 18 September](https://ami.mr/fr/archives/301729).
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The tax directorate [said public establishments must use an electronic platform for invoicing, tax declarations and payment of taxes and withholdings from 1 November 2026](https://fr.tawassoul.net/mauritanie-les-etablissements-publics-passeront-a-la-facturation-et-aux-paiements-electroniques-des-novembre/): suppliers register invoices on it first, and no invoice within the system may be paid unless validated there. The platform is not named and no legal instrument is cited.
 <!-- /narrative -->
 
 ## Technology

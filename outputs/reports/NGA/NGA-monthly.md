@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: NGA
-ledger_rows: 121
+ledger_rows: 124
 not_held: 9
-record: 7937f1622d9f
+record: 13becfb038a1
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -100,7 +100,7 @@ The national response team [recorded a rise in high-impact incidents across sect
 <!-- narrative: dpi--dpi-exchange -->
 The education repository put figures against its institution count. It now holds [907 enrolled institutions — 259 universities and 163 polytechnics among them — past 400,000 theses and dissertations with 115,000 credentials verified](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), reported on 7 September. [Submissions run 409,456 undergraduate against 1,563 postgraduate](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), a ratio of 262 to one, so what is being built is a record of first degrees.
 
-Three more exchanges were proposed in September, none yet built. The education ministry [disclosed talks with the national youth service scheme on an interface to verify qualifications against the repository](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/); at Seme-Krake the customs service [offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts, the two administrations sharing one post but no system](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/); and the financial intelligence unit [opened co-design with banks, fintechs and insurers of a platform to share intelligence against illicit flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/). None states a legal basis for the sharing.
+Three more exchanges were proposed in September, none yet built. The education ministry [disclosed talks with the national youth service scheme on an interface to verify qualifications against the repository](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/); at Seme-Krake the customs service [offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts, the two administrations sharing one post but no system](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/); and the financial intelligence unit [opened co-design with banks, fintechs and insurers of a platform to share intelligence against illicit flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/). None states a legal basis for the sharing. The disease control centre [signed a memorandum to pilot automated disease reporting from private facilities into its surveillance system](https://thesun.ng/ncdc-hfn-pharmaccess-sign-moc-to-strengthen-private-sector-disease-surveillance/), with no start date stated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -137,7 +137,7 @@ The electoral roll got its own numbers on 8 September. The commission said the r
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
-The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published.
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -203,7 +203,7 @@ A [US$12m Korean-funded Abuja Centre for Entrepreneurship is under construction 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/).
+The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/). Free digital and employability training [opened for 50,000 young people in the North-Central states and the federal capital](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/), towards a national target of 300,000.
 <!-- /narrative -->
 
 ## Inclusion

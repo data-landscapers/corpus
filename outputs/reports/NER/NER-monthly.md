@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: NER
-ledger_rows: 17
+ledger_rows: 18
 not_held: 1
-record: ff3a10aaa923
+record: 67f0ec121e02
 ---
 
 # Niger: monthly update, September – October 2026
@@ -71,6 +71,11 @@ Retail pricing moved without the tariff moving. An operator [announced a night b
 The passport break with ECOWAS is complete. [Mass enrolment for the confederal biometric passport opens on 15 September at 45,000 FCFA, enrolment for the ECOWAS passport having closed on 10 September](https://nigerdiaspora.net/societe-niger/niger-lenrolement-pour-le-passeport-biometrique-aes-debute-le-15-septembre-2026).
 
 Public enrolment for the confederation's passport began. [Enrolment opened in Niamey on 15 September at FCFA 45,000 for an ordinary passport and FCFA 29,750 for children and students, with regional and diaspora centres and online pre-enrolment through three mobile-money services to follow](https://www.biometricupdate.com/202609/niger-begins-operational-rollout-of-aes-biometric-passport). Niger is the last of the three states to issue the document, and no enrolment count is published.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The operator of the vehicle one-stop shop [opened payment of some of its services by mobile money on 1 October](https://www.actuniger.com/societe/22417-guichet-unique-automobile-soniloga-ouvre-le-paiement-de-ses-prestations-a-airtel-money), by app or an offline code; which services are covered is not stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

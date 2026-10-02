@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: GAB
-ledger_rows: 37
+ledger_rows: 38
 not_held: 15
-record: fe717e83fdf1
+record: eb6c03ea9cc5
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -28,7 +28,7 @@ The new infrastructure and cybersecurity directorate has a head. The Council of 
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The Council of Ministers at Port-Gentil on 18 September 2026 [adopted a decree setting how qualified electronic-signature certificates and other trust services are issued](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf). It covers electronic signatures and seals, website authentication, the electronic stamp, the standardised e-invoice and the e-visa, with accreditation conditions for providers. Its publication in the official journal is not held.
+The Council of Ministers at Port-Gentil on 18 September 2026 [adopted a decree setting how qualified electronic-signature certificates and other trust services are issued](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf). It covers electronic signatures and seals, website authentication, the electronic stamp, the standardised e-invoice and the e-visa, with accreditation conditions for providers. Its publication in the official journal is not held. Draft legal texts on digital infrastructure, cybersecurity, digital services and the institutional framework [went to a validation review of about ten days at Nkok from 1 October](https://techafricanews.com/2026/10/02/gabon-begins-validation-of-digital-transformation-legal-framework/), under the World Bank-financed digital programme; the texts are not held.
 <!-- /narrative -->
 ### Data protection
 

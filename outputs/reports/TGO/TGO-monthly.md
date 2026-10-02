@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: TGO
 ledger_rows: 46
 not_held: 21
-record: 39fe248442e7
+record: e8e371463d9b
 ---
 
 # Togo: monthly update, September – October 2026
@@ -106,7 +106,7 @@ An agricultural information system changed hands: [SIHAM, which sends forecasts,
 <!-- narrative: dpi--dpi-govtech -->
 The transit-tracking system took on a new cargo type: the revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo), under a system operational since October 2022. No device count, cost or evaluation criterion is published.
 
-The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/).
+The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/). The foreign ministry [put ten administrative procedures on the portal from 1 October, and six consular services on a separate portal for Togolese abroad](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/).
 <!-- /narrative -->
 
 ## Digitalisation

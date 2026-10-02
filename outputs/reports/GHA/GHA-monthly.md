@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: GHA
-ledger_rows: 78
+ledger_rows: 81
 not_held: 9
-record: 4f64cdc5663d
+record: 3cabd2ce405a
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The month closed on the ministry's own account of itself, and the honest half of
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan.
+The communications minister told a UNESCO ministerial forum that [government has begun implementing measures against the gaps a UNESCO readiness assessment found in digital infrastructure, AI capacity and cybersecurity resilience](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), reported on 15 September. No procurement, site or completion date is published for the investment figures attached to the plan. The communications minister [announced a centralised technical review of every AI system bought by a public institution](https://itweb.africa/article/ghana-tightens-scrutiny-of-public-sector-ai-buys/mYZRX79gbbjqOgA8), scoped by the national information technology agency against interoperability, data-protection, cybersecurity and skills-transfer requirements; no directive or start date is published.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -33,7 +33,7 @@ The legislative programme itself got a ministerial account on 7 September: under
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published.
+The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published. The President [confirmed publicly in New York that Cabinet rejected the United States health agreement](https://ghananewsglobal.com/president-mahama-defends-rejection-of-u-s-health-compact-calls-terms-humiliating-and-a-threat-to-sovereignty/) over demands for pathogen samples, medical records and exemption from the food and drugs regulator; the United States chargé d'affaires [said on 29 September it was meant to taper assistance toward country ownership](https://gna.org.gh/2026/09/u-s-seeks-transition-from-health-aid-dependency-to-country-ownership-rolf-olson/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -85,7 +85,7 @@ The storage estate gained a number rather than a building. The communications mi
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
-On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published.
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated.
 <!-- /narrative -->
 
 ## DPI

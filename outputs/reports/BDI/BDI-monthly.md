@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: BDI
-ledger_rows: 6
+ledger_rows: 7
 not_held: 15
-record: b2470ecedf78
+record: 926ba3acebb4
 ---
 
 # Burundi: monthly update, September – October 2026
@@ -28,7 +28,7 @@ The draft law on access to public information, adopted in Council of Ministers o
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The Senate [unanimously adopted the access to information bill on 29 September 2026](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/), after its committee reviewed the government's and the National Assembly's versions. The bill creates a National Commission on Access to Public Information that hears appeals and a duty to publish certain information within 30 days, with exceptions for national security, private life and ongoing judicial investigations and no statutory ceiling on access fees. The account rests on a Senate committee report as read by one outlet; no text is published.
+The Senate [unanimously adopted the access to information bill on 29 September 2026](https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/), after its committee reviewed the government's and the National Assembly's versions. The bill creates a National Commission on Access to Public Information that hears appeals and a duty to publish certain information within 30 days, with exceptions for national security, private life and ongoing judicial investigations and no statutory ceiling on access fees. The account rests on a Senate committee report as read by one outlet; no text is published. Mandatory SIM registration, begun in mid-June, [was about 70 per cent complete on the regulator's count](https://www.connectingafrica.com/regulation/burundi-sim-registration-process-faces-challenges-scams-persist), amid long queues, few service points, slow systems and continuing scams; operators must keep customer data for at least five years.
 <!-- /narrative -->
 
 ## ICT Infrastructure

@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: KEN
-ledger_rows: 111
+ledger_rows: 114
 not_held: 7
-record: 467332007753
+record: d9eb6fa7b686
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -28,14 +28,14 @@ Government communication was centralised. The broadcasting principal secretary [
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come.
+The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
-The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October.
+The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October. The High Court [ordered the largest operator on 18 September to give a subscriber, within 21 days, the particulars of every request to access or disclose her communications and mobile money data and the access logs it holds](https://sheriahub.com/cases/ke/caselaw/matey-v-safaricom-plc-2026-kehc-13624-klr.pdf), under the constitutional right of access to information; compliance is not on record.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -49,7 +49,7 @@ The ICT cabinet secretary [signed the Digital Cooperation Organization's Charter
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The technology authority [put the National Information Security Framework's audit, risk-management and certification toolkits to a stakeholder workshop in Nairobi](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/), reported on 7 September, to test whether they are practical before critical information infrastructure is certified.
+The technology authority [put the National Information Security Framework's audit, risk-management and certification toolkits to a stakeholder workshop in Nairobi](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/), reported on 7 September, to test whether they are practical before critical information infrastructure is certified. The central bank [said its AI survey will feed a guidance note for the banking sector on data and AI governance, risk mitigation and third-party vendors](https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf); no draft or date is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -150,7 +150,7 @@ The claims platform was quantified from the settlement end for the first time. T
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
-The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/).
+The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -186,7 +186,7 @@ A model provider [disclosed that it had removed a domestic actor's account mass-
 
 The Kenya Medical Research Institute [is a partner in openScopes AIDDiA, a four-year, GBP 4.4m Wellcome Trust-funded programme led by the University of Cape Town that pairs open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which held its kick-off from 7 to 11 September.
 
-At the UN General Assembly Kenya [co-hosted the launch of a 2026-2027 roadmap for children's rights and protection in the age of AI, backed by 23 states and eight UN entities](https://techreviewafrica.com/news/7445/); no national instrument implements it. In Nairobi a [pan-African hub and data network for disability-inclusive AI was launched](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/) with Maseno University's applied AI centre among its partners, and the same centre [began onboarding Dholuo speakers for a speech dataset](https://techreviewafrica.com/news/7404/).
+At the UN General Assembly Kenya [co-hosted the launch of a 2026-2027 roadmap for children's rights and protection in the age of AI, backed by 23 states and eight UN entities](https://techreviewafrica.com/news/7445/); no national instrument implements it. In Nairobi a [pan-African hub and data network for disability-inclusive AI was launched](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/) with Maseno University's applied AI centre among its partners, and the same centre [began onboarding Dholuo speakers for a speech dataset](https://techreviewafrica.com/news/7404/). The central bank [published its March 2025 survey on 22 September: half of surveyed institutions had adopted AI, 30 per cent held a formal AI strategy and credit risk assessment was the leading use, at 65 per cent of adopters](https://www.centralbank.go.ke/uploads/banking_sector_annual_reports/1241268828_ANNUAL%20REPORT%202025.pdf).
 <!-- /narrative -->
 ### ICT Industry
 

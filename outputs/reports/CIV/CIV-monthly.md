@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: CIV
-ledger_rows: 30
+ledger_rows: 31
 not_held: 10
-record: 2c04793b7db7
+record: 262c307ddcd8
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -25,7 +25,7 @@ The government and the private sector [signed a national AI pact on 11 September
 <!-- narrative: governance--gov-policy -->
 Closing the national workshop on prioritising public digital services on 4 September, the digital transition minister argued for [unified governance through a relaunched National Digital Council placed under the Prime Minister, presenting it as a condition of the state's digital transformation](https://www.linfodrome.com/economie/125096-digitalisation-des-services-publics-la-cote-d-ivoire-veut-un-pilote-unique-pour-ses-projets-d-etat), against a paperless state by 2030. It is an argument for a relaunch: no decree, membership or first meeting is held.
 
-The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030.
+The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030. The digital acceleration project [shortlisted six firms or consortia to support implementation of the country's digital and artificial intelligence compact](https://www.jeuneafrique.com/annonce/1847460/avis-de-resultats-de-la-manifestation-dinteret-n-ci-padci-564344-cs-cqs-26/), in a results notice published on 30 September; the compact's own text is not held.
 <!-- /narrative -->
 ### Legislation and regulation
 

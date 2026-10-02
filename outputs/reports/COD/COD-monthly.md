@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: COD
-ledger_rows: 42
+ledger_rows: 45
 not_held: 7
-record: 7bb9e8c49815
+record: 05b389f41c18
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -28,7 +28,7 @@ Two World Bank-supported studies [on infrastructure sharing, national roaming, l
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection of minors in the digital environment with the National Assembly on 21 September](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la), framed as a special law beside the Code du numérique and the child-protection law, with rules for children under six and under eleven and stronger provisions for under-15s. The text is not published.
+Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection of minors in the digital environment with the National Assembly on 21 September](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la), framed as a special law beside the Code du numérique and the child-protection law, with rules for children under six and under eleven and stronger provisions for under-15s. The text is not published. The Senate [declared admissible on 28 September a senator's bill amending the Digital Code to bar children under 13 from social platforms, with supervised accounts from 13 to 15 and mandatory age verification](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13); it went to a joint committee.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -79,7 +79,7 @@ The identity pilot is hiring before it enrols: the ministry [retained 50 agents 
 
 The national digital identity platform moved to enrolment: [its first 50 agents began training on 15 September](https://7sur7.cd/2026/09/16/rdc-pass-lancement-de-la-formation-des-50-premiers-agents-denregistrement), the minister stating that it is an authentication tool and not a national identity card.
 
-On International Identity Day the identification office [said preparations for the population identification system are complete and that data collection will begin in December 2026](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/). No enrolment target or budget line accompanies the date.
+On International Identity Day the identification office [said preparations for the population identification system are complete and that data collection will begin in December 2026](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/). No enrolment target or budget line accompanies the date. The minister delegate for the diaspora [launched the pilot phase of digital identification of Congolese abroad at the embassy in Paris on 27 September and presented the registration platform in Brussels two days later](https://b-onetv.cd/diaspora-congolaise-lancement-a-paris-et-bruxelles-de-la-phase-pilote-de-lidentification-numerique/); no enrolment figure or link to the national identification office is given.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -89,7 +89,7 @@ The revenue chain's own record came into dispute. The tax directorate [wrote to 
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own.
+A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own. The President [gave the government three months, at the Council of Ministers of 25 September, to define a single identifier for businesses recognised across administrations](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/); no lead agency or system is named.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -101,7 +101,7 @@ The revenue side of the digitisation put a number on itself. On a broadcast acco
 <!-- narrative: dpi--dpi-govtech -->
 The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
 
-The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced.
+The minister [said on 28 September that the Prime Minister had also signed the decree creating a Guichet numérique to give access to administrative services online](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No service or launch date has been announced. The electoral commission [launched on 28 September a programme to digitise the electoral archives produced since 2005 into a single document repository](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/), with training for 762 staff; no cost or funder is stated.
 <!-- /narrative -->
 
 ## Technology
@@ -130,7 +130,7 @@ For the school year that opened on 1 September, the education and health ministr
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The central census bureau's technical coordinator said on 1 September that [the cartography phase of the second general population census is under way with digital tools and satellite imagery](https://www.radiookapi.net/2026/09/01/emissions/parole-aux-auditeurs/operations-de-la-cartographie-en-cours). No enumeration date is published.
+The central census bureau's technical coordinator said on 1 September that [the cartography phase of the second general population census is under way with digital tools and satellite imagery](https://www.radiookapi.net/2026/09/01/emissions/parole-aux-auditeurs/operations-de-la-cartographie-en-cours). No enumeration date is published. Census cartography [was launched on 28 September, the operation costed at USD 192 million with general enumeration from July 2027](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir); ministers said the census counts residents and identifies no one.
 <!-- /narrative -->
 ### Open data
 

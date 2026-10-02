@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: MWI
-ledger_rows: 36
+ledger_rows: 37
 not_held: 35
-record: ecae85605611
+record: 17472d43fd03
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -47,7 +47,7 @@ The largest digital programme on the books came under review. The World Bank [op
 <!-- narrative: ict-infrastructure--infra-connect -->
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 
-The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date.
+The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used.
 <!-- /narrative -->
 ### Data Storage
 
@@ -88,6 +88,11 @@ On 29 September India's High Commissioner [met UNDP and UNCDF to review the achi
 
 <!-- narrative: dpi--dpi-pay -->
 The police service [introduced electronic payment of traffic fines from the week of 4 September 2026, at headquarters and in the six police regions](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2), through commercial banks and both mobile money services. A non-governmental programme that pays lump sums of about US$550 to the poorest adults by mobile money [was expanded by a US$150m donation](https://www.ednews.africa/p/canvas-150m-boost-expands-givedirectlys); how many households the expansion reaches is not stated.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+The tobacco regulator's new biometric grower registration [broke down at centres in Lilongwe, Ntcheu and Rumphi](https://www.nyasatimes.com/malawi-tobacco-farmers-face-days-in-the-cold-amid-registration-chaos/): devices failed to sync with the central server and scanners failed to capture elderly farmers' fingerprints, leaving farmers camped for days. An unregistered grower gets no quota and no access to the auction floor. The account is one outlet's; the regulator's response is not held.
 <!-- /narrative -->
 ### Sectoral management information systems
 

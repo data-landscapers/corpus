@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: TUN
-ledger_rows: 42
+ledger_rows: 45
 not_held: 5
-record: 353799ee7009
+record: 212495e54dc1
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The health minister [set an end-2026 target for a national health identifier for
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the trade ministry in drafting a national e-commerce strategy, with planning meetings held from 31 March to 2 April 2026](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9); no adoption date is stated.
+Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the trade ministry in drafting a national e-commerce strategy, with planning meetings held from 31 March to 2 April 2026](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9); no adoption date is stated. The health and communication technologies ministers [signed a National Health Pact on 1 October](https://www.tunisienumerique.com/sante-tunisie-pacte-national-couverture-sanitaire-universelle/), with sovereign governance of health data and modernised digital platforms among its six axes; its text and budget are not held.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -103,7 +103,7 @@ The health ministry and UNICEF [set the priority needs for a national digital pl
 
 The family ministry [brought a case system for child-protection delegates into service on 11 September, digitising notifications on children at risk](https://www.alchourouk.com/article/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9); no access rule or volume is published.
 
-Labour inspection moved onto a system of its own. The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published.
+Labour inspection moved onto a system of its own. The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published. The health ministry [announced a national platform to track medicine stocks and the generalisation of e-pharmacy](https://www.tunisienumerique.com/medicaments-comment-la-tunisie-veut-prevenir-les-ruptures-avant-quelles-ne-surviennent/), with no supplier or launch date.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -146,5 +146,5 @@ Against that intake runs the outflow. An annual analyst study carries the Order 
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it.
+The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it. The regulator's survey [breaks internet use down by age, income, sex and district](https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/): 99.2 per cent at 18 to 24 against 54.1 per cent at 60 to 70, and 69.1 per cent in the poorest households against 95.9 per cent in the richest.
 <!-- /narrative -->

@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: MOZ
-ledger_rows: 30
+ledger_rows: 31
 not_held: 19
-record: 8b848eaba52c
+record: 6cd36feb9908
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -87,7 +87,7 @@ The digital agency [has submitted a consultancy shortlist to the World Bank for 
 <!-- narrative: dpi--dpi-pay -->
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 
-Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/).
+Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/). The central bank governor [said the country will join the regional settlement system with the metical in the first quarter of 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/), so that invoices from South Africa are settled from metical accounts.
 <!-- /narrative -->
 ### Registries
 

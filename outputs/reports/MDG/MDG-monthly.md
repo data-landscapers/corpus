@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: MDG
 ledger_rows: 21
 not_held: 5
-record: f95d49617ac6
+record: 367e341949a9
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -25,7 +25,7 @@ In payments, the finance ministry [announced a task force on mobile-money compla
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. [The session that opened on 17 September lists seventeen bills and neither digital bill among them, its order paper set by presidential decree](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html); no bill text is published.
+The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. [The session that opened on 17 September lists seventeen bills and neither digital bill among them, its order paper set by presidential decree](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html); no bill text is published. The electronic communications bill, [submitted to the Assembly on 28 August, waits for a future session](https://www.ecofinagency.com/news/0210-59411-madagascar-has-80-4g-coverage-yet-mobile-internet-remains-out-of-reach-for-most); [its text](https://pub-7e0d3a35c1b949698a7ced344fa56252.r2.dev/textes/040-2026/traduction/PL-040-2026_AUTRE_MG.docx), 140 articles, would end every monopoly in the sector with no transitional period and oblige data-centre operators to keep data on national territory.
 <!-- /narrative -->
 ### Regional collaboration
 

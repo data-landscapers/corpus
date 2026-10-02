@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-02
+period: 2026-09-01 to 2026-10-02
 place: UGA
-ledger_rows: 55
+ledger_rows: 58
 not_held: 11
-record: 723245c0b285
+record: 082608bd8491
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -72,7 +72,7 @@ The bankers' association [counted 6,533 cyber and fraud incidents in the financi
 
 <!-- narrative: dpi--dpi-exchange -->
 
-The month's exchange story is a border system working for someone else. The revenue authority, with its Kenyan counterpart, [continues to enforce a US-dollar e-Permit charge on imports bound for South Sudan, levied before any tax assessment is issued, on behalf of a UK-registered firm the United States sanctioned in May over the diversion of public resources and foreign assistance](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern); the firm's staff are deployed at border points under South Sudan Revenue Authority cover, and the Tanzanian and Rwandan authorities have publicly dissociated themselves from the arrangement. The revenue authority is not recorded as answering the account, and no agreement or legal basis for the Ugandan side is published.
+The month's exchange story is a border system working for someone else. The revenue authority, with its Kenyan counterpart, [continues to enforce a US-dollar e-Permit charge on imports bound for South Sudan, levied before any tax assessment is issued, on behalf of a UK-registered firm the United States sanctioned in May over the diversion of public resources and foreign assistance](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern); the firm's staff are deployed at border points under South Sudan Revenue Authority cover, and the Tanzanian and Rwandan authorities have publicly dissociated themselves from the arrangement. The revenue authority is not recorded as answering the account, and no agreement or legal basis for the Ugandan side is published. The information technology authority [said on 1 October that its integration platform connects the identity register to more than 150 agencies, banks and telecoms operators](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026) for real-time verification.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -83,7 +83,7 @@ The cards are printed and not working. The registration authority [holds about 5
 
 The revenue authority then gave a firmer account than the finance minister's: [the TIN will be phased out for individuals in favour of the NIN, with companies using their registration number](https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026).
 
-The internal affairs minister [launched the integration of the national identification and tax identification systems](https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems) at the first national identity expo in Kololo, reported on 30 September. No commencement date or count of linked records is given.
+The internal affairs minister [launched the integration of the national identification and tax identification systems](https://ntv.co.ug/news/national-news/government-launches-integration-of-national-id-tax-identification-systems) at the first national identity expo in Kololo, reported on 30 September. No commencement date or count of linked records is given. The registration authority [announced a nationwide exercise in December 2026 to register learners without identification numbers and correct errors in identity records](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -101,7 +101,7 @@ A sectoral register was added beside them. The trade, industry and cooperatives 
 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 
-The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held.
+The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -149,7 +149,7 @@ One domestic firm passed into foreign ownership, and the consideration is not on
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform and the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Uganda, Tanzania and Senegal. No contract value is stated.
+Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform and the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Uganda, Tanzania and Senegal. No contract value is stated. The communications regulator [re-advertised its call for a single partner to run the third phase of its innovation programme](https://pmldaily.com/news/2026/09/ucc-seeks-partner-to-accelerate-local-ict-innovations-under-third-e-booster-phase.html), closing on 12 October.
 <!-- /narrative -->
 
 ## Capacity
