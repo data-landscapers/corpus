@@ -125,20 +125,20 @@ COD,land-registry,found,whole,2,cod-2024-55-55200-231012,Ministère des Affaires
 COD,social-registry,found,whole,2,cod-2024-64-64200-231023,Caisse nationale de sécurité sociale des agents publics de l'État (CNSSAP),rows,,
 COD,population-register,not looked,,,,,,,
 COD,data-exchange,found,whole,8,cod-2024-48-48261-231005,,rows,,
-COG,statistics,not looked,,,,Institut national de la statistique,,,
-COG,civil-registration-id,not looked,,,,,,,
-COG,communications-regulator,not looked,,,,Agence de régulation des postes et des communications électroniques,,,
-COG,ict-ministry-egov,not looked,,,,Agence de développement de l'économie numérique; Gouvernement de la République du Congo (zone parente),,,
-COG,cybersecurity,not looked,,,,Agence nationale de sécurité des systèmes d'information,,,
-COG,data-protection,not looked,,,,,,,
-COG,revenue-systems,not looked,,,,Direction générale des impôts et des domaines,,,
+COG,statistics,absent,,,,Institut national de la statistique,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The plan ministry (Code 36 in 2025, 88 in 2026) prints steering, planning and regional integration, and no statistics programme; the institute has no line at this grain.",2026-10-02
+COG,civil-registration-id,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme names civil registration or identity; a civil-status fee system appears in the law as a levy key with no amount.",2026-10-02
+COG,communications-regulator,absent,,,,Agence de régulation des postes et des communications électroniques,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The regulator is funded by levy shares the law prints as percentages with no amount, and has no programme.",2026-10-02
+COG,ict-ministry-egov,found,partial,1,cog-2026-45-118,Agence de développement de l'économie numérique; Gouvernement de la République du Congo (zone parente),hand,"FY2025 and FY2026: programme 118 of the posts, telecommunications and digital economy ministry, held at partial.",2026-10-02
+COG,cybersecurity,absent,,,,Agence nationale de sécurité des systèmes d'information,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The information-systems security agency is unappropriated at any grain; from 2026 it has a levy share with no amount.",2026-10-02
+COG,data-protection,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme or dotation names data protection.",2026-10-02
+COG,revenue-systems,absent,,,,Direction générale des impôts et des domaines,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The finance ministry prints a programme for mobilising budget revenue and no systems line beside the special account held for the treasury.",2026-10-02
 COG,treasury-fmis,found,whole,2,cog-2025-cst-urbanisation-si-fp,Ministère des Finances du Budget et du Portefeuille public,rows,,
-COG,procurement,not looked,,,,Autorité de régulation des marchés publics,,,
-COG,electoral-register,not looked,,,,,,,
-COG,land-registry,not looked,,,,,,,
-COG,social-registry,not looked,,,,,,,
-COG,population-register,not looked,,,,,,,
-COG,data-exchange,not looked,,,,,,,
+COG,procurement,absent,,,,Autorité de régulation des marchés publics,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme or dotation names public procurement or its regulator.",2026-10-02
+COG,electoral-register,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme or dotation names elections or an electoral register.",2026-10-02
+COG,land-registry,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The land affairs ministry prints access to land and state domain, and no cadastre or registry programme.",2026-10-02
+COG,social-registry,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. The social affairs ministry prints social action and humanitarian action, and no registry line.",2026-10-02
+COG,population-register,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme names a population register.",2026-10-02
+COG,data-exchange,absent,,,,,hand,"FY2025 and FY2026: the finance law prints every ministry's programmes, 137 and 139 of them, and nothing finer; all were read on 2026-09-25. No programme names interoperability or data exchange.",2026-10-02
 COM,statistics,found,whole,12,com-2024-08-0808,INSEED,rows,,
 COM,civil-registration-id,found,partial,3,com-2024-06-0615,,rows,,
 COM,communications-regulator,not looked,,,,ANRTIC,,,
