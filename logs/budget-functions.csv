@@ -232,7 +232,7 @@ ETH,data-protection,found,whole,2,eth-2026-183-05-01-t,,rows,,
 ETH,revenue-systems,found,whole,7,eth-2024-152-03-01-00-001,Ministry of Revenues,rows,,
 ETH,treasury-fmis,found,whole,3,eth-2024-152-03-01-00-001,Ministry of Finance,rows,,
 ETH,procurement,found,whole,4,eth-2025-263-04-04-00-071,Public Procurement and Property Authority,rows,,
-ETH,electoral-register,absent,,,,National Election Board of Ethiopia,hand,keyword scan of the sprint's parse of the federal budget's bodies and programmes for EFY2017 to EFY2019: no programme names a voter register,2026-10-02
+ETH,electoral-register,absent,,,,National Election Board of Ethiopia,hand,"EFY2018 (2025/26): the federal budget proclamation prints body 117, Office of the National Election Board, by programme and sub-programme - support and service; civic and voters education; supervising political parties; election operation and logistics (8,426,512,537) - with no voter-register line (PDF p. 67)",2026-10-03
 ETH,land-registry,found,whole,9,eth-2024-177-01-01-00-002,,rows,,
 ETH,social-registry,absent,,,,Ministry of Labor and Skills,hand,keyword scan of the sprint's parse of the federal budget's bodies and programmes for EFY2017 to EFY2019: no programme names a social registry,2026-10-02
 ETH,population-register,absent,,,,,hand,keyword scan of the sprint's parse of the federal budget's bodies and programmes for EFY2017 to EFY2019: no programme names a population register,2026-10-02
