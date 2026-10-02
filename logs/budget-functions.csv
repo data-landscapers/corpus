@@ -575,18 +575,18 @@ SLE,population-register,not looked,,,,,,,
 SLE,data-exchange,not looked,,,,,,,
 SOM,statistics,found,whole,4,som-2024-0106-010601,Somali National Bureau of Statistics,rows,,
 SOM,civil-registration-id,found,whole,4,som-2024-0107-010702,National Identification and Registration Authority (NIRA),rows,,
-SOM,communications-regulator,not looked,,,,National Communications Authority,,,
-SOM,ict-ministry-egov,not looked,,,,Federal Government of Somalia government zone,,,
+SOM,communications-regulator,found,partial,1,som-2026-0307-0307014,National Communications Authority,hand,"FY2026: the National Communications Authority, sub-head 030701, held at programme grain.",2026-10-02
+SOM,ict-ministry-egov,found,whole,1,som-2026-0307-0307002,Federal Government of Somalia government zone,hand,"FY2026: the communications ministry's Government Digitalization programme, head 0307.",2026-10-02
 SOM,cybersecurity,found,whole,1,som-2026-0307-0307015,,rows,,
 SOM,data-protection,found,whole,2,som-2025-0307-030702,,rows,,
-SOM,revenue-systems,not looked,,,,,,,
-SOM,treasury-fmis,not looked,,,,Ministry of Finance,,,
-SOM,procurement,not looked,,,,,,,
-SOM,electoral-register,not looked,,,,National Independent Electoral and Boundaries Commission,,,
-SOM,land-registry,not looked,,,,,,,
-SOM,social-registry,not looked,,,,Ministry of Labour and Social Affairs,,,
-SOM,population-register,not looked,,,,,,,
-SOM,data-exchange,not looked,,,,,,,
+SOM,revenue-systems,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; the finance ministry prints a revenue mobilisation programme in 2026 and no systems line, and no economic item names software.",2026-10-02
+SOM,treasury-fmis,absent,,,,Ministry of Finance,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; the Accountant General (010501) prints no line for the financial management system, which the Act's articles name.",2026-10-02
+SOM,procurement,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; the Public Procurement Authority (010504 in 2024) is one sub-head with no e-procurement line.",2026-10-02
+SOM,electoral-register,absent,,,,National Independent Electoral and Boundaries Commission,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; the electoral and boundaries commission (012300) prints boundaries delimitation in 2026 and no register line.",2026-10-02
+SOM,land-registry,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; no sub-head or programme names land registration.",2026-10-02
+SOM,social-registry,absent,,,,Ministry of Labour and Social Affairs,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; the labour and social affairs ministry (0403) prints no registry line; its safety-net money is grant-financed.",2026-10-02
+SOM,population-register,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; no line names a population register beside the identity authority, which is held.",2026-10-02
+SOM,data-exchange,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; no line names interoperability or data exchange.",2026-10-02
 SSD,statistics,found,whole,12,ssd-2024-sta-natstat-fss-monitoring-evaluation,National Bureau of Statistics,rows,,
 SSD,civil-registration-id,found,partial,2,ssd-2024-mih-isc-immigration,,rows,,
 SSD,communications-regulator,found,whole,2,ssd-2024-nca-regulating-telecoms,National Communication Authority,rows,,
