@@ -39,7 +39,7 @@ BEN,procurement,absent,,,,Autorité de régulation des marchés publics (ARMP),h
 BEN,electoral-register,absent,,,,Commission électorale nationale autonome (CENA),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the electoral commission is dotation 008, one sum, with no line for the electoral list",2026-10-02
 BEN,land-registry,found,partial,2,ben-2026-037-088-pip13,Agence nationale du domaine et du foncier (ANDF),rows,,
 BEN,social-registry,absent,,,,Agence nationale de la protection sociale (ANPS),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: no line names a social registry",2026-10-02
-BEN,population-register,absent,,,,,hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the population register appears once, in the interior ministry's programme text beside civil status, whose agency is held",2026-10-02
+BEN,population-register,found,whole,1,ben-2026-009-010002-1192,,hand,"the identification agency, which keeps the national register of persons, is held from the Presidency's section in every year",2026-10-02
 BEN,data-exchange,not looked,,,,,,,
 BFA,statistics,found,whole,9,bfa-2024-14-032-0320213,Institut national de la statistique et de la démographie,rows,,
 BFA,civil-registration-id,found,whole,14,bfa-2024-09-012-0120809,Office national d'identification,rows,,
