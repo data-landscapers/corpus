@@ -323,18 +323,18 @@ GNQ,population-register,not looked,,,,,,,
 GNQ,data-exchange,found,partial,2,gnq-2024-21-21a-008,,rows,,
 KEN,statistics,found,whole,3,ken-2024-1072-0707010,Kenya National Bureau of Statistics,rows,,
 KEN,civil-registration-id,found,whole,15,ken-2024-1024-0605010,State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau),rows,,
-KEN,communications-regulator,not looked,,,,Communications Authority of Kenya,,,
+KEN,communications-regulator,absent,,,,Communications Authority of Kenya,hand,keyword scan of the programme budgets and development estimates for 2024/25 to 2026/27: the Communications Authority of Kenya is funded from its own fees and has no vote or head,2026-10-02
 KEN,ict-ministry-egov,found,whole,14,ken-2024-1122-0210010,"eCitizen; ICT Authority; Ministry of Information, Communications and the Digital Economy",rows,,
 KEN,cybersecurity,found,whole,1,ken-2026-1122-0222010,National KE-CIRT/CC,rows,,
 KEN,data-protection,found,whole,1,ken-2026-1122-0222020,Office of the Data Protection Commissioner,rows,,
-KEN,revenue-systems,not looked,,,,Kenya Revenue Authority,,,
-KEN,treasury-fmis,not looked,,,,The National Treasury,,,
-KEN,procurement,not looked,,,,Public Procurement Regulatory Authority; Government tenders portal,,,
+KEN,revenue-systems,found,whole,1,ken-2024-1071-1071102700,Kenya Revenue Authority,hand,"the revenue authority's ERP and CRM systems are a project head of the Treasury's development vote in 2024/25 (KES 40,000,000, removed by Supplementary I); no later year prints a revenue-system head",2026-10-02
+KEN,treasury-fmis,found,whole,5,ken-2024-1071-1071104000,The National Treasury,rows,,
+KEN,procurement,found,whole,4,ken-2024-1071-1071104800,Public Procurement Regulatory Authority; Government tenders portal,rows,,
 KEN,electoral-register,found,whole,3,ken-2024-2031-0617040,Independent Electoral and Boundaries Commission (IEBC),rows,,
 KEN,land-registry,found,whole,6,ken-2024-1112-0121010,Ministry of Lands (Ardhisasa),rows,,
-KEN,social-registry,not looked,,,,National Social Security Fund; State Department for Social Protection,,,
+KEN,social-registry,absent,,,,National Social Security Fund; State Department for Social Protection,hand,keyword scan of the programme budgets and development estimates for 2024/25 to 2026/27: the Enhanced Single Registry appears as an output of the social protection department's programme text in 2025/26 and no sub-programme or project head is named for it,2026-10-02
 KEN,population-register,found,whole,3,ken-2024-1024-0605010,,rows,,
-KEN,data-exchange,not looked,,,,,,,
+KEN,data-exchange,absent,,,,,hand,"keyword scan of the programme budgets and development estimates for 2024/25 to 2026/27: interoperability appears once, as an indicator; no line funds a data exchange",2026-10-02
 LBR,statistics,found,whole,3,lbr-2024-114-0400,Liberia Institute of Statistics and Geo-Information Services,rows,,
 LBR,civil-registration-id,found,whole,3,lbr-2024-142-0100,National Identification Registry,rows,,
 LBR,communications-regulator,absent,,,,Liberia Telecommunications Authority,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. The telecommunications authority is not a spending entity in any book; it is funded from its own fees.",2026-10-02
