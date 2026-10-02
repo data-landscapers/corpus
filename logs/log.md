@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-02 22:09 · **ANALYTICS** · 1m · 2026-09-29..2026-10-01 written; 1 Oct: dl.io 50 views / 0 clicks, corpus 179 views / 2 clicks
 2026-10-02 22:08 · **NOTES** · 20m · Note 76 closed: budget-watch.py's fetch-list command deleted. 77 queued as a Senegal sitting; 74, 75 and 77 open for the finance step. OSINT's uncommitted share work committed first. Share 8cd62a0 - ok
 2026-10-02 17:08 · **BUDGET-REVIEW** · unclocked · DR Congo's votes recorded for 2024 to 2026; check D stands at 33 countries, 83 country-years. Run ended early at 12:10 against a five-hour window; the remaining sittings are in budget-followups.
 2026-10-02 12:07 · **BUDGET-REVIEW** · unclocked · Follow-ups closed: UGA 2026 vote completed, CPV 2024-25 added, SLE stage and outturn, KEN 2025 and RWA 2024-25 revised stages (54 rows); BEN sections recorded; check D at 32 countries, 414 lines added in all.
