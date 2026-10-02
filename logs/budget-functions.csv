@@ -309,17 +309,17 @@ GNB,population-register,absent,,,,,hand,"FY2025 and FY2026: the detail annex pri
 GNB,data-exchange,absent,,,,,hand,"FY2025 and FY2026: the detail annex prints every chapter of every secção, 380 and 367 chapters, and was read whole on 2026-09-24. No chapter names interoperability or data exchange.",2026-10-02
 GNQ,statistics,found,whole,47,gnq-2024-34-34d-020,Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE),rows,,
 GNQ,civil-registration-id,found,whole,14,gnq-2024-16-16a-005,,rows,,
-GNQ,communications-regulator,not looked,,,,Órgano Regulador de Telecomunicaciones (ORTEL),,,
-GNQ,ict-ministry-egov,not looked,,,,Gobierno de la República de Guinea Ecuatorial,,,
+GNQ,communications-regulator,absent,,,,Órgano Regulador de Telecomunicaciones (ORTEL),hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names the telecommunications regulator (ORTEL),2026-10-02
+GNQ,ict-ministry-egov,found,partial,1,gnq-2024-19-19c-009,Gobierno de la República de Guinea Ecuatorial,hand,"the transport, posts and new technologies ministry's ICT lines are held from the investment programme",2026-10-02
 GNQ,cybersecurity,found,whole,5,gnq-2024-51-51b-010,,rows,,
-GNQ,data-protection,not looked,,,,,,,
+GNQ,data-protection,absent,,,,,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names data protection,2026-10-02
 GNQ,revenue-systems,found,whole,7,gnq-2024-20-20a-002,,rows,,
-GNQ,treasury-fmis,not looked,,,,Ministerio de Hacienda y Presupuestos,,,
-GNQ,procurement,not looked,,,,,,,
-GNQ,electoral-register,not looked,,,,,,,
-GNQ,land-registry,not looked,,,,,,,
-GNQ,social-registry,not looked,,,,,,,
-GNQ,population-register,not looked,,,,,,,
+GNQ,treasury-fmis,absent,,,,Ministerio de Hacienda y Presupuestos,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names a treasury or financial management system,2026-10-02
+GNQ,procurement,absent,,,,,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names a procurement system,2026-10-02
+GNQ,electoral-register,absent,,,,,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names the electoral census or roll,2026-10-02
+GNQ,land-registry,absent,,,,,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): the cadastre appears once as a heading with no system named,2026-10-02
+GNQ,social-registry,absent,,,,,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names a social registry,2026-10-02
+GNQ,population-register,absent,,,,,hand,keyword scan of the budget law volumes for 2024 and 2026 (no 2025 volume is published): no line names a population register,2026-10-02
 GNQ,data-exchange,found,partial,2,gnq-2024-21-21a-008,,rows,,
 KEN,statistics,found,whole,3,ken-2024-1072-0707010,Kenya National Bureau of Statistics,rows,,
 KEN,civil-registration-id,found,whole,15,ken-2024-1024-0605010,State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau),rows,,
@@ -421,18 +421,18 @@ MLI,population-register,absent,,,,,hand,"keyword scan of the finance laws for 20
 MLI,data-exchange,found,whole,2,mli-2024-310-1.011-32-6-2016-2969-001-000000,,rows,,
 MOZ,statistics,found,whole,37,moz-2024-27a000141-27a006441-fun,Instituto Nacional de Estatística,rows,,
 MOZ,civil-registration-id,found,whole,39,moz-2024-17a000141-17a002741-fun,Direcção Nacional de Identificação Civil; Direcção Nacional dos Registos e Notariado (registo civil),rows,,
-MOZ,communications-regulator,not looked,,,,Instituto Nacional das Comunicações de Moçambique,,,
+MOZ,communications-regulator,absent,,,,Instituto Nacional das Comunicações de Moçambique,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no organ or project names the communications regulator (INCM),2026-10-02
 MOZ,ict-ministry-egov,found,whole,10,moz-2024-52a000141-52a004041-fun,Instituto Nacional de Governo Electrónico; Governo de Moçambique (parent zone),rows,,
 MOZ,cybersecurity,found,whole,5,moz-2024-52a000141-52a001641-fun,CSIRT Nacional; Instituto Nacional de Tecnologias de Informação e Comunicação,rows,,
-MOZ,data-protection,not looked,,,,,,,
-MOZ,revenue-systems,not looked,,,,Autoridade Tributária de Moçambique,,,
+MOZ,data-protection,absent,,,,,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no organ or project names data protection,2026-10-02
+MOZ,revenue-systems,absent,,,,Autoridade Tributária de Moçambique,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no project names a tax or customs system,2026-10-02
 MOZ,treasury-fmis,found,whole,1,moz-2025-65a000841-65a000841-ege2020of05,Ministério da Economia e Finanças,rows,,
-MOZ,procurement,not looked,,,,Unidade Funcional de Supervisão das Aquisições; Portal de Concursos Públicos,,,
-MOZ,electoral-register,not looked,,,,Secretariado Técnico de Administração Eleitoral,,,
-MOZ,land-registry,not looked,,,,Direcção Nacional de Terras e Desenvolvimento Territorial,,,
-MOZ,social-registry,not looked,,,,Instituto Nacional de Acção Social,,,
-MOZ,population-register,not looked,,,,,,,
-MOZ,data-exchange,not looked,,,,,,,
+MOZ,procurement,absent,,,,Unidade Funcional de Supervisão das Aquisições; Portal de Concursos Públicos,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no project names a procurement system,2026-10-02
+MOZ,electoral-register,absent,,,,Secretariado Técnico de Administração Eleitoral,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: the elections commission is an organ funded as a body; no line names the electoral census,2026-10-02
+MOZ,land-registry,absent,,,,Direcção Nacional de Terras e Desenvolvimento Territorial,hand,"keyword scan of the budget laws' maps and the general state account for 2024 to 2026: electronic cadastre and licensing campaigns are small provincial activities in the account's project list, with no land information system named",2026-10-02
+MOZ,social-registry,absent,,,,Instituto Nacional de Acção Social,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no organ or project names a social registry,2026-10-02
+MOZ,population-register,absent,,,,,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no organ or project names a population register,2026-10-02
+MOZ,data-exchange,absent,,,,,hand,"keyword scan of the budget laws' maps and the general state account for 2024 to 2026: the government interoperability platform and an interoperability laboratory are activities of an externally financed project (the account prints them under Externo only), so they are not state rows",2026-10-02
 MRT,statistics,found,whole,36,mrt-2024-81-41-01-03,Agence Nationale de la Statistique et de l'Analyse Démographique et Économique,rows,,
 MRT,civil-registration-id,found,whole,9,mrt-2024-73-42-01-02,Agence Nationale du Registre des Populations et des Titres Sécurisés,rows,,
 MRT,communications-regulator,absent,,,,Autorité de Régulation Multisectorielle,hand,"keyword scan of the finance laws and revised laws for 2024 to 2026, read at the sitting of 2026-09-24: no chapter names the regulation authority; the ANAC hits are civil aviation",2026-10-02
@@ -463,18 +463,18 @@ MUS,population-register,found,partial,1,mus-2026-CSD-0203,,hand,"the Central Pop
 MUS,data-exchange,found,whole,1,mus-2026-MITCI-2302-230201,,hand,"the InfoHighway, the government's data exchange, is an of-which line (Rs 12,000 thousand in 2026/27) inside sub-programme 230201, which is held whole; estimates 2026-27, MITCI, p. 7",2026-10-02
 MWI,statistics,found,whole,40,mwi-2024-276-001-020-1,National Statistical Office,rows,,
 MWI,civil-registration-id,found,whole,42,mwi-2024-344-001-020-1,National Registration Bureau,rows,,
-MWI,communications-regulator,not looked,,,,Malawi Communications Regulatory Authority,,,
+MWI,communications-regulator,absent,,,,Malawi Communications Regulatory Authority,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the regulator (MACRA) is levy-funded outside the estimates",2026-10-02
 MWI,ict-ministry-egov,found,whole,30,mwi-2024-330-033-192-1,,rows,,
 MWI,cybersecurity,found,whole,15,mwi-2024-091-001-163-3,,rows,,
-MWI,data-protection,not looked,,,,,,,
-MWI,revenue-systems,not looked,,,,Malawi Revenue Authority,,,
+MWI,data-protection,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Data Protection Bill appears in programme text; no vote or sub-programme funds an authority",2026-10-02
+MWI,revenue-systems,absent,,,,Malawi Revenue Authority,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the tax system appears in budget statement text; the revenue authority's vote names no system",2026-10-02
 MWI,treasury-fmis,found,whole,6,mwi-2024-271-001-200-3,Ministry of Finance and Economic Affairs,rows,,
 MWI,procurement,found,whole,3,mwi-2024-271-001-23090,Public Procurement and Disposal of Assets Authority,rows,,
-MWI,electoral-register,not looked,,,,Malawi Electoral Commission,,,
+MWI,electoral-register,absent,,,,Malawi Electoral Commission,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the electoral commission's sub-programmes are pre-election, polling, civic and voter education and media; none names the voters' register, and its ICT sub-programme (150m in 2023/24) carries nothing in 2024/25",2026-10-02
 MWI,land-registry,found,partial,1,mwi-2025-130-130-020-1,Ministry of Lands,rows,,
-MWI,social-registry,not looked,,,,,,,
-MWI,population-register,not looked,,,,,,,
-MWI,data-exchange,not looked,,,,,,,
+MWI,social-registry,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Unified Beneficiary Registry is an output in programme text; no sub-programme line funds it by name",2026-10-02
+MWI,population-register,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no sub-programme names a population register apart from national registration, held",2026-10-02
+MWI,data-exchange,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Boma Lathu data exchange is named in the ICT ministry's programme text and not as a line of its own",2026-10-02
 NAM,statistics,found,whole,3,nam-2024-26-md02-nsa,Namibia Statistics Agency,rows,,
 NAM,civil-registration-id,found,whole,7,nam-2026-28-md02-mvrk-sla,,rows,,
 NAM,communications-regulator,absent,,,,Communications Regulatory Authority of Namibia,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Communications Regulatory Authority is funded from its own fees and has no main division",2026-10-02
