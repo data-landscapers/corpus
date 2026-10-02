@@ -76,8 +76,8 @@ FUNCTIONS = (
      r"\b(arcep|artp|arpt|anrt|artci|arptc|arpce|artec|arcom)\b"),
     ("ict-ministry-egov", "E-government agency", (),
      r"\be ?gov|govern\w* electron|administration electron|ministry of (ict|information and comm|"
-     r"communications?|digital|technology)|minist\w+ (de l[ae]? ?|du |da |das |dos )?(economie )?"
-     r"(numerique|digital|communicat|tecnolog|transition numerique|postes)|information technology "
+     r"communications?|digital|technology)|minist\w+ (de l[ae]? ?|des? |du |da |das |dos )?(economie )?"
+     r"(numerique|digital|communicat|telecommunicat|tecnolog|transition numerique|postes)|information technology "
      r"(agency|authority)|agence (nationale )?(de l informatique|des systemes d information|"
      r"du numerique|de developpement du digital)|digital (transformation|economy)|"
      r"transformation (numerique|digitale)|transformacao digital|"
@@ -86,7 +86,7 @@ FUNCTIONS = (
     ("data-protection", "Data protection authority", ("gov.protect",), r""),
     ("revenue-systems", "Revenue Service", (),
      r"revenue (authority|service|administration)|\btax\w*|impots|douan|customs|tribut|"
-     r"alfandeg|fiscal\w* (system|information)|aduan"),
+     r"alfandeg|fiscal\w* (system|information)|aduan|sydonia|asycuda"),
     ("treasury-fmis", "Treasury / Finance", (),
      r"ifmis|\bifms\b|sigfip|sigfe|\bsigif|sistafe|siafe|sigof|financial management "
      r"(information )?system|integrated financial|gestion (integree )?des finances|"
