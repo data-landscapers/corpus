@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-02 12:07 · **BUDGET-REVIEW** · unclocked · Follow-ups closed: UGA 2026 vote completed, CPV 2024-25 added, SLE stage and outturn, KEN 2025 and RWA 2024-25 revised stages (54 rows); BEN sections recorded; check D at 32 countries, 414 lines added in all.
 2026-10-02 11:54 · **BUDGET-REVIEW** · unclocked · Check D continued: votes recorded for 31 countries (77 country-years, 4,909 votes); Benin's performance projects read, 33 more lines; note 198 closed by OSINT and four Mauritius rows parked.
 2026-10-02 11:50 · **BUDGET-REVIEW** · 2h15m · Budget data review: checks A to D built; 411 passed-over lines added in 19 countries (MUS 132, BEN 72, KEN 49, UGA 49, SLE 41); functions not looked 75 of 756; votes recorded for 25 countries; 21 rows parked.
 2026-10-02 09:59 · **BUDGET-REVIEW** · 16m · Budget data review: checks A to D built, pilot on GHA, SEN, MAR, all 52 queued worst first, STP votes read, SSD statistics bureau taken (12 lines); notes-for-osint 197 - ok
