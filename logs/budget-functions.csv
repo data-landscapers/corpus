@@ -450,14 +450,14 @@ MRT,data-exchange,found,whole,6,mrt-2024-18-11-02-08,,rows,,
 MUS,statistics,found,whole,3,mus-2024-7-4-7-4,Statistics Mauritius,rows,,
 MUS,civil-registration-id,found,whole,10,mus-2024-2-1-2-103-22900811,Civil Status Division,rows,,
 MUS,communications-regulator,absent,,,,Information and Communication Technologies Authority,hand,"keyword scan of the estimates for 2024-25, 2025-26 and 2026-27, every vote of which is in the held set: the ICT Authority is funded from licence fees and has no vote; it appears only in a procurement notice",2026-10-02
-MUS,ict-ministry-egov,found,whole,14,mus-2024-2-5-2-501-31132401,Central Informatics Bureau,rows,,
+MUS,ict-ministry-egov,found,whole,17,mus-2024-2-5-2-501-31132401,Central Informatics Bureau,rows,,
 MUS,cybersecurity,found,whole,4,mus-2024-16-1-16-101-22900040,CERT-MU,rows,,
 MUS,data-protection,found,whole,3,mus-2024-16-1-16-101-22900916,Data Protection Office,rows,,
 MUS,revenue-systems,found,whole,3,mus-2024-16-1-16-101-28213022,Mauritius Revenue Authority,rows,,
 MUS,treasury-fmis,found,whole,1,mus-2025-TRE-0254-31132801,Ministry of Finance Economic Planning and Development,hand,"the Treasury's software acquisition line, which carries the Treasury Accounting System and its consolidation package, is held in each year",2026-10-02
-MUS,procurement,found,whole,2,mus-2024-7-1-7-102-31132801,Public Procurement Office,rows,,
+MUS,procurement,found,whole,4,mus-2024-7-1-7-102-31132801,Public Procurement Office,rows,,
 MUS,electoral-register,absent,,,,Electoral Commissioner's Office,hand,"keyword scan of the estimates for 2024-25, 2025-26 and 2026-27, every vote of which is in the held set: the Electoral Commissioner's vote prints one register line, fees in connection with the registration of electors (Rs 27,000 thousand a year), which pays the yearly canvass and names no system",2026-10-02
-MUS,land-registry,found,whole,11,mus-2024-3-1-3-103-22060013,Registrar General's Department,rows,,
+MUS,land-registry,found,whole,35,mus-2024-3-1-3-103-22060013,Registrar General's Department,rows,,
 MUS,social-registry,found,whole,1,mus-2024-9-2-9-202-31132116,Ministry of Social Integration Social Security and National Solidarity,rows,,
 MUS,population-register,found,partial,1,mus-2026-CSD-0203,,hand,"the Central Population Database is kept by the Civil Status Division, whose sub-programme is held at partial; estimates 2024-25, vote 2, strategic overview",2026-10-02
 MUS,data-exchange,found,whole,1,mus-2026-MITCI-2302-230201,,hand,"the InfoHighway, the government's data exchange, is an of-which line (Rs 12,000 thousand in 2026/27) inside sub-programme 230201, which is held whole; estimates 2026-27, MITCI, p. 7",2026-10-02

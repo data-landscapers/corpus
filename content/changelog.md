@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Mauritius's budget table for 2025-26 and 2026-27 now covers every ministry: 132 lines added, about MUR 1.0bn a year. The largest are the e-Social Security system, hospital digitalisation, the e-licensing project and the land information system; before, only the ICT ministry, the Prime Minister's Office, the Treasury and statistics were read for those years.
 - Kenya's budget table gains 34 more project lines from the development estimates of twelve other votes, about KES 1.0bn to 1.5bn a year. The largest are the automation of the courts (KES 700m, 449m and 400m) and of the State Law Office, the health information system and ICT in schools and missions.
 - Kenya's budget table now carries the Treasury's digital projects from the development estimates: the IFMIS financial system (KES 744m, 319m and 1.21bn over the three years), e-procurement, the pensions system and six smaller ones in 2024/25. They were left out while those volumes were uncatalogued.
 - Côte d'Ivoire's budget table now carries the electoral commission's allocation for revising the electoral list: XOF 18.2bn in 2024, 27.6bn in 2025 and 16.2bn in 2026. It is counted as partly digital, since enrolment in the field and the register's systems are one figure.

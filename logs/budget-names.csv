@@ -937,12 +937,12 @@ MRT,hosting,E-government agency,ict-ministry-egov,Ministère de la Transformatio
 MRT,hosting,Communications regulator,communications-regulator,Autorité de Régulation Multisectorielle,no line,
 MRT,hosting,Audit office,,Cour des Comptes,no line,
 MRT,deal-recipient,Public Sector,,Islamic Republic of Mauritania,line,mrt-2024-39-08-01-02
-MUS,hosting,Presidency,,Office of the President,no line,
+MUS,hosting,Presidency,,Office of the President,line,mus-2025-P0107-31132126
 MUS,hosting,Parliament,,National Assembly of Mauritius,no line,
 MUS,hosting,Foreign Affairs,,Ministry of Foreign Affairs Regional Integration and International Trade,no line,
 MUS,hosting,Defence,,Prime Minister's Office (National Security),line,mus-2024-2-1-2-102-31132111
 MUS,hosting,Police,,Mauritius Police Force,line,mus-2024-2-5-2-501-22900973
-MUS,hosting,Justice,,Attorney General's Office,no line,
+MUS,hosting,Justice,,Attorney General's Office,line,mus-2025-AGO-1101-31132200-a
 MUS,hosting,Justice,,Supreme Court of Mauritius,line,mus-2024-1-7-1-7-31132126
 MUS,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance Economic Planning and Development,line,mus-2024-7-1-7-101-31132801
 MUS,hosting,Revenue Service,revenue-systems,Mauritius Revenue Authority,line,mus-2024-1-7-1-7-31122802-c
@@ -954,7 +954,7 @@ MUS,hosting,Electoral commission,electoral-register,Electoral Commissioner's Off
 MUS,hosting,Statistics office,statistics,Statistics Mauritius,line,mus-2024-7-4-7-4
 MUS,hosting,Immigration / Passports,,Passport and Immigration Office,line,mus-2024-2-1-2-103-31132114
 MUS,hosting,Health ministry / National health insurance,,Ministry of Health and Wellness,line,mus-2024-17-1-17-102-31132113
-MUS,hosting,Social protection / Social registry,social-registry,Ministry of Social Integration Social Security and National Solidarity,no line,
+MUS,hosting,Social protection / Social registry,social-registry,Ministry of Social Integration Social Security and National Solidarity,line,mus-2025-SOC-1004-31132116
 MUS,hosting,Land registry,land-registry,Registrar General's Department,line,mus-2024-7-6-7-6
 MUS,hosting,Securities regulator,,Financial Services Commission,line,mus-2024-1-18-1-18-31132801
 MUS,hosting,Public procurement authority,procurement,Public Procurement Office,line,mus-2024-7-1-7-102-31132801
