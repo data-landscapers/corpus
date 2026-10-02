@@ -530,7 +530,7 @@ GHA,hosting,Foreign Affairs,,Ministry of Foreign Affairs and Regional Integratio
 GHA,hosting,Defence,,Ministry of Defence,no line,
 GHA,hosting,Armed Forces,,Ghana Armed Forces,no line,
 GHA,hosting,Police,,Ghana Police Service,no line,
-GHA,hosting,Justice,,Ministry of Justice and Attorney-General's Department,no line,
+GHA,hosting,Justice,,Ministry of Justice and Attorney-General's Department,line,gha-2025-033-0330104
 GHA,hosting,Justice,,Judicial Service of Ghana,no line,
 GHA,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,gha-2024-010-01003-statistical-service
 GHA,hosting,Revenue Service,revenue-systems,Ghana Revenue Authority,no line,
@@ -543,8 +543,8 @@ GHA,hosting,Statistics office,statistics,Ghana Statistical Service,line,gha-2024
 GHA,hosting,Immigration / Passports,,Ghana Immigration Service,no line,
 GHA,hosting,Health ministry / National health insurance,,Ministry of Health,line,gha-2024-029-ow-e-health-project
 GHA,hosting,Health ministry / National health insurance,,National Health Insurance Authority,no line,
-GHA,hosting,Social protection / Social registry,social-registry,Ministry of Gender Children and Social Protection,no line,
-GHA,hosting,Land registry,land-registry,Lands Commission,no line,
+GHA,hosting,Social protection / Social registry,social-registry,Ministry of Gender Children and Social Protection,line,gha-2025-032-0320103
+GHA,hosting,Land registry,land-registry,Lands Commission,line,gha-2025-013-0130105
 GHA,hosting,Securities regulator,,Securities and Exchange Commission Ghana,no line,
 GHA,hosting,Sovereign wealth fund / National pension fund,,Social Security and National Insurance Trust,no line,
 GHA,hosting,Public procurement authority,procurement,Public Procurement Authority,no line,
@@ -1167,7 +1167,7 @@ SEN,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BC
 SEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale de l'État civil,no line,
 SEN,hosting,Data protection authority,data-protection,Commission de protection des données personnelles,no line,
 SEN,hosting,Electoral commission,electoral-register,Direction générale des Élections,no line,
-SEN,hosting,Statistics office,statistics,Agence nationale de la Statistique et de la Démographie,no line,
+SEN,hosting,Statistics office,statistics,Agence nationale de la Statistique et de la Démographie,line,sen-2026-61-2034-ansd-production-statistique
 SEN,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Action sociale,no line,
 SEN,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
 SEN,hosting,Sovereign wealth fund / National pension fund,,Fonds souverain d'investissements stratégiques (FONSIS),no line,

@@ -1,5 +1,9 @@
 ## 2 October 2026
 
+- Ghana's budget table gains the research, statistics and information directorates of nine ministries for 2025 and five for 2026, with the Legal Aid Commission's IT office: GHS 10.4m and 14.2m. They are counted as partly digital, and are the fifteen lines that waited on yesterday's volumes.
+- Senegal's 2026 budget table now carries the statistics agency: XOF 6.4bn for widening statistical production and 0.5bn for its statistical programme, from the economy ministry's performance volume. Senegal had no statistics line in any year.
+- Mauritius's 2026-27 budget table gains the gender ministry's four digital lines, MUR 15m, the largest an online data repository at MUR 11.5m. Every ministry is now read for that year.
+- Three of Kenya's 2024/25 Treasury project lines now carry their revised figure from Supplementary Estimates III: the IFMIS licences and support line rose from KES 744.3m to 900m, e-procurement from 200m to 560m and the pensions system from 61m to 137.1m.
 - Rwanda's 2025/26 budget lines now carry the revised finance law's figures for 23 sub-programmes. Most are unchanged; the national ID production line fell from RWF 1.96bn to 1.58bn and cybersecurity standards from 700m to 588m.
 - Rwanda's 2024/25 budget lines now carry the revised finance law's figures for 23 sub-programmes, and what was spent for eight of them. The ICT development sub-programme was revised to RWF 8.44bn and RWF 6.21bn of it was spent.
 - Eight of Kenya's 2025/26 project lines now carry their revised figure from Supplementary Estimates I. ICT in secondary schools rose from KES 50m to 152.9m, court automation fell from 449.0m to 384.0m and the prosecutor's case system from 45m to 24.3m; five were unchanged.

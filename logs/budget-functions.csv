@@ -545,7 +545,7 @@ SDN,land-registry,not looked,,,,,,,
 SDN,social-registry,not looked,,,,,,,
 SDN,population-register,not looked,,,,,,,
 SDN,data-exchange,not looked,,,,,,,
-SEN,statistics,not looked,,,,Agence nationale de la Statistique et de la Démographie,,,
+SEN,statistics,found,whole,2,sen-2026-61-2034-ansd-production-statistique,Agence nationale de la Statistique et de la Démographie,rows,,
 SEN,civil-registration-id,found,whole,4,sen-2026-33-2009-cni-enrolement,Agence nationale de l'État civil,rows,,
 SEN,communications-regulator,absent,,,,Autorité de régulation des télécommunications et des postes,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: no programme or activity names the telecommunications regulator (ARTP), which is funded from its own fees",2026-10-02
 SEN,ict-ministry-egov,found,whole,6,sen-2024-63-2083,Sénégal Numérique S.A. (ex-ADIE); Portail gouvernemental,rows,,
