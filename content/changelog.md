@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Sierra Leone's 2026 lines for Statistics Sierra Leone, NLe 436.8m, now stand as approved rather than proposed. The July 2026 supplementary statement restates the agency's budget and the census at the estimates' figures.
 - Cabo Verde's electoral registration commissions are now in the budget table for 2024 and 2025 as well, at CVE 63.6m in each year, the same figure as 2026.
 - Uganda's 2026/27 line for the statistics bureau is now complete at UGX 148.5bn, up from the 141.4bn entered earlier today. The demography department, lost at a page break in the main volume, is read from the appendix volume.
 - Benin's budget table gains 33 activity lines from the ministries' performance projects. The largest are the national statistical system (XOF 2.2bn a year from 2025), agricultural statistics surveys, the interior ministry's statistics system and e-health; 2024 and 2025 now carry 29 and 34 lines where they had 5.
