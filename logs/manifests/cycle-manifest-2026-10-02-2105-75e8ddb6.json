@@ -1,0 +1,214 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-02 21:05",
+ "pass": "sweep cycle",
+ "head": "75e8ddb6f447bdd017e87a45ebc9a299bcd4c297",
+ "head_committed_utc": "2026-10-02 21:05",
+ "collection": {
+  "last_admission": "2026-10-02 21:52",
+  "sweep_closed": "2026-10-02 20:44",
+  "ingest_started": "2026-10-02 20:45"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-02 20:09",
+   "end": "2026-10-02 21:53",
+   "duration": "1:44",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 238,
+  "admitted": 128,
+  "dropped": 109,
+  "screened": 809,
+  "screen_dropped": 585,
+  "pages_over_line": 146,
+  "awaiting_ingest": 0,
+  "raw_sources": 26298
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-02 19:08",
+   "seven_day": 31.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-10-02 19:44",
+   "seven_day": 32.0,
+   "five_hour": 4.0
+  },
+  "ingest": {
+   "time_utc": "2026-10-02 20:08",
+   "seven_day": 34.0,
+   "five_hour": 12.0
+  },
+  "lint": {
+   "time_utc": "2026-10-02 20:53",
+   "seven_day": 35.0,
+   "five_hour": 18.0
+  },
+  "close": {
+   "time_utc": "2026-10-02 20:53",
+   "seven_day": 35.0,
+   "five_hour": 18.0
+  },
+  "backlog": {
+   "time_utc": "2026-10-02 21:04",
+   "seven_day": 35.0,
+   "five_hour": 18.0
+  },
+  "rules": {
+   "time_utc": "2026-10-02 21:05",
+   "seven_day": 36.0,
+   "five_hour": 18.0
+  },
+  "end": {
+   "time_utc": "2026-10-02 21:05",
+   "seven_day": 36.0,
+   "five_hour": 18.0
+  }
+ },
+ "drops": {
+  "night": "2026-10-02",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 7,
+    "ingest_drop_rate": 0.0
+   },
+   "country-deep": {
+    "sweep": {
+     "off-topic": 99,
+     "already-seen": 71,
+     "syndicated-copy": 45,
+     "already-held": 19,
+     "no-development": 15,
+     "inadmissible-origin": 13,
+     "fetch-blocked": 6,
+     "out-of-window": 6,
+     "headline-only-stub": 4,
+     "fails-record-test": 2,
+     "date-unestablished": 1,
+     "off-place": 1
+    },
+    "ingest": {
+     "already-held": 47,
+     "off-topic": 30,
+     "no-value": 16,
+     "syndicated-copy": 14,
+     "inadmissible-origin": 9,
+     "no-development": 8,
+     "fails-record-test": 1,
+     "off-place": 1
+    },
+    "admitted": 90,
+    "ingest_drop_rate": 0.583
+   },
+   "daily": {
+    "sweep": {
+     "already-seen": 34,
+     "off-place": 31,
+     "off-topic": 23,
+     "no-development": 22,
+     "already-held": 3,
+     "inadmissible-origin": 1
+    },
+    "ingest": {
+     "already-held": 5,
+     "no-development": 3,
+     "already-seen": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 10,
+    "ingest_drop_rate": 0.5
+   },
+   "financiers": {
+    "sweep": {
+     "off-topic": 24,
+     "already-seen": 13,
+     "date-unestablished": 6,
+     "syndicated-copy": 3,
+     "already-held": 2,
+     "inadmissible-origin": 2,
+     "out-of-window": 2,
+     "fetch-blocked": 1,
+     "headline-only-stub": 1,
+     "no-development": 1
+    },
+    "ingest": {
+     "off-topic": 17,
+     "already-held": 6,
+     "already-seen": 4,
+     "inadmissible-origin": 3,
+     "no-development": 2,
+     "syndicated-copy": 2,
+     "headline-only-stub": 1,
+     "no-value": 1
+    },
+    "admitted": 9,
+    "ingest_drop_rate": 0.8
+   },
+   "hand-drop-corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 1
+    },
+    "admitted": 2,
+    "ingest_drop_rate": 0.333
+   },
+   "iati": {
+    "sweep": {},
+    "ingest": {
+     "off-topic": 104,
+     "fails-record-test": 1
+    },
+    "admitted": 1,
+    "ingest_drop_rate": 0.991
+   },
+   "off-list": {
+    "sweep": {
+     "off-place": 9,
+     "already-held": 8,
+     "already-seen": 4,
+     "syndicated-copy": 4,
+     "no-development": 2,
+     "fetch-blocked": 1,
+     "inadmissible-origin": 1
+    },
+    "ingest": {
+     "already-held": 7,
+     "off-place": 2,
+     "syndicated-copy": 2,
+     "inadmissible-origin": 1,
+     "no-development": 1,
+     "no-value": 1
+    },
+    "admitted": 5,
+    "ingest_drop_rate": 0.737
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 2,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 201,
+  "since": "2026-10-02 18:45"
+ }
+}
