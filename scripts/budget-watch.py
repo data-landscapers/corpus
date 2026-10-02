@@ -1041,6 +1041,7 @@ def refind(iso: str | None) -> int:
 
 RAW = Path(MIRROR) / "raw"
 FOLLOWUPS = ROOT / "logs" / "budget-followups.md"
+EXTRACT_LOG = ROOT / "logs" / "budget-extract.csv"
 FOLLOWUPS_HEAD = "## Queued by the budget poll"
 COVERAGE = ROOT / "outputs" / "budgets" / "coverage.csv"
 GRACE = 1               # months past a type's usual release before it counts as not held
@@ -1087,14 +1088,20 @@ def followups(docs: list[dict] | None = None) -> int:
     """R106: a document the poll delivered, now in `raw/`, for a country-year Corpus has
     already extracted, queues one line in `logs/budget-followups.md` — one BUDGET-EXTRACT
     sitting for that country-year, R58's grain. Queued once: a slug already in the file is
-    never queued again, and the sitting strikes the line (deletes it) when it settles it."""
+    never queued again, and the sitting strikes the line (deletes it) when it settles it.
+    **A struck line stays struck because the sitting's row in `logs/budget-extract.csv` names
+    the slug**: without that test a deleted line came back at the next run, and 115 did on
+    2026-10-02."""
     docs = budget_documents() if docs is None else docs
     stages = doc_stages()
     text = FOLLOWUPS.read_text(encoding="utf-8") if FOLLOWUPS.exists() else ""
+    settled = EXTRACT_LOG.read_text(encoding="utf-8-sig") if EXTRACT_LOG.exists() else ""
     today = dt.date.today().isoformat()
     lines = []
     for d in sorted(docs, key=lambda d: (d["iso3"], d["fy"] or 0, d["slug"])):
         if not (d["raw"] and d["batch"].startswith("budget-poll-")) or f"[[{d['slug']}]]" in text:
+            continue
+        if d["slug"] in settled:
             continue
         year_rows = [r for r in country_rows(d["iso3"])
                      if (r.get("fy_start") or "")[:4] == str(d["fy"])]
