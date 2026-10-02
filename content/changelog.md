@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Benin's budget table now carries the national identification agency (XOF 5.0bn a year), the state's information-systems and digital agency (XOF 2.75bn in 2024, 4.08bn since), the digital investigations centre and ten ministries' IT directorates, 39 lines over three years. 2024 and 2025 had been read at programme level only.
 - Madagascar's budget table now carries the directorate of the single social registry: MGA 120m in the 2024 revised law and in 2025, and MGA 90m in 2026, which the revised 2026 law cut to nil.
 - Cabo Verde's 2026 budget table now carries the electoral registration commissions, CVE 63.6m, counted as partly digital. They enrol voters and keep the electoral register.
 - Ghana's budget table gains the Controller and Accountant-General's ICT directorate for 2025 and 2026 (GHS 6.7m and 9.0m) and the Treasury's GHS 27.5m for the Births and Deaths Registry in 2026. Fifteen more lines from the ministry volumes that arrived today wait for the next catalogue build.

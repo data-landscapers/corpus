@@ -59,22 +59,22 @@ BDI,hosting,Audit office,,Cour des comptes,no line,
 BDI,deal-recipient,Public Sector,,Government of Burundi,no line,
 BDI,deal-recipient,Private Sector,,"Lumitel (operator, BDI)",no line,
 BDI,deal-recipient,Public Sector,,Republic of Burundi,no line,
-BEN,hosting,Presidency,,Présidence de la République du Bénin,no line,
+BEN,hosting,Presidency,,Présidence de la République du Bénin,line,ben-2024-009-010002-1192
 BEN,hosting,Parliament,,Assemblée nationale du Bénin,no line,
 BEN,hosting,Foreign Affairs,,Ministère des Affaires étrangères et de la Coopération,no line,
 BEN,hosting,Defence,,Ministère de la Défense nationale,no line,
 BEN,hosting,Police,,Direction générale de la Police républicaine,no line,
-BEN,hosting,Justice,,Ministère de la Justice et de la Législation,no line,
+BEN,hosting,Justice,,Ministère de la Justice et de la Législation,line,ben-2024-012-018004-0140
 BEN,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,ben-2024-014-108
 BEN,hosting,Treasury / Finance,treasury-fmis,Direction générale du Trésor et de la Comptabilité publique,no line,
 BEN,hosting,Revenue Service,revenue-systems,Direction générale des Impôts,line,ben-2024-014-108
-BEN,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécurité publique,line,ben-2026-015-080-080002055
+BEN,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécurité publique,line,ben-2024-015-080004-0006
 BEN,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
-BEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale d'identification des personnes (ANIP),no line,
+BEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale d'identification des personnes (ANIP),line,ben-2024-009-010002-1192
 BEN,hosting,Data protection authority,data-protection,Autorité de protection des données personnelles (APDP),no line,
 BEN,hosting,Electoral commission,electoral-register,Commission électorale nationale autonome (CENA),no line,
 BEN,hosting,Statistics office,statistics,Institut national de la statistique et de la démographie (INStaD),no line,
-BEN,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,ben-2026-019-045-pip3
+BEN,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,ben-2024-019-045006-0140
 BEN,hosting,Social protection / Social registry,social-registry,Agence nationale de la protection sociale (ANPS),no line,
 BEN,hosting,Land registry,land-registry,Agence nationale du domaine et du foncier (ANDF),no line,
 BEN,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
@@ -82,7 +82,7 @@ BEN,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de s
 BEN,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics (ARMP),no line,
 BEN,hosting,Energy utility,,Société béninoise d'énergie électrique (SBEE),line,ben-2026-037-088-pip16
 BEN,hosting,Ports authority,,Port autonome de Cotonou,no line,
-BEN,hosting,E-government agency,ict-ministry-egov,Agence des systèmes d'information et du numérique (ASIN),line,ben-2026-035-100-100005001
+BEN,hosting,E-government agency,ict-ministry-egov,Agence des systèmes d'information et du numérique (ASIN),line,ben-2024-009-010002-1268
 BEN,hosting,E-government agency,ict-ministry-egov,Gouvernement de la République du Bénin,no line,
 BEN,hosting,Cybersecurity agency / National CERT,cybersecurity,bjCSIRT,no line,
 BEN,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),no line,
