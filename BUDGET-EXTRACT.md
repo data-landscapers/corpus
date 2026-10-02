@@ -32,6 +32,8 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 
 **3. Scan across every vote, not the digital ministry's.** Wherever it has been measured, the money outside the sector vote has run from 60% of it to more than double, and the largest single line is repeatedly in interior, finance, justice or the head of government's vote. The scan **locates and does not identify**: read the vote block and pair label to amount by position before recording anything.
 
+**3a. Record every vote, and look for the fourteen functions** *(budget data review, 2026-10-02)*. Write each vote in the document's summary table to `budgets/votes-read.csv` as `lines taken`, `read, none digital` or `not read`; **a vote is read only when its cost centres or sub-heads have been read**. Then `python scripts/budget-functions.py {ISO3}` lists the functions not yet found: look for each in the votes read, and enter one that is not there with `--absent`, naming the year, the document and the page.
+
 **4. Run the origin gate on every line** before building it. An externally financed line is a non-state deal and builds no row here; a line naming no funder beyond *external*, *Dons* or *Externo* builds nothing anywhere and its magnitude is a dated finding in the log. Own-source levy and fee income is domestic-state, and is often legislated in the finance law's articles rather than appropriated in a vote — read the articles and the special accounts.
 
 **4a. Externally financed lines get no file of their own.** `external.csv`, which held them as the denominator of the financial sustainability measure, was retired as stale on 2026-09-30 (Bill). Their magnitude goes in the log note, as in step 4.
@@ -51,6 +53,8 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 ```
 python scripts/budget_source.py --update         # the derived columns and budgets-all-countries.csv, after any change
 python scripts/budget_source.py {ISO3}          # the schema, from the repo root
+python scripts/budget-votes.py {ISO3}           # the votes read, and that a vote with lines holds rows
+python scripts/budget-functions.py              # the function and name logs, after rows change
 cd scripts/.workroot
 python scripts/build-finance-page.py {ISO3}     # merges; prints the swap it made
 ```

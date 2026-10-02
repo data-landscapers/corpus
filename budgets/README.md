@@ -14,4 +14,6 @@ Three pointers, and no copy of what they say:
 - **`documentation/budget-extract.md`** — what a figure means: scope, the origin gate, the stages, the record shape. **`lookups/budget-archetypes.csv`** — how to get a table off a particular shape of page, one row per archetype; its method note is `documentation/budget-archetypes.md`.
 - **`scripts/budget_source.py`** — the columns and every rule they are held to. `python scripts/budget_source.py --columns` prints the header; `python scripts/budget_source.py {ISO3}` checks a country, and the compile refuses to build from a file that does not pass.
 
+**`votes-read.csv` is the record of what was read** *(budget data review, 2026-10-02)*: one row per country, fiscal year and vote of the document's summary table, marked `lines taken`, `read, none digital` or `not read`. A vote is read only when its cost centres or sub-heads have been read. A sitting writes it and `python scripts/budget-votes.py` checks it.
+
 `budgets/.documents/` is gitignored working space for a fetched document. Nothing in it is ever committed.
