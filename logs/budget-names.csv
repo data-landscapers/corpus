@@ -717,7 +717,7 @@ LBR,hosting,Interior / Home Affairs,,Ministry of Internal Affairs,no line,
 LBR,hosting,Central Bank,,Central Bank of Liberia,no line,
 LBR,hosting,Civil registry / National ID authority,civil-registration-id,National Identification Registry,line,lbr-2024-142-0100
 LBR,hosting,Electoral commission,electoral-register,National Elections Commission,no line,
-LBR,hosting,Statistics office,statistics,Liberia Institute of Statistics and Geo-Information Services,no line,
+LBR,hosting,Statistics office,statistics,Liberia Institute of Statistics and Geo-Information Services,line,lbr-2024-114-0400
 LBR,hosting,Immigration / Passports,,Liberia Immigration Service,no line,
 LBR,hosting,Health ministry / National health insurance,,Ministry of Health,line,lbr-2024-310-0500
 LBR,hosting,Social protection / Social registry,social-registry,Ministry of Gender Children and Social Protection,no line,

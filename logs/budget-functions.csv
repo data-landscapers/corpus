@@ -335,20 +335,20 @@ KEN,land-registry,found,whole,6,ken-2024-1112-0121010,Ministry of Lands (Ardhisa
 KEN,social-registry,not looked,,,,National Social Security Fund; State Department for Social Protection,,,
 KEN,population-register,found,whole,3,ken-2024-1024-0605010,,rows,,
 KEN,data-exchange,not looked,,,,,,,
-LBR,statistics,not looked,,,,Liberia Institute of Statistics and Geo-Information Services,,,
+LBR,statistics,found,whole,3,lbr-2024-114-0400,Liberia Institute of Statistics and Geo-Information Services,rows,,
 LBR,civil-registration-id,found,whole,3,lbr-2024-142-0100,National Identification Registry,rows,,
-LBR,communications-regulator,not looked,,,,Liberia Telecommunications Authority,,,
+LBR,communications-regulator,absent,,,,Liberia Telecommunications Authority,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. The telecommunications authority is not a spending entity in any book; it is funded from its own fees.",2026-10-02
 LBR,ict-ministry-egov,found,whole,1,lbr-2025-301-0238-national-digital-transformation-project,Government of Liberia portal,rows,,
 LBR,cybersecurity,found,whole,1,lbr-2024-404-0983,,rows,,
 LBR,data-protection,found,whole,1,lbr-2026-404-40401-263720,,rows,,
-LBR,revenue-systems,not looked,,,,Liberia Revenue Authority,,,
+LBR,revenue-systems,found,whole,1,lbr-2026-140-083000,Liberia Revenue Authority,hand,FY2024 to FY2026: the revenue authority's project to digitise revenue transaction systems across government.,2026-10-02
 LBR,treasury-fmis,found,whole,9,lbr-2024-130-0500-221621,Ministry of Finance and Development Planning,rows,,
-LBR,procurement,not looked,,,,Public Procurement and Concessions Commission,,,
-LBR,electoral-register,not looked,,,,National Elections Commission,,,
+LBR,procurement,absent,,,,Public Procurement and Concessions Commission,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. The procurement and concessions commission is chapter 118 (1,671,957 in FY2026), a body with no e-procurement line.",2026-10-02
+LBR,electoral-register,absent,,,,National Elections Commission,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. The elections commission is chapter 113 (4,538,450 in FY2026) and prints no voter-register line.",2026-10-02
 LBR,land-registry,found,unclear,1,lbr-2026-129-024100,Liberia Land Authority,rows,,
-LBR,social-registry,not looked,,,,Ministry of Gender Children and Social Protection,,,
-LBR,population-register,not looked,,,,,,,
-LBR,data-exchange,not looked,,,,,,,
+LBR,social-registry,absent,,,,Ministry of Gender Children and Social Protection,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. No department, project or object line names a social or household registry.",2026-10-02
+LBR,population-register,absent,,,,,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. No line names a population register beside the identification registry, which is held.",2026-10-02
+LBR,data-exchange,absent,,,,,hand,"FY2024 to FY2026: each budget book prints every spending entity (112, 117 and 120 chapters) to department, project and object line, and was read whole on 2026-09-24. No line names interoperability or data exchange.",2026-10-02
 LBY,statistics,found,whole,4,lby-2024-t6.10-r9-ch1,Bureau of Statistics and Census,rows,,
 LBY,civil-registration-id,found,partial,4,lby-2024-t6.9-r12-ch1,General Information Authority,rows,,
 LBY,communications-regulator,not looked,,,,,,,
