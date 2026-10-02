@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Rwanda's 2025/26 budget lines now carry the revised finance law's figures for 23 sub-programmes. Most are unchanged; the national ID production line fell from RWF 1.96bn to 1.58bn and cybersecurity standards from 700m to 588m.
 - Rwanda's 2024/25 budget lines now carry the revised finance law's figures for 23 sub-programmes, and what was spent for eight of them. The ICT development sub-programme was revised to RWF 8.44bn and RWF 6.21bn of it was spent.
 - Eight of Kenya's 2025/26 project lines now carry their revised figure from Supplementary Estimates I. ICT in secondary schools rose from KES 50m to 152.9m, court automation fell from 449.0m to 384.0m and the prosecutor's case system from 45m to 24.3m; five were unchanged.
 - Sierra Leone's statistics agency lines now show what was spent: NLe 20.1m of 27.2m on staff in 2024, 25.9m of 28.6m in 2025, and NLe 81.1m of the 150m voted for the census in 2025. The figures are from the unaudited public accounts.
