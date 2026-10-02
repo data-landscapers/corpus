@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- The Central African Republic's 2026 budget table gains the digitisation of the University of Bangui's diploma records, XAF 20m. The line was in the finance law and had not been taken.
 - Mauritania's 2024 budget table now shows what was spent on 111 of its 127 lines, from the 2024 settlement law. Each figure is matched to its line by the voted and revised amounts the law prints beside it.
 - Cameroon's seven 2024 programme lines now show what was spent, from the 2024 settlement law. The digital ecosystem programme spent XAF 1.7bn of the 9.5bn voted, because in-year regulation cut its payment credits to 2.0bn.
 - Senegal's 2026 budget table gains four lines from ministry planning volumes: computerising the road transport directorate (XOF 400m), digitalising student grants management (200m), the foreign ministry's digital transformation (77m) and the state's share of the health system digitalisation project (42.8m). The finance law voted each programme unchanged, so each line carries the same figure as proposed and enacted.
