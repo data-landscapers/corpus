@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Kenya's budget tables gain the roads department's electronic records system in all three years: KSh 25m, 8.3m and 15m. It was in the roads volume of the development estimates, which had not been read.
 - Ghana's 2025 and 2026 budget tables gain the Lands Commission, the land registry and survey authority: GHS 225m and GHS 441m, more than half of it retained fees. It is held at partial scope because the same figure pays for valuation and public land management.
 - Ghana's budget tables gain 12 statistics and information lines for 2025 (GHS 13.2m) and 5 for 2026 (GHS 5.1m), from ten ministries whose volumes print them by sub-programme only. All are held at partial scope.
 - Senegal's two 2026 lines for the statistics agency now carry the enacted figure as well as the proposed one. The finance law voted the programme unchanged, so both are XOF 6.9bn.
