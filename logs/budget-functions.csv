@@ -261,8 +261,8 @@ GHA,revenue-systems,absent,,,,Ghana Revenue Authority,hand,"FY2026: the Ghana Re
 GHA,treasury-fmis,found,partial,1,gha-2026-010-0100207,Ministry of Finance,hand,"FY2024 to FY2026: cost centre 0100207 ICTM of the Controller and Accountant-General's Department, in the finance ministry's PBB volume, is the directorate that runs the government's financial management system; held at partial",2026-10-02
 GHA,procurement,absent,,,,Public Procurement Authority; Ghana Electronic Procurement System,hand,"FY2026: the Public Procurement Authority is cost centre 01004 of the finance vote, one administration office, with no line for the e-procurement system. PBB 2026 Ministry of Finance, summary by cost centre (table 1.6).",2026-10-02
 GHA,electoral-register,found,whole,1,gha-2024-008-00802-00802002,Electoral Commission of Ghana,rows,,
-GHA,land-registry,found,partial,1,gha-2024-011-01109-01109001,Lands Commission,rows,,
-GHA,social-registry,not looked,,,,Ministry of Gender Children and Social Protection,,,
+GHA,land-registry,found,partial,5,gha-2024-011-01109-01109001,Lands Commission,rows,,
+GHA,social-registry,absent,,,,Ministry of Gender Children and Social Protection,hand,"FY2024 to FY2026: the gender ministry's PBB volumes print the Department of Social Protection as one cost centre (03204) and Social Protection as one sub-programme (03204003, table 1.5), and no line for the Ghana National Household Registry; read 2026-10-02",2026-10-02
 GHA,population-register,not looked,,,,,,,
 GHA,data-exchange,not looked,,,,,,,
 GIN,statistics,found,whole,4,gin-2024-08-230631000000-4-2-3-99-00,Institut national de la statistique,rows,,
