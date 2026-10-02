@@ -57,7 +57,7 @@ BFA,population-register,absent,,,,,hand,"keyword scan of the finance laws' volum
 BFA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names interoperability of data or a data exchange; the one hit is military equipment",2026-10-02
 BWA,statistics,found,whole,6,bwa-2024-0300-0301-02115,Statistics Botswana,rows,,
 BWA,civil-registration-id,found,partial,6,bwa-2024-0400-0402-00725,,rows,,
-BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the communications regulator (BOCRA) appears only as a dividend in revenue",2026-10-02
+BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,FY2026/27: the financial statements and revenue estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government (PDF p. 42); it is funded by its own licence fees and has no expenditure line,2026-10-03
 BWA,ict-ministry-egov,found,whole,39,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
 BWA,cybersecurity,absent,,,,BW-CIRT,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no department or account names cyber security",2026-10-02
 BWA,data-protection,found,whole,3,bwa-2024-2500-2501-02208,,rows,,
