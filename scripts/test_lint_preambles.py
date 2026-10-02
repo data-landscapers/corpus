@@ -65,7 +65,7 @@ FOR_BILL = ("---\ntype: log\n---\n\n# Messages for Bill\n\n*(Pointer.)*\n\n"
 def build(tmp: Path, **over: str) -> tuple[Path, Path]:
     """A synthetic share and CORPUS root, with named files overridden."""
     share, root = tmp / "share", tmp / "root"
-    (root / "logs").mkdir(parents=True, exist_ok=True)
+    root.mkdir(exist_ok=True)
     share.mkdir(exist_ok=True)
     files = {
         "README.md": README,
@@ -76,14 +76,13 @@ def build(tmp: Path, **over: str) -> tuple[Path, Path]:
         "housekeeping-jobs.md": JOBS,
         "housekeeping-jobs-resolved.md": JOBS,
         "messages-from-bill.md": FROM_BILL,
+        "messages-for-bill.md": FOR_BILL,
     }
     files.update({k: v for k, v in over.items() if k in files})
     for name, text in files.items():
         (share / name).write_text(text, encoding="utf-8", newline="\n")
     (root / "CLAUDE.md").write_text(over.get("CLAUDE.md", CLAUDE), encoding="utf-8",
                                     newline="\n")
-    (root / "logs" / "messages-for-bill.md").write_text(
-        over.get("messages-for-bill.md", FOR_BILL), encoding="utf-8", newline="\n")
     return share, root
 
 

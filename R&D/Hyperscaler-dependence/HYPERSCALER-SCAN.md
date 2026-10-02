@@ -19,7 +19,7 @@ status: R&D; ZAF scanned 2026-09-28, pilot countries not yet run
 
 ## Running unattended — a run never stops to ask
 
-A domain that does not resolve, a crt.sh call that times out, an IP no source will attribute: each is a row with a status, never a stop. The run's only hard stop is Step 0. Where a run wants Bill's attention it finishes the country and writes a block in `logs/messages-for-bill.md`, within the cap.
+A domain that does not resolve, a crt.sh call that times out, an IP no source will attribute: each is a row with a status, never a stop. The run's only hard stop is Step 0. Where a run wants Bill's attention it finishes the country and writes a block in `C:\corpus-osint-xfer\messages-for-bill.md`, within the cap.
 
 ## A. The script — what `scripts/hyperscaler-scan.py` does
 
@@ -76,7 +76,7 @@ The script does this at the end of the scan; check the diff. For each domain sca
 
 One log line: `python scripts/log-line.py scan "{ISO3}: NN institutions, NN names, NN routable, NN% US hyperscaler, NN unattributed"`.
 
-A message in `logs/messages-for-bill.md` only for a finding under Step 3 that is irreversible or already public — a site serving someone else's content is public; a high hyperscaler share is not. Within the cap; at the cap, the finding goes in `run.json` under `findings` instead.
+**Corpus observes; it does not disclose** *(Bill, 2026-10-02)*. A third party's exposure found under Step 3 — a hijackable name, a site serving someone else's content — goes in `run.json` under `findings` and is never a message for Bill.
 
 Commit `R&D/Hyperscaler-dependence/scan/{ISO3}/`, the input file, `R&D/Hyperscaler-dependence/asn-owners.csv` and `R&D/Hyperscaler-dependence/saas-targets.csv`, never `ranges/` or `cache/`: `git add "R&D/Hyperscaler-dependence/scan/${ISO3}" "R&D/Hyperscaler-dependence/scan/${ISO3}/institutions-${ISO3}.csv" "R&D/Hyperscaler-dependence/asn-owners.csv" "R&D/Hyperscaler-dependence/saas-targets.csv" && git commit -m "Scan ${ISO3}: NN institutions, NN% US hyperscaler"`. The commit body carries every judgement the run made — an ASN classified by hand, a wildcard domain, a range file used from cache.
 

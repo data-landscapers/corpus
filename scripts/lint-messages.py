@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""lint-messages.py — the caps on logs/messages-for-bill.md, counted in code.
+"""lint-messages.py — the caps on the share's messages-for-bill.md, counted in code.
+
+The file moved from `logs/` to the share on 2026-10-02 *(Bill)*, beside the notes he
+already reads there. It is still CORPUS's file, CORPUS to Bill; `CORPUS_OSINT_XFER`
+overrides where the share is.
 
 Strategic review task 4, and task 38 for the third check. The file's own preamble states
 the caps; this is what makes them real, because a cap nobody counts drifts — that file
@@ -51,7 +55,8 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MESSAGES = os.path.join(ROOT, "logs", "messages-for-bill.md")
+SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
+MESSAGES = os.path.join(SHARE, "messages-for-bill.md")
 MARKER = "<!-- newest first: a new block goes directly below this line -->"
 
 BLOCK_CAP = 5

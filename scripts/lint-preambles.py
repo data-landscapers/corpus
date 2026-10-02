@@ -2,7 +2,7 @@
 r"""lint-preambles.py — a channel file carries a pointer, not a copy of the rules.
 
 Strategic review task 13. The conventions governing the exchange live in one place, the
-share's `README.md` -> *Conventions*; the ones governing `logs/messages-for-bill.md` live
+share's `README.md` -> *Conventions*; the ones governing `messages-for-bill.md` live
 in `CLAUDE.md` -> *Be decisive*. Every other file carries a link and its own content.
 
 Two things go wrong without a check, and both had happened. **Preambles grow**:
@@ -80,8 +80,8 @@ SHARE_FILES = [
     ("housekeeping-jobs.md", False, SIZING),         # OSINT's register
     ("housekeeping-jobs-resolved.md", False, DONE),  # OSINT's archive
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
+    ("messages-for-bill.md", True, MARKER),         # CORPUS to Bill; on the share since 2026-10-02
 ]
-CORPUS_FILES = [(os.path.join("logs", "messages-for-bill.md"), True, MARKER)]
 
 # A phrase, and the one file allowed to state it. Distinctive enough that a match is the
 # rule and not an accident of ordinary prose - checked in both directions, so a phrase that
@@ -146,10 +146,8 @@ def main() -> int:
               f"or pass --share.")
         return 2
 
-    files = ([(os.path.join(args.share, n), n, owned, stop)
-              for n, owned, stop in SHARE_FILES] +
-             [(os.path.join(args.root, n), os.path.basename(n), owned, stop)
-              for n, owned, stop in CORPUS_FILES])
+    files = [(os.path.join(args.share, n), n, owned, stop)
+             for n, owned, stop in SHARE_FILES]
     texts: dict[str, str] = {}
     failures: list[str] = []
     advisories: list[str] = []

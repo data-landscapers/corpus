@@ -17,18 +17,19 @@ one turn.
 2. **Arm the loop.** Invoke the `loop` skill with the interval, then this prompt verbatim:
 
    > From C:\CORPUS, first run `python scripts/deploy-state.py --fix --quiet`. On exit 2,
-   > unless `logs/messages-for-bill.md` already holds a `· deploy` block quoting the same
+   > unless `C:\corpus-osint-xfer\messages-for-bill.md` already holds a `· deploy` block quoting the same
    > line: write that block (it is exempt from the five-block cap; replace an older one),
-   > commit and push it, and send the line with the `PushNotification` tool. On exit 0,
-   > delete a `· deploy` block if one is open, commit and push. On exit 1 or 3 do nothing.
+   > commit and push it in the share, and send the line with the `PushNotification` tool. On exit 0,
+   > delete a `· deploy` block if one is open, commit and push the share. On exit 1 or 3 do nothing.
    > Then run `python scripts/osint-cycle-ready.py --claim`. On exit 1, stop the
-   > turn and say nothing further. On exit 2, write one block in `logs/messages-for-bill.md`
+   > turn and say nothing further. On exit 2, write one block in `C:\corpus-osint-xfer\messages-for-bill.md`
    > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — drain any
    > open notes in `C:\corpus-osint-xfer\notes-for-corpus.md` first, then BUILD.md whole, then
    > UNIT-REVIEW.md for each unit `python scripts/unit-review.py next --poll` names, then
    > RENDER.md Step 0 and its checks, then RENDER Steps 1-7, Log and Mirror —
    > following its unattended rules: never stop to ask, leave anything needing Bill in
-   > `logs/messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
+   > `C:\corpus-osint-xfer\messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
+   > Then work the oldest open job in `logs/housekeeping-jobs.md`, if there is one, once.
    > Before standing down, check `C:\corpus-osint-xfer` for uncommitted work, commit it
    > naming OSINT in the subject if the work is OSINT's, and push immediately.
 

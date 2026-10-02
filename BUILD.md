@@ -13,7 +13,7 @@ last_reviewed: 2026-09-20
 
 **BUILD puts no question mid-stream.** It runs back to back with RENDER with nobody watching, and ends exactly two ways: it **finishes**, or it **fails** — an error it cannot get past, never a decision it would rather Bill made.
 
-**Where this runbook says a human rules, BUILD rules**, and every such point is named below with the path to take. **Where BUILD wants Bill's attention, it finishes the job and leaves a message** in `logs/messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing there.
+**Where this runbook says a human rules, BUILD rules**, and every such point is named below with the path to take. **Where BUILD wants Bill's attention, it finishes the job and leaves a message** in `C:\corpus-osint-xfer\messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing there.
 
 **No check stops a finished run.** Every check in Job 1 is a work list, not a gate. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line — a completed outcome, not a blocked one.
 
@@ -110,7 +110,7 @@ python scripts/lint-scope.py                               # the whole backlog
 
    **A failing check is work, and BUILD does it in the same pass.** G, I, J and M are mechanical, each with one repair; L is authoring work — write the sentence or remove the section (*Narrative integrity*). Where a check cannot be cleared the fallback is a finished outcome: an unsourceable position is ***Not held*** with a `gaps.csv` line, and a link resolving to nothing is struck along with the claim standing on it.
 
-   **Residue is outcomes converted, never work deferred**, and **there is no "note it and move along"**: a finding that needs more than a run goes in `logs/messages-for-bill.md`. **A finding is not scoped out because the run did not create it** — the check runs over the unit, not over the diff.
+   **Residue is outcomes converted, never work deferred**, and **there is no "note it and move along"**: a finding that needs more than a run goes in `C:\corpus-osint-xfer\messages-for-bill.md`. **A finding is not scoped out because the run did not create it** — the check runs over the unit, not over the diff.
 
    **The register check reports and BUILD rules.** A hit inside quoted source text stands; a hit in BUILD's own prose is rewritten. Message Bill only if clearing a hit would drop a fact the report needs.
 
@@ -222,7 +222,7 @@ python scripts/lint-considered.py           # every unit; the "No evidence" trap
 
 **This is the step that stops a finding living in a console** — every other check runs per unit, on the units the pass worked. Its counts go in the log line at step 3, anything the run did not clear gets a block at step 2, and it is **not a gate**.
 
-**2. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written. After writing one:
+**2. Message Bill, if anything is owed him** — one block under the marker in `C:\corpus-osint-xfer\messages-for-bill.md`, at most 80 words. Nothing owed, nothing written. After writing one:
 
 ```bash
 python scripts/lint-messages.py     # five open blocks, 80 words each

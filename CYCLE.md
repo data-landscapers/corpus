@@ -61,7 +61,7 @@ last_reviewed: 2026-09-17
 1a. **Run `python scripts/site-analytics.py`** — `documentation/site-analytics.md` → *Where it runs in the cycle* says what to log, commit and escalate. It never holds the cycle.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
-3a. **Finance upkeep** *(Bill, 2026-10-01; the share's `documentation/finance-upkeep.md` is the rule and is not restated here)*. `python scripts/budget-watch.py poll`, every live library. Then budget readings: `logs/budget-followups.md` and any reading a drained note asked for, oldest first, each by `BUDGET-EXTRACT.md`, **two hours a cycle and stop**. Then judge any deal the finance build printed as `NOT YET ASSESSED` into `lookups/deal-scope.csv`. Rebuild finance if anything moved, commit, and put the number of readings still waiting in the build line.
+3a. **Finance upkeep** *(Bill, 2026-10-01; the share's `documentation/finance-upkeep.md` is the rule and is not restated here)*. `python scripts/budget-watch.py poll`, every live library. Then budget readings: `logs/budget-followups.md` and any reading a drained note asked for, oldest first, each by `BUDGET-EXTRACT.md`, **until two hours by the clock are used or nothing is waiting — never stopping early on judgement** *(Bill, 2026-10-02)*. Then judge any deal the finance build printed as `NOT YET ASSESSED` into `lookups/deal-scope.csv`. Rebuild finance if anything moved, commit, and put the number of readings still waiting in the build line.
 4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names units, for each in turn. Exit 1 — go straight to 5.
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
@@ -88,7 +88,7 @@ Both halves forbid stopping to ask, and the cycle inherits that whole. A cycle *
 ```
 /loop 25m Run `python scripts/osint-cycle-ready.py --claim`. On exit 0, run CYCLE.md end to
 end and finish with `python scripts/osint-cycle-ready.py --done`. On exit 1, stop and say
-nothing. On exit 2, write one block in logs/messages-for-bill.md and stop — do not re-run.
+nothing. On exit 2, write one block in C:\corpus-osint-xfer\messages-for-bill.md and stop — do not re-run.
 ```
 
 - **Every close fires; there is no minimum interval.** Each close is a night's evidence landed in `raw/`, so each earns a build.

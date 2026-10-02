@@ -50,7 +50,7 @@ One row per **date × host**: `date,host,views,users,sessions,clicks,impressions
 
 **Step 1a of `CYCLE.md`, straight after the notes drain and before the build.** It depends on nothing the build or the render produces, and running first means its commit is in the tree before BUILD stage 0 asks for a clean one, and in the mirror at the end. `CYCLE.md` gets one line of ordering and nothing else; everything about the job is here.
 
-**It never holds the cycle.** On exit 1 or 2 it writes its log line and the cycle goes on to the build. On exit 2 it also writes one block in `logs/messages-for-bill.md` — a revoked key or a lost permission needs Bill — unless a block on the same subject is already open.
+**It never holds the cycle.** On exit 1 or 2 it writes its log line and the cycle goes on to the build. On exit 2 it also writes one block in `C:\corpus-osint-xfer\messages-for-bill.md` — a revoked key or a lost permission needs Bill — unless a block on the same subject is already open.
 
 **Log line**, through `scripts/log-line.py` — the script's last line of output is the message: `· **ANALYTICS** ·` naming the dates written and yesterday's totals per host, e.g. `2026-09-20..2026-09-22 written; 22 Sep: dl.io 312 views / 41 clicks, corpus 88 views / 9 clicks`. On a failure, which source and the error.
 
@@ -58,7 +58,7 @@ One row per **date × host**: `date,host,views,users,sessions,clicks,impressions
 
 ## Tasks for Claude Code
 
-1. **Test access, read-only.** In a temp folder outside every repo, install the three libraries and, with the key above, fetch GA views/users/sessions by date and hostName for `7daysAgo`..`yesterday`, list the Search Console sites the account can see, and fetch 10 days of clicks by date on `sc-domain:data-landscapers.io`. If either is refused with a permission error, wait ten minutes and retry once (new users take time to propagate); if it still fails, write one block in `messages-for-bill.md` naming the exact error and stop here.
+1. **Test access, read-only.** In a temp folder outside every repo, install the three libraries and, with the key above, fetch GA views/users/sessions by date and hostName for `7daysAgo`..`yesterday`, list the Search Console sites the account can see, and fetch 10 days of clicks by date on `sc-domain:data-landscapers.io`. If either is refused with a permission error, wait ten minutes and retry once (new users take time to propagate); if it still fails, write one block in `C:\corpus-osint-xfer\messages-for-bill.md` naming the exact error and stop here.
 2. **Write `scripts/site-analytics.py`** to the section above, and `scripts/test_site_analytics.py` in the style of the other `test_*.py`: range calculation (empty table, gap, skipped nights, re-fetch windows), upsert replacing rather than duplicating, `other` host folding, blank-not-zero, `\n` endings. No network in the tests.
 3. **Backfill**: run it once for real. Check yesterday's views per host against the GA interface and the Search Console total against its Performance report; say in the commit body how close they were. The log should start from 2026-09-13.
 4. **Add step 1a to `CYCLE.md`** — one line pointing here. Add `ANALYTICS` wherever job names are defined for `log-line.py`.

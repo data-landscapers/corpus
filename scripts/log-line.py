@@ -50,7 +50,7 @@ so, because that is usually a sign the timestamp is wrong.
 **The message is capped at 40 words and an over-cap line is refused** (strategic review
 task 4; the same cap OSINT's `log-append.py` enforces). The log is a skim of what
 happened — detail belongs in git, and anything owed a decision in
-`logs/messages-for-bill.md`. A cap nobody counts drifts, so this one is counted here,
+the share's `messages-for-bill.md`. A cap nobody counts drifts, so this one is counted here,
 at the door.
 
 Usage:  python scripts/log-line.py --start build
@@ -312,7 +312,7 @@ def main() -> int:
     if words > ENTRY_WORD_CAP:
         print(f"log-line: the message is {words} words against the cap of "
               f"{ENTRY_WORD_CAP}. The log line is a skim - detail belongs in git, and "
-              f"anything owed a decision in logs/messages-for-bill.md. Trim and rerun.")
+              f"anything owed a decision in the share's messages-for-bill.md. Trim and rerun.")
         return 1
 
     if args.since and args.took:

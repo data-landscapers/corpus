@@ -59,7 +59,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
      Either way the share is committed and pushed in the same run. *Worked example: `notes-for-osint` 141, Angola's first review, found a satellite loan filed as an MoU — a note, since the record was held — and two deals with no record: the US EXIM loan to Africell and the World Bank's Tertiary Education, Science and Technology Project. Under this rule those two are drafts in `new-queue\unit-review-AGO\`. (OSINT minted them from the note on 2026-09-17, before the rule was written, so none was queued.)*
 
-   `BUILD.md` stage 4 is in force throughout: no fact without a source on its own sentence, the register of `report-layer.md` §10, *the repository* never *the base* in published prose, and **no finding noted and left** — a finding is repaired in this run, converted to a finished outcome (*Not held* with a `gaps.csv` line, a claim struck), or, if it needs more than a run, a block in `logs/messages-for-bill.md`.
+   `BUILD.md` stage 4 is in force throughout: no fact without a source on its own sentence, the register of `report-layer.md` §10, *the repository* never *the base* in published prose, and **no finding noted and left** — a finding is repaired in this run, converted to a finished outcome (*Not held* with a `gaps.csv` line, a claim struck), or, if it needs more than a run, a block in `C:\corpus-osint-xfer\messages-for-bill.md`.
 
 4. **Re-render and re-check**: `python scripts/report-render.py --unit {U} --doc all --render`, then the three checks in step 2 again. They pass, or the failing edit is repaired or reverted.
 5. **Record and commit** — from the Corpus root, one commit for the unit, explicit paths, pushed straight away:
