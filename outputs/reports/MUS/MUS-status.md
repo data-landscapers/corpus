@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 125
+sources_cited: 127
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -49,6 +49,8 @@ Mauritius's cross-border digital reach runs through payments and membership rath
 
 ### Standards
 <!-- gov.standards -->
+
+Cabinet [took note on 28 August 2026 of a Digital Service Framework setting mandatory principles and standards for every government digital service developed, procured or maintained](https://maurice-info.mu/2026/08/28/deliberations-du-conseil-des-ministres-du-28-aout-2026.html), published by [the Government Information Service](https://gis.govmu.org/gis/?page_id=4022); how compliance is checked is not stated.
 
 The newest standard-setting body in Mauritian digital governance is being created without legal personality. The [National Fintech Governance Committee is empowered to set national fintech priorities and to approve sector-wide standards and frameworks, but is expressly not a body corporate](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf); it is [chaired by the Minister and seats the Bank of Mauritius Governor, the Financial Services Commission chief executive, four ministries, the Economic Development Board and four private-sector members](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf).
 
@@ -261,7 +263,7 @@ Beyond the main island, [digital awareness work aimed at young people on Rodrigu
 ### Training and skills
 <!-- capacity.training -->
 
-[Budget 2026-2027 commits Mauritius to training 50,000 people in artificial intelligence within a year: 25,000 professionals, 12,000 Grade-9 pupils, 8,000 teachers and 5,000 civil servants](https://lexpress.mu/node/559426) (June 2026). The same budget [funds a National AI Learning Platform at Rs 25 million and scales MyT-GPT Education out of its pilot and into secondary schools](https://lexpress.mu/node/559426).
+[Budget 2026-2027 commits Mauritius to training 50,000 people in artificial intelligence within a year: 25,000 professionals, 12,000 Grade-9 pupils, 8,000 teachers and 5,000 civil servants](https://lexpress.mu/node/559426) (June 2026). The same budget [funds a National AI Learning Platform at Rs 25 million and scales MyT-GPT Education out of its pilot and into secondary schools](https://lexpress.mu/node/559426) (June 2026).
 
 That pilot is recent and small: Mauritius Telecom [launched a mytGPT Education pilot in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning), [tested in ten schools](https://lexpress.mu/node/559426). What it is for has already changed. The operator [narrowed the deployment from a student-facing tutor to a teacher coach — homework auto-correction from a phone photograph, custom exam generation — after resistance from teachers and parents, and now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). The retreat is the more informative fact: the constraint on AI in Mauritian classrooms was not the technology or the connectivity but the people expected to work alongside it, which is the same constraint the budget's [8,000-teacher training target](https://lexpress.mu/node/559426) now runs into.
 

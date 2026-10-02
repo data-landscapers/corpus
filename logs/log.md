@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-03 00:38 · **REVIEW** · 1m · MRT: status 1 sections revised, progress 0 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-10-03 00:36 · **BUILD** · 2h27m · catalogue 26,298, finance 62 places, scan 40 units, 23 ledgers updated, 24 rows minted; budget readings 22:44-00:36 (CMR, GHA, SEN, KEN, TZA, MRT actuals and more), poll queue drained, 53 follow-ups waiting; 29 register hits — ok
 2026-10-02 22:09 · **ANALYTICS** · 1m · 2026-09-29..2026-10-01 written; 1 Oct: dl.io 50 views / 0 clicks, corpus 179 views / 2 clicks
 2026-10-02 22:08 · **NOTES** · 20m · Note 76 closed: budget-watch.py's fetch-list command deleted. 77 queued as a Senegal sitting; 74, 75 and 77 open for the finance step. OSINT's uncommitted share work committed first. Share 8cd62a0 - ok
