@@ -655,7 +655,7 @@ KEN,hosting,Parliament,,Parliament of Kenya,no line,
 KEN,hosting,Foreign Affairs,,Ministry of Foreign and Diaspora Affairs,no line,
 KEN,hosting,Defence,,Ministry of Defence and Kenya Defence Forces,no line,
 KEN,hosting,Police,,National Police Service,no line,
-KEN,hosting,Justice,,Judiciary of Kenya,no line,
+KEN,hosting,Justice,,Judiciary of Kenya,line,ken-2024-1261-1261102900
 KEN,hosting,Justice,,Office of the Attorney General,no line,
 KEN,hosting,Treasury / Finance,treasury-fmis,The National Treasury,line,ken-2024-1071-0717040
 KEN,hosting,Revenue Service,revenue-systems,Kenya Revenue Authority,line,ken-2024-1071-1071102700
@@ -667,7 +667,7 @@ KEN,hosting,Immigration / Passports,,Department of Immigration Services,line,ken
 KEN,hosting,Data protection authority,data-protection,Office of the Data Protection Commissioner,line,ken-2024-1122-0217010
 KEN,hosting,Electoral commission,electoral-register,Independent Electoral and Boundaries Commission (IEBC),line,ken-2024-2031-0617040
 KEN,hosting,Statistics office,statistics,Kenya National Bureau of Statistics,line,ken-2024-1072-0707010
-KEN,hosting,Health ministry / National health insurance,,Ministry of Health,no line,
+KEN,hosting,Health ministry / National health insurance,,Ministry of Health,line,ken-2024-1082-1082103000
 KEN,hosting,Health ministry / National health insurance,,Social Health Authority,no line,
 KEN,hosting,Social protection / Social registry,social-registry,National Social Security Fund,no line,
 KEN,hosting,Social protection / Social registry,social-registry,State Department for Social Protection,no line,
@@ -694,7 +694,7 @@ KEN,deal-recipient,Research,,"Masakhane Research Foundation (Kilifi, Kenya; regi
 KEN,deal-recipient,Private Sector,,Atlas Tower Kenya Limited,no line,
 KEN,deal-recipient,Public Sector,,Kenya (recipient org unspecified),no line,
 KEN,deal-recipient,Public Sector,,Kenya Cyber Resilience (KCR) Project,no line,
-KEN,deal-recipient,Public Sector,,"Government of Kenya, Ministry of Health",no line,
+KEN,deal-recipient,Public Sector,,"Government of Kenya, Ministry of Health",line,ken-2024-1082-1082103000
 KEN,deal-recipient,Public Sector,,Government of Kenya / National Treasury,line,ken-2024-1071-0717040
 KEN,deal-recipient,Private Sector,,"Nxtra data centre, Tatu City",no line,
 KEN,deal-recipient,Public Sector,,"ASAL counties implementing partners, Kenya",no line,
