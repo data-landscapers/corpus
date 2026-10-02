@@ -83,14 +83,15 @@ FUNCTIONS = (
     ("cybersecurity", "Cybersecurity agency / National CERT", ("infra.cybersec",), r""),
     ("data-protection", "Data protection authority", ("gov.protect",), r""),
     ("revenue-systems", "Revenue Service", (),
-     r"revenue (authority|service|administration)|\btax\w*|impots|douane|customs|tribut|"
+     r"revenue (authority|service|administration)|\btax\w*|impots|douan|customs|tribut|"
      r"alfandeg|fiscal\w* (system|information)|aduan"),
     ("treasury-fmis", "Treasury / Finance", (),
      r"ifmis|\bifms\b|sigfip|sigfe|\bsigif|sistafe|siafe|sigof|financial management "
      r"(information )?system|integrated financial|gestion (integree )?des finances|"
      r"systeme d information (budgetaire|financi)|comptab\w+ (publique )?informatis|"
      r"public financ\w+ management|\bpfm\b|\be ?budget|budget\w* (information )?system|"
-     r"systeme (integre )?de gestion (budgetaire|des finances)|treasury single account|\btsa\b"),
+     r"systeme (integre )?de gestion (budgetaire|des finances)|treasury single account|\btsa\b|"
+     r"informatique financiere|informatis\w+ (de la |du )?(dgcpt|tresor|comptabilite)"),
     ("procurement", "Public procurement authority", (),
      r"procure|marches publics|commande publique|contrat\w+ public|aquisic|\be ?gp\b|\barmp\b|\barmds\b"),
     ("electoral-register", "Electoral commission", (),
