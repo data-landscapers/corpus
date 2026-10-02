@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Tunisia's 2024 budget table now carries the whole of its National Institute of Statistics: the pay and operating grants and nine more project lines, including TND 56.0m for the 2024 population census. The institute's state money for 2024 is TND 95.0m; only its IT plan and mapping system were in the table before.
 - Zimbabwe's budget table now carries the state's grants to its national statistics agency, ZIMSTAT, for 2024, 2025 and 2026: nine lines for pay, running costs and capital. The grants are ZiG 748.6m for 2025 and ZiG 684.0m for 2026, and Z$193.9bn for 2024, which was voted before the currency changed.
 - Zambia's budget table now carries the state's grant to the Zambia Statistics Agency: K13.0m in 2024 and 2025 and K13.5m in 2026. A larger statistics line in the same programme mixes state and World Bank money with no split printed, and stays out.
 - Tanzania's budget table now carries the recurrent grant to its National Bureau of Statistics for 2024/25, 2025/26 and 2026/27: TZS 12.9bn in each year. The bureau's development project was already in the table; the grant that pays its staff and running costs was not.
