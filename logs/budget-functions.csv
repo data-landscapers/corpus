@@ -603,18 +603,18 @@ SSD,population-register,not looked,,,,,,,
 SSD,data-exchange,not looked,,,,,,,
 STP,statistics,found,whole,3,stp-2024-27110-004-1113,Instituto Nacional de Estatística,rows,,
 STP,civil-registration-id,found,whole,2,stp-2024-25105-006-1053,Direcção Geral dos Registos Notariado e Identificação,rows,,
-STP,communications-regulator,not looked,,,,Autoridade Geral de Regulação (AGER),,,
-STP,ict-ministry-egov,not looked,,,,Governo de São Tomé e Príncipe (parent zone); Portal do Governo,,,
-STP,cybersecurity,not looked,,,,,,,
-STP,data-protection,not looked,,,,,,,
-STP,revenue-systems,not looked,,,,,,,
-STP,treasury-fmis,not looked,,,,Ministério do Planeamento Finanças e Economia Azul,,,
-STP,procurement,not looked,,,,,,,
-STP,electoral-register,not looked,,,,Comissão Eleitoral Nacional,,,
+STP,communications-regulator,absent,,,,Autoridade Geral de Regulação (AGER),hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; the regulator has no line in it and is funded outside the state budget.,2026-10-02
+STP,ict-ministry-egov,found,partial,1,stp-2024-21105-004-2887,Governo de São Tomé e Príncipe (parent zone); Portal do Governo,rows,,
+STP,cybersecurity,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names cybersecurity.,2026-10-02
+STP,data-protection,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names data protection or its agency.,2026-10-02
+STP,revenue-systems,absent,,,,,hand,"FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; the tax directorate (27108) prints no systems line, and project 7135 for VAT equipment is grant-financed (fonte 10).",2026-10-02
+STP,treasury-fmis,absent,,,,Ministério do Planeamento Finanças e Economia Azul,hand,"FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; project 7136, the treasury's information systems, is grant-financed (fonte 10) and is not a state line.",2026-10-02
+STP,procurement,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; the tender coordination office (27114) is one unit with no e-procurement line.,2026-10-02
+STP,electoral-register,absent,,,,Comissão Eleitoral Nacional,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names the electoral commission or a register.,2026-10-02
 STP,land-registry,found,partial,3,stp-2024-32108-006-1053,,rows,,
-STP,social-registry,not looked,,,,,,,
-STP,population-register,not looked,,,,,,,
-STP,data-exchange,not looked,,,,,,,
+STP,social-registry,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names a social registry.,2026-10-02
+STP,population-register,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names a population register.,2026-10-02
+STP,data-exchange,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names interoperability or data exchange.,2026-10-02
 SWZ,statistics,found,whole,14,swz-2024-23-31,,rows,,
 SWZ,civil-registration-id,found,whole,7,swz-2024-43-T524,,rows,,
 SWZ,communications-regulator,not looked,,,,Eswatini Communications Commission,,,

@@ -79,7 +79,8 @@ FUNCTIONS = (
      r"(numerique|digital|communicat|tecnolog|transition numerique|postes)|information technology "
      r"(agency|authority)|agence (nationale )?(de l informatique|des systemes d information|"
      r"du numerique|de developpement du digital)|digital (transformation|economy)|"
-     r"transformation (numerique|digitale)|transformacao digital"),
+     r"transformation (numerique|digitale)|transformacao digital|"
+     r"instituto de inovacao e conhecimento"),
     ("cybersecurity", "Cybersecurity agency / National CERT", ("infra.cybersec",), r""),
     ("data-protection", "Data protection authority", ("gov.protect",), r""),
     ("revenue-systems", "Revenue Service", (),
