@@ -18,16 +18,8 @@ BDI,2025,document-uncited,2026-07-04-canevas-rapport-ceni-2025-2026-t3-companion
 BDI,2025,document-uncited,2026-07-04-canevas-rapport-mcm-2025-2026-t3-companion,implementation-report; not in the extract log
 BDI,2025,document-uncited,2026-07-04-canevas-rapport-mfben-2025-2026-t3-companion,implementation-report; not in the extract log
 BDI,2025,document-uncited,2026-07-04-canevas-rapport-midcsp-2025-2026-t3-companion,implementation-report; not in the extract log
-BEN,2024,year-thin,,5 lines against 25; by year 5/5/25
-BEN,2025,year-thin,,5 lines against 25; by year 5/5/25
 BEN,2024,head-not-every-year,013 - MINISTERE DES AFFAIRES ETRANGERES,held in 2026
 BEN,2025,head-not-every-year,013 - MINISTERE DES AFFAIRES ETRANGERES,held in 2026
-BEN,2024,head-not-every-year,015 - MINISTERE DE L'INTERIEUR ET DE LA SECURITE PUBLIQUE,held in 2026
-BEN,2025,head-not-every-year,015 - MINISTERE DE L'INTERIEUR ET DE LA SECURITE PUBLIQUE,held in 2026
-BEN,2024,head-not-every-year,"016 - MINISTERE DE L'AGRICULTURE, DE L'ELEVAGE ET DE LA PECHE",held in 2026
-BEN,2025,head-not-every-year,"016 - MINISTERE DE L'AGRICULTURE, DE L'ELEVAGE ET DE LA PECHE",held in 2026
-BEN,2024,head-not-every-year,019 - MINISTERE DE LA SANTE,held in 2026
-BEN,2025,head-not-every-year,019 - MINISTERE DE LA SANTE,held in 2026
 BEN,2024,head-not-every-year,037 - MINISTERE DU CADRE DE VIE ET DES TRANSPORTS CHARGE DU DEVELOPPEMENT DURABLE,held in 2026
 BEN,2025,head-not-every-year,037 - MINISTERE DU CADRE DE VIE ET DES TRANSPORTS CHARGE DU DEVELOPPEMENT DURABLE,held in 2026
 BEN,2024,head-not-every-year,"038 - MINISTERE DE L'ENERGIE, DE L'EAU ET DES MINES",held in 2026
@@ -40,20 +32,14 @@ BEN,2024,document-uncited,2023-12-20-ben-2024-modernisation-regies-financieres-1
 BEN,2024,document-uncited,2023-12-20-ben-2024-numerique-111,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2023-12-20-ben-2024-pilotage-mnd-100,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2023-12-20-ben-loi-2023-01-loi-de-finances-2024-companion,appropriation-act; not in the extract log
-BEN,2024,document-uncited,2024-01-16-ben-pap-maep-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-masm-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mdc-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mdgl-2024-lf-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-01-16-ben-pap-mef-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-memp-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mesrs-2024-lf-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-01-16-ben-pap-mestfp-2024-lf-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-01-16-ben-pap-mic-2024-lf-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-01-16-ben-pap-misp-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mjl-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mnd-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mpmepe-2024-lf-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-01-16-ben-pap-ms-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-01-16-ben-pap-mtfp-2024-lf-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-06-17-ben-rapex-31-mars-2024-companion,implementation-report; not in the extract log
 BEN,2024,document-uncited,2024-09-13-ben-rapex-30-juin-2024-companion,implementation-report; not in the extract log
@@ -62,21 +48,9 @@ BEN,2024,document-uncited,2024-12-03-ben-an-rapport-commission-rapex-30-juin-202
 BEN,2024,document-uncited,2024-12-03-ben-an-rapport-commission-rapex-31-mars-2024-companion,implementation-report; not in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-001-an-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-008-cena-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-009-pr-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-010-apdp-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-011-mdc-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-012-mjl-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-014-mef-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-015-misp-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-018-mtfp-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-019-ms-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-020-mesrs-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-021-mestfp-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-022-memp-companion,budget-estimates; not in the extract log
-BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-028-mpmepe-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-035-mnd-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2025-03-14-ben-rapex-31-decembre-2024-companion,implementation-report; in the extract log
-BEN,2024,document-uncited,2025-12-30-ben-pap-vlf-mef-2026-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2025-12-30-ben-pap-vlf-mjl-2026-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2026-07-08-ben-tableaux-statistiques-rapport-fin-annee-2025-companion,implementation-report; not in the extract log
 BEN,2025,document-uncited,2024-10-02-ben-plf-2025-projet-loi-finances-companion,appropriation-act; not in the extract log
@@ -87,38 +61,22 @@ BEN,2025,document-uncited,2024-12-12-ben-2025-modernisation-regies-financieres-1
 BEN,2025,document-uncited,2024-12-12-ben-2025-numerique-111,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-12-ben-2025-pilotage-mnd-100,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-30-ben-loi-de-finances-gestion-2025-companion,appropriation-act; not in the extract log
-BEN,2025,document-uncited,2024-12-31-ben-pap-maep-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-masm-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mdc-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mdgl-2025-lf-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2024-12-31-ben-pap-mef-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-memp-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mesrs-2025-lf-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2024-12-31-ben-pap-mestfp-2025-lf-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2024-12-31-ben-pap-mic-2025-lf-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2024-12-31-ben-pap-misp-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mjl-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mnd-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mpmepe-2025-lf-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2024-12-31-ben-pap-ms-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mtfp-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-06-20-ben-rapex-31-mars-2025-companion,implementation-report; not in the extract log
 BEN,2025,document-uncited,2025-09-09-ben-rapex-30-juin-2025-companion,implementation-report; not in the extract log
 BEN,2025,document-uncited,2025-12-08-ben-rapex-30-septembre-2025-companion,implementation-report; not in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-001-an-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-008-cena-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-009-pr-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-010-apdp-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-011-mdc-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-012-mjl-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-014-mef-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-015-misp-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-018-mtfp-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-019-ms-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-020-mesrs-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-021-mestfp-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-022-memp-companion,budget-estimates; not in the extract log
-BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-028-mpmepe-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-035-mnd-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-12-31-ben-tableau-a-annexe-lf-2026-companion,appropriation-act; not in the extract log
 BEN,2025,document-uncited,2025-12-31-ben-tableau-b-annexe-lf-2026-companion,appropriation-act; not in the extract log
@@ -135,7 +93,6 @@ BEN,2026,document-uncited,2025-12-04-ben-2026-pilotage-mnd-100,budget-estimates;
 BEN,2026,document-uncited,2025-12-04-ben-2026-systeme-information-archivage-misp-080a4,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-29-ben-comptes-speciaux-du-tresor-gestion-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mae-2026-companion,budget-estimates; not in the extract log
-BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-maep-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-masm-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mcvt-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mdc-2026-companion,budget-estimates; not in the extract log
@@ -145,7 +102,6 @@ BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-meem-2026-companion,budget-esti
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-memp-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mesrs-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mestfp-2026-companion,budget-estimates; not in the extract log
-BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mic-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mpmepe-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-ms-2026-companion,budget-estimates; not in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mtca-2026-companion,budget-estimates; not in the extract log
@@ -572,6 +528,8 @@ COM,2026,document-uncited,2026-01-16-com-2026-09-0904,appropriation-act; not in 
 COM,2026,document-uncited,2026-01-16-com-2026-09-0910,appropriation-act; not in the extract log
 CPV,2024,head-not-every-year,GOV - Ministério Da Justiça,held in 2026
 CPV,2025,head-not-every-year,GOV - Ministério Da Justiça,held in 2026
+CPV,2024,head-not-every-year,GOV - Comissão De Recenseamento Eleitoral,held in 2026
+CPV,2025,head-not-every-year,GOV - Comissão De Recenseamento Eleitoral,held in 2026
 CPV,2026,head-not-every-year,"Receitas consignadas, item 8: Taxa de Segurança Aeroportuária","held in 2024, 2025"
 CPV,2026,head-not-every-year,"Receitas consignadas, item 9: Taxa pela emissão e substituição dos documentos de identificação civil","held in 2024, 2025"
 CPV,2024,document-uncited,2023-09-29-cpv-2024-fusi,budget-estimates; not in the extract log
@@ -949,10 +907,9 @@ GMB,2026,document-uncited,2026-07-01-gmb-budget-performance-report-2026-01-compa
 GMB,2026,document-uncited,2026-08-01-gmb-budget-performance-report-2026-02-companion,implementation-report; not in the extract log
 GMB,2026,document-uncited,2026-08-01-gmb-budget-performance-report-2026-q1-companion,implementation-report; in the extract log
 GMB,2026,document-uncited,2026-08-18-gmb-pbo-q1-2026-budget-execution-brief-companion,implementation-report; not in the extract log
-GNB,2024,year-missing,,lines by year 0/6/4
-GNB,,country-thin,,10 lines; by year 0/6/4
+GNB,2024,year-missing,,lines by year 0/8/6
+GNB,,country-thin,,14 lines; by year 0/8/6
 GNB,2025,head-not-every-year,11-Ministério da Administração territorial e Gestão eleitoral,held in 2026
-GNB,2026,head-not-every-year,14-Secretaria de Estado do Plano e Integraçao Regional,held in 2025
 GNB,2026,head-not-every-year,18-Ministerio da Saude Publica,held in 2025
 GNB,2026,head-not-every-year,"21-Ministério da Obras Publicas, Habitação e Urbanismo",held in 2025
 GNB,2024,document-uncited,2023-12-01-gnb-proposta-oge-2024-companion,budget-estimates; in the extract log
@@ -996,19 +953,21 @@ GNQ,2025,head-not-every-year,Sección 46 ORDENACIÓN DE TIERRAS,"held in 2024, 2
 GNQ,2025,head-not-every-year,Sección 55 GASTOS COMUNES Y OBLIGACIONES DIVERSAS,"held in 2024, 2026"
 KEN,2025,head-not-every-year,Vote 1015 State Department for Performance and Delivery Management,held in 2024
 KEN,2026,head-not-every-year,Vote 1015 State Department for Performance and Delivery Management,held in 2024
-KEN,2024,head-not-every-year,Vote 1073 State Department for Public Investments and Assets Management,held in 2026
-KEN,2025,head-not-every-year,Vote 1073 State Department for Public Investments and Assets Management,held in 2026
+KEN,2024,head-not-every-year,Vote 1073 State Department for Public Investments and Assets Management,"held in 2025, 2026"
+KEN,2025,head-not-every-year,Vote 1082 State Department for Medical Services,held in 2024
+KEN,2026,head-not-every-year,Vote 1082 State Department for Medical Services,held in 2024
 KEN,2026,head-not-every-year,Vote 1092 State Department for Transport,"held in 2024, 2025"
-KEN,2024,head-not-every-year,Vote 1123 State Department for Broadcasting & Telecommunications,held in 2026
-KEN,2025,head-not-every-year,Vote 1123 State Department for Broadcasting & Telecommunications,held in 2026
-KEN,2025,head-not-every-year,Vote 1192 State Department for Mining,held in 2024
-KEN,2026,head-not-every-year,Vote 1192 State Department for Mining,held in 2024
+KEN,2025,head-not-every-year,Vote 1123 State Department for Broadcasting & Telecommunications,"held in 2024, 2026"
+KEN,2025,head-not-every-year,Vote 1132 State Department for Sports,"held in 2024, 2026"
+KEN,2024,head-not-every-year,Vote 1173 State Department for Cooperatives,held in 2025
+KEN,2026,head-not-every-year,Vote 1173 State Department for Cooperatives,held in 2025
+KEN,2026,head-not-every-year,Vote 1192 State Department for Mining,"held in 2024, 2025"
+KEN,2026,head-not-every-year,Vote 1203 State Department for Wildlife,"held in 2024, 2025"
+KEN,2024,head-not-every-year,Vote 1331 State Department for Environment & Climate Change,"held in 2025, 2026"
 KEN,2024,document-uncited,2024-06-01-ken-2024-vote1122-egovernment,budget-estimates; not in the extract log
 KEN,2024,document-uncited,2024-06-01-ken-2024-vote1122-ict-bpo,budget-estimates; not in the extract log
 KEN,2024,document-uncited,2024-06-01-ken-2024-vote1122-ict-connectivity,budget-estimates; not in the extract log
-KEN,2024,document-uncited,2024-06-01-ken-development-estimates-fy2024-25-vol1-d1011-1083-companion,budget-estimates; not in the extract log
 KEN,2024,document-uncited,2024-06-01-ken-development-estimates-fy2024-25-vol2-d1091-companion,budget-estimates; not in the extract log
-KEN,2024,document-uncited,2024-06-01-ken-development-estimates-fy2024-25-vol3-d1092-2141-companion,budget-estimates; in the extract log
 KEN,2024,document-uncited,2024-06-01-ken-recurrent-estimates-fy2024-25-vol1-r1011-1162-companion,budget-estimates; not in the extract log
 KEN,2024,document-uncited,2024-06-01-ken-recurrent-estimates-fy2024-25-vol2-r1166-2151-companion,budget-estimates; not in the extract log
 KEN,2024,document-uncited,2024-08-01-ken-2024-vote1071-egp-eprocurement,budget-estimates; not in the extract log
@@ -1024,9 +983,7 @@ KEN,2024,document-uncited,2026-05-01-ken-oag-summary-report-national-government-
 KEN,2025,document-uncited,2025-06-01-ken-2025-vote1024-ecitizen,budget-estimates; not in the extract log
 KEN,2025,document-uncited,2025-06-01-ken-2025-vote1024-population-management,budget-estimates; not in the extract log
 KEN,2025,document-uncited,2025-06-01-ken-2025-vote1122,budget-estimates; not in the extract log
-KEN,2025,document-uncited,2025-06-01-ken-development-estimates-fy2025-26-vol1-d1011-1083-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2025-06-01-ken-development-estimates-fy2025-26-vol2-d1091-companion,budget-estimates; not in the extract log
-KEN,2025,document-uncited,2025-06-01-ken-development-estimates-fy2025-26-vol3-d1092-2111-companion,budget-estimates; not in the extract log
 KEN,2025,document-uncited,2025-06-01-ken-recurrent-estimates-fy2025-26-vol1-r1011-1097-companion,budget-estimates; not in the extract log
 KEN,2025,document-uncited,2025-06-01-ken-recurrent-estimates-fy2025-26-vol2-r1104-2151-companion,budget-estimates; not in the extract log
 KEN,2025,document-uncited,2026-02-01-ken-cob-ng-birr-6mo-fy2025-26-companion,implementation-report; not in the extract log
@@ -1041,12 +998,9 @@ KEN,2026,document-uncited,2026-06-01-ken-2026-vote1024-ecitizen,budget-estimates
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1024-population-management,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1122,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1122-data-protection-services,budget-estimates; not in the extract log
-KEN,2026,document-uncited,2026-06-01-ken-development-estimates-fy2026-27-vol1-d1011-1083-approved-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-development-estimates-fy2026-27-vol1-d1011-1083-companion,budget-estimates; not in the extract log
-KEN,2026,document-uncited,2026-06-01-ken-development-estimates-fy2026-27-vol3-d1092-1135-approved-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-development-estimates-fy2026-27-vol3-d1092-1135-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-fy-2026-27-development-budget-book-vol-ii-1091-companion,budget-estimates; not in the extract log
-KEN,2026,document-uncited,2026-06-01-ken-fy-2026-27-development-budget-book-vol-iv-1152-2111-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-fy-2026-27-recurrent-budget-book-vol-i-1011-1095-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-fy-2026-27-recurrent-budget-book-vol-ii-1097-2151-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-pbb-fy2026-27-approved-companion,budget-estimates; not in the extract log
@@ -1317,8 +1271,6 @@ MRT,2026,document-uncited,2025-10-01-mrt-plf-2026-companion,budget-estimates; no
 MRT,2026,document-uncited,2026-07-01-mrt-plfr-2026-companion,budget-estimates; not in the extract log
 MRT,2026,document-uncited,2026-09-01-mrt-rofe-s1-2026-companion,implementation-report; not in the extract log
 MRT,2026,document-uncited,2026-09-01-mrt-tofe-aout-2026-companion,implementation-report; not in the extract log
-MUS,2025,year-thin,,34 lines against 100; by year 100/34/38
-MUS,2026,year-thin,,38 lines against 100; by year 100/34/38
 MUS,2025,head-not-every-year,Vote 1-13: Local Government Service Commission,held in 2024
 MUS,2026,head-not-every-year,Vote 1-13: Local Government Service Commission,held in 2024
 MUS,2025,head-not-every-year,Vote 1-18: Office of Ombudsperson for Financial Services,held in 2024
@@ -1391,47 +1343,57 @@ MUS,2025,head-not-every-year,Vote 7-6: Registrar-General's Department,held in 20
 MUS,2026,head-not-every-year,Vote 7-6: Registrar-General's Department,held in 2024
 MUS,2025,head-not-every-year,Vote 9-2: Social Security and National Solidarity,held in 2024
 MUS,2026,head-not-every-year,Vote 9-2: Social Security and National Solidarity,held in 2024
+MUS,2024,head-not-every-year,Attorney General's Office,"held in 2025, 2026"
+MUS,2024,head-not-every-year,"Ministry of Agro-industry, Food Security, Blue Economy and Fisheries","held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Arts and Culture,held in 2026
+MUS,2025,head-not-every-year,Ministry of Arts and Culture,held in 2026
 MUS,2024,head-not-every-year,Corporate and Business Registration Department,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Centralised Services of Government,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Commerce and Consumer Protection,"held in 2025, 2026"
 MUS,2024,head-not-every-year,Civil Status Division,"held in 2025, 2026"
 MUS,2024,head-not-every-year,External Communications,held in 2025
 MUS,2026,head-not-every-year,External Communications,held in 2025
+MUS,2024,head-not-every-year,Ministry of Education and Human Resource,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Energy and Public Utilities,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Financial Services and Economic Planning,held in 2025
+MUS,2026,head-not-every-year,Ministry of Financial Services and Economic Planning,held in 2025
+MUS,2024,head-not-every-year,Ministry of Gender Equality and Family Welfare,held in 2025
+MUS,2026,head-not-every-year,Ministry of Gender Equality and Family Welfare,held in 2025
 MUS,2024,head-not-every-year,Government Printing,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Health and Wellness,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Housing and Lands,"held in 2025, 2026"
+MUS,2024,head-not-every-year,"Ministry of Industry, SME and Cooperatives","held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Labour and Industrial Relations,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Local Government,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Land Transport,"held in 2025, 2026"
 MUS,2024,head-not-every-year,"Ministry of Information Technology, Communication and Innovation","held in 2025, 2026"
-MUS,2024,head-not-every-year,Ministry of Finance,held in 2025
-MUS,2026,head-not-every-year,Ministry of Finance,held in 2025
+MUS,2024,head-not-every-year,Ministry of National Infrastructure,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Finance,"held in 2025, 2026"
+MUS,2024,head-not-every-year,The Judiciary,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Office of the Director of Public Prosecutions,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Public and Disciplined Forces Service Commissions,held in 2026
+MUS,2025,head-not-every-year,Public and Disciplined Forces Service Commissions,held in 2026
+MUS,2024,head-not-every-year,Office of the Ombudsperson for Financial Services,"held in 2025, 2026"
 MUS,2024,head-not-every-year,Prime Minister's Office,"held in 2025, 2026"
 MUS,2024,head-not-every-year,Police Service,"held in 2025, 2026"
 MUS,2024,head-not-every-year,Prison Service,"held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Public Service and Administrative Reforms,held in 2025
+MUS,2026,head-not-every-year,Ministry of Public Service and Administrative Reforms,held in 2025
 MUS,2024,head-not-every-year,Registrar-General's Department,"held in 2025, 2026"
+MUS,2024,head-not-every-year,"Ministry of Social Integration, Social Security and National Solidarity","held in 2025, 2026"
 MUS,2024,head-not-every-year,Statistics Mauritius,"held in 2025, 2026"
+MUS,2024,head-not-every-year,"Ministry of Tertiary Education, Science and Research","held in 2025, 2026"
+MUS,2024,head-not-every-year,Ministry of Tourism,held in 2026
+MUS,2025,head-not-every-year,Ministry of Tourism,held in 2026
 MUS,2024,head-not-every-year,Treasury,"held in 2025, 2026"
 MUS,2024,document-uncited,2024-06-07-mus-psip-2024-25-to-2026-27-companion,mtef; not in the extract log
 MUS,2024,document-uncited,2024-06-26-mus-appropriation-act-2024-25-companion,appropriation-act; in the extract log
 MUS,2024,document-uncited,2025-04-24-mus-supplementary-appropriation-2024-25-act-2025-companion,appropriation-act; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-ago-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-agro-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-arts-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-centralised-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-commerce-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-constitutional-bodies-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-education-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-energy-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-environment-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-foreign-affairs-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-fs-ecoplan-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-gender-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-health-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-housing-lands-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-industry-sme-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-labour-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-land-transport-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-local-government-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-mni-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-mtef-fiscal-strategy-companion,mtef; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-psar-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-social-security-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-summary-expenditure-by-programmes-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-tertiary-education-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-tourism-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-youth-sports-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2026-02-01-mus-certificate-of-audit-report-of-the-director-of-audit-on-the-accounts-o-companion,audited-accounts; not in the extract log
@@ -1439,33 +1401,14 @@ MUS,2024,document-uncited,2026-02-01-mus-nao-audit-report-accounts-government-20
 MUS,2024,document-uncited,2026-06-26-mus-supplementary-appropriation-2024-25-no2-act-2026-companion,appropriation-act; not in the extract log
 MUS,2025,document-uncited,2025-06-05-mus-psip-2025-26-to-2029-30-companion,mtef; not in the extract log
 MUS,2025,document-uncited,2025-06-30-mus-appropriation-act-2025-26-companion,appropriation-act; in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-ago-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-agro-industry-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-arts-culture-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-cbrd-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-centralised-services-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-commerce-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-constitutional-bodies-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-education-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-energy-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-environment-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-financial-services-economic-planning-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-foreign-affairs-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-health-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-housing-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-industry-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-labour-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-land-transport-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-local-government-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-mof-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-mtef-fiscal-strategy-companion,mtef; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-national-infrastructure-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-p0257-registrar-general-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-psar-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-social-security-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-summary-expenditure-by-programmes-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-tertiary-education-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-tourism-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-youth-sports-companion,budget-estimates; not in the extract log
 MWI,2025,head-not-every-year,Vote 030 - Pensions and Gratuities,held in 2024
 MWI,2026,head-not-every-year,Vote 030 - Pensions and Gratuities,held in 2024
@@ -1818,8 +1761,8 @@ TGO,2026,document-uncited,2025-11-20-tgo-projet-loi-de-finances-2026-companion,b
 TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-bg-2026-companion,budget-estimates; not in the extract log
 TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-cas-2026-companion,budget-estimates; not in the extract log
 TGO,2026,document-uncited,2026-06-29-tgo-rapport-sur-lexecution-des-operations-financieres-de-letat-a-fin-mars-companion,implementation-report; not in the extract log
-TUN,2025,year-thin,,2 lines against 70; by year 70/2/2
-TUN,2026,year-thin,,2 lines against 70; by year 70/2/2
+TUN,2025,year-thin,,2 lines against 82; by year 82/2/2
+TUN,2026,year-thin,,2 lines against 82; by year 82/2/2
 TUN,2025,head-not-every-year,مهمة الداخلية (Interior),held in 2024
 TUN,2026,head-not-every-year,مهمة الداخلية (Interior),held in 2024
 TUN,2025,head-not-every-year,مهمة العدل (Justice),held in 2024
