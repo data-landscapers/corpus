@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Uganda's 2026/27 line for the statistics bureau is now complete at UGX 148.5bn, up from the 141.4bn entered earlier today. The demography department, lost at a page break in the main volume, is read from the appendix volume.
 - Benin's budget table gains 33 activity lines from the ministries' performance projects. The largest are the national statistical system (XOF 2.2bn a year from 2025), agricultural statistics surveys, the interior ministry's statistics system and e-health; 2024 and 2025 now carry 29 and 34 lines where they had 5.
 - Benin's budget table now carries the national identification agency (XOF 5.0bn a year), the state's information-systems and digital agency (XOF 2.75bn in 2024, 4.08bn since), the digital investigations centre and ten ministries' IT directorates, 39 lines over three years. 2024 and 2025 had been read at programme level only.
 - Madagascar's budget table now carries the directorate of the single social registry: MGA 120m in the 2024 revised law and in 2025, and MGA 90m in 2026, which the revised 2026 law cut to nil.
