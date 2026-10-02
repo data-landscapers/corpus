@@ -27,7 +27,7 @@ BDI,land-registry,found,partial,1,bdi-2025-16-017-21430-0339-01,,rows,,
 BDI,social-registry,not looked,,,,,,,
 BDI,population-register,not looked,,,,,,,
 BDI,data-exchange,not looked,,,,,,,
-BEN,statistics,found,whole,4,ben-2026-015-080-080002055,Institut national de la statistique et de la démographie (INStaD),rows,,
+BEN,statistics,found,whole,13,ben-2024-016-035-035002012,Institut national de la statistique et de la démographie (INStaD),rows,,
 BEN,civil-registration-id,found,whole,4,ben-2024-009-010002-1192,Agence nationale d'identification des personnes (ANIP),rows,,
 BEN,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et de la poste (ARCEP),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the regulator (ARCEP) appears as a source of indicators and in one line for building the regulators' shared headquarters (6bn), a building line",2026-10-02
 BEN,ict-ministry-egov,found,whole,12,ben-2024-035-111,Agence des systèmes d'information et du numérique (ASIN); Gouvernement de la République du Bénin,rows,,
