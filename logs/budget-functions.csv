@@ -1,18 +1,18 @@
 iso3,function,status,scope,rows,deal_id,named,basis,evidence,looked
 AGO,statistics,found,whole,3,ago-2024-mep-uo-instituto-nacional-de-estatistica,Instituto Nacional de Estatística,rows,,
 AGO,civil-registration-id,found,whole,18,ago-2024-minjusdh-114-modernizacao-do-bilhete-de-identidade-e-informat,Serviço Integrado de Atendimento ao Cidadão (SIAC),rows,,
-AGO,communications-regulator,not looked,,,,Instituto Angolano das Comunicações (INACOM),,,
+AGO,communications-regulator,absent,,,,Instituto Angolano das Comunicações (INACOM),hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names the communications institute (INACOM),2026-10-02
 AGO,ict-ministry-egov,found,whole,5,ago-2024-minfin-61442-projecto-de-transformacao-digital-sigt-siiat-da,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI); Governo de Angola (zona gov.ao),rows,,
 AGO,cybersecurity,found,whole,4,ago-2024-mintrans-51029-seguranca-do-sistema-de-informacao-mintrans,,rows,,
 AGO,data-protection,found,whole,3,ago-2024-minttics-uo-agencia-angolana-de-proteccao-de-dados,Agência de Protecção de Dados,rows,,
-AGO,revenue-systems,not looked,,,,Administração Geral Tributária,,,
+AGO,revenue-systems,absent,,,,Administração Geral Tributária,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no project names a tax or customs system; the hits are revenue headings,2026-10-02
 AGO,treasury-fmis,found,whole,3,ago-2024-pr-3314-sistema-integrado-de-gestao-da-oferta-formativa,Ministério das Finanças,rows,,
 AGO,procurement,found,whole,4,ago-2026-minfin-implementacao-do-sistema-nacional-de-contratacao-publica-pla,Serviço Nacional da Contratação Pública (Portal Compras Públicas),rows,,
-AGO,electoral-register,not looked,,,,Comissão Nacional Eleitoral,,,
+AGO,electoral-register,absent,,,,Comissão Nacional Eleitoral,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names the voter register or the electoral commission's systems,2026-10-02
 AGO,land-registry,found,whole,8,ago-2024-mirempet-61337-implementacao-do-sistema-integrado-de-licenciame,Instituto Geográfico e Cadastral de Angola (IGCA),rows,,
 AGO,social-registry,found,whole,2,ago-2025-masfamu-4721-sistema-integrado-de-cadastro-social-unico-sicas,Instituto Nacional de Segurança Social,rows,,
-AGO,population-register,not looked,,,,,,,
-AGO,data-exchange,not looked,,,,,,,
+AGO,population-register,absent,,,,,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names a population register,2026-10-02
+AGO,data-exchange,absent,,,,,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names interoperability or a data exchange,2026-10-02
 BDI,statistics,found,whole,11,bdi-2024-14-001-66110-0121-15,Institut national de la statistique du Burundi,rows,,
 BDI,civil-registration-id,found,partial,3,bdi-2024-11-002-66110-0311-02,,rows,,
 BDI,communications-regulator,found,partial,3,bdi-2024-01-004,Agence de régulation et de contrôle des télécommunications,rows,,
@@ -118,7 +118,7 @@ COD,ict-ministry-egov,found,whole,4,cod-2024-31-31200-241018,Agence pour le dév
 COD,cybersecurity,found,whole,17,cod-2024-10-10310-fi,,rows,,
 COD,data-protection,absent,,,,,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names data protection",2026-10-02
 COD,revenue-systems,found,partial,1,cod-2024-30-30302-231607,"Direction générale des impôts; Direction générale des recettes administratives, judiciaires, domaniales et de participations (DGRAD)",rows,,
-COD,treasury-fmis,absent,,,,Administration des Finances (Secrétariat général aux Finances); Ministère du Budget,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: the one hit, SIGMAP, is the public procurement management system, held under procurement if at all; no chapter names a treasury or financial management system",2026-10-02
+COD,treasury-fmis,absent,,,,Administration des Finances (Secrétariat général aux Finances); Ministère du Budget,hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: no chapter names a treasury or financial management system; the one hit, SIGMAP, is the procurement system and is held under procurement",2026-10-02
 COD,procurement,found,whole,3,cod-2024-31-31301-241005,Autorité de régulation des marchés publics (ARMP); Système intégré de gestion des marchés publics,rows,,
 COD,electoral-register,absent,,,,Commission électorale nationale indépendante (CENI),hand,"keyword scan of the expenditure volumes of the finance laws for 2024 and 2026 and the revised law for 2025, read at the sitting of 2026-09-24: the electoral commission is section 77, printed as one body with no line for the voter register",2026-10-02
 COD,land-registry,found,whole,2,cod-2024-55-55200-231012,Ministère des Affaires foncières,rows,,
@@ -407,17 +407,17 @@ MDG,population-register,not looked,,,,,,,
 MDG,data-exchange,not looked,,,,,,,
 MLI,statistics,found,whole,14,mli-2024-310-3.008-31-1-2017-0011-001-000000,Institut national de la statistique (INSTAT),rows,,
 MLI,civil-registration-id,found,whole,13,mli-2024-330-2.036-12-2-2011-0013-001-000000-62-9-1-27,,rows,,
-MLI,communications-regulator,not looked,,,,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),,,
+MLI,communications-regulator,absent,,,,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no section or programme names the telecommunications regulator (AMRTP), which is funded from its own fees",2026-10-02
 MLI,ict-ministry-egov,found,whole,7,mli-2025-730-2.077-12-1-2017-0061-001-000000,Agence des technologies de l'information et de la communication (AGETIC); Portail gouvernemental du Mali,rows,,
 MLI,cybersecurity,found,whole,8,mli-2024-220-1.009-12-1-2022-0058-001-000000,,rows,,
 MLI,data-protection,found,whole,3,mli-2024-334-2.095,Autorité de protection des données à caractère personnel (APDP),rows,,
 MLI,revenue-systems,found,whole,1,mli-2026-310-2.024-a01-3.1.2,Direction générale des impôts,rows,,
 MLI,treasury-fmis,found,whole,2,mli-2024-310-2.023-32-6-2016-2970-001-000000,Ministère de l'Économie et des Finances,rows,,
-MLI,procurement,not looked,,,,Autorité de régulation des marchés publics et des délégations de service public (ARMDS),,,
-MLI,electoral-register,not looked,,,,,,,
+MLI,procurement,absent,,,,Autorité de régulation des marchés publics et des délégations de service public (ARMDS),hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: the procurement regulator (ARMDS) is section 312, funded as a body, and no line names a procurement system; the system appears only in the 2026 programme document's list of acronyms",2026-10-02
+MLI,electoral-register,absent,,,,,hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no line names the electoral file or a voter register",2026-10-02
 MLI,land-registry,found,whole,9,mli-2026-740-2.078-a01-1.1.8,,rows,,
-MLI,social-registry,not looked,,,,Caisse nationale d'assurance maladie (CANAM),,,
-MLI,population-register,not looked,,,,,,,
+MLI,social-registry,absent,,,,Caisse nationale d'assurance maladie (CANAM),hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no line names a social registry",2026-10-02
+MLI,population-register,absent,,,,,hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no line names a population register apart from the civil-status data centre, held under civil registration",2026-10-02
 MLI,data-exchange,found,whole,2,mli-2024-310-1.011-32-6-2016-2969-001-000000,,rows,,
 MOZ,statistics,found,whole,37,moz-2024-27a000141-27a006441-fun,Instituto Nacional de Estatística,rows,,
 MOZ,civil-registration-id,found,whole,39,moz-2024-17a000141-17a002741-fun,Direcção Nacional de Identificação Civil; Direcção Nacional dos Registos e Notariado (registo civil),rows,,
@@ -449,18 +449,18 @@ MRT,population-register,found,whole,9,mrt-2024-73-42-01-02,,rows,,
 MRT,data-exchange,found,whole,6,mrt-2024-18-11-02-08,,rows,,
 MUS,statistics,found,whole,3,mus-2024-7-4-7-4,Statistics Mauritius,rows,,
 MUS,civil-registration-id,found,whole,10,mus-2024-2-1-2-103-22900811,Civil Status Division,rows,,
-MUS,communications-regulator,not looked,,,,Information and Communication Technologies Authority,,,
+MUS,communications-regulator,absent,,,,Information and Communication Technologies Authority,hand,"keyword scan of the estimates for 2024-25, 2025-26 and 2026-27, every vote of which is in the held set: the ICT Authority is funded from licence fees and has no vote; it appears only in a procurement notice",2026-10-02
 MUS,ict-ministry-egov,found,whole,14,mus-2024-2-5-2-501-31132401,Central Informatics Bureau,rows,,
 MUS,cybersecurity,found,whole,4,mus-2024-16-1-16-101-22900040,CERT-MU,rows,,
 MUS,data-protection,found,whole,3,mus-2024-16-1-16-101-22900916,Data Protection Office,rows,,
 MUS,revenue-systems,found,whole,3,mus-2024-16-1-16-101-28213022,Mauritius Revenue Authority,rows,,
-MUS,treasury-fmis,not looked,,,,Ministry of Finance Economic Planning and Development,,,
+MUS,treasury-fmis,found,whole,1,mus-2025-TRE-0254-31132801,Ministry of Finance Economic Planning and Development,hand,"the Treasury's software acquisition line, which carries the Treasury Accounting System and its consolidation package, is held in each year",2026-10-02
 MUS,procurement,found,whole,2,mus-2024-7-1-7-102-31132801,Public Procurement Office,rows,,
-MUS,electoral-register,not looked,,,,Electoral Commissioner's Office,,,
+MUS,electoral-register,absent,,,,Electoral Commissioner's Office,hand,"keyword scan of the estimates for 2024-25, 2025-26 and 2026-27, every vote of which is in the held set: the Electoral Commissioner's vote prints one register line, fees in connection with the registration of electors (Rs 27,000 thousand a year), which pays the yearly canvass and names no system",2026-10-02
 MUS,land-registry,found,whole,11,mus-2024-3-1-3-103-22060013,Registrar General's Department,rows,,
 MUS,social-registry,found,whole,1,mus-2024-9-2-9-202-31132116,Ministry of Social Integration Social Security and National Solidarity,rows,,
-MUS,population-register,not looked,,,,,,,
-MUS,data-exchange,not looked,,,,,,,
+MUS,population-register,found,partial,1,mus-2026-CSD-0203,,hand,"the Central Population Database is kept by the Civil Status Division, whose sub-programme is held at partial; estimates 2024-25, vote 2, strategic overview",2026-10-02
+MUS,data-exchange,found,whole,1,mus-2026-MITCI-2302-230201,,hand,"the InfoHighway, the government's data exchange, is an of-which line (Rs 12,000 thousand in 2026/27) inside sub-programme 230201, which is held whole; estimates 2026-27, MITCI, p. 7",2026-10-02
 MWI,statistics,found,whole,40,mwi-2024-276-001-020-1,National Statistical Office,rows,,
 MWI,civil-registration-id,found,whole,42,mwi-2024-344-001-020-1,National Registration Bureau,rows,,
 MWI,communications-regulator,not looked,,,,Malawi Communications Regulatory Authority,,,
@@ -634,15 +634,15 @@ SYC,civil-registration-id,found,partial,3,syc-2024-064x000-p2,,rows,,
 SYC,communications-regulator,found,partial,3,syc-2024-020d000-p1,,rows,,
 SYC,ict-ministry-egov,found,whole,1,syc-2026-022x000-p2,Department of Information Communications Technology; Department of Information Communications Technology (DICT),rows,,
 SYC,cybersecurity,found,whole,3,syc-2024-040l000-p2-penetration-testing,,rows,,
-SYC,data-protection,not looked,,,,,,,
+SYC,data-protection,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: no body or line is funded for data protection; the Information Commission (SCR 3,529 thousand in 2024) administers access to information",2026-10-02
 SYC,revenue-systems,found,whole,3,syc-2024-180x000-p1-sp1.1-investment-portal,Seychelles Revenue Commission,rows,,
 SYC,treasury-fmis,found,whole,3,syc-2024-041x000-p6-ifmis-psip,Ministry of Finance,rows,,
-SYC,procurement,not looked,,,,,,,
-SYC,electoral-register,not looked,,,,Electoral Commission of Seychelles,,,
+SYC,procurement,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: the procurement oversight unit is funded as a body and the national e-procurement system appears in the text as a plan with no line",2026-10-02
+SYC,electoral-register,absent,,,,Electoral Commission of Seychelles,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: the Electoral Commission is funded as one body (SCR 19,316 thousand in 2024) with no line for the voter register",2026-10-02
 SYC,land-registry,found,whole,5,syc-2024-090x000-p2-sp3,Land Registration Division,rows,,
 SYC,social-registry,found,whole,1,syc-2026-170c000-p1-social-registry,,rows,,
-SYC,population-register,not looked,,,,,,,
-SYC,data-exchange,not looked,,,,,,,
+SYC,population-register,found,partial,1,syc-2024-064x000-p2,,hand,"the national population database is kept by the immigration and civil status department's citizen's affairs programme, which is held at partial; the estimates' programme text says it maintains the database and issues identity cards",2026-10-02
+SYC,data-exchange,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: interoperability appears in strategy text only; no line funds a data exchange",2026-10-02
 TCD,statistics,absent,,,,Institut National de la Statistique et des Études Économiques et Démographiques,hand,"FY2024 to FY2026: each fascicule prints every section to imputation and paragraph (2,128, 2,638 and 3,007 lines) and was read whole on 2026-09-24; labels and paragraphs searched again on 2026-10-02. The statistics institute has no imputation or paragraph in any year. The only statistics lines are a donor-financed harmonisation project (grant 10.0bn, 5.0bn and 15.0bn) and statistics units inside the livestock, health and security ministries.",2026-10-02
 TCD,civil-registration-id,absent,,,,Agence Nationale des Titres Sécurisés,hand,"FY2024 to FY2026: each fascicule prints every section to imputation and paragraph (2,128, 2,638 and 3,007 lines) and was read whole on 2026-09-24; labels and paragraphs searched again on 2026-10-02. No imputation or paragraph names civil registration, identity or the secure-documents agency.",2026-10-02
 TCD,communications-regulator,absent,,,,Autorité de Régulation des Communications Électroniques et des Postes,hand,"FY2024 to FY2026: each fascicule prints every section to imputation and paragraph (2,128, 2,638 and 3,007 lines) and was read whole on 2026-09-24; labels and paragraphs searched again on 2026-10-02. The communications regulator has no line; it is funded outside the general budget.",2026-10-02
