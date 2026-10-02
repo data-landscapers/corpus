@@ -477,11 +477,11 @@ MWI,population-register,absent,,,,,hand,"keyword scan of the approved detailed e
 MWI,data-exchange,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Boma Lathu data exchange is named in the ICT ministry's programme text and not as a line of its own",2026-10-02
 NAM,statistics,found,whole,3,nam-2024-26-md02-nsa,Namibia Statistics Agency,rows,,
 NAM,civil-registration-id,found,whole,7,nam-2026-28-md02-mvrk-sla,,rows,,
-NAM,communications-regulator,absent,,,,Communications Regulatory Authority of Namibia,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Communications Regulatory Authority is funded from its own fees and has no main division",2026-10-02
+NAM,communications-regulator,absent,,,,Communications Regulatory Authority of Namibia,hand,"FY2024/25 to FY2026/27: the 2026/27 estimates (all votes, 600+ pages) never name the Communications Regulatory Authority of Namibia; it is funded by its own levies outside the vote",2026-10-03
 NAM,ict-ministry-egov,found,whole,10,nam-2024-02-md06,Office of the Prime Minister,rows,,
 NAM,cybersecurity,found,whole,1,nam-2026-29-md05,,hand,"the cyber security programme (N$6,000,000 in 2026/27) is an item of the ICT Development main division, which is held whole",2026-10-02
 NAM,data-protection,absent,,,,,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no data protection body is funded; the Information Commission that is held administers access to information",2026-10-02
-NAM,revenue-systems,absent,,,,Namibia Revenue Agency,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a tax or customs system; the revenue agency is funded by one transfer",2026-10-02
+NAM,revenue-systems,absent,,,,Namibia Revenue Agency,hand,"FY2024/25 to FY2026/27: the 2026/27 estimates print the Namibia Revenue Agency only as one transfer from vote 09 Finance (recipients of budget transfers, 043 Government Organization, PDF p. 151), with no systems line",2026-10-03
 NAM,treasury-fmis,found,partial,1,nam-2026-09-md13,Ministry of Finance and Public Enterprises,hand,"IFMS support (N$9,000,000 in 2026/27) and the Oracle licences are items of the finance vote's ICT main division, which is held at partial",2026-10-02
 NAM,procurement,found,whole,1,nam-2026-09-md09-egp,Central Procurement Board of Namibia,rows,,
 NAM,electoral-register,found,whole,5,nam-2026-28-md01-vpn,Electoral Commission of Namibia,rows,,
