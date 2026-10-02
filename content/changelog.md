@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Tunisia's 2025 budget table now breaks the ICT development fund's TND 100m into its nine activities, where it had one line. The largest are the grant to the broadcasting transmission office (44.5m), digitisation of the administration (14.7m, of which 10.5m is the state's agreement with Microsoft) and telecom infrastructure (14.4m); wages and the ministry's own IT lines are added, 19 lines in all.
 - Cameroon's 2024 and 2025 budget lines now carry the revised figure from each year's amending ordinance. In 2024 the cadastre programme rose from XAF 1.20bn to 1.43bn and public-service human resources from 5.97bn to 6.28bn; in 2025 the cadastre was cut from 1.57bn to 1.48bn. The digital ecosystem programmes were unchanged in both years.
 - Ghana's budget table gains the research, statistics and information directorates of nine ministries for 2025 and five for 2026, with the Legal Aid Commission's IT office: GHS 10.4m and 14.2m. They are counted as partly digital, and are the fifteen lines that waited on yesterday's volumes.
 - Senegal's 2026 budget table now carries the statistics agency: XOF 6.4bn for widening statistical production and 0.5bn for its statistical programme, from the economy ministry's performance volume. Senegal had no statistics line in any year.
