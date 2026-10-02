@@ -237,20 +237,20 @@ ETH,land-registry,found,whole,9,eth-2024-177-01-01-00-002,,rows,,
 ETH,social-registry,not looked,,,,Ministry of Labor and Skills,,,
 ETH,population-register,not looked,,,,,,,
 ETH,data-exchange,found,whole,7,eth-2024-177-05-01,,rows,,
-GAB,statistics,not looked,,,,Direction Générale de la Statistique; Direction Générale de la Statistique (INSTAT portal),,,
-GAB,civil-registration-id,not looked,,,,,,,
+GAB,statistics,absent,,,,Direction Générale de la Statistique; Direction Générale de la Statistique (INSTAT portal),hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names statistics; the statistics directorate sits inside a planning programme and no explanatory annex is held.",2026-10-02
+GAB,civil-registration-id,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names civil registration or identity documents.",2026-10-02
 GAB,communications-regulator,found,partial,3,gab-2024-10-10416-adp-arcep,Autorité de Régulation des Communications Électroniques et des Postes,rows,,
 GAB,ict-ministry-egov,found,whole,18,gab-2024-10-10416-t2,Agence Nationale des Infrastructures Numériques et des Fréquences; Portail officiel du Gouvernement gabonais,rows,,
-GAB,cybersecurity,not looked,,,,,,,
+GAB,cybersecurity,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme or conceded receipt names cybersecurity.",2026-10-02
 GAB,data-protection,found,whole,5,gab-2024-31-31291,,rows,,
 GAB,revenue-systems,found,whole,9,gab-2024-10-10416-adp-aninf,Direction Générale des Impôts,rows,,
-GAB,treasury-fmis,not looked,,,,Ministère de l'Économie et des Participations; Ministère de l'Économie; des Finances; de la Dette et des Participations (Budget),,,
-GAB,procurement,not looked,,,,,,,
-GAB,electoral-register,not looked,,,,,,,
-GAB,land-registry,not looked,,,,,,,
-GAB,social-registry,not looked,,,,Caisse Nationale de Sécurité Sociale,,,
-GAB,population-register,not looked,,,,,,,
-GAB,data-exchange,not looked,,,,,,,
+GAB,treasury-fmis,absent,,,,Ministère de l'Économie et des Participations; Ministère de l'Économie; des Finances; de la Dette et des Participations (Budget),hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. The public finance mission's programmes name no information system; the customs information system is held as special account 68.934.",2026-10-02
+GAB,procurement,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. The procurement regulator is programme 31.295 (882.6m in 2026), a body with no e-procurement line; not held.",2026-10-02
+GAB,electoral-register,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names elections or an electoral register.",2026-10-02
+GAB,land-registry,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names the cadastre or land registration.",2026-10-02
+GAB,social-registry,absent,,,,Caisse Nationale de Sécurité Sociale,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. The social welfare mission prints social protection and its steering, and no registry.",2026-10-02
+GAB,population-register,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names a population register.",2026-10-02
+GAB,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names interoperability or data exchange.",2026-10-02
 GHA,statistics,found,whole,8,gha-2024-010-01003-statistical-service,Ghana Statistical Service,rows,,
 GHA,civil-registration-id,found,whole,14,gha-2024-001-ow-nia,National Identification Authority,rows,,
 GHA,communications-regulator,found,partial,3,gha-2024-026-0268002,National Communications Authority,rows,,
