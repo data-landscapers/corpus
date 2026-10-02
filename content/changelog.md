@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Tanzania's 2024/25 budget table now shows what the government proposed beside what the Assembly passed, for 115 of its 122 lines. Four changed on the way: the tax modernisation project rose from TZS 20bn to 30bn, the postcode and addressing system fell from 11.1bn to 9.6bn.
 - Kenya's budget tables gain 17 lines from the recurrent estimates, which had not been read: the electoral commission's voter registration (KSh 3.2bn in 2026/27, 2.5bn in 2025/26), the cybercrime coordination committee, the Digital Health Authority and three ministry IT units. None is inside a line already shown.
 - Kenya's budget tables gain the roads department's electronic records system in all three years: KSh 25m, 8.3m and 15m. It was in the roads volume of the development estimates, which had not been read.
 - Ghana's 2025 and 2026 budget tables gain the Lands Commission, the land registry and survey authority: GHS 225m and GHS 441m, more than half of it retained fees. It is held at partial scope because the same figure pays for valuation and public land management.

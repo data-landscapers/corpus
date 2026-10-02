@@ -109,9 +109,6 @@ One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes the
 - **TUN FY2025** — implementation-report adds released or actual: [[2025-11-26-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-septembre-2025-co-companion]] (queued 2026-09-25).
 - **TUN FY2025** — implementation-report adds released or actual: [[2026-02-23-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-novembre-2025-companion]] (queued 2026-09-25).
 - **TUN FY2025** — implementation-report adds released or actual: [[2026-02-23-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-octobre-2025-companion]] (queued 2026-09-25).
-- **TZA FY2024** — budget-estimates adds proposed: [[2024-04-19-tza-19-apr-2024-vol-ii-reccurent-expenditure-as-submitted-2024-25-companion]] (queued 2026-09-25).
-- **TZA FY2024** — budget-estimates adds proposed: [[2024-04-19-tza-19-apr-2024-vol-iii-recurrent-expenditure-as-submitted-2024-25-companion]] (queued 2026-09-25).
-- **TZA FY2024** — budget-estimates adds proposed: [[2024-04-19-tza-19-apr-2024-vol-iv-development-expenditure-as-submitted-2024-25-companion]] (queued 2026-09-25).
 - **TZA FY2024** — implementation-report adds released: [[2024-12-29-tza-27-dec-2024-the-budget-execution-report-for-the-first-quarter-of-the-y-companion]] (queued 2026-09-25).
 - **TZA FY2025** — implementation-report adds released or actual: [[2026-03-01-tza-mid-year-budget-review-2025-26-companion]] (queued 2026-09-25).
 - **TZA FY2026** — statement as-stated already held — read it for a revision: [[2026-09-22-tza-citizen-budget-2026-27-companion]] (queued 2026-09-25).
