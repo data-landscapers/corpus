@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Cameroon's 2024 and 2025 budget lines now carry the revised figure from each year's amending ordinance. In 2024 the cadastre programme rose from XAF 1.20bn to 1.43bn and public-service human resources from 5.97bn to 6.28bn; in 2025 the cadastre was cut from 1.57bn to 1.48bn. The digital ecosystem programmes were unchanged in both years.
 - Ghana's budget table gains the research, statistics and information directorates of nine ministries for 2025 and five for 2026, with the Legal Aid Commission's IT office: GHS 10.4m and 14.2m. They are counted as partly digital, and are the fifteen lines that waited on yesterday's volumes.
 - Senegal's 2026 budget table now carries the statistics agency: XOF 6.4bn for widening statistical production and 0.5bn for its statistical programme, from the economy ministry's performance volume. Senegal had no statistics line in any year.
 - Mauritius's 2026-27 budget table gains the gender ministry's four digital lines, MUR 15m, the largest an online data repository at MUR 11.5m. Every ministry is now read for that year.
