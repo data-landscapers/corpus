@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Eight of Kenya's 2025/26 project lines now carry their revised figure from Supplementary Estimates I. ICT in secondary schools rose from KES 50m to 152.9m, court automation fell from 449.0m to 384.0m and the prosecutor's case system from 45m to 24.3m; five were unchanged.
 - Sierra Leone's statistics agency lines now show what was spent: NLe 20.1m of 27.2m on staff in 2024, 25.9m of 28.6m in 2025, and NLe 81.1m of the 150m voted for the census in 2025. The figures are from the unaudited public accounts.
 - Sierra Leone's 2026 lines for Statistics Sierra Leone, NLe 436.8m, now stand as approved rather than proposed. The July 2026 supplementary statement restates the agency's budget and the census at the estimates' figures.
 - Cabo Verde's electoral registration commissions are now in the budget table for 2024 and 2025 as well, at CVE 63.6m in each year, the same figure as 2026.
