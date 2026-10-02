@@ -1,3 +1,7 @@
+## 2 October 2026
+
+- South Sudan's budget table now carries the whole National Bureau of Statistics for 2024/25 and 2025/26, not only its GIS and IT units: twelve more lines from the same two budget books. Nearly all of the money is one capital item, SSP 95.3bn appropriated in 2024/25 and SSP 220.3bn proposed in 2025/26, and the bureau spent SSP 0.4bn in 2024/25.
+
 ## 1 October 2026
 
 - Cabo Verde's 2026 budget table now carries the data protection commission, at CVE 38.1m, read from the National Assembly's own budget resolution. The 2026 budget law did not reprint that resolution, so the commission had no 2026 line; it now has one for each year from 2024.
