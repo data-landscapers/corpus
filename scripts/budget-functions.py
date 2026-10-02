@@ -95,7 +95,7 @@ FUNCTIONS = (
      r"systeme (integre )?de gestion (budgetaire|des finances)|treasury single account|\btsa\b|"
      r"informatique financiere|informatis\w+ (de la |du )?(dgcpt|tresor|comptabilite)"),
     ("procurement", "Public procurement authority", (),
-     r"procure|marches publics|commande publique|contrat\w+ public|aquisic|\be ?gp\b|\barmp\b|\barmds\b"),
+     r"procure|marches publics|commande publique|contrat\w+ public|aquisicoes publicas|\be ?gp\b|\barmp\b|\barmds\b"),
     ("electoral-register", "Electoral commission", (),
      r"\belect(ion|or|eur)|eleit|eleic|voter|scrutin|\bceni\b"),
     ("land-registry", "Land registry", (),
@@ -109,6 +109,7 @@ FUNCTIONS = (
      r"fichier (national )?(de la )?population|registo (nacional )?d[ae] popula|\brnpp\b|\brnp\b"),
     ("data-exchange", "", ("dpi.exchange",), r""),
 )
+HEAD_IS_FUNCTION = {"ict-ministry-egov"}
 # The hosting dataset's types that are not asked for of a state budget.
 NOT_STATE = {"Commercial Banks", "Stock exchange", "National payment switch"}
 # Words that carry no identity in a body's name, in the four languages met.
@@ -134,9 +135,14 @@ fold = holes.fold
 
 
 def row_text(row: dict, purpose: bool = False) -> str:
-    cols = ["admin_head", "spending_entity", "programme", "sub_programme", "line_name", "transfer_to"]
+    """The row's own names. A function is matched without the admin head: a line under a
+    ministry of territorial administration and elections is not the electoral register."""
+    cols = ["spending_entity", "programme", "sub_programme", "line_name", "transfer_to"]
     if purpose:
+        cols[:0] = ["admin_head"]
         cols.append("purpose")
+    elif fold(row.get("spending_entity") or "") in fold(row.get("admin_head") or ""):
+        cols = cols[1:]                 # the spending entity is the ministry again
     return fold(" | ".join(row.get(c) or "" for c in cols))
 
 
@@ -211,10 +217,12 @@ def build(only: str = "") -> tuple[list[dict], list[dict]]:
             continue
         rows = by_country.get(iso3, [])
         texts = [(row_text(r), r) for r in rows]
+        headed = [(fold(r.get("admin_head") or "") + " | " + text, r) for text, r in texts]
         full = [(row_text(r, purpose=True), r) for r in rows]
         for key, htype, topics, pattern in FUNCTIONS:
             rx = re.compile(pattern) if pattern else None
-            hits = [r for text, r in texts
+            # The ICT ministry is the one function whose admin head is the function itself.
+            hits = [r for text, r in (headed if key in HEAD_IS_FUNCTION else texts)
                     if r.get("primary_topic_id") in topics or (rx and rx.search(text))]
             named = "; ".join(h["institution"] for h in host if h["iso3"] == iso3 and h["type"] == htype)
             old = kept.get((iso3, key), {})

@@ -627,7 +627,7 @@ GNB,hosting,Justice,,Procuradoria-Geral da República (Ministério Público),no 
 GNB,hosting,Treasury / Finance,treasury-fmis,Ministério das Finanças,no line,
 GNB,hosting,Central Bank,,Banco Central dos Estados da África Ocidental (BCEAO),no line,
 GNB,hosting,Electoral commission,electoral-register,Comissão Nacional de Eleições,no line,
-GNB,hosting,Statistics office,statistics,Instituto Nacional de Estatística (INE),no line,
+GNB,hosting,Statistics office,statistics,Instituto Nacional de Estatística (INE),line,gnb-2026-14-352210101
 GNB,hosting,Health ministry / National health insurance,,Ministério da Saúde Pública (MINSAP),line,gnb-2025-18-611940101
 GNB,hosting,Securities regulator,,Autorité des Marchés Financiers de l'UMOA (AMF-UMOA),no line,
 GNB,hosting,Sovereign wealth fund / National pension fund,,Instituto Nacional de Segurança Social (INSS),no line,

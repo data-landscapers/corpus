@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Guinea-Bissau's budget table now carries official statistics: the state's transfer to the national statistics institute for 2026, and its own money for the population census in 2025 and 2026 and for a household survey in 2025. The four lines total XOF 234m; donor money for the same census and survey is larger and is not counted as state spending.
 - South Sudan's budget table now carries the whole National Bureau of Statistics for 2024/25 and 2025/26, not only its GIS and IT units: twelve more lines from the same two budget books. Nearly all of the money is one capital item, SSP 95.3bn appropriated in 2024/25 and SSP 220.3bn proposed in 2025/26, and the bureau spent SSP 0.4bn in 2024/25.
 
 ## 1 October 2026
