@@ -1572,13 +1572,13 @@ ZWE,hosting,Defence,,Ministry of Defence and War Veterans,no line,
 ZWE,hosting,Police,,Zimbabwe Republic Police,no line,
 ZWE,hosting,Justice,,Ministry of Justice Legal and Parliamentary Affairs,line,zwe-2024-19-4
 ZWE,hosting,Justice,,Judicial Service Commission,line,zwe-2024-29-2-iecms
-ZWE,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance Economic Development and Investment Promotion,line,zwe-2024-5-3-zimra-asycuda
+ZWE,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance Economic Development and Investment Promotion,line,zwe-2024-5-2-zimstat-compensation
 ZWE,hosting,Revenue Service,revenue-systems,Zimbabwe Revenue Authority,line,zwe-2024-5-3-zimra-asycuda
 ZWE,hosting,Interior / Home Affairs,,Ministry of Home Affairs and Cultural Heritage,line,zwe-2024-18-2
 ZWE,hosting,Central Bank,,Reserve Bank of Zimbabwe,no line,
 ZWE,hosting,Civil registry / National ID authority,civil-registration-id,Registrar General of Zimbabwe,line,zwe-2024-18-2
 ZWE,hosting,Electoral commission,electoral-register,Zimbabwe Electoral Commission,line,zwe-2024-36-1-sp6
-ZWE,hosting,Statistics office,statistics,Zimbabwe National Statistics Agency,no line,
+ZWE,hosting,Statistics office,statistics,Zimbabwe National Statistics Agency,line,zwe-2024-5-2-zimstat-compensation
 ZWE,hosting,Immigration / Passports,,Department of Immigration,no line,
 ZWE,hosting,Health ministry / National health insurance,,Ministry of Health and Child Care,no line,
 ZWE,hosting,Social protection / Social registry,social-registry,Ministry of Public Service Labour and Social Welfare,line,zwe-2024-3-3-social-welfare-mis

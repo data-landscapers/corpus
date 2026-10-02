@@ -741,17 +741,17 @@ ZMB,land-registry,absent,,,,Ministry of Lands and Natural Resources,hand,"FY2024
 ZMB,social-registry,absent,,,,Ministry of Community Development and Social Services,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No sub-programme or named line is a social registry.",2026-10-02
 ZMB,population-register,absent,,,,,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No line names a population register; the integrated national registration system is held under identity.",2026-10-02
 ZMB,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the output based budget prints all 61 heads to programme, sub-programme and named economic line, and was read whole on 2026-09-24. No line names interoperability or data exchange.",2026-10-02
-ZWE,statistics,not looked,,,,Zimbabwe National Statistics Agency,,,
+ZWE,statistics,found,whole,9,zwe-2024-5-2-zimstat-compensation,Zimbabwe National Statistics Agency,rows,,
 ZWE,civil-registration-id,found,partial,3,zwe-2024-18-2,Registrar General of Zimbabwe,rows,,
-ZWE,communications-regulator,not looked,,,,Postal and Telecommunications Regulatory Authority of Zimbabwe,,,
+ZWE,communications-regulator,absent,,,,Postal and Telecommunications Regulatory Authority of Zimbabwe,hand,"FY2024 to FY2026: the Blue Book prints every vote's programme tables and annex notes, and the workbook was read whole on 2026-09-24. The telecommunications regulator has no line; it is funded from its own fees. The Universal Services Fund, which it administers, is held from the ICT vote's statutory column.",2026-10-02
 ZWE,ict-ministry-egov,found,whole,1,zwe-2024-1-2-national-data-centre,Ministry of Information Communication Technology Postal and Courier Services,rows,,
 ZWE,cybersecurity,found,whole,4,zwe-2024-5-3-zimra-ict-security,,rows,,
-ZWE,data-protection,not looked,,,,,,,
+ZWE,data-protection,absent,,,,,hand,"FY2024 to FY2026: the Blue Book prints every vote's programme tables and annex notes, and the workbook was read whole on 2026-09-24. Data protection appears only in the ICT ministry's narrative, with no line.",2026-10-02
 ZWE,revenue-systems,found,whole,15,zwe-2024-5-3-zimra-asycuda,Zimbabwe Revenue Authority,rows,,
-ZWE,treasury-fmis,not looked,,,,Ministry of Finance Economic Development and Investment Promotion,,,
-ZWE,procurement,not looked,,,,Procurement Regulatory Authority of Zimbabwe,,,
-ZWE,electoral-register,not looked,,,,Zimbabwe Electoral Commission,,,
+ZWE,treasury-fmis,absent,,,,Ministry of Finance Economic Development and Investment Promotion,hand,"FY2024 to FY2026: the Blue Book prints every vote's programme tables and annex notes, and the workbook was read whole on 2026-09-24. The public finance management system appears as a narrative output of the finance vote, with no line of its own.",2026-10-02
+ZWE,procurement,absent,,,,Procurement Regulatory Authority of Zimbabwe,hand,"FY2024 to FY2026: the Blue Book prints every vote's programme tables and annex notes, and the workbook was read whole on 2026-09-24. No vote, programme or annex line names the procurement regulator or an e-procurement system.",2026-10-02
+ZWE,electoral-register,found,partial,1,zwe-2026-36-1-sp6,Zimbabwe Electoral Commission,hand,"FY2024 to FY2026: the electoral commission's ICT and knowledge management sub-programme, which runs the voter registration system its narrative reports upgrading; held at partial.",2026-10-02
 ZWE,land-registry,found,whole,7,zwe-2024-8-1-sp5,,rows,,
 ZWE,social-registry,found,whole,1,zwe-2026-3-3-zimbabwe-social-registry,Ministry of Public Service Labour and Social Welfare,rows,,
-ZWE,population-register,not looked,,,,,,,
+ZWE,population-register,absent,,,,,hand,"FY2024 to FY2026: the Blue Book prints every vote's programme tables and annex notes, and the workbook was read whole on 2026-09-24. No line names a population register; civil registration is held at programme grain.",2026-10-02
 ZWE,data-exchange,found,whole,1,zwe-2025-5-3-zimra-eip,,rows,,
