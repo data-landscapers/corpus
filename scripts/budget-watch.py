@@ -7,7 +7,6 @@ budget-watch.py — the list of budget-library pages the poll watches (strategic
     python scripts/budget-watch.py poll               # fetch the due pages, stage what is new
     python scripts/budget-watch.py poll --dry-run --iso KEN --force   # list, fetch no document
     python scripts/budget-watch.py refind             # R104: one enumeration per failed library
-    python scripts/budget-watch.py fetch-list         # R104: manual libraries to the fetch list
     python scripts/budget-watch.py followups          # R106: a sitting queued per pulled document
     python scripts/budget-watch.py coverage           # R106: held and absent types, dated
 
@@ -67,7 +66,7 @@ Ingest adjudicates it like anything else pulled. Each library polled appends one
 is what R107 reads for the cost of a full poll. `--limit` caps the documents fetched per
 library (default 25), so a library that never lists years cannot flood one night.
 
-**`refind` and `fetch-list` (R104) settle the rows the poll cannot read.** `refind` gives each
+**`refind` (R104) settles the rows the poll cannot read.** It gives each
 `refind` or `unreached` row, and each `live` row whose page lists no document, one Track B
 enumeration (`DOMESTIC-FINANCE-SWEEP.md`): the host's WordPress media search where it has one,
 the held URL's parent folders, and the root's own links that name a budget or a library — at
@@ -82,8 +81,11 @@ page, not the library's.
 
 **`note` is the dated absence.** `dead 2026-09-25: no budget library found in 12 pages` is
 what the Finance page's coverage table states for the row when it returns (R106); until then
-this file is where the absence is recorded. `fetch-list` writes the `manual` rows to
-`X:\fetch-list.md` as one batch, no more often than every 91 days, and dates `listed`.
+this file is where the absence is recorded. **A library the poll cannot read is recorded here
+and nowhere else** *(Bill, 2026-10-02; `notes-for-corpus` 76)*: the share's `fetch-list.md`
+takes a named document with a resolved URL whose automated fetch has failed, never a library,
+so the `fetch-list` command that wrote the `manual` rows there is gone. `listed` is the date
+it last did, kept as history.
 """
 from __future__ import annotations
 
@@ -1037,55 +1039,6 @@ def refind(iso: str | None) -> int:
     return 0
 
 
-FETCH_LIST = Path(status_lib.EXCHANGE) / "fetch-list.md"
-QUARTER = 91            # days between two batches to the fetch list
-
-
-def fetch_list(dry_run: bool) -> int:
-    """The `manual` rows to `X:\\fetch-list.md`, one batch a quarter: a row not listed in the
-    last 91 days gets one line, numbered on from the file's highest, and `listed` is dated."""
-    today = dt.date.today()
-    fields, rows = read_existing()
-    fields = fields + [c for c in ("note", "listed") if c not in fields]
-    listed = [dt.date.fromisoformat(r["listed"]) for r in rows.values() if r.get("listed")]
-    if listed and (today - max(listed)).days < QUARTER:
-        print(f"budget-watch fetch-list: last batch {max(listed)}; next due "
-              f"{max(listed) + dt.timedelta(days=QUARTER)}")
-        return 0
-    # A library that has given nothing inside the poll's window is not worth a browser visit.
-    since = f"{today.year - YEARS_BACK}-01-01"
-    due = [r for _, r in sorted(rows.items())
-           if r.get("state") == "manual" and (r.get("last_published") or "") >= since]
-    if not due:
-        print("budget-watch fetch-list: no manual libraries")
-        return 0
-    text = FETCH_LIST.read_text(encoding="utf-8")
-    n = max((int(m) for m in re.findall(r"^x?(\d+)\.", text, re.M)), default=0)
-    lines = []
-    for r in due:
-        n += 1
-        why = r.get("note", "").split(": ", 1)[-1] or "no automated route"
-        types = r["doc_types"].replace("|", ", ")
-        lines.append(
-            f"{n}. ({today}) **{r['institution']}, budget library** — "
-            f"`{up.urlsplit(r['library_url']).scheme}://{up.urlsplit(r['library_url']).netloc}/`. "
-            f"*Budget documents new since {r.get('last_published') or 'the last held'} — "
-            f"{types} — into `new/`; the poll ({today}) cannot read this page.* "
-            f"Automated route dead, tested {r.get('checked') or today}: {why}.")
-        r["listed"] = today.isoformat()
-    block = "\n\n".join(lines)
-    if dry_run:
-        print(block)
-        return 0
-    FETCH_LIST.write_text(text.rstrip("\n") + "\n\n" + block + "\n", encoding="utf-8", newline="\n")
-    with open(OUT, "w", encoding="utf-8", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
-        w.writeheader()
-        w.writerows(rows[k] for k in sorted(rows))
-    print(f"budget-watch fetch-list: {len(lines)} lines to {FETCH_LIST}")
-    return 0
-
-
 RAW = Path(MIRROR) / "raw"
 FOLLOWUPS = ROOT / "logs" / "budget-followups.md"
 FOLLOWUPS_HEAD = "## Queued by the budget poll"
@@ -1235,8 +1188,6 @@ def main() -> int:
     q.add_argument("--limit", type=int, default=25, help="documents fetched per library (default 25)")
     f = sub.add_parser("refind", help="R104: one enumeration for each failed library")
     f.add_argument("--iso", help="one country")
-    fl = sub.add_parser("fetch-list", help="R104: the manual libraries to the fetch list, quarterly")
-    fl.add_argument("--dry-run", action="store_true", help="print the batch, write nothing")
     sub.add_parser("followups", help="R106: queue an extract sitting for each pulled document")
     sub.add_parser("coverage", help="R106: held and absent types per country-year")
     args = p.parse_args()
@@ -1246,8 +1197,6 @@ def main() -> int:
         return coverage()
     if args.cmd == "refind":
         return refind(args.iso and args.iso.upper())
-    if args.cmd == "fetch-list":
-        return fetch_list(args.dry_run)
     if args.cmd == "poll":
         return poll(args.iso and args.iso.upper(), args.force, args.dry_run, args.limit)
     return build(not args.no_probe)
