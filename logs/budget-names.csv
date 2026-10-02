@@ -1,0 +1,1595 @@
+iso3,list,type,function,name,status,deal_id
+AGO,hosting,Presidency,,Presidência da República / Governo de Angola,line,ago-2024-pr-61441-implentacao-do-sistema-electronico-de-tramitacao
+AGO,hosting,Parliament,,Assembleia Nacional,no line,
+AGO,hosting,Foreign Affairs,,Ministério das Relações Exteriores,no line,
+AGO,hosting,Defence,,Ministério da Defesa Nacional Antigos Combatentes e Veteranos da Pátria,line,ago-2025-mdn-71544-centro-de-dados-e-plataforma-de-software-luanda
+AGO,hosting,Police,,Polícia Nacional de Angola,no line,
+AGO,hosting,Justice,,Ministério da Justiça e dos Direitos Humanos,line,ago-2024-minjusdh-114-fornecimento-de-bens-instalacao-e-suporte-tecnic
+AGO,hosting,Justice,,Tribunal Supremo,no line,
+AGO,hosting,Treasury / Finance,treasury-fmis,Ministério das Finanças,line,ago-2024-minfin-61442-projecto-de-transformacao-digital-sigt-siiat-da
+AGO,hosting,Revenue Service,revenue-systems,Administração Geral Tributária,line,ago-2024-minfin-61442-projecto-de-transformacao-digital-sigt-siiat-da
+AGO,hosting,Interior / Home Affairs,,Ministério do Interior,line,ago-2024-minint-71548-implementacao-dos-sistemas-de-controlo-das-front
+AGO,hosting,Central Bank,,Banco Nacional de Angola,no line,
+AGO,hosting,Civil registry / National ID authority,civil-registration-id,Serviço Integrado de Atendimento ao Cidadão (SIAC),no line,
+AGO,hosting,Data protection authority,data-protection,Agência de Protecção de Dados,line,ago-2024-minttics-uo-agencia-angolana-de-proteccao-de-dados
+AGO,hosting,Electoral commission,electoral-register,Comissão Nacional Eleitoral,no line,
+AGO,hosting,Statistics office,statistics,Instituto Nacional de Estatística,line,ago-2024-mep-uo-instituto-nacional-de-estatistica
+AGO,hosting,Health ministry / National health insurance,,Ministério da Saúde,no line,
+AGO,hosting,Social protection / Social registry,social-registry,Instituto Nacional de Segurança Social,line,ago-2024-minttics-5928-instalacao-da-infra-estrutura-de-sistemas-de-cib
+AGO,hosting,Land registry,land-registry,Instituto Geográfico e Cadastral de Angola (IGCA),no line,
+AGO,hosting,Securities regulator,,Comissão do Mercado de Capitais,no line,
+AGO,hosting,Sovereign wealth fund / National pension fund,,Fundo Soberano de Angola (FSDEA),no line,
+AGO,hosting,Public procurement authority,procurement,Serviço Nacional da Contratação Pública (Portal Compras Públicas),no line,
+AGO,hosting,Energy utility,,Empresa Nacional de Distribuição de Electricidade (ENDE),no line,
+AGO,hosting,Ports authority,,Porto de Luanda E.P.,no line,
+AGO,hosting,State-owned telco / National backbone operator,,Angola Telecom,line,ago-2024-minttics-5928-reabilitacao-e-expansao-das-redes-rurais-e-moder
+AGO,hosting,E-government agency,ict-ministry-egov,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI),no line,
+AGO,hosting,E-government agency,ict-ministry-egov,Governo de Angola (zona gov.ao),no line,
+AGO,hosting,Communications regulator,communications-regulator,Instituto Angolano das Comunicações (INACOM),no line,
+AGO,hosting,Audit office,,Tribunal de Contas,line,ago-2024-tdc-111-instalacao-do-sistema-de-gestao-da-progressao-da
+AGO,hosting,Anti-corruption commission,,Procuradoria-Geral da República,line,ago-2024-pgr-114-plano-de-informatizacao-dos-servicos
+AGO,deal-recipient,Private Sector,,Africell,no line,
+AGO,deal-recipient,Public Sector,,Angola Telecom E.P.,line,ago-2024-minttics-5928-reabilitacao-e-expansao-das-redes-rurais-e-moder
+AGO,deal-recipient,Public Sector,,"Angolan Ministry of Telecommunications, Information Technology and Mass Communications",no line,
+AGO,deal-recipient,Public Sector,,Republic of Angola,no line,
+AGO,deal-recipient,Public Sector,,Ministry of Finance,line,ago-2024-minfin-uo-servico-de-tecnologias-de-informacao-e-comunicac
+BDI,hosting,Presidency,,Présidence de la République du Burundi,line,bdi-2024-01-004
+BDI,hosting,Parliament,,Assemblée nationale,no line,
+BDI,hosting,Parliament,,Sénat,no line,
+BDI,hosting,Foreign Affairs,,"Ministère des Affaires étrangères, de l'Intégration régionale et de la Coopération au développement",line,bdi-2026-12-064-62340-0115-01
+BDI,hosting,Defence,,Ministère de la Défense nationale et des Anciens combattants,no line,
+BDI,hosting,Armed Forces,,Force de défense nationale du Burundi,no line,
+BDI,hosting,Justice,,"Ministère de la Justice, des Droits de la personne humaine et du Genre",line,bdi-2025-16-017-21430-0339-01
+BDI,hosting,Treasury / Finance,treasury-fmis,"Ministère des Finances, du Budget et de l'Économie numérique",line,bdi-2024-14-001-61210-0121-01
+BDI,hosting,Revenue Service,revenue-systems,Office burundais des recettes,no line,
+BDI,hosting,Interior / Home Affairs,,"Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique",line,bdi-2024-11-002-66110-0311-02
+BDI,hosting,Central Bank,,Banque de la République du Burundi,no line,
+BDI,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante,no line,
+BDI,hosting,Statistics office,statistics,Institut national de la statistique du Burundi,line,bdi-2024-14-024
+BDI,hosting,Health ministry / National health insurance,,Ministère de la Santé publique,line,bdi-2024-33-001-21440-0791-01
+BDI,hosting,Securities regulator,,Autorité de régulation du marché des capitaux,no line,
+BDI,hosting,Sovereign wealth fund / National pension fund,,Institut national de sécurité sociale,line,bdi-2026-14-063-61610-0121-01
+BDI,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics,no line,
+BDI,hosting,Energy utility,,Régie de production et de distribution d'eau et d'électricité,no line,
+BDI,hosting,State-owned telco / National backbone operator,,Office national des télécommunications,line,bdi-2024-01-004
+BDI,hosting,State-owned telco / National backbone operator,,Burundi Backbone System,line,bdi-2025-14-001-26110-0121-01
+BDI,hosting,E-government agency,ict-ministry-egov,Gouvernement du Burundi (zone parente),no line,
+BDI,hosting,Communications regulator,communications-regulator,Agence de régulation et de contrôle des télécommunications,line,bdi-2024-01-004
+BDI,hosting,Audit office,,Cour des comptes,no line,
+BDI,deal-recipient,Public Sector,,Government of Burundi,no line,
+BDI,deal-recipient,Private Sector,,"Lumitel (operator, BDI)",no line,
+BDI,deal-recipient,Public Sector,,Republic of Burundi,no line,
+BEN,hosting,Presidency,,Présidence de la République du Bénin,no line,
+BEN,hosting,Parliament,,Assemblée nationale du Bénin,no line,
+BEN,hosting,Foreign Affairs,,Ministère des Affaires étrangères et de la Coopération,no line,
+BEN,hosting,Defence,,Ministère de la Défense nationale,no line,
+BEN,hosting,Police,,Direction générale de la Police républicaine,no line,
+BEN,hosting,Justice,,Ministère de la Justice et de la Législation,no line,
+BEN,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,ben-2024-014-108
+BEN,hosting,Treasury / Finance,treasury-fmis,Direction générale du Trésor et de la Comptabilité publique,no line,
+BEN,hosting,Revenue Service,revenue-systems,Direction générale des Impôts,line,ben-2024-014-108
+BEN,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécurité publique,line,ben-2026-015-080-080002055
+BEN,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+BEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale d'identification des personnes (ANIP),no line,
+BEN,hosting,Data protection authority,data-protection,Autorité de protection des données personnelles (APDP),no line,
+BEN,hosting,Electoral commission,electoral-register,Commission électorale nationale autonome (CENA),no line,
+BEN,hosting,Statistics office,statistics,Institut national de la statistique et de la démographie (INStaD),no line,
+BEN,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,ben-2026-019-045-pip3
+BEN,hosting,Social protection / Social registry,social-registry,Agence nationale de la protection sociale (ANPS),no line,
+BEN,hosting,Land registry,land-registry,Agence nationale du domaine et du foncier (ANDF),no line,
+BEN,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+BEN,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de sécurité sociale (CNSS),no line,
+BEN,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics (ARMP),no line,
+BEN,hosting,Energy utility,,Société béninoise d'énergie électrique (SBEE),line,ben-2026-037-088-pip16
+BEN,hosting,Ports authority,,Port autonome de Cotonou,no line,
+BEN,hosting,E-government agency,ict-ministry-egov,Agence des systèmes d'information et du numérique (ASIN),line,ben-2026-035-100-100005001
+BEN,hosting,E-government agency,ict-ministry-egov,Gouvernement de la République du Bénin,no line,
+BEN,hosting,Cybersecurity agency / National CERT,cybersecurity,bjCSIRT,no line,
+BEN,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),no line,
+BEN,hosting,Audit office,,Cour des comptes,no line,
+BEN,deal-recipient,Public Sector,,Benin,no line,
+BEN,deal-recipient,Public Sector,,Ministère de l'Economie et des Finances (MEF),line,ben-2024-014-108
+BEN,deal-recipient,Public Sector,,Republic of Benin,no line,
+BEN,deal-recipient,Public Sector,,Government of Benin,no line,
+BFA,hosting,Presidency,,Présidence du Faso,line,bfa-2024-01-002-0020118
+BFA,hosting,Parliament,,Assemblée législative du peuple,no line,
+BFA,hosting,Foreign Affairs,,Ministère des Affaires étrangères et de la Coopération régionale,line,bfa-2024-12-028-0280254
+BFA,hosting,Defence,,Ministère de la Guerre et de la Défense patriotique,line,bfa-2024-11-024-0240303
+BFA,hosting,Police,,Police nationale du Burkina Faso,line,bfa-2024-09-012-0120422
+BFA,hosting,Justice,,Ministère de la Justice et des Droits humains,line,bfa-2024-10-021-0210114
+BFA,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,bfa-2024-14-032-0320213
+BFA,hosting,Revenue Service,revenue-systems,Direction générale des impôts,line,bfa-2024-14-033-0330147
+BFA,hosting,Revenue Service,revenue-systems,Direction générale des impôts (ancien portail),no line,
+BFA,hosting,Revenue Service,revenue-systems,Direction générale des impôts (portail eSINTAX),no line,
+BFA,hosting,Customs,,Direction générale des douanes,no line,
+BFA,hosting,Interior / Home Affairs,,Ministère de l'Administration territoriale et de la Mobilité,line,bfa-2024-09-016-0160368
+BFA,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+BFA,hosting,Civil registry / National ID authority,civil-registration-id,Office national d'identification,line,bfa-2024-09-012-0120807
+BFA,hosting,Data protection authority,data-protection,Commission de l'informatique et des libertés,line,bfa-2024-09-015-0150107
+BFA,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante,line,bfa-2024-09-015-0150107
+BFA,hosting,Statistics office,statistics,Institut national de la statistique et de la démographie,line,bfa-2024-09-015-0150107
+BFA,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Hygiène publique,line,bfa-2024-21-057-0570104
+BFA,hosting,Social protection / Social registry,social-registry,Caisse nationale de sécurité sociale,no line,
+BFA,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+BFA,hosting,Sovereign wealth fund / National pension fund,,Caisse autonome de retraite des fonctionnaires,no line,
+BFA,hosting,Public procurement authority,procurement,Autorité de régulation de la commande publique,no line,
+BFA,hosting,Energy utility,,Société nationale d'électricité du Burkina,no line,
+BFA,hosting,State-owned telco / National backbone operator,,Moov Africa Burkina Faso (ex-Onatel),no line,
+BFA,hosting,E-government agency,ict-ministry-egov,Agence nationale de promotion des TIC,line,bfa-2024-20-103-1030148
+BFA,hosting,E-government agency,ict-ministry-egov,Portail du gouvernement du Burkina Faso,line,bfa-2026-09-016-0160545
+BFA,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence nationale de sécurité des systèmes d'information,line,bfa-2024-03-006-0060126
+BFA,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et des postes,no line,
+BFA,hosting,Audit office,,Cour des comptes,line,bfa-2024-56-119-1190338
+BFA,hosting,Anti-corruption commission,,Autorité supérieure de contrôle d'État et de lutte contre la corruption,line,bfa-2024-52-116-1160318
+BFA,deal-recipient,Research,,CITADEL / Université Virtuelle du Burkina Faso,no line,
+BFA,deal-recipient,Public Sector,,Burkina Faso,no line,
+BWA,hosting,Parliament,,National Assembly of Botswana,line,bwa-2025-0100-0101-00442
+BWA,hosting,Armed Forces,,Botswana Defence Force,no line,
+BWA,hosting,Police,,Botswana Police Service,no line,
+BWA,hosting,Justice,,Ministry of Justice,line,bwa-2024-1200-11382
+BWA,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,bwa-2024-0300-0301-02115
+BWA,hosting,Revenue Service,revenue-systems,Botswana Unified Revenue Service,no line,
+BWA,hosting,Central Bank,,Bank of Botswana,no line,
+BWA,hosting,Electoral commission,electoral-register,Independent Electoral Commission,line,bwa-2026-1600-12341
+BWA,hosting,Statistics office,statistics,Statistics Botswana,line,bwa-2024-0300-0301-02115
+BWA,hosting,Health ministry / National health insurance,,Ministry of Health,line,bwa-2024-0500-0510-11116
+BWA,hosting,Securities regulator,,Non-Bank Financial Institutions Regulatory Authority,no line,
+BWA,hosting,Sovereign wealth fund / National pension fund,,Botswana Public Officers Pension Fund,no line,
+BWA,hosting,Public procurement authority,procurement,Public Procurement Regulatory Authority (formerly PPADB),no line,
+BWA,hosting,Energy utility,,Botswana Power Corporation,no line,
+BWA,hosting,State-owned telco / National backbone operator,,Botswana Telecommunications Corporation,no line,
+BWA,hosting,E-government agency,ict-ministry-egov,Government of Botswana portal,no line,
+BWA,hosting,National data centre / Government cloud operator,,Botswana Fibre Networks (BoFiNet),no line,
+BWA,hosting,Cybersecurity agency / National CERT,cybersecurity,BW-CIRT,no line,
+BWA,hosting,Communications regulator,communications-regulator,Botswana Communications Regulatory Authority,no line,
+CAF,hosting,Presidency,,Présidence de la République centrafricaine,no line,
+CAF,hosting,Parliament,,Assemblée nationale,no line,
+CAF,hosting,Foreign Affairs,,Ministère des Affaires étrangères et des Centrafricains de l'Étranger,no line,
+CAF,hosting,Defence,,Ministère de la Défense nationale et de la Reconstruction de l'armée,line,caf-2024-21-21-21-00-09-230004-6144-11
+CAF,hosting,Defence,,Ministère de la Défense nationale (portail gouv.cf),line,caf-2024-21-21-21-00-09-230004-6144-11
+CAF,hosting,Justice,,Ministère de la Justice et des Droits humains,no line,
+CAF,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances et du Budget,line,caf-2024-30-30-31-00-68-120000-6693-11
+CAF,hosting,Customs,,Direction générale des Douanes et Droits indirects,line,caf-2024-30-30-31-00-03-230002-6439-11
+CAF,hosting,Interior / Home Affairs,,Ministère de la Sécurité publique,line,caf-2024-23-23-25-00-45-230000-6172-11
+CAF,hosting,Interior / Home Affairs,,Ministère de l'Administration du territoire,line,caf-2026-14-1401104160000xxxx01
+CAF,hosting,Central Bank,,Banque des États de l'Afrique Centrale,no line,
+CAF,hosting,Electoral commission,electoral-register,Autorité nationale des élections (ANE),no line,
+CAF,hosting,Statistics office,statistics,Institut centrafricain des statistiques et des études économiques et sociales (ICASEES),no line,
+CAF,hosting,Health ministry / National health insurance,,Ministère de la Santé et de la Population,line,caf-2024-60-60-61-00-06-120000-6439-11
+CAF,hosting,Securities regulator,,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),no line,
+CAF,hosting,Public procurement authority,procurement,Direction générale des marchés publics (DGMP),line,caf-2024-30-30-31-00-60-230004-6146-11
+CAF,hosting,E-government agency,ict-ministry-egov,Portail du Gouvernement,no line,
+CAF,hosting,E-government agency,ict-ministry-egov,Gouvernement de la République centrafricaine,line,caf-2024-23-23-25-00-45-230000-6172-11
+CAF,hosting,Cybersecurity agency / National CERT,cybersecurity,Cellule centrafricaine de l'Internet et de la Sécurité (CCIS),no line,
+CAF,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la Poste (ARCEP),line,caf-2024-85-85-88-00-20-120000-6439-11
+CAF,deal-recipient,Public Sector,,SOCATEL / Government of the Central African Republic,line,caf-2024-85-85-88-00-23-120000-6324-11
+CAF,deal-recipient,Public Sector,,Ministère des Finances et du Budget (République Centrafricaine),line,caf-2024-30-30-31-00-68-120000-6693-11
+CIV,hosting,Presidency,,Présidence de la République de Côte d'Ivoire,line,civ-2026-103-78041100083
+CIV,hosting,Parliament,,Assemblée nationale,line,civ-2024-101-78011100361
+CIV,hosting,Parliament,,Sénat,no line,
+CIV,hosting,Foreign Affairs,,Ministère des Affaires étrangères,line,civ-2024-321-78011300262
+CIV,hosting,Defence,,Ministère de la Défense,line,civ-2024-226-78021000476
+CIV,hosting,Police,,Police nationale,line,civ-2024-323-78016002230
+CIV,hosting,Justice,,Ministère de la Justice et des Droits de l'Homme,line,civ-2024-325-78033000116
+CIV,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,civ-2024-322-11011200095
+CIV,hosting,Revenue Service,revenue-systems,Direction générale des impôts (DGI),line,civ-2024-322-11011200095
+CIV,hosting,Customs,,Direction générale des douanes,line,civ-2024-322-78011201821
+CIV,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécurité,line,civ-2024-323-78016001384
+CIV,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+CIV,hosting,Civil registry / National ID authority,civil-registration-id,Office national de l'état civil et de l'identification (ONECI),line,civ-2024-237-78013300683
+CIV,hosting,Data protection authority,data-protection,ARTCI - Autorité de protection des données personnelles,no line,
+CIV,hosting,Electoral commission,electoral-register,Commission électorale indépendante (CEI),no line,
+CIV,hosting,Statistics office,statistics,Institut national de la statistique (INS),line,civ-2024-325-90033000003
+CIV,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,civ-2024-335-78074000549
+CIV,hosting,Land registry,land-registry,Agence foncière rurale (AFOR),no line,
+CIV,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+CIV,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de prévoyance sociale (CNPS),no line,
+CIV,hosting,Public procurement authority,procurement,Autorité de régulation de la commande publique (ARCOP),no line,
+CIV,hosting,Energy utility,,Compagnie ivoirienne d'électricité (CIE),no line,
+CIV,hosting,Energy utility,,CI-ENERGIES,no line,
+CIV,hosting,Ports authority,,Port autonome d'Abidjan,no line,
+CIV,hosting,State-owned telco / National backbone operator,,Agence nationale du service universel des télécommunications (ANSUT),line,civ-2024-356-78046000452
+CIV,hosting,E-government agency,ict-ministry-egov,Portail du gouvernement (parent zone),line,civ-2024-347-78047100410
+CIV,hosting,Communications regulator,communications-regulator,Autorité de régulation des télécommunications/TIC (ARTCI),line,civ-2024-334-90098090247
+CIV,hosting,Audit office,,Cour des comptes,no line,
+CIV,hosting,Anti-corruption commission,,Haute autorité pour la bonne gouvernance (HABG),no line,
+CIV,deal-recipient,Private Sector,,*unspecified*,no line,
+CIV,deal-recipient,Public Sector,,Agence Nationale de la Statistique (ANSTAT),line,civ-2024-325-90033000003
+CIV,deal-recipient,Public Sector,,Republic of Cote d'Ivoire,no line,
+CIV,deal-recipient,Public Sector,,"Ministry of Commerce and Industry, Côte d'Ivoire",line,civ-2024-347-78047100327
+CIV,deal-recipient,Public Sector,,Côte d'Ivoire national data centre / Ministère de la Transition numérique et de la Digitalisation,line,civ-2026-356-90046090216
+CIV,deal-recipient,Private Sector,,"PAIX Indigo B.V., part of the Paix Group",no line,
+CIV,deal-recipient,Private Sector,,Hub2 / Connekt 4 SAS,no line,
+CMR,hosting,Presidency,,Présidence de la République,no line,
+CMR,hosting,Parliament,,Assemblée nationale,no line,
+CMR,hosting,Parliament,,Sénat,no line,
+CMR,hosting,Foreign Affairs,,Ministère des Relations extérieures,no line,
+CMR,hosting,Defence,,Ministère de la Défense,no line,
+CMR,hosting,Police,,Délégation générale à la Sûreté nationale,no line,
+CMR,hosting,Justice,,Ministère de la Justice,no line,
+CMR,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances,line,cmr-2024-20-032
+CMR,hosting,Treasury / Finance,treasury-fmis,Direction générale du Trésor et de la Coopération financière et monétaire,no line,
+CMR,hosting,Revenue Service,revenue-systems,Direction générale des impôts,no line,
+CMR,hosting,Customs,,Direction générale des douanes,no line,
+CMR,hosting,Interior / Home Affairs,,Ministère de l'Administration territoriale,no line,
+CMR,hosting,Central Bank,,Banque des États de l'Afrique centrale,no line,
+CMR,hosting,Civil registry / National ID authority,civil-registration-id,Bureau national de l'état civil,line,cmr-2026-27-290
+CMR,hosting,Electoral commission,electoral-register,Elections Cameroon,no line,
+CMR,hosting,Statistics office,statistics,Institut national de la statistique,no line,
+CMR,hosting,Health ministry / National health insurance,,Ministère de la Santé publique,no line,
+CMR,hosting,Land registry,land-registry,Ministère des Domaines du Cadastre et des Affaires foncières,line,cmr-2024-37-026
+CMR,hosting,Securities regulator,,COSUMAF,no line,
+CMR,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de prévoyance sociale,no line,
+CMR,hosting,Public procurement authority,procurement,Agence de régulation des marchés publics,no line,
+CMR,hosting,Public procurement authority,procurement,COLEPS e-procurement,no line,
+CMR,hosting,Public procurement authority,procurement,COLEPS e-procurement (alternate),no line,
+CMR,hosting,Energy utility,,Eneo Cameroun,no line,
+CMR,hosting,Ports authority,,Port autonome de Douala,no line,
+CMR,hosting,State-owned telco / National backbone operator,,Cameroon Telecommunications,line,cmr-2024-45-130
+CMR,hosting,E-government agency,ict-ministry-egov,Agence nationale des technologies de l'information et de la communication,line,cmr-2024-taxes-affectees-antic
+CMR,hosting,E-government agency,ict-ministry-egov,Government of Cameroon,no line,
+CMR,hosting,Communications regulator,communications-regulator,Agence de régulation des télécommunications,line,cmr-2024-taxes-affectees-art
+CMR,hosting,Anti-corruption commission,,Commission nationale anti-corruption,no line,
+CMR,deal-recipient,Public Sector,,Republic of Cameroon,no line,
+CMR,deal-recipient,Public Sector,,"Ministere de l'Education de Base (MINEDUB), Cameroun",no line,
+CMR,deal-recipient,Private Sector,,recipient organisation unspecified,no line,
+CMR,deal-recipient,Public Sector,,CAMTEL (Cameroon Telecommunications),no line,
+CMR,deal-recipient,Public Sector,,Cameroon Telecommunications (Camtel),line,cmr-2024-45-130
+CMR,deal-recipient,Public Sector,,ANTIC,line,cmr-2024-taxes-affectees-antic
+CMR,deal-recipient,Public Sector,,Cameroon,no line,
+CMR,deal-recipient,Public Sector,,"Ministry of Public Contracts, Cameroon",no line,
+COD,hosting,Presidency,,Présidence de la République Démocratique du Congo,line,cod-2024-10-10310-fi
+COD,hosting,Parliament,,Assemblée nationale,no line,
+COD,hosting,Parliament,,Sénat,line,cod-2025-17-17212-fi
+COD,hosting,Foreign Affairs,,"Ministère des Affaires étrangères, Coopération internationale, Francophonie et Diaspora congolaise",no line,
+COD,hosting,Defence,,Ministère de la Défense nationale et Anciens Combattants,line,cod-2024-27-27208-fm
+COD,hosting,Police,,Police nationale congolaise,line,cod-2026-25-25305-261023
+COD,hosting,Justice,,Ministère de la Justice,line,cod-2024-34-34214-fm
+COD,hosting,Justice,,Cour constitutionnelle,no line,
+COD,hosting,Justice,,Cour de cassation,no line,
+COD,hosting,Justice,,Conseil supérieur de la magistrature,no line,
+COD,hosting,Treasury / Finance,treasury-fmis,Administration des Finances (Secrétariat général aux Finances),no line,
+COD,hosting,Treasury / Finance,treasury-fmis,Ministère du Budget,line,cod-2024-31-31301-241005
+COD,hosting,Revenue Service,revenue-systems,Direction générale des impôts,no line,
+COD,hosting,Revenue Service,revenue-systems,"Direction générale des recettes administratives, judiciaires, domaniales et de participations (DGRAD)",no line,
+COD,hosting,Customs,,Direction générale des douanes et accises,line,cod-2024-30-30302-231607
+COD,hosting,Interior / Home Affairs,,"Ministère de l'Intérieur, Sécurité, Décentralisation et Affaires coutumières",line,cod-2024-25-25307-221001
+COD,hosting,Central Bank,,Banque Centrale du Congo,no line,
+COD,hosting,Civil registry / National ID authority,civil-registration-id,Office national d'identification de la population (ONIP),line,cod-2024-25-25307-221001
+COD,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante (CENI),no line,
+COD,hosting,Statistics office,statistics,Institut national de la statistique,no line,
+COD,hosting,Immigration / Passports,,Direction générale de migration,no line,
+COD,hosting,Health ministry / National health insurance,,"Ministère de la Santé publique, Hygiène et Prévoyance sociale",line,cod-2024-37-37261-fm
+COD,hosting,Health ministry / National health insurance,,Fonds de solidarité de santé (FSS),no line,
+COD,hosting,Social protection / Social registry,social-registry,Caisse nationale de sécurité sociale des agents publics de l'État (CNSSAP),no line,
+COD,hosting,Land registry,land-registry,Ministère des Affaires foncières,line,cod-2024-55-55200-231012
+COD,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de sécurité sociale (CNSS),no line,
+COD,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics (ARMP),no line,
+COD,hosting,Public procurement authority,procurement,Système intégré de gestion des marchés publics,line,cod-2024-31-31301-241005
+COD,hosting,Energy utility,,Société nationale d'électricité (SNEL),no line,
+COD,hosting,Ports authority,,Société commerciale des transports et des ports (SCTP),no line,
+COD,hosting,State-owned telco / National backbone operator,,Société congolaise des postes et télécommunications (SCPT),line,cod-2024-52-52805-241001
+COD,hosting,E-government agency,ict-ministry-egov,Agence pour le développement du numérique (ADN),line,cod-2024-10-10816-rem
+COD,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental (zone parente des ministères),no line,
+COD,hosting,Communications regulator,communications-regulator,Autorité de régulation de la poste et des télécommunications (ARPTC),no line,
+COD,hosting,Audit office,,Cour des comptes,no line,
+COD,hosting,Audit office,,Inspection générale des finances,no line,
+COD,deal-recipient,Private Sector,,Eastcastle Infrastructure DRC SARLU,no line,
+COD,deal-recipient,Public Sector,,"DRC Ministry of Posts, Telecommunications and Digital Affairs",no line,
+COD,deal-recipient,Public Sector,,Democratic Republic of Congo,no line,
+COD,deal-recipient,Public Sector,,Government of DR Congo / RDC-PASS programme,line,cod-2024-41-41200-231027
+COD,deal-recipient,Public Sector,,The Democratic Republic of Congo,no line,
+COG,hosting,Presidency,,Présidence de la République,no line,
+COG,hosting,Parliament,,Assemblée nationale,no line,
+COG,hosting,Parliament,,Sénat,no line,
+COG,hosting,Foreign Affairs,,Ministère des Affaires étrangères de la Francophonie et des Congolais de l'étranger,no line,
+COG,hosting,Justice,,Ministère de la Justice des Droits humains et de la Promotion des peuples autochtones,no line,
+COG,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances du Budget et du Portefeuille public,line,cog-2024-cst-fonction-bancaire-tresor
+COG,hosting,Revenue Service,revenue-systems,Direction générale des impôts et des domaines,no line,
+COG,hosting,Interior / Home Affairs,,Ministère de l'Intérieur de la Décentralisation et du Développement local,no line,
+COG,hosting,Central Bank,,Banque des États de l'Afrique centrale,no line,
+COG,hosting,Statistics office,statistics,Institut national de la statistique,no line,
+COG,hosting,Health ministry / National health insurance,,Ministère de la Santé et de la Population,no line,
+COG,hosting,Securities regulator,,Commission de surveillance du marché financier de l'Afrique centrale,no line,
+COG,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de sécurité sociale,no line,
+COG,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics,no line,
+COG,hosting,Energy utility,,Énergie électrique du Congo,no line,
+COG,hosting,Ports authority,,Port autonome de Pointe-Noire,no line,
+COG,hosting,State-owned telco / National backbone operator,,Congo Télécom,no line,
+COG,hosting,E-government agency,ict-ministry-egov,Agence de développement de l'économie numérique,no line,
+COG,hosting,E-government agency,ict-ministry-egov,Gouvernement de la République du Congo (zone parente),no line,
+COG,hosting,National data centre / Government cloud operator,,Ministère des Postes des Télécommunications et de l'Économie numérique (Data Center National),line,cog-2025-45-118
+COG,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence nationale de sécurité des systèmes d'information,no line,
+COG,hosting,Communications regulator,communications-regulator,Agence de régulation des postes et des communications électroniques,no line,
+COG,hosting,Audit office,,Cour des comptes et de discipline budgétaire,no line,
+COG,deal-recipient,Private Sector,,Gozem,no line,
+COM,hosting,Presidency,,Présidence de l'Union des Comores (Beit-Salam),no line,
+COM,hosting,Police,,Direction générale de la Police et de la Sûreté nationale,no line,
+COM,hosting,Justice,,Ministère de la Justice,line,com-2024-06-0615
+COM,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances du Budget et du Secteur bancaire,line,com-2024-08-0808
+COM,hosting,Revenue Service,revenue-systems,Direction générale des Impôts,no line,
+COM,hosting,Customs,,Douanes comoriennes,no line,
+COM,hosting,Central Bank,,Banque Centrale des Comores,no line,
+COM,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante,no line,
+COM,hosting,Statistics office,statistics,INSEED,line,com-2024-08-0808
+COM,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de retraites,no line,
+COM,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics,no line,
+COM,hosting,Energy utility,,Société nationale d'électricité des Comores (SONELEC),no line,
+COM,hosting,Ports authority,,Société comorienne des ports,no line,
+COM,hosting,State-owned telco / National backbone operator,,Comores Telecom,no line,
+COM,hosting,E-government agency,ict-ministry-egov,Agence nationale de développement du numérique (ANADEN),line,com-2024-04-0461
+COM,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental (parent zone),no line,
+COM,hosting,Cybersecurity agency / National CERT,cybersecurity,Direction nationale de cybersécurité (ANADEN),line,com-2024-04-0461
+COM,hosting,Communications regulator,communications-regulator,ANRTIC,no line,
+COM,hosting,Audit office,,Cour suprême (section des comptes),no line,
+COM,deal-recipient,Private Sector,,Yas Comoros (AXIAN Telecom subsidiary),no line,
+COM,deal-recipient,Public Sector,,Government of Comoros,no line,
+CPV,hosting,Presidency,,Presidência da República,no line,
+CPV,hosting,Presidency,,Governo de Cabo Verde,line,cpv-2024-cv-plataforma-digital-e-inovacao
+CPV,hosting,Parliament,,Assembleia Nacional,line,cpv-2024-cnpd
+CPV,hosting,Foreign Affairs,,Ministério dos Negócios Estrangeiros e Comunidades,no line,
+CPV,hosting,Armed Forces,,Forças Armadas de Cabo Verde,no line,
+CPV,hosting,Police,,Polícia Nacional,no line,
+CPV,hosting,Justice,,Ministério da Justiça,line,cpv-2024-fundo-modernizacao-justica
+CPV,hosting,Justice,,Ministério Público / Procuradoria-Geral da República,no line,
+CPV,hosting,Justice,,Tribunal Constitucional,no line,
+CPV,hosting,Treasury / Finance,treasury-fmis,Ministério das Finanças,line,cpv-2024-01.03.01-ine
+CPV,hosting,Interior / Home Affairs,,Ministério da Administração Interna,no line,
+CPV,hosting,Central Bank,,Banco de Cabo Verde,no line,
+CPV,hosting,Data protection authority,data-protection,Comissão Nacional de Proteção de Dados,line,cpv-2024-cnpd
+CPV,hosting,Electoral commission,electoral-register,Comissão Nacional de Eleições,no line,
+CPV,hosting,Statistics office,statistics,Instituto Nacional de Estatística,line,cpv-2024-01.03.01-ine
+CPV,hosting,Health ministry / National health insurance,,Ministério da Saúde,no line,
+CPV,hosting,Social protection / Social registry,social-registry,Instituto Nacional de Previdência Social,no line,
+CPV,hosting,Securities regulator,,Auditoria Geral do Mercado de Valores Mobiliários,no line,
+CPV,hosting,Public procurement authority,procurement,Autoridade Reguladora das Aquisições Públicas,no line,
+CPV,hosting,Energy utility,,Electra,no line,
+CPV,hosting,Ports authority,,ENAPOR,no line,
+CPV,hosting,State-owned telco / National backbone operator,,CV Telecom,no line,
+CPV,hosting,E-government agency,ict-ministry-egov,NOSi - Núcleo Operacional para a Sociedade de Informação,no line,
+CPV,hosting,E-government agency,ict-ministry-egov,Portal Único do Governo,no line,
+CPV,hosting,Communications regulator,communications-regulator,Agência Reguladora Multissectorial da Economia,no line,
+CPV,hosting,Audit office,,Tribunal de Contas,no line,
+CPV,hosting,Anti-corruption commission,,Conselho de Prevenção da Corrupção,no line,
+CPV,deal-recipient,Public Sector,,Government of Cabo Verde,line,cpv-2024-cv-plataforma-digital-e-inovacao
+CPV,deal-recipient,Public Sector,,Ministério da Saúde de Cabo Verde,no line,
+CPV,deal-recipient,Public Sector,,Cabo Verde,line,cpv-2024-cv-plataforma-digital-e-inovacao
+DJI,hosting,Presidency,,Présidence de la République de Djibouti,line,dji-2024-pre-ansie
+DJI,hosting,Parliament,,Assemblée nationale,no line,
+DJI,hosting,Foreign Affairs,,Ministère des Affaires étrangères et de la Coopération internationale,no line,
+DJI,hosting,Defence,,Ministère de la Défense,no line,
+DJI,hosting,Police,,Direction générale de la Police nationale,no line,
+DJI,hosting,Justice,,Ministère de la Justice et des Affaires pénitentiaires,no line,
+DJI,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,dji-2024-mefi-instad
+DJI,hosting,Revenue Service,revenue-systems,Direction générale des Impôts,line,dji-2024-pre-ansie
+DJI,hosting,Customs,,Direction générale des Douanes et Droits indirects,no line,
+DJI,hosting,Interior / Home Affairs,,Ministère de l'Intérieur,no line,
+DJI,hosting,Central Bank,,Banque centrale de Djibouti,no line,
+DJI,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante (CENI),no line,
+DJI,hosting,Statistics office,statistics,Institut national de la statistique de Djibouti (INSTAD),line,dji-2024-mefi-instad
+DJI,hosting,Health ministry / National health insurance,,Ministère de la Santé,no line,
+DJI,hosting,Health ministry / National health insurance,,Caisse nationale de sécurité sociale (CNSS),no line,
+DJI,hosting,Social protection / Social registry,social-registry,Ministère des Affaires sociales et des Solidarités,no line,
+DJI,hosting,Sovereign wealth fund / National pension fund,,Fonds souverain de Djibouti,no line,
+DJI,hosting,Public procurement authority,procurement,Commission nationale des marchés publics - Portail des marchés publics,no line,
+DJI,hosting,Energy utility,,Électricité de Djibouti (EDD),no line,
+DJI,hosting,Ports authority,,Autorité des ports et des zones franches de Djibouti (DPFZA),no line,
+DJI,hosting,State-owned telco / National backbone operator,,Djibouti Télécom,no line,
+DJI,hosting,E-government agency,ict-ministry-egov,Agence nationale des systèmes d'information de l'État (ANSIE),line,dji-2024-pre-ansie
+DJI,hosting,E-government agency,ict-ministry-egov,Portail E-Gouvernement,no line,
+DJI,hosting,National data centre / Government cloud operator,,Djibouti Data Center (DDC),line,dji-2024-pre-ansie
+DJI,hosting,Cybersecurity agency / National CERT,cybersecurity,Autorité nationale de cybersécurité,no line,
+DJI,hosting,Cybersecurity agency / National CERT,cybersecurity,DJ-CERT,no line,
+DJI,hosting,Communications regulator,communications-regulator,Autorité de régulation multisectorielle de Djibouti (ARMD),no line,
+DJI,hosting,Audit office,,Cour des comptes de Djibouti,no line,
+DJI,hosting,Anti-corruption commission,,Commission nationale indépendante pour la prévention et la lutte contre la corruption,no line,
+DJI,deal-recipient,Public Sector,,Republic of Djibouti,no line,
+DJI,deal-recipient,Multilateral,,"UNDP Djibouti, for the villages of Yoboki (Dikhil) and Omar Jaggaa (Arta)",no line,
+DZA,hosting,Presidency,,Présidence de la République,no line,
+DZA,hosting,Parliament,,Assemblée populaire nationale,no line,
+DZA,hosting,Parliament,,Conseil de la Nation,no line,
+DZA,hosting,Foreign Affairs,,Ministère des Affaires étrangères,no line,
+DZA,hosting,Defence,,Ministère de la Défense nationale,no line,
+DZA,hosting,Police,,Direction générale de la Sûreté nationale,no line,
+DZA,hosting,Justice,,Ministère de la Justice,no line,
+DZA,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances,line,dza-2024-modernisation-systemes-information-paiement
+DZA,hosting,Revenue Service,revenue-systems,Direction générale des impôts,no line,
+DZA,hosting,Customs,,Direction générale des douanes,no line,
+DZA,hosting,Interior / Home Affairs,,Ministère de l'Intérieur des Collectivités locales et de l'Aménagement du territoire,line,dza-2024-identite-titres-documents-securises
+DZA,hosting,Central Bank,,Banque d'Algérie,no line,
+DZA,hosting,Data protection authority,data-protection,Autorité nationale de protection des données à caractère personnel,no line,
+DZA,hosting,Electoral commission,electoral-register,Autorité nationale indépendante des élections,no line,
+DZA,hosting,Statistics office,statistics,Office national des statistiques,line,dza-2024-technologie-de-la-numerisation
+DZA,hosting,Health ministry / National health insurance,,Ministère de la Santé,no line,
+DZA,hosting,Health ministry / National health insurance,,Caisse nationale des assurances sociales,no line,
+DZA,hosting,Social protection / Social registry,social-registry,Ministère du Travail de l'Emploi et de la Sécurité sociale,no line,
+DZA,hosting,Land registry,land-registry,Agence nationale du cadastre,no line,
+DZA,hosting,Securities regulator,,Commission d'organisation et de surveillance des opérations de bourse,no line,
+DZA,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale des retraites,no line,
+DZA,hosting,Energy utility,,Sonelgaz,no line,
+DZA,hosting,Ports authority,,Entreprise portuaire d'Alger,no line,
+DZA,hosting,State-owned telco / National backbone operator,,Algérie Télécom,no line,
+DZA,hosting,E-government agency,ict-ministry-egov,Ministère de la Poste et des Télécommunications,line,dza-2024-services-financiers-postaux
+DZA,hosting,National data centre / Government cloud operator,,CERIST,no line,
+DZA,hosting,Communications regulator,communications-regulator,Autorité de régulation de la poste et des communications électroniques,no line,
+DZA,hosting,Audit office,,Cour des comptes,no line,
+DZA,deal-recipient,Public Sector,,Médiateur de la République,no line,
+DZA,deal-recipient,Private Sector,,Talenteo,no line,
+DZA,deal-recipient,Private Sector,,VOLZ,no line,
+EGY,hosting,Presidency,,Presidency of the Arab Republic of Egypt,no line,
+EGY,hosting,Parliament,,House of Representatives,no line,
+EGY,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+EGY,hosting,Defence,,Ministry of Defence,no line,
+EGY,hosting,Justice,,Ministry of Justice,no line,
+EGY,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,no line,
+EGY,hosting,Revenue Service,revenue-systems,Egyptian Tax Authority,no line,
+EGY,hosting,Customs,,Egyptian Customs Authority,no line,
+EGY,hosting,Interior / Home Affairs,,Ministry of Interior,no line,
+EGY,hosting,Central Bank,,Central Bank of Egypt,no line,
+EGY,hosting,Data protection authority,data-protection,Personal Data Protection Centre,no line,
+EGY,hosting,Electoral commission,electoral-register,National Election Authority,no line,
+EGY,hosting,Statistics office,statistics,Central Agency for Public Mobilization and Statistics,line,egy-2024-capmas-ch1
+EGY,hosting,Health ministry / National health insurance,,Ministry of Health and Population,no line,
+EGY,hosting,Health ministry / National health insurance,,Universal Health Insurance Authority,no line,
+EGY,hosting,Social protection / Social registry,social-registry,Ministry of Social Solidarity,no line,
+EGY,hosting,Securities regulator,,Financial Regulatory Authority,no line,
+EGY,hosting,Sovereign wealth fund / National pension fund,,National Organization for Social Insurance,no line,
+EGY,hosting,Public procurement authority,procurement,General Authority for Governmental Services (e-procurement),no line,
+EGY,hosting,Energy utility,,Egyptian Electricity Holding Company,no line,
+EGY,hosting,Ports authority,,Alexandria Port Authority,no line,
+EGY,hosting,State-owned telco / National backbone operator,,Telecom Egypt,no line,
+EGY,hosting,E-government agency,ict-ministry-egov,Egypt Government Portal,line,egy-2024-capmas-ch1
+EGY,hosting,Cybersecurity agency / National CERT,cybersecurity,Egypt CERT,no line,
+EGY,hosting,Communications regulator,communications-regulator,National Telecom Regulatory Authority,no line,
+EGY,hosting,Audit office,,Accountability State Authority,no line,
+EGY,hosting,Anti-corruption commission,,Administrative Control Authority,no line,
+EGY,deal-recipient,Private Sector,,Synapse Analytics,no line,
+EGY,deal-recipient,Private Sector,,Tamweely Financial Services,no line,
+EGY,deal-recipient,Private Sector,,Konecta Egypt / Egypt,no line,
+EGY,deal-recipient,Private Sector,,Fincart / Egypt,no line,
+EGY,deal-recipient,Private Sector,,Blnk,no line,
+EGY,deal-recipient,Private Sector,,Raya Data Center,no line,
+ERI,hosting,Central Bank,,Bank of Eritrea,no line,
+ERI,hosting,State-owned telco / National backbone operator,,Eritrean Telecommunication Services Corporation (EriTel),no line,
+ERI,hosting,E-government agency,ict-ministry-egov,Government of Eritrea (parent zone),no line,
+ERI,hosting,E-government agency,ict-ministry-egov,Ministry of Information,no line,
+ETH,hosting,Presidency,,Office of the Prime Minister,line,eth-2024-112-01-01-00-003
+ETH,hosting,Parliament,,House of Peoples' Representatives,no line,
+ETH,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+ETH,hosting,Defence,,Ministry of Defence,no line,
+ETH,hosting,Police,,Federal Police Commission,no line,
+ETH,hosting,Justice,,Ministry of Justice,line,eth-2025-121-01-01-00-011
+ETH,hosting,Justice,,Federal Supreme Court,line,eth-2024-122-01-01-00-002
+ETH,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,eth-2024-152-03-01-00-001
+ETH,hosting,Revenue Service,revenue-systems,Ministry of Revenues,no line,
+ETH,hosting,Customs,,Ethiopian Customs Commission,no line,
+ETH,hosting,Intelligence,,National Intelligence and Security Service,line,eth-2024-135-03-02
+ETH,hosting,Interior / Home Affairs,,Ministry of Peace,no line,
+ETH,hosting,Central Bank,,National Bank of Ethiopia,line,eth-2025-347-04-01-00-003
+ETH,hosting,Civil registry / National ID authority,civil-registration-id,National ID Program (Fayda),line,eth-2024-261-02-05
+ETH,hosting,Electoral commission,electoral-register,National Election Board of Ethiopia,no line,
+ETH,hosting,Immigration / Passports,,Immigration and Citizenship Service,line,eth-2024-139-02-01
+ETH,hosting,Health ministry / National health insurance,,Ministry of Health,line,eth-2024-344-04-04
+ETH,hosting,Social protection / Social registry,social-registry,Ministry of Labor and Skills,no line,
+ETH,hosting,Securities regulator,,Ethiopian Capital Market Authority,no line,
+ETH,hosting,Sovereign wealth fund / National pension fund,,Ethiopian Investment Holdings,no line,
+ETH,hosting,Public procurement authority,procurement,Public Procurement and Property Authority,line,eth-2026-163-03-03
+ETH,hosting,Energy utility,,Ethiopian Electric Utility,no line,
+ETH,hosting,State-owned telco / National backbone operator,,Ethio Telecom,no line,
+ETH,hosting,E-government agency,ict-ministry-egov,Ministry of Innovation and Technology,line,eth-2024-161-03-01
+ETH,hosting,National data centre / Government cloud operator,,Information Network Security Administration,line,eth-2024-135-02-01
+ETH,hosting,Communications regulator,communications-regulator,Ethiopian Communications Authority,line,eth-2024-183-02-01-t
+ETH,hosting,Audit office,,Office of the Federal Auditor General,line,eth-2025-113-01-01-00-001
+ETH,hosting,Anti-corruption commission,,Federal Ethics and Anti-Corruption Commission,no line,
+ETH,deal-recipient,Public Sector,,Government of Ethiopia,no line,
+ETH,deal-recipient,Public Sector,,Federal Democratic Republic of Ethiopia,no line,
+ETH,deal-recipient,Public Sector,,"Ministry of Foreign Affairs, Federal Democratic Republic of Ethiopia",no line,
+ETH,deal-recipient,Public Sector,,Government of Ethiopia / Ministry of Health,line,eth-2024-344-04-04
+ETH,deal-recipient,Public Sector,,Ministry of Labor and Skills,no line,
+ETH,deal-recipient,Public Sector,,Government of Ethiopia / FCDO Ethiopia country team,no line,
+ETH,deal-recipient,Public Sector,,Ethiopian Electric Power (EEP),no line,
+ETH,deal-recipient,Private Sector,,Cooperative Bank Of Oromia,no line,
+ETH,deal-recipient,NGO,,Financial Sector Deepening Africa,no line,
+ETH,deal-recipient,NGO,,Capital for Good,no line,
+ETH,deal-recipient,Private Sector,,Safaricom Telecommunications Ethiopia Private Limited Company (STEP),no line,
+ETH,deal-recipient,Public Sector,,Government of Ethiopia / Innovation ecosystem,no line,
+GAB,hosting,Presidency,,Présidence de la République gabonaise,no line,
+GAB,hosting,Parliament,,Parlement de la République gabonaise,no line,
+GAB,hosting,Parliament,,Assemblée nationale,no line,
+GAB,hosting,Parliament,,Sénat,no line,
+GAB,hosting,Foreign Affairs,,Ministère des Affaires étrangères,no line,
+GAB,hosting,Defence,,Ministère de la Défense nationale,no line,
+GAB,hosting,Police,,Forces de Police Nationale,no line,
+GAB,hosting,Justice,,Ministère de la Justice,no line,
+GAB,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Participations,line,gab-2024-10-10416-t2
+GAB,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie; des Finances; de la Dette et des Participations (Budget),line,gab-2024-10-10416-t3
+GAB,hosting,Revenue Service,revenue-systems,Direction Générale des Impôts,no line,
+GAB,hosting,Customs,,Direction Générale des Douanes et Droits Indirects,line,gab-2024-68-68934
+GAB,hosting,Interior / Home Affairs,,"Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",no line,
+GAB,hosting,Central Bank,,Banque des États de l'Afrique Centrale,no line,
+GAB,hosting,Statistics office,statistics,Direction Générale de la Statistique,no line,
+GAB,hosting,Statistics office,statistics,Direction Générale de la Statistique (INSTAT portal),no line,
+GAB,hosting,Immigration / Passports,,Direction Générale de la Documentation et de l'Immigration,no line,
+GAB,hosting,Health ministry / National health insurance,,Ministère de la Santé,no line,
+GAB,hosting,Health ministry / National health insurance,,Caisse Nationale d'Assurance Maladie et de Garantie Sociale,no line,
+GAB,hosting,Social protection / Social registry,social-registry,Caisse Nationale de Sécurité Sociale,no line,
+GAB,hosting,Securities regulator,,Commission de Surveillance du Marché Financier de l'Afrique Centrale,no line,
+GAB,hosting,Sovereign wealth fund / National pension fund,,Fonds Gabonais d'Investissements Stratégiques,no line,
+GAB,hosting,Sovereign wealth fund / National pension fund,,Caisse des Pensions et des Prestations Familiales des Agents de l'État,no line,
+GAB,hosting,Energy utility,,Société d'Énergie et d'Eau du Gabon,no line,
+GAB,hosting,Ports authority,,Office des Ports et Rades du Gabon,no line,
+GAB,hosting,State-owned telco / National backbone operator,,Gabon Télécom,no line,
+GAB,hosting,E-government agency,ict-ministry-egov,Agence Nationale des Infrastructures Numériques et des Fréquences,line,gab-2024-10-10416-adp-aninf
+GAB,hosting,E-government agency,ict-ministry-egov,Portail officiel du Gouvernement gabonais,no line,
+GAB,hosting,Communications regulator,communications-regulator,Autorité de Régulation des Communications Électroniques et des Postes,line,gab-2024-10-10416-adp-arcep
+GAB,deal-recipient,Public Sector,,Government of Gabon,no line,
+GAB,deal-recipient,Public Sector,,Government of Gabon / Agence Nationale de l'Infrastructure Numérique et des Fréquences (ANINF),line,gab-2024-10-10416-adp-aninf
+GHA,hosting,Presidency,,Office of the President,no line,
+GHA,hosting,Parliament,,Parliament of Ghana,no line,
+GHA,hosting,Foreign Affairs,,Ministry of Foreign Affairs and Regional Integration,line,gha-2024-009-passport-office-igf
+GHA,hosting,Defence,,Ministry of Defence,no line,
+GHA,hosting,Armed Forces,,Ghana Armed Forces,no line,
+GHA,hosting,Police,,Ghana Police Service,no line,
+GHA,hosting,Justice,,Ministry of Justice and Attorney-General's Department,no line,
+GHA,hosting,Justice,,Judicial Service of Ghana,no line,
+GHA,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,gha-2024-010-01003-statistical-service
+GHA,hosting,Revenue Service,revenue-systems,Ghana Revenue Authority,no line,
+GHA,hosting,Interior / Home Affairs,,Ministry of the Interior,line,gha-2025-037-ow-nia
+GHA,hosting,Central Bank,,Bank of Ghana,no line,
+GHA,hosting,Civil registry / National ID authority,civil-registration-id,National Identification Authority,line,gha-2024-001-ow-nia
+GHA,hosting,Data protection authority,data-protection,Data Protection Commission,line,gha-2024-026-02659
+GHA,hosting,Electoral commission,electoral-register,Electoral Commission of Ghana,no line,
+GHA,hosting,Statistics office,statistics,Ghana Statistical Service,line,gha-2024-010-01003-statistical-service
+GHA,hosting,Immigration / Passports,,Ghana Immigration Service,no line,
+GHA,hosting,Health ministry / National health insurance,,Ministry of Health,line,gha-2024-029-ow-e-health-project
+GHA,hosting,Health ministry / National health insurance,,National Health Insurance Authority,no line,
+GHA,hosting,Social protection / Social registry,social-registry,Ministry of Gender Children and Social Protection,no line,
+GHA,hosting,Land registry,land-registry,Lands Commission,no line,
+GHA,hosting,Securities regulator,,Securities and Exchange Commission Ghana,no line,
+GHA,hosting,Sovereign wealth fund / National pension fund,,Social Security and National Insurance Trust,no line,
+GHA,hosting,Public procurement authority,procurement,Public Procurement Authority,no line,
+GHA,hosting,Public procurement authority,procurement,Ghana Electronic Procurement System,no line,
+GHA,hosting,Energy utility,,Electricity Company of Ghana,no line,
+GHA,hosting,Ports authority,,Ghana Ports and Harbours Authority,no line,
+GHA,hosting,E-government agency,ict-ministry-egov,National Information Technology Agency,line,gha-2024-026-02653
+GHA,hosting,Cybersecurity agency / National CERT,cybersecurity,Cyber Security Authority,line,gha-2024-026-02604
+GHA,hosting,Communications regulator,communications-regulator,National Communications Authority,line,gha-2024-026-02604
+GHA,hosting,Audit office,,Ghana Audit Service,no line,
+GHA,hosting,Anti-corruption commission,,Office of the Special Prosecutor,no line,
+GHA,deal-recipient,Private Sector,,FIDO Microcredits Limited,no line,
+GHA,deal-recipient,NGO,,Tony Blair Institute for Global Change,no line,
+GHA,deal-recipient,Private Sector,,MTN Ghana (Scancom PLC) / Ghana,no line,
+GHA,deal-recipient,Private Sector,,"Google DeepMind Africa AI Research Centre and AI Community Center, Accra",no line,
+GIN,hosting,Presidency,,Présidence de la République de Guinée,no line,
+GIN,hosting,Parliament,,Conseil national de la transition,no line,
+GIN,hosting,Foreign Affairs,,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",line,gin-2025-07-100171000000-3-8-1-11-00
+GIN,hosting,Defence,,Ministère de la Défense nationale,line,gin-2024-03-100051000000-5-1-2-12-00
+GIN,hosting,Police,,Ministère de la Sécurité et de la Protection civile,line,gin-2024-05-232481000000-4-2-3-99-00
+GIN,hosting,Justice,,Ministère de la Justice et des Droits de l'Homme,no line,
+GIN,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,gin-2024-09-263440000000-2-1-1-12-01
+GIN,hosting,Treasury / Finance,treasury-fmis,Ministère du Budget,line,gin-2024-64-266001000000-5-1-1-11-08
+GIN,hosting,Revenue Service,revenue-systems,Direction générale des impôts,line,gin-2024-64-150151000000-5-1-2-12-00
+GIN,hosting,Customs,,Direction générale des douanes,line,gin-2025-64-160061000000-5-1-2-12-00
+GIN,hosting,Interior / Home Affairs,,Ministère de l'Administration du territoire et de la Décentralisation,line,gin-2024-04-232351000000-4-2-3-99-00
+GIN,hosting,Central Bank,,Banque centrale de la République de Guinée,no line,
+GIN,hosting,Electoral commission,electoral-register,Direction générale des élections,no line,
+GIN,hosting,Statistics office,statistics,Institut national de la statistique,line,gin-2024-08-230631000000-4-2-3-99-00
+GIN,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Hygiène publique,no line,
+GIN,hosting,Social protection / Social registry,social-registry,Agence nationale d'inclusion économique et sociale,no line,
+GIN,hosting,Land registry,land-registry,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",line,gin-2024-15-264141000000-5-1-2-12-00-cp
+GIN,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de sécurité sociale,no line,
+GIN,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics,no line,
+GIN,hosting,Energy utility,,Électricité de Guinée,no line,
+GIN,hosting,Ports authority,,Port autonome de Conakry,no line,
+GIN,hosting,State-owned telco / National backbone operator,,Société de gestion et d'exploitation du backbone national,no line,
+GIN,hosting,E-government agency,ict-ministry-egov,Agence nationale de digitalisation de l'État,line,gin-2024-09-265471000000-3-3-6-10-00
+GIN,hosting,E-government agency,ict-ministry-egov,Portail officiel e-Gouv (zone gov.gn),no line,
+GIN,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence nationale de la sécurité des systèmes d'information,line,gin-2024-37-230461000000-4-2-3-99-00
+GIN,hosting,Communications regulator,communications-regulator,Autorité de régulation des postes et télécommunications,no line,
+GIN,hosting,Audit office,,Cour des comptes,no line,
+GIN,hosting,Anti-corruption commission,,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,no line,
+GIN,deal-recipient,Multilateral,,UNFPA Guinea,no line,
+GIN,deal-recipient,Public Sector,,ANAFIC,no line,
+GIN,deal-recipient,Public Sector,,Government of Guinea / Ministry of Plan and International Cooperation,no line,
+GIN,deal-recipient,Private Sector,,Orange Finances Mobiles Guinee SA,no line,
+GIN,deal-recipient,Private Sector,,Orange Guinee SA,no line,
+GMB,hosting,Presidency,,Office of the President,no line,
+GMB,hosting,Parliament,,National Assembly of The Gambia,no line,
+GMB,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+GMB,hosting,Defence,,Ministry of Defence,no line,
+GMB,hosting,Police,,Gambia Police Force,no line,
+GMB,hosting,Justice,,Ministry of Justice,line,gmb-2024-11-1104-110402
+GMB,hosting,Justice,,Judiciary of The Gambia,no line,
+GMB,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Economic Affairs,line,gmb-2024-12-1212-121201-3112120
+GMB,hosting,Revenue Service,revenue-systems,Gambia Revenue Authority,no line,
+GMB,hosting,Interior / Home Affairs,,Ministry of Interior,line,gmb-2024-08-0812-081202
+GMB,hosting,Central Bank,,Central Bank of The Gambia,line,gmb-2024-12-0744-001
+GMB,hosting,Electoral commission,electoral-register,Independent Electoral Commission,no line,
+GMB,hosting,Statistics office,statistics,Gambia Bureau of Statistics,line,gmb-2024-12-1217-121702
+GMB,hosting,Immigration / Passports,,Gambia Immigration Department,no line,
+GMB,hosting,Health ministry / National health insurance,,Ministry of Health,line,gmb-2024-21-2101-210109
+GMB,hosting,Sovereign wealth fund / National pension fund,,Social Security and Housing Finance Corporation,no line,
+GMB,hosting,Public procurement authority,procurement,Gambia Public Procurement Authority,no line,
+GMB,hosting,Energy utility,,National Water and Electricity Company,no line,
+GMB,hosting,Ports authority,,Gambia Ports Authority,no line,
+GMB,hosting,State-owned telco / National backbone operator,,Gamtel,no line,
+GMB,hosting,E-government agency,ict-ministry-egov,Ministry of Information and Communication Infrastructure,line,gmb-2024-34-3403-340301
+GMB,hosting,Communications regulator,communications-regulator,Public Utilities Regulatory Authority,no line,
+GMB,hosting,Audit office,,National Audit Office,line,gmb-2024-06-0562-001-3112120
+GMB,deal-recipient,Public Sector,,GAMTEL,no line,
+GMB,deal-recipient,Public Sector,,GAMCEL,no line,
+GMB,deal-recipient,NGO,,Institute for Inclusive Digital Africa,no line,
+GNB,hosting,Presidency,,Presidência da República da Guiné-Bissau,line,gnb-2025-3-343920101
+GNB,hosting,Parliament,,Assembleia Nacional Popular,no line,
+GNB,hosting,Foreign Affairs,,"Ministério dos Negócios Estrangeiros, Cooperação Internacional e das Comunidades",no line,
+GNB,hosting,Police,,Polícia Judiciária da Guiné-Bissau,no line,
+GNB,hosting,Justice,,Procuradoria-Geral da República (Ministério Público),no line,
+GNB,hosting,Treasury / Finance,treasury-fmis,Ministério das Finanças,no line,
+GNB,hosting,Central Bank,,Banco Central dos Estados da África Ocidental (BCEAO),no line,
+GNB,hosting,Electoral commission,electoral-register,Comissão Nacional de Eleições,no line,
+GNB,hosting,Statistics office,statistics,Instituto Nacional de Estatística (INE),no line,
+GNB,hosting,Health ministry / National health insurance,,Ministério da Saúde Pública (MINSAP),line,gnb-2025-18-611940101
+GNB,hosting,Securities regulator,,Autorité des Marchés Financiers de l'UMOA (AMF-UMOA),no line,
+GNB,hosting,Sovereign wealth fund / National pension fund,,Instituto Nacional de Segurança Social (INSS),no line,
+GNB,hosting,Public procurement authority,procurement,Direção-Geral dos Concursos Públicos,no line,
+GNB,hosting,E-government agency,ict-ministry-egov,Portal do Governo da Guiné-Bissau,no line,
+GNB,hosting,Communications regulator,communications-regulator,Autoridade Reguladora Nacional das TIC (ARN),no line,
+GNB,hosting,Audit office,,Tribunal de Contas,no line,
+GNB,deal-recipient,Private Sector,,Orange Bissau S.A.,no line,
+GNB,deal-recipient,Public Sector,,Government of Guinea-Bissau / Ministry of Digital Economy,no line,
+GNQ,hosting,Presidency,,Presidencia del Gobierno,line,gnq-2024-02-02a-001
+GNQ,hosting,Parliament,,Senado de Guinea Ecuatorial,no line,
+GNQ,hosting,Foreign Affairs,,Ministerio de Asuntos Exteriores y de Cooperación Internacional y Diaspora,no line,
+GNQ,hosting,Treasury / Finance,treasury-fmis,Ministerio de Hacienda y Presupuestos,line,gnq-2024-20-20a-002
+GNQ,hosting,Central Bank,,Banque des États de l'Afrique Centrale (BEAC),no line,
+GNQ,hosting,Statistics office,statistics,Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE),line,gnq-2024-22-22b-007
+GNQ,hosting,Health ministry / National health insurance,,Ministerio de Sanidad y Bienestar Social (MINSABS),line,gnq-2024-34-34d-020
+GNQ,hosting,Securities regulator,,Commission de Surveillance du Marché Financier de l'Afrique Centrale (COSUMAF),no line,
+GNQ,hosting,Energy utility,,Sociedad de Electricidad de Guinea Ecuatorial (SEGESA),no line,
+GNQ,hosting,State-owned telco / National backbone operator,,General de Telecomunicaciones SA (GETESA),line,gnq-2024-51-51b-006
+GNQ,hosting,State-owned telco / National backbone operator,,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial (GITGE),no line,
+GNQ,hosting,E-government agency,ict-ministry-egov,Gobierno de la República de Guinea Ecuatorial,line,gnq-2026-26-26t-066
+GNQ,hosting,Communications regulator,communications-regulator,Órgano Regulador de Telecomunicaciones (ORTEL),no line,
+KEN,hosting,Presidency,,Executive Office of the President,no line,
+KEN,hosting,Parliament,,Parliament of Kenya,no line,
+KEN,hosting,Foreign Affairs,,Ministry of Foreign and Diaspora Affairs,no line,
+KEN,hosting,Defence,,Ministry of Defence and Kenya Defence Forces,no line,
+KEN,hosting,Police,,National Police Service,no line,
+KEN,hosting,Justice,,Judiciary of Kenya,no line,
+KEN,hosting,Justice,,Office of the Attorney General,no line,
+KEN,hosting,Treasury / Finance,treasury-fmis,The National Treasury,line,ken-2024-1071-0717040
+KEN,hosting,Revenue Service,revenue-systems,Kenya Revenue Authority,no line,
+KEN,hosting,Intelligence,,National Intelligence Service,no line,
+KEN,hosting,Interior / Home Affairs,,Ministry of Interior and National Administration,no line,
+KEN,hosting,Central Bank,,Central Bank of Kenya,no line,
+KEN,hosting,Civil registry / National ID authority,civil-registration-id,State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau),line,ken-2024-1024-0605010
+KEN,hosting,Immigration / Passports,,Department of Immigration Services,line,ken-2024-1024-0605010
+KEN,hosting,Data protection authority,data-protection,Office of the Data Protection Commissioner,line,ken-2024-1122-0217010
+KEN,hosting,Electoral commission,electoral-register,Independent Electoral and Boundaries Commission (IEBC),line,ken-2024-2031-0617040
+KEN,hosting,Statistics office,statistics,Kenya National Bureau of Statistics,line,ken-2024-1072-0707010
+KEN,hosting,Health ministry / National health insurance,,Ministry of Health,no line,
+KEN,hosting,Health ministry / National health insurance,,Social Health Authority,no line,
+KEN,hosting,Social protection / Social registry,social-registry,National Social Security Fund,no line,
+KEN,hosting,Social protection / Social registry,social-registry,State Department for Social Protection,no line,
+KEN,hosting,Land registry,land-registry,Ministry of Lands (Ardhisasa),line,ken-2024-1112-0121010
+KEN,hosting,Securities regulator,,Capital Markets Authority,no line,
+KEN,hosting,Sovereign wealth fund / National pension fund,,Retirement Benefits Authority,no line,
+KEN,hosting,Public procurement authority,procurement,Public Procurement Regulatory Authority,no line,
+KEN,hosting,Public procurement authority,procurement,Government tenders portal,no line,
+KEN,hosting,Energy utility,,Kenya Power,no line,
+KEN,hosting,Energy utility,,KenGen,no line,
+KEN,hosting,Ports authority,,Kenya Ports Authority,no line,
+KEN,hosting,State-owned telco / National backbone operator,,Safaricom,no line,
+KEN,hosting,State-owned telco / National backbone operator,,Telkom Kenya,no line,
+KEN,hosting,E-government agency,ict-ministry-egov,eCitizen,no line,
+KEN,hosting,E-government agency,ict-ministry-egov,ICT Authority,line,ken-2024-1015-0764030
+KEN,hosting,National data centre / Government cloud operator,,Konza Technopolis,line,ken-2024-1122-0210020
+KEN,hosting,Cybersecurity agency / National CERT,cybersecurity,National KE-CIRT/CC,no line,
+KEN,hosting,Communications regulator,communications-regulator,Communications Authority of Kenya,line,ken-2024-1015-0764030
+KEN,hosting,Audit office,,Office of the Auditor-General,no line,
+KEN,hosting,Anti-corruption commission,,Ethics and Anti-Corruption Commission,no line,
+KEN,hosting,E-government agency,ict-ministry-egov,"Ministry of Information, Communications and the Digital Economy",line,ken-2024-1015-0764030
+KEN,deal-recipient,Private Sector,,Co-operative Bank of Kenya,no line,
+KEN,deal-recipient,Research,,"Masakhane Research Foundation (Kilifi, Kenya; region served Africa)",no line,
+KEN,deal-recipient,Private Sector,,Atlas Tower Kenya Limited,no line,
+KEN,deal-recipient,Public Sector,,Kenya (recipient org unspecified),no line,
+KEN,deal-recipient,Public Sector,,Kenya Cyber Resilience (KCR) Project,no line,
+KEN,deal-recipient,Public Sector,,"Government of Kenya, Ministry of Health",no line,
+KEN,deal-recipient,Public Sector,,Government of Kenya / National Treasury,line,ken-2024-1071-0717040
+KEN,deal-recipient,Private Sector,,"Nxtra data centre, Tatu City",no line,
+KEN,deal-recipient,Public Sector,,"ASAL counties implementing partners, Kenya",no line,
+KEN,deal-recipient,NGO,,Mzalendo Trust,no line,
+KEN,deal-recipient,Private Sector,,M-KOPA Kenya Limited,no line,
+KEN,deal-recipient,Public Sector,,Kenya (bilateral digital access delivery),no line,
+KEN,deal-recipient,NGO,,Financial Innovation for Impact (Fii),no line,
+KEN,deal-recipient,NGO,,"Women's World Banking, Inc.",no line,
+KEN,deal-recipient,NGO,,"Financial Sector Deepening, Kenya",no line,
+KEN,deal-recipient,Private Sector,,IHS Kenya Ltd (IHS Towers subsidiary),no line,
+LBR,hosting,Presidency,,Executive Mansion,no line,
+LBR,hosting,Parliament,,Liberian Senate,no line,
+LBR,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+LBR,hosting,Defence,,Ministry of National Defense,no line,
+LBR,hosting,Police,,Liberia National Police,no line,
+LBR,hosting,Justice,,Ministry of Justice,no line,
+LBR,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Development Planning,line,lbr-2024-130-0500-221621
+LBR,hosting,Revenue Service,revenue-systems,Liberia Revenue Authority,line,lbr-2024-140-0830
+LBR,hosting,Interior / Home Affairs,,Ministry of Internal Affairs,no line,
+LBR,hosting,Central Bank,,Central Bank of Liberia,no line,
+LBR,hosting,Civil registry / National ID authority,civil-registration-id,National Identification Registry,line,lbr-2024-142-0100
+LBR,hosting,Electoral commission,electoral-register,National Elections Commission,no line,
+LBR,hosting,Statistics office,statistics,Liberia Institute of Statistics and Geo-Information Services,no line,
+LBR,hosting,Immigration / Passports,,Liberia Immigration Service,no line,
+LBR,hosting,Health ministry / National health insurance,,Ministry of Health,line,lbr-2024-310-0500
+LBR,hosting,Social protection / Social registry,social-registry,Ministry of Gender Children and Social Protection,no line,
+LBR,hosting,Land registry,land-registry,Liberia Land Authority,line,lbr-2026-129-024100
+LBR,hosting,Sovereign wealth fund / National pension fund,,National Social Security and Welfare Corporation,no line,
+LBR,hosting,Public procurement authority,procurement,Public Procurement and Concessions Commission,no line,
+LBR,hosting,Energy utility,,Liberia Electricity Corporation,no line,
+LBR,hosting,Ports authority,,National Port Authority,no line,
+LBR,hosting,E-government agency,ict-ministry-egov,Government of Liberia portal,no line,
+LBR,hosting,Communications regulator,communications-regulator,Liberia Telecommunications Authority,no line,
+LBR,hosting,Audit office,,General Auditing Commission,no line,
+LBR,hosting,Anti-corruption commission,,Liberia Anti-Corruption Commission,no line,
+LBR,deal-recipient,Public Sector,,Republic of Liberia,no line,
+LBR,deal-recipient,Public Sector,,Liberia Agriculture Commodity Regulatory Authority,no line,
+LBR,deal-recipient,Public Sector,,Government of Liberia / Ministry of Health,line,lbr-2024-310-0500
+LBR,deal-recipient,Public Sector,,GREAT project / Ministry of Finance and Development Planning,no line,
+LBR,deal-recipient,Private Sector,,Orange Liberia Inc.,no line,
+LBY,hosting,Presidency,,Presidency of the Council of Ministers (Prime Minister's Office),no line,
+LBY,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
+LBY,hosting,Defence,,Ministry of Defence,no line,
+LBY,hosting,Justice,,Ministry of Justice,line,lby-2024-t6.8-r7-ch1
+LBY,hosting,Justice,,Attorney General's Office,no line,
+LBY,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,lby-2024-t6.10-r9-ch1
+LBY,hosting,Revenue Service,revenue-systems,Libyan Tax Authority,no line,
+LBY,hosting,Customs,,Libyan Customs Authority,no line,
+LBY,hosting,Intelligence,,Internal Security Agency,no line,
+LBY,hosting,Interior / Home Affairs,,Ministry of Interior,line,lby-2024-t6.9-r12-ch1
+LBY,hosting,Central Bank,,Central Bank of Libya,no line,
+LBY,hosting,Civil registry / National ID authority,civil-registration-id,General Information Authority,line,lby-2024-t6.24-r2-ch1
+LBY,hosting,Electoral commission,electoral-register,High National Elections Commission,no line,
+LBY,hosting,Statistics office,statistics,Bureau of Statistics and Census,line,lby-2024-t6.10-r9-ch1
+LBY,hosting,Health ministry / National health insurance,,Ministry of Health,line,lby-2024-t6.11-r13-ch1
+LBY,hosting,Social protection / Social registry,social-registry,Social Security Fund,no line,
+LBY,hosting,Securities regulator,,Libyan Capital Market Authority,no line,
+LBY,hosting,Sovereign wealth fund / National pension fund,,Libyan Investment Authority,no line,
+LBY,hosting,Energy utility,,General Electricity Company of Libya,no line,
+LBY,hosting,Energy utility,,National Oil Corporation,no line,
+LBY,hosting,Ports authority,,Libyan Ports Company,no line,
+LBY,hosting,State-owned telco / National backbone operator,,Libyan Post Telecommunications and Information Technology Company,no line,
+LBY,hosting,E-government agency,ict-ministry-egov,Citizen Service Center,no line,
+LBY,hosting,E-government agency,ict-ministry-egov,Libyan government parent zone,no line,
+LBY,hosting,Cybersecurity agency / National CERT,cybersecurity,National Information Security and Safety Authority,line,lby-2024-t6.24-r2-ch1
+LBY,hosting,Audit office,,Audit Bureau,no line,
+LBY,hosting,Anti-corruption commission,,National Anti-Corruption Commission,no line,
+LSO,hosting,Parliament,,Parliament of Lesotho,no line,
+LSO,hosting,Defence,,Ministry of Defence and National Security,no line,
+LSO,hosting,Armed Forces,,Lesotho Defence Force,no line,
+LSO,hosting,Police,,Lesotho Mounted Police Service,no line,
+LSO,hosting,Justice,,Ministry of Justice and Law,no line,
+LSO,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Development Planning,line,lso-2024-304-02-11
+LSO,hosting,Revenue Service,revenue-systems,Revenue Services Lesotho,line,lso-2024-304-0528
+LSO,hosting,Interior / Home Affairs,,Ministry of Home Affairs,line,lso-2024-308-03-02
+LSO,hosting,Central Bank,,Central Bank of Lesotho,no line,
+LSO,hosting,Electoral commission,electoral-register,Independent Electoral Commission,no line,
+LSO,hosting,Statistics office,statistics,Bureau of Statistics,line,lso-2024-304-04-04
+LSO,hosting,Health ministry / National health insurance,,Ministry of Health,no line,
+LSO,hosting,Social protection / Social registry,social-registry,Ministry of Social Development,no line,
+LSO,hosting,Land registry,land-registry,Land Administration Authority,no line,
+LSO,hosting,Sovereign wealth fund / National pension fund,,Public Officers' Defined Contribution Pension Fund,no line,
+LSO,hosting,Energy utility,,Lesotho Electricity Company,no line,
+LSO,hosting,State-owned telco / National backbone operator,,Econet Telecom Lesotho,no line,
+LSO,hosting,E-government agency,ict-ministry-egov,Government of Lesotho portal,no line,
+LSO,hosting,Communications regulator,communications-regulator,Lesotho Communications Authority,line,lso-2024-310-02-03
+LSO,hosting,Anti-corruption commission,,Directorate on Corruption and Economic Offences,line,lso-2026-311-02-02-431018
+LSO,deal-recipient,Public Sector,,Kingdom of Lesotho,no line,
+MAR,hosting,Parliament,,Chambre des Représentants,line,mar-2024-03-102-00-40-mdd
+MAR,hosting,Parliament,,Chambre des Conseillers,no line,
+MAR,hosting,Foreign Affairs,,Ministère des Affaires étrangères,line,mar-2024-03-102-00-40-mdd
+MAR,hosting,Police,,Direction Générale de la Sûreté Nationale,no line,
+MAR,hosting,Justice,,Ministère de la Justice,line,mar-2024-06-302-00-20-mdd
+MAR,hosting,Justice,,Conseil supérieur du pouvoir judiciaire,no line,
+MAR,hosting,Justice,,Portail des tribunaux (Mahakim),no line,
+MAR,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,no line,
+MAR,hosting,Revenue Service,revenue-systems,Direction Générale des Impôts,no line,
+MAR,hosting,Customs,,Administration des Douanes et Impôts Indirects,no line,
+MAR,hosting,Interior / Home Affairs,,Ministère de l'Intérieur,line,mar-2024-08-310-00-45-inv
+MAR,hosting,Central Bank,,Bank Al-Maghrib,no line,
+MAR,hosting,Data protection authority,data-protection,Commission Nationale de contrôle de la protection des Données à caractère Personnel,line,mar-2024-04-104-00-10-mdd
+MAR,hosting,Electoral commission,electoral-register,Élections Maroc (Ministère de l'Intérieur),no line,
+MAR,hosting,Statistics office,statistics,Haut-Commissariat au Plan,line,mar-2024-42-126-00-10-mdd
+MAR,hosting,Health ministry / National health insurance,,Ministère de la Santé et de la Protection sociale,line,mar-2024-12-701-00-30-mdd
+MAR,hosting,Health ministry / National health insurance,,Caisse Nationale de Sécurité Sociale,no line,
+MAR,hosting,Land registry,land-registry,Agence Nationale de la Conservation Foncière,no line,
+MAR,hosting,Securities regulator,,Autorité Marocaine du Marché des Capitaux,no line,
+MAR,hosting,Sovereign wealth fund / National pension fund,,Caisse de Dépôt et de Gestion,no line,
+MAR,hosting,Sovereign wealth fund / National pension fund,,Caisse Interprofessionnelle Marocaine de Retraites,no line,
+MAR,hosting,Public procurement authority,procurement,Portail des marchés publics,no line,
+MAR,hosting,Energy utility,,Office National de l'Électricité et de l'Eau Potable,no line,
+MAR,hosting,Ports authority,,Agence Nationale des Ports,no line,
+MAR,hosting,State-owned telco / National backbone operator,,Maroc Telecom,no line,
+MAR,hosting,E-government agency,ict-ministry-egov,Agence de Développement du Digital,line,mar-2024-10-907-00-48-mdd
+MAR,hosting,Cybersecurity agency / National CERT,cybersecurity,Direction Générale de la Sécurité des Systèmes d'Information,no line,
+MAR,hosting,Communications regulator,communications-regulator,Agence Nationale de Réglementation des Télécommunications,no line,
+MAR,hosting,Audit office,,Cour des Comptes,line,mar-2024-05-107-00-20-mdd
+MAR,hosting,Anti-corruption commission,,Instance Nationale de la Probité de la Prévention et de la Lutte contre la Corruption,line,mar-2024-55-106-00-40-mdd
+MAR,deal-recipient,Public Sector,,Morocco,no line,
+MAR,deal-recipient,Public Sector,,Kingdom of Morocco,no line,
+MAR,deal-recipient,Public Sector,,Agence de Développement du Digital / ADD,no line,
+MAR,deal-recipient,Public Sector,,The Kingdom of Morocco,no line,
+MDG,hosting,Presidency,,Présidence de la République de Madagascar,line,mdg-2024-01-010-138-00-01-f-04h
+MDG,hosting,Parliament,,Parlement de Madagascar,no line,
+MDG,hosting,Parliament,,Assemblée nationale,no line,
+MDG,hosting,Parliament,,Sénat,no line,
+MDG,hosting,Foreign Affairs,,Ministère des Affaires étrangères,line,mdg-2024-11-110-006-00-11-0-1e0
+MDG,hosting,Defence,,Ministère des Forces armées,line,mdg-2024-12-122-103-00-12-0-b50
+MDG,hosting,Police,,Police nationale (Ministère de la Sécurité publique),no line,
+MDG,hosting,Justice,,Ministère de la Justice,line,mdg-2024-16-160-012-00-16-0-480
+MDG,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,mdg-2024-21-220-013-00-21-f-01m
+MDG,hosting,Revenue Service,revenue-systems,Direction générale des impôts,no line,
+MDG,hosting,Customs,,Direction générale des douanes,line,mdg-2024-21-220-116-00-23-0-322
+MDG,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Décentralisation,line,mdg-2024-60-670-043-ba
+MDG,hosting,Central Bank,,Banky Foiben'i Madagasikara,no line,
+MDG,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante (CENI),line,mdg-2024-07-070-060-00-07-0-1a0
+MDG,hosting,Statistics office,statistics,Institut national de la statistique (INSTAT),line,mdg-2024-21-220-013-00-21-f-01m
+MDG,hosting,Health ministry / National health insurance,,Ministère de la Santé publique,line,mdg-2024-71-710-024-00-71-0-e38
+MDG,hosting,Social protection / Social registry,social-registry,Ministère de la Population et des Solidarités,line,mdg-2024-76-762-066-00-76-0-130
+MDG,hosting,Land registry,land-registry,Ministère de l'Aménagement du Territoire et des Services fonciers,line,mdg-2024-68-460-409-253
+MDG,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de prévoyance sociale (CNaPS),no line,
+MDG,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics (ARMP),no line,
+MDG,hosting,Energy utility,,JIRAMA,no line,
+MDG,hosting,Ports authority,,Société du port à gestion autonome de Toamasina (SPAT),no line,
+MDG,hosting,State-owned telco / National backbone operator,,Telma (Yas Madagascar),no line,
+MDG,hosting,E-government agency,ict-ministry-egov,Unité de gouvernance digitale (UGD),line,mdg-2024-60-660-023
+MDG,hosting,E-government agency,ict-ministry-egov,Gouvernement malagasy (zone parente),no line,
+MDG,hosting,Cybersecurity agency / National CERT,cybersecurity,CIRT Madagascar,no line,
+MDG,hosting,Communications regulator,communications-regulator,Autorité de régulation des technologies de communication (ARTEC),no line,
+MDG,hosting,Audit office,,Cour des comptes,no line,
+MDG,hosting,Anti-corruption commission,,Bureau indépendant anti-corruption (BIANCO),no line,
+MDG,deal-recipient,Public Sector,,"Agence portuaire, maritime et fluviale (APMF)",no line,
+MDG,deal-recipient,Research,,iRENALA,no line,
+MLI,hosting,Presidency,,Présidence de la République du Mali,no line,
+MLI,hosting,Foreign Affairs,,Ministère des Affaires étrangères et de la Coopération internationale,line,mli-2026-180-2.009-a01-5.1.1
+MLI,hosting,Armed Forces,,Forces armées maliennes (DIRPA),no line,
+MLI,hosting,Police,,Police nationale du Mali,no line,
+MLI,hosting,Justice,,Ministère de la Justice et des Droits de l'Homme,line,mli-2024-220-1.009-12-1-2022-0058-001-000000
+MLI,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,mli-2024-310-1.011-31-5-1994-0111-001-000000
+MLI,hosting,Revenue Service,revenue-systems,Direction générale des impôts,line,mli-2026-310-2.024-a01-3.1.1
+MLI,hosting,Customs,,Direction générale des douanes,no line,
+MLI,hosting,Interior / Home Affairs,,Ministère de l'Administration territoriale et de la Décentralisation,line,mli-2024-330-2.036-12-2-2011-0013-001-000000-62-9-1-06
+MLI,hosting,Interior / Home Affairs,,Ministère de la Sécurité et de la Protection civile,no line,
+MLI,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+MLI,hosting,Data protection authority,data-protection,Autorité de protection des données à caractère personnel (APDP),line,mli-2024-334-2.095
+MLI,hosting,Statistics office,statistics,Institut national de la statistique (INSTAT),line,mli-2024-310-3.008-31-1-2017-0011-001-000000
+MLI,hosting,Health ministry / National health insurance,,Ministère de la Santé et du Développement social,no line,
+MLI,hosting,Social protection / Social registry,social-registry,Caisse nationale d'assurance maladie (CANAM),no line,
+MLI,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+MLI,hosting,Sovereign wealth fund / National pension fund,,Institut national de prévoyance sociale (INPS),no line,
+MLI,hosting,Public procurement authority,procurement,Autorité de régulation des marchés publics et des délégations de service public (ARMDS),no line,
+MLI,hosting,State-owned telco / National backbone operator,,Société des télécommunications du Mali (Sotelma-Malitel),no line,
+MLI,hosting,E-government agency,ict-ministry-egov,Agence des technologies de l'information et de la communication (AGETIC),line,mli-2024-730-2.077-12-1-2017-0061-001-000000
+MLI,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental du Mali,no line,
+MLI,hosting,Communications regulator,communications-regulator,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),no line,
+MLI,hosting,Anti-corruption commission,,Office central de lutte contre l'enrichissement illicite (OCLEI),line,mli-2026-223-2.094-a01-1.3.1
+MLI,deal-recipient,Private Sector,,Orange Mali S.A.,no line,
+MLI,deal-recipient,Public Sector,,Sotelma (Moov Africa Malitel),no line,
+MOZ,hosting,Presidency,,Presidência da República de Moçambique,no line,
+MOZ,hosting,Parliament,,Assembleia da República,no line,
+MOZ,hosting,Foreign Affairs,,Ministério dos Negócios Estrangeiros e Cooperação,no line,
+MOZ,hosting,Defence,,Ministério da Defesa Nacional,no line,
+MOZ,hosting,Armed Forces,,Forças Armadas de Defesa de Moçambique,no line,
+MOZ,hosting,Justice,,Ministério da Justiça Assuntos Constitucionais e Religiosos,no line,
+MOZ,hosting,Justice,,Tribunal Supremo,no line,
+MOZ,hosting,Treasury / Finance,treasury-fmis,Ministério da Economia e Finanças,line,moz-2024-27a000141-27a001141-fun
+MOZ,hosting,Revenue Service,revenue-systems,Autoridade Tributária de Moçambique,no line,
+MOZ,hosting,Interior / Home Affairs,,Ministério do Interior,line,moz-2024-17a000141-17a002741-fun
+MOZ,hosting,Central Bank,,Banco de Moçambique,no line,
+MOZ,hosting,Civil registry / National ID authority,civil-registration-id,Direcção Nacional de Identificação Civil,line,moz-2024-17a000141-17a002741-fun
+MOZ,hosting,Civil registry / National ID authority,civil-registration-id,Direcção Nacional dos Registos e Notariado (registo civil),line,moz-2024-17a000141-17a002741-fun
+MOZ,hosting,Electoral commission,electoral-register,Secretariado Técnico de Administração Eleitoral,no line,
+MOZ,hosting,Statistics office,statistics,Instituto Nacional de Estatística,line,moz-2024-27a000141-27a006441-fun
+MOZ,hosting,Immigration / Passports,,Serviço Nacional de Migração,line,moz-2025-17a000141-17a000141-mdi2025of27
+MOZ,hosting,Immigration / Passports,,Serviço Nacional de Migração (eVisa),no line,
+MOZ,hosting,Health ministry / National health insurance,,Ministério da Saúde,no line,
+MOZ,hosting,Social protection / Social registry,social-registry,Instituto Nacional de Acção Social,no line,
+MOZ,hosting,Land registry,land-registry,Direcção Nacional de Terras e Desenvolvimento Territorial,no line,
+MOZ,hosting,Sovereign wealth fund / National pension fund,,Instituto Nacional de Segurança Social,no line,
+MOZ,hosting,Public procurement authority,procurement,Unidade Funcional de Supervisão das Aquisições,no line,
+MOZ,hosting,Public procurement authority,procurement,Portal de Concursos Públicos,no line,
+MOZ,hosting,Energy utility,,Electricidade de Moçambique,no line,
+MOZ,hosting,Ports authority,,Portos e Caminhos de Ferro de Moçambique (CFM),no line,
+MOZ,hosting,Ports authority,,Maputo Port Development Company,no line,
+MOZ,hosting,State-owned telco / National backbone operator,,Moçambique Telecom (Tmcel; absorbed TDM 2018),no line,
+MOZ,hosting,E-government agency,ict-ministry-egov,Instituto Nacional de Governo Electrónico,line,moz-2024-52a000141-52a004041-fun
+MOZ,hosting,E-government agency,ict-ministry-egov,Governo de Moçambique (parent zone),line,moz-2025-43a000141-43a003241-tur20250015
+MOZ,hosting,National data centre / Government cloud operator,,Parque de Ciência e Tecnologia da Maluana (Centro de Dados de Maluana),no line,
+MOZ,hosting,Cybersecurity agency / National CERT,cybersecurity,CSIRT Nacional,line,moz-2024-52a000141-52a001641-fun
+MOZ,hosting,Cybersecurity agency / National CERT,cybersecurity,Instituto Nacional de Tecnologias de Informação e Comunicação,line,moz-2024-52a000141-52a001641-fun
+MOZ,hosting,Communications regulator,communications-regulator,Instituto Nacional das Comunicações de Moçambique,no line,
+MOZ,hosting,Audit office,,Tribunal Administrativo,no line,
+MOZ,hosting,Anti-corruption commission,,Gabinete Central de Combate à Corrupção,no line,
+MOZ,deal-recipient,Public Sector,,Instituto Nacional de Gestao e Reducao do Risco de Desastres,no line,
+MOZ,deal-recipient,Public Sector,,recipient organisation unspecified,no line,
+MOZ,deal-recipient,Public Sector,,Mozambique,no line,
+MOZ,deal-recipient,Public Sector,,Government of Mozambique / Ministry of Health,no line,
+MOZ,deal-recipient,Public Sector,,Ministry of Health,no line,
+MOZ,deal-recipient,Public Sector,,Mozambique Telecom SA (Tmcel),no line,
+MRT,hosting,Presidency,,Présidence de la République Islamique de Mauritanie,no line,
+MRT,hosting,Parliament,,Assemblée nationale,no line,
+MRT,hosting,Foreign Affairs,,Ministère des Affaires étrangères,line,mrt-2024-11-24-01-04
+MRT,hosting,Defence,,Ministère de la Défense nationale,line,mrt-2024-10-12-01-72
+MRT,hosting,Justice,,Ministère de la Justice,line,mrt-2024-14-01-01-33
+MRT,hosting,Treasury / Finance,treasury-fmis,Ministère de l'Économie et des Finances,line,mrt-2024-67-01-01-09
+MRT,hosting,Revenue Service,revenue-systems,Direction générale des Impôts,no line,
+MRT,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Décentralisation,line,mrt-2024-73-01-02-19
+MRT,hosting,Central Bank,,Banque Centrale de Mauritanie,no line,
+MRT,hosting,Civil registry / National ID authority,civil-registration-id,Agence Nationale du Registre des Populations et des Titres Sécurisés,line,mrt-2024-73-42-01-02
+MRT,hosting,Electoral commission,electoral-register,Commission Électorale Nationale Indépendante,line,mrt-2024-23-01-01-05
+MRT,hosting,Statistics office,statistics,Agence Nationale de la Statistique et de l'Analyse Démographique et Économique,line,mrt-2024-81-41-01-03
+MRT,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,mrt-2024-53-05-01-07
+MRT,hosting,Health ministry / National health insurance,,Caisse Nationale d'Assurance Maladie,no line,
+MRT,hosting,Social protection / Social registry,social-registry,Caisse Nationale de Sécurité Sociale,no line,
+MRT,hosting,Public procurement authority,procurement,Autorité de Régulation des Marchés Publics,no line,
+MRT,hosting,Energy utility,,Société Mauritanienne d'Électricité,no line,
+MRT,hosting,Ports authority,,Port Autonome de Nouakchott,no line,
+MRT,hosting,State-owned telco / National backbone operator,,Mauritel,no line,
+MRT,hosting,E-government agency,ict-ministry-egov,Ministère de la Transformation Numérique (portail des procédures),line,mrt-2024-14-01-01-33
+MRT,hosting,Communications regulator,communications-regulator,Autorité de Régulation Multisectorielle,no line,
+MRT,hosting,Audit office,,Cour des Comptes,no line,
+MRT,deal-recipient,Public Sector,,Islamic Republic of Mauritania,line,mrt-2024-39-08-01-02
+MUS,hosting,Presidency,,Office of the President,no line,
+MUS,hosting,Parliament,,National Assembly of Mauritius,no line,
+MUS,hosting,Foreign Affairs,,Ministry of Foreign Affairs Regional Integration and International Trade,no line,
+MUS,hosting,Defence,,Prime Minister's Office (National Security),line,mus-2024-2-1-2-102-31132111
+MUS,hosting,Police,,Mauritius Police Force,line,mus-2024-2-5-2-501-22900973
+MUS,hosting,Justice,,Attorney General's Office,no line,
+MUS,hosting,Justice,,Supreme Court of Mauritius,line,mus-2024-1-7-1-7-31132126
+MUS,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance Economic Planning and Development,line,mus-2024-7-1-7-101-31132801
+MUS,hosting,Revenue Service,revenue-systems,Mauritius Revenue Authority,line,mus-2024-1-7-1-7-31122802-c
+MUS,hosting,Interior / Home Affairs,,"Ministry of Defence, Home Affairs and External Communications",no line,
+MUS,hosting,Central Bank,,Bank of Mauritius,no line,
+MUS,hosting,Civil registry / National ID authority,civil-registration-id,Civil Status Division,line,mus-2024-2-1-2-108
+MUS,hosting,Data protection authority,data-protection,Data Protection Office,line,mus-2024-16-1-16-101-22900916
+MUS,hosting,Electoral commission,electoral-register,Electoral Commissioner's Office,no line,
+MUS,hosting,Statistics office,statistics,Statistics Mauritius,line,mus-2024-7-4-7-4
+MUS,hosting,Immigration / Passports,,Passport and Immigration Office,line,mus-2024-2-1-2-103-31132114
+MUS,hosting,Health ministry / National health insurance,,Ministry of Health and Wellness,line,mus-2024-17-1-17-102-31132113
+MUS,hosting,Social protection / Social registry,social-registry,Ministry of Social Integration Social Security and National Solidarity,no line,
+MUS,hosting,Land registry,land-registry,Registrar General's Department,line,mus-2024-7-6-7-6
+MUS,hosting,Securities regulator,,Financial Services Commission,line,mus-2024-1-18-1-18-31132801
+MUS,hosting,Public procurement authority,procurement,Public Procurement Office,line,mus-2024-7-1-7-102-31132801
+MUS,hosting,Energy utility,,Central Electricity Board,no line,
+MUS,hosting,Ports authority,,Mauritius Ports Authority,no line,
+MUS,hosting,State-owned telco / National backbone operator,,Mauritius Telecom,no line,
+MUS,hosting,E-government agency,ict-ministry-egov,Central Informatics Bureau,line,mus-2024-16-1-16-102
+MUS,hosting,Cybersecurity agency / National CERT,cybersecurity,CERT-MU,line,mus-2025-MITCI-2303
+MUS,hosting,Communications regulator,communications-regulator,Information and Communication Technologies Authority,line,mus-2024-16-1-16-101-26313159
+MUS,hosting,Audit office,,National Audit Office,no line,
+MUS,hosting,Anti-corruption commission,,Financial Crimes Commission,no line,
+MUS,deal-recipient,Private Sector,,FIDO Micro Credit Ltd,no line,
+MWI,hosting,Presidency,,Office of the President and Cabinet,line,mwi-2024-090-001-020-1
+MWI,hosting,Foreign Affairs,,Ministry of Foreign Affairs,line,mwi-2024-260-001-020-1
+MWI,hosting,Armed Forces,,Malawi Defence Force,line,mwi-2024-101-001-020-1
+MWI,hosting,Police,,Malawi Police Service,line,mwi-2024-341-001-020-1
+MWI,hosting,Justice,,Ministry of Justice,line,mwi-2024-350-001-020-1
+MWI,hosting,Justice,,Judiciary of Malawi,line,mwi-2024-070-001-020-1
+MWI,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Economic Affairs,line,mwi-2024-121-001-020-1
+MWI,hosting,Revenue Service,revenue-systems,Malawi Revenue Authority,no line,
+MWI,hosting,Central Bank,,Reserve Bank of Malawi,no line,
+MWI,hosting,Civil registry / National ID authority,civil-registration-id,National Registration Bureau,line,mwi-2024-344-001-020-1
+MWI,hosting,Electoral commission,electoral-register,Malawi Electoral Commission,no line,
+MWI,hosting,Statistics office,statistics,National Statistical Office,line,mwi-2024-276-001-020-1
+MWI,hosting,Immigration / Passports,,Department of Immigration and Citizenship Services,line,mwi-2024-343-001-020-1
+MWI,hosting,Health ministry / National health insurance,,Ministry of Health,line,mwi-2024-275-047-020-1
+MWI,hosting,Land registry,land-registry,Ministry of Lands,line,mwi-2024-130-001-020-1
+MWI,hosting,Public procurement authority,procurement,Public Procurement and Disposal of Assets Authority,no line,
+MWI,hosting,Energy utility,,Electricity Supply Corporation of Malawi,no line,
+MWI,hosting,State-owned telco / National backbone operator,,Malawi Telecommunications Limited,no line,
+MWI,hosting,Communications regulator,communications-regulator,Malawi Communications Regulatory Authority,line,mwi-2026-330-033-192-7
+MWI,hosting,Audit office,,National Audit Office,line,mwi-2024-060-001-020-1
+MWI,hosting,Anti-corruption commission,,Anti-Corruption Bureau,line,mwi-2024-510-001-020-1
+MWI,deal-recipient,Public Sector,,Government of Malawi,no line,
+MWI,deal-recipient,Multilateral,,United Nations Development Programme,no line,
+MWI,deal-recipient,NGO,,ICT Association of Malawi (ICTAM),line,mwi-2024-030-002-020-1
+MWI,deal-recipient,Public Sector,,Government of Malawi / Ministry of Information and Digitalization,no line,
+MWI,deal-recipient,Public Sector,,Republic of Malawi,no line,
+NAM,hosting,Presidency,,Office of the President,line,nam-2024-26-md06
+NAM,hosting,Parliament,,National Assembly of Namibia,line,nam-2024-03-md03
+NAM,hosting,Foreign Affairs,,Ministry of International Relations and Cooperation,no line,
+NAM,hosting,Defence,,Ministry of Defence and Veterans Affairs,no line,
+NAM,hosting,Police,,Namibian Police Force,no line,
+NAM,hosting,Justice,,Ministry of Justice,no line,
+NAM,hosting,Justice,,Judiciary of Namibia,no line,
+NAM,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Public Enterprises,line,nam-2024-09-md13
+NAM,hosting,Revenue Service,revenue-systems,Namibia Revenue Agency,no line,
+NAM,hosting,Interior / Home Affairs,,"Ministry of Home Affairs, Immigration, Safety and Security",line,nam-2024-39-md05
+NAM,hosting,Central Bank,,Bank of Namibia,no line,
+NAM,hosting,Electoral commission,electoral-register,Electoral Commission of Namibia,line,nam-2026-28-md01-disaster-recovery
+NAM,hosting,Statistics office,statistics,Namibia Statistics Agency,line,nam-2024-26-md02-nsa
+NAM,hosting,Health ministry / National health insurance,,Ministry of Health and Social Services,line,nam-2024-13-md12
+NAM,hosting,Social protection / Social registry,social-registry,Ministry of Gender Equality Poverty Eradication and Social Welfare,no line,
+NAM,hosting,Securities regulator,,Namibia Financial Institutions Supervisory Authority,no line,
+NAM,hosting,Sovereign wealth fund / National pension fund,,Government Institutions Pension Fund,no line,
+NAM,hosting,Public procurement authority,procurement,Central Procurement Board of Namibia,no line,
+NAM,hosting,Energy utility,,NamPower,no line,
+NAM,hosting,Ports authority,,Namibian Ports Authority,no line,
+NAM,hosting,State-owned telco / National backbone operator,,Telecom Namibia,no line,
+NAM,hosting,E-government agency,ict-ministry-egov,Office of the Prime Minister,line,nam-2024-02-md06
+NAM,hosting,Communications regulator,communications-regulator,Communications Regulatory Authority of Namibia,no line,
+NAM,hosting,Audit office,,Office of the Auditor General,no line,
+NAM,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
+NAM,deal-recipient,Public Sector,,Telecom Namibia,no line,
+NAM,deal-recipient,Public Sector,,Windhoek Smart City / Government of Namibia,no line,
+NAM,deal-recipient,Private Sector,,Paratus Namibia,no line,
+NER,hosting,Presidency,,Présidence de la République du Niger,line,ner-2025-05-106-10609001
+NER,hosting,Parliament,,Assemblée nationale,no line,
+NER,hosting,Foreign Affairs,,Ministère des Affaires étrangères,line,ner-2024-12-121-12102002
+NER,hosting,Defence,,Ministère de la Défense nationale,no line,
+NER,hosting,Police,,Direction générale de la Police nationale,line,ner-2024-25-142-14201003
+NER,hosting,Justice,,Ministère de la Justice,line,ner-2024-17-131-13102001
+NER,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances,line,ner-2024-47-168-16802001
+NER,hosting,Revenue Service,revenue-systems,Direction générale des Impôts,no line,
+NER,hosting,Interior / Home Affairs,,Ministère de l'Intérieur,line,ner-2024-25-142-14201003
+NER,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+NER,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante (CENI),no line,
+NER,hosting,Statistics office,statistics,Institut national de la statistique (INS),line,ner-2024-06-110-11001004
+NER,hosting,Health ministry / National health insurance,,Ministère de la Santé publique,line,ner-2024-64-217-21702002
+NER,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+NER,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de sécurité sociale (CNSS),no line,
+NER,hosting,Energy utility,,NIGELEC,no line,
+NER,hosting,State-owned telco / National backbone operator,,Niger Telecoms,no line,
+NER,hosting,E-government agency,ict-ministry-egov,Gouvernement du Niger (portail),line,ner-2026-47-168-16802021
+NER,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),no line,
+NGA,hosting,Presidency,,State House,line,nga-2024-0111001004-ergp9213050
+NGA,hosting,Parliament,,National Assembly,no line,
+NGA,hosting,Foreign Affairs,,Ministry of Foreign Affairs,line,nga-2024-0119001002-ergp29213110
+NGA,hosting,Defence,,Ministry of Defence,line,nga-2024-0116004002-ergp23204412
+NGA,hosting,Armed Forces,,Nigerian Army,no line,
+NGA,hosting,Police,,Nigeria Police Force,line,nga-2024-0155004001-ergp4103135
+NGA,hosting,Justice,,Federal Ministry of Justice,line,nga-2024-0326001001-ergp29171843
+NGA,hosting,Justice,,National Judicial Council,no line,
+NGA,hosting,Treasury / Finance,treasury-fmis,Federal Ministry of Finance,line,nga-2024-0220007001-ergp71928654
+NGA,hosting,Treasury / Finance,treasury-fmis,Office of the Accountant-General of the Federation,line,nga-2024-0220007001-ergp71928654
+NGA,hosting,Revenue Service,revenue-systems,Federal Inland Revenue Service,no line,
+NGA,hosting,Revenue Service,revenue-systems,Nigeria Revenue Service,line,nga-2024-0220007001-ergp71928663
+NGA,hosting,Customs,,Nigeria Customs Service,no line,
+NGA,hosting,Intelligence,,Department of State Services,line,nga-2025-0157002001-ergp14224300
+NGA,hosting,Interior / Home Affairs,,Federal Ministry of Interior,line,nga-2024-0124001001-ergp29213072
+NGA,hosting,Central Bank,,Central Bank of Nigeria,line,nga-2025-0256001001-ergp6232950
+NGA,hosting,Civil registry / National ID authority,civil-registration-id,National Identity Management Commission,line,nga-2024-0161005001
+NGA,hosting,Immigration / Passports,,Nigeria Immigration Service,line,nga-2024-0124003001-ergp14101351
+NGA,hosting,Data protection authority,data-protection,Nigeria Data Protection Commission,line,nga-2024-0220007001-ergp71928668
+NGA,hosting,Electoral commission,electoral-register,Independent National Electoral Commission (INEC),no line,
+NGA,hosting,Statistics office,statistics,National Bureau of Statistics,line,nga-2024-0238004001
+NGA,hosting,Health ministry / National health insurance,,Federal Ministry of Health,line,nga-2024-0521001001-ergp25155718
+NGA,hosting,Health ministry / National health insurance,,National Health Insurance Authority,no line,
+NGA,hosting,Social protection / Social registry,social-registry,National Social Safety-Nets Coordinating Office,no line,
+NGA,hosting,Land registry,land-registry,Abuja Geographic Information Systems (FCT lands registry),line,nga-2024-0155004001-ergp14192062
+NGA,hosting,Securities regulator,,Securities and Exchange Commission,no line,
+NGA,hosting,Sovereign wealth fund / National pension fund,,Nigeria Sovereign Investment Authority,no line,
+NGA,hosting,Sovereign wealth fund / National pension fund,,National Pension Commission,line,nga-2024-0220015001-ergp29178921
+NGA,hosting,Public procurement authority,procurement,Bureau of Public Procurement,line,nga-2024-0157002001-ergp14124341
+NGA,hosting,Energy utility,,Transmission Company of Nigeria,no line,
+NGA,hosting,Ports authority,,Nigerian Ports Authority,no line,
+NGA,hosting,State-owned telco / National backbone operator,,NIGCOMSAT,no line,
+NGA,hosting,E-government agency,ict-ministry-egov,National Information Technology Development Agency (NITDA),line,nga-2024-0521003001-ergp25126430
+NGA,hosting,National data centre / Government cloud operator,,Galaxy Backbone,line,nga-2024-0238005002-ergp29210820
+NGA,hosting,Cybersecurity agency / National CERT,cybersecurity,ngCERT,line,nga-2025-0157007001
+NGA,hosting,Communications regulator,communications-regulator,Nigerian Communications Commission,line,nga-2026-0161007001-ergp29230590
+NGA,hosting,Audit office,,Office of the Auditor-General for the Federation,line,nga-2024-0140001001-ergp15205425
+NGA,hosting,Anti-corruption commission,,Economic and Financial Crimes Commission,line,nga-2024-0111009001-ergp15206146
+NGA,hosting,Anti-corruption commission,,Independent Corrupt Practices Commission,no line,
+NGA,deal-recipient,Private Sector,,Nomba,no line,
+NGA,deal-recipient,Private Sector,,Trade Lenda and AirSmat,no line,
+NGA,deal-recipient,Private Sector,,DAWN AI STUDY,line,nga-2024-0234001001-ergp12191115
+NGA,deal-recipient,Private Sector,,Terra Industries,no line,
+NGA,deal-recipient,NGO,,FATE Foundation,no line,
+NGA,deal-recipient,Public Sector,,Nigeria,no line,
+NGA,deal-recipient,Public Sector,,Government of Nigeria / Project BRIDGE (D-VIBE),line,nga-2024-0234001001-ergp12191101
+NGA,deal-recipient,Private Sector,,BFREE,no line,
+NGA,deal-recipient,Public Sector,,Federal Republic of Nigeria,no line,
+NGA,deal-recipient,Public Sector,,Nigeria Police Force,line,nga-2024-0155004001-ergp4103135
+NGA,deal-recipient,Fund,,Nigeria Sovereign Investment Authority (NSIA),no line,
+NGA,deal-recipient,Public Sector,,Federal Republic of Nigeria / Federal Ministry of Health and Social Welfare,line,nga-2024-0521001001-ergp25155718
+NGA,deal-recipient,Private Sector,,West Indian Ocean Cable Company (WIOCC),no line,
+NGA,deal-recipient,Private Sector,,Equinix Nigeria,no line,
+NGA,deal-recipient,NGO,,Enhancing Financial Inclusion & Advancement LTD/GTE (EFInA),no line,
+NGA,deal-recipient,NGO,,SSVP St Christopher Catholic Church,no line,
+NGA,deal-recipient,Public Sector,,National Information Technology Development Agency (NITDA),line,nga-2024-0521003001-ergp25126430
+NGA,deal-recipient,Private Sector,,Moniepoint Group,no line,
+NGA,deal-recipient,Private Sector,,OmniRetail Africa,no line,
+NGA,deal-recipient,Fund,,Ventures Platform,no line,
+NGA,deal-recipient,Private Sector,,Moniepoint Inc.,no line,
+NGA,deal-recipient,Public Sector,,Federal Government of Nigeria / BRIDGE Project company,line,nga-2024-0234001001-ergp12191101
+NGA,deal-recipient,Public Sector,,Federal Government of Nigeria,no line,
+NGA,deal-recipient,NGO,,Co-Creation Hub,no line,
+NGA,deal-recipient,Public Sector,,Federal Government of Nigeria / Ministry of Communications and Digital Economy,line,nga-2024-0156003001
+RWA,hosting,Presidency,,Office of the President,no line,
+RWA,hosting,Parliament,,Parliament of Rwanda,no line,
+RWA,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
+RWA,hosting,Defence,,Ministry of Defence,no line,
+RWA,hosting,Armed Forces,,Rwanda Defence Force,no line,
+RWA,hosting,Police,,Rwanda National Police,no line,
+RWA,hosting,Justice,,Ministry of Justice,line,rwa-2024-13-1300-cic
+RWA,hosting,Justice,,Judiciary of Rwanda,no line,
+RWA,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Economic Planning,line,rwa-2024-12-1202-01-0101
+RWA,hosting,Revenue Service,revenue-systems,Rwanda Revenue Authority,no line,
+RWA,hosting,Interior / Home Affairs,,Ministry of Internal Security,no line,
+RWA,hosting,Central Bank,,National Bank of Rwanda,line,rwa-2024-12-1200-f7z
+RWA,hosting,Civil registry / National ID authority,civil-registration-id,National Identification Agency,line,rwa-2024-28-2313-01-0101
+RWA,hosting,Electoral commission,electoral-register,National Electoral Commission,no line,
+RWA,hosting,Statistics office,statistics,National Institute of Statistics of Rwanda,line,rwa-2024-12-1202-01-0101
+RWA,hosting,Immigration / Passports,,Directorate General of Immigration and Emigration,no line,
+RWA,hosting,Health ministry / National health insurance,,Ministry of Health,line,rwa-2024-16-1600-el-el01
+RWA,hosting,Social protection / Social registry,social-registry,Local Administrative Entities Development Agency,no line,
+RWA,hosting,Land registry,land-registry,Rwanda Land Management and Use Authority,no line,
+RWA,hosting,Securities regulator,,Capital Market Authority,no line,
+RWA,hosting,Sovereign wealth fund / National pension fund,,Rwanda Social Security Board,no line,
+RWA,hosting,Public procurement authority,procurement,Rwanda Public Procurement Authority (Umucyo e-procurement),no line,
+RWA,hosting,Energy utility,,Rwanda Energy Group,no line,
+RWA,hosting,State-owned telco / National backbone operator,,Korea Telecom Rwanda Networks,no line,
+RWA,hosting,E-government agency,ict-ministry-egov,Irembo,no line,
+RWA,hosting,National data centre / Government cloud operator,,Rwanda Information Society Authority,line,rwa-2024-28-1903-01-0101
+RWA,hosting,Cybersecurity agency / National CERT,cybersecurity,National Cyber Security Authority,line,rwa-2024-01-0111-01-0101
+RWA,hosting,Communications regulator,communications-regulator,Rwanda Utilities Regulatory Authority,no line,
+RWA,hosting,Audit office,,Office of the Auditor General of State Finances,no line,
+RWA,hosting,Anti-corruption commission,,Office of the Ombudsman,no line,
+RWA,deal-recipient,Private Sector,,Paradigm Tower Ventures / Paradigm Infrastructure,no line,
+RWA,deal-recipient,NGO,,Global Impact,no line,
+SDN,hosting,Presidency,,Transitional Sovereignty Council,no line,
+SDN,hosting,Parliament,,National Legislature,no line,
+SDN,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+SDN,hosting,Justice,,Ministry of Justice,no line,
+SDN,hosting,Justice,,Sudan Judiciary,no line,
+SDN,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Economic Planning,no line,
+SDN,hosting,Customs,,Sudan Customs Authority,no line,
+SDN,hosting,Interior / Home Affairs,,Ministry of Interior,no line,
+SDN,hosting,Central Bank,,Central Bank of Sudan,no line,
+SDN,hosting,Statistics office,statistics,Central Bureau of Statistics,no line,
+SDN,hosting,Immigration / Passports,,General Directorate of Passports and Immigration,no line,
+SDN,hosting,Health ministry / National health insurance,,Federal Ministry of Health,no line,
+SDN,hosting,Securities regulator,,Financial Markets Authority,no line,
+SDN,hosting,Ports authority,,Sea Ports Corporation,no line,
+SDN,hosting,State-owned telco / National backbone operator,,Sudatel Telecom Group,no line,
+SDN,hosting,E-government agency,ict-ministry-egov,Republic of Sudan national government portal,no line,
+SDN,hosting,Communications regulator,communications-regulator,Telecommunications and Post Regulatory Authority,no line,
+SEN,hosting,Presidency,,Présidence de la République,no line,
+SEN,hosting,Parliament,,Assemblée nationale,no line,
+SEN,hosting,Foreign Affairs,,Ministère de l'Intégration africaine et des Affaires étrangères,no line,
+SEN,hosting,Defence,,Ministère des Forces armées,no line,
+SEN,hosting,Police,,Direction générale de la Police nationale,line,sen-2026-33-2009-cybercriminalite
+SEN,hosting,Justice,,Ministère de la Justice,line,sen-2026-34-1004-dematerialisation-justice
+SEN,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances et du Budget,line,sen-2026-43-1011-sigif
+SEN,hosting,Revenue Service,revenue-systems,Direction générale des Impôts et des Domaines,no line,
+SEN,hosting,Customs,,Direction générale des Douanes,no line,
+SEN,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécurité publique,line,sen-2024-33-cartes-identite-biometriques-ph2
+SEN,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+SEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale de l'État civil,no line,
+SEN,hosting,Data protection authority,data-protection,Commission de protection des données personnelles,no line,
+SEN,hosting,Electoral commission,electoral-register,Direction générale des Élections,no line,
+SEN,hosting,Statistics office,statistics,Agence nationale de la Statistique et de la Démographie,no line,
+SEN,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Action sociale,no line,
+SEN,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+SEN,hosting,Sovereign wealth fund / National pension fund,,Fonds souverain d'investissements stratégiques (FONSIS),no line,
+SEN,hosting,Sovereign wealth fund / National pension fund,,Institution de prévoyance retraite du Sénégal (IPRES),no line,
+SEN,hosting,Public procurement authority,procurement,Autorité de régulation de la commande publique,no line,
+SEN,hosting,Energy utility,,Senelec,no line,
+SEN,hosting,Ports authority,,Port autonome de Dakar,no line,
+SEN,hosting,State-owned telco / National backbone operator,,Sonatel,no line,
+SEN,hosting,E-government agency,ict-ministry-egov,Sénégal Numérique S.A. (ex-ADIE),line,sen-2024-63-2083
+SEN,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental,no line,
+SEN,hosting,Communications regulator,communications-regulator,Autorité de régulation des télécommunications et des postes,no line,
+SEN,hosting,Audit office,,Cour des comptes,no line,
+SEN,hosting,Anti-corruption commission,,Office national de lutte contre la fraude et la corruption,no line,
+SEN,deal-recipient,Research,,"Consortium for Economic and Social Research (CRES), Dakar, Senegal; serving Francophone Africa",no line,
+SEN,deal-recipient,Public Sector,,Government of Senegal,no line,
+SEN,deal-recipient,Multi-stakeholder,,Republic of Senegal,no line,
+SEN,deal-recipient,Private Sector,,Wave Mobile Money S.A.,no line,
+SEN,deal-recipient,Public Sector,,New Deal Technologique,no line,
+SEN,deal-recipient,Private Sector,,Wave,no line,
+SEN,deal-recipient,Private Sector,,Sonatel SA,no line,
+SEN,deal-recipient,Private Sector,,QuantumID Technologies SASU,no line,
+SEN,deal-recipient,Private Sector,,Sonatel SA (Orange Group subsidiary),no line,
+SEN,deal-recipient,Public Sector,,Senegal,no line,
+SEN,deal-recipient,Public Sector,,Ministry of Digital Economy and Telecommunications,line,sen-2024-63-2083
+SLE,hosting,Presidency,,State House Sierra Leone,no line,
+SLE,hosting,Parliament,,Parliament of Sierra Leone,no line,
+SLE,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
+SLE,hosting,Defence,,Ministry of Defence,no line,
+SLE,hosting,Police,,Sierra Leone Police,line,sle-2025-206-2060201-1502081003
+SLE,hosting,Justice,,Office of the Attorney General and Ministry of Justice,line,sle-2024-124-1240501-0404040202
+SLE,hosting,Justice,,Sierra Leone Judiciary,line,sle-2024-118-1180102-0404020417
+SLE,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,sle-2024-129-1290103-0404010206
+SLE,hosting,Revenue Service,revenue-systems,National Revenue Authority,line,sle-2026-129-1290303-1502030306
+SLE,hosting,Intelligence,,Office of National Security,line,sle-2024-214-2140101-04000000
+SLE,hosting,Interior / Home Affairs,,Ministry of Internal Affairs,line,sle-2024-205-2050101-0407040217
+SLE,hosting,Central Bank,,Bank of Sierra Leone,no line,
+SLE,hosting,Civil registry / National ID authority,civil-registration-id,National Civil Registration Authority,line,sle-2024-203-2030101-04000000
+SLE,hosting,Electoral commission,electoral-register,Electoral Commission for Sierra Leone,line,sle-2024-134-1340101-0406020405
+SLE,hosting,Statistics office,statistics,Statistics Sierra Leone,line,sle-2024-132-1320102-0404020505
+SLE,hosting,Health ministry / National health insurance,,Ministry of Health,line,sle-2024-304-3040202-0103030139
+SLE,hosting,Social protection / Social registry,social-registry,National Commission for Social Action,no line,
+SLE,hosting,Land registry,land-registry,"Ministry of Lands, Housing and Country Planning",no line,
+SLE,hosting,Sovereign wealth fund / National pension fund,,National Social Security and Insurance Trust,no line,
+SLE,hosting,Public procurement authority,procurement,National Public Procurement Authority,line,sle-2024-129-1290103-0404010206
+SLE,hosting,Energy utility,,Electricity Distribution and Supply Authority,no line,
+SLE,hosting,Ports authority,,Sierra Leone Ports Authority,no line,
+SLE,hosting,State-owned telco / National backbone operator,,Sierratel,no line,
+SLE,hosting,E-government agency,ict-ministry-egov,Government of Sierra Leone,no line,
+SLE,hosting,Communications regulator,communications-regulator,National Telecommunications Commission,line,sle-2024-412-4120101-0807011206
+SLE,hosting,Audit office,,Audit Service Sierra Leone,no line,
+SLE,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
+SLE,deal-recipient,Public Sector,,Sierratel,no line,
+SLE,deal-recipient,Public Sector,,Republic of Sierra Leone,no line,
+SLE,deal-recipient,Private Sector,,Orange Sierra Leone,no line,
+SLE,deal-recipient,Public Sector,,Statistics Sierra Leone (Stats-SL),line,sle-2024-132-1320102-0404020505
+SOM,hosting,Presidency,,Office of the President (Villa Somalia),no line,
+SOM,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
+SOM,hosting,Defence,,Ministry of Defence,no line,
+SOM,hosting,Police,,Somali Police Force,no line,
+SOM,hosting,Justice,,Ministry of Justice and Constitutional Affairs,no line,
+SOM,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,no line,
+SOM,hosting,Interior / Home Affairs,,Ministry of Internal Security,no line,
+SOM,hosting,Central Bank,,Central Bank of Somalia,no line,
+SOM,hosting,Civil registry / National ID authority,civil-registration-id,National Identification and Registration Authority (NIRA),line,som-2025-0107-010702
+SOM,hosting,Electoral commission,electoral-register,National Independent Electoral and Boundaries Commission,no line,
+SOM,hosting,Statistics office,statistics,Somali National Bureau of Statistics,line,som-2026-0106-0106011
+SOM,hosting,Health ministry / National health insurance,,Ministry of Health and Human Services,no line,
+SOM,hosting,Social protection / Social registry,social-registry,Ministry of Labour and Social Affairs,no line,
+SOM,hosting,Ports authority,,Somali Ports Authority,no line,
+SOM,hosting,Ports authority,,Mogadishu Port Authority,no line,
+SOM,hosting,E-government agency,ict-ministry-egov,Federal Government of Somalia government zone,no line,
+SOM,hosting,Communications regulator,communications-regulator,National Communications Authority,line,som-2024-0307-030701
+SOM,hosting,Audit office,,Office of the Auditor General,no line,
+SSD,hosting,Presidency,,Office of the President,no line,
+SSD,hosting,Parliament,,Transitional National Legislative Assembly,no line,
+SSD,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
+SSD,hosting,Justice,,Ministry of Justice and Constitutional Affairs,no line,
+SSD,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and Planning,line,ssd-2025-mof-nfm-ict
+SSD,hosting,Revenue Service,revenue-systems,South Sudan National Revenue Authority,no line,
+SSD,hosting,Central Bank,,Bank of South Sudan,no line,
+SSD,hosting,Electoral commission,electoral-register,National Elections Commission,no line,
+SSD,hosting,Statistics office,statistics,National Bureau of Statistics,line,ssd-2024-sta-natstat-fss-gis-remote-sensing
+SSD,hosting,Immigration / Passports,,Directorate of Nationality Passports and Immigration,line,ssd-2024-mih-isc-immigration
+SSD,hosting,Health ministry / National health insurance,,Ministry of Health,no line,
+SSD,hosting,Sovereign wealth fund / National pension fund,,South Sudan Pension Fund,no line,
+SSD,hosting,Public procurement authority,procurement,Public Procurement and Disposal of Assets Authority,no line,
+SSD,hosting,E-government agency,ict-ministry-egov,Government of South Sudan eGovernment portal,no line,
+SSD,hosting,E-government agency,ict-ministry-egov,Government eServices portal,no line,
+SSD,hosting,Communications regulator,communications-regulator,National Communication Authority,line,ssd-2024-nca-regulating-telecoms
+SSD,hosting,Audit office,,National Audit Chamber,no line,
+SSD,deal-recipient,Private Sector,,Communication and Renewable Energy Infrastructure (CREI),no line,
+STP,hosting,Presidency,,Presidência da República,no line,
+STP,hosting,Parliament,,Assembleia Nacional,no line,
+STP,hosting,Police,,Polícia Judiciária,no line,
+STP,hosting,Justice,,Supremo Tribunal de Justiça,no line,
+STP,hosting,Treasury / Finance,treasury-fmis,Ministério do Planeamento Finanças e Economia Azul,line,stp-2024-27110-004-1113
+STP,hosting,Central Bank,,Banco Central de São Tomé e Príncipe,no line,
+STP,hosting,Civil registry / National ID authority,civil-registration-id,Direcção Geral dos Registos Notariado e Identificação,no line,
+STP,hosting,Electoral commission,electoral-register,Comissão Eleitoral Nacional,no line,
+STP,hosting,Statistics office,statistics,Instituto Nacional de Estatística,line,stp-2024-27110-004-1113
+STP,hosting,Immigration / Passports,,Serviço de Migração e Fronteiras,no line,
+STP,hosting,Health ministry / National health insurance,,Ministério da Saúde,no line,
+STP,hosting,Energy utility,,Empresa de Água e Electricidade (EMAE),no line,
+STP,hosting,Ports authority,,Empresa Nacional de Administração dos Portos (ENAPORT),no line,
+STP,hosting,State-owned telco / National backbone operator,,Companhia Santomense de Telecomunicações (CST),no line,
+STP,hosting,E-government agency,ict-ministry-egov,Governo de São Tomé e Príncipe (parent zone),no line,
+STP,hosting,E-government agency,ict-ministry-egov,Portal do Governo,no line,
+STP,hosting,Communications regulator,communications-regulator,Autoridade Geral de Regulação (AGER),no line,
+STP,hosting,Audit office,,Tribunal de Contas,no line,
+STP,deal-recipient,Public Sector,,Democratic Republic of São Tomé and Príncipe,no line,
+SWZ,hosting,Justice,,Judiciary of Eswatini,line,swz-2026-48-G675
+SWZ,hosting,Revenue Service,revenue-systems,Eswatini Revenue Service,no line,
+SWZ,hosting,Central Bank,,Central Bank of Eswatini,no line,
+SWZ,hosting,Electoral commission,electoral-register,Elections and Boundaries Commission,no line,
+SWZ,hosting,Securities regulator,,Financial Services Regulatory Authority,no line,
+SWZ,hosting,Sovereign wealth fund / National pension fund,,Eswatini National Provident Fund,no line,
+SWZ,hosting,Sovereign wealth fund / National pension fund,,Tibiyo Taka Ngwane,no line,
+SWZ,hosting,Public procurement authority,procurement,Eswatini Public Procurement Regulatory Agency,no line,
+SWZ,hosting,Energy utility,,Eswatini Electricity Company,no line,
+SWZ,hosting,State-owned telco / National backbone operator,,Eswatini Posts and Telecommunications Corporation,no line,
+SWZ,hosting,E-government agency,ict-ministry-egov,Government of Eswatini portal,no line,
+SWZ,hosting,Communications regulator,communications-regulator,Eswatini Communications Commission,line,swz-2024-43-12
+SWZ,deal-recipient,Public Sector,,Kingdom of Eswatini,no line,
+SWZ,deal-recipient,Public Sector,,Eswatini Investment Promotion Authority / Eswatini International Trade Fair,no line,
+SYC,hosting,Presidency,,Office of the President,no line,
+SYC,hosting,Parliament,,National Assembly of Seychelles,no line,
+SYC,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+SYC,hosting,Police,,Seychelles Police Force,no line,
+SYC,hosting,Justice,,Judiciary of Seychelles,line,syc-2024-031x000-p1-sp2-courtroom-digitalisation
+SYC,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,syc-2024-022x000-p1
+SYC,hosting,Revenue Service,revenue-systems,Seychelles Revenue Commission,line,syc-2024-040c000-p3-sp3-asycuda
+SYC,hosting,Interior / Home Affairs,,Ministry of Home Affairs,no line,
+SYC,hosting,Central Bank,,Central Bank of Seychelles,no line,
+SYC,hosting,Electoral commission,electoral-register,Electoral Commission of Seychelles,no line,
+SYC,hosting,Statistics office,statistics,National Bureau of Statistics,line,syc-2024-040j000-p1
+SYC,hosting,Immigration / Passports,,Immigration and Civil Status Division,no line,
+SYC,hosting,Health ministry / National health insurance,,Ministry of Health,line,syc-2025-110a000-p4-his-maintenance
+SYC,hosting,Land registry,land-registry,Land Registration Division,line,syc-2024-012x002-p2
+SYC,hosting,Securities regulator,,Financial Services Authority,line,syc-2024-041x000-p6-ifmis-psip
+SYC,hosting,Sovereign wealth fund / National pension fund,,Seychelles Pension Fund,no line,
+SYC,hosting,Energy utility,,Public Utilities Corporation,no line,
+SYC,hosting,Ports authority,,Seychelles Ports Authority,no line,
+SYC,hosting,State-owned telco / National backbone operator,,Cable & Wireless Seychelles,no line,
+SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology,no line,
+SYC,hosting,Anti-corruption commission,,Anti-Corruption Commission of Seychelles,line,syc-2024-150e000-p1-case-management-software
+SYC,hosting,E-government agency,ict-ministry-egov,Department of Information Communications Technology (DICT),line,syc-2024-022x000-p1
+SYC,deal-recipient,Private Sector,,Fusepay,no line,
+TCD,hosting,Presidency,,Présidence de la République du Tchad,no line,
+TCD,hosting,Parliament,,Assemblée nationale,no line,
+TCD,hosting,Parliament,,Sénat,no line,
+TCD,hosting,Foreign Affairs,,Ministère des Affaires étrangères,no line,
+TCD,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances; du Budget; de l'Économie; du Plan et de la Coopération internationale,line,tcd-2026-10-016-1006901612300099
+TCD,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances (former domain),line,tcd-2024-10-018-1006900082300099
+TCD,hosting,Revenue Service,revenue-systems,Direction Générale des Impôts,no line,
+TCD,hosting,Customs,,Direction Générale des Douanes et Droits Indirects,no line,
+TCD,hosting,Interior / Home Affairs,,Ministère de la Sécurité Publique et de l'Immigration,line,tcd-2024-32-090-3204000012300099
+TCD,hosting,Central Bank,,Banque des États de l'Afrique Centrale,no line,
+TCD,hosting,Civil registry / National ID authority,civil-registration-id,Agence Nationale des Titres Sécurisés,no line,
+TCD,hosting,Electoral commission,electoral-register,Agence Nationale de Gestion des Élections,no line,
+TCD,hosting,Statistics office,statistics,Institut National de la Statistique et des Études Économiques et Démographiques,no line,
+TCD,hosting,Health ministry / National health insurance,,Ministère de la Santé publique,no line,
+TCD,hosting,Social protection / Social registry,social-registry,Caisse Nationale de Prévoyance Sociale,no line,
+TCD,hosting,Social protection / Social registry,social-registry,Caisse Nationale de Prévoyance Sociale (site alternatif),no line,
+TCD,hosting,Securities regulator,,Commission de Surveillance du Marché Financier de l'Afrique Centrale,no line,
+TCD,hosting,Public procurement authority,procurement,Autorité de Régulation des Marchés Publics,no line,
+TCD,hosting,E-government agency,ict-ministry-egov,Agence de Développement des Technologies de l'Information et de la Communication,no line,
+TCD,hosting,E-government agency,ict-ministry-egov,Portail officiel du Gouvernement tchadien,no line,
+TCD,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence Nationale de Sécurité Informatique et de Certification Électronique,line,tcd-2024-32-090-3204000012300099
+TCD,hosting,Communications regulator,communications-regulator,Autorité de Régulation des Communications Électroniques et des Postes,no line,
+TCD,hosting,Audit office,,Cour des comptes,no line,
+TCD,hosting,Anti-corruption commission,,Autorité Indépendante de Lutte contre la Corruption,no line,
+TCD,deal-recipient,Public Sector,,Republic of Chad,no line,
+TGO,hosting,Presidency,,Présidence de la République togolaise,no line,
+TGO,hosting,Presidency,,Présidence du Conseil,no line,
+TGO,hosting,Parliament,,Assemblée nationale,no line,
+TGO,hosting,Foreign Affairs,,Ministère des Affaires étrangères,no line,
+TGO,hosting,Defence,,Ministère de la Défense nationale,no line,
+TGO,hosting,Justice,,Ministère de la Justice et des Droits humains,line,tgo-2024-420-027-1171011119000
+TGO,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances et du Budget,line,tgo-2024-210-003-1131080570000
+TGO,hosting,Treasury / Finance,treasury-fmis,Direction générale du Trésor et de la Comptabilité publique,no line,
+TGO,hosting,Revenue Service,revenue-systems,Office togolais des recettes,no line,
+TGO,hosting,Interior / Home Affairs,,Ministère de la Sécurité et de la Protection civile,no line,
+TGO,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
+TGO,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale d'identification,line,tgo-2024-870-100-1131011117000
+TGO,hosting,Data protection authority,data-protection,Instance de protection des données à caractère personnel,line,tgo-2025-870-098-1131081483000
+TGO,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante,no line,
+TGO,hosting,Statistics office,statistics,Institut national de la statistique et des études économiques et démographiques,line,tgo-2024-220-010-1391080071000
+TGO,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Hygiène publique,line,tgo-2024-610-042-1131080237002
+TGO,hosting,Health ministry / National health insurance,,Institut national d'assurance maladie,no line,
+TGO,hosting,Social protection / Social registry,social-registry,Caisse nationale de sécurité sociale,no line,
+TGO,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
+TGO,hosting,Public procurement authority,procurement,Autorité de régulation de la commande publique,no line,
+TGO,hosting,Energy utility,,Compagnie énergie électrique du Togo,no line,
+TGO,hosting,Ports authority,,Port autonome de Lomé,line,tgo-2024-813-074-1171010980000
+TGO,hosting,State-owned telco / National backbone operator,,Togocom,no line,
+TGO,hosting,E-government agency,ict-ministry-egov,Agence Togo Digital,line,tgo-2024-420-027-1171011119000
+TGO,hosting,E-government agency,ict-ministry-egov,Portail du gouvernement (zone gouv.tg),no line,
+TGO,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence nationale de la cybersécurité,line,tgo-2024-870-100-1131011116000
+TGO,hosting,Cybersecurity agency / National CERT,cybersecurity,CERT.tg,no line,
+TGO,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et des postes,no line,
+TGO,hosting,Audit office,,Cour des comptes,no line,
+TGO,hosting,Anti-corruption commission,,HAPLUCIA,no line,
+TGO,deal-recipient,PPP,,Cyber Defense Africa,no line,
+TGO,deal-recipient,Public Sector,,Togo,no line,
+TGO,deal-recipient,Public Sector,,Togolese Republic,no line,
+TGO,deal-recipient,Private Sector,,Togocom (Axian Group subsidiary),no line,
+TUN,hosting,Presidency,,Présidence de la République tunisienne,no line,
+TUN,hosting,Parliament,,Assemblée des représentants du peuple,no line,
+TUN,hosting,Foreign Affairs,,Ministère des Affaires étrangères,no line,
+TUN,hosting,Defence,,Ministère de la Défense nationale,no line,
+TUN,hosting,Justice,,Ministère de la Justice,line,tun-2024-06-1-1-fund-605-0003
+TUN,hosting,Treasury / Finance,treasury-fmis,Ministère des Finances,line,tun-2025-16-1-fdctit
+TUN,hosting,Revenue Service,revenue-systems,Direction générale des impôts,line,tun-2025-16-1-fdctit
+TUN,hosting,Customs,,Direction générale des douanes,no line,
+TUN,hosting,Interior / Home Affairs,,Ministère de l'Intérieur,no line,
+TUN,hosting,Central Bank,,Banque centrale de Tunisie,no line,
+TUN,hosting,Data protection authority,data-protection,Instance nationale de protection des données personnelles,line,tun-2024-04-1-1-inpdp
+TUN,hosting,Electoral commission,electoral-register,Instance supérieure indépendante pour les élections,no line,
+TUN,hosting,Statistics office,statistics,Institut national de la statistique,line,tun-2024-11-1-1-ins-it-master-plan
+TUN,hosting,Health ministry / National health insurance,,Ministère de la Santé,no line,
+TUN,hosting,Health ministry / National health insurance,,Caisse nationale d'assurance maladie,no line,
+TUN,hosting,Social protection / Social registry,social-registry,Ministère des Affaires sociales,no line,
+TUN,hosting,Social protection / Social registry,social-registry,Caisse nationale de sécurité sociale,no line,
+TUN,hosting,Land registry,land-registry,Office de la topographie et du cadastre,no line,
+TUN,hosting,Securities regulator,,Conseil du marché financier,no line,
+TUN,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de retraite et de prévoyance sociale,no line,
+TUN,hosting,Public procurement authority,procurement,TUNEPS (Haute instance de la commande publique),no line,
+TUN,hosting,Energy utility,,Société tunisienne de l'électricité et du gaz,no line,
+TUN,hosting,Ports authority,,Office de la marine marchande et des ports,no line,
+TUN,hosting,State-owned telco / National backbone operator,,Tunisie Télécom,no line,
+TUN,hosting,E-government agency,ict-ministry-egov,Portail national du gouvernement tunisien,no line,
+TUN,hosting,National data centre / Government cloud operator,,Centre national de l'informatique,no line,
+TUN,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence nationale de la sécurité informatique,no line,
+TUN,deal-recipient,Public Sector,,Office of the Prime Minister of Tunisia,no line,
+TUN,deal-recipient,Public Sector,,Tunisie Telecom S.A.,no line,
+TZA,hosting,Presidency,,State House (Ikulu),line,tza-2024-004-1004
+TZA,hosting,Parliament,,Parliament of the United Republic of Tanzania,line,tza-2024-042-1003-6360
+TZA,hosting,Foreign Affairs,,Ministry of Foreign Affairs and East African Cooperation,line,tza-2024-034-1016
+TZA,hosting,Defence,,Ministry of Defence and National Service,line,tza-2024-057-1009
+TZA,hosting,Police,,Tanzania Police Force,no line,
+TZA,hosting,Justice,,Ministry of Constitutional and Legal Affairs,line,tza-2024-041-1007
+TZA,hosting,Justice,,Judiciary of Tanzania,line,tza-2024-040-1005
+TZA,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance,line,tza-2024-050-6001
+TZA,hosting,Revenue Service,revenue-systems,Tanzania Revenue Authority,line,tza-2024-021-2002-6255
+TZA,hosting,Interior / Home Affairs,,Ministry of Home Affairs,line,tza-2024-029-1007
+TZA,hosting,Central Bank,,Bank of Tanzania,no line,
+TZA,hosting,Civil registry / National ID authority,civil-registration-id,National Identification Authority,line,tza-2024-051-26311148
+TZA,hosting,Data protection authority,data-protection,Personal Data Protection Commission,line,tza-2024-068-26311556
+TZA,hosting,Electoral commission,electoral-register,Independent National Electoral Commission,line,tza-2026-061-2002
+TZA,hosting,Statistics office,statistics,National Bureau of Statistics,line,tza-2024-002-1005
+TZA,hosting,Immigration / Passports,,Tanzania Immigration Services Department,no line,
+TZA,hosting,Health ministry / National health insurance,,Ministry of Health,line,tza-2024-052-1008
+TZA,hosting,Health ministry / National health insurance,,National Health Insurance Fund,no line,
+TZA,hosting,Social protection / Social registry,social-registry,Tanzania Social Action Fund,no line,
+TZA,hosting,Land registry,land-registry,Ministry of Lands Housing and Human Settlements Development,line,tza-2024-048-1004
+TZA,hosting,Securities regulator,,Capital Markets and Securities Authority,no line,
+TZA,hosting,Sovereign wealth fund / National pension fund,,National Social Security Fund,no line,
+TZA,hosting,Sovereign wealth fund / National pension fund,,Public Service Social Security Fund,no line,
+TZA,hosting,Public procurement authority,procurement,Public Procurement Regulatory Authority,no line,
+TZA,hosting,Public procurement authority,procurement,National e-Procurement System of Tanzania (NeST),no line,
+TZA,hosting,Energy utility,,Tanzania Electric Supply Company,no line,
+TZA,hosting,Ports authority,,Tanzania Ports Authority,no line,
+TZA,hosting,State-owned telco / National backbone operator,,Tanzania Telecommunications Corporation,no line,
+TZA,hosting,E-government agency,ict-ministry-egov,e-Government Authority,no line,
+TZA,hosting,Cybersecurity agency / National CERT,cybersecurity,TZ-CERT,no line,
+TZA,hosting,Communications regulator,communications-regulator,Tanzania Communications Regulatory Authority,no line,
+TZA,hosting,Audit office,,National Audit Office of Tanzania,line,tza-2024-045-1012
+TZA,hosting,Anti-corruption commission,,Prevention and Combating of Corruption Bureau,no line,
+TZA,deal-recipient,Private Sector,,Funguo Investees Cohort 5,no line,
+TZA,deal-recipient,Public Sector,,Government of Tanzania,no line,
+TZA,deal-recipient,Private Sector,,NALA,no line,
+TZA,deal-recipient,Private Sector,,Vodacom Tanzania PLC,no line,
+TZA,deal-recipient,Public Sector,,ZICTIA / Zanzibar,no line,
+TZA,deal-recipient,Private Sector,,"Aptus Solutions Limited, trading as GOfiber",no line,
+TZA,deal-recipient,NGO,,Stichting BRAC International,no line,
+TZA,deal-recipient,NGO,,"Financial Sector Deepening, Tanzania",no line,
+TZA,deal-recipient,Private Sector,,Airtel Money Tanzania,no line,
+TZA,deal-recipient,Private Sector,,Helios Towers PLC / TowerCo of Africa Tanzania (TOA Tanzania),no line,
+TZA,deal-recipient,Public Sector,,Bank of Tanzania,no line,
+TZA,deal-recipient,Private Sector,,Mawingu Networks Ltd (Tanzania expansion,no line,
+UGA,hosting,Presidency,,State House Uganda,no line,
+UGA,hosting,Parliament,,Parliament of Uganda,line,uga-2024-104-20-01-01-007
+UGA,hosting,Foreign Affairs,,Ministry of Foreign Affairs,line,uga-2024-006-16-01-001-000019
+UGA,hosting,Defence,,Ministry of Defence and Veteran Affairs,no line,
+UGA,hosting,Armed Forces,,Uganda People's Defence Force,no line,
+UGA,hosting,Police,,Uganda Police Force,line,uga-2024-144-16-01-03-006
+UGA,hosting,Justice,,Ministry of Justice and Constitutional Affairs,line,uga-2024-101-19-01-02-013
+UGA,hosting,Justice,,Judiciary of Uganda,line,uga-2024-101-19-01-02-013
+UGA,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance Planning and Economic Development,line,uga-2024-008-18-04-08-004
+UGA,hosting,Revenue Service,revenue-systems,Uganda Revenue Authority,line,uga-2024-011-14-01-02-1704
+UGA,hosting,Interior / Home Affairs,,Ministry of Internal Affairs,line,uga-2024-009-16-04-001-000019
+UGA,hosting,Central Bank,,Bank of Uganda,no line,
+UGA,hosting,Civil registry / National ID authority,civil-registration-id,National Identification and Registration Authority,line,uga-2024-137-14-05-01-001
+UGA,hosting,Data protection authority,data-protection,Personal Data Protection Office,line,uga-2024-126-11-04-01-001
+UGA,hosting,Electoral commission,electoral-register,Electoral Commission of Uganda,line,uga-2024-102-16-06-02-001
+UGA,hosting,Statistics office,statistics,Uganda Bureau of Statistics,line,uga-2024-143-18-01-02-001
+UGA,hosting,Immigration / Passports,,Directorate of Citizenship and Immigration Control,line,uga-2024-120-16-02-01-002
+UGA,hosting,Health ministry / National health insurance,,Ministry of Health,line,uga-2024-014-12-02-002-320064
+UGA,hosting,Social protection / Social registry,social-registry,Ministry of Gender Labour and Social Development,line,uga-2025-018-12-01-001-000019
+UGA,hosting,Land registry,land-registry,Ministry of Lands Housing and Urban Development,line,uga-2024-012-06-02-02-003
+UGA,hosting,Securities regulator,,Capital Markets Authority,no line,
+UGA,hosting,Sovereign wealth fund / National pension fund,,National Social Security Fund,no line,
+UGA,hosting,Public procurement authority,procurement,Public Procurement and Disposal of Public Assets Authority,line,uga-2024-153-16-02-1621-000003-312423
+UGA,hosting,Energy utility,,Uganda Electricity Transmission Company,no line,
+UGA,hosting,E-government agency,ict-ministry-egov,National Information Technology Authority Uganda,line,uga-2024-101-19-01-02-013
+UGA,hosting,Cybersecurity agency / National CERT,cybersecurity,Uganda National CERT/CC,no line,
+UGA,hosting,Communications regulator,communications-regulator,Uganda Communications Commission,line,uga-2024-104-20-01-01-007
+UGA,hosting,Audit office,,Office of the Auditor General,no line,
+UGA,hosting,Anti-corruption commission,,Inspectorate of Government,line,uga-2026-103-16-02-001-000019
+UGA,deal-recipient,Public Sector,,Government of Uganda / Ministry of Health,line,uga-2024-014-12-02-002-320064
+UGA,deal-recipient,NGO,,Misean Cara,no line,
+UGA,deal-recipient,Multi-stakeholder,,Acumen; Shell Foundation; Climate Policy Initiative; Bill & Melinda Gates Foundation,no line,
+ZAF,hosting,Presidency,,The Presidency,no line,
+ZAF,hosting,Parliament,,Parliament of the Republic of South Africa,no line,
+ZAF,hosting,Foreign Affairs,,Department of International Relations and Cooperation (DIRCO),no line,
+ZAF,hosting,Defence,,Department of Defence and SANDF,no line,
+ZAF,hosting,Police,,South African Police Service,no line,
+ZAF,hosting,Justice,,Department of Justice and Constitutional Development,line,zaf-2024-25-5-justice-modernisation
+ZAF,hosting,Justice,,Office of the Chief Justice / Judiciary,no line,
+ZAF,hosting,Treasury / Finance,treasury-fmis,National Treasury,line,zaf-2024-8-5-financial-systems
+ZAF,hosting,Revenue Service,revenue-systems,South African Revenue Service,line,zaf-2024-8-8-south-african-revenue-service
+ZAF,hosting,Intelligence,,State Security Agency,line,zaf-2024-11-4-ict-governance-and-management
+ZAF,hosting,Interior / Home Affairs,,Department of Home Affairs,line,zaf-2024-5-1-transversal-information-technology-management
+ZAF,hosting,Central Bank,,South African Reserve Bank,no line,
+ZAF,hosting,Data protection authority,data-protection,Information Regulator,line,zaf-2024-25-5-information-regulator
+ZAF,hosting,Electoral commission,electoral-register,Electoral Commission of South Africa (IEC),no line,
+ZAF,hosting,Statistics office,statistics,Statistics South Africa,line,zaf-2024-14-5-business-modernisation
+ZAF,hosting,Health ministry / National health insurance,,National Department of Health,line,zaf-2024-14-3-health-and-vital-statistics
+ZAF,hosting,Social protection / Social registry,social-registry,South African Social Security Agency (SASSA),line,zaf-2026-19-3-sassa-business-intelligence
+ZAF,hosting,Social protection / Social registry,social-registry,Department of Social Development,line,zaf-2026-19-3-sassa-business-intelligence
+ZAF,hosting,Land registry,land-registry,Department of Land Reform and Rural Development (Deeds Office),line,zaf-2025-42-2-south-african-spatial-data-infrastructure
+ZAF,hosting,Securities regulator,,Financial Sector Conduct Authority,no line,
+ZAF,hosting,Sovereign wealth fund / National pension fund,,Public Investment Corporation,no line,
+ZAF,hosting,Sovereign wealth fund / National pension fund,,Government Employees Pension Fund,no line,
+ZAF,hosting,Public procurement authority,procurement,National Treasury eTender portal,no line,
+ZAF,hosting,Energy utility,,Eskom,no line,
+ZAF,hosting,Ports authority,,Transnet,no line,
+ZAF,hosting,State-owned telco / National backbone operator,,Telkom,no line,
+ZAF,hosting,State-owned telco / National backbone operator,,Broadband Infraco,no line,
+ZAF,hosting,State-owned telco / National backbone operator,,Sentech,no line,
+ZAF,hosting,E-government agency,ict-ministry-egov,Government portal (GCIS),no line,
+ZAF,hosting,E-government agency,ict-ministry-egov,Department of Communications and Digital Technologies,line,zaf-2024-30-2-international-affairs
+ZAF,hosting,National data centre / Government cloud operator,,State Information Technology Agency (SITA),line,zaf-2024-5-1-transversal-information-technology-management
+ZAF,hosting,Cybersecurity agency / National CERT,cybersecurity,Cybersecurity Hub (national CSIRT),no line,
+ZAF,hosting,Communications regulator,communications-regulator,ICASA,line,zaf-2024-30-4-regulatory-institutions
+ZAF,hosting,Audit office,,Auditor-General of South Africa,no line,
+ZAF,hosting,Anti-corruption commission,,Special Investigating Unit,line,zaf-2024-25-5-special-investigating-unit
+ZAF,hosting,Anti-corruption commission,,Public Protector,no line,
+ZAF,deal-recipient,Private Sector,,Jem,no line,
+ZAF,deal-recipient,Private Sector,,Moment,no line,
+ZAF,deal-recipient,Private Sector,,Shop2Shop / FintechCo,no line,
+ZAF,deal-recipient,NGO,,WeThinkCode,no line,
+ZAF,deal-recipient,Private Sector,,Microsoft Azure South Africa,no line,
+ZAF,deal-recipient,Private Sector,,Tennsa,no line,
+ZAF,deal-recipient,Public Sector,,Telkom AI Institute,no line,
+ZAF,deal-recipient,Private Sector,,"Open Access Data Centres (OADC), a WIOCC subsidiary",no line,
+ZAF,deal-recipient,Private Sector,,Naked Insurance (Naked Financial Technology Pty Ltd),no line,
+ZAF,deal-recipient,Private Sector,,Google South Africa,no line,
+ZAF,deal-recipient,Private Sector,,Teraco,no line,
+ZAF,deal-recipient,Private Sector,,Swiftnet (Towerco Bidco),no line,
+ZAF,deal-recipient,Private Sector,,Africa Data Centres (South Africa) (Pty) Ltd,no line,
+ZAF,deal-recipient,Private Sector,,Too Much Wifi (Pty) Ltd,no line,
+ZAF,deal-recipient,Private Sector,,Liquid Intelligent Technologies South Africa (Pty) Ltd,no line,
+ZAF,deal-recipient,Private Sector,,Africa Data Centres (Cassava Technologies),no line,
+ZMB,hosting,Presidency,,State House,no line,
+ZMB,hosting,Parliament,,National Assembly of Zambia,no line,
+ZMB,hosting,Foreign Affairs,,Ministry of Foreign Affairs,no line,
+ZMB,hosting,Defence,,Ministry of Defence,line,zmb-2024-77-4199-9006
+ZMB,hosting,Police,,Zambia Police Service,line,zmb-2024-11-4199-049
+ZMB,hosting,Justice,,Ministry of Justice,no line,
+ZMB,hosting,Justice,,Judiciary of Zambia,no line,
+ZMB,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance and National Planning,line,zmb-2024-21-3440-002-02-02-13
+ZMB,hosting,Revenue Service,revenue-systems,Zambia Revenue Authority,line,zmb-2024-21-3440-002-02-02-15
+ZMB,hosting,Interior / Home Affairs,,Ministry of Home Affairs and Internal Security,line,zmb-2024-15-4176-02-02-15
+ZMB,hosting,Central Bank,,Bank of Zambia,no line,
+ZMB,hosting,Civil registry / National ID authority,civil-registration-id,Department of National Registration Passport and Citizenship,no line,
+ZMB,hosting,Electoral commission,electoral-register,Electoral Commission of Zambia,line,zmb-2024-05-3499-054
+ZMB,hosting,Statistics office,statistics,Zambia Statistics Agency,line,zmb-2024-80-5599-9007
+ZMB,hosting,Immigration / Passports,,Department of Immigration,no line,
+ZMB,hosting,Health ministry / National health insurance,,Ministry of Health,line,zmb-2024-39-3415-5002
+ZMB,hosting,Health ministry / National health insurance,,National Health Insurance Management Authority,no line,
+ZMB,hosting,Social protection / Social registry,social-registry,Ministry of Community Development and Social Services,no line,
+ZMB,hosting,Land registry,land-registry,Ministry of Lands and Natural Resources,no line,
+ZMB,hosting,Securities regulator,,Securities and Exchange Commission Zambia,no line,
+ZMB,hosting,Sovereign wealth fund / National pension fund,,National Pension Scheme Authority,no line,
+ZMB,hosting,Public procurement authority,procurement,Zambia Public Procurement Authority,line,zmb-2024-39-3499-9005
+ZMB,hosting,Energy utility,,ZESCO Limited,no line,
+ZMB,hosting,State-owned telco / National backbone operator,,Zamtel,no line,
+ZMB,hosting,E-government agency,ict-ministry-egov,Smart Zambia Institute,line,zmb-2024-39-3415-5001
+ZMB,hosting,Communications regulator,communications-regulator,Zambia Information and Communications Technology Authority,line,zmb-2024-66-2152-001
+ZMB,hosting,Audit office,,Office of the Auditor General,no line,
+ZMB,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
+ZMB,deal-recipient,Public Sector,,"Zambia Statistics Agency (ZamStats), channelled through the Ministry of Finance",no line,
+ZMB,deal-recipient,Public Sector,,Zambia Statistics Agency (ZamStats),line,zmb-2024-80-5599-9007
+ZMB,deal-recipient,NGO,,Misean Cara,no line,
+ZMB,deal-recipient,Private Sector,,PricewaterhouseCoopers Zambia,no line,
+ZMB,deal-recipient,Public Sector,,Republic of Zambia,no line,
+ZWE,hosting,Presidency,,Office of the President and Cabinet,line,zwe-2024-1-2-national-data-centre
+ZWE,hosting,Parliament,,Parliament of Zimbabwe,no line,
+ZWE,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Trade,no line,
+ZWE,hosting,Defence,,Ministry of Defence and War Veterans,no line,
+ZWE,hosting,Police,,Zimbabwe Republic Police,no line,
+ZWE,hosting,Justice,,Ministry of Justice Legal and Parliamentary Affairs,line,zwe-2024-19-4
+ZWE,hosting,Justice,,Judicial Service Commission,line,zwe-2024-29-2-iecms
+ZWE,hosting,Treasury / Finance,treasury-fmis,Ministry of Finance Economic Development and Investment Promotion,line,zwe-2024-5-3-zimra-asycuda
+ZWE,hosting,Revenue Service,revenue-systems,Zimbabwe Revenue Authority,line,zwe-2024-5-3-zimra-asycuda
+ZWE,hosting,Interior / Home Affairs,,Ministry of Home Affairs and Cultural Heritage,line,zwe-2024-18-2
+ZWE,hosting,Central Bank,,Reserve Bank of Zimbabwe,no line,
+ZWE,hosting,Civil registry / National ID authority,civil-registration-id,Registrar General of Zimbabwe,line,zwe-2024-18-2
+ZWE,hosting,Electoral commission,electoral-register,Zimbabwe Electoral Commission,line,zwe-2024-36-1-sp6
+ZWE,hosting,Statistics office,statistics,Zimbabwe National Statistics Agency,no line,
+ZWE,hosting,Immigration / Passports,,Department of Immigration,no line,
+ZWE,hosting,Health ministry / National health insurance,,Ministry of Health and Child Care,no line,
+ZWE,hosting,Social protection / Social registry,social-registry,Ministry of Public Service Labour and Social Welfare,line,zwe-2024-3-3-social-welfare-mis
+ZWE,hosting,Securities regulator,,Securities and Exchange Commission of Zimbabwe,no line,
+ZWE,hosting,Sovereign wealth fund / National pension fund,,National Social Security Authority,no line,
+ZWE,hosting,Public procurement authority,procurement,Procurement Regulatory Authority of Zimbabwe,no line,
+ZWE,hosting,Energy utility,,Zimbabwe Electricity Supply Authority,no line,
+ZWE,hosting,State-owned telco / National backbone operator,,TelOne,no line,
+ZWE,hosting,E-government agency,ict-ministry-egov,Ministry of Information Communication Technology Postal and Courier Services,line,zwe-2024-23-2-sp1
+ZWE,hosting,National data centre / Government cloud operator,,Government Internet Service Provider (GISP),no line,
+ZWE,hosting,Communications regulator,communications-regulator,Postal and Telecommunications Regulatory Authority of Zimbabwe,no line,
+ZWE,hosting,Audit office,,Office of the Auditor-General of Zimbabwe,line,zwe-2024-6-1-sp3
+ZWE,hosting,Anti-corruption commission,,Zimbabwe Anti-Corruption Commission,no line,
+ZWE,deal-recipient,Research,,Biomedical Research and Training Institute (BRTI),no line,
