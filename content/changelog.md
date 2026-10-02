@@ -1,5 +1,6 @@
 ## 2 October 2026
 
+- Ghana's budget table gains the Controller and Accountant-General's ICT directorate for 2025 and 2026 (GHS 6.7m and 9.0m) and the Treasury's GHS 27.5m for the Births and Deaths Registry in 2026. Fifteen more lines from the ministry volumes that arrived today wait for the next catalogue build.
 - Mauritius's budget table for 2025-26 and 2026-27 now covers every ministry: 132 lines added, about MUR 1.0bn a year. The largest are the e-Social Security system, hospital digitalisation, the e-licensing project and the land information system; before, only the ICT ministry, the Prime Minister's Office, the Treasury and statistics were read for those years.
 - Kenya's budget table gains 34 more project lines from the development estimates of twelve other votes, about KES 1.0bn to 1.5bn a year. The largest are the automation of the courts (KES 700m, 449m and 400m) and of the State Law Office, the health information system and ICT in schools and missions.
 - Kenya's budget table now carries the Treasury's digital projects from the development estimates: the IFMIS financial system (KES 744m, 319m and 1.21bn over the three years), e-procurement, the pensions system and six smaller ones in 2024/25. They were left out while those volumes were uncatalogued.
