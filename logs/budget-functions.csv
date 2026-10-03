@@ -18,15 +18,15 @@ BDI,civil-registration-id,found,partial,3,bdi-2024-11-002-66110-0311-02,,rows,,
 BDI,communications-regulator,found,partial,3,bdi-2024-01-004,Agence de régulation et de contrôle des télécommunications,rows,,
 BDI,ict-ministry-egov,found,whole,18,bdi-2024-21-001-21440-0461-01,Gouvernement du Burundi (zone parente),rows,,
 BDI,cybersecurity,found,partial,3,bdi-2024-32-001-62580-0919-01,,rows,,
-BDI,data-protection,not looked,,,,,,,
+BDI,data-protection,absent,,,,,hand,"Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25): no line names personal data or a data protection body.",2026-10-03
 BDI,revenue-systems,found,partial,8,bdi-2026-14-063-61610-0121-01,Office burundais des recettes,rows,,
-BDI,treasury-fmis,not looked,,,,"Ministère des Finances, du Budget et de l'Économie numérique",,,
-BDI,procurement,not looked,,,,Autorité de régulation des marchés publics,,,
-BDI,electoral-register,not looked,,,,Commission électorale nationale indépendante,,,
+BDI,treasury-fmis,found,whole,1,bdi-2026-14-042-62340-0121-01,"Ministère des Finances, du Budget et de l'Économie numérique",hand,FY2026: the debt and treasury directorate's contract for its debt management system is the one treasury system line Tableau D prints; no line names an integrated financial management system.,2026-10-03
+BDI,procurement,absent,,,,Autorité de régulation des marchés publics,hand,"FY2024 to FY2026: the procurement regulator is service 054 of the finance ministry, printed as pay and running costs; no line names an e-procurement system. Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25).",2026-10-03
+BDI,electoral-register,absent,,,,Commission électorale nationale indépendante,hand,"FY2024 to FY2026: the electoral commission is institution 08, printed as two lines, its running costs and a provision for elections; no line names a voter register. Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25).",2026-10-03
 BDI,land-registry,found,partial,1,bdi-2025-16-017-21430-0339-01,,rows,,
-BDI,social-registry,not looked,,,,,,,
-BDI,population-register,not looked,,,,,,,
-BDI,data-exchange,not looked,,,,,,,
+BDI,social-registry,absent,,,,,hand,"Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25): no line names a social registry.",2026-10-03
+BDI,population-register,absent,,,,,hand,"Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25): no line names a population register; the census lines are held under statistics.",2026-10-03
+BDI,data-exchange,absent,,,,,hand,"Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25): no line names interoperability or a data exchange.",2026-10-03
 BEN,statistics,found,whole,13,ben-2024-016-035-035002012,Institut national de la statistique et de la démographie (INStaD),rows,,
 BEN,civil-registration-id,found,whole,4,ben-2024-009-010002-1192,Agence nationale d'identification des personnes (ANIP),rows,,
 BEN,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et de la poste (ARCEP),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: the regulator (ARCEP) appears as a source of indicators and in one line for building the regulators' shared headquarters (6bn), a building line",2026-10-02
