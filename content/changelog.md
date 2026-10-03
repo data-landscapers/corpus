@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- The National budgets page now lists, country by country, the functions looked for in the budget documents and not found, with the date. A gap in the table can now be read as either not there or not yet looked for.
 - Every table's first 100 rows are now part of the page itself. The table reads as the page opens, before its data file arrives, and with JavaScript off.
 - Tables now open on 100 rows, with a *Show 100 more* button beneath. Filter, sort and search still cover every row; the browser's own find reaches only the rows shown.
 - Non-state finance has a new column, `african`: African or non-African, by the financier. It is a filter on every non-state finance table.

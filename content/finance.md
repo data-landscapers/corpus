@@ -8,6 +8,8 @@ Three pages built by `scripts/finance.py` under one toc bar: `site/finance/all/i
 
 `budgets-intro` is what a reader meets before the budget table. Like `non-state-intro`, it carries no count: the page prints its own.
 
+`budgets-absences` opens the table under it of functions looked for and not found, which `finance.py` prints from `logs/budget-functions.csv`.
+
 The `dataset-*` blocks are not shown on the page: they are the descriptions in the `Dataset` structured data `finance.py` and `country.py` write into the head, which is what a reader meets in a dataset search before they have clicked anything. They live here because they are prose a reader reads. Each has to carry on its own the caveat the page spends a paragraph on — these are **commitments**, not disbursements, and a total of them is not a market size — because whoever sees one has not seen the page. Keep them between 50 and 5,000 characters, which is what a dataset search will take.
 
 ## non-state-intro
@@ -33,6 +35,10 @@ Some lines are only partly digital: a ministry's IT directorate, for example, wh
 We parse each line's programme and sub-programme text to arrive at a primary topic categorisation based on [our taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics). This is our assessment, not the government's.
 
 Click any row to see more. Where each figure is printed, and our notes on it, are in the CSV download. The table is updated automatically when new documents are discovered.
+
+## budgets-absences
+
+Fourteen functions of a digital state are looked for in every country's budget documents, from the statistics office to the revenue service. A function listed here has no budget line of its own in the documents read. That is not the same as unfunded: the money may sit inside a larger line, or outside the general budget.
 
 ## all-intro
 

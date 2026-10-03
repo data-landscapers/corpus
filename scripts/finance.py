@@ -327,6 +327,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
       </noscript>
     </div>
 
+{absences}
     <div class="colophon">
       <strong>About this table</strong>
       <dl>
@@ -374,6 +375,63 @@ def budgets_dataset(rows: list[dict], meta: list[dict], csv_path: Path, edition:
         extra_keywords=("Government budgets", "Public finance", "Digital transformation"))
 
 
+FUNCTIONS_LOG = CORPUS / "logs" / "budget-functions.csv"
+
+
+# The fourteen functions as a reader meets them, in the order `budget-functions.py` looks
+# for them. Its own labels are the hosting dataset's institution types, and here they would
+# mislead: "no line found for Treasury / Finance" is false of every country, where "treasury
+# and budget systems" is the thing that was looked for.
+FUNCTION_LABELS = {
+    "statistics": "statistics office",
+    "civil-registration-id": "civil registry and national ID",
+    "communications-regulator": "communications regulator",
+    "ict-ministry-egov": "ICT ministry or e-government agency",
+    "cybersecurity": "cybersecurity agency",
+    "data-protection": "data protection authority",
+    "revenue-systems": "tax and customs systems",
+    "treasury-fmis": "treasury and budget systems",
+    "procurement": "public procurement system",
+    "electoral-register": "electoral register",
+    "land-registry": "land registry",
+    "social-registry": "social registry",
+    "population-register": "population register",
+    "data-exchange": "data exchange",
+}
+
+
+def absences_html(used: list[str], names: dict) -> str:
+    """What was looked for in a country's budget documents and not found, with the date.
+
+    A table with no line for a country's revenue service reads two ways: nobody looked, or
+    somebody looked and it is not there. `logs/budget-functions.csv` holds which, and this
+    prints the second *(the share's `budget-data-review.md`, section 5)*. One row a country
+    and date, for the countries the table above carries; a function not yet looked for is
+    not listed, because nothing is known about it."""
+    if not FUNCTIONS_LOG.exists():
+        return ""
+    labels, order = FUNCTION_LABELS, list(FUNCTION_LABELS)
+    found: dict[tuple[str, str], list[str]] = {}
+    with FUNCTIONS_LOG.open(encoding="utf-8-sig", newline="") as f:
+        for r in csv.DictReader(f):
+            if r["status"] == "absent" and r["iso3"] in used and r["function"] in labels:
+                found.setdefault((names.get(r["iso3"], r["iso3"]), r["looked"]), []).append(r["function"])
+    if not found:
+        return ""
+    rows = []
+    for (country, looked), fns in sorted(found.items()):
+        said = "; ".join(labels[f] for f in sorted(fns, key=order.index))
+        said = said[0].upper() + said[1:]
+        rows.append(f'      <tr><th>{html.escape(country)}</th><td>{html.escape(said)}</td>'
+                    f'<td class="num">{html.escape(looked)}</td></tr>')
+    return ('    <h2 class="section-heading" id="not-found">Looked for and not found</h2>\n\n'
+            + indent(copy("finance", "budgets-absences")) + "\n\n"
+            '    <div class="table-scroll"><table class="pivot">\n'
+            '      <thead><tr><th>Country</th><th>No budget line found for</th>'
+            '<th class="num">Looked</th></tr></thead>\n      <tbody>\n'
+            + "\n".join(rows) + "\n      </tbody>\n    </table></div>\n")
+
+
 def publish_budgets(out: Path, names: dict) -> None:
     """`/finance/budgets/`: the intro, then every budget line in one table *(Bill, 2026-09-30)*.
 
@@ -417,6 +475,7 @@ def publish_budgets(out: Path, names: dict) -> None:
         edition_rows=edition_rows,
         jsonld=budgets_dataset(rows, meta, csv_path, edition, years),
         toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")),
+        absences=absences_html(used, names),
         csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
         cols=", ".join(shown[:BUDGET_TABLE_COLS]), detail=", ".join(shown),
         table_csv=editions.versioned(BUDGET_TABLE_CSV, table),
