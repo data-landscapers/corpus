@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Kenya's budget tables gain a revised figure for nine recurrent lines and four more development projects, read from the following year's estimates. Voter registration was cut from KES 68.4m to 54.0m in 2024/25 and raised to KES 2.57bn in 2025/26.
 - Mauritius's budget tables gain nine lines that one year held and the other did not: six for 2025/26, the largest the digitisation of archives and the Tourism Authority's information system (Rs 6.5m each), and three for 2026/27, the largest equipment for early digital learning (Rs 32m). A check of each year's lines against the other found them.
 - Lesotho's five 2024/25 projects and two Liberian bodies for 2025 now show a revised figure, from the governments' mid-year reviews. Lesotho's were unchanged at mid-year; Liberia's statistics institute lost USD 7,200 to transfers.
 - Botswana's 2024/25 budget table gains the Universal Access and Service Fund, from its own accounts: BWP 111.3m spent, up from 76.4m. It is fed by a levy on operators outside the budget and ran a BWP 11.5m deficit.
