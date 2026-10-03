@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Lesotho's 2024/25 budget table now shows what was appropriated beside what was spent, for seven lines that showed spending only. The national identity and civil registry was voted LSL 234.2m and spent 205.6m.
 - The Gambia's 2025 and 2026 budget tables now show what the government proposed beside what was approved, for all 45 lines. Four changed on the way: in 2026 the IFMIS development project went from nothing to GMD 20m and internal audit software from GMD 0.4m to 2.1m.
 - Mali's 2024 budget table now shows, for 28 of its 35 lines, how much of the budget the finance ministry released for spending. Six investment lines had nothing released by July 2024, among them the government secretariat's modernisation and the payroll software.
 - Mauritania's budget tables for 2024, 2025 and 2026 now show what the government proposed beside what was enacted, for 305 lines. Every one was enacted at the figure the finance bill proposed.
