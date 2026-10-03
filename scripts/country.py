@@ -347,7 +347,8 @@ def publish_budget_csv(iso: str, out_dir: Path) -> dict[str, str]:
             path.write_bytes(body)
         rows = (f'        <dt>This file</dt><dd><a href="{path.name}">{path.name}</a>'
                 f' &mdash; updated as the data changes</dd>')
-    return {"csv_name": path.name, "csv_edition": edition, "csv_bytes": len(body),
+    return {"csv_name": path.name, "csv_src": editions.versioned(path.name, body),
+            "csv_edition": edition, "csv_bytes": len(body),
             "edition_rows": rows, "artefacts": artefacts}
 
 
@@ -777,7 +778,7 @@ BUDGETS_PAGE = """<!DOCTYPE html>
     <p>{intro}</p>
 
     <div class="dl-datatable"
-      data-src="{csv_name}"
+      data-src="{csv_src}"
       data-cols="{cols}"
       data-filters="report_year, primary_topic, scope_confidence"
       data-numeric="{numeric}"

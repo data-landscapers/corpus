@@ -61,6 +61,13 @@ def digest(data: bytes) -> str:
     return hashlib.sha1(data).hexdigest()[:12]
 
 
+def versioned(name: str, data: bytes) -> str:
+    """A table's `data-src` for a file that keeps its name when its content changes. The
+    undated CSVs are cached for four hours at the edge and in the browser, so a rebuilt
+    table went on drawing the old rows under a page that already described the new ones."""
+    return f"{name}?v={digest(data)}"
+
+
 def artefact_meta(stem: str, edition: str, record: str) -> str:
     """The line a page carries for each dated artefact it publishes. One writer, so the
     emitters cannot disagree with `artefacts_on_page` about the format."""

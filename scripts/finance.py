@@ -418,7 +418,7 @@ def publish_budgets(out: Path, names: dict) -> None:
         toc=toc("budgets"), budgets_intro=indent(copy("finance", "budgets-intro")),
         csv_name=csv_path.name, metadata=BUDGETS_METADATA_CSV,
         cols=", ".join(shown[:BUDGET_TABLE_COLS]), detail=", ".join(shown),
-        table_csv=BUDGET_TABLE_CSV,
+        table_csv=editions.versioned(BUDGET_TABLE_CSV, table),
         numeric=", ".join(numeric),
         labels=html.escape(json.dumps({"country": {c: names.get(c, c) for c in used}},
                                       ensure_ascii=False), quote=True),
@@ -465,7 +465,7 @@ ALL_PAGE = """<!DOCTYPE html>
 {all_intro}
 
     <div class="dl-datatable"
-      data-src="{csv_name}"
+      data-src="{csv_src}"
       data-cols="{cols}"
       data-filters="country, year, primary_topic, type, scope"
       data-numeric="year, value_usd"
@@ -611,7 +611,8 @@ def publish_all_finance(out: Path, sdir: Path, names: dict) -> None:
             modified=edition or None, version=edition or None,
             extra_keywords=("Development finance", "Government budgets", "Public finance")),
         toc=toc("all"), all_intro=indent(copy("finance", "all-intro")),
-        csv_name=csv_path.name, metadata=ALL_METADATA_CSV,
+        csv_name=csv_path.name, csv_src=editions.versioned(csv_path.name, body),
+        metadata=ALL_METADATA_CSV,
         cols=", ".join(ALL_TABLE_COLS),
         detail=", ".join(ALL_COLUMNS),
         labels=attr_json({"country": {c: names.get(c, c) for c in used}}),
