@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Cameroon's 2024 budget table gains the outturn of two special accounts, from the audit court's execution report. The electronic security fund spent 47% of its XAF 1.5bn allocation while collecting XAF 2.27bn; the postal development account spent 56% of XAF 900m.
 - Kenya's 2024/25 budget table gains the revised figure for 18 development projects, from the supplementary estimates. Thirteen lost their whole provision in the first supplementary budget, among them ICT in secondary schools (KES 150m) and county connectivity (KES 150m).
 - Mali's 2024 and 2025 budget tables gain the proposed stage for 20 lines a year, from the finance bills. Every project and body was voted at the figure the government proposed.
 - Egypt's budget tables gain the land-register fund in all three years: EGP 22.1m, 28.8m and 155.6m, all from the fund's own revenue. Its investment rises from EGP 10m in 2025/26 to 128.6m in 2026/27.
