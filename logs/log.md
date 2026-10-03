@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-03 23:59 · **NOTES** · unclocked · notes-for-osint at the build's end: 204, 205, 207, 209 and 210 open (Tunisia missions, Eswatini act, Lesotho fund report, Mauritius supplementary estimates, DR Congo execution statement); 206 and 208 raised and withdrawn the same night
 2026-10-03 23:14 · **NOTES** · unclocked · notes-for-corpus 75 closed (last four readings nil, logged); notes-for-osint 204-206 raised: Tunisia's three missing missions, Eswatini's 2025 act, BOCRA's uncatalogued report
 2026-10-03 21:31 · **ANALYTICS** · unclocked · 2026-10-01..2026-10-02 written; 2 Oct: dl.io 36 views / 0 clicks, corpus 51 views / 3 clicks
 2026-10-03 12:47 · **COPY** · 6m · R2 copy: 2,124 objects, 664.7 MB in the bucket; pulled 2,124 (664.7 MB) to the second copy; 0 faults. Restore drill: 5 of 5 editions identical to their live URLs
