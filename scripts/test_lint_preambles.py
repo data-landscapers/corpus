@@ -74,8 +74,8 @@ def build(tmp: Path, **over: str) -> tuple[Path, Path]:
         "notes-for-corpus.md": POINTER,
         "notes-for-osint-resolved.md": RESOLVED_O,
         "notes-for-corpus-resolved.md": RESOLVED_C,
-        "housekeeping-jobs.md": JOBS,
-        "housekeeping-jobs-resolved.md": JOBS,
+        "osint-housekeeping.md": JOBS,
+        "osint-housekeeping-resolved.md": JOBS,
         "messages-from-bill.md": FROM_BILL,
         "messages-for-bill.md": FOR_BILL,
         "corpus-housekeeping.md": CORPUS_JOBS,
@@ -129,11 +129,11 @@ with tempfile.TemporaryDirectory() as td:
     check("names the file and the count", "notes-for-osint.md: preamble is 302" in out, True)
 
     print("the same in a file it does not own is an advisory, not a failure")
-    rc, out = run(*build(tmp, **{"housekeeping-jobs.md":
+    rc, out = run(*build(tmp, **{"osint-housekeeping.md":
                                  "# jobs\n\n" + ("word " * 300) +
                                  "\n\n## Rough sizing\n\n8. A job.\n"}))
     check("exit 0", rc, 0)
-    check("but it is reported", "note - housekeeping-jobs.md: preamble is 302" in out, True)
+    check("but it is reported", "note - osint-housekeeping.md: preamble is 302" in out, True)
 
     print("a rule restated away from home fails")
     copied = "# Notes\n\n*(Numbers are never reused.)*\n\n## Unresolved\n\n**7** a note.\n"

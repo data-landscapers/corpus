@@ -28,7 +28,7 @@ are not two copies of one rule, and a later pass should not "fix" this by deleti
 The channel files are different: their reader is already in the folder and can follow a
 link.
 
-**A file the run cannot edit is reported, never failed.** `housekeeping-jobs.md` is OSINT's
+**A file the run cannot edit is reported, never failed.** `osint-housekeeping.md` is OSINT's
 register and `messages-from-bill.md` is Bill's; CORPUS reads both and fixes neither, and a
 lint that fails on a file you may not touch is a lint that gets skipped. OSINT carries the
 same assertion over its own files from `LINT.md` #24.
@@ -56,7 +56,7 @@ PREAMBLE_CAP = 100
 README_CAP = 250
 
 # Where a file's preamble stops, stated per file because the files are not one shape. A
-# generic "first heading" rule reads `housekeeping-jobs.md`'s counter as the whole preamble
+# generic "first heading" rule reads `osint-housekeeping.md`'s counter as the whole preamble
 # and lets a thousand words of rules below it through unmeasured; a generic "first entry"
 # rule counts `notes-for-osint.md`'s standing constraints, which are that file's substance,
 # as preamble. Naming the boundary is shorter than a heuristic that gets both right.
@@ -77,10 +77,8 @@ SHARE_FILES = [
     # OSINT's two files, on the boundaries OSINT's own LINT #24 reads. The register's used to
     # run to "## The bar", which counted the sizing table: a table that grows with every open
     # job is content, and under a 100-word cap it would breach whenever jobs were open (R91).
-    # Under either name until notes-for-osint 196 (the rename to osint-housekeeping) closes;
-    # then the old names come out.
-    (("osint-housekeeping.md", "housekeeping-jobs.md"), False, SIZING),                 # OSINT's register
-    (("osint-housekeeping-resolved.md", "housekeeping-jobs-resolved.md"), False, DONE),  # OSINT's archive
+    ("osint-housekeeping.md", False, SIZING),            # OSINT's register
+    ("osint-housekeeping-resolved.md", False, DONE),     # OSINT's archive
     ("corpus-housekeeping.md", True, NOTE),          # CORPUS's register, measured to its first job
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
     ("messages-for-bill.md", True, MARKER),         # CORPUS to Bill; on the share since 2026-10-02
@@ -106,7 +104,7 @@ RULES = [
 # an archive to satisfy a lint would be falsifying it, so they are held to the preamble cap
 # and nothing else.
 NO_DUPLICATE_CHECK = {"notes-for-osint-resolved.md", "notes-for-corpus-resolved.md",
-                      "housekeeping-jobs-resolved.md", "osint-housekeeping-resolved.md"}
+                      "osint-housekeeping-resolved.md"}
 
 
 def preamble_of(text: str, stop: str) -> str:
@@ -150,9 +148,7 @@ def main() -> int:
         return 2
 
     files = []
-    for names, owned, stop in SHARE_FILES:
-        names = (names,) if isinstance(names, str) else names
-        n = next((x for x in names if os.path.exists(os.path.join(args.share, x))), names[0])
+    for n, owned, stop in SHARE_FILES:
         files.append((os.path.join(args.share, n), n, owned, stop))
     texts: dict[str, str] = {}
     failures: list[str] = []

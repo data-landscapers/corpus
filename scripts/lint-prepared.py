@@ -17,7 +17,7 @@ did. A numbered note is archived because a closed number still has to resolve fo
 citing it; a spent patch series has no such reader.
 
 **CORPUS prunes, and it can tell without asking.** The closure signal lives in the share
-itself — `housekeeping-jobs-resolved.md` for a job, the strategic review register for an
+itself — `osint-housekeeping-resolved.md` for a job, the strategic review register for an
 R-line, the `-drops-absorbed-` rename for an acquisition drop list — so establishing that a
 handover is spent needs no OSINT process file and stays inside the interface. That is the
 whole reason this is CORPUS's chore and not OSINT's.
@@ -58,11 +58,10 @@ import sys
 
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 
-# OSINT's register, under either name until notes-for-osint 196 (the rename) closes.
-HOUSEKEEPING = ("osint-housekeeping.md", "housekeeping-jobs.md")
+HOUSEKEEPING = "osint-housekeeping.md"          # OSINT's register
 NOTES = "notes-for-osint.md"
 NOTES_RESOLVED = "notes-for-osint-resolved.md"
-RESOLVED = ("osint-housekeeping-resolved.md", "housekeeping-jobs-resolved.md")
+RESOLVED = "osint-housekeeping-resolved.md"
 # The review registers, read together: numbering continues across reviews, so an R-line names one line
 # in whichever file holds it. They moved into `strategic-reviews/` on 2026-09-25 (share `cbeb6c5`), and
 # the root path this read until then no longer existed, so every R-line closer read as unknown.
@@ -223,12 +222,8 @@ def main(argv=None) -> int:
         print("lint-prepared: ok - no prepared/ folder, so nothing is waiting in it.")
         return 0
 
-    def either(names: tuple[str, ...]) -> str:
-        return next((p for p in (os.path.join(a.share, n) for n in names) if os.path.exists(p)),
-                    os.path.join(a.share, names[0]))
-
-    src = {"open": _read(either(HOUSEKEEPING)),
-           "resolved": _read(either(RESOLVED)),
+    src = {"open": _read(os.path.join(a.share, HOUSEKEEPING)),
+           "resolved": _read(os.path.join(a.share, RESOLVED)),
            "register": "\n".join(_read(p) for g in REGISTERS
                                    for p in sorted(glob.glob(os.path.join(a.share, g)))
                                    if "-comments-" not in os.path.basename(p)),

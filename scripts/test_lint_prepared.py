@@ -44,9 +44,9 @@ def build(root: Path, *, open_jobs=(), closed_jobs=(), open_r=(), closed_r=(),
           open_notes=(), closed_notes=()):
     root.mkdir(parents=True, exist_ok=True)
     (root / "prepared").mkdir(exist_ok=True)
-    io.open(root / "housekeeping-jobs.md", "w", encoding="utf-8").write(
+    io.open(root / "osint-housekeeping.md", "w", encoding="utf-8").write(
         "# register\n\n" + "".join(f"{n}. **still owed**\n\n" for n in open_jobs))
-    io.open(root / "housekeeping-jobs-resolved.md", "w", encoding="utf-8").write(
+    io.open(root / "osint-housekeeping-resolved.md", "w", encoding="utf-8").write(
         "# resolved\n\n" + "".join(f"x{n}. **done**\n\n" for n in closed_jobs))
     lines = [f"- [ ] **R{r} [OSINT]** - owed" for r in open_r]
     lines += [f"- [x] **R{r} [OSINT]** - done" for r in closed_r]
@@ -72,8 +72,8 @@ def item(root: Path, name: str, closer: str | None = None, folder=True):
 
 
 def states(root: Path) -> dict:
-    src = {"open": lp._read(str(root / "housekeeping-jobs.md")),
-           "resolved": lp._read(str(root / "housekeeping-jobs-resolved.md")),
+    src = {"open": lp._read(str(root / "osint-housekeeping.md")),
+           "resolved": lp._read(str(root / "osint-housekeeping-resolved.md")),
            "register": lp._read(str(root / "strategic-review-register.md"))}
     out = {}
     for name in sorted(os.listdir(root / "prepared")):
@@ -104,7 +104,7 @@ try:
     build(r, open_jobs=(121,), closed_jobs=(96, 105, 107, 116))
     for n in ("job-96-116", "job-105", "job-107"):
         item(r, n)
-    io.open(r / "housekeeping-jobs.md", "w", encoding="utf-8").write(
+    io.open(r / "osint-housekeeping.md", "w", encoding="utf-8").write(
         "# register\n\n121. **an open job whose input is `prepared\\job-105\\"
         "entity-fragments.csv` and `prepared/job-96-116/entity-variants.csv`**\n\n")
     s = states(r)
@@ -115,7 +115,7 @@ try:
     r = tmp / "closed-mention"
     build(r, closed_jobs=(107,))
     item(r, "job-107")
-    io.open(r / "housekeeping-jobs-resolved.md", "w", encoding="utf-8").write(
+    io.open(r / "osint-housekeeping-resolved.md", "w", encoding="utf-8").write(
         "# resolved\n\nx107. **done; its input was `prepared/job-107/x.csv`**\n\n")
     check("a closed job naming it does not save it", states(r)["job-107"], "spent")
 
@@ -172,7 +172,7 @@ try:
     check("an empty prepared/ exits 0", lp.main(["--share", str(r)]), 0)
     r = tmp / "exit-none"
     r.mkdir()
-    io.open(r / "housekeeping-jobs.md", "w", encoding="utf-8").write("# x\n")
+    io.open(r / "osint-housekeeping.md", "w", encoding="utf-8").write("# x\n")
     check("no prepared/ at all exits 0", lp.main(["--share", str(r)]), 0)
     check("no share exits 2", lp.main(["--share", str(tmp / "nope")]), 2)
 
