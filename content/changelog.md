@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Eswatini's 2024/25 budget table gains the communications regulator and its universal access fund, from the regulator's audited accounts: SZL 110.0m and 14.2m spent. Both are funded from licence fees and levies outside the estimates.
 - Madagascar's 2024 budget table gains the telecommunications regulator, ARTEC, from its own accounts: MGA 12.5bn of operating costs. It is funded from fees outside the finance law and earned MGA 46.9bn that year.
 - Cameroon's 2024 budget table gains the outturn of two special accounts, from the audit court's execution report. The electronic security fund spent 47% of its XAF 1.5bn allocation while collecting XAF 2.27bn; the postal development account spent 56% of XAF 900m.
 - Kenya's 2024/25 budget table gains the revised figure for 18 development projects, from the supplementary estimates. Thirteen lost their whole provision in the first supplementary budget, among them ICT in secondary schools (KES 150m) and county connectivity (KES 150m).

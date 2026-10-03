@@ -617,7 +617,7 @@ STP,population-register,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints
 STP,data-exchange,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names interoperability or data exchange.,2026-10-02
 SWZ,statistics,found,whole,14,swz-2024-23-31,,rows,,
 SWZ,civil-registration-id,found,whole,7,swz-2024-43-T524,,rows,,
-SWZ,communications-regulator,absent,,,,Eswatini Communications Commission,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: the communications commission (ESCCOM) is funded outside the budget",2026-10-02
+SWZ,communications-regulator,found,whole,1,swz-2024-esccom,Eswatini Communications Commission,rows,,
 SWZ,ict-ministry-egov,found,whole,1,swz-2024-43-G649,Government of Eswatini portal,hand,"the ICT ministry (head 43) is held: its computer services department, the e-services platform and the disaster recovery site",2026-10-02
 SWZ,cybersecurity,absent,,,,,hand,"FY2025/26: the capital estimates print project G629 Cyber Security under head 43 (project cost E8,772,000, spent 6,072,000 to March 2024) with nothing for 2025/26 or later (PDF p. 223); no cybersecurity agency line",2026-10-03
 SWZ,data-protection,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names data protection",2026-10-02
