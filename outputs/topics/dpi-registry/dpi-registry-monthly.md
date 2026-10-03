@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
-record: 818cf92531e8
+record: 5771b3eea738
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -139,7 +139,7 @@ The electoral roll got its own numbers on 8 September. The commission said the r
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
-The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published.
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published. The communications ministry [describes the postcode as an 11-character code for every addressable location, looked up at postcode.gov.ng](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/).
 
 ## Rwanda
 

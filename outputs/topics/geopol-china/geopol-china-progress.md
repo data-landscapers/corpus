@@ -1,10 +1,10 @@
 ---
 title: China activities — progress report, October 2025 – October 2026
-compiled: 2026-10-02
-period: 2025-10-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2025-10-01 to 2026-10-03
 subject: geopol.china
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7e356cc5698c
+record: c2e54d3e55c4
 ---
 
 # China activities: progress report, October 2025 – October 2026

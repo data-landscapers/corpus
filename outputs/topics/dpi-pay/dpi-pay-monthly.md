@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f4dab7e99720
+record: dd691dd1b7e6
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -85,7 +85,7 @@ A bank wallet is closing for want of use: Standard Bank [will decommission its U
 
 The challenger's wallet [more than doubled its monthly active users to 2.58 million in the quarter to June, yet contributes about 2% of the unit's service revenue against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and its [cardless ATM withdrawal was extended to Awash Bank's ATM network](https://techafricanews.com/2026/09/08/m-pesa-ethiopia-cardless-atm-withdrawals-awash-bank/).
 
-Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it.
+Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it. An assessment of the second financial inclusion strategy [counts 157.6 million mobile money accounts at June 2026, 29.56 per cent of them active, and about eight billion digital transactions worth over 34 trillion birr in fiscal year 2025/26, with some banks charging up to 11 per cent for transfers to mobile wallets](https://www.thereporterethiopia.com/53174/).
 
 ## Gambia
 
@@ -137,7 +137,7 @@ September public-sector salaries [were paid through the Ratibak Lahzi system wit
 
 On 15 September the finance ministry [announced a task force with the banking supervisor and the telecoms regulator on lost money, failed transactions and slow complaint handling](https://www.2424.mg/news/une-task-force-sera-mise-en-place-pour-ameliorer-le-traitement-des-reclamations-liees-au-mobile-money/), with no start date given. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
 
-BGFIBank Madagasikara [presented its Gasy Money mobile-banking app on Friday 18 September](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/), [open to non-customers on any network, including people without a bank account, with transfers to other app accounts, bank accounts and Airtel Money](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/). No user or transaction figure is published.
+BGFIBank Madagasikara [presented its Gasy Money mobile-banking app on Friday 18 September](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/), [open to non-customers on any network, including people without a bank account, with transfers to other app accounts, bank accounts and Airtel Money](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/). No user or transaction figure is published. The largest mobile money operator [made merchant payments free for customers, the fee borne by the merchant, and reported close to 4 million users, more than 60,000 cashpoints and more than 50,000 accepting merchants](https://www.lexpress.mg/2026/10/inclusion-financiere-la-digitalisation.html).
 
 ## Malawi
 

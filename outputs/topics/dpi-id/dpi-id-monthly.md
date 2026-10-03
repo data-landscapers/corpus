@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: dpi.id
 places: BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: e10c2a9806ea
+record: 7791b8fccea1
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -117,7 +117,7 @@ On 29 September India's High Commissioner [met UNDP and UNCDF to review the achi
 
 ## Mauritius
 
-The digital driving licence [was soft-launched on the KOREK app on 29 September, with legal effect from 1 January 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027); [access needs a fully activated MauPass account, and promotion-agency staff are to help the 883,700 licence holders register from October](https://defimedia.info/maupass-et-korek-les-citoyens-accompagnes-dans-leurs-demarches). No count of licences activated is published.
+The digital driving licence [was soft-launched on the KOREK app on 29 September, with legal effect from 1 January 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027); [access needs a fully activated MauPass account, and promotion-agency staff are to help the 883,700 licence holders register from October](https://defimedia.info/maupass-et-korek-les-citoyens-accompagnes-dans-leurs-demarches). No count of licences activated is published. The ICT minister [said a driver without a smartphone may go on showing the original physical licence after 1 January 2027, and put MauPass registrations at 500,000](https://lexpress.mu/node/563226); the digital licence carries a QR code the police will use to check authenticity.
 
 ## Mozambique
 
@@ -155,7 +155,7 @@ In committee on bill 21/2026 the interior minister [said identity-card productio
 
 ## Somalia
 
-The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026).
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx).
 
 ## South Africa
 
@@ -197,4 +197,4 @@ The internal affairs minister [launched the integration of the national identifi
 
 ## Zambia
 
-A former deputy minister [defended, on 19 September 2026, the invalidation of the national identity documents of individuals she accuses of abusing cyberspace against the President](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/). How many people are affected and under what legal process is unstated, and no government statement of the measure is on file.
+A former deputy minister [defended, on 19 September 2026, the invalidation of the national identity documents of individuals she accuses of abusing cyberspace against the President](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/). How many people are affected and under what legal process is unstated, and no government statement of the measure is on file. Re-evaluation of the bids to deploy and integrate the identity and civil registration modules [was complete at June 2026 and awaiting the lender's review](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); no award is on record.

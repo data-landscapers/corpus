@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: gov.policy
-places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 8cf74420b7df
+places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: b49118d234b3
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -73,6 +73,10 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 
 The month adds the sector's policy furniture rather than a new instrument. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that the repository does not hold.
 
+## Ethiopia
+
+A third National Financial Inclusion Strategy, for 2026 to 2030, [was launched with an assessment of its predecessor](https://www.thereporterethiopia.com/53174/): adult account ownership reached 66 per cent in 2025 against a 70 per cent target, and the assessment finds a 60 per cent implementation deficit in digital-fraud countermeasures. Neither document is held.
+
 ## Gabon
 
 The new infrastructure and cybersecurity directorate has a head. The Council of Ministers of 18 September [named Anicet Claude Andjouat director general of the directorate whose creation it approved in December 2025](https://gabonmediatime.com/gabon-dgdinc-aninf-deux-structures-pour-les-memes-missions-numeriques/), whose spectrum, infrastructure and cybersecurity missions overlap those the national digital infrastructure and frequencies agency claims. No text dividing the two mandates is published.
@@ -115,7 +119,7 @@ The communications regulator [called on 23 September for consultants to diagnose
 
 ## Nigeria
 
-The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
+The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/). The public service reform bureau's director general [said on 30 September that the President has approved renewal of the National Strategy on Public Service Reforms](https://www.thisdaylive.com/2026/10/01/president-tinubu-approves-national-strategy-on-public-service-reforms/), the revision to take in policies on artificial intelligence and blockchain in the public service; neither the approval date nor the new text is given.
 
 ## Senegal
 

@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: gov.protect
 places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZWE
-record: d26634b8e798
+record: 52e792a4346c
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -79,7 +79,7 @@ The Casablanca prosecutor general [opened a judicial investigation on 14 Septemb
 
 ## Mozambique
 
-A media freedom organisation told a Maputo round table on 3 September that [the draft Personal Data Protection Law must not restrict press freedom and the right to information](https://ikweli.co.mz/2026/09/03/protecao-de-dados-nao-pode-travar-liberdade-de-imprensa-alerta-misa/); the ICT institute's board chair said approval of the law is only the start and needs supervision and accountability mechanisms. At a Maputo fair on 1-2 September the institute [set out its registration and licensing regime for digital platforms and named enforcement capacity as the main challenge](https://360mozambique.com/innovation/tech/facim-2026-intic-accelerates-ict-regulation-to-protect-citizens-online/).
+A media freedom organisation told a Maputo round table on 3 September that [the draft Personal Data Protection Law must not restrict press freedom and the right to information](https://ikweli.co.mz/2026/09/03/protecao-de-dados-nao-pode-travar-liberdade-de-imprensa-alerta-misa/); the ICT institute's board chair said approval of the law is only the start and needs supervision and accountability mechanisms. At a Maputo fair on 1-2 September the institute [set out its registration and licensing regime for digital platforms and named enforcement capacity as the main challenge](https://360mozambique.com/innovation/tech/facim-2026-intic-accelerates-ict-regulation-to-protect-citizens-online/). Parliament's standing commission [placed the personal data protection draft law on the agenda of the ordinary session opening on 28 October](https://clubofmozambique.com/news/mozambique-parliament-convenes-extraordinary-and-ordinary-sessions-for-october/); no text is held.
 
 ## Namibia
 

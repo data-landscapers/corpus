@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 983db2adc041
+record: 0857441ca9fb
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -23,7 +23,7 @@ A second unified path was proposed on 3 September. A working meeting at the digi
 
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
-The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated.
+The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated. The interoperability framework study and its platform roadmap [were completed in the first half of 2026 and the platform, an enterprise service bus on X-Road, is under tender at about US$13.0m](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 
 ## Benin
 
@@ -85,7 +85,7 @@ The first register link to be agreed is between education and health rather than
 
 ## Ghana
 
-Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated.
+Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated. The central bank [counted 25,921,066 credit-bureau enquiries in 2025, down 12.12 per cent, while enquiries on digital borrowers rose from 13.1 million to 19.9 million](https://www.bog.gov.gh/wp-content/uploads/2026/09/2025-Credit-Reporting-Activities-Annual-Report-Final-Report.pdf).
 
 ## Kenya
 
@@ -171,7 +171,7 @@ The month's exchange story is a border system working for someone else. The reve
 
 ## Zambia
 
-A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe.
+A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe. Bids for the redesign of the Government Service Bus [were evaluated and under the lender's review at June 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 
 ## Zimbabwe
 

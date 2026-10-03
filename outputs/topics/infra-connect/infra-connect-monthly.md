@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: infra.connect
 places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6866f38aee72
+record: 1666ac44d7f0
 ---
 
 # Connectivity: monthly update, September – October 2026
@@ -107,7 +107,7 @@ The state's own operator got its board back. On 3 September a seven-member board
 
 The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release. At the 2.3 GHz stage the second operator [took all three lots it applied for, of five on offer](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/), with neither the assignment date nor the fee stated.
 
-On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced.
+On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced. The dominant operator [announced on 2 October that the regulator had notified it of 15-year awards of two lots in the 700 MHz band for US$100.9m and all three lots in the 3 GHz band for US$101.1m](https://mtn.com.gh/wp-content/uploads/2026/10/MTNGH-GSE-Announcement-MTN-Ghana-Awarded-Spectrum-in-the-700MHz-and-3GHz-Bands.pdf), to be deployed for 5G once the licences issue.
 
 ## Guinea
 
@@ -141,7 +141,7 @@ The satellite route to isolated areas moved from announcement to hardware: the d
 
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 
-The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used.
+The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used. The regional programme's half-year report [records assessments for the 100 universal service fund towers complete and the request for bids under the lender's review, with six of 25 priority e-services onboarded, and puts the acceleration project's financing at US$150m with a second tranche of US$80m expected in July 2028](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 
 ## Mauritania
 

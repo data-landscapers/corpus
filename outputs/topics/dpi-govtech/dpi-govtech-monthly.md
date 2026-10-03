@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: dpi.govtech
 places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 503556c1005e
+record: 571af496b26b
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -31,7 +31,7 @@ The Constitutional Court is preparing its own systems for the 2027 elections: on
 
 ## Benin
 
-[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow.
+[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss.
 
 ## Burkina Faso
 
@@ -95,7 +95,7 @@ The road-safety directorate [inspected the first road-offence cameras across Gra
 
 ## Gambia
 
-The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published.
+The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published. The finance ministry, the revenue authority and the national single window [introduced a digital duty waiver application system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system) in place of a paper process, promising a decision within 72 hours where requirements are met; no go-live date is stated.
 
 ## Ghana
 

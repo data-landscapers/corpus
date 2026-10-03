@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e2b811c93347
+record: a3fe989aacb3
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -67,7 +67,7 @@ The justice ministry's [E-Court platform went live on 31 August for first-instan
 
 The finance ministry [began surveying road-freight companies at land ports to link them to Nafeza, the single window already used for sea and air cargo](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/), with consolidated land bills of lading and pre-arrival cargo data planned. The account rests on unnamed officials, and no timetable is set.
 
-On 23 September the agriculture ministry's spokesman [said its digital register of agricultural holdings ties each holding to the crop actually grown across about 4.4 million farmer cards, to target subsidised fertiliser and record encroachment on farmland](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116). No launch date or coverage of all holdings was given.
+On 23 September the agriculture ministry's spokesman [said its digital register of agricultural holdings ties each holding to the crop actually grown across about 4.4 million farmer cards, to target subsidised fertiliser and record encroachment on farmland](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116). No launch date or coverage of all holdings was given. A former chair of the communications ministry's legislation committee [reports that the House's legislative committee has proposed deferring the new Criminal Procedure Law by a further year](https://gate.ahram.org.eg/News/5937174.aspx), and ties the deferral to gaps in its provisions on electronic notification and remote hearings; no parliamentary record of the proposal is held.
 
 ## Equatorial Guinea
 
@@ -103,7 +103,7 @@ The claims platform was quantified from the settlement end for the first time. T
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
-The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities.
+The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities. The health minister [said the change makes each facility's own system the primary one, exchanging data with the insurer's systems, and that 28 existing hospital platforms have been certified](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains).
 
 ## Liberia
 
@@ -171,7 +171,7 @@ The civil-service platform's purpose was argued rather than measured. A commenta
 
 Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
 
-The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given.
+The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given. The Prime Minister's Office [said its Persons with Disabilities Management Information System is connected to 11 government systems and issues a reference number to students applying for higher-education loans](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560); no count of people registered is stated.
 
 ## Togo
 

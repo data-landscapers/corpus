@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: b5f45e1edbdf
+record: 85954c2cdb45
 ---
 
 # Access to services: monthly update, September – October 2026
@@ -109,7 +109,7 @@ A wider sample gave a less bleak figure: [47% of about 30 government digital pla
 
 An urban survey of 13,251 respondents in 12 cities, published in September by a consultancy and an operator group, [put smartphone ownership at 75% in 2025 against 64% in 2023, and found more than a third of mobile subscribers still on 2G in May 2026](https://assets.kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf).
 
-A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people.
+A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people. Civil-society organisations [reported on 2 October that access to TikTok over mobile data has been disrupted in Kaduna, Kebbi, Kano and Sokoto since about 14 September](https://paradigmhq.org/joint-statement-on-the-unexplained-tiktok-disruption-in-northern-nigeria-by-civil-society-organisations/), across more than one provider; no authority, operator or the platform has explained it, and the organisations say they cannot establish the cause.
 
 ## Senegal
 

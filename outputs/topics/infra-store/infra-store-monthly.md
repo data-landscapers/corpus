@@ -1,15 +1,15 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: infra.store
-places: DZA; AGO; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; SEN; ZAF; TUN
-record: f8207d55835f
+places: DZA; AGO; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TUN
+record: 3baf6aab21d4
 ---
 
 # Data Storage: monthly update, September – October 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -87,7 +87,7 @@ A first independent assessment of a Libyan facility reached the record: a [tier 
 
 ## Malawi
 
-The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due.
+The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due. A stop-gap expansion of the national data centre [added 115 TB of storage and the redundancy link between the Lilongwe and Blantyre sites was completed in the first half of 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 
 ## Mauritius
 
@@ -104,6 +104,10 @@ The ICT minister said on 23 September that [construction had begun beside the ne
 ## Nigeria
 
 A rating agency put a third count on the estate and named the constraint. It puts national data-centre capacity at [about 197 MW, below Saudi Arabia's 435 MW, and classifies the country's power availability for data-centre development as very low, citing heavy reliance on self-generation and backup power, limited renewable transmission and chronic grid instability](https://moneycentral.com.ng/markets/article/nigerias-197-megawatt-data-center-market-needs-power-reform-to-scale/). The figure is on a third basis again and reconciles with neither of the two the repository already holds; what it adds is the finding that power, not demand, is what would stop the country converting artificial-intelligence interest into operating capacity.
+
+## Rwanda
+
+The information society authority [says the shared government data hub is moving into implementation](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister), with the existing Data Sharing Platform serving in the interim; no supplier or go-live date is stated.
 
 ## Senegal
 

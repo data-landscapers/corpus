@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: digital.localgov
 places: CMR; TCD; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; TZA; TUN; UGA
-record: 53bba7e3c983
+record: 6c45b80eb14c
 ---
 
 # Digitalisation of sub-national government: monthly update, September – October 2026
@@ -37,7 +37,7 @@ Bissau city council [launched CMB+ on 22 September, a modernisation and digital 
 
 ## Kenya
 
-Nakuru County [deployed a case management and reporting platform for survivors of gender-based violence and for services to persons with disabilities, replacing paper records](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/), funded by Lithuanian development cooperation; no user or case count is published.
+Nakuru County [deployed a case management and reporting platform for survivors of gender-based violence and for services to persons with disabilities, replacing paper records](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/), funded by Lithuanian development cooperation; no user or case count is published. The Controller of Budget [reported that counties paid at least Sh8.3 billion in salaries through manual payrolls outside the human resource information system in the year to 30 June 2026](https://nation.africa/kenya/counties/revealed-counties-made-sh8-3bn-manual-payments-outside-payroll-systems-5615212), a year past the deadline to migrate; Nakuru processed Sh1.86 billion that way, and Narok and Trans Nzoia none.
 
 ## Libya
 
@@ -73,7 +73,7 @@ The Gauteng e-government department's 2025/26 annual report records [96 public W
 
 Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
 
-Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated.
+Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated. A collaboration agreement between Tshwane and the CSIR [sets a two-year implementation period to 30 June 2028 for the city's data and analytics platform](https://www.citizen.co.za/rekord/news-headlines/2026/10/02/tshwane-launches-data-platform-with-csir-to-boost-service-delivery/), which is to extend across its seven regions.
 
 ## Tanzania
 

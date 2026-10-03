@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: gov.discourse
 places: CAF; TCD; GNQ; ETH; GHA; GIN; KEN; LBR; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0e6bfd231908
+record: c3511d1dc4b5
 ---
 
 # Public debate and participation in policymaking: monthly update, September – October 2026
@@ -91,7 +91,7 @@ The room where digital policy is argued is now on record: the [national internet
 
 ## Tunisia
 
-Parliament's own case file arrived, and it makes the revision of the 2022 cyber-offences decree-law measurable rather than announced. The bill was [deposited on 20 February 2024, referred to committee on 10 April 2025, carries 38 sponsors and has not been voted](https://www.arp.tn/loi/project/4139); its operative text — the amendments themselves — is not published on the assembly's own page, which is a dated absence rather than an unsought one. [The committee named the revision its top priority in January 2026](https://www.webdo.tn/fr/actualite/national/tunisie-le-parlement-place-la-revision-du-decret-54-en-tete-de-ses-priorites/392137/); two and a half years after deposit, that priority has produced no vote.
+Parliament's own case file arrived, and it makes the revision of the 2022 cyber-offences decree-law measurable rather than announced. The bill was [deposited on 20 February 2024, referred to committee on 10 April 2025, carries 38 sponsors and has not been voted](https://www.arp.tn/loi/project/4139); its operative text — the amendments themselves — is not published on the assembly's own page, which is a dated absence rather than an unsought one. [The committee named the revision its top priority in January 2026](https://www.webdo.tn/fr/actualite/national/tunisie-le-parlement-place-la-revision-du-decret-54-en-tete-de-ses-priorites/392137/); two and a half years after deposit, that priority has produced no vote. On 29 September the Council of Ministers [deliberated a draft decree amending Decree-Law 54](https://www.alchourouk.com/article/%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-54-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D9%86%D8%B8%D8%B1-%D9%81%D9%8A-%D8%AA%D9%86%D9%82%D9%8A%D8%AD-3-%D9%85%D8%B1%D8%A7%D8%B3%D9%8A%D9%85); its content was not published.
 
 ## Uganda
 

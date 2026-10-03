@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: finance.new
-places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA
-record: accf8914661f
+places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
+record: 676ee52b5c08
 ---
 
 # New investments: monthly update, September – October 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -17,7 +17,7 @@ record: accf8914661f
 
 The higher-education programme entered the repository with its digital content itemised. A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
 
-The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html).
+The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html). The regional programme's half-year report [records the three memoranda that are withdrawal conditions under the digital acceleration loan signed in the first half of 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), for broadband, digital inclusion and digital identification, with 17 contracts signed, 29 tenders under way and about US$100m available to spend; coordination with the ICT ministry on the broadband component is the stated obstacle.
 
 ## Cameroon
 
@@ -53,7 +53,7 @@ Zeal, an Egyptian payments-software company, [raised US$10m to take its checkout
 
 ## Eswatini
 
-The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills.
+The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills. The regional programme's half-year report [puts the Digital Eswatini Project at US$65m, with negotiations concluded on 18 May 2026 and the lender's approval in June](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); a preparation grant closes in December 2026, and the government's financial management system, still in a restricted pilot, may not serve the project's reporting.
 
 ## Ghana
 
@@ -118,3 +118,7 @@ The lead investor in the fibre recapitalisation [put its commitment at more than
 The Fair Competition Commission opened a review on 21 August of a [Kenyan bank's acquisition of 22.23% of the payments company Pesapal, which gives it indirect control of Pesapal's Tanzanian subsidiary, a payment service provider licensed by the Bank of Tanzania](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/). Public comment closed on 4 September; the price is undisclosed and no decision is on record.
 
 At the EU-Tanzania investment forum in Helsinki on 28 September the government [presented TZS 7,000bn of digital infrastructure investment to 2031, still to be mobilised, covering fibre-to-the-premises, the Kilimanjaro One submarine cable, device manufacture, a technology park and smart classrooms](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031). No financier or split between public and private money is published.
+
+## Zambia
+
+The regional programme's half-year report [records the acceleration project's unit fully staffed and a second early market engagement on 22 April 2026 for 300 cell towers, 2,000 km of fibre and connectivity for 500 public institutions](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).

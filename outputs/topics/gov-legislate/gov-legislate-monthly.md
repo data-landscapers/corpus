@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c3fae5339bf0
+record: 2589dbaaa293
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The statistics institute [put a revision of the national statistical system law 
 
 ## Benin
 
-The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the repository holds no enforcement action on workplace monitoring.
+The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the repository holds no enforcement action on workplace monitoring. The audiovisual and communication regulator [signed conventions with 89 online radio, television and press outlets on 1 October](https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac), closing its authorisation process; the number of applicants refused is not stated.
 
 ## Burkina Faso
 
@@ -95,7 +95,7 @@ The National Assembly [committed the Competition and Consumer Protection Commiss
 
 ## Ghana
 
-The legislative programme itself got a ministerial account on 7 September: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
+The legislative programme itself got a ministerial account on 7 September: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). An IMF technical assistance report [finds the two regulators' crypto guidelines short of comprehensive oversight, with the regime under the Virtual Asset Service Providers Act set to go live in December 2026](https://bitcoinke.io/wp-content/uploads/2026/09/Technical-Assistance-Report-for-Regulation-and-Supervision-of-Crypto-Markets-and-Activities-in-Ghana-BitKE.pdf), and urges activity-based guidelines, finalised stablecoin rules and a transitional licensing regime; it [puts annual crypto transactions at around US$21bn](https://www.myjoyonline.com/ghana-is-5th-largest-crypto-market-in-sub-saharan-africa-annual-transactions-around-21bn/).
 
 ## Guinea-Bissau
 
@@ -123,7 +123,7 @@ The extraordinary session ended without passing a digital law. The National Asse
 
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 
-The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record.
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed.
 
 ## Mozambique
 

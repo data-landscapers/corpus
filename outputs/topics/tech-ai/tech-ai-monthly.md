@@ -1,15 +1,15 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 41e3f66f3799
+places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 3fc62527f4ab
 ---
 
 # AI: monthly update, September – October 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -131,11 +131,15 @@ On 24 September the electoral commission's chairman [said it had begun deploying
 
 ## Rwanda
 
-An agriculture official [set out a plan to reach 2.5 million farmers with AI advisory services](https://www.ktpress.rw/2026/09/here-is-our-ai-plan-to-reach-2-5-million-rwandan-farmers/), reported on 2 September, with a Kinyarwanda voice assistant being tested through the ministry's call centre. A regional forum in Kigali on 7 September [considered how higher-education quality assurance should change as AI spreads](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/). A UNDP review [records country-hosted AI compute deployed under its regional programme](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use), with no national or local-language model named.
+An agriculture official [set out a plan to reach 2.5 million farmers with AI advisory services](https://www.ktpress.rw/2026/09/here-is-our-ai-plan-to-reach-2-5-million-rwandan-farmers/), reported on 2 September, with a Kinyarwanda voice assistant being tested through the ministry's call centre. A regional forum in Kigali on 7 September [considered how higher-education quality assurance should change as AI spreads](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/). A UNDP review [records country-hosted AI compute deployed under its regional programme](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use), with no national or local-language model named. The statistics institute's labour force survey team [built a model that assigns classification codes to survey responses given in Kinyarwanda, English or French, coding 96 per cent of records automatically in one test run](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/); an application for enumerators is not yet in field use.
 
 ## Senegal
 
 An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html).
+
+## Seychelles
+
+The tourism minister [told a forum on 1 October that its discussions are to feed a Seychelles Tourism Digital and AI Agenda](https://www.seychellesnewsagency.com/public/articles/22495/seychelles-tourism-minister-pushes-for-ai-and-data-driven-approach-to-reshape-tourism-sector), with the tourism department to follow up; no text or timetable is stated.
 
 ## Sierra Leone
 

@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 subject: gov.standards
 places: ETH; GAB; GMB; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 8b43153a5561
+record: b6d35ccabd88
 ---
 
 # Standards: monthly update, September – October 2026
