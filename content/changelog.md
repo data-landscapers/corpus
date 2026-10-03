@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Lesotho's 2024/25 budget table gains the communications regulator, LCA, from its own accounts: LSL 110.1m of expenditure against LSL 121.3m of revenue. It is funded from regulatory fees outside the estimates.
 - Namibia's 2024/25 budget table gains the communications regulator, CRAN, from its own accounts: NAD 140.9m of operating expenses. It is funded from levies outside the budget and ran a NAD 25.6m loss that year.
 - Eswatini's 2024/25 budget table gains the communications regulator and its universal access fund, from the regulator's audited accounts: SZL 110.0m and 14.2m spent. Both are funded from licence fees and levies outside the estimates.
 - Madagascar's 2024 budget table gains the telecommunications regulator, ARTEC, from its own accounts: MGA 12.5bn of operating costs. It is funded from fees outside the finance law and earned MGA 46.9bn that year.

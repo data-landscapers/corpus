@@ -365,7 +365,7 @@ LBY,population-register,absent,,,,,hand,"FY2024 and FY2025: the House of Represe
 LBY,data-exchange,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body or line names data exchange.",2026-10-02
 LSO,statistics,found,whole,3,lso-2024-304-04-04,Bureau of Statistics,rows,,
 LSO,civil-registration-id,found,whole,8,lso-2024-308-03-02,,rows,,
-LSO,communications-regulator,absent,,,,Lesotho Communications Authority,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the communications authority is funded from its own fees and has no head",2026-10-02
+LSO,communications-regulator,found,whole,1,lso-2024-lca,Lesotho Communications Authority,rows,,
 LSO,ict-ministry-egov,found,whole,3,lso-2024-310-0480,Government of Lesotho portal,rows,,
 LSO,cybersecurity,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: cyber security appears as a policy aim and a risk in the text; no cost centre or project is named for it",2026-10-02
 LSO,data-protection,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no head or cost centre names data protection",2026-10-02
