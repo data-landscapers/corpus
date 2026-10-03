@@ -673,17 +673,17 @@ TGO,population-register,absent,,,,,hand,keyword scan of the sprint's chapter lis
 TGO,data-exchange,found,whole,5,tgo-2024-820-078-1391080454000,,rows,,
 TUN,statistics,found,whole,29,tun-2024-05-4-1-605-0003,Institut national de la statistique,rows,,
 TUN,civil-registration-id,found,whole,4,tun-2024-05-1-2-632-J001,,rows,,
-TUN,communications-regulator,not looked,,,,,,,
+TUN,communications-regulator,absent,,,,,hand,"FY2024: the communication technologies mission's budget lists the bodies under it (the national computing centre, the frequencies agency, the telecoms research centre and others); the telecommunications regulator is not among them and no line names it. Arabic text search of the whole mission budget after normalising the text layer.",2026-10-03
 TUN,ict-ministry-egov,found,whole,4,tun-2024-16-1-1-A2-fund,Portail national du gouvernement tunisien,rows,,
 TUN,cybersecurity,found,whole,6,tun-2024-16-1-1-A8-ancs,Agence nationale de la sécurité informatique,rows,,
 TUN,data-protection,found,whole,2,tun-2024-04-1-1-inpdp,Instance nationale de protection des données personnelles,rows,,
 TUN,revenue-systems,found,whole,11,tun-2024-10-1-1-666-0104,Direction générale des impôts,rows,,
-TUN,treasury-fmis,not looked,,,,Ministère des Finances,,,
-TUN,procurement,not looked,,,,TUNEPS (Haute instance de la commande publique),,,
+TUN,treasury-fmis,found,whole,1,tun-2024-10-cimf,Ministère des Finances,hand,"FY2024 and FY2025: the finance ministry's computing centre, which runs the budget, payroll, tax and customs systems, is held as a body row from its own resources; the running costs of the budget and payroll systems are sub-items of the held line 201-20 of the finance mission.",2026-10-03
+TUN,procurement,absent,,,,TUNEPS (Haute instance de la commande publique),hand,FY2024: the presidency of the government mission's budget names public procurement only as a staff corps and as a control function; no line names the e-procurement system or the procurement authority. Arabic text search of the whole mission budget after normalising the text layer.,2026-10-03
 TUN,electoral-register,not looked,,,,Instance supérieure indépendante pour les élections,,,
 TUN,land-registry,not looked,,,,Office de la topographie et du cadastre,,,
 TUN,social-registry,not looked,,,,Ministère des Affaires sociales; Caisse nationale de sécurité sociale,,,
-TUN,population-register,not looked,,,,,,,
+TUN,population-register,absent,,,,,hand,"FY2024: the interior mission's budget prints the unique citizen identifier and the new civil-registration system as projects, both held under civil registration; no line names a population register. Arabic text search of the whole mission budget after normalising the text layer.",2026-10-03
 TUN,data-exchange,found,whole,1,tun-2025-16-1-1-AA-ance,,rows,,
 TZA,statistics,found,whole,6,tza-2024-021-26311226,National Bureau of Statistics,rows,,
 TZA,civil-registration-id,found,whole,8,tza-2024-051-26311148,National Identification Authority,rows,,
