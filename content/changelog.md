@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Burkina Faso's budget tables for 2024, 2025 and 2026 now show what the government proposed beside what was enacted, for 441 lines. Seven changed on the way, the largest the 2024 topographic mapping activity, from XOF 1.05bn to 4.36bn.
 - DR Congo's 2024 and 2025 budget tables now show what the government proposed beside the later figure, for 251 lines. Parliament changed 52 of the 2024 lines before enactment. For 2025, 77 lines differ between the bill and the revised law, the population identification operation going from FC 33.5bn to 133.5bn.
 - Lesotho's 2024/25 budget table now shows what was appropriated beside what was spent, for seven lines that showed spending only. The national identity and civil registry was voted LSL 234.2m and spent 205.6m.
 - The Gambia's 2025 and 2026 budget tables now show what the government proposed beside what was approved, for all 45 lines. Four changed on the way: in 2026 the IFMIS development project went from nothing to GMD 20m and internal audit software from GMD 0.4m to 2.1m.
