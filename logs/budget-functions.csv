@@ -40,7 +40,7 @@ BEN,electoral-register,absent,,,,Commission électorale nationale autonome (CENA
 BEN,land-registry,found,partial,2,ben-2026-037-088-pip13,Agence nationale du domaine et du foncier (ANDF),rows,,
 BEN,social-registry,absent,,,,Agence nationale de la protection sociale (ANPS),hand,"keyword scan of the finance laws' programme tables, the investment programme and the ministry performance plans for 2024 to 2026: no line names a social registry",2026-10-02
 BEN,population-register,found,whole,1,ben-2026-009-010002-1192,,hand,"the identification agency, which keeps the national register of persons, is held from the Presidency's section in every year",2026-10-02
-BEN,data-exchange,not looked,,,,,,,
+BEN,data-exchange,absent,,,,,hand,"FY2024 to FY2026: keyword scan of the finance laws and of the detailed-spending and programme-performance volumes parsed on 2026-10-02 (every administrative unit and every action): no line names interoperability or a data exchange. The two mentions are narrative, in the tax administration's reform text.",2026-10-03
 BFA,statistics,found,whole,9,bfa-2024-14-032-0320213,Institut national de la statistique et de la démographie,rows,,
 BFA,civil-registration-id,found,whole,14,bfa-2024-09-012-0120809,Office national d'identification,rows,,
 BFA,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et des postes,hand,"keyword scan of the finance laws' volumes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no chapter or activity names the communications regulator (ARCEP), which appears only as a body in the execution report's list",2026-10-02
@@ -146,7 +146,7 @@ COM,ict-ministry-egov,found,whole,16,com-2024-09-0905,Agence nationale de dével
 COM,cybersecurity,absent,,,,Direction nationale de cybersécurité (ANADEN),hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service is a cybersecurity body; the digital agency is held whole under the posts and digital ministry.,2026-10-02
 COM,data-protection,absent,,,,,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. No service is a data protection body.,2026-10-02
 COM,revenue-systems,absent,,,,Direction générale des Impôts,hand,FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The customs and tax directorates are services with four natures each and no systems line.,2026-10-02
-COM,treasury-fmis,not looked,,,,Ministère des Finances du Budget et du Secteur bancaire,,,
+COM,treasury-fmis,found,partial,1,com-2026-08-0825,Ministère des Finances du Budget et du Secteur bancaire,hand,"FY2024 to FY2026: service 0825 of the finance ministry, its information systems directorate, is the only service of the finance vote named for systems, held at partial. The public accounting directorate (0807) prints by four natures with no system line.",2026-10-03
 COM,procurement,absent,,,,Autorité de régulation des marchés publics,hand,"FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The procurement regulator is service 0413 of the presidency, with no e-procurement line.",2026-10-02
 COM,electoral-register,absent,,,,Commission électorale nationale indépendante,hand,"FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The electoral commission is service 1320 of the interior ministry, with no register line.",2026-10-02
 COM,land-registry,absent,,,,,hand,"FY2025 and FY2026: the budget classification prints every ministry's services by four natures; the service names of all ministries were read from the scan on 2026-09-25. The domain and land directorate is service 1614, with no registry or cadastre system line.",2026-10-02
@@ -261,10 +261,10 @@ GHA,revenue-systems,absent,,,,Ghana Revenue Authority,hand,"FY2026: the Ghana Re
 GHA,treasury-fmis,found,partial,1,gha-2026-010-0100207,Ministry of Finance,hand,"FY2024 to FY2026: cost centre 0100207 ICTM of the Controller and Accountant-General's Department, in the finance ministry's PBB volume, is the directorate that runs the government's financial management system; held at partial",2026-10-02
 GHA,procurement,absent,,,,Public Procurement Authority; Ghana Electronic Procurement System,hand,"FY2026: the Public Procurement Authority is cost centre 01004 of the finance vote, one administration office, with no line for the e-procurement system. PBB 2026 Ministry of Finance, summary by cost centre (table 1.6).",2026-10-02
 GHA,electoral-register,found,whole,1,gha-2024-008-00802-00802002,Electoral Commission of Ghana,rows,,
-GHA,land-registry,found,partial,5,gha-2024-011-01109-01109001,Lands Commission,rows,,
+GHA,land-registry,found,partial,7,gha-2024-011-01109-01109001,Lands Commission,rows,,
 GHA,social-registry,absent,,,,Ministry of Gender Children and Social Protection,hand,"FY2024 to FY2026: the gender ministry's PBB volumes print the Department of Social Protection as one cost centre (03204) and Social Protection as one sub-programme (03204003, table 1.5), and no line for the Ghana National Household Registry; read 2026-10-02",2026-10-02
-GHA,population-register,not looked,,,,,,,
-GHA,data-exchange,not looked,,,,,,,
+GHA,population-register,absent,,,,,hand,"FY2026: the Births and Deaths Registry's narrative names a Community Population Register Programme, but table 1.6 prints the Registry as one cost centre, held under civil registration, and the identity authority's register is inside its own held rows. No line prints a population register. PBB 2026, local government ministry volume; PBB 2026, interior ministry volume.",2026-10-03
+GHA,data-exchange,absent,,,,,hand,"FY2025 and FY2026: the communications ministry's PBB volumes name the e-government interoperability framework in narrative and in the information technology agency's operations, inside the agency's sub-programme held under the ICT function. No cost centre or line prints a data exchange. Keyword scan of every parsed volume's cost-centre table for both years.",2026-10-03
 GIN,statistics,found,whole,4,gin-2024-08-230631000000-4-2-3-99-00,Institut national de la statistique,rows,,
 GIN,civil-registration-id,found,whole,7,gin-2024-02-211150000000-2-1-1-14-02-cp,,rows,,
 GIN,communications-regulator,absent,,,,Autorité de régulation des postes et télécommunications,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: the regulator (ARPT) appears only as a payer of the state's share of fees,2026-10-02
@@ -383,7 +383,7 @@ MAR,communications-regulator,absent,,,,Agence Nationale de Réglementation des T
 MAR,ict-ministry-egov,found,whole,42,mar-2024-05-107-00-20-mdd,Agence de Développement du Digital,rows,,
 MAR,cybersecurity,absent,,,,Direction Générale de la Sécurité des Systèmes d'Information,hand,"FY2024 and FY2025: no project line in the morasses names information-systems security; the directorate sits in the national defence administration's chapter. Every chapter searched, and the finance law.",2026-10-02
 MAR,data-protection,found,whole,14,mar-2024-04-104-00-10-mdd,Commission Nationale de contrôle de la protection des Données à caractère Personnel,rows,,
-MAR,revenue-systems,not looked,,,,Direction Générale des Impôts,,,
+MAR,revenue-systems,absent,,,,Direction Générale des Impôts,hand,"FY2024 and FY2025: the finance ministry's block of the morasse prints its programmes by region and project. Programme 118, mobilisation and recovery of tax revenue, carries one project, on the tax base and fraud; every project label in the block was listed and none names an information system. Morasse 2024, chapters 1.2.1.2.0.13.000 and 1.2.2.2.0.13.000; morasse 2025, tome 1.",2026-10-03
 MAR,treasury-fmis,absent,,,,Ministère de l'Économie et des Finances,hand,"FY2024 and FY2025: no project line names the integrated expenditure system or the treasury's systems. Morasses, every chapter searched.",2026-10-02
 MAR,procurement,absent,,,,Portail des marchés publics,hand,"FY2024 and FY2025: no project line names public procurement or its portal. Morasses, every chapter searched, and the finance law.",2026-10-02
 MAR,electoral-register,absent,,,,Élections Maroc (Ministère de l'Intérieur),hand,"FY2024 and FY2025: the interior chapter prints one line for political parties and electoral operations, which is not a register. Morasses, every chapter searched.",2026-10-02
@@ -548,7 +548,7 @@ SDN,data-exchange,not looked,,,,,,,
 SEN,statistics,found,whole,2,sen-2026-61-2034-ansd-production-statistique,Agence nationale de la Statistique et de la Démographie,rows,,
 SEN,civil-registration-id,found,whole,4,sen-2026-33-2009-cni-enrolement,Agence nationale de l'État civil,rows,,
 SEN,communications-regulator,absent,,,,Autorité de régulation des télécommunications et des postes,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: no programme or activity names the telecommunications regulator (ARTP), which is funded from its own fees",2026-10-02
-SEN,ict-ministry-egov,found,whole,6,sen-2024-63-2083,Sénégal Numérique S.A. (ex-ADIE); Portail gouvernemental,rows,,
+SEN,ict-ministry-egov,found,whole,7,sen-2024-63-2083,Sénégal Numérique S.A. (ex-ADIE); Portail gouvernemental,rows,,
 SEN,cybersecurity,found,whole,2,sen-2026-33-2009-cybercriminalite,,rows,,
 SEN,data-protection,absent,,,,Commission de protection des données personnelles,hand,"keyword scan of the 25 ministries' DPPD-PAP 2026-2028 volumes, 21 of which landed on 2026-10-02: personal-data protection appears in programme text only; no activity funds the data protection commission",2026-10-02
 SEN,revenue-systems,found,whole,1,sen-2026-43-2032-si-douanier,Direction générale des Impôts et des Domaines,rows,,
@@ -589,7 +589,7 @@ SOM,population-register,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes pr
 SOM,data-exchange,absent,,,,,hand,"FY2024 to FY2026: each Act's annexes print every sub-head, and from 2026 its programmes, and were read whole on 2026-09-25; no line names interoperability or data exchange.",2026-10-02
 SSD,statistics,found,whole,12,ssd-2024-sta-natstat-fss-monitoring-evaluation,National Bureau of Statistics,rows,,
 SSD,civil-registration-id,found,partial,2,ssd-2024-mih-isc-immigration,,rows,,
-SSD,communications-regulator,not looked,,,,National Communication Authority,,,
+SSD,communications-regulator,found,whole,1,ssd-2024-nca-regulating-telecoms,National Communication Authority,hand,FY2024 and FY2025: the National Communications Authority has its own chapter in the budget book; its telecoms regulation programme is held for both years.,2026-10-03
 SSD,ict-ministry-egov,found,whole,1,ssd-2025-tps-itps-ict,Government of South Sudan eGovernment portal; Government eServices portal,hand,"FY2025: the ICT directorate of Telecom and Postal Services, the ICT ministry's vote.",2026-10-02
 SSD,cybersecurity,absent,,,,,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; no agency or line is a national cybersecurity body. The financial intelligence unit's ICT and system security line is its own.,2026-10-02
 SSD,data-protection,absent,,,,,hand,FY2024 and FY2025: both budget books were read agency by agency on 2026-09-24; no agency or line names data protection.,2026-10-02

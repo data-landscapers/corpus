@@ -966,7 +966,6 @@ MUS,hosting,Cybersecurity agency / National CERT,cybersecurity,CERT-MU,line,mus-
 MUS,hosting,Communications regulator,communications-regulator,Information and Communication Technologies Authority,line,mus-2024-16-1-16-101-26313159
 MUS,hosting,Audit office,,National Audit Office,no line,
 MUS,hosting,Anti-corruption commission,,Financial Crimes Commission,no line,
-MUS,deal-recipient,Private Sector,,FIDO Micro Credit Ltd,no line,
 MWI,hosting,Presidency,,Office of the President and Cabinet,line,mwi-2024-090-001-020-1
 MWI,hosting,Foreign Affairs,,Ministry of Foreign Affairs,line,mwi-2024-260-001-020-1
 MWI,hosting,Armed Forces,,Malawi Defence Force,line,mwi-2024-101-001-020-1
@@ -1155,7 +1154,7 @@ SDN,hosting,E-government agency,ict-ministry-egov,Republic of Sudan national gov
 SDN,hosting,Communications regulator,communications-regulator,Telecommunications and Post Regulatory Authority,no line,
 SEN,hosting,Presidency,,Présidence de la République,no line,
 SEN,hosting,Parliament,,Assemblée nationale,no line,
-SEN,hosting,Foreign Affairs,,Ministère de l'Intégration africaine et des Affaires étrangères,no line,
+SEN,hosting,Foreign Affairs,,Ministère de l'Intégration africaine et des Affaires étrangères,line,sen-2026-31-transformation-digitale
 SEN,hosting,Defence,,Ministère des Forces armées,no line,
 SEN,hosting,Police,,Direction générale de la Police nationale,line,sen-2026-33-2009-cybercriminalite
 SEN,hosting,Justice,,Ministère de la Justice,line,sen-2026-34-1004-dematerialisation-justice
@@ -1168,7 +1167,7 @@ SEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence 
 SEN,hosting,Data protection authority,data-protection,Commission de protection des données personnelles,no line,
 SEN,hosting,Electoral commission,electoral-register,Direction générale des Élections,no line,
 SEN,hosting,Statistics office,statistics,Agence nationale de la Statistique et de la Démographie,line,sen-2026-61-2034-ansd-production-statistique
-SEN,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Action sociale,no line,
+SEN,hosting,Health ministry / National health insurance,,Ministère de la Santé et de l'Action sociale,line,sen-2026-54-pdss
 SEN,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
 SEN,hosting,Sovereign wealth fund / National pension fund,,Fonds souverain d'investissements stratégiques (FONSIS),no line,
 SEN,hosting,Sovereign wealth fund / National pension fund,,Institution de prévoyance retraite du Sénégal (IPRES),no line,
