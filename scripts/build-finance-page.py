@@ -3,14 +3,14 @@
 build-finance-page.py {ISO3} | --all  —  the per-country finance exports.
 
 Called by FINANCE-COMPILE.md (step 4) for each place in scope. Reads that place's
-finance records from raw/ and writes three CSV exports:
+finance records from raw/ and writes two CSV exports:
 
   1. {ISO3}-nonstate.csv  (one row per deal)
   2. {ISO3}-budget.csv    (one row per year x vote/head x programme-line; stages as columns
                            - OSINT's records MERGED with Corpus's own extractions, below)
-  3. {ISO3}-summary.csv   (aggregates by origin x subject x FY, US$m ball-park,
-                           plus one `excluded` row per reason a domestic line sits
-                           outside the total — nothing leaves the aggregate silently)
+
+`{ISO3}-summary.csv`, the aggregate by origin x subject x FY, was a third until 2026-10-03
+*(Bill)*: nothing read it, so the build stopped writing it.
 
 Every row links to its raw/ record. DERIVED — do not hand-edit; rebuilt each compile.
 
@@ -28,9 +28,8 @@ out of it.
 Outputs land in outputs/ so that everything the website serves sits together;
 the build's two INPUTS (fx-imf-annual.csv, financier-names.csv) stay in lookups/
 (Bill, 2026-08-03). The same change retired the per-country {ISO3}.md report page:
-it was a human-readable view of these same three tables, nothing read it, and the
-website renders from the CSVs. Its exclusions note survives as the `excluded` rows
-of the summary export.
+it was a human-readable view of these same tables, nothing read it, and the
+website renders from the CSVs.
 """
 import os, re, sys, csv
 
@@ -39,7 +38,7 @@ import taxonomy_lib                                                             
 import budget_source                                                            # noqa: E402
 from vault_lib import dewiki                                                    # noqa: E402
 from finance_lib import (split_front, fm_get, section, deal_table, raw_sources,  # noqa: E402
-                         load_fx, fx_rate, fin_name)                            # noqa: E402
+                         fin_name)                                              # noqa: E402
 
 RAW = "raw"
 # Corpus's own judgement of each non-state deal's scope. Absolute, because the build runs
@@ -47,7 +46,7 @@ RAW = "raw"
 SCOPE_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))),
                           "lookups", "deal-scope.csv")
 BUDGET_OUT = "outputs/budgets"                 # {ISO3}-budget.csv
-NONSTATE_OUT = "outputs/non-state-finance"     # {ISO3}-nonstate.csv, {ISO3}-summary.csv, all-nonstate.csv
+NONSTATE_OUT = "outputs/non-state-finance"     # {ISO3}-nonstate.csv, all-nonstate.csv
 
 # ---------------------------------------------------------------- small helpers
 def taxonomy_labels():
@@ -64,18 +63,13 @@ def taxonomy_labels():
     return taxonomy_lib.labels()
 
 
-def fy_label_from_year(y):        # commitment year -> fiscal-year label starting that year
-    return f"{y}/{str(int(y)+1)[-2:]}" if y and y.isdigit() else (y or "—")
-
-
 def fy_normalise(lab):
     """`2024/2025` -> `2024/25`, so one fiscal year is one column.
 
-    Non-state lines get their label from `fy_label_from_year`, which always writes the
-    short form; domestic-state lines take `fiscal_year_label` from the record as written,
-    and some are written long. A summary carrying both forms shows a reader two columns
-    for one year — Botswana's had `2025/26` and `2025/2026` side by side (unit review,
-    2026-09-18). Only a genuine consecutive pair is shortened; anything else is left alone.
+    Domestic-state lines take `fiscal_year_label` from the record as written, and some are
+    written long. A table carrying both forms shows a reader two columns for one year —
+    Botswana's had `2025/26` and `2025/2026` side by side (unit review, 2026-09-18). Only a
+    genuine consecutive pair is shortened; anything else is left alone.
 
     **The hyphen is the same label** *(2026-09-20, R53)*. Burundi writes one fiscal year as
     `2026/27` on one record and `2026-2027` on another, both verbatim from the documents, and
@@ -103,20 +97,6 @@ def primary_subject(rec):
         if t and not t.startswith("finance."):
             return t
     return ""
-
-def num(s):
-    """Accepts '123', '123.45', '-123'. Returns int (rounded) or None.
-    Decimals matter: an accounting-system extract reports cents, and the previous
-    isdigit() test silently dropped every such figure to None (ETH, 2026-07-27)."""
-    if s is None:
-        return None
-    t = str(s).strip()
-    if not t:
-        return None
-    try:
-        return int(round(float(t)))
-    except ValueError:
-        return None
 
 def usd_millions(s):
     """'US$355,000,000' -> 355 ; 'US$1.30bn' -> 1300 ; 'US$45m' -> 45 ;
@@ -213,45 +193,7 @@ def line_name(rec):
     ent = re.sub(r'\s*\([^)]*\)\s*$', "", T.get("Spending entity", "")).strip()
     return clean(ent) or rec["deal_id"]
 
-# ---------------------------------------------------------------- USD aggregation
-# load_fx / fx_rate moved to finance_lib 2026-08-03 (review task 25) — the FX table
-# is read by more than this build, and two loaders would eventually round differently.
-
-def in_headline(r):
-    """Domestic record counted in the headline total — matches FINANCE-COMPILE:
-    whole-scope, not a transfer, not an unclear supplementary."""
-    fm = r["fm"]
-    return (fm_get(fm, "scope_confidence") == "whole"
-            and fm_get(fm, "is_transfer") != "true"
-            and fm_get(fm, "supplementary_basis") != "unclear")
-
-EXCL_LABEL = {                                   # reported one line each, per FINANCE-COMPILE
-    "nobase":   "no enacted baseline (⚠ no appropriated figure — revised/outturn only)",
-    "scope":    "partial- or unclear-scope",
-    "transfer": "transfers to a body counted at its own spending end",
-    "supp":     "supplementaries of unclear basis",
-    "nofx":     "no FX rate held for the currency",
-    "nosubj":   "no subject tag",
-}
-
-def excl_reason(r, a, rate):
-    """Why a domestic record sits outside the headline aggregate — first reason wins.
-    Every domestic record lands in the total or in exactly one of these."""
-    fm = r["fm"]
-    if not primary_subject(r):
-        return "nosubj"
-    if a is None:
-        return "nobase"                          # the ⚠ records: FINANCE-COMPILE wants this counted
-    if rate is None:
-        return "nofx"
-    if fm_get(fm, "scope_confidence") != "whole":
-        return "scope"
-    if fm_get(fm, "is_transfer") == "true":
-        return "transfer"
-    if fm_get(fm, "supplementary_basis") == "unclear":
-        return "supp"
-    return ""
-
+# ---------------------------------------------------------------- deal year, window, scope
 def deal_year(r):
     """The deal's own year, which is authoritative (Bill, 2026-09-23): the commitment year, else
     the start year, else the record's publication year. The commitment year leads (Bill,
@@ -327,33 +269,6 @@ def scope_note(out, halved, unassessed):
 def share(r):
     return SCOPE_SHARE if r.get("scope") in HALF_SCOPES else 1
 
-
-def aggregate3(ns, dom, fx):
-    """Both blocks US$m (ball-park). Domestic converted at the IMF annual average for
-    the currency and the fiscal year's START year. Excluded lines are reported apart,
-    by reason — nothing leaves the aggregate silently."""
-    nsb, doms = {}, {}
-    fys_ns, fys_dom = set(), set()
-    excl = {}                                    # reason -> [count, US$m where computable]
-    for r in ns:
-        s = primary_subject(r); fy = fy_label_from_year(deal_year(r))
-        u = usd_millions(r["table"].get("Commitment (USD)", ""))
-        if s and u:
-            u *= share(r)
-            nsb.setdefault(s, {}).setdefault(fy, 0); nsb[s][fy] += u; fys_ns.add(fy)
-    for r in dom:
-        s = primary_subject(r); fy = fy_normalise(fm_get(r["fm"], "fiscal_year_label"))
-        a = num(fm_get(r["fm"], "appropriated_total"))
-        rate = fx_rate(fx, fm_get(r["fm"], "currency"), fm_get(r["fm"], "fy_start")[:4])
-        why = excl_reason(r, a, rate)
-        if not why:
-            doms.setdefault(s, {}).setdefault(fy, 0); doms[s][fy] += a / rate / 1e6; fys_dom.add(fy)
-            continue
-        e = excl.setdefault(why, [0, 0.0])
-        e[0] += 1
-        if a is not None and rate:
-            e[1] += a / rate / 1e6
-    return nsb, fys_ns, doms, fys_dom, excl
 
 # ---------------------------------------------------------------- CSV exports
 # Canonical financier display name (approved map -> entity-page title -> prettified
@@ -547,31 +462,6 @@ def csv_budget(dom, iso3, path):
                         r.get("record_ref") or r["fn"][:-3],
                         r.get("line_name") or line_name(r)])
 
-def csv_summary(ns, dom, lab, path, fx):
-    nsb, fys_ns, doms, fys_dom, excl = aggregate3(ns, dom, fx)
-    fys = sorted(set(fys_ns) | set(fys_dom))
-    with open(path, "w", newline="", encoding="utf-8-sig") as f:   # BOM for Excel
-        w = csv.writer(f)
-        blank = ["", ""]                       # the two exclusion columns, empty on a real row
-        w.writerow(["origin", "unit", "subject_slug", "subject"] + fys
-                   + ["excluded_lines", "excluded_usd_m"])
-        for s in sorted(nsb, key=lambda k: -sum(nsb[k].values())):
-            w.writerow(["non-state", "US$m", s, lab.get(s, s)]
-                       + [(f"{nsb[s][fy]:.0f}" if nsb[s].get(fy) else "") for fy in fys] + blank)
-        for s in sorted(doms, key=lambda k: -sum(doms[k].values())):
-            w.writerow(["domestic-state", "US$m (IMF annual avg)", s, lab.get(s, s)]
-                       + [(f"{doms[s][fy]:.0f}" if doms[s].get(fy) else "") for fy in fys] + blank)
-        # Every domestic line is either in the total above or in exactly one row here.
-        # These rows carry what the retired report page's "held but excluded" note carried;
-        # without them the exclusions leave the aggregate silently, which is the one thing
-        # aggregate3 exists to prevent.
-        for k in ("nobase", "scope", "transfer", "supp", "nofx", "nosubj"):
-            if k not in excl:
-                continue
-            n, usd = excl[k]
-            w.writerow(["excluded", "", k, EXCL_LABEL[k]] + ["" for _ in fys]
-                       + [n, (f"{usd:.0f}" if usd else "")])
-
 # ---------------------------------------------------------------- assemble
 def scan_all():
     """One pass over raw/: bucket every finance record under each place it tags."""
@@ -656,14 +546,9 @@ def swap_note(iso3, swaps):
     return f"  [budgets/budgets-{iso3}.csv: " + "; ".join(parts) + "]"
 
 
-def build_one(iso3, ns, dom, lab, fx):
+def build_one(iso3, ns, dom, lab):
     csv_nonstate(ns, lab, iso3, os.path.join(NONSTATE_OUT, f"{iso3}-nonstate.csv"))
     dom, swaps = merge_source(iso3, dom)
-    # The summary is built from the merged set too. It is not read by any renderer today,
-    # but it sits in the same folder as the export and aggregates the same lines — two files
-    # one build writes from two different readings of one country-year is the kind of
-    # disagreement nobody finds until it is quoted.
-    csv_summary(ns, dom, lab, os.path.join(NONSTATE_OUT, f"{iso3}-summary.csv"), fx)
     budget_csv = os.path.join(BUDGET_OUT, f"{iso3}-budget.csv")
     if dom:
         csv_budget(dom, iso3, budget_csv)
@@ -679,7 +564,6 @@ def main():
         print(__doc__.strip())
         return 0
     lab = taxonomy_labels()
-    fx = load_fx()
     for d in (BUDGET_OUT, NONSTATE_OUT):
         os.makedirs(d, exist_ok=True)
     if arg == "--all":
@@ -694,7 +578,7 @@ def main():
             by_place.setdefault(iso3, {"ns": [], "dom": []})
         budget_source.update()
         for iso3 in sorted(by_place):
-            nn, nd, swaps = build_one(iso3, by_place[iso3]["ns"], by_place[iso3]["dom"], lab, fx)
+            nn, nd, swaps = build_one(iso3, by_place[iso3]["ns"], by_place[iso3]["dom"], lab)
             print(f"  {iso3}: {nn} non-state, {nd} domestic" + swap_note(iso3, swaps))
         n_all = csv_nonstate_all(by_place, lab, os.path.join(NONSTATE_OUT, "all-nonstate.csv"))
         print(f"wrote CSV exports for {len(by_place)} places to {NONSTATE_OUT}/ and "
@@ -705,7 +589,7 @@ def main():
         print(scope_note(*in_scope(by_place, load_scope())))
         b = by_place.get(arg, {"ns": [], "dom": []})     # place-based, matches --all exactly
         budget_source.update(arg)       # the country file's budget_usd, then the all-countries file
-        nn, nd, swaps = build_one(arg, b["ns"], b["dom"], lab, fx)
+        nn, nd, swaps = build_one(arg, b["ns"], b["dom"], lab)
         print(f"wrote {arg} CSV exports  ({nn} non-state, {nd} domestic)"
               + swap_note(arg, swaps))
 

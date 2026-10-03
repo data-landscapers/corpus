@@ -48,7 +48,7 @@ standing note rather than a pattern to repeat deliberately.
 **The budget section is the non-state section again** *(Bill, 2026-10-01)*: a topic-by-year
 pivot on `index.html`, the full table on `budgets.html`, and the country's CSV beside them. It
 reads `budgets/budgets-{ISO3}.csv`, Corpus's own source, as `finance.py` reads the all-countries
-file; `{ISO3}-summary.csv` is still not read. A place with no budget file keeps the *Public
+file. A place with no budget file keeps the *Public
 budgeting and expenditure* heading and one sentence saying the work is under way *(Bill,
 2026-08-25)*: a reader who finds nothing about budgets cannot tell an absent subject from an
 absent finding, and the heading is what makes the difference visible.
