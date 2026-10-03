@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Eswatini's 2024/25 budget table gains the outturn for four departments, from the 2026/27 estimates. The research and technology department spent SZL 129.6m against 118.8m voted; civil registration SZL 38.3m against 32.0m.
 - Kenya's budget tables gain a revised figure for nine recurrent lines and four more development projects, read from the following year's estimates. Voter registration was cut from KES 68.4m to 54.0m in 2024/25 and raised to KES 2.57bn in 2025/26.
 - Mauritius's budget tables gain nine lines that one year held and the other did not: six for 2025/26, the largest the digitisation of archives and the Tourism Authority's information system (Rs 6.5m each), and three for 2026/27, the largest equipment for early digital learning (Rs 32m). A check of each year's lines against the other found them.
 - Lesotho's five 2024/25 projects and two Liberian bodies for 2025 now show a revised figure, from the governments' mid-year reviews. Lesotho's were unchanged at mid-year; Liberia's statistics institute lost USD 7,200 to transfers.
