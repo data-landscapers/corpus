@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Tables now open on 100 rows, with a *Show 100 more* button beneath. Filter, sort and search still cover every row; the browser's own find reaches only the rows shown.
 - Non-state finance has a new column, `african`: African or non-African, by the financier. It is a filter on every non-state finance table.
 - In all finance, `type` no longer says other finance: it says other African finance or other non-African finance. Aid and budget rows are unchanged.
 

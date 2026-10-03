@@ -1,4 +1,4 @@
-/* datatable.js — the shared data table for data-landscapers and Corpus. v3 (2026-08-19)
+/* datatable.js — the shared data table for data-landscapers and Corpus. v4 (2026-10-03)
 
    **This file is canonical.** It lives in `data-landscapers/assets/shared/` and
    Corpus carries a copy at `site/assets/js/datatable.js` with a `DATATABLE-FROM`
@@ -71,6 +71,15 @@
    The CSV parser is a character scan rather than a line split, because 44 cells in
    the all-Africa finance export carry newlines inside quoted fields and a
    line-splitting parser tears those rows in half without saying so.
+
+   ── v4 (2026-10-03) ─────────────────────────────────────────────────────────
+
+   v3 drew every row it was given, which was right for 200 data centres and froze
+   the page at 11,000 budget lines: 224,451 elements, 3.6 seconds a sort. The table
+   now holds every row in memory, filters, sorts and searches all of them, and
+   draws PAGE at a time with a *Show 100 more* control beneath *(Bill, ruling R109)*.
+   Any filter, sort or search returns to the first PAGE. One cost: the browser's
+   own find does not reach a row that is not drawn. The search box does.
 */
 (function () {
   'use strict';
@@ -80,6 +89,7 @@
   var FIT = 1;            // ...and this share of a column's cells must manage it
   var MIN_W = 66;         // px, before padding — narrower than this reads as a sliver
   var MAX_W = 500;        // px, the ceiling; only a column that cannot fit reaches it
+  var PAGE = 100;         // rows drawn at first, and added by each "Show more"
 
   /* ── CSV ──────────────────────────────────────────────────────────────── */
   function parseCSV(text) {
@@ -134,11 +144,14 @@
     return isNaN(n) ? null : n;
   }
 
-  function fmtCount(shown, total) {
-    var r = total === 1 ? ' row' : ' rows';
-    return shown === total
-      ? total.toLocaleString() + r
-      : shown.toLocaleString() + ' of ' + total.toLocaleString() + r;
+  /* "100 of 10,960 rows": what is drawn, of what the filters and search leave.
+     Where they leave less than the file holds, the file's count follows. */
+  function fmtCount(drawn, matched, total) {
+    var r = matched === 1 ? ' row' : ' rows';
+    var s = drawn < matched
+      ? drawn.toLocaleString() + ' of ' + matched.toLocaleString() + r
+      : matched.toLocaleString() + r;
+    return matched < total ? s + ', filtered from ' + total.toLocaleString() : s;
   }
 
   /* A URL is shown as host + a trimmed tail; the full thing sits in the title. */
@@ -622,7 +635,8 @@
           +     '<thead><tr></tr></thead></table></div>'
           + '</div>'
           + '<div class="dt-body-scroll"><table class="data-table dt-body"><colgroup></colgroup>'
-          +   '<tbody></tbody></table></div>';
+          +   '<tbody></tbody></table></div>'
+          + '<div class="dt-more" hidden><button type="button" class="btn btn--sm"></button></div>';
         var scrollTop = wrap.querySelector('.dt-scroll-top');
         var scrollTopInner = wrap.querySelector('.dt-scroll-top__inner');
         var headScroll = wrap.querySelector('.dt-head-scroll');
@@ -631,6 +645,8 @@
         var bodyTable = wrap.querySelector('.dt-body');
         var headRow = wrap.querySelector('.dt-head tr');
         var tbody = wrap.querySelector('.dt-body tbody');
+        var more = wrap.querySelector('.dt-more');
+        var moreBtn = more.querySelector('button');
         container.replaceChild(wrap, msg);
 
         /* Header cells first — the width measurement reads its fonts off them. */
@@ -706,9 +722,38 @@
         }
 
         var current = [];        // the rows as currently ordered, for the detail panel
+        var drawn = 0;           // how many of them are in the page
 
+        function rowHtml(r) {
+          var row = current[r];
+          var tds = '<td class="dt-caret"></td>';          // the mark is CSS: an element a row saved
+          for (var c = 0; c < cols.length; c++) {
+            var ci = cols[c];
+            tds += '<td' + (numeric[ci] ? ' class="num"' : '') + '>' + cellHtml(ci, row[ci]) + '</td>';
+          }
+          return '<tr class="dt-row" data-i="' + r + '" tabindex="0">' + tds + '</tr>';
+        }
+
+        /* The next PAGE of `current`, appended — so a row already open stays open
+           and the reader's place on the page does not move. */
+        function drawMore() {
+          var to = Math.min(current.length, drawn + PAGE), html = [];
+          for (var r = drawn; r < to; r++) html.push(rowHtml(r));
+          tbody.insertAdjacentHTML('beforeend', html.join(''));
+          drawn = to;
+          var left = current.length - drawn;
+          more.hidden = !left;
+          if (left) moreBtn.textContent = 'Show ' + Math.min(PAGE, left).toLocaleString() + ' more';
+          if (countEl) countEl.textContent = fmtCount(drawn, current.length, rows.length);
+        }
+        moreBtn.addEventListener('click', drawMore);
+
+        /* Every filter, sort and search comes through here, and each starts again
+           from the first PAGE: the order under the reader has changed, so the rows
+           they had asked for more of are no longer the rows above. */
         function render() {
           current = ordered(selected());
+          drawn = 0;
 
           Array.prototype.forEach.call(headRow.cells, function (th, i) {
             th.classList.remove('sort-asc', 'sort-desc');
@@ -723,21 +768,12 @@
           if (!current.length) {
             tbody.innerHTML = '<tr class="dt-none"><td colspan="' + (cols.length + 1) + '">'
               + esc(emptyMsg) + '</td></tr>';
+            more.hidden = true;
+            if (countEl) countEl.textContent = fmtCount(0, 0, rows.length);
           } else {
-            var html = new Array(current.length);
-            for (var r = 0; r < current.length; r++) {
-              var row = current[r];
-              var tds = '<td class="dt-caret"><span aria-hidden="true">›</span></td>';
-              for (var c = 0; c < cols.length; c++) {
-                var ci = cols[c];
-                tds += '<td' + (numeric[ci] ? ' class="num"' : '') + '>' + cellHtml(ci, row[ci]) + '</td>';
-              }
-              html[r] = '<tr class="dt-row" data-i="' + r + '" tabindex="0">' + tds + '</tr>';
-            }
-            tbody.innerHTML = html.join('');
+            tbody.innerHTML = '';
+            drawMore();
           }
-
-          if (countEl) countEl.textContent = fmtCount(current.length, rows.length);
         }
 
         /* ── the detail panel ─────────────────────────────────────────────

@@ -11,15 +11,38 @@
  * matching its name, a filter naming a column that is not there, a colgroup the
  * two tables disagree about.
  *
- * Add a page by adding a `suite(...)` line at the foot. Two today: one country's
- * finance table, and the all-Africa table on the Finance page.
+ * Add a page by adding a `suite(...)` line at the foot. Five today: a country's
+ * finance and budget tables, and the three all-Africa tables.
+ *
+ * A dated edition lives in R2 and not in the tree, so a CSV the tree does not hold
+ * is fetched from the live site. The table draws PAGE rows at a time; `paging`
+ * holds that, and the first draw to the element ceiling `lint-page-weight.py` uses.
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { JSDOM } from 'jsdom';
+import { JSDOM, VirtualConsole } from 'jsdom';
 
 const CORPUS = process.env.CORPUS || '/sessions/fervent-intelligent-lovelace/mnt/CORPUS';
 const JS = fs.readFileSync(path.join(CORPUS, 'site/assets/js/datatable.js'), 'utf8');
+const LIVE = 'https://corpus.data-landscapers.io';
+const PAGE = 100;            // rows drawn at first, and added by each "Show more"
+const MAX_ELEMENTS = 3000;   // elements on a table page at first draw (Bill, ruling R110)
+
+/* The CSV a page's `data-src` names: the tree's copy, else the live site's. */
+const csvCache = new Map();
+async function csvFor(pageRel, src) {
+  const rel = path.posix.join(path.posix.dirname(pageRel).replace(/^site\/?/, ''), src.split('?')[0]);
+  if (csvCache.has(rel)) return csvCache.get(rel);
+  const local = path.join(CORPUS, 'site', rel);
+  let text = null;
+  if (fs.existsSync(local)) text = fs.readFileSync(local, 'utf8');
+  else {
+    const r = await fetch(`${LIVE}/${rel}`);
+    if (r.ok) text = await r.text();
+  }
+  csvCache.set(rel, text);
+  return text;
+}
 
 let failures = 0;
 function check(label, cond, detail = '') {
@@ -28,24 +51,25 @@ function check(label, cond, detail = '') {
 }
 
 async function load(pageRel) {
-  const pageDir = path.dirname(path.join(CORPUS, pageRel));
   const dom = new JSDOM(fs.readFileSync(path.join(CORPUS, pageRel), 'utf8'), {
-    runScripts: 'outside-only', pretendToBeVisual: true,
+    runScripts: 'outside-only', pretendToBeVisual: true, virtualConsole: new VirtualConsole(),
   });
   dom.window.fetch = async (url) => {
-    const p = path.join(pageDir, url);
-    if (!fs.existsSync(p)) return { ok: false, status: 404, statusText: 'not found' };
-    return { ok: true, status: 200, text: async () => fs.readFileSync(p, 'utf8') };
+    const text = await csvFor(pageRel, url);
+    if (text == null) return { ok: false, status: 404, statusText: 'not found' };
+    return { ok: true, status: 200, text: async () => text };
   };
   dom.window.eval(JS);
-  // The component fetches, so let the microtasks and its 60 ms settle timer run.
-  await new Promise(r => setTimeout(r, 300));
+  // The component fetches, so wait for the frame rather than for a fixed time.
+  for (let i = 0; i < 200 && !dom.window.document.querySelector('.dt-frame, .dt-msg--err'); i++) {
+    await new Promise(r => setTimeout(r, 50));
+  }
+  await new Promise(r => setTimeout(r, 50));
   return dom.window.document;
 }
 
 async function expectedRows(pageRel, doc) {
-  const src = doc.querySelector('.dl-datatable').dataset.src;
-  const csv = fs.readFileSync(path.join(path.dirname(path.join(CORPUS, pageRel)), src), 'utf8');
+  const csv = await csvFor(pageRel, doc.querySelector('.dl-datatable').dataset.src) || '';
   // Count records the way csv.reader does: quote-aware, so embedded newlines
   // inside a description do not read as extra rows.
   let n = 0, inQ = false, seen = false;
@@ -66,9 +90,13 @@ async function suite(pageRel, opts) {
   const body = doc.querySelectorAll('.dt-body tbody tr');
   const head = doc.querySelectorAll('.dt-head thead th');
   const want = await expectedRows(pageRel, doc);
+  const first = Math.min(PAGE, want);
 
   check('table rendered', body.length > 0, doc.querySelector('.dt-msg')?.textContent || 'no rows');
-  check(`row count matches the CSV (${want})`, body.length === want, `rendered ${body.length}`);
+  if (!body.length) return;
+  check(`first draw is ${first} of the CSV's ${want}`, body.length === first, `rendered ${body.length}`);
+  const elements = doc.querySelectorAll('*').length;
+  check(`first draw is under ${MAX_ELEMENTS} elements (${elements})`, elements <= MAX_ELEMENTS);
   check('every row has a full set of cells',
     [...body].every(tr => tr.cells.length === head.length),
     `header has ${head.length}`);
@@ -96,13 +124,12 @@ async function suite(pageRel, opts) {
   /* Wiki-link syntax must not reach a reader. ZAF's data carries one; the CSV
    * still holds it, because published editions are not rewritten, so this checks
    * the render — that the brackets are gone and the text inside them survived. */
-  const raw = fs.readFileSync(
-    path.join(path.dirname(path.join(CORPUS, pageRel)), box.dataset.src), 'utf8');
+  const raw = await csvFor(pageRel, box.dataset.src);
   const wiki = [...raw.matchAll(/\[\[([^\]|]*\|)?([^\]]+)\]\]/g)].map(m => m[2]);
   const shownText = doc.querySelector('.dt-body tbody').textContent;
   check(`no [[wiki link]] is rendered (${wiki.length} in the CSV)`,
     !shownText.includes('[['), shownText.slice(shownText.indexOf('[['), shownText.indexOf('[[') + 60));
-  if (wiki.length) {
+  if (wiki.length && want <= PAGE) {
     check('and the text inside them survived', shownText.includes(wiki[0]), wiki[0]);
   }
 
@@ -115,6 +142,57 @@ async function suite(pageRel, opts) {
   check('initial sort applied', !!sorted, box.dataset.sort);
 
   await interactions(doc, want, opts);
+  await paging(doc, want);
+}
+
+/* A hundred rows at a time. Filter, sort and search still run over every row; what
+ * is held to PAGE is what is drawn, and anything that reorders the rows goes back
+ * to the first PAGE. */
+async function paging(doc, total) {
+  const win = doc.defaultView;
+  const drawn = () => doc.querySelectorAll('.dt-body tbody tr.dt-row').length;
+  const count = () => doc.querySelector('.dt-count').textContent;
+  const more = doc.querySelector('.dt-more'), btn = more.querySelector('button');
+  const click = () => btn.dispatchEvent(new win.MouseEvent('click', { bubbles: true }));
+  const n = v => v.toLocaleString();
+
+  if (total <= PAGE) {
+    check('no "Show more" on a table that fits in one draw', more.hidden);
+    check('the count is the row count', count() === `${n(total)} ${total === 1 ? 'row' : 'rows'}`, count());
+    return;
+  }
+  check('the count reads drawn of total', count() === `${PAGE} of ${n(total)} rows`, count());
+  const step = Math.min(PAGE, total - PAGE);
+  check('"Show more" says how many it adds', !more.hidden && btn.textContent === `Show ${step} more`,
+    btn.textContent);
+
+  doc.querySelector('.dt-body tbody tr.dt-row').dispatchEvent(new win.MouseEvent('click', { bubbles: true }));
+  click();
+  check(`and adds them (${PAGE + step})`, drawn() === PAGE + step, `${drawn()} drawn`);
+  check('a detail panel open above survives the append', !!doc.querySelector('.dt-body tr.dt-detail'));
+  const rows = doc.querySelectorAll('.dt-body tbody tr.dt-row');
+  check('appended rows carry their place in the order',
+    +rows[rows.length - 1].dataset.i === PAGE + step - 1, rows[rows.length - 1].dataset.i);
+
+  doc.querySelector('.dt-head thead th:nth-child(2)').dispatchEvent(new win.Event('click'));
+  check('a sort returns to the first draw', drawn() === PAGE && !more.hidden, `${drawn()} drawn`);
+
+  click();
+  const box = doc.querySelector('.dt-search');
+  box.value = 'zzzz-not-in-this-data'; box.dispatchEvent(new win.Event('input'));
+  await new Promise(r => setTimeout(r, 250));
+  check('a search with no hits hides the control',
+    more.hidden && count() === `0 rows, filtered from ${n(total)}`, count());
+  box.value = ''; box.dispatchEvent(new win.Event('input'));
+  await new Promise(r => setTimeout(r, 250));
+  check('clearing the search returns to the first draw', drawn() === PAGE, `${drawn()} drawn`);
+
+  click();
+  const sel = doc.querySelector('.dt-filter');
+  sel.value = sel.options[1].value; sel.dispatchEvent(new win.Event('change'));
+  check('a filter returns to the first draw',
+    drawn() <= PAGE && count().endsWith(`, filtered from ${n(total)}`), `${drawn()} drawn, ${count()}`);
+  sel.value = ''; sel.dispatchEvent(new win.Event('change'));
 }
 
 /* The column widths, which v1 left to the browser and got badly wrong: a column
@@ -160,7 +238,7 @@ function widths(doc, box) {
    * where no width would have satisfied it — `description` is the whole of that
    * case, and is why the detail panel exists. */
   const td = doc.querySelector('.dt-body td');
-  const size = parseFloat(doc.defaultView.getComputedStyle(td).fontSize) || 16;
+  const size = parseFloat(doc.defaultView.getComputedStyle(td).fontSize) || 14;   // the component's fallback
   const pad = (parseFloat(doc.defaultView.getComputedStyle(td).paddingLeft) || 0) * 2;
   const m = s => String(s || '').length * size * 0.52, sp = m(' ');
   const lines = (t, w) => {
@@ -224,7 +302,11 @@ async function expander(doc, box) {
     const repeats = shown.filter(f => cols.includes(f) && !also.includes(f));
     check('and repeats a column only where data-detail asks it to',
       repeats.length === 0, repeats.join(', '));
-    also.forEach(f => check(`data-detail carried ${f} into the panel`, shown.includes(f)));
+    // The panel leaves out a field this row holds nothing in, so one is enough.
+    if (also.length) {
+      check('data-detail carried its fields into the panel', also.some(f => shown.includes(f)),
+        `asked ${also.join(', ')}; shown ${shown.join(', ')}`);
+    }
     check('the panel spans the whole table',
       +det.querySelector('td').getAttribute('colspan') === cols.length + 1);
   }
@@ -250,8 +332,9 @@ async function interactions(doc, want, opts) {
   sel.value = pick; sel.dispatchEvent(new win.Event('change'));
   await settle(30);
   const filtered = rows();
-  check('a filter narrows the table', filtered > 0 && filtered < want, `${pick} -> ${filtered}`);
-  check('the count says so', /of/.test(doc.querySelector('.dt-count').textContent));
+  check('a filter narrows the table, and the count says so',
+    filtered > 0 && /filtered from/.test(doc.querySelector('.dt-count').textContent),
+    `${pick} -> ${filtered}, ${doc.querySelector('.dt-count').textContent}`);
 
   const box = doc.querySelector('.dt-search');
   box.value = 'zzzz-not-in-this-data'; box.dispatchEvent(new win.Event('input'));
@@ -262,7 +345,7 @@ async function interactions(doc, want, opts) {
   box.value = ''; box.dispatchEvent(new win.Event('input'));
   sel.value = ''; sel.dispatchEvent(new win.Event('change'));
   await settle(250);
-  check('clearing both restores every row', rows() === want, `${rows()} of ${want}`);
+  check('clearing both restores the first draw', rows() === Math.min(PAGE, want), `${rows()} of ${want}`);
 
   const mi = label('commitment_usd_m');
   if (mi > -1) {
@@ -283,7 +366,10 @@ async function interactions(doc, want, opts) {
 }
 
 await suite("site/countries/ZAF/finance.html", { linkCol: true, labelled: false });
+await suite("site/countries/NGA/budgets.html", { linkCol: false, labelled: false });
 await suite("site/finance/index.html", { linkCol: true, labelled: true });
+await suite("site/finance/budgets/index.html", { linkCol: false, labelled: true });
+await suite("site/finance/all/index.html", { linkCol: false, labelled: true });
 
 console.log(failures ? `\n${failures} failure(s)` : '\nall checks passed');
 process.exit(failures ? 1 : 0);

@@ -203,11 +203,19 @@
   cursor: pointer;
   user-select: none;
 }
-.dl-datatable td.dt-caret span { display: inline-block; transition: transform 0.12s; }
+/* The mark is generated content, not a <span>: one element fewer in every row
+   drawn, which is a hundred off a page held to 3,000. The second `content` gives
+   it empty alternative text where the browser reads that syntax. */
+.dl-datatable td.dt-caret::before {
+  content: "›";
+  content: "›" / "";
+  display: inline-block;
+  transition: transform 0.12s;
+}
 .dl-datatable tr.dt-row { cursor: pointer; }
 .dl-datatable tr.dt-row:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
 .dl-datatable tr.dt-row--open { background: color-mix(in srgb, var(--accent) 10%, white) !important; }
-.dl-datatable tr.dt-row--open td.dt-caret span { transform: rotate(90deg); color: var(--accent); }
+.dl-datatable tr.dt-row--open td.dt-caret::before { transform: rotate(90deg); color: var(--accent); }
 
 .dl-datatable .dt-detail__cell {
   padding: 0.9rem 1.2rem 1.1rem 2rem;
@@ -237,6 +245,17 @@
   color: var(--ink-faint);
   font-size: 0.85rem;
 }
+
+/* ── Show more: the table draws a hundred rows at a time (datatable.js → drawMore) ── */
+.dl-datatable .dt-more {
+  padding: 0.8rem 1rem;
+  border-top: 1px solid var(--rule);
+  text-align: center;
+}
+.dl-datatable .dt-more[hidden] { display: none; }
+/* A <button> brings the browser's grey; `.btn` was written for anchors and sets none. */
+.dl-datatable .dt-more .btn { cursor: pointer; }
+.dl-datatable .dt-more .btn:not(:hover) { background: white; }
 
 /* ── Messages ── */
 .dl-datatable .dt-msg {
