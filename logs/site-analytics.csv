@@ -35,5 +35,7 @@ date,host,views,users,sessions,clicks,impressions,fetched_at
 2026-09-29,data-landscapers.io,50,29,33,0,387,2026-10-01T20:40:11Z
 2026-09-30,corpus.data-landscapers.io,172,23,32,3,683,2026-10-02T21:08:59Z
 2026-09-30,data-landscapers.io,97,51,56,1,357,2026-10-01T20:40:11Z
-2026-10-01,corpus.data-landscapers.io,179,43,47,2,561,2026-10-02T21:08:59Z
-2026-10-01,data-landscapers.io,50,36,38,0,219,2026-10-02T21:08:59Z
+2026-10-01,corpus.data-landscapers.io,179,43,47,3,565,2026-10-03T20:31:03Z
+2026-10-01,data-landscapers.io,50,36,38,0,221,2026-10-03T20:31:03Z
+2026-10-02,corpus.data-landscapers.io,51,20,26,3,834,2026-10-03T20:31:03Z
+2026-10-02,data-landscapers.io,36,24,27,0,249,2026-10-03T20:31:03Z
