@@ -24,7 +24,7 @@ The wiki's machinery — ingest, index membership, the acquisition queue — ass
 - **The ledger** carries movement over a rolling thirteen months. Status has no window, so this process neither reads nor writes `ledger.csv`.
 - **Index membership** (report-layer check G) protects reports compiled from the wiki. Status draws on sources the wiki does not hold by design, so check A widens the set to the evidence the process read.
 
-**Keeping the baseline current is BUILD's job** (`BUILD.md` → *Maintaining the status baseline*). From the moment this process has run on a unit, `report-render.py` drops `status` from that unit's document set: a ledger render of an authored baseline is a total loss reported as a successful build.
+**Keeping the baseline current is BUILD's job** (`REPORT-UPDATE.md` → *Maintaining the status baseline*). From the moment this process has run on a unit, `report-render.py` drops `status` from that unit's document set: a ledger render of an authored baseline is a total loss reported as a successful build.
 
 ## Why borderline evidence is dropped
 

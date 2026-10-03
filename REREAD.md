@@ -12,7 +12,7 @@ nothing in it needs the session that found the defect.)*
 
 **The one-line brief for a fresh session.** *Stage 4 read evidence, marked it
 considered, minted nothing, and the reports then published ***No evidence*** over a
-base that holds the answer. `BUILD.md` stage 4 step 2 is corrected; nine units are
+base that holds the answer. `REPORT-UPDATE.md` step 2 is corrected; nine units are
 reopened; repair them one at a time with the loop below.* Benin is done and is the
 worked example.
 
@@ -33,7 +33,7 @@ for, nothing more.
 
 ## The rule this repair exists to apply
 
-`BUILD.md` stage 4 step 2, as corrected on 2026-09-10:
+`REPORT-UPDATE.md` step 2, as corrected on 2026-09-10:
 
 > *"Nothing moves" is about a position the ledger already holds.* Where the ledger
 > holds **no** position on the thing a source names, the source is the first record

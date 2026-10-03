@@ -45,7 +45,7 @@ The run is identifiable: `96110c3`, 2026-09-04, *"BEN: 128 sources read, the sta
 base minted and the India gap settled"*. It did not die. It read 128 sources, minted
 twelve ledger rows (114 → 126), mapped thirteen indicators (59 → 70), revised two
 baseline sub-sections, and marked the remaining 106 slugs considered — **which is exactly
-what `BUILD.md` stage 4 step 2 tells it to do**:
+what `REPORT-UPDATE.md` step 2 tells it to do**:
 
 > *default: nothing moves* — most sources report activity, not movement. Do **not** attach
 > a slug to a row that did not move.
@@ -67,7 +67,7 @@ movement — so it falls to the default and disappears. For Benin:
 | `brief: progress` | 111 | 84 | 4 |
 
 **And the mark is what makes it permanent.** Stage 4 reads "only the sources the ledger has
-not yet considered — a set difference over slugs", and `BUILD.md` -> *Stage 4* states the
+not yet considered — a set difference over slugs", and `REPORT-UPDATE.md` states the
 consequence: *"an item already considered is never reopened."* `report-scan.py --json`
 reports **zero unconsidered sources across all 54 units**: as far as the build is
 concerned there is nothing left to read, and there never will be.
@@ -115,7 +115,7 @@ will discard them again. The repair has two halves and the second is the one tha
    **a source that establishes a standing position where the ledger holds none mints a
    row, with `movement: Baseline not held`.** That vocabulary value already exists and
    already means exactly this. The row test in `report-layer.md` §1 is the text to change,
-   and `BUILD.md` stage 4 step 2 the procedure.
+   and `REPORT-UPDATE.md` step 2 the procedure.
 2. **The re-read.** Un-mark the affected slugs and run stage 4 over them under the
    corrected rule. 860 sources over 22 units, each needing a decision and a mapping row
    where it mints.

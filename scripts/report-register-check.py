@@ -570,7 +570,7 @@ def main():
         if legacy and not MARKER.search(open(path, encoding="utf-8").read()):
             continue                             # re-rendered: its prose is in indicators.csv now
         # **An initialised unit's status report is authored, not rendered, and carries no
-        # narrative markers** — `BUILD.md` → *Maintaining the status baseline*. Reading it for
+        # narrative markers** — `REPORT-UPDATE.md` → *Maintaining the status baseline*. Reading it for
         # marker words scored 40 of the 54 status reports at nought and reported each of them
         # 1,000 words under band, while every one of them held thousands of words of live prose:
         # the same defect this file already names for the progress document, in the one place a

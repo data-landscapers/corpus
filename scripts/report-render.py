@@ -964,7 +964,7 @@ def blocker(path, subj=None):
     document a reader may download — a note-to-self that had escaped into the deliverable. An
     empty marker pair says the same thing to a drafter and to `--check`, and says nothing at all
     to a reader or to the PDF. The condition should not arise in the first place: BUILD does not
-    release a document with an unwritten block (BUILD.md -> Narrative integrity), and `--check`
+    release a document with an unwritten block (REPORT-UPDATE.md -> Narrative integrity), and `--check`
     counts them so BUILD can see what is left to write."""
     keep = existing_blocks(path)
     retired = set()
@@ -1265,7 +1265,7 @@ def render_monthly(unit, today, month, end=None):
     previous month's update on disk under its old heading, so a quiet place silently publishes a
     stale page instead of the finding that it was quiet. An absence of movement is a finding, and
     the renderer states it in its own voice — no narrative block, because there is no empty box to
-    hand a drafter (BUILD.md -> Narrative integrity)."""
+    hand a drafter (REPORT-UPDATE.md -> Narrative integrity)."""
     folder, ledger, _ = load(unit)
     if not ledger:
         print(f"{unit}: ledger is empty — nothing to render")
@@ -1646,7 +1646,7 @@ def check_narrative(unit):
     """Check L — no document carries an unwritten narrative block *(Bill, 2026-08-14)*.
 
     `_(narrative not yet written)_` is not acceptable, and nor is the empty block that replaced
-    it: both mean a section was published with nothing said about it. BUILD.md -> Narrative
+    it: both mean a section was published with nothing said about it. REPORT-UPDATE.md -> Narrative
     integrity gives the two ways out — remove the section, or write the sentence explaining why
     there is no narrative.
 

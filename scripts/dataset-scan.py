@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""dataset-scan.py — the script gate of the datasets stage (BUILD.md stage 4b; datasets.md T7).
+"""dataset-scan.py — the script gate of the datasets stage (BUILD.md stage 4b, DATASET-UPDATE.md; datasets.md T7).
 
 Which raw/ records a dataset has not yet considered, and the packet a model reads to decide them.
 Run from `scripts/.workroot/`, like `report-scan.py`, whose set-difference logic this follows: a

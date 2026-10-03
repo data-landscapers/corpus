@@ -114,7 +114,7 @@ Prose here. Every interpretive sentence carries its citation.
 <!-- /narrative -->
 ```
 
-**No document carries an unwritten narrative block, in any form.** An unwritten block is emitted **empty**, and check L fails on it. BUILD.md → *Narrative integrity* governs: remove the section, or write the sentence explaining why there is no suitable narrative.
+**No document carries an unwritten narrative block, in any form.** An unwritten block is emitted **empty**, and check L fails on it. REPORT-UPDATE.md → *Narrative integrity* governs: remove the section, or write the sentence explaining why there is no suitable narrative.
 
 **Every table row carries its citation on the cell that makes the claim** — status, or progress end-position — linked to the first of the row's `sources` that resolves through the catalogue. A ***Not held*** or ***Baseline not held*** cell is never linked.
 

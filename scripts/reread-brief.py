@@ -18,7 +18,7 @@ eight more times over. It reads only Corpus's own files and prints three things:
      takes. Seven of Benin's forty-eight empty indicators sat in subjects with no
      row of any kind, and every one of them was a mint.
 
-**It decides nothing.** Every outcome here is `BUILD.md` stage 4 step 2's to make,
+**It decides nothing.** Every outcome here is `REPORT-UPDATE.md` step 2's to make,
 under the rule as corrected on 2026-09-10: a source establishing a standing
 position the ledger lacks mints a row at `movement: Baseline not held`; one
 reporting activity on a position already held may move it or may do nothing.

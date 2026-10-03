@@ -7,7 +7,7 @@ last_reviewed: 2026-09-20
 
 # The build — why each stage is where it is
 
-*(Spec for `BUILD.md`. The runbook says what to run and what rule to obey while running it; this says why, and what each check exists to catch. Split out 2026-09-20, strategic review 4 R60, on the pattern of `documentation/render.md`. **Where another file already owns an argument this points at it** rather than repeating it: `report-layer.md` for the record layer, `considered-not-carried.md` for the defect that corrected stage 4, `STATUS-INIT.md` for how a baseline section is written, `bulletin.md` and `topic-reports.md` for those two stages' designs, `design.md` for the source-body rule and its retired gate.)*
+*(Spec for `BUILD.md` and for the three stage runbooks it runs: `REPORT-UPDATE.md` (stage 4, the status baseline and narrative integrity), `DATASET-UPDATE.md` (4b) and `BULLETIN.md` (7). The runbook says what to run and what rule to obey while running it; this says why, and what each check exists to catch. Split out 2026-09-20, strategic review 4 R60, on the pattern of `documentation/render.md`. **Where another file already owns an argument this points at it** rather than repeating it: `report-layer.md` for the record layer, `considered-not-carried.md` for the defect that corrected stage 4, `STATUS-INIT.md` for how a baseline section is written, `bulletin.md` and `topic-reports.md` for those two stages' designs, `design.md` for the source-body rule and its retired gate.)*
 
 ## Why nothing here is a gate
 

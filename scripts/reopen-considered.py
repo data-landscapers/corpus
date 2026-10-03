@@ -6,7 +6,7 @@ r"""reopen-considered.py — put discarded evidence back in stage 4's way.
 
 **`lint-considered.py` finds them; this is the only thing that can undo them.** A
 slug in `considered.txt` is invisible to stage 4 for ever — it reads a set
-difference and `BUILD.md` -> *Stage 4* says an item already considered is never
+difference and `REPORT-UPDATE.md` says an item already considered is never
 reopened — so a source read and discarded cannot be reached by any amount of
 re-running. Striking the line is the whole of the repair's mechanical half.
 
@@ -18,7 +18,7 @@ query cannot see (Bill, 2026-09-10).
 
 **Reopening without the corrected rule is worse than useless** — it sends the
 sources back through the judgement that discarded them and burns the run. Read
-`BUILD.md` stage 4 step 2 as corrected on 2026-09-10 first: a source establishing
+`REPORT-UPDATE.md` step 2 as corrected on 2026-09-10 first: a source establishing
 a standing position the ledger lacks **mints a row**, it does not default.
 
 `--apply` writes; without it nothing is touched. A backup of each file is left

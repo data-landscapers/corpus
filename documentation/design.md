@@ -101,7 +101,7 @@ The launch preconditions are discharged: OSINT's repo weight (the PDF history pu
 
 **`outputs/` carries metadata and compiled prose and never a verbatim source body.** A leak into a public repo's history would be permanent. The boundary is bodies, not internal reasoning — this design record and the prototypes are public, which on §3's argument is closer to an asset than a cost.
 
-**The leak-check gate is retired.** Every file in `outputs/` is written by a compiler in this repo, so no path carries a source body into the tree. What upholds the rule is the drafter: a summary reports its source and does not lift a sentence from the body (`BUILD.md` → *Narrative integrity*).
+**The leak-check gate is retired.** Every file in `outputs/` is written by a compiler in this repo, so no path carries a source body into the tree. What upholds the rule is the drafter: a summary reports its source and does not lift a sentence from the body (`BUILD.md` → *Source bodies*).
 
 **Material published under a reproduction ban is paraphrased and cited, never block-quoted** — compressed figures inside ledger rows, attributed in Corpus's own words, with the citation carrying the reader to the publisher's own record.
 

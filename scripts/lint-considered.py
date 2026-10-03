@@ -7,7 +7,7 @@ r"""lint-considered.py — evidence read, marked, and left no trace.
 
 **The finding is one sentence: a source the ledger has marked considered, whose
 indicator the progress report calls ***No evidence***, and which no ledger row
-cites.** Stage 4 read it, decided nothing, and marked it — and `BUILD.md` -> *Stage 4*
+cites.** Stage 4 read it, decided nothing, and marked it — and `REPORT-UPDATE.md`
 says an item already considered is never reopened, so the mark is what makes the
 loss permanent. The report then publishes *the base holds nothing on this
 indicator at all* over a base that holds a document answering it.
@@ -158,7 +158,7 @@ def main() -> int:
     inds = sum(len({d["indicator"] for d in v}) for v in found.values())
     print(f"lint-considered: {rows} source(s) read, marked and left no trace, over "
           f"{inds} indicator(s) reporting No evidence, in {len(found)} unit(s).")
-    print("  The mark is why nothing will read them again (BUILD.md stage 4, step 4).")
+    print("  The mark is why nothing will read them again (REPORT-UPDATE.md step 4).")
     for iso in sorted(found, key=lambda k: -len(found[k])):
         v = found[iso]
         print(f"  {iso}: {len(v)} source(s) over {len({d['indicator'] for d in v})} indicator(s)")
@@ -167,7 +167,7 @@ def main() -> int:
         if len(v) > 3:
             print(f"      … and {len(v) - 3} more")
     print("\n  Repair: reopen these slugs in the unit's considered.txt and re-read them "
-          "under\n  BUILD.md stage 4 step 2 as corrected on 2026-09-10 — a source "
+          "under\n  REPORT-UPDATE.md step 2 as corrected on 2026-09-10 — a source "
           "establishing a\n  standing position the ledger lacks mints a row, it does not "
           "default to nothing.")
     return 1

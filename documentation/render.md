@@ -13,7 +13,7 @@ last_reviewed: 2026-09-20
 
 RENDER turns Corpus-owned `outputs/` — already built, already committed — into `site/`, and pushes. No pull, no second tree. `design.md` §8 and §9 are the frame; most of what follows protects §9, *a published file is never revised*.
 
-**RENDER judges nothing about its input.** Fitness to publish is BUILD's (`BUILD.md` → *Narrative integrity*); a check here would be a weaker copy in the wrong place. That is why Step 0 is the only stop, and why a render never puts a question mid-stream: where it wants Bill's attention it finishes the job and writes a block.
+**RENDER judges nothing about its input.** Fitness to publish is BUILD's (`REPORT-UPDATE.md` → *Narrative integrity*); a check here would be a weaker copy in the wrong place. That is why Step 0 is the only stop, and why a render never puts a question mid-stream: where it wants Bill's attention it finishes the job and writes a block.
 
 **No count, size or total is written into the runbook**: a stale number in a procedure drifts with nothing catching it. The build prints its own figures on the run that wrote them.
 

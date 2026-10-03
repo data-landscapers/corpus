@@ -293,7 +293,7 @@
       </tr>
       <tr>
       <td><strong>Decide whether a document moves a position</strong></td>
-      <td><code>BUILD.md</code> stage 4, <code>documentation/<wbr>report-<wbr>layer.md</code></td>
+      <td><code>BUILD.md</code> stage 4, <code>REPORT-<wbr>UPDATE.md</code>, <code>documentation/<wbr>report-<wbr>layer.md</code></td>
       <td>Lists the sources a country's ledger has not yet considered — a set difference over identifiers, so an interrupted run resumes cleanly — and reads each against the ledger. Four outcomes: a row moves, a row is minted, a <em>Not held</em> row is settled, or nothing moves. Most sources report activity rather than movement, and nothing moves; that is the normal case.</td>
       </tr>
       <tr>
@@ -303,7 +303,7 @@
       </tr>
       <tr>
       <td><strong>Ask whether the standing account changed</strong></td>
-      <td><code>BUILD.md</code> → <em>Maintaining the status baseline</em>, <code>STATUS-<wbr>INIT.md</code></td>
+      <td><code>REPORT-<wbr>UPDATE.md</code> → <em>Maintaining the status baseline</em>, <code>STATUS-<wbr>INIT.md</code></td>
       <td>The status report is the baseline all news is read against, and for most countries it has been authored from sources the repository will never hold. Once authored it is revised in place and never re-rendered from the ledger — a rebuild would destroy it while reporting success. Where borderline evidence conflicts, the section stands: an error in the baseline is invisible and propagates, a gap is visible and gets filled.</td>
       </tr>
       <tr>
@@ -323,7 +323,7 @@
       </tr>
       <tr>
       <td><strong>Write the bulletin</strong></td>
-      <td><code>BUILD.md</code> stage 7, <code>scripts/<wbr>bulletin.py</code></td>
+      <td><code>BUILD.md</code> stage 7, <code>BULLETIN.md</code>, <code>scripts/<wbr>bulletin.py</code></td>
       <td>Selects the two-day publication window, asks only for summaries not already written, and stores each one so an item is summarised once and worded once. Refuses to assemble a document with an item that has no summary. An empty window still produces a bulletin that says so.</td>
       </tr>
       <tr>
