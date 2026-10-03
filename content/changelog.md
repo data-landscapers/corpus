@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- The Gambia's 2025 and 2026 budget tables now show what the government proposed beside what was approved, for all 45 lines. Four changed on the way: in 2026 the IFMIS development project went from nothing to GMD 20m and internal audit software from GMD 0.4m to 2.1m.
 - Mali's 2024 budget table now shows, for 28 of its 35 lines, how much of the budget the finance ministry released for spending. Six investment lines had nothing released by July 2024, among them the government secretariat's modernisation and the payroll software.
 - Mauritania's budget tables for 2024, 2025 and 2026 now show what the government proposed beside what was enacted, for 305 lines. Every one was enacted at the figure the finance bill proposed.
 - Tunisia's budget tables gain the finance ministry's computing centre for 2024 and 2025: TND 23.8m and 33.8m, all from the centre's own resources. It runs the state's budget, payroll, tax and customs systems and gets no state grant, so no vote line had shown it.
