@@ -8,6 +8,7 @@ r"""r2-sync.py — move the dated editions and the names index into R2, and off 
     python scripts/r2-sync.py --apply             # upload what is missing or changed
     python scripts/r2-sync.py --verify            # every local candidate is in the bucket, intact
     python scripts/r2-sync.py --prune-local --apply   # delete the local copy of what is verified
+    python scripts/r2-sync.py --mirror-down --weekly  # the second copy of the editions: see `mirror_down`
 
 **The order is upload, deploy, verify, then delete locally, and it is not negotiable.** Each step
 leaves the site serving throughout: while both copies exist the Worker prefers R2 and the reader
@@ -36,7 +37,9 @@ from __future__ import annotations
 import argparse
 import concurrent.futures as cf
 import importlib.util
+import os
 import sys
+import time
 import urllib.error
 import urllib.request
 import uuid
@@ -68,6 +71,12 @@ PREFIXES = ("catalogue/names/", "catalogue/titles/")
 STAYS = ("bulletin/",)
 
 SITE_BASE = "https://corpus.data-landscapers.io"
+
+# The second copy of the editions *(Bill, 2026-10-03, review of 2026-10-01 R111)*: a folder
+# outside both repositories that the machine's existing backup already covers.
+COPY = Path(os.environ.get("CORPUS_EDITIONS_COPY", r"C:\Users\bill\Dropbox\CORPUS-editions"))
+STAMP = ".last-mirror-down"
+WEEK = 7 * 24 * 3600
 
 
 def candidates(site: Path) -> list[Path]:
@@ -186,8 +195,54 @@ def serves(key: str, timeout: int = 30) -> str:
         return f"unreachable ({e})"
 
 
+def mirror_down(bucket, dest: Path, workers: int = WORKERS) -> dict:
+    """Pull every edition the bucket holds and `dest` does not. Never deletes, never overwrites.
+
+    **The editions had one copy** *(review of 2026-10-01, R119)*: a new edition never enters
+    git and the local file goes once the bucket's is verified, so the one thing the site
+    promises for ever sat in one bucket behind one key. This keeps a second.
+
+    The name and catalogue shards under `PREFIXES` are left out: they are rebuilt from
+    `outputs/` in one command and are no one's citation. An object is held when a file of its
+    size is at its key; a pulled object is checked against the listing, size and MD5, before
+    it is given its name. **A held file whose size differs from the bucket's is a fault and is
+    left as it is** — an edition is never revised, so one of the two copies is wrong, and
+    which one is not something to settle by overwriting."""
+    listed = {k: v for k, v in bucket.listing().items() if not k.startswith(PREFIXES)}
+    want, faults = [], []
+    for key, (size, _) in sorted(listed.items()):
+        f = dest / key
+        if not f.is_file():
+            want.append(key)
+        elif f.stat().st_size != size:
+            faults.append(f"{key} — {f.stat().st_size} bytes held, {size} in the bucket")
+
+    def one(key: str):
+        size, etag = listed[key]
+        data = bucket.get(key)
+        if data is None or len(data) != size or r2_client.etag_of(data) != etag:
+            return (key, 0)
+        f = dest / key
+        f.parent.mkdir(parents=True, exist_ok=True)
+        part = f.with_name(f.name + ".part")
+        part.write_bytes(data)
+        part.replace(f)
+        return (None, size)
+
+    results = _each(want, one, workers, "pulled") if want else []
+    faults += [f"{k} — did not arrive intact, not kept" for k, _ in results if k]
+    return {"objects": len(listed), "bytes": sum(s for s, _ in listed.values()),
+            "pulled": sum(1 for k, _ in results if k is None),
+            "pulled_bytes": sum(n for _, n in results), "faults": sorted(faults)}
+
+
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    p.add_argument("--mirror-down", action="store_true",
+                   help="pull every edition in the bucket that the second copy does not hold")
+    p.add_argument("--weekly", action="store_true",
+                   help="with --mirror-down: do nothing if the last clean pull is under a week old")
+    p.add_argument("--to", type=Path, default=COPY, help="with --mirror-down: the folder to fill")
     p.add_argument("--apply", action="store_true", help="actually upload or delete")
     p.add_argument("--verify", action="store_true",
                    help="check every candidate is in the bucket intact, and change nothing")
@@ -197,6 +252,28 @@ def main(argv=None) -> int:
                    help="ask the live site which origin answers, for a sample of keys")
     p.add_argument("--site", type=Path, default=SITE)
     args = p.parse_args(argv)
+
+    if args.mirror_down:
+        stamp = args.to / STAMP
+        if args.weekly and stamp.is_file() and time.time() - stamp.stat().st_mtime < WEEK:
+            print("R2 copy: not due — the last clean pull is under a week old")
+            return 0
+        try:
+            bucket = r2_client.R2()
+        except LookupError as e:
+            print(f"R2 copy: declined — {e}")
+            return 1
+        args.to.mkdir(parents=True, exist_ok=True)
+        got = mirror_down(bucket, args.to)
+        print(f"R2 copy: {got['objects']:,} objects, {got['bytes'] / 1e6:,.1f} MB in the bucket; "
+              f"pulled {got['pulled']:,} ({got['pulled_bytes'] / 1e6:,.1f} MB) to {args.to}; "
+              f"{len(got['faults'])} fault(s)")
+        for f in got["faults"][:20]:
+            print(f"  {f}")
+        if got["faults"]:
+            return 1
+        stamp.write_text(time.strftime("%Y-%m-%d %H:%M\n"), encoding="utf-8")
+        return 0
 
     site = args.site.resolve()
     files = candidates(site)

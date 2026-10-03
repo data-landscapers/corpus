@@ -246,7 +246,11 @@ class R2:
         **A partial listing is the one shape of wrongness a deletion rule cannot survive** — it
         is a listing missing exactly the objects that would have protected files — so nothing
         here returns what arrived before an error."""
-        found: dict[str, int] = {}
+        return {k: size for k, (size, _) in self.listing(prefix).items()}
+
+    def listing(self, prefix: str = "") -> dict:
+        """`list()` with each object's ETag beside its size: `{key: (size, etag)}`."""
+        found: dict[str, tuple[int, str]] = {}
         token = ""
         while True:
             query = {"list-type": "2", "max-keys": "1000"}
@@ -259,7 +263,8 @@ class R2:
             for c in tree.findall(f"{S3_NS}Contents"):
                 k = c.findtext(f"{S3_NS}Key")
                 if k:
-                    found[k] = int(c.findtext(f"{S3_NS}Size") or 0)
+                    found[k] = (int(c.findtext(f"{S3_NS}Size") or 0),
+                                (c.findtext(f"{S3_NS}ETag") or "").strip('"'))
             if tree.findtext(f"{S3_NS}IsTruncated") != "true":
                 return found
             token = tree.findtext(f"{S3_NS}NextContinuationToken") or ""

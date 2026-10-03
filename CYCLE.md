@@ -65,6 +65,7 @@ last_reviewed: 2026-09-17
 4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names units, for each in turn. Exit 1 — go straight to 5.
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
+7. **Run `python scripts/r2-sync.py --mirror-down --weekly`** — the second copy of the editions; it does nothing inside a week of its last clean pull. When it pulls, log its line: `python scripts/log-line.py copy "<the R2 copy line>"`. Exit 1 is a message to Bill.
 
 The cycle has no stage of its own — steps 1 and 4 are jobs with their own runbooks, run at the point that makes them count.
 

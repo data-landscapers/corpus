@@ -65,6 +65,11 @@ bucket, and note which files people take. It does nothing else, and it is delibe
 catalogue's name-index files. The name of a file in the bucket is exactly the same as its web
 address, which is what keeps everything simple — one name, used everywhere.
 
+**The second copy** of the dated files is the folder `C:\Users\bill\Dropbox\CORPUS-editions`.
+Once a week the cycle pulls into it whatever the bucket has gained
+(`r2-sync.py --mirror-down`). It only ever adds: nothing there is deleted or overwritten, so
+a file lost or damaged in the bucket is still in the folder.
+
 **The download log** records the address of every PDF and CSV a reader takes, along with when it
 was first taken, when it was last taken, and how many times. **It records nothing about the
 reader** — no IP address, no browser, no location, no account. It cannot, because it is never

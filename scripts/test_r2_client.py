@@ -261,6 +261,58 @@ def test_upload_corrects_a_wrong_content_type_in_place():
         check("with the right type", fake.put_types.get(key), "text/plain; charset=utf-8")
 
 
+# --------------------------------------------------------------------- the second copy
+
+class FakeBucket:
+    """A bucket as `mirror_down` sees one: a listing with ETags, and a body per key."""
+
+    def __init__(self, objects: dict, corrupt: tuple = ()):
+        self.objects, self.corrupt, self.fetched = objects, corrupt, []
+
+    def listing(self, prefix: str = "") -> dict:
+        return {k: (len(v), rc.etag_of(v)) for k, v in self.objects.items()}
+
+    def get(self, key: str):
+        self.fetched.append(key)
+        return b"damaged" if key in self.corrupt else self.objects[key]
+
+
+def test_mirror_down_pulls_what_is_missing_and_touches_nothing_else():
+    """The copy gains what it lacks. It never deletes, never overwrites, and keeps nothing
+    that did not arrive intact — a wrong second copy is worse than none."""
+    with tempfile.TemporaryDirectory() as tmp:
+        dest = Path(tmp)
+        (dest / "reports" / "KEN").mkdir(parents=True)
+        (dest / "reports" / "KEN" / "held-2026-09-01.pdf").write_bytes(b"held")
+        (dest / "reports" / "KEN" / "differs-2026-09-01.pdf").write_bytes(b"local copy")
+        (dest / "reports" / "KEN" / "gone-from-bucket-2026-08-01.pdf").write_bytes(b"old")
+        bucket = FakeBucket({
+            "reports/KEN/held-2026-09-01.pdf": b"held",
+            "reports/KEN/differs-2026-09-01.pdf": b"bucket",
+            "reports/KEN/new-2026-10-03.pdf": b"new edition",
+            "finance/bad-2026-10-03.csv": b"will not arrive whole",
+            "catalogue/names/ab.txt": b"shard",
+        }, corrupt=("finance/bad-2026-10-03.csv",))
+        got = rs.mirror_down(bucket, dest, workers=1)
+
+        check("only what is missing is fetched", sorted(bucket.fetched),
+              ["finance/bad-2026-10-03.csv", "reports/KEN/new-2026-10-03.pdf"])
+        check("the new edition is kept, whole",
+              (dest / "reports/KEN/new-2026-10-03.pdf").read_bytes(), b"new edition")
+        check("a file that differs is left as it is",
+              (dest / "reports/KEN/differs-2026-09-01.pdf").read_bytes(), b"local copy")
+        ok("a file the bucket no longer holds is not deleted",
+           (dest / "reports/KEN/gone-from-bucket-2026-08-01.pdf").exists())
+        ok("an object that arrived damaged is not kept",
+           not (dest / "finance/bad-2026-10-03.csv").exists()
+           and not (dest / "finance/bad-2026-10-03.csv.part").exists())
+        ok("the shards are not part of the copy", not (dest / "catalogue").exists())
+        check("counts: the editions listed, and the one pulled",
+              (got["objects"], got["pulled"], got["pulled_bytes"]), (4, 1, 11))
+        check("both faults are named", [f.split(" — ")[0] for f in got["faults"]],
+              ["finance/bad-2026-10-03.csv", "reports/KEN/differs-2026-09-01.pdf"])
+
+
 def main() -> int:
     tests = [v for k, v in sorted(globals().items())
              if k.startswith("test_") and callable(v)]
