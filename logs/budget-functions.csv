@@ -57,7 +57,7 @@ BFA,population-register,absent,,,,,hand,"keyword scan of the finance laws' volum
 BFA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names interoperability of data or a data exchange; the one hit is military equipment",2026-10-02
 BWA,statistics,found,whole,6,bwa-2024-0300-0301-02115,Statistics Botswana,rows,,
 BWA,civil-registration-id,found,partial,6,bwa-2024-0400-0402-00725,,rows,,
-BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,FY2026/27: the financial statements and revenue estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government (PDF p. 42); it is funded by its own licence fees and has no expenditure line,2026-10-03
+BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"FY2024/25 to FY2026/27: the estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government; it is funded by its own licence fees and has no expenditure line. Its Annual Report 2025 prints expenses of BWP 205,302,834 for the year to 31 March 2025, read on 2026-10-03 and parked in the follow-ups until the report has a catalogue record a row can cite.",2026-10-03
 BWA,ict-ministry-egov,found,whole,39,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
 BWA,cybersecurity,absent,,,,BW-CIRT,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no department or account names cyber security",2026-10-02
 BWA,data-protection,found,whole,3,bwa-2024-2500-2501-02208,,rows,,
@@ -477,7 +477,7 @@ MWI,population-register,absent,,,,,hand,"keyword scan of the approved detailed e
 MWI,data-exchange,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Boma Lathu data exchange is named in the ICT ministry's programme text and not as a line of its own",2026-10-02
 NAM,statistics,found,whole,3,nam-2024-26-md02-nsa,Namibia Statistics Agency,rows,,
 NAM,civil-registration-id,found,whole,7,nam-2026-28-md02-mvrk-sla,,rows,,
-NAM,communications-regulator,absent,,,,Communications Regulatory Authority of Namibia,hand,"FY2024/25 to FY2026/27: the 2026/27 estimates (all votes, 600+ pages) never name the Communications Regulatory Authority of Namibia; it is funded by its own levies outside the vote",2026-10-03
+NAM,communications-regulator,found,whole,1,nam-2024-cran,Communications Regulatory Authority of Namibia,rows,,
 NAM,ict-ministry-egov,found,whole,10,nam-2024-02-md06,Office of the Prime Minister,rows,,
 NAM,cybersecurity,found,whole,1,nam-2026-29-md05,,hand,"the cyber security programme (N$6,000,000 in 2026/27) is an item of the ICT Development main division, which is held whole",2026-10-02
 NAM,data-protection,absent,,,,,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no data protection body is funded; the Information Commission that is held administers access to information",2026-10-02

@@ -1014,7 +1014,7 @@ NAM,hosting,Energy utility,,NamPower,no line,
 NAM,hosting,Ports authority,,Namibian Ports Authority,no line,
 NAM,hosting,State-owned telco / National backbone operator,,Telecom Namibia,no line,
 NAM,hosting,E-government agency,ict-ministry-egov,Office of the Prime Minister,line,nam-2024-02-md06
-NAM,hosting,Communications regulator,communications-regulator,Communications Regulatory Authority of Namibia,no line,
+NAM,hosting,Communications regulator,communications-regulator,Communications Regulatory Authority of Namibia,line,nam-2024-cran
 NAM,hosting,Audit office,,Office of the Auditor General,no line,
 NAM,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
 NAM,deal-recipient,Public Sector,,Telecom Namibia,no line,
