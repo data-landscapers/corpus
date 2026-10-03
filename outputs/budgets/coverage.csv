@@ -259,7 +259,7 @@ GHA,2025,audited-accounts,audited,absent,2026-07,0,2026-10-03
 GHA,2026,audited-accounts,audited,not due,2027-07,0,2026-10-03
 GHA,2024,budget-estimates,proposed|appropriated,held,2024-02,42,2026-10-03
 GHA,2025,budget-estimates,proposed|appropriated,held,2025-02,34,2026-10-03
-GHA,2026,budget-estimates,proposed|appropriated,held,2026-02,43,2026-10-03
+GHA,2026,budget-estimates,proposed|appropriated,held,2026-02,44,2026-10-03
 GHA,2024,implementation-report,released|actual,held,2024-08,2,2026-10-03
 GHA,2025,implementation-report,released|actual,held,2025-08,1,2026-10-03
 GHA,2026,implementation-report,released|actual,held,2026-08,1,2026-10-03
@@ -311,9 +311,9 @@ KEN,2026,audited-accounts,audited,not due,2028-08,0,2026-10-03
 KEN,2024,budget-estimates,proposed|appropriated,held,2024-07,18,2026-10-03
 KEN,2025,budget-estimates,proposed|appropriated,held,2025-07,15,2026-10-03
 KEN,2026,budget-estimates,proposed|appropriated,held,2026-07,14,2026-10-03
-KEN,2024,implementation-report,released|actual,held,2025-06,1,2026-10-03
-KEN,2025,implementation-report,released|actual,held,2026-06,2,2026-10-03
-KEN,2026,implementation-report,released|actual,not due,2027-06,0,2026-10-03
+KEN,2024,implementation-report,released|actual,held,2025-09,1,2026-10-03
+KEN,2025,implementation-report,released|actual,held,2026-09,3,2026-10-03
+KEN,2026,implementation-report,released|actual,not due,2027-09,0,2026-10-03
 LBR,2024,appropriation-act,appropriated,held,2024-03,1,2026-10-03
 LBR,2025,appropriation-act,appropriated,held,2025-03,1,2026-10-03
 LBR,2026,appropriation-act,appropriated,held,2026-03,1,2026-10-03
