@@ -145,7 +145,7 @@ def changes_csv(rows: list[dict], names: dict) -> bytes:
 def changes_html(rows: list[dict], names: dict) -> str:
     if not rows:
         return "<p>No changes yet.</p>"
-    out = ['<table class="data-table">', "  <thead><tr><th>Date</th><th>Facility</th><th>Change</th>"
+    out = ['<div class="table-scroll"><table class="data-table">', "  <thead><tr><th>Date</th><th>Facility</th><th>Change</th>"
            "<th>What changed</th></tr></thead>", "  <tbody>"]
     for r in rows[:RECENT]:
         rec = ("All records" if r["record"] == "ALL"
@@ -153,7 +153,7 @@ def changes_html(rows: list[dict], names: dict) -> str:
         out.append(f'    <tr><td class="mono">{html.escape(r["date"])}</td><td>{rec}</td>'
                    f'<td>{ACTION_WORDS.get(r["action"], html.escape(r["action"]))}</td>'
                    f'<td>{html.escape(said(r))}</td></tr>')
-    out += ["  </tbody>", "</table>"]
+    out += ["  </tbody>", "</table></div>"]
     return "\n".join(out)
 
 
