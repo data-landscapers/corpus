@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-02
+compiled: 2026-10-03
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 183
+sources_cited: 184
 sections_written: 39
 not_established: 1
 acquire_lines: 67
@@ -193,7 +193,7 @@ Enrolment itself has been contracted out to the telecoms sector. [Ethio Telecom 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-Ethiopia's payment volumes and its payment users have come apart. [Telebirr carried 4.19 trillion Birr across 2.61 billion transactions and 60.6 million customers in the 2025/26 fiscal year](https://www.thereporterethiopia.com/52133/), yet [only about a third of adults used digital payments in 2024, on the 2025 Global Findex](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity). [Digital accounts multiplied 2.3-fold to 222.1 million by March 2025 while formal account ownership barely moved](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity), and [more than 135 million mobile wallets have been opened while fewer than one adult in ten holds a mobile money account and 0.4 per cent rely on one as their only financial account](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report) (September 2026). The central bank [put digital financial transactions at 33 trillion birr in the 2025/26 fiscal year](https://www.ena.et/web/eng/w/eng_9654453).
+Ethiopia's payment volumes and its payment users have come apart. [Telebirr carried 4.19 trillion Birr across 2.61 billion transactions and 60.6 million customers in the 2025/26 fiscal year](https://www.thereporterethiopia.com/52133/), yet [only about a third of adults used digital payments in 2024, on the 2025 Global Findex](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity). [Digital accounts multiplied 2.3-fold to 222.1 million by March 2025 while formal account ownership barely moved](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity), and [more than 135 million mobile wallets have been opened while fewer than one adult in ten holds a mobile money account and 0.4 per cent rely on one as their only financial account](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), and an assessment of the second financial inclusion strategy [counts 157.6 million mobile money accounts at June 2026, 29.56 per cent of them active](https://www.thereporterethiopia.com/53174/) (September 2026). The central bank [put digital financial transactions at 33 trillion birr in the 2025/26 fiscal year](https://www.ena.et/web/eng/w/eng_9654453).
 
 The rails are now largely built. [EthSwitch launched EthioPay-IPS, the national instant payment system, in December 2025, connecting 32 banks, 12 microfinance institutions, three payment system operators and three payment instrument issuers for real-time account-to-account, wallet, QR and bulk payments](https://cioafrica.co/ethiopia-launches-national-instant-payments/), and [it passed 1 million peer-to-peer transactions in a single day in May 2026](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). [The switch processed 287.4 million transactions worth 741.1 billion Birr in 2024/25, person-to-person transfers overtaking ATM withdrawals](https://capitalethiopia.com/2025/11/02/ethswitch-reports-historic-growth-as-p2p-payments-surpass-atm-withdrawals/). [The National Bank co-owns EthSwitch with 33 payment providers, its vice governor chairs the switch's board of bank chief executives, and it provides oversight and approvals rather than operating the switch](https://www.africanenda.org/uploads/files/siips2025/siips_2025_EthSwitch-Ethiopia_CaseStudy_en.pdf) (2025). [The national switch presented a unified government payment platform at a finance forum that closed on 1 October 2026, a single interoperable route for government bill payments by app, ATM, USSD, branch and agent](https://techafricanews.com/2026/10/01/ethswitch-unified-government-payment-platform/); no volume or rollout timetable is published.
 
