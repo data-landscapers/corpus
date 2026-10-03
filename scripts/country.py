@@ -69,6 +69,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline, copy_md  # noqa: E402
 import structured_data  # noqa: E402
+from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
@@ -1017,7 +1018,7 @@ def build(iso: str) -> list[Path]:
     written = [out_dir / "index.html", out_dir / cat_csv]
 
     if fin:
-        (out_dir / "finance.html").write_text(external_links(FINANCE.format(
+        (out_dir / "finance.html").write_text(table_page(out_dir, FINANCE.format(
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{iso}/finance.html"),
             unit="country",
@@ -1041,7 +1042,7 @@ def build(iso: str) -> list[Path]:
         meta = budget_dictionary()
         shown = [c for c in bud_cols if c not in BUDGET_TABLE_OMIT]
         bud_ys = sorted({y for y in (year(r.get("report_year")) for r in bud) if y is not None})
-        (out_dir / "budgets.html").write_text(external_links(BUDGETS_PAGE.format(
+        (out_dir / "budgets.html").write_text(table_page(out_dir, BUDGETS_PAGE.format(
             feedback=feedback(f"{name} — national budget",
                               f"{SITE_BASE}/countries/{iso}/budgets.html"),
             jsonld=budgets_dataset(iso, name, bud, meta, bud_pub),

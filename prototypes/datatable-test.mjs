@@ -17,6 +17,11 @@
  * A dated edition lives in R2 and not in the tree, so a CSV the tree does not hold
  * is fetched from the live site. The table draws PAGE rows at a time; `paging`
  * holds that, and the first draw to the element ceiling `lint-page-weight.py` uses.
+ *
+ * The same rows are written into the page at build by `scripts/datatable_bake.py`,
+ * a port of the script's row and sort code. `baked` runs over every table page in
+ * the site and holds the port to the original: the rows written are the rows drawn,
+ * cell for cell.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -59,6 +64,10 @@ async function load(pageRel) {
     if (text == null) return { ok: false, status: 404, statusText: 'not found' };
     return { ok: true, status: 200, text: async () => text };
   };
+  const cellsOf = sel => [...dom.window.document.querySelectorAll(sel)]
+    .map(tr => [...tr.cells].map(c => c.innerHTML));
+  dom.window.document.baked = cellsOf('.dt-baked tbody tr');       // before the script replaces it
+  dom.window.document.drawn = () => cellsOf('.dt-body tbody tr.dt-row').map(r => r.slice(1));
   dom.window.eval(JS);
   // The component fetches, so wait for the frame rather than for a fixed time.
   for (let i = 0; i < 200 && !dom.window.document.querySelector('.dt-frame, .dt-msg--err'); i++) {
@@ -365,6 +374,41 @@ async function interactions(doc, want, opts) {
   }
 }
 
+/* Every table page: what the build wrote is what the script draws. The port sorts
+ * text by folding case and accents where the browser collates by locale, so this is
+ * where a name the two order differently would show. */
+async function baked() {
+  const pages = [];
+  (function walk(dir) {
+    for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
+      const p = path.join(dir, f.name);
+      if (f.isDirectory()) walk(p);
+      else if (f.name.endsWith('.html') && fs.readFileSync(p, 'utf8').includes('class="dl-datatable"')) {
+        pages.push(path.relative(CORPUS, p).split(path.sep).join('/'));
+      }
+    }
+  })(path.join(CORPUS, 'site'));
+
+  console.log(`\nbaked rows, ${pages.length} table pages`);
+  const wrong = [];
+  for (const rel of pages) {
+    const doc = await load(rel);
+    const was = doc.baked, now = doc.drawn();
+    if (!was.length) wrong.push(`${rel}: no rows written into the page`);
+    else if (doc.querySelector('.dt-baked')) wrong.push(`${rel}: the written rows were not replaced`);
+    else {
+      const at = was.findIndex((r, i) => JSON.stringify(r) !== JSON.stringify(now[i]));
+      if (was.length !== now.length || at > -1) {
+        wrong.push(`${rel}: row ${at}, written ${JSON.stringify(was[at])?.slice(0, 160)}, drawn ${JSON.stringify(now[at])?.slice(0, 160)}`);
+      }
+    }
+    doc.defaultView.close();
+  }
+  check('every page carries its first rows, and they are the rows the script draws',
+    wrong.length === 0, `${wrong.length} page(s)\n        ` + wrong.slice(0, 12).join('\n        '));
+}
+
+await baked();
 await suite("site/countries/ZAF/finance.html", { linkCol: true, labelled: false });
 await suite("site/countries/NGA/budgets.html", { linkCol: false, labelled: false });
 await suite("site/finance/index.html", { linkCol: true, labelled: true });

@@ -12,6 +12,10 @@ thresholds Bill ruled *(strategic review of 2026-10-01, R110)*:
   the shown columns up front, the detail columns fetched when a row is opened.
 - **100,000 rows, or 5 MB compressed: a query service.** Named so it is not decided in a hurry.
 
+It also fails a page whose table is not written into it: `datatable_bake.py` puts the first
+100 rows in every table page at build (R116), and a page without them is blank until its
+CSV lands.
+
 **The element count is a ceiling, not a simulation.** A drawn row costs a `<tr>`, a caret
 cell, a `<td>` a column and one more element for each cell that holds something. Which 100
 rows come first depends on the sort, and the sort is the reader's; so the rows counted are
@@ -58,14 +62,18 @@ VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "met
 class _Page(HTMLParser):
     """Counts the elements a browser with scripting on builds from the page as served, and
     keeps the table's attributes. What sits inside `<noscript>` is text to such a browser,
-    not elements, and is left out."""
+    not elements, and is left out. So is the `.dt-baked` block — the first rows, written at
+    build by `datatable_bake.py` — because the script puts its own table in that block's
+    place: the two are never on the page together, and the script's is the larger."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.elements = 0
         self.table: dict[str, str] | None = None
         self.has_controls = False
+        self.baked_rows = 0
         self._noscript = 0
+        self._baked = False          # inside `.dt-baked`, which holds a table and no <div>
 
     def handle_starttag(self, tag, attrs):
         if tag == "noscript":
@@ -74,9 +82,15 @@ class _Page(HTMLParser):
             return
         if self._noscript:
             return
-        self.elements += 1
+        if self._baked:
+            self.baked_rows += tag == "tr"
+            return
         a = dict(attrs)
         classes = (a.get("class") or "").split()
+        if "dt-baked" in classes:
+            self._baked = True
+            return
+        self.elements += 1
         if "dl-datatable" in classes and a.get("data-src") and self.table is None:
             self.table = {k: v or "" for k, v in a.items()}
         if "dt-controls" in classes:
@@ -88,6 +102,8 @@ class _Page(HTMLParser):
     def handle_endtag(self, tag):
         if tag == "noscript" and self._noscript:
             self._noscript -= 1
+        elif tag == "div" and self._baked:
+            self._baked = False
 
 
 def _norm(s: str) -> str:
@@ -162,7 +178,8 @@ def measure(page: Path) -> dict | None:
     p.feed(page.read_text(encoding="utf-8"))
     if p.table is None:
         return None
-    out = {"page": page.relative_to(SITE).as_posix(), "rows": None, "bytes_gz": None, "elements": None}
+    out = {"page": page.relative_to(SITE).as_posix(), "rows": None, "bytes_gz": None,
+           "elements": None, "baked": p.baked_rows - 1}       # less the header row
     raw = read_csv(page, p.table["data-src"])
     if raw is None:
         return out
@@ -175,6 +192,9 @@ def measure(page: Path) -> dict | None:
 
 def findings(m: dict) -> list[str]:
     out = []
+    if "baked" in m and m["baked"] != min(PAGE, m["rows"]):
+        out.append(f"{m['page']}: {max(m['baked'], 0)} rows written into the page, "
+                   f"where the table's first draw is {min(PAGE, m['rows'])}")
     if m["elements"] > MAX_ELEMENTS:
         out.append(f"{m['page']}: {m['elements']:,} elements at first draw, over {MAX_ELEMENTS:,}")
     if m["rows"] >= SERVICE_ROWS or m["bytes_gz"] > SERVICE_GZ:
@@ -194,7 +214,7 @@ def write_log(measured: list[dict], today: str) -> None:
         with LOG.open(encoding="utf-8", newline="") as f:
             kept = [r for r in csv.DictReader(f) if r["date"] != today]
     with LOG.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, FIELDS, lineterminator="\n")
+        w = csv.DictWriter(f, FIELDS, lineterminator="\n", extrasaction="ignore")
         w.writeheader()
         w.writerows(kept)
         w.writerows({"date": today, **m} for m in measured)

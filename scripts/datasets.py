@@ -38,6 +38,7 @@ import datasets_lib as dl  # noqa: E402
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
+from datatable_bake import table_page  # noqa: E402  - a table's first rows, written into its page
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 import methodology  # noqa: E402  - the table directive and the page shell, one copy
 
@@ -529,7 +530,7 @@ def build_institution_hosting(names: dict) -> dict:
         modified=edition or None,
         version=edition or None,
         extra_keywords=("Cloud computing", "Digital infrastructure", "Data sovereignty"))
-    page.write_text(external_links(IH_PAGE.format(
+    page.write_text(table_page(page.parent, IH_PAGE.format(
         feedback=feedback("Institution hosting", f"{SITE_BASE}/datasets/{IH}/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=foot(depth=2),
         styles=styles(2, "country.css", "datatable.css"), ga=ga(),
@@ -577,7 +578,7 @@ def main() -> int:
     counts = dict(facilities=f"{len(rows):,}", countries=len(used),
                   operational=status.count("Operational"),
                   pipeline=status.count("Under construction") + status.count("Planned"))
-    page.write_text(external_links(DC_PAGE.format(
+    page.write_text(table_page(page.parent, DC_PAGE.format(
         feedback=feedback("Data centres", f"{SITE_BASE}/datasets/data-centres/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=foot(depth=2),
         styles=styles(2, "country.css", "datatable.css"), ga=ga(),

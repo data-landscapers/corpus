@@ -74,6 +74,16 @@ check("a page's own elements: noscript counts once, its contents not at all", pa
 check("the table's attributes are kept", page.table["data-src"], "x.csv")
 check("a toolbar the page supplies is seen", page.has_controls, True)
 
+page = pw._Page()
+page.feed('<div class="dl-datatable" data-src="x.csv"><div class="dt-baked"><table><thead><tr><th>a</th></tr>'
+          '</thead><tbody><tr><td>1</td></tr><tr><td>2</td></tr></tbody></table></div><p>after</p></div>')
+check("the rows written at build are not counted: the script replaces them", page.elements, 2)
+check("but they are counted as rows, header and all", page.baked_rows, 3)
+check("a page with its first rows written in passes",
+      pw.findings({"page": "p", "rows": 250, "bytes_gz": 1, "elements": 1, "baked": 100}), [])
+check("a page without them fails",
+      len(pw.findings({"page": "p", "rows": 250, "bytes_gz": 1, "elements": 1, "baked": -1})), 1)
+
 headers, recs = pw.parse('﻿a,b\r\n" x ","multi\nline"\r\n,\r\n'.encode("utf-8"))
 check("the CSV reads as the script reads it: BOM off, cells trimmed, empty record dropped",
       (headers, recs), (["a", "b"], [["x", "multi\nline"]]))

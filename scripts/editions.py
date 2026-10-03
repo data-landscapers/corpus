@@ -223,6 +223,19 @@ def publish(data: bytes, out_dir: Path, stem: str, ext: str = ".csv",
     Disk still wins where it has anything to say: it is exact rather than a digest, and it
     covers an artefact written earlier in the same run."""
     out_dir.mkdir(parents=True, exist_ok=True)
+    path, minted = _publish(data, out_dir, stem, ext, today, page)
+    PUBLISHED[path.resolve()] = data
+    return path, minted
+
+
+# What this run published, by the path it was published at. A standing edition is in the
+# bucket and not the tree, so a builder that needs the content of the file its page links —
+# `datatable_bake.py`, to write a table's first rows — reads it from here.
+PUBLISHED: dict[Path, bytes] = {}
+
+
+def _publish(data: bytes, out_dir: Path, stem: str, ext: str,
+             today: str | None, page: Path | None) -> tuple[Path, bool]:
     current = latest(out_dir, stem, ext)
     if current is not None and current.read_bytes() == data:
         retire_undated(out_dir, stem, ext)

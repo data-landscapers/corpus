@@ -125,7 +125,7 @@ def build(code: str) -> list[Path]:
     written = [out_dir / "index.html", out_dir / cat_csv]
 
     if fin:
-        (out_dir / "finance.html").write_text(external_links(FINANCE.format(
+        (out_dir / "finance.html").write_text(country.table_page(out_dir, FINANCE.format(
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{code}/finance.html"),
             unit="place",

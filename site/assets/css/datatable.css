@@ -257,6 +257,12 @@
 .dl-datatable .dt-more .btn { cursor: pointer; }
 .dl-datatable .dt-more .btn:not(:hover) { background: white; }
 
+/* ── The first rows, written into the page at build (datatable.js → `.dt-baked`).
+   What a reader sees until the CSV lands, and all they see with JavaScript off:
+   the same fixed layout, scrolling sideways, with nothing to click. ── */
+.dl-datatable .dt-baked { overflow-x: auto; }
+.dl-datatable .dt-baked table.data-table thead th { cursor: default; }
+
 /* ── Messages ── */
 .dl-datatable .dt-msg {
   padding: 1.4rem 1rem;

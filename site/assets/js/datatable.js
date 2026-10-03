@@ -41,6 +41,13 @@
    every Lab and post page does, it builds the whole bar from `data-title`,
    `data-src`, `data-full-src` and `data-metadata-src`.
 
+   **So can the first rows.** A page may carry a `.dt-baked` block inside the
+   container: a plain table of the first PAGE rows in the opening sort, written at
+   build so the table reads before the CSV lands and with JavaScript off. Corpus's
+   builders write one (`scripts/datatable_bake.py`, a port of the row and sort
+   code here). The script shows no loading message over it and puts its own table
+   in its place once the data has arrived; if the fetch fails, the block stays.
+
    ── v2, after Bill read the first one on screen (2026-08-19) ──────────────────
 
    v1 let the browser distribute the column widths. That is the wrong instrument
@@ -453,10 +460,11 @@
     var controls = ensureControls(container);
     var countEl = container.querySelector('.dt-count');
     var minColW = parseFloat(container.dataset.minColWidth) || 0;
+    var baked = container.querySelector('.dt-baked');       // the first rows, written at build
     var msg = document.createElement('p');
     msg.className = 'dt-msg';
     msg.textContent = 'Loading data…';
-    container.appendChild(msg);
+    if (!baked) container.appendChild(msg);
 
     fetch(src)
       .then(function (r) { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.text(); })
@@ -647,7 +655,7 @@
         var tbody = wrap.querySelector('.dt-body tbody');
         var more = wrap.querySelector('.dt-more');
         var moreBtn = more.querySelector('button');
-        container.replaceChild(wrap, msg);
+        container.replaceChild(wrap, baked || msg);
 
         /* Header cells first — the width measurement reads its fonts off them. */
         cols.forEach(function (ci, vi) {
@@ -861,6 +869,7 @@
         render();
       })
       .catch(function (err) {
+        if (baked) container.appendChild(msg);
         msg.className = 'dt-msg dt-msg--err';
         msg.textContent = 'Could not load ' + src + ' — ' + err.message
           + '. The CSV is still downloadable from the link above.';
