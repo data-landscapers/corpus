@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Mauritania's 2024 and 2025 budget tables now show what the government proposed beside what was enacted, for 213 lines. Every one was enacted at the figure the finance bill proposed.
 - Tunisia's budget tables gain the finance ministry's computing centre for 2024 and 2025: TND 23.8m and 33.8m, all from the centre's own resources. It runs the state's budget, payroll, tax and customs systems and gets no state grant, so no vote line had shown it.
 - The National budgets page now lists, country by country, the functions looked for in the budget documents and not found, with the date. A gap in the table can now be read as either not there or not yet looked for.
 - Every table's first 100 rows are now part of the page itself. The table reads as the page opens, before its data file arrives, and with JavaScript off.
