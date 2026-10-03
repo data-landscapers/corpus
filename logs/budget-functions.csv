@@ -393,7 +393,7 @@ MAR,population-register,absent,,,,,hand,"FY2024 and FY2025: no project line name
 MAR,data-exchange,absent,,,,,hand,"FY2024 and FY2025: no project line names interoperability or data exchange. Morasses, every chapter searched, and the finance law.",2026-10-02
 MDG,statistics,found,whole,3,mdg-2024-21-220-013-00-21-f-01m,Institut national de la statistique (INSTAT),rows,,
 MDG,civil-registration-id,found,whole,7,mdg-2024-14-142-133-00-14-0-395,,rows,,
-MDG,communications-regulator,absent,,,,Autorité de régulation des technologies de communication (ARTEC),hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: the regulator (ARTEC) is funded from its own fees; only its annual report is held",2026-10-02
+MDG,communications-regulator,found,whole,1,mdg-2024-artec,Autorité de régulation des technologies de communication (ARTEC),rows,,
 MDG,ict-ministry-egov,found,whole,13,mdg-2024-60-670-043,Unité de gouvernance digitale (UGD); Gouvernement malagasy (zone parente),rows,,
 MDG,cybersecurity,found,whole,2,mdg-2024-37-370-030-00-37-0-a30,CIRT Madagascar,rows,,
 MDG,data-protection,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service names data protection",2026-10-02

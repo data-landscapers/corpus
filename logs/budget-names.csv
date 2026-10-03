@@ -843,7 +843,7 @@ MDG,hosting,State-owned telco / National backbone operator,,Telma (Yas Madagasca
 MDG,hosting,E-government agency,ict-ministry-egov,Unité de gouvernance digitale (UGD),line,mdg-2024-60-660-023
 MDG,hosting,E-government agency,ict-ministry-egov,Gouvernement malagasy (zone parente),no line,
 MDG,hosting,Cybersecurity agency / National CERT,cybersecurity,CIRT Madagascar,no line,
-MDG,hosting,Communications regulator,communications-regulator,Autorité de régulation des technologies de communication (ARTEC),no line,
+MDG,hosting,Communications regulator,communications-regulator,Autorité de régulation des technologies de communication (ARTEC),line,mdg-2024-artec
 MDG,hosting,Audit office,,Cour des comptes,no line,
 MDG,hosting,Anti-corruption commission,,Bureau indépendant anti-corruption (BIANCO),no line,
 MDG,deal-recipient,Public Sector,,"Agence portuaire, maritime et fluviale (APMF)",no line,

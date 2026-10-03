@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Madagascar's 2024 budget table gains the telecommunications regulator, ARTEC, from its own accounts: MGA 12.5bn of operating costs. It is funded from fees outside the finance law and earned MGA 46.9bn that year.
 - Cameroon's 2024 budget table gains the outturn of two special accounts, from the audit court's execution report. The electronic security fund spent 47% of its XAF 1.5bn allocation while collecting XAF 2.27bn; the postal development account spent 56% of XAF 900m.
 - Kenya's 2024/25 budget table gains the revised figure for 18 development projects, from the supplementary estimates. Thirteen lost their whole provision in the first supplementary budget, among them ICT in secondary schools (KES 150m) and county connectivity (KES 150m).
 - Mali's 2024 and 2025 budget tables gain the proposed stage for 20 lines a year, from the finance bills. Every project and body was voted at the figure the government proposed.
