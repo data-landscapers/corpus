@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Lesotho's five 2024/25 projects and two Liberian bodies for 2025 now show a revised figure, from the governments' mid-year reviews. Lesotho's were unchanged at mid-year; Liberia's statistics institute lost USD 7,200 to transfers.
 - Botswana's 2024/25 budget table gains the Universal Access and Service Fund, from its own accounts: BWP 111.3m spent, up from 76.4m. It is fed by a levy on operators outside the budget and ran a BWP 11.5m deficit.
 - Kenya's 2024/25 budget table gains the Universal Service Fund, from its own accounts: KES 5.6bn spent. Its project spending rose from KES 1.4bn to 5.5bn in a year, more than it collected.
 - Eswatini's 2024/25 budget table gains the universal access fund, from its audited accounts: SZL 14.2m spent. It is fed by a levy on operators outside the estimates.
