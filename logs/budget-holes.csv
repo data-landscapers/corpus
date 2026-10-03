@@ -44,8 +44,8 @@ BEN,2024,document-uncited,2024-01-16-ben-pap-mtfp-2024-lf-companion,budget-estim
 BEN,2024,document-uncited,2024-06-17-ben-rapex-31-mars-2024-companion,implementation-report; in the extract log
 BEN,2024,document-uncited,2024-09-13-ben-rapex-30-juin-2024-companion,implementation-report; in the extract log
 BEN,2024,document-uncited,2024-11-13-ben-rapex-30-septembre-2024-companion,implementation-report; not in the extract log
-BEN,2024,document-uncited,2024-12-03-ben-an-rapport-commission-rapex-30-juin-2024-companion,implementation-report; not in the extract log
-BEN,2024,document-uncited,2024-12-03-ben-an-rapport-commission-rapex-31-mars-2024-companion,implementation-report; not in the extract log
+BEN,2024,document-uncited,2024-12-03-ben-an-rapport-commission-rapex-30-juin-2024-companion,implementation-report; in the extract log
+BEN,2024,document-uncited,2024-12-03-ben-an-rapport-commission-rapex-31-mars-2024-companion,implementation-report; in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-001-an-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-008-cena-companion,budget-estimates; not in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-010-apdp-companion,budget-estimates; not in the extract log
@@ -71,7 +71,7 @@ BEN,2025,document-uncited,2024-12-31-ben-pap-mnd-2025-lf-companion,budget-estima
 BEN,2025,document-uncited,2024-12-31-ben-pap-mpmepe-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2024-12-31-ben-pap-mtfp-2025-lf-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-06-20-ben-rapex-31-mars-2025-companion,implementation-report; in the extract log
-BEN,2025,document-uncited,2025-09-09-ben-rapex-30-juin-2025-companion,implementation-report; not in the extract log
+BEN,2025,document-uncited,2025-09-09-ben-rapex-30-juin-2025-companion,implementation-report; in the extract log
 BEN,2025,document-uncited,2025-12-08-ben-rapex-30-septembre-2025-companion,implementation-report; in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-001-an-companion,budget-estimates; not in the extract log
 BEN,2025,document-uncited,2025-12-29-ben-lf-2026-depenses-detaillees-008-cena-companion,budget-estimates; not in the extract log
@@ -114,7 +114,7 @@ BEN,2026,document-uncited,2026-06-09-ben-note-de-presentation-plfr-2026-companio
 BEN,2026,document-uncited,2026-06-09-ben-plfr-2026-projet-loi-finances-rectificative-companion,appropriation-act; not in the extract log
 BEN,2026,document-uncited,2026-06-09-ben-tableau-a-annexe-plfr-2026-companion,appropriation-act; not in the extract log
 BEN,2026,document-uncited,2026-06-14-ben-liste-des-programmes-plfr-2026-companion,budget-estimates; not in the extract log
-BEN,2026,document-uncited,2026-06-16-ben-rapex-au-31-mars-2026-companion,implementation-report; not in the extract log
+BEN,2026,document-uncited,2026-06-16-ben-rapex-au-31-mars-2026-companion,implementation-report; in the extract log
 BFA,2025,head-not-every-year,01 - Présidence du Faso,"held in 2024, 2026"
 BFA,2024,head-not-every-year,06 - Coneil National de Sécurité d'Etat,held in 2026
 BFA,2025,head-not-every-year,06 - Coneil National de Sécurité d'Etat,held in 2026
@@ -268,7 +268,7 @@ CAF,2025,document-uncited,2024-12-10-caf-2025-85-85-88-00-14-120000-2119-11,budg
 CAF,2025,document-uncited,2024-12-10-caf-2025-85-85-88-00-20-120000-6439-11,budget-estimates; in the extract log
 CAF,2025,document-uncited,2024-12-10-caf-2025-85-85-88-00-21-120000-6439-11,budget-estimates; in the extract log
 CAF,2025,document-uncited,2024-12-10-caf-2025-85-85-88-00-23-120000-6324-11,budget-estimates; in the extract log
-CAF,2025,document-uncited,2025-12-29-loi-de-finances-2026-companion,appropriation-act; not in the extract log
+CAF,2025,document-uncited,2025-12-29-loi-de-finances-2026-companion,appropriation-act; in the extract log
 CAF,2026,document-uncited,2025-11-18-caf-2026-30-3002601230000xxxx03,mtef; in the extract log
 CAF,2026,document-uncited,2025-11-18-caf-2026-30-3002603230000xxxx03,mtef; in the extract log
 CAF,2026,document-uncited,2025-11-18-caf-2026-30-3002701230000xxxx04,mtef; not in the extract log
@@ -332,19 +332,19 @@ CIV,2024,document-uncited,2023-12-18-civ-2024-356-21235,appropriation-act; not i
 CIV,2024,document-uncited,2023-12-18-civ-2024-356-22126,appropriation-act; not in the extract log
 CIV,2024,document-uncited,2023-12-18-civ-2024-356-23209,appropriation-act; not in the extract log
 CIV,2024,document-uncited,2023-12-18-civ-lf-2024-annexe-1-annexe-fiscale-companion,appropriation-act; in the extract log
-CIV,2024,document-uncited,2024-08-01-civ-ccm-execution-budgetaire-fin-mars-2024-companion,implementation-report; not in the extract log
-CIV,2024,document-uncited,2024-09-01-civ-ccm-execution-budgetaire-fin-juin-2024-companion,implementation-report; not in the extract log
+CIV,2024,document-uncited,2024-08-01-civ-ccm-execution-budgetaire-fin-mars-2024-companion,implementation-report; in the extract log
+CIV,2024,document-uncited,2024-09-01-civ-ccm-execution-budgetaire-fin-juin-2024-companion,implementation-report; in the extract log
 CIV,2024,document-uncited,2024-09-01-civ-revue-de-milieu-dannee-fin-juin-2024-companion,implementation-report; in the extract log
 CIV,2024,document-uncited,2024-12-18-civ-lf-2025-annexe-11-sdmt-2024-2027-companion,mtef; in the extract log
-CIV,2024,document-uncited,2025-02-01-civ-ccm-execution-budgetaire-fin-septembre-2024-companion,implementation-report; not in the extract log
-CIV,2024,document-uncited,2025-03-01-civ-ccm-execution-budgetaire-fin-decembre-2024-companion,implementation-report; not in the extract log
+CIV,2024,document-uncited,2025-02-01-civ-ccm-execution-budgetaire-fin-septembre-2024-companion,implementation-report; in the extract log
+CIV,2024,document-uncited,2025-03-01-civ-ccm-execution-budgetaire-fin-decembre-2024-companion,implementation-report; in the extract log
 CIV,2024,document-uncited,2025-05-19-civ-cc-rapport-public-annuel-2024-companion,audited-accounts; not in the extract log
-CIV,2024,document-uncited,2025-12-19-civ-comptes-et-etats-financiers-2024-companion,audited-accounts; not in the extract log
-CIV,2024,document-uncited,2025-12-19-civ-loi-de-reglement-2024-companion,audited-accounts; not in the extract log
+CIV,2024,document-uncited,2025-12-19-civ-comptes-et-etats-financiers-2024-companion,audited-accounts; in the extract log
+CIV,2024,document-uncited,2025-12-19-civ-loi-de-reglement-2024-companion,audited-accounts; in the extract log
 CIV,2024,document-uncited,2025-12-19-civ-rapport-annuel-de-performance-2024-tome-1-companion,implementation-report; in the extract log
 CIV,2024,document-uncited,2025-12-19-civ-rapport-annuel-de-performance-2024-tome-2-companion,implementation-report; in the extract log
-CIV,2024,document-uncited,2026-01-16-civ-cc-declaration-generale-de-conformite-2024-companion,audited-accounts; not in the extract log
-CIV,2024,document-uncited,2026-01-16-civ-cc-rapport-audit-performance-programmes-2024-companion,audited-accounts; not in the extract log
+CIV,2024,document-uncited,2026-01-16-civ-cc-declaration-generale-de-conformite-2024-companion,audited-accounts; in the extract log
+CIV,2024,document-uncited,2026-01-16-civ-cc-rapport-audit-performance-programmes-2024-companion,audited-accounts; in the extract log
 CIV,2024,document-uncited,2026-04-22-civ-cc-rapport-public-annuel-2025-companion,audited-accounts; in the extract log
 CIV,2025,document-uncited,2024-12-18-civ-2025-322-78010200285,appropriation-act; in the extract log
 CIV,2025,document-uncited,2024-12-18-civ-2025-322-78011201795,appropriation-act; in the extract log
@@ -369,13 +369,13 @@ CIV,2025,document-uncited,2024-12-18-civ-2025-356-23238,appropriation-act; not i
 CIV,2025,document-uncited,2024-12-18-civ-lf-2025-annexe-1-annexe-fiscale-companion,appropriation-act; in the extract log
 CIV,2025,document-uncited,2024-12-18-civ-lf-2025-annexe-10-budgets-des-representations-companion,budget-estimates; in the extract log
 CIV,2025,document-uncited,2024-12-18-civ-lf-2025-annexe-8-concours-financiers-aux-collectivites-companion,budget-estimates; in the extract log
-CIV,2025,document-uncited,2025-07-01-civ-ccm-execution-budgetaire-fin-mars-2025-companion,implementation-report; not in the extract log
+CIV,2025,document-uncited,2025-07-01-civ-ccm-execution-budgetaire-fin-mars-2025-companion,implementation-report; in the extract log
 CIV,2025,document-uncited,2025-09-01-civ-ccm-execution-budgetaire-fin-juin-2025-companion,implementation-report; in the extract log
 CIV,2025,document-uncited,2025-10-01-civ-revue-de-milieu-dannee-2025-companion,implementation-report; in the extract log
-CIV,2025,document-uncited,2025-12-01-civ-ccm-execution-budgetaire-fin-septembre-2025-companion,implementation-report; not in the extract log
+CIV,2025,document-uncited,2025-12-01-civ-ccm-execution-budgetaire-fin-septembre-2025-companion,implementation-report; in the extract log
 CIV,2025,document-uncited,2025-12-19-civ-lf-2026-annexe-11-sdmt-2025-2029-companion,budget-estimates; in the extract log
 CIV,2025,document-uncited,2026-04-01-civ-bmieb-decembre-2025-companion,implementation-report; in the extract log
-CIV,2025,document-uncited,2026-04-01-civ-ccm-execution-budgetaire-fin-decembre-2025-companion,implementation-report; not in the extract log
+CIV,2025,document-uncited,2026-04-01-civ-ccm-execution-budgetaire-fin-decembre-2025-companion,implementation-report; in the extract log
 CIV,2026,document-uncited,2025-11-01-civ-projet-de-loi-de-finances-2026-companion,budget-estimates; in the extract log
 CIV,2026,document-uncited,2025-12-19-civ-2026-322-78010200285,appropriation-act; in the extract log
 CIV,2026,document-uncited,2025-12-19-civ-2026-322-78011201795,appropriation-act; in the extract log
@@ -404,7 +404,7 @@ CIV,2026,document-uncited,2025-12-19-civ-lf-2026-annexe-14-subventions-coges-com
 CIV,2026,document-uncited,2025-12-19-civ-lf-2026-annexe-15-declaration-budgetaire-sensible-au-climat-companion,budget-estimates; in the extract log
 CIV,2026,document-uncited,2025-12-19-civ-lf-2026-annexe-8-concours-financiers-aux-collectivites-companion,budget-estimates; in the extract log
 CIV,2026,document-uncited,2026-06-01-civ-bmieb-avril-2026-companion,implementation-report; in the extract log
-CIV,2026,document-uncited,2026-07-01-civ-ccm-execution-budgetaire-fin-mars-2026-companion,implementation-report; not in the extract log
+CIV,2026,document-uncited,2026-07-01-civ-ccm-execution-budgetaire-fin-mars-2026-companion,implementation-report; in the extract log
 CMR,2025,year-thin,,11 lines against 29; by year 29/11/14
 CMR,2026,year-thin,,14 lines against 29; by year 29/11/14
 CMR,2025,head-not-every-year,06 MINISTERE DES RELATIONS EXTERIEURES,held in 2024
@@ -431,16 +431,16 @@ CMR,2025,head-not-every-year,51 ELECTIONS CAMEROON,held in 2024
 CMR,2026,head-not-every-year,51 ELECTIONS CAMEROON,held in 2024
 CMR,2025,head-not-every-year,Plafonnement des taxes affectées aux organismes publics,held in 2024
 CMR,2026,head-not-every-year,Plafonnement des taxes affectées aux organismes publics,held in 2024
-CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-analyse-risque-budgetaire-companion,budget-estimates; not in the extract log
-CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-decentralisation-00-companion,budget-estimates; not in the extract log
+CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-analyse-risque-budgetaire-companion,budget-estimates; in the extract log
+CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-decentralisation-00-companion,budget-estimates; in the extract log
 CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-decentralisation-01-companion,budget-estimates; not in the extract log
 CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-decentralisation-02-companion,budget-estimates; not in the extract log
 CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-decentralisation-03-companion,budget-estimates; not in the extract log
 CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-decentralisation-04-companion,budget-estimates; not in the extract log
-CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-evolution-grands-projets-companion,budget-estimates; not in the extract log
+CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-evolution-grands-projets-companion,budget-estimates; in the extract log
 CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-ppa-comptes-affectation-speciale-companion,budget-estimates; in the extract log
-CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-remuneration-agents-publics-companion,budget-estimates; not in the extract log
-CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-expose-des-motifs-companion,budget-estimates; not in the extract log
+CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-annexe-remuneration-agents-publics-companion,budget-estimates; in the extract log
+CMR,2024,document-uncited,2023-12-01-cmr-plf-2024-expose-des-motifs-companion,budget-estimates; in the extract log
 CMR,2024,document-uncited,2023-12-19-cmr-2024-37-026,budget-estimates; in the extract log
 CMR,2024,document-uncited,2023-12-19-cmr-2024-45-130,budget-estimates; in the extract log
 CMR,2024,document-uncited,2023-12-19-cmr-2024-45-132,budget-estimates; in the extract log
@@ -467,10 +467,10 @@ CMR,2026,document-uncited,2025-11-26-cmr-2026-37-380,budget-estimates; in the ex
 CMR,2026,document-uncited,2025-11-26-cmr-2026-45-451,budget-estimates; in the extract log
 CMR,2026,document-uncited,2025-12-17-cmr-loi-2025-012-finance-law-2026-english-companion,appropriation-act; not in the extract log
 CMR,2026,document-uncited,2025-12-17-cmr-loi-2025-012-loi-de-finances-2026-companion,appropriation-act; in the extract log
-CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-annexe-decentralisation-companion,budget-estimates; not in the extract log
-CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-annexe-evolution-grands-projets-companion,budget-estimates; not in the extract log
-CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-depenses-par-section-et-dotation-companion,budget-estimates; not in the extract log
-CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-expose-des-motifs-companion,budget-estimates; not in the extract log
+CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-annexe-decentralisation-companion,budget-estimates; in the extract log
+CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-annexe-evolution-grands-projets-companion,budget-estimates; in the extract log
+CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-depenses-par-section-et-dotation-companion,budget-estimates; in the extract log
+CMR,2026,document-uncited,2025-12-18-cmr-lf-2026-expose-des-motifs-companion,budget-estimates; in the extract log
 COD,2024,head-not-every-year,SÉNAT,"held in 2025, 2026"
 COD,2024,head-not-every-year,POUVOIR JUDICIAIRE,held in 2026
 COD,2025,head-not-every-year,POUVOIR JUDICIAIRE,held in 2026
@@ -483,12 +483,12 @@ COD,2025,head-not-every-year,JEUNESSE,held in 2026
 COD,2026,head-not-every-year,PREVOYANCE SOCIALE,"held in 2024, 2025"
 COD,2024,document-uncited,2023-12-10-cod-2024-52,appropriation-act; not in the extract log
 COD,2024,document-uncited,2023-12-10-cod-2024-71,appropriation-act; in the extract log
-COD,2024,document-uncited,2023-12-10-cod-lf-2024-vol1-recettes-companion,appropriation-act; not in the extract log
+COD,2024,document-uncited,2023-12-10-cod-lf-2024-vol1-recettes-companion,appropriation-act; in the extract log
 COD,2024,document-uncited,2024-09-01-cod-rapport-execution-lf-2024-fin-juin-companion,implementation-report; in the extract log
 COD,2024,document-uncited,2025-01-23-cod-esb-decembre-2024-commentaires-companion,implementation-report; not in the extract log
 COD,2024,document-uncited,2025-01-23-cod-esb-decembre-2024-par-fonction-companion,implementation-report; not in the extract log
 COD,2024,document-uncited,2025-01-23-cod-esb-decembre-2024-par-fonction-sous-fonction-companion,implementation-report; in the extract log
-COD,2024,document-uncited,2025-01-23-cod-esb-decembre-2024-par-rubrique-companion,implementation-report; not in the extract log
+COD,2024,document-uncited,2025-01-23-cod-esb-decembre-2024-par-rubrique-companion,implementation-report; in the extract log
 COD,2024,document-uncited,2025-01-23-cod-esb-decembre-2024-par-rubrique-titre-companion,implementation-report; not in the extract log
 COD,2025,document-uncited,2025-06-28-cod-2025-52,appropriation-act; not in the extract log
 COD,2025,document-uncited,2025-06-28-cod-2025-71,appropriation-act; not in the extract log
@@ -544,9 +544,9 @@ COM,2024,document-uncited,2024-08-27-com-loi-24-013-au-loi-de-finances-rectifica
 COM,2024,document-uncited,2024-11-01-com-2024-31-9998-6153,executive-instrument; not in the extract log
 COM,2024,document-uncited,2024-11-19-com-projet-loi-de-finances-2025-companion,appropriation-act; not in the extract log
 COM,2024,document-uncited,2025-08-30-com-tofe-2024-companion,implementation-report; not in the extract log
-COM,2024,document-uncited,2025-09-04-com-lettre-de-cadrage-budgetaire-2026-companion,mtef; not in the extract log
+COM,2024,document-uncited,2025-09-04-com-lettre-de-cadrage-budgetaire-2026-companion,mtef; in the extract log
 COM,2024,document-uncited,2026-02-27-com-rapport-depenses-fiscales-indirectes-exercice-2024-companion,implementation-report; in the extract log
-COM,2025,document-uncited,2024-09-04-com-lettre-de-cadrage-budgetaire-2025-companion,mtef; not in the extract log
+COM,2025,document-uncited,2024-09-04-com-lettre-de-cadrage-budgetaire-2025-companion,mtef; in the extract log
 COM,2025,document-uncited,2024-12-19-com-2025-06-0615,appropriation-act; in the extract log
 COM,2025,document-uncited,2024-12-19-com-2025-08-0825,appropriation-act; in the extract log
 COM,2025,document-uncited,2024-12-19-com-2025-09-0901,appropriation-act; in the extract log
@@ -573,14 +573,14 @@ CPV,2024,document-uncited,2023-09-29-cpv-2024-sniac-pec,budget-estimates; in the
 CPV,2024,document-uncited,2023-09-29-cpv-2024-sniac-tre,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-anexo-informativo-oe-2024-receitas-consignadas-source,budget-estimates; not in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-declaracao-dos-riscos-orcamentais-2024-companion,mtef; in the extract log
-CPV,2024,document-uncited,2023-09-29-cpv-mapa-1-receitas-do-estado-classificacao-economica-2024-companion,budget-estimates; not in the extract log
+CPV,2024,document-uncited,2023-09-29-cpv-mapa-1-receitas-do-estado-classificacao-economica-2024-companion,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-mapa-2-despesas-classificacao-economica-2024-companion,budget-estimates; not in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-mapa-3-despesas-classificacao-organica-2024-companion,budget-estimates; not in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-mapa-4-despesas-classificacao-funcional-2024-companion,budget-estimates; not in the extract log
-CPV,2024,document-uncited,2023-09-29-cpv-mapa-5-16-receita-servicos-e-fundos-autonomos-total-2024-companion,budget-estimates; not in the extract log
+CPV,2024,document-uncited,2023-09-29-cpv-mapa-5-16-receita-servicos-e-fundos-autonomos-total-2024-companion,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-proposta-de-lei-oe-2024-companion,budget-estimates; not in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-roe-2024-relatorio-de-enquadramento-companion,budget-estimates; not in the extract log
-CPV,2024,document-uncited,2023-10-02-cpv-diretrizes-oe-2024-apresentacao-conselho-de-ministros-companion,mtef; not in the extract log
+CPV,2024,document-uncited,2023-10-02-cpv-diretrizes-oe-2024-apresentacao-conselho-de-ministros-companion,mtef; in the extract log
 CPV,2024,document-uncited,2023-12-31-cpv-2024-cnpd,appropriation-act; in the extract log
 CPV,2024,document-uncited,2023-12-31-cpv-2024-cv-plataforma-digital-e-inovacao,appropriation-act; in the extract log
 CPV,2024,document-uncited,2023-12-31-cpv-2024-modernizacao-estado-administracao-publica,appropriation-act; in the extract log
@@ -601,16 +601,16 @@ CPV,2024,document-uncited,2024-09-30-cpv-alteracoes-orcamentais-setembro-2024-co
 CPV,2024,document-uncited,2024-10-31-cpv-alteracoes-orcamentais-outubro-2024-companion,ifmis-extract; not in the extract log
 CPV,2024,document-uncited,2024-11-30-cpv-alteracoes-orcamentais-novembro-2024-companion,ifmis-extract; not in the extract log
 CPV,2024,document-uncited,2024-12-31-cpv-alteracoes-orcamentais-dezembro-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2025-02-14-cpv-conta-provisoria-iv-trimestre-2024-companion,implementation-report; not in the extract log
+CPV,2024,document-uncited,2025-02-14-cpv-conta-provisoria-iv-trimestre-2024-companion,implementation-report; in the extract log
 CPV,2024,document-uncited,2025-02-14-cpv-relatorio-ipsas-demonstrativos-e-notas-explicativas-iv-trimestre-2024-companion,implementation-report; in the extract log
 CPV,2024,document-uncited,2025-02-17-cpv-sintese-informativa-da-execucao-dezembro-2024-companion,implementation-report; in the extract log
 CPV,2024,document-uncited,2025-09-30-anexo-informativo-oe-2026-companion,budget-estimates; not in the extract log
 CPV,2024,document-uncited,2025-09-30-cpv-conta-geral-do-estado-2024-relatorio-e-mapas-companion,audited-accounts; in the extract log
 CPV,2024,document-uncited,2025-09-30-cpv-conta-geral-do-estado-2024-source,audited-accounts; not in the extract log
 CPV,2024,document-uncited,2025-10-08-cpv-relatorio-de-execucao-da-divida-publica-2024-companion,implementation-report; in the extract log
-CPV,2025,document-uncited,2024-07-30-cpv-apresentacao-diretrizes-oe-2025-companion,mtef; not in the extract log
-CPV,2025,document-uncited,2024-07-30-cpv-diretrizes-oe-2025-companion,mtef; not in the extract log
-CPV,2025,document-uncited,2024-09-26-cpv-declaracao-dos-riscos-orcamentais-2025-companion,mtef; not in the extract log
+CPV,2025,document-uncited,2024-07-30-cpv-apresentacao-diretrizes-oe-2025-companion,mtef; in the extract log
+CPV,2025,document-uncited,2024-07-30-cpv-diretrizes-oe-2025-companion,mtef; in the extract log
+CPV,2025,document-uncited,2024-09-26-cpv-declaracao-dos-riscos-orcamentais-2025-companion,mtef; in the extract log
 CPV,2025,document-uncited,2024-09-30-cpv-anexo-informativo-oe-2025-companion,budget-estimates; not in the extract log
 CPV,2025,document-uncited,2024-09-30-cpv-mapas-oe-2025-companion,budget-estimates; not in the extract log
 CPV,2025,document-uncited,2024-09-30-cpv-proposta-de-lei-oe-2025-companion,budget-estimates; not in the extract log
@@ -643,7 +643,7 @@ CPV,2025,document-uncited,2025-11-30-cpv-alteracoes-orcamentais-novembro-2025-co
 CPV,2025,document-uncited,2025-12-31-cpv-alteracoes-orcamentais-dezembro-2025-companion,ifmis-extract; not in the extract log
 CPV,2025,document-uncited,2025-12-31-cpv-relatorio-de-execucao-da-divida-publica-iv-trimestre-2025-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-02-12-cpv-relatorio-ipsas-demonstrativos-e-notas-explicativas-iv-trimestre-2025-companion,implementation-report; in the extract log
-CPV,2025,document-uncited,2026-02-13-cpv-conta-provisoria-iv-trimestre-2025-companion,implementation-report; not in the extract log
+CPV,2025,document-uncited,2026-02-13-cpv-conta-provisoria-iv-trimestre-2025-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-02-13-cpv-conta-provisoria-iv-trimestre-2025-source,implementation-report; not in the extract log
 CPV,2025,document-uncited,2026-02-13-cpv-sintese-informativa-da-execucao-dezembro-2025-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-roe-2026-companion,budget-estimates; not in the extract log
@@ -671,15 +671,15 @@ CPV,2026,document-uncited,2026-alteracoes-orcamentais-janeiro-2026-companion,ifm
 CPV,2026,document-uncited,2026-alteracoes-orcamentais-junho-2026-companion,ifmis-extract; not in the extract log
 CPV,2026,document-uncited,2026-alteracoes-orcamentais-maio-2026-companion,ifmis-extract; not in the extract log
 CPV,2026,document-uncited,2026-alteracoes-orcamentais-marco-2026-companion,ifmis-extract; not in the extract log
-CPV,2026,document-uncited,2026-apresentacao-diretrizes-oe-2026-companion,mtef; not in the extract log
+CPV,2026,document-uncited,2026-apresentacao-diretrizes-oe-2026-companion,mtef; in the extract log
 CPV,2026,document-uncited,2026-apresentacao-oe-2026-companion,budget-estimates; not in the extract log
-CPV,2026,document-uncited,2026-declaracao-riscos-orcamentais-2026-companion,mtef; not in the extract log
-CPV,2026,document-uncited,2026-directivas-oe-2026-companion,mtef; not in the extract log
+CPV,2026,document-uncited,2026-declaracao-riscos-orcamentais-2026-companion,mtef; in the extract log
+CPV,2026,document-uncited,2026-directivas-oe-2026-companion,mtef; in the extract log
 CPV,2026,document-uncited,2026-justificacao-beneficios-fiscais-2026-companion,budget-estimates; not in the extract log
-CPV,2026,document-uncited,2026-oe-2026-mapa1-receitas-classificacao-economica-companion,budget-estimates; not in the extract log
+CPV,2026,document-uncited,2026-oe-2026-mapa1-receitas-classificacao-economica-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2026-oe-2026-mapa2-despesas-classificacao-economica-companion,budget-estimates; not in the extract log
 CPV,2026,document-uncited,2026-oe-2026-mapa4-despesas-classificacao-funcional-companion,budget-estimates; not in the extract log
-CPV,2026,document-uncited,2026-oe-2026-mapa5-16-receita-sfa-total-companion,budget-estimates; not in the extract log
+CPV,2026,document-uncited,2026-oe-2026-mapa5-16-receita-sfa-total-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2026-oe-2026-mapa6-16-despesa-sfa-total-companion,budget-estimates; not in the extract log
 CPV,2026,document-uncited,2026-orcamento-cidadao-2026-companion,budget-estimates; not in the extract log
 CPV,2026,document-uncited,2026-proposta-lei-oe-2026-companion,budget-estimates; not in the extract log
@@ -721,18 +721,18 @@ DZA,2024,head-not-every-year,Ministère de la poste et des télécommunications,
 DZA,2025,head-not-every-year,Ministère de la poste et des télécommunications,held in 2026
 DZA,2024,head-not-every-year,"Ministère de l'économie de la connaissance, des start-up et des micro-entreprises",held in 2026
 DZA,2025,head-not-every-year,"Ministère de l'économie de la connaissance, des start-up et des micro-entreprises",held in 2026
-DZA,2024,document-uncited,2023-11-12-dza-rplf-2024-companion,mtef; not in the extract log
+DZA,2024,document-uncited,2023-11-12-dza-rplf-2024-companion,mtef; in the extract log
 DZA,2024,document-uncited,2023-12-31-dza-jo-2023-086-lf-2024-loi-23-22-companion,appropriation-act; in the extract log
 DZA,2024,document-uncited,2024-01-14-dza-jo-2024-003-repartition-credits-2024-parlement-companion,executive-instrument; in the extract log
 DZA,2024,document-uncited,2024-05-26-dza-3137-26-2024-2024-companion,executive-instrument; in the extract log
 DZA,2024,document-uncited,2024-10-12-dza-07-12-2024-companion,executive-instrument; in the extract log
 DZA,2024,document-uncited,2025-12-24-dza-dgpp-srot-2000-2024-companion,implementation-report; not in the extract log
-DZA,2025,document-uncited,2024-05-09-dza-dgb-note-orientation-aplf-2025-companion,mtef; not in the extract log
+DZA,2025,document-uncited,2024-05-09-dza-dgb-note-orientation-aplf-2025-companion,mtef; in the extract log
 DZA,2025,document-uncited,2024-10-08-dza-plf-2025-companion,budget-estimates; not in the extract log
 DZA,2025,document-uncited,2024-12-26-dza-jo-2024-084-lf-2025-loi-24-08-companion,appropriation-act; in the extract log
 DZA,2025,document-uncited,2025-01-28-dza-01-28-2025-230-2025-companion,executive-instrument; in the extract log
-DZA,2026,document-uncited,2025-06-01-dza-dgb-document-cadrage-aplf-2026-companion,mtef; not in the extract log
-DZA,2026,document-uncited,2025-10-01-dza-rplf-2026-companion,mtef; not in the extract log
+DZA,2026,document-uncited,2025-06-01-dza-dgb-document-cadrage-aplf-2026-companion,mtef; in the extract log
+DZA,2026,document-uncited,2025-10-01-dza-rplf-2026-companion,mtef; in the extract log
 DZA,2026,document-uncited,2025-10-06-dza-plf-2026-livre-1-companion,budget-estimates; in the extract log
 DZA,2026,document-uncited,2026-01-11-dza-2026-developpement-telecommunications,appropriation-act; not in the extract log
 DZA,2026,document-uncited,2026-01-11-dza-2026-identite-titres-documents-securises,appropriation-act; in the extract log
@@ -895,6 +895,7 @@ GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-osp-companion,budget-estimates
 GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-psc-companion,budget-estimates; not in the extract log
 GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-rtc-companion,budget-estimates; not in the extract log
 GHA,2025,document-uncited,2025-07-24-gha-mid-year-fiscal-policy-review-2025-companion,implementation-report; in the extract log
+GHA,2026,document-uncited,2025-11-12-ghana-ec-2026-budget-estimates,budget-estimates; not in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-2026-009-00903,appropriation-act; in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-2026-011-01101-01101004,budget-estimates; in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-2026-011-01109-01109004,budget-estimates; in the extract log
@@ -933,7 +934,7 @@ GIN,2024,document-uncited,2024-07-01-gin-reb-t1-2024-companion,implementation-re
 GIN,2024,document-uncited,2024-10-03-gin-reb-t2-2024-companion,implementation-report; in the extract log
 GIN,2024,document-uncited,2024-12-02-gin-reb-t3-2024-companion,implementation-report; in the extract log
 GIN,2024,document-uncited,2025-04-14-gin-reb-annuel-2024-companion,implementation-report; in the extract log
-GIN,2025,document-uncited,2024-07-01-gin-dpbp-2025-2027-companion,mtef; not in the extract log
+GIN,2025,document-uncited,2024-07-01-gin-dpbp-2025-2027-companion,mtef; in the extract log
 GIN,2025,document-uncited,2025-01-13-gin-circulaire-execution-budget-2025-companion,executive-instrument; in the extract log
 GIN,2025,document-uncited,2025-06-26-gin-reb-t1-2025-companion,implementation-report; in the extract log
 GIN,2025,document-uncited,2025-10-08-gin-reb-t2-2025-companion,implementation-report; in the extract log
@@ -963,7 +964,7 @@ GMB,2024,document-uncited,2025-12-10-gmb-auditor-general-report-government-accou
 GMB,2024,document-uncited,2026-03-01-gmb-pura-annual-report-2024-companion,board-budget; not in the extract log
 GMB,2025,document-uncited,2024-01-01-gmb-appropriation-act-2024-companion,appropriation-act; in the extract log
 GMB,2025,document-uncited,2024-07-01-gmb-mteff-2025-2028-companion,mtef; in the extract log
-GMB,2025,document-uncited,2024-11-01-gmb-estimates-revenue-expenditure-2025-na-version-companion,budget-estimates; not in the extract log
+GMB,2025,document-uncited,2024-11-01-gmb-estimates-revenue-expenditure-2025-na-version-companion,budget-estimates; in the extract log
 GMB,2025,document-uncited,2024-11-01-gmb-programme-based-budget-2025-2027-na-version-companion,budget-estimates; not in the extract log
 GMB,2025,document-uncited,2024-12-16-gmb-appropriation-act-2025-companion,appropriation-act; not in the extract log
 GMB,2025,document-uncited,2025-01-06-gmb-programme-based-budget-2025-approved-companion,budget-estimates; in the extract log
@@ -982,8 +983,8 @@ GMB,2025,document-uncited,2026-03-01-gmb-budget-performance-report-2025-end-year
 GMB,2025,document-uncited,2026-07-01-gmb-annual-macro-fiscal-report-2025-companion,implementation-report; in the extract log
 GMB,2025,document-uncited,2026-07-27-gmb-auditor-general-report-government-accounts-2025-companion,audited-accounts; in the extract log
 GMB,2025,document-uncited,2026-07-27-gmb-nao-management-letter-government-accounts-2025-companion,audited-accounts; in the extract log
-GMB,2026,document-uncited,2025-05-01-gmb-mteff-2026-2029-companion,mtef; not in the extract log
-GMB,2026,document-uncited,2025-10-31-gmb-budget-estimates-2026-executive-budget-proposal-companion,budget-estimates; not in the extract log
+GMB,2026,document-uncited,2025-05-01-gmb-mteff-2026-2029-companion,mtef; in the extract log
+GMB,2026,document-uncited,2025-10-31-gmb-budget-estimates-2026-executive-budget-proposal-companion,budget-estimates; in the extract log
 GMB,2026,document-uncited,2025-11-01-gmb-programme-based-budget-2026-2028-na-version-companion,budget-estimates; not in the extract log
 GMB,2026,document-uncited,2026-01-12-gmb-programme-based-budget-2026-2028-approved-companion,budget-estimates; in the extract log
 GMB,2026,document-uncited,2026-07-01-gmb-budget-performance-report-2026-01-companion,implementation-report; in the extract log
@@ -1071,13 +1072,14 @@ KEN,2025,document-uncited,2026-04-01-ken-development-supp-i-fy2025-26-vol2-d1104
 KEN,2025,document-uncited,2026-04-01-ken-pbb-fy2025-26-supplementary-i-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2026-05-01-ken-cob-ng-birr-9mo-fy2025-26-companion,implementation-report; in the extract log
 KEN,2025,document-uncited,2026-06-01-ken-pbb-fy2025-26-supplementary-ii-companion,budget-estimates; not in the extract log
+KEN,2025,document-uncited,2026-08-01-ken-cob-county-birr-fy2025-26-companion,implementation-report; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1024-ecitizen,budget-estimates; in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1024-population-management,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1122,budget-estimates; in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1122-data-protection-services,budget-estimates; in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-development-estimates-fy2026-27-vol1-d1011-1083-companion,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-development-estimates-fy2026-27-vol3-d1092-1135-companion,budget-estimates; not in the extract log
-KEN,2026,document-uncited,2026-06-01-ken-pbb-fy2026-27-approved-companion,budget-estimates; not in the extract log
+KEN,2026,document-uncited,2026-06-01-ken-pbb-fy2026-27-companion,budget-estimates; in the extract log
 LBR,2026,head-not-every-year,107 CIVIL SERVICE AGENCY,"held in 2024, 2025"
 LBR,2024,head-not-every-year,129 - Liberia Land Authority,held in 2026
 LBR,2025,head-not-every-year,129 - Liberia Land Authority,held in 2026
@@ -1115,7 +1117,7 @@ LSO,2024,head-not-every-year,311 - Directorate on Corruption and Economic Offenc
 LSO,2025,head-not-every-year,311 - Directorate on Corruption and Economic Offences,held in 2026
 LSO,2024,document-uncited,2024-03-23-lso-appropriation-bill-2024-25-companion,appropriation-act; in the extract log
 LSO,2024,document-uncited,2024-04-02-lso-appropriation-act-2024-25-companion,appropriation-act; not in the extract log
-LSO,2024,document-uncited,2024-04-30-lso-budget-estimates-book-2024-25-companion,budget-estimates; not in the extract log
+LSO,2024,document-uncited,2024-04-30-lso-budget-estimates-book-2024-25-companion,budget-estimates; in the extract log
 LSO,2024,document-uncited,2024-11-27-lso-mid-term-budget-speech-2024-25-companion,implementation-report; not in the extract log
 LSO,2024,document-uncited,2025-03-10-lso-consolidated-report-budget-estimates-2025-26-companion,budget-estimates; in the extract log
 LSO,2024,document-uncited,2025-05-10-lso-budget-performance-bulletin-2024-25-q4-companion,implementation-report; in the extract log
@@ -1126,7 +1128,7 @@ LSO,2025,document-uncited,2025-04-12-lso-appropriation-bill-2025-26-companion,ap
 LSO,2025,document-uncited,2026-02-18-lso-draft-budget-estimates-2026-27-companion,budget-estimates; in the extract log
 LSO,2025,document-uncited,2026-03-12-lso-consolidated-report-budget-estimates-2026-27-companion,budget-estimates; in the extract log
 LSO,2025,document-uncited,2026-05-15-lso-budget-performance-bulletin-2025-26-q4-companion,implementation-report; in the extract log
-LSO,2026,document-uncited,2025-09-30-lso-budget-strategy-paper-2026-27-companion,mtef; not in the extract log
+LSO,2026,document-uncited,2025-09-30-lso-budget-strategy-paper-2026-27-companion,mtef; in the extract log
 LSO,2026,document-uncited,2026-03-31-lso-appropriation-act-2026-27-companion,appropriation-act; in the extract log
 LSO,2026,document-uncited,2026-07-31-lso-budget-performance-bulletin-2026-27-q1-companion,implementation-report; in the extract log
 MAR,2026,year-thin,,4 lines against 163; by year 163/145/4
@@ -1153,7 +1155,7 @@ MAR,2024,document-uncited,2025-01-20-mar-note-cloture-finances-publiques-2024-co
 MAR,2024,document-uncited,2026-02-18-mar-projet-loi-reglement-04-26-lf-2024-companion,implementation-report; in the extract log
 MAR,2024,document-uncited,2026-07-08-mar-cour-des-comptes-rapport-execution-lf-2024-companion,audited-accounts; not in the extract log
 MAR,2025,document-uncited,2024-10-18-mar-plf-2025-rapport-comptes-speciaux-tresor-companion,budget-estimates; not in the extract log
-MAR,2025,document-uncited,2024-11-19-mar-programmation-budgetaire-triennale-2025-2027-companion,mtef; not in the extract log
+MAR,2025,document-uncited,2024-11-19-mar-programmation-budgetaire-triennale-2025-2027-companion,mtef; in the extract log
 MAR,2025,document-uncited,2026-01-29-mar-tgr-rapport-annuel-execution-lf-2025-companion,implementation-report; in the extract log
 MAR,2026,document-uncited,2025-10-19-mar-plf-2026-rapport-comptes-speciaux-tresor-companion,budget-estimates; in the extract log
 MAR,2026,document-uncited,2025-11-10-mar-programmation-budgetaire-triennale-2026-2028-ar-companion,mtef; in the extract log
@@ -1182,28 +1184,28 @@ MDG,2024,document-uncited,2023-12-01-mdg-lfi-2024-tome-1-livre-1-companion,budge
 MDG,2024,document-uncited,2023-12-01-mdg-lfi-2024-tome-1-livre-2-companion,budget-estimates; not in the extract log
 MDG,2024,document-uncited,2023-12-01-mdg-lfi-2024-tome-2-livre-1-companion,budget-estimates; in the extract log
 MDG,2024,document-uncited,2023-12-01-mdg-lfi-2024-tome-2-livre-2-companion,budget-estimates; in the extract log
-MDG,2024,document-uncited,2023-12-01-mdg-lfi-2024-tome-3-companion,mtef; not in the extract log
+MDG,2024,document-uncited,2023-12-01-mdg-lfi-2024-tome-3-companion,mtef; in the extract log
 MDG,2024,document-uncited,2023-12-01-mdg-loi-2023-021-lfi-2024-companion,appropriation-act; not in the extract log
-MDG,2024,document-uncited,2024-01-03-mdg-budget-des-citoyens-lf-2024-companion,budget-estimates; not in the extract log
+MDG,2024,document-uncited,2024-01-03-mdg-budget-des-citoyens-lf-2024-companion,budget-estimates; in the extract log
 MDG,2024,document-uncited,2024-04-30-mdg-creb-1t-2024-companion,implementation-report; in the extract log
 MDG,2024,document-uncited,2024-07-01-mdg-lfr-2024-tome-1-companion,budget-estimates; not in the extract log
-MDG,2024,document-uncited,2024-07-01-mdg-lfr-2024-tome-3-companion,mtef; not in the extract log
+MDG,2024,document-uncited,2024-07-01-mdg-lfr-2024-tome-3-companion,mtef; in the extract log
 MDG,2024,document-uncited,2024-07-01-mdg-loi-2024-003-lfr-2024-companion,appropriation-act; not in the extract log
 MDG,2024,document-uncited,2024-07-31-mdg-creb-2t-2024-companion,implementation-report; in the extract log
-MDG,2024,document-uncited,2024-09-13-mdg-revue-milieu-annee-2024-companion,implementation-report; not in the extract log
+MDG,2024,document-uncited,2024-09-13-mdg-revue-milieu-annee-2024-companion,implementation-report; in the extract log
 MDG,2024,document-uncited,2024-10-31-mdg-creb-3t-2024-companion,implementation-report; in the extract log
 MDG,2024,document-uncited,2025-01-31-mdg-creb-4t-2024-companion,implementation-report; not in the extract log
 MDG,2024,document-uncited,2025-11-01-mdg-artec-rapport-activites-2024-companion,board-budget; not in the extract log
 MDG,2024,document-uncited,2026-03-19-mdg-cour-des-comptes-rapport-public-2025-companion,audited-accounts; not in the extract log
 MDG,2025,document-uncited,2024-12-18-mdg-lfi-2025-tome-1-companion,budget-estimates; not in the extract log
-MDG,2025,document-uncited,2024-12-18-mdg-lfi-2025-tome-3-companion,mtef; not in the extract log
+MDG,2025,document-uncited,2024-12-18-mdg-lfi-2025-tome-3-companion,mtef; in the extract log
 MDG,2025,document-uncited,2024-12-18-mdg-loi-2024-025-lfi-2025-companion,appropriation-act; in the extract log
-MDG,2025,document-uncited,2025-01-09-mdg-circulaire-02-2025-budget-general-premier-trimestre-companion,executive-instrument; not in the extract log
-MDG,2025,document-uncited,2025-02-27-mdg-budget-des-citoyens-lf-2025-companion,budget-estimates; not in the extract log
+MDG,2025,document-uncited,2025-01-09-mdg-circulaire-02-2025-budget-general-premier-trimestre-companion,executive-instrument; in the extract log
+MDG,2025,document-uncited,2025-02-27-mdg-budget-des-citoyens-lf-2025-companion,budget-estimates; in the extract log
 MDG,2025,document-uncited,2025-04-30-mdg-creb-1t-2025-companion,implementation-report; in the extract log
 MDG,2025,document-uncited,2025-07-31-mdg-creb-2t-2025-companion,implementation-report; in the extract log
 MDG,2025,document-uncited,2026-01-19-mdg-creb-3t-2025-companion,implementation-report; in the extract log
-MDG,2026,document-uncited,2026-01-27-mdg-budget-des-citoyens-lfi-2026-companion,budget-estimates; not in the extract log
+MDG,2026,document-uncited,2026-01-27-mdg-budget-des-citoyens-lfi-2026-companion,budget-estimates; in the extract log
 MDG,2026,document-uncited,2026-07-16-mdg-lfr-2026-companion,appropriation-act; not in the extract log
 MDG,2026,document-uncited,2026-07-16-mdg-lfr-2026-tome-2-livre-2-companion,appropriation-act; not in the extract log
 MDG,2026,document-uncited,2026-07-28-mdg-ceb-lfr-2026-companion,executive-instrument; in the extract log
@@ -1236,26 +1238,26 @@ MLI,2026,head-not-every-year,"714 - MINISTERE DE L'ENVIRONNEMENT, DE L'ASSAINISS
 MLI,2024,document-uncited,2023-10-03-mli-plf-2024-annexe-dppd-pap-companion,budget-estimates; not in the extract log
 MLI,2024,document-uncited,2023-10-03-mli-plf-2024-companion,budget-estimates; not in the extract log
 MLI,2024,document-uncited,2023-12-22-mli-lf-2024-loi-2023-060-companion,appropriation-act; in the extract log
-MLI,2024,document-uncited,2024-04-24-mli-arrete-ouverture-credits-s1-2024-companion,treasury-release; not in the extract log
+MLI,2024,document-uncited,2024-04-24-mli-arrete-ouverture-credits-s1-2024-companion,treasury-release; in the extract log
 MLI,2024,document-uncited,2024-05-29-mli-plfr-2024-companion,budget-estimates; not in the extract log
 MLI,2024,document-uncited,2024-05-29-mli-seb-execution-budget-t1-2024-companion,implementation-report; in the extract log
-MLI,2024,document-uncited,2024-07-19-mli-arrete-ouverture-credits-s2-2024-companion,treasury-release; not in the extract log
+MLI,2024,document-uncited,2024-07-19-mli-arrete-ouverture-credits-s2-2024-companion,treasury-release; in the extract log
 MLI,2024,document-uncited,2024-09-01-mli-lfr-2024-companion,appropriation-act; in the extract log
 MLI,2024,document-uncited,2024-09-07-mli-seb-execution-budget-t2-2024-companion,implementation-report; in the extract log
-MLI,2024,document-uncited,2024-12-04-mli-budget-citoyens-2024-companion,budget-estimates; not in the extract log
+MLI,2024,document-uncited,2024-12-04-mli-budget-citoyens-2024-companion,budget-estimates; in the extract log
 MLI,2024,document-uncited,2025-04-08-mli-seb-execution-budget-t4-2024-companion,implementation-report; in the extract log
 MLI,2024,document-uncited,2026-02-25-mli-section-des-comptes-rapport-annuel-2024-companion,audited-accounts; not in the extract log
-MLI,2025,document-uncited,2024-02-22-mli-conference-lancement-processus-budgetaire-2025-companion,mtef; not in the extract log
+MLI,2025,document-uncited,2024-02-22-mli-conference-lancement-processus-budgetaire-2025-companion,mtef; in the extract log
 MLI,2025,document-uncited,2024-10-01-mli-plf-2025-annexe-dppd-pap-companion,budget-estimates; not in the extract log
 MLI,2025,document-uncited,2024-10-01-mli-plf-2025-companion,budget-estimates; in the extract log
 MLI,2025,document-uncited,2024-12-27-mli-lf-2025-loi-2024-037-companion,appropriation-act; in the extract log
-MLI,2025,document-uncited,2025-03-24-mli-budget-citoyens-lfi-2025-companion,budget-estimates; not in the extract log
+MLI,2025,document-uncited,2025-03-24-mli-budget-citoyens-lfi-2025-companion,budget-estimates; in the extract log
 MLI,2025,document-uncited,2025-05-19-mli-seb-execution-budget-t1-2025-companion,implementation-report; in the extract log
 MLI,2025,document-uncited,2025-08-22-mli-plfr-2025-companion,budget-estimates; not in the extract log
 MLI,2025,document-uncited,2025-09-09-mli-seb-execution-budget-t2-2025-companion,implementation-report; in the extract log
 MLI,2025,document-uncited,2025-11-25-mli-seb-execution-budget-t3-2025-companion,implementation-report; in the extract log
 MLI,2025,document-uncited,2026-06-30-mli-section-des-comptes-rapport-annuel-2025-companion,audited-accounts; not in the extract log
-MLI,2026,document-uncited,2025-02-27-mli-conference-lancement-processus-budgetaire-2026-companion,mtef; not in the extract log
+MLI,2026,document-uncited,2025-02-27-mli-conference-lancement-processus-budgetaire-2026-companion,mtef; in the extract log
 MLI,2026,document-uncited,2026-05-22-mli-seb-execution-budget-t1-2026-companion,implementation-report; in the extract log
 MLI,2026,document-uncited,2026-07-22-mli-plfr-2026-companion,budget-estimates; not in the extract log
 MLI,2026,document-uncited,2026-08-14-mli-seb-execution-budget-t2-2026-companion,implementation-report; in the extract log
@@ -1292,8 +1294,8 @@ MOZ,2025,document-uncited,2023-12-01-moz-metodologia-cfmp-2025-2027-companion,mt
 MOZ,2025,document-uncited,2024-06-13-moz-cfmp-2025-2027-companion,mtef; in the extract log
 MOZ,2025,document-uncited,2025-05-16-moz-proposta-lei-pesoe-2025-companion,appropriation-act; not in the extract log
 MOZ,2025,document-uncited,2025-05-26-moz-lei-2-2025-pesoe-2025-companion,appropriation-act; not in the extract log
-MOZ,2025,document-uncited,2025-06-05-moz-pesoe-2025-mapas-acompanhantes-receitaporcer-companion,budget-estimates; not in the extract log
-MOZ,2025,document-uncited,2025-06-05-moz-pesoe-2025-mapas-acompanhantes-receitaporfr-companion,budget-estimates; not in the extract log
+MOZ,2025,document-uncited,2025-06-05-moz-pesoe-2025-mapas-acompanhantes-receitaporcer-companion,budget-estimates; in the extract log
+MOZ,2025,document-uncited,2025-06-05-moz-pesoe-2025-mapas-acompanhantes-receitaporfr-companion,budget-estimates; in the extract log
 MOZ,2025,document-uncited,2025-08-15-moz-balanco-pesoe-2025-i-semestre-companion,implementation-report; in the extract log
 MOZ,2025,document-uncited,2025-08-15-moz-despacho-alteracoes-orcamentais-2025-i-semestre-companion,executive-instrument; not in the extract log
 MOZ,2025,document-uncited,2025-10-30-moz-bdpesoe-iii-trimestre-2025-companion,implementation-report; in the extract log
@@ -1324,27 +1326,27 @@ MRT,2024,head-not-every-year,"77 - MINISTÈRE DE L'ACTION SOCIALE, DE L'ENFANCE 
 MRT,2025,head-not-every-year,"77 - MINISTÈRE DE L'ACTION SOCIALE, DE L'ENFANCE ET DE LA FAMILLE",held in 2026
 MRT,2024,head-not-every-year,78 - MINISTÈRE DE L'ENVIRONNEMENT ET DEVELOPPEMENT DURBLE,held in 2025
 MRT,2026,head-not-every-year,78 - MINISTÈRE DE L'ENVIRONNEMENT ET DEVELOPPEMENT DURBLE,held in 2025
-MRT,2024,document-uncited,2023-08-01-mrt-dpbmt-2024-2026-companion,mtef; not in the extract log
+MRT,2024,document-uncited,2023-08-01-mrt-dpbmt-2024-2026-companion,mtef; in the extract log
 MRT,2024,document-uncited,2023-10-01-mrt-bci-2024-companion,budget-estimates; in the extract log
-MRT,2024,document-uncited,2023-10-01-mrt-plfi-2024-companion,budget-estimates; not in the extract log
-MRT,2024,document-uncited,2024-09-01-mrt-plfr-2024-companion,budget-estimates; not in the extract log
+MRT,2024,document-uncited,2023-10-01-mrt-plfi-2024-companion,budget-estimates; in the extract log
+MRT,2024,document-uncited,2024-09-01-mrt-plfr-2024-companion,budget-estimates; in the extract log
 MRT,2024,document-uncited,2024-09-03-mrt-rofe-s1-2024-companion,implementation-report; in the extract log
 MRT,2024,document-uncited,2025-02-01-mrt-tofe-decembre-2024-companion,implementation-report; in the extract log
 MRT,2024,document-uncited,2025-06-11-mrt-rofe-2024-companion,implementation-report; in the extract log
 MRT,2024,document-uncited,2026-02-25-mrt-ldr-2024-companion,audited-accounts; in the extract log
-MRT,2025,document-uncited,2024-09-01-mrt-cdmt-m-ministere-budget-2025-2027-companion,mtef; not in the extract log
-MRT,2025,document-uncited,2024-09-01-mrt-dpbmt-2025-2027-companion,mtef; not in the extract log
+MRT,2025,document-uncited,2024-09-01-mrt-cdmt-m-ministere-budget-2025-2027-companion,mtef; in the extract log
+MRT,2025,document-uncited,2024-09-01-mrt-dpbmt-2025-2027-companion,mtef; in the extract log
 MRT,2025,document-uncited,2024-10-01-mrt-bci-2025-companion,budget-estimates; in the extract log
-MRT,2025,document-uncited,2024-10-01-mrt-plfi-2025-companion,budget-estimates; not in the extract log
+MRT,2025,document-uncited,2024-10-01-mrt-plfi-2025-companion,budget-estimates; in the extract log
 MRT,2025,document-uncited,2024-11-01-mrt-budget-programme-pilote-companion,budget-estimates; not in the extract log
-MRT,2025,document-uncited,2025-07-01-mrt-plfr-2025-companion,budget-estimates; not in the extract log
+MRT,2025,document-uncited,2025-07-01-mrt-plfr-2025-companion,budget-estimates; in the extract log
 MRT,2025,document-uncited,2025-09-20-mrt-rofe-s1-2025-companion,implementation-report; in the extract log
 MRT,2025,document-uncited,2026-03-01-mrt-tofe-decembre-2025-companion,implementation-report; in the extract log
 MRT,2025,document-uncited,2026-07-02-mrt-rofe-2025-companion,implementation-report; in the extract log
-MRT,2026,document-uncited,2025-06-01-mrt-dpbmt-2026-2028-companion,mtef; not in the extract log
+MRT,2026,document-uncited,2025-06-01-mrt-dpbmt-2026-2028-companion,mtef; in the extract log
 MRT,2026,document-uncited,2025-10-01-mrt-pap-2026-companion,budget-estimates; not in the extract log
-MRT,2026,document-uncited,2025-10-01-mrt-plf-2026-companion,budget-estimates; not in the extract log
-MRT,2026,document-uncited,2026-07-01-mrt-plfr-2026-companion,budget-estimates; not in the extract log
+MRT,2026,document-uncited,2025-10-01-mrt-plf-2026-companion,budget-estimates; in the extract log
+MRT,2026,document-uncited,2026-07-01-mrt-plfr-2026-companion,budget-estimates; in the extract log
 MRT,2026,document-uncited,2026-09-01-mrt-rofe-s1-2026-companion,implementation-report; in the extract log
 MRT,2026,document-uncited,2026-09-01-mrt-tofe-aout-2026-companion,implementation-report; in the extract log
 MUS,2025,head-not-every-year,Vote 1-13: Local Government Service Commission,held in 2024
@@ -1461,26 +1463,26 @@ MUS,2024,head-not-every-year,"Ministry of Tertiary Education, Science and Resear
 MUS,2024,head-not-every-year,Ministry of Tourism,held in 2026
 MUS,2025,head-not-every-year,Ministry of Tourism,held in 2026
 MUS,2024,head-not-every-year,Treasury,"held in 2025, 2026"
-MUS,2024,document-uncited,2024-06-07-mus-psip-2024-25-to-2026-27-companion,mtef; not in the extract log
+MUS,2024,document-uncited,2024-06-07-mus-psip-2024-25-to-2026-27-companion,mtef; in the extract log
 MUS,2024,document-uncited,2024-06-26-mus-appropriation-act-2024-25-companion,appropriation-act; in the extract log
 MUS,2024,document-uncited,2025-04-24-mus-supplementary-appropriation-2024-25-act-2025-companion,appropriation-act; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-arts-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-environment-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-foreign-affairs-companion,budget-estimates; not in the extract log
-MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-mtef-fiscal-strategy-companion,mtef; not in the extract log
+MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-mtef-fiscal-strategy-companion,mtef; in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-summary-expenditure-by-programmes-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-tourism-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2025-06-05-mus-estimates-2025-26-youth-sports-companion,budget-estimates; not in the extract log
 MUS,2024,document-uncited,2026-02-01-mus-certificate-of-audit-report-of-the-director-of-audit-on-the-accounts-o-companion,audited-accounts; in the extract log
 MUS,2024,document-uncited,2026-02-01-mus-nao-audit-report-accounts-government-2024-25-companion,audited-accounts; in the extract log
 MUS,2024,document-uncited,2026-06-26-mus-supplementary-appropriation-2024-25-no2-act-2026-companion,appropriation-act; not in the extract log
-MUS,2025,document-uncited,2025-06-05-mus-psip-2025-26-to-2029-30-companion,mtef; not in the extract log
+MUS,2025,document-uncited,2025-06-05-mus-psip-2025-26-to-2029-30-companion,mtef; in the extract log
 MUS,2025,document-uncited,2025-06-30-mus-appropriation-act-2025-26-companion,appropriation-act; in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-cbrd-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-environment-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-financial-services-economic-planning-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-foreign-affairs-companion,budget-estimates; not in the extract log
-MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-mtef-fiscal-strategy-companion,mtef; not in the extract log
+MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-mtef-fiscal-strategy-companion,mtef; in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-p0257-registrar-general-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-psar-companion,budget-estimates; not in the extract log
 MUS,2025,document-uncited,2026-06-19-mus-estimates-2026-27-summary-expenditure-by-programmes-companion,budget-estimates; not in the extract log
@@ -1511,15 +1513,15 @@ MWI,2024,document-uncited,2024-08-01-mwi-approved-financial-statement-2024-25-co
 MWI,2024,document-uncited,2024-08-01-mwi-fiscal-dashboard-july-2024-companion,implementation-report; in the extract log
 MWI,2024,document-uncited,2024-10-01-mwi-fiscal-dashboard-august-2024-companion,implementation-report; in the extract log
 MWI,2024,document-uncited,2024-12-01-mwi-appropriation-amendment-bill-2024-companion,appropriation-act; in the extract log
-MWI,2024,document-uncited,2025-01-01-mwi-fiscal-dashboard-november-2024-companion,implementation-report; not in the extract log
+MWI,2024,document-uncited,2025-01-01-mwi-fiscal-dashboard-november-2024-companion,implementation-report; in the extract log
 MWI,2024,document-uncited,2026-06-01-mwi-approved-programme-based-budget-2024-25-companion,budget-estimates; not in the extract log
 MWI,2024,document-uncited,2026-06-01-mwi-approved-programme-based-budget-2024-25-subvented-companion,budget-estimates; not in the extract log
 MWI,2024,document-uncited,2026-07-30-mwi-auditor-general-report-accounts-of-government-2024-25-companion,audited-accounts; in the extract log
 MWI,2025,document-uncited,2024-11-01-mwi-economic-fiscal-policy-statement-2025-companion,mtef; in the extract log
 MWI,2025,document-uncited,2025-06-01-mwi-approved-financial-statement-2025-26-companion,budget-estimates; in the extract log
 MWI,2025,document-uncited,2025-06-01-mwi-approved-programme-based-budget-2025-26-subvented-companion,budget-estimates; not in the extract log
-MWI,2025,document-uncited,2025-08-01-mwi-fiscal-dashboard-july-2025-companion,implementation-report; not in the extract log
-MWI,2025,document-uncited,2025-09-01-mwi-fiscal-dashboard-august-2025-companion,implementation-report; not in the extract log
+MWI,2025,document-uncited,2025-08-01-mwi-fiscal-dashboard-july-2025-companion,implementation-report; in the extract log
+MWI,2025,document-uncited,2025-09-01-mwi-fiscal-dashboard-august-2025-companion,implementation-report; in the extract log
 MWI,2025,document-uncited,2025-11-20-mwi-mid-year-budget-review-2025-26-companion,implementation-report; in the extract log
 MWI,2026,document-uncited,2026-02-01-mwi-public-sector-investment-programme-2026-companion,budget-estimates; in the extract log
 MWI,2026,document-uncited,2026-06-01-mwi-approved-financial-statement-2026-27-companion,budget-estimates; in the extract log
@@ -1538,7 +1540,7 @@ NAM,2025,head-not-every-year,Vote 36: GENDER EQUALITY AND CHILD WELFARE,held in 
 NAM,2024,head-not-every-year,Vote 38: WATER AND MARINE RESOURCES,held in 2026
 NAM,2025,head-not-every-year,Vote 38: WATER AND MARINE RESOURCES,held in 2026
 NAM,2024,document-uncited,2024-02-01-nam-fiscal-strategy-mtef-2024-25-2026-27-companion,mtef; in the extract log
-NAM,2024,document-uncited,2024-02-01-nam-medium-term-expenditure-framework-2024-25-2026-27-companion,mtef; not in the extract log
+NAM,2024,document-uncited,2024-02-01-nam-medium-term-expenditure-framework-2024-25-2026-27-companion,mtef; in the extract log
 NAM,2024,document-uncited,2024-05-08-nam-appropriation-act-2024-companion,appropriation-act; not in the extract log
 NAM,2024,document-uncited,2024-10-01-nam-mid-year-budget-review-2024-25-fiscal-policy-statement-companion,implementation-report; in the extract log
 NAM,2024,document-uncited,2024-11-22-nam-appropriation-amendment-act-2024-companion,appropriation-act; not in the extract log
@@ -1664,9 +1666,9 @@ SEN,2024,head-not-every-year,72 - Ministère des Transports Terrestres et Aérie
 SEN,2025,head-not-every-year,72 - Ministère des Transports Terrestres et Aériens,held in 2026
 SEN,2024,head-not-every-year,75 - Ministère de l'Enseignement Supérieur de la Recherche et de l'Innovation,held in 2026
 SEN,2025,head-not-every-year,75 - Ministère de l'Enseignement Supérieur de la Recherche et de l'Innovation,held in 2026
-SEN,2024,document-uncited,2023-06-01-sen-dpbep-2024-2026-companion,mtef; not in the extract log
+SEN,2024,document-uncited,2023-06-01-sen-dpbep-2024-2026-companion,mtef; in the extract log
 SEN,2024,document-uncited,2023-10-13-sen-plf-2024-companion,budget-estimates; in the extract log
-SEN,2024,document-uncited,2023-10-13-sen-plf-2024-voies-et-moyens-companion,budget-estimates; not in the extract log
+SEN,2024,document-uncited,2023-10-13-sen-plf-2024-voies-et-moyens-companion,budget-estimates; in the extract log
 SEN,2024,document-uncited,2024-05-01-sen-rteb-t1-2024-companion,implementation-report; in the extract log
 SEN,2024,document-uncited,2024-09-11-sen-rteb-t2-2024-annexe-2-companion,implementation-report; in the extract log
 SEN,2024,document-uncited,2024-12-22-sen-rteb-t3-2024-annexe-2-companion,implementation-report; in the extract log
@@ -1674,25 +1676,25 @@ SEN,2024,document-uncited,2024-12-31-sen-lfr-2024-loi-2024-16-companion,appropri
 SEN,2024,document-uncited,2024-12-31-sen-rteb-t3-2024-companion,implementation-report; in the extract log
 SEN,2024,document-uncited,2025-06-01-sen-rteb-t4-2024-companion,implementation-report; in the extract log
 SEN,2025,document-uncited,2024-10-01-sen-sdmt-2025-2027-companion,mtef; in the extract log
-SEN,2025,document-uncited,2024-12-01-sen-dpbep-2025-2027-actualise-companion,mtef; not in the extract log
-SEN,2025,document-uncited,2024-12-11-sen-plf-2025-voies-et-moyens-companion,budget-estimates; not in the extract log
+SEN,2025,document-uncited,2024-12-01-sen-dpbep-2025-2027-actualise-companion,mtef; in the extract log
+SEN,2025,document-uncited,2024-12-11-sen-plf-2025-voies-et-moyens-companion,budget-estimates; in the extract log
 SEN,2025,document-uncited,2024-12-11-sen-plfi-2025-companion,budget-estimates; in the extract log
 SEN,2025,document-uncited,2025-01-06-sen-lfi-2025-loi-2025-02-companion,appropriation-act; in the extract log
-SEN,2025,document-uncited,2025-01-14-sen-arrete-000584-lignes-recettes-depenses-companion,executive-instrument; not in the extract log
+SEN,2025,document-uncited,2025-01-14-sen-arrete-000584-lignes-recettes-depenses-companion,executive-instrument; in the extract log
 SEN,2025,document-uncited,2025-01-14-sen-decret-2025-89-nomenclature-budgetaire-companion,executive-instrument; not in the extract log
 SEN,2025,document-uncited,2025-01-28-sen-instruction-00028-classification-economique-companion,executive-instrument; not in the extract log
 SEN,2025,document-uncited,2025-06-01-sen-rteb-t1-2025-companion,implementation-report; in the extract log
-SEN,2025,document-uncited,2025-06-21-sen-lfr-2025-voies-et-moyens-companion,budget-estimates; not in the extract log
+SEN,2025,document-uncited,2025-06-21-sen-lfr-2025-voies-et-moyens-companion,budget-estimates; in the extract log
 SEN,2025,document-uncited,2025-07-08-sen-lfr-2025-loi-2025-10-companion,appropriation-act; in the extract log
 SEN,2025,document-uncited,2025-08-01-sen-rteb-t2-2025-companion,implementation-report; in the extract log
 SEN,2025,document-uncited,2025-11-01-sen-rteb-t3-2025-companion,implementation-report; in the extract log
-SEN,2025,document-uncited,2025-12-26-sen-plfr2-2025-voies-et-moyens-companion,budget-estimates; not in the extract log
+SEN,2025,document-uncited,2025-12-26-sen-plfr2-2025-voies-et-moyens-companion,budget-estimates; in the extract log
 SEN,2025,document-uncited,2025-12-29-sen-plfr2-2025-companion,budget-estimates; not in the extract log
 SEN,2025,document-uncited,2026-04-01-sen-rteb-t4-2025-companion,implementation-report; in the extract log
 SEN,2026,document-uncited,2025-06-01-sen-dpbep-2026-2028-companion,mtef; in the extract log
 SEN,2026,document-uncited,2025-08-01-sen-dppd-pap-2026-2028-mpem-companion,budget-estimates; not in the extract log
 SEN,2026,document-uncited,2025-09-01-sen-dppd-pap-2026-2028-mmess-companion,budget-estimates; not in the extract log
-SEN,2026,document-uncited,2025-10-01-sen-dpbep-2026-2028-actualise-companion,mtef; not in the extract log
+SEN,2026,document-uncited,2025-10-01-sen-dpbep-2026-2028-actualise-companion,mtef; in the extract log
 SEN,2026,document-uncited,2025-10-01-sen-dppd-pap-2026-2028-masae-companion,budget-estimates; not in the extract log
 SEN,2026,document-uncited,2025-10-01-sen-dppd-pap-2026-2028-mcat-companion,budget-estimates; not in the extract log
 SEN,2026,document-uncited,2025-10-01-sen-dppd-pap-2026-2028-mefpt-companion,budget-estimates; not in the extract log
@@ -1708,14 +1710,14 @@ SEN,2026,document-uncited,2025-10-01-sen-dppd-pap-2026-2028-mincom-companion,bud
 SEN,2026,document-uncited,2025-10-01-sen-dppd-pap-2026-2028-mjs-companion,budget-estimates; not in the extract log
 SEN,2026,document-uncited,2025-10-01-sen-dppd-pap-2026-2028-muctat-companion,budget-estimates; not in the extract log
 SEN,2026,document-uncited,2025-10-15-sen-plf-2026-companion,budget-estimates; in the extract log
-SEN,2026,document-uncited,2025-10-15-sen-plf-2026-voies-et-moyens-companion,budget-estimates; not in the extract log
+SEN,2026,document-uncited,2025-10-15-sen-plf-2026-voies-et-moyens-companion,budget-estimates; in the extract log
 SEN,2026,document-uncited,2025-10-15-sen-sdmt-2026-2028-companion,mtef; in the extract log
-SEN,2026,document-uncited,2025-12-12-sen-pip-2026-2028-commentaires-companion,mtef; not in the extract log
-SEN,2026,document-uncited,2025-12-12-sen-pip-2026-2028-echeancier-des-projets-companion,mtef; not in the extract log
+SEN,2026,document-uncited,2025-12-12-sen-pip-2026-2028-commentaires-companion,mtef; in the extract log
+SEN,2026,document-uncited,2025-12-12-sen-pip-2026-2028-echeancier-des-projets-companion,mtef; in the extract log
 SEN,2026,document-uncited,2026-06-01-sen-rteb-t1-2026-companion,implementation-report; in the extract log
 SEN,2026,document-uncited,2026-09-01-sen-rteb-t2-2026-companion,implementation-report; in the extract log
-SEN,2026,document-uncited,2026-09-18-sen-plfr-2026-companion,budget-estimates; not in the extract log
-SEN,2026,document-uncited,2026-09-18-sen-plfr-2026-voies-et-moyens-companion,budget-estimates; not in the extract log
+SEN,2026,document-uncited,2026-09-18-sen-plfr-2026-companion,budget-estimates; in the extract log
+SEN,2026,document-uncited,2026-09-18-sen-plfr-2026-voies-et-moyens-companion,budget-estimates; in the extract log
 SLE,2025,head-not-every-year,105 - Ministry of Public Administration and Political Affairs,held in 2024
 SLE,2026,head-not-every-year,105 - Ministry of Public Administration and Political Affairs,held in 2024
 SLE,2025,head-not-every-year,110 - Office Of The President,held in 2024
@@ -1797,9 +1799,9 @@ SSD,2025,document-uncited,2025-11-27-ssd-finance-bill-2025-26-companion,appropri
 STP,2025,year-missing,,lines by year 24/0/0
 STP,2026,year-missing,,lines by year 24/0/0
 STP,,country-thin,,24 lines; by year 24/0/0
-STP,2024,document-uncited,2023-12-01-stp-gop-2024-companion,mtef; not in the extract log
-STP,2024,document-uncited,2023-12-15-stp-oge-2024-evolucao-receitas-2021-2024-companion,budget-estimates; not in the extract log
-STP,2024,document-uncited,2023-12-15-stp-oge-2024-receitas-execucao-2023-previsao-2024-companion,budget-estimates; not in the extract log
+STP,2024,document-uncited,2023-12-01-stp-gop-2024-companion,mtef; in the extract log
+STP,2024,document-uncited,2023-12-15-stp-oge-2024-evolucao-receitas-2021-2024-companion,budget-estimates; in the extract log
+STP,2024,document-uncited,2023-12-15-stp-oge-2024-receitas-execucao-2023-previsao-2024-companion,budget-estimates; in the extract log
 STP,2024,document-uncited,2024-01-01-stp-oge-2024-lei-e-relatorio-companion,appropriation-act; in the extract log
 STP,2024,document-uncited,2024-01-21-stp-oge-2024-tofe-companion,budget-estimates; not in the extract log
 STP,2024,document-uncited,2024-02-14-stp-oge-2024-funcao-e-programa-companion,budget-estimates; in the extract log
@@ -1845,19 +1847,19 @@ SYC,2026,head-not-every-year,180D000 : Seychelles Investment Board,held in 2024
 SYC,2024,head-not-every-year,180E000 : Seychelles Licensing Authority,"held in 2025, 2026"
 SYC,2025,head-not-every-year,"180X000 : Ministry of Investment, Entrepreneurship and Industry",held in 2024
 SYC,2026,head-not-every-year,"180X000 : Ministry of Investment, Entrepreneurship and Industry",held in 2024
-SYC,2024,document-uncited,2023-11-03-syc-budget-assumptions-objectives-2024-part-1-companion,mtef; not in the extract log
+SYC,2024,document-uncited,2023-11-03-syc-budget-assumptions-objectives-2024-part-1-companion,mtef; in the extract log
 SYC,2024,document-uncited,2023-12-06-syc-appropriation-act-2024-companion,appropriation-act; in the extract log
 SYC,2024,document-uncited,2024-08-01-syc-myefo-2024-companion,implementation-report; not in the extract log
 SYC,2024,document-uncited,2024-12-18-syc-supplementary-appropriation-act-2024-companion,appropriation-act; in the extract log
 SYC,2024,document-uncited,2025-03-31-syc-annual-performance-report-2024-companion,implementation-report; in the extract log
 SYC,2024,document-uncited,2025-09-01-syc-myefo-2025-annex-1-revised-forecast-companion,implementation-report; not in the extract log
 SYC,2024,document-uncited,2026-02-20-syc-annual-financial-statements-2024-companion,implementation-report; in the extract log
-SYC,2025,document-uncited,2024-10-31-syc-budget-assumptions-objectives-2025-part-1-companion,mtef; not in the extract log
+SYC,2025,document-uncited,2024-10-31-syc-budget-assumptions-objectives-2025-part-1-companion,mtef; in the extract log
 SYC,2025,document-uncited,2024-12-18-syc-appropriation-act-2025-companion,appropriation-act; in the extract log
 SYC,2025,document-uncited,2025-08-01-syc-myefo-2025-companion,implementation-report; not in the extract log
 SYC,2025,document-uncited,2025-08-29-syc-supplementary-budget-appropriation-mid-year-review-2025-companion,budget-estimates; in the extract log
 SYC,2025,document-uncited,2025-12-23-syc-supplementary-appropriation-act-2025-companion,appropriation-act; in the extract log
-SYC,2026,document-uncited,2026-02-12-syc-budget-assumptions-objectives-2026-part-2-companion,mtef; not in the extract log
+SYC,2026,document-uncited,2026-02-12-syc-budget-assumptions-objectives-2026-part-2-companion,mtef; in the extract log
 TCD,,country-thin,,24 lines; by year 8/7/9
 TCD,2025,head-not-every-year,11 - MINISTÈRE DE LA FONCTION PUBLIQUE ET DU DIALOGUE SOCIAL,"held in 2024, 2026"
 TCD,2025,head-not-every-year,25 - MINISTÈRE DES TÉLÉCOMMUNICATIONS ET DE L'ÉCONOMIE NUMÉRIQUE,"held in 2024, 2026"
@@ -1876,30 +1878,30 @@ TGO,2024,document-uncited,2023-12-08-tgo-budget-programme-etat-2024-2026-projet-
 TGO,2024,document-uncited,2023-12-08-tgo-projet-loi-de-finances-2024-companion,budget-estimates; not in the extract log
 TGO,2024,document-uncited,2023-12-27-tgo-lf-2024-loi-2023-017-jo-companion,appropriation-act; in the extract log
 TGO,2024,document-uncited,2024-07-11-tgo-budget-depenses-cas-2024-companion,budget-estimates; in the extract log
-TGO,2024,document-uncited,2024-07-11-tgo-budget-recettes-bg-2024-companion,budget-estimates; not in the extract log
-TGO,2024,document-uncited,2024-07-11-tgo-budget-recettes-cas-2024-companion,budget-estimates; not in the extract log
+TGO,2024,document-uncited,2024-07-11-tgo-budget-recettes-bg-2024-companion,budget-estimates; in the extract log
+TGO,2024,document-uncited,2024-07-11-tgo-budget-recettes-cas-2024-companion,budget-estimates; in the extract log
 TGO,2024,document-uncited,2024-12-17-tgo-projet-lfr-2024-companion,budget-estimates; not in the extract log
 TGO,2024,document-uncited,2024-12-30-tgo-jo-136bis-lfr-2024-lf-2025-companion,appropriation-act; in the extract log
 TGO,2024,document-uncited,2025-01-15-tgo-budget-depenses-lfr-2024-companion,budget-estimates; in the extract log
-TGO,2024,document-uncited,2025-01-15-tgo-budget-recettes-lfr-2024-companion,budget-estimates; not in the extract log
+TGO,2024,document-uncited,2025-01-15-tgo-budget-recettes-lfr-2024-companion,budget-estimates; in the extract log
 TGO,2024,document-uncited,2025-03-26-tgo-rapport-execution-budget-2024-fin-decembre-companion,implementation-report; not in the extract log
 TGO,2024,document-uncited,2026-09-18-tgo-cdc-declaration-generale-conformite-2024-companion,audited-accounts; not in the extract log
 TGO,2024,document-uncited,2026-09-18-tgo-cdc-relf-2024-companion,audited-accounts; not in the extract log
 TGO,2025,document-uncited,2024-11-28-tgo-budget-programme-etat-2025-2027-projet-companion,budget-estimates; not in the extract log
 TGO,2025,document-uncited,2024-11-28-tgo-projet-loi-de-finances-2025-companion,budget-estimates; not in the extract log
-TGO,2025,document-uncited,2024-12-07-tgo-dpbep-2025-2027-companion,mtef; not in the extract log
-TGO,2025,document-uncited,2025-01-15-tgo-budget-recettes-2025-companion,budget-estimates; not in the extract log
+TGO,2025,document-uncited,2024-12-07-tgo-dpbep-2025-2027-companion,mtef; in the extract log
+TGO,2025,document-uncited,2025-01-15-tgo-budget-recettes-2025-companion,budget-estimates; in the extract log
 TGO,2025,document-uncited,2025-12-31-tgo-lfr-2025-loi-2025-001-companion,appropriation-act; not in the extract log
 TGO,2025,document-uncited,2026-01-15-tgo-budget-depenses-lfr-2025-companion,budget-estimates; in the extract log
-TGO,2025,document-uncited,2026-01-15-tgo-budget-recettes-lfr-2025-companion,budget-estimates; not in the extract log
+TGO,2025,document-uncited,2026-01-15-tgo-budget-recettes-lfr-2025-companion,budget-estimates; in the extract log
 TGO,2025,document-uncited,2026-06-29-tgo-dgtcp-rapport-operations-financieres-2025-fin-decembre-companion,implementation-report; in the extract log
 TGO,2026,document-uncited,2025-11-20-tgo-budget-programme-etat-2026-2028-projet-companion,budget-estimates; in the extract log
-TGO,2026,document-uncited,2025-11-20-tgo-dpbep-2026-2028-companion,mtef; not in the extract log
+TGO,2026,document-uncited,2025-11-20-tgo-dpbep-2026-2028-companion,mtef; in the extract log
 TGO,2026,document-uncited,2025-11-20-tgo-projet-loi-de-finances-2026-companion,budget-estimates; not in the extract log
-TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-bg-2026-companion,budget-estimates; not in the extract log
-TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-cas-2026-companion,budget-estimates; not in the extract log
+TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-bg-2026-companion,budget-estimates; in the extract log
+TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-cas-2026-companion,budget-estimates; in the extract log
 TGO,2026,document-uncited,2026-06-29-tgo-rapport-sur-lexecution-des-operations-financieres-de-letat-a-fin-mars-companion,implementation-report; in the extract log
-TUN,2026,year-thin,,2 lines against 82; by year 82/63/2
+TUN,2026,year-thin,,2 lines against 83; by year 83/64/2
 TUN,2025,head-not-every-year,مهمة الداخلية (Interior),held in 2024
 TUN,2026,head-not-every-year,مهمة الداخلية (Interior),held in 2024
 TUN,2026,head-not-every-year,مهمة العدل (Justice),"held in 2024, 2025"
@@ -2090,9 +2092,9 @@ ZMB,2024,head-not-every-year,90 - Office of the President-lusaka Province,"held 
 ZMB,2024,head-not-every-year,93 - Office of the President-northern Province,"held in 2025, 2026"
 ZMB,2024,document-uncited,2023-12-22-zmb-appropriation-act-2023-act-29-companion,appropriation-act; in the extract log
 ZMB,2024,document-uncited,2024-01-01-zmb-mtbp-white-paper-2024-2026-companion,mtef; not in the extract log
-ZMB,2024,document-uncited,2024-08-16-zmb-supplementary-appropriation-2024-act-9-companion,appropriation-act; not in the extract log
+ZMB,2024,document-uncited,2024-08-16-zmb-supplementary-appropriation-2024-act-9-companion,appropriation-act; in the extract log
 ZMB,2024,document-uncited,2024-10-15-zmb-mid-year-economic-report-2024-companion,implementation-report; in the extract log
-ZMB,2024,document-uncited,2024-12-20-zmb-supplementary-appropriation-2024-no2-act-20-companion,appropriation-act; not in the extract log
+ZMB,2024,document-uncited,2024-12-20-zmb-supplementary-appropriation-2024-no2-act-20-companion,appropriation-act; in the extract log
 ZMB,2024,document-uncited,2025-05-16-zmb-annual-economic-report-2024-companion,implementation-report; not in the extract log
 ZMB,2024,document-uncited,2025-07-02-zmb-financial-report-2024-companion,implementation-report; in the extract log
 ZMB,2024,document-uncited,2025-10-02-zmb-auditor-general-report-2024-companion,audited-accounts; not in the extract log

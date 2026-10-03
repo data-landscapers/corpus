@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Mali's 2024 and 2025 budget tables gain the proposed stage for 20 lines a year, from the finance bills. Every project and body was voted at the figure the government proposed.
 - Egypt's budget tables gain the land-register fund in all three years: EGP 22.1m, 28.8m and 155.6m, all from the fund's own revenue. Its investment rises from EGP 10m in 2025/26 to 128.6m in 2026/27.
 - Nigeria's 2025 budget table now shows what the executive proposed beside what the Act appropriated, for 838 of its 1,117 lines. The other 279 are not in the proposal under their project code, and 17 solid minerals lines were enacted at many times the proposed figure.
 - Burkina Faso's budget tables for 2024, 2025 and 2026 now show what the government proposed beside what was enacted, for 441 lines. Seven changed on the way, the largest the 2024 topographic mapping activity, from XOF 1.05bn to 4.36bn.
