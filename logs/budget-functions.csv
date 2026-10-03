@@ -197,18 +197,18 @@ DZA,population-register,absent,,,,,hand,"keyword scan of the finance laws and th
 DZA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws and the credit-distribution decrees for 2024 to 2026, read at the sitting of 2026-09-24: no programme names a data exchange",2026-10-02
 EGY,statistics,found,whole,15,egy-2024-capmas-ch1,Central Agency for Public Mobilization and Statistics,rows,,
 EGY,civil-registration-id,found,partial,15,egy-2024-csf-ch1,,rows,,
-EGY,communications-regulator,not looked,,,,National Telecom Regulatory Authority,,,
+EGY,communications-regulator,absent,,,,National Telecom Regulatory Authority,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. The telecommunications regulator is an economic authority and is not among the bodies of these volumes.",2026-10-03
 EGY,ict-ministry-egov,found,partial,15,egy-2024-mcit-ch1,Egypt Government Portal,rows,,
-EGY,cybersecurity,not looked,,,,Egypt CERT,,,
-EGY,data-protection,not looked,,,,Personal Data Protection Centre,,,
-EGY,revenue-systems,not looked,,,,Egyptian Tax Authority,,,
-EGY,treasury-fmis,not looked,,,,Ministry of Finance,,,
-EGY,procurement,not looked,,,,General Authority for Governmental Services (e-procurement),,,
-EGY,electoral-register,not looked,,,,National Election Authority,,,
+EGY,cybersecurity,absent,,,,Egypt CERT,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. No body is a cybersecurity agency or council.",2026-10-03
+EGY,data-protection,absent,,,,Personal Data Protection Centre,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. No body is a data protection authority.",2026-10-03
+EGY,revenue-systems,absent,,,,Egyptian Tax Authority,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. The tax authority and the customs authority are printed whole, by chapter; no line names their systems.",2026-10-03
+EGY,treasury-fmis,absent,,,,Ministry of Finance,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. The finance ministry and the treasury authority are printed whole, by chapter; no line names a financial management system.",2026-10-03
+EGY,procurement,absent,,,,General Authority for Governmental Services (e-procurement),hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. The government services authority is printed whole, by chapter; no line names an e-procurement system.",2026-10-03
+EGY,electoral-register,absent,,,,National Election Authority,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. The National Election Authority is printed whole, by chapter; no line names the voter database.",2026-10-03
 EGY,land-registry,not looked,,,,,,,
-EGY,social-registry,not looked,,,,Ministry of Social Solidarity,,,
-EGY,population-register,not looked,,,,,,,
-EGY,data-exchange,not looked,,,,,,,
+EGY,social-registry,absent,,,,Ministry of Social Solidarity,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. The social solidarity ministry and its directorates are printed whole, by chapter; no line names a social registry.",2026-10-03
+EGY,population-register,absent,,,,,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. No body or line is a population register; the civil status fund is held under civil registration.",2026-10-03
+EGY,data-exchange,absent,,,,,hand,"FY2024/25 to FY2026/27: the approved budget's three volumes print 773 bodies, each by chapter and item group, with no project or system line below a body; the list of bodies in the 2026/27 volumes was read on 2026-10-03. No body or line names interoperability or a data exchange.",2026-10-03
 ERI,statistics,not looked,,,,,,,
 ERI,civil-registration-id,not looked,,,,,,,
 ERI,communications-regulator,not looked,,,,,,,
