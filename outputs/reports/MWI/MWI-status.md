@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-03
+compiled: 2026-10-04
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 206
+sources_cited: 208
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -175,7 +175,7 @@ Malawian mobile money moved [K37.9 trillion in 2025, a 94 per cent rise on K19.5
 
 The rails underneath are old and interoperable. [The interbank settlement system has run since 2002](https://itweb.africa/article/malawi-unveils-digital-payments-roadmap/KPNG8v8NQLZM4mwD), and [NatSwitch launched ATM interoperability in 2015, point of sale in 2016 and real-time electronic funds transfer in 2022](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Malawi.pdf). [The Reserve Bank operates the settlement system directly and holds licensing authority over payment, clearing and settlement systems under the Payment Systems Act 2016, while the retail switch is industry-owned and subject to its oversight rather than its control](https://malawilii.org/akn/mw/act/2016/15/eng@2017-12-31). Parliament [passed Bills phasing out the cheque on 6 August 2026](https://www.nyasatimes.com/mcp-mp-warns-rural-malawi-risks-being-left-behind-in-switch-away-from-cheques-unless-govt-fixes-patchy-internet/). The finance ministry [raised wallet holding limits from K1 million to K5 million and transaction limits from K750,000 to K1 million, which the central bank expects to support higher-value digital transactions in 2026](https://times.mw/k38tn-transacted-via-mobile-money/). Private capacity is filling gaps: a Malawian fintech and Centenary Bank [launched instant transfers to any Malawian bank over the national switch, reachable by USSD without a smartphone](https://malawi24.com/2025/06/17/paychangu-centenary-bank-launch-instant-bank-transfer-to-transform-business-payments-in-malawi/) (June 2025).
 
-Access is the weak point. [Access to banking services is among Malawi's ten worst-scoring governance indicators at 17.8 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf), while the national financial inclusion strategy [targets 95 per cent of adults reaching formal financial services by 2028](https://times.mw/id-system-said-to-be-key-to-digital-growth/). Government is a laggard in its own market: the social cash transfer programme's [electronic payments had reached ten of its 28 districts by mid-2024](https://www.idinsight.org/wp-content/uploads/2025/03/Report-Malawi-SCTP-E-Payment-Study_26072024-1.pdf), and [the national e-payment gateway was one of the few government platforms actually delivered in 2025](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/).
+Access is the weak point. [Access to banking services is among Malawi's ten worst-scoring governance indicators at 17.8 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf), while the national financial inclusion strategy [targets 95 per cent of adults reaching formal financial services by 2028](https://times.mw/id-system-said-to-be-key-to-digital-growth/). Government is a laggard in its own market: the social cash transfer programme's [electronic payments had reached ten of its 28 districts by mid-2024](https://www.idinsight.org/wp-content/uploads/2025/03/Report-Malawi-SCTP-E-Payment-Study_26072024-1.pdf), and [the national e-payment gateway was one of the few government platforms actually delivered in 2025](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/). The record since runs both ways: [the police introduced electronic payment of traffic fines at headquarters and across the six police regions, through commercial banks and both mobile money services](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2) (September 2026), while [the Farm Input Subsidy Programme returned to manual coupons for the 2026-27 season, a step technologists questioned on fraud and traceability grounds](https://malawi24.com/2026/08/22/it-experts-question-return-to-manual-fisp-coupons/) (August 2026).
 
 ### Registries
 <!-- dpi.registry -->
