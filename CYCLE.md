@@ -2,58 +2,46 @@
 type: runbook
 reader: cc
 title: The cycle — BUILD then RENDER in one run — instruction for Claude Code
-last_reviewed: 2026-09-17
+last_reviewed: 2026-10-03
 ---
 
 # The cycle — BUILD then RENDER in one run — runbook for Claude Code
 
-*(Run when the whole pipeline goes end to end: Job 1 builds `outputs/` from OSINT, Job 2 renders it into the site and deploys. OSINT is read-only throughout.)*
+*(Run when the whole pipeline goes end to end: Job 1 builds `outputs/` from OSINT, Job 2 renders it into the site and deploys. OSINT is read-only throughout. **`documentation/cycle.md` is why each rule here is as it is**; this file is what to run.)*
 
 ## This file is a driver, not a third runbook
 
-**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. A combined file that restated either half would drift from its original silently, leaving an unattended run two instructions on one step and no way to rule between them. **Nothing bridges the halves**: no state passed but the committed tree, and no work at the seam but the unit review, which has its own runbook. The cycle drives four jobs rather than two — the notes drain and the unit review below are jobs whose *placement* this file fixes, and whose own rules stay where they already live. An instruction here that is not about *ordering* is an instruction in the wrong file.
-
-## Why running them together is better than running them apart
-
-- **The bulletin.** BUILD stage 7 writes it over a two-day publication window; a render a day later publishes a window the site is no longer in — well-formed, and invisible downstream.
-- **`BUILT-FROM` gets tighter for free**: in a cycle, the stamped HEAD is the build's own final commit.
-- **One mirror covers both halves.** RENDER's *Mirror* captures the build's `outputs/` and the render's `site/` in one pass; a build never followed by a render is not backed up until one is.
+**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. The notes drain and the unit review are jobs whose *placement* this file fixes, and whose own rules stay where they live. An instruction here that is not about *ordering* is an instruction in the wrong file.
 
 ## The notes drain runs first
 
-**A cycle opens by clearing what OSINT has asked for.** `C:\corpus-osint-xfer\notes-for-corpus.md` is OSINT's queue into Corpus and every open note names in its `Affects:` line the artefact it bears on — usually something this cycle is about to rebuild. Drained first, the fix is in tonight's build; drained after, or not at all, it waits for the next close, and a note that waits a cycle is indistinguishable from one nobody read. The drain used to happen when Bill said so, which meant it happened when he remembered; a close is the one event that reliably recurs.
+**A cycle opens by clearing what OSINT has asked for** in `C:\corpus-osint-xfer\notes-for-corpus.md`, so the fix is in tonight's build.
 
-**Its rules are not restated here.** How a note is read, actioned, closed and committed is `CLAUDE.md` → *The exchange* and the share's `README.md` → *Conventions*: re-read the file rather than trusting a copy held from earlier in the session, close a note by moving its full text and every dated annotation to `notes-for-corpus-resolved.md` with nothing left at the number, stage the share explicitly and push straight after committing. This file says only when it runs.
+**Its rules are not restated here**: `CLAUDE.md` → *The exchange* and the share's `README.md` → *Conventions*. This file says only when it runs.
 
 **An empty queue is the normal outcome and writes nothing** — no log line, no message, no commit. Where the drain did work it writes its own `· **NOTES** ·` line before the build's, naming the numbers closed.
 
-**A note too large for the run does not hold the cycle, and neither does one that fails.** The unattended rule is the rule everywhere else: take the conservative option and state it, never stop to ask. Annotate the note with what was established, leave it open at its number, put a line in the build half's message to Bill, and go on to the build — a note left open is a note still queued, which is where it started. What the drain must not do is start the build over a half-written share: commit and push before stage 0, or leave the share untouched.
+**A note too large for the run does not hold the cycle, and neither does one that fails.** Take the conservative option and state it, never stop to ask: annotate the note with what was established, leave it open at its number, put a line in the build half's message to Bill, and go on to the build. **Never start the build over a half-written share**: commit and push before stage 0, or leave the share untouched.
 
 ## A cycle ignores what OSINT sends after it has started
 
-**The base is pinned at stage 2, and the catalogue is the pin** *(Bill, 2026-09-08)*. OSINT works in its own session on its own drive and mirrors after every commit, so a daytime cycle runs beside a tree that is moving. It used to lose that race: `report-render.py` compared a count and a high-water mtime over `raw/` and stopped the run on *any* movement, so one record landing during the fifty minutes a cycle takes ended it — a record that could not have affected anything.
+**The base is pinned at stage 2, and the catalogue is the pin** *(Bill, 2026-09-08)*. `report-render._assert_catalogue_current` enforces it:
 
-**The three ways `raw/` can move are not one thing**, and only two of them matter:
+- a record **deleted** from `raw/` — stop.
+- a record **changed** — stop.
+- a record **added** — ignored, and said out loud on the run that ignored it.
 
-- a record **deleted** — the catalogue resolves a slug the base no longer holds. Stop.
-- a record **changed** — the catalogue's URL for it may now be wrong, and a stale table does not fail, it answers wrongly. Stop.
-- a record **added** — the catalogue does not list it, so nothing resolves through it, and nothing in `outputs/` can cite a source that did not exist when the prose was written. Ignored, and said out loud on the run that ignored it.
-
-`report-render._assert_catalogue_current` counts the records at or below the stamp's own high-water mark, which answers that exactly: a deletion or an edit moves a record out of that population, an addition never enters it. **No pin file and no second clock** — the pin cannot drift from the thing it pins because it *is* that thing. `scripts/test_catalogue_pin.py` holds it down, including the case that makes the shape necessary: one record deleted and one arrived leaves `raw/` holding the same number of files it held at the build, which a plain count would pass.
-
-**What this does not do is freeze the tree at step 1.** A record arriving between the drain and stage 2 is built like any other; the cycle is consistent from stage 2 onward, which is what the render half needs. The site is then a view of the catalogue as built, and the sources that arrived after it are the next cycle's.
+A record arriving between the drain and stage 2 is built like any other. The sources that arrive after stage 2 are the next cycle's.
 
 ## The unit review runs at the seam, on unattended cycles only
 
-**Two countries or regions a cycle have all their reports reviewed whole** *(Bill, 2026-09-17)*, so every place comes round about once a month: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the units and says whether a review is owed — only on a cycle started by `/poll` or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
+**Two countries or regions a cycle have all their reports reviewed whole** *(Bill, 2026-09-17)*: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the units and says whether a review is owed — only on a cycle started by `/poll` or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
 
 ## The seam is a job boundary, not a joint
 
-**BUILD's ending sequence leaves the tree in exactly the state `RENDER.md` Step 0 tests for** — everything committed, a non-error build line, no sentinel. The cycle does not weld the halves; it runs the second at the point where the first has finished saying so.
-
 **The seam check is `RENDER.md` Step 0, run exactly as written.** In a cycle each of its three checks names a defect in *this* run: sentinel still present — BUILD never finished; newest build line missing or `errored` — the build half failed; `outputs/` uncommitted — BUILD's ending sequence did not complete.
 
-**In a cycle there is no repair at the seam.** The cycle stops, does not render, and **does not re-attempt the build** — a retry inside the same run is a job looping on the fault that stopped it. Log the render half as not run, write the message, stand down. The build's work is committed and logged, so the cycle is finished later by a plain `RENDER.md` run.
+**In a cycle there is no repair at the seam.** The cycle stops, does not render, and **does not re-attempt the build**. Log the render half as not run, write the message, stand down. The cycle is finished later by a plain `RENDER.md` run.
 
 ## The run
 
@@ -71,18 +59,18 @@ The cycle has no stage of its own — steps 1 and 4 are jobs with their own runb
 
 ## What does not change
 
-- **`· **BUILD** ·`, `· **REVIEW** ·` and `· **RENDER** ·`, exactly as each job writes them — no `· **CYCLE** ·` job name**: `lint-mirror-freshness.py` finds the newest render line, Step 0 greps for the build line, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct — and a `· notes ·` line ahead of them, on the cycles where there was something to drain, is indistinguishable from the hand-run drains that wrote that line before.
-- **Two message blocks, each written by the half that owes it, when it owes it** — held back and merged, the build half's message dies with a seam stop.
-- **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle that dies during the render half has already stood down its build; the repair is a render — or another whole cycle, whose build half finds nothing unconsidered and costs almost nothing. The render is idempotent, so re-running it is never the wrong move.
+- **`· **BUILD** ·`, `· **REVIEW** ·` and `· **RENDER** ·`, exactly as each job writes them — no `· **CYCLE** ·` job name.** A `· **NOTES** ·` line sits ahead of them on the cycles where there was something to drain.
+- **Two message blocks, each written by the half that owes it, when it owes it.**
+- **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle that dies during the render half is repaired by a render, or by another whole cycle.
 - **Commit discipline is unchanged**: one commit per coherent stage in both halves; the cycle adds none.
 
 ## Running unattended — a cycle ends three ways
 
-Both halves forbid stopping to ask, and the cycle inherits that whole. A cycle **finishes**; or **fails in the build half** (the render is not attempted — the seam declines it); or **fails in the render half** (the build's work is committed, logged and safe). The drain sits ahead of all three and ends none of them. Only the third leaves a cycle half-done, and `RENDER.md` on its own completes it. A build with no render is a stale site, not a broken one — the previous render is still served.
+Both halves forbid stopping to ask, and the cycle inherits that whole. A cycle **finishes**; or **fails in the build half** (the render is not attempted — the seam declines it); or **fails in the render half** (the build's work is committed, logged and safe). The drain sits ahead of all three and ends none of them. Only the third leaves a cycle half-done, and `RENDER.md` on its own completes it.
 
 ## What starts a cycle — `scripts/osint-cycle-ready.py`
 
-**A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row**, not the mirror copy: `SWEEP-CYCLE` writes the row's `End` into `cycle-manifest.json` as `rotation.newest_close.end` and commits *before* it mirrors, so that stamp advances on a close and nothing else, and reading a new one from the mirror is itself the proof the mirror carried it. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
+**A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row** in `cycle-manifest.json`, not the mirror copy. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
 
 **Poll it from a session left open:**
 
@@ -92,21 +80,21 @@ end and finish with `python scripts/osint-cycle-ready.py --done`. On exit 1, sto
 nothing. On exit 2, write one block in C:\corpus-osint-xfer\messages-for-bill.md and stop — do not re-run.
 ```
 
-- **Every close fires; there is no minimum interval.** Each close is a night's evidence landed in `raw/`, so each earns a build.
-- **The poll is started against a cycle, not left running.** Bill starts `/loop` when he initiates `SWEEP-CYCLE`, so the only OSINT commits inside the poll's life are that cycle's own. OSINT mirrors after every commit, so a poll left running across a housekeeping morning could start a build over a tree that moves under it. The mechanical half is guarded regardless — `report-render.py` raises `vault_lib.StaleCatalogue` rather than rendering against a moved base — so a slip costs a stopped run naming its own repair, not a bad publish.
+- **Every close fires; there is no minimum interval.**
+- **The poll is started against a cycle, not left running.** Bill starts `/loop` when he initiates `SWEEP-CYCLE`.
 - **`logs/.hold-cycle` is the switch to flip before sitting down to work.** While it exists the trigger holds (as for `.build-in-progress` and uncommitted tracked changes), and it does not advance the watermark — the held close runs when the file comes out.
-- **`--skip` passes a close over without building it, and loses nothing** — the next close covers a skipped one whole, since BUILD works off a set difference. Use it when a night's catch does not earn a cycle, or when a close is superseded by a cycle starting now.
-- **The quiet answer also says how far the base has moved** — file counts and commit range appended to `nothing new` — because *nothing owed* and *nothing wanted* are different questions and a person asking gets both from one command. It fires only on the close row: a base-movement trigger would fire mid-session repeatedly, and a size threshold only delays that. What the quiet answer cannot tell apart — *OSINT has not run* from *the mirror has not carried what it ran* — `scripts/lint-osint-freshness.py` measures at BUILD stage 0.
-- **A hand-run cycle need not call `--done`; the cost is one redundant cycle**, which finds nothing unconsidered and costs almost nothing — cheaper than a trigger inferring what a hand-run did from log lines.
-- **`--claim` before, `--done` after; a claim that never reported done stops the loop** — the next poll exits 2, and `--release` clears it once someone has looked. A loop that re-fired on its own failure would be a job looping on the fault that stopped it.
+- **`--skip` passes a close over without building it, and loses nothing.** Use it when a night's catch does not earn a cycle, or when a close is superseded by a cycle starting now.
+- **The quiet answer also says how far the base has moved** — file counts and commit range appended to `nothing new`.
+- **A hand-run cycle need not call `--done`; the cost is one redundant cycle.**
+- **`--claim` before, `--done` after; a claim that never reported done stops the loop** — the next poll exits 2, and `--release` clears it once someone has looked.
 
 ## Handing over at the seam
 
-**The seam is the right place to stop for context, and the only one** — after the unit review, if one ran; a review is not split across sessions. BUILD stage 4 is model authoring across forty-odd units; the render half deserves a session with room to read its own output. There is nothing to hand over but the instruction — a fresh session running `RENDER.md` from Step 0 is in exactly the position the cycle would have been in. **Stopping at the seam is a completed build, not an abandoned cycle.** Anywhere else, do not stop deliberately: inside stage 4 an interruption is survivable but invisible; inside the render half it leaves `site/` part-written and undeployed.
+**The seam is the right place to stop for context, and the only one** — after the unit review, if one ran; a review is not split across sessions. A fresh session running `RENDER.md` from Step 0 is in exactly the position the cycle would have been in. **Stopping at the seam is a completed build, not an abandoned cycle.** Anywhere else, do not stop deliberately.
 
 ## Running the halves separately
 
-**Unchanged, and this file is not involved.** Each runbook stands alone exactly as written; nothing in either was changed to make the cycle possible beyond a pointer to this file. That is the test of the seam: if the combined form had needed either half altered, the halves were not separable.
+**Unchanged, and this file is not involved.** Each runbook stands alone exactly as written.
 
 ## Boundary
 

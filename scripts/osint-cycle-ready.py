@@ -68,7 +68,7 @@ OSINT's writes over `raw/` at the same time. The watermark records which of `bui
 **A claim that never reported done is the one state that needs a human.** `--claim` records
 the `End` a run is about to build and `--done` advances the watermark to it. If a claim is
 outstanding and newer than `done`, a cycle started and did not finish, and this exits 2
-rather than firing again: `CYCLE.md` — *a retry inside the same run is how a job starts
+rather than firing again: `documentation/cycle.md` — *a retry inside the same run is how a job starts
 looping on the fault that stopped it* — and a poll loop re-firing a failing cycle every
 twenty minutes is that fault with a clock on it. `--release` clears it once a human has
 looked.
