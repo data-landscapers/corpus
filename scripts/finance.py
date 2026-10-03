@@ -227,7 +227,7 @@ PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_name}"
       data-cols="recipient, start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="recipient, primary_topic, instrument, aid, scope, status, beneficiary_type"
+      data-filters="recipient, african, primary_topic, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
@@ -520,6 +520,15 @@ def budget_title(r: dict) -> str:
     return " : ".join(parts)
 
 
+def finance_type(r: dict) -> str:
+    """A non-state row's `type`: aid, or other finance split by whether the financier is
+    African *(Bill, 2026-10-03)*. A financier the lookup does not place stays `other finance`."""
+    if r.get("aid") == "true":
+        return "aid"
+    where = (r.get("african") or "").strip()
+    return f"other {where} finance" if where else "other finance"
+
+
 def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
     """The two tables as one, in `ALL_COLUMNS`: Bill's mapping in
     `documentation/joined-up-finance-spec.csv`, plus `scope` and `scope_basis`, which both
@@ -534,7 +543,7 @@ def all_finance_rows(nonstate: list[dict], budget: list[dict]) -> list[dict]:
         out.append({
             "country": r["recipient"], "year": year,
             "primary_topic": r["primary_topic"],
-            "type": "aid" if r.get("aid") == "true" else "other finance",
+            "type": finance_type(r),
             "financier": r["financier"], "recipient": r["recipient_organisation"],
             "title": r["title"], "description": r["description"],
             "value_usd": f"{float(m) * 1e6:.0f}" if m else "",

@@ -4,6 +4,7 @@ start_year,"The year in which the finance was approved or committed. In some cir
 end_year,The year in which the financed activity ended or is due to end
 published_date,"The date the source was published. Where the source gives only a year or month, as IATI activity records do, the date Data Landscapers found it."
 financier,The short or abbreviated name of the institution providing the finance
+african,"African where the financier is an African institution, non-African where it is not"
 primary_topic,"What the money is for, as a topic in Data Landscapers' taxonomy, which is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics"
 instrument,"The financial instrument such as grant, loan equity."
 aid,"true where the instrument is a grant, a concessional loan or technical assistance; false for every other instrument, including Unknown"

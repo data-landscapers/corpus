@@ -642,7 +642,7 @@ def budget_section(name: str, header: list[str], rows: list[dict], csv_name: str
 # The row panel carries every field, shown columns included (Bill, 2026-09-27): the panel is
 # where a reader reads one deal whole, and a field missing there because it is also a column
 # is missing. `finance.py` imports this for the all-Africa table.
-FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, primary_topic, "
+FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, african, primary_topic, "
                   "instrument, aid, commitment_usd_m, amount_basis, amount_quality, scope, scope_basis, "
                   "status, title, "
                   "description, beneficiary_type, recipient_organisation, original_amount, "
@@ -653,7 +653,7 @@ FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, p
 # The unfiltered option says "Aid and non-aid", where the default "All aid" read as a choice.
 # `finance.py` imports both for the all-Africa table.
 AID_LABELS = {"aid": {"true": "Aid", "false": "Not aid"}}
-FILTER_ALL = {"aid": "Aid and non-aid"}
+FILTER_ALL = {"aid": "Aid and non-aid", "african": "African and non-African"}
 
 
 def attr_json(obj) -> str:
@@ -697,7 +697,7 @@ FINANCE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{csv_name}"
       data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="financier, primary_topic, instrument, aid, scope, status, beneficiary_type"
+      data-filters="financier, african, primary_topic, instrument, aid, scope, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-detail=\"""" + FINANCE_DETAIL + """\"

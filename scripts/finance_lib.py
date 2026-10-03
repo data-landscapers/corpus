@@ -201,6 +201,7 @@ def fx_rate(fx, cur, yr):
 
 
 _FINNAME = None
+_FINAFRICAN = {}
 
 
 def load_financier_names(path="lookups/financier-names.csv"):
@@ -214,7 +215,19 @@ def load_financier_names(path="lookups/financier-names.csv"):
                 if row.get("financier_slug"):
                     _FINNAME[row["financier_slug"].strip()] = \
                         (row.get("canonical_name") or "").strip()
+                    _FINAFRICAN[row["financier_slug"].strip()] =                         (row.get("african") or "").strip().lower()
     return _FINNAME
+
+
+# OSINT's lookup holds `true`/`false`; the published column says it in words (Bill, 2026-10-03).
+AFRICAN_WORDS = {"true": "African", "false": "non-African"}
+
+
+def fin_african(slug):
+    """`African` or `non-African` for a financier slug, from `financier-names.csv`; blank
+    where the lookup has no row for the slug or no value on it."""
+    load_financier_names()
+    return AFRICAN_WORDS.get(_FINAFRICAN.get((slug or "").strip(), ""), "")
 
 
 def fin_name(slug):

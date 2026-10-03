@@ -2,7 +2,7 @@ column,label,type,values,definition
 country,Country,code,ISO3 or a region code,"The country the money is for, as a three-letter code (KEN is Kenya). A non-state commitment to several countries carries a region code, such as XSS for Sub-Saharan Africa."
 year,Year,year,,"For a non-state commitment, the year it was approved or committed; the whole amount sits in that year. For a budget line, the year the fiscal year starts in. The table starts in 2024."
 primary_topic,Topic,text,a Level 2 label in the topic taxonomy,"What the money is for, as the topic taxonomy's name. It is our assessment, not the financier's or the government's."
-type,Type,text,"aid, other finance, budget","Aid is a non-state grant, concessional loan or technical assistance. Other finance is every other non-state commitment. Budget is a line in a state's own budget."
+type,Type,text,"aid, other African finance, other non-African finance, budget","Aid is a non-state grant, concessional loan or technical assistance. Other finance is every other non-state commitment, split by whether the financier is African. Budget is a line in a state's own budget."
 financier,Financier,text,,"Who provides the money. For a budget line, the admin head: the ministry or vote the budget allocates it to."
 recipient,Recipient,text,,"Who receives or spends the money: the recipient organisation of a non-state commitment, or the spending entity of a budget line. Blank where the source names none."
 title,Title,text,,"The commitment's title, or the budget line's programme, sub-programme and line name, each given once."

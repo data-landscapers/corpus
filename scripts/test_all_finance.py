@@ -27,7 +27,7 @@ def check(label, got, want):
 
 
 NS = {"recipient": "KEN", "start_year": "2025 (2025-07-06)", "primary_topic": "Connectivity",
-      "aid": "true", "financier": "World Bank", "recipient_organisation": "ICT Authority",
+      "aid": "true", "african": "non-African", "financier": "World Bank", "recipient_organisation": "ICT Authority",
       "title": "Fibre", "description": "A loan.", "commitment_usd_m": "22.5",
       "deal_id": "wb-ken-1", "scope": "partial", "scope_basis": "Broadband with power."}
 BD = {"country": "KEN", "report_year": "2025", "primary_topic": "Registries",
@@ -38,6 +38,8 @@ BD = {"country": "KEN", "report_year": "2025", "primary_topic": "Registries",
 
 rows = {r["deal_id"]: r for r in finance.all_finance_rows(
     [NS, {**NS, "deal_id": "wb-ken-2", "aid": "false", "commitment_usd_m": ""},
+     {**NS, "deal_id": "afx-ken-1", "aid": "false", "african": "African"},
+     {**NS, "deal_id": "new-ken-1", "aid": "false", "african": ""},
      {**NS, "deal_id": "wb-ken-old", "start_year": "2023"},
      {**NS, "deal_id": "wb-ken-undated", "start_year": ""}], [BD])}
 ns, other, bd = rows["wb-ken-1"], rows["wb-ken-2"], rows["ken-2025-x"]
@@ -46,9 +48,13 @@ check("every row has exactly the published columns", list(ns), list(finance.ALL_
 check("a non-state value is whole dollars", ns["value_usd"], "22500000")
 check("its year is the bare year", ns["year"], "2025")
 check("a commitment before 2024, or with no year, is not joined",
-      sorted(rows), ["ken-2025-x", "wb-ken-1", "wb-ken-2"])
+      sorted(rows), ["afx-ken-1", "ken-2025-x", "new-ken-1", "wb-ken-1", "wb-ken-2"])
 check("aid is aid", ns["type"], "aid")
-check("and anything else non-state is other finance", other["type"], "other finance")
+check("aid is not split by where the financier is from", "African" in ns["type"], False)
+check("anything else from a non-African financier", other["type"], "other non-African finance")
+check("or from an African one", rows["afx-ken-1"]["type"], "other African finance")
+check("a financier the lookup does not place stays other finance",
+      rows["new-ken-1"]["type"], "other finance")
 check("no amount stays blank, never zero", other["value_usd"], "")
 check("a non-state row carries its scope", (ns["scope"], ns["scope_basis"]),
       ("partial", "Broadband with power."))

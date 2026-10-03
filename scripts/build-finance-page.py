@@ -38,7 +38,7 @@ import taxonomy_lib                                                             
 import budget_source                                                            # noqa: E402
 from vault_lib import dewiki                                                    # noqa: E402
 from finance_lib import (split_front, fm_get, section, deal_table, raw_sources,  # noqa: E402
-                         fin_name)                                              # noqa: E402
+                         fin_name, fin_african)                                           # noqa: E402
 
 RAW = "raw"
 # Corpus's own judgement of each non-state deal's scope. Absolute, because the build runs
@@ -286,7 +286,8 @@ def recip_org(T):
     v = re.sub(r'\s*\([A-Z]{3}\)\s*$', '', v).strip()  # drop a trailing country tag
     return clean(v)
 
-NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "primary_topic",
+NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "african",
+             "primary_topic",
              "instrument", "aid", "commitment_usd_m", "amount_basis", "amount_quality",
              "scope", "scope_basis", "status",
              "title", "description",
@@ -361,7 +362,8 @@ def _ns_row(r, country, lab):
     sec = primary_subject(r)
     status = T.get("Status", "")
     return [country, deal_year(r), T.get("End year", ""), published_date(r),
-            fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
+            fin_name(fm_get(fm, "financier_slug")), fin_african(fm_get(fm, "financier_slug")),
+            lab.get(sec, sec),
             T.get("Instrument", ""), is_aid(T.get("Instrument", "")),
             halved_cell(usd) if share(r) != 1 else usd_m_cell(usd), basis,
             amount_quality(r), r.get("scope", ""), r.get("scope_basis", ""), status,

@@ -1,3 +1,8 @@
+## 3 October 2026
+
+- Non-state finance has a new column, `african`: African or non-African, by the financier. It is a filter on every non-state finance table.
+- In all finance, `type` no longer says other finance: it says other African finance or other non-African finance. Aid and budget rows are unchanged.
+
 ## 2 October 2026
 
 - Mauritania's 2024 budget table now shows what was spent on 111 of its 127 lines, from the 2024 settlement law. Each figure is matched to its line by the voted and revised amounts the law prints beside it.
