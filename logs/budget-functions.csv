@@ -58,7 +58,7 @@ BFA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for
 BWA,statistics,found,whole,6,bwa-2024-0300-0301-02115,Statistics Botswana,rows,,
 BWA,civil-registration-id,found,partial,6,bwa-2024-0400-0402-00725,,rows,,
 BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"FY2024/25 to FY2026/27: the estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government; it is funded by its own licence fees and has no expenditure line. Its Annual Report 2025 prints expenses of BWP 205,302,834 for the year to 31 March 2025, read on 2026-10-03 and parked in the follow-ups until the report has a catalogue record a row can cite.",2026-10-03
-BWA,ict-ministry-egov,found,whole,39,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
+BWA,ict-ministry-egov,found,whole,40,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
 BWA,cybersecurity,absent,,,,BW-CIRT,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no department or account names cyber security",2026-10-02
 BWA,data-protection,found,whole,3,bwa-2024-2500-2501-02208,,rows,,
 BWA,revenue-systems,found,whole,3,bwa-2024-2000-2004-02014,Botswana Unified Revenue Service,rows,,

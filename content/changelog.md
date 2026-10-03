@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Botswana's 2024/25 budget table gains the Universal Access and Service Fund, from its own accounts: BWP 111.3m spent, up from 76.4m. It is fed by a levy on operators outside the budget and ran a BWP 11.5m deficit.
 - Uganda's 2024/25 budget table gains the Uganda Communications Commission, from the Auditor General's report on it: UGX 175.1bn budgeted, 155.1bn spent. Development spending reached 73% of its budget; the transfers the Commission passes to the Treasury and the ICT ministry are not counted.
 - Kenya's 2024/25 budget table gains the Communications Authority and its Universal Service Fund, from their own accounts: KES 9.1bn and 5.6bn spent. The fund's project spending rose from KES 1.4bn to 5.5bn in a year, more than it collected.
 - Lesotho's 2024/25 budget table gains the communications regulator, LCA, from its own accounts: LSL 110.1m of expenditure against LSL 121.3m of revenue. It is funded from regulatory fees outside the estimates.
