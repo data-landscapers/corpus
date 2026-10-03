@@ -323,7 +323,7 @@ GNQ,population-register,absent,,,,,hand,keyword scan of the budget law volumes f
 GNQ,data-exchange,found,partial,2,gnq-2024-21-21a-008,,rows,,
 KEN,statistics,found,whole,3,ken-2024-1072-0707010,Kenya National Bureau of Statistics,rows,,
 KEN,civil-registration-id,found,whole,15,ken-2024-1024-0605010,State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau),rows,,
-KEN,communications-regulator,absent,,,,Communications Authority of Kenya,hand,keyword scan of the programme budgets and development estimates for 2024/25 to 2026/27: the Communications Authority of Kenya is funded from its own fees and has no vote or head,2026-10-02
+KEN,communications-regulator,found,whole,2,ken-2024-ca,Communications Authority of Kenya,rows,,
 KEN,ict-ministry-egov,found,whole,14,ken-2024-1122-0210010,"eCitizen; ICT Authority; Ministry of Information, Communications and the Digital Economy",rows,,
 KEN,cybersecurity,found,whole,4,ken-2024-1026-1026008500,National KE-CIRT/CC,rows,,
 KEN,data-protection,found,whole,1,ken-2026-1122-0222020,Office of the Data Protection Commissioner,rows,,

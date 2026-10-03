@@ -1,5 +1,6 @@
 ## 3 October 2026
 
+- Kenya's 2024/25 budget table gains the Communications Authority and its Universal Service Fund, from their own accounts: KES 9.1bn and 5.6bn spent. The fund's project spending rose from KES 1.4bn to 5.5bn in a year, more than it collected.
 - Lesotho's 2024/25 budget table gains the communications regulator, LCA, from its own accounts: LSL 110.1m of expenditure against LSL 121.3m of revenue. It is funded from regulatory fees outside the estimates.
 - Namibia's 2024/25 budget table gains the communications regulator, CRAN, from its own accounts: NAD 140.9m of operating expenses. It is funded from levies outside the budget and ran a NAD 25.6m loss that year.
 - Eswatini's 2024/25 budget table gains the communications regulator and its universal access fund, from the regulator's audited accounts: SZL 110.0m and 14.2m spent. Both are funded from licence fees and levies outside the estimates.
