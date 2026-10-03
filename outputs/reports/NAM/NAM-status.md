@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-09-30
+compiled: 2026-10-04
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 151
+sources_cited: 153
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -36,6 +36,8 @@ The framework law for electronic transactions is in a similar half-state. [The E
 What is in force is narrower. [The Access to Information Act 8 of 2022](https://www.lac.org.na/laws/2022/7986.pdf) gives Namibians a statutory right to request information held by public bodies, and [the Payment System Management Act 14 of 2023](https://www.lac.org.na/laws/2023/8156.pdf) gives the Bank of Namibia power to regulate and oversee the national payment system, approve its rules and issue directives.
 
 Licensing is where statute has bitten hardest. [CRAN refused Starlink a comprehensive service licence and the spectrum it sought, in a decision gazetted on 23 March 2026](https://www.namibian.com.na/cran-rejects-starlink-licence/), [finding the applicant met three of six statutory criteria and failing it on ownership and control, on compliance history after it had operated unlicensed, and on national defence and public security; it is wholly foreign-owned against a 51 percent Namibian requirement and obtained no ministerial exemption](https://www.connectingafrica.com/regulation/starlink-blocked-from-operating-in-namibia). [Of 624 reconsideration requests, 622 failed the legal threshold, so the refusal stood in June 2026, with a fresh application already filed on 8 June](https://www.connectingafrica.com/regulation/namibian-regulator-rejects-starlink-again).
+
+Financial regulation changed in 2026 as well: [the Financial Institutions and Markets Act and a new NAMFISA Act came into operation on 1 May 2026, a framework the supervisor presents as the basis for fintech innovation with consumer protection](https://neweralive.na/fintech-will-drive-jobs-economic-growth-namfisa/) (September 2026).
 
 ### Data protection
 <!-- gov.protect -->
@@ -123,7 +125,7 @@ Namibia is one of the [few African states to have shut Starlink out](https://itw
 
 [Paratus broke the state-linked duopoly on 2 September 2025, launching Namibia's first privately owned mobile network, a data-only LTE and 5G service](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network), in a market where [the majority state-owned MTC held more than two million subscribers and over 90 percent of the market against TN Mobile's roughly 336,000 (September 2025)](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network). [MTC's 5G, switched on in Windhoek, Swakopmund and Walvis Bay in August 2025](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO), [had reached Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb by September 2026, with a second phase of 19 sites across nine regions under construction](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/). Reach beyond the towns is the constraint: [4G covered about 88 percent of the population in 2024, against a government target of full coverage by 2030](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030), but [a population density of 3.76 people per square kilometre keeps 5G phased and city-first while rural areas stay on 2G and 3G (February 2026)](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/). [Twenty-five PowerCom towers costing N$40 million were inaugurated across nine regions in August 2025](https://www.namibiansun.com/technology/namibia-bolsters-digital-access-with-25-new-network-towers2025-08-25167910), and [the Equiano subsea cable lands on the coast](https://www.namibiansun.com/nmh-hub/grounding-the-cloud-in-namibia-nmh005717-3015-6100).
 
-Coverage now runs ahead of use. [The regulator has proposed tax breaks on 4G-capable handsets, treating device affordability rather than coverage as the constraint, after an operator reported low use of its 4G towers in Kunene (February 2026)](https://itweb.africa/article/namibian-regulator-proposes-tax-breaks-on-4g-devices/). [Internet and computer access is Namibia's most improved of all 96 IIAG indicators, up 38.1 points over 2014-2023 to 49.6 out of 100 and 13th of 54 — rapid gain that still leaves it below halfway, while mobile communications ranks only 21st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf).
+Coverage now runs ahead of use. [The regulator has proposed tax breaks on 4G-capable handsets, treating device affordability rather than coverage as the constraint, after an operator reported low use of its 4G towers in Kunene (February 2026)](https://itweb.africa/article/namibian-regulator-proposes-tax-breaks-on-4g-devices/). [Internet and computer access is Namibia's most improved of all 96 IIAG indicators, up 38.1 points over 2014-2023 to 49.6 out of 100 and 13th of 54 — rapid gain that still leaves it below halfway, while mobile communications ranks only 21st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). Investment continues on the supply side: [the incumbent mobile operator says it will put N$624.9 million into coverage, fibre and 5G in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) (August 2026).
 
 ### Data Storage
 <!-- infra.store -->
