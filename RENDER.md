@@ -223,9 +223,10 @@ Last of the writers, because it reads the tree the others left.
 ```bash
 python scripts/lint-external-links.py
 python scripts/lint-structured-data.py
+python scripts/lint-page-weight.py       # 1 over the size rule · 2 unmeasured: log, go on
 ```
 
-**A finding from either stops the push.** The repair is to fix the builder and re-run the step that wrote the page — `render.py --repage` for a report — neither of which cuts an edition.
+**A finding from any stops the push.** For the first two the repair is to fix the builder and re-run the step that wrote the page — `render.py --repage` for a report — neither of which cuts an edition.
 
 ```bash
 git add site
