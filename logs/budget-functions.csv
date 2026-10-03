@@ -57,7 +57,7 @@ BFA,population-register,absent,,,,,hand,"keyword scan of the finance laws' volum
 BFA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names interoperability of data or a data exchange; the one hit is military equipment",2026-10-02
 BWA,statistics,found,whole,6,bwa-2024-0300-0301-02115,Statistics Botswana,rows,,
 BWA,civil-registration-id,found,partial,6,bwa-2024-0400-0402-00725,,rows,,
-BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"FY2024/25 to FY2026/27: the estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government; it is funded by its own licence fees and has no expenditure line. Its Annual Report 2025 prints expenses of BWP 205,302,834 for the year to 31 March 2025, read on 2026-10-03 and parked in the follow-ups until the report has a catalogue record a row can cite.",2026-10-03
+BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"FY2024/25 to FY2026/27: the estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government; it is funded by its own licence fees and has no expenditure line. Its Annual Report 2025 was read on 2026-10-03 (expenses BWP 205,302,834 for the year to 31 March 2025) and is not held: a regulator's accounts are not a budget stage. Its universal access fund is held.",2026-10-03
 BWA,ict-ministry-egov,found,whole,40,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
 BWA,cybersecurity,absent,,,,BW-CIRT,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no department or account names cyber security",2026-10-02
 BWA,data-protection,found,whole,3,bwa-2024-2500-2501-02208,,rows,,
@@ -323,7 +323,7 @@ GNQ,population-register,absent,,,,,hand,keyword scan of the budget law volumes f
 GNQ,data-exchange,found,partial,2,gnq-2024-21-21a-008,,rows,,
 KEN,statistics,found,whole,3,ken-2024-1072-0707010,Kenya National Bureau of Statistics,rows,,
 KEN,civil-registration-id,found,whole,15,ken-2024-1024-0605010,State Department for Immigration and Citizen Services (Civil Registration Services; National Registration Bureau),rows,,
-KEN,communications-regulator,found,whole,2,ken-2024-ca,Communications Authority of Kenya,rows,,
+KEN,communications-regulator,absent,,,,Communications Authority of Kenya,hand,"FY2024/25 to FY2026/27: the programme budgets and development estimates print no vote or head for the Communications Authority of Kenya, which is funded from its own fees. Its un-audited statement for the year to 30 June 2025 was read on 2026-10-03 (expenses KES 9,138,230 thousand) and is not held: a regulator's accounts are not a budget stage. Its universal service fund is held.",2026-10-03
 KEN,ict-ministry-egov,found,whole,14,ken-2024-1122-0210010,"eCitizen; ICT Authority; Ministry of Information, Communications and the Digital Economy",rows,,
 KEN,cybersecurity,found,whole,4,ken-2024-1026-1026008500,National KE-CIRT/CC,rows,,
 KEN,data-protection,found,whole,1,ken-2026-1122-0222020,Office of the Data Protection Commissioner,rows,,
@@ -365,7 +365,7 @@ LBY,population-register,absent,,,,,hand,"FY2024 and FY2025: the House of Represe
 LBY,data-exchange,absent,,,,,hand,"FY2024 and FY2025: the House of Representatives' budget prints each head's affiliated bodies by chapter; Law 9 of 2024 was read whole and the 2025 bill as far as its transcription goes, on 2026-09-24. No body or line names data exchange.",2026-10-02
 LSO,statistics,found,whole,3,lso-2024-304-04-04,Bureau of Statistics,rows,,
 LSO,civil-registration-id,found,whole,8,lso-2024-308-03-02,,rows,,
-LSO,communications-regulator,found,whole,1,lso-2024-lca,Lesotho Communications Authority,rows,,
+LSO,communications-regulator,absent,,,,Lesotho Communications Authority,hand,"FY2024/25 to FY2026/27: the estimates books, appropriation bills and budget documents print no line for the communications authority, which is funded from its own fees. Its statements for the year to 31 March 2025 were read on 2026-10-03 (expenditure LSL 110,063,242) and are not held: a regulator's accounts are not a budget stage.",2026-10-03
 LSO,ict-ministry-egov,found,whole,3,lso-2024-310-0480,Government of Lesotho portal,rows,,
 LSO,cybersecurity,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: cyber security appears as a policy aim and a risk in the text; no cost centre or project is named for it",2026-10-02
 LSO,data-protection,absent,,,,,hand,"keyword scan of the estimates books, appropriation bills and budget documents for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no head or cost centre names data protection",2026-10-02
@@ -393,7 +393,7 @@ MAR,population-register,absent,,,,,hand,"FY2024 and FY2025: no project line name
 MAR,data-exchange,absent,,,,,hand,"FY2024 and FY2025: no project line names interoperability or data exchange. Morasses, every chapter searched, and the finance law.",2026-10-02
 MDG,statistics,found,whole,3,mdg-2024-21-220-013-00-21-f-01m,Institut national de la statistique (INSTAT),rows,,
 MDG,civil-registration-id,found,whole,7,mdg-2024-14-142-133-00-14-0-395,,rows,,
-MDG,communications-regulator,found,whole,1,mdg-2024-artec,Autorité de régulation des technologies de communication (ARTEC),rows,,
+MDG,communications-regulator,absent,,,,Autorité de régulation des technologies de communication (ARTEC),hand,"FY2024 to FY2026: the finance laws' volumes print no line for the regulator (ARTEC), which is funded from its own fees. Its 2024 accounts were read on 2026-10-03 (operating charges MGA 12.48bn against income of 46.9bn) and are not held: a regulator's accounts are not a budget stage.",2026-10-03
 MDG,ict-ministry-egov,found,whole,13,mdg-2024-60-670-043,Unité de gouvernance digitale (UGD); Gouvernement malagasy (zone parente),rows,,
 MDG,cybersecurity,found,whole,2,mdg-2024-37-370-030-00-37-0-a30,CIRT Madagascar,rows,,
 MDG,data-protection,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service names data protection",2026-10-02
@@ -477,7 +477,7 @@ MWI,population-register,absent,,,,,hand,"keyword scan of the approved detailed e
 MWI,data-exchange,absent,,,,,hand,"keyword scan of the approved detailed estimates and programme budgets for 2024/25 to 2026/27, read at the sitting of 2026-09-25: the Boma Lathu data exchange is named in the ICT ministry's programme text and not as a line of its own",2026-10-02
 NAM,statistics,found,whole,3,nam-2024-26-md02-nsa,Namibia Statistics Agency,rows,,
 NAM,civil-registration-id,found,whole,7,nam-2026-28-md02-mvrk-sla,,rows,,
-NAM,communications-regulator,found,whole,1,nam-2024-cran,Communications Regulatory Authority of Namibia,rows,,
+NAM,communications-regulator,absent,,,,Communications Regulatory Authority of Namibia,hand,"FY2024/25 to FY2026/27: the estimates never name the Communications Regulatory Authority of Namibia; it is funded by its own levies outside the vote. Its statements for the year to 31 March 2025 were read on 2026-10-03 (operating expenses NAD 140,944,973) and are not held: a regulator's accounts are not a budget stage.",2026-10-03
 NAM,ict-ministry-egov,found,whole,10,nam-2024-02-md06,Office of the Prime Minister,rows,,
 NAM,cybersecurity,found,whole,1,nam-2026-29-md05,,hand,"the cyber security programme (N$6,000,000 in 2026/27) is an item of the ICT Development main division, which is held whole",2026-10-02
 NAM,data-protection,absent,,,,,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no data protection body is funded; the Information Commission that is held administers access to information",2026-10-02
@@ -617,7 +617,7 @@ STP,population-register,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints
 STP,data-exchange,absent,,,,,hand,FY2024: volume 5 (Despesas Geral) prints every organ to the economic line and was read whole; no line names interoperability or data exchange.,2026-10-02
 SWZ,statistics,found,whole,14,swz-2024-23-31,,rows,,
 SWZ,civil-registration-id,found,whole,7,swz-2024-43-T524,,rows,,
-SWZ,communications-regulator,found,whole,1,swz-2024-esccom,Eswatini Communications Commission,rows,,
+SWZ,communications-regulator,absent,,,,Eswatini Communications Commission,hand,"FY2024/25 and FY2025/26: the estimates books and the treasury's reports print no line for the communications commission (ESCCOM), which is funded outside the budget. Its audited statements for the year to 31 March 2025 were read on 2026-10-03 (operating expenses SZL 109,987,380) and are not held: a regulator's accounts are not a budget stage. Its universal access fund is held.",2026-10-03
 SWZ,ict-ministry-egov,found,whole,1,swz-2024-43-G649,Government of Eswatini portal,hand,"the ICT ministry (head 43) is held: its computer services department, the e-services platform and the disaster recovery site",2026-10-02
 SWZ,cybersecurity,absent,,,,,hand,"FY2025/26: the capital estimates print project G629 Cyber Security under head 43 (project cost E8,772,000, spent 6,072,000 to March 2024) with nothing for 2025/26 or later (PDF p. 223); no cybersecurity agency line",2026-10-03
 SWZ,data-protection,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names data protection",2026-10-02
@@ -701,8 +701,8 @@ TZA,population-register,absent,,,,,hand,"FY2024 to FY2026: the estimates volumes
 TZA,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the estimates volumes print every vote to subvote, item and project, with the transfers to public bodies in two annexes, and were read whole on 2026-09-24. No line names interoperability or a data exchange.",2026-10-02
 UGA,statistics,found,whole,56,uga-2024-143-18-01-02-001,Uganda Bureau of Statistics,rows,,
 UGA,civil-registration-id,found,whole,23,uga-2024-137-14-05-01-001,National Identification and Registration Authority,rows,,
-UGA,communications-regulator,found,whole,4,uga-2024-162-07-01-1776-000003-312423,Uganda Communications Commission,rows,,
-UGA,ict-ministry-egov,found,whole,63,uga-2024-020-11-01-02-001,National Information Technology Authority Uganda,rows,,
+UGA,communications-regulator,found,whole,3,uga-2024-162-07-01-1776-000003-312423,Uganda Communications Commission,rows,,
+UGA,ict-ministry-egov,found,whole,62,uga-2024-020-11-01-02-001,National Information Technology Authority Uganda,rows,,
 UGA,cybersecurity,found,whole,6,uga-2024-126-11-02-04-001,Uganda National CERT/CC,rows,,
 UGA,data-protection,found,whole,3,uga-2024-126-11-04-01-001,Personal Data Protection Office,rows,,
 UGA,revenue-systems,found,whole,16,uga-2025-017-21-04-003-080009,Uganda Revenue Authority,rows,,

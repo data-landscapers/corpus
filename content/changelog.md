@@ -1,12 +1,8 @@
 ## 3 October 2026
 
 - Botswana's 2024/25 budget table gains the Universal Access and Service Fund, from its own accounts: BWP 111.3m spent, up from 76.4m. It is fed by a levy on operators outside the budget and ran a BWP 11.5m deficit.
-- Uganda's 2024/25 budget table gains the Uganda Communications Commission, from the Auditor General's report on it: UGX 175.1bn budgeted, 155.1bn spent. Development spending reached 73% of its budget; the transfers the Commission passes to the Treasury and the ICT ministry are not counted.
-- Kenya's 2024/25 budget table gains the Communications Authority and its Universal Service Fund, from their own accounts: KES 9.1bn and 5.6bn spent. The fund's project spending rose from KES 1.4bn to 5.5bn in a year, more than it collected.
-- Lesotho's 2024/25 budget table gains the communications regulator, LCA, from its own accounts: LSL 110.1m of expenditure against LSL 121.3m of revenue. It is funded from regulatory fees outside the estimates.
-- Namibia's 2024/25 budget table gains the communications regulator, CRAN, from its own accounts: NAD 140.9m of operating expenses. It is funded from levies outside the budget and ran a NAD 25.6m loss that year.
-- Eswatini's 2024/25 budget table gains the communications regulator and its universal access fund, from the regulator's audited accounts: SZL 110.0m and 14.2m spent. Both are funded from licence fees and levies outside the estimates.
-- Madagascar's 2024 budget table gains the telecommunications regulator, ARTEC, from its own accounts: MGA 12.5bn of operating costs. It is funded from fees outside the finance law and earned MGA 46.9bn that year.
+- Kenya's 2024/25 budget table gains the Universal Service Fund, from its own accounts: KES 5.6bn spent. Its project spending rose from KES 1.4bn to 5.5bn in a year, more than it collected.
+- Eswatini's 2024/25 budget table gains the universal access fund, from its audited accounts: SZL 14.2m spent. It is fed by a levy on operators outside the estimates.
 - Cameroon's 2024 budget table gains the outturn of two special accounts, from the audit court's execution report. The electronic security fund spent 47% of its XAF 1.5bn allocation while collecting XAF 2.27bn; the postal development account spent 56% of XAF 900m.
 - Kenya's 2024/25 budget table gains the revised figure for 18 development projects, from the supplementary estimates. Thirteen lost their whole provision in the first supplementary budget, among them ICT in secondary schools (KES 150m) and county connectivity (KES 150m).
 - Mali's 2024 and 2025 budget tables gain the proposed stage for 20 lines a year, from the finance bills. Every project and body was voted at the figure the government proposed.
