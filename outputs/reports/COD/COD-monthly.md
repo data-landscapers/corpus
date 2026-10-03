@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: COD
-ledger_rows: 45
+ledger_rows: 46
 not_held: 7
-record: 05b389f41c18
+record: baad6ffe682c
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -60,7 +60,7 @@ A philanthropic accelerator [announced on 24 September a demonstration that will
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
 
-Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to.
+Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to. The regional programme's half-year report [records the digital transformation project's unit operational and a US$10m Kinshasa connectivity pilot, against delays in validating the backbone investment strategy and late disbursement of the French co-financing, with a US$190m backbone tender and US$65m of last-mile tenders the year's stated priorities](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 <!-- /narrative -->
 
 ## DPI

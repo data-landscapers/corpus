@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: XEA
-ledger_rows: 15
+ledger_rows: 16
 not_held: 0
-record: 02c2f8ff498f
+record: f97c7d42fdbd
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The IGAD Council of Ministers [endorsed the entry into force of the IGAD Treaty 
 ### Regional collaboration
 
 <!-- narrative: institutions--gov-regional -->
-The 2023 IGAD Treaty reached its threshold: [five of seven member states have ratified and the Council of Ministers endorsed its entry into force on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/), replacing the 1996 agreement; the date of entry into force is still to be notified.
+The 2023 IGAD Treaty reached its threshold: [five of seven member states have ratified and the Council of Ministers endorsed its entry into force on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/), replacing the 1996 agreement; the date of entry into force is still to be notified. The COMESA secretariat's half-year report on the IDEA programme [records US$325,535 spent of a US$3,705,360 regional budget for 2026 by June, 9 per cent](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), with a least-cost infrastructure planning consultancy of US$409,895 in final vetting.
 <!-- /narrative -->
 
 ## Instruments and harmonisation

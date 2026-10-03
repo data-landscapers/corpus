@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: SEN
-ledger_rows: 46
+ledger_rows: 47
 not_held: 3
-record: 892412150d59
+record: f47667fa947a
 ---
 
 # Senegal: monthly update, September – October 2026
@@ -144,7 +144,7 @@ An outside score placed the country: Oxford Insights' 2025 index [put government
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
-A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger.
+A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger. The telecommunications ministry [is pooling public bodies' equipment demand so that local assemblers can win state contracts, and visited a private assembly unit with a pilot capacity of about 7,500 computers a year](https://www.seneweb.com/fr/news/Technologie/new-deal-technologique-le-senegal-parie-sur-la-fabrication-et-lassemblage-locaux_n_505809.html); no contract, volume or budget is stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 

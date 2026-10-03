@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: BEN
-ledger_rows: 25
+ledger_rows: 27
 not_held: 4
-record: 427601765a21
+record: 79c46e6d6f5f
 ---
 
 # Benin: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The finance ministry [instituted electronic payment of official mission expenses
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the repository holds no enforcement action on workplace monitoring.
+The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the repository holds no enforcement action on workplace monitoring. The audiovisual and communication regulator [signed conventions with 89 online radio, television and press outlets on 1 October](https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac), closing its authorisation process; the number of applicants refused is not stated.
 <!-- /narrative -->
 ### Data protection
 
@@ -76,7 +76,7 @@ Customs [now issues the laisser-passer for foreign vehicles wholly online](https
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow.
+[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss.
 <!-- /narrative -->
 
 ## Technology

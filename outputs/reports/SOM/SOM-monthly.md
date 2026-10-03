@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: SOM
-ledger_rows: 12
+ledger_rows: 13
 not_held: 2
-record: c06335103cc5
+record: 28aa8d565d68
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -44,7 +44,7 @@ A business daily reported on 15 September that [Berbera is being positioned as a
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026).
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx).
 <!-- /narrative -->
 ### Registries
 

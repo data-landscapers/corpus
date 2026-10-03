@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: ETH
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: 30f2aa1f5a04
+record: 36c16c616f9a
 ---
 
 # Ethiopia: monthly update, September – October 2026
@@ -20,6 +20,11 @@ The Council of Ministers [approved a draft National Data Management Proclamation
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+A third National Financial Inclusion Strategy, for 2026 to 2030, [was launched with an assessment of its predecessor](https://www.thereporterethiopia.com/53174/): adult account ownership reached 66 per cent in 2025 against a 70 per cent target, and the assessment finds a 60 per cent implementation deficit in digital-fraud countermeasures. Neither document is held.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -80,7 +85,7 @@ The linking of bank accounts to Fayda moved to its last phase. The largest state
 <!-- narrative: dpi--dpi-pay -->
 The challenger's wallet [more than doubled its monthly active users to 2.58 million in the quarter to June, yet contributes about 2% of the unit's service revenue against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and its [cardless ATM withdrawal was extended to Awash Bank's ATM network](https://techafricanews.com/2026/09/08/m-pesa-ethiopia-cardless-atm-withdrawals-awash-bank/).
 
-Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it.
+Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it. An assessment of the second financial inclusion strategy [counts 157.6 million mobile money accounts at June 2026, 29.56 per cent of them active, and about eight billion digital transactions worth over 34 trillion birr in fiscal year 2025/26, with some banks charging up to 11 per cent for transfers to mobile wallets](https://www.thereporterethiopia.com/53174/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

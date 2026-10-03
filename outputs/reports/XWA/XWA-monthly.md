@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: XWA
-ledger_rows: 18
+ledger_rows: 20
 not_held: 1
-record: 99b451a0b3b5
+record: 5202660660d5
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -63,7 +63,7 @@ The regional biometric card is now deployed by seven member states — Senegal, 
 ### Digital Payments and Fintech
 
 <!-- narrative: systems--dpi-pay -->
-The instant-payment platform opened to business use: the central bank [homologated the Business APIs of 23 participants on 16 September](https://ns2.bceao.int/sites/default/files/2026-09/Communique%CC%81_Liste%20des%20API-BUSINESS%20de%20PI-SPI%20homologue%CC%81es_sept2026_0.pdf), [nine of them in Senegal and seven in Cote d'Ivoire](https://www.bceao.int/sites/default/files/inline-files/Liste_des_API-Business_PI-SPI_%20homologue%CC%81es_sept2026.pdf), letting firms send and receive payments and submit bulk settlements across the Union whatever the counterparty's provider.
+The instant-payment platform opened to business use: the central bank [homologated the Business APIs of 23 participants on 16 September](https://ns2.bceao.int/sites/default/files/2026-09/Communique%CC%81_Liste%20des%20API-BUSINESS%20de%20PI-SPI%20homologue%CC%81es_sept2026_0.pdf), [nine of them in Senegal and seven in Cote d'Ivoire](https://www.bceao.int/sites/default/files/inline-files/Liste_des_API-Business_PI-SPI_%20homologue%CC%81es_sept2026.pdf), letting firms send and receive payments and submit bulk settlements across the Union whatever the counterparty's provider. The central bank [revised the pricing of person-to-person e-money transfers on the instant-payment platform, effective 2 November 2026](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf): interoperable e-money transactions must go through the platform, national sends of up to FCFA 8,000 a day are free, larger sends may carry up to 0.8 per cent and receipt is free, with the same terms between member states from 1 June 2027. The Union's Council of Ministers [gave an opinion on 2 October on the participation of the central bank and commercial banks in the continental payment system](https://downloads.bceao.int/fr/communique-presse/troisieme-session-ordinaire-du-conseil-des-ministres-de-lunion-au-titre-de-lannee); the communique does not say what it was.
 <!-- /narrative -->
 ### Sectoral management information systems
 

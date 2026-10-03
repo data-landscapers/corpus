@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: MUS
-ledger_rows: 16
+ledger_rows: 17
 not_held: 7
-record: cca6ffb2915c
+record: b70e3db16b30
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -31,7 +31,7 @@ Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn eco
 <!-- narrative: governance--gov-legislate -->
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 
-The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record.
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed.
 <!-- /narrative -->
 ### Data protection
 
@@ -62,7 +62,7 @@ The central information systems division [runs a central backup service for gove
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The digital driving licence [was soft-launched on the KOREK app on 29 September, with legal effect from 1 January 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027); [access needs a fully activated MauPass account, and promotion-agency staff are to help the 883,700 licence holders register from October](https://defimedia.info/maupass-et-korek-les-citoyens-accompagnes-dans-leurs-demarches). No count of licences activated is published.
+The digital driving licence [was soft-launched on the KOREK app on 29 September, with legal effect from 1 January 2027](https://defimedia.info/permis-de-conduire-numerique-une-periode-de-transition-avant-lentree-en-vigueur-en-2027); [access needs a fully activated MauPass account, and promotion-agency staff are to help the 883,700 licence holders register from October](https://defimedia.info/maupass-et-korek-les-citoyens-accompagnes-dans-leurs-demarches). No count of licences activated is published. The ICT minister [said a driver without a smartphone may go on showing the original physical licence after 1 January 2027, and put MauPass registrations at 500,000](https://lexpress.mu/node/563226); the digital licence carries a QR code the police will use to check authenticity.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

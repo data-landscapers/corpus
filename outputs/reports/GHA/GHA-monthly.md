@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: GHA
-ledger_rows: 81
+ledger_rows: 83
 not_held: 9
-record: 3cabd2ce405a
+record: a974890625a5
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -28,7 +28,7 @@ The communications minister told a UNESCO ministerial forum that [government has
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The legislative programme itself got a ministerial account on 7 September: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
+The legislative programme itself got a ministerial account on 7 September: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). An IMF technical assistance report [finds the two regulators' crypto guidelines short of comprehensive oversight, with the regime under the Virtual Asset Service Providers Act set to go live in December 2026](https://bitcoinke.io/wp-content/uploads/2026/09/Technical-Assistance-Report-for-Regulation-and-Supervision-of-Crypto-Markets-and-Activities-in-Ghana-BitKE.pdf), and urges activity-based guidelines, finalised stablecoin rules and a transitional licensing regime; it [puts annual crypto transactions at around US$21bn](https://www.myjoyonline.com/ghana-is-5th-largest-crypto-market-in-sub-saharan-africa-annual-transactions-around-21bn/).
 <!-- /narrative -->
 ### Data protection
 
@@ -73,7 +73,7 @@ The state's own operator got its board back. On 3 September a seven-member board
 
 The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release. At the 2.3 GHz stage the second operator [took all three lots it applied for, of five on offer](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/), with neither the assignment date nor the fee stated.
 
-On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced.
+On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced. The dominant operator [announced on 2 October that the regulator had notified it of 15-year awards of two lots in the 700 MHz band for US$100.9m and all three lots in the 3 GHz band for US$101.1m](https://mtn.com.gh/wp-content/uploads/2026/10/MTNGH-GSE-Announcement-MTN-Ghana-Awarded-Spectrum-in-the-700MHz-and-3GHz-Bands.pdf), to be deployed for 5G once the licences issue.
 <!-- /narrative -->
 ### Data Storage
 
@@ -93,7 +93,7 @@ On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform p
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated.
+Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated. The central bank [counted 25,921,066 credit-bureau enquiries in 2025, down 12.12 per cent, while enquiries on digital borrowers rose from 13.1 million to 19.9 million](https://www.bog.gov.gh/wp-content/uploads/2026/09/2025-Credit-Reporting-Activities-Annual-Report-Final-Report.pdf).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

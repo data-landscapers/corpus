@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: XAF
 ledger_rows: 88
 not_held: 3
-record: 57f4c9e46a13
+record: eb6ad9621a60
 ---
 
 # Africa: monthly update, September – October 2026
@@ -31,7 +31,7 @@ Three smaller developments: the [Digital Parliaments Project Africa launched at 
 
 African states went into the last round of preparation for the ITU's November conference in Doha. The African Telecommunications Union's [fourth and final preparatory meeting opened in Abidjan on 15 September](https://afriksoir.net/telecommunications-la-4%e1%b5%89-et-derniere-reunion-preparatoire-africaine-avant-la-pp-26-de-doha-sest-ouverte-a-abidjan/), to adopt common African proposals and candidatures for elected posts by 17 September; the adopted report is not yet held.
 
-COMESA [put a draft baseline study of AI across its member states to a validation meeting at Mbabane on 16 to 18 September](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/), the first phase towards a regional AI strategy and model regulatory framework. No date is set for either.
+COMESA [put a draft baseline study of AI across its member states to a validation meeting at Mbabane on 16 to 18 September](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/), the first phase towards a regional AI strategy and model regulatory framework. No date is set for either. The continental disease-control agency's head of digital health [says the health data governance initiative started in 2025 with more than 40 member states, and that the framework will guide who may access health data, for what purpose and for how long](https://www.newtimes.co.rw/article/39420/news/health/africa-cdc-official-continent-lacks-infrastructure-to-run-its-own-health-ai).
 <!-- /narrative -->
 
 ## Instruments and harmonisation

@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: SWZ
 ledger_rows: 32
 not_held: 3
-record: 269467d58b63
+record: c9c8749039e5
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -43,7 +43,7 @@ A second regional channel opened alongside the SADC one. The Digital Cooperation
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills.
+The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills. The regional programme's half-year report [puts the Digital Eswatini Project at US$65m, with negotiations concluded on 18 May 2026 and the lender's approval in June](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); a preparation grant closes in December 2026, and the government's financial management system, still in a restricted pilot, may not serve the project's reporting.
 <!-- /narrative -->
 
 ## ICT Infrastructure

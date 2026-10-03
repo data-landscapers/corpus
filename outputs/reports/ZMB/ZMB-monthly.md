@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: ZMB
-ledger_rows: 31
+ledger_rows: 34
 not_held: 44
-record: 73b6868291d0
+record: 7636c8809d1c
 ---
 
 # Zambia: monthly update, September – October 2026
@@ -47,6 +47,14 @@ A second case followed the next day: [a tailor in Mansa was arrested under the c
 The section 54 case ended in custody: [the vlogger was sentenced to nine months on 15 September](https://diggers.news/courts/2026/09/15/vlogger-gets-9-months-for-sharing-screenshot-about-mwanawasas-false-pregnancy/) for forwarding a screenshot.
 <!-- /narrative -->
 
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The regional programme's half-year report [records the acceleration project's unit fully staffed and a second early market engagement on 22 April 2026 for 300 cell towers, 2,000 km of fibre and connectivity for 500 public institutions](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+<!-- /narrative -->
+
 ## ICT Infrastructure
 
 ### Connectivity
@@ -62,12 +70,12 @@ A mobile operator is [acquiring about 1,300 km of fibre from a related company i
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe.
+A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure). Zambia and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on links it already runs with Malawi and Zimbabwe. Bids for the redesign of the Government Service Bus [were evaluated and under the lender's review at June 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-A former deputy minister [defended, on 19 September 2026, the invalidation of the national identity documents of individuals she accuses of abusing cyberspace against the President](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/). How many people are affected and under what legal process is unstated, and no government statement of the measure is on file.
+A former deputy minister [defended, on 19 September 2026, the invalidation of the national identity documents of individuals she accuses of abusing cyberspace against the President](https://www.lusakatimes.com/2026/09/19/njapau-defends-invalidation-of-ids-names-hhs-online-attackers/). How many people are affected and under what legal process is unstated, and no government statement of the measure is on file. Re-evaluation of the bids to deploy and integrate the identity and civil registration modules [was complete at June 2026 and awaiting the lender's review](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); no award is on record.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

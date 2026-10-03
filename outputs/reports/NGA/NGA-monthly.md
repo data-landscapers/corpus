@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: NGA
-ledger_rows: 124
+ledger_rows: 126
 not_held: 9
-record: 13becfb038a1
+record: 9f9eb61f9a9c
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -23,7 +23,7 @@ A Lagos High Court judge held on 25 September that Meta's behavioural advertisin
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
+The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/). The public service reform bureau's director general [said on 30 September that the President has approved renewal of the National Strategy on Public Service Reforms](https://www.thisdaylive.com/2026/10/01/president-tinubu-approves-national-strategy-on-public-service-reforms/), the revision to take in policies on artificial intelligence and blockchain in the public service; neither the approval date nor the new text is given.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -137,7 +137,7 @@ The electoral roll got its own numbers on 8 September. The commission said the r
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
-The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published.
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published. The communications ministry [describes the postcode as an 11-character code for every addressable location, looked up at postcode.gov.ng](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -217,7 +217,7 @@ A wider sample gave a less bleak figure: [47% of about 30 government digital pla
 
 An urban survey of 13,251 respondents in 12 cities, published in September by a consultancy and an operator group, [put smartphone ownership at 75% in 2025 against 64% in 2023, and found more than a third of mobile subscribers still on 2G in May 2026](https://assets.kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf).
 
-A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people.
+A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people. Civil-society organisations [reported on 2 October that access to TikTok over mobile data has been disrupted in Kaduna, Kebbi, Kano and Sokoto since about 14 September](https://paradigmhq.org/joint-statement-on-the-unexplained-tiktok-disruption-in-northern-nigeria-by-civil-society-organisations/), across more than one provider; no authority, operator or the platform has explained it, and the organisations say they cannot establish the cause.
 <!-- /narrative -->
 ### Digital divides
 

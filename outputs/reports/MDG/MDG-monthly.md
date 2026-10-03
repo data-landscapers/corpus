@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: MDG
-ledger_rows: 21
+ledger_rows: 22
 not_held: 5
-record: 367e341949a9
+record: 2ba547168101
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -54,7 +54,7 @@ The identity programme opened its second phase on National Identity Day. The int
 <!-- narrative: dpi--dpi-pay -->
 On 15 September the finance ministry [announced a task force with the banking supervisor and the telecoms regulator on lost money, failed transactions and slow complaint handling](https://www.2424.mg/news/une-task-force-sera-mise-en-place-pour-ameliorer-le-traitement-des-reclamations-liees-au-mobile-money/), with no start date given. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
 
-BGFIBank Madagasikara [presented its Gasy Money mobile-banking app on Friday 18 September](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/), [open to non-customers on any network, including people without a bank account, with transfers to other app accounts, bank accounts and Airtel Money](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/). No user or transaction figure is published.
+BGFIBank Madagasikara [presented its Gasy Money mobile-banking app on Friday 18 September](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/), [open to non-customers on any network, including people without a bank account, with transfers to other app accounts, bank accounts and Airtel Money](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/). No user or transaction figure is published. The largest mobile money operator [made merchant payments free for customers, the fee borne by the merchant, and reported close to 4 million users, more than 60,000 cashpoints and more than 50,000 accepting merchants](https://www.lexpress.mg/2026/10/inclusion-financiere-la-digitalisation.html).
 <!-- /narrative -->
 ### Registries
 

@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: AGO
-ledger_rows: 36
+ledger_rows: 38
 not_held: 6
-record: 3a20fdf7297a
+record: 050e7a3f5dcb
 ---
 
 # Angola: monthly update, September – October 2026
@@ -38,7 +38,7 @@ Angola is one of 49 states that signed, with the European Space Agency, [a decla
 <!-- narrative: finance--finance-new -->
 The higher-education programme entered the repository with its digital content itemised. A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
 
-The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html).
+The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html). The regional programme's half-year report [records the three memoranda that are withdrawal conditions under the digital acceleration loan signed in the first half of 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), for broadband, digital inclusion and digital identification, with 17 contracts signed, 29 tenders under way and about US$100m available to spend; coordination with the ICT ministry on the broadband component is the stated obstacle.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -65,7 +65,7 @@ The state printer [inaugurated a data centre on 11 September with more than 170 
 <!-- narrative: dpi--dpi-exchange -->
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
-The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated.
+The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated. The interoperability framework study and its platform roadmap [were completed in the first half of 2026 and the platform, an enterprise service bus on X-Road, is under tender at about US$13.0m](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

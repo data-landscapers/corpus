@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: KEN
-ledger_rows: 114
+ledger_rows: 115
 not_held: 7
-record: d9eb6fa7b686
+record: 668655e0b58c
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -150,7 +150,7 @@ The claims platform was quantified from the settlement end for the first time. T
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
-The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities.
+The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities. The health minister [said the change makes each facility's own system the primary one, exchanging data with the insurer's systems, and that 28 existing hospital platforms have been certified](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -169,7 +169,7 @@ At the UN General Assembly the ICT cabinet secretary [put eCitizen at more than 
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-Nakuru County [deployed a case management and reporting platform for survivors of gender-based violence and for services to persons with disabilities, replacing paper records](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/), funded by Lithuanian development cooperation; no user or case count is published.
+Nakuru County [deployed a case management and reporting platform for survivors of gender-based violence and for services to persons with disabilities, replacing paper records](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/), funded by Lithuanian development cooperation; no user or case count is published. The Controller of Budget [reported that counties paid at least Sh8.3 billion in salaries through manual payrolls outside the human resource information system in the year to 30 June 2026](https://nation.africa/kenya/counties/revealed-counties-made-sh8-3bn-manual-payments-outside-payroll-systems-5615212), a year past the deadline to migrate; Nakuru processed Sh1.86 billion that way, and Narok and Trans Nzoia none.
 <!-- /narrative -->
 ### Rural digital data capture
 

@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: ZAF
 ledger_rows: 111
 not_held: 22
-record: 9a67389f487f
+record: 84916ff428fa
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -151,7 +151,7 @@ The Gauteng e-government department's 2025/26 annual report records [96 public W
 
 Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
 
-Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated.
+Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated. A collaboration agreement between Tshwane and the CSIR [sets a two-year implementation period to 30 June 2028 for the city's data and analytics platform](https://www.citizen.co.za/rekord/news-headlines/2026/10/02/tshwane-launches-data-platform-with-csir-to-boost-service-delivery/), which is to extend across its seven regions.
 <!-- /narrative -->
 
 ## Technology

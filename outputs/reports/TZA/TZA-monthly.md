@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: TZA
-ledger_rows: 55
+ledger_rows: 57
 not_held: 5
-record: 01c4d77fd8f8
+record: 711abb970f10
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -111,7 +111,7 @@ The lands ministry [inspected a National Land Data Infrastructure project buildi
 <!-- narrative: dpi--dpi-mis -->
 Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
 
-The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given.
+The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given. The Prime Minister's Office [said its Persons with Disabilities Management Information System is connected to 11 government systems and issues a reference number to students applying for higher-education loans](https://www.thecitizen.co.tz/tanzania/news/national/inclusive-hiring-gains-pace-as-youth-jobs-drive-grows-5615560); no count of people registered is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -155,7 +155,7 @@ A private channel opened alongside the state ventures programme. The leading mob
 
 A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
 
-A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [tendered a women-in-tech community platform and the sourcing of 12 African and European ventures on 21 September](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), bids closing 23 October; no budget is stated.
+A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [tendered a women-in-tech community platform and the sourcing of 12 African and European ventures on 21 September](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), bids closing 23 October; no budget is stated. The ICT ministry [launched a TZS 5 billion loan programme for youth-owned ICT start-ups on 2 October](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-yatenga-sh5-bilioni-kwa-ajili-ya-kampuni-changa-za-tehama-5617578), run with a commercial bank in three tiers up to TZS 100 million.
 <!-- /narrative -->
 
 ## Capacity

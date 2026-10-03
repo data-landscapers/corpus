@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: SYC
-ledger_rows: 7
+ledger_rows: 8
 not_held: 6
-record: 6f0612ca232b
+record: 0b9a3bd9bffe
 ---
 
 # Seychelles: monthly update, September – October 2026
@@ -57,4 +57,12 @@ Cabinet [approved the establishment of a hydrographic office inside the maritime
 <!-- narrative: dpi--dpi-pay -->
 
 The social protection registry gained a use: [an agreement signed in September puts post-disaster cash transfers on its beneficiary registry and payment rails](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness), with no value or trigger stated.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+The tourism minister [told a forum on 1 October that its discussions are to feed a Seychelles Tourism Digital and AI Agenda](https://www.seychellesnewsagency.com/public/articles/22495/seychelles-tourism-minister-pushes-for-ai-and-data-driven-approach-to-reshape-tourism-sector), with the tourism department to follow up; no text or timetable is stated.
 <!-- /narrative -->

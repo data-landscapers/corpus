@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: GMB
-ledger_rows: 40
+ledger_rows: 41
 not_held: 3
-record: b100b32c97c0
+record: 4bf1f6c0d5d7
 ---
 
 # Gambia: monthly update, September – October 2026
@@ -92,7 +92,7 @@ The month's one management system came from outside government. The Gambia Red C
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published.
+The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published. The finance ministry, the revenue authority and the national single window [introduced a digital duty waiver application system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system) in place of a paper process, promising a decision within 72 hours where requirements are met; no go-live date is stated.
 <!-- /narrative -->
 
 ## Technology

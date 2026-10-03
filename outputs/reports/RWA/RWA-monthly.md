@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: RWA
-ledger_rows: 33
+ledger_rows: 35
 not_held: 7
-record: a52cffad79a4
+record: 1b304da93706
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -54,6 +54,11 @@ Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The information society authority [says the shared government data hub is moving into implementation](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister), with the existing Data Sharing Platform serving in the interim; no supplier or go-live date is stated.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -114,7 +119,7 @@ A civil-society organisation [called on 17 September for stronger powers at cell
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-An agriculture official [set out a plan to reach 2.5 million farmers with AI advisory services](https://www.ktpress.rw/2026/09/here-is-our-ai-plan-to-reach-2-5-million-rwandan-farmers/), reported on 2 September, with a Kinyarwanda voice assistant being tested through the ministry's call centre. A regional forum in Kigali on 7 September [considered how higher-education quality assurance should change as AI spreads](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/). A UNDP review [records country-hosted AI compute deployed under its regional programme](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use), with no national or local-language model named.
+An agriculture official [set out a plan to reach 2.5 million farmers with AI advisory services](https://www.ktpress.rw/2026/09/here-is-our-ai-plan-to-reach-2-5-million-rwandan-farmers/), reported on 2 September, with a Kinyarwanda voice assistant being tested through the ministry's call centre. A regional forum in Kigali on 7 September [considered how higher-education quality assurance should change as AI spreads](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/). A UNDP review [records country-hosted AI compute deployed under its regional programme](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use), with no national or local-language model named. The statistics institute's labour force survey team [built a model that assigns classification codes to survey responses given in Kinyarwanda, English or French, coding 96 per cent of records automatically in one test run](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/); an application for enumerators is not yet in field use.
 <!-- /narrative -->
 
 ## Capacity

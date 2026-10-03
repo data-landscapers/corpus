@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: MWI
-ledger_rows: 37
+ledger_rows: 38
 not_held: 35
-record: 17472d43fd03
+record: 584f45811ea2
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -47,12 +47,12 @@ The largest digital programme on the books came under review. The World Bank [op
 <!-- narrative: ict-infrastructure--infra-connect -->
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 
-The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used.
+The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used. The regional programme's half-year report [records assessments for the 100 universal service fund towers complete and the request for bids under the lender's review, with six of 25 priority e-services onboarded, and puts the acceleration project's financing at US$150m with a second tranche of US$80m expected in July 2028](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due.
+The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due. A stop-gap expansion of the national data centre [added 115 TB of storage and the redundancy link between the Lilongwe and Blantyre sites was completed in the first half of 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
 <!-- /narrative -->
 ### Cybersecurity
 

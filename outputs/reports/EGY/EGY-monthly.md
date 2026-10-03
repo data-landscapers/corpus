@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-03
+period: 2026-09-01 to 2026-10-03
 place: EGY
 ledger_rows: 81
 not_held: 45
-record: ff533ea77091
+record: 8006c7035cc9
 ---
 
 # Egypt: monthly update, September – October 2026
@@ -117,7 +117,7 @@ The justice ministry's [E-Court platform went live on 31 August for first-instan
 
 The finance ministry [began surveying road-freight companies at land ports to link them to Nafeza, the single window already used for sea and air cargo](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/), with consolidated land bills of lading and pre-arrival cargo data planned. The account rests on unnamed officials, and no timetable is set.
 
-On 23 September the agriculture ministry's spokesman [said its digital register of agricultural holdings ties each holding to the crop actually grown across about 4.4 million farmer cards, to target subsidised fertiliser and record encroachment on farmland](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116). No launch date or coverage of all holdings was given.
+On 23 September the agriculture ministry's spokesman [said its digital register of agricultural holdings ties each holding to the crop actually grown across about 4.4 million farmer cards, to target subsidised fertiliser and record encroachment on farmland](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116). No launch date or coverage of all holdings was given. A former chair of the communications ministry's legislation committee [reports that the House's legislative committee has proposed deferring the new Criminal Procedure Law by a further year](https://gate.ahram.org.eg/News/5937174.aspx), and ties the deferral to gaps in its provisions on electronic notification and remote hearings; no parliamentary record of the proposal is held.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
