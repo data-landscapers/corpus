@@ -450,7 +450,7 @@ MRT,data-exchange,found,whole,6,mrt-2024-18-11-02-08,,rows,,
 MUS,statistics,found,whole,3,mus-2024-7-4-7-4,Statistics Mauritius,rows,,
 MUS,civil-registration-id,found,whole,10,mus-2024-2-1-2-103-22900811,Civil Status Division,rows,,
 MUS,communications-regulator,absent,,,,Information and Communication Technologies Authority,hand,"keyword scan of the estimates for 2024-25, 2025-26 and 2026-27, every vote of which is in the held set: the ICT Authority is funded from licence fees and has no vote; it appears only in a procurement notice",2026-10-02
-MUS,ict-ministry-egov,found,whole,17,mus-2024-2-5-2-501-31132401,Central Informatics Bureau,rows,,
+MUS,ict-ministry-egov,found,whole,18,mus-2024-2-5-2-501-31132401,Central Informatics Bureau,rows,,
 MUS,cybersecurity,found,whole,4,mus-2024-16-1-16-101-22900040,CERT-MU,rows,,
 MUS,data-protection,found,whole,3,mus-2024-16-1-16-101-22900916,Data Protection Office,rows,,
 MUS,revenue-systems,found,whole,3,mus-2024-16-1-16-101-28213022,Mauritius Revenue Authority,rows,,
