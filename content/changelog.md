@@ -1,6 +1,6 @@
 ## 3 October 2026
 
-- Mauritius's budget tables gain two lines that one year held and the other did not: the Tourism Authority's information system for 2025/26 (Rs 6.5m) and the E-Scheme of Service for 2026/27 (Rs 0.4m). Both come from ministry chapters not read before.
+- Mauritius's budget tables gain four lines that one year held and the other did not: for 2025/26 the Tourism Authority's information system (Rs 6.5m), fleet management software (Rs 2.0m) and the computerisation of the occupational safety division (Rs 1.5m), and for 2026/27 the E-Scheme of Service (Rs 0.4m). A check of each year's lines against the other found them.
 - Lesotho's five 2024/25 projects and two Liberian bodies for 2025 now show a revised figure, from the governments' mid-year reviews. Lesotho's were unchanged at mid-year; Liberia's statistics institute lost USD 7,200 to transfers.
 - Botswana's 2024/25 budget table gains the Universal Access and Service Fund, from its own accounts: BWP 111.3m spent, up from 76.4m. It is fed by a levy on operators outside the budget and ran a BWP 11.5m deficit.
 - Kenya's 2024/25 budget table gains the Universal Service Fund, from its own accounts: KES 5.6bn spent. Its project spending rose from KES 1.4bn to 5.5bn in a year, more than it collected.
