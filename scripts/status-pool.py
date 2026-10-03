@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pool stage 1's facts, dedupe them and slice by chapter — `STATUS-INIT.md` -> *Stage 2, step 7*.
+"""Pool stage 1's facts, dedupe them and slice by chapter — `STATUS-INIT.md` -> *Stage 2*; the pooling rule is `documentation/status-init.md` -> *The fact schema*.
 
 Twenty extraction agents each write a JSON list of facts to `prep/scope/{ISO3}/facts/`. This reads
 them all, drops what cannot be cited, merges the fact that arrived twice, assigns each survivor an

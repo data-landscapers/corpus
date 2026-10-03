@@ -48,7 +48,7 @@ DPI_FAMILIES = [
 ]
 
 # The five columns that matter out of the dataset's fourteen. **The comments and the URLs are the
-# point**; the value code is a summary of them (`STATUS-INIT.md` -> *Inputs*).
+# point**; the value code is a summary of them (`documentation/status-init.md` -> *Inputs, in more detail*).
 DPI_COLUMNS = ("Variable Id", "Value Name", "Year", "Comments", "Source urls")
 
 # Read for the map, not the mass. `## Recent developments` is chronology and is not among them.
