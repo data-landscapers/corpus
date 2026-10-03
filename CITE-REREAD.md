@@ -7,31 +7,23 @@ opened: 2026-09-15
 
 # CITE-REREAD — does every baseline link say what it is cited for
 
-*(Commissioned by Bill on 2026-09-15. Written so the job survives a cleared context: the state is `logs/cite-reread-progress.csv`, the tooling is `scripts/cite-reread.py`, and nothing below needs the session that opened it.)*
+*(Bill, 2026-09-15. The state is `logs/cite-reread-progress.csv`; the tooling is `scripts/cite-reread.py`.)*
 
-**The one-line brief for a fresh session.** *The authored status baselines carry claims their linked sources do not make; six units were repaired on 2026-09-15; the other 48 are re-read here, one agent per unit, against the held source bodies, and each repair is applied, checked and committed by the parent.*
+**The one-line brief for a fresh session.** *Each authored status baseline is re-read, one agent per unit, against the held source bodies; each repair is applied, checked and committed by the parent.*
 
 ## Closed — 2026-09-16
 
-**All 54 units are `done`, committed one apiece and rendered.** 16,990 links read, 15,562 against a held body or a dataset row; 11,867 supported as written and **3,774 claims repaired** — 2,975 coarsened to what the source says, 479 re-linked to a held source that carries them, 320 dropped. 1,212 links are *gateway* and 137 *not held*: counted, not checked, and named below. Every unit passes A, B, E, G and FM, and the estate-wide register and band lines are unchanged from before the job.
-
-**Three residuals, each already where it belongs and none owed to this job:**
-
-- **The 11 uncatalogued Ibrahim Index profiles** (MLI MRT MUS NER SDN SLE STP SYC TCD TGO TUN) are the bulk of the *gateway* and *not held* counts: `lookups/iiag-profiles.csv` holds the URL, so check A passes, but no body exists to read a score against. All 11 are **already queued in the share's `africa-acquire.csv`** and will be held after the next acquisition batch; the other 43 profiles are catalogued and were checked.
-- **The GovTech Maturity Index** is the other half of *gateway*: the held body is the global report, which prints no country values. Nothing acquires it — the country values live in the GTMI data file, not the report.
-- **46 cited links name a country other than the unit** in their catalogue `places`, across 31 units — most are global reports catalogued to one place, but the class includes genuine cross-wiring (a Burundi-only UN chapter cited for Madagascar, a Comoros Eximbank loan cited for Cameroon, a Guinea MIGA guarantee cited for Guinea-Bissau). The units re-read after the scan settled their own; the rest are a half-day pass, not a re-run of this job. Reproduce with a `places`-vs-unit scan over the baselines' cited URLs.
-
-Units re-read before KEN judged AfDB dataset claims against the row alone, without the later rule that a held primary beats the row; the rule repaired contradictions wherever a later agent met one, and no unit was re-run for it.
+**All 54 units are `done`, committed one apiece and rendered**: 16,990 links read, 3,774 claims repaired. Counts and residuals: this file's git history.
 
 ## Why
 
-The 2026-09-15 build read the status-acquire backfill for six units in full and found claims in all six baselines that the linked source does not support: figures misdated by years, institutions the source never names, detail the source does not contain, a sweep annotation read as the source speaking. About 70 were repaired (MAR 18, LBR 17, LBY 12, LSO 10, MDG 5, GNQ 3). The other 48 baselines were written by the same fan-out (`STATUS-INIT.md` → *The run*), and check A tests only that a link is **held**, never that it **says** the thing — so a misattributed claim passes every check there is. These documents are published and downloadable.
+Check A tests that a link is **held**, never that it **says** the thing, so a misattributed claim passes every check there is.
 
 ## Scope
 
-- **In:** every inline link in the 48 `built_by: STATUS-INIT` baselines not yet `done` in the progress file — about 17,000 links to 7,800 distinct URLs.
-- **Checked:** a link resolving to a held body in `raw/` (~6,000 of the URLs), or to a finance-table or AfDB dataset row (most of the rest) — the worksheet prints the row, and the claim is judged against it. On the first batch every link resolved to one of these, which is what check A requires.
-- **Not checked, counted:** a link to nothing on this machine, if any turns up, and a *gateway* — a held landing page for a dataset whose country values the body does not print. Both are counted in the progress file so what remains unverified is stated, not implied away.
+- **In:** every inline link in the `built_by: STATUS-INIT` baselines not yet `done` in the progress file.
+- **Checked:** a link resolving to a held body in `raw/`, or to a finance-table or AfDB dataset row — the worksheet prints the row, and the claim is judged against it.
+- **Not checked, counted:** a link to nothing on this machine, and a *gateway* — a held landing page for a dataset whose country values the body does not print. Both are counted in the progress file.
 - **Out:** `<!-- derived -->` paragraphs (the report's own arithmetic), and the ledger and indicators except where they repeat a baseline error being repaired.
 
 ## The loop
@@ -52,21 +44,21 @@ You are a **read-only citation checker** for one Corpus status baseline, `{UNIT}
 
 **Read first:** `C:\CORPUS\STATUS-INIT.md` → *The one hard rule*, *When the evidence is borderline, the fact does not go in*, *Sources and conflicts* (the paragraph on narrating disagreement) and *Writing*; this runbook's *Why*.
 
-**Your input** is `C:\CORPUS\logs\cite-reread\{UNIT}-worksheet.md`: for each link, the sentence, the held source (slug and body path under `C:\CORPUS\scripts\.workroot\raw\`), the two best-matching passages, and any figure in the claim found nowhere in the body. The passages are a retrieval: where they do not settle a claim, open the body and search it. **Sweep notes** (a body section headed `**Sweep note`) are OSINT's annotation, not the source: a claim only a sweep note supports is unsupported. The same holds for OSINT's frontmatter `note:` and `hub_line:` where the captured body is a partial excerpt: the note is OSINT's reading of the document, not the document, so a claim nothing in the captured body carries is unsupported — re-link it to a held source that does carry it, or drop it.
+**Your input** is `C:\CORPUS\logs\cite-reread\{UNIT}-worksheet.md`: for each link, the sentence, the held source (slug and body path under `C:\CORPUS\scripts\.workroot\raw\`), the two best-matching passages, and any figure in the claim found nowhere in the body. The passages are a retrieval: where they do not settle a claim, open the body and search it. **Sweep notes** (a body section headed `**Sweep note`) are OSINT's annotation, not the source: a claim only a sweep note supports is unsupported. The same holds for OSINT's frontmatter `note:` and `hub_line:` where the captured body is a partial excerpt: a claim nothing in the captured body carries is unsupported — re-link it or drop it.
 
 **Per link, one verdict:**
 
-- **supported** — the source establishes the claim as written, including its date and figure (a figure written another way — `1.35 GW` for `1,350 MW`, `€`/`EUR` — is supported). Most links should be this. Nothing to do.
+- **supported** — the source establishes the claim as written, including its date and figure (a figure written another way — `1.35 GW` for `1,350 MW`, `€`/`EUR` — is supported).
 - **coarsen** — the source supports a weaker or less precise statement: rewrite to what it does say (*When the evidence is borderline*, outcome 2). A wrong date in a parenthesis is a coarsen: the date comes from the source.
 - **re-link** — the claim is right but this source does not carry it and another held source does: the URL must be in `C:\CORPUS\outputs\catalogue\catalogue-internal.csv` (column `url`) or already cited in the same baseline **for that fact**, and you must have read it there.
 - **drop** — no held source supports it: remove the clause or sentence, keeping the paragraph grammatical and its other cited facts intact.
-- **gateway** — the held body is a landing page, brief or index for a dataset, and the claim is a country value from that dataset which the body does not print (the GovTech Maturity Index brief, a data portal page). Not checkable here; leave it.
-- **finance / dataset row** — judge the claim against the row the worksheet prints. The AfDB dataset was compiled by a search tool and is sometimes wrong: where a held primary source in the same baseline gives the figure (a regulator's statistics report, an index's own report), the primary wins — coarsen or re-link to it.
+- **gateway** — the held body is a landing page, brief or index for a dataset, and the claim is a country value from that dataset which the body does not print (the GovTech Maturity Index brief, a data portal page). Leave it.
+- **finance / dataset row** — judge the claim against the row the worksheet prints. Where a held primary source in the same baseline gives the figure (a regulator's statistics report, an index's own report), the primary wins — coarsen or re-link to it.
 - **not held** — leave it; count it.
 
 **Rules for every rewrite.** One hard rule stands: every stated fact keeps a link on the claim. No apparatus on the page — never *reportedly, according to, sources indicate, the base, the dataset, the wiki, conflicting, discrepancy, no source*. Do not narrate that a claim was corrected. Every time-varying figure stays dated. A sub-section's **first sentence** must still carry its best-evidenced news; if you drop or weaken it, rewrite the opening from what remains. No verbatim lifting from a source. One line per paragraph. **The ledger and indicators are in scope for the same defect.** For every source you find misused, search `{UNIT}`'s `ledger.csv` and `indicators.csv` for its slug and repair any claim there that the source does not make — re-point to the held source that does, correct the date, coarsen or drop; indicators cite by slug, never URL. A misattribution you notice in those files for any other slug is repaired too; leave nothing in the summary as *not repaired* that a re-point or a coarsen would settle. **Introduce no register term** (`documentation/report-layer.md` §10: the checker's list, in your own words even inside link text: *landed, unveiled, rolled out, ramped up, doubled down, poised to, sets the stage, paves the way, marks a turning point; dematerialised, attack surface, ecosystem, unlock, leapfrog, at scale, citizen journey, low-hanging; binding constraint, turns out to be, it is worth noting*; no headline lead sentence ahead of the facts (§10 *Plain English*); no first person — write *presented, introduced, extended, put into effect*) and **keep every indicator cell inside its band** — summary 8–40 words, developments 25–200 — counting as `len(text.split())`. A ledger row you turn to *Not held* needs a line in `{UNIT}`'s `gaps.csv` (row_id, place, subject, section, name, what would settle it) or check I fails. Check H fails any indicator cell or prose block whose figure (money, a percentage, a count of a thousand or more) sits in a sentence carrying no citation, so keep every figure inside a cited clause. AfDB dataset rows: the worksheet prints the unit's own rows; read the full row in `C:\CORPUS\prep\africa-dpi-data.csv` where a comment matters.
 
-**Deliverable 1 — `{UNIT}-patch.py`**, a self-contained Python 3 script run from `C:\CORPUS`: exact old→new string replacements in `outputs\reports\{UNIT}\{UNIT}-status.md`, each old string asserted to occur exactly once, all assertions checked before anything is written; line endings preserved as found (read and write bytes); `compiled:` set to the date the patch is written, only where the document changes; `sources_cited:` recomputed as `len(status_lib.links(new_text))` (import `status_lib` from `C:\CORPUS\scripts`); CSV edits, if any, with the `csv` module preserving each file's row terminator and every untouched row. Print one line per operation. Test it on copies of the files before you finish.
+**Deliverable 1 — `{UNIT}-patch.py`**, a self-contained Python 3 script run from `C:\CORPUS`: exact old→new string replacements in `outputs\reports\{UNIT}\{UNIT}-status.md`, each old string asserted to occur exactly once, all assertions checked before anything is written; line endings preserved as found (read and write bytes); `compiled:` set to the date the patch is written, only where the document changes; `sources_cited:` recomputed as `len(status_lib.links(new_text))` (import `status_lib` from `C:\CORPUS\scripts`); CSV edits, if any, with the `csv` module preserving each file's row terminator and every untouched row. Print one line per operation. Test it on copies first.
 
 **Deliverable 2 — `{UNIT}-summary.md`**: one line per link that is not *supported* (verdict, sub-section, the claim in five to ten words, what the source does say); then a count of each verdict; then anything the parent must know — a contradiction between two held sources you did not resolve, a ledger row you could not repair. The **last line** is exactly:
 
@@ -76,4 +68,4 @@ Your final message is the two paths and the TOTALS line. Nobody will answer a qu
 
 ## Done
 
-A unit is `done` when its patch is applied and committed with A, B, E, G and FM passing — including a unit whose verdicts were all *supported*, which is a finding and gets a row like any other. The job is done when the progress file carries no `owed` row, the repaired baselines are rendered and deployed, and one log line and one commit say so.
+A unit is `done` when its patch is applied and committed with A, B, E, G and FM passing — including a unit whose verdicts were all *supported*. The job is done when the progress file carries no `owed` row, the repaired baselines are rendered and deployed, and one log line says so.
