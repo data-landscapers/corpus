@@ -990,7 +990,6 @@ MWI,hosting,Anti-corruption commission,,Anti-Corruption Bureau,line,mwi-2024-510
 MWI,deal-recipient,Public Sector,,Government of Malawi,no line,
 MWI,deal-recipient,Multilateral,,United Nations Development Programme,no line,
 MWI,deal-recipient,NGO,,ICT Association of Malawi (ICTAM),line,mwi-2024-030-002-020-1
-MWI,deal-recipient,Public Sector,,Government of Malawi / Ministry of Information and Digitalization,no line,
 MWI,deal-recipient,Public Sector,,Republic of Malawi,no line,
 NAM,hosting,Presidency,,Office of the President,line,nam-2024-26-md06
 NAM,hosting,Parliament,,National Assembly of Namibia,line,nam-2024-03-md03
@@ -1388,7 +1387,7 @@ TUN,hosting,Electoral commission,electoral-register,Instance supérieure indépe
 TUN,hosting,Statistics office,statistics,Institut national de la statistique,line,tun-2024-11-1-1-ins-it-master-plan
 TUN,hosting,Health ministry / National health insurance,,Ministère de la Santé,no line,
 TUN,hosting,Health ministry / National health insurance,,Caisse nationale d'assurance maladie,no line,
-TUN,hosting,Social protection / Social registry,social-registry,Ministère des Affaires sociales,no line,
+TUN,hosting,Social protection / Social registry,social-registry,Ministère des Affaires sociales,line,tun-2024-25-9-1-605-0010
 TUN,hosting,Social protection / Social registry,social-registry,Caisse nationale de sécurité sociale,no line,
 TUN,hosting,Land registry,land-registry,Office de la topographie et du cadastre,no line,
 TUN,hosting,Securities regulator,,Conseil du marché financier,no line,

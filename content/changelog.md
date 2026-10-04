@@ -1,3 +1,7 @@
+## 5 October 2026
+
+- Tunisia's budget tables gain 22 lines for 2024 and 2025 from two more ministries, land affairs and social affairs: their software, system running costs, IT security and IT equipment. The land register itself has no budget line, because the office that keeps it lives on its own fees.
+
 ## 3 October 2026
 
 - Eswatini's budget tables gain the 2024/25 outturn and the 2025/26 revised estimate for four departments, from the 2026/27 estimates. The research and technology department spent SZL 129.6m against 118.8m voted in 2024/25; the communication department's 2025/26 budget was revised from SZL 12.6m to 16.4m.
