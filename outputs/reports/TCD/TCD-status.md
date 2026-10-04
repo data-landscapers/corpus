@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-09-25
+compiled: 2026-10-05
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 157
+sources_cited: 158
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -211,7 +211,7 @@ There is [no national government service portal in Chad, and none of the six cap
 
 What exists instead is a scatter of single-purpose platforms. The [National Employment Promotion Office runs a site where job seekers register, maintain CVs and receive vacancy alerts, and opened a salaried-employment window in June 2025; it links to no other administrative database](https://onape.td/nos-valeurs-et-missions/). Businesses and taxpayers can file and pay through the e-Tax platform, [whose use the 2026 finance law makes exclusive and mandatory](https://kpmg.com/us/en/taxnewsflash/news/2026/02/tnf-chad-direct-and-indirect-tax-changes-in-finance-law-2026.html); road-freight operators can [enrol through e-BNFT, launched on 3 August 2026](https://lendjampost.com/transport-une-nouvelle-plateforme-digitale-e-bnft-pour-la-simplification-des-procedures/); litigants and lawyers in the capital can use the [e-Justice pilot](https://tribuneechos.com/e-justice-tchad-le-ministere-de-la-justice-lance-une-plateforme-dechange-numerique/). None of them shares a front door or an identity check: as at 2023 there was [no gateway through which a citizen could authenticate with a digital ID, and no government-to-person or government-to-business transactional service](https://documents1.worldbank.org/curated/en/099102502282341480/pdf/P180000048eed6040a13200ddaf8abe650.pdf).
 
-The ambition outruns the machinery, since Chad has [no dedicated digital government institution and nothing coordinating or auditing government technology across ministries (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The 2027 budget orientations would nonetheless [make e-Visa the sole channel for applying for, paying for and receiving a visa](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), take [business creation online end to end, from filing and fees to identifiers and the delivery of documents](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require [public bodies to pay only by electronic transfer to final beneficiaries against standardised electronic invoices from the start of 2027](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/).
+The ambition outruns the machinery, since Chad has [no dedicated digital government institution and nothing coordinating or auditing government technology across ministries (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). One service already carries volume: the National Police said in October 2026 that [the e-Visa platform takes more than 100 applications a day, against fewer than 10 at its launch in December 2024, and has been mandatory for travellers who need a visa since 11 May 2026](https://visasnews.com/en/chad-e-visa-platform-continues-to-gain-momentum/). The 2027 budget orientations would nonetheless [make e-Visa the sole channel for applying for, paying for and receiving a visa](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), take [business creation online end to end, from filing and fees to identifiers and the delivery of documents](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require [public bodies to pay only by electronic transfer to final beneficiaries against standardised electronic invoices from the start of 2027](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/).
 
 ## Digitalisation
 

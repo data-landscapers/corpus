@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-09-27
+compiled: 2026-10-05
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -190,7 +190,7 @@ The instruments are spread far more widely than the habit. [The card base passed
 
 Where money does move digitally, a rule has often removed the alternative. [Electronic payment through the tax portal Jibayatic is mandatory for taxpayers under the Directorate of Large Enterprises and optional for the real, simplified-real and flat-rate regimes](https://www.echoroukonline.com/bank-cards-and-transfers-introduced-for-tax-payments) (August 2026), and [the tax administration's first published guide lists 17 causes of payment rejection and states that a rejected taxpayer cannot retry electronically but must attend a local tax office](https://www.echoroukonline.com/bank-cards-and-transfers-introduced-for-tax-payments). [The AADL3 social-housing programme takes payment by Edahabia or CIB card with no cash route](https://algeriatech.news/algeria-aadl3-egovernment-payment-cascade-digitization-2026/) (2025), and [traffic fines have been payable electronically since May 2025, with 2,000 terminals issued to police and gendarmerie in a first phase](https://www.algerie360.com/permis-de-conduire-et-amendes-en-algerie-ce-qui-change-pour-les-conducteurs/).
 
-The rule-making machinery was assembled late. [Règlement 26-01 of 31 May 2026 fixes the composition and working arrangements of the National Payments Committee, whose main task is to draft a national strategy for developing payment instruments](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3); [three security services sit on it](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and it owes an annual report on the state of payment instruments. [Operating rules for payment service providers were issued in August 2025](https://algerie-eco.com/2025/08/19/la-banque-dalgerie-publie-linstruction-sur-les-prestataires-de-services-de-paiement/), and [a mobile operator's subsidiary was authorised to constitute itself as one in September 2026](https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026FR.pdf), with its licence still to be sought, and [the central bank joined the Pan-African Payment and Settlement System in August 2025 as its eighteenth country](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025/).
+The rule-making machinery was assembled late. [Règlement 26-01 of 31 May 2026 fixes the composition and working arrangements of the National Payments Committee, whose main task is to draft a national strategy for developing payment instruments](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3); [three security services sit on it](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and it owes an annual report on the state of payment instruments. [Operating rules for payment service providers were issued in August 2025](https://algerie-eco.com/2025/08/19/la-banque-dalgerie-publie-linstruction-sur-les-prestataires-de-services-de-paiement/), and [a mobile operator's subsidiary was authorised to constitute itself as one in September 2026](https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026FR.pdf), with its licence still to be sought, and [the central bank joined the Pan-African Payment and Settlement System in August 2025 as its eighteenth country](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025/). [About 23 million payment cards were in circulation and 126,000 payment terminals installed at the end of August 2026, against 78,000 terminals in December 2025](https://algerie-eco.com/2026/10/01/paiement-electronique-en-algerie-23-millions-de-cartes-et-126-000-tpe-a-aout-2026/), on the interbank payments body's count.
 
 ### Registries
 <!-- dpi.registry -->
