@@ -1,12 +1,12 @@
 ---
 title: Djibouti — progress report, October 2025 – October 2026
-compiled: 2026-10-02
-period: 2025-10-01 to 2026-10-02
+compiled: 2026-10-05
+period: 2025-10-01 to 2026-10-05
 place: DJI
-ledger_rows: 148
+ledger_rows: 149
 not_held: 12
 indicators: 123
-record: 283ae76caec8
+record: 3f564c5cc582
 ---
 
 # Djibouti: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-02.*
+*The period is 2025-10-01 to 2026-10-05.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -63,7 +63,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Financial sustainability | Financial sustainability of digital systems |  | ***No evidence*** |
 | MoUs and other agreements | Strategic relationships | A [tripartite fibre agreement with the Ethiopian and Sudanese operators was signed in February 2026](https://www.ethiotelecom.et/ethio-telecom-djibouti-telecom-and-sudatel-group-sign/); no sum is stated in it. <details><summary>Full record</summary>The standing relationship on file is with a platform foundation: a [memorandum signed on 9 December 2024 to deploy an open-source service platform, including a construction-permit system, with capacity-building and knowledge transfer](https://egov.global/news-and-media/egov-and-ministry-of-digital-economy-and-innovation-mdeni-sign-mou-to-advance-digital-transformation-of-public-services-in-djibouti/).<br>2025-09-21 - an [Ethiopian payments operator and a Djiboutian financial-services provider signed a partnership on cross-border payments, remittances and merchant services, witnessed by four ministers](https://capitalethiopia.com/2025/09/21/santimpay-meras-djibouti-join-hands-to-strengthen-financial-services/).<br>2026-02-04 - the [three national operators signed the tripartite Horizon Fiber agreement](https://www.ethiotelecom.et/ethio-telecom-djibouti-telecom-and-sudatel-group-sign/).<br>None of the three states a committed amount, so what any of them is worth is not established here.</details> | Movement |
 | New investments | Mobilisation of non-state finance | A [startup fund of funds is provided for in the Startup Act](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/), with no implementing decree and no capital committed. <details><summary>Full record</summary>The fund did not exist at the window's opening. It is now [provided for at articles 25 to 28 of the Startup Act, with the management company to be tendered, no implementing decree and no capital committed](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/).<br>It is the only instrument on this ledger addressed to mobilising non-state money for digital ventures, and it stands where the whole Act stands: in force, with every operative detail deferred to decrees that have not been made.</details> | Movement |
-| New investments | Development-partner project financing | Three lender commitments stand with [no implementation report held](https://projects.worldbank.org/en/projects-operations/project-detail/P180696) for any of them. <details><summary>Full record</summary>A [US$20,000,000 economic and financial governance project is committed with no implementation report held](https://projects.worldbank.org/en/projects-operations/project-detail/P180696), and [US$11,422,000 for higher-education digitalisation likewise](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur). Both are year-precise and stated in dollars by the financier.<br>Submarine cable financing runs to [US$55.7m across two projects, US$16,844,185 in 2015 and US$38,830,000 in 2019, with no disbursement record held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI1004), the [earlier one a regional submarine telecommunications project](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI0071).<br>No recipient-side account of any of the three is on file.</details> | No change |
+| New investments | Development-partner project financing | Three lender commitments stand with [no implementation report held](https://projects.worldbank.org/en/projects-operations/project-detail/P180696) for any of them. <details><summary>Full record</summary>A [US$20,000,000 economic and financial governance project is committed with no implementation report held](https://projects.worldbank.org/en/projects-operations/project-detail/P180696), and [US$11,422,000 for higher-education digitalisation likewise](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur). Both are year-precise and stated in dollars by the financier.<br>Submarine cable financing runs to [US$55.7m across two projects, US$16,844,185 in 2015 and US$38,830,000 in 2019, with no disbursement record held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI1004), the [earlier one a regional submarine telecommunications project](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI0071).<br>No recipient-side account of any of the three is on file.<br>2020-05 - the World Bank [committed US$20m to strengthen the statistics institute and economic management tools](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=44000-P171777), active to 2027 with US$14.2m disbursed.</details> | No change |
 
 
 ## ICT Infrastructure

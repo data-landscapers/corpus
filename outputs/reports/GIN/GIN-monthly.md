@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: GIN
-ledger_rows: 16
+ledger_rows: 17
 not_held: 4
-record: 92a8d717de2b
+record: ec13f0500c60
 ---
 
 # Guinea: monthly update, September – October 2026

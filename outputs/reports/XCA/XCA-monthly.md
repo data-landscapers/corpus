@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: XCA
-ledger_rows: 7
+ledger_rows: 9
 not_held: 0
-record: 82f3f4bea944
+record: 1109e086c5e3
 ---
 
 # Central Africa: monthly update, September – October 2026
@@ -43,12 +43,17 @@ A Libreville workshop on harmonising CEMAC statistics on the SDMX standard and t
 <!-- narrative: systems--infra-connect -->
 Eight ECCAS states [met in Brazzaville on 15 and 16 September with the ITU and the regional regulators' assembly on a model framework for national emergency telecommunications plans](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621), which each state is to adapt; no framework is adopted and no national plan is held.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: systems--infra-store -->
+The regional central bank's governor, closing the CEMAC Bankers' Days in Bangui on 3 October, [named a central bank sovereign cloud beside a regional switch project, to keep the payment data of the region's 60 million people in Central Africa](https://www.guineaecuatorialpress.com/noticias/cemac_yvon_sana_bangui_hace_balance_de_la_transformacion_del_sistema_bancario_y_financiero_regional). No site, cost or date is stated.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: systems--dpi-pay -->
 The accession then moved to the banks that have to use it. On 9 September the central bank and the operator [held a webinar to accelerate the accession of the zone's commercial banks, setting out the practical terms of participation and the next steps in the process](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/), the central bank framing it as a move toward African financial sovereignty and reduced dependence on the dollar and the euro. Still no member-state bank is named as acceded or in process, and no timetable, volume or corridor figure is published — a month after businesses in the zone's largest economy reported no operational access, the answer is another briefing.
 
-The regional central bank named a digital currency as a reform priority. Its governor [met the IMF's Africa director on 14 September to define a banking model for the next decade, with a central bank digital currency among the priorities](https://www.lepaystchad.com/46551-2/), framed as protecting monetary sovereignty against private digital assets; no design, timetable or legal instrument is published.
+The regional central bank named a digital currency as a reform priority. Its governor [met the IMF's Africa director on 14 September to define a banking model for the next decade, with a central bank digital currency among the priorities](https://www.lepaystchad.com/46551-2/), framed as protecting monetary sovereignty against private digital assets; no design, timetable or legal instrument is published. In Bangui on 3 October the governor [set a goal that by the end of 2027 every transfer under CFA 5 million settles in under ten seconds on the region's interoperable instant payment system](https://www.guineaecuatorialpress.com/noticias/cemac_yvon_sana_bangui_hace_balance_de_la_transformacion_del_sistema_bancario_y_financiero_regional), across banks, microfinance and mobile money.
 <!-- /narrative -->
 ### National statistics
 

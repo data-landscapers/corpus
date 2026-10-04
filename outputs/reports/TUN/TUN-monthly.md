@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: TUN
-ledger_rows: 45
+ledger_rows: 46
 not_held: 5
-record: d114b462c0a0
+record: 5cebb33adc35
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -31,6 +31,11 @@ Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the tra
 Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
 
 The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+A digital-rights forum [said on 3 October that the national data-protection authority's activity has stopped while its law remains in force, and called for it to be reactivated](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/). The statement came with a condemnation of the spread of personal data, leaked judicial documents and images of child victims on social media. The authority has not answered on the record the repository holds.
 <!-- /narrative -->
 ### Regional collaboration
 

@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: AGO
-ledger_rows: 38
+ledger_rows: 39
 not_held: 6
-record: 050e7a3f5dcb
+record: a531865f3f9e
 ---
 
 # Angola: monthly update, September – October 2026

@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: MAR
-ledger_rows: 22
+ledger_rows: 23
 not_held: 14
-record: e349607d4624
+record: 30c0525fb575
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -63,6 +63,11 @@ On 8 September the Dakhla green data-centre campus was [put at 100 hectares and 
 
 ## DPI
 
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->

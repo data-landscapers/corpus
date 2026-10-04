@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: SDN
-ledger_rows: 19
+ledger_rows: 21
 not_held: 5
-record: 809987ac52c8
+record: e4f966f7d223
 ---
 
 # Sudan: monthly update, September – October 2026
@@ -59,6 +59,11 @@ The payment outages ran on. [Intermittent failures of the dominant banking app a
 The gap between cash and app money drew an order from the other side of the war. The RSF commander [told traders in areas his forces hold to charge one price whether customers pay in cash or through banking applications such as Bankak, ending the premium on app payments](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/). In Khartoum, meanwhile, [converting app balances into banknotes cost 5 per cent at most shops and up to 10 per cent at some](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9), amid a cash shortage and restricted banking applications.
 
 The central bank [revoked Sudan Pay Digital's mobile-payment and switching licence on 28 September by Administrative Decision No. 65 of 2026](https://sudanhorizon.com/cbos-revokes-sudan-pay-digitals-mobile-payment-license/), citing the 2026 banking act and the 2020 and 2013 payment regulations and giving no reason; it is the second switch licence withdrawn since July. On 27 September the finance ministry [signed an agreement with MTN Sudan for text-message services on its electronic collection system](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/), so that the operator's subscribers can use the system and follow their transactions.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+[Company commercial registration was added to the national e-government platform](https://alghadalsudani.com/34214/), with two services for the legal profession, reported on 1 October. It is the first movement on the register since administrative work in Port Sudan was suspended in December 2025; no count of registrations made online is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 

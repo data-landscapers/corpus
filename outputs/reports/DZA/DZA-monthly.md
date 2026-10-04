@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: DZA
-ledger_rows: 28
+ledger_rows: 33
 not_held: 6
-record: 3409707121ee
+record: 8ff4cfb3b582
 ---
 
 # Algeria: monthly update, September – October 2026
@@ -66,6 +66,11 @@ State media reports [a security operations centre and a network operations centr
 On 20 September the Council of Ministers [ordered a presidential decree on a secure digital interoperability plan, setting the missions and representation of the sectoral bodies under the high commissioner and extended to the wilayas](https://www.interfilalgerie.com/communique-du-conseil-des-ministres-45/). State media describes [a sovereign network, IRIES, linking more than 100 ministries and public bodies to the national data centres outside the public internet](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/), with no inauguration date given.
 
 A second unified path was proposed on 3 September. A working meeting at the digitalisation commission, chaired with the internal trade minister and attended by officials of the interior, transport, agriculture and fisheries ministries, was [devoted to a unified digital mechanism for regulating the national market and a national system for tracking strategic goods, unifying the data path between the sectors that supply and distribute widely consumed goods](https://www.echoroukonline.com/نحو-وضع-منظومة-وطنية-رقمية-لمتابعة-مسار-المواد-الاستراتيجية). The record is a joint communique of one meeting: no instrument, budget, operator, architecture or delivery date is stated, and nothing names the goods in scope.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

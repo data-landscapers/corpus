@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: RWA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 7
-record: 1b304da93706
+record: 913dbf04af19
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -64,6 +64,11 @@ The information society authority [says the shared government data hub is moving
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
 A UNDP review published on 17 September [records AI compute capacity hosted in the country under its regional programme, with 42 priority AI applications identified across eight sectors](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). No capacity, host institution or utilisation figure is held.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+The prime minister said [reported financial fraud complaints fell by about 30% in the second quarter of 2026 from 4,128 a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/), while digital transactions reached 3.1 billion in 2025. He said phone-based fraud and scams seeking confidential information remain.
 <!-- /narrative -->
 
 ## DPI

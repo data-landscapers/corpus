@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: ZWE
-ledger_rows: 27
+ledger_rows: 29
 not_held: 7
-record: 146063fab952
+record: 4f4d6d2d9931
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -54,6 +54,11 @@ Planning moved a generation further out. The ICT ministry's permanent secretary 
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The largest operator [will shut down its 3G network by the end of December 2027](https://www.newsday.co.zw/article/econet-says-to-phase-out-3g-by-end-of-2027), its chief executive said in an account of 10 September, retiring 3G before 2G because 2G remains widely used in rural areas.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The listed tower company [reported a 30% reduction in fuel consumption for the half year to 31 August 2026](https://econetinfracoinvestor.com/wp-content/uploads/2026/10/Econet-InfraCo-Unaudited-Abridged-Interim-Financial-Statements-For-The-Half-Year-Ended-31-August-2026.pdf), credited to site solarisation, its fuel management system, battery cycling and better grid availability together. It gives no figure for any one of these alone. Construction of the first phase of its planned 100MW solar farm began in the same period.
 <!-- /narrative -->
 ### Cybersecurity
 

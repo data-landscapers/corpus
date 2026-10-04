@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: GHA
-ledger_rows: 83
+ledger_rows: 84
 not_held: 9
-record: a974890625a5
+record: bea8797fa5ae
 ---
 
 # Ghana: monthly update, September – October 2026

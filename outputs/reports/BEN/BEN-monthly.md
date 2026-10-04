@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: BEN
-ledger_rows: 27
+ledger_rows: 31
 not_held: 4
-record: 79c46e6d6f5f
+record: 42fc4e371379
 ---
 
 # Benin: monthly update, September – October 2026
