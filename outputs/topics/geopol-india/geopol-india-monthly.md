@@ -1,10 +1,10 @@
 ---
 title: India activities — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: geopol.india
 places: ETH; MWI; RWA; SLE; ZMB
-record: a0b6f28231f2
+record: 897c0abd4d60
 ---
 
 # India activities: monthly update, September – October 2026

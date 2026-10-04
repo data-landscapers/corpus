@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: dpi.govtech
 places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 571af496b26b
+record: 14841c6d554f
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026

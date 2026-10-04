@@ -1,15 +1,15 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: dpi.pay
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dd691dd1b7e6
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 050209bb046b
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -146,6 +146,10 @@ The police service [introduced electronic payment of traffic fines from the week
 ## Mauritania
 
 A retrospective rather than an operator disclosure, and it is the repository's first account of where the market came from. A state-owned bank's mobile service, [announced in late 2019 as the country's first fully mobile bank and launched in 2020, is credited with making the domestic digital payments market rather than entering a mature one](https://lequotidien.mr/?p=40492): opening an account from a phone, transferring and paying merchants were new to a wide part of the population, and transferring money by phone has since become a daily behaviour. The piece is a defence against complaints of faults and slowness, and it carries no user count, transaction volume, value, agent network or outage record — so what the service does now cannot be sized from it.
+
+## Morocco
+
+The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either.
 
 ## Mozambique
 

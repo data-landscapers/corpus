@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: gov.protect
-places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZWE
-record: 52e792a4346c
+places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: 62b84e8fc048
 ---
 
 # Data protection: monthly update, September – October 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -116,6 +116,10 @@ The community development ministry told parliament on 31 August 2026 that [a Nat
 ## Togo
 
 The data protection regulator turned to the state's own compliance. It [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published.
+
+## Tunisia
+
+A digital-rights forum [said on 3 October that the national data-protection authority's activity has stopped while its law remains in force, and called for it to be reactivated](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/). The statement came with a condemnation of the spread of personal data, leaked judicial documents and images of child victims on social media. The authority has not answered on the record the repository holds.
 
 ## Uganda
 

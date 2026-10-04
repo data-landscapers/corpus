@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: finance.mou
 places: CAF; COD; MAR; MOZ; NER; NGA; RWA; TZA
-record: f0c50994e205
+record: dfdc35d67551
 ---
 
 # MoUs and other agreements: monthly update, September – October 2026

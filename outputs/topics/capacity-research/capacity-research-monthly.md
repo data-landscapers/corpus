@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: capacity.research
 places: COM; EGY; GHA; KEN; MAR; UGA; ZWE
-record: aacb068d388e
+record: 94dbb1f4880c
 ---
 
 # Research institutions: monthly update, September – October 2026

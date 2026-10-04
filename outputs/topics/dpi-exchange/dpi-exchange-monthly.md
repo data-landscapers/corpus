@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0857441ca9fb
+record: 4542939155dc
 ---
 
 # Data Exchange: monthly update, September – October 2026

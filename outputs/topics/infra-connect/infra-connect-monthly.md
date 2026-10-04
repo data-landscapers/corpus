@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: infra.connect
 places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1666ac44d7f0
+record: 5df82efcb671
 ---
 
 # Connectivity: monthly update, September – October 2026

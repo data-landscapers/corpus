@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: data.statistics
 places: AGO; BWA; BFA; CMR; CAF; TCD; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 638930a7c305
+record: 84087155cb3a
 ---
 
 # National statistics: monthly update, September – October 2026

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2589dbaaa293
+record: 994f2150a3e8
 ---
 
 # Legislation and regulation: monthly update, September – October 2026

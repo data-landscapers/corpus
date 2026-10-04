@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: infra.cybersec
-places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; SEN; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 6dc7c30c445e
+places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; RWA; SEN; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: e3d4ade88ffb
 ---
 
 # Cybersecurity: monthly update, September – October 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -98,6 +98,10 @@ The trust chain acquired its first link below the root, and the state is on both
 ## Nigeria
 
 The national response team [recorded a rise in high-impact incidents across sectors on 15 September, driven by phishing, ransomware, business email compromise and data breaches](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/420-ngcert-security-advisory-on-escalating-cybersecurity-threats-and-ongoing-attacks-targeting-organisations-in-nigeria), and on 22 September [warned of an escalation of Phobos ransomware attacks on managed cloud service providers whose clients include government agencies, banks and telecommunications firms, rating the damage critical and the probability high](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/261-escalation-of-ransomware-attacks-in-nigeria). Neither advisory publishes an incident count or names an affected organisation.
+
+## Rwanda
+
+The prime minister said [reported financial fraud complaints fell by about 30% in the second quarter of 2026 from 4,128 a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/), while digital transactions reached 3.1 billion in 2025. He said phone-based fraud and scams seeking confidential information remain.
 
 ## Senegal
 

@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
-record: 5771b3eea738
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: d6aa04e8d278
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -162,6 +162,10 @@ Somaliland's central bank [met banks and mobile-money operators on 11 September 
 ## South Africa
 
 The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping.
+
+## Sudan
+
+[Company commercial registration was added to the national e-government platform](https://alghadalsudani.com/34214/), with two services for the legal profession, reported on 1 October. It is the first movement on the register since administrative work in Port Sudan was suspended in December 2025; no count of registrations made online is published.
 
 ## Tanzania
 

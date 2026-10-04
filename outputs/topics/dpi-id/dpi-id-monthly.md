@@ -1,17 +1,21 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: dpi.id
-places: BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 7791b8fccea1
+places: DZA; BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
+record: 3b4ba2f3e3b3
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against.
 
 ## Benin
 

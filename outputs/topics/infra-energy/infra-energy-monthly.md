@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: infra.energy
-places: BWA; COD; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO
-record: 5cd5dc453d78
+places: BWA; COD; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO; ZWE
+record: d0361eae0d1c
 ---
 
 # Energy: monthly update, September – October 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -54,3 +54,7 @@ The operator [reported more than 500 sites modernised with solar-hybrid power, d
 ## Togo
 
 The energy ministry [put out an international tender for 5,200 smart-metering devices for the state utility CEET, 1,200 modems for medium-voltage meters and 4,000 low-voltage data concentrators, under its revenue protection programme and financed from the IDA-backed IDEA project, with bids due 28 October 2026; official 2026 figures put the utility's technical and commercial losses at nearly 16%](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility).
+
+## Zimbabwe
+
+The listed tower company [reported a 30% reduction in fuel consumption for the half year to 31 August 2026](https://econetinfracoinvestor.com/wp-content/uploads/2026/10/Econet-InfraCo-Unaudited-Abridged-Interim-Financial-Statements-For-The-Half-Year-Ended-31-August-2026.pdf), credited to site solarisation, its fuel management system, battery cycling and better grid availability together. It gives no figure for any one of these alone. Construction of the first phase of its planned 100MW solar farm began in the same period.

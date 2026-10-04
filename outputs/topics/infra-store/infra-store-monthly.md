@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: infra.store
 places: DZA; AGO; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TUN
-record: 3baf6aab21d4
+record: 15a20c3fc3e2
 ---
 
 # Data Storage: monthly update, September – October 2026

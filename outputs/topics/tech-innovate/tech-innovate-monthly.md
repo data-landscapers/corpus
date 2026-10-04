@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 82f04fe29cb4
+record: e50d0c65273e
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
