@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-05
 place: XEA
 ledger_rows: 17
 not_held: 0
-record: f2d23eeec660
+record: 89d02d9a6b5b
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The IGAD Council of Ministers [endorsed the entry into force of the IGAD Treaty 
 ### Regional collaboration
 
 <!-- narrative: institutions--gov-regional -->
-The 2023 IGAD Treaty reached its threshold: [five of seven member states have ratified and the Council of Ministers endorsed its entry into force on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/), replacing the 1996 agreement; the date of entry into force is still to be notified. The COMESA secretariat's half-year report on the IDEA programme [records US$325,535 spent of a US$3,705,360 regional budget for 2026 by June, 9 per cent](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), with a least-cost infrastructure planning consultancy of US$409,895 in final vetting.
+The 2023 IGAD Treaty reached its threshold: [five of seven member states have ratified and the Council of Ministers endorsed its entry into force on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/), replacing the 1996 agreement; the date of entry into force is still to be notified. The COMESA secretariat's half-year report on the IDEA programme [records US$325,535 spent of a US$3,705,360 regional budget for 2026 by June, 9 per cent](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), with a least-cost infrastructure planning consultancy of US$409,895 in final vetting. The community's [second regional education conference met with a continental education association pressing for measurable learning outcomes](https://adeanet.org/en/news/adea-pushes-measurable-learning-outcomes-second-eac-regional-education-conference).
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -37,7 +37,7 @@ Insurance regulators from Kenya, Uganda, Tanzania, Rwanda, Burundi and the Democ
 ### AI
 
 <!-- narrative: instruments--tech-ai -->
-COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published. IGAD moved separately: its Council of Ministers [endorsed an IGAD Artificial Intelligence Centre of Excellence in principle on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/) and asked member states to bid to host it, with no host, budget or mandate yet set.
+COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published. IGAD moved separately: its Council of Ministers [endorsed an IGAD Artificial Intelligence Centre of Excellence in principle on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/) and asked member states to bid to host it, with no host, budget or mandate yet set. A [regional AI and productivity study was launched at the East Africa CEO and Investment Forum on 18 September](https://eabc-online.com/chairperson-of-the-eac-heads-of-state-summit-lauds-the-regions-6-economic-growth-calls-on-the-private-sector-to-drive-shared-prosperity-as-east-africa-ceo-investment-forum-delivers-us3-95/), with no terms of reference or timetable held; [a two-day consultation on a Horn of Africa artificial-intelligence framework opened on 4 September](https://www.fanamc.com/english/igad-moves-to-forge-regional-ai-framework-to-drive-integration-development/); and [the region's quality assurance forum for higher education met in Kigali on how artificial intelligence changes what a degree must assure](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/).
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -66,7 +66,7 @@ On 22 September Afreximbank [issued a US$29m guarantee to BSMART Technology, ope
 ### National statistics
 
 <!-- narrative: systems--data-statistics -->
-IGAD's statistics committee [adopted the second Regional Strategy for the Development of Statistics, 2026-2030, on 23 September, endorsed by the heads of seven national statistical offices](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/). [Its 69 interventions carry an indicative cost of USD 13.005 million, not secured funding, with at least 30 per cent sought from domestic and institutional sources by 2030](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/).
+IGAD's statistics committee [adopted the second Regional Strategy for the Development of Statistics, 2026-2030, on 23 September, endorsed by the heads of seven national statistical offices](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/). [Its 69 interventions carry an indicative cost of USD 13.005 million, not secured funding, with at least 30 per cent sought from domestic and institutional sources by 2030](https://igad.int/igad-member-states-adopt-regional-statistics-strategy-for-2026-2030/). The community [opened a user satisfaction survey on its regional statistics on 3 September](https://www.eac.int/press-releases/3590-eac-calls-for-public-participation-in-shaping-better-regional-statistics), its findings to guide statistical products and their dissemination.
 <!-- /narrative -->
 
 ## Capacity and inclusion

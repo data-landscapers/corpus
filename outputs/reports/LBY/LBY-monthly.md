@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-05
 place: LBY
 ledger_rows: 33
 not_held: 2
-record: 27925fb7fa12
+record: ebda27475b57
 ---
 
 # Libya: monthly update, September – October 2026
@@ -49,7 +49,7 @@ The central bank's [statement for January to August 2026 puts spending on the co
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The telecommunications authority [held a first workshop with the ITU and the national crisis management centre to review the national emergency telecommunications plan](https://ar.libyaobserver.ly/article/38888), reported on 28 September; the plan was conceived after communications with Derna failed during Storm Daniel in 2023. Negotiations between a satellite internet operator and the regulator, open since 2024, [have reached no agreement](https://spaceinafrica.com/2026/09/13/starlinks-libya-market-entry-remains-on-hold-as-negotiations-continue/). One operator's [published tariff card](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx) runs from 0.5 LYD for 50MB over one day to 80 LYD for 80GB over thirty days.
+The telecommunications authority [held a first workshop with the ITU and the national crisis management centre to review the national emergency telecommunications plan](https://ar.libyaobserver.ly/article/38888), reported on 28 September; the plan was conceived after communications with Derna failed during Storm Daniel in 2023. Negotiations between a satellite internet operator and the regulator, open since 2024, [have reached no agreement](https://spaceinafrica.com/2026/09/13/starlinks-libya-market-entry-remains-on-hold-as-negotiations-continue/). One operator's [published tariff card](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx) runs from 0.5 LYD for 50MB over one day to 80 LYD for 80GB over thirty days. A state holding-company subsidiary [reviewed its project for 7,000 telecommunications towers at its general assembly](https://libyaherald.com/2026/10/lptics-al-bunyan-discusses-progress-of-developing-the-7000-telecommunications-towers-project); no count of towers built, cost or completion date is published.
 <!-- /narrative -->
 ### Data Storage
 
@@ -77,7 +77,7 @@ Work [opened on 20 September on an integrated national cybersecurity plan](https
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/).
+The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/). The public prosecutor [announced a further case of civil-status data falsified for payment, with work at a registry office halted and suspects referred for investigation](https://alwasat.ly/news/479468), against more than 89,000 forged national numbers in the last official count.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -86,7 +86,7 @@ At a Tripoli conference on 7 September the central bank governor announced a [li
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 
-September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry. The central bank [put electronic transactions at about LD 865 billion by the end of September 2026](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/).
+September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry. The central bank [put electronic transactions at about LD 865 billion by the end of September 2026](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/). A private bank [is to launch payments to China through a Chinese payment platform from its own application, capped at US$5,000 a transaction and US$50,000 a year](https://libyaherald.com/2026/09/libyas-north-africa-bank-to-launch-direct-payment-service-to-china-using-alipay/). The banking sector development forum [stopped pursuing its Zero Cash initiative on 7 September for want of an executive framework from the central bank](https://alwasat.ly/news/477201).
 <!-- /narrative -->
 ### Registries
 
@@ -98,7 +98,7 @@ The economy ministry [made registration on the unified digital trade system comp
 <!-- narrative: dpi--dpi-govtech -->
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 
-Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published.
+Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published. The central bank governor [proposed an electronic system and single database to record and track international grants, programmes and projects](https://alwasat.ly/news/478765) to the committee formed for the purpose; it is under discussion.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -127,5 +127,5 @@ A foreign cultural body [signed a memorandum giving Benghazi university's studen
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published.
+The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published. A green industry centre [published a report of industrial and environmental indicators recording 305 registered industrial establishments, 301 of them private, and 26,034 workers](https://libyaherald.com/2026/09/green-industry-centre-report-provides-valuable-sector-data-for-policy-and-plan-formulation).
 <!-- /narrative -->
