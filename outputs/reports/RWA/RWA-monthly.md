@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-05
 place: RWA
 ledger_rows: 36
 not_held: 7
-record: 913dbf04af19
+record: cea5746f69d1
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -25,7 +25,7 @@ Rwanda [was selected on 21 September to host the UN World Data Forum in 2028](ht
 <!-- narrative: governance--gov-regional -->
 One piece of regional machinery moved from design into use. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
 
-The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017.
+The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017. Rwanda was [one of 49 states to sign a declaration that Earth- and Universe-observation satellite data be open to all under open licences](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data), and its head of state [warned at the first International Space Summit that African countries risk losing access to orbital and radio-frequency resources](https://www.ktpress.rw/2026/09/kagame-seeks-removal-of-technology-export-restrictions-to-africa/).
 <!-- /narrative -->
 ### Standards
 
@@ -92,7 +92,7 @@ The central bank put the gap on its own record: [85.3% of Rwandans hold a digita
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
-Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume.
+Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers.
 <!-- /narrative -->
 ### Registries
 
@@ -102,7 +102,7 @@ A phone-based system for notifying community deaths, introduced nationwide in sp
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The judiciary set technology as a priority for the year ahead. At the launch of the 2026/2027 judicial year on 4 September the Chief Justice said the judiciary would [continue promoting the use of technology to accelerate the delivery of justice services](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year), alongside greater use of alternative dispute resolution and a revision of the Code of Judicial Procedure to provide for pre-filing mediation. It is a priority: no target, budget or measure is attached to it.
+The judiciary set technology as a priority for the year ahead. At the launch of the 2026/2027 judicial year on 4 September the Chief Justice said the judiciary would [continue promoting the use of technology to accelerate the delivery of justice services](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year), alongside greater use of alternative dispute resolution and a revision of the Code of Judicial Procedure to provide for pre-filing mediation. It is a priority: no target, budget or measure is attached to it. The national digital services platform's chief executive [described a move into health that would let patients see their records, follow them across facilities and book appointments](https://www.ktpress.rw/2026/09/five-years-on-rwanda-is-leading-the-edge-of-digital-health-in-africa/); no launch date or user figure is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
