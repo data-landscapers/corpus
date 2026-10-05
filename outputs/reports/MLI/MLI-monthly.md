@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: MLI
 ledger_rows: 13
 not_held: 1
-record: 325653ecdbae
+record: 47423f13d25e
 ---
 
 # Mali: monthly update, September – October 2026
@@ -34,7 +34,7 @@ On 23 September the authority [signed a cooperation agreement with Togo's person
 <!-- narrative: governance--gov-regional -->
 The Burkinabè, Malian and Nigerien telecommunications regulators [signed a cooperation convention creating a Council of Sahel Regulators, reported on 26 September](https://lefaso.net/spip.php?article149528), covering free roaming, frequency coordination at the borders, mutual recognition of type-approved equipment and coordinated 5G introduction; its statutes and first work programme are still to be adopted. They had [announced the signing on 23 September](https://lefaso.net/spip.php?article149443).
 
-The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model.
+The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model. The West African body's [page for its regional fibre infrastructure programme](https://sigtel.ecowas.int/regional-fiber-infrastructure/) is held as at September 2026. The country withdrew from the body in January 2025, and nothing on the page says what that leaves of its participation.
 <!-- /narrative -->
 ### Standards
 

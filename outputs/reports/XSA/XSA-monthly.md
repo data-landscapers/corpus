@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: XSA
 ledger_rows: 10
 not_held: 2
-record: 36b3a8665ae5
+record: ee7806db6308
 ---
 
 # Southern Africa: monthly update, September – October 2026
@@ -25,7 +25,7 @@ The association of Southern African communications regulators [held its 46th exe
 <!-- narrative: institutions--gov-regional -->
 The regulators' association met on its own workplan rather than on a rule. Its consumer and stakeholder policy committee [held the financial year's first ordinary in-person meeting at Gaborone from 2 to 4 September 2026 to advance the 2026/27 workplan](https://events.crasa.org/events/). No agenda outcome, decision or published workplan follows it on the record, which is the standing shape of this body's output in the repository.
 
-Public accounts committees took digital systems into their remit. SADCOPAC [adopted 32 resolutions at its annual general meeting in Eswatini on 16 September](https://eswatinipositivenews.online/sadcopac-turns-oversight-into-action-with-32-resolutions/), committing each committee to map major digital transformation projects and complete at least one value-for-money review of a digital system within 12 months, with oversight extended to digital identity, e-procurement and e-payment systems. The COMESA secretariat's half-year report on the IDEA programme [records 9 per cent of the 2026 regional budget spent by June and names Eswatini a participating state in preparation](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), its US$65m project approved by the lender in June 2026.
+Public accounts committees took digital systems into their remit. SADCOPAC [adopted 32 resolutions at its annual general meeting in Eswatini on 16 September](https://eswatinipositivenews.online/sadcopac-turns-oversight-into-action-with-32-resolutions/), committing each committee to map major digital transformation projects and complete at least one value-for-money review of a digital system within 12 months, with oversight extended to digital identity, e-procurement and e-payment systems. The COMESA secretariat's half-year report on the IDEA programme [records 9 per cent of the 2026 regional budget spent by June and names Eswatini a participating state in preparation](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf), its US$65m project approved by the lender in June 2026. Regional vice-chancellors meeting in Johannesburg on 31 August [set agreement on a regional higher education data system as one of five immediate priorities](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela), with qualifications recognition and credit transfer beside it. The regional secretariat and the committee of member-state stock exchanges [promoted capital-market integration at an investment congress in Dubai from 7 to 9 September](https://sadc.int/latest-news/sadc-positions-southern-africa-integrated-investment-destination-aim-congress-2026); no instrument came of it.
 <!-- /narrative -->
 
 ## Instruments and harmonisation

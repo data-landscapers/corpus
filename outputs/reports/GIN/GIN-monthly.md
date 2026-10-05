@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-05
 place: GIN
 ledger_rows: 17
 not_held: 4
-record: ec13f0500c60
+record: 74185000cf4b
 ---
 
 # Guinea: monthly update, September – October 2026
@@ -54,12 +54,12 @@ The national data centre at Koloma is nearly built and not yet working. On a sit
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/).
+Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). The regional digital integration project [called on 1 October for a firm to design and implement a national payment scheme over nine months, covering its governance, rules, security and a pilot](https://letravail224.com/appel-a-manifestation-dinteret-pour-le-recrutement-dun-cabinet-pour-la-conception-et-la-mise-en-oeuvre-dun-schema-national-de-paiement-snp-en-republique-de-guinee/), in support of the national switching company and the central bank; expressions of interest close on 23 October.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The agriculture ministry [presented its farmer-card pilot on 16 September, with 20,463 producers registered and 23,507 farms mapped in Kindia, Kankan and Mamou](https://www.agenceecofin.com/actualites-numerique/2109-141747-guinee-les-donnees-agricoles-au-service-du-financement-des-producteurs), each producer given a card with a QR code and NFC chip that opens verified data to authorised users on a secure portal. No national enrolment target or date is stated.
+The agriculture ministry [presented its farmer-card pilot on 16 September, with 20,463 producers registered and 23,507 farms mapped in Kindia, Kankan and Mamou](https://www.agenceecofin.com/actualites-numerique/2109-141747-guinee-les-donnees-agricoles-au-service-du-financement-des-producteurs), each producer given a card with a QR code and NFC chip that opens verified data to authorised users on a secure portal. No national enrolment target or date is stated. A [nationwide stockout of the secure paper that digital birth certificates are printed on stopped printing for about two weeks](https://mosaiqueguinee.com/2026/09/etat-civil-la-guinee-confrontee-a-une-penurie-dactes-de-naissance-numeriques/): registration continued and no certificate could be issued. The procurement regulator [opened an operation on 17 September to build and clean a database of the officials who run public procurement and public-private partnerships](https://mediaguinee.com/2026/09/lettre-circulaire-armp-constitution-et-mise-a-jour-de-la-base-de-donnees-des-acteurs-charges-de-la-passation-des-marches-publics-et-ppp/), with no filing deadline or platform stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
