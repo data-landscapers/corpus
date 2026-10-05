@@ -393,6 +393,12 @@ check("SEND_MODE about_to_send sends",
       "about_to_send")
 check("anything else is a draft",
       js('buildEmail([], {monday:"2026-09-21", body:"B", sendMode:"whatever"}).status'), "draft")
+check("cron_status records the SEND_MODE it read, as it came",
+      js('statusRecord("T", " about_to_send", {stage: "started"})'),
+      {"at": "T", "send_mode_env": " about_to_send", "stage": "started"})
+check("SEND_MODE unset is recorded as the empty string, not omitted",
+      js('statusRecord("T", undefined, {stage: "skipped"})'),
+      {"at": "T", "send_mode_env": "", "stage": "skipped"})
 check("the subject names the Monday a reader can read",
       email["subject"], "Data Landscapers alerts — week of 21 September 2026")
 check("the subject is inside Buttondown's 2000-character limit",

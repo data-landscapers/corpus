@@ -7,7 +7,7 @@
  *
  * WHAT IT DOES. Four routes and a cron. The routes take a sign-up, serve a plain Atom feed
  * for readers who want no email at all, and let a reader list and edit what they hold. The
- * cron, at 07:00 UTC on a Monday, reads the site's own `recent.json`, works out which alerts
+ * cron, at 05:00 UTC on a Monday, reads the site's own `recent.json`, works out which alerts
  * have anything new in them, builds **one** Markdown body with a section per alert wrapped in
  * a test on the reader's tags, and posts it to Buttondown with an audience filter naming
  * exactly those alerts. A reader none of whose alerts matched is outside the filter and gets
@@ -569,6 +569,21 @@ function atomFeed(rows, o) {
   return out.join("\n");
 }
 
+/**
+ * What `cron_status` holds: when, what the Worker was configured with, and the stage's fields.
+ *
+ * **`send_mode_env` is what the Worker read; `mode` is what it decided.** On 2026-10-05 the
+ * dashboard showed `about_to_send` and the run drafted, and a status holding only the decision
+ * could not say whether Cloudflare withheld the variable or the Worker ignored it. It is the
+ * raw value, untrimmed, because a pasted invisible character is one of the causes to tell
+ * apart — and always present, the empty string when unset, so a missing key means an old
+ * deploy and nothing else. It is on every write, not only the first: the key is overwritten,
+ * so a run that skips or fails would otherwise lose it. A variable, not a secret.
+ */
+function statusRecord(at, sendMode, fields) {
+  return Object.assign({ at, send_mode_env: String(sendMode || "") }, fields);
+}
+
 // === PURE CORE ENDS HERE — scripts/test_alerts_worker.py loads everything above this line ===
 
 export default {
@@ -1028,7 +1043,7 @@ async function loadDefs(env, tally) {
 async function cronStatus(env, fields) {
   try {
     await env.ALERTS.put("cron_status", JSON.stringify(
-      Object.assign({ at: new Date().toISOString() }, fields)));
+      statusRecord(new Date().toISOString(), env.SEND_MODE, fields)));
   } catch (err) {
     // A status that cannot be written must not turn a successful run into a failed one.
   }

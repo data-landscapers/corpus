@@ -36,7 +36,7 @@ The Worker `corpus-alerts` (`workers/alerts/worker.js`) serves four routes and a
 | | |
 |---|---|
 | Worker | `corpus-alerts`, route `corpus.data-landscapers.io/api/alerts/*` on zone `data-landscapers.io` — more specific than `download-log`'s `/*`, so it wins for those paths |
-| Cron | `0 7 * * MON` — **the day written as a name**, because Cloudflare numbers days 1–7 from Sunday where standard cron makes `1` Monday |
+| Cron | `0 5 * * MON` *(Bill moved it from 07:00 in the week to 2026-09-28)* — **the day written as a name**, because Cloudflare numbers days 1–7 from Sunday where standard cron makes `1` Monday |
 | KV | namespace `alerts`, bound as `ALERTS` |
 | Secrets | `BUTTONDOWN_API_KEY`, `TURNSTILE_SECRET`, and optionally `RUN_TOKEN` |
 | Variables | `SITE`, `MAIN_SITE`, `SEND_MODE` |
@@ -62,7 +62,7 @@ The Worker `corpus-alerts` (`workers/alerts/worker.js`) serves four routes and a
 
 ## The knobs
 
-- **`SEND_MODE`** — `draft` leaves the digest in **Emails → Drafts** for Bill to release; `about_to_send` sends it unattended. Nothing downstream reads the difference, so switching is one variable and no redeploy. **`draft` is a settled end state, not a probation**: it is the workflow Bill already has for the main site, applied to a body he no longer writes.
+- **`SEND_MODE`** — `draft` leaves the digest in **Emails → Drafts** for Bill to release; `about_to_send` sends it unattended. Nothing downstream reads the difference, so switching is one variable and no code change — **but a variable is only live once its version is deployed**, and that is the trap 2026-10-05 fell into (below). **`draft` is a settled end state, not a probation**: it is the workflow Bill already has for the main site, applied to a body he no longer writes.
 - **The caps** — five countries and five topics an alert, ten alerts a reader, **25 items a section** (beyond that, *and N more in the catalogue* linking to the catalogue's own fragment). The 25 is the lever if a body ever approaches a size Buttondown refuses.
 - **The windows** — 28 days in `recent.json`, 21 days of catch-up, 90 days of backfill. The first two are paired: the send window can only catch up over records the file still carries.
 
@@ -88,7 +88,7 @@ Set up once on 2026-09-16; `archived/catalogue-alerts-build.md` Part 1 A is the 
 - **One newsletter, alerts only** *(Bill, 2026-09-15)*. The cost is that every main-site sign-up must carry `alert site`.
 - **One email per reader, not one per alert** *(2026-09-16)*. The rejected per-feed design allowed one country and one topic an alert, sent five emails to a reader with five alerts, and could not edit an alert at all.
 - **Existing subscribers got a cadence change and were not told** *(Bill, 2026-09-16)*. The content is what they subscribed for; the rhythm is the only thing that moved. The main site's news is now up to six days late, which is the price of one email per reader.
-- **Weekly, Monday 07:00 UTC — and UTC is the choice, not the default.** African timezones do not observe daylight saving, so a UTC-fixed send is the one that never moves for the readers this is for; London is what drifts.
+- **Weekly, Monday 05:00 UTC — and UTC is the choice, not the default.** African timezones do not observe daylight saving, so a UTC-fixed send is the one that never moves for the readers this is for; London is what drifts.
 - **The backfill rule is 90 days and it is needed.** Without it an alert would be mostly archive material, because most of what is ingested in a week was published long before it.
 - **The Worker owns the send window**, which is what makes a missed Monday catch up, a retried cron harmless, and an ingest date mean what it says. Buttondown's RSS polling gave none of the three.
 - **The subscriber id is the edit key.** Buttondown's own magic link exists but lands in its portal, which cannot edit a definition Corpus holds. A forwarded email lets the recipient edit the sender's alerts — already true of Buttondown's manage link, and the same harm as an unconfirmed tag-add, which is likewise accepted.
@@ -103,5 +103,12 @@ Set up once on 2026-09-16; `archived/catalogue-alerts-build.md` Part 1 A is the 
 **The main site's subtitle and summary — specified by Cowork and built and deployed 2026-09-27.** A post in the site section reads like a catalogue entry: title, then `subtitle` where a record's hero goes, then `summary` cut to 200 characters on a word boundary (`siteItem`, `SUMMARY_CAP`). A post with neither keeps `description`, the `feed.xml` fall-through. `feed.json` in `data-landscapers` carries the two fields (`5179aa7`); `feed.xml` and the Atom route are untouched. A `feed.json` without them reads as the old one, so deploy and render need no ordering.
 
 **Line breaks and the date — built 2026-09-28, asked for by Bill.** Each item's title line ends with its publication date in brackets (`itemDay`: `21 September 2026`, a month as `September 2026`, a year as it came), and the publisher line no longer repeats it. The item's lines are joined with `<br>`, because Markdown folds a bare newline into one paragraph and the hero or summary ran on after the title. Deployed the same day.
+
+**The Monday that drafted itself — 2026-10-05, and the fix is built 2026-10-05, awaiting Bill's deploy.** Bill set `SEND_MODE` to `about_to_send` in the week to 2026-09-28. On Monday 2026-10-05 the cron ran at 05:00 UTC, the hour he had just moved it to, and `cron_status` read `stage: email-created, mode: draft`, while the dashboard's **Variables and Secrets** showed `about_to_send`. So at 07:00 UTC `env.SEND_MODE` was not that string, and the two places disagree about what is live. The trigger change took, which says the schedule is current but not that the bindings are: a trigger applies on save, a variable only on a deploy. So the open causes are a saved-but-undeployed variable, an invisible character in a pasted value (`.trim()` removes neither a zero-width space nor a stray quote), and the variable sitting on something other than the Worker that ran. The draft was released by hand; `last_sent_through` had already moved, so nothing was sent twice.
+
+- **`workers/alerts/worker.js`** — `cron_status` records what the Worker *decided* and not what it *read*, which is why this took a dashboard hunt. **Every** `cron_status` write now carries **`send_mode_env`**, the raw `String(env.SEND_MODE || "")` (`statusRecord`, in the pure half) — every write and not only `started` and `email-created` as first specified, because the key is overwritten and a run that skips or fails would lose it. **It is a variable, not a secret** — no rule here is bent by recording it. `test_alerts_worker.py` asserts that an unset `SEND_MODE` records the empty string rather than omitting the key.
+- **The operating rule, for the knobs section above**: after editing a variable in the dashboard, check **Deployments** shows an active version dated after the edit, and that traffic is not split across versions — a cron runs on one version, and it need not be the one the Settings screen is showing you.
+- **How to settle it today rather than next Monday**: deploy the `send_mode_env` change, then call `POST /api/alerts/run`. The run skips on today's `sent:` key, and the `skipped` status it answers with carries the value the Worker read. Do not clear the `sent:` key to force a full run — the digest has been released by hand and a second one would reach every reader twice.
+- **The check that costs nothing**: on any Monday the alert did not arrive, read `cron_status` first. `mode` against `send_mode_env` separates *Cloudflare did not give the Worker the variable* from *the Worker ignored it*, which were indistinguishable on 2026-10-05.
 
 **Not in this version**: report editions as alert items; a monthly pass pruning `def:` entries whose tag has no active subscriber and clearing stale `orphan:` keys; a monthly cadence if readers ask for one.
