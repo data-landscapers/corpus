@@ -1,5 +1,6 @@
 ## 5 October 2026
 
+- Mozambique's 2024 budget table now shows what the government proposed beside what was enacted, for six central bodies. Each was voted at the figure proposed.
 - Niger's September update no longer reports a new US$100m smart villages loan. The ministry page it cited describes the 2020 agreement, which the finance table already holds.
 - Senegal's 2026 budget table gains one line, the civil-service ministry's digitisation of administrative acts at CFA 50.6m, down from 83.4m in 2025. Thirteen other ministries' planning volumes were read and print no digital line.
 - Benin's budget tables gain the IT activities of the social-affairs and decentralisation ministries for 2024 to 2026. For 2024 and 2025 the civil-service modernisation programme, held whole at CFA 1.7bn to 1.8bn, is replaced by its two digital activities, CFA 106m and 82m. Its 2026 table gains six more activities from five ministries, the largest the foreign ministry's information systems at CFA 191m.
