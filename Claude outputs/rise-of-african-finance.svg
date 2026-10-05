@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="432pt" viewBox="0 0 648 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T09:09:09.509692</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 648 432 
+L 648 0 
+L 0 0 
+z
+" style="fill: #faf9f6"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 48.6 352.08 
+L 486 352.08 
+L 486 114.48 
+L 48.6 114.48 
+z
+" style="fill: #faf9f6"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11.5px; font-family: 'Lato'; text-anchor: middle; fill: #4a4a44" x="72.788018" y="370.4305" transform="rotate(-0 72.788018 370.4305)">2024</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11.5px; font-family: 'Lato'; text-anchor: middle; fill: #4a4a44" x="274.354839" y="370.4305" transform="rotate(-0 274.354839 370.4305)">2025</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 11.5px; font-family: 'Lato'; text-anchor: middle; fill: #4a4a44" x="475.921659" y="370.4305" transform="rotate(-0 475.921659 370.4305)">2026*</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <path d="M 48.6 352.08 
+L 486 352.08 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #d8d5cc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5"/>
+     <g id="text_4">
+      <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #8a8a80" x="41.6" y="357.26175" transform="rotate(-0 41.6 357.26175)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <path d="M 48.6 287.863784 
+L 486 287.863784 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #d8d5cc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_5">
+      <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #8a8a80" x="41.6" y="293.045534" transform="rotate(-0 41.6 293.045534)">2,000</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <path d="M 48.6 223.647568 
+L 486 223.647568 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #d8d5cc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_6">
+      <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #8a8a80" x="41.6" y="228.829318" transform="rotate(-0 41.6 228.829318)">4,000</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <path d="M 48.6 159.431351 
+L 486 159.431351 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #d8d5cc; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #8a8a80" x="41.6" y="164.613101" transform="rotate(-0 41.6 164.613101)">6,000</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_12">
+    <path d="M 48.6 352.08 
+L 486 352.08 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #8a8a80; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 72.788018 299.069514 
+L 274.354839 299.968541 
+L 475.921659 336.025946 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #a9a79d; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 72.788018 225.413514 
+L 274.354839 193.273297 
+L 475.921659 203.06627 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #a9a79d; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 72.788018 180.719027 
+L 274.354839 133.616432 
+L 475.921659 144.276324 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #a9a79d; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <defs>
+     <path id="me60f43b603" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #faf9f6; stroke-width: 1.6"/>
+    </defs>
+    <g clip-path="url(#p8c9380d34b)">
+     <use xlink:href="#me60f43b603" x="72.788018" y="299.069514" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+     <use xlink:href="#me60f43b603" x="274.354839" y="299.968541" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+     <use xlink:href="#me60f43b603" x="475.921659" y="336.025946" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <g clip-path="url(#p8c9380d34b)">
+     <use xlink:href="#me60f43b603" x="72.788018" y="225.413514" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+     <use xlink:href="#me60f43b603" x="274.354839" y="193.273297" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+     <use xlink:href="#me60f43b603" x="475.921659" y="203.06627" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+    </g>
+   </g>
+   <g id="line2d_18">
+    <g clip-path="url(#p8c9380d34b)">
+     <use xlink:href="#me60f43b603" x="72.788018" y="180.719027" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+     <use xlink:href="#me60f43b603" x="274.354839" y="133.616432" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+     <use xlink:href="#me60f43b603" x="475.921659" y="144.276324" style="fill: #a9a79d; stroke: #faf9f6; stroke-width: 1.6"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: start; fill: #4a4a44" x="488.921659" y="340.089446" transform="rotate(-0 488.921659 340.089446)">Aid</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: start; fill: #4a4a44" x="488.921659" y="207.12977" transform="rotate(-0 488.921659 207.12977)">National budgets</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: start; fill: #1a1a18" x="488.921659" y="172.133635" transform="rotate(-0 488.921659 172.133635)">African finance</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: start; fill: #4a4a44" x="488.921659" y="148.339824" transform="rotate(-0 488.921659 148.339824)">Non-African finance</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: start; fill: #1a1a18" x="83.788018" y="345.798932" transform="rotate(-0 83.788018 345.798932)">736</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: end; fill: #c84b2f" x="347.012903" y="231.105095" transform="rotate(-0 347.012903 231.105095)">×7.8 in two years</text>
+   </g>
+   <g id="line2d_19">
+    <path d="M 72.788018 328.448432 
+L 274.354839 299.230054 
+L 475.921659 167.683135 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #faf9f6; stroke-width: 6.4; stroke-linecap: round"/>
+    <path d="M 72.788018 328.448432 
+L 274.354839 299.230054 
+L 475.921659 167.683135 
+" clip-path="url(#p8c9380d34b)" style="fill: none; stroke: #c84b2f; stroke-width: 3.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_20">
+    <defs>
+     <path id="m570c79fc60" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" style="stroke: #faf9f6; stroke-width: 2.2"/>
+    </defs>
+    <g clip-path="url(#p8c9380d34b)">
+     <use xlink:href="#m570c79fc60" x="72.788018" y="328.448432" style="fill: #c84b2f; stroke: #faf9f6; stroke-width: 2.2"/>
+     <use xlink:href="#m570c79fc60" x="274.354839" y="299.230054" style="fill: #c84b2f; stroke: #faf9f6; stroke-width: 2.2"/>
+     <use xlink:href="#m570c79fc60" x="475.921659" y="167.683135" style="fill: #c84b2f; stroke: #faf9f6; stroke-width: 2.2"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_21">
+   <path d="M 48.6 23.76 
+L 84.24 23.76 
+" style="fill: none; stroke: #c84b2f; stroke-width: 3.2"/>
+  </g>
+  <g id="line2d_22">
+   <path d="M 48.6 381.024 
+L 618.84 381.024 
+" style="fill: none; stroke: #d8d5cc; stroke-width: 0.8; stroke-linecap: square"/>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #4a4a44" x="618.84" y="340.089446" transform="rotate(-0 618.84 340.089446)">500</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #4a4a44" x="618.84" y="207.12977" transform="rotate(-0 618.84 207.12977)">4,641</text>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 11.5px; font-family: 'Lato'; text-anchor: end; fill: #1a1a18" x="618.84" y="172.133635" transform="rotate(-0 618.84 172.133635)">5,743</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 10.5px; font-family: 'Lato'; text-anchor: end; fill: #4a4a44" x="618.84" y="148.339824" transform="rotate(-0 618.84 148.339824)">6,472</text>
+  </g>
+  <g id="text_18">
+   <text style="font-weight: 900; font-size: 23px; font-family: 'Lato'; text-anchor: start; fill: #1a1a18" x="48.6" y="54" transform="rotate(-0 48.6 54)">The rise of African finance</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 11.6px; font-family: 'Lato'; text-anchor: start; fill: #4a4a44" x="48.6" y="76.896" transform="rotate(-0 48.6 76.896)">African financiers committed nearly eight times as much to the continent’s digital sector in 2026</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 11.6px; font-family: 'Lato'; text-anchor: start; fill: #4a4a44" x="48.6" y="92.016" transform="rotate(-0 48.6 92.016)">as in 2024, overtaking what African states budget for it themselves.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 10px; font-family: 'Lato'; text-anchor: start; fill: #8a8a80" x="48.6" y="107.136" transform="rotate(-0 48.6 107.136)">US$ millions</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 8.3px; font-family: 'Lato'; text-anchor: start; fill: #8a8a80" x="48.6" y="395.28" transform="rotate(-0 48.6 395.28)">African and non-African finance: non-state commitments other than aid, by where the financier is from. Aid: grants, concessional loans and</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 8.3px; font-family: 'Lato'; text-anchor: start; fill: #8a8a80" x="48.6" y="406.944" transform="rotate(-0 48.6 406.944)">technical assistance. National budgets: states’ own digital lines. Commitments, not disbursements.  * 2026 as recorded to October 2026.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-weight: 700; font-size: 8.3px; font-family: 'Lato'; text-anchor: start; fill: #4a4a44" x="48.6" y="420.768" transform="rotate(-0 48.6 420.768)">Source: Data Landscapers, All finance table</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 8.3px; font-family: 'Lato'; text-anchor: end; fill: #8a8a80" x="618.84" y="420.768" transform="rotate(-0 618.84 420.768)">data-landscapers.io</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8c9380d34b">
+   <rect x="48.6" y="114.48" width="437.4" height="237.6"/>
+  </clipPath>
+ </defs>
+</svg>
