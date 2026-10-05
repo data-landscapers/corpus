@@ -1,6 +1,6 @@
 ## 5 October 2026
 
-- Benin's budget tables gain the IT activities of the social-affairs and decentralisation ministries for 2024 to 2026. For 2024 and 2025 the civil-service modernisation programme, held whole at CFA 1.7bn to 1.8bn, is replaced by its two digital activities, CFA 106m and 82m.
+- Benin's budget tables gain the IT activities of the social-affairs and decentralisation ministries for 2024 to 2026. For 2024 and 2025 the civil-service modernisation programme, held whole at CFA 1.7bn to 1.8bn, is replaced by its two digital activities, CFA 106m and 82m. Its 2026 table gains six more activities from five ministries, the largest the foreign ministry's information systems at CFA 191m.
 - Eswatini's 2024/25 budget table gains a revised figure for four departments, from the following year's estimates. Each was trimmed slightly in the year, the communication department from SZL 12.75m to 12.73m.
 - Tunisia's budget tables gain 22 lines for 2024 and 2025 from two more ministries, land affairs and social affairs: their software, system running costs, IT security and IT equipment. The land register itself has no budget line, because the office that keeps it lives on its own fees.
 
