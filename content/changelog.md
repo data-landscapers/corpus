@@ -1,5 +1,6 @@
 ## 5 October 2026
 
+- Ghana's 2026 budget table gains the Electoral Commission's information technology sub-programme, GHS 27.3m, all goods and services. Its 2025 volume prints no such line.
 - Mozambique's 2024 budget table now shows what the government proposed beside what was enacted, for six central bodies. Each was voted at the figure proposed.
 - Niger's September update no longer reports a new US$100m smart villages loan. The ministry page it cited describes the 2020 agreement, which the finance table already holds.
 - Senegal's 2026 budget table gains one line, the civil-service ministry's digitisation of administrative acts at CFA 50.6m, down from 83.4m in 2025. Thirteen other ministries' planning volumes were read and print no digital line.
