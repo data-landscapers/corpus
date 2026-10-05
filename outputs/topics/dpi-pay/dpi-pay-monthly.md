@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b91d2acea948
+record: dda9d0e5bb2d
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -185,7 +185,7 @@ The central bank put the gap on its own record: [85.3% of Rwandans hold a digita
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
-Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume.
+Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers.
 
 ## Senegal
 
@@ -221,7 +221,7 @@ The payment outages ran on. [Intermittent failures of the dominant banking app a
 
 The gap between cash and app money drew an order from the other side of the war. The RSF commander [told traders in areas his forces hold to charge one price whether customers pay in cash or through banking applications such as Bankak, ending the premium on app payments](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/). In Khartoum, meanwhile, [converting app balances into banknotes cost 5 per cent at most shops and up to 10 per cent at some](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9), amid a cash shortage and restricted banking applications.
 
-The central bank [revoked Sudan Pay Digital's mobile-payment and switching licence on 28 September by Administrative Decision No. 65 of 2026](https://sudanhorizon.com/cbos-revokes-sudan-pay-digitals-mobile-payment-license/), citing the 2026 banking act and the 2020 and 2013 payment regulations and giving no reason; it is the second switch licence withdrawn since July. On 27 September the finance ministry [signed an agreement with MTN Sudan for text-message services on its electronic collection system](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/), so that the operator's subscribers can use the system and follow their transactions.
+The central bank [revoked Sudan Pay Digital's mobile-payment and switching licence on 28 September by Administrative Decision No. 65 of 2026](https://sudanhorizon.com/cbos-revokes-sudan-pay-digitals-mobile-payment-license/), citing the 2026 banking act and the 2020 and 2013 payment regulations and giving no reason; it is the second switch licence withdrawn since July. On 27 September the finance ministry [signed an agreement with MTN Sudan for text-message services on its electronic collection system](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/), so that the operator's subscribers can use the system and follow their transactions. [A second operator, Zain, signed a text-message services agreement for the state collection system on 4 October](https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-zain-telecommunications/), letting its subscribers use the system and follow their transactions.
 
 ## Tanzania
 

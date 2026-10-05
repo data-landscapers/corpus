@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.govtech
 places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 14841c6d554f
+record: 241541405195
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -209,7 +209,7 @@ Tax audit moved off paper on 21 September, when the revenue authority [launched 
 
 Identity services are being rebuilt in the capital. The police [reopened the Omdurman and Bahri service complexes, with transactions rising from 206,362 in 2025 to 522,225 in 2026](https://sudan4news.com/?p=35463), and [set out a plan to issue passports, ID cards and licences from home, with cash abolished at the counters through seven banks](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/).
 
-The education ministry [launched online application and electronic fee payment for the Sudan School Certificate on 29 September](https://www.alhakim.net/142777), with the certificate collectable inside or outside the country; no uptake figure is published.
+The education ministry [launched online application and electronic fee payment for the Sudan School Certificate on 29 September](https://www.alhakim.net/142777), with the certificate collectable inside or outside the country; no uptake figure is published. The animal resources ministry [launched an official website for producers, breeders and investors on 7 September](https://www.suna.sd/posts/animal-resources-ministry-launches-official-website), and [a government platform was put before the national economic management committee in a meeting on stabilising the exchange rate](https://sudanhorizon.com/national-committee-for-managing-the-economy-closing-loopholes-behind-currency-value-erosion/); what the platform does and who runs it are not stated.
 
 ## Tanzania
 

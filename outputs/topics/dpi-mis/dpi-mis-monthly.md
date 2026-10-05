@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bcc81a7a4199
+record: 66bc7003276a
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -145,7 +145,7 @@ Opening a dialogue on the AGROW programme on 29 September, the agriculture minis
 
 ## Rwanda
 
-The judiciary set technology as a priority for the year ahead. At the launch of the 2026/2027 judicial year on 4 September the Chief Justice said the judiciary would [continue promoting the use of technology to accelerate the delivery of justice services](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year), alongside greater use of alternative dispute resolution and a revision of the Code of Judicial Procedure to provide for pre-filing mediation. It is a priority: no target, budget or measure is attached to it.
+The judiciary set technology as a priority for the year ahead. At the launch of the 2026/2027 judicial year on 4 September the Chief Justice said the judiciary would [continue promoting the use of technology to accelerate the delivery of justice services](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year), alongside greater use of alternative dispute resolution and a revision of the Code of Judicial Procedure to provide for pre-filing mediation. It is a priority: no target, budget or measure is attached to it. The national digital services platform's chief executive [described a move into health that would let patients see their records, follow them across facilities and book appointments](https://www.ktpress.rw/2026/09/five-years-on-rwanda-is-leading-the-edge-of-digital-health-in-africa/); no launch date or user figure is published.
 
 ## Senegal
 
@@ -169,7 +169,7 @@ The social insurance fund [reports more than 1,200 registered workers and has op
 
 ## Sudan
 
-The civil-service platform's purpose was argued rather than measured. A commentary holds that its value lies in [removing manipulation and favouritism from civil-service appointments rather than in the digitisation itself](https://alhakim.net/142125). It is an opinion piece, and the repository holds no appointment volume, grievance count or audit against which the claim could be tested — which is the same gap the platform's own launch left.
+The civil-service platform's purpose was argued rather than measured. A commentary holds that its value lies in [removing manipulation and favouritism from civil-service appointments rather than in the digitisation itself](https://alhakim.net/142125). It is an opinion piece, and the repository holds no appointment volume, grievance count or audit against which the claim could be tested — which is the same gap the platform's own launch left. The zakat chamber [signed a contract with a national company to complete an integrated resource-planning system linking its banking, staff and financial systems](https://alfjrnews.net/29666/), a project stopped during the war. The chamber says the new platform will unify all of its databases.
 
 ## Tanzania
 

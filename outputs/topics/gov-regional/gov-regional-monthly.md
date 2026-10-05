@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 1e12e01055e6
+record: 1b0b0ab65fe2
 ---
 
 # Regional collaboration: monthly update, September – October 2026
@@ -139,7 +139,7 @@ The customs service and HM Revenue and Customs [met in Abuja on 25-26 September 
 
 One piece of regional machinery moved from design into use. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
 
-The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017.
+The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017. Rwanda was [one of 49 states to sign a declaration that Earth- and Universe-observation satellite data be open to all under open licences](https://www.elysee.fr/emmanuel-macron/2026/09/10/international-declaration-on-space-based-scientific-data), and its head of state [warned at the first International Space Summit that African countries risk losing access to orbital and radio-frequency resources](https://www.ktpress.rw/2026/09/kagame-seeks-removal-of-technology-export-restrictions-to-africa/).
 
 ## Somalia
 
