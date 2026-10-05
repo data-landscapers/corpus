@@ -3,13 +3,13 @@ title: New investments — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: finance.new
-places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: ade54cc1a044
+places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
+record: ac18aae41ef8
 ---
 
 # New investments: monthly update, September – October 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -84,10 +84,6 @@ ICT equipment financed by a bilateral cooperation agency and delivered through U
 The Universal Service Fund [published its Integrated Annual Report 2025 in September](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf), carrying the fund's financial statements and its first two mobile network deployment phases, for 2024/25 and 2025/26. It is the first set of the fund's own accounts the repository holds.
 
 The largest mobile operator [holds a N$32.3m award under the Universal Service Fund's second phase for nine network solutions, including ten towers in underserved areas](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/). The award date and site list have not been published.
-
-## Niger
-
-Rural connectivity was financed rather than built. A [US$100m agreement, about CFA 55bn, was signed for a smart villages project for rural growth and financial inclusion, to be implemented by the information society agency across every region, its main aim to widen access to mobile telephony and broadband in rural areas](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger). No start date or coverage target is published.
 
 ## Nigeria
 

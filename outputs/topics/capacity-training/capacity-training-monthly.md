@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: d638284a324e
+record: bdb1b36a3f53
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -75,7 +75,7 @@ Two school-level commitments were announced without money. The education ministr
 
 ## Guinea
 
-The state digitalisation agency [put the feasibility study for a national digital academy to a validation workshop on 23 September](https://www.africaguinee.com/souverainete-numerique-en-guinee-lande-au-coeur-de-la-creation-de-lacademie-nationale-du-numerique/): a permanent body adding short certified courses in information systems, artificial intelligence and cybersecurity to what the universities offer, aimed first at civil servants and supported by the World Bank-financed regional digital programme. No launch date or budget is stated.
+The state digitalisation agency [put the feasibility study for a national digital academy to a validation workshop on 23 September](https://www.africaguinee.com/souverainete-numerique-en-guinee-lande-au-coeur-de-la-creation-de-lacademie-nationale-du-numerique/): a permanent body adding short certified courses in information systems, artificial intelligence and cybersecurity to what the universities offer, aimed first at civil servants and supported by the World Bank-financed regional digital programme. No launch date or budget is stated. An operator's foundation and UNICEF [signed a protocol on 5 October to equip 50 schools in six regions with connected learning hubs and train 500 adolescents](https://mediaguinee.com/2026/10/education-la-fondation-orange-guinee-et-lunicef-signent-un-partenariat-pour-numeriser-50-ecoles/); no budget or delivery date is stated.
 
 ## Kenya
 

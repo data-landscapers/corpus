@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4542939155dc
+record: f425830ade2d
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -39,7 +39,7 @@ Two states that share a river proposed sharing the data that would stop it drown
 
 ## Cameroon
 
-Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/).
+Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/). The chamber of commerce [trained its staff on 29 September on the platform through which it issues electronic certificates of origin and sends them to China's customs](https://leconomie.info/article/exportations-vers-la-chine-la-ccima-prepare-les-exportateurs-camerounais-au-certificat-dorigine-electronique), the condition of zero-duty entry.
 
 ## Cape Verde
 
@@ -61,7 +61,7 @@ Customs has begun preparing to put trade procedures on one platform. The adminis
 
 ## DR Congo
 
-On 28 September the digital economy minister [said the Prime Minister had signed the decree creating the national electronic certification authority provided for in the 2023 Digital Code](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No decree number or operating date was given.
+On 28 September the digital economy minister [said the Prime Minister had signed the decree creating the national electronic certification authority provided for in the 2023 Digital Code](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No decree number or operating date was given. The continental health agency said [it was deploying the national health data platform for Ebola outbreak data and had sent more than 150 internet devices to affected health zones](https://sciencenigeria.com/africa-cdc-deploys-digital-tools-chews-to-strengthen-ebola-response-in-drc/) to replace paper reporting.
 
 ## Egypt
 

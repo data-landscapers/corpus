@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: d6aa04e8d278
+record: c8e78190dc04
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -83,7 +83,7 @@ The social security fund [launched e.CNSS, letting employers register online fro
 
 The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/).
 
-On 22 September the lands minister told the National Assembly that [contracts for the World Bank-supported land digitalisation had been awarded, that leases would issue within three days once it is fully operational, and that the ministry was releasing about 50 backlogged lease files a week](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). No contractor, value or go-live date was given.
+On 22 September the lands minister told the National Assembly that [contracts for the World Bank-supported land digitalisation had been awarded, that leases would issue within three days once it is fully operational, and that the ministry was releasing about 50 backlogged lease files a week](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). No contractor, value or go-live date was given. The largest opposition party [put the supplementary voter dataset it was given at 183,163 against the 212,095 the commission announced](https://standard.gm/udp-demands-full-disclosure-of-supplementary-voter-data/), and said its requests for the de-duplication method had gone unanswered.
 
 ## Ghana
 
@@ -93,7 +93,7 @@ The household registry published its national total: [11.24 million people in 2,
 
 ## Guinea
 
-The agriculture ministry [presented its farmer-card pilot on 16 September, with 20,463 producers registered and 23,507 farms mapped in Kindia, Kankan and Mamou](https://www.agenceecofin.com/actualites-numerique/2109-141747-guinee-les-donnees-agricoles-au-service-du-financement-des-producteurs), each producer given a card with a QR code and NFC chip that opens verified data to authorised users on a secure portal. No national enrolment target or date is stated.
+The agriculture ministry [presented its farmer-card pilot on 16 September, with 20,463 producers registered and 23,507 farms mapped in Kindia, Kankan and Mamou](https://www.agenceecofin.com/actualites-numerique/2109-141747-guinee-les-donnees-agricoles-au-service-du-financement-des-producteurs), each producer given a card with a QR code and NFC chip that opens verified data to authorised users on a secure portal. No national enrolment target or date is stated. A [nationwide stockout of the secure paper that digital birth certificates are printed on stopped printing for about two weeks](https://mosaiqueguinee.com/2026/09/etat-civil-la-guinee-confrontee-a-une-penurie-dactes-de-naissance-numeriques/): registration continued and no certificate could be issued. The procurement regulator [opened an operation on 17 September to build and clean a database of the officials who run public procurement and public-private partnerships](https://mediaguinee.com/2026/09/lettre-circulaire-armp-constitution-et-mise-a-jour-de-la-base-de-donnees-des-acteurs-charges-de-la-passation-des-marches-publics-et-ppp/), with no filing deadline or platform stated.
 
 ## Kenya
 
@@ -139,7 +139,7 @@ The electoral roll got its own numbers on 8 September. The commission said the r
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
-The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published. The communications ministry [describes the postcode as an 11-character code for every addressable location, looked up at postcode.gov.ng](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/).
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published. The communications ministry [describes the postcode as an 11-character code for every addressable location, looked up at postcode.gov.ng](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/). The electoral commission's chairman said [the register stands at more than 103 million after the final biometric clean-up](https://www.vanguardngr.com/2026/10/nigeria-voters-register-now-stands-at-103-million-inec/), with card collection nationwide from 9 October.
 
 ## Rwanda
 

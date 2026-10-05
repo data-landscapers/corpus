@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 16bb64ad2bb8
+record: 9c82a98f1272
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -143,7 +143,7 @@ The open source policy Cabinet approved in July was [presented by the communicat
 
 ## South Africa
 
-On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date.
+On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date. The universal service agency said [the minister has approved the fund's manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea), after a draft was withdrawn in November 2025 and reissued for comment in February 2026.
 
 ## South Sudan
 

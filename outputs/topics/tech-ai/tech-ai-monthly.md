@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c1c29f8b463a
+record: 896e939d49bb
 ---
 
 # AI: monthly update, September – October 2026
@@ -83,7 +83,7 @@ Two applied systems launched outside government. The development bank's [AI plat
 
 Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
 
-Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/).
+Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/). A commentator's account [puts the start of fining under the automated traffic system back a month, to 1 November](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/), after complaints of poor sensitisation.
 
 ## Kenya
 
@@ -143,7 +143,7 @@ The tourism minister [told a forum on 1 October that its discussions are to feed
 
 ## Sierra Leone
 
-The information minister [launched a national campaign against deepfakes and digital misinformation in Freetown on 16 September 2026](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2), in two phases across all 16 districts. The national security office [warned of risks from artificial intelligence in the 2028 elections](https://www.sierraleonemonitor.com/ons-warns-ai-election-security/), as the electoral commission considers using it.
+The information minister [launched a national campaign against deepfakes and digital misinformation in Freetown on 16 September 2026](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2), in two phases across all 16 districts. The national security office [warned of risks from artificial intelligence in the 2028 elections](https://www.sierraleonemonitor.com/ons-warns-ai-election-security/), as the electoral commission considers using it. The judiciary and the attorney-general's office [are to draft a national AI roadmap for the justice sector with UNESCO](https://techreviewafrica.com/news/7565/x), starting with the security sector; no timetable is published.
 
 ## Somalia
 

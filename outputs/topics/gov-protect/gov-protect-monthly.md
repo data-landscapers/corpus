@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: gov.protect
 places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 62b84e8fc048
+record: 1d5eeac829cc
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -119,7 +119,7 @@ The data protection regulator turned to the state's own compliance. It [convened
 
 ## Tunisia
 
-A digital-rights forum [said on 3 October that the national data-protection authority's activity has stopped while its law remains in force, and called for it to be reactivated](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/). The statement came with a condemnation of the spread of personal data, leaked judicial documents and images of child victims on social media. The authority has not answered on the record the repository holds.
+A digital-rights forum [said on 3 October that the national data-protection authority's activity has stopped while its law remains in force, and called for it to be reactivated](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/). The statement came with a condemnation of the spread of personal data, leaked judicial documents and images of child victims on social media. The authority has not answered on the record the repository holds. The communications ministry announced [a regulator's decision of 10 June 2026 obliging internet providers to offer parental controls and write a child-protection clause into contracts](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA).
 
 ## Uganda
 

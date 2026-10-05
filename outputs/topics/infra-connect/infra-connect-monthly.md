@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: infra.connect
 places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5df82efcb671
+record: 72265881d120
 ---
 
 # Connectivity: monthly update, September – October 2026
@@ -195,7 +195,7 @@ The contract to network government offices was challenged. On 21 September the I
 
 ## Somalia
 
-A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held.
+A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held. A smaller operator's chief executive said [voice calls interconnect across six operators while mobile-money wallets remain closed to one another](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8).
 
 ## South Africa
 
@@ -205,7 +205,7 @@ The state-affiliated wholesaler, whose network runs to about 180,000km with just
 
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
 
-On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled.
+On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set.
 
 ## South Sudan
 

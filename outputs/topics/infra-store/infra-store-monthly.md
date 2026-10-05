@@ -3,13 +3,13 @@ title: Data Storage — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: infra.store
-places: DZA; AGO; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TUN
-record: 15a20c3fc3e2
+places: DZA; AGO; BWA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN
+record: 87cb28a947f5
 ---
 
 # Data Storage: monthly update, September – October 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -22,6 +22,10 @@ The same day the investment agency [awarded a private e-commerce firm a land con
 ## Angola
 
 The state printer [inaugurated a data centre on 11 September with more than 170 TB of storage and full redundancy for the official gazette's records](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/); no investment value is disclosed.
+
+## Botswana
+
+The gas supplier's annual report said [the Kala Data Centre ran materially below its design capacity in the year to June 2026 for lack of gas from the one connected well](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o). Any expansion depends on gas availability, funding and commercial terms.
 
 ## Cameroon
 
@@ -51,7 +55,7 @@ Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric
 
 The finance minister told Parliament on 22 September that [the disaster recovery site planned for Lubombo had failed to proceed, the US$10.4 million India Exim loan behind it had never been drawn, and Treasury had written to the lender asking to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). He also said [government needs a functional primary data centre before a backup, and that the science-park facility does not constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Its operator describes the same facility as Tier III.
 
-On 24 September the science park [confirmed an incident affecting the National Data Centre that disrupted at least 12 government services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), with its engineers and outside experts working to restore them. It did not confirm social-media claims of a hack or a ransom demand, and had first acknowledged an outage of its web services on 18 September.
+On 24 September the science park [confirmed an incident affecting the National Data Centre that disrupted at least 12 government services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), with its engineers and outside experts working to restore them. It did not confirm social-media claims of a hack or a ransom demand, and had first acknowledged an outage of its web services on 18 September. The finance ministry said [the loan for the disaster recovery site has not been cancelled, only the commitment fees on its undrawn balance](https://times.co.sz/45550/news/e182m-data-centre-loan-not-cancelled-neal/), correcting the reading of the minister's remarks to Parliament.
 
 ## Gabon
 
@@ -119,7 +123,11 @@ On 8 September a ratings agency [rated South Africa's water resilience relativel
 
 In September the commission [said it had received more than 250 submissions, and that the main issue was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure needs and effects on nearby communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/). Civil-society groups repeated the call for construction to stop until that use has been investigated, after Cape Town approved a hyperscale facility; the city came close to running out of water in 2018. The commission has published no finding or timetable.
 
-Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues.
+Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues. A hosting provider for online gaming [announced its first African data centre, in Johannesburg](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/); the site and its capacity are not disclosed.
+
+## Tanzania
+
+Zanzibar's communications minister said [more than TZS 53bn is set aside for three ICT infrastructure projects, chiefly a data centre and public internet](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282).
 
 ## Tunisia
 

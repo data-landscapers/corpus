@@ -3,13 +3,13 @@ title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly up
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.mis
-places: DZA; AGO; BEN; BFA; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5aaba771266b
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: bcc81a7a4199
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ Customs [now issues the laisser-passer for foreign vehicles wholly online](https
 ## Burkina Faso
 
 On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated.
+
+## Burundi
+
+[A platform to link the penal chain from the judicial police to the prisons was reported in preparation on 5 October](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite), with online complaints and case tracking planned for citizens. No date, funder or supplier is stated. The same report [sets the plan against internet use of 11.1% of the population at the end of 2025](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite).
 
 ## Cameroon
 

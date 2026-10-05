@@ -3,13 +3,13 @@ title: Technical Capacity — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: infra.capacity
-places: CMR; COD; KEN; LBY; RWA; TGO
-record: 5fe4ced78280
+places: CMR; COD; KEN; LBY; RWA; ZAF; TGO
+record: 95d40cc03df0
 ---
 
 # Technical Capacity: monthly update, September – October 2026
 
-*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ A private certification is on record: [tier III design status for the national t
 ## Rwanda
 
 A UNDP review published on 17 September [records AI compute capacity hosted in the country under its regional programme, with 42 priority AI applications identified across eight sectors](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use). No capacity, host institution or utilisation figure is held.
+
+## South Africa
+
+The domain registry [counted 1.5 million active registrations across its four commercial namespaces](https://www.itweb.co.za/article/zarc-reaches-15m-active-za-domains/Gb3BwMWaOG1v2k6V), which it says is a first for an African country-code domain.
 
 ## Togo
 

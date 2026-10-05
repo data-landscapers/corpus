@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: b7c91e29e33d
+places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
+record: 1e12e01055e6
 ---
 
 # Regional collaboration: monthly update, September – October 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -111,7 +111,7 @@ Officials of Malawi and Japan [discussed stronger digital and innovation ties](h
 
 The Burkinabè, Malian and Nigerien telecommunications regulators [signed a cooperation convention creating a Council of Sahel Regulators, reported on 26 September](https://lefaso.net/spip.php?article149528), covering free roaming, frequency coordination at the borders, mutual recognition of type-approved equipment and coordinated 5G introduction; its statutes and first work programme are still to be adopted. They had [announced the signing on 23 September](https://lefaso.net/spip.php?article149443).
 
-The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model.
+The communication ministry [convened digital and media actors on 2 September to weigh a common confederation framework for regulating social media](https://mali24.info/souverainete-numerique-laes-vers-une-regulation-commune-des-reseaux-sociaux/), with a reference text developed in Burkina Faso put forward as the model. The West African body's [page for its regional fibre infrastructure programme](https://sigtel.ecowas.int/regional-fiber-infrastructure/) is held as at September 2026. The country withdrew from the body in January 2025, and nothing on the page says what that leaves of its participation.
 
 ## Mauritius
 
@@ -120,6 +120,10 @@ Mauritius is one of 49 states that signed, with the European Space Agency, [a de
 ## Morocco
 
 The UN Economic and Social Commission for Western Asia and the minister for digital transition [signed a memorandum in Rabat establishing a framework for regional cooperation on modernising public administration and advancing digital governance reform](https://techafricanews.com/2026/09/03/escwa-morocco-digital-governance-mou/). No programme, value or deliverable is attached to it.
+
+## Namibia
+
+[An assessment of national law against the continental Protocol on Digital Trade went to a validation workshop at Windhoek](https://techreviewafrica.com/news/7567/x), reported on 5 October, to feed a National Digital Trade Action Plan. No findings or dates are published.
 
 ## Niger
 

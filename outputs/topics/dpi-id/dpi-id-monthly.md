@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.id
 places: DZA; BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 3b4ba2f3e3b3
+record: 493e962c939c
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -85,7 +85,7 @@ The SIM half of the identity regime moved for the first time in nine months. The
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 
-The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published.
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december).
 
 ## Kenya
 
@@ -159,7 +159,7 @@ In committee on bill 21/2026 the interior minister [said identity-card productio
 
 ## Somalia
 
-The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx).
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx). The immigration and citizenship agency [presented its biometric passport, electronic visa and exchange of travel data to the African Union's counterterrorism centre on 16 September](https://www.hiiraan.com/security4/2026/Sep/206283/somali_immigration_agency_au_discuss_border_security_and_counterterrorism_cooperation.aspx) as the basis of border-security cooperation. No issuance figure, enrolment coverage or data-sharing instrument is published.
 
 ## South Africa
 

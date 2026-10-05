@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 994f2150a3e8
+record: fa0e998012d2
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -63,7 +63,7 @@ The telecoms regulator said on 18 September that it is preparing [a comprehensiv
 
 The Financial Regulatory Authority's [Decision No. 2735 of 2026 gives consumer and small-business finance companies two months to verify customers by one-time password](https://www.maspero.eg/economy/2026/09/14/989116/), and a protocol signed on 16 September [requires the media council to take the authority's technical opinion, within fifteen days, before licensing any app that carries on non-bank financial activity or uses a supervised firm's name](https://www.youm7.com/story/2026/9/16/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%88-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/7548592). On 1 September [two more fintech projects received preliminary approval to enter the authority's sandbox](https://techafricanews.com/2026/09/01/egypt-fra-approves-two-new-fintech-projects-regulatory-sandbox/).
 
-The ministry's investment conference on 7 September [carried a session on the data-protection executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the compliance period closes on 1 November. No guidance, decision or transfer licence issued under the regulations is on the record.
+The ministry's investment conference on 7 September [carried a session on the data-protection executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the compliance period closes on 1 November. No guidance, decision or transfer licence issued under the regulations is on the record. The House ICT committee's newly elected chair said [the digital-safety bill heads the committee's agenda for the new session and mostly regulates children's use of social media](https://www.youm7.com/story/2026/10/4/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A/7566923); no text is published.
 
 ## Equatorial Guinea
 
@@ -169,7 +169,7 @@ On 22 September the communication regulator HARC [held its first official meetin
 
 Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
 
-The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication.
+The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication. The physicians' order [maintained its reservation on applying compulsory electronic invoicing to medicine in its present form](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155208-%D8%B9%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%85%D8%B3%D9%83%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-%D8%A8%D8%B5%D9%8A%D8%BA%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9), citing medical secrecy and patients' data.
 
 ## Uganda
 

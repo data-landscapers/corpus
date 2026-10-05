@@ -3,15 +3,19 @@ title: Rural digital data capture — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: digital.rural
-places: TCD; CIV; EGY; KEN; LBY; MWI; MUS; SEN; TGO; TUN; ZMB
-record: 26233581765d
+places: CMR; TCD; CIV; EGY; KEN; LBY; MWI; MUS; SEN; TGO; TUN; ZMB
+record: 602bd6a21671
 ---
 
 # Rural digital data capture: monthly update, September – October 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Cameroon
+
+[Four platforms built under the World Bank-financed digital transformation project were handed to the agriculture ministry on 1 October](https://leconomie.info/article/minette-libom-li-likeng-la-transformation-numerique-simpose-aujourdhui-comme-un-levier-de-modernisation-de-laction-publique): two for its training schools, a soil-fertility map and an agro-pastoral statistics system. Soil sampling was launched the same day, and no user count is published.
 
 ## Chad
 

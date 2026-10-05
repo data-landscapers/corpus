@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 050209bb046b
+record: b91d2acea948
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -101,7 +101,7 @@ On 23 September a fintech [began opening bank-backed virtual accounts for its Gh
 
 ## Guinea
 
-Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/).
+Conakry Terminal [launched online payment for port clearance with two fintechs on 18 September 2026](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). Its director-general [put uptake at more than 300 clients and over 10,000 transactions worth more than 60 billion Guinean francs, against an aim of raising the digital share of the terminal's transactions from 20% to 50%](https://mediaguinee.com/2026/09/conakry-terminal-de-nouveaux-paiements-en-ligne-pour-accelerer-la-digitalisation-des-services/). The regional digital integration project [called on 1 October for a firm to design and implement a national payment scheme over nine months, covering its governance, rules, security and a pilot](https://letravail224.com/appel-a-manifestation-dinteret-pour-le-recrutement-dun-cabinet-pour-la-conception-et-la-mise-en-oeuvre-dun-schema-national-de-paiement-snp-en-republique-de-guinee/), in support of the national switching company and the central bank; expressions of interest close on 23 October.
 
 ## Kenya
 
@@ -131,7 +131,7 @@ At a Tripoli conference on 7 September the central bank governor announced a [li
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 
-September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry.
+September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry. The central bank [put electronic transactions at about LD 865 billion by the end of September 2026](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/).
 
 ## Madagascar
 
@@ -177,7 +177,7 @@ A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital 
 
 Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
 
-The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given.
+The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given. A banking group's audited half-year statements [put its payments subsidiary's profit at NGN 7.81bn](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943), the first position the repository holds on that switch.
 
 ## Rwanda
 

@@ -4,7 +4,7 @@ compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: 4592610c7f2c
+record: e5d9346b2f16
 ---
 
 # Access to services: monthly update, September – October 2026
@@ -147,7 +147,7 @@ The ICT ministry described [a Smart Villages pilot classroom in Butaleja distric
 
 ## Zambia
 
-At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure.
+At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure. The operator [launched a self-care application and a short-code digital financial service](https://techreviewafrica.com/news/7580/x); no user figure is published.
 
 ## Zimbabwe
 
