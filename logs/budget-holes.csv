@@ -1,9 +1,8 @@
 iso3,fiscal_year,signal,subject,detail
 AGO,2024,document-uncited,2024-01-01-execucao-trimestral-iv-2024-companion,implementation-report; in the extract log
 AGO,2025,document-uncited,2025-01-01-execucao-trimestral-iv-2025-companion,implementation-report; in the extract log
-BDI,2024,year-thin,,28 lines against 73; by year 28/28/73
-BDI,2025,year-thin,,28 lines against 73; by year 28/28/73
-BDI,2024,head-not-every-year,MINISTERE DE LA JUSTICE,"held in 2025, 2026"
+BDI,2024,year-thin,,29 lines against 74; by year 29/30/74
+BDI,2025,year-thin,,30 lines against 74; by year 29/30/74
 BDI,2026,head-not-every-year,"MINISTERE DE L'ENVIRONNEMENT, DE L'AGRICULTURE ET DE L'ELEVAGE","held in 2024, 2025"
 BDI,2025,document-uncited,2025-07-01-bdi-2025-mfben-facturation-electronique,implementation-report; not in the extract log
 BDI,2025,document-uncited,2025-07-01-bdi-2025-mfben-interconnexion-ministeres,implementation-report; not in the extract log
@@ -94,7 +93,7 @@ BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-memp-2026-companion,budget-esti
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mesrs-2026-companion,budget-estimates; in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-mpmepe-2026-companion,budget-estimates; in the extract log
 BEN,2026,document-uncited,2025-12-30-ben-pap-vlf-ms-2026-companion,budget-estimates; in the extract log
-BEN,2026,document-uncited,2025-12-31-ben-loi-de-finances-2026-companion,appropriation-act; not in the extract log
+BEN,2026,document-uncited,2025-12-31-ben-loi-de-finances-2026-companion,appropriation-act; in the extract log
 BEN,2026,document-uncited,2025-12-31-ben-tableau-matriciel-administrative-economique-2026-companion,budget-estimates; in the extract log
 BEN,2026,document-uncited,2025-12-31-ben-tableau-matriciel-programmatique-economique-2026-companion,budget-estimates; in the extract log
 BEN,2026,document-uncited,2026-01-01-ben-dppd-2026-2028-mnd-companion,mtef; in the extract log
@@ -560,7 +559,7 @@ CPV,2024,document-uncited,2023-09-29-cpv-2024-sniac-cni,budget-estimates; in the
 CPV,2024,document-uncited,2023-09-29-cpv-2024-sniac-funcionamento,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-2024-sniac-pec,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-2024-sniac-tre,budget-estimates; in the extract log
-CPV,2024,document-uncited,2023-09-29-cpv-anexo-informativo-oe-2024-receitas-consignadas-source,budget-estimates; not in the extract log
+CPV,2024,document-uncited,2023-09-29-cpv-anexo-informativo-oe-2024-receitas-consignadas-source,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-declaracao-dos-riscos-orcamentais-2024-companion,mtef; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-mapa-1-receitas-do-estado-classificacao-economica-2024-companion,budget-estimates; in the extract log
 CPV,2024,document-uncited,2023-09-29-cpv-mapa-2-despesas-classificacao-economica-2024-companion,budget-estimates; in the extract log
@@ -574,34 +573,34 @@ CPV,2024,document-uncited,2023-12-31-cpv-2024-cnpd,appropriation-act; in the ext
 CPV,2024,document-uncited,2023-12-31-cpv-2024-cv-plataforma-digital-e-inovacao,appropriation-act; in the extract log
 CPV,2024,document-uncited,2023-12-31-cpv-2024-modernizacao-estado-administracao-publica,appropriation-act; in the extract log
 CPV,2024,document-uncited,2023-12-31-cpv-2024-sistema-informacao-desenvolvimento-sustentavel,appropriation-act; not in the extract log
-CPV,2024,document-uncited,2023-12-31-cpv-lei-35-x-2023-orcamento-do-estado-2024-source,appropriation-act; not in the extract log
+CPV,2024,document-uncited,2023-12-31-cpv-lei-35-x-2023-orcamento-do-estado-2024-source,appropriation-act; in the extract log
 CPV,2024,document-uncited,2024-01-01-cpv-2024-nosi-protocolos,board-budget; not in the extract log
 CPV,2024,document-uncited,2024-01-01-cpv-cnpd-plano-de-atividades-2024-companion,board-budget; in the extract log
 CPV,2024,document-uncited,2024-01-01-cpv-nosi-plano-anual-atividades-orcamento-2024-source,board-budget; in the extract log
 CPV,2024,document-uncited,2024-01-03-cpv-decreto-lei-1-2024-execucao-do-oe-2024-companion,executive-instrument; in the extract log
-CPV,2024,document-uncited,2024-01-31-cpv-alteracoes-orcamentais-janeiro-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-02-29-cpv-alteracoes-orcamentais-fevereiro-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-03-31-cpv-alteracoes-orcamentais-marco-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-05-31-cpv-alteracoes-orcamentais-maio-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-06-30-cpv-alteracoes-orcamentais-junho-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-07-31-cpv-alteracoes-orcamentais-julho-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-08-31-cpv-alteracoes-orcamentais-agosto-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-09-30-cpv-alteracoes-orcamentais-setembro-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-10-31-cpv-alteracoes-orcamentais-outubro-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-11-30-cpv-alteracoes-orcamentais-novembro-2024-companion,ifmis-extract; not in the extract log
-CPV,2024,document-uncited,2024-12-31-cpv-alteracoes-orcamentais-dezembro-2024-companion,ifmis-extract; not in the extract log
+CPV,2024,document-uncited,2024-01-31-cpv-alteracoes-orcamentais-janeiro-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-02-29-cpv-alteracoes-orcamentais-fevereiro-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-03-31-cpv-alteracoes-orcamentais-marco-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-05-31-cpv-alteracoes-orcamentais-maio-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-06-30-cpv-alteracoes-orcamentais-junho-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-07-31-cpv-alteracoes-orcamentais-julho-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-08-31-cpv-alteracoes-orcamentais-agosto-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-09-30-cpv-alteracoes-orcamentais-setembro-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-10-31-cpv-alteracoes-orcamentais-outubro-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-11-30-cpv-alteracoes-orcamentais-novembro-2024-companion,ifmis-extract; in the extract log
+CPV,2024,document-uncited,2024-12-31-cpv-alteracoes-orcamentais-dezembro-2024-companion,ifmis-extract; in the extract log
 CPV,2024,document-uncited,2025-02-14-cpv-conta-provisoria-iv-trimestre-2024-companion,implementation-report; in the extract log
 CPV,2024,document-uncited,2025-02-14-cpv-relatorio-ipsas-demonstrativos-e-notas-explicativas-iv-trimestre-2024-companion,implementation-report; in the extract log
 CPV,2024,document-uncited,2025-02-17-cpv-sintese-informativa-da-execucao-dezembro-2024-companion,implementation-report; in the extract log
-CPV,2024,document-uncited,2025-09-30-anexo-informativo-oe-2026-companion,budget-estimates; not in the extract log
+CPV,2024,document-uncited,2025-09-30-anexo-informativo-oe-2026-companion,budget-estimates; in the extract log
 CPV,2024,document-uncited,2025-09-30-cpv-conta-geral-do-estado-2024-relatorio-e-mapas-companion,audited-accounts; in the extract log
-CPV,2024,document-uncited,2025-09-30-cpv-conta-geral-do-estado-2024-source,audited-accounts; not in the extract log
+CPV,2024,document-uncited,2025-09-30-cpv-conta-geral-do-estado-2024-source,audited-accounts; in the extract log
 CPV,2024,document-uncited,2025-10-08-cpv-relatorio-de-execucao-da-divida-publica-2024-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2024-07-30-cpv-apresentacao-diretrizes-oe-2025-companion,mtef; in the extract log
 CPV,2025,document-uncited,2024-07-30-cpv-diretrizes-oe-2025-companion,mtef; in the extract log
 CPV,2025,document-uncited,2024-09-26-cpv-declaracao-dos-riscos-orcamentais-2025-companion,mtef; in the extract log
 CPV,2025,document-uncited,2024-09-30-cpv-anexo-informativo-oe-2025-companion,budget-estimates; in the extract log
-CPV,2025,document-uncited,2024-09-30-cpv-mapas-oe-2025-companion,budget-estimates; not in the extract log
+CPV,2025,document-uncited,2024-09-30-cpv-mapas-oe-2025-companion,budget-estimates; in the extract log
 CPV,2025,document-uncited,2024-09-30-cpv-proposta-de-lei-oe-2025-companion,budget-estimates; in the extract log
 CPV,2025,document-uncited,2024-09-30-cpv-roe-2025-relatorio-de-enquadramento-companion,budget-estimates; in the extract log
 CPV,2025,document-uncited,2024-10-02-cpv-apresentacao-oe-2025-companion,budget-estimates; in the extract log
@@ -614,30 +613,30 @@ CPV,2025,document-uncited,2024-12-30-cpv-2025-sniac-cni,appropriation-act; in th
 CPV,2025,document-uncited,2024-12-30-cpv-2025-sniac-funcionamento,appropriation-act; in the extract log
 CPV,2025,document-uncited,2024-12-30-cpv-2025-sniac-pec,appropriation-act; in the extract log
 CPV,2025,document-uncited,2024-12-30-cpv-2025-sniac-tre,appropriation-act; in the extract log
-CPV,2025,document-uncited,2024-12-30-cpv-lei-45-x-2024-orcamento-do-estado-2025-source,appropriation-act; not in the extract log
+CPV,2025,document-uncited,2024-12-30-cpv-lei-45-x-2024-orcamento-do-estado-2025-source,appropriation-act; in the extract log
 CPV,2025,document-uncited,2024-12-31-cpv-decreto-lei-61-2024-execucao-do-oe-2025-companion,executive-instrument; in the extract log
 CPV,2025,document-uncited,2025-01-01-cpv-2025-nosi-protocolos,board-budget; not in the extract log
 CPV,2025,document-uncited,2025-01-01-cpv-nosi-plano-atividades-orcamento-2025-source,board-budget; in the extract log
-CPV,2025,document-uncited,2025-01-31-cpv-alteracoes-orcamentais-janeiro-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-02-28-cpv-alteracoes-orcamentais-fevereiro-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-03-31-cpv-alteracoes-orcamentais-marco-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-04-30-cpv-alteracoes-orcamentais-abril-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-05-31-cpv-alteracoes-orcamentais-maio-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-06-30-cpv-alteracoes-orcamentais-junho-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-07-31-cpv-alteracoes-orcamentais-julho-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-08-31-cpv-alteracoes-orcamentais-agosto-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-09-30-cpv-alteracoes-orcamentais-setembro-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-10-31-cpv-alteracoes-orcamentais-outubro-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-11-30-cpv-alteracoes-orcamentais-novembro-2025-companion,ifmis-extract; not in the extract log
-CPV,2025,document-uncited,2025-12-31-cpv-alteracoes-orcamentais-dezembro-2025-companion,ifmis-extract; not in the extract log
+CPV,2025,document-uncited,2025-01-31-cpv-alteracoes-orcamentais-janeiro-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-02-28-cpv-alteracoes-orcamentais-fevereiro-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-03-31-cpv-alteracoes-orcamentais-marco-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-04-30-cpv-alteracoes-orcamentais-abril-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-05-31-cpv-alteracoes-orcamentais-maio-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-06-30-cpv-alteracoes-orcamentais-junho-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-07-31-cpv-alteracoes-orcamentais-julho-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-08-31-cpv-alteracoes-orcamentais-agosto-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-09-30-cpv-alteracoes-orcamentais-setembro-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-10-31-cpv-alteracoes-orcamentais-outubro-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-11-30-cpv-alteracoes-orcamentais-novembro-2025-companion,ifmis-extract; in the extract log
+CPV,2025,document-uncited,2025-12-31-cpv-alteracoes-orcamentais-dezembro-2025-companion,ifmis-extract; in the extract log
 CPV,2025,document-uncited,2025-12-31-cpv-relatorio-de-execucao-da-divida-publica-iv-trimestre-2025-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-02-12-cpv-relatorio-ipsas-demonstrativos-e-notas-explicativas-iv-trimestre-2025-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-02-13-cpv-conta-provisoria-iv-trimestre-2025-companion,implementation-report; in the extract log
-CPV,2025,document-uncited,2026-02-13-cpv-conta-provisoria-iv-trimestre-2025-source,implementation-report; not in the extract log
+CPV,2025,document-uncited,2026-02-13-cpv-conta-provisoria-iv-trimestre-2025-source,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-02-13-cpv-sintese-informativa-da-execucao-dezembro-2025-companion,implementation-report; in the extract log
 CPV,2025,document-uncited,2026-roe-2026-companion,budget-estimates; in the extract log
-CPV,2026,document-uncited,2025-09-27-oe-2026-mapa3-despesas-classificacao-organica-companion,budget-estimates; not in the extract log
-CPV,2026,document-uncited,2025-09-27-oe-2026-mapa7-despesas-por-programa-companion,budget-estimates; not in the extract log
+CPV,2026,document-uncited,2025-09-27-oe-2026-mapa3-despesas-classificacao-organica-companion,budget-estimates; in the extract log
+CPV,2026,document-uncited,2025-09-27-oe-2026-mapa7-despesas-por-programa-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2025-12-31-cpv-2026-ciber-seguranca,appropriation-act; not in the extract log
 CPV,2026,document-uncited,2025-12-31-cpv-2026-cv-plataforma-digital-e-inovacao,appropriation-act; in the extract log
 CPV,2026,document-uncited,2025-12-31-cpv-2026-fusi,appropriation-act; in the extract log
@@ -647,19 +646,19 @@ CPV,2026,document-uncited,2025-12-31-cpv-2026-sniac-cni,appropriation-act; not i
 CPV,2026,document-uncited,2025-12-31-cpv-2026-sniac-imij,appropriation-act; not in the extract log
 CPV,2026,document-uncited,2025-12-31-cpv-2026-sniac-pec,appropriation-act; not in the extract log
 CPV,2026,document-uncited,2025-12-31-cpv-2026-sniac-tre,appropriation-act; not in the extract log
-CPV,2026,document-uncited,2025-12-31-cpv-lei-69-x-2025-orcamento-do-estado-2026-source,appropriation-act; not in the extract log
+CPV,2026,document-uncited,2025-12-31-cpv-lei-69-x-2025-orcamento-do-estado-2026-source,appropriation-act; in the extract log
 CPV,2026,document-uncited,2026-01-01-cpv-2026-nosi-protocolos,board-budget; not in the extract log
 CPV,2026,document-uncited,2026-01-01-cpv-nosi-plano-atividades-orcamento-2026-source,board-budget; in the extract log
-CPV,2026,document-uncited,2026-05-15-conta-provisoria-i-trimestre-2026-companion,implementation-report; not in the extract log
-CPV,2026,document-uncited,2026-05-15-cpv-conta-provisoria-i-trimestre-2026-source,implementation-report; not in the extract log
-CPV,2026,document-uncited,2026-05-15-relatorio-ipsas-i-trimestre-2026-companion,implementation-report; not in the extract log
-CPV,2026,document-uncited,2026-05-31-sintese-informativa-execucao-maio-2026-companion,implementation-report; not in the extract log
-CPV,2026,document-uncited,2026-alteracoes-orcamentais-abril-2026-companion,ifmis-extract; not in the extract log
-CPV,2026,document-uncited,2026-alteracoes-orcamentais-fevereiro-2026-companion,ifmis-extract; not in the extract log
-CPV,2026,document-uncited,2026-alteracoes-orcamentais-janeiro-2026-companion,ifmis-extract; not in the extract log
-CPV,2026,document-uncited,2026-alteracoes-orcamentais-junho-2026-companion,ifmis-extract; not in the extract log
-CPV,2026,document-uncited,2026-alteracoes-orcamentais-maio-2026-companion,ifmis-extract; not in the extract log
-CPV,2026,document-uncited,2026-alteracoes-orcamentais-marco-2026-companion,ifmis-extract; not in the extract log
+CPV,2026,document-uncited,2026-05-15-conta-provisoria-i-trimestre-2026-companion,implementation-report; in the extract log
+CPV,2026,document-uncited,2026-05-15-cpv-conta-provisoria-i-trimestre-2026-source,implementation-report; in the extract log
+CPV,2026,document-uncited,2026-05-15-relatorio-ipsas-i-trimestre-2026-companion,implementation-report; in the extract log
+CPV,2026,document-uncited,2026-05-31-sintese-informativa-execucao-maio-2026-companion,implementation-report; in the extract log
+CPV,2026,document-uncited,2026-alteracoes-orcamentais-abril-2026-companion,ifmis-extract; in the extract log
+CPV,2026,document-uncited,2026-alteracoes-orcamentais-fevereiro-2026-companion,ifmis-extract; in the extract log
+CPV,2026,document-uncited,2026-alteracoes-orcamentais-janeiro-2026-companion,ifmis-extract; in the extract log
+CPV,2026,document-uncited,2026-alteracoes-orcamentais-junho-2026-companion,ifmis-extract; in the extract log
+CPV,2026,document-uncited,2026-alteracoes-orcamentais-maio-2026-companion,ifmis-extract; in the extract log
+CPV,2026,document-uncited,2026-alteracoes-orcamentais-marco-2026-companion,ifmis-extract; in the extract log
 CPV,2026,document-uncited,2026-apresentacao-diretrizes-oe-2026-companion,mtef; in the extract log
 CPV,2026,document-uncited,2026-apresentacao-oe-2026-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2026-declaracao-riscos-orcamentais-2026-companion,mtef; in the extract log
@@ -671,7 +670,7 @@ CPV,2026,document-uncited,2026-oe-2026-mapa4-despesas-classificacao-funcional-co
 CPV,2026,document-uncited,2026-oe-2026-mapa5-16-receita-sfa-total-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2026-oe-2026-mapa6-16-despesa-sfa-total-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2026-orcamento-cidadao-2026-companion,budget-estimates; in the extract log
-CPV,2026,document-uncited,2026-proposta-lei-oe-2026-companion,budget-estimates; not in the extract log
+CPV,2026,document-uncited,2026-proposta-lei-oe-2026-companion,budget-estimates; in the extract log
 CPV,2026,document-uncited,2026-relatorio-despesas-climaticas-oe-2026-companion,budget-estimates; in the extract log
 DJI,,country-thin,,5 lines; by year 2/2/1
 DJI,2026,head-not-every-year,Présidence de la République,"held in 2024, 2025"
@@ -838,8 +837,7 @@ GAB,2026,document-uncited,2025-12-30-gab-lf-2026-loi-041-2025-jo-companion,appro
 GHA,2026,head-not-every-year,001 - Office of Government Machinery,"held in 2024, 2025"
 GHA,2024,head-not-every-year,003 - Parliament of Ghana,held in 2026
 GHA,2025,head-not-every-year,003 - Parliament of Ghana,held in 2026
-GHA,2025,head-not-every-year,008 - Electoral Commission,held in 2024
-GHA,2026,head-not-every-year,008 - Electoral Commission,held in 2024
+GHA,2025,head-not-every-year,008 - Electoral Commission,"held in 2024, 2026"
 GHA,2026,head-not-every-year,"016 - Ministry of Tourism, Arts and Culture","held in 2024, 2025"
 GHA,2025,head-not-every-year,021 - Ministry of Works and Housing,"held in 2024, 2026"
 GHA,2025,head-not-every-year,047 - Ministry of Parliamentary Affairs,held in 2024
@@ -871,20 +869,19 @@ GHA,2024,document-uncited,2024-07-23-gha-mid-year-fiscal-policy-review-2024-comp
 GHA,2024,document-uncited,2025-06-01-gha-mdas-annual-budget-performance-report-2024-companion,implementation-report; in the extract log
 GHA,2024,document-uncited,2025-06-05-gha-auditor-general-public-boards-corporations-2024-companion,audited-accounts; in the extract log
 GHA,2024,document-uncited,2025-06-10-gha-auditor-general-whole-of-government-accounts-2024-companion,audited-accounts; in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-as-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-chraj-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-ec-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-js-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-mfari-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-mod-companion,budget-estimates; not in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-as-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-chraj-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-ec-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-js-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-mfari-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-mod-companion,budget-estimates; in the extract log
 GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-mwhwr-companion,budget-estimates; in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-ncce-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-ndpc-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-osp-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-psc-companion,budget-estimates; not in the extract log
-GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-rtc-companion,budget-estimates; not in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-ncce-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-ndpc-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-osp-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-psc-companion,budget-estimates; in the extract log
+GHA,2025,document-uncited,2025-01-01-gha-pbb-2025-rtc-companion,budget-estimates; in the extract log
 GHA,2025,document-uncited,2025-07-24-gha-mid-year-fiscal-policy-review-2025-companion,implementation-report; in the extract log
-GHA,2026,document-uncited,2025-11-12-ghana-ec-2026-budget-estimates,budget-estimates; not in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-2026-009-00903,appropriation-act; in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-2026-011-01101-01101004,budget-estimates; in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-2026-011-01109-01109004,budget-estimates; in the extract log
@@ -1061,7 +1058,7 @@ KEN,2025,document-uncited,2026-04-01-ken-development-supp-i-fy2025-26-vol2-d1104
 KEN,2025,document-uncited,2026-04-01-ken-pbb-fy2025-26-supplementary-i-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2026-05-01-ken-cob-ng-birr-9mo-fy2025-26-companion,implementation-report; in the extract log
 KEN,2025,document-uncited,2026-06-01-ken-pbb-fy2025-26-supplementary-ii-companion,budget-estimates; in the extract log
-KEN,2025,document-uncited,2026-08-01-ken-cob-county-birr-fy2025-26-companion,implementation-report; not in the extract log
+KEN,2025,document-uncited,2026-08-01-ken-cob-county-birr-fy2025-26-companion,implementation-report; in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1024-ecitizen,budget-estimates; in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1024-population-management,budget-estimates; not in the extract log
 KEN,2026,document-uncited,2026-06-01-ken-2026-vote1122,budget-estimates; in the extract log

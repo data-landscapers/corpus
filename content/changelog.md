@@ -1,5 +1,6 @@
 ## 5 October 2026
 
+- Cabo Verde's 2025 and 2026 budget tables now show what the government proposed for its two digital programmes beside what was enacted. The 2025 figures passed unchanged; for 2026 the Assembly trimmed each by about CVE 0.6m.
 - Burundi's budget tables gain the land titles and cadastre directorate in all three years: BIF 2.0bn in 2024/25, 2.4bn of pay and running costs in 2025/26 beside the equipment line already shown, and 2.6bn in 2026/27. Every institution in the three finance laws has now been read line by line.
 - Ghana's 2026 budget table gains the Electoral Commission's information technology sub-programme, GHS 27.3m, all goods and services. Its 2025 volume prints no such line.
 - Mozambique's 2024 budget table now shows what the government proposed beside what was enacted, for six central bodies. Each was voted at the figure proposed.
