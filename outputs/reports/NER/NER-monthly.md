@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: NER
 ledger_rows: 18
 not_held: 1
-record: 67f0ec121e02
+record: 1f771fc4b703
 ---
 
 # Niger: monthly update, September – October 2026
@@ -52,7 +52,7 @@ The Algerian state operator [signed conventions in Niamey on 8 September for a s
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-Rural connectivity was financed rather than built. A [US$100m agreement, about CFA 55bn, was signed for a smart villages project for rural growth and financial inclusion, to be implemented by the information society agency across every region, its main aim to widen access to mobile telephony and broadband in rural areas](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger). No start date or coverage target is published.
+No new financing reached the repository in the window. [A finance ministry page on the signing of a US$100m smart villages agreement](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger) names the budget minister and the lender's representative of 2020 as signatories: it is the 2020 loan the repository already holds, not a new agreement.
 <!-- /narrative -->
 
 ## ICT Infrastructure
