@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-05 01:31 · **REVIEW** · 1m · NGA: status 0 sections revised (18 re-read in the build), progress 13 cells (15 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
 2026-10-05 01:29 · **REVIEW** · 3m · NER: status 5 sections revised, progress 7 cells (6 rows mapped), monthly 1 block, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
 2026-10-05 01:26 · **BUILD** · 1h17m · catalogue 26,435, finance 62 places, scan 34 units, 34 ledgers updated, 34 minted; budget readings 46 minutes, queue emptied: 19 sittings with lines, 156 nil, 44 follow-ups waiting; 29 register hits stand, 19 monthlies under band - ok
 2026-10-05 00:49 · **BUDGET-EXTRACT** · unclocked · TUN FY2024 and FY2025: 22 lines from the land-affairs and social-affairs mission notes; land registry and social registry entered absent
