@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-09-30
+compiled: 2026-10-05
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 146
+sources_cited: 147
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -184,7 +184,7 @@ Civil registration is the country's strongest administrative function, [scoring 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-[Electronic payment operations across all systems reached about LD 764.9 billion between 1 January and 31 August 2026, on the Central Bank of Libya's figure](https://lana.gov.ly/post.php?id=364857&lang=ar), up from [LD 643 billion at the end of July, when the bank expected the year to pass a trillion dinars](https://alwasat.ly/news/libya/527064). [Between 1 January and 31 July 2026 LYPay and OnePay instant payments carried LD 252 billion, mobile banking apps LD 209 billion, RTGS LD 143 billion and cards at point of sale LD 33 billion across more than 270,000 terminals, while e-wallets carried LD 650 million](https://alwasat.ly/news/libya/527064).
+[Electronic transactions reached about LD 865 billion by the end of September 2026, on the Central Bank of Libya's figure](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/), up from [about LD 764.9 billion at the end of August](https://lana.gov.ly/post.php?id=364857&lang=ar) and [LD 643 billion at the end of July, when the bank expected the year to pass a trillion dinars](https://alwasat.ly/news/libya/527064). [Between 1 January and 31 July 2026 LYPay and OnePay instant payments carried LD 252 billion, mobile banking apps LD 209 billion, RTGS LD 143 billion and cards at point of sale LD 33 billion across more than 270,000 terminals, while e-wallets carried LD 650 million](https://alwasat.ly/news/libya/527064).
 
 The growth is a symptom as much as an achievement. [Banks still cannot meet large cash withdrawals despite newly printed notes being imported, and merchants' own suppliers discount for cash](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/), so some clinics and medical centres [add a surcharge for paying by card](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/), making a displayed price two prices. [A record day of point-of-sale traffic in May 2026 brought the payment system down altogether](https://libyaherald.com/2026/05/two-million-pos-transactions-in-a-single-day-across-67000-points-cause-collapse-of-e-payment-system-cbl-apologises), and [the banking-sector forum behind the Zero Cash initiative dropped it in September 2026 because the central bank never issued the executive framework it needed](https://alwasat.ly/news/477201).
 

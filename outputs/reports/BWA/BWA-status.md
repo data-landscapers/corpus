@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-09-25
+compiled: 2026-10-05
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 172
+sources_cited: 173
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -148,7 +148,7 @@ Mascom [has turned its Tier III-certified data centre from an internal facility 
 
 State hosting arrived earlier. BoFiNet's Digital Delta facility, [Tier III design-certified by Uptime Institute in 2020](https://uptimeinstitute.com/clients/bofinet), [took Tier III certification of constructed facility in October 2025 and was launched in Gaborone in November 2025 as a carrier-neutral site built by main contractor Zhong Gan](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center), and [BoFiNet was already inviting businesses to sign up to it in October 2025](https://www.mmegi.bw/business/bofinets-new-data-centre-boosts-digitisation/news). [Critical public services had been migrated onto it by May 2026](https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news).
 
-The Kala Data Centre runs on its own gas: it [pairs gas-to-power generation at Tlou Energy's Lesedi project with UAE-based Kala Data FZCO](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o), is [designed for up to 1 MW](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) and [completed its first full quarter of continuous operation in the quarter to 30 June 2026, on revenues the company describes as proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). Growth beyond that scale [depends on funding and on extending the gas gathering network](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). A further campus near Palapye, to be solar-powered, [rests on a memorandum of understanding signed by October 2025](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
+The Kala Data Centre runs on its own gas: it [pairs gas-to-power generation at Tlou Energy's Lesedi project with UAE-based Kala Data FZCO](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o), is [designed for up to 1 MW](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) and [completed its first full quarter of continuous operation in the quarter to 30 June 2026, on revenues the company describes as proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85), though it [ran materially below that design in the year to June 2026 for lack of gas from the one connected well](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o). Growth beyond that scale [depends on funding and on extending the gas gathering network](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). A further campus near Palapye, to be solar-powered, [rests on a memorandum of understanding signed by October 2025](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
 
 <!-- derived -->
 Botswana's operating data centre estate now runs on three distinct models: the state-owned Digital Delta, the commercial Mascom and Orange facilities, and the gas-anchored Kala.
