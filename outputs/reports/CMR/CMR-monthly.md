@@ -3,9 +3,9 @@ title: Cameroon — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: CMR
-ledger_rows: 25
+ledger_rows: 27
 not_held: 4
-record: fbe86eb3e5db
+record: 97a7e3fc293a
 ---
 
 # Cameroon: monthly update, September – October 2026
@@ -78,7 +78,7 @@ At a national cyberspace-security forum opened in Yaoundé on 29 September, co-h
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/).
+Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/). The chamber of commerce [trained its staff on 29 September on the platform through which it issues electronic certificates of origin and sends them to China's customs](https://leconomie.info/article/exportations-vers-la-chine-la-ccima-prepare-les-exportateurs-camerounais-au-certificat-dorigine-electronique), the condition of zero-duty entry.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -109,6 +109,11 @@ The water utility [awarded a CFA721.76 million contract on 17 August 2026 for 3,
 Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
 
 The housing and telecoms ministries [launched a National Action Plan for Smart City Development with UN-Habitat on 8 September, on three pillars with decentralised authorities as lead actors and the mobile operators and state operator named for delivery](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/). No costing or pilot city list is published.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+[Four platforms built under the World Bank-financed digital transformation project were handed to the agriculture ministry on 1 October](https://leconomie.info/article/minette-libom-li-likeng-la-transformation-numerique-simpose-aujourdhui-comme-un-levier-de-modernisation-de-laction-publique): two for its training schools, a soil-fertility map and an agro-pastoral statistics system. Soil sampling was launched the same day, and no user count is published.
 <!-- /narrative -->
 
 ## Inclusion

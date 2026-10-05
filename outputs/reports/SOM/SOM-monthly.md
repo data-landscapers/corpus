@@ -3,9 +3,9 @@ title: Somalia — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: SOM
-ledger_rows: 13
+ledger_rows: 14
 not_held: 2
-record: e293e009de76
+record: 57ecd1c87d3f
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -36,7 +36,7 @@ The state gave a number for what it removes from the internet. On 3 September th
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held.
+A business daily reported on 15 September that [Berbera is being positioned as an alternative digital gateway for landlocked neighbours, beside Mombasa](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496). Capacity, operators and landing arrangements are not held. A smaller operator's chief executive said [voice calls interconnect across six operators while mobile-money wallets remain closed to one another](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8).
 <!-- /narrative -->
 
 ## DPI

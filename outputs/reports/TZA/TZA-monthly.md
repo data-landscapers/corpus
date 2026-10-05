@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: TZA
-ledger_rows: 57
+ledger_rows: 59
 not_held: 5
-record: 711abb970f10
+record: 3158523e1cb9
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -73,6 +73,11 @@ The regulator scored quality for the quarter to June 2026: [the state operator h
 The service providers' association [upgraded the Dar es Salaam exchange's core switching to 100G on 23 September; the exchange connects 66 networks and averaged about 205 Gbps in late September against about 110 Gbps a year earlier, on its own statistics](https://tech.africa/tix-tanzania-100g-core-upgrade/). The regulator's director general [put available international capacity at 17,690 Gbps, of which 2,731 Gbps, or 15.4%, was in use in June 2026](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 
 The same presentation [put smartphone penetration at 44.74% in June 2026](https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031), against the regulator's 42.5% for March; no user count accompanies it.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+Zanzibar's communications minister said [more than TZS 53bn is set aside for three ICT infrastructure projects, chiefly a data centre and public internet](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -155,7 +160,7 @@ A private channel opened alongside the state ventures programme. The leading mob
 
 A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
 
-A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [tendered a women-in-tech community platform and the sourcing of 12 African and European ventures on 21 September](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), bids closing 23 October; no budget is stated. The ICT ministry [launched a TZS 5 billion loan programme for youth-owned ICT start-ups on 2 October](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-yatenga-sh5-bilioni-kwa-ajili-ya-kampuni-changa-za-tehama-5617578), run with a commercial bank in three tiers up to TZS 100 million.
+A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [tendered a women-in-tech community platform and the sourcing of 12 African and European ventures on 21 September](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), bids closing 23 October; no budget is stated. The ICT ministry [launched a TZS 5 billion loan programme for youth-owned ICT start-ups on 2 October](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-yatenga-sh5-bilioni-kwa-ajili-ya-kampuni-changa-za-tehama-5617578), run with a commercial bank in three tiers up to TZS 100 million. Zanzibar's communications minister said [a draft startups bill creating a fund of grants and low-cost loans is due for first reading in November or December 2026](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282).
 <!-- /narrative -->
 
 ## Capacity

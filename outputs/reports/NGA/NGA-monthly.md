@@ -3,9 +3,9 @@ title: Nigeria — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: NGA
-ledger_rows: 129
+ledger_rows: 130
 not_held: 9
-record: fa7b054e1c59
+record: 788e7bc15f85
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -128,7 +128,7 @@ A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital 
 
 Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
 
-The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given.
+The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given. A banking group's audited half-year statements [put its payments subsidiary's profit at NGN 7.81bn](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943), the first position the repository holds on that switch.
 <!-- /narrative -->
 ### Registries
 
@@ -137,7 +137,7 @@ The electoral roll got its own numbers on 8 September. The commission said the r
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
-The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published. The communications ministry [describes the postcode as an 11-character code for every addressable location, looked up at postcode.gov.ng](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/).
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published. The postal service [launched the national digital postcode system on 1 October](https://von.gov.ng/nigeria-launches-digital-postcode-system-to-boost-connectivity-economy/), and the communications ministry [opened its API to organisations that pass business verification](https://techafricanews.com/2026/10/02/nigeria-calls-on-developers-to-build-around-new-digital-postcode-system/); no coverage figure is published. The communications ministry [describes the postcode as an 11-character code for every addressable location, looked up at postcode.gov.ng](https://fmcide.gov.ng/federal-government-launches-national-digital-alphanumeric-postcode-system/). The electoral commission's chairman said [the register stands at more than 103 million after the final biometric clean-up](https://www.vanguardngr.com/2026/10/nigeria-voters-register-now-stands-at-103-million-inec/), with card collection nationwide from 9 October.
 <!-- /narrative -->
 ### Sectoral management information systems
 

@@ -3,9 +3,9 @@ title: Namibia — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: NAM
-ledger_rows: 25
+ledger_rows: 26
 not_held: 9
-record: ba59ad6ae897
+record: dadadaebc6be
 ---
 
 # Namibia: monthly update, September – October 2026
@@ -29,6 +29,11 @@ The non-bank financial regulator said on 21 September that [the Financial Instit
 
 <!-- narrative: governance--gov-protect -->
 Refusing to share health data had a price. After the government rejected US terms on health data and specimens, the two governments [announced that US HIV funding ends after a single US$45m year in fiscal 2027](https://healthpolicy-watch.news/us-to-phase-out-hiv-support/).
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+[An assessment of national law against the continental Protocol on Digital Trade went to a validation workshop at Windhoek](https://techreviewafrica.com/news/7567/x), reported on 5 October, to feed a National Digital Trade Action Plan. No findings or dates are published.
 <!-- /narrative -->
 ### Standards
 

@@ -3,9 +3,9 @@ title: South Africa — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: ZAF
-ledger_rows: 112
+ledger_rows: 117
 not_held: 22
-record: 64f146186aea
+record: 6359f5f6fc06
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The home affairs minister [set 31 March 2027 as the end of green ID book product
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date.
+On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date. The universal service agency said [the minister has approved the fund's manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea), after a draft was withdrawn in November 2025 and reissued for comment in February 2026.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -48,6 +48,11 @@ A joint report on harmful online content, launched on 18 September, [finds the s
 
 ## Finance
 
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The communications minister told Parliament [the regulator collected R1.29bn for the universal service fund over five years and about R652m was unspent at the end of 2025/26](https://pmg.org.za/committee-question/41023/), blaming delays in set-top-box installation and broadband projects.
+<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -65,7 +70,7 @@ The state-affiliated wholesaler, whose network runs to about 180,000km with just
 
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
 
-On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled.
+On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set.
 <!-- /narrative -->
 ### Data Storage
 
@@ -74,12 +79,17 @@ On 8 September a ratings agency [rated South Africa's water resilience relativel
 
 In September the commission [said it had received more than 250 submissions, and that the main issue was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure needs and effects on nearby communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/). Civil-society groups repeated the call for construction to stop until that use has been investigated, after Cape Town approved a hyperscale facility; the city came close to running out of water in 2018. The commission has published no finding or timetable.
 
-Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues.
+Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues. A hosting provider for online gaming [announced its first African data centre, in Johannesburg](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/); the site and its capacity are not disclosed.
 <!-- /narrative -->
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 A [Strategic Framework for Offshore Wind Development, published on 10 September 2026, was launched at the Africa Green Hydrogen Summit on 17 September](https://techcentral.co.za/offshore-wind-framework-ai-data-centres-south-africa/286229/).
+<!-- /narrative -->
+### Technical Capacity
+
+<!-- narrative: ict-infrastructure--infra-capacity -->
+The domain registry [counted 1.5 million active registrations across its four commercial namespaces](https://www.itweb.co.za/article/zarc-reaches-15m-active-za-domains/Gb3BwMWaOG1v2k6V), which it says is a first for an African country-code domain.
 <!-- /narrative -->
 ### Cybersecurity
 

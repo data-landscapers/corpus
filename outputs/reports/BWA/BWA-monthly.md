@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: BWA
-ledger_rows: 10
+ledger_rows: 12
 not_held: 8
-record: 9f80f8dbe46b
+record: 22c64c5a9430
 ---
 
 # Botswana: monthly update, September – October 2026
@@ -40,12 +40,17 @@ The commencement instrument behind the data-protection regime is now held in ful
 <!-- narrative: ict-infrastructure--infra-connect -->
 On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The gas supplier's annual report said [the Kala Data Centre ran materially below its design capacity in the year to June 2026 for lack of gas from the one connected well](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o). Any expansion depends on gas availability, funding and commercial terms.
+<!-- /narrative -->
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
 
-The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the repository still holds no measured electricity cost for any digital facility in the country.
+The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the repository still holds no measured electricity cost for any digital facility in the country. The gas supplier [has begun planning a dedicated pipeline from a second well to the centre's generators](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o), subject to funding and approvals.
 <!-- /narrative -->
 
 ## DPI

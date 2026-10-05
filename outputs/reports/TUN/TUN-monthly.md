@@ -3,9 +3,9 @@ title: Tunisia — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: TUN
-ledger_rows: 46
+ledger_rows: 47
 not_held: 5
-record: 5cebb33adc35
+record: 7a2953e6cd92
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -30,12 +30,12 @@ Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the tra
 <!-- narrative: governance--gov-legislate -->
 Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
 
-The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication.
+The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication. The physicians' order [maintained its reservation on applying compulsory electronic invoicing to medicine in its present form](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155208-%D8%B9%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%85%D8%B3%D9%83%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-%D8%A8%D8%B5%D9%8A%D8%BA%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9), citing medical secrecy and patients' data.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-A digital-rights forum [said on 3 October that the national data-protection authority's activity has stopped while its law remains in force, and called for it to be reactivated](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/). The statement came with a condemnation of the spread of personal data, leaked judicial documents and images of child victims on social media. The authority has not answered on the record the repository holds.
+A digital-rights forum [said on 3 October that the national data-protection authority's activity has stopped while its law remains in force, and called for it to be reactivated](https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/). The statement came with a condemnation of the spread of personal data, leaked judicial documents and images of child victims on social media. The authority has not answered on the record the repository holds. The communications ministry announced [a regulator's decision of 10 June 2026 obliging internet providers to offer parental controls and write a child-protection clause into contracts](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA).
 <!-- /narrative -->
 ### Regional collaboration
 

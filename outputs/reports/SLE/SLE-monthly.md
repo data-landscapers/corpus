@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: SLE
-ledger_rows: 23
+ledger_rows: 24
 not_held: 5
-record: b0945e09bb35
+record: 1a37a9e15795
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -84,7 +84,7 @@ The audit management system cleared its acceptance stage. It is [through user ac
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The information minister [launched a national campaign against deepfakes and digital misinformation in Freetown on 16 September 2026](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2), in two phases across all 16 districts. The national security office [warned of risks from artificial intelligence in the 2028 elections](https://www.sierraleonemonitor.com/ons-warns-ai-election-security/), as the electoral commission considers using it.
+The information minister [launched a national campaign against deepfakes and digital misinformation in Freetown on 16 September 2026](https://www.itweb.africa/article/sierra-leone-launches-ai-deepfake-campaign/JBwEr7n3lDZM6Db2), in two phases across all 16 districts. The national security office [warned of risks from artificial intelligence in the 2028 elections](https://www.sierraleonemonitor.com/ons-warns-ai-election-security/), as the electoral commission considers using it. The judiciary and the attorney-general's office [are to draft a national AI roadmap for the justice sector with UNESCO](https://techreviewafrica.com/news/7565/x), starting with the security sector; no timetable is published.
 <!-- /narrative -->
 ### Innovation ecosystem
 

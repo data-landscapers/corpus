@@ -3,9 +3,9 @@ title: Ghana — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: GHA
-ledger_rows: 84
+ledger_rows: 85
 not_held: 9
-record: bea8797fa5ae
+record: 0995814372ff
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -85,7 +85,7 @@ The storage estate gained a number rather than a building. The communications mi
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
-On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated.
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x).
 <!-- /narrative -->
 
 ## DPI
@@ -106,7 +106,7 @@ The SIM half of the identity regime moved for the first time in nine months. The
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 
-The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published.
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -161,7 +161,7 @@ Two applied systems launched outside government. The development bank's [AI plat
 
 Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
 
-Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/).
+Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/). A commentator's account [puts the start of fining under the automated traffic system back a month, to 1 November](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/), after complaints of poor sensitisation.
 <!-- /narrative -->
 
 ## Capacity

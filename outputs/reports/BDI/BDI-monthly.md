@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: BDI
-ledger_rows: 7
+ledger_rows: 8
 not_held: 15
-record: 926ba3acebb4
+record: 50bfb4d3db97
 ---
 
 # Burundi: monthly update, September – October 2026
@@ -45,6 +45,11 @@ International capacity moved for the first time in the record: Tanzania's state 
 
 <!-- narrative: dpi--dpi-registry -->
 The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this repository holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+[A platform to link the penal chain from the judicial police to the prisons was reported in preparation on 5 October](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite), with online complaints and case tracking planned for citizens. No date, funder or supplier is stated. The same report [sets the plan against internet use of 11.1% of the population at the end of 2025](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite).
 <!-- /narrative -->
 
 ## Technology

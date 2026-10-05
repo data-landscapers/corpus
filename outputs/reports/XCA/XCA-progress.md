@@ -3,18 +3,18 @@ title: Central Africa — progress report, October 2025 – October 2026
 compiled: 2026-10-05
 period: 2025-10-01 to 2026-10-05
 place: XCA
-ledger_rows: 53
+ledger_rows: 54
 not_held: 0
-record: f9b7dd0ef781
+record: 58eea67218c2
 ---
 
 # Central Africa: progress report, October 2025 – October 2026
 
 *Compiled 2026-10-05 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 53 bodies, instruments and systems on this place's ledger, 35 changed position between 2025-10-01 and 2026-10-05, 8 did not, 10 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 54 bodies, instruments and systems on this place's ledger, 36 changed position between 2025-10-01 and 2026-10-05, 8 did not, 10 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 96 sources for this place in the window — 25 in the earlier half (2025-10 to 2026-03), 71 in the later (2026-04 to 2026-10). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 98 sources for this place in the window — 25 in the earlier half (2025-10 to 2026-03), 73 in the later (2026-04 to 2026-10). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -135,6 +135,7 @@ The CEMAC additional act on free movement reached national implementing instruct
 | Central bank instruction on inbound remittance pre-financing | Did not exist | [Supplementing the community payment-services regulation, credit institutions must verify on concordant bank and messaging-network evidence that inbound remittance pre-financing executed through payment institutions has been matched by repayment - a rule bearing directly on the safety of funds credited to electronic-money wallets](https://droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1262-cemac-transferts-de-fonds-via-les-fintechs-une-nouvelle-instruction-beac-precise-les-diligences-relatives-au-traitement-et-suivi-des-prefinancements-des-operations-de-remittance-entrante-executees-par-le-canal-des-etablissements-de-paiement) | Movement |
 | Licensing of new payment providers in the zone | A payments unicorn licensed in Cameroon through a bank partnership (2025-06) | [Four entrants licensed or partnered inside a year: a payments company in Cameroon through a bank partnership, a card network with a Cameroonian bank, a fintech with the International Finance Corporation in Chad, and a payment aggregator formally recognised in Congo (2026-06)](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/) | Movement |
 | Regional central bank accession to the continental payment system | Not participating (2025-08) | [The regional central bank joined the continental instant payment and settlement network in July 2026, connecting the six member states it serves to a network spanning twenty-eight countries (2026-07)](https://www.afreximbank.com/fr/beac-joins-papss-connecting-payments-between-cemac-and-the-rest-of-africa/) | Movement |
+| Regional money market and central depository platform | No tender | [The regional central bank opened an international selection on 28 September 2026 for one platform covering the regional money market and the single central depository, financed from its own funds, with a framing meeting on 21 October and bids due on 19 November 2026; no technical specification is disclosed](https://www.beac.int/wp-content/uploads/2016/10/Avis-de-sélection-n°-150_26_plateforme-marché-monétaire-CEMAC.pdf) | Movement |
 | SYSTAC 2 (BEAC regional retail-payment platform) | A retail clearing platform in service since 2007 | [Centralised, fully online ISO 20022-compliant platform for transfers, direct debits, cheques and card payments across all six CEMAC states, with strengthened AML/KYC and a dedicated dispute-resolution module; the instant-payments module is explicitly not yet in production, no date given; the RTGS successor SYGMA V10 is described only as coming "in the coming weeks", also undated](https://www.beac.int/wp-content/uploads/2026/08/CP_MISE-EN-PROD-SYSTAC.pdf) | Movement |
 | Taxation of mobile money in the CEMAC zone | Mobile money taxed at national discretion with no stated regional position | [The central bank came out firmly against excessive taxation of mobile money, warning that transaction taxes penalise low-income households and hold back financial inclusion, and called for a concerted approach (2026-03)](https://centrafriqueinfos.com/mobile-money-beac-condamne-taxation-freine-inclusion-financiere/) | Regressed |
 | CEMAC payment services report | Published annually by the central bank | [Published for 2024 as the zone's statistical account of payment services (2026-04)](https://www.beac.int/wp-content/uploads/2026/04/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC-2024-.pdf) | No change |

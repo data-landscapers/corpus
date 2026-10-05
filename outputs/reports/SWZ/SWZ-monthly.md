@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: SWZ
 ledger_rows: 32
 not_held: 3
-record: c9c8749039e5
+record: 45810d15f55e
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -53,7 +53,7 @@ The three financing Bills for the Digital Eswatini Project [had their second rea
 <!-- narrative: ict-infrastructure--infra-store -->
 The finance minister told Parliament on 22 September that [the disaster recovery site planned for Lubombo had failed to proceed, the US$10.4 million India Exim loan behind it had never been drawn, and Treasury had written to the lender asking to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). He also said [government needs a functional primary data centre before a backup, and that the science-park facility does not constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Its operator describes the same facility as Tier III.
 
-On 24 September the science park [confirmed an incident affecting the National Data Centre that disrupted at least 12 government services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), with its engineers and outside experts working to restore them. It did not confirm social-media claims of a hack or a ransom demand, and had first acknowledged an outage of its web services on 18 September.
+On 24 September the science park [confirmed an incident affecting the National Data Centre that disrupted at least 12 government services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), with its engineers and outside experts working to restore them. It did not confirm social-media claims of a hack or a ransom demand, and had first acknowledged an outage of its web services on 18 September. The finance ministry said [the loan for the disaster recovery site has not been cancelled, only the commitment fees on its undrawn balance](https://times.co.sz/45550/news/e182m-data-centre-loan-not-cancelled-neal/), correcting the reading of the minister's remarks to Parliament.
 <!-- /narrative -->
 ### Cybersecurity
 

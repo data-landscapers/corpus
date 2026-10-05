@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: XEA
-ledger_rows: 16
+ledger_rows: 17
 not_held: 0
-record: f97c7d42fdbd
+record: f2d23eeec660
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -55,7 +55,7 @@ The regional cargo-tracking platform changed hands at the seal. Kenya's revenue 
 ### Digital Payments and Fintech
 
 <!-- narrative: systems--dpi-pay -->
-On 22 September the regional assembly's accounts committee [held an oversight session in Bujumbura on the Payment and Settlement Systems Integration initiative, assessing its operational status and progress on harmonising financial legislation](https://www.mae.gov.bi/en/eac-payment-systems-integration-burundi-reaffirms-its-commitment-to-regional-financial-integration/), where Burundi named harmonised law, supervision, cybersecurity and technical capacity as the conditions for interoperability. No operational or volume figure was published.
+On 22 September the regional assembly's accounts committee [held an oversight session in Bujumbura on the Payment and Settlement Systems Integration initiative, assessing its operational status and progress on harmonising financial legislation](https://www.mae.gov.bi/en/eac-payment-systems-integration-burundi-reaffirms-its-commitment-to-regional-financial-integration/), where Burundi named harmonised law, supervision, cybersecurity and technical capacity as the conditions for interoperability. No operational or volume figure was published. The continental export-import bank [made the regional business council a trade corridor partner of its Africa Trade Gateway](https://www.afreximbank.com/afreximbank-and-eabc-expand-digital-trade-access-for-east-african-businesses-through-africa-trade-gateway/), to bring East African firms onto its matchmaking, trade finance and payment services.
 <!-- /narrative -->
 ### Sectoral management information systems
 

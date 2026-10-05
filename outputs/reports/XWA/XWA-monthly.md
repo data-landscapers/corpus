@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: XWA
 ledger_rows: 20
 not_held: 1
-record: 5202660660d5
+record: aa9a70db5be6
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -58,7 +58,7 @@ The regional central bank's Monetary Policy Committee, meeting in Dakar on 9 Sep
 ### Digital Identity and CRVS
 
 <!-- narrative: systems--dpi-id -->
-The regional biometric card is now deployed by seven member states — Senegal, Guinea-Bissau, Ghana, Benin, The Gambia, Sierra Leone and Nigeria — and officials set out at a media workshop in Lagos how it is meant to work: [the chip card's stored identity data carries the issuing authority's digital signature, so any alteration breaks the trust chain at border authentication, and it is intended to replace the handwritten regional travel certificate](https://allafrica.com/stories/202609170091.html), with member states committed since April to work towards mutual acceptance at air, land and sea borders by December. In Nigeria the card [is renewable every five years, costs N35,500 and is applied for online with a single physical visit for biometric capture](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/). Deployment is counted in states that issue; no figure for cards in circulation, or for acceptance at a border, is published by anyone.
+The regional biometric card is now deployed by seven member states — Senegal, Guinea-Bissau, Ghana, Benin, The Gambia, Sierra Leone and Nigeria — and officials set out at a media workshop in Lagos how it is meant to work: [the chip card's stored identity data carries the issuing authority's digital signature, so any alteration breaks the trust chain at border authentication, and it is intended to replace the handwritten regional travel certificate](https://allafrica.com/stories/202609170091.html), with member states committed since April to work towards mutual acceptance at air, land and sea borders by December. In Nigeria the card [is renewable every five years, costs N35,500 and is applied for online with a single physical visit for biometric capture](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/). Deployment is counted in states that issue; no figure for cards in circulation, or for acceptance at a border, is published by anyone. [Public campaigns in Ghana and Nigeria pressed for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

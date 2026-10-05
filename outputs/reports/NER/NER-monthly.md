@@ -3,9 +3,9 @@ title: Niger — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: NER
-ledger_rows: 18
+ledger_rows: 17
 not_held: 1
-record: 1f771fc4b703
+record: e6aa8cf077b2
 ---
 
 # Niger: monthly update, September – October 2026
@@ -48,11 +48,6 @@ A state observatory monitored the country's media and platforms through a securi
 <!-- narrative: finance--finance-mou -->
 
 The Algerian state operator [signed conventions in Niamey on 8 September for a skills centre and donated transmission equipment for a 100 Gbps Ngezam-Agadez link on the national backbone](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/); no value is stated.
-<!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-No new financing reached the repository in the window. [A finance ministry page on the signing of a US$100m smart villages agreement](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger) names the budget minister and the lender's representative of 2020 as signatories: it is the 2020 loan the repository already holds, not a new agreement.
 <!-- /narrative -->
 
 ## ICT Infrastructure

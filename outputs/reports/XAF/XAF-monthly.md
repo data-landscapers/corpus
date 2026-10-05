@@ -3,9 +3,9 @@ title: Africa — monthly update, September – October 2026
 compiled: 2026-10-05
 period: 2026-09-01 to 2026-10-05
 place: XAF
-ledger_rows: 89
+ledger_rows: 90
 not_held: 3
-record: 8ebb8219e874
+record: b53ed3e95051
 ---
 
 # Africa: monthly update, September – October 2026
@@ -143,7 +143,7 @@ The month's other capacity item is about who runs the state rather than who uses
 
 The [Her CyberTracks programme gathered nearly 50 women cybersecurity professionals in Addis Ababa for its 2026 regional training](https://techreviewafrica.com/news/7421/), co-implemented by the ITU and GIZ with European funding.
 
-On 24 September the continental development bank, a UN-led AI hub, Google and Apolitical [launched free, self-paced AI courses for serving public officials, developed by Stanford University Online and SDA Bocconi](https://www.afdb.org/en/news-and-events/press-releases/unga81-african-development-bank-group-and-partners-launch-free-ai-training-african-public-officials-97043). No enrolment target, budget or duration is stated.
+On 24 September the continental development bank, a UN-led AI hub, Google and Apolitical [launched free, self-paced AI courses for serving public officials, developed by Stanford University Online and SDA Bocconi](https://www.afdb.org/en/news-and-events/press-releases/unga81-african-development-bank-group-and-partners-launch-free-ai-training-african-public-officials-97043). No enrolment target, budget or duration is stated. The European-funded regulatory capacity programme [convened its eighth cohort at Nairobi from 5 to 9 October, six national regulators with three regional regulators' associations](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/).
 <!-- /narrative -->
 ### Digital divides
 

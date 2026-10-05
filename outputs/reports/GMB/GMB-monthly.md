@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: GMB
-ledger_rows: 41
+ledger_rows: 42
 not_held: 3
-record: 4bf1f6c0d5d7
+record: ac3d93a28523
 ---
 
 # Gambia: monthly update, September – October 2026
@@ -82,7 +82,7 @@ The country appears here in a survey of other people's pilots rather than in an 
 <!-- narrative: dpi--dpi-registry -->
 The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/).
 
-On 22 September the lands minister told the National Assembly that [contracts for the World Bank-supported land digitalisation had been awarded, that leases would issue within three days once it is fully operational, and that the ministry was releasing about 50 backlogged lease files a week](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). No contractor, value or go-live date was given.
+On 22 September the lands minister told the National Assembly that [contracts for the World Bank-supported land digitalisation had been awarded, that leases would issue within three days once it is fully operational, and that the ministry was releasing about 50 backlogged lease files a week](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). No contractor, value or go-live date was given. The largest opposition party [put the supplementary voter dataset it was given at 183,163 against the 212,095 the commission announced](https://standard.gm/udp-demands-full-disclosure-of-supplementary-voter-data/), and said its requests for the de-duplication method had gone unanswered.
 <!-- /narrative -->
 ### Sectoral management information systems
 

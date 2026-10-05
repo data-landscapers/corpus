@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: COD
-ledger_rows: 46
+ledger_rows: 47
 not_held: 7
-record: baad6ffe682c
+record: 1897e04bbdae
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -68,7 +68,7 @@ Assembly capacity for digital hardware appears in this repository for the first 
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-On 28 September the digital economy minister [said the Prime Minister had signed the decree creating the national electronic certification authority provided for in the 2023 Digital Code](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No decree number or operating date was given.
+On 28 September the digital economy minister [said the Prime Minister had signed the decree creating the national electronic certification authority provided for in the 2023 Digital Code](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). No decree number or operating date was given. The continental health agency said [it was deploying the national health data platform for Ebola outbreak data and had sent more than 150 internet devices to affected health zones](https://sciencenigeria.com/africa-cdc-deploys-digital-tools-chews-to-strengthen-ebola-response-in-drc/) to replace paper reporting.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

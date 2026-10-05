@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-05
+period: 2026-09-01 to 2026-10-05
 place: ZMB
-ledger_rows: 34
+ledger_rows: 35
 not_held: 44
-record: 7636c8809d1c
+record: 586e92fc741a
 ---
 
 # Zambia: monthly update, September – October 2026
@@ -125,7 +125,7 @@ UNDP [published lessons on 17 September from AI compute it has installed with pu
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure.
+At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure. The operator [launched a self-care application and a short-code digital financial service](https://techreviewafrica.com/news/7580/x); no user figure is published.
 <!-- /narrative -->
 ### Digital divides
 
