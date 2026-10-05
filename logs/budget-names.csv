@@ -75,7 +75,7 @@ BEN,hosting,Data protection authority,data-protection,Autorité de protection de
 BEN,hosting,Electoral commission,electoral-register,Commission électorale nationale autonome (CENA),no line,
 BEN,hosting,Statistics office,statistics,Institut national de la statistique et de la démographie (INStaD),no line,
 BEN,hosting,Health ministry / National health insurance,,Ministère de la Santé,line,ben-2024-019-045006-0140
-BEN,hosting,Social protection / Social registry,social-registry,Agence nationale de la protection sociale (ANPS),no line,
+BEN,hosting,Social protection / Social registry,social-registry,Agence nationale de la protection sociale (ANPS),line,ben-2024-026-032-032005001
 BEN,hosting,Land registry,land-registry,Agence nationale du domaine et du foncier (ANDF),no line,
 BEN,hosting,Securities regulator,,Autorité des marchés financiers de l'UMOA (AMF-UMOA),no line,
 BEN,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de sécurité sociale (CNSS),no line,
@@ -1162,7 +1162,7 @@ SEN,hosting,Revenue Service,revenue-systems,Direction générale des Impôts et 
 SEN,hosting,Customs,,Direction générale des Douanes,no line,
 SEN,hosting,Interior / Home Affairs,,Ministère de l'Intérieur et de la Sécurité publique,line,sen-2024-33-cartes-identite-biometriques-ph2
 SEN,hosting,Central Bank,,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),no line,
-SEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale de l'État civil,no line,
+SEN,hosting,Civil registry / National ID authority,civil-registration-id,Agence nationale de l'État civil,line,sen-2026-35-2017-numerisation-actes-administration
 SEN,hosting,Data protection authority,data-protection,Commission de protection des données personnelles,no line,
 SEN,hosting,Electoral commission,electoral-register,Direction générale des Élections,no line,
 SEN,hosting,Statistics office,statistics,Agence nationale de la Statistique et de la Démographie,line,sen-2026-61-2034-ansd-production-statistique
