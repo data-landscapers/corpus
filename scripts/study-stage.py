@@ -18,6 +18,10 @@ the gitignored workroot, `scripts/.workroot/study/{id}/cache/{ISO3}/{k}.txt`, un
 address it came from; `fetched.csv` beside the leads says what happened to each. The
 searcher reads the cached text and writes `decisions/{k}.json`.
 
+**`refetch`** (no country: all of them) tries again, alone and by other routes, every lead
+that failed or came back as a bot-check page; `second_route` says which routes and why. A
+recovered lead waits for a decision like any other.
+
 **`stage`** takes every decision that selects its lead and writes the candidate into
 `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`: frontmatter from the decision, the
 body **copied from the cache by this script**. One document selected for two countries is
@@ -120,6 +124,118 @@ def fetch(study_id: str, iso: str, fetcher=None, lookups=None) -> list[dict]:
         rows.append(row)
     study_lib.write_csv(os.path.join(search_dir(study_id, iso), "fetched.csv"), FETCHED_FIELDS, rows)
     return rows
+
+
+# --------------------------------------------------------------------------- #
+# refetch
+# --------------------------------------------------------------------------- #
+
+THIN_WORDS = 80     # a "fetched" page this short is a bot check or a cookie notice, not a document
+PMC_ID = re.compile(r"(?:pmc\.ncbi\.nlm\.nih\.gov|ncbi\.nlm\.nih\.gov/pmc|europepmc\.org)/.*?(PMC\d+)", re.I)
+OTHER_UA = "DataLandscapersCorpus/1.0 (+https://corpus.data-landscapers.io/)"
+
+
+def second_route(url: str) -> tuple:
+    """`(body, address, kind, title, route)` by a route the first attempt did not take, or
+    `(None, why, "", "", "")`.
+
+    `capture-rule.md`: a 403 from one client is not a 403 from the host, and every absence a
+    search records is an evidence claim. The first pass ran as twenty searchers at once, which
+    is what got the Wayback Machine answering 429; this runs alone and waits. Routes, in order:
+    Europe PMC's own full text for a PubMed Central article, whose pages serve a browser check
+    to any script; the live page again under a second client; the live page with certificate
+    verification off, for ministries whose chain is incomplete; the Wayback Machine, patiently."""
+    import time  # noqa: PLC0415
+
+    import requests  # noqa: PLC0415
+    tried = []
+    m = PMC_ID.search(url)
+    if m:
+        try:
+            r = requests.get(f"https://www.ebi.ac.uk/europepmc/webservices/rest/{m.group(1)}/fullTextXML",
+                             headers={"User-Agent": OTHER_UA}, timeout=60)
+            if r.ok and len(r.text) > 2000:
+                from bs4 import BeautifulSoup  # noqa: PLC0415
+                soup = BeautifulSoup(r.text, "xml")
+                title = soup.find("article-title")
+                paras = [p.get_text(" ", strip=True) for p in soup.find_all(["title", "p"])]
+                body = "\n\n".join(p for p in paras if p)
+                if len(body.split()) > THIN_WORDS:
+                    return body, r.url, "xml", title.get_text(" ", strip=True) if title else "", "Europe PMC"
+            tried.append(f"Europe PMC HTTP {r.status_code}")
+        except requests.RequestException as e:
+            tried.append(f"Europe PMC {type(e).__name__}")
+    for label, kwargs in (("second client", {"headers": {"User-Agent": OTHER_UA}}),
+                          ("certificate unverified", {"headers": {"User-Agent": ss.UA}, "verify": False})):
+        try:
+            r = requests.get(url, timeout=90, **kwargs)
+            if r.ok:
+                body, kind, title = ss.extract(r, url)
+                if body and len(body.split()) > THIN_WORDS:
+                    return body, url, kind, title, label
+                tried.append(f"{label}: thin or empty")
+            else:
+                tried.append(f"{label}: HTTP {r.status_code}")
+        except requests.RequestException as e:
+            tried.append(f"{label}: {type(e).__name__}")
+    for wait in (0, 20, 60):
+        time.sleep(wait)
+        try:
+            a = requests.get("https://archive.org/wayback/available", params={"url": url},
+                             headers={"User-Agent": ss.UA}, timeout=30)
+            if a.status_code == 429:
+                continue
+            snap = (a.json().get("archived_snapshots") or {}).get("closest") or {} if a.ok else {}
+            if snap.get("available"):
+                r = requests.get(snap["url"], headers={"User-Agent": ss.UA}, timeout=90)
+                if r.ok:
+                    body, kind, title = ss.extract(r, url)
+                    if body and len(body.split()) > THIN_WORDS:
+                        return body, snap["url"], kind, title, "Wayback"
+            tried.append("Wayback: no usable capture")
+            break
+        except (requests.RequestException, ValueError) as e:
+            tried.append(f"Wayback {type(e).__name__}")
+            break
+    else:
+        tried.append("Wayback: 429 three times")
+    return None, "; ".join(tried), "", "", ""
+
+
+def refetch(study_id: str, iso: str, router=None) -> tuple[int, int]:
+    """Try again every lead that was unfetchable or came back too thin to be a document.
+
+    A lead recovered here has no decision yet, or has one written against a bot-check page:
+    that decision is removed, so `stage` reports the lead as undecided until a searcher has
+    read the real text. Returns `(tried, recovered)`."""
+    base = search_dir(study_id, iso)
+    rows = study_lib.read_csv(os.path.join(base, "fetched.csv"))
+    router = router or second_route
+    tried = got = 0
+    for row in rows:
+        thin = row["status"] == "fetched" and int(row["words"] or 0) <= THIN_WORDS
+        if row["status"] != "unfetchable" and not thin:
+            continue
+        if not row["url"]:
+            continue
+        tried += 1
+        body, where, kind, title, route = router(row["url"])
+        if body is None:
+            row["detail"] = (row["detail"] + " | second pass: " + where).strip(" |")
+            continue
+        got += 1
+        path = os.path.join(cache_dir(study_id, iso), f"{row['k']}.txt")
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with io.open(path, "w", encoding="utf-8", newline="\n") as fh:
+            fh.write(f"URL: {where}\n\n{body}\n")
+        row.update(status="fetched", detail=f"second pass, by {route}", words=len(body.split()),
+                   kind=kind, page_title=title,
+                   cache=os.path.relpath(path, study_lib.CORPUS).replace("\\", "/"))
+        stale = os.path.join(base, "decisions", f"{row['k']}.json")
+        if os.path.isfile(stale):
+            os.remove(stale)
+    study_lib.write_csv(os.path.join(base, "fetched.csv"), FETCHED_FIELDS, rows)
+    return tried, got
 
 
 # --------------------------------------------------------------------------- #
@@ -296,7 +412,7 @@ def ready(study: dict, study_id: str, share: str, note: str, lint: str) -> int:
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="A maturity study's search: fetch leads, stage selections.")
     ap.add_argument("study")
-    ap.add_argument("command", choices=("fetch", "stage", "ready"))
+    ap.add_argument("command", choices=("fetch", "refetch", "stage", "ready"))
     ap.add_argument("iso", nargs="?")
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--note", help="ready: the notes-for-osint number announcing the delivery")
@@ -323,6 +439,18 @@ def main(argv=None) -> int:
                   f"{r['cache'] or r['detail']}")
         print(f"study-stage: {a.iso} - {sum(1 for r in rows if r['status'] == 'fetched')} of "
               f"{len(rows)} lead(s) fetched; see fetched.csv.")
+        return 0
+    if a.command == "refetch":
+        total = [0, 0]
+        for iso in ([a.iso] if a.iso else sorted(study_lib.countries())):
+            if not os.path.isfile(os.path.join(search_dir(a.study, iso), "fetched.csv")):
+                continue
+            tried, got = refetch(a.study, iso)
+            total[0] += tried
+            total[1] += got
+            if tried:
+                print(f"  {iso}  {got} of {tried} recovered", flush=True)
+        print(f"study-stage: second pass - {total[1]} of {total[0]} lead(s) recovered; each needs a decision.")
         return 0
     if a.command == "stage":
         return stage(study, a.study, a.share, today, a.dry)

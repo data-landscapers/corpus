@@ -481,6 +481,19 @@ try:
         cached = (root / rows[0]["cache"]).read_text(encoding="utf-8")
         check("the text is cached under the address it came from",
               cached, "URL: https://moh.go.ke/bulletin-2025\n\nThe HMIS covered 62 per cent of clinics.\n")
+        (dk0 := root / "maturity" / "t" / "search" / "KEN" / "decisions" / "4.json").write_text(
+            '{"select": false, "why_not": "a bot-check page"}', encoding="utf-8")
+        stage.THIN_WORDS = 5    # the fixture's pages are a sentence long
+        route = lambda url: ("The EMR ran in 12 hospitals in 2025. " * 30, url, "html", "T", "second client")
+        check("a second route recovers a failed lead", stage.refetch("t", "KEN", route), (1, 1))
+        again = study_lib.read_csv(str(root / "maturity" / "t" / "search" / "KEN" / "fetched.csv"))
+        check("and the row says how", (again[3]["status"], again[3]["detail"]),
+              ("fetched", "second pass, by second client"))
+        check("a decision written against the failed page is removed", dk0.exists(), False)
+        check("nothing is tried twice once recovered",
+              stage.refetch("t", "KEN", lambda url: (None, "still dead", "", "", "")), (0, 0))
+        (root / "maturity" / "t" / "search" / "KEN" / "decisions" / "4.json").write_text(
+            '{"select": false, "why_not": "states no dated fact"}', encoding="utf-8")
         good = {"select": True, "sub_indicator": "hmis", "aspect": "clinics;tiers", "fact": "62 per cent in 2025.",
                 "title": "Bulletin statistique 2025", "publisher": "Ministry of Health", "published": "2025-06"}
         dk = root / "maturity" / "t" / "search" / "KEN" / "decisions"
@@ -491,12 +504,12 @@ try:
         sel, unsel, searched, problems = stage.collect(STUDY, "t", ["KEN", "UGA"])
         check("a selecting decision is collected", [(d["iso3"], d["k"]) for d in sel], [("KEN", 1)])
         check("every lead not staged says why", sorted((u["k"], u["why"].split(":")[0]) for u in unsel),
-              [(2, "held"), (3, "duplicate"), (4, "unfetchable"), (5, "not selected")])
+              [(2, "held"), (3, "duplicate"), (4, "not selected"), (5, "not selected")])
         check("a date that is not a date stops the decision", problems,
               ["UGA decisions/1.json: `published` is `June 2025`, not YYYY, YYYY-MM or YYYY-MM-DD"])
         check("the search is counted by country and sub-indicator",
               [(s["iso3"], s["sub_indicator"], s["leads"], s["fetched"], s["selected"]) for s in searched],
-              [("KEN", "emr", 2, 1, 0), ("KEN", "hmis", 3, 1, 1), ("UGA", "hmis", 1, 1, 0)])
+              [("KEN", "emr", 2, 2, 0), ("KEN", "hmis", 3, 1, 1), ("UGA", "hmis", 1, 1, 0)])
         (dk / "5.json").unlink()
         check("a fetched lead with no decision is a problem, not a silence",
               any("no decision written" in p for p in stage.collect(STUDY, "t", ["KEN"])[3]), True)
