@@ -50,15 +50,14 @@ The rules a study's ladder is written to:
 
 ## 4. Phase 1: review what is held
 
-**The reading list is selected by a script and read whole by a drafter.** `scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv` from:
+**The reading list is selected by a script and read by a drafter: whole, or a long document's passages around the terms** *(Bill)*. `scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv` from:
 
 - the status report's sub-sections for the study's subjects;
 - `ledger.csv` rows and `considered.txt` entries on those subjects;
 - every `raw/` document whose `places:` holds the country and whose `topics:` holds a study subject, or whose title or body matches the study's term list;
 - regional and continental documents that name the country.
 
-**One drafter per country reads every listed document, not its ledger line**, and writes `evidence.csv` beside the list, one row per stated fact: `row_id, iso3, sub_indicator, aspect, value, fact, as_of, date_precision, system, class, source_slug, url`. A row holds only what its own source states. The event date is not the publication date.
-
+**Drafters work to `drafter-brief.md`, read every listed document, not its ledger line**, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact: `row_id, iso3, sub_indicator, aspect, value, fact, as_of, date_precision, system, class, source_slug, url`. A row holds only what its own source states.
 `scripts/study-profile.py` then writes `profile.csv`: per sub-indicator and aspect, the best-evidenced value, its sources and a `gap` cell saying what is not established. Where sources disagree the newest value stands and both are kept.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.

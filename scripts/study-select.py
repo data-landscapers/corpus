@@ -193,16 +193,10 @@ def number(status_rows: list[dict], rows: list[dict]) -> None:
         r.update(n=n, slice=part)
 
 
-def name_regex(country: dict) -> re.Pattern:
-    """The country's name as a word, on folded text."""
-    return re.compile(r"(?<![A-Za-z])" + re.escape(study_lib.fold(country["name"]))
-                      + r"(?![A-Za-z])", re.I)
-
-
 def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
            routes: dict[str, set]) -> tuple[list[dict], int]:
     """`(readlist rows, tagged documents the terms dropped)` for one country."""
-    name = name_regex(country)
+    name = study_lib.name_regex(iso, country)
     rows, dropped = [], 0
     for slug, doc in docs.items():
         why = {r.rstrip("!") for r in routes.get(slug, ())}
@@ -287,7 +281,7 @@ def main(argv=None) -> int:
             text = (f"# {r['title']}\n\nslug: {slug}\nurl: {r['url']}\npublished: {r['published']}\n"
                     f"Passages only: {what}, of {r['words']} words.\n\n"
                     + passages(read({"path": r["path"]}),
-                               name_regex(all_countries[iso]) if regional else terms))
+                               study_lib.name_regex(iso, all_countries[iso]) if regional else terms))
             cut[key] = len(text.split())
             if not a.dry:
                 os.makedirs(os.path.dirname(path), exist_ok=True)

@@ -128,6 +128,49 @@ def value_problem(aspect: dict, sub: str, value: str) -> str:
 # Countries
 # --------------------------------------------------------------------------- #
 
+# What a document calls a country is not always what `countries.csv` does, and one name sits
+# inside another. Both were found by drafters handed the wrong country's passages: Sudan's
+# list carried paragraphs about South Sudan, and "DR Congo" matched almost nothing a document
+# writes. `NOT_AFTER` and `NOT_BEFORE` are the words that make a match somebody else's.
+ALIASES = {
+    "COD": ["Democratic Republic of the Congo", "Democratic Republic of Congo", "DRC", "RDC",
+            "République démocratique du Congo", "Congo-Kinshasa"],
+    "COG": ["Republic of the Congo", "Republic of Congo", "République du Congo",
+            "Congo-Brazzaville"],
+    "CIV": ["Ivory Coast"],
+    "CPV": ["Cabo Verde"],
+    "SWZ": ["Swaziland"],
+    "STP": ["São Tomé", "Sao Tome"],
+    "CAF": ["République centrafricaine", "Centrafrique"],
+    "GMB": ["The Gambia"],
+}
+NOT_AFTER = {
+    "SDN": ["South ", "Southern "],
+    "GIN": ["Equatorial ", "New "],
+    "COG": ["DR ", "Democratic ", "Democratic Republic of the ", "Democratic Republic of ",
+            "democratique du "],
+}
+NOT_BEFORE = {
+    "GIN": ["-Bissau", " Bissau"],
+    "NER": [" Delta", " State", " River"],
+    "COG": ["-Kinshasa"],
+}
+
+
+def name_regex(iso: str, country: dict) -> re.Pattern:
+    """The country named as a word, under any of its names, on folded text.
+
+    An all-capitals alias (`DRC`) is matched as written; the rest ignore case."""
+    alts = []
+    for name in [country["name"]] + ALIASES.get(iso, []):
+        f = re.escape(fold(name))
+        alts.append(f if name.isupper() else f"(?i:{f})")
+    behind = "".join(f"(?<!{re.escape(fold(w))})" for w in NOT_AFTER.get(iso, []))
+    ahead = "".join(f"(?!{re.escape(fold(w))})" for w in NOT_BEFORE.get(iso, []))
+    return re.compile(r"(?<![A-Za-z])" + behind + "(?:" + "|".join(alts) + ")"
+                      + ahead + r"(?![A-Za-z])")
+
+
 def countries(path: str = COUNTRIES_CSV) -> dict[str, dict]:
     """iso3 -> {name, regions}. The 54: every row of `countries.csv` that is not an `X` group.
 

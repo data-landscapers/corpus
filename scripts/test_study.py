@@ -115,6 +115,27 @@ check("a phrase matches without its accents",
 check("and with a typographic apostrophe",
       bool(rx.search(study_lib.fold("Système d’information sanitaire"))), True)
 
+print("\ncountry names")
+
+
+def named(iso, name, text):
+    return bool(study_lib.name_regex(iso, {"name": name}).search(study_lib.fold(text)))
+
+
+check("Sudan is not South Sudan", named("SDN", "Sudan", "clinics in South Sudan report"), False)
+check("but is Sudan", named("SDN", "Sudan", "Khartoum, Sudan, reports"), True)
+check("Guinea is not Guinea-Bissau", named("GIN", "Guinea", "in Guinea-Bissau the SNIS"), False)
+check("nor Equatorial Guinea", named("GIN", "Guinea", "Equatorial Guinea's ministry"), False)
+check("Congo is not the DRC by its long name", named("COG", "Congo", "the Democratic Republic of the Congo"), False)
+check("nor by its short one", named("COG", "Congo", "DR Congo and Chad"), False)
+check("the DRC is found under the names documents use",
+      [named("COD", "DR Congo", t) for t in ("in the DRC,", "République démocratique du Congo", "DR Congo")],
+      [True, True, True])
+check("an acronym alias is matched as written", named("COD", "DR Congo", "the drc-style approach"), False)
+check("Niger is not the Niger Delta", named("NER", "Niger", "the Niger Delta states"), False)
+check("nor Nigeria", named("NER", "Niger", "Nigeria's DHIS2"), False)
+check("Cabo Verde answers to Cape Verde's row", named("CPV", "Cape Verde", "Cabo Verde's SIS"), True)
+
 # --------------------------------------------------------------------------- #
 print("\nthe reading list")
 
