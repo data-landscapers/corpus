@@ -23,10 +23,8 @@ one turn.
    > delete a `· deploy` block if one is open, commit and push the share. On exit 1 or 3 do nothing.
    > Then run `python scripts/osint-cycle-ready.py --claim`. On exit 1, stop the
    > turn and say nothing further. On exit 2, write one block in `C:\corpus-osint-xfer\messages-for-bill.md`
-   > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — drain any
-   > open notes in `C:\corpus-osint-xfer\notes-for-corpus.md` first, then BUILD.md whole, then
-   > UNIT-REVIEW.md for each unit `python scripts/unit-review.py next --poll` names, then
-   > RENDER.md Step 0 and its checks, then RENDER Steps 1-7, Log and Mirror —
+   > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — every
+   > step of *The run*, in its order, passing `--poll` to `python scripts/unit-review.py next` —
    > following its unattended rules: never stop to ask, leave anything needing Bill in
    > `C:\corpus-osint-xfer\messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
    > Then work the oldest open job in `C:\corpus-osint-xfer\corpus-housekeeping.md`, if there is one, once.
