@@ -452,6 +452,71 @@ try:
           lint.systems_problems(STUDY, [dict(sysrow, **{"class": ""})], COUNTRIES), [])
     check("a missing file fails", lint.systems_problems(STUDY, [], COUNTRIES), ["systems.csv is missing or empty"])
 
+    print("\nthe search: fetch, decide, stage")
+    stage = load("study-stage")
+    root = tmp / "corpus"
+    (root / "maturity" / "t" / "search" / "KEN" / "decisions").mkdir(parents=True)
+    (root / "maturity" / "t" / "search" / "UGA" / "decisions").mkdir(parents=True)
+    real_corpus = study_lib.CORPUS
+    study_lib.CORPUS = str(root)
+    try:
+        import json as _json
+        leads = [{"url": "https://moh.go.ke/bulletin-2025", "title": "Bulletin", "sub_indicator": "hmis"},
+                 {"url": "https://held.org/x", "title": "Held", "sub_indicator": "hmis"},
+                 {"url": "https://www.moh.go.ke/bulletin-2025/", "title": "Bulletin again", "sub_indicator": "hmis"},
+                 {"url": "https://dead.org/y", "title": "Dead", "sub_indicator": "emr"},
+                 {"url": "https://who.int/z", "title": "Thin", "sub_indicator": "emr"}]
+        (root / "maturity" / "t" / "search" / "KEN" / "leads.json").write_text(_json.dumps(leads), encoding="utf-8")
+        (root / "maturity" / "t" / "search" / "UGA" / "leads.json").write_text(
+            _json.dumps([leads[0]]), encoding="utf-8")
+        fake = lambda url: ((None, "HTTP 404", "", "") if "dead" in url
+                            else ("The HMIS covered 62 per cent of clinics.", url, "html", "A page"))
+        looked = ({"held.org/x": {"file": "raw/2024/2024-01-01-held.md"}}, {})
+        rows = stage.fetch("t", "KEN", fake, looked)
+        stage.fetch("t", "UGA", fake, looked)
+        check("a lead already held is not fetched", rows[1]["status"], "held")
+        check("the same document twice is fetched once", rows[2]["status"], "duplicate")
+        check("a failed fetch is recorded, not dropped", (rows[3]["status"], rows[3]["detail"]),
+              ("unfetchable", "HTTP 404"))
+        cached = (root / rows[0]["cache"]).read_text(encoding="utf-8")
+        check("the text is cached under the address it came from",
+              cached, "URL: https://moh.go.ke/bulletin-2025\n\nThe HMIS covered 62 per cent of clinics.\n")
+        good = {"select": True, "sub_indicator": "hmis", "aspect": "clinics;tiers", "fact": "62 per cent in 2025.",
+                "title": "Bulletin statistique 2025", "publisher": "Ministry of Health", "published": "2025-06"}
+        dk = root / "maturity" / "t" / "search" / "KEN" / "decisions"
+        (dk / "1.json").write_text(_json.dumps(good), encoding="utf-8")
+        (dk / "5.json").write_text(_json.dumps({"select": False, "why_not": "states no dated fact"}), encoding="utf-8")
+        (root / "maturity" / "t" / "search" / "UGA" / "decisions" / "1.json").write_text(
+            _json.dumps(dict(good, published="June 2025")), encoding="utf-8")
+        sel, unsel, searched, problems = stage.collect(STUDY, "t", ["KEN", "UGA"])
+        check("a selecting decision is collected", [(d["iso3"], d["k"]) for d in sel], [("KEN", 1)])
+        check("every lead not staged says why", sorted((u["k"], u["why"].split(":")[0]) for u in unsel),
+              [(2, "held"), (3, "duplicate"), (4, "unfetchable"), (5, "not selected")])
+        check("a date that is not a date stops the decision", problems,
+              ["UGA decisions/1.json: `published` is `June 2025`, not YYYY, YYYY-MM or YYYY-MM-DD"])
+        check("the search is counted by country and sub-indicator",
+              [(s["iso3"], s["sub_indicator"], s["leads"], s["fetched"], s["selected"]) for s in searched],
+              [("KEN", "emr", 2, 1, 0), ("KEN", "hmis", 3, 1, 1), ("UGA", "hmis", 1, 1, 0)])
+        (dk / "5.json").unlink()
+        check("a fetched lead with no decision is a problem, not a silence",
+              any("no decision written" in p for p in stage.collect(STUDY, "t", ["KEN"])[3]), True)
+        name, text = stage.candidate(dict(STUDY, stage_topic="dpi.mis"), dict(good, url=leads[0]["url"]),
+                                     ["KEN", "UGA"], cached, "2026-10-06")
+        check("the file is named for its date, first place and title",
+              name, "2025-06-01-ken-bulletin-statistique-2025.md")
+        check("a month is a proxy date, and the batch names the study",
+              all(line in text for line in ("published: 2025-06-01", "date_precision: month", "date_source: proxy",
+                                            "places: [KEN, UGA]", "topics: [dpi.mis]", "retrieved: 2026-10-06",
+                                            "sweep_batch: maturity-study-t-KEN-2026-10-06")), True)
+        check("the body is the cache's, under the title and its URL line",
+              text.endswith("# Bulletin statistique 2025\nURL: https://moh.go.ke/bulletin-2025\n\n"
+                            "The HMIS covered 62 per cent of clinics.\n"), True)
+        check("staging never writes `ingested:`", "ingested:" in text, False)
+        check("an aspect outside the study stops a decision",
+              stage.decision_problem(STUDY, dict(good, aspect="clinics;reach")), "aspect `reach` is not in the study")
+    finally:
+        study_lib.CORPUS = real_corpus
+
     print("\nthe health study as it stands")
     health = study_lib.load("health")
     check("its ids are what their texts mint",

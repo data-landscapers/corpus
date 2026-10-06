@@ -59,15 +59,15 @@ class StudyError(Exception):
 # The study
 # --------------------------------------------------------------------------- #
 
-def study_dir(study_id: str, root: str = CORPUS) -> str:
-    return os.path.join(root, "maturity", study_id)
+def study_dir(study_id: str, root: str | None = None) -> str:
+    return os.path.join(root or CORPUS, "maturity", study_id)
 
 
-def out_dir(study_id: str, root: str = CORPUS) -> str:
-    return os.path.join(root, "outputs", "maturity", study_id)
+def out_dir(study_id: str, root: str | None = None) -> str:
+    return os.path.join(root or CORPUS, "outputs", "maturity", study_id)
 
 
-def load(study_id: str, root: str = CORPUS) -> dict:
+def load(study_id: str, root: str | None = None) -> dict:
     """`study.json`, checked for the keys every script reads."""
     path = os.path.join(study_dir(study_id, root), "study.json")
     try:
@@ -263,7 +263,7 @@ def write_csv(path: str, fields: list[str], rows: list[dict]) -> None:
         w.writerows(rows)
 
 
-def evidence(study_id: str, root: str = CORPUS) -> dict[str, list[dict]]:
+def evidence(study_id: str, root: str | None = None) -> dict[str, list[dict]]:
     """iso3 -> the rows of `maturity/{id}/evidence/{ISO3}/evidence.csv`."""
     base = os.path.join(study_dir(study_id, root), "evidence")
     out = {}
