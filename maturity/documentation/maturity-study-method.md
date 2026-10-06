@@ -57,9 +57,9 @@ The rules a study's ladder is written to:
 - every `raw/` document whose `places:` holds the country and whose `topics:` holds a study subject, or whose title or body matches the study's term list;
 - regional and continental documents that name the country.
 
-**One drafter per country reads every listed document, not its ledger line**, and writes `evidence.csv` beside the list, one row per stated fact: `iso3, sub_indicator, aspect, value, fact, as_of, date_precision, system, class, source_slug, url`. A row holds only what its own source states. The event date is not the publication date.
+**One drafter per country reads every listed document, not its ledger line**, and writes `evidence.csv` beside the list, one row per stated fact: `row_id, iso3, sub_indicator, aspect, value, fact, as_of, date_precision, system, class, source_slug, url`. A row holds only what its own source states. The event date is not the publication date.
 
-`profile.csv` then holds, per sub-indicator and aspect, the best-evidenced value, its sources and a `gap` cell saying what is not established. Where sources disagree the newest value stands and both are kept.
+`scripts/study-profile.py` then writes `profile.csv`: per sub-indicator and aspect, the best-evidenced value, its sources and a `gap` cell saying what is not established. Where sources disagree the newest value stands and both are kept.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
@@ -71,9 +71,9 @@ The rules a study's ladder is written to:
 
 **Fetch, capture, dedup, frontmatter and delegation are PROGRESS-FILLER's** (`documentation/archived/PROGRESS-FILLER.md` §0 and §3 to §6). Its cap (§4a) and its folders (§5) are replaced:
 
-- **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough, since anecdotal evidence arrives in small pieces. Anything else goes to the unselected register.
+- **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough. Anything else goes to the unselected register.
 - **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*: maturity evidence is not general ingest, and OSINT is told so. Candidates are written to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, flat with no country folders, each with `sweep_batch: maturity-study-{id}-{ISO3}-YYYY-MM-DD`, `places: [{ISO3}]` and the study's subject first in `topics:`.
-- **OSINT learns of a handover from a note, never from the folder.** One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. The folder's `BRIEF.md` opens by saying it is evidence for maturity study {id} and not general ingest, then gives the count by country, the selection rule, the lane asked for and the lint result.
+- **OSINT learns of a handover from a note, never from the folder.** One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. The folder's `BRIEF.md` opens by saying it is evidence for maturity study {id} and not general ingest, then gives the count by country, the selection rule, the lane asked for, the lint result and `Closed by: notes-for-osint NNN`.
 - **Records in `maturity/{id}/search/`**: `searched.csv` by country and sub-indicator, `staged.csv` by file handed over, and `unselected.csv`. Candidate bodies are never committed in Corpus.
 
 Before the note is written, `python scripts/lint-staged-queue.py` passes over the folder; then the share is committed and pushed.
@@ -82,7 +82,7 @@ Before the note is written, `python scripts/lint-staged-queue.py` passes over th
 
 **Corpus runs the searches and never writes to `raw/`** *(Bill)*. A found document reaches the study only by returning through ingest; delivery is not admission.
 
-**Phase 1 ends** with a commit, a log line and the counts for Bill; Phase 2 waits on ingest.
+**Phase 1 ends** with a commit, a log line and the counts for Bill.
 
 ## 6. Between the phases
 
@@ -92,8 +92,8 @@ Before the note is written, `python scripts/lint-staged-queue.py` passes over th
 
 1. **Re-read**: admitted documents are read whole into `evidence.csv` and the profiles refreshed.
 2. **Fix the as-at**: the last day of the month before Phase 2 opens.
-3. **Stage from the ladder**: the coverage aspects pick the rung, then the cap rule and the flags; `stage_sources` names the rows that set it.
-4. **Check that two drafters agree.** A second drafter restages 20 randomly drawn cells blind from `evidence.csv`. Below 16 in agreement, the rung that split them is rewritten and every country restaged.
+3. **Stage from the ladder**: the coverage aspects pick the rung, then the cap rule and the flags; `stage_sources` names the `row_id`s that set it, and `cap` the rung a capped cell had reached.
+4. **Check that two drafters agree.** A second drafter restages 20 cells, drawn by `study-profile.py --draw`, blind from `evidence.csv`. Below 16 in agreement, the rung that split them is rewritten and every country restaged.
 
 ## 8. Phase 2: write
 
@@ -116,8 +116,8 @@ Files, in `outputs/maturity/{id}/`:
 
 ## 9. The study file
 
-`maturity/{id}/maturity-study-{id}.md` answers §1 to §5 for one indicator, names the frame rows it redraws, and says whether the norm measures what the sub-indicators measure.
+`maturity/{id}/maturity-study-{id}.md` answers §1 to §5 for one indicator, names the frame rows it redraws, and says whether the norm measures what the sub-indicators measure. `study.json` beside it restates its lists as data for the scripts.
 
 ## Boundary
 
-Nothing here writes to `C:\OSINT`: a missing document is a candidate in `prepared\`, announced by a note, and a script change is a patch OSINT applies.
+Nothing here writes to `C:\OSINT` or to `raw/`.

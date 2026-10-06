@@ -1,0 +1,84 @@
+{
+  "id": "health",
+  "study_file": "maturity-study-health.md",
+  "subjects": ["dpi.mis", "digital.rural", "dpi.exchange"],
+  "terms": [
+    "DHIS2", "DHIS 2", "HMIS", "SNIS", "SIS",
+    "health information system", "health management information system",
+    "système d'information sanitaire", "système national d'information sanitaire",
+    "sistema de informação de saúde", "sistema de informação sanitária",
+    "EMR", "EHR", "electronic medical record", "electronic health record",
+    "dossier médical", "dossier patient", "processo clínico",
+    "OpenMRS", "eLMIS"
+  ],
+  "sub_indicators": [
+    {
+      "key": "hmis",
+      "label": "HMIS",
+      "subject": "digital.rural",
+      "text": "Digitalisation of rural health clinics: HMIS",
+      "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-hmis",
+      "class": "hmis"
+    },
+    {
+      "key": "emr",
+      "label": "EMR",
+      "subject": "digital.rural",
+      "text": "Digitalisation of rural health clinics: EMR",
+      "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-emr",
+      "class": "emr"
+    }
+  ],
+  "classes": ["hmis", "emr", "single-function", "tracker", "community", "enabling", "exchange"],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance, planning, finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "owner": ["ministry", "partner", "vendor"],
+        "plan": ["current", "none"],
+        "finance": ["domestic", "donor", "not-stated"]
+      }
+    },
+    {
+      "key": "tiers",
+      "name": "Tiers in use",
+      "role": "coverage",
+      "multi": true,
+      "values": ["T1", "T2", "T3", "T4", "none"]
+    },
+    {
+      "key": "digitised",
+      "name": "Where data is digitised",
+      "role": "coverage",
+      "values": {
+        "hmis": ["facility", "district", "national", "paper"],
+        "emr": ["point-of-care", "keyed-afterwards", "paper"]
+      }
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": ["advancing", "no-change", "regressing"]
+    },
+    {
+      "key": "clinics",
+      "name": "Primary clinics doing the digital input",
+      "role": "coverage",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "prefer": ["share:", "count:", "pilot", "none", "not-published"]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "externally run",
+    "all": ["owner:ministry"],
+    "any": ["finance:domestic", "plan:current"]
+  },
+  "flags": ["externally run", "community integrated", "advancing", "regressing"]
+}

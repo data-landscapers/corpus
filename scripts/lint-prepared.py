@@ -40,8 +40,9 @@ What it resolves, and how:
   defines that rename as what OSINT does when the close absorbs the list. A `…-drops.csv`
   that has *not* been renamed is live and is left alone.
 - **Anything else** — read `Closed by:` from its `BRIEF.md` (its own, or a sibling for a bare
-  file) and resolve `job NN` against the housekeeping registers or `RNN` against the review
-  register. **An item that names no closer is reported, not failed**: this cannot tell a
+  file) and resolve `job NN` against the housekeeping registers, `notes-for-osint NNN`
+  against the notes files or `RNN` against the review register. **An item that names no
+  closer is reported, not failed**: this cannot tell a
   handover nobody has got to from one whose closer was never written down, and guessing in
   either direction is worse than saying so.
 
@@ -74,6 +75,7 @@ DROPS_LIVE = re.compile(r"^status-acquire-[A-Z]{3}-drops\.csv$")
 CLOSED_BY = re.compile(r"^\s*(?:\*\*)?Closed by:(?:\*\*)?\s*(.+?)\s*$", re.M | re.I)
 REF_JOB = re.compile(r"\bjob\s*#?\s*(\d+)\b", re.I)
 REF_R = re.compile(r"\bR(\d+[a-zA-Z]?)\b")
+REF_NOTE = re.compile(r"\bnotes?-for-osint\s*#?\s*(\d+)\b", re.I)
 
 
 def _read(path: str) -> str:
@@ -194,8 +196,15 @@ def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
 
     closer = closer_of(path, share)
     if not closer:
-        return "unresolved", ("no `Closed by:` in a brief. Name the job or review line that "
+        return "unresolved", ("no `Closed by:` in a brief. Name the job, note or review line that "
                               "retires it, so a later run can tell spent from waiting")
+    # A folder named for what it holds rather than for a number: a maturity study's evidence,
+    # `maturity-study-health/`, is retired by the note that announced it.
+    nm = REF_NOTE.search(closer)
+    if nm:
+        s = note_state(nm.group(1), src["notes"], src["notes_resolved"])
+        return ({"closed": "spent", "open": "live"}.get(s, "unresolved"),
+                f"brief says closed by notes-for-osint {nm.group(1)}, which is {s}")
     jm, rm = REF_JOB.search(closer), REF_R.search(closer)
     if jm:
         s = job_state(jm.group(1), src["open"], src["resolved"])
@@ -205,7 +214,7 @@ def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
         s = r_state(rm.group(1), src["register"])
         return ({"closed": "spent", "open": "live"}.get(s, "unresolved"),
                 f"brief says closed by review line R{rm.group(1)}, which is {s}")
-    return "unresolved", f"`Closed by: {closer}` names neither a job number nor an R-line"
+    return "unresolved", f"`Closed by: {closer}` names no job number, note or R-line"
 
 
 def main(argv=None) -> int:

@@ -190,6 +190,16 @@ try:
           lp.verdict("note-150", str(r / "prepared" / "note-150"), str(r), src)[0], "spent")
     check("a note in neither file is unresolved",
           lp.verdict("note-999", str(r / "prepared" / "note-999"), str(r), src)[0], "unresolved")
+
+    print("\na folder named for what it holds is closed by the note in its brief")
+    item(r, "maturity-study-health", closer="notes-for-osint 164")
+    item(r, "maturity-study-done", closer="notes-for-osint 150")
+    check("its note still open, it waits",
+          lp.verdict("maturity-study-health", str(r / "prepared" / "maturity-study-health"),
+                     str(r), src)[0], "live")
+    check("its note resolved, it is spent",
+          lp.verdict("maturity-study-done", str(r / "prepared" / "maturity-study-done"),
+                     str(r), src)[0], "spent")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 

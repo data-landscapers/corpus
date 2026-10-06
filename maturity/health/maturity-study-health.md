@@ -103,7 +103,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 
 Tick each box in the commit that completes it.
 
-- [ ] **H1. Build the four scripts** the method names, with tests. `lint-interface.py` still passes.
+- [x] **H1. Build the scripts** the method names, with tests. `lint-interface.py` still passes.
 - [ ] **H2. Open the lane.** Cut the patch adding `maturity-study-` to `BACKFILL_PREFIXES` in OSINT's `scripts/ingest-lane.py`; hand it over in `prepared\` with its `BRIEF.md` and an `[ACT]` note.
 - [ ] **H3. Review all 54 countries in one run** *(Bill: no pilot)*, method §4.
 - [ ] **H4. Test and fix the ladders.** Count countries per rung on the Phase 1 profiles. Rewrite any rung nothing reaches or that drafters read two ways, record the change here, and write §5's paragraph.
