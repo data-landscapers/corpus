@@ -155,6 +155,21 @@ rows, _ = select.select("CIV", COUNTRIES["CIV"], docs, STUDY["subjects"], {})
 check("a country's name matches through accents and apostrophes",
       [r["slug"] for r in rows], ["ivorian"])
 
+long_doc = ("---\ntitle: A survey\n---\n\nThe opening says what this is.\n\n"
+            + "\n\n".join(f"Filler paragraph {i}." for i in range(400))
+            + "\n\nBefore the fact.\n\nThe HMIS covered 62 per cent of clinics in 2024.\n\nAfter the fact.\n\n"
+            + "\n\n".join(f"More filler {i}." for i in range(50)))
+cut = select.passages(long_doc, rx)
+check("passages keep the paragraph carrying the term, with its neighbours",
+      "Before the fact.\n\nThe HMIS covered 62 per cent of clinics in 2024.\n\nAfter the fact." in cut, True)
+check("and the document's opening, without its frontmatter",
+      cut.startswith("The opening says what this is."), True)
+check("and mark what was left out", (cut.count("[...]"), "More filler 30." in cut), (2, False))
+table = "Head\n\n" + "\n".join(f"| row {i} | {'HMIS' if i == 700 else 'x'} |" for i in range(900))
+check("a block with no blank line is cut by line, not kept whole",
+      ("| row 700 | HMIS |" in select.passages(table, rx), "| row 400 |" in select.passages(table, rx)),
+      (True, False))
+
 tmp = Path(tempfile.mkdtemp(prefix="study-test-"))
 try:
     unit = tmp / "KEN"
@@ -219,6 +234,29 @@ try:
     check("the draw is repeatable", profile.draw([("A", "x"), ("B", "x"), ("C", "x")], 2, 7),
           profile.draw([("C", "x"), ("A", "x"), ("B", "x")], 2, 7))
     check("and never larger than what is staged", len(profile.draw([("A", "x")], 20, 1)), 1)
+
+    print("\nfacts files into evidence")
+    rl = [{"n": "", "kind": "status", "slug": "dpi.mis"},
+          {"n": "1", "kind": "raw", "slug": "doc-a", "url": "https://a.org/a"},
+          {"n": "2", "kind": "raw", "slug": "doc-b", "url": "https://a.org/b"},
+          {"n": "3", "kind": "raw", "slug": "doc-c", "url": "https://a.org/c"}]
+    fact = {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1", "fact": "Hospitals report.",
+            "as_of": "2025", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+    files = {"1": {"slug": "doc-a", "facts": [fact, dict(fact, **{"class": "tracker"})],
+                   "systems": [{"system": "eTracker", "class": "tracker"}]},
+             "2": {"slug": "doc-x", "facts": [fact]}}
+    new, systems, problems = profile.merge(STUDY, "KEN", rl, files, [ev("KEN-007", "tiers", "T2", "2024")])
+    check("ids continue from the highest in evidence.csv", [r["row_id"] for r in new], ["KEN-008"])
+    check("the slug and URL are the reading list's", (new[0]["source_slug"], new[0]["url"]),
+          ("doc-a", "https://a.org/a"))
+    check("a fact about a class the sub-indicator does not assess is refused",
+          any("classed `tracker`" in p for p in problems), True)
+    check("and that system is kept as a systems row", (systems[0]["system"], systems[0]["sources"]),
+          ("eTracker", "doc-a"))
+    check("a file filed under the wrong document is refused", any("says `doc-x`" in p for p in problems), True)
+    check("a document with no file is named", any("document(s) [3]" in p for p in problems), True)
+    again, _, _ = profile.merge(STUDY, "KEN", rl, files, new)
+    check("a document already merged is not merged twice", again, [])
 
     print("\nevidence that cannot be profiled")
     bad = dict(ev("KEN-1", "tiers", "T9", "last year"), date_precision="week", url="")

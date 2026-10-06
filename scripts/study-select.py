@@ -33,6 +33,15 @@ report already read it as being about this.
 as `tagged_no_term`, so a term list that is missing a country's name for its system shows
 up as a large number beside a short list.
 
+**A long document is read around its terms, not whole** *(Bill, 2026-10-06)*. The 54 lists
+came to 6.9 million words, a handful of documents carrying most of it: one demographic
+survey is 340,000. Past `PASSAGE_WORDS` the list points at a passages file instead - every
+paragraph that carries a term, with its neighbours, under the document's opening - and says
+so in `read`. So does a document past `SPARSE_WORDS` with no more than `SPARSE_HITS` hits:
+123 such listings held 1.8 million words between them, each for a mention in passing. The
+risk is a fact stated away from any term, taken knowingly. Passages are
+source text, so they are written under the gitignored workroot and never committed.
+
 The status sub-sections themselves head each list as `kind = status` rows. Runs from the
 workroot because it reads `raw/` through Corpus's own index.
 
@@ -50,7 +59,13 @@ import status_lib  # noqa: E402
 import study_lib   # noqa: E402
 import vault_lib   # noqa: E402
 
-SUMMARY_FIELDS = ["iso3", "documents", "words", "status_sections", "tagged_no_term"]
+SUMMARY_FIELDS = ["iso3", "documents", "passages", "words", "status_sections", "tagged_no_term"]
+PASSAGE_WORDS = 20_000     # a document longer than this is read as passages
+SPARSE_WORDS = 8_000       # ...and so is one past this that carries a term only in passing
+SPARSE_HITS = 2
+SLICE_WORDS = 70_000       # what one drafter reads
+OPENING_WORDS = 300        # what of its opening is always kept, for what the document is
+LONG_BLOCK = 400           # a "paragraph" past this is a table or a wrapped page: cut by line
 ROUTES = ("status", "ledger", "subject", "considered", "regional")
 
 
@@ -72,11 +87,44 @@ def scan(rows: list[dict], read, terms: re.Pattern) -> dict[str, dict]:
             "published": str(fm.get("published") or d.get("file_date") or ""),
             "places": [str(p) for p in vault_lib.as_list(fm.get("places"))],
             "topics": [str(t) for t in vault_lib.as_list(fm.get("topics"))],
+            "url": str(fm.get("url") or ""),
             "url_norm": d.get("url_norm", ""), "words": d.get("words", 0),
             "terms": sorted({t.lower() for t in found}), "hits": len(found),
             "folded": folded if found else "",
         }
     return out
+
+
+def passages(text: str, terms: re.Pattern) -> str:
+    """The paragraphs of `text` that carry a term, each with the one before and after it.
+
+    Paragraphs rather than a window of words, because a fact and the year it is stated for
+    sit in one paragraph far more often than within any fixed distance of a term. A block
+    with no blank line in it - a table, a page captured as one run - is cut by line first,
+    or a single hit would keep the whole of it."""
+    body = text.split("\n---", 1)[1] if text.startswith("---") and "\n---" in text[3:] else text
+    blocks = []
+    for block in re.split(r"\n\s*\n", body):
+        if len(block.split()) > LONG_BLOCK:
+            blocks += [line for line in block.splitlines() if line.strip()]
+        elif block.strip():
+            blocks.append(block.strip())
+    keep, opening = set(), 0
+    for i, block in enumerate(blocks):
+        if opening < OPENING_WORDS:
+            keep.add(i)
+            opening += len(block.split())
+        if terms.search(study_lib.fold(block)):
+            keep.update((i - 1, i, i + 1))
+    out, last = [], -1
+    for i in sorted(k for k in keep if 0 <= k < len(blocks)):
+        if i != last + 1:
+            out.append("[...]")
+        out.append(blocks[i])
+        last = i
+    if last != len(blocks) - 1:
+        out.append("[...]")
+    return "\n\n".join(out) + "\n"
 
 
 def cited(iso: str, subjects: list[str], terms: re.Pattern, reports: str,
@@ -126,11 +174,35 @@ def cited(iso: str, subjects: list[str], terms: re.Pattern, reports: str,
     return routes, status_rows
 
 
+def number(status_rows: list[dict], rows: list[dict]) -> None:
+    """Give each document its number and its slice, in place.
+
+    `n` is what a drafter names its facts file after, so a list with a file for every `n` has
+    been read through. `slice` packs the list into runs of at most `SLICE_WORDS`, one drafter
+    each: a country's reading does not always fit one context, and a drafter that runs out
+    of room partway stops reading without saying so. Status rows are context for every
+    slice and carry neither."""
+    for r in status_rows:
+        r.update(n="", slice="")
+    part, room = 1, SLICE_WORDS
+    for n, r in enumerate(rows, 1):
+        words = int(r["words"])
+        if words > room and room < SLICE_WORDS:
+            part, room = part + 1, SLICE_WORDS
+        room -= words
+        r.update(n=n, slice=part)
+
+
+def name_regex(country: dict) -> re.Pattern:
+    """The country's name as a word, on folded text."""
+    return re.compile(r"(?<![A-Za-z])" + re.escape(study_lib.fold(country["name"]))
+                      + r"(?![A-Za-z])", re.I)
+
+
 def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
            routes: dict[str, set]) -> tuple[list[dict], int]:
     """`(readlist rows, tagged documents the terms dropped)` for one country."""
-    name = re.compile(r"(?<![A-Za-z])" + re.escape(study_lib.fold(country["name"]))
-                      + r"(?![A-Za-z])", re.I)
+    name = name_regex(country)
     rows, dropped = [], 0
     for slug, doc in docs.items():
         why = {r.rstrip("!") for r in routes.get(slug, ())}
@@ -149,6 +221,7 @@ def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
         if regional:
             why.add("regional")
         rows.append({"iso3": iso, "kind": "raw", "slug": slug, "path": doc["path"],
+                     "read": "whole", "url": doc["url"],
                      "title": doc["title"], "published": doc["published"],
                      "places": ";".join(doc["places"]),
                      "why": "+".join(r for r in ROUTES if r in why) or "term",
@@ -194,13 +267,48 @@ def main(argv=None) -> int:
         return 2
 
     base = os.path.join(study_lib.study_dir(a.study), "evidence")
+    cut_dir = os.path.join(vault_lib.ROOT, "study", a.study, "passages")
+    cut: dict[tuple, int] = {}
+
+    def shorten(r: dict, iso: str) -> None:
+        """Point a long document's row at its passages file.
+
+        A country's own document is cut once, around the terms, however many lists carry it.
+        **A regional one is cut per country, around the country's name**: one continental
+        report was otherwise read at 29,000 words by each of 52 drafters, for the paragraph
+        or two that concerned theirs."""
+        slug, regional = r["slug"], "regional" in r["why"].split("+")
+        key = (slug, iso if regional else "")
+        path = os.path.join(cut_dir, iso, slug + ".md") if regional else \
+            os.path.join(cut_dir, slug + ".md")
+        if key not in cut:
+            what = (f"the paragraphs naming {all_countries[iso]['name']}" if regional
+                    else "the paragraphs carrying a study term")
+            text = (f"# {r['title']}\n\nslug: {slug}\nurl: {r['url']}\npublished: {r['published']}\n"
+                    f"Passages only: {what}, of {r['words']} words.\n\n"
+                    + passages(read({"path": r["path"]}),
+                               name_regex(all_countries[iso]) if regional else terms))
+            cut[key] = len(text.split())
+            if not a.dry:
+                os.makedirs(os.path.dirname(path), exist_ok=True)
+                with open(path, "w", encoding="utf-8", newline="\n") as fh:
+                    fh.write(text)
+        r.update(read="passages", words=cut[key],
+                 path=os.path.relpath(path, study_lib.CORPUS).replace("\\", "/"))
+
     summary = []
     for iso in wanted:
         routes, status_rows = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url)
         rows, dropped = select(iso, all_countries[iso], docs, study["subjects"], routes)
+        for r in rows:
+            if int(r["words"]) > PASSAGE_WORDS or (int(r["words"]) > SPARSE_WORDS
+                                                    and int(r["hits"]) <= SPARSE_HITS):
+                shorten(r, iso)
         summary.append({"iso3": iso, "documents": len(rows),
+                        "passages": sum(1 for r in rows if r["read"] == "passages"),
                         "words": sum(int(r["words"]) for r in rows),
                         "status_sections": len(status_rows), "tagged_no_term": dropped})
+        number(status_rows, rows)
         if not a.dry:
             study_lib.write_csv(os.path.join(base, iso, "readlist.csv"),
                                 study_lib.READLIST_FIELDS, status_rows + rows)

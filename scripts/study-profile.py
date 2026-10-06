@@ -2,6 +2,7 @@
 r"""study-profile.py — each country's profile from its evidence, and the draw for the agreement check.
 
     python scripts/study-profile.py health                    # every profile.csv
+    python scripts/study-profile.py health --merge            # facts/*.json into evidence.csv first
     python scripts/study-profile.py health --as-at 2026-09-30
     python scripts/study-profile.py health --draw 20           # method §7 step 4: the cells
     python scripts/study-profile.py health --score             # ...and the count that agree
@@ -35,6 +36,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import json
 import os
 import random
 import sys
@@ -44,6 +46,56 @@ import study_lib  # noqa: E402
 
 AGREEMENT_FIELDS = ["iso3", "indicator_id", "second_stage"]
 AGREE_BAR = 0.8    # 16 of 20
+
+
+def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
+          existing: list[dict]) -> tuple[list[dict], list[dict], list[str]]:
+    """`(new evidence rows, systems rows, problems)` from one country's facts files.
+
+    A drafter writes one JSON file per document read, named for the document's `n` in the
+    reading list: `{"slug", "facts": [...], "systems": [...]}`. **The slug and the URL of a
+    row come from the reading list, never from the drafter**, so a fact cannot be filed
+    under a source the list did not hand out. A fact is kept only for the sub-indicator's
+    own class; what a document says of a tracker or a stock system is a `systems` row.
+
+    Row ids continue from the highest already in `evidence.csv`, so a second merge - the
+    Phase 2 re-read - leaves every cited id standing. A document already merged is skipped."""
+    listed = {str(r["n"]): r for r in readlist if r.get("kind") == "raw"}
+    sub_class = {s["key"]: s["class"] for s in study["sub_indicators"]}
+    done = {r["source_slug"] for r in existing}
+    nxt = max([int(r["row_id"].split("-")[1]) for r in existing] or [0]) + 1
+    rows, systems, problems = [], [], []
+    for n in sorted(files, key=lambda k: int(k) if k.isdigit() else 0):
+        doc, src = files[n], listed.get(n)
+        if src is None:
+            problems.append(f"{iso} facts/{n}.json: the reading list has no document {n}")
+            continue
+        if doc.get("slug") != src["slug"]:
+            problems.append(f"{iso} facts/{n}.json: says `{doc.get('slug')}`, the list's "
+                            f"document {n} is `{src['slug']}`")
+            continue
+        for s in doc.get("systems") or []:
+            systems.append({"iso3": iso, **{k: str(s.get(k, "") or "").strip()
+                                           for k in study_lib.SYSTEMS_FIELDS[1:-1]},
+                            "sources": src["slug"]})
+        if src["slug"] in done:
+            continue
+        for f in doc.get("facts") or []:
+            sub = f.get("sub_indicator", "")
+            if sub in sub_class and f.get("class") != sub_class[sub]:
+                problems.append(f"{iso} facts/{n}.json: a {sub} fact classed `{f.get('class')}`; "
+                                f"only `{sub_class[sub]}` systems are assessed there")
+                continue
+            rows.append({"row_id": f"{iso}-{nxt:03d}", "iso3": iso, "source_slug": src["slug"],
+                         "url": src["url"],
+                         **{k: str(f.get(k, "") or "").strip()
+                            for k in ("sub_indicator", "aspect", "value", "fact", "as_of",
+                                      "date_precision", "system", "class")}})
+            nxt += 1
+    unread = sorted(int(n) for n in listed if n not in files)
+    if unread:
+        problems.append(f"{iso}: no facts file for document(s) {unread} of the reading list")
+    return rows, systems, problems
 
 
 def _rank(aspect: dict, value: str) -> int:
@@ -118,6 +170,8 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="Profiles from evidence; the agreement draw.")
     ap.add_argument("study")
     ap.add_argument("--as-at", help="YYYY-MM-DD; default today")
+    ap.add_argument("--merge", action="store_true",
+                    help="first fold each country's facts/*.json into its evidence.csv")
     ap.add_argument("--draw", type=int, metavar="N", help="draw N staged cells for a second drafter")
     ap.add_argument("--seed", type=int, help="the draw's seed; default the as-at's ordinal")
     ap.add_argument("--score", action="store_true", help="count agreement in agreement.csv")
@@ -165,6 +219,31 @@ def main(argv=None) -> int:
 
     bad = 0
     base = os.path.join(study_lib.study_dir(a.study), "evidence")
+    if a.merge:
+        for iso in sorted(os.listdir(base)):
+            facts_dir = os.path.join(base, iso, "facts")
+            if not os.path.isdir(facts_dir):
+                continue
+            files, problems = {}, []
+            for name in sorted(os.listdir(facts_dir)):
+                if not name.endswith(".json"):
+                    continue
+                try:
+                    with open(os.path.join(facts_dir, name), encoding="utf-8") as fh:
+                        files[name[:-5].lstrip("0") or "0"] = json.load(fh)
+                except (OSError, ValueError) as e:
+                    problems.append(f"{iso} facts/{name}: not readable JSON ({e})")
+            existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
+            new, systems, more = merge(study, iso, study_lib.read_csv(
+                os.path.join(base, iso, "readlist.csv")), files, existing)
+            for p in problems + more:
+                print(f"study-profile: note - {p}")
+            study_lib.write_csv(os.path.join(base, iso, "evidence.csv"),
+                                study_lib.EVIDENCE_FIELDS, existing + new)
+            study_lib.write_csv(os.path.join(base, iso, "systems.csv"),
+                                study_lib.SYSTEMS_FIELDS, systems)
+            print(f"  {iso}  merged {len(files):3d} documents: {len(new):3d} new facts, "
+                  f"{len(systems):3d} systems")
     for iso, rows in study_lib.evidence(a.study).items():
         problems = study_lib.evidence_problems(study, iso, rows)
         if problems:

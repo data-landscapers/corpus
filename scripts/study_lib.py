@@ -39,8 +39,8 @@ PROFILE_FIELDS = ["iso3", "sub_indicator", "aspect", "role", "value", "as_of", "
                   "others", "gap"]
 SYSTEMS_FIELDS = ["iso3", "system", "country_label", "class", "platform", "owner", "tiers",
                   "sources"]
-READLIST_FIELDS = ["iso3", "kind", "slug", "path", "title", "published", "places", "why",
-                   "terms", "hits", "words"]
+READLIST_FIELDS = ["n", "slice", "iso3", "kind", "slug", "read", "path", "url", "title", "published", "places",
+                   "why", "terms", "hits", "words"]
 STAGED_FIELDS = ["file", "url", "iso3", "sub_indicator", "aspect", "title", "published"]
 RETURNED_FIELDS = STAGED_FIELDS + ["outcome", "slug", "reason"]
 PRECISIONS = ("day", "month", "year")
