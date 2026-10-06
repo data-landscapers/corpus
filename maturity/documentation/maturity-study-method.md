@@ -73,12 +73,12 @@ The rules a study's ladder is written to:
 
 - **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough. Anything else goes to the unselected register.
 - **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*: maturity evidence is not general ingest, and OSINT is told so. Candidates are written to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, flat with no country folders, each with `sweep_batch: maturity-study-{id}-{ISO3}-YYYY-MM-DD`, `places: [{ISO3}]` and the study's subject first in `topics:`.
-- **OSINT learns of a handover from a note, never from the folder.** One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. The folder's `BRIEF.md` opens by saying it is evidence for maturity study {id} and not general ingest, then gives the count by country, the selection rule, the lane asked for, the lint result and `Closed by: notes-for-osint NNN`.
+- **OSINT's cycle pulls the folder once it carries `READY`, written last** (`notes-for-corpus` 78); file names are unique against `raw/`. One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. The folder's `BRIEF.md` opens by saying it is evidence for maturity study {id} and not general ingest, then gives the count by country, the selection rule, the lane asked for, the lint result and `Closed by: notes-for-osint NNN`.
 - **Records in `maturity/{id}/search/`**: `searched.csv` by country and sub-indicator, `staged.csv` by file handed over, and `unselected.csv`. Candidate bodies are never committed in Corpus.
 
 Before the note is written, `python scripts/lint-staged-queue.py` passes over the folder; then the share is committed and pushed.
 
-**Maturity batches take OSINT's backfill lane.** `maturity-study-` must be among the prefixes `scripts/ingest-lane.py` reads: a patch cut by `scripts/osint-patch.py`, handed over once, before the first delivery.
+**Maturity batches take OSINT's backfill lane**: `maturity-study-` is among the prefixes its `scripts/ingest-lane.py` reads.
 
 **Corpus runs the searches and never writes to `raw/`** *(Bill)*. A found document reaches the study only by returning through ingest; delivery is not admission.
 
