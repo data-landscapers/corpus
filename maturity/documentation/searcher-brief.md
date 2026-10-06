@@ -21,7 +21,7 @@ A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 **One Exa Agent run per sub-indicator that has a gap** (`agent_run`, `effort: "medium"`). Load the Exa tools with ToolSearch if they are not listed. In the query: name the country and the sub-indicator in plain words, list the gaps as questions, give the held facts in a line so they are not returned again, and ask for **at most eight documents, ranked**, each with URL, title, publisher, date and one line on which gap it answers. Ask in the country's working language as well as English. Ask for the study file's source types in its order, primary and official first, and for nothing dated before 2019 except a stated absence.
 
-Do not search further by hand unless a run returns nothing.
+Do not search further by hand unless a run returns nothing. Leave out a return that is plainly another country's or not a document.
 
 ## Fetch
 

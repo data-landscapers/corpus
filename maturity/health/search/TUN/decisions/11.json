@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "governance",
+ "fact": "The 2025 state budget for the health mission, dated October 2024, lists under the leadership and support programme the activity 'development of the health information system' (تطوير المنظومة المعلوماتية للصحة) at 6,000 thousand dinars and a 'programme for setting up digital health' (برنامج تركيز الصحة الرقمية) at 10,500 thousand dinars, with no external-loan note against the information-system line; it is a domestic budget line for the ministry's information system in general and does not name routine facility reporting.",
+ "title": "ميزانية الدولة لسنة 2025 — مهمة الصحة",
+ "publisher": "وزارة المالية، الجمهورية التونسية",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": "withdrawn by the parent, 2026-10-06: an Arabic budget PDF whose text extracted garbled outside a few tables: not a usable capture"
+}

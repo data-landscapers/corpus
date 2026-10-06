@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "hmis",
+ "aspect": "governance;last12",
+ "fact": "A post by an ECSA-HC staff member states that the Ministry of Health officially launched the National Digital Health Strategy 2026-2031 and the National Digital Health Cybersecurity Manual 2026, developed under ECSA-HC's technical lead within the World Bank-financed Health Emergency Preparedness and Response Program with the Ministry and INIC; the post names no system and shows only a relative date, about June 2026.",
+ "title": "Milestone for Digital Health in São Tomé and Príncipe",
+ "publisher": "Ayebare Timothy (LinkedIn)",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": "withdrawn by the parent, 2026-10-06: a personal LinkedIn post naming no system; the strategy it announces is the document to find"
+}

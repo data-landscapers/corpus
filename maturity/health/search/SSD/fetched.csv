@@ -1,0 +1,14 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://moh.gov.ss/South%20Sudan%202025%20Health%20Statistical%20Abstract.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/1.txt,23121,pdf,
+2,https://documents1.worldbank.org/curated/en/099111523135537100/txt/P18138507b53df0a0b5ac052a85ce4cab7.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+3,https://moh.gov.ss/LMP_HSTP_SouthSudan_Final_Feb2025.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/3.txt,33221,pdf,
+4,https://documents1.worldbank.org/curated/en/789541623734054283/pdf/Heath-Service-Monitoring-in-South-Sudan.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/4.txt,3422,pdf,World Bank Document
+5,https://www.theglobalfund.org/media/8983/oig_gf-oig-19-021_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/5.txt,12116,pdf,
+6,https://www.gavi.org/sites/default/files/document/2024/Targeted-Country-Assistance-Plan-South-Sudan-2022.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/6.txt,5489,pdf,Book1
+7,https://www.ungm.org/Public/Notice/121449,fetched,,scripts/.workroot/study/health/cache/SSD/7.txt,1623,html,"DHIS2 International Consultant for South Sudan Ministry of Health - Juba, SOUTH SUDAN"
+8,https://documents1.worldbank.org/curated/en/099020926085056524/pdf/P181385-60d1e87d-2a49-4159-807e-05791fd83204.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/8.txt,12454,pdf,
+9,https://tenderimpulse.com/government-tenders/south-sudan/pilot-implementation-of-openmrs-at-al-sabah-children-s-hospital-and-munuki-phcc-11837357,fetched,,scripts/.workroot/study/health/cache/SSD/9.txt,1047,html,"Pilot Implementation of OpenMRS at Al Sabah Childrens Hospital and Munuki PHCC - Medical information systems Tender in South Sudan, ID 11837357 | Tender Impulse"
+10,https://icap.columbia.edu/news-events/with-icap-support-south-sudan-launches-its-first-electronic-art-register-to-strengthen-hiv-care/,held,held as raw/2026/2026-04-24-icap-first-electronic-art-register-south-sudan.md,,0,,
+11,https://www.moh.gov.ss/HSTP_Implementation_Manual.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/11.txt,13882,pdf,
+12,https://afro.who.int/sites/default/files/2024-06/WHO%20South%20Sudan%202023%20Annual%20Report.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/12.txt,14498,pdf,
+13,https://documents1.worldbank.org/curated/en/272961623734929628/pdf/Use-of-Technology-for-Monitoring-Health-Services.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/13.txt,2602,pdf,World Bank Document

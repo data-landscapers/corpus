@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "hmis",
+ "aspect": "clinics",
+ "fact": "Countdown to 2030 publishes DHIS2 reporting completeness for Malawi: 97 per cent of expected monthly facility reports in 2024 and in 2025.",
+ "title": "Analysis of Reproductive, Maternal, Newborn, Child and Adolescent Health Indicators for 2020-2025: Synthesis Report, Malawi",
+ "publisher": "Countdown to 2030",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": "selected by the parent, 2026-10-06: HMIS stage 5 asks for published reporting completeness, which the searcher's rule left out"
+}

@@ -1,0 +1,14 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://arm.moh.gov.et/APR_FINAL.pdf,held,held as raw/2025/2025-10-01-moh-annual-health-sector-performance-report-2017-efy.md,,0,,
+2,https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/,held,held as raw/2025/2025-09-01-echis-ethiopia-maturity-status-improvement-pathways.md,,0,,
+3,https://link.springer.com/article/10.1186/s13690-025-01641-0,fetched,,scripts/.workroot/study/health/cache/ETH/3.txt,46,html,Client Challenge
+4,https://www.countdown2030.org/wp-content/uploads/2026/09/Ethiopia.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/4.txt,4318,pdf,
+5,https://documents1.worldbank.org/curated/en/099122024154026689/pdf/BOSIB-8a28e975-d018-44ec-886e-b62edf6e308e.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/5.txt,22554,pdf,World Bank Document
+6,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0314505,fetched,,scripts/.workroot/study/health/cache/ETH/6.txt,8921,html,Unveiling the role of DHIS2 in enhancing data quality and accessibility in primary healthcare facilities: Evidence from Ethiopia
+7,https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/ETH_Ethiopia_Digital-Health-Blueprint_2021.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/7.txt,16418,pdf,
+8,https://www.moh.gov.et/sites/default/files/2024-12/REQUEST%20OF%20EXPRESSION%20OF%20INTEREST%20.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/8.txt,5702,pdf,Development and Implementation of an Inclusive National Digital Health Payment Solutions
+9,https://bmcmedinformdecismak.biomedcentral.com/counter/pdf/10.1186/s12911-021-01670-z.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/9.txt,46,html,Client Challenge
+10,https://sage.cnpereading.com/doi/10.1177/20552076241301946,fetched,,scripts/.workroot/study/health/cache/ETH/10.txt,6,html,WEB åºç¨é²ç«å¢
+11,https://documents1.worldbank.org/curated/en/099072623152034641/pdf/P18012708b759a03209b5d04da43fb09b47.pdf,fetched,,scripts/.workroot/study/health/cache/ETH/11.txt,98484,pdf,World Bank Document
+12,https://cerhb.gov.et/digital-health-systems/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+13,https://www.ecofinagency.com/news-digital/2409-48979-ethiopia-to-modernize-medical-data-management-with-digital-rollout,fetched,,scripts/.workroot/study/health/cache/ETH/13.txt,681,html,Ethiopia to Modernize Medical Data Management with Digital Rollout

@@ -1,0 +1,17 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dhis2.org/egypt-launches-dhis2-in-health-information-system/,held,held as raw/2026/2026-01-27 Egypt launches DHIS2 in its national health information system.md,,0,,
+2,https://gate.ahram.org.eg/News/5324036.aspx,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+3,https://www.unicef.org/digitalimpact/stories/egypt-deploys-dhis2-emergency-and-humanitarian-response,fetched,,scripts/.workroot/study/health/cache/EGY/3.txt,750,html,Egypt deploys DHIS2 for emergency and humanitarian response
+4,https://cdn.who.int/media/docs/default-source/digital-health-documents/global-observatory-on-digital-health/egy_support.pdf,fetched,,scripts/.workroot/study/health/cache/EGY/4.txt,2792,pdf,PowerPoint Presentation
+5,https://www.100millionseha.eg/download/1730977238.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
+6,https://documents1.worldbank.org/curated/en/099122424174518631/pdf/P172426-a7cc6cee-c82a-41f1-b9d2-93df5c7fd8cd.pdf,fetched,,scripts/.workroot/study/health/cache/EGY/6.txt,6289,pdf,World Bank Document
+7,https://eha.gov.eg/en/news/digitalization-achievements/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+8,https://www.emro.who.int/images/stories/egypt/Egypt-achievements-report-2024.pdf,fetched,,scripts/.workroot/study/health/cache/EGY/8.txt,5432,pdf,Achievements Report - June
+9,https://www.100millionseha.eg/download/1730977238.pdf,duplicate,same document as lead 5,,0,,
+10,https://applications.emro.who.int/docs/9789292746926-eng.pdf,held,held as raw/2025/2025-01-01-who-egypt-country-cooperation-strategy-2024-2028.md,,0,,
+11,https://documents1.worldbank.org/curated/en/099122424174518631/pdf/P172426-a7cc6cee-c82a-41f1-b9d2-93df5c7fd8cd.pdf,duplicate,same document as lead 6,,0,,
+12,https://extranet.who.int/uhcpartnershiplivemonitoring/activity/egypt-standard-medical-records-and-electronic-medical-records-systems-are-piloted,fetched,,scripts/.workroot/study/health/cache/EGY/12.txt,45,html,Egypt Standard Medical records and Electronic medical records systems are piloted at facilities implementing Universal health insurance
+13,https://www.jptcp.com/index.php/jptcp/article/view/5658,fetched,,scripts/.workroot/study/health/cache/EGY/13.txt,739,html,Journal of Population Therapeutics and Clinical Pharmacology
+14,https://pmc.ncbi.nlm.nih.gov/articles/PMC6452979/,fetched,,scripts/.workroot/study/health/cache/EGY/14.txt,18,html,Checking your browser
+15,https://meddocsonline.org/journal-of-community-medicine/a-model-for-computerization-and-implementation-of-electronic-health-records-in-primary-healthcare-in-egypt.html,fetched,,scripts/.workroot/study/health/cache/EGY/15.txt,4986,html,Journal of Community Medicine
+16,https://gate.ahram.org.eg/News/5324036.aspx,duplicate,same document as lead 2,,0,,

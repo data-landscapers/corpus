@@ -1,0 +1,16 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.afro.who.int/sites/default/files/2022-07/Final%20Service%20Statistic%20Report%2C%202021.pdf,fetched,,scripts/.workroot/study/health/cache/GMB/1.txt,23219,pdf,
+2,https://journals.lww.com/pidj/fulltext/2025/02001/toward_an_electronic_pregnancy_registry_in_the.30.aspx,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+3,https://www.gavi.org/news/document-library/joint-appraisal-gambia-2019,fetched,,scripts/.workroot/study/health/cache/GMB/3.txt,11021,pdf,
+4,https://arpsmedia.com/national-workshop-on-integrating-hepatitis-indicators-into-dhis2/,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+5,https://documents1.worldbank.org/curated/en/099090425084534470/txt/P173287-5bcc280a-f7bf-466a-9db4-6e7536cb50f0.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+6,https://www.afro.who.int/sites/default/files/2024-02/The%20Gambia%20Annual%20Report%202022.pdf,fetched,,scripts/.workroot/study/health/cache/GMB/6.txt,18592,pdf,
+7,https://mofea.gov.gm/wp-content/uploads/2025/04/2025-Approved-Budget-Citizens-Version.pdf,held,held as raw/2025/2025-04-01-gmb-citizens-budget-2025-companion.md,,0,,
+8,https://moh.gov.gm/wp-content/uploads/2026/05/FINAL-NATIONAL-HEALTH-POLICY_28-FEB-2024.pdf,fetched,,scripts/.workroot/study/health/cache/GMB/8.txt,15019,pdf,
+9,https://doi.org/10.60787/aksujacog.vol6no1.20-35,fetched,,scripts/.workroot/study/health/cache/GMB/9.txt,492,html,"Article: Assessing the Current State of Digitalisation at the Edward Francis Small Teaching Hospital (EFSTH), The Gambia"
+10,https://thepoint.gm/africa/gambia/national-news/efsth-launches-emr-system,fetched,,scripts/.workroot/study/health/cache/GMB/10.txt,663,html,EFSTH launches EMR System
+11,https://documents1.worldbank.org/curated/en/099121523194133413/pdf/P1598650585e0e01c0b8ae0dcc1f1cc826c.pdf,fetched,,scripts/.workroot/study/health/cache/GMB/11.txt,20378,pdf,World Bank Document
+12,https://policies.gov.gm/d/a94e8d2c-8627-11ef-b086-029254d29bb1,fetched,,scripts/.workroot/study/health/cache/GMB/12.txt,19634,pdf,
+13,https://openimis.atlassian.net/wiki/spaces/OP/pages/3876749313/The+Gambia+National+Health+Insurance,fetched,,scripts/.workroot/study/health/cache/GMB/13.txt,152,html,The Gambia / National Health Insurance
+14,https://openimis.atlassian.net/wiki/spaces/OP/pages/3477110785/Project+Customization+The+Gambia,fetched,,scripts/.workroot/study/health/cache/GMB/14.txt,98,html,Project: Customization The Gambia
+15,https://www.giepa.gm/media/userfiles/subsite_199/files/resource-library/e-health-records.pdf,fetched,,scripts/.workroot/study/health/cache/GMB/15.txt,1760,pdf,

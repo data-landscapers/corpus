@@ -1,0 +1,14 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/gha_ghana_policy-and-strategy-on-digital-health_2023-2027.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/1.txt,13827,pdf,
+2,https://www.moh.gov.gh/wp-content/uploads/2026/08/HSMTDP_Final-Draft_compiled_latest_signed-copy-EDITED-2.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/2.txt,49997,pdf,HEALTH SECTOR MEDIUM-TERM DEVELOPMENT PLAN (2026-2029)
+3,https://www.bmz-digital.global/wp-content/uploads/2024/10/GHANA-Health-Data-Ecosystem-Mapping-DIPC.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/3.txt,8213,pdf,
+4,https://mofep.gov.gh/sites/default/files/pbb-estimates/2025/2025-PBB-MoH.pdf,held,held as raw/2025/2025-01-01-gha-pbb-2025-moh-companion.md,,0,,
+5,https://www.countdown2030.org/wp-content/uploads/2025/10/Ghana-Synthesis-Report.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/5.txt,1528,pdf,
+6,https://ghs.gov.gh/news-and-events/ghs-ict-department-honoured-for-excellence-in-digital-health-innovation-accra-ghana--october-2025,fetched,,scripts/.workroot/study/health/cache/GHA/6.txt,410,html,Ghana Health Service (GHS) ICT Department Honoured for Excellence in Digital Health Innovation | Ghana Health Service
+7,https://www.countdown2030.org/wp-content/uploads/2024/07/CHARTBOOK-GHANA-2024-1.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/7.txt,3903,pdf,CHARTBOOK GHANA 2024
+8,https://mhealth.amegroups.org/article/view/133615/html,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+9,https://www.moh.gov.gh/wp-content/uploads/2025/01/GHANA-HSMTDP-MTR-REPORT_FINAL_SIGNED.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/9.txt,25017,pdf,
+10,https://www.moh.gov.gh/wp-content/uploads/2025/01/Holistic-Assessment-Tool_4thEdition_FINAL-3.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/10.txt,4597,pdf,Holistic Assessment of performance in the Health Sector
+11,https://www.moh.gov.gh/wp-content/uploads/2024/05/2023-Holistic-Assessment-Presentation_15.05.2024.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/11.txt,3695,pdf,Holistic Assessment of POW 2014
+12,https://www.mofep.gov.gh/sites/default/files/budget-statements/2026-Budget-Speech.pdf,fetched,,scripts/.workroot/study/health/cache/GHA/12.txt,14223,pdf,
+13,https://gna.org.gh/2024/11/veep-launches-national-e-health-project-to-transform-ghanas-healthcare-system/,fetched,,scripts/.workroot/study/health/cache/GHA/13.txt,766,html,Veep launches National E-Health project to transform Ghana's healthcare system | Ghana News Agency

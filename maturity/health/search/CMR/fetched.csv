@@ -1,0 +1,12 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://biblio-minsante.cm/server/api/core/bitstreams/7f4eeb8b-67fe-4692-b639-3c43e8a3580c/content,fetched,,scripts/.workroot/study/health/cache/CMR/1.txt,11623,pdf,
+2,https://biblio-minsante.cm/server/api/core/bitstreams/aaedd9ea-3ca4-4776-b89c-6218bfc3eaea/content,fetched,,scripts/.workroot/study/health/cache/CMR/2.txt,5000,pdf,
+3,https://biblio-minsante.cm/server/api/core/bitstreams/2bc60008-7482-4a7c-842d-15f112a2efd7/content,fetched,,scripts/.workroot/study/health/cache/CMR/3.txt,5835,pdf,
+4,https://documents1.worldbank.org/curated/en/099041925105538435/pdf/P178033-d78154cd-d774-432b-a705-9636c8a8a3b0.pdf,held,held as raw/2025/2025-04-19-worldbank-p178033-isr-djibouti-health-system-strengthening.md,,0,,
+5,https://link.springer.com/article/10.1186/s12911-020-01351-3,fetched,,scripts/.workroot/study/health/cache/CMR/5.txt,46,html,Client Challenge
+6,https://pmc.ncbi.nlm.nih.gov/articles/PMC10620639/,fetched,,scripts/.workroot/study/health/cache/CMR/6.txt,18,html,Checking your browser
+7,https://cdn.who.int/media/docs/default-source/documents/ddi/score/country-profiles/who_score_cmr_en.pdf,fetched,,scripts/.workroot/study/health/cache/CMR/7.txt,3196,pdf,
+8,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/cmr_cameroon_digital-health-strategy_2020-2024.pdf,fetched,,scripts/.workroot/study/health/cache/CMR/8.txt,23913,pdf,
+9,https://pmc.ncbi.nlm.nih.gov/articles/PMC8792422/,fetched,,scripts/.workroot/study/health/cache/CMR/9.txt,18,html,Checking your browser
+10,https://ecomatin.net/le-gouvernement-en-quete-dune-expertise-etrangere-pour-operationnaliser-la-digitalisation-des-dossiers-medicaux,fetched,,scripts/.workroot/study/health/cache/CMR/10.txt,1348,html,Santé publique : le gouvernement en quête d’une expertise étrangère pour opérationnaliser la digitalisation des dossiers médicaux
+11,https://www.minsante.cm/site/?q=fr%2Fcontent%2Fpartenariat-public-priv%C3%A9-un-projet-de-financement-pour-la-signature-du-m%C3%A9morandum-dentente,unfetchable,"ReadTimeout; Wayback HTTP 429, not checked",,0,,

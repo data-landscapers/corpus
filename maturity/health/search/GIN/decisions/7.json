@@ -1,0 +1,1 @@
+{"select": false, "sub_indicator": "hmis", "aspect": "clinics", "fact": "", "title": "Contacts des agents de saisie sur la plateforme DHIS2 au niveau des DPS", "publisher": "CNLS-Guinée", "published": "2019-10", "date_source": "proxy", "why_not": "A contact list of DPS data-entry agents; states no fact about clinics entering their own reports."}

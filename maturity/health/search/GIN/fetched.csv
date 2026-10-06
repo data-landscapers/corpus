@@ -1,0 +1,11 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/ANNUAIRE_DES_STATISTIQUES_2024.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+2,https://guineenews.org/2022/09/22/le-ministere-de-la-sante-modernise-la-gestion-des-donnees-sanitaires-grace-a-lappui-conjoint-de-lunion-europeenne-lallemagne-et-la-france/,fetched,,scripts/.workroot/study/health/cache/GIN/2.txt,950,html,"Le ministère de la Santé modernise la gestion des données sanitaires grâce à l’appui conjoint de l’Union européenne, l’Allemagne et la France"
+3,https://guineenews.org/2022/10/27/crs-soutient-le-ministere-de-la-sante-dans-la-formation-des-nouveaux-irs-dps-et-directeurs-des-hopitaux-des-regions-de-conakry-et-de-boke-sur-lutilisation-de-la-plateforme-dhis2/,fetched,,scripts/.workroot/study/health/cache/GIN/3.txt,803,html,CRS soutient le Ministère de la Santé dans la formation des nouveaux IRS/DPS et Directeurs des Hôpitaux des régions de Conakry et de Boké sur l’utilisation de la plateforme Dhis2
+4,https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/Annuaire_statistique_sante_2022.pdf,fetched,,scripts/.workroot/study/health/cache/GIN/4.txt,53427,pdf,
+5,https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/Annuaire_2021_draft0_30_06_2022_VF.pdf,fetched,,scripts/.workroot/study/health/cache/GIN/5.txt,89603,pdf,
+6,https://www.stat-guinee.org/images/Documents/Publications/SSN/sante/Annuaire%202019_Consolide_%20VF%20260421%20diakit%C3%A9.pdf,fetched,,scripts/.workroot/study/health/cache/GIN/6.txt,104026,pdf,
+7,http://cnls-guineeconakry.org/wp-content/uploads/2019/10/CONTACTS-DES-AGENTS-DE-SAISIE-SUR-LA-PLATEFORME-DHIS2-AU-NIVEAU-DES-DPS.pdf,fetched,,scripts/.workroot/study/health/cache/GIN/7.txt,424,pdf,
+8,https://documents1.worldbank.org/curated/en/099060624172031113/txt/P5060721fca8a500189cc1c820cdefd437.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+9,https://sante.gov.gn/mshp-la-revue-du-pnds-2015-2024-et-la-redaction-du-plan-2025-2034-souvre-a-kindia/,fetched,,scripts/.workroot/study/health/cache/GIN/9.txt,370,html,UNE GUINEE NOUVELLE EST POSSIBLE
+10,https://ghlink.org/ehr-portal.html,fetched,,scripts/.workroot/study/health/cache/GIN/10.txt,232,html,The GuinÃ©e HealthLink EHR Portal
