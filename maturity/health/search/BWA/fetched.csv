@@ -8,8 +8,8 @@ k,url,status,detail,cache,words,kind,page_title
 7,https://afro.who.int/countries/botswana/news/european-union-and-who-support-botswanas-health-data-efforts-districts,fetched,,scripts/.workroot/study/health/cache/BWA/7.txt,260,html,The European Union and WHO Support Botswana’s Health Data Efforts in the Districts
 8,https://ehr.meditech.com/news/sir-ketumile-masire-teaching-hospital-implements-meditech-expanse,fetched,,scripts/.workroot/study/health/cache/BWA/8.txt,511,html,Sir Ketumile Masire Teaching Hospital implements MEDITECH Expanse
 9,https://www.thegazette.news/news/moh-pilots-digital-health-ecosystem/,fetched,,scripts/.workroot/study/health/cache/BWA/9.txt,320,html,MoH Pilots Digital Health Ecosystem
-10,https://pmc.ncbi.nlm.nih.gov/articles/PMC8379582/,fetched,,scripts/.workroot/study/health/cache/BWA/10.txt,18,html,Checking your browser
-11,https://extranet.who.int/countryplanningcycles/planning-cycle-files/botswana-ehealth-strategy-2020-2024,fetched,,scripts/.workroot/study/health/cache/BWA/11.txt,46,html,Botswana-eHealth Strategy 2020-2024
+10,https://pmc.ncbi.nlm.nih.gov/articles/PMC8379582/,fetched,"second pass, by Europe PMC",scripts/.workroot/study/health/cache/BWA/10.txt,6571,xml,Interoperability opportunities and challenges in linking mhealth applications and eRecord systems: Botswana as an exemplar
+11,https://extranet.who.int/countryplanningcycles/planning-cycle-files/botswana-ehealth-strategy-2020-2024,fetched,second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: 429 three times,scripts/.workroot/study/health/cache/BWA/11.txt,46,html,Botswana-eHealth Strategy 2020-2024
 12,https://documents1.worldbank.org/curated/en/099541410302526068/pdf/IDU-b74a99ca-88c5-43e8-aba0-34a34d67e29f.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/12.txt,5752,pdf,World Bank Document
 13,https://noyam.org/wp-content/uploads/2023/04/EHASS20234416.pdf,fetched,,scripts/.workroot/study/health/cache/BWA/13.txt,5743,pdf,
-14,https://www.researchprotocols.org/2024/1/e52411,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+14,https://www.researchprotocols.org/2024/1/e52411,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: 429 three times",,0,,

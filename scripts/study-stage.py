@@ -38,7 +38,8 @@ records, all metadata, in `maturity/{id}/search/`:
 cycle pulls a folder that carries `READY`, so this is the delivery and is a step of its own:
 it is run after `lint-staged-queue.py` has been read and Bill has the count.
 
-Frontmatter carries what a searcher established from the page and nothing guessed:
+A decision may say `"body_completeness": "excerpt"` where the fetch gave an abstract or a
+part; otherwise the file says `full`. Frontmatter carries what a searcher established from the page and nothing guessed:
 `entities` is left for ingest, and `topics` takes the study's `stage_topic` alone.
 
 Exit: 0 done, 1 a decision that cannot be staged, 2 a missing file or a folder already delivered.
@@ -161,7 +162,9 @@ def second_route(url: str) -> tuple:
                 paras = [p.get_text(" ", strip=True) for p in soup.find_all(["title", "p"])]
                 body = "\n\n".join(p for p in paras if p)
                 if len(body.split()) > THIN_WORDS:
-                    return body, r.url, "xml", title.get_text(" ", strip=True) if title else "", "Europe PMC"
+                    # Filed under the article's own address: it is the same article from the
+                    # same archive, and the staging lint reads a different `URL:` as a crossed body.
+                    return body, url, "xml", title.get_text(" ", strip=True) if title else "", "Europe PMC"
             tried.append(f"Europe PMC HTTP {r.status_code}")
         except requests.RequestException as e:
             tried.append(f"Europe PMC {type(e).__name__}")
@@ -255,6 +258,8 @@ def decision_problem(study: dict, d: dict) -> str:
     bad = [a for a in str(d["aspect"]).split(";") if a.strip() not in known]
     if bad:
         return f"aspect `{bad[0]}` is not in the study"
+    if d.get("body_completeness", "full") not in ("full", "excerpt", "paywalled"):
+        return f"body_completeness `{d.get('body_completeness')}` is not full, excerpt or paywalled"
     if d.get("date_source", "source") not in ("source", "proxy"):
         return f"date_source `{d.get('date_source')}` is not source or proxy"
     return ""
@@ -271,7 +276,7 @@ def candidate(study: dict, d: dict, places: list[str], body: str, today: str) ->
              f"publisher: {ss.yq(d['publisher'].strip())}", f"published: {date}",
              f"date_precision: {precision}", f"date_source: {source}", f"retrieved: {today}",
              f"places: [{', '.join(places)}]", f"topics: [{study.get('stage_topic', '')}]",
-             "entities: []", "body_completeness: full",
+             "entities: []", f"body_completeness: {d.get('body_completeness') or 'full'}",
              f"sweep_batch: maturity-study-{study['id']}-{places[0]}-{today}",
              f"note: {ss.yq(note)}", "---", "", f"# {d['title'].strip()}"]
     return name, "\n".join(lines) + "\n" + body.rstrip("\n") + "\n"

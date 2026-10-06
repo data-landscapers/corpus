@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://health.go.ke/sites/default/files/2026-08/KHSSP%202023-2027%20signed%20copy.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+1,https://health.go.ke/sites/default/files/2026-08/KHSSP%202023-2027%20signed%20copy.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/health/cache/KEN/1.txt,51245,pdf,
 2,https://www.path.org/our-impact/articles/digital-health-strategy-kenya/,fetched,,scripts/.workroot/study/health/cache/KEN/2.txt,666,html,Mapping out a digital health strategy in Kenya
 3,https://www.idinsight.org/wp-content/uploads/2024/10/Financial-Non-Financial-Information-Flow-Kenya-Health-Sector.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/3.txt,21379,pdf,
-4,https://www.ajol.info/index.php/eamj/article/view/270642,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
-5,https://www.health.go.ke/sites/default/files/2024-01/Kenya%20Health%20Facility%20Census%20Report%20September%202023.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+4,https://www.ajol.info/index.php/eamj/article/view/270642,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: 429 three times",,0,,
+5,https://www.health.go.ke/sites/default/files/2024-01/Kenya%20Health%20Facility%20Census%20Report%20September%202023.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/health/cache/KEN/5.txt,24248,pdf,
 6,https://www.countdown2030.org/wp-content/uploads/2023/08/KHSSP-MTR-Statistical-report.pdf,fetched,,scripts/.workroot/study/health/cache/KEN/6.txt,25231,pdf,KHSSP MTR Statistical report
-7,https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-10133-2,fetched,,scripts/.workroot/study/health/cache/KEN/7.txt,46,html,Client Challenge
-8,https://chu4uhc.org/strengthening-kenyas-digital-health-systems-through-local-control-and-capacity-building/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+7,https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-10133-2,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/KEN/7.txt,7512,html,Development of novel composite data quality scores to evaluate facility-level data quality in electronic data in Kenya: a nationwide retrospective cohort study - BMC Health Services Research
+8,https://chu4uhc.org/strengthening-kenyas-digital-health-systems-through-local-control-and-capacity-building/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,

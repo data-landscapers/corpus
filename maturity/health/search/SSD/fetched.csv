@@ -1,6 +1,6 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://moh.gov.ss/South%20Sudan%202025%20Health%20Statistical%20Abstract.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/1.txt,23121,pdf,
-2,https://documents1.worldbank.org/curated/en/099111523135537100/txt/P18138507b53df0a0b5ac052a85ce4cab7.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+2,https://documents1.worldbank.org/curated/en/099111523135537100/txt/P18138507b53df0a0b5ac052a85ce4cab7.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
 3,https://moh.gov.ss/LMP_HSTP_SouthSudan_Final_Feb2025.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/3.txt,33221,pdf,
 4,https://documents1.worldbank.org/curated/en/789541623734054283/pdf/Heath-Service-Monitoring-in-South-Sudan.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/4.txt,3422,pdf,World Bank Document
 5,https://www.theglobalfund.org/media/8983/oig_gf-oig-19-021_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/SSD/5.txt,12116,pdf,

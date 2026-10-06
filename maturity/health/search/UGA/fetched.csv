@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%20%20FY%202023_24.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+1,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%20%20FY%202023_24.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/health/cache/UGA/1.txt,71935,pdf,
 2,https://www.theglobalfund.org/media/15329/oig_gf-oig-24-020_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/2.txt,9062,pdf,
-3,https://www.health.go.ug/wp-content/uploads/2022/02/MoH-Strategic-Plan-2020_25.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://www.health.go.ug/wp-content/uploads/2022/02/MoH-Strategic-Plan-2020_25.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
 4,https://thedocs.worldbank.org/en/doc/0273f33ab6ee48c5d842108b9b55c789-0140022025/related/National-Health-Compacts-Uganda.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/4.txt,20684,pdf,
-5,https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/Ministry%20of%20Health_22.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+5,https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/Ministry%20of%20Health_22.pdf,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/UGA/5.txt,8744,pdf,Report
 6,https://www.gavi.org/sites/default/files/document/2024/Targeted-Country-Assistance-Plan-Uganda-2022.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/6.txt,792,pdf,
 7,https://library.health.go.ug/file-download/download/public/1853,fetched,,scripts/.workroot/study/health/cache/UGA/7.txt,1138,pdf,Monthly_Malaria Surveillance
 8,https://library.health.go.ug/sites/default/files/resources/Annual%20Health%20Sector%20Performance%20Report%202019-2020%20FY-1_0.pdf,fetched,,scripts/.workroot/study/health/cache/UGA/8.txt,83288,pdf,

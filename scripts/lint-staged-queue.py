@@ -593,7 +593,10 @@ def check_flat(docs: list[Doc]) -> list[tuple[str, str, list[str]]]:
         body = d.body
         if len(body) < FLAT_MIN_CHARS:
             continue
-        words = re.findall(r"[^\W\d_]+", deaccent(body).lower(), re.UNICODE)
+        # Addresses are not prose: seven authors at `gmail.com` gave an English abstract
+        # seventeen `com`s, enough to read as Portuguese (maturity study health, 2026-10-06).
+        prose = re.sub(r"\S+@\S+|https?://\S+|www\.\S+", " ", body)
+        words = re.findall(r"[^\W\d_]+", deaccent(prose).lower(), re.UNICODE)
         if len(words) < 300:
             continue
         fr = sum(1 for w in words if w in FR_WORDS) / len(words)

@@ -1,16 +1,16 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://ajtmh.org/view/journals/tpmd/tpmd-overview.xml?contents=toc-23958,fetched,,scripts/.workroot/study/health/cache/MOZ/1.txt,1884,html,The American Journal of Tropical Medicine and Hygiene
-2,https://misau.gov.mz/wp-content/uploads/2025/04/Tors-Sistema-de-informacao-marco-23.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
-3,https://sisma.misau.gov.mz/docs/Anu%C3%A1rio%20Estat%C3%ADstico%20de%20Sa%C3%BAde%20-%202024%2022.04.2025.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+2,https://misau.gov.mz/wp-content/uploads/2025/04/Tors-Sistema-de-informacao-marco-23.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,
+3,https://sisma.misau.gov.mz/docs/Anu%C3%A1rio%20Estat%C3%ADstico%20de%20Sa%C3%BAde%20-%202024%2022.04.2025.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,
 4,https://www.malariaconsortium.org/media-library/media-files/202111171038211026_imissevaluation_annsophiefinal.pdf,fetched,,scripts/.workroot/study/health/cache/MOZ/4.txt,1857,pdf,
 5,https://www.mn.uio.no/ifi/english/research/groups/is/ifip-94/proceedings-virtual-conference-2021/all-papers/collinsonetal.pdf,fetched,,scripts/.workroot/study/health/cache/MOZ/5.txt,6419,pdf,
 6,https://cdn.who.int/media/docs/default-source/documents/emergencies/herams/herams_moz_cabo_delgado_summary_update_report_202307.pdf?download=true&sfvrsn=c92c9eec_3,fetched,,scripts/.workroot/study/health/cache/MOZ/6.txt,10626,pdf,
 7,https://pmc.ncbi.nlm.nih.gov/articles/PMC10364158/,fetched,,scripts/.workroot/study/health/cache/MOZ/7.txt,7314,html,Quality of routine data for monitoring nutrition and diarrhoea indicators of children under 5 in Mozambique: an ecological study over a 5-year period
-8,https://sisma.misau.gov.mz/docs/Anu%C3%A1rio%20Estat%C3%ADstico%20de%20Sa%C3%BAde%20-%202025%2030.04.2026.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+8,https://sisma.misau.gov.mz/docs/Anu%C3%A1rio%20Estat%C3%ADstico%20de%20Sa%C3%BAde%20-%202025%2030.04.2026.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,
 9,https://www.theglobalfund.org/media/13744/oig_gf-oig-24-007_report_en.pdf,fetched,,scripts/.workroot/study/health/cache/MOZ/9.txt,10155,pdf,
 10,https://csaude.org.mz/2024/07/24/epts-centralization-in-mozambique-transforming-provincial-health-data-management-2/,fetched,,scripts/.workroot/study/health/cache/MOZ/10.txt,404,html,EPTS Centralization in Mozambique-Transforming Provincial Health Data Management - C-Saúde
 11,https://decide-tb.com/implementation-of-digital-data-collection-tools-in-health-centers/,fetched,,scripts/.workroot/study/health/cache/MOZ/11.txt,214,html,Implementation of digital data collection tools in health centers | Decide TB
 12,https://csaude.org.mz/sesp-poc/,fetched,,scripts/.workroot/study/health/cache/MOZ/12.txt,130,html,SESP POC - C-Saúde
-13,https://europepmc.org/article/MED/39996523,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+13,https://europepmc.org/article/MED/39996523,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: 429 three times",,0,,
 14,https://documents1.worldbank.org/curated/en/099061025143031719/pdf/BOSIB-ec28b866-d762-4cc2-b2c5-96f04c361310.pdf,fetched,,scripts/.workroot/study/health/cache/MOZ/14.txt,22305,pdf,World Bank Document
 15,https://csaude.org.mz/2025/07/29/ministry-of-health-and-c-saude-partner-towards-the-development-of-an-integrated-health-information-system-in-mozambique/,fetched,,scripts/.workroot/study/health/cache/MOZ/15.txt,466,html,Ministry of Health and C-Saúde partner towards the development of an integrated Health Information System in Mozambique - C-Saúde

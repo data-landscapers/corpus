@@ -8,4 +8,4 @@ k,url,status,detail,cache,words,kind,page_title
 7,https://libyaherald.com/2024/01/national-comprehensive-health-care-programme-and-health-number-system-launched/,fetched,,scripts/.workroot/study/health/cache/LBY/7.txt,427,html,Libya Launches National Comprehensive Health Care Programme and Health Number System
 8,https://libyaherald.com/2022/05/trail-run-of-the-unified-electronic-health-file-system-inaugurated/,fetched,,scripts/.workroot/study/health/cache/LBY/8.txt,326,html,Libya Launches Trial of Unified Electronic Health File System
 9,https://lana.gov.ly/post.php?id=294285&lang=ar,fetched,,scripts/.workroot/study/health/cache/LBY/9.txt,142,html,وزير الصحة المكلف يصدر القرار رقم ( 1740 ) بشأن اعتماد الرقم الصحي
-10,https://cjos.histr.edu.ly/index.php/journal/article/download/1132/922,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+10,https://cjos.histr.edu.ly/index.php/journal/article/download/1132/922,fetched,"second pass, by second client",scripts/.workroot/study/health/cache/LBY/10.txt,5288,pdf,

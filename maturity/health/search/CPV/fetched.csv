@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://documents1.worldbank.org/curated/en/099111924122078581/pdf/P175840-1a3a0438-2d5c-487f-8960-7e60d83dfb5b.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/1.txt,2663,pdf,World Bank Document
 2,https://www.afro.who.int/sites/default/files/2026-06/EN_Results_of_techinical_cooperation_WHO_CPV%20%28v2.0%29.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/2.txt,7598,pdf,
-3,https://minsaude.gov.cv/download/102/legislacao/8256/bo_14-06-2023_107-despacho-n-o-24-ms-2023criacao-da-comissao-de-coordenacao-e-acompanhamento-da-saude-digital-em-cabo-verde.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+3,https://minsaude.gov.cv/download/102/legislacao/8256/bo_14-06-2023_107-despacho-n-o-24-ms-2023criacao-da-comissao-de-coordenacao-e-acompanhamento-da-saude-digital-em-cabo-verde.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: 429 three times",,0,,
 4,https://ugpe.gov.cv/uploads/TDR_OP_3_28_04_2026_vf_1_f29bd63f85.pdf,held,held as raw/2026/2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude.md,,0,,
-5,https://minsaude.gov.cv/download/114/relatorio-estatistico/8943/relatorio-estatistico-ministerio-da-saude-2022.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+5,https://minsaude.gov.cv/download/114/relatorio-estatistico/8943/relatorio-estatistico-ministerio-da-saude-2022.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: 429 three times",,0,,
 6,https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf,held,held as raw/2026/2026-09-04-cabo-verde-ida-health-digital-tools-tender.md,,0,,
 7,https://www.mf.gov.cv/documents/20126/0/Terms%2Bof%2BReference%2B-ugpe.pdf/b0d39856-c19f-5ca9-2081-a9cdeb683c0a?t=1706880078938,fetched,,scripts/.workroot/study/health/cache/CPV/7.txt,3686,pdf,
 8,https://afro.who.int/sites/default/files/2026-06/PT_Relatorio_Bianual_OMS_Cabo_Verde_2024_25%20%28v2.0%29.pdf,fetched,,scripts/.workroot/study/health/cache/CPV/8.txt,8137,pdf,

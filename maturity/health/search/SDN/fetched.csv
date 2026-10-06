@@ -7,4 +7,4 @@ k,url,status,detail,cache,words,kind,page_title
 6,https://applications.emro.who.int/docs/9789290229704-eng.pdf,fetched,,scripts/.workroot/study/health/cache/SDN/6.txt,15633,pdf,CONTENTS
 7,https://nhif.gov.sd/19309/,fetched,,scripts/.workroot/study/health/cache/SDN/7.txt,404,html,إجتماع مشترك لوضع استراتيجية متكاملة لخطة التحول الرقمي في القطاع الصحي | الصندوق القومي للتأمين الصحي
 8,https://www.suda.health/solutions,fetched,,scripts/.workroot/study/health/cache/SDN/8.txt,113,html,Services
-9,https://pmc.ncbi.nlm.nih.gov/articles/PMC10717329/,fetched,,scripts/.workroot/study/health/cache/SDN/9.txt,18,html,Checking your browser
+9,https://pmc.ncbi.nlm.nih.gov/articles/PMC10717329/,fetched,"second pass, by Europe PMC",scripts/.workroot/study/health/cache/SDN/9.txt,4693,xml,"Readiness of managers and health care workers for e-Health: a cross-sectional study in Khartoum primary health care centers, Sudan"

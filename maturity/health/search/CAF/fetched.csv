@@ -10,5 +10,5 @@ k,url,status,detail,cache,words,kind,page_title
 9,https://documents1.worldbank.org/curated/en/099011624182013793/pdf/P16495318bb4d50ba191831ed09e477e0be.pdf,fetched,,scripts/.workroot/study/health/cache/CAF/9.txt,7743,pdf,World Bank Document
 10,https://documents1.worldbank.org/curated/en/099605003172240121/pdf/P1770030CAR0SE0ES0150March020220VF.pdf,fetched,,scripts/.workroot/study/health/cache/CAF/10.txt,72312,pdf,World Bank Document
 11,http://sante.gouv.cf/sites/default/files/2024-07/Politique%20Nationale%20Sant%C3%A9_2019-2030.pdf,fetched,,scripts/.workroot/study/health/cache/CAF/11.txt,21140,pdf,
-12,https://files.aho.afro.who.int/afahobckpcontainer/production/files/Rapport_SARA_HeRAMS_final.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+12,https://files.aho.afro.who.int/afahobckpcontainer/production/files/Rapport_SARA_HeRAMS_final.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,
 13,https://digitaltransformationcar.org/french.html,fetched,,scripts/.workroot/study/health/cache/CAF/13.txt,423,html,Digital Transformation Unit

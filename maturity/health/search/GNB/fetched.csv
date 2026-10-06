@@ -1,6 +1,6 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://extranet.who.int/cpcd/sites/default/files/public_file_repository/GNB_Guinea-Bissau_Plano-Nacional-de-Desenvolvimento-Sanitario-PNDSIII_2023-2028.pdf,held,held as raw/2023/2023-06-01-minsap-pnds-iii-plano-nacional-desenvolvimento-sanitario-2023-2028.md,,0,,
-2,https://www.inasa.gw/elaboracao_pensis-2023-2027_gb/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://www.inasa.gw/elaboracao_pensis-2023-2027_gb/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: 429 three times",,0,,
 3,https://www.afro.who.int/sites/default/files/2024-05/Anu%C3%A1rio%20estat%C3%ADstico%202022_web.pdf,fetched,,scripts/.workroot/study/health/cache/GNB/3.txt,18626,pdf,Anuário estatístico 2022
 4,https://www.afro.who.int/sites/default/files/2024-05/Guin%C3%A9-Bissau-Relat%C3%B3rio%20do%20-%20HHFA-2023.pdf,fetched,,scripts/.workroot/study/health/cache/GNB/4.txt,120647,pdf,
 5,https://www.afro.who.int/sites/default/files/2024-05/Relat%C3%B3rio%20de%20Contas%20Nacionais%20de%20sa%C3%BAde%20GUIN%C3%89-BISSAU_2018_2021web.pdf,fetched,,scripts/.workroot/study/health/cache/GNB/5.txt,20327,pdf,Capa contas nacionais
