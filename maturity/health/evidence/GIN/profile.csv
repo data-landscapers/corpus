@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GIN,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,GIN-010;GIN-011;GIN-012,GIN-026=finance:donor;GIN-027=owner:ministry;GIN-023=owner:ministry;GIN-029=plan:current;GIN-030=owner:ministry,
 GIN,hmis,tiers,coverage,T1;T2;T3;T4,2026-03,GIN-009,,
-GIN,hmis,digitised,coverage,paper,2026-08,GIN-005;GIN-024,GIN-014=district;GIN-025=district;GIN-028=district,
+GIN,hmis,digitised,coverage,district,2025,GIN-025;GIN-028,GIN-005=paper;GIN-024=paper,
 GIN,hmis,last12,qualifier,advancing,2026-03,GIN-013,,
 GIN,hmis,clinics,coverage,,,,,nothing held
 GIN,emr,governance,qualifier,owner:vendor;finance:donor,2026-08,GIN-003;GIN-007,GIN-020=owner:partner;GIN-021=finance:donor,not stated: plan
 GIN,emr,tiers,coverage,T2;T3,2026-08,GIN-001;GIN-006;GIN-019,,
-GIN,emr,digitised,coverage,point-of-care,2026-08,GIN-002;GIN-008;GIN-018,GIN-015=paper;GIN-017=paper,
+GIN,emr,digitised,coverage,point-of-care,2026-08,GIN-002;GIN-008;GIN-018,GIN-017=paper,
 GIN,emr,last12,qualifier,advancing,2026-01,GIN-004;GIN-022,,
-GIN,emr,clinics,coverage,pilot,2026-03-31,GIN-016,,
+GIN,emr,clinics,coverage,,,,,nothing held

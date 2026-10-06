@@ -5,7 +5,7 @@ DZA,hmis,digitised,coverage,,,,,nothing held
 DZA,hmis,last12,qualifier,,,,,nothing held
 DZA,hmis,clinics,coverage,,,,,nothing held
 DZA,emr,governance,qualifier,owner:ministry,2026-08-16,DZA-003,,"not stated: plan, finance"
-DZA,emr,tiers,coverage,T1;T2;none,2026-09-08,DZA-002;DZA-007,,
-DZA,emr,digitised,coverage,paper,2026,DZA-004,,
+DZA,emr,tiers,coverage,T1;T2,2026-09-08,DZA-007,DZA-002=none,
+DZA,emr,digitised,coverage,,,,,nothing held
 DZA,emr,last12,qualifier,advancing,2026-09-08,DZA-001;DZA-006,,
-DZA,emr,clinics,coverage,none,2026,DZA-005,,
+DZA,emr,clinics,coverage,,,,,nothing held

@@ -88,6 +88,11 @@ def load(study_id: str, root: str = CORPUS) -> dict:
     return study
 
 
+def excluded(study: dict) -> set[str]:
+    """Slugs the study has ruled out as evidence. Their rows are kept and never counted."""
+    return {e["slug"] for e in study.get("exclude_sources", ())}
+
+
 def subs(study: dict) -> dict[str, dict]:
     return {s["key"]: s for s in study["sub_indicators"]}
 

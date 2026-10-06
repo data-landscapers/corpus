@@ -3,9 +3,9 @@ ERI,hmis,governance,qualifier,owner:ministry;plan:current,2024-03-13,ERI-003;ERI
 ERI,hmis,tiers,coverage,T1;T2,2021-10,ERI-007,,nothing dated since 2023-10-06
 ERI,hmis,digitised,coverage,district,2024-03-13,ERI-004,,
 ERI,hmis,last12,qualifier,,,,,nothing held
-ERI,hmis,clinics,coverage,count:342,2018,ERI-001,,nothing dated since 2023-10-06
+ERI,hmis,clinics,coverage,,,,,nothing held
 ERI,emr,governance,qualifier,,,,,nothing held
 ERI,emr,tiers,coverage,,,,,nothing held
-ERI,emr,digitised,coverage,paper,2026-03-31,ERI-002,,
+ERI,emr,digitised,coverage,,,,,nothing held
 ERI,emr,last12,qualifier,,,,,nothing held
 ERI,emr,clinics,coverage,,,,,nothing held

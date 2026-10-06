@@ -1,0 +1,109 @@
+iso3,sub_indicator,rung,tiers,digitised,clinics,clinics_as_of,stopped_by
+AGO,hmis,3,,district,none,2025-06-25,tiers: no primary tier stated
+AGO,emr,no evidence,,,,,nothing held
+BDI,hmis,4,T1;T2;T3,facility,share:100%,2020,the share is older than two years
+BDI,emr,3,T1;T2,point-of-care,count:6,2023-03,tiers: no primary tier stated
+BEN,hmis,3,T1;T2;T3,district,count:1,2023-11-22,not entered at the facility
+BEN,emr,no evidence,,,,,nothing held
+BFA,hmis,3,T1;T2;T3,facility,,,no share of primary clinics over half
+BFA,emr,unplaced,,,,,no coverage aspect stated
+BWA,hmis,3,,district,,,tiers: no primary tier stated
+BWA,emr,2,,,count:22,2026-03-05,no tier or share reaching beyond pilot sites
+CAF,hmis,3,,district,,,tiers: no primary tier stated
+CAF,emr,3,T3,point-of-care,,,not stated as shared between facilities on one identifier
+CIV,hmis,unplaced,,,,,no coverage aspect stated
+CIV,emr,1,,paper,,,a dated statement of paper only
+CMR,hmis,2,T1;T2;T3;T4,,not-published,2020,where data is digitised is not stated
+CMR,emr,2,,,pilot,2025-12,no tier or share reaching beyond pilot sites
+COD,hmis,unplaced,,,,,no coverage aspect stated
+COD,emr,unplaced,,,,,no coverage aspect stated
+COG,hmis,3,T2;T3,district,none,2024-09-01,not entered at the facility
+COG,emr,no evidence,,,,,nothing held
+COM,hmis,2,,,share:99%,2024,where data is digitised is not stated
+COM,emr,no evidence,,,,,nothing held
+CPV,hmis,3,T1;T2;T3;T4,facility,,,no share of primary clinics over half
+CPV,emr,3,T1;T3,,,,not stated as shared between facilities on one identifier
+DJI,hmis,4,T3;T4,facility,share:69%,2024-12-31,under 90 per cent
+DJI,emr,no evidence,,,,,nothing held
+DZA,hmis,no evidence,,,,,nothing held
+DZA,emr,3,T1;T2,,,,tiers: no primary tier stated
+EGY,hmis,3,,district,,,tiers: no primary tier stated
+EGY,emr,3,T1;T2;T3;T4,,share:100%,2024-08-19,not stated as shared between facilities on one identifier
+ERI,hmis,3,T1;T2,district,,,tiers: no primary tier stated
+ERI,emr,no evidence,,,,,nothing held
+ETH,hmis,4,T1;T2;T3;T4,facility,share:95%,2023-05-11,the share is older than two years
+ETH,emr,2,,,share:0%,2025-12-23,no tier or share reaching beyond pilot sites
+GAB,hmis,unplaced,,,,,no coverage aspect stated
+GAB,emr,2,none,,,,no tier or share reaching beyond pilot sites
+GHA,hmis,3,T4,facility,none,2017,no share of primary clinics over half
+GHA,emr,2,,point-of-care,pilot,2026-09,no tier or share reaching beyond pilot sites
+GIN,hmis,3,T1;T2;T3;T4,district,,,not entered at the facility
+GIN,emr,3,T2;T3,point-of-care,,,not stated as shared between facilities on one identifier
+GMB,hmis,3,,district,,,tiers: no primary tier stated
+GMB,emr,2,none,,,,no tier or share reaching beyond pilot sites
+GNB,hmis,unplaced,,,,,no coverage aspect stated
+GNB,emr,no evidence,,,,,nothing held
+GNQ,hmis,2,,national,pilot,2025-06,no tier or share reaching beyond pilot sites
+GNQ,emr,no evidence,,,,,nothing held
+KEN,hmis,3,,district,,,tiers: no primary tier stated
+KEN,emr,3,T2;T3;T4,point-of-care,share:100%,2026-10-02,not stated as shared between facilities on one identifier
+LBR,hmis,2,T1;T2;T3;T4,,,,where data is digitised is not stated
+LBR,emr,3,T3;T4,point-of-care,pilot,2026-09,not stated as shared between facilities on one identifier
+LBY,hmis,2,none,national,,,no tier or share reaching beyond pilot sites
+LBY,emr,1,,paper,,,a dated statement of paper only
+LSO,hmis,3,,facility,,,tiers: no primary tier stated
+LSO,emr,2,T2,,,,no tier or share reaching beyond pilot sites
+MAR,hmis,4,T3,facility,share:100%,2019-12,the share is older than two years
+MAR,emr,2,none,,not-published,2026-04-15,no tier or share reaching beyond pilot sites
+MDG,hmis,3,T2;T3,district,pilot,2023,not entered at the facility
+MDG,emr,1,,paper,,,a dated statement of paper only
+MLI,hmis,4,T1;T2;T3,facility,share:98%,2019-09,the share is older than two years
+MLI,emr,2,T1,point-of-care,pilot,2023-01-01,no tier or share reaching beyond pilot sites
+MOZ,hmis,3,,facility,none,2017,tiers: no primary tier stated
+MOZ,emr,2,T2,paper,,,no tier or share reaching beyond pilot sites
+MRT,hmis,3,,district,,,tiers: no primary tier stated
+MRT,emr,2,none,,,,no tier or share reaching beyond pilot sites
+MUS,hmis,no evidence,,,,,nothing held
+MUS,emr,1,none,paper,none,2025-02,a dated statement of paper only
+MWI,hmis,3,,district,pilot,2021-07,tiers: no primary tier stated
+MWI,emr,3,T1;T3,shared,pilot,2026-09-03,no share of primary clinics over half
+NAM,hmis,no evidence,,,,,nothing held
+NAM,emr,no evidence,,,,,nothing held
+NER,hmis,3,,facility,not-published,2018-09,tiers: no primary tier stated
+NER,emr,2,,,pilot,2018-09,no tier or share reaching beyond pilot sites
+NGA,hmis,3,,district,none,2017,tiers: no primary tier stated
+NGA,emr,3,T1;T2;T3,point-of-care,count:100,2025-05-22,not stated as shared between facilities on one identifier
+RWA,hmis,2,T3,,count:700,2026-01-20,where data is digitised is not stated
+RWA,emr,3,T1;T3,point-of-care,share:66.7%,2026-09-28,not stated as shared between facilities on one identifier
+SDN,hmis,unplaced,,,,,no coverage aspect stated
+SDN,emr,2,T2,,none,2026-03-30,no tier or share reaching beyond pilot sites
+SEN,hmis,3,T4,district,,,not entered at the facility
+SEN,emr,3,T3;T4,paper,share:1%,2025-10-31,not stated as shared between facilities on one identifier
+SLE,hmis,2,T1;T2;T3;T4,,share:96%,2022-11,where data is digitised is not stated
+SLE,emr,2,,point-of-care,pilot,2022-11,no tier or share reaching beyond pilot sites
+SOM,hmis,3,T1;T2;T3;T4,facility,count:111,2025,no share of primary clinics over half
+SOM,emr,3,T3;T4,point-of-care,count:40,2026-04-14,not stated as shared between facilities on one identifier
+SSD,hmis,3,,district,,,tiers: no primary tier stated
+SSD,emr,no evidence,,,,,nothing held
+STP,hmis,unplaced,,,,,no coverage aspect stated
+STP,emr,no evidence,,,,,nothing held
+SWZ,hmis,unplaced,,,,,no coverage aspect stated
+SWZ,emr,4,T2;T4,shared,share:73%,2026-04-07,under 90 per cent
+SYC,hmis,1,,paper,,,a dated statement of paper only
+SYC,emr,no evidence,,,,,nothing held
+TCD,hmis,3,,district,not-published,2022-12-08,tiers: no primary tier stated
+TCD,emr,unplaced,,,,,no coverage aspect stated
+TGO,hmis,3,T1;T2;T3;T4,facility,,,no share of primary clinics over half
+TGO,emr,2,none,,none,2025-12,no tier or share reaching beyond pilot sites
+TUN,hmis,no evidence,,,,,nothing held
+TUN,emr,3,T1;T2,paper,pilot,2026-09-03,tiers: no primary tier stated
+TZA,hmis,3,,district,none,2017,tiers: no primary tier stated
+TZA,emr,3,T1;T2;T3;T4,paper,none,2017,not stated as shared between facilities on one identifier
+UGA,hmis,3,T1;T2;T3,facility,,,no share of primary clinics over half
+UGA,emr,3,T1;T2;T3;T4,point-of-care,count:3,2026-09-19,not stated as shared between facilities on one identifier
+ZAF,hmis,3,T1;T2;T3;T4,facility,,,no share of primary clinics over half
+ZAF,emr,3,T1;T2;T3;T4,point-of-care,count:36,2025-08-01,not stated as shared between facilities on one identifier
+ZMB,hmis,unplaced,,,,,no coverage aspect stated
+ZMB,emr,3,T1,shared,share:80%,2026-07-07,tiers: no primary tier stated
+ZWE,hmis,3,,district,not-published,2012,tiers: no primary tier stated
+ZWE,emr,3,,,share:71.9%,2025-05,tiers: no primary tier stated

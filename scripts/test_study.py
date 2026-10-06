@@ -252,6 +252,23 @@ try:
     full = profile.profile(STUDY, "KEN", [ev("KEN-1", "tiers", "T1", "2025")], AS_AT)
     check("a profile has a row for every aspect", [r["aspect"] for r in full],
           ["governance", "tiers", "clinics", "last12"])
+    deferring = dict(asp["tiers"], values=["T1", "T2", "T3", "T4", "none"], defer=["none"])
+    cell = profile.profile_cell(deferring, [ev("KEN-1", "tiers", "none", "2026"),
+                                            ev("KEN-2", "tiers", "T2", "2025")], AS_AT)
+    check("a deferred value does not sit beside a stated one", (cell["value"], cell["sources"]),
+          ("T2", "KEN-2"))
+    check("but stands alone", profile.profile_cell(deferring, [ev("KEN-1", "tiers", "none", "2026")],
+                                                   AS_AT)["value"], "none")
+    single = {"key": "digitised", "role": "coverage", "values": ["facility", "paper"], "defer": ["paper"]}
+    cell = profile.profile_cell(single, [ev("KEN-1", "digitised", "paper", "2026"),
+                                         ev("KEN-2", "digitised", "facility", "2024")], AS_AT)
+    check("a newer deferred value does not displace an older stated one",
+          (cell["value"], cell["others"]), ("facility", "KEN-1=paper"))
+    barred = dict(STUDY, exclude_sources=[{"slug": "essay", "why": "not sourced fact"}])
+    two = [ev("KEN-1", "tiers", "T1", "2024"), ev("KEN-2", "tiers", "T4", "2025", slug="essay")]
+    tiers_of = lambda s: next(r for r in profile.profile(s, "KEN", two, AS_AT) if r["aspect"] == "tiers")
+    check("an excluded source gives the profile nothing", tiers_of(barred)["value"], "T1")
+    check("and counts when the study does not exclude it", tiers_of(STUDY)["value"], "T1;T4")
     check("the draw is repeatable", profile.draw([("A", "x"), ("B", "x"), ("C", "x")], 2, 7),
           profile.draw([("C", "x"), ("A", "x"), ("B", "x")], 2, 7))
     check("and never larger than what is staged", len(profile.draw([("A", "x")], 20, 1)), 1)

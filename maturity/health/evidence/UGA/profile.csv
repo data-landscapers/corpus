@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 UGA,hmis,governance,qualifier,owner:ministry,2025-10-10,UGA-018,UGA-031=owner:ministry,"not stated: plan, finance"
 UGA,hmis,tiers,coverage,T1;T2;T3,2025-10-10,UGA-019,,
-UGA,hmis,digitised,coverage,paper,2026-08-11,UGA-007,UGA-013=district;UGA-020=facility;UGA-008=facility,
+UGA,hmis,digitised,coverage,facility,2025-10-10,UGA-008;UGA-020,UGA-007=paper,
 UGA,hmis,last12,qualifier,advancing,2025,UGA-012,UGA-032=no-change,
 UGA,hmis,clinics,coverage,,,,,nothing held
 UGA,emr,governance,qualifier,owner:vendor;plan:current;finance:donor,2026-09-03,UGA-006;UGA-010;UGA-016,UGA-009=owner:ministry;UGA-015=owner:ministry;UGA-017=finance:donor;UGA-022=owner:partner;UGA-023=finance:donor;UGA-033=owner:ministry;UGA-034=plan:current;UGA-024=owner:ministry;UGA-001=owner:ministry,
-UGA,emr,tiers,coverage,T1;T2;T3;T4,2026-09-19,UGA-002;UGA-014;UGA-021;UGA-027;UGA-028,UGA-026=T2;UGA-025=T2,
+UGA,emr,tiers,coverage,T1;T2;T3;T4,2026-09-19,UGA-002;UGA-021;UGA-027;UGA-028,UGA-026=T2;UGA-025=T2,
 UGA,emr,digitised,coverage,point-of-care,2026-09-19,UGA-003;UGA-030,UGA-035=paper,
 UGA,emr,last12,qualifier,no-change,2026-09-19,UGA-005,UGA-011=advancing,
 UGA,emr,clinics,coverage,count:3,2026-09-19,UGA-004,UGA-029=count:7,

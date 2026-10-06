@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SEN,hmis,governance,qualifier,owner:ministry,2021-12-31,SEN-024,SEN-022=owner:ministry,nothing dated since 2023-10-06
 SEN,hmis,tiers,coverage,T4,2018,SEN-021,,nothing dated since 2023-10-06
-SEN,hmis,digitised,coverage,district,2026-03-31,SEN-004;SEN-025,SEN-020=facility,
+SEN,hmis,digitised,coverage,district,2021-12-31,SEN-025,SEN-020=facility,nothing dated since 2023-10-06
 SEN,hmis,last12,qualifier,,,,,nothing held
 SEN,hmis,clinics,coverage,,,,,nothing held
-SEN,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-08,SEN-001;SEN-009;SEN-033,SEN-029=plan:current;SEN-008=plan:current;SEN-032=finance:donor;SEN-014=plan:current;SEN-013=finance:donor;SEN-002=plan:current;SEN-003=finance:donor;SEN-015=plan:current;SEN-016=finance:donor;SEN-019=plan:current;SEN-026=plan:current;SEN-027=owner:ministry;SEN-028=finance:not-stated,
-SEN,emr,tiers,coverage,T3;T4,2025,SEN-006;SEN-011;SEN-017;SEN-031,,
-SEN,emr,digitised,coverage,paper,2026-03-31,SEN-005;SEN-023,,
+SEN,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-08,SEN-001;SEN-032;SEN-033,SEN-029=plan:current;SEN-014=plan:current;SEN-013=finance:donor;SEN-002=plan:current;SEN-003=finance:donor;SEN-015=plan:current;SEN-016=finance:donor;SEN-019=plan:current;SEN-026=plan:current;SEN-027=owner:ministry;SEN-028=finance:not-stated,
+SEN,emr,tiers,coverage,T3;T4,2025-10-31,SEN-011;SEN-017;SEN-031,,
+SEN,emr,digitised,coverage,paper,2018,SEN-023,,nothing dated since 2023-10-06
 SEN,emr,last12,qualifier,no-change,2025-12,SEN-034,SEN-012=advancing,
-SEN,emr,clinics,coverage,share:1%,2025-10-31,SEN-010;SEN-030,SEN-007=count:2;SEN-018=count:2,
+SEN,emr,clinics,coverage,share:1%,2025-10-31,SEN-010;SEN-030,SEN-018=count:2,

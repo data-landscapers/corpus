@@ -3,9 +3,9 @@ TGO,hmis,governance,qualifier,owner:ministry;plan:current;finance:not-stated,202
 TGO,hmis,tiers,coverage,T1;T2;T3;T4,2018,TGO-013,,nothing dated since 2023-10-06
 TGO,hmis,digitised,coverage,facility,2022-04,TGO-014;TGO-019,,nothing dated since 2023-10-06
 TGO,hmis,last12,qualifier,advancing,2026-07,TGO-001;TGO-003,,
-TGO,hmis,clinics,coverage,none,2026-03-31,TGO-006,,
+TGO,hmis,clinics,coverage,,,,,nothing held
 TGO,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-24,TGO-009;TGO-010;TGO-011,TGO-018=plan:current,
 TGO,emr,tiers,coverage,none,2025-12,TGO-007,,
-TGO,emr,digitised,coverage,paper,2026-03-31,TGO-004,,
+TGO,emr,digitised,coverage,,,,,nothing held
 TGO,emr,last12,qualifier,advancing,2025-12-24,TGO-012,,
-TGO,emr,clinics,coverage,pilot,2026-03-31,TGO-005,TGO-008=none,
+TGO,emr,clinics,coverage,none,2025-12,TGO-008,,

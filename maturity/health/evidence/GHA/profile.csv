@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GHA,hmis,governance,qualifier,plan:current;finance:donor,2022-06,GHA-021;GHA-027,GHA-028=plan:none,nothing dated since 2023-10-06
 GHA,hmis,tiers,coverage,T4,2024-03,GHA-008,,
-GHA,hmis,digitised,coverage,district,2026-03-31,GHA-005;GHA-010;GHA-022,GHA-009=facility;GHA-026=facility,
+GHA,hmis,digitised,coverage,facility,2024-03,GHA-009;GHA-026,GHA-010=district;GHA-022=district,
 GHA,hmis,last12,qualifier,,,,,nothing held
 GHA,hmis,clinics,coverage,none,2017,GHA-023,,nothing dated since 2023-10-06
 GHA,emr,governance,qualifier,owner:vendor,2026-09,GHA-004,GHA-012=owner:vendor;GHA-016=owner:ministry;GHA-019=owner:ministry;GHA-020=owner:vendor;GHA-015=owner:vendor,"not stated: plan, finance"
-GHA,emr,tiers,coverage,T2,2026-03-31,GHA-006,,
-GHA,emr,digitised,coverage,point-of-care,2026-09,GHA-003,GHA-007=paper;GHA-024=paper,
+GHA,emr,tiers,coverage,,,,,nothing held
+GHA,emr,digitised,coverage,point-of-care,2026-09,GHA-003,GHA-024=paper,
 GHA,emr,last12,qualifier,advancing,2026-09-01,GHA-001;GHA-014;GHA-017,GHA-011=regressing;GHA-013=regressing;GHA-018=regressing,
 GHA,emr,clinics,coverage,pilot,2026-09,GHA-002,GHA-025=none,

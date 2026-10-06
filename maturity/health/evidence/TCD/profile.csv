@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TCD,hmis,governance,qualifier,owner:ministry;finance:donor,2022-11,TCD-011;TCD-013,TCD-014=owner:ministry,nothing dated since 2023-10-06
 TCD,hmis,tiers,coverage,,,,,nothing held
-TCD,hmis,digitised,coverage,district,2022,TCD-005;TCD-006;TCD-010,,nothing dated since 2023-10-06
+TCD,hmis,digitised,coverage,district,2022-11,TCD-010,,nothing dated since 2023-10-06
 TCD,hmis,last12,qualifier,,,,,nothing held
-TCD,hmis,clinics,coverage,none,2026-03-31,TCD-007,TCD-012=not-published,
+TCD,hmis,clinics,coverage,not-published,2022-12-08,TCD-012,,nothing dated since 2023-10-06
 TCD,emr,governance,qualifier,owner:vendor,2026-08-13,TCD-002,TCD-004=owner:ministry,"not stated: plan, finance"
 TCD,emr,tiers,coverage,,,,,nothing held
-TCD,emr,digitised,coverage,paper,2021,TCD-008,,nothing dated since 2023-10-06
+TCD,emr,digitised,coverage,,,,,nothing held
 TCD,emr,last12,qualifier,advancing,2026-08-13,TCD-001;TCD-003,,
-TCD,emr,clinics,coverage,none,2026-03-31,TCD-009,,
+TCD,emr,clinics,coverage,,,,,nothing held

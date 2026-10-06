@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BFA,hmis,governance,qualifier,owner:ministry;plan:current,2025-01,BFA-006;BFA-008,BFA-009=plan:current,not stated: finance
 BFA,hmis,tiers,coverage,T1;T2;T3,2023-07,BFA-012,BFA-005=T3,nothing dated since 2023-10-06
-BFA,hmis,digitised,coverage,district,2026-03,BFA-002;BFA-004;BFA-011,BFA-007=facility;BFA-010=facility,
+BFA,hmis,digitised,coverage,facility,2025-01,BFA-007;BFA-010,BFA-011=district;BFA-004=district,
 BFA,hmis,last12,qualifier,,,,,nothing held
 BFA,hmis,clinics,coverage,,,,,nothing held
 BFA,emr,governance,qualifier,plan:current,2025-01,BFA-001,,"not stated: owner, finance"
 BFA,emr,tiers,coverage,,,,,nothing held
 BFA,emr,digitised,coverage,,,,,nothing held
 BFA,emr,last12,qualifier,,,,,nothing held
-BFA,emr,clinics,coverage,none,2026-03,BFA-003,,
+BFA,emr,clinics,coverage,,,,,nothing held

@@ -3,9 +3,9 @@ COM,hmis,governance,qualifier,owner:ministry,2026-07,COM-001,COM-005=owner:minis
 COM,hmis,tiers,coverage,,,,,nothing held
 COM,hmis,digitised,coverage,,,,,nothing held
 COM,hmis,last12,qualifier,,,,,nothing held
-COM,hmis,clinics,coverage,share:99%,2026-03-31,COM-002;COM-004,,
+COM,hmis,clinics,coverage,share:99%,2024,COM-004,,
 COM,emr,governance,qualifier,,,,,nothing held
 COM,emr,tiers,coverage,,,,,nothing held
-COM,emr,digitised,coverage,paper,2026-03-31,COM-003,,
+COM,emr,digitised,coverage,,,,,nothing held
 COM,emr,last12,qualifier,,,,,nothing held
 COM,emr,clinics,coverage,,,,,nothing held

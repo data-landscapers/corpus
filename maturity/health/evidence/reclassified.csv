@@ -1,0 +1,5 @@
+row_id,aspect,was,now,date,why
+SWZ-004,digitised,point-of-care,shared,2026-10-06,H4 added the value `shared`; the fact states the record opens on a unique ID number and is available to clinicians at another clinic
+ZMB-017,digitised,point-of-care,shared,2026-10-06,"H4 added the value `shared`; the fact states a unique patient record on the national digital ID, retrievable at any public facility"
+ZMB-027,digitised,point-of-care,shared,2026-10-06,H4 added the value `shared`; the fact states a central server identifies each client uniquely and tracks patients between facilities
+MWI-003,digitised,point-of-care,shared,2026-10-06,H4 added the value `shared`; the fact states a unique identifier held on a server reachable by facilities

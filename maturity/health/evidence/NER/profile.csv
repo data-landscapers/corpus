@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NER,hmis,governance,qualifier,owner:ministry;plan:current,2019,NER-008;NER-009,,nothing dated since 2023-10-06
 NER,hmis,tiers,coverage,,,,,nothing held
-NER,hmis,digitised,coverage,district,2026-03-31,NER-004,NER-010=facility,
+NER,hmis,digitised,coverage,facility,2018-09,NER-010,,nothing dated since 2023-10-06
 NER,hmis,last12,qualifier,,,,,nothing held
-NER,hmis,clinics,coverage,none,2026-03-31,NER-005,NER-011=not-published,
+NER,hmis,clinics,coverage,not-published,2018-09,NER-011,,nothing dated since 2023-10-06
 NER,emr,governance,qualifier,plan:current,2026-07-08,NER-002,NER-001=plan:current;NER-012=plan:none,"not stated: owner, finance"
 NER,emr,tiers,coverage,,,,,nothing held
-NER,emr,digitised,coverage,paper,2026-03-31,NER-006,,
+NER,emr,digitised,coverage,,,,,nothing held
 NER,emr,last12,qualifier,advancing,2026-07-08,NER-003,,
-NER,emr,clinics,coverage,pilot,2018-09,NER-013,NER-007=none,
+NER,emr,clinics,coverage,pilot,2018-09,NER-013,,nothing dated since 2023-10-06

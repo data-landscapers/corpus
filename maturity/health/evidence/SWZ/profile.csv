@@ -4,8 +4,8 @@ SWZ,hmis,tiers,coverage,,,,,nothing held
 SWZ,hmis,digitised,coverage,,,,,nothing held
 SWZ,hmis,last12,qualifier,advancing,2026-03,SWZ-013,,
 SWZ,hmis,clinics,coverage,,,,,nothing held
-SWZ,emr,governance,qualifier,owner:ministry;plan:current,2026-04-07,SWZ-003;SWZ-007,SWZ-010=owner:ministry,not stated: finance
-SWZ,emr,tiers,coverage,T2;T4,2026-04-07,SWZ-005;SWZ-009;SWZ-011,,
-SWZ,emr,digitised,coverage,point-of-care,2026-04-07,SWZ-004;SWZ-008,,
+SWZ,emr,governance,qualifier,owner:ministry,2026-04-07,SWZ-003,SWZ-010=owner:ministry,"not stated: plan, finance"
+SWZ,emr,tiers,coverage,T2;T4,2026-04-07,SWZ-005;SWZ-011,,
+SWZ,emr,digitised,coverage,shared,2026-04-07,SWZ-004,,
 SWZ,emr,last12,qualifier,advancing,2026-06-12,SWZ-001;SWZ-012,,
-SWZ,emr,clinics,coverage,share:73%,2026-04-07,SWZ-002,SWZ-006=share:71%,
+SWZ,emr,clinics,coverage,share:73%,2026-04-07,SWZ-002,,

@@ -3,9 +3,9 @@ CAF,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-05-
 CAF,hmis,tiers,coverage,,,,,nothing held
 CAF,hmis,digitised,coverage,district,2025,CAF-002;CAF-013,,
 CAF,hmis,last12,qualifier,advancing,2025,CAF-003,,
-CAF,hmis,clinics,coverage,none,2026-03-31,CAF-004,,
+CAF,hmis,clinics,coverage,,,,,nothing held
 CAF,emr,governance,qualifier,finance:donor,2026-03-18,CAF-007,,"not stated: owner, plan"
 CAF,emr,tiers,coverage,T3,2026-03-18,CAF-009,,
-CAF,emr,digitised,coverage,paper,2026-03-31,CAF-005,CAF-008=point-of-care,
+CAF,emr,digitised,coverage,point-of-care,2026-03-18,CAF-008,,
 CAF,emr,last12,qualifier,advancing,2026-03-18,CAF-010,,
-CAF,emr,clinics,coverage,none,2026-03-31,CAF-006,,
+CAF,emr,clinics,coverage,,,,,nothing held

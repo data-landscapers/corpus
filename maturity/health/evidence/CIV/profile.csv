@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CIV,hmis,governance,qualifier,owner:ministry,2025-09-11,CIV-011,,"not stated: plan, finance"
 CIV,hmis,tiers,coverage,,,,,nothing held
-CIV,hmis,digitised,coverage,district,2026-03-31,CIV-007,,
+CIV,hmis,digitised,coverage,,,,,nothing held
 CIV,hmis,last12,qualifier,,,,,nothing held
 CIV,hmis,clinics,coverage,,,,,nothing held
 CIV,emr,governance,qualifier,finance:donor,2025-09-18,CIV-010,,"not stated: owner, plan"
 CIV,emr,tiers,coverage,,,,,nothing held
-CIV,emr,digitised,coverage,paper,2026-03-31,CIV-005;CIV-008;CIV-009,,
+CIV,emr,digitised,coverage,paper,2025-09-18,CIV-005;CIV-009,,
 CIV,emr,last12,qualifier,advancing,2026-09-04,CIV-001;CIV-002;CIV-003;CIV-004;CIV-006,,
 CIV,emr,clinics,coverage,,,,,nothing held

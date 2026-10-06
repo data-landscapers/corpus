@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MRT,hmis,governance,qualifier,owner:ministry,2021-12-14,MRT-006,,nothing dated since 2023-10-06
 MRT,hmis,tiers,coverage,,,,,nothing held
-MRT,hmis,digitised,coverage,district,2026-03,MRT-001;MRT-007,,
+MRT,hmis,digitised,coverage,district,2021-12-14,MRT-007,,nothing dated since 2023-10-06
 MRT,hmis,last12,qualifier,,,,,nothing held
 MRT,hmis,clinics,coverage,,,,,nothing held
 MRT,emr,governance,qualifier,plan:current,2022-06,MRT-005,,nothing dated since 2023-10-06
 MRT,emr,tiers,coverage,none,2021,MRT-004,,nothing dated since 2023-10-06
-MRT,emr,digitised,coverage,paper,2026-03,MRT-002,,
+MRT,emr,digitised,coverage,,,,,nothing held
 MRT,emr,last12,qualifier,,,,,nothing held
-MRT,emr,clinics,coverage,none,2026-03,MRT-003,,
+MRT,emr,clinics,coverage,,,,,nothing held

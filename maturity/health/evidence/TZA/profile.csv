@@ -5,7 +5,7 @@ TZA,hmis,digitised,coverage,district,2024-07,TZA-009;TZA-013;TZA-016;TZA-020,,
 TZA,hmis,last12,qualifier,,,,,nothing held
 TZA,hmis,clinics,coverage,none,2017,TZA-017,,nothing dated since 2023-10-06
 TZA,emr,governance,qualifier,,,,,nothing held
-TZA,emr,tiers,coverage,T1;T2;T3;T4,2026-09-01,TZA-001;TZA-004;TZA-007,TZA-014=T2;T3;T4;TZA-015=T2,
-TZA,emr,digitised,coverage,point-of-care,2025,TZA-005,TZA-018=paper,
+TZA,emr,tiers,coverage,T1;T2;T3;T4,2026-09-01,TZA-001;TZA-007,TZA-014=T2;T3;T4;TZA-015=T2,
+TZA,emr,digitised,coverage,paper,2017,TZA-018,,nothing dated since 2023-10-06
 TZA,emr,last12,qualifier,,,,,nothing held
-TZA,emr,clinics,coverage,share:75%,2025,TZA-006,TZA-002=not-published;TZA-019=none,
+TZA,emr,clinics,coverage,none,2017,TZA-019,TZA-002=not-published,

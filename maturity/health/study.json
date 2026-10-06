@@ -47,15 +47,18 @@
       "name": "Tiers in use",
       "role": "coverage",
       "multi": true,
+      "defer": ["none"],
       "values": ["T1", "T2", "T3", "T4", "none"]
     },
     {
       "key": "digitised",
       "name": "Where data is digitised",
       "role": "coverage",
+      "defer": ["paper"],
+      "prefer": ["shared"],
       "values": {
         "hmis": ["facility", "district", "national", "paper"],
-        "emr": ["point-of-care", "keyed-afterwards", "paper"]
+        "emr": ["shared", "point-of-care", "keyed-afterwards", "paper"]
       }
     },
     {
@@ -80,5 +83,11 @@
     "all": ["owner:ministry"],
     "any": ["finance:domestic", "plan:current"]
   },
+  "exclude_sources": [
+    {
+      "slug": "2026-03-31 Africa we have a data problem",
+      "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
+    }
+  ],
   "flags": ["externally run", "community integrated", "advancing", "regressing"]
 }

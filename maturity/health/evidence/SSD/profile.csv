@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SSD,hmis,governance,qualifier,owner:ministry;plan:none,2026-08-05,SSD-001;SSD-008,SSD-006=owner:ministry,not stated: finance
 SSD,hmis,tiers,coverage,,,,,nothing held
-SSD,hmis,digitised,coverage,district,2026-03-31,SSD-003;SSD-007,,
+SSD,hmis,digitised,coverage,district,2025-02,SSD-007,,
 SSD,hmis,last12,qualifier,advancing,2026-07,SSD-002,,
-SSD,hmis,clinics,coverage,none,2026-03-31,SSD-004,,
+SSD,hmis,clinics,coverage,,,,,nothing held
 SSD,emr,governance,qualifier,,,,,nothing held
 SSD,emr,tiers,coverage,,,,,nothing held
-SSD,emr,digitised,coverage,paper,2026-03-31,SSD-005,,
+SSD,emr,digitised,coverage,,,,,nothing held
 SSD,emr,last12,qualifier,,,,,nothing held
 SSD,emr,clinics,coverage,,,,,nothing held

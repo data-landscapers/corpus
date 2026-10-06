@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SDN,hmis,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-07,SDN-001;SDN-013;SDN-014,SDN-018=plan:current;SDN-017=owner:ministry,
 SDN,hmis,tiers,coverage,,,,,nothing held
-SDN,hmis,digitised,coverage,district,2020,SDN-006,,nothing dated since 2023-10-06
+SDN,hmis,digitised,coverage,,,,,nothing held
 SDN,hmis,last12,qualifier,advancing,2025-12,SDN-012,SDN-016=regressing,
 SDN,hmis,clinics,coverage,,,,,nothing held
 SDN,emr,governance,qualifier,owner:vendor;plan:none,2026,SDN-002;SDN-015,SDN-005=owner:ministry;SDN-010=owner:ministry,not stated: finance
 SDN,emr,tiers,coverage,T2,2026-05-11,SDN-004,,
-SDN,emr,digitised,coverage,paper,2026-03-31,SDN-007,,
+SDN,emr,digitised,coverage,,,,,nothing held
 SDN,emr,last12,qualifier,advancing,2026-05-11,SDN-003;SDN-009,,
-SDN,emr,clinics,coverage,pilot,2026-03-31,SDN-008,SDN-011=none,
+SDN,emr,clinics,coverage,none,2026-03-30,SDN-011,,

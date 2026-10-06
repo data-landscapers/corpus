@@ -21,7 +21,7 @@ status: proposed by Cowork with Bill's rulings of 2026-10-06, for CC's operation
 | HMIS | Digitalisation of rural health clinics: HMIS | `digital.rural--digitalisation-of-rural-health-clinics-hmis` |
 | EMR | Digitalisation of rural health clinics: EMR | `digital.rural--digitalisation-of-rural-health-clinics-emr` |
 
-The ids are Bill's, and are what `adding-an-indicator.md` §2 mints from those texts. They enter `lookups/indicators.csv` only at acceptance, when both old rows are retired.
+The ids are Bill's. They enter `lookups/indicators.csv` only at acceptance, when both old rows are retired.
 
 `dpi.exchange--interoperability-of-health-systems` is not redrawn. Its evidence is logged in `maturity/health/exchange.csv` and left.
 
@@ -38,6 +38,8 @@ The ids are Bill's, and are what `adding-an-indicator.md` §2 mints from those t
 | `exchange` | Interoperability layers, client and facility registries | Logged for `dpi.exchange` |
 
 **DHIS2 is classified by module, never by name**. Aggregate reporting of patients treated is `hmis`; a Tracker or Capture programme is `tracker`. A source that says only "DHIS2" is `hmis` where it describes that reporting and unclassified otherwise.
+
+***Africa, we have a data problem* is excluded as evidence** *(Bill, 2026-10-06)*: an AI-assisted compilation, named in `study.json`.
 
 **A hospital management system is `emr` only where the source says it holds the clinical record**; billing and administration alone are out of scope.
 
@@ -63,17 +65,17 @@ The ids are Bill's, and are what `adding-an-indicator.md` §2 mints from those t
 
 ## 4. The ladders
 
-Thresholds agreed *(Bill)*; wording fixed at task H4.
+Thresholds agreed *(Bill)*; wording fixed at H4 on 2026-10-06, against `ladder-test.csv`.
 
 **HMIS**
 
 | Stage | Tiers | Where digitised | Primary clinics |
 |---|---|---|---|
-| 1 Absent | A dated statement that routine reporting is on paper end to end | | |
-| 2 Nascent | Hospitals only, or some districts; or a national rollout contracted | Anywhere | None, or pilot sites |
-| 3 Established | Every district reports | At the district, from clinics' paper forms | Facility entry in a minority, or not published |
-| 4 Operating | T1 to T4 | At the facility | More than half enter their own reports, on a share or a count with a denominator |
-| 5 Leading | T1 to T4 | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
+| 1 Absent | A dated statement that routine reporting has no digital entry at any level | | |
+| 2 Nascent | Hospitals only, or some districts; or a national rollout contracted | Anywhere, or not stated | None, or pilot sites |
+| 3 Established | Any: a system keyed at district takes the clinics' reports | At the district, from clinics' paper forms | Facility entry in a minority, or not published |
+| 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or a count with a denominator |
+| 5 Leading | The primary tier | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
 
 **EMR**
 
@@ -82,36 +84,36 @@ Thresholds agreed *(Bill)*; wording fixed at task H4.
 | 1 Absent | A dated statement that patient records are on paper at every tier | | |
 | 2 Nascent | Some hospitals or pilot facilities; or a national system procured | Anywhere | None, or pilot sites |
 | 3 Established | Most T1 and T2 hospitals, or primary clinics in some districts | Either; the record stays in the facility | A minority, or not published |
-| 4 Operating | T1 to T4 | At the point of care, on a unique patient identifier, retrievable at another facility | More than half |
-| 5 Leading | T1 to T4 | As 4, across the public network | 90 per cent or more, on a figure published within two years |
+| 4 Operating | The primary tier | `shared`: at the point of care, on a unique patient identifier, retrievable at another facility | More than half |
+| 5 Leading | The primary tier | As 4, across the public network | 90 per cent or more, on a figure published within two years |
 
 **A country holding only noted classes is unplaced on that sub-indicator**, or stage 1 where a source states the paper position; what it does hold prints under *Noted, not assessed*.
+
+**H4 changed three wordings and no threshold** (`h4-ladder-test.md`): the primary tier at stages 4 and 5, HMIS stage 3's district test, and the value `shared` for EMR stage 4. **A share of all health facilities is read as the share of primary clinics**, and the short summary says which. Stage 5 is unreached and stands.
 
 ## 5. The norm
 
 Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.
 
-**It does not measure what either sub-indicator measures.** It counts connection and *digitally enabled*, which a clinic with a tablet and paper registers meets. The ladders borrow only the 90 per cent line, for stage 5, and the pages say so. Argue this from the evidence at H4.
+**It does not measure what either sub-indicator measures.** It counts connection and *digitally enabled*, which a clinic with a tablet and paper registers meets. **The review bears this out**: most of the 15 coverage shares it found count facilities where a system is deployed, not clinics entering their own data. Countries publish the norm's kind of figure. The ladders borrow only the 90 per cent line, for stage 5, and the pages say so.
 
 ## 6. What Phase 1 reads and searches for
 
 - **Subjects**: `dpi.mis`, `digital.rural`, `dpi.exchange`.
-- **Term list**, to narrow those to health and to catch untagged documents: DHIS2, HMIS, SNIS, SIS, health information system, système d'information sanitaire, sistema de informação de saúde, EMR, EHR, electronic medical record, dossier médical, dossier patient, processo clínico, OpenMRS, eLMIS. Add Arabic equivalents and national system names the review turns up.
-- **Source types for the briefs**, ranked: ministry HMIS bulletins and reporting-rate tables; digital health strategies and costed plans; facility assessments (HHFA, SARA, SPA); World Bank appraisal and implementation reports; Global Fund and Gavi grant documents; WHO country reports; peer-reviewed data-quality studies, which usually say where the data is keyed; dated news of a rollout, an outage or a withdrawal, for aspect 4.
+- **Term list**, to narrow those to health and to catch untagged documents: DHIS2, HMIS, SNIS, SIS, health information system, système d'information sanitaire, sistema de informação de saúde, EMR, EHR, electronic medical record, dossier médical, dossier patient, processo clínico, OpenMRS, eLMIS.
+- **Source types for the briefs**, ranked: ministry HMIS bulletins and reporting-rate tables; digital health strategies and costed plans; facility assessments (HHFA, SARA, SPA); World Bank appraisal and implementation reports; Global Fund and Gavi grant documents; WHO country reports; peer-reviewed data-quality studies; dated news of a rollout, an outage or a withdrawal, for aspect 4.
 
 ## 7. Tasks, in order
 
-Tick each box in the commit that completes it.
-
-- [x] **H1. Build the scripts** the method names, with tests. `lint-interface.py` still passes.
-- [x] **H2. Open the lane.** Done on OSINT's side (`notes-for-corpus` 78): the prefix is in `BACKFILL_PREFIXES` and its cycle pulls `prepared\maturity-study-health\` on `READY`. No patch was sent.
+- [x] **H1. Build the scripts**, with tests.
+- [x] **H2. Open the lane.** Done by OSINT (`notes-for-corpus` 78); no patch sent.
 - [x] **H3. Review all 54 countries in one run** *(Bill: no pilot)*, method §4.
-- [ ] **H4. Test and fix the ladders.** Count countries per rung on the Phase 1 profiles. Rewrite any rung nothing reaches or that drafters read two ways, record the change here, and write §5's paragraph.
-- [ ] **H5. Search, select and hand over**, method §5. Tell Bill the count before the note is written; there is no cap, so the count is what OSINT's ingest will carry.
+- [x] **H4. Test and fix the ladders**, §4 and §5.
+- [ ] **H5. Search, select and hand over**, method §5. Tell Bill the count before the note is written.
 - [ ] **H6. Phase 2, on Bill's trigger**, method §6 and §7.
 - [ ] **H7. Write, render and lint** (method §8). Commit.
 - [ ] **H8. Report to Bill**: countries per stage for each sub-indicator; unplaced and *No evidence*; countries holding only noted classes; *community integrated* flags; the agreement count; what OSINT did not admit; and every country the cap rule held at 3, for his reconsideration.
 
 ## Boundary
 
-Nothing here writes to `C:\OSINT` or to `raw/`. Found documents go to `prepared\`, announced by a note, and count only once ingested.
+Nothing here writes to `C:\OSINT` or to `raw/`.

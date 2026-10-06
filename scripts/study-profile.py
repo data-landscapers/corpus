@@ -16,8 +16,14 @@ does it**, and does it the same way for 54 countries.
 - `value`   — the newest fact's. Where the aspect has facets, the newest per facet; where it
   is `multi`, every value stated inside the window; where it names a `prefer` order (a share
   over a count over *not published*), the best-ranked kind first and the newest of that.
+  A value the aspect lists under `defer` stands only where nothing else is stated: a source
+  saying registers are still kept on paper does not unsay a newer system another describes,
+  and *no tier* does not sit beside a tier.
 - `sources` — the `row_id`s that carry that value.
 - `others`  — the rows that say something else. The newest stands and both are kept.
+A source the study excludes (`exclude_sources` in `study.json`) gives a profile nothing: its
+rows stay in `evidence.csv`, where the ruling can be reversed, and are passed over here.
+
 - `gap`     — what is not established: nothing held, or nothing dated inside the window. A
   coverage aspect's window is three years; a qualifier's is its own. **A gap is what Phase 1
   searches for**, so this column is the search list.
@@ -99,10 +105,11 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
 
 
 def _rank(aspect: dict, value: str) -> int:
+    late = 100 if value in aspect.get("defer", ()) else 0
     for i, prefix in enumerate(aspect.get("prefer", ())):
         if value.startswith(prefix):
-            return i
-    return len(aspect.get("prefer", ()))
+            return late + i
+    return late + len(aspect.get("prefer", ()))
 
 
 def profile_cell(aspect: dict, rows: list[dict], as_at: dt.date) -> dict:
@@ -132,9 +139,10 @@ def profile_cell(aspect: dict, rows: list[dict], as_at: dt.date) -> dict:
         seen = []
         for _, r in pool:
             seen += [v.strip() for v in r["value"].split(";") if v.strip() not in seen]
-        order = aspect["values"] if isinstance(aspect.get("values"), list) else seen
-        value = ";".join(sorted(seen, key=lambda v: order.index(v) if v in order else 99))
-        winners = {r["row_id"] for _, r in pool}
+        stated = [v for v in seen if v not in aspect.get("defer", ())] or seen
+        order = aspect["values"] if isinstance(aspect.get("values"), list) else stated
+        value = ";".join(sorted(stated, key=lambda v: order.index(v) if v in order else 99))
+        winners = {r["row_id"] for _, r in pool if set(r["value"].split(";")) & set(stated)}
     else:
         best = min(dated, key=lambda p: (_rank(aspect, p[1]["value"]), -p[0].toordinal()))[1]
         value = best["value"]
@@ -149,7 +157,8 @@ def profile_cell(aspect: dict, rows: list[dict], as_at: dt.date) -> dict:
 
 
 def profile(study: dict, iso: str, rows: list[dict], as_at: dt.date) -> list[dict]:
-    out = []
+    out, barred = [], study_lib.excluded(study)
+    rows = [r for r in rows if r["source_slug"] not in barred]
     for sub in study["sub_indicators"]:
         for aspect in study["aspects"]:
             mine = [r for r in rows

@@ -134,14 +134,15 @@ def assessment_problems(study: dict, rows: list[dict], evidence: dict[str, list[
             out.append(f"{where}: the short summary is one line with no link")
         elif len(short.split()) > SHORT_CAP:
             out.append(f"{where}: short summary is {len(short.split())} words; the cap is {SHORT_CAP}")
-        mine = {e["row_id"] for e in evidence.get(r["iso3"], []) if e["sub_indicator"] == sub}
+        mine = {e["row_id"] for e in evidence.get(r["iso3"], [])
+                if e["sub_indicator"] == sub and e["source_slug"] not in study_lib.excluded(study)}
         named = [s.strip() for s in r["stage_sources"].split(";") if s.strip()]
         if staged and not named:
             out.append(f"{where}: stage {stage} with no `stage_sources`")
         for rid in named:
             if rid not in mine:
                 out.append(f"{where}: stage_sources names `{rid}`, not a {sub} row of "
-                           f"{r['iso3']}'s evidence.csv")
+                           f"{r['iso3']}'s evidence.csv, or one from an excluded source")
         bad = cap_problem(study, r)
         if bad:
             out.append(f"{where}: {bad}")
