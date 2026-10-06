@@ -2,7 +2,7 @@
 type: doc
 reader: cc
 title: global CLAUDE.md — the cross-project rules
-last_reviewed: 2026-09-17
+last_reviewed: 2026-10-06
 ---
 
 # CLAUDE.md — global
