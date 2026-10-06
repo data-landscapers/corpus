@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """lint-docs.py — every process and documentation file names its reader, and stays under that reader's cap.
 
-    python scripts/lint-docs.py                 # root *.md, documentation/*.md, wiki/*.md
+    python scripts/lint-docs.py                 # root *.md, documentation/*.md, wiki/*.md, maturity/*/*.md
     python scripts/lint-docs.py --report        # list breaches, exit 0
     python scripts/lint-docs.py --root C:\\X --glob "*.md" --glob "wiki/*.md" --caps path\\to\\global-claude.md
 
@@ -35,7 +35,7 @@ def caps_for(root: str) -> str:
 
 
 CAPS = caps_for(ROOT)
-GLOBS = ["*.md", "documentation/*.md", "wiki/*.md"]
+GLOBS = ["*.md", "documentation/*.md", "wiki/*.md", "maturity/*/*.md"]
 
 FM = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n", re.S)
 FIRST_LINE = re.compile(r"\A<!--\s*(reader:[^>]*?)\s*-->")
