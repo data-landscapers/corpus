@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The author's 54-country review says rural primary clinics in Kenya (level 2 and 3 dispensaries and health centres) predominantly record patient data for general care on paper registers, with dual documentation where a digital system exists, and are not entered digitally at the point of care routinely; no date is given for the position, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper patient registers for general care", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "KenyaEMR (KeEMR)", "country_label": "KenyaEMR", "class": "tracker", "platform": "", "owner": "donor-driven, as the review puts it", "tiers": "about 91-93% of facilities in a Homa Bay County survey of 112 facilities (79% rural), including level 2 and 3 dispensaries and health centres; mainly for HIV management"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "facility data aggregated into it monthly by health records and information officers (HRIOs)"},
+    {"system": "ScanForm", "country_label": "ScanForm", "class": "", "platform": "AI digitisation of paper forms", "owner": "", "tiers": "pilot; 24% of facilities in the survey cited"},
+    {"system": "AfyaEHMS", "country_label": "AfyaEHMS", "class": "", "platform": "", "owner": "", "tiers": "isolated pilot"}
+  ],
+  "note": "Passages of an essay whose country rows are, by its own header, an AI-assisted compilation and the author's analysis, citing a Homa Bay study, a policy brief and a DHIS2 data-use study. No HMIS fact is written: it says data is aggregated monthly into DHIS2 by HRIOs and not entered at the point of care, but not at which level the HRIOs key it, so the 'digitised' value cannot be chosen from this text. KenyaEMR is described as mainly for HIV and gives no EMR fact. It also says 9-10 systems co-exist."
+}

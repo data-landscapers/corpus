@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-16-zambia-govlink-private-4g-techafricanews",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:2000", "fact": "TechAfrica News states that SmartCare Pro, Zambia's electronic health records platform, is already deployed in more than 2,000 health facilities nationwide; the count is of health facilities of every kind, with no denominator and no split for primary clinics; undated, so the publication date is used.", "as_of": "2026-07-16", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "GovLink Private 4G was launched at Ndola Teaching Hospital, reported 16 July 2026, with SmartCare Pro and Care 2.0 among the first systems to move onto the government-owned network; the Ministry of Health's permanent secretary said inadequate digital infrastructure had limited the electronic health systems until then.", "as_of": "2026-07-16", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "Care 2.0 is being piloted at Ndola Teaching Hospital, Arthur Davison Children's Hospital and Kitwe Teaching Hospital, per TechAfrica News on 16 July 2026.", "as_of": "2026-07-16", "date_precision": "day", "system": "Care 2.0", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "Care 2.0 is at pilot stage in three Copperbelt hospitals (Ndola Teaching, Arthur Davison Children's, Kitwe Teaching) as of 16 July 2026; the document names no primary clinic using it.", "as_of": "2026-07-16", "date_precision": "day", "system": "Care 2.0", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "more than 2,000 health facilities nationwide"},
+    {"system": "Care 2.0", "country_label": "Care 2.0", "class": "emr", "platform": "", "owner": "", "tiers": "pilot at Ndola Teaching Hospital, Arthur Davison Children's Hospital and Kitwe Teaching Hospital"},
+    {"system": "GovLink Private 4G", "country_label": "GovLink", "class": "enabling", "platform": "private 4G network", "owner": "e-Government Division, SMART Zambia Institute, with IHM Southern Africa, Tuso Business Dynamics, Quadrupleplay and the Ministry of Health", "tiers": "three Copperbelt hospitals as demonstration sites"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-01-cote-divoire-eskinhealth-teledermatology-primary-health-centers",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The study's baseline for the eight primary health centres in the Sinfra and Bouaflé health districts (the abstract says sixteen) was taken from paper registries and paper-based patient records covering August 2021 to February 2022 (1,129 baseline patients), according to the authors of this medRxiv preprint; the statement covers the study sites only.", "as_of": "2022-02", "date_precision": "month", "system": "paper-based patient records", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eSkinHealth", "country_label": "eSkinHealth app", "class": "tracker", "platform": "eSkinHealth app (version 1.2.8) on tablets, offline entry synchronised to an iCloud server", "owner": "research project (Hope Commission International, Tulane University and partners, with district health authorities and the national leprosy and Buruli ulcer programmes among the authors)", "tiers": "eight primary health centres in the Sinfra and Bouaflé health districts, used by nurses and community health workers, August 2022 to February 2023"}
+  ],
+  "note": "eSkinHealth is a patient-level record and teledermatology tool for skin diseases only, a research intervention at study sites (class tracker), so it gives no fact; the one fact is the dated paper position at the study sites."
+}

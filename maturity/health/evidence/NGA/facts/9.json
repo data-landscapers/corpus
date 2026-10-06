@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-26-karanja-africas-digital-public-goods-gap",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2 (Edo State)",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Edo State government, under a contract requiring capability transfer",
+      "tiers": "not stated; Edo State only"
+    }
+  ],
+  "note": "Regional essay; for Nigeria it says only that Edo State has among the highest numbers of DHIS2-certified public servants and a DHIS2 contract requiring capability transfer, without saying what the deployment does or in which sector."
+}

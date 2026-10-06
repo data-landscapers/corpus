@@ -1,0 +1,54 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "Data Landscapers' 54-country review says rural primary clinics in Zimbabwe traditionally record on paper registers, with aggregate data later entered into the national DHIS2 at district level; it gives no date, so the essay's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:66%",
+      "fact": "Data Landscapers, citing the Global Fund's August 2025 case study, says the Impilo EMR is deployed in 1,254 of about 1,900 public health facilities (66%), a count of all public facilities rather than of primary clinics alone; the essay itself dates the figure no more closely, so its published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Impilo EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:72%",
+      "fact": "Data Landscapers, citing a provincial evaluation, says 72% of 153 facilities in Matabeleland South had Impilo fully functional in the first quarter of 2025, with rural districts lagging; one province only.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Impilo EMR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregate data from rural primary clinics' paper registers entered at district level"
+    },
+    {
+      "system": "Impilo EMR",
+      "country_label": "Impilo",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "1,254 of about 1,900 public health facilities, including rural 'last mile' sites such as Sipepa Rural Hospital"
+    }
+  ],
+  "note": "An AI-assisted compilation by its own account; the Zimbabwe clinic row restates the Global Fund case study (n 21) and the Matabeleland South evaluation (n 18). The essay also says solar power reached 1,044 facilities (60%) and names a National eHealth Strategy 2021-2025."
+}

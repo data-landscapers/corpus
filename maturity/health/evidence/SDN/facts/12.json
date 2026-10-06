@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-01-sudahealth-digital-health-platform",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:vendor",
+      "fact": "SudaHealth's own site describes it as a public-private initiative in partnership with the Ministry of Health of Khartoum State, whose platform integrates hospitals, clinics and laboratories through electronic medical record systems; the page is undated and the year is the document's published date, itself a proxy.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "SudaHealth",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SudaHealth",
+      "country_label": "SudaHealth",
+      "class": "emr",
+      "platform": "",
+      "owner": "SudaHealth, a public-private initiative in partnership with the Ministry of Health, Khartoum State",
+      "tiers": "hospitals, clinics and laboratories, as the site puts it; no counts or places"
+    }
+  ],
+  "note": "An excerpt of a promotional home page, 68 words. The owner value is a reading of 'public-private initiative in partnership with' the state ministry: the initiative, not the ministry, is presented as running the platform. The site states no deployment figures, so no tiers or clinics fact is taken."
+}

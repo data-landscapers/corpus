@@ -1,0 +1,8 @@
+{
+  "slug": "2021-02-26-eswatini-budget-speech-2021",
+  "facts": [],
+  "systems": [
+    {"system": "online Health Management Information System", "country_label": "Health Management Information System", "class": "", "platform": "", "owner": "connections paid for by the Universal Access Service Fund", "tiers": "25 health centres connected to it in 2020"}
+  ],
+  "note": "The Minister for Finance says the Universal Access Service Fund connected 25 health centres to the online Health Management Information System in 2020, giving real-time health data transmission; the speech does not say what the system records or reports, so it is left unclassed and gives no fact. The parent may wish to class it: if it is the EMR, this is a dated 2020 count with domestic finance."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-01-sierra-leone-mof-fy2026-gender-budget-statement",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated; appears in the list of abbreviations only"}
+  ],
+  "note": "The capture is an excerpt cut off at the start of the Ministry of Health matrix. In what was read, HMIS appears only in the abbreviations list; the MoH activities name 'digital services' for maternal care with no system and no separate allocation (SLe 20 million, GoSL/donor, for the whole maternal mortality line). The other systems named (CPIMS, GBVIMS+) are child protection and gender-based violence case systems of the gender ministry, not health information systems."
+}

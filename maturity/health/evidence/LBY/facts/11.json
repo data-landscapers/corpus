@@ -1,0 +1,14 @@
+{
+  "slug": "2024-06-11-rapid-mixed-methods-assessment-libya-primary-care-system",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The World Bank-commissioned assessment of Libya's primary care system, carried out in January to May 2021 and citing WHO's Libya Annual Report 2020, states that medical records are still paper-based, that there is no national electronic health records system and that existing records systems are not interoperable.", "as_of": "2021", "date_precision": "year", "system": "electronic health records (none named)", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "none", "fact": "The same assessment, done in 2021 and citing WHO's Libya Annual Report 2020, states that health management systems are not in routine use at the national or local level, and that DHIS-2 was then being implemented and at a piloting stage.", "as_of": "2021", "date_precision": "year", "system": "DHIS-2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "national", "fact": "The assessment, done in 2021, states that epidemiological data are recorded by a national Health Information System that collates facility-level data from paper records, and that health intelligence is not routinely gathered or used at the facility level; it does not say where or whether the collated data is keyed.", "as_of": "2021", "date_precision": "year", "system": "national Health Information System", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS-2)", "country_label": "DHIS-2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "being implemented, piloting stage (2021); not in routine use at national or local level"},
+    {"system": "national Health Information System", "country_label": "Health Information System", "class": "hmis", "platform": "", "owner": "", "tiers": "national; collates facility-level data from paper records"},
+    {"system": "National Centre for Disease Control epidemiological reporting", "country_label": "", "class": "single-function", "platform": "", "owner": "National Centre for Disease Control", "tiers": ""}
+  ],
+  "note": "The document also states a health information system workplan was under development in 2021 (not a current plan, no fact taken). It gives 1,355 PHC facilities (728 units, 571 centres, 56 polyclinics), 273 closed, as a possible denominator. The hmis digitised value is the nearest fit and the parent should check it against 'paper'."
+}

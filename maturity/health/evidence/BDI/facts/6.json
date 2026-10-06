@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-29-pnud-digitalisation-laboratoires-datatocare",
+  "facts": [],
+  "systems": [
+    {"system": "DataToCare", "country_label": "DataToCare, système intégré de gestion des informations de laboratoire (LIS)", "class": "single-function", "platform": "DataToCare (Desktop and Web)", "owner": "Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie médicale, with UNDP support and Global Fund C19RM financing", "tiers": "nine pilot laboratory sites deployed 18-29 May 2026 (national reference laboratory at INSP, CHUK Kamenge, Hôpital Militaire de Kamenge, ANSS, Kinama health centre, Ngozi and Gitega regional hospitals, Muyinga hospital, Kigutu); 10 instruments connected, 64 planned nationwide"}
+  ],
+  "note": "The only system described is a laboratory information system (single-function); no HMIS or EMR is named."
+}

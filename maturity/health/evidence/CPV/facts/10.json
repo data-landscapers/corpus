@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18 Cabo Verde advances digitalisation of National Health System (SNS)",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Inforpress reports that on 18 December 2025 the Minister of Health, Jorge Figueiredo, announced a unique patient identification code and digital medical records centralising clinical data across facilities, so that professionals will see a patient's history whichever hospital or health centre is attended; stated as coming, with no count of facilities.", "as_of": "2025-12-18", "date_precision": "day", "system": "unique patient identification code / digital medical records", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "unique patient identification code / digital medical records", "country_label": "unique patient identification code, digital medical records", "class": "emr", "platform": "", "owner": "", "tiers": "announced for hospitals and health centres; stated in the future tense"},
+    {"system": "electronic prescriptions", "country_label": "electronic prescriptions", "class": "single-function", "platform": "", "owner": "", "tiers": "announced; to be used with pharmacies"},
+    {"system": "telemedicine units", "country_label": "telemedicine units", "class": "enabling", "platform": "", "owner": "", "tiers": "24 units handed over on 18 December 2025; sites not stated"}
+  ],
+  "note": ""
+}

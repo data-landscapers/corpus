@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-20-dhis2-boma-health-worker-tracker-pilot",
+  "facts": [],
+  "systems": [
+    {
+      "system": "BHI Digitalisation Project DHIS2 Tracker program",
+      "country_label": "Boma Health Initiative (BHI) Digitalisation Project",
+      "class": "community",
+      "platform": "DHIS2 Tracker on Android devices, offline-first",
+      "owner": "Ministry of Health leadership stated; implementing partner not named",
+      "tiers": "Boma Health Workers (community level); 12-month pilot March 2025 to February 2026, recording household visits, childhood illness management, immunisation follow-up and referrals"
+    }
+  ],
+  "note": "The only system described is a community health worker tracker pilot, classed community; no fact for hmis or emr. The document states that Boma Health Initiative reporting is otherwise paper-based."
+}

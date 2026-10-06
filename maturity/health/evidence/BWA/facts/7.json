@@ -1,0 +1,52 @@
+{
+  "slug": "2026-05-27-who-botswana-biennial-report-2024-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO's country office report for 2024-2025 describes DHIS2 as the Government's selected 'gold standard' platform for aggregate data, used to monitor HIV/PMTCT, RMNCAHA and immunisation across districts.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "WHO's 2024-2025 report lists heavy reliance on paper-based reporting by facilities as a challenge and recommends revising the DHIS2 dashboards and trackers 'to enable onsite data capturing', so entry is not at the facility; the report does not name the level at which the paper reports are keyed (no figures given).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Government of Botswana / Ministry of Health (WHO technical support)",
+      "tiers": "aggregate data across districts; facilities report on paper; reporting described as incomplete or delayed"
+    },
+    {
+      "system": "DHIS2 trackers",
+      "country_label": "DHIS2 trackers",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "named only in a recommendation to revise them to enable onsite data capture (HIV mother-to-child transmission programme)"
+    },
+    {
+      "system": "VigiFlow",
+      "country_label": "VigiFlow",
+      "class": "single-function",
+      "platform": "VigiFlow",
+      "owner": "",
+      "tiers": "not stated; a monitoring system strengthened for the IPV2 vaccine rollout"
+    }
+  ],
+  "note": "Excerpt capture (11 of 110 pages). The 'digitised' value is the nearest on the closed list: the document states paper reporting by facilities and no onsite capture, not where entry happens."
+}

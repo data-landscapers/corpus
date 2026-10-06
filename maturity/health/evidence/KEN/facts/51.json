@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-usaid-ken-kenya-digital-health-2021-usaid-kenya-digital-health-ecosystem-activity",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact: the deal record says only that the USAID grant (US$2,892,101 committed, 2021-2026, US$792,269 disbursed) supports DHIS2, interoperability, digital health governance and community health systems, without describing what DHIS2 does in Kenya, so the system is unclassified."
+}

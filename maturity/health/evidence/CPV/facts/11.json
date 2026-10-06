@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-18-cabo-verde-minsaude-telemedicina-equipamentos-japao",
+  "facts": [],
+  "systems": [
+    {"system": "Serviço Nacional de Telemedicina", "country_label": "Serviço Nacional de Telemedicina (projeto Reestruturação do Serviço Nacional de Telemedicina)", "class": "enabling", "platform": "24 telemedicine carts, 24 videoconference systems, 2 digital microscopes", "owner": "Ministério da Saúde; equipment financed by Japan (240,000,000 escudos)", "tiers": "handed over 18 December 2025; installation under way so that all 22 municipalities have at least one health facility equipped; digital microscopes in the two central hospitals"},
+    {"system": "Sistema de Informação Sanitária", "country_label": "Sistema de Informação Sanitária", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Ministry notice of the 18 December 2025 handover of Japanese-funded telemedicine equipment, an enabling class. The Sistema de Informação Sanitária is named only as what telemedicine is to be integrated with, undescribed, so it is unclassed and no HMIS or EMR fact is stated."
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The author's 54-country review (an AI-assisted compilation) states that rural primary healthcare clinics in Egypt predominantly keep patient records on paper, in handwritten registers, and that the rural point of service remains paper by default; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Patient records at rural primary healthcare clinics",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The review states that reports of 2024 to 2026 indicate only 314 hospitals in Egypt have EMRs, with public and rural facilities lagging, citing an arXiv paper; no denominator is given and the hospital tier is not distinguished. Dated to the document's published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Hospital EMRs",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T4",
+      "fact": "The review cites a 2014 WHO-EMRO study of primary health care units in Alexandria that found electronic records kept in parallel with paper, the paper records more complete and the electronic ones varying widely by unit.",
+      "as_of": "2014",
+      "date_precision": "year",
+      "system": "Electronic medical information system at Alexandria primary health care units",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Hospital EMRs",
+      "country_label": "EMR",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "314 hospitals (reports of 2024-2026)"
+    },
+    {
+      "system": "Electronic medical information system at Alexandria primary health care units",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "Primary health care units in Alexandria (2014)"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "Launched nationally in 2026, with pilots in select primary facilities for emergencies and refugees (nutrition screening in 16 sites); not routine patient care at most rural clinics"
+    },
+    {
+      "system": "EBDRS",
+      "country_label": "EBDRS (electronic birth and death registration system)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "About 4,571 health offices since 2017, rural ones included over GPRS/3G"
+    }
+  ],
+  "note": "Passages naming Egypt only. DHIS2 is described by a nutrition-screening pilot, not by routine aggregate reporting, so it is left unclassified and gives no hmis fact."
+}

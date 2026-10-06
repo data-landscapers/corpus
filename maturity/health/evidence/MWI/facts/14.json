@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-01-national-registration-bureau-malawi",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "A caption on the National Registration Bureau's homepage shows the Ministry of Health's Digital Health Department integrating the National Identity and Electronic Medical Records system (NID-EMR Integration) at Mbabvi Health Centre; the page gives no date for the event, so the document's published date is used.", "as_of": "2026-02", "date_precision": "month", "system": "Electronic Medical Records system", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The National Registration Bureau's homepage attributes the NID-EMR integration at Mbabvi Health Centre to the Digital Health Department of the Ministry of Health; the page gives no date for the event, so the document's published date is used.", "as_of": "2026-02", "date_precision": "month", "system": "Electronic Medical Records system", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records system", "country_label": "EMR", "class": "emr", "platform": "", "owner": "Ministry of Health, Digital Health Department", "tiers": "Mbabvi Health Centre named as an NID-EMR integration site"}
+  ],
+  "note": "The only health content is one photo caption; the EMR is not named or described beyond the words 'Electronic Medical Records system', and one health centre is named. The rest of the page is about national ID and civil registration."
+}

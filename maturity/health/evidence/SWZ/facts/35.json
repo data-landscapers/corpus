@@ -1,0 +1,8 @@
+{
+  "slug": "2023-10-01-vital-statistics-report-2022",
+  "facts": [],
+  "systems": [
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated; appears only in the list of abbreviations"}
+  ],
+  "note": "Civil registration report, truncated after the executive summary; it thanks the Ministry of Health's Health Management Information System unit for data on facility-based vital events and lists CMIS as an abbreviation, but describes no health information system."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-03 Now is the time to invest in locally-owned health data systems",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (routine immunization and vaccine supply-chain data)", "country_label": "DHIS2", "class": "single-function", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "Its one statement on Nigeria is that combining routine immunization and vaccine supply-chain data in DHIS2 has helped reduce stock-outs and raise coverage: one programme's reporting, so noted as a system and no fact. Its general statements on national DHIS2 systems staying online after the 2025 US funding cuts are not made of Nigeria."
+}

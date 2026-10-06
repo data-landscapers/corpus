@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-20 What is actually functioning as DPI in South Sudan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "digital health information systems for disease surveillance and supply chains (unnamed)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health with support from WHO, UNICEF and other partners; described as donor-driven, proprietary and disconnected from national registries",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "The single health sentence describes unnamed surveillance and supply-chain systems, which are single-function; no hmis or emr system is described, so no fact."
+}

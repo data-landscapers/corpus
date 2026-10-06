@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-01-gnb-undp-annual-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "health information systems such as DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health; enhanced with UNDP support under the +Digit@l project (UNDP is Principal Recipient of the Global Fund malaria grant)", "tiers": "not stated"},
+    {"system": "eLMIS", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "implemented with UNDP support under the +Digit@l project", "tiers": "not stated; said to integrate service delivery and supply chain data"},
+    {"system": "National Telemedicine Center", "country_label": "National Telemedicine Center", "class": "enabling", "platform": "", "owner": "Ministry of Health with UNDP support", "tiers": "national centre, operational in 2025"},
+    {"system": "SIREC (Integrated Civil Registration System)", "country_label": "SIREC", "class": "", "platform": "", "owner": "Ministry of Justice; UNDP technical assistance; Swiss, EU and Portuguese Cooperation finance", "tiers": "civil registry offices and health facilities"}
+  ],
+  "note": "UNDP's report on 2025 says the +Digit@l project enhanced DHIS2 and implemented an eLMIS, without saying what DHIS2 is used for, at which tiers or where data is entered; DHIS2 is therefore unclassified and gives no fact. The capture is truncated at the fetch limit."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-sierra-leone-power-of-data-country-framework-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated; described only as enabling near real-time disease surveillance and resource allocation, and named for Phase 1 interoperability pilots with EMIS and IFMIS"},
+    {"system": "MSupply", "country_label": "MSupply", "class": "", "platform": "mSupply", "owner": "", "tiers": "not stated; named once as an existing innovation"}
+  ],
+  "note": "A national data ecosystem framework; the capture is an excerpt cut off in Pillar 5. DHIS2 is named throughout as the health sector's system but never described as routine facility reporting, so it is unclassified and gives no fact. Exchange evidence: about 30% of national systems exchange data effectively (2025 mapping), with a 50% target and planned DHIS2-EMIS-IFMIS pilots."
+}

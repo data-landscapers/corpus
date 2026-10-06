@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+DJI,hmis,governance,qualifier,,,,,nothing held
+DJI,hmis,tiers,coverage,T3;T4,2025-04-14,DJI-006,,
+DJI,hmis,digitised,coverage,facility,2026-03-31,DJI-002;DJI-005,,
+DJI,hmis,last12,qualifier,,,,,nothing held
+DJI,hmis,clinics,coverage,share:84%,2026-03-31,DJI-001,DJI-004=share:69%,
+DJI,emr,governance,qualifier,,,,,nothing held
+DJI,emr,tiers,coverage,,,,,nothing held
+DJI,emr,digitised,coverage,paper,2026-03-31,DJI-003,,
+DJI,emr,last12,qualifier,,,,,nothing held
+DJI,emr,clinics,coverage,,,,,nothing held

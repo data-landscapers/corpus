@@ -1,0 +1,46 @@
+{
+  "slug": "2026-02-10-sudan-health-ministry-digital-transformation-year",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Federal Minister of Health told the 2025 annual health information performance review, as reported by the Sudan News Agency, that data reporting coverage rose from 13 per cent at the onset of the crisis to more than 56 per cent by the end of 2025; the figure is the ministry's own and no numerator or denominator is given.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "DHIS2 platform (health information system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Sudan News Agency reports the health information system as run by the Federal Ministry of Health, whose Director General of Health Information called at the February 2026 review meeting for a full transition from paper-based to digital reporting through DHIS2.",
+      "as_of": "2026-02-10",
+      "date_precision": "day",
+      "system": "DHIS2 platform (health information system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "Participants at the February 2026 review meeting, as reported by the Sudan News Agency, recommended expanding DHIS2 to link all health facilities and ensuring continued technical and financial support from partners, naming the Global Fund, UNICEF, the Red Cross, Médecins Sans Frontières and the Sudanese American Physicians Association; no domestic budget line is mentioned.",
+      "as_of": "2026-02-10",
+      "date_precision": "day",
+      "system": "DHIS2 platform (health information system)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 platform (health information system)",
+      "country_label": "health information system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health, Directorate General of Health Information",
+      "tiers": "states feed the reporting systems; expansion to link all health facilities is a recommendation, not a stated position"
+    }
+  ],
+  "note": "The 56 per cent is 'data reporting coverage', not a share of clinics entering their own reports, so no clinics fact is taken. The call for a full transition from paper to digital reporting implies paper reporting continues but states no level at which data is keyed. A national health strategy 2026-2030 is announced as planned, not in force, and is not said to name the system, so no plan fact is taken."
+}

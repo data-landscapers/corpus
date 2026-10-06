@@ -1,0 +1,31 @@
+{
+  "slug": "2026-01-28-mrt-ministre-sante-assemblee-systemes-information-sanitaire-hopitaux",
+  "facts": [],
+  "systems": [
+    {
+      "system": "systèmes d'information sanitaire et systèmes de gestion numérisés (hôpitaux de référence modèles)",
+      "country_label": "systèmes d'information sanitaire et systèmes de gestion numérisés des hôpitaux de référence modèles",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Model reference hospitals; the minister says the model is about to be extended to the other hospitals"
+    },
+    {
+      "system": "centre numérique du ministère",
+      "country_label": "centre numérique pour le ministère",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Being created; to track emergency patient cases and provide remote consultation and diagnosis for health centres in the interior"
+    },
+    {
+      "system": "système financier numérisé des établissements de santé",
+      "country_label": "numérisation du système financier dans les établissements de santé",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Health establishments, not further specified"
+    }
+  ],
+  "note": "The minister told the Assemblée nationale on 28 January 2026 that health information systems and digitised management systems are being introduced in model reference hospitals and have improved the patient pathway; the document does not say they hold the clinical record or carry routine aggregate reporting, so they are unclassified and give no fact. The digital centre is telemedicine and emergency tracking (enabling); the financial system is administration, outside the typology."
+}

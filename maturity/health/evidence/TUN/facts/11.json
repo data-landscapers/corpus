@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) scores Tunisian rural clinics 1 and states that rural primary healthcare clinics predominantly record patient data on paper, with paper registers prevailing for patient encounters and digital effort concentrated on urban and regional hospitals; the row is undated, so the essay's publication date of 31 March 2026 is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "EMR (none named)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The same review states it found no evidence of routine EMR use at the point of care in rural clinics and that WHO data confirms no EHR in primary care facilities (clinics and health centres), citing the WHO Tunisia eHealth profile; no numerator or denominator is given and the statement is undated (publication date of 31 March 2026 used).",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "EMR (none named)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "One Health",
+      "country_label": "\"One Health\"",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages file; the record's own header warns the country rows are an AI-aided compilation to be treated as the author's analysis, not sourced fact. The row also says data is 'likely transcribed later at district levels' and that no routine DHIS2 use was found at rural point of care; both are conjecture or absence of evidence about HMIS and no hmis fact is taken."
+}

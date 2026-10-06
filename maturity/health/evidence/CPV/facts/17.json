@@ -1,0 +1,17 @@
+{
+  "slug": "2025-01-01-nosi-egov-solutions",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information System (SIS)", "country_label": "Health Information System (SIS)", "class": "emr", "platform": "NOSi integrated platform with a centralised information repository", "owner": "developed by NOSi", "tiers": "not stated; described as letting health services and structures schedule appointments and complementary analyses and share clinical and administrative information"},
+    {"system": "Electronic Medical Prescriptions", "country_label": "Electronic Medical Prescriptions", "class": "single-function", "platform": "single NOSi platform", "owner": "developed by NOSi with the Ministry of Health, INPS, ARFA, Emprofac, Inpharma, private clinics and the Order of Physicians", "tiers": "not stated"},
+    {"system": "SIMFAR", "country_label": "Integrated Pharmaceutical Market Monitoring System (SIMFAR)", "class": "single-function", "platform": "NOSi", "owner": "", "tiers": "not stated; monitors medicine access, price and stock"},
+    {"system": "Food and Medication Management System", "country_label": "Food and Medication Management System", "class": "single-function", "platform": "NOSi", "owner": "ARFA (regulator)", "tiers": "not stated"},
+    {"system": "WEBSIG - National Observatory of Public Health", "country_label": "WEBSIG - National Observatory of Public Health", "class": "", "platform": "NOSi web GIS", "owner": "INSP, with NOSi, INE and INGT", "tiers": "national; gathers and publishes health statistics"},
+    {"system": "NHA CARD", "country_label": "NHA CARD - Cabo Verde Covid Certificate", "class": "tracker", "platform": "NOSi", "owner": "", "tiers": "citizen-facing digital certificate of Covid vaccination, testing and recovery"},
+    {"system": "Telemedicine", "country_label": "Telemedicine", "class": "enabling", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "e-GOV1 - Health Structures", "country_label": "e-GOV1 - Health Structures", "class": "enabling", "platform": "connectivity", "owner": "NOSi", "tiers": "health structures, unspecified"},
+    {"system": "Fiber Optic Batista de Sousa Hospital (HBS)", "country_label": "Fiber Optic Batista de Sousa Hospital (HBS)", "class": "enabling", "platform": "fibre connection", "owner": "NOSi", "tiers": "one central hospital (Batista de Sousa)"},
+    {"system": "PDEX", "country_label": "PDEX", "class": "exchange", "platform": "integration and interoperability layer", "owner": "NOSi", "tiers": "government-wide"}
+  ],
+  "note": "NOSi's undated catalogue of solutions (dated 2025 by the list). It describes the SIS as a platform sharing clinical and administrative information from a central repository, which is why it is classed emr here, but gives no tier, no site count, no owner beyond NOSi as developer and no date, so no aspect has a stated value."
+}

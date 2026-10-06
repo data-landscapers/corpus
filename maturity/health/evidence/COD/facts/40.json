@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-16-rdc-homologation-sih-anicns-congoquotidien",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "On 16 June 2026 the Ministry of Public Health's agency ANICNS opened call ANICNS/AMI/001/SIH/2026 for the now-mandatory approval of hospital information systems under a ministerial order of 11 March 2025; each must include a complete computerised patient record, admission on the national health identifier and FHIR/DICOM interoperability, with submissions due by 12 July 2026 and approved products to be listed in a national register.", "as_of": "2026-06-16", "date_precision": "day", "system": "Systèmes d'Information Hospitalier (SIH)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Systèmes d'Information Hospitalier (SIH)", "country_label": "SIH; Dossier Patient Informatisé", "class": "emr", "platform": "several vendor products, proprietary or open source, not named", "owner": "vendors (éditeurs SIH), regulated and approved by ANICNS under the Ministry of Public Health", "tiers": "public, private and faith-based care establishments; cost schedule covers health centres, general referral hospitals, secondary and tertiary hospitals; no count of facilities using one"},
+    {"system": "Identifiant National en Santé (INS)", "country_label": "INS", "class": "exchange", "platform": "", "owner": "Ministry of Public Health / ANICNS, under a ministerial order of 16 April 2024", "tiers": "required basis of patient admission and identity in every approved SIH"},
+    {"system": "Architecture d'Entreprise en santé numérique", "country_label": "", "class": "exchange", "platform": "FHIR, DICOM, REST API standards", "owner": "ANICNS", "tiers": "national digital health ecosystem"},
+    {"system": "Registre National des SIH Homologués", "country_label": "", "class": "exchange", "platform": "ANICNS website and the SANTE RDC mobile application", "owner": "ANICNS", "tiers": "national"}
+  ],
+  "note": "A regulatory notice: it shows hospital information systems holding the clinical record exist from several vendors, some with provisional approval, but states no number of facilities, no tier in routine use and nothing on where records are keyed. The approval rule is a ministerial order, not a strategy or costed plan, so no governance value is recorded."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-21-alianzas-estrategicas-ee-uu-sistema-nacional-salud",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GALE digital health pilot (eClinics telemedicine stations)",
+      "country_label": "proyecto piloto de salud digital (GALE); Estaciones Digitales de Telemedicina (eClinics)",
+      "class": "enabling",
+      "platform": "19Labs GALE eClinic, with Starlink satellite connectivity",
+      "owner": "19Labs (formal proposal to the Ministerio de Sanidad e Infraestructuras Sanitarias; not deployed)",
+      "tiers": "proposed for 8 remote health centres, 4 in the Región Continental and 4 in the Región Insular"
+    }
+  ],
+  "note": "Only a proposed telemedicine and drone-logistics pilot (class enabling) is described; nothing on HMIS reporting or patient records."
+}

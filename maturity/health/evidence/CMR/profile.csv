@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CMR,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03-04,CMR-004;CMR-005;CMR-006,CMR-018=owner:ministry,
+CMR,hmis,tiers,coverage,T1;T2;T3;T4,2022,CMR-019,,nothing dated since 2023-10-06
+CMR,hmis,digitised,coverage,district,2026-03-31,CMR-001,,
+CMR,hmis,last12,qualifier,advancing,2026-03-04,CMR-008,,
+CMR,hmis,clinics,coverage,none,2026-03-31,CMR-002,CMR-007=not-published,
+CMR,emr,governance,qualifier,owner:partner;plan:current;finance:donor,2026-03-04,CMR-012;CMR-014;CMR-015,CMR-010=owner:ministry;CMR-011=finance:donor,
+CMR,emr,tiers,coverage,,,,,nothing held
+CMR,emr,digitised,coverage,paper,2026-03-31,CMR-003,,
+CMR,emr,last12,qualifier,advancing,2026-03-04,CMR-013;CMR-017,,
+CMR,emr,clinics,coverage,pilot,2025-12,CMR-009;CMR-016,,

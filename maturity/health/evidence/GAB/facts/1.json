@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-11-gabon-digital-id-interoperability-implementation",
+  "facts": [],
+  "systems": [
+    {"system": "eGabon-SIS", "country_label": "eGabon-SIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names eGabon-SIS only as a project modernising the health sector through a national health information architecture; says nothing of what the system does, where it runs or who uses it. The rest concerns digital ID, interoperability, messaging and the payroll file."
+}

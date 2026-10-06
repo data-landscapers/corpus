@@ -1,0 +1,20 @@
+{
+  "slug": "2025-04-03 Now is the time to invest in locally-owned health data systems",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The HISP Centre (DHIS2) states that Kenya's Ministry of Health suddenly lost access to the national Electronic Medical Records system in March 2025, given as an example of systems going offline after the US health funding cuts; it cites a KELIN Kenya post.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "national Electronic Medical Records system",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "national Electronic Medical Records system", "country_label": "national Electronic Medical Records system", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "national DHIS2 system", "country_label": "national DHIS2 system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

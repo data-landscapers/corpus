@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-sen-health-systems-stren-2016-health-systems-strengthening-plus-hss",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A deal record: USAID's HSS+ grant for Senegal (US$37,295,732, 2016-2023) is described only as having digital health information system components including DHIS2 implementation and data use for PEPFAR reporting; it does not say what DHIS2 does or where, so the system is unclassed and gives no fact."
+}

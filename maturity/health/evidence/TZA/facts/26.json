@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "AI-powered telemedicine and diagnostics programme (Tanzania Data Lab with UNICEF and PATH)", "country_label": "", "class": "enabling", "platform": "", "owner": "Tanzania Data Lab (dLab) with UNICEF and PATH", "tiers": "rural health settings; described as exploring triage, diagnostics and remote consultations"}
+  ],
+  "note": "Continental AI report: its EMR and EHR mentions concern Botswana, Egypt and Africa generally. For Tanzania it names only an exploratory AI telemedicine and diagnostics programme and Saratani AI, a cervical cancer screening tool in hospitals, neither an HMIS nor an EMR."
+}

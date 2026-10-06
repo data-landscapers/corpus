@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "Dossier Patient Informatisé (DPI)", "country_label": "Dossier Patient Informatisé (DPI) / Dossier Médical Électronique", "class": "emr", "platform": "", "owner": "Direction de l'Informatique et de la Santé Digitale (DISD) named as the administration concerned", "tiers": "listed as an existing e-service, with a reference to the Hôpital général d'Abobo Nord; tiers not stated"},
+    {"system": "Système de Gestion des Centres Hospitaliers (SGCH)", "country_label": "Système d'Information Hospitalier (SIH) / Système de Gestion des Centres Hospitaliers (SGCH)", "class": "", "platform": "", "owner": "", "tiers": "hospital centres; described only as holding appointments in the proposed workflow, not the clinical record"},
+    {"system": "DHIS2", "country_label": "District Health Information System2 (DHIS2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "CICMU", "country_label": "Couche d'Interopérabilité de la Couverture Maladie Universelle (CICMU)", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "OpenElis", "country_label": "OpenElis", "class": "", "platform": "OpenELIS", "owner": "", "tiers": ""},
+    {"system": "e-Santé CIV", "country_label": "Portail de gestion du parcours patient (e-santé CIV)", "class": "", "platform": "", "owner": "", "tiers": "recommended for upgrade as a patient portal for appointments, pre-admission, payment and access to the electronic medical record, interoperable with DPI, SIH, DHIS2, CICMU and OpenElis"},
+    {"system": "Carnet de vaccination numérique", "country_label": "Carnet de vaccination numérique", "class": "tracker", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-CNAM", "country_label": "e-CNAM", "class": "", "platform": "", "owner": "CNAM", "tiers": ""}
+  ],
+  "note": "The passages are a consultant's recommendations (PADCI final report, 18 November 2025): they name DPI and SGCH as existing e-services and recommend upgrading e-Santé CIV, DPI, DHIS2 and CICMU, but the point-of-care entry and shared record they describe belong to a proposed workflow, not to a stated present position, so no fact is taken."
+}

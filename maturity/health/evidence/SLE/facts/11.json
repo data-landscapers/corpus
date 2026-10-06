@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-06-sierra-leone-national-health-compact",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The National Health Compact of 6 December 2025 commits the Government to roll out Electronic Medical Records to all districts, linking PHUs and referral hospitals, phased from high-volume districts; its action plan sets a costed strategy for the phased roll-out by 2027 and roll-out to all medical facilities by 2030.", "as_of": "2025-12-06", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Compact's action plan names the Ministry of Health's Directorate of Policy Planning and Information (DPPI) as lead institution for both the costed EMR roll-out strategy (2027) and the roll-out of EMR to all medical facilities (2030).", "as_of": "2025-12-06", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR)", "country_label": "Electronic Medical Records", "class": "emr", "platform": "", "owner": "Ministry of Health, DPPI", "tiers": "planned: PHUs and referral hospitals in all districts, all medical facilities by 2030"},
+    {"system": "District Health Information Software (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated; named as the target of EMR integration for real-time analytics, monitoring and results-tracking"},
+    {"system": "Pregnancy Registration and Service Tracking (PReSTrack)", "country_label": "PReSTrack", "class": "tracker", "platform": "", "owner": "Ministry of Health (Directorate of RMCAH and DPPI lead its phased adoption)", "tiers": "deployed in some districts; to be institutionalised across all districts, milestones due 2026"},
+    {"system": "electronic Integrated Disease Surveillance and Response", "country_label": "eIDSR", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Logistics Management Information System (LMIS) / mSupply", "country_label": "LMIS", "class": "single-function", "platform": "mSupply", "owner": "Directorate of Pharmaceuticals, National Medical Supplies Agency, DPPI", "tiers": "phased deployment of mSupply at PHUs planned, 2029"},
+    {"system": "Telehealth platforms", "country_label": "", "class": "enabling", "platform": "", "owner": "Ministry of Health, DPPI", "tiers": "planned, connecting PHUs and referral hospitals; policy due 2026"},
+    {"system": "Emergency Operations Centre (EOC) dashboard", "country_label": "EOC dashboard", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Integrated Human Resource Information System (iHRIS)", "country_label": "iHRIS", "class": "", "platform": "iHRIS", "owner": "", "tiers": "not stated; appears in the acronym list only"}
+  ],
+  "note": "The capture is an excerpt, truncated in the action plan before the status and annex sections. The Compact states commitments, not deployments; the baseline column reads Yes against 'EMR operationalised nationwide' without saying what exists. DHIS2 is not described as a reporting system here, so it gives no HMIS fact. The funding table gives a digital health need of US$100 million to 2030 (60 pooled, 40 private) with no source committed, so no finance value is recorded."
+}

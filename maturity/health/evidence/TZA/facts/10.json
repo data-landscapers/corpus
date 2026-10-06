@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-mageuzi-ya-kidijitali-katika-sekta-ya-afya-tanzania-yashika-kasi",
+  "facts": [],
+  "systems": [
+    {"system": "national interoperability platform (mfumo wa kitaifa wa mawasiliano ya mifumo)", "country_label": "interoperability platform", "class": "exchange", "platform": "", "owner": "Government of Tanzania (Ministry of Health)", "tiers": "more than 45 digital health systems linked; about 220 health facilities able to communicate digitally (Minister Mchengerwa, Geneva, 2026-05-19)"}
+  ],
+  "note": "Exchange class only: the Minister states over 45 digital health systems are linked through the national interoperability platform, letting about 220 health facilities communicate digitally (2026-05-19). Nothing stated about an HMIS or an EMR as such."
+}

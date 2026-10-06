@@ -1,0 +1,89 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+UGA,Electronic Medical Record (EMR) system,EMR system,emr,,Ministry of Health,Kiryandongo General Hospital; Nyakadoti Health Centre III; Mpumwe and Apodorwa Health Centre IIs (Kiryandongo district),2026-09-21-uga-kiryandongo-emr-health-facilities-struggle
+UGA,Chil Group Electronic Medical Record (EMR) software,zero-cost EMR software,emr,Chil Group proprietary,Chil Group (private company),"Chil Group partner health facilities, including rural facilities with inpatient wards; tiers not stated",2026-09-03-nilepost-chil-group-e-ward-round-platform
+UGA,E-Ward Round Platform,E-Ward Round Platform / E-Ward Round Module,enabling,Chil Group proprietary,Chil Group (private company),available to partner health facilities with inpatient capacity; launched 3 September 2026,2026-09-03-nilepost-chil-group-e-ward-round-platform
+UGA,electronic Community Health Information System,electronic Community Health Information System (eCHIS),community,"not stated; implemented with Medic, with Audere's HealthPulse AI Interpreter built in for the pilot","Ministry of Health, with Medic","Village Health Teams; AI febrile-illness workflow piloted in Mpigi, Moyo, Buikwe and Lira districts",2026-08-31-uga-ai-health-pilot-community-workers
+UGA,Health Management Information System (manual),manual Health Management Information System,hmis,paper,Ministry of Health,"Health Centre IIIs (faith-based facilities named: Ziiru, Buvuma; St Francis Kijjaguzo, Nakaseke)",2026-08-19-newvision-ucc-digital-skilling-health-centres
+UGA,Faith Medical Bureau-UCC Digital Skilling Project,Faith Medical Bureau-UCC Digital Skilling Project,enabling,three computers per facility and ICT training; no software named,"Uganda Communications Commission (UCUSAF funding), led by Uganda Catholic Medical Bureau for the faith medical bureaux","58 faith-based Health Centre IIIs; about 800 health workers trained of 1,000 targeted since May 2025",2026-08-19-newvision-ucc-digital-skilling-health-centres
+UGA,Electronic Community Health Information System (eCHIS),eCHIS,community,,Ministry of Health,Village Health Teams; 306 smartphones from KOFIH for VHTs in Masaka District (August 2026),2026-08-11-khronicle-kofih-masaka-vht-smartphones
+UGA,national digital health systems handed to the Ministry in March 2026,national digital health systems,,,"Ministry of Health, after 15 years of US government support","not stated; said to monitor HIV, tuberculosis and malaria and medicine supplies",2026-08-11-khronicle-kofih-masaka-vht-smartphones
+UGA,electronic Integrated Disease Surveillance Reporting (eIDSR) platform,eIDSR,single-function,,Ministry of Health,not stated; linked to the education DHIS2-Ed system for school-based surveillance indicators,2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief
+UGA,District Health Information System (DHIS2),DHIS2 / HMIS,hmis,DHIS2,Ministry of Health,health facilities enter aggregated paper HMIS forms; tiers not stated,2026-04-13-nature-echis-death-notification
+UGA,electronic Community Health Information System (eCHIS),eCHIS,community,,Ministry of Health,"about 11,099 Village Health Teams and 160 Community Health Extension Workers in 17 districts at the time of the study (2024); synchronises with DHIS2 dashboards; community death notification workflow piloted in the 17 districts",2026-04-13-nature-echis-death-notification
+UGA,SMS-based COVID-19 death reporting platform (short code 6767),6767,single-function,SMS,emergency response project,Village Health Teams; not integrated into DHIS2 and discontinued when funding ended,2026-04-13-nature-echis-death-notification
+UGA,DHIS2 (District Health Information System 2),DHIS2,hmis,DHIS2,Ministry of Health,not stated; reporting rate 58% (2020) to 98% (2025),2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,UgandaEMR,UgandaEMR repositories; EMR metrics,emr,,Ministry of Health since 31 March 2026; built by Makerere MakSPH-METS with CDC/PEPFAR funding,"not stated; electronic medical record coverage 50% (2020) to 86% (2024), 100% in high-volume sites, denominator not given",2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,National Data Warehouse,National Data Warehouse,,,Ministry of Health,national,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,OpenHIM,OpenHIM for health information exchange,exchange,OpenHIM,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,eIDSR,eIDSR,single-function,,Ministry of Health since 31 March 2026,patient-level data on acute illnesses and outbreaks; tiers not stated,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,Weekly Stock Status System,Weekly Stock Status System,single-function,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,PIRS,PIRS (PEPFAR indicator reporting beyond DHIS2),single-function,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,HIV case-based surveillance (HIV CBS dashboard),HIV CBS,tracker,,Ministry of Health since 31 March 2026,"1,300 health facilities; HIV recency surveillance in 1,084",2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,TB eCBSS,TB eCBSS,tracker,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,DREAMS Tracker,DREAMS Tracker,tracker,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,PREV Tracker,PREV Tracker,tracker,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,EID and viral load dashboards,EID and viral load dashboards,tracker,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,QI database,QI database,,,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,SURGE Dashboard,SURGE Dashboard,,Power BI,Ministry of Health since 31 March 2026,,2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,METS ICT infrastructure,,enabling,"servers, devices, solar, connectivity",Ministry of Health since 31 March 2026,"solar systems for nearly 800 facilities; connectivity equipment for more than 1,300 sites; network upgrades at regional referral hospitals",2026-04-01-mak-transitions-digital-health-systems-assets
+UGA,DHIS2,DHIS2 / HMIS tools,hmis,DHIS2,,entered at district level from HC II/III paper forms,2026-03-31 Africa we have a data problem
+UGA,UgandaEMR,UgandaEMR,emr,,,HC IV and above; mostly programme-specific (HIV),2026-03-31 Africa we have a data problem
+UGA,Stre@mline,Stre@mline,,,,"pilots in select rural hospitals, not scaled nationally",2026-03-31 Africa we have a data problem
+UGA,eAfya,eAfya,emr,eAfya,Government of Uganda,"planned in all facilities down to Health Centre III by 2028; also the facility pharmacy and commodity inventory (eLMIS) module, starting with national and regional referral hospitals",2025-12-10-afghs-mou-uganda
+UGA,ClinicMaster,ClinicMaster,emr,ClinicMaster,Government of Uganda,planned in all facilities down to Health Centre III by 2028; also the facility pharmacy and commodity inventory (eLMIS) module,2025-12-10-afghs-mou-uganda
+UGA,digital registers,digital register system,,,Government of Uganda,planned for all health facilities without EMR systems,2025-12-10-afghs-mou-uganda
+UGA,ALIS,ALIS,single-function,,Government of Uganda,laboratory management system at implementation sites,2025-12-10-afghs-mou-uganda
+UGA,LabExpert,LabExpert,single-function,,Government of Uganda,laboratory management system at implementation sites,2025-12-10-afghs-mou-uganda
+UGA,eIDSR,eIDSR,single-function,,Government of Uganda,to be rolled out across all applicable sites by end of 2026,2025-12-10-afghs-mou-uganda
+UGA,Integrated Outbreak Management System,Integrated Outbreak Management System,single-function,,Government of Uganda,to be rolled out across all applicable sites by end of 2026,2025-12-10-afghs-mou-uganda
+UGA,NMS+,NMS+,single-function,,National Medical Stores,central warehouse management,2025-12-10-afghs-mou-uganda
+UGA,JMS ERP,JMS ERP,single-function,,Joint Medical Stores,central warehouse management,2025-12-10-afghs-mou-uganda
+UGA,national health data warehouse,national health data warehouse,,,Government of Uganda,national; main data repository and analytics platform,2025-12-10-afghs-mou-uganda
+UGA,eCHIS,eCHIS (Community Health Management System),community,,Government of Uganda,community,2025-12-10-afghs-mou-uganda
+UGA,iHRIS,iHRIS,,iHRIS,Government of Uganda,human resource management,2025-12-10-afghs-mou-uganda
+UGA,national telehealth and telementoring hub,,enabling,,"Government of Uganda, with initial US support",planned,2025-12-10-afghs-mou-uganda
+UGA,District Health Information Software 2 (DHIS2),electronic routine health information system (eRHIS),hmis,DHIS2,,central and subnational data offices assessed November 2022 to July 2024; facility tiers not stated,2025-12-01-impulse-erhis-newborn-data-functionalities
+UGA,DHIS2,DHIS2 (national HMIS reporting system),hmis,DHIS2,"Ministry of Health, Division of Health Information","265/265 HC IVs, general hospitals, regional and national referral hospitals; rolled out to 112 districts in 2011",2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,eAFYA,eAFYA,emr,eAFYA,,"44/265 surveyed facilities; mostly HC IVs and above, more hospitals than Clinic Master",2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,Clinic Master,Clinic Master,emr,Clinic Master,,mostly HC IVs and above; used for the HIV programme in the Kayunga cluster,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,IHMIS,IHMIS (integrated Health Management Information System),emr,locally developed,,"not stated; patient management (triage, clinical care, diagnostics)",2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,Uganda EMR,Uganda EMR,tracker,stated as a customisation of OpenEMR,"supported by the METS Program, Makerere University School of Public Health","228/265 surveyed facilities (86.0%); 1,300 public facilities by 2022; about 2,689 ART sites including selected HC IIs; HIV and TB patients at the point of care, later maternal and child health",2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,eCBSS,eCBSS,tracker,,,TB patient diagnosis and treatment; integrated with Uganda EMR,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,mTrac,mTrac,single-function,,,health workers at facilities submit weekly reports on disease outbreaks and medicine stock-outs,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,CSSP/NMS+,CSSP/NMS+ (client self-service portal),single-function,,National Medical Stores,265/265 surveyed facilities; medicines ordering,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,Rx Solution,Rx Solution,single-function,RxSolution,,181/265 surveyed facilities (68.3%); inventory management; not in use at 23 of 180,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,A-LIS,A-LIS,single-function,,,146/265 surveyed facilities (55.1%); laboratory,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,Lab Expert,Lab Expert,single-function,,,laboratory; in use where deployed,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,EIDSR,EIDSR,single-function,,,in use where deployed,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,iHRIS / iHRMIS,iHRIS (integrated Human Resource Information System),,iHRIS,Ministry of Public Service deploying,about 4.5% of surveyed facilities,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,RASS,RASS,,,,in use where deployed,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,National Data Warehouse,National Data Warehouse,exchange,,Ministry of Health,"national; project begun December 2023; receiving data from eCHIS, EMR and DHIS2 (HMIS, EIDSR)",2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,eCHIS,eCHIS,community,,,feeds the National Data Warehouse,2025-10-10-emr-availability-use-public-health-facilities-uganda
+UGA,DHIS2,"DHIS2, MoH",,DHIS2,Ministry of Health,not stated; cited as the source of the 2024 table of medically certified health facility deaths,2025-07-01-uganda-vital-statistics-report-2024
+UGA,eAFYA,Electronic Medical Records (EMR),emr,eAFYA,Ministry of Health,"National referral, regional referral and general hospitals, 5 Health Centre IVs and 2 Health Centre IIIs (2025); the preferred platform, works offline and connects to laboratory systems and pharmacies",2025-06-13-emr-rollout-patient-care-data-management
+UGA,Clinic Master,Electronic Medical Records (EMR),emr,Clinic Master,Ministry of Health,Offered to facilities from 2022 as one of two EMR platforms; earlier used in HIV clinics,2025-06-13-emr-rollout-patient-care-data-management
+UGA,DHIS2,DHIS2,hmis,DHIS2,"Ministry of Health, Division of Health Informatics, with HISP Uganda in support",National scale,2025-04-03 Now is the time to invest in locally-owned health data systems
+UGA,"DHIS2 case-based analytics for TB, immunization and COVID-19 vaccination certification",,tracker,DHIS2,Ministry of Health,,2025-04-03 Now is the time to invest in locally-owned health data systems
+UGA,DHIS2 death notification and certification (ICD-11),,,DHIS2,Ministry of Health,,2025-04-03 Now is the time to invest in locally-owned health data systems
+UGA,Electronic Medical Records System (EMRS),EMRS,emr,,"Ministry of Health, Division of Health Information Management",Intended for all service delivery points in public and private health facilities; guidelines require patient registration with a unique identifier and longitudinal tracking of services,2024-09-18-moh-emrs-implementation-guidelines
+UGA,eHMIS,eHMIS,,,Ministry of Health,,2024-09-18-moh-emrs-implementation-guidelines
+UGA,DHIS2,,,DHIS2,,,2024-09-18-moh-emrs-implementation-guidelines
+UGA,ELMIS,Electronic Logistic Management Information Systems,,,,,2024-09-18-moh-emrs-implementation-guidelines
+UGA,Health management information system,health management information system,,DHIS2,,,2024-06-01-uganda-data-ecosystem-social-protection
+UGA,DHIS2 (health),Health Management Information System (HMIS),hmis,DHIS2,"Ministry of Health, with health partners and HISP Uganda","Rolled out nationally in all districts, carrying the standard HMIS tools",2023-03-28-dhis2-routine-data-collection-uganda-education
+UGA,Health Information Exchange (HIE),Uganda Health Information Exchange,exchange,"APIs, ETL tools and OpenHIE architecture are named as modalities in use","Ministry of Health, Division of Health Information Management",,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
+UGA,eHMIS,national eHMIS,,,,National; receives data from mTrac,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
+UGA,mTrac,mTrac,single-function,,,,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
+UGA,Viral Load Information System,national Viral Load Information System,single-function,,,National; receives data from EMRs,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
+UGA,EMRs,EMRs,,,,,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
+UGA,Master Facility List / Electronic Health Facility Registry,Master Facility List (MFL),exchange,,,,2023-01-01-uganda-health-information-exchange-interoperability-guidelines
+UGA,electronic Health Management Information System,electronic Health Management Information System,,,Ministry of Health,The ministry has plans to develop it further,2018-12-28-id4d-country-diagnostic-uganda-world-bank
+UGA,second-generation District Health Information System,District Health Information System,,,Ministry of Health,Planned,2018-12-28-id4d-country-diagnostic-uganda-world-bank
+UGA,HMIS,Health Management Information System,,,,,2017-03-01-mapping-social-protection-mis-uganda
+UGA,DHIS2,,,DHIS2,,,2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square
+UGA,Electronic Community Health Information System (eCHIS),eCHIS,community,,Ministry of Health; in Maracha district implemented with UNCDF and BRAC Uganda,"Village Health Teams; in Maracha since 2021 across 1,382 VHTs supervised by 182 community health extension workers",2026-08-27-pulse-uganda-uncdf-digital-inclusion-closeout
+UGA,Integrated Health Management Information System (IHMIS),IHMIS,,Developed by local innovators,,"Listed as deployed at its user ministry, department or agency",2025-03-01-moict-ministerial-policy-statement-fy2025-26
+UGA,Integrated Health Management Information System (iHMIS),iHMIS,,,,,2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24
+UGA,"Integrated Health Management Information System (iHMIS), also called the integrated Hospital Management Information System and the IICS system",iHMIS,,"Built by Integrated Intelligent Computer Systems (IICS) Technologies Ltd, a local firm",Ministry of ICT and National Guidance as contracting and funding ministry,Deployed in selected health centres across the country (FY2021/22),2022-08-05-ict-ministry-fy2021-22-q4-report
+UGA,My Musawo,,,,Innovator awardee under the National ICT Initiatives Support Programme,,2022-08-05-ict-ministry-fy2021-22-q4-report
+UGA,Call the Clinic,,,,Innovator awardee under the National ICT Initiatives Support Programme,,2022-08-05-ict-ministry-fy2021-22-q4-report

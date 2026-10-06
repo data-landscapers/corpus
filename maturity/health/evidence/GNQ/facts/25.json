@@ -1,0 +1,46 @@
+{
+  "slug": "2022-01-01-inege-estrategia-nacional-desarrollo-estadistica-2022-2026",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The statistics strategy's diagnosis of the national statistical system in 2020 records the Sistema de Información Sanitario (SIS) of the Ministry of Health as one of only two registered ministerial statistical systems, needing to extend its coverage to private establishments and strengthen its staff.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Sistema de Información Sanitario (SIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The strategy's 2020 reference situation states that some ministries receive transfers from the Government each year for producing statistics, naming the health ministry (MSBS) for the SIS; no amount is given.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Sistema de Información Sanitario (SIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Estrategia Nacional de Desarrollo de la Estadística 2022-2026 names the SIS in its logical framework, with activities for collecting health data in public and private facilities, keying, processing and analysing it, and publishing health statistics by district, under the health ministry and INEGE.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Sistema de Información Sanitario (SIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sistema de Información Sanitario (SIS)",
+      "country_label": "Sistema de Información Sanitario (SIS); SNIS, Sistema Nacional de Informaciones Sanitarias",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministerio de Sanidad y Bienestar Social (MSBS)",
+      "tiers": "public establishments; private establishments (Hospital La Paz, Guadalupe) not yet covered"
+    }
+  ],
+  "note": "Passages file. Classed hmis on the description of the SIS as the health ministry's statistical system collecting facility data into health statistics by district; the passages do not say whether it was digital. The framework lists keying and analysis of the collected data and publication of health statistics as 'Pendiente' at the 2020 baseline."
+}

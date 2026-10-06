@@ -1,0 +1,12 @@
+{
+  "slug": "2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A WHO-led five-country study (Siyam et al., fieldwork 2016-2017, 16 public PHC facilities in Nigeria) found facilities tally paper registers onto paper monthly reporting forms (13 in use in Nigeria, about 10 hours a month) submitted to the district management office, where the data are entered into the district management information system.", "as_of": "2017", "date_precision": "year", "system": "Routine health information system (RHIS/HMIS) with district management information system", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The study states that none of the selected PHC facilities had electronic data collection in place: 0 of the 16 randomly selected public PHC facilities visited in Nigeria (12 health centres, 3 health posts, 1 maternal and child health clinic; four districts), a sample and not a national count, fieldwork 2016-2017.", "as_of": "2017", "date_precision": "year", "system": "Routine health information system (RHIS/HMIS) with district management information system", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Patient recording in all 16 Nigerian public PHC facilities visited in 2016-2017 was on paper registers (Nigeria has 15 registers for HIV alone), and the authors state none of the selected facilities had an electronic system; a sample of 16 facilities in four districts, not a statement about hospitals.", "as_of": "2017", "date_precision": "year", "system": "Paper facility registers (no electronic patient record)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Routine health information system (RHIS/HMIS) with district management information system", "country_label": "National HMIS / RHIS; district management information system (DMIS)", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "PHC facilities (health centres, health posts) report on paper to the district office, where data are keyed"}
+  ],
+  "note": ""
+}

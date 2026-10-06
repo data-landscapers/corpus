@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-16-zambia-govlink-private-4g-itweb",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "ITWeb Africa describes SmartCare Pro and SmartCare 2.0 as the latest versions of Zambia's electronic health record systems, developed by the Ministry of Health and the Smart Zambia Institute; no date is given for this, so the publication date is used.", "as_of": "2026-07-16", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:2000", "fact": "ITWeb Africa says SmartCare Pro is designed to modernise health infrastructure across more than 2,000 facilities; the figure counts health facilities of every kind, gives no denominator and does not separate primary clinics; undated, so the publication date is used.", "as_of": "2026-07-16", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "At the GovLink private 4G launch at Ndola Teaching Hospital, reported 16 July 2026, government said SmartCare Pro and SmartCare 2.0 will be migrated to the new government-owned network, with three Copperbelt hospitals connected first ahead of a nationwide rollout.", "as_of": "2026-07-16", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "ITWeb Africa describes SmartCare 2.0 as the latest hospital-focused version of the electronic health record platform, with Ndola Teaching Hospital, Kitwe Teaching Hospital and Arthur Davison Children's Hospital the first facilities connected to GovLink; undated beyond the report, so the publication date is used.", "as_of": "2026-07-16", "date_precision": "day", "system": "SmartCare 2.0", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "emr", "platform": "", "owner": "Ministry of Health with Smart Zambia Institute", "tiers": "more than 2,000 facilities (design scope as stated)"},
+    {"system": "SmartCare 2.0", "country_label": "SmartCare 2.0", "class": "emr", "platform": "", "owner": "Ministry of Health with Smart Zambia Institute", "tiers": "hospital-focused version"},
+    {"system": "GovLink Private 4G", "country_label": "GovLink", "class": "enabling", "platform": "private 4G network", "owner": "Smart Zambia Institute, with IHM Southern Africa and the Ministry of Health", "tiers": "first connected: Ndola Teaching Hospital, Kitwe Teaching Hospital, Arthur Davison Children's Hospital"}
+  ],
+  "note": ""
+}

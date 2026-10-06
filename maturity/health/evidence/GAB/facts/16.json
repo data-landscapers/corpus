@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-03-dhis2-officially-launched-gabon",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "HISP Rwanda states that DHIS2 was officially launched at national scale in Gabon on 6 December 2024 by the interim Prime Minister, with financial and technical support from WHO Gabon and the Global Fund, CERMEL as partner and HISP Rwanda designing the system and training staff; no domestic budget line is mentioned.", "as_of": "2024-12-06", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "not named; launched by the government with WHO Gabon, the Global Fund, CERMEL and HISP Rwanda", "tiers": "national scale, tiers not stated"}
+  ],
+  "note": "Classed hmis on a thin description: the document calls DHIS2 the national health information management system for data collection, analysis and reporting, and names no module; the parent may prefer to treat it as unclassified. It states no tiers, no facility counts and nothing on where data is keyed."
+}

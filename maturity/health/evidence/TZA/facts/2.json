@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-01-thecitizen-tanzania-digital-health-procurement",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "The Citizen, citing recent Government reporting, states that electronic medical record coverage has reached 100 percent of national, specialised, zonal and regional referral hospitals and that adoption has expanded across district hospitals, health centres and dispensaries, with no figures for the lower tiers; the document gives no date for this, so its published date is used.", "as_of": "2026-09-01", "date_precision": "day", "system": "electronic medical records (EMRs)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "not-published", "fact": "The Citizen reports that electronic medical record adoption has expanded across health centres and dispensaries but gives no share or count of them; the document gives no date for this, so its published date is used.", "as_of": "2026-09-01", "date_precision": "day", "system": "electronic medical records (EMRs)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "electronic medical records (EMRs)", "country_label": "EMR", "class": "emr", "platform": "", "owner": "", "tiers": "100 percent of national, specialised, zonal and regional referral hospitals; expanding across district hospitals, health centres and dispensaries"},
+    {"system": "Afya-Tek", "country_label": "Afya-Tek", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": "community level; launched December 2024"}
+  ],
+  "note": ""
+}

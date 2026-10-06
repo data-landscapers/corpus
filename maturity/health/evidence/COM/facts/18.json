@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-core-mis-openimis-comoros-uhc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "openIMIS (Generalized Health Insurance, AMG)",
+      "country_label": "Assurance Maladie Généralisée (AMG)",
+      "class": "",
+      "platform": "openIMIS, customised with AEDES-Swiss TPH and IT partners Y-Note and Etech",
+      "owner": "UTGAM (Unité Technique de Gestion de l'Assurance Maladie), under the Ministry of Health; supported by the AFD-financed PAAMG project (EUR 16 million)",
+      "tiers": "pilot launched December 2025 on Mohéli, seven districts; 68 contracted health facilities integrated; tiers not stated"
+    }
+  ],
+  "note": "No fact: same article as document 10, mirrored on core-mis.org. The only system named is a health insurance enrolment and claims platform, which is neither routine aggregate reporting nor a clinical patient record and fits none of the typology's classes, so class is left empty."
+}

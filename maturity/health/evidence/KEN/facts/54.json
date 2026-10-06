@@ -1,0 +1,9 @@
+{
+  "slug": "2017-01-01-usaid-ken-hpn-afya-halisi-2017-hpn---afya-halisi-rmnch-national",
+  "facts": [],
+  "systems": [
+    {"system": "national HMIS", "country_label": "national HMIS; Kenya Health Information System (title)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "community health information", "country_label": "community health information", "class": "community", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact: the deal record says USAID's Afya Halisi maternal and child health programme (US$36,012,034 committed, 2017-2022, fully disbursed) supported the national HMIS and community health information, naming the HMIS without describing what it does, so it is unclassified."
+}

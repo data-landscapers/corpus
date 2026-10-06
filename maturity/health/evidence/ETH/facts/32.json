@@ -1,0 +1,130 @@
+{
+  "slug": "2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "DHIS2 has been implemented for national aggregate reporting since 2018 and the Ministry of Health holds full ownership of its customization and implementation, with apps developed in-house, on the study authors' account at the June 2022 assessment workshop.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The June 2022 stakeholder assessment (29 experts) found the Ministry of Health has a well-defined and budgeted HIS strategy that includes DHIS2 and a 10-year strategic plan guiding digital health systems including DHIS2, with a national cross-agency coordination group overseeing it.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The June 2022 assessment found DHIS2 automated data reporting implemented at all health facilities nationally, in a system the study describes as health posts, health centres, primary hospitals, general hospitals and tertiary hospitals; the study collected no facility-level data itself.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The study states DHIS2 stores and analyses aggregate and event-based data at health facility level and that automated reporting through it is implemented at all health facilities, as assessed in June 2022 by stakeholder workshop and not by facility survey.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "A road map workshop of 38 experts from 30 January to 2 February 2023 set a two-year target to move national DHIS2 implementation from a maturity score of 2.81 to 4.09 of 5 by 2025, with responsible bodies and verification methods listed.",
+      "as_of": "2023-02",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2 (version 2.30)",
+      "owner": "Ministry of Health",
+      "tiers": "all health facilities nationally; national, regional, zonal and district offices"
+    },
+    {
+      "system": "electronic community HIS",
+      "country_label": "electronic community HIS",
+      "class": "community",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "electronic medical record systems",
+      "country_label": "electronic medical record systems",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "electronic community-based health insurance",
+      "country_label": "electronic community-based health insurance",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "logistic management information system",
+      "country_label": "logistic management information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "human resource information system",
+      "country_label": "human resource information system",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Master Facility Registry",
+      "country_label": "Master Facility Registry",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "national; data exchange with DHIS2 piloted"
+    },
+    {
+      "system": "electronic public health emergency management system",
+      "country_label": "electronic public health emergency management system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "eHealth architecture interoperability layer",
+      "country_label": "eHealth architecture",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "national; automated patient data exchange with DHIS2 not yet implemented, no client registry"
+    }
+  ],
+  "note": ""
+}

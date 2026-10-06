@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-zambia-national-electronic-government-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information Systems (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The plan lists Health Management Information Systems (HMIS) among platforms public institutions have deployed, 'for the provision of electronic health-related services', with no description of what it reports, where it is used or who enters the data."
+}

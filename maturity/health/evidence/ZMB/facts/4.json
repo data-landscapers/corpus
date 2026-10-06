@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-08-smart-zambia-expands-digital-infrastructure",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "share:80%", "fact": "SMART Zambia National Coordinator Percy Chinyama said on Mwinilunga Radio on 7 July 2026 that SmartCare Pro has been deployed in approximately 80% of health facilities nationwide; no numerator or denominator is given and the share is of all health facilities, not primary clinics alone.", "as_of": "2026-07-07", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "SMART Zambia's national coordinator said on 7 July 2026 that government aims at full national coverage of SmartCare Pro, as part of the digitalisation programme launched in 2021; the document names no strategy paper or costing.", "as_of": "2026-07-07", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "emr", "platform": "", "owner": "", "tiers": "approximately 80% of health facilities nationwide"},
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "enabling", "platform": "fibre-optic network", "owner": "SMART Zambia e-Government Division", "tiers": "links government offices, schools and health facilities in North-Western Province"}
+  ],
+  "note": ""
+}

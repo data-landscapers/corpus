@@ -1,0 +1,52 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "Data Landscapers' 54-country review states that DHIS2 is used nationally in Nigeria for aggregate HMIS reporting, with rural primary healthcare clinics' data collated on paper and entered at LGA or district level; no date is given for the position, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2 (aggregate HMIS reporting; NHMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' review states that rural primary healthcare clinics in Nigeria record patient data on paper registers, citing studies that found 100% reliance on paper files and 0% electronic records in surveyed PHCs and national EHR adoption of about 18%; it says pilots are isolated and donor-driven and do not reach most of about 30,000 rural PHCs. Undated in the text, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "electronic health records (unnamed)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (aggregate HMIS reporting; NHMIS)",
+      "country_label": "NHMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "national aggregate reporting; primary clinics' data entered at LGA/district level from paper"
+    },
+    {
+      "system": "immunization logistics stock reporting (unnamed pilots)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2, as the passage groups it",
+      "owner": "",
+      "tiers": "about 9,000 facilities reporting stock data"
+    },
+    {
+      "system": "electronic health records (unnamed)",
+      "country_label": "EHR",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "not in surveyed primary healthcare clinics; national adoption about 18%"
+    }
+  ],
+  "note": "Passages file. The document is an AI-assisted compilation by its author; its Nigeria clinic row cites BMC Public Health 2025, a 2024 PHC records assessment and the GJMS 2025 EHR barriers paper as its sources."
+}

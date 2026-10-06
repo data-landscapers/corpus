@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-15-zenysis-inasa-minsap-partnership",
+  "facts": [],
+  "systems": [
+    {"system": "National Integration and Analytics (NIA) Platform", "country_label": "Plataforma Nacional de Integração e Análise (NIA)", "class": "exchange", "platform": "Zenysis", "owner": "INASA and MINSAP, developed with Zenysis Technologies; supported by the Global Fund", "tiers": "national (INASA and MINSAP management); announced 15 May 2024 in the future tense"},
+    {"system": "more than twenty fragmented health data systems (unnamed)", "country_label": "", "class": "", "platform": "", "owner": "INASA, MINSAP and health sector partners", "tiers": "not stated; over 60% said to be inaccessible to INASA management"}
+  ],
+  "note": "Vendor press release of 15 May 2024: the NIA Platform is an integration and analytics layer over existing systems, so it is logged as exchange and gives no HMIS or EMR fact. It states that data entry is manual and error-prone and that over twenty health data systems are in use, without naming any or saying at which tier data is keyed."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-01-south-sudan-annual-health-sector-performance-report-2024-25",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "In the foreword to the Ministry of Health's 2024-25 sector performance report the Minister of Health calls DHIS2 the ministry's official national health information platform, says the report is based on data captured in it, and urges stakeholders to rely on it and avoid parallel data platforms; the foreword is undated, so the published date is used.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "official national health information platform",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "not stated; source of the report's service statistics, including the MOH F01A OPD and Inpatient Statistics Form and its reporting completeness and timeliness"
+    }
+  ],
+  "note": "Capture is an excerpt: contents, foreword and preface only; chapter 3.4 on health information systems and its figures were not captured."
+}

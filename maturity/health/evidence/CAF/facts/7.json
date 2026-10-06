@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-12-vaccination-microplanning-digitalisation-hisprwanda",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 vaccination microplanning", "country_label": "microplanification de la vaccination de routine (Programme Élargi de Vaccination)", "class": "single-function", "platform": "DHIS2", "owner": "Ministère de la Santé et de la Population, with technical support from HISP", "tiers": "health districts of Health Region No. 5 (workshops at Ndélé 2-5 March 2026 and Bria 7-11 March 2026); microplans drawn up for each health facility; coordination across district, regional and central levels"}
+  ],
+  "note": "The only system described is immunisation microplanning in DHIS2, one function and not routine reporting of patients treated nor a patient record, so it gives no hmis or emr fact."
+}

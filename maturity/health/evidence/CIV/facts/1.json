@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-05-civ-numerique-59-services-quick-wins-afriksoir",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The national workshop on prioritising digital public services, closing in Abidjan on 4 September 2026, retained the computerised patient record among ten quick wins to be put into service before the end of 2026, as reported by SNDI's director-general; the record is not yet in service and the document does not describe it further.", "as_of": "2026-09-04", "date_precision": "day", "system": "dossier patient informatisé", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier patient informatisé", "country_label": "dossier patient informatisé", "class": "emr", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

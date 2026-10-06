@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated electronic system for tracking the movement of medicines", "country_label": "منظومة إلكترونية متكاملة لتتبع حركة الأدوية", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "links the Ministry's pharmacy department, the Medical Supply Organisation and hospital pharmacy departments; tracks medicines from arrival to dispensing to hospitals and health facilities"}
+  ],
+  "note": "Activation announced 2025-10-06 of a medicines stock-tracking system; stock only, so single-function and no HMIS or EMR fact."
+}

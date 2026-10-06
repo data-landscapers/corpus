@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-28-mali-digitalisation-sante-developpement-social-cmss",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "The health ministry's communication network reports that on the minister's visit of 27 July 2026 the Hôpital dermatologie de Bamako ran a fully digitised consultation circuit, from registration through consultation and laboratory to pharmacy, joined by a unique patient identification number; one hospital, the system unnamed and the tier not stated by the document.", "as_of": "2026-07-27", "date_precision": "day", "system": "unnamed digitised patient circuit, Hôpital dermatologie de Bamako", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "At the Hôpital dermatologie de Bamako on 27 July 2026 the registration desk, the consultation, the laboratory and the pharmacy each worked in the system on the patient's unique number as the patient passed through, with consultation and medicine fees paid electronically, as the ministry's communication network reports.", "as_of": "2026-07-27", "date_precision": "day", "system": "unnamed digitised patient circuit, Hôpital dermatologie de Bamako", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "unnamed digitised patient circuit", "country_label": "circuit de consultation entièrement numérisé", "class": "emr", "platform": "", "owner": "Hôpital dermatologie de Bamako, Ministère de la Santé et du Développement Social", "tiers": "one hospital in Bamako"}
+  ],
+  "note": "Classed emr on the document's description of a digitised consultation and laboratory circuit on a unique patient number; it does not use the words clinical record. The pension payment system of the CMSS is not a health information system."
+}

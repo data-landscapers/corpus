@@ -1,0 +1,36 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "ICTworks' July 2026 directory lists Senegal's Stratégie Nationale de Santé Numérique as validated on 28 April 2025, with the CSSDOS as lead unit, and says the strategies adopted by Senegal and six other countries in 2023-2025 share an architecture that includes an EHR and costed implementation; it found no government-hosted text of the strategy.",
+      "as_of": "2025-04-28",
+      "date_precision": "day",
+      "system": "EHR (as named in the Stratégie Nationale de Santé Numérique)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "ICTworks describes the Stratégie Nationale de Santé Numérique validated on 28 April 2025, whose architecture it says includes an EHR, as World Bank-supported at USD 50 million; no domestic budget line is stated.",
+      "as_of": "2025-04-28",
+      "date_precision": "day",
+      "system": "EHR (as named in the Stratégie Nationale de Santé Numérique)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EHR (as named in the Stratégie Nationale de Santé Numérique)",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "CSSDOS named as lead unit for the strategy",
+      "tiers": ""
+    }
+  ],
+  "note": "Reference directory: the EHR is attributed to Senegal's strategy only through a sentence about seven countries' strategies together; no deployment is described and the strategy text was not located by the author."
+}

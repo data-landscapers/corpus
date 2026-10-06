@@ -1,0 +1,14 @@
+{
+  "slug": "2025-10-29-ghana-ghims-replaces-lhims-health-data-system",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "regressing", "fact": "MyJoyOnline reported on 29 October 2025 that ongoing disruptions in LHIMS had forced some hospitals to revert temporarily to manual record-keeping, after the vendor's contract expired on 31 December 2024 with only 450 of 950 contracted facilities connected.", "as_of": "2025-10-29", "date_precision": "day", "system": "Lightwave Health Information Management System (LHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Health introduced the Ghana Health Information Management System (GHIMS) on 29 October 2025 to replace LHIMS across public health facilities, the Health Minister saying the country would not go back to manual records.", "as_of": "2025-10-29", "date_precision": "day", "system": "Ghana Health Information Management System (GHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "The Health Minister said the LHIMS software was not owned by the state and its cloud infrastructure was hosted in India, under a $100 million contract signed in 2019 with Lightwave to connect 950 facilities, extended to 31 December 2024, on which about $77 million had been paid for 450 facilities.", "as_of": "2024-12-31", "date_precision": "day", "system": "Lightwave Health Information Management System (LHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Announcing GHIMS on 29 October 2025, the Health Minister said the Ministry of Health was 'taking full control' of the health information platform that replaces the vendor-owned LHIMS.", "as_of": "2025-10-29", "date_precision": "day", "system": "Ghana Health Information Management System (GHIMS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Lightwave Health Information Management System (LHIMS)", "country_label": "LHIMS", "class": "emr", "platform": "Lightwave (cloud hosted in India)", "owner": "Lightwave (vendor); software not owned by the state", "tiers": "450 of 950 contracted health facilities connected; hospitals named, tiers otherwise not stated"},
+    {"system": "Ghana Health Information Management System (GHIMS)", "country_label": "GHIMS", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "public health facilities, not specified"}
+  ],
+  "note": "LHIMS is classed emr on the minister's statement that it held Ghanaians' electronic medical records; GHIMS is classed emr as its stated replacement."
+}

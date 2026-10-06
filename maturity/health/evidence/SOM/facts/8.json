@@ -1,0 +1,18 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The review states that rural primary clinics record on 12 standard paper registers and send monthly summary forms to district HMIS officers, who enter them into the national DHIS2; it attributes this to WHO's assessment and its 2022 field visits, and adds that direct entry by computer or tablet is possible but not what most facilities do.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The review states that no nationwide EMR exists and that digital patient records are isolated pilots: CaafimaadPlus C+ DDS live in 43 south-central facilities since 2024 and RAAD scaling to 40 clinics; the document gives no date for the position, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "C+ DDS; RAAD EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The review describes the digital patient-record pilots as isolated and partner-funded, not scaled as standard across rural clinics; no date is given, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "C+ DDS; RAAD EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The review states that national policy, naming an HIS strategy and the EPHS for 2023-26, aims for EMR and a digital HIS, while point-of-service recording in rural clinics stays on paper; the strategy is not cited by title.", "as_of": "2026-03-31", "date_precision": "day", "system": "EMR (national policy aim)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national DHIS2 system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered by district HMIS officers from facilities' paper monthly summaries"},
+    {"system": "CaafimaadPlus C+ DDS", "country_label": "C+ DDS", "class": "emr", "platform": "Ogow Health", "owner": "CaafimaadPlus (donor project)", "tiers": "43 south-central facilities including rural, since 2024"},
+    {"system": "RAAD EMR", "country_label": "RAAD", "class": "emr", "platform": "", "owner": "", "tiers": "scaling to 40 clinics"},
+    {"system": "OGOW app", "country_label": "OGOW", "class": "tracker", "platform": "", "owner": "", "tiers": "Puntland; vaccinations recorded on tablets"},
+    {"system": "IDSR tracker", "country_label": "IDSR tracker", "class": "single-function", "platform": "", "owner": "", "tiers": "introduced 2023; tiers not stated"},
+    {"system": "electronic immunization registry", "country_label": "electronic immunization registry", "class": "tracker", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "An AI-assisted 54-country compilation by Data Landscapers; the file's own header says its country figures are the author's analysis and not sourced fact. The plan:current fact rests on an untitled HIS strategy dated 2023-26. It also reports that 58-70% of districts lack an HMIS officer, which fits no aspect."
+}

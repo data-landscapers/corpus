@@ -1,0 +1,15 @@
+{
+  "slug": "2015-01-01-usaid-gha-evaluate-health-task-2015-evaluate-for-health---task-order",
+  "facts": [],
+  "systems": [
+    {
+      "system": "health management information system (HMIS)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Deal record: a USAID grant of US$9,461,632 (2014 to 2020, completed) for a Ghana health evaluation programme that supports data collection, HMIS evaluation and HMIS use; the system is named but nothing says what it does, where it runs or who owns it, so it is unclassified and gives no fact."
+}

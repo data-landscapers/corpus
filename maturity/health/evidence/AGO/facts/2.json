@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-springer-cplp-rare-disease-digital-health-interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2-based programme reporting (neglected tropical diseases)", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "Programa Nacional de Controlo das Doenças Tropicais Negligenciadas, Direcção Nacional de Saúde Pública, MINSA", "tiers": "not stated"}
+  ],
+  "note": "Position paper on rare diseases in Portuguese-speaking countries; for Angola it mentions only DHIS2-based reporting for the neglected tropical disease programme and a paper-to-digital transition described in the 2021-2025 NTD plan, one programme's reporting and so not hmis; no routine HMIS or EMR is described."
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The Ministry of Health's national digital health strategy states that the health information system (DHIS2) has been deployed in all of the country's health districts; it does not say where below the district data are entered, and gives no date, so the strategy's year is used.", "as_of": "2021", "date_precision": "year", "system": "Système d'Information Sanitaire (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The Stratégie Nationale Santé Numérique 2021-2025 names project P221, an SNIS data warehouse and extension of DHIS2, among 19 projects in an action plan costed at USD 12 million (GNF 120,000 million) over five years, with most funds programmed for 2022 and 2023.", "as_of": "2021", "date_precision": "year", "system": "Système d'Information Sanitaire (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The 2021-2025 strategy assigns technical coordination of its implementation, including the SNIS and DHIS2 project, to the SMSI/BSD of the Ministry of Health under a steering committee; the strategy itself was drawn up with WHO and GIZ financial and technical support and EU co-financing, and lists lack of financing as a main risk.", "as_of": "2021", "date_precision": "year", "system": "Système d'Information Sanitaire (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Système d'Information Sanitaire (DHIS2)", "country_label": "Système d'Information Sanitaire (DHIS2) / SNIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health (SMSI/BSD)", "tiers": "deployed in all health districts"},
+    {"system": "Dossier Electronique du Patient / Dossier Médical Personnel", "country_label": "DEP / DMP", "class": "emr", "platform": "", "owner": "", "tiers": "defined in the strategy's glossary only; no deployment stated in the captured pages"},
+    {"system": "Applications métiers des structures sanitaires (P231)", "country_label": "Système de gestion d'une structure sanitaire", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "planned project"},
+    {"system": "Plateforme Mobile-Health (P251-P254)", "country_label": "Plateforme Mobile-Health", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "planned projects: mother and child health, epidemic surveillance, community health, non-communicable diseases"},
+    {"system": "Réseau National Numérique de la Santé (P111)", "country_label": "RNNS", "class": "enabling", "platform": "", "owner": "Ministry of Health", "tiers": "planned connectivity of health structures"},
+    {"system": "Réseau national de télémédecine (P241)", "country_label": "Réseau national de télémédecine", "class": "enabling", "platform": "", "owner": "Ministry of Health", "tiers": "planned"},
+    {"system": "Bases de données référentielles de la santé (P112)", "country_label": "Bases de données référentielles de la santé", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "planned"}
+  ],
+  "note": "The capture is an excerpt: front matter to the start of chapter I (about pages 1-11 of 115); the chapter on applications in use was not captured. DHIS2 is classed hmis because the document equates it with the health information system; it does not describe the reporting."
+}

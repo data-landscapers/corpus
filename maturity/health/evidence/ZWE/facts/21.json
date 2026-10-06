@@ -1,0 +1,136 @@
+{
+  "slug": "2025-08-01-global-fund-zimbabwe-digital-health-case-study",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:1254",
+      "fact": "The Global Fund says 1,254 health facilities were implementing the Impilo EMR as of August 2025, with deployment planned for all 1,900 health facilities; the count is of all health facilities, not primary clinics alone.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "Impilo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Global Fund says the Government of Zimbabwe has been developing a national EMR system since February 2015, culminating in the current system, Impilo, for use in public health facilities.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "Impilo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Global Fund says it has put over US$43.1 million into digital health in Zimbabwe since 2014 (US$9.85 million of it in the 2024-2026 grant cycle), with its Digital Health Impact Accelerator focused on interoperable patient-level medical record systems and its support paying for FHIR adoption in Impilo; the document names no domestic budget line.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "Impilo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Global Fund says the Government of Zimbabwe and partners have strengthened the national health management information system for routine reporting of key health metrics, and that Global Fund financing supports data analysis and capacity building at sub-national levels; the document names no domestic budget line.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "national health management information system",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Impilo",
+      "country_label": "Impilo",
+      "class": "emr",
+      "platform": "",
+      "owner": "Government of Zimbabwe",
+      "tiers": "1,254 health facilities implementing, planned for all 1,900"
+    },
+    {
+      "system": "national health management information system",
+      "country_label": "national health management information system",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Government of Zimbabwe and partners",
+      "tiers": "national and sub-national levels"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS2 Tracker for HIV prevention",
+      "country_label": "national digital system to track HIV risk, referrals, services and outcomes",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Zimbabwe National AIDS Council",
+      "tiers": "community level; over 5,900 mobile devices distributed with Global Fund grants"
+    },
+    {
+      "system": "health information exchange",
+      "country_label": "national health information exchange platform",
+      "class": "exchange",
+      "platform": "HL7 FHIR",
+      "owner": "",
+      "tiers": "under development, to connect laboratories, logistics systems and DHIS2 to Impilo"
+    },
+    {
+      "system": "Digital Health Architecture Blueprint",
+      "country_label": "national Digital Health Architecture Blueprint",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "lab information system",
+      "country_label": "lab information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "eSample transport system",
+      "country_label": "eSample transport system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "logistics management and information system",
+      "country_label": "logistics management and information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "warehouse management system",
+      "country_label": "warehouse management system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "national warehouse of the National Pharmaceutical Company"
+    },
+    {
+      "system": "Solar for Health",
+      "country_label": "Solar for Health",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Global Fund financed, with UNDP technical support",
+      "tiers": "1,044 health facilities solarised in all ten provinces, more than 60% of all health facilities; additional internet connectivity for rural health facilities being funded"
+    }
+  ],
+  "note": "The document does not say where Impilo data is entered or which facility tiers use it. It names the Zimbabwe Digital Health Strategy 2021-2025 without saying it names Impilo, so no plan fact is recorded. DHIS2 is described only as long-standing in use, without its module."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's own eHealth services page lists DHIS2 as one of its systems, used for collection, storage, analysis, reporting and dissemination of health information, with an HMIS data warehouse and a public data portal reached through it; the page states no date for this, so the document's published date is used.", "as_of": "2026-08-28", "date_precision": "day", "system": "District Health Information Software 2 (DHIS2) / HMIS data warehouse", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2) / HMIS data warehouse", "country_label": "DHIS2 HMIS Data; Public Data Portal", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Human Resource for Health Information System (HRHIS3)", "country_label": "HRHIS3", "class": "single-function", "platform": "HRHIS 3 (web-based open source)", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Health Facility Registry (HFR)", "country_label": "HFR; Master Facility List", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "all health facilities in Tanzania Mainland are listed"},
+    {"system": "Training Institution Information System (TIIS)", "country_label": "TIIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "more than 150 schools, colleges and universities (health training institutions, not facilities)"},
+    {"system": "Health and Social Welfare Training Information Portal (HSTIP)", "country_label": "HSTIP", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "The page also lists the Tanzania Digital Health Strategy 2019-2024 and an Investment Recommendation Road Map 2017-2023 as downloads, without saying which systems they cover; no tier, digitisation or clinic coverage stated."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-02-01-south-sudan-who-annual-report-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "named only in the acronym list; not described"
+    },
+    {
+      "system": "EWARS",
+      "country_label": "Early warning, alert and response system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only in the acronym list; not described"
+    }
+  ],
+  "note": "Captured body is an excerpt ending in the executive summary (contents, acronyms, foreword); it states nothing about any health information system. The DHIS2 audit sections the capture's own header mentions were not captured, so no fact is taken."
+}

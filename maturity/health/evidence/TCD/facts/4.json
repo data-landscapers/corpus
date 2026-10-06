@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-01-oms-rapport-mission-directeur-regional-tchad",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de veille des données", "country_label": "centre de veille des données", "class": "", "platform": "", "owner": "Ministère de la santé publique et de la prévention, designed and set up with WHO technical support", "tiers": "national"},
+    {"system": "District Health Information System version 2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "systèmes de surveillance et de suivi des maladies", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "systèmes d'information hospitaliers", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "systèmes d'information de laboratoire", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages describe a national data analysis centre created by the health ministry under the Plan stratégique national pour la santé numérique 2025-2030 (WHO equipment handed over June 2026), which is to consolidate data from DHIS2 and other systems; DHIS2 and the hospital systems are named without saying what they do, so neither is classed and no fact is recorded."
+}

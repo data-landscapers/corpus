@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-23,ETH-007;ETH-008;ETH-009,ETH-017=plan:current;ETH-013=owner:ministry;ETH-014=plan:current;ETH-020=owner:ministry;ETH-010=owner:ministry;ETH-019=plan:current,
+ETH,hmis,tiers,coverage,T1;T2;T3;T4,2026-03-31,ETH-001;ETH-011;ETH-012,ETH-015=T1;T2;T3;T4;ETH-022=T1;T2;T3;ETH-018=T1;T2;T3,
+ETH,hmis,digitised,coverage,district,2026-03-31,ETH-002,ETH-016=facility;ETH-023=facility,
+ETH,hmis,last12,qualifier,,,,,nothing held
+ETH,hmis,clinics,coverage,share:95%,2023-05-11,ETH-021,,nothing dated since 2023-10-06
+ETH,emr,governance,qualifier,plan:current;finance:donor,2025-12-23,ETH-004;ETH-005,,not stated: owner
+ETH,emr,tiers,coverage,,,,,nothing held
+ETH,emr,digitised,coverage,,,,,nothing held
+ETH,emr,last12,qualifier,advancing,2025-12-23,ETH-006,,
+ETH,emr,clinics,coverage,share:0%,2025-12-23,ETH-003,,

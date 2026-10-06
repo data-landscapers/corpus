@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "A regional USAID deal record (Digital Square, US$111.3m, 2016-2026, implemented by PATH) listing Uganda among 24+ countries; it says the programme supports health information systems and DHIS2 in general and states nothing specific to a Ugandan system."
+}

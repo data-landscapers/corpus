@@ -1,0 +1,41 @@
+{
+  "slug": "2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Regulation 20 of Legal Notice 77 of 2025, gazetted and commenced 11 April 2025, makes the state Digital Health Agency responsible for maintaining the Health Management Information Services Platform for reporting, with a public portal of aggregate health data, routine reporting in its minimum data set, and an offence for a health data controller that fails to submit reports.",
+      "as_of": "2025-04-11",
+      "date_precision": "day",
+      "system": "Health Management Information Services Platform",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Regulation 19 of Legal Notice 77 of 2025, gazetted and commenced 11 April 2025, makes the state Digital Health Agency responsible for the day-to-day management of the shared health record, defined as the single source of reference for patients' medical history and a longitudinal record of every encounter, which certified digital health solutions must query and update within twenty-four hours of each encounter.",
+      "as_of": "2025-04-11",
+      "date_precision": "day",
+      "system": "Shared health record",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Comprehensive Integrated Health Information System", "country_label": "the System", "class": "", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Health Management Information Services Platform", "country_label": "Health Management Information Services Platform", "class": "hmis", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Shared health record", "country_label": "Shared Health Record", "class": "emr", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Enterprise service bus", "country_label": "enterprise service bus", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Client registry", "country_label": "client registry", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Facility registry", "country_label": "facility registry (assigns Kenya Master Facility List Code)", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Health worker registry", "country_label": "health worker registry", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Telemedicine health provider registry", "country_label": "telemedicine health provider registry", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "National health data dictionary", "country_label": "national health data dictionary", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Product catalogue", "country_label": "product catalogue", "class": "exchange", "platform": "", "owner": "Digital Health Agency with the Pharmacy and Poisons Board", "tiers": ""},
+    {"system": "National Logistics Management Information Services Platform", "country_label": "National Logistics Management Information Services Platform", "class": "single-function", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "National Health Data Bank and County Health Data Banks", "country_label": "National Health Data Bank; County Health Data Bank", "class": "", "platform": "", "owner": "Digital Health Agency (national); county governments (county)", "tiers": ""},
+    {"system": "Patient portal", "country_label": "patient portal", "class": "", "platform": "", "owner": "Digital Health Agency", "tiers": ""}
+  ],
+  "note": ""
+}

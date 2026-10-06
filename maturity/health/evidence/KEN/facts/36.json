@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-04-state-ken-afghs-data-systems-2025-record",
+  "facts": [],
+  "systems": [
+    {"system": "TaifaCare HMIS", "country_label": "TaifaCare HMIS", "class": "", "platform": "", "owner": "Government of Kenya, Ministry of Health", "tiers": ""},
+    {"system": "National Logistics Management System (NLMIS)", "country_label": "NLMIS", "class": "single-function", "platform": "", "owner": "Government of Kenya", "tiers": ""},
+    {"system": "KEMSA iLMIS", "country_label": "KEMSA iLMIS", "class": "single-function", "platform": "", "owner": "Kenya Medical Supplies Authority", "tiers": ""},
+    {"system": "Laboratory Information Management System (LIMS)", "country_label": "LIMS", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Surveillance systems including EOC digitization and the outbreak response data system", "country_label": "surveillance systems", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National and county data banks", "country_label": "national and county health data warehouse", "class": "enabling", "platform": "", "owner": "Government of Kenya", "tiers": "national and county"}
+  ],
+  "note": "A finance deal record excerpted from the Cooperation Framework held as document 35. It names TaifaCare HMIS as a use of the US$175,000,000 data systems line (US$30m 2026, US$75m 2027, US$50m 2028, US$10m 2029, US$10m 2030), an intention and not a binding commitment, without saying what the system does, so its class is empty here and no fact is written. It adds that the High Court suspension of the Framework was lifted by the Court of Appeal in May 2026 and that disbursement was not established at 10 August 2026."
+}

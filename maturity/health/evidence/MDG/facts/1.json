@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-01-who-dhis2-tracker-pilot-vaccination",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 Tracker", "country_label": "DHIS2 Tracker (suivi individuel de la vaccination, PEV)", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministère de la Santé Publique, with WHO support", "tiers": "pilot launched 9-10 June 2026 in the 20 Centres de Santé de Base and 54 private vaccination sites of Antananarivo-Renivohitra district; national extension planned"},
+    {"system": "DHIS2 (surveillance de la résistance aux antimicrobiens)", "country_label": "plateforme DHIS2, indicateurs de surveillance de la RAM", "class": "single-function", "platform": "DHIS2", "owner": "Ministère de la Santé Publique, under the World Bank-financed PPSB project with WHO technical support", "tiers": "not stated; indicators configured 29 March-3 April 2026, about 60 multisector users trained 20-24 April 2026"},
+    {"system": "Vigimobile", "country_label": "Vigimobile (notification électronique des EMI et MAPI)", "class": "single-function", "platform": "Vigimobile", "owner": "national pharmacovigilance system; training financed by WHO", "tiers": "central and regional trainers and pharmacovigilance focal points of all DRSP trained 22-24 April 2026"}
+  ],
+  "note": "Names only a vaccination tracker pilot, AMR surveillance indicators in DHIS2 and a pharmacovigilance notification tool; nothing stated about routine aggregate reporting or a patient record."
+}

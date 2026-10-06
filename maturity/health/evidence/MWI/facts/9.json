@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-27-mwi-dhis2-diabetes-compass-project",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "DHIS2.org reports that integration of the iCHIS community NCD module with the MaHIS OpenMRS-based electronic medical record system at health facilities was being finalised as of April 2026 and expected complete in the near term; once live, community health workers and facility staff would share information across the care pathway for the first time.", "as_of": "2026-04-27", "date_precision": "day", "system": "Malawi Health Information System (MaHIS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Malawi Health Information System (MaHIS)", "country_label": "MaHIS", "class": "emr", "platform": "OpenMRS", "owner": "Ministry of Health", "tiers": "health facilities, tiers not stated"},
+    {"system": "integrated Community Health Information System (iCHIS)", "country_label": "iCHIS", "class": "community", "platform": "DHIS2", "owner": "Ministry of Health, Community Health Services section; technical implementation by HISP UNIMA", "tiers": "community health workers across the country, deployed October 2021; NCD module piloted in Salima District, 50 CHWs trained 8-9 April 2026"},
+    {"system": "DHIS2-based national health information system", "country_label": "DHIS2", "class": "", "platform": "DHIS2 (precursor DHIS v1)", "owner": "Ministry of Health", "tiers": "not stated; in use since around 2000"}
+  ],
+  "note": "Most of the Malawi content concerns iCHIS, a community system; DHIS2 is named as the national platform in use since around 2000 without a description of aggregate reporting, so it is left unclassified. The pending iCHIS-MaHIS integration bears on the community integrated flag: not yet live as of April 2026."
+}

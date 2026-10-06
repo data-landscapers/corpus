@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "SciDev.Net reports that the US-Kenya health memorandum signed on 4 December 2025, worth US$2.5 billion, includes US support to accelerate the national rollout of Kenya's electronic medical record systems; it says the agreements generally combine US funding with domestic financing but gives no domestic figure for the record systems.", "as_of": "2025-12-04", "date_precision": "day", "system": "Kenya's electronic medical record systems", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Kenya signed a memorandum with the United States on 4 December 2025 that includes support to accelerate the national rollout of its electronic medical record systems; the High Court has since halted the parts of the framework on transfer and sharing of sensitive health data, pending a hearing set for 16 February 2026.", "as_of": "2025-12-04", "date_precision": "day", "system": "Kenya's electronic medical record systems", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Kenya's electronic medical record systems", "country_label": "electronic medical record systems", "class": "emr", "platform": "", "owner": "", "tiers": "national rollout to be accelerated; no tier given"}
+  ],
+  "note": "Regional report on the US bilateral health deals. The record systems are named generically, with no product, tier or count; the court order concerns data sharing, not the rollout itself."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay quotes the 2016 Health Sector Diagnostic as stating that the majority of health centres have no automated process and register all data on forms and books, with no preservation or quality-control mechanism.", "as_of": "2016", "date_precision": "year", "system": "patient records at health centres (no system named)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) scores Guinea-Bissau's rural clinics 1, finding patient data predominantly recorded on paper and no evidence of routine electronic health records at rural clinics; no event date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "patient records at rural primary clinics (no system named)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "The essay finds no evidence of routine electronic health record use at rural clinics, only isolated NGO pilots such as the DREAM HIV software; no event date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "patient records at rural primary clinics (no system named)", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The essay says DHIS2 is national-level for aggregate reporting and surveillance since about 2018, with data 'likely' collected on paper at clinics and then transcribed at district level; it is the author's inference, undated, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "national level for aggregate reporting and surveillance; not at rural clinics"},
+    {"system": "DREAM HIV software", "country_label": "", "class": "tracker", "platform": "DREAM", "owner": "NGO pilot", "tiers": "isolated pilot sites"},
+    {"system": "NIA 2026", "country_label": "NIA", "class": "", "platform": "", "owner": "", "tiers": "not stated; named only as a recent platform"}
+  ],
+  "note": "Passages file. The source's own header flags the country figures as an AI-assisted compilation to be treated as the author's analysis, not sourced fact; the 2019 World Bank SDI report it cites is said to note non-operational health information systems."
+}

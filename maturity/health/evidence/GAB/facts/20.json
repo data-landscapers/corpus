@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-01-gabon-decret-0292-pr-ms-dgpep-planification-evaluation-partenariats",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Decree 0292/PR/MS of 21 July 2024 charges the Ministry of Health's Direction Générale de la Planification, de l'Évaluation des Partenariats with collecting, processing, analysing and disseminating health information nationwide, and its Direction de l'Information, de la Planification et de la Prospective (Service Information) with keeping the national health information collection system up to date and centralising health information.", "as_of": "2024-07-21", "date_precision": "day", "system": "système national de collecte des informations sanitaires", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "système national de collecte des informations sanitaires", "country_label": "système national d'information sanitaire", "class": "hmis", "platform": "", "owner": "Ministry of Health, DGPEP, Direction de l'Information, de la Planification et de la Prospective (Service Information)", "tiers": ""}
+  ],
+  "note": "A legal mandate only: the decree names no software, no tiers and no reporting practice. It also has the Service Carte Sanitaire take part in defining the schéma directeur of the national health information system, without saying one is in force. Classed hmis because the function described is the national collection and centralisation of health information."
+}

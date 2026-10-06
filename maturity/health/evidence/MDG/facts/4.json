@@ -1,0 +1,22 @@
+{
+  "slug": "2026-06-01-who-rapport-biennal-2024-2025",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO Madagascar reports that nutrition and maternal health were integrated into DHIS2, which it calls the national electronic health information management system, and that completeness of the SRMNIA-nutrition data rose from 53% in 2023 to 85% in 2025 (source given as DHIS2, DEPSI/MSANP).", "as_of": "2025", "date_precision": "year", "system": "plateforme DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO Madagascar lists, as key actions of the 2024-2025 biennium, modernisation of the DHIS2 platform (an audit and secured Cloud hosting, reported as in place), deployment of electronic registers including the Rapport Mensuel d'Activité, and distribution of tablets with training on DHIS2; it gives no counts of facilities.", "as_of": "2025", "date_precision": "year", "system": "plateforme DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "regressing", "fact": "WHO Madagascar reports that the data quality score in the district referral hospitals (CHRD) fell to 31% against a target of 85% for 2024/2025, on supervision reports, in its table of SIS and DHIS2 indicators.", "as_of": "2025", "date_precision": "year", "system": "SIS et DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "WHO Madagascar states that the country updated its governing framework for health data and information through the Plan Stratégique de Santé Numérique 2023-2027 (held by DEPSI, update reported 100% complete), with a SCORE 2025 assessment and an overall SIS architecture developed with USAID support.", "as_of": "2025", "date_precision": "year", "system": "Système d'Information Sanitaire (SIS) / DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "WHO Madagascar's indicator tables for 2023-2025 cite their source as DHIS2, DEPSI/MSANP, placing the platform's data with the health ministry's DEPSI directorate; the report does not otherwise state who operates the platform.", "as_of": "2025", "date_precision": "year", "system": "plateforme DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "plateforme DHIS2, système électronique national de gestion de l'information sanitaire", "class": "hmis", "platform": "DHIS2", "owner": "DEPSI/MSANP (as data source); WHO supported the audit and Cloud hosting", "tiers": "not stated; data quality reported for CHRD (district referral hospitals)"},
+    {"system": "Registres électroniques (RMA, GDT)", "country_label": "registres électroniques (RMA/Rapport Mensuel d'Activité, GDT)", "class": "hmis", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "DHIS2-MTN", "country_label": "module DHIS2-MTN", "class": "single-function", "platform": "DHIS2", "owner": "MTN programme (DMM/MTN)", "tiers": "213 MTN officers in 17 districts trained"},
+    {"system": "GTS", "country_label": "Geographic Tracking System (GTS)", "class": "single-function", "platform": "", "owner": "Programme Élargi de Vaccination with WHO", "tiers": "91 of 114 districts for routine vaccination, 1,500 vaccination teams tracked"},
+    {"system": "e-Surv", "country_label": "e-Surv / e-Surv Compagnon (surveillance épidémiologique)", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Surveillance Épidémiologique Intégrée et Électronique", "country_label": "Surveillance Épidémiologique Intégrée et Électronique", "class": "single-function", "platform": "", "owner": "", "tiers": "57 of 114 districts (50%)"},
+    {"system": "Système d'Information de Gestion Logistique", "country_label": "Système d'Information de Gestion Logistique", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "AMR Data Center", "country_label": "AMR Data Center", "class": "single-function", "platform": "", "owner": "", "tiers": "national; interoperates with GLASS, ANIMUSE and InFARM"},
+    {"system": "EIOS", "country_label": "EIOS (Epidemic Intelligence from Open Sources)", "class": "single-function", "platform": "EIOS", "owner": "WHO initiative", "tiers": "not stated"}
+  ],
+  "note": ""
+}

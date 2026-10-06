@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-01-smartmobileclinic-telehealth-rural-communities-cameroon",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "EUDiF states that SmartMobileClinic, with which rural health workers create and track digital healthcare records, was launched in 2022 and is run by the German association Mapubi e.V. with the Health and Research Organisation Cameroon, the Ministry of Health being a stakeholder invited to review calls.", "as_of": "2025-09", "date_precision": "month", "system": "SmartMobileClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The SmartMobileClinic expansion is an 18-month action (September 2025 to February 2027) of the EU Global Diaspora Facility, with no domestic funding stated.", "as_of": "2025-09", "date_precision": "month", "system": "SmartMobileClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "EUDiF states the project trains about 30 people from 12 target rural communities and runs 12 one- to two-day campaigns with local health facilities to bring the app into use in rural health centres; no count of facilities using it is given.", "as_of": "2025-12", "date_precision": "month", "system": "SmartMobileClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "From September 2025 SmartMobileClinic is being extended to further rural communities, with a training of trainers in Yaoundé in December 2025 and 12 rural campaigns between November 2025 and January 2026.", "as_of": "2025-12", "date_precision": "month", "system": "SmartMobileClinic", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartMobileClinic", "country_label": "SmartMobileClinic (SMC)", "class": "emr", "platform": "bespoke mobile application by Mapubi Labs", "owner": "Mapubi e.V. and Health and Research Organisation Cameroon (HERO)", "tiers": "rural health centres and health campaigns in 12 target communities"}
+  ],
+  "note": "Classed emr because the page says health workers create and track digital healthcare records with it; the page also calls it a telehealth platform, which would be enabling, so the parent should check the class."
+}

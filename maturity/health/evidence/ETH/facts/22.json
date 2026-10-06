@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-01-echis-ethiopia-maturity-status-improvement-pathways",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "mobile-based application, offline with synchronisation to servers; hosted at the MOH data centre", "owner": "Ministry of Health; financed through donor funds, no multiyear government budget", "tiers": "used by Health Extension Workers at more than 7,500 health posts at the time of the assessment (June 2022), with components for health centres for referral and supervision"},
+    {"system": "Community Health Information System (CHIS)", "country_label": "CHIS", "class": "community", "platform": "paper family folders", "owner": "Ministry of Health", "tiers": "health posts, designed 2010"},
+    {"system": "District Health Information System 2 (DHIS2)", "country_label": "DHIS, the HMIS reporting system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "first implemented in 2016; not linked to eCHIS"},
+    {"system": "electronic health records (EHRs)", "country_label": "EHR", "class": "emr", "platform": "", "owner": "", "tiers": "not stated; eCHIS is not integrated with them"},
+    {"system": "master facility registry (MFR) / master facility list (MFL)", "country_label": "MFR", "class": "exchange", "platform": "", "owner": "Ministry of Health, managed centrally", "tiers": "central; includes health posts"},
+    {"system": "Logistics Management Information System (LMIS)", "country_label": "LMIS", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HealthNet", "country_label": "HealthNet initiatives", "class": "enabling", "platform": "", "owner": "", "tiers": "connectivity investment; LAN internet coverage 28% of health facilities"}
+  ],
+  "note": "The subject is eCHIS, a community-class system, so no fact is recorded. Bearing on the community-integrated flag: the assessment (data June 2022, roadmap February 2023) states that eCHIS is not linked to DHIS, the HMIS reporting system, that health posts' reports go to health centres on paper, and that eCHIS is not integrated with electronic health records. It does not say where those paper reports are keyed."
+}

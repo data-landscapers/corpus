@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-29-cs-duale-leads-consultative-forum-transition-sha-hmis",
+  "facts": [],
+  "systems": [
+    {"system": "Social Health Authority Health Management Information System (SHA HMIS)", "country_label": "SHA HMIS", "class": "", "platform": "", "owner": "Social Health Authority and Digital Health Agency, under the Ministry of Health", "tiers": "5,078 facilities operating on it, 2,978 of them submitting claims electronically (levels not given)"},
+    {"system": "SHA Provider Portal", "country_label": "SHA Provider Portal", "class": "", "platform": "", "owner": "Social Health Authority", "tiers": "contracted providers, to be migrated off it"},
+    {"system": "Hospital Management Information Systems (HMIS), compliant", "country_label": "Hospital Management Information Systems", "class": "", "platform": "", "owner": "healthcare providers", "tiers": ""}
+  ],
+  "note": "A Ministry of Health release of 29 June 2026. It describes the SHA HMIS by real-time patient verification, electronic claims management, provider authentication and information exchange with facilities' own hospital systems; it does not say it holds the clinical record or carries aggregate reporting, so the class is empty and there is no fact. Figures carried: 11,034 facilities accredited by SHA; 6,228 public facilities, stated as 93 per cent, 'digitally transformed' (not defined); 5,078 on the SHA HMIS; 2,978 submitting claims electronically."
+}

@@ -1,0 +1,57 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZAF,Health Patient Record System (HPRS),Health Patient Record System (HPRS),emr,,National Department of Health,,2026-08-26-ndoh-chief-directorate-health-systems-digital-information
+ZAF,Health Patient Registration System,national Health Patient Registration System,,,health department,,2026-08-20-itweb-nhi-telemedicine
+ZAF,Healthforce,Healthforce,emr,Healthforce practice management software with an electronic medical record and decision support,Healthforce (private; acquired by Dis-Chem in 2021),private nurse-led clinics,2026-08-20-itweb-nhi-telemedicine
+ZAF,Turn.io,Turn.io,enabling,WhatsApp-based telemedicine consultations,Turn.io (private),,2026-08-20-itweb-nhi-telemedicine
+ZAF,SAP Health Information System (SAP HIS),SAP HIS,emr,SAP,Gauteng public healthcare system (provincial),most public hospitals in Gauteng province,2026-07-31-sacj-digital-health-live-healthcare-console-sa
+ZAF,Federated Health Information Architecture (FHIA),Federated Health Information Architecture (FHIA),exchange,,Department of Health (proposed architecture),,2026-07-31-sacj-digital-health-live-healthcare-console-sa
+ZAF,Live Healthcare Console,Live Healthcare Console,single-function,,"proposed design model, not deployed",Gauteng public hospitals and emergency medical services (proposed),2026-07-31-sacj-digital-health-live-healthcare-console-sa
+ZAF,single electronic health record (EHR),single electronic health record,emr,,"government (announced, not built)",,2026-07-31-sacj-single-electronic-health-record-south-africa
+ZAF,SAP Health Information System (SAP HIS),SAP HIS,,SAP,"public sector, Gauteng province",Gauteng only; not yet in other provinces,2026-07-31-sacj-single-electronic-health-record-south-africa
+ZAF,District Health Information System (DHIS),District Health Information System (DHIS),hmis,,Department of Health,"facility, district, province and national levels",2026-07-27-sa-top-ict-tenders-eskom-etrm-dhis-sita
+ZAF,Electronic Medical Record (EMR) for Primary Health Care,Electronic Medical Record (EMR) for Primary Health Care,emr,,Free State Department of Health (provincial),"primary health care facilities, Free State province",2026-05-14-free-state-health-emr-primary-health-care-award
+ZAF,DHIS2,DHIS2,hmis,DHIS2,,aggregates from rural primary healthcare clinics entered by dedicated data capturers for national reporting,2026-03-31 Africa we have a data problem
+ZAF,Tier.net,Tier.net,tracker,,,"public primary clinics (HIV/TB), back-end digitisation from paper",2026-03-31 Africa we have a data problem
+ZAF,HPRS,HPRS,exchange,,,public primary clinics (patient demographics),2026-03-31 Africa we have a data problem
+ZAF,E-tick,E-tick (electronic tick register),,,,"district-level trials in urban Gauteng, stalled",2026-03-31 Africa we have a data problem
+ZAF,PHCIS,PHCIS (Western Cape),,,Western Cape,"Western Cape primary clinics; partial digital entry, paper barcodes retained",2026-03-31 Africa we have a data problem
+ZAF,Electronic Medical Record (EMR) solution,Electronic Medical Record (EMR) digital solution,emr,"bespoke, developed by the National Department of Health",National Department of Health (Digital Health Unit),"fixed primary health care facilities: Clinics and Community Health Centres / Community Day Centres, in eight provinces (target)",2026-03-03-ndoh-emr-digital-solution-implementation-invitation-to-bid
+ZAF,Health Patient Registration System (HPRS),Health Patient Registration System (HPRS),exchange,,National Department of Health,rolled out across South Africa,2026-03-03-ndoh-emr-digital-solution-implementation-invitation-to-bid
+ZAF,Master Health Facility List (MHFL),Master Health Facility List (MHFL),exchange,,,every health establishment in South Africa,2026-03-03-ndoh-emr-digital-solution-implementation-invitation-to-bid
+ZAF,Synchronised National Communication in Health (SyNCH),SyNCH,,,,,2026-03-03-ndoh-emr-digital-solution-implementation-invitation-to-bid
+ZAF,laboratory information system,laboratory information system,single-function,,,,2026-03-03-ndoh-emr-digital-solution-implementation-invitation-to-bid
+ZAF,E-tick (electronic tick register),E-tick,emr,"bespoke, built on the Microsoft platform, web-based with cloud hosting, not open source",Ekurhuleni district originators with a non-profit funder and contracted developers,"3 public clinics in Ekurhuleni district, Gauteng (pilot, halted 2021)",2026-01-12-e-tick-stalled-ehr-implementation-south-africa
+ZAF,District Health Information Software (DHIS),DHIS,hmis,DHIS,"public sector; data submitted to district, provincial and national health departments",public health facilities,2026-01-12-e-tick-stalled-ehr-implementation-south-africa
+ZAF,Health Patient Registration System (HPRS),HPRS,exchange,,public sector,,2026-01-12-e-tick-stalled-ehr-implementation-south-africa
+ZAF,Tier.net,Tier.net,tracker,,,,2026-01-12-e-tick-stalled-ehr-implementation-south-africa
+ZAF,provincial HIS platform (Gauteng),HIS platform,,off-the-shelf,Gauteng Provincial Department of Health,,2026-01-12-e-tick-stalled-ehr-implementation-south-africa
+ZAF,National Electronic Medical Record (EMR),National EMR,emr,,National Department of Health,"36 primary health care facilities (clinics and CHCs) and 1 GP practice, beta",2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,HMS2,HMS2,emr,HMS2,Eastern Cape and Free State Departments of Health,hospitals: at least 44 in Eastern Cape in various stages; 16 in Free State,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,Meditech,Meditech,emr,Meditech (legacy),Free State Department of Health,3 hospitals,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,Health Information System (Gauteng),Health Information System,emr,SAP,Gauteng province,hospitals,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,eHealth system (KwaZulu-Natal),eHealth,emr,developed by the province,KwaZulu-Natal province,42 public hospitals,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,Clinicom,Clinicom,emr,Clinicom,Western Cape Department of Health,53 hospitals,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,Primary Health Care Information System (PHCIS),PHCIS,emr,,Western Cape Department of Health,308 PHC facilities,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,PREHMIS,PREHMIS,emr,,Western Cape / City of Cape Town,City of Cape Town PHC facilities,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,Electronic Continuity of Care Record (ECCR),ECCR,,,Western Cape Department of Health,,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,Health Patient Registration System (HPRS),HPRS,,,,PHC facilities,2025-08-01-question-nw4495-minister-of-health-ehr
+ZAF,National Health Information Exchange (HIE),National Health Information Exchange,exchange,"IHE profiles, HL7 v3, FHIR",National Department of Health,planned: all healthcare facilities served by the shared infrastructure,2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,Central patient registry,central patient registry,exchange,,National Department of Health,"planned: shared across all healthcare facilities served by the shared infrastructure, one identifier per patient",2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,Central provider registry,central provider registry,exchange,,National Department of Health,planned: shared across all healthcare facilities served by the shared infrastructure,2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,Central facility registry,central facility registry,exchange,,National Department of Health,planned: shared across all healthcare facilities served by the shared infrastructure,2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,Shared clinical repositories,shared clinical repositories,exchange,,local and provincial government departments,"planned: shared across services, facilities, hospitals and districts, within a province or nationally",2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,South African National Health Information System (SA NHIS),SA NHIS,,,National Department of Health,"national, provincial and local levels; described as emerging",2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette
+ZAF,District Health Information System (DHIS),DHIS data warehouse,hmis,DHIS,,"all levels of the health pyramid, as the review puts it",2021-08-04 Health information systems in developing countries case of African countries
+ZAF,District Health Information System (DHIS),"DHIS / WebDHIS, under the DHMIS Policy",hmis,"DHIS 1.4, then WebDHIS",National Department of Health,public health sector; data flows from facility to national level,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Electronic health record (EHR),National EHR / patient electronic health record,emr,,National Department of Health,none: modules yet to be developed,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Health Patient Registration System (HPRS),HPRS,exchange,,National Department of Health,,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Master Patient Index (MPI),"MPI / eMPI, within HPRS",exchange,,National Department of Health,,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Primary Health Care patient information systems,PHC patient information systems,,,,primary health care,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Hospital patient information systems,hospital patient information systems,,,,hospitals,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Stock Visibility System (SVS),SVS,single-function,mobile application,,clinics and hospitals,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,MomConnect,MomConnect,,mobile messaging,National Department of Health with public and private partners,,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,Three Interlinked Electronic Registries (TIER),TIER,,,,,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,National health information repository and data system (NHIRD),NHIRD,,,,planned under the 2017 NHI White Paper,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,South Africa's Digital Health Platform,South African digital health platform,exchange,,National Department of Health,planned,2019-01-01-south-africa-national-digital-health-strategy-2019-2024
+ZAF,National Health Information System,shared National Health Information System infrastructure,,,,,2026-08-14-ssa-health-data-governance-literature-review
+ZAF,COVID-19 Tracing Database,COVID-19 Tracing Database,single-function,,,,2026-08-14-ssa-health-data-governance-literature-review

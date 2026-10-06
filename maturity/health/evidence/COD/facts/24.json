@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-19-sormas-kwango-digital-surveillance-frontiers",
+  "facts": [],
+  "systems": [
+    {"system": "SORMAS (Surveillance Outbreak Response Management and Analysis System)", "country_label": "SORMAS", "class": "single-function", "platform": "SORMAS", "owner": "pilot by ALIMA and research partners with the Ministry of Health's Epidemiological Surveillance Department and the Kwango Provincial Health Division", "tiers": "29 health centres and 1 general hospital in Kenge health zone (facility entry); central offices of 13 other health zones in Kwango; pilot July 2022 to December 2024, rollout then on hold for lack of funds"},
+    {"system": "Weekly epidemiological reports (WER) for IDSR", "country_label": "relevés épidémiologiques hebdomadaires", "class": "single-function", "platform": "paper forms, often photographed and sent by WhatsApp; entered in EpiData at the Provincial Health Department", "owner": "Ministry of Health, National Epidemiological Surveillance Department", "tiers": "health centres and general hospitals report on paper to the health zone, which reports to the province"},
+    {"system": "EWARS (Early Warning, Alert and Response System)", "country_label": "", "class": "single-function", "platform": "EWARS", "owner": "", "tiers": "deployed in several provinces, as stated"},
+    {"system": "DHIS2 Tracker", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "", "tiers": "deployed in several provinces, as stated"}
+  ],
+  "note": "Every system described is disease surveillance: SORMAS case-based reporting and the paper weekly epidemiological report. The paper-based flow it documents in Kwango is surveillance reporting, not the routine HMIS, so it gives no hmis fact. DHIS2 is otherwise mentioned only as requiring a separate weekly report."
+}

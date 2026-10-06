@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-01-e-government-technology-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "Government of Tanzania Health Operations Management Information System (GOTHOMIS)", "country_label": "GOTHOMIS", "class": "", "platform": "", "owner": "listed under the Regional Administration and Local Government Authorities sector", "tiers": ""},
+    {"system": "NHIF Service Portal", "country_label": "NHIF Service Portal", "class": "", "platform": "", "owner": "National Health Insurance Fund", "tiers": ""}
+  ],
+  "note": "The e-Government Authority's roadmap (February 2024) only lists GOTHOMIS among examples of sectoral e-services, under regional administration and local government, with no description of what it does or where it runs."
+}

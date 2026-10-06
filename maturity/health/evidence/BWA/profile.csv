@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BWA,hmis,governance,qualifier,owner:ministry;plan:none,2025,BWA-001;BWA-012,,not stated: finance
+BWA,hmis,tiers,coverage,,,,,nothing held
+BWA,hmis,digitised,coverage,district,2026-03-31,BWA-002;BWA-003,,
+BWA,hmis,last12,qualifier,,,,,nothing held
+BWA,hmis,clinics,coverage,,,,,nothing held
+BWA,emr,governance,qualifier,owner:ministry;finance:domestic,2026-03-05,BWA-008;BWA-009,BWA-011=owner:ministry,not stated: plan
+BWA,emr,tiers,coverage,,,,,nothing held
+BWA,emr,digitised,coverage,paper,2026-03-31,BWA-004,,
+BWA,emr,last12,qualifier,advancing,2026-03-05,BWA-007,,
+BWA,emr,clinics,coverage,count:22,2026-03-05,BWA-006,BWA-010=pilot;BWA-005=count:16,

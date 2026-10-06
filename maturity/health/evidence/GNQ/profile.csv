@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNQ,hmis,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-03-31,GNQ-002;GNQ-007;GNQ-020,GNQ-008=finance:donor;GNQ-011=owner:ministry;GNQ-012=finance:donor;GNQ-013=plan:current;GNQ-019=owner:ministry;GNQ-025=plan:current;GNQ-023=owner:ministry;GNQ-024=finance:domestic,
+GNQ,hmis,tiers,coverage,,,,,nothing held
+GNQ,hmis,digitised,coverage,national,2025,GNQ-015,GNQ-017=facility;GNQ-018=district;GNQ-010=district;GNQ-022=paper;GNQ-001=paper,
+GNQ,hmis,last12,qualifier,advancing,2025-11-25,GNQ-009;GNQ-014;GNQ-021,,
+GNQ,hmis,clinics,coverage,pilot,2025-06,GNQ-006;GNQ-016,,
+GNQ,emr,governance,qualifier,plan:none,2026-03-31,GNQ-003,,"not stated: owner, finance"
+GNQ,emr,tiers,coverage,,,,,nothing held
+GNQ,emr,digitised,coverage,paper,2018,GNQ-004,,nothing dated since 2023-10-06
+GNQ,emr,last12,qualifier,,,,,nothing held
+GNQ,emr,clinics,coverage,none,2026-03-31,GNQ-005,,

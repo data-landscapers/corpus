@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-14-ssa-health-data-governance-literature-review",
+  "facts": [],
+  "systems": [
+    {"system": "National Health Information System", "country_label": "shared National Health Information System infrastructure", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "COVID-19 Tracing Database", "country_label": "COVID-19 Tracing Database", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Literature review of health research data-sharing law in four countries. For South Africa it covers POPIA section 72, the scope of the 2021 interoperability standards framework, the NICD's surveillance role and the malaria elimination plan's surveillance priority; it states nothing about an HMIS or EMR in use, its tiers, where data is keyed or clinic coverage."
+}

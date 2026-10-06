@@ -1,0 +1,10 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "Koumamba et al. (BMC Med Inform Decis Mak, literature review carried out February to July 2019) state that 11 of the 12 African countries reviewed, Zimbabwe among them, had no national health information system strategy, only strategies run under a specific project and aligned with donors, Malawi being the one exception; the statement is made of the group, not of Zimbabwe singly.", "as_of": "2019", "date_precision": "year", "system": "DHIS2 data warehouse (national health information system)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 data warehouse (national health information system)", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "Zimbabwe is covered only by group statements (all 12 countries took a DHIS2-backed aggregate data warehouse approach; 11 of 12 had no national strategy); nothing on tiers, where data is keyed or clinics. The one reference the review cites for Zimbabwe is a paper on Botswana."
+}

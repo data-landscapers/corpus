@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Digital Community System (DCS),Digital Community System (DCS),community,,Ministry of Health and Social Services,"community health workers at household level, on phones or tablets; to share patient information with clinics and hospitals; not yet rolled out (national training held, no rollout date, phased, paper registers kept in parallel)",2026-07-29-namibia-digital-community-system-health-rollout
+NAM,DHIS2,national DHIS2 systems,hmis,DHIS2,,entered at district or regional level from clinics' manual records; not entered at rural clinics,2026-03-31 Africa we have a data problem
+NAM,HIV/TB-specific systems,,tracker,,,"not stated; given as examples of fragmented, vertical EMR/EHR systems",2026-03-31 Africa we have a data problem

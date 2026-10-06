@@ -1,0 +1,8 @@
+{
+  "slug": "2021-06-15-world-bank-digital-gabon-project-pad",
+  "facts": [],
+  "systems": [
+    {"system": "eGabon (National Health Information System)", "country_label": "eGabon", "class": "", "platform": "", "owner": "World Bank-financed eGabon project (P132824), launched in 2016", "tiers": ""}
+  ],
+  "note": "Passages file. States only that the World Bank-financed eGabon project, launched in 2016, supports strengthening the National Health Information System with ICT, and that Digital Gabon will link to it; nothing is said of what the system does or where it runs."
+}

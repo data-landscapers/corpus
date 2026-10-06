@@ -1,0 +1,50 @@
+{
+  "slug": "2026-09-25-tun-telehealth-connect-2026-preview",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "DH Arab, reporting the Ministry of Health's own account, says 99 healthcare facilities are at various stages of implementing electronic medical records; no denominator and no tier is given, so the number of primary clinics among them is not stated, and the figure is undated (document published 25 September 2026).",
+      "as_of": "2026-09-25",
+      "date_precision": "day",
+      "system": "electronic medical records",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic medical records",
+      "country_label": "electronic medical records",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "99 healthcare facilities at various stages of implementation; tiers not stated"
+    },
+    {
+      "system": "national health identifier",
+      "country_label": "national health identifier",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "800,000 active registrations; tiers not stated"
+    },
+    {
+      "system": "Sahetna",
+      "country_label": "\"Sahetna\"",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "citizen-facing platform being prepared for launch: care pathways, appointments, access to health records, children's health information; not live"
+    },
+    {
+      "system": "teleradiology",
+      "country_label": "teleradiology",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "30 facilities; more than 100,000 remote examinations"
+    }
+  ],
+  "note": "The 99-facility figure is a count of facilities of unstated tier, implementing rather than using; recorded as not-published for primary clinics rather than count:99. The parent may prefer another aspect."
+}

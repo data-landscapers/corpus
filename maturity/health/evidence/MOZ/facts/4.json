@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The Data Landscapers 54-country review (an AI-assisted compilation by its own account) states that rural primary clinics keep handwritten registers and manual logs that are later aggregated into the national DHIS2 at district level, digital being used for reporting only; it gives no date for this, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National DHIS2 HMIS", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The Data Landscapers 54-country review (an AI-assisted compilation by its own account) states that rural primary clinics record patient data on paper (handwritten registers and patient-held medical cards) with no routine electronic entry at the point of service in most rural facilities, an EMR being a policy target for 2030; it gives no date for this, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "patient records at rural primary clinics (paper; ECR platform in development)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "National DHIS2 HMIS", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "aggregates entered at district level from clinics' paper"},
+    {"system": "DHIS2 Tracker app for immunization", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "", "tiers": "pilot in 5 of 11 provinces, 2024, 19,000 children"},
+    {"system": "ECR platform", "country_label": "ECR", "class": "", "platform": "", "owner": "", "tiers": "in development for facilities"},
+    {"system": "Hospital digitalisation pilots (2024)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "hospitals, pilot, to reduce paper"}
+  ],
+  "note": ""
+}

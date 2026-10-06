@@ -1,0 +1,46 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The review (Koumamba et al., citing Mutale et al. 2013) states that Ghana adapted the DHIS software from its standardised collection tools in order to record aggregated data at facility, district and regional levels; the document gives no date for this, so the as_of is its published date.",
+      "as_of": "2021-08-04",
+      "date_precision": "day",
+      "system": "DHIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The review names Ghana among the countries that received support from the International Health Partnership and used the DHIS software to implement their health information system; no date is given, so the as_of is the published date.",
+      "as_of": "2021-08-04",
+      "date_precision": "day",
+      "system": "DHIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The review finds that 11 of the 12 countries studied (92%), Ghana among them, had no national health information strategy, only strategies set under a specific project, Malawi being the single exception; the review ran February to July 2019 and gives no other date, so the as_of is the published date.",
+      "as_of": "2021-08-04",
+      "date_precision": "day",
+      "system": "DHIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS (District Health Information System) software",
+      "owner": "",
+      "tiers": "facilities, district and regional levels"
+    }
+  ],
+  "note": ""
+}

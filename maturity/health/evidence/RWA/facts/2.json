@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-30-rwa-ktpress-five-years-on-digital-health-irembo-medi",
+  "facts": [],
+  "systems": [
+    {"system": "Irembo Medi", "country_label": "Irembo Medi", "class": "", "platform": "", "owner": "Irembo", "tiers": "patient-facing; tiers not stated"},
+    {"system": "National Health Intelligence Centre", "country_label": "National Health Intelligence Centre", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "States nothing about an HMIS or EMR deployment: Irembo's chief executive describes a patient-facing service (see records, track them across facilities, book appointments) conditionally on strong electronic medical records, with no launch date, tier or facility figure; community health workers' data gathering is described without naming a system."
+}

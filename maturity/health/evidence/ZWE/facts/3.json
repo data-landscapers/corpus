@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-14-zwe-ungm-laboratory-information-management-system-tender",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Laboratory Information Management System (LIMS)",
+      "country_label": "LIMS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "UNDP procurement notice (September 2026) seeking a company to implement a laboratory information management system; a single-function system, so no HMIS or EMR fact."
+}

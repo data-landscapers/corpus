@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PaperEMR",
+      "country_label": "PaperEMR (Health-E-Net Botswana)",
+      "class": "community",
+      "platform": "PaperEMR",
+      "owner": "Health-E-Net, working with sponsors, industry and governments",
+      "tiers": "described as digitising paper-based data so community health workers can streamline reporting and procurement; no sites or coverage given"
+    },
+    {
+      "system": "Gabriel telemedicine platform",
+      "country_label": "Gabriel (Health-E-Net Botswana)",
+      "class": "enabling",
+      "platform": "Gabriel",
+      "owner": "Health-E-Net",
+      "tiers": "remote consultations and medications through online and offline services; no sites or coverage given"
+    }
+  ],
+  "note": "Continental AI report; Botswana appears twice, once as holding a national AI programme in 2023 and once for Health-E-Net's two products, neither of which is a reporting or patient-record system of an assessed class."
+}

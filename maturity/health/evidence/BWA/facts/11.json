@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-26-world-bank-heprr-project-botswana",
+  "facts": [],
+  "systems": [
+    {
+      "system": "electronic Logistics Management Information System (eLMIS)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health, with the Botswana Medicines Regulatory Authority; financed by the World Bank HEPRR Project ($40 million loan and $3 million grant, approved 26 January 2026)",
+      "tiers": "to be rolled out to track medical supplies in real time from central warehouses to remote health posts, over a five-year project"
+    }
+  ],
+  "note": "The only system named is the eLMIS, a stock system (single-function), which gives no fact for HMIS or EMR."
+}

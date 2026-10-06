@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "SIDAInfo", "country_label": "SIDAInfo", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "OpenClinic", "country_label": "OpenClinic", "class": "", "platform": "OpenClinic", "owner": "", "tiers": ""}
+  ],
+  "note": "The three systems are named without any description of what they do, so none can be classed and no fact is taken. The document states that the health ministry calls them fragmented and not communicating, that a national workshop of 7-10 April 2026 mapped tools and set HL7 FHIR as the common standard, and that this sits under a PNDIS II 2026-2028 supported by Belgian cooperation, with no timetable or budget published."
+}

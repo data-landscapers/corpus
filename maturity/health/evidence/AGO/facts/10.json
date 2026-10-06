@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2",
+  "facts": [],
+  "systems": [
+    {"system": "ReDIV", "country_label": "ReDIV", "class": "tracker", "platform": "", "owner": "Ministério da Saúde", "tiers": "all national vaccination campaigns (polio, measles, HPV); individual, real-time registration of doses"},
+    {"system": "IOTA", "country_label": "IOTA", "class": "single-function", "platform": "", "owner": "Ministério da Saúde", "tiers": "national; stock visibility from central warehouses to peripheral health units"},
+    {"system": "Sistema nacional de informação em saúde (DHIS2)", "country_label": "sistema nacional de informação em saúde", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"},
+    {"system": "Telemedicina (teleconsulta, telediagnóstico)", "country_label": "telemedicina", "class": "enabling", "platform": "", "owner": "Ministério da Saúde", "tiers": "peripheral health units linked to specialists; no tier named"}
+  ],
+  "note": "Speech by the Secretary of State for Health reported by ANGOP in February 2026. The two systems it describes are an immunisation tracker (ReDIV) and a stock system (IOTA), neither of the assessed classes; DHIS2 is named only as the national health information system with which their interoperability is being developed, without a description of what it reports, so it is left unclassed and gives no fact. No EMR is mentioned."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-28-ken-sha-hakika-provider-contract-pack-2026-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Health Information System", "country_label": "Kenya Health Information System", "class": "", "platform": "", "owner": "", "tiers": "KEPH Level 2 and 3 facilities, and Level 4 facilities approved for primary care, must be able to report to it"},
+    {"system": "Centralized Digital Platform", "country_label": "Centralized Digital Platform", "class": "", "platform": "", "owner": "", "tiers": "KEPH Level 2 and 3, and approved Level 4, must be able to report to it"},
+    {"system": "Facility electronic health information system certified by the Digital Health Agency", "country_label": "electronic health information system", "class": "", "platform": "", "owner": "each contracted healthcare provider; certified by the Digital Health Agency", "tiers": "KEPH Level 2 and 3, and approved Level 4, as a condition of admission to the Primary Healthcare Fund contract"},
+    {"system": "Kenya Master Health Facility List", "country_label": "Kenya Master Health Facility List", "class": "exchange", "platform": "", "owner": "", "tiers": "every admitted provider must be listed with a facility identification number and KEPH Level"}
+  ],
+  "note": "Passages of a contract template (Part B1, 2026-2029 cycle). It makes a functional, DHA-certified electronic health information system able to report to the Centralized Digital Platform and the Kenya Health Information System a condition of admission for Level 2-3 primary care providers; that is an obligation, not a statement of what is in use, and none of the systems is described by function, so no fact. Part A is a scan with no text."
+}

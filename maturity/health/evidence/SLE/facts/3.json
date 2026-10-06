@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-demby-launches-starlink-300-health-facilities",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "At the Starlink launch on 27 July 2026 the Minister of Health described the connectivity as part of the Ministry's plan to move from paper-based patient records to a digital health system; no electronic record system is named and no tier is specified.", "as_of": "2026-07-27", "date_precision": "day", "system": "paper-based patient records", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Starlink internet connectivity", "country_label": "Starlink internet", "class": "enabling", "platform": "Starlink", "owner": "Ministry of Health", "tiers": "300 government health facilities across Sierra Leone; launched at the Julius Maada Bio Paediatric Centre of Excellence, Freetown"}
+  ],
+  "note": "Electronic health reporting and disease monitoring are named only as uses the connection will support; no reporting system is named."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report",
+  "facts": [],
+  "systems": [
+    {"system": "National Health Information System (e-health)", "country_label": "National Health Information System", "class": "emr", "platform": "", "owner": "supported by the World Bank", "tiers": "not stated; described in the future tense"}
+  ],
+  "note": "Passages file. The 2019 diagnostic describes the World Bank-supported National Health Information System, with electronic medical records and e-prescribing, wholly in terms of what it will do; it states nothing about what was in use, where, or under whose budget, so no fact is taken."
+}

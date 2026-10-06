@@ -1,0 +1,92 @@
+{
+  "slug": "2025-11-20-motshegwa-medicine-shortage-rural-health-digital",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The Minister of Local Government and Traditional Affairs told Parliament on 19 November 2025 that the Electronic Medical Records system was being piloted in two districts; no facility count or denominator is given.",
+      "as_of": "2025-11-19",
+      "date_precision": "day",
+      "system": "Electronic Medical Records",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Minister of Local Government and Traditional Affairs told Parliament on 19 November 2025 that his ministry was advancing the development of integrated systems including the Electronic Medical Records, to link to the Botswana Health Information Exchange.",
+      "as_of": "2025-11-19",
+      "date_precision": "day",
+      "system": "Electronic Medical Records",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Records",
+      "country_label": "Electronic Medical Records",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Local Government and Traditional Affairs",
+      "tiers": "being piloted in two districts"
+    },
+    {
+      "system": "Patient Information Management System",
+      "country_label": "Patient Information Management System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "active in health facilities; not described; not interfaced with the other systems"
+    },
+    {
+      "system": "Integrated Patient Management System",
+      "country_label": "Integrated Patient Management System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "active in health facilities; not described; not interfaced with the other systems"
+    },
+    {
+      "system": "District Health Information System 2",
+      "country_label": "District Health Information System 2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "active in health facilities; not described; not interfaced with the other systems"
+    },
+    {
+      "system": "E Pulse",
+      "country_label": "E Pulse",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "active in health facilities; not described; not interfaced with the other systems"
+    },
+    {
+      "system": "Clinic Information Management System",
+      "country_label": "Clinic Information Management System",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Local Government and Traditional Affairs",
+      "tiers": "under development; said only that it will ensure access to specialist care"
+    },
+    {
+      "system": "Botswana Health Information Exchange",
+      "country_label": "Botswana Health Information Exchange",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "to support a Master Patient Index holding medical histories across public and private facilities; the new systems are to link to it"
+    },
+    {
+      "system": "Village connectivity programme",
+      "country_label": "village connectivity programme",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "223 clinics connected, 60 more targeted in the current phase, 283 expected online by the end of the financial year"
+    }
+  ],
+  "note": "No HMIS fact: DHIS2 is named with three other systems as 'active and in use' with no description of what any of them does. The answer was given on Wednesday 19 November 2025; the report is dated 20 November."
+}

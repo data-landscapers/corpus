@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-mobse-health-ministry-data-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Reports an MoU signed by July 2026 between MoBSE and the Ministry of Health to link EMIS with the HMIS (birth registration, immunisation history, nutrition status, screening results to be shared); the HMIS is named without a description of what it does, its tiers or where data is entered, so no fact."
+}

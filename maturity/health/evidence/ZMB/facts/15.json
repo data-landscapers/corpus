@@ -1,0 +1,18 @@
+{
+  "slug": "2025-03-01-smartcare-pro-programme-managers-presentation",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:1800", "fact": "The SmartCare Pro programme managers' presentation states that SmartCare Legacy and SmartCare Plus are together used in approximately 1,800 healthcare facilities in 10 provinces; no denominator and no split by facility type; the slides are undated, so the published date (a proxy, March 2025) is used.", "as_of": "2025-03", "date_precision": "month", "system": "SmartCare Legacy and SmartCare Plus", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:350", "fact": "The presentation's timeline records SmartCare Plus version 1.6 scaled up to 350 facilities in 2022, with SmartCare Pro launched in 2023.", "as_of": "2022", "date_precision": "year", "system": "SmartCare Plus", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The presentation calls SmartCare Pro the latest version of the national electronic health record software and records that SmartCare was approved as the Ministry of Health standard in 2009; undated slides, so the published date (a proxy) is used.", "as_of": "2025-03", "date_precision": "month", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The presentation describes SmartCare Pro as capturing the patient encounter at facility level, following clinical workflows with embedded guidelines and decision prompts, on a central server that identifies each client uniquely and lets patients be tracked between facilities in real time; undated slides, so the published date (a proxy) is used.", "as_of": "2025-03", "date_precision": "month", "system": "SmartCare Pro", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "emr", "platform": "centralised architecture, central server", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "SmartCare Legacy and SmartCare Plus", "country_label": "SmartCare Legacy; SmartCare Plus", "class": "emr", "platform": "offline and online instances", "owner": "Ministry of Health", "tiers": "approximately 1,800 healthcare facilities in 10 provinces"},
+    {"system": "eLMIS", "country_label": "eLMIS (Pharmacy)", "class": "single-function", "platform": "", "owner": "", "tiers": "integrated with SmartCare Pro"},
+    {"system": "DISA", "country_label": "DISA (Laboratory)", "class": "single-function", "platform": "", "owner": "", "tiers": "integrated with SmartCare Pro"},
+    {"system": "GWAN", "country_label": "GWAN", "class": "enabling", "platform": "government network; Starlink for government", "owner": "", "tiers": "free in government facilities"},
+    {"system": "Data Warehouse", "country_label": "Data Warehouse", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

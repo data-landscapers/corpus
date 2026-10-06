@@ -1,0 +1,31 @@
+{
+  "slug": "2026-09-15-tun-realites-ai-forward-summit-souverainete-gouvernance",
+  "facts": [],
+  "systems": [
+    {
+      "system": "dossier médical intelligent",
+      "country_label": "dossier médical intelligent",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "identifiant national de santé",
+      "country_label": "identifiant national de santé",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "hôpital numérique",
+      "country_label": "hôpital numérique",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "telemedicine to bring specialist services to interior regions; no figures"
+    }
+  ],
+  "note": "Report of an AI summit (9-10 September 2026); the health minister only stressed the importance of developing the smart medical record and the national health identifier, with no statement of status, coverage, owner or date of any event."
+}

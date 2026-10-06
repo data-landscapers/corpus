@@ -1,0 +1,60 @@
+{
+  "slug": "2026-08-04-dhis2-togo-climate-health-country-profile",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The DHIS2 country profile, updated July 2026, says DHIS2 has been used by the Ministry of Health since 2016 as the country's HMIS, its main data collection and aggregation tool and national repository for health data, and that the systems are owned and maintained by the ministry with technical support from HISP WCA.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "DHIS2 (national HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The DHIS2 country profile, updated July 2026, says the DHIS2 Climate App has been installed in the national HMIS and malaria repository, giving access to ERA-5 climate datasets shared with the meteorological agency ANAMET, with an SMC stratification dashboard operational and malaria forecasting in testing on a staging instance.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "DHIS2 (national HMIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (national HMIS)",
+      "country_label": "Health Management Information System (HMIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with technical support from HISP WCA",
+      "tiers": "not stated; analysis outputs at district level"
+    },
+    {
+      "system": "national malaria repository",
+      "country_label": "national malaria repository",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "National Malaria Control Programme, Ministry of Health",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2 for infectious disease surveillance and non-communicable disease monitoring",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2-based One Health platform",
+      "country_label": "One Health platform",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, piloted with the Ministry of Agriculture and Livestock and the Ministry of Environment",
+      "tiers": "pilot"
+    }
+  ],
+  "note": "The profile also says the 2020 Health National Adaptation Plan includes DHIS2 strengthening, and that the climate enhancements were funded by the Wellcome Trust; neither is recorded as a plan or finance fact for the HMIS itself."
+}

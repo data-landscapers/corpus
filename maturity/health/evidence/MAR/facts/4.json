@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-04-cese-rapport-annuel-2025",
+  "facts": [],
+  "systems": [
+    {"system": "systèmes d'information hospitaliers", "country_label": "systèmes d'information hospitaliers", "class": "", "platform": "", "owner": "", "tiers": "hospitals; the passage speaks of their generalisation without describing what they hold"},
+    {"system": "dossier médical partagé", "country_label": "dossier médical partagé", "class": "emr", "platform": "", "owner": "", "tiers": "not stated; the passage speaks of the launch of its setting-up"}
+  ],
+  "note": "No fact: the one relevant passage is cut mid-sentence ('...accélérée, avec la généralisation des systèmes d'information hospitaliers et le lancement de la mise en place du dossier médical partagé'), so it cannot be told whether the CESE reports this as done in 2025 or recommends it. The other passage uses 'dossier médical' for an insurance claim (CNOPS cost comparison)."
+}

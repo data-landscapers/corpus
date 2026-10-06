@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-08-nigeria-lagos-ship-ai-health-data-interoperability",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lagos Smart Health Information Platform (SHIP)",
+      "country_label": "SHIP",
+      "class": "exchange",
+      "platform": "built on HL7 FHIR; Digital Health Platforms Limited named as the firm speaking for it",
+      "owner": "Lagos State Government (Ministry of Health)",
+      "tiers": "planned, Lagos State only: to connect hospitals, laboratories, primary healthcare centres, pharmacies, HMOs, regulators and patients"
+    },
+    {
+      "system": "electronic medical records, laboratory systems and telemedicine platforms in Lagos (unnamed)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "Lagos State's SHIP is an interoperability platform described as a plan (August 2026), class exchange; the document says facility records in Lagos are siloed and fragmented across electronic records, laboratory systems, telemedicine and paper, but describes no hmis or emr deployment, tier or count."
+}

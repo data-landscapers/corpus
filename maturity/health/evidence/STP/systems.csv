@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+STP,DHIS2,sistema DHIS2,hmis,DHIS2,,,2026-07-29-sao-tome-telanon-dhis2-dcnt-analise-distrital
+STP,Piauí Saúde Digital teleconsultation platform,plataforma de teleconsulta,enabling,Piauí Saúde Digital,"Government of the Brazilian state of Piauí, in partnership with the Sao Tomean authorities","Installed at the Angolares health centre, Caué district, operating from 1 July 2026; to be extended later to Lembá district and the Autonomous Region of Príncipe",2026-06-15-sao-tome-rstp-teleconsulta-piaui-caue
+STP,digitalisation of vaccination data (test),digitalização dos dados de vacinação,,,"WHO in partnership with the Ministry of Health, with WHO/AFRO support","Being tested in three districts, Água Grande, Mé-Zóchi and Caué, during African Vaccination Week, 29 April to 6 May 2026",2026-04-29-oms-sao-tome-semana-africana-vacinacao-digitalizacao-dados
+STP,DHIS2,Sistema de informação na Saúde,,DHIS2,,,2026-04-29-sao-tome-pnud-avaliacao-sistema-informacao-saude
+STP,mSupply,mSupply,,mSupply,,,2026-04-29-sao-tome-pnud-avaliacao-sistema-informacao-saude
+STP,Instalações Inteligentes,Instalações Inteligentes,,,,,2026-04-29-sao-tome-pnud-avaliacao-sistema-informacao-saude
+STP,DHIS2,national health information system,hmis,DHIS2,,Used at district level for aggregates; facility-level training; tablets provided by WHO and UNDP,2026-03-31 Africa we have a data problem
+STP,DHIS2 individual tracker modules (primary health care patient registry and consultations),,tracker,DHIS2 Tracker,,"Primary health care, since 2020, supported by WHO and UNDP",2026-03-31 Africa we have a data problem
+STP,DHIS2,plataforma de software distrital de informação sanitária (DHIS2); sistema de informação sanitária (SIS),hmis,DHIS2,,,2023-07-01-oms-sao-tome-estrategia-cooperacao-pais-2023-2027
+STP,Zzapp Malaria,Zzapp Malaria,single-function,"Zzapp Malaria (software as a service, with a field workers' mobile app)",Zzapp Malaria (vendor),"Not facility-based: field workers mapping and treating water bodies; 2022 pilot in districts with urban and rural areas covering more than 160,000 people",2022-01-01-undp-digital-x-zzapp-malaria-sao-tome-ai-vector-control
+STP,DHIS2 (District Health Information System-2),SIS - Sistema de Informação da Saúde / Sistema de Informação Sanitária,hmis,DHIS2,"Ministério da Saúde, gabinete do Sistema de Informação da Saúde (SIS)",not stated,2021-01-01-sao-tome-ministerio-saude-anuario-estatistico-saude-2021
+STP,DHIS2,SIS - Sistema de Informação da Saúde,hmis,DHIS2,Ministério da Saúde (SIS coordinator named),not stated; data stored at national level,2020-01-01-sao-tome-ministerio-saude-sistema-informacao-saude-dhis2
+STP,DHIS2 Tracker,DHIS2 TRACKER,tracker,DHIS2 Tracker,Ministério da Saúde,"not stated; launch ceremony in São Tomé, October 2020",2020-01-01-sao-tome-ministerio-saude-sistema-informacao-saude-dhis2

@@ -1,0 +1,23 @@
+{
+  "slug": "2025-12-05-mrt-ecofin-health-system-digital-transformation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-CNAM",
+      "country_label": "E-CNAM",
+      "class": "",
+      "platform": "",
+      "owner": "Caisse Nationale d'Assurance Maladie (CNAM)",
+      "tiers": "Insurance fund; no facility tier stated"
+    },
+    {
+      "system": "national vaccination database (planned)",
+      "country_label": "national vaccination database",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Planned priority, not stated as built"
+    }
+  ],
+  "note": "The article reports the 29 October 2025 launch of the 2024-2030 National e-Health Strategy, priorities presented on 5 December 2025 (digitising epidemiological data, a national vaccination database), and the E-CNAM platform for insurance authorisations, claims and reimbursement; it names no HMIS or EMR system. E-CNAM is insurance administration, outside the typology, and the vaccination database is named with no description of whether it is patient-level, so both are unclassified."
+}

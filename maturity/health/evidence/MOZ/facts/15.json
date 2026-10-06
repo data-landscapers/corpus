@@ -1,0 +1,12 @@
+{
+  "slug": "2022-03-01-ins-mozambique-catalogo-bases-de-dados",
+  "facts": [],
+  "systems": [
+    {"system": "SIS-MA", "country_label": "SIS-MA, Sistema de Informação em Saúde para ...", "class": "", "platform": "", "owner": "", "tiers": "not stated; listed as one of 64 databases in the INS catalogue, March 2022"},
+    {"system": "DISA", "country_label": "DISA (Sistema ...)", "class": "", "platform": "", "owner": "", "tiers": "not stated; listed in the INS catalogue"},
+    {"system": "MozART", "country_label": "MozART, Mozambique Antiretroviral Treatment", "class": "tracker", "platform": "", "owner": "", "tiers": "not stated; holds HIV patients' care and treatment data from EPTS"},
+    {"system": "Marcação de consultas", "country_label": "Marcação de consultas", "class": "", "platform": "", "owner": "", "tiers": "not stated; a database on consultation appointments"},
+    {"system": "APES", "country_label": "APES", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A catalogue of databases held or mapped by the Instituto Nacional de Saúde (file name dated March 2022); the held extract gives only each row's leading text, naming SIS-MA and others with no statement on ownership, tiers, where data is digitised or coverage."
+}

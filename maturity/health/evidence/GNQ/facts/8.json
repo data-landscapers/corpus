@@ -1,0 +1,82 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review, citing the WHO SCORE assessment (2013-2018 data), states there was no standardised electronic entry of health service data at district level and that routine facility reporting scored mostly 0.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "routine facility reporting (no system named)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The Data Landscapers review states that Equatorial Guinea lacks a national eHealth strategy; it gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "routine facility reporting (no system named)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The Data Landscapers review states that Equatorial Guinea lacks a national eHealth strategy; it gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "patient records (no system named)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review, citing the WHO SCORE assessment (2013-2018 data), states there was no electronic patient-level data capture in primary care facilities.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "patient records (no system named)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Data Landscapers review states it found no evidence of digital patient records (registers, prescriptions) at rural primary clinics and no pilots, with paper recording predominant; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "patient records (no system named)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 for malaria surveillance",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "Bioko Island (stated as not rural mainland)"
+    },
+    {
+      "system": "Digitized patient registries at district hospitals (Bioko, malaria context)",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2 (as the sentence reads)",
+      "owner": "",
+      "tiers": "district hospitals, Bioko Island"
+    },
+    {
+      "system": "Malaria logistics data collection (DHIS2 Bioko eLMIS)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2; paper forms keyed in later, move to an Android app under way",
+      "owner": "",
+      "tiers": "Bioko Island, field level"
+    }
+  ],
+  "note": "Passages file; the source header marks the country rows as an AI-assisted compilation and the author's analysis, not sourced fact. The clinic row is scored against paper recording, partly by inference ('typical sub-Saharan patterns')."
+}

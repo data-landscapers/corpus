@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-how-santecomtogo-is-transforming-community-health-insights-from-the-field",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SanteComTogo",
+      "country_label": "SanteComTogo, national electronic Community Health Information System",
+      "class": "community",
+      "platform": "Community Health Toolkit (CHT), designed by Medic",
+      "owner": "Ministry of Health; designed and deployed by Medic",
+      "tiers": "community health workers: launched March 2024 as a pilot in the Maritime Region, used by over 1,000 community health workers across six districts; national expansion planned"
+    }
+  ],
+  "note": "The only system is a community health worker app, a class noted and not assessed; the document says it refers patients to health centres but states no data exchange with an HMIS or EMR."
+}

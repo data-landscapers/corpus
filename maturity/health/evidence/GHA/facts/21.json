@@ -1,0 +1,10 @@
+{
+  "slug": "2024-03-14-ghana-card-number-at-birth-system-launch",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System (DHIS) e-tracker", "country_label": "DHIS e-tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ghana Health Service", "tiers": "community health posts and health centres; deployed in 338 health facilities (GHS Director-General, March 2024)"},
+    {"system": "Lightwave", "country_label": "lightwave", "class": "", "platform": "Lightwave", "owner": "", "tiers": "hospitals"},
+    {"system": "Ghana Card Number at Birth System", "country_label": "Ghana Card Number at Birth", "class": "exchange", "platform": "", "owner": "Ministry of Health, Ghana Health Service, Births and Deaths Registry and National Identification Authority", "tiers": "health facilities nationwide, as announced"}
+  ],
+  "note": "No fact: the e-tracker captures mother and newborn records for one programme (tracker class); Lightwave is named as the hospital capture point without a description of what it holds; the birth-number system links health, civil registration and identity systems (exchange). Launched 14 March 2024."
+}

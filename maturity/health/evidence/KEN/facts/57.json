@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01-usaid-ken-hpn-cmlap-western-2016-hpn---si-cmlap-i-western",
+  "facts": [],
+  "systems": [
+    {"system": "health management information system (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": "Western Kenya"},
+    {"system": "community health information systems", "country_label": "community health information systems", "class": "community", "platform": "", "owner": "", "tiers": "Western Kenya"}
+  ],
+  "note": "No fact: the deal record says a USAID grant (US$17,110,639 committed, 2016-2021, fully disbursed) supported strengthening the HMIS and community health information systems in Western Kenya, naming the HMIS without describing what it does, so it is unclassified."
+}

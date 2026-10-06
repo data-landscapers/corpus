@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-23-morocco-draft-law-52-26-digital-health-shared-record-unique-id",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Medias24 reports that the Government Council adopted draft law 52.26 (50 articles), which creates a shared medical record for every patient, to be filled by public and private professionals at each act or consultation, with implementing decrees due within 12 months of publication and connection within 24 months of the technical decree; the record is not yet in service and the adoption date is not given, so the report's month is used.", "as_of": "2026-07", "date_precision": "month", "system": "dossier médical partagé", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier médical partagé", "country_label": "dossier médical partagé", "class": "emr", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé, a public body under state tutelage with a board chaired by the head of government", "tiers": "planned for all public and private professionals and establishments; not in use"},
+    {"system": "système national intégré d'information sanitaire", "country_label": "système national intégré d'information sanitaire, with its central platform", "class": "exchange", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé", "tiers": "planned; establishments to connect their own systems within 24 months of the decree"},
+    {"system": "identifiant national de santé", "country_label": "identifiant national de santé", "class": "exchange", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé, which issues it", "tiers": "planned for every person receiving or likely to receive care"},
+    {"system": "système d'information hospitalier public unifié", "country_label": "système d'information hospitalier public unifié (article 20)", "class": "", "platform": "", "owner": "each groupement sanitaire territorial supervises its own", "tiers": "planned for public hospitals; what it holds is not described"}
+  ],
+  "note": "Account of a bill adopted by the Government Council and not yet published in the Bulletin officiel: every component is planned, none is reported in use."
+}

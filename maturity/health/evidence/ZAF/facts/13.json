@@ -1,0 +1,56 @@
+{
+  "slug": "2026-05-14-free-state-health-emr-primary-health-care-award",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "SAnews reports that the Free State Department of Health deployed the Electronic Medical Record for Primary Health Care and says it will continue to scale and optimise it, the department's head crediting its own clinicians, nurses, managers and ICT staff together with partners; no funding source is stated.",
+      "as_of": "2026-05-14",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) for Primary Health Care",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "The Free State Department of Health describes its Electronic Medical Record as deployed for primary health care across the province and as improving continuity across levels of care; it gives no number of facilities, and says the next phase is to reach every facility.",
+      "as_of": "2026-05-14",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) for Primary Health Care",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The Free State Department of Health's statement on its primary health care Electronic Medical Record gives no count or share of clinics using it, saying only that the rollout will be intensified so that improvements are felt in every facility.",
+      "as_of": "2026-05-14",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) for Primary Health Care",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Free State Department of Health won the Public Sector Digital Innovator Award at the Africa Tech Week Awards 2026 for deploying the Electronic Medical Record for Primary Health Care, and its MEC said the rollout would be intensified, with training, change management, connectivity, cybersecurity and interoperability named as the next phase.",
+      "as_of": "2026-05-14",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) for Primary Health Care",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Record (EMR) for Primary Health Care",
+      "country_label": "Electronic Medical Record (EMR) for Primary Health Care",
+      "class": "emr",
+      "platform": "",
+      "owner": "Free State Department of Health (provincial)",
+      "tiers": "primary health care facilities, Free State province"
+    }
+  ],
+  "note": ""
+}

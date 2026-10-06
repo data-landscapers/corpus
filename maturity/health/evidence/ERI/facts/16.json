@@ -1,0 +1,23 @@
+{
+  "slug": "2021-03-15-who-score-eritrea-assessment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "aggregated routine health information system (routine facility reporting system)",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    },
+    {
+      "system": "patient-level systems",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "WHO SCORE summary on 2013-2018 data, updated 15 March 2021. The captured body gives headings only; the record's note reports interoperability rated 'Not there', patient-level systems not interoperable with the aggregated routine system and no national unique patient identifier. That is exchange evidence, not captured verbatim, and gives no HMIS or EMR fact."
+}

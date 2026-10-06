@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review states that rural primary clinics in Zambia record on paper registers and tally sheets, aggregate monthly on paper reports and submit them to district offices for entry into DHIS2, the national HMIS platform, citing Health Policy and Planning 2023; the review gives no date for the position, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:877", "fact": "The review states SmartCare Pro had been rolled out to 877 facilities of 3,540 total as of 2025, citing the Global Fund's Zambia digital health case study, and that most rural clinics lack computers, reliable power and internet and remain paper-based; the count is of all health facilities, not primary clinics alone.", "as_of": "2025", "date_precision": "year", "system": "SmartCare Pro", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "the national HMIS platform", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district offices from rural clinics' monthly paper reports"},
+    {"system": "SmartCare Pro", "country_label": "SmartCare / SmartCare Pro (EHR)", "class": "emr", "platform": "", "owner": "", "tiers": "877 of 3,540 facilities (2025); limited SmartCare in select rural antenatal sites"},
+    {"system": "CHIP", "country_label": "CHIP", "class": "community", "platform": "", "owner": "", "tiers": "pilot for community health workers (2025)"}
+  ],
+  "note": "The passage's own header marks the country rows as an AI-assisted compilation, the author's analysis rather than sourced fact; each fact above names the primary the row cites."
+}

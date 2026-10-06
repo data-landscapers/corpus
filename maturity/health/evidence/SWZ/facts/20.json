@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-26-eswatini-launches-cbhis",
+  "facts": [],
+  "systems": [
+    {"system": "Community-Based Health Information System (CBHIS)", "country_label": "CBHIS", "class": "community", "platform": "offline, mobile-first application built by IHM Southern Africa, linked to the Eswatini Population Register", "owner": "Ministry of Health (HMIS Unit and Community-Based Health Program), funded by the World Bank Human Capital Development Project, with UNICEF", "tiers": "Rural Health Motivators at community level; piloted in Mpolonjeni Constituency, Lubombo; launched 26 September 2025 with scaling to all regions to follow; interoperable with the HIE and CMIS"},
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Health Information Exchange (HIE)", "country_label": "HIE", "class": "exchange", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The document is about the launch of CBHIS, a community-class system, on 26 September 2025; it says CBHIS is interoperable with CMIS (bearing on the community-integrated flag) but names CMIS without saying what it does, and states nothing about an HMIS or EMR."
+}

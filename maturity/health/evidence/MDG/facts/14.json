@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-07-mtomady-dhis2-interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2, the national health data system", "class": "", "platform": "DHIS2", "owner": "Ministry of Public Health (DEPSI named as the directorate thanked)", "tiers": "not stated"},
+    {"system": "mTOMADY", "country_label": "mTOMADY platform", "class": "", "platform": "mTOMADY", "owner": "mTOMADY (vendor)", "tiers": "not stated; announced as interoperable with DHIS2 on 7 October 2025"}
+  ],
+  "note": "The post says only that mTOMADY is now interoperable with DHIS2, 'the national health data system used by the Ministry of Public Health'; it describes neither what DHIS2 reports nor what mTOMADY records or exchanges, so both are unclassified and no fact is taken."
+}

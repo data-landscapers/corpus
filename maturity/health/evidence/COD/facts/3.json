@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-jmir-basivikidi-one-digital-health-fair-drc",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (District Health Information Software 2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated; interviewees in Kinshasa describe mandatory institutional use for reporting"},
+    {"system": "Electronic medical records (unnamed)", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": "not stated; one Kinshasa physician says all patients' files are entered in the computer, while some services refuse to digitise theirs"}
+  ],
+  "note": "Qualitative study of 22 interviews in Kinshasa, 10-25 November 2025. It states that data is still collected by hand on paper before entry into DHIS2 (paper-digital double entry) and that electronic records are in use alongside paper, but gives no tier, no level at which entry happens, no facility count and no owner, so nothing fits an aspect's closed values. Names PNDIS II (2020-2024) as the national health informatics plan without saying it is current."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The author's 54-country review states that rural primary clinics record on paper registers and forms and that the data is manually aggregated and transcribed into DHIS2 at district or regional level for national reporting; no date is given, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The author's review states that rural primary clinics predominantly record patient data on paper registers and structured forms and that point-of-care recording remains paper-based even where Smart Paper Technology is used, with no evidence that a majority of rural clinics record digitally on site; no date is given, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers (no electronic patient record named)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "HMIS/DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "data entered at district or regional level from clinics' paper"},
+    {"system": "Smart Paper Technology (SPT)", "country_label": "Smart Paper Technology", "class": "tracker", "platform": "Smart Paper Technology, synchronised to DHIS2", "owner": "", "tiers": "scaled nationally for the Expanded Programme on Immunization; piloted in urban facilities such as Bundung Maternal and Child Hospital"},
+    {"system": "TB e-Tracker", "country_label": "TB e-Tracker", "class": "tracker", "platform": "", "owner": "", "tiers": "limited pilots in some rural sites"}
+  ],
+  "note": "Passages file; the Gambia clinic row is the author's AI-assisted compilation, not a primary source. The school, police and registry rows carry no health-system fact (the registry row mentions eCRVS registration through health facilities with satellite internet, which is civil registration)."
+}

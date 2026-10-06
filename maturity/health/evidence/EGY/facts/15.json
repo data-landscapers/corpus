@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-27 Egypt launches DHIS2 in its national health information system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2, as part of the national health information system",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Population, with UNICEF Egypt, the HISP Centre (University of Oslo), HISP MENA and the Royal Norwegian Embassy",
+      "tiers": "First-year use at 189 sites for Gaza evacuees and 57 TB centres; tiers not stated"
+    }
+  ],
+  "note": "No fact: the document describes DHIS2 only by programme-specific, patient-level uses (180,000+ consultations for Gaza evacuees at 189 sites, nutrition screening of about 20,000 Sudanese refugee children, school-health screening of 100,000+ children, TB follow-up of 7,500 cases at 57 centres), not by routine aggregate facility reporting, so it is classed tracker by what it does. For the parent: it states the MoHP officially launched DHIS2 at a meeting on 18 January 2026, framed as national ownership of health data and supporting the National Digital Health Strategic Priorities 2025-2029; if the parent reads this as hmis, those are governance (owner:ministry, plan:current) and last12 (advancing) statements."
+}

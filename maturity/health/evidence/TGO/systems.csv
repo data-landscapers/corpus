@@ -1,0 +1,32 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,plateforme nationale DHIS2,plateforme nationale DHIS2,hmis,DHIS2,"Direction nationale du système d'information sanitaire et de l'informatique, with HISP WCA support",not stated; the eRDQA app was tested at two regional hospital centres and three health centres,2026-08-04-dhis2-hisp-highlights-juillet-2026-erdqa-togo
+TGO,eRDQA,eRDQA,,DHIS2 Android application,"Direction nationale du système d'information sanitaire et de l'informatique, with HISP WCA support","field-tested at the regional hospital centres of Sokodé and Dapaong and the health centres of Kadambara, Ataloté and Kpessidè",2026-08-04-dhis2-hisp-highlights-juillet-2026-erdqa-togo
+TGO,DHIS2 (national HMIS),Health Management Information System (HMIS),hmis,DHIS2,"Ministry of Health, with technical support from HISP WCA",not stated; analysis outputs at district level,2026-08-04-dhis2-togo-climate-health-country-profile
+TGO,national malaria repository,national malaria repository,single-function,DHIS2,"National Malaria Control Programme, Ministry of Health",not stated,2026-08-04-dhis2-togo-climate-health-country-profile
+TGO,DHIS2 for infectious disease surveillance and non-communicable disease monitoring,,single-function,DHIS2,Ministry of Health,not stated,2026-08-04-dhis2-togo-climate-health-country-profile
+TGO,DHIS2-based One Health platform,One Health platform,,DHIS2,"Ministry of Health, piloted with the Ministry of Agriculture and Livestock and the Ministry of Environment",pilot,2026-08-04-dhis2-togo-climate-health-country-profile
+TGO,National DHIS2,National DHIS2,hmis,DHIS2,,aggregate HMIS and IDSR; not at rural clinics,2026-03-31 Africa we have a data problem
+TGO,Argus,Argus,single-function,"Argus app, SMS on dedicated phones",,"facilities send weekly aggregated surveillance counts for 15 diseases, tallied from paper registers",2026-03-31 Africa we have a data problem
+TGO,DokitaEyes,DokitaEyes,emr,DokitaEyes app,private/NGO-led,230 facilities,2026-03-31 Africa we have a data problem
+TGO,National Digital Health Center,National Digital Health Center,,,,,2026-03-31 Africa we have a data problem
+TGO,Electronic Health Record (EHR) system,EHR,emr,,"MoH-UHC, with DSNISI support","planned pilot in a representative sample of primary, secondary and tertiary facilities and laboratories; none in place at December 2025",2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,DHIS2,District Health Information Software 2 (DHIS2),hmis,DHIS2,"DSNISI, MoH-UHC","data source for primary health care visits, deliveries, immunisation and tracer drug availability; tiers of entry not stated",2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,Digital Vaccine Passports through DHIS2,Digital Vaccine Passports,tracker,DHIS2,,,2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,SIAMU platform,SIAMU,,,MoH-UHC,"connected with INAM, CNSS, EHR and DHIS2 in the planned architecture",2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,"Patient, Provider, Facility and Product Registries",,exchange,,,part of the national digital health and insurance interoperability architecture,2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,National Data Warehouse,National Data Warehouse,,,,,2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,Wezou digital registration system,Wezou,,,Ministry of Health,registration of pregnant women under the free maternal care programme,2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,School Assur digital registration system,School Assur,,,,registration of school-aged children,2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,LMIS,Logistics Management Information System,,,,,2025-12-24-togo-essential-quality-health-services-uhc-additional-financing
+TGO,SanteComTogo,"SanteComTogo, national electronic Community Health Information System",community,"Community Health Toolkit (CHT), designed by Medic",Ministry of Health; designed and deployed by Medic,"community health workers: launched March 2024 as a pilot in the Maritime Region, used by over 1,000 community health workers across six districts; national expansion planned",2024-01-01-how-santecomtogo-is-transforming-community-health-insights-from-the-field
+TGO,DHIS2,"DHIS2, plateforme du SNIS",hmis,DHIS2,"Ministère de la Santé, DSNISI","all health facilities from 2018: USP, EPS (private), CHP, CHR, CHU; validated by DPS, DRS and DSNISI",2022-04-01-togo-manuel-operationnel-procedures-snis-2e-edition
+TGO,RMA de l'ASC saisi dans le DHIS2,RMA de l'ASC,community,DHIS2,"Ministère de la Santé, DSNISI",community health workers (ASC) key their own monthly report into DHIS2 by the 25th; the reference USP or CHP verifies and validates it in DHIS2,2022-04-01-togo-manuel-operationnel-procedures-snis-2e-edition
+TGO,dispositif digital national de gestion (assurance maladie universelle),dispositif digital national de gestion,,,"Organisme de gestion de l'AMU (INAM transitionally, art. 108)",,2021-10-18-togo-loi-2021-022-assurance-maladie-universelle
+TGO,dossier médical digital et centralisé,dossier médical unique,emr,,,planned; none stated,2021-04-01-togo-mentd-strategie-togo-digital-2025
+TGO,carnet de vaccination numérique,carnet de vaccination numérique,tracker,,,planned; none stated,2021-04-01-togo-mentd-strategie-togo-digital-2025
+TGO,Suivi sanitaire et vaccinal (couple mère - enfant),Suivi sanitaire et vaccinal (couple mère - enfant),tracker,,,planned service to digitise; none stated,2021-04-01-togo-mentd-strategie-togo-digital-2025
+TGO,Application de prévention des complications liées aux grossesses,,,,,listed service; none stated,2021-04-01-togo-mentd-strategie-togo-digital-2025
+TGO,DHIS2,national HMIS,hmis,DHIS2,,data entry down to facility level (for EPI data),2020-01-01-togo-immunization-package
+TGO,DHIS2 immunization package,PEV-Routine,single-function,DHIS2,EPI team; Gavi-supported,facility level,2020-01-01-togo-immunization-package
+TGO,DVD-MT,,single-function,DVD-MT,EPI team,central team only; replaced by DHIS2,2020-01-01-togo-immunization-package
+TGO,système national d'information sanitaire,système national d'information sanitaire (SNIS),,,,,2026-03-20-inseed-lancement-edst-iv

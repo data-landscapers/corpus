@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-08-liberia-moh-emr-readiness-enumerator-training",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Health, through its National Health Intelligence Center with SAND Technologies and TRIBE, launched enumerator training on 8 May 2026 for a nationwide Connected Facilities / EMR Readiness Assessment of selected hospitals and health centers, running 8 to 20 May 2026, ahead of a planned implementation of electronic medical records across health facilities.", "as_of": "2026-05-08", "date_precision": "day", "system": "Electronic Medical Records (EMR), planned national implementation", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The article says the planned nationwide EMR implementation and its readiness assessment are led by the Ministry of Health through the National Health Intelligence Center (NHIC), in partnership with SAND Technologies and TRIBE; the assessment is to guide the government's long-term EMR strategy, and no existing plan or funding source is stated.", "as_of": "2026-05-08", "date_precision": "day", "system": "Electronic Medical Records (EMR), planned national implementation", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR), planned national implementation", "country_label": "Electronic Medical Records (EMR)", "class": "emr", "platform": "", "owner": "Ministry of Health, National Health Intelligence Center (NHIC), with SAND Technologies and TRIBE", "tiers": "planned across health facilities nationwide; readiness assessed in selected hospitals and health centers"}
+  ],
+  "note": ""
+}

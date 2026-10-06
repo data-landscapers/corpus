@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-sierra-leone-national-data-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System 2 (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health and Sanitation", "tiers": "not stated"}
+  ],
+  "note": "The strategy (January 2023) says only that the Ministry of Health and Sanitation uses web-based DHIS2 to collect, manage, visualise and analyse health data, and that it was piloted in Sierra Leone. It does not describe routine facility reporting, so DHIS2 is unclassified here and gives no fact; no tier, place of entry or facility count is stated."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "A literature review (Koumamba et al., BMC Med Inform Decis Mak) states that South Africa validated a standard model and built a national data warehouse on the DHIS software, which is reported to at all levels of the health pyramid and runs in parallel with other existing subsystems; the review gives no date for this and names no tiers individually, so the date is its publication date.", "as_of": "2021-08-04", "date_precision": "day", "system": "District Health Information System (DHIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "The review states that 11 of the 12 African countries it studied, South Africa among the 12, had no national health information strategy and worked to strategies set under specific donor-funded projects, Malawi being the only exception; it gives no date, so the date is its publication date.", "as_of": "2021-08-04", "date_precision": "day", "system": "District Health Information System (DHIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS)", "country_label": "DHIS data warehouse", "class": "hmis", "platform": "DHIS", "owner": "", "tiers": "all levels of the health pyramid, as the review puts it"}
+  ],
+  "note": "Review of 14 articles (searched Feb-Jul 2019) covering 12 countries; its South African content is one paragraph drawn from a 2011 comparison, and the governance statement is made of the 11 countries collectively, not of South Africa by name."
+}

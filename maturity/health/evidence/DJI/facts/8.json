@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-25-dfn-ali-sabieh-regional-hospital-fibre-lanation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Djibouti Fondations Numériques (DFN) fibre connection",
+      "country_label": "DFN",
+      "class": "enabling",
+      "platform": "optical fibre, high-speed internal network",
+      "owner": "Ministère de la Communication chargé des Postes et des Télécommunications; financed by the World Bank",
+      "tiers": "Ali Sabieh regional hospital (Dr. Ahmed Absieh Warsama), linked to the country's other hospital centres; more than 200 km of fibre connecting hospital centres in Djibouti city and the interior regions"
+    },
+    {
+      "system": "new computer system at Ali Sabieh regional hospital (unnamed)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Ali Sabieh regional hospital"
+    }
+  ],
+  "note": "No fact: the article (visit of 24 June 2025) is about connectivity. The hospital's director says a patient's medical file is now shared instantly with specialists at Peltier hospital where it took up to a day, and staff have quick access to patient files, but the article does not say what the hospital's computer system does or that it holds the clinical record, so it is unclassified. Captured text is truncated."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-20-sierra-leone-moh-launches-health-information-hub",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information Hub", "country_label": "Health Information Hub", "class": "exchange", "platform": "", "owner": "Ministry of Health, with partners", "tiers": "used by ministry staff; integrates data from multiple platforms including DHIS2, with facility, human resources, supply chain and referral data, twelve real-time dashboards and a 3D geospatial map; launched 20 January 2026"},
+    {"system": "District Health Information System (DHIS2)", "country_label": "District Health Information System (DHIS2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The Hub is an integration and dashboard layer over existing platforms, logged as exchange. DHIS2 is named as one source with no description of what it reports, so it is unclassified and gives no HMIS fact. The Minister's statement that systems do not always communicate and data arrives late or incomplete is exchange evidence."
+}

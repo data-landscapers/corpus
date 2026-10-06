@@ -1,0 +1,46 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The essay's country table (the author's AI-assisted compilation, citing the World Bank PHC assessment) states that health posts submit paper summaries to centres, where aggregate data is entered into DHIS2 for national reporting, with DHIS2 used for upward aggregate reporting from district level; no date is given for the practice, so the document's published date is used.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The essay's country table (the author's AI-assisted compilation, citing the World Bank PHC assessment) states that rural primary clinics record patient data predominantly on paper, in handwritten registers and documents patients carry between visits, with no electronic medical record or point-of-care digital system at rural facilities; no date is given, so the document's published date is used.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "electronic medical records (none named)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The essay's country table states there is no EMR at rural facilities and no evidence of majority rural adoption by 2026, any pilots being isolated; it gives no count or denominator, and the document's published date is used.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "electronic medical records (none named)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "Aggregate data entered at centres from health posts' paper summaries; reporting upward from district level"
+    }
+  ],
+  "note": "Passages only. The document is flagged in its own header as an AI-assisted compilation to be treated as the author's analysis, not sourced fact; its Mauritania clinic row also mentions a national Digital Health Strategy (2023+) aiming at shared records, described as aspirational, which names no system and gives no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "A literature review by Koumamba et al. of articles published 2005 to 2019 finds that 11 of the 12 African countries it covers, Rwanda among them and Malawi the only exception, had no national health information system strategy, only strategies run under a specific project; no date is given for Rwanda, so the review's publication date is used.", "as_of": "2021-08-04", "date_precision": "day", "system": "DHIS-based health information system", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS-based health information system", "country_label": "", "class": "hmis", "platform": "DHIS", "owner": "", "tiers": "registers standardised and computerised to collect care-delivery data from health facilities, with International Health Partnership support (citing a 2013 study)"}
+  ],
+  "note": ""
+}

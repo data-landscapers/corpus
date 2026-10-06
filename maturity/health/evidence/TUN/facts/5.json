@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-03-tunisie-essaha-aziza-digitalisation-sisspl",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The Essaha Aziza programme's results page states that its digitalisation mission for first-line care structures developed the national computerised medical record (DMI) and monitored its deployment on pilot sites in Nabeul; no number of sites is given and the page is undated, so the record's retrieval-based published date of 3 September 2026 is used.",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "Dossier Médical Informatisé (DMI) national / SISSPL",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The national DMI for first-line care was developed under the Essaha Aziza programme, which the record's publisher line gives as a Ministry of Health and European Union programme, with training of field teams and developers delivered by the company Elligy; the page body states no amount and no domestic budget line, and is undated (published date of 3 September 2026 used).",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "Dossier Médical Informatisé (DMI) national / SISSPL",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SISSPL (Système d'Information des Services de Soins de Première Ligne)",
+      "country_label": "SISSPL; Dossier Médical Informatisé (DMI) national",
+      "class": "emr",
+      "platform": "bespoke; documentation covers architecture, security policy, continuity plan, professionals directory and a decision-support (reporting) system",
+      "owner": "Essaha Aziza programme (Ministry of Health / European Union); training by Elligy",
+      "tiers": "first-line care structures (SSPL); pilot sites in Nabeul"
+    }
+  ],
+  "note": "The EU's part rests on the record's publisher line and note, not on the page body, which names only the programme. The page has no date of its own."
+}

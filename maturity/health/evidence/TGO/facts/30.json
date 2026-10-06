@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-18-togo-loi-2021-022-assurance-maladie-universelle",
+  "facts": [],
+  "systems": [
+    {"system": "dispositif digital national de gestion (assurance maladie universelle)", "country_label": "dispositif digital national de gestion", "class": "", "platform": "", "owner": "Organisme de gestion de l'AMU (INAM transitionally, art. 108)", "tiers": ""}
+  ],
+  "note": "The universal health insurance law states nothing about an HMIS or an EMR: its one mention of the dossier médical (art. 36) gives the insurer's medical and pharmacist advisers a right of access to a beneficiary's medical file, without saying what form the file takes; art. 4 allows enrolment and care of the insured through a national digital management system to be set up progressively, an insurance administration system outside the study's classes."
+}

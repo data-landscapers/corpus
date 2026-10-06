@@ -1,0 +1,56 @@
+{
+  "slug": "2025-11-25-dhis2-prueba-piloto-baney-anisok-finalizada",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The health ministry (MINSABSIS) states that the DHIS2 pilot was run during June 2025 in two health districts, Baney (Región Insular) and Añisok (Región Continental), with 104 health professionals trained; no count of facilities is given.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministerio de Sanidad, Bienestar Social e Infraestructuras Sanitarias itself announces the conclusion and systematisation of the DHIS2 pilot and presents the platform as its tool for the national health system.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The ministry states the pilot ran under a primary-care agreement financed by the Spanish cooperation agency AECID, with technical support from the Fundación Religiosa para la Salud; no domestic funding is mentioned.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 25 November 2025 the ministry declared the DHIS2 pilot in Baney and Añisok successfully completed and said it would be the reference for a national expansion of DHIS2 foreseen for 2026.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "plataforma DHIS2; Sistema de Información Sanitaria",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "MINSABSIS (health ministry); financed by AECID, technical support from Fundación Religiosa para la Salud",
+      "tiers": "pilot in the health districts of Baney and Añisok (primary health care); tiers not named"
+    }
+  ],
+  "note": "Classed hmis on the description of DHIS2 as the primary-care health information system producing information for planning and surveillance; the text does not spell out aggregate reporting of patients treated, so the parent may prefer to leave it unclassified."
+}

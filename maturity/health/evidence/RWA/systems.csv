@@ -1,0 +1,73 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,electronic medical record,electronic medical record,emr,,Ministry of Health,"clinical settings, tiers not stated",2026-10-01-researchers-explain-why-africa-struggles-to-share-health-data
+RWA,community health worker electronic medical record,electronic medical record used by community health workers,community,,Ministry of Health,community health workers; records all households; integrated with the National Health Intelligence Centre,2026-10-01-researchers-explain-why-africa-struggles-to-share-health-data
+RWA,National Health Intelligence Centre,National Health Intelligence Centre,,,,,2026-10-01-researchers-explain-why-africa-struggles-to-share-health-data
+RWA,Irembo Medi,Irembo Medi,,,Irembo,patient-facing; tiers not stated,2026-09-30-rwa-ktpress-five-years-on-digital-health-irembo-medi
+RWA,National Health Intelligence Centre,National Health Intelligence Centre,,,,,2026-09-30-rwa-ktpress-five-years-on-digital-health-irembo-medi
+RWA,health information exchange (HIE) systems,Rwanda's HIE systems,exchange,,,sharing patient information between public healthcare sectors; tiers not stated,2026-08-14-ssa-health-data-governance-literature-review
+RWA,Health Management Information System (HMIS),HMIS,hmis,,Rwanda Biomedical Center holds the national database for immunisation indicators,primary health facilities (520); routine aggregate reports,2026-07-30-implementation-strategies-to-promote-e-tracker-use-in-childhood-immunization-rwanda
+RWA,e-Tracker,e-Tracker (electronic immunization registry),tracker,DHIS2 Tracker,Ministry of Health; National Immunization Program / Expanded Program on Immunization at the Rwanda Biomedical Center,"more than 500 public health facilities, nationwide; primary health facilities; data entered by immunisation nurses, in some facilities keyed from paper afterwards by a data manager (2023)",2026-07-30-implementation-strategies-to-promote-e-tracker-use-in-childhood-immunization-rwanda
+RWA,Civil Registration and Vital Statistics (CRVS) system,CRVS,,,,integrated with the e-Tracker in early 2022,2026-07-30-implementation-strategies-to-promote-e-tracker-use-in-childhood-immunization-rwanda
+RWA,Integrated Health Management Information System,Integrated Health Management Information System (King Faisal Hospital Rwanda),emr,,"King Faisal Hospital Rwanda, with the ministries of health and ICT; Tony Blair Institute advised on design",one referral hospital in Kigali,2026-07-23-tbi-rwanda-health-data
+RWA,e-Buzima,e-Buzima,emr,,government,to be rolled out to all hospitals and health centres; no deployment figure stated,2026-07-23-tbi-rwanda-health-data
+RWA,National Health Intelligence Center (NHIC),National Health Intelligence Center,exchange,data warehouse,Ministry of Health,"national hub integrating data from hospitals, health centres, supply chains and workforce management; launched April 2025",2026-07-23-tbi-rwanda-health-data
+RWA,Health Information Management System,Health Information Management System,,,,not stated; named as one of the databases the integrated civil registration system links to,2026-06-03-rwanda-integrated-civil-registration-system-launch
+RWA,National Centralized and Integrated CRVS,National Centralized and Integrated CRVS,,,National Identification Agency,births and deaths registered at health facilities; community events at cell level,2026-06-03-rwanda-integrated-civil-registration-system-launch
+RWA,interoperable digital health systems,,,,,"a large proportion of facilities, unquantified",2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa
+RWA,mobile-based tools used by community health workers,,community,,,community health workers; feed centralised dashboards,2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa
+RWA,eBuzima EMR,eBuzima,emr,"centralised, web-based; platform not named",Ministry of Health (system at ebuzima.moh.gov.rw); presented by Rwanda Biomedical Centre,"majority of public health facilities (8 April 2026), tiers not broken down; HIV key-population and PrEP modules in 1 pilot site in Kigali",2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,OpenMRS,OpenMRS (legacy EMR),emr,OpenMRS,often donor- or project-driven,often single-facility or hospital-specific,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,OpenClinic,OpenClinic (legacy EMR),emr,OpenClinic,often donor- or project-driven,often single-facility or hospital-specific,2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,DHIS2 HIV CBS,"DHIS2 (HIV case-based surveillance, with Tracker)",tracker,DHIS2 Tracker,,"not stated; programme-level data, individual-level with Tracker",2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026
+RWA,OpenMRS EMR,OpenMRS EMR modules,emr,OpenMRS,,nearly 400 of ~500 health centres (2018 baseline); primarily HIV/TB but expanding; local point-of-care installations,2026-03-31 Africa we have a data problem
+RWA,eBuzima,eBuzima (integrated EMR),emr,,"Ministry of Health, with NGO partners such as Health Builders","health centres in rural districts (Rwamagana, Rulindo), national rollout ongoing 2025",2026-03-31 Africa we have a data problem
+RWA,DHIS2 HMIS,HMIS,hmis,DHIS2,,collects aggregates nationwide since 2012; tiers not stated,2026-03-31 Africa we have a data problem
+RWA,DHIS2,DHIS2,hmis,DHIS2,,"700+ facilities, tiers not stated; adopted 2012; also used to track COVID vaccination and tests with national-ID linkage",2026-01-20 Building Open Digital States Country Case Studies on the Impact of DPGs for DPI
+RWA,Rwanda Health Management Information System (R-HMIS),R-HMIS / HMIS,hmis,,Ministry of Health,countrywide; tiers not stated,2026-01-01-rwanda-vital-statistics-report-2025
+RWA,National Centralized and Integrated Civil Registration and Vital Statistics (NCI-CRVS) system,NCI-CRVS,,,National Identification Agency,"hospitals, health centres, clinics and polyclinics, public and private, plus cells, sectors, districts and embassies; launched 10 August 2020; linked to R-HMIS",2026-01-01-rwanda-vital-statistics-report-2025
+RWA,DHIS2,DHIS2,hmis,DHIS2,,not stated,2026-01-01 Digital Public Goods Alliance
+RWA,e-Buzima,e-Buzima / eBuzima (national electronic medical record system),emr,,Government of Rwanda,to be rolled out across all health facilities over 2026-2030; current coverage not stated,2025-12-05-afghs-mou-rwanda
+RWA,OpenMRS,open MRS,emr,OpenMRS,,not stated; its data to be integrated with eBuzima,2025-12-05-afghs-mou-rwanda
+RWA,pharmacy management system,pharmacy management system,single-function,,,not stated; to be integrated with eBuzima,2025-12-05-afghs-mou-rwanda
+RWA,national laboratory information management systems,laboratory information management systems,single-function,,Government of Rwanda,"national and regional laboratories, to be fully operational within the term",2025-12-05-afghs-mou-rwanda
+RWA,national health commodity inventory management system,ERP/SAP health commodity inventory management system,single-function,SAP ERP,Government of Rwanda,to be rolled out across the government-run commodity supply chain,2025-12-05-afghs-mou-rwanda
+RWA,DHIS2 national health data warehouse,national health data warehouse,,DHIS2,Government of Rwanda,not stated,2025-12-05-afghs-mou-rwanda
+RWA,health information exchange,case reporting and data exchange (health information exchange),exchange,,,not stated; US support planned,2025-12-05-afghs-mou-rwanda
+RWA,National Health Intelligence Centre,National Health Intelligence Centre,,,,"not stated; described only as improving data collection, coordination and analysis in the health sector",2025-10-13-dpi-health-africa-healthtech-summit-2025
+RWA,e-Ubuzima,e-Ubuzima,emr,locally built; software not named,Ministry of Health,"deployed in 15 districts; meant for all public health facilities, including the 520 health centres",2025-04-24-rwanda-e-ubuzima-rollout
+RWA,virtual hospital,virtual hospital,enabling,telemedicine,Government of Rwanda,planned; remote consultation from a central facility in Kigali,2025-04-24-rwanda-e-ubuzima-rollout
+RWA,DHIS2 (Marburg outbreak response),,single-function,DHIS2,,,2025-04-03 Now is the time to invest in locally-owned health data systems
+RWA,Health Intelligence Center (HIC),Health Intelligence Center,exchange,six-layer data platform with a data lakehouse; software not named,Ministry of Health,consolidates data from community health workers at village level up to national referral hospitals,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,DHIS2 (Health Management Information System),Health Management Information System,hmis,DHIS2,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,eBuzima,eBuzima,emr,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,cEMR,cEMR,emr,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,eLMIS (Logistics Management),eLMIS,single-function,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,WelTel (population health tracking),WelTel,,WelTel,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Health Workforce Management System (HWMS),HWMS,,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Emergency Medical Services,,,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Civil Registration and Vital Statistics (CRVS),CRVS,,,,,2025-04-03-rwanda-health-intelligence-center-launch
+RWA,Rwanda Health Management Information System (R-HMIS),R-HMIS,hmis,,Ministry of Health,countrywide,2025-04-01-rwanda-vital-statistics-report-2024
+RWA,DHIS2 mortality module,,,DHIS2,,,2025-04-01-rwanda-vital-statistics-report-2024
+RWA,National Centralized and Integrated Civil Registration and Vital Statistics (NCI-CRVS) system,NCI-CRVS,,,,"hospitals, health centres, clinics and polyclinics, public and private, with cells, sectors, districts and embassies; launched in health facilities on 10 August 2020",2025-04-01-rwanda-vital-statistics-report-2024
+RWA,Verbal Autopsy,,,,,community cause of death,2025-04-01-rwanda-vital-statistics-report-2024
+RWA,OpenMRS,OpenMRS,emr,OpenMRS,,35 of 42 district hospitals (2 more with OpenClinics); 39 of 71 EMR-using health centres alone and 6 more beside another system (2023),2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,OpenClinics,OpenClinics,emr,OpenClinic,,"4 district hospitals alone, 2 with OpenMRS (2023)",2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,e-EHRIS Gitwe,Electronic Easy Health Record Information System,emr,,,1 district hospital (2023),2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,Medisoft,Medisoft,emr,,,"9 health centres alone, 5 with OpenMRS (2023)",2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,Care system,Care system,emr,,,"9 health centres alone, 1 with OpenMRS (2023)",2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,IHMS (Iwacu hub Medical System),IHMS,emr,,,5 health centres (2023),2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,EASY CARE,EASY CARE,emr,,,2 health centres (2023),2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,Dirsoft.net,Dirsoft.net,emr,,,1 health centre (2023),2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,EMR for tuberculosis and HIV care (2005),,tracker,OpenMRS,Rwanda with Partners in Health,16 health centres and clinics at introduction in 2005,2024-08-26-assessment-electronic-medical-records-rwanda
+RWA,Health Monitoring Information System (HMIS),HMIS,,,,,2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry
+RWA,DHIS2 national routine Health Management Information System,HMIS,hmis,DHIS2,,"national since 2012; holds aggregate and individual-level (Tracker) data, with monthly aggregate reports",2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda
+RWA,DHIS2 Electronic Immunization Registry (EIR),EIR,tracker,DHIS2 Tracker,"national EPI Program, supported by HISP Rwanda","all public and private health facilities offering routine vaccination, rolled out from 2019, with training down to cell level",2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda
+RWA,NCI-CRVS System,NCI-CRVS,,web-based application,"National Institute of Statistics of Rwanda with the Ministry of Local Government, the Ministry of Health and NIDA",births registered at the health facility; launched 2020,2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda
+RWA,CRVS-EIR integration,,exchange,custom script pushing registered newborns from CRVS to the DHIS2 EIR Tracker,"health authorities, supported by HISP Rwanda",configuration complete and validated as of April 2022,2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda
+RWA,DHIS-based health information system,,hmis,DHIS,,"registers standardised and computerised to collect care-delivery data from health facilities, with International Health Partnership support (citing a 2013 study)",2021-08-04 Health information systems in developing countries case of African countries
+RWA,eBuzima electronic health record,eBuzima,emr,,,more than two thirds of health centres,2026-09-28-linkedin-frieden-rwanda-death-notification-crvs
+RWA,national health intelligence center,national health intelligence center,exchange,,,national; analysts link death reports to other outbreak signals,2026-09-28-linkedin-frieden-rwanda-death-notification-crvs
+RWA,phone-based community death notification,,,"basic phone, linked to the national ID database","Government of Rwanda, supported by Vital Strategies","village leaders, nationwide from spring of the year of writing; about 10,000 community deaths logged in its first months",2026-09-28-linkedin-frieden-rwanda-death-notification-crvs
+RWA,verbal autopsy,,,tablet-based structured interview,,"staff of the local administrative cell, for deaths at home",2026-09-28-linkedin-frieden-rwanda-death-notification-crvs
+RWA,Health Management Information System (HMIS),HMIS,,,,,2023-12-01-rwanda-crvs-standard-operating-procedures
+RWA,National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS),NCI-CRVS,,,,health facilities register births and deaths occurring in them,2023-12-01-rwanda-crvs-standard-operating-procedures

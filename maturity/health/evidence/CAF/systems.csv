@@ -1,0 +1,17 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CAF,DHIS2 (SNIS),Système National d'Information Sanitaire (SNIS),hmis,DHIS2,Ministère de la Santé et de la Population,"all 35 health districts; central, regional and district levels named as SNIS actors",2026-05-26-dhis2-community-snis-reconstruction-rca
+CAF,DHIS2,HMIS,hmis,DHIS2,,piloted only in Bangui; no routine use in rural health centres or posts,2026-03-31 Africa we have a data problem
+CAF,DHIS2-based immunization micro-planning,,single-function,DHIS2,donor-driven pilot (HISP Rwanda cited),isolated pilots,2026-03-31 Africa we have a data problem
+CAF,HISP EMR (e-SENI),e-SENI,emr,HISP EMR,"deployed by HISP Rwanda in partnership with the Ministry of Health and the Susan Buffett Foundation, under the SENI project",hospitals and health centres; number and level not stated,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car
+CAF,national health information systems powered by DHIS2,,hmis,DHIS2,,receives automated reporting from the EMR,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car
+CAF,DHIS2 vaccination microplanning,microplanification de la vaccination de routine (Programme Élargi de Vaccination),single-function,DHIS2,"Ministère de la Santé et de la Population, with technical support from HISP","health districts of Health Region No. 5 (workshops at Ndélé 2-5 March 2026 and Bria 7-11 March 2026); microplans drawn up for each health facility; coordination across district, regional and central levels",2026-03-12-vaccination-microplanning-digitalisation-hisprwanda
+CAF,DHIS2 (electronic routine health information system),,hmis,DHIS2,,"data offices at central and subnational levels, observed November 2022 to July 2024",2025-12-01-impulse-erhis-newborn-data-functionalities
+CAF,DHIS2,,,DHIS2,,,2025-11-30-worldbank-icr-redisse-iv-health-surveillance
+CAF,Integrated Disease Surveillance and Response (IDSR),,single-function,,,,2025-11-30-worldbank-icr-redisse-iv-health-surveillance
+CAF,"Early Warning, Alert and Response System (EWARS)",,single-function,,,,2025-11-30-worldbank-icr-redisse-iv-health-surveillance
+CAF,national HMIS (DHIS2),national HMIS,hmis,"DHIS2, gradually replacing the current HMIS",Ministry of Health and Population (MOH),five districts in and around Bangui as of appraisal; all 35 districts planned,2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad
+CAF,PBF portal,PBF digital portal / PBF database,single-function,,PBF National Technical Unit (CTN-FBP); a PBF portal manager sits in the project implementation unit,"runs in parallel to the national HMIS, using many of the same primary data collection tools; interoperability with DHIS2 planned",2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad
+CAF,Geo-Enabled Monitoring and Supervision (GEMS),,,,,,2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad
+CAF,Health Resources Availability Mapping System (HeRAMS),,,,,,2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad
+CAF,Gender-Based Violence Information Management System (GBVIMS),,,,,,2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad
+CAF,electronic surveillance reporting systems and epidemic outbreak alert system,,single-function,,,"planned under the project, with tablets for timely reporting",2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad

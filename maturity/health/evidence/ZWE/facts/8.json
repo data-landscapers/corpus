@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-15-zimbabwe-core-fhir-implementation-guide",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Zimbabwe Core FHIR Implementation Guide (ZWCore)",
+      "country_label": "Zimbabwe Core IG",
+      "class": "exchange",
+      "platform": "HL7 FHIR 4.0.1",
+      "owner": "MOH Zimbabwe (Ministry of Health and Child Care)",
+      "tiers": ""
+    },
+    {
+      "system": "Impilo EMR",
+      "country_label": "Impilo",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "A draft continuous-build interoperability guide (v0.1.0, 15 June 2026), stated to be for demonstration and practice only; it mentions the Impilo EMR only as the issuer of a Patient Health ID (PHID), with a provisional identifier namespace, and states nothing on tiers, place of entry or clinics."
+}

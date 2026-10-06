@@ -1,0 +1,16 @@
+{
+  "slug": "2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The World Bank's appraisal document of 18 September 2025 states that Côte d'Ivoire lacks a comprehensive, nationwide electronic health system, that paper-based records are stored locally with no centralised backup, and that the Ministry of Digital Transition confirmed the services the programme will digitalise, electronic medical records among them, are not currently active in the selected areas; the statement is undated, so the published date is used.", "as_of": "2025-09-18", "date_precision": "day", "system": "paper-based records", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's appraisal document of 18 September 2025 states that Phase 1 of RAPID-CI, an IDA credit of EUR 128.6 million (US$150 million equivalent), will support the rollout of an electronic patient records system (EPRS) across several levels of care as a follow-on to the PAGDS programme; it names no domestic budget line for the system.", "as_of": "2025-09-18", "date_precision": "day", "system": "electronic patient records system (EPRS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "electronic patient records system (EPRS)", "country_label": "electronic patient records system (EPRS)", "class": "emr", "platform": "", "owner": "", "tiers": "rollout across several levels of care to be supported by RAPID-CI Phase 1; not stated as in use"},
+    {"system": "Système d'Information Hospitalier (SIH)", "country_label": "Hospital Information System (Système d'Information Hospitalier, SIH/Santé CIV)", "class": "", "platform": "", "owner": "", "tiers": "2,289,948 files created for the SIH by the end of 2024; the document does not say it holds the clinical record or at which facilities"},
+    {"system": "Santé CIV", "country_label": "Santé CIV platform", "class": "", "platform": "", "owner": "", "tiers": "pilot digital service for online appointments and bookings; 11,000 files by the end of 2024"},
+    {"system": "SIGDEP", "country_label": "Système d'Information et de Gestion des Données Électroniques des Patients (SIGDEP)", "class": "tracker", "platform": "", "owner": "", "tiers": "electronic record management for people living with HIV"},
+    {"system": "OpenELIS", "country_label": "OpenELIS", "class": "single-function", "platform": "OpenELIS", "owner": "", "tiers": "laboratory data management software"},
+    {"system": "DHIS 2", "country_label": "DHIS 2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "named only as an essential data system to be given secure hosting"}
+  ],
+  "note": ""
+}

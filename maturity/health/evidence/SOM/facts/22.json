@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-01-sida-som-digital-health-2019-digital-health-somalia-2019-2026",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "Sida's IATI record shows a grant of SEK 45,000,000 (about US$4.79 million), committed in 2019 and running to 2026, to strengthen the national HMIS on DHIS2 in support of the Somali Ministry of Health; the full amount is shown as disbursed.", "as_of": "2019", "date_precision": "year", "system": "national health management information system (HMIS) using DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "national health management information system (HMIS) using DHIS2", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Somali Ministry of Health, supported by Sida", "tiers": ""}
+  ],
+  "note": "A deal record built from IATI, with a two-sentence description; the recipient organisation is blank in the source. The as_of is the commitment year; the grant period ends in 2026."
+}

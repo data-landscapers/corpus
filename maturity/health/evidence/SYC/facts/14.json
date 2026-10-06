@@ -1,0 +1,46 @@
+{
+  "slug": "2022-01-01-seychelles-nhsp-strategic-direction-six-data",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Ministry of Health's National Health Strategic Plan 2022-2026 states that health data capture is primarily paper-based, on a variety of often duplicating reporting tools, and that work begun in 2020 to implement an electronic health information system has stalled; the page gives no date for this position, so the document's published year is used.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Electronic Health Information System (eHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Health Strategic Plan 2022-2026 names the eHIS in Strategic Direction Six, with 'Implement eHIS' and building one integrated Health Information System for the ministry among its priority areas; no costing is given on the page, and the published year is used as the date.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Electronic Health Information System (eHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's own strategic plan presents the eHIS as the ministry's project, on its agenda for over a decade and to become one integrated Health Information System for the ministry; the published year is used as the date.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Electronic Health Information System (eHIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Health Information System (eHIS)",
+      "country_label": "eHIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "Classed hmis because this page describes the eHIS only as the replacement for paper data capture on reporting tools; it does not say the system holds patient records. The page also says there are no formal data governance standards in the ministry."
+}

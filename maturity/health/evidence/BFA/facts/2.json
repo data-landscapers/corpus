@@ -1,0 +1,52 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Data Landscapers 54-country review states that rural primary clinics (CSPS) record on paper, health workers summarise indicators on paper forms monthly and districts enter them into the national DHIS2/Endos system, digital entry occurring at district level; it cites a BMJ Global Health study and gives no date, so the publication date is used.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "DHIS2/Endos",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Data Landscapers review states that EMRs in Burkina Faso are limited to pilots or incomplete and are absent at primary level, citing a 2024 BMC study; it gives no date, so the publication date is used.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "EMRs (unnamed)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2/Endos",
+      "country_label": "Endos",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "entered at district level from CSPS paper forms"
+    },
+    {
+      "system": "REC-Maternity/IeDA",
+      "country_label": "REC",
+      "class": "tracker",
+      "platform": "tablet app",
+      "owner": "",
+      "tiers": "more than 1,600 CSPS in select districts (556 by 2022), maternal and child consultations, parallel to paper and not integrated"
+    },
+    {
+      "system": "EMRs (unnamed)",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "pilots; absent at primary level"
+    }
+  ],
+  "note": "The file's own header marks the country figures as an AI-aided compilation and the author's analysis; the review also states 35+ digital health interventions, 66% of them pilots."
+}

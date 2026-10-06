@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-30-som-frontiers-ntp-health-reform-implementation-review",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "Policy review of the NTP 2025-2029 health chapter. Says only that Somalia has expanded DHIS2 and disease-surveillance systems, without describing what DHIS2 does or where it is used; the NTP commitment to digitise and integrate health information systems and the proposed facility registry and interoperability architecture are prescriptions, not stated deployments. HSSP III 2022-2026 is named as the sector strategy covering information systems, with no system named in it."
+}

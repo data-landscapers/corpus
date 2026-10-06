@@ -1,0 +1,8 @@
+{
+  "slug": "2017-03-01-mapping-social-protection-mis-uganda",
+  "facts": [],
+  "systems": [
+    {"system": "HMIS", "country_label": "Health Management Information System", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A mapping of social protection information systems; HMIS appears only in the acronym list and in a workshop question asking whether the assessment covered it, with nothing stated about it."
+}

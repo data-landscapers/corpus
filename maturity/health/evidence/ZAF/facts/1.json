@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-26-ndoh-chief-directorate-health-systems-digital-information",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Department of Health's Chief Directorate for Health Systems Digital Information states that every person's portable electronic health record will be carried on the Health Patient Record System, which it says is already in place, while the regulations, data governance and interoperability standards still have to be developed; the page is undated, so the published (capture) date is used.",
+      "as_of": "2026-08-26",
+      "date_precision": "day",
+      "system": "Health Patient Record System (HPRS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health Patient Record System (HPRS)",
+      "country_label": "Health Patient Record System (HPRS)",
+      "class": "emr",
+      "platform": "",
+      "owner": "National Department of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "The page describes HPRS only as the carrier of the intended portable electronic health record; no tiers, coverage or point of capture are stated."
+}

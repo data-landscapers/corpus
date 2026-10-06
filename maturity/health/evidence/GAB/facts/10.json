@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that Gabonese health facilities, clinics included, collect data by hand in registers and that data managers later aggregate and enter it into DHIS2 or the SNIS at district or regional level; it cites 2022 evaluations finding 45% of structures with digital tools for data collection. No date is given for the statement, so the document's published date is used.", "as_of": "2026-03", "date_precision": "month", "system": "DHIS2 / SNIS", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' review (the author's analysis) states that rural primary healthcare clinics in Gabon predominantly record patient data in paper registers, citing a 2022 JMIR pilot study that facilities are compelled to use paper records for want of digital infrastructure, and that national e-health initiatives do not provide routine point-of-service digital capture in rural areas. The statement is undated, so the document's published date is used.", "as_of": "2026-03", "date_precision": "month", "system": "paper patient registers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered by data managers at district or regional level; launched nationally in 2024"},
+    {"system": "SNIS", "country_label": "SNIS", "class": "hmis", "platform": "", "owner": "", "tiers": "district or regional level"},
+    {"system": "eGabon", "country_label": "eGabon/SNIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Routine Info", "country_label": "Routine Info", "class": "", "platform": "", "owner": "", "tiers": "pilot in select facilities"}
+  ],
+  "note": "Passages file; the document's own header flags its country figures as an AI-aided compilation, to be treated as the author's analysis."
+}

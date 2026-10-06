@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-sierra-leone-sustains-digital-health-gains-through-nationwide-health-facility-de",
+  "facts": [],
+  "systems": [
+    {"system": "electronic Integrated Disease Surveillance and Response (eIDSR)", "country_label": "eIDSR", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health and National Public Health Agency, with WHO and AFENET technical support", "tiers": "over 1,500 public and private health facilities in all 16 districts, reporting weekly from mobile devices to district and national levels; fully rolled out 2019; share of facilities submitting weekly rose from 70% to an anticipated 85% after troubleshooting in May-June 2025"},
+    {"system": "Mobile Device Management (MDM) system", "country_label": "MDM", "class": "enabling", "platform": "", "owner": "Ministry of Health", "tiers": "facility devices nationwide"}
+  ],
+  "note": "The whole document is about eIDSR, a weekly disease-surveillance application: single-function under the typology, so it gives no HMIS fact although it is DHIS2-based and entered at the facility. Nothing on routine service reporting or patient records."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The Data Landscapers 54-country review (an AI-assisted compilation by its own account) states that aggregate data for DHIS2 reporting is compiled by hand at clinics and entered at district level, not digitally at the clinics; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The Data Landscapers review states that DHIS2 aggregate reports are entered at district level and not digitally at clinics, giving no count or share of clinics; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The Data Landscapers review states that rural primary clinics predominantly record patient data on paper registers and manual forms at the point of service, electronic patient files being proposed but not routinely implemented and the national DHIS2 not serving as a point-of-care patient record; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Paper patient registers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "National DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district level from clinics' manual compilations; described as scaled nationally"},
+    {"system": "OpenMRS / GNU Health pilots", "country_label": "", "class": "tracker", "platform": "OpenMRS; GNU Health", "owner": "", "tiers": "pilots in specific regions (East, Centre) for HIV and TB"},
+    {"system": "DAMA electronic registers", "country_label": "DAMA", "class": "tracker", "platform": "", "owner": "PEPFAR-supported", "tiers": "154 PEPFAR sites"}
+  ],
+  "note": "Secondary analysis flagged in the file as AI-assisted and not sourced fact. OpenMRS, GNU Health and DAMA are called EMRs or electronic registers but described as programme-specific (HIV/TB, PEPFAR sites), so they are entered as trackers and give no emr fact. It also states the 2020-2024 strategy aimed at EMR in 70% of facilities by 2024."
+}

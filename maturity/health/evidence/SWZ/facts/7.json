@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information Exchange", "country_label": "Health Information Exchange system", "class": "exchange", "platform": "HL7/FHIR integration standards", "owner": "Ministry of Health", "tiers": "not stated"}
+  ],
+  "note": "The only health system named is the Ministry of Health's Health Information Exchange (class exchange), called the most technically advanced architecture in the Digital Landscape Assessment Report of May 2026; nothing on an HMIS or EMR."
+}

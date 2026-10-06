@@ -1,0 +1,9 @@
+{
+  "slug": "2017-01-01-usaid-tza-health-information-s-2017-health-information-systems---tanzania",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"},
+    {"system": "facility management information systems", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "facility; not otherwise stated"}
+  ],
+  "note": "A deal record: USAID grant of US$11,522,962 (2017-2022, completed) for national health information infrastructure including DHIS2 and facility management information systems. Neither system is described by what it does, so both are unclassified and give no fact."
+}

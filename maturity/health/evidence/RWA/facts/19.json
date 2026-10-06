@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01 Digital Public Goods Alliance",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The blog summary of the Alliance's report (document 17): for Rwanda it gives DHIS2 data completeness rising from 88 to 95 per cent and timeliness from 60 to over 90 per cent, undated, with no tier, facility count or place of entry, so nothing fits an aspect's closed list. It says in general terms that Rwanda owns and governs its core digital systems, without naming the ministry or a plan or budget for DHIS2."
+}

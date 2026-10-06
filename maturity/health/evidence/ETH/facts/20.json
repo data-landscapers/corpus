@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-31-who-afro-ethiopia-digitalizes-health-emergency-information-systems",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System 2 (DHIS2)", "country_label": "DHIS2 routine surveillance system", "class": "single-function", "platform": "DHIS2", "owner": "Ethiopian Public Health Institute (EPHI), with WHO support", "tiers": "72% of districts nationwide as of October 2025; extension to health facilities planned; over 2,975 EPHI staff at national, regional and woreda levels trained"},
+    {"system": "DHIS2 tracker (all-cause mortality surveillance)", "country_label": "DHIS2 tracker", "class": "single-function", "platform": "DHIS2 Tracker", "owner": "Ethiopian Public Health Institute (EPHI), with WHO support", "tiers": "390 EPHI staff trained; mortality reporting integrated into the DHIS2 routine surveillance system"},
+    {"system": "Electronic Public Health Emergency Management (ePHEM) system", "country_label": "ePHEM", "class": "single-function", "platform": "developed jointly by WHO and EPHI", "owner": "Ethiopian Public Health Institute (EPHI)", "tiers": "fully operational at national level; regional cascading under way, Amhara staff trained in 2025"},
+    {"system": "Epidemic Intelligence from Open Sources (EIOS)", "country_label": "EIOS", "class": "single-function", "platform": "EIOS", "owner": "Ethiopian Public Health Institute (EPHI), with WHO support", "tiers": "national, event-based surveillance"}
+  ],
+  "note": "The parent should check the class. The DHIS2 described here is the public health institute's emergency and surveillance deployment, which the document calls the DHIS2 routine surveillance system, so it is classed single-function and gives no fact. The document also says it serves routine health data management across all levels; if that is read as HMIS, the facts would be that the platform covered 72% of districts by 31 October 2025 with health facilities not yet using it."
+}

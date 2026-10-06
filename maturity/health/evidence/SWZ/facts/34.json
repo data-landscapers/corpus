@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-world-bank-swz-2020-eswatini-cbhis-health-mis-bw01",
+  "facts": [],
+  "systems": [
+    {"system": "electronic Community-Based Health Information System (CBHIS)", "country_label": "CBHIS", "class": "community", "platform": "", "owner": "financed as one component of the World Bank's US$20m Health System Strengthening for Human Capital Development project (PAD3539, 29 May 2020)", "tiers": "not stated"}
+  ],
+  "note": "A deal record for the World Bank's US$20m commitment of 2020; the only system named is CBHIS, a community-class system, so there is no fact for HMIS or EMR."
+}

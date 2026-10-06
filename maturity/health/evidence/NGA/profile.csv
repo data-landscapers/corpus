@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,hmis,governance,qualifier,plan:current;finance:donor,2025-12-19,NGA-008;NGA-009,NGA-010=finance:domestic,not stated: owner
+NGA,hmis,tiers,coverage,,,,,nothing held
+NGA,hmis,digitised,coverage,district,2026-03-31,NGA-003;NGA-024,,
+NGA,hmis,last12,qualifier,,,,,nothing held
+NGA,hmis,clinics,coverage,none,2017,NGA-025,,nothing dated since 2023-10-06
+NGA,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12,NGA-006;NGA-012;NGA-021,NGA-005=plan:current;NGA-007=finance:domestic;NGA-016=finance:donor;NGA-017=plan:none;NGA-022=finance:donor,
+NGA,emr,tiers,coverage,T1;T2;T3,2026-04-23,NGA-002;NGA-013;NGA-014;NGA-019,,
+NGA,emr,digitised,coverage,paper,2026-03-31,NGA-004;NGA-011;NGA-026,NGA-020=point-of-care,
+NGA,emr,last12,qualifier,advancing,2026-09-16,NGA-001,,
+NGA,emr,clinics,coverage,count:100,2025-05-22,NGA-018,NGA-015=not-published;NGA-023=pilot,

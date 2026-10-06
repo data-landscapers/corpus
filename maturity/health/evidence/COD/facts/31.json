@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-01-rti-real-time-disease-surveillance-drc",
+  "facts": [],
+  "systems": [
+    {"system": "eIDSR on DHIS2", "country_label": "eIDSR", "class": "single-function", "platform": "DHIS2 with the DHIS2 Android application", "owner": "RTI International with the Ministry of Public Health's DSNIS and Directorate of Disease Surveillance and the Haut Katanga Provincial Health Office, funded by US CDC", "tiers": "235 responsible health centres and hospitals in 15 of 27 health zones of Haut Katanga enter on tablets (from October 2022); health zone data managers enter for the other 12 zones (from March 2023)"},
+    {"system": "Notifiable disease surveillance system (existing)", "country_label": "", "class": "single-function", "platform": "paper reports, compiled by hand", "owner": "Ministry of Public Health", "tiers": "health facilities, weekly reports and immediate case reports"},
+    {"system": "National DHIS2 platform", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Public Health (DSNIS)", "tiers": "used nationally, as stated"}
+  ],
+  "note": "Everything described is disease surveillance (weekly epidemiological reports and case notification), a single function, so it gives no hmis fact. The document says the eIDSR sits in the national DHIS2 platform, used nationally, but does not describe that platform's routine reporting."
+}

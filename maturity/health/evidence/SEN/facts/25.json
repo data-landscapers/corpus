@@ -1,0 +1,64 @@
+{
+  "slug": "2025-01-27-quality-maternal-child-adolescent-health-data-senegal",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "A BMC Public Health study of 79 facilities in the Thiès, Mbour, Kédougou and Saraya districts, on data for January to March 2018, reports that monthly routine reports drawn from paper registers are entered into DHIS2 by health-post head nurses, to whom untrained midwives must pass their reports, with all data due in DHIS2 before the 15th of each month and the district medical officer checking entry on the platform.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DHIS2 (Routine Health Information System, RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T4",
+      "fact": "The study describes health posts' head nurses entering routine reports into DHIS2 and providers checking the DHIS2 record against their registers in the four districts studied in 2018; health centres and hospitals are in the study population, but the document does not say who keys their reports.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DHIS2 (Routine Health Information System, RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study, co-authored by Ministry of Health and Social Action staff, describes the routine health information system as the ministry's own: it captures mostly the ministry's public structures, data entered in DHIS2 are transmitted to the ministry, and district and regional chief medical officers supervise use of the platform (data for 2018).",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DHIS2 (Routine Health Information System, RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The study describes patient-level recording in the four districts in 2018 as kept in some thirty paper registers and collection tools at health facilities, and recommends digitisation through an electronic patient record with unique identification as something still to be introduced.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "electronic patient record (recommended, not in place)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (Routine Health Information System, RHIS)",
+      "country_label": "Routine Health Information System (RHIS); National Health Information System (NHIS); SIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Social Action (MHSA)",
+      "tiers": "health posts (head nurses enter), with district and regional medical officers supervising; health centres and hospitals contribute reports"
+    },
+    {
+      "system": "electronic patient record (recommended, not in place)",
+      "country_label": "electronic patient record with unique identification",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "none; recommended by the study"
+    }
+  ],
+  "note": "Published 27 January 2025 but the measurements are of January to March 2018, in four districts only. Reported there: completeness 0.64 on average, promptness 72.2% to 86.7% by district, and few providers trained to enter data in DHIS2. A third-party figure it cites (92.7% of public and 15.3% of private facilities reporting malaria data in DHIS2) is not a share of clinics keying their own reports and is not recorded as a fact."
+}

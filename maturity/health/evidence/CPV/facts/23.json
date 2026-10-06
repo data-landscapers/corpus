@@ -1,0 +1,9 @@
+{
+  "slug": "2021-12-27-cpv-bo-retificacao-190-2021-egdcv-republicacao",
+  "facts": [],
+  "systems": [
+    {"system": "SIS - Sistema de Informação Sanitária", "country_label": "SIS-Sistema de Informação Sanitária para uma versão integrada", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Receita Eletrónica", "country_label": "Receita Eletrónica (regulamento de implementação)", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Republished Resolution 113/2021 approving the digital governance strategy 2021-2024 (approved 9 Dec 2021). Its annex lists structuring item EST-TEC10, the SIS 'for an integrated version', marked as existing, and EST-LEG13, the electronic prescription regulation, also existing; the SIS is not described, so it is unclassed and the strategy's naming of it cannot be taken as an HMIS or EMR plan fact."
+}

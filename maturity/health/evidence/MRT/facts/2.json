@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-17-oms-afro-registre-consultation-electronique-hodh-chargui-gharbi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "registre de consultation électronique",
+      "country_label": "registre de consultation électronique (système de gestion des données épidémiques)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "WHO with a CANADEM standby expert, for the Ministry of Health's outbreak response",
+      "tiers": "Launched at Timbédra on 16 October 2025 and Amourj on 17 October 2025 (moughataas of Hodh El Chargui and Hodh El Gharbi); the mobile clinics' consultation register was also digitised"
+    }
+  ],
+  "note": "The electronic consultation register is described as part of an epidemic data management system built in six weeks for the diphtheria and Rift Valley fever response (harmonised collection tools, cleaning scripts, SitReps), so it is classed single-function and gives no fact; the document describes neither routine aggregate reporting nor a patient record, and names no software. It also says that before the mission the Hodh regions lacked a structured, functioning health data management system, with fragmented and late data from mobile clinics, facilities and the Mberra camp health centre."
+}

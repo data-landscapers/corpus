@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-28-dhis2-routine-data-collection-uganda-education",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (health)", "country_label": "Health Management Information System (HMIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, with health partners and HISP Uganda", "tiers": "Rolled out nationally in all districts, carrying the standard HMIS tools"}
+  ],
+  "note": "An education-sector article (DHIS2-DEMIS); on health it says only that partners worked with the Ministry of Health to harmonise data needs into standard HMIS tools and supported national roll-out of DHIS2 in all districts, with no date, tier or place of data entry, so no aspect value can be taken."
+}

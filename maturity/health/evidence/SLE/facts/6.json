@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2-based health management information system", "country_label": "health management information system", "class": "hmis", "platform": "DHIS2", "owner": "not stated; supported by the HISP network since 2007", "tiers": "not stated; the HISP team is said to have worked across all 16 districts"}
+  ],
+  "note": "An education data hub. Its one health statement is that HISP has supported the country's DHIS2-based HMIS since 2007 and worked in all 16 districts, which gives no value for any aspect: no owner, tier, place of data entry or clinic count is stated."
+}

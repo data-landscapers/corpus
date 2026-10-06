@@ -1,0 +1,31 @@
+{
+  "slug": "2025-12-01-undp-equatorial-guinea-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "District Health Information System (DHIS2)",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Social Welfare, equipped with UNDP support",
+      "tiers": ""
+    },
+    {
+      "system": "SIGOB",
+      "country_label": "SIGOB",
+      "class": "",
+      "platform": "SIGOB (UNDP governance and policy-implementation support system)",
+      "owner": "Ministry of Health and Social Welfare among three ministries, with UNDP",
+      "tiers": ""
+    },
+    {
+      "system": "TRANSDOC",
+      "country_label": "TRANSDOC",
+      "class": "",
+      "platform": "TRANSDOC document management system",
+      "owner": "Ministry of Health and Social Welfare among three ministries, with UNDP",
+      "tiers": ""
+    }
+  ],
+  "note": "UNDP says only that in 2024 the health ministry 'was equipped with' DHIS2 'to improve health information management', without saying what it reports or where it is used, so it is unclassified; a 'DHID2 initiative' is credited with reaching 32,954 people living with HIV, undescribed. SIGOB and TRANSDOC are administrative, not health information systems. No fact."
+}

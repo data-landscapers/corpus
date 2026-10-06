@@ -1,0 +1,14 @@
+{
+  "slug": "2025-10-29-health-ministry-new-digital-system-nhis-graphic",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "By a directive dated 28 October 2025 the Ministry of Health ordered the nationwide rollout of the Ghana Health Information Management System (GHIMS) in November 2025 as the only authorised platform for patient registration, clinical documentation, billing, NHIA claims, referral and continuity-of-care records across the public health system, with Axon Information Systems engaged to implement it.", "as_of": "2025-10-28", "date_precision": "day", "system": "Ghana Health Information Management System (GHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "regressing", "fact": "The ministry's directive of 28 October 2025 cites nationwide service disruptions to the existing clinical information and billing systems, and the Health Minister told Parliament that the failure of the Lightwave platform left several hospitals unable to access patient records or process insurance claims.", "as_of": "2025-10-28", "date_precision": "day", "system": "Lightwave Health Information Management System (LHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Graphic reports GHIMS as a government-managed system, with the Ministry of Health's Chief Director named National Rollout Lead and Axon Information Systems implementing under government oversight (directive of 28 October 2025).", "as_of": "2025-10-28", "date_precision": "day", "system": "Ghana Health Information Management System (GHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "The Health Minister told Parliament on 28 October 2025 that the breakdown of the previous platform showed the risk of a private contractor, Lightwave Health Information Management System Limited, controlling critical health data and billing infrastructure.", "as_of": "2025-10-28", "date_precision": "day", "system": "Lightwave Health Information Management System (LHIMS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Ghana Health Information Management System (GHIMS)", "country_label": "GHIMS", "class": "emr", "platform": "implemented by Axon Information Systems", "owner": "Ministry of Health", "tiers": "public health system; facilities listed for implementation, tiers not stated"},
+    {"system": "Lightwave Health Information Management System (LHIMS)", "country_label": "LHIMS", "class": "emr", "platform": "Lightwave", "owner": "Lightwave Health Information Management System Limited (vendor)", "tiers": "hundreds of health facilities contracted; hospitals named"}
+  ],
+  "note": ""
+}

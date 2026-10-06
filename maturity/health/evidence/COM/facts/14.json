@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-03-oms-comores-innovation-numerique-campagnes-vaccination",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Kit (ODK) real-time data collection and geospatial tracking, measles-rubella vaccination campaign",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "Open Data Kit (ODK) on mobile devices, with interactive dashboards and geospatial maps designed with the WHO AFRO GIS Centre",
+      "owner": "Ministère de la Santé et de la Protection sociale, Programme élargi de vaccination (PEV), with WHO technical and financial support and Gavi funds",
+      "tiers": "campaign agents (more than 612 trained, community health workers among them) on Ndzuwani, Ngazidja and Mwali, 4 to 8 October 2025; dashboards from community level to national; no facility tier stated"
+    }
+  ],
+  "note": "No fact: the only system is a data collection tool for one national vaccination campaign, the first to replace paper forms; it is neither routine facility reporting nor a patient record."
+}

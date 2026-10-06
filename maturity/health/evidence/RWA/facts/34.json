@@ -1,0 +1,11 @@
+{
+  "slug": "2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 national routine Health Management Information System", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "national since 2012; holds aggregate and individual-level (Tracker) data, with monthly aggregate reports"},
+    {"system": "DHIS2 Electronic Immunization Registry (EIR)", "country_label": "EIR", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "national EPI Program, supported by HISP Rwanda", "tiers": "all public and private health facilities offering routine vaccination, rolled out from 2019, with training down to cell level"},
+    {"system": "NCI-CRVS System", "country_label": "NCI-CRVS", "class": "", "platform": "web-based application", "owner": "National Institute of Statistics of Rwanda with the Ministry of Local Government, the Ministry of Health and NIDA", "tiers": "births registered at the health facility; launched 2020"},
+    {"system": "CRVS-EIR integration", "country_label": "", "class": "exchange", "platform": "custom script pushing registered newborns from CRVS to the DHIS2 EIR Tracker", "owner": "health authorities, supported by HISP Rwanda", "tiers": "configuration complete and validated as of April 2022"}
+  ],
+  "note": "DHIS2 impact story of April 2022 on the immunisation registry (a tracker) and its link to civil registration; of the HMIS it says only that DHIS2 has been the national routine system since 2012, with no statement on tiers, where data is keyed, ownership or clinic counts."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-15-mocambique-eua-acordo-saude",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Health states that on 15 December 2025 Mozambique and the United States signed a five-year (2026-2030) health memorandum worth about US$1.7 billion whose framework includes strengthening health information systems, singling out implementation of the Electronic Medical Record starting from the health units.", "as_of": "2025-12-15", "date_precision": "day", "system": "Registo Médico Electrónico", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Registo Médico Electrónico", "country_label": "Registo Médico Electrónico", "class": "emr", "platform": "", "owner": "", "tiers": "to be implemented starting from the health units (unidades sanitárias)"}
+  ],
+  "note": ""
+}

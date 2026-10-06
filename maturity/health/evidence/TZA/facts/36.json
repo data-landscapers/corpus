@@ -1,0 +1,13 @@
+{
+  "slug": "2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Siyam et al. (WHO-led study with the Ministry of Health, fieldwork 2016-2017) state that in the 16 randomly selected public primary facilities visited in Tanzania (4 health centres, 12 dispensaries) staff tallied paper registers into paper monthly reporting forms, 29 forms in use, which went to the district management office and were entered there into the district management information system.", "as_of": "2017", "date_precision": "year", "system": "HMIS (district management information system)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "Siyam et al. state that none of the selected facilities had electronic data collection in place, which for Tanzania is 0 of 16 sampled public primary facilities (4 health centres, 12 dispensaries, in four districts) in 2016-2017; it is a sample, not a national figure.", "as_of": "2017", "date_precision": "year", "system": "HMIS (district management information system)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Siyam et al. state that patient data in the 16 sampled Tanzanian public primary facilities (4 health centres, 12 dispensaries) was recorded on paper registers and tally sheets, 48 registers being mandated nationally, and that none of the selected facilities had an electronic system (fieldwork 2016-2017); a sample, not every tier.", "as_of": "2017", "date_precision": "year", "system": "paper registers (no electronic record)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "Siyam et al. report no electronic data collection in any of the 16 sampled Tanzanian public primary facilities (0 of 16; 4 health centres, 12 dispensaries) in 2016-2017; a sample of four districts, not a national figure.", "as_of": "2017", "date_precision": "year", "system": "paper registers (no electronic record)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "district management information system (DMIS)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "district management office, from primary facilities' paper monthly forms"}
+  ],
+  "note": ""
+}

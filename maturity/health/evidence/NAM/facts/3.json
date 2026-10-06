@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that nurses in Namibia's rural primary clinics record by hand and the data is later aggregated and entered into the national DHIS2 at district or regional level, not at the clinics; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "Data Landscapers' review states that DHIS2 entry in Namibia is done at district or regional level and not directly at rural clinics, citing 2025 studies of manual collection for want of connectivity and equipment; it gives no numerator or denominator, and no date, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' review states that Namibia's rural primary clinics record patients at the point of service on paper medical cards and health passports, with no evidence of widespread EMR or EHR use and pilots absent or isolated, scoring clinics 1; it adds that a National Digital Health Policy 2026-2036 launched in February 2026 aims to digitise records but is nascent. No date is given for the paper position, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper patient medical cards and health passports", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national DHIS2 systems", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district or regional level from clinics' manual records; not entered at rural clinics"},
+    {"system": "HIV/TB-specific systems", "country_label": "", "class": "tracker", "platform": "", "owner": "", "tiers": "not stated; given as examples of fragmented, vertical EMR/EHR systems"}
+  ],
+  "note": ""
+}

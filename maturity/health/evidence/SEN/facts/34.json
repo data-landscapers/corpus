@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A regional deal record: USAID's Digital Square grant to PATH (2016-2026) lists Senegal among 24+ countries and says it supports health information systems, DHIS2 and interoperability, with nothing stated about what runs in Senegal."
+}

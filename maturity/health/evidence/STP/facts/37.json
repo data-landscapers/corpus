@@ -1,0 +1,34 @@
+{
+  "slug": "2020-01-01-sao-tome-ministerio-saude-sistema-informacao-saude-dhis2",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's own page for the Sistema de Informação da Saúde states that DHIS2 was officially launched as the health information system on 18 December 2019 in the presence of the Minister of Health, describes it as a web platform for digital forms and indicators, national-level data storage, report generation and aggregate data, and names a SIS coordinator.",
+      "as_of": "2019-12-18",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "SIS - Sistema de Informação da Saúde",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministério da Saúde (SIS coordinator named)",
+      "tiers": "not stated; data stored at national level"
+    },
+    {
+      "system": "DHIS2 Tracker",
+      "country_label": "DHIS2 TRACKER",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Ministério da Saúde",
+      "tiers": "not stated; launch ceremony in São Tomé, October 2020"
+    }
+  ],
+  "note": "The page states no tiers, no place of data entry and no clinic count. The October 2020 Tracker launch is a tracker-class event and gives no fact; 'delivery of equipment by UNDP' appears only as an undated caption."
+}

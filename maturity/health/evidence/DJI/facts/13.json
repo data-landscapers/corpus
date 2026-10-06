@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-01-unicef-menaro-djibouti-community-health-brief",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national health management information system (HMIS); National Health Information System",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "national; community-level data not yet integrated (2024)"
+    }
+  ],
+  "note": "No fact: the brief (UNICEF MENARO with the Ministry of Health, September 2024) states that Djibouti uses DHIS2 as its national HMIS, that community-level data has not been integrated although the system could hold it, and that there are no community indicators or tools for collecting community data; none of this gives a value for tiers, where data is digitised, clinics, governance of the HMIS or a dated event. No community health worker system is named; the planned medical secretaries collecting data electronically are a stated intention. Relevant to the community-integrated flag: not integrated as of 2024."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, citing the PSRSIS 2023-2027) states that monthly activity reports (RMA) are compiled by hand at the basic health centres (CSB) and entered into DHIS2 at district level (SDSP), not at the point of service; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "pilot", "fact": "Data Landscapers' review (an AI-assisted compilation, citing the PSRSIS 2023-2027) states that an electronic RMA has been piloted in 10 districts, Manjakandriana and Manakara among them, since 2021, allowing direct DHIS2 entry at some CSB for aggregate data only, with scaling planned but not majority coverage; the position is undated beyond 'since 2021', so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Electronic RMA (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' review (an AI-assisted compilation) states that rural basic health centres (CSB) predominantly record consultations, vaccinations, prenatal care and dispensing in paper registers and that clinic-level patient recording remains paper-based, patient management systems being a national ambition for 2027; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "CSB paper registers (no patient record system named)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 (RMA, Rapport Mensuel d'Activité)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district level (SDSP) from CSB paper reports"},
+    {"system": "Electronic RMA", "country_label": "RMA électronique", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "some CSB in 10 pilot districts since 2021"},
+    {"system": "CommCare", "country_label": "CommCare app", "class": "community", "platform": "CommCare", "owner": "", "tiers": "community health volunteers (4,300+ users); integrated with national DHIS2, reporting to CSB heads"}
+  ],
+  "note": "Passages file; the source is the author's own compilation, flagged in the file as AI-assisted and not sourced fact."
+}

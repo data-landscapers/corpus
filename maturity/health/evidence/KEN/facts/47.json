@@ -1,0 +1,29 @@
+{
+  "slug": "2023-11-24-kenya-digital-health-act-2023",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Digital Health Act, No. 15 of 2023, commenced 2 November 2023, establishes the state Digital Health Agency and charges it under section 6(d) with establishing a system of shareable and portable personal health records, listing shared health records among the components of the comprehensive integrated health information system it administers; section 48 lists National Assembly appropriations, service fees and grants as the Agency's funds.",
+      "as_of": "2023-11-02",
+      "date_precision": "day",
+      "system": "shared health records (shareable and portable personal health records)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Comprehensive Integrated Health Information System", "country_label": "comprehensive integrated health information system; the system", "class": "", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Shared health records", "country_label": "shared health records; shareable and portable personal health records", "class": "emr", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Health management information services", "country_label": "health management information services", "class": "", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Logistics management information services", "country_label": "logistics management information services", "class": "single-function", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Enterprise service bus and interoperability layer", "country_label": "enterprise service bus; interoperability layer", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Client registry", "country_label": "client registry", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Facility registry", "country_label": "facility registry", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Health worker registry", "country_label": "health worker registry", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "National health data dictionary", "country_label": "national health data dictionary", "class": "exchange", "platform": "", "owner": "Cabinet Secretary for health; Digital Health Agency", "tiers": ""},
+    {"system": "Product catalogue", "country_label": "product catalogue", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "National health data bank and county health data banks", "country_label": "national health data bank; county health data banks", "class": "", "platform": "", "owner": "Cabinet Secretary for health (national); County Executive Committee Members (county)", "tiers": "to be established at the different levels of healthcare delivery under section 25 of the Health Act"}
+  ],
+  "note": "The Act names health management information services as a component of the system without saying what they do, so no HMIS fact is taken."
+}

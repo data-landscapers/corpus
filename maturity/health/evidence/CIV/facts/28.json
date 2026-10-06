@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "District Health Information Software 2 (DHIS2), as used for infectious disease surveillance", "class": "single-function", "platform": "DHIS2", "owner": "Direction de l'Informatique et de l'Information Sanitaire (DIIS), Ministry of Health, Public Hygiene and Universal Health Coverage", "tiers": "all 33 health regions and all 113 districts, national scale since 2013; the data flow still uses paper forms; users say the Tracker is missing (interviews June 2023)"},
+    {"system": "MAGPI", "country_label": "MAGPI", "class": "single-function", "platform": "MAGPI", "owner": "Institut National d'Hygiène Publique (INHP)", "tiers": "all 33 regions and all 113 districts, national scale since 2013; the data flow still uses paper forms; linked to laboratories"},
+    {"system": "SORMAS", "country_label": "Surveillance Outbreak Response Management and Analysis System (SORMAS)", "class": "single-function", "platform": "SORMAS", "owner": "Institut National d'Hygiène Publique (INHP), under the EU-funded CORESMA project", "tiers": "pilot in 2 regions (Abidjan and Gbêkê) and 11 districts, July-August 2021 to June 2023; fully electronic"}
+  ],
+  "note": "The study describes DHIS2, MAGPI and SORMAS only as outbreak and infectious disease surveillance tools (class single-function); it says nothing of DHIS2's routine reporting of patients treated, so no HMIS fact is taken, and it names no EMR."
+}

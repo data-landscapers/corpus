@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-world-bank-gambia-id4d-diagnostic",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's ID4D diagnostic describes the Health Management Information System as managing patient records and issuing health cards, using the eCRVS national identification number for unique patient identification, and calls it a World Bank supported project; it gives no date, so the 2025 publication year is used.", "as_of": "2025", "date_precision": "year", "system": "Health Management Information System", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System", "country_label": "Health Management Information System (HMIS)", "class": "emr", "platform": "", "owner": "Ministry of Health; World Bank supported project", "tiers": ""},
+    {"system": "electronic National Health Insurance System (eNHIS)", "country_label": "eNHIS / National Health Insurance System", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "electronic Human Resource Management Information System (eHRMIS), of Health", "country_label": "eHRMIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Class emr is given because the document describes the system named HMIS only as managing patient records on a unique patient identifier; it says nothing of aggregate reporting, tiers or where data is entered, and the parent should check the classification. It also states that HMIS and the foundational ID operate in silos, and that eCRVS interoperability with eHRMIS and eNHIS was effected; eCRVS itself (HERA, Ministry of Health, 258 health facilities) is civil registration and is not listed."
+}

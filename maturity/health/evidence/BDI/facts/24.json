@@ -1,0 +1,8 @@
+{
+  "slug": "2023-05-10-pddsp-plan-directeur-digitalisation-services-publics-2023-2033",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "entrepôt de données DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "implemented on a very large scale; tiers not stated"}
+  ],
+  "note": "Passages only. The plan (dated December 2022, adopted 10 May 2023) calls DHIS2 a data warehouse implemented on a very large scale without saying what it reports, and states that 34 hospitals and 19 health centres have been computerised, with effect on performance and financial management, without naming the system or saying it holds the clinical record; neither statement meets the test for a fact."
+}

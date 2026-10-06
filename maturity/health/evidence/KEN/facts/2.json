@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-04-sha-to-hmis-how-kenyas-rushed-health-digitisation-exposes-gaps",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS / SHA HMIS", "class": "", "platform": "", "owner": "Ministry of Health; Digital Health Agency gives technical support and certifies platforms", "tiers": "public Level 2-4 facilities (6,427, all migrated), Level 5 facilities (4 of 27 migrated), contracted faith-based hospitals (38 of 518 migrated)"},
+    {"system": "SHA Provider Portal", "country_label": "SHA Provider Portal", "class": "", "platform": "", "owner": "Social Health Authority", "tiers": "contracted health facilities, being migrated off it"},
+    {"system": "Certified private HMIS platforms (28)", "country_label": "private HMIS platforms", "class": "", "platform": "", "owner": "private vendors, certified by the Digital Health Agency", "tiers": ""}
+  ],
+  "note": "The piece describes the HMIS only by patient verification and electronic claims, and asks how 'patient records' will be protected without saying the system holds the clinical record; it describes no aggregate reporting. Class left empty, so no fact. Figures it carries (Ministry of Health statement of 1 October 2026): all 6,427 public Level 2-4 facilities migrated; 4 of 27 Level 5; 38 of 518 faith-based; deadline moved from 30 September to 30 October 2026; 28 private HMIS platforms certified."
+}

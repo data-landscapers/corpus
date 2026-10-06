@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3;T4", "fact": "Data Landscapers' 54-country review states that rural dispensaries and health centres in Tanzania predominantly use GoTHoMIS for patient records, while parallel paper use persists and rural adoption lags urban and higher-level facilities.", "as_of": "2025", "date_precision": "year", "system": "GoTHoMIS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "Data Landscapers' review states GoTHoMIS is used for patient records at the point of service in rural dispensaries and health centres, alongside persisting parallel paper records where power, internet or training fall short.", "as_of": "2025", "date_precision": "year", "system": "GoTHoMIS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "share:75%", "fact": "Data Landscapers' review, citing Kapsule Tech on official statistics and an Ifakara report, gives GoTHoMIS as deployed in more than 3,000 primary health care facilities including about 71% of dispensaries, and in the same sentence as 5,545 facilities in total at 75% coverage as of 2025; the figures are not reconciled and no denominator is named.", "as_of": "2025", "date_precision": "year", "system": "GoTHoMIS", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "GoTHoMIS", "country_label": "GoTHoMIS", "class": "emr", "platform": "", "owner": "", "tiers": "dispensaries and health centres (primary health care facilities)"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "stated only as mainly for aggregate reporting"}
+  ],
+  "note": "Passages only (the paragraphs naming Tanzania). The file's own header flags the country figures as the author's AI-assisted compilation, not sourced fact; the clinic row's figures are internally inconsistent and are recorded as stated."
+}

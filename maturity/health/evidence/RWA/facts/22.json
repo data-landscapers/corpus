@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-05-afghs-mou-rwanda",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The memorandum signed on 5 December 2025 states that the US Government plans to allocate US$6,806,292 over the first two years (2026-2027) to accelerate the nationwide rollout of the e-Buzima electronic medical record system, beside US$4,952,974 for data systems generally; Rwanda commits to pay ongoing licensing, cloud and hardware costs not paid by the US, with no domestic amount stated.", "as_of": "2025-12-05", "date_precision": "day", "system": "e-Buzima", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "In the memorandum signed on 5 December 2025, running April 2026 to December 2030, the Government of Rwanda commits to expand national EMR systems across all health facilities by progressive rollout and to set incentives for timely entry of patient encounters, with e-Buzima named and US$6,806,292 of US funding set against its rollout; the text says of itself that it creates no legal obligations.", "as_of": "2025-12-05", "date_precision": "day", "system": "e-Buzima", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "e-Buzima", "country_label": "e-Buzima / eBuzima (national electronic medical record system)", "class": "emr", "platform": "", "owner": "Government of Rwanda", "tiers": "to be rolled out across all health facilities over 2026-2030; current coverage not stated"},
+    {"system": "OpenMRS", "country_label": "open MRS", "class": "emr", "platform": "OpenMRS", "owner": "", "tiers": "not stated; its data to be integrated with eBuzima"},
+    {"system": "pharmacy management system", "country_label": "pharmacy management system", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated; to be integrated with eBuzima"},
+    {"system": "national laboratory information management systems", "country_label": "laboratory information management systems", "class": "single-function", "platform": "", "owner": "Government of Rwanda", "tiers": "national and regional laboratories, to be fully operational within the term"},
+    {"system": "national health commodity inventory management system", "country_label": "ERP/SAP health commodity inventory management system", "class": "single-function", "platform": "SAP ERP", "owner": "Government of Rwanda", "tiers": "to be rolled out across the government-run commodity supply chain"},
+    {"system": "DHIS2 national health data warehouse", "country_label": "national health data warehouse", "class": "", "platform": "DHIS2", "owner": "Government of Rwanda", "tiers": "not stated"},
+    {"system": "health information exchange", "country_label": "case reporting and data exchange (health information exchange)", "class": "exchange", "platform": "", "owner": "", "tiers": "not stated; US support planned"}
+  ],
+  "note": "DHIS2 is named only as the national health data warehouse the government commits to use, not described as routine facility reporting, so it takes no class and gives no hmis fact. Everything stated about EMR coverage is a commitment for 2026-2030, not a deployment figure. US data-systems funding is US$1,352,974 in 2026 and US$3,600,000 in 2027, nothing in 2028-2030."
+}

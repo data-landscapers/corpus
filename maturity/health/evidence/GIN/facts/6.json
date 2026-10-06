@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The essay's Guinea clinic row (an AI-assisted compilation by the author, scored 2 'mostly paper') states that aggregate data are compiled on paper at clinics and health centres and sent to District Health Offices for digital entry into DHIS2, used nationally for surveillance and routine monthly reporting since 2016, so that digital is 'for district aggregation only'; no date is given for the position, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay's Guinea clinic row states that rural primary clinics predominantly record patient data on paper registers and forms and that there is no evidence of widespread point-of-care digital systems such as EMRs in government rural clinics; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Clinic+O", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The essay's Guinea clinic row states that the NGO Clinic+O deploys offline EMRs and dashboards in select rural community health centres and community outreach, feeding national systems by manual upload, as an isolated donor pilot of limited scale and not majority routine use; no count is given and the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Clinic+O", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at District Health Offices from clinics' paper; national surveillance and routine monthly reporting since 2016"},
+    {"system": "Clinic+O", "country_label": "Clinic+O", "class": "emr", "platform": "offline EMR and dashboards", "owner": "Clinic+O (NGO), supported by Swiss Re Foundation", "tiers": "select rural community health centres and community outreach"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-who-emro-somalia-health-facility-registry",
+  "facts": [],
+  "systems": [
+    {"system": "Master Health Facility List (MHFL)", "country_label": "Master Health Facility List", "class": "exchange", "platform": "", "owner": "Federal Ministry of Health, with WHO technical support", "tiers": "national registry of 1,455 health facilities; no tier of use stated"}
+  ],
+  "note": "The only system named is a facility registry, launched 2026-08-23 with 1,455 facilities, which is class exchange; nothing is stated about routine reporting or patient records."
+}

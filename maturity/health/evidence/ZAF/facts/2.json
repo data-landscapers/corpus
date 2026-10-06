@@ -1,0 +1,31 @@
+{
+  "slug": "2026-08-20-itweb-nhi-telemedicine",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Health Patient Registration System",
+      "country_label": "national Health Patient Registration System",
+      "class": "",
+      "platform": "",
+      "owner": "health department",
+      "tiers": ""
+    },
+    {
+      "system": "Healthforce",
+      "country_label": "Healthforce",
+      "class": "emr",
+      "platform": "Healthforce practice management software with an electronic medical record and decision support",
+      "owner": "Healthforce (private; acquired by Dis-Chem in 2021)",
+      "tiers": "private nurse-led clinics"
+    },
+    {
+      "system": "Turn.io",
+      "country_label": "Turn.io",
+      "class": "enabling",
+      "platform": "WhatsApp-based telemedicine consultations",
+      "owner": "Turn.io (private)",
+      "tiers": ""
+    }
+  ],
+  "note": "An article on telemedicine; it says only that the health department continues to work on the Health Patient Registration System, without describing what it does, and describes Healthforce's record as private clinic software with no date, tier or coverage in the public service."
+}

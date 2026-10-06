@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "District Health Information Software 2 (DHIS2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": "named only as where community data is integrated"},
+    {"system": "outils digitaux pour la collecte des données communautaires", "country_label": "outils digitaux pour la collecte des données communautaires (pilote)", "class": "community", "platform": "", "owner": "", "tiers": "community health workers; pilot"}
+  ],
+  "note": "The passage is a fragment of a list under the open-government plan's community health commitment: it names the integration of community data into DHIS2 and a pilot of digital tools for community data collection, without date, scale or a description of what DHIS2 reports, so no fact is taken."
+}

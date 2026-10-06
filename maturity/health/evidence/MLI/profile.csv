@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MLI,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-03,MLI-001;MLI-013;MLI-029,MLI-010=owner:ministry;MLI-014=owner:ministry;MLI-018=owner:ministry;MLI-028=owner:ministry;MLI-030=plan:current,
+MLI,hmis,tiers,coverage,T3,2026-03-31,MLI-006,MLI-027=T1;T2;T3;MLI-017=T3;MLI-026=T3,
+MLI,hmis,digitised,coverage,facility,2026-09-03,MLI-002;MLI-005;MLI-025,,
+MLI,hmis,last12,qualifier,,,,,nothing held
+MLI,hmis,clinics,coverage,share:98%,2019-09,MLI-016,,nothing dated since 2023-10-06
+MLI,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-09-16,MLI-008;MLI-015;MLI-024,MLI-012=owner:ministry;MLI-021=owner:ministry;MLI-022=finance:donor;MLI-031=plan:current;MLI-032=owner:ministry,
+MLI,emr,tiers,coverage,T1,2026-07-27,MLI-003,MLI-019=T2;T3,
+MLI,emr,digitised,coverage,point-of-care,2026-07-27,MLI-004,MLI-007=paper,
+MLI,emr,last12,qualifier,advancing,2025-09-16,MLI-009;MLI-011,,nothing dated since 2025-10-06
+MLI,emr,clinics,coverage,pilot,2023-01-01,MLI-020;MLI-023,,nothing dated since 2023-10-06

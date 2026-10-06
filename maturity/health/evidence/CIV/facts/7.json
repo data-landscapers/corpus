@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-04-mhealth-ci-acceptance-community-frontline-health-workers",
+  "facts": [],
+  "systems": [
+    {"system": "mHealth.ci", "country_label": "mHealth.ci (eCHIS and other tools of the community-based health information system)", "class": "community", "platform": "mHealth.ci application developed by the ICT startup Ticanalyse, commissioned by UNICEF", "owner": "Ministry of Health (DSCPS, DIS, DISD), with UNICEF technical and financial support and Government of Canada funds", "tiers": "community health workers and the frontline health workers (nurses and midwives) who supervise them; pilot in the five health districts of the Poro health region, about 600 end-users trained, full operational launch 8 January 2025"},
+    {"system": "DHIS2", "country_label": "national health information system (DHIS2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The system studied is mHealth.ci, a community health worker platform (class community), so no fact; the document says it integrates with the national health information system (DHIS2) but does not describe what DHIS2 itself reports, so DHIS2 is left unclassified."
+}

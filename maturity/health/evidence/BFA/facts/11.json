@@ -1,0 +1,132 @@
+{
+  "slug": "2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's Plan stratégique de la santé numérique 2025-2029, dated January 2025 and drawn up by its Direction des systèmes d'information, names Endos-BF among the solutions already deployed and carries an axis on modernising the health information system; it is costed at 42,576,806,267 FCFA, against 2,762,824,725 FCFA of available funds and a financing gap of 39,813,981,543 FCFA.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "Endos-BF (entrepôt de données sanitaires)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The Ministry of Health's strategy lists, among innovations in the health system, the scaling-up of decentralised entry of routine data in health facilities; it gives no count of facilities and no date, so the document's date is used, and it does not name the system in that sentence.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "Saisie décentralisée des données de routine dans les formations sanitaires",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Endos-BF (entrepôt de données sanitaires)",
+      "country_label": "Endos-BF",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Saisie décentralisée des données de routine dans les formations sanitaires",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "health facilities, being scaled up"
+    },
+    {
+      "system": "REC-PCIME (registre électronique de consultation, prise en charge intégrée des maladies de l'enfant)",
+      "country_label": "REC / PCIME-REC",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": "stated coverage 84% of the country"
+    },
+    {
+      "system": "REC-maternité",
+      "country_label": "REC-maternité",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "eSanteCom",
+      "country_label": "eSanteCom",
+      "class": "community",
+      "platform": "",
+      "owner": "",
+      "tiers": "community health workers (ASBC); extension to the remaining health districts budgeted for 2025-2026"
+    },
+    {
+      "system": "NetSIGL 2.0 (système électronique intégré de gestion de la logistique)",
+      "country_label": "NetSIGL 2.0",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "ReDoP-BF (répertoire des données du paludisme)",
+      "country_label": "ReDoP-BF",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "MS Surveillance (plateforme de gestion des données de COVID-19)",
+      "country_label": "MS Surveillance",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SIH (système d'information hospitalier)",
+      "country_label": "SIH",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned: installation in hospitals budgeted for 2025-2026"
+    },
+    {
+      "system": "Registre électronique de consultation unique",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned: budgeted for 2025-2026"
+    },
+    {
+      "system": "REV (registre électronique de vaccination)",
+      "country_label": "REV",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "EDM (écosystème digital minimal)",
+      "country_label": "EDM",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "extension budgeted for 2025-2026"
+    },
+    {
+      "system": "Mini-datacenter du ministère de la Santé",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "No EMR fact: the plan describes no patient record for general care in use; its 2023 environment survey found 124 applications, 76% of those for health professionals being isolated single-disease patient follow-up tools, and the computerised patient record (dossier patient informatisé) among the needs most expressed; the 2016-2020 e-health strategy, which included integrated hospital systems, was not implemented. Other context: 65% of basic health facilities had internet access and 6.27% of structures were on RESINA (2023); partners funded 81.67% of computer equipment. Tier names: CSPS and centres médicaux (first échelon), CMA (district referral), CHR/CHUR, CHU. The file ends mid-sentence in Part IV; the annexes are not in it."
+}

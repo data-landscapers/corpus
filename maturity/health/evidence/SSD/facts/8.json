@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-24-icap-first-electronic-art-register-south-sudan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ART E-register",
+      "country_label": "electronic ART register (ART E-register)",
+      "class": "tracker",
+      "platform": "OpenMRS",
+      "owner": "Ministry of Health with ICAP at Columbia University; funded by PEPFAR through US CDC; code base transferred to local capacity in August 2025",
+      "tiers": "five sites since field testing began July 2024: Munuki Primary Health Care Centre (Juba), Al Sabah Children's Hospital, Rumbek State Hospital, Yirol Hospital and Yambio State Hospital, about 17 percent of the PEPFAR-supported ART caseload; records keyed by dedicated data entry teams, 12,700+ legacy records digitised"
+    }
+  ],
+  "note": "The only system described is a patient-level register for one programme (HIV treatment), which the typology classes as tracker although the source calls it an EMR; no fact for hmis or emr."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-26-dhis2-community-snis-reconstruction-rca",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "A DHIS2 Community poster (author Jean Louis Komayan) states that the Ministry of Health and Population undertook the reform of the national health information system (SNIS) and adopted DHIS2 as the national platform; no date is given for the adoption, so the document's published date is used.", "as_of": "2026-05-26", "date_precision": "day", "system": "DHIS2 (SNIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The poster states that DHIS2 has been deployed in all 35 health districts, with data managers recruited and offline and VSAT solutions used for connectivity; it does not say that facilities enter their own reports, and describes reporting systems before the reform as fragmented and mostly paper.", "as_of": "2025", "date_precision": "year", "system": "DHIS2 (SNIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "The poster states that report completeness in DHIS2 rose from 52% in 2020 to more than 85% in 2025, across the 35 health districts.", "as_of": "2025", "date_precision": "year", "system": "DHIS2 (SNIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (SNIS)", "country_label": "Système National d'Information Sanitaire (SNIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministère de la Santé et de la Population", "tiers": "all 35 health districts; central, regional and district levels named as SNIS actors"}
+  ],
+  "note": ""
+}

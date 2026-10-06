@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 Tracker (hypertension and diabetes follow-up)", "country_label": "DHIS2 Tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health, national non-communicable disease programme, with WHO technical support", "tiers": "pilot sites in several health structures; extension to four health districts planned by September 2026 and national generalisation in 2027"},
+    {"system": "système national DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The system described is a patient-level tracker for one programme (hypertension and diabetes), a noted class that gives no fact; the national DHIS2 into which its data is to be integrated is named without any description of what it reports."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Koumamba et al., a literature review, state that in Zanzibar health facilities collected data on paper forms that were passed to the health districts, which entered them into the DHIS data warehouse; the review gives no date for this (its cited sources are from 2011 and 2012), so the publication date is used.", "as_of": "2021-08-04", "date_precision": "day", "system": "DHIS data warehouse (Zanzibar)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "Koumamba et al., reviewing 14 articles between February and July 2019, state that 11 of the 12 health information systems studied, Tanzania and Zanzibar among them and Malawi the one exception, had no national strategy and ran on strategies set under a specific donor-supported project.", "as_of": "2019", "date_precision": "year", "system": "DHIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS", "country_label": "DHIS data warehouse", "class": "hmis", "platform": "DHIS / DHIS2", "owner": "Ministry of Health; Zanzibar Ministry of Health", "tiers": "mainland: adapted by standardising and computerising facility registers; Zanzibar: entered at health districts from facilities' paper forms"},
+    {"system": "OpenMRS", "country_label": "OpenMRS (Zanzibar)", "class": "emr", "platform": "OpenMRS", "owner": "Zanzibar Ministry of Health", "tiers": "health facility level; a project in difficulty for lack of local technical capacity"}
+  ],
+  "note": "The Zanzibar OpenMRS project gives no fact: the review says only that it was undertaken and is in difficulty, with no tier, count or date. The mainland statement (DHIS adapted by computerising registers) fits no aspect value."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, citing the DHIS2 Chad transition page) states that rural primary clinics record on paper registers, that aggregates are collated monthly and forwarded to district level where they are entered into DHIS2, and that 96% of districts were reporting directly into the system as of 2022.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' review, citing a 2021 study in Massaguet district that included rural health centres, states that paper consultation registers and HMIS forms were in routine use and that data was digitised only at district level, using Excel, with paper stock-outs common.", "as_of": "2021", "date_precision": "year", "system": "HMIS (paper forms, district Excel entry)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "Data Landscapers' review states that it found no evidence of routine digital entry or of DHIS2 at the point of care in rural clinics, and that plans for tablets for offline DHIS2 aggregate entry in northern regions had not been implemented widely; no date is given for the finding, so the date is the essay's publication date.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' review, citing a 2021 study in Massaguet district, states that there was no EMR at clinics and that patient data was recorded in paper registers at the point of service.", "as_of": "2021", "date_precision": "year", "system": "", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "Data Landscapers' review states that it found no evidence of an EMR at the point of care in rural clinics in Chad, where paper registers predominate; no date is given for the finding, so the date is the essay's publication date.", "as_of": "2026-03-31", "date_precision": "day", "system": "", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "district level; 96% of districts reporting as of 2022; not at rural clinics"}
+  ],
+  "note": "The file's own header flags the country figures as an AI-aided compilation to be treated as the author's analysis rather than sourced fact; the two EMR facts are statements of absence and name no system."
+}

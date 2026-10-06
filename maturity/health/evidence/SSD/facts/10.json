@@ -1,0 +1,62 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Data Landscapers review states that rural primary clinics (PHCUs and PHCCs) keep paper registers and handwritten monthly summary reports, physically delivered to County Health Departments, which transcribe them into DHIS2 for aggregate reporting; it gives no date for this, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Data Landscapers review states that the rural point of service remains entirely paper-based with digital limited to aggregation at County Health Department and state level, citing a 2023 study of rural PHCCs in Maridi County in which all used manual methods; no numerator or denominator is given and the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review states that rural primary clinics record patient data in paper registers and that it found no evidence of electronic health records or digital entry at the point of care in rural clinics, which lack electricity, internet and hardware; it gives no date, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper patient registers (no EMR named)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "entered at County Health Departments and state level from clinics' paper forms; not at PHCUs or PHCCs"
+    },
+    {
+      "system": "2020 tablet pilot for DHIS2 entry in HIV facilities",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2 on tablets",
+      "owner": "",
+      "tiers": "57 HIV facilities in a 2020 pilot; expansion stalled"
+    },
+    {
+      "system": "SMS weekly disease surveillance reporting",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "SMS",
+      "owner": "",
+      "tiers": "some pilots; weekly aggregates sourced from paper forms"
+    }
+  ],
+  "note": "Passages file; the source is an AI-assisted expert compilation whose South Sudan clinic row cites a World Bank HMIS brief, a Maridi County data-quality study and an SMS surveillance paper."
+}

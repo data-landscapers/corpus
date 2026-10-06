@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-15-state-moz-afghs-data-systems-2025-record",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The deal record of the MOU signed on 15 December 2025 states that the US Department of State plans US$83,072,079 for Mozambique's health data systems over 2026-2030 (US$16,666,385 in 2026, US$28,230,116 in 2027), money that builds SIS-RME alongside SIS-LAB, eVIDR, nSIMAM, a health data exchange and a data warehouse; the status is pipeline and the MOU is non-binding.", "as_of": "2025-12-15", "date_precision": "day", "system": "SIS-RME", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The deal record quotes MOU section 2.5.1 that US-funded data systems, SIS-RME among them, are expected to be fully led and owned by the Government of Mozambique with US technical assistance and workplan oversight, as signed on 15 December 2025.", "as_of": "2025-12-15", "date_precision": "day", "system": "SIS-RME", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SIS-RME", "country_label": "SIS-RME", "class": "emr", "platform": "", "owner": "Government of Mozambique", "tiers": "not stated"},
+    {"system": "SESP", "country_label": "SESP", "class": "tracker", "platform": "", "owner": "US-built; to Mozambican management by 20 June 2026", "tiers": "not stated"},
+    {"system": "SIS-LAB", "country_label": "SIS-LAB", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "eVIDR", "country_label": "eVIDR", "class": "single-function", "platform": "", "owner": "", "tiers": "outbreak surveillance platform"},
+    {"system": "nSIMAM", "country_label": "nSIMAM", "class": "single-function", "platform": "", "owner": "", "tiers": "commodity logistics"},
+    {"system": "Health data exchange", "country_label": "health data exchange", "class": "exchange", "platform": "", "owner": "", "tiers": "national; due functional by end 2026"},
+    {"system": "National health data warehouse", "country_label": "national health data warehouse", "class": "", "platform": "", "owner": "", "tiers": "national; due operational by end 2027"}
+  ],
+  "note": ""
+}

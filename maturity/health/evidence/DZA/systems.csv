@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Dossier médical électronique (DME),Dossier médical électronique (DME),emr,,Ministry of Health (with the wilaya health directorates),not yet in use; to be rolled out progressively in the health structures of the wilaya of Annaba,2026-08-17-seybousetimes-annaba-health-fibre-emr
+DZA,Fibre-optic connection of health structures,raccordement des structures de santé à la fibre optique,enabling,,"Algérie Télécom, with the Ministry of Health and the Annaba DSP","health structures of the wilaya of Annaba, in progress",2026-08-17-seybousetimes-annaba-health-fibre-emr
+DZA,DEM.DZ EMR,DEM.DZ,emr,,,pilots (e.g. Annaba wilaya) or hospital-focused; not in rural clinics,2026-03-31 Africa we have a data problem
+DZA,Digital hospitals,digital hospitals,,,,hospitals; pilots,2026-03-31 Africa we have a data problem
+DZA,DHIS2,,,DHIS2,,"not stated; the document calls its use in Algeria unconfirmed (listed in old forums only) and guesses at aggregate HMIS, so no hmis fact is taken",2026-03-31 Africa we have a data problem
+DZA,Dossier médical unique au niveau national,dossier médical unique,,,,"not stated; art. 26 requires one for every patient, with the modalities left to regulation",2018-07-02-joradp-loi-18-11-sante
+DZA,Système de dossier médical électronique,dossier médical électronique,emr,,,établissements hospitaliers nationaux (hospitals); generalisation being finalised,2026-09-08-elmoudjahid-algerie-a-l-ere-du-tout-numerique

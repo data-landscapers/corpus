@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-06-numeriser-le-parcours-sante-oui-terroriser-les-medecins-non",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "L'Opinion reports that draft law 052.26, not yet adopted, would create a shared medical record for every patient and oblige public and private providers to feed it at each act or consultation, private ones connecting their systems within 24 months of the implementing decree, on pain of fines of 50,000 to 300,000 dirhams; the record does not yet exist and the article gives no date for the bill, so the publication date is used.", "as_of": "2026-08-06", "date_precision": "day", "system": "dossier médical partagé", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier médical partagé", "country_label": "dossier médical partagé", "class": "emr", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé, under draft law 052.26", "tiers": "planned for all public and private professionals and establishments; not in use"},
+    {"system": "plateforme informationnelle sanitaire nationale intégrée", "country_label": "plateforme informationnelle sanitaire nationale intégrée (central health data platform)", "class": "exchange", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé, under draft law 052.26", "tiers": "planned; private providers to interconnect within 24 months of the decree"},
+    {"system": "identifiant sanitaire national unique", "country_label": "identifiant sanitaire national unique", "class": "exchange", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé, under draft law 052.26", "tiers": "planned"},
+    {"system": "système informatique hospitalier public unifié", "country_label": "système informatique hospitalier public unifié", "class": "", "platform": "", "owner": "future Agence nationale de digitalisation du système de santé, under draft law 052.26", "tiers": "planned for public hospitals; what it holds is not described"}
+  ],
+  "note": "Analysis of a bill, not of a running system: every component is planned. The article describes today's records as scattered between practices, clinics, hospitals and insurers, without saying whether they are paper or digital."
+}

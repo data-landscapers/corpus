@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-13-guinea-kouma-academy-hospital-digitisation-financing",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Guinéenews reports that the Guinean start-up Kouma Academy has begun deploying its Visa Medical digital patient record in DR Congo, in partnership with Sanofi for chronic disease care; no sites or numbers are given, and the date is the document's published date.", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "Visa Medical is deployed in DR Congo by its developer, the private firm Kouma Academy, with Sanofi as partner; no ministry role in DR Congo is stated (date is the document's published date).", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Visa Medical", "country_label": "Visa Medical", "class": "emr", "platform": "Visa Medical (Kouma Academy)", "owner": "Kouma Academy, with Sanofi", "tiers": "not stated for DR Congo; hospitals elsewhere"}
+  ],
+  "note": "DR Congo is mentioned in two sentences only: deployment begun with Sanofi for chronic disease care. The description of the system as a patient-held digital medical record is given for Guinea."
+}

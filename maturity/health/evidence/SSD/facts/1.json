@@ -1,0 +1,26 @@
+{
+  "slug": "2026-08-05-south-sudan-launches-new-education-in-emergencies-data-system",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNESCO states that DHIS2 is widely used by the Government of South Sudan to manage routine health information and has supported the Ministry of Health in collecting data across states, counties, payams and bomas since 2018; the document gives no date for the present position, so its published date is used.",
+      "as_of": "2026-08-05",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "data collected across states, counties, payams and bomas since 2018; facility tiers not stated"
+    }
+  ],
+  "note": "Document is about an education data system (EiE-MIS) built on DHIS2; the one health statement is a passing description of the Ministry of Health's DHIS2."
+}

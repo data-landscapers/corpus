@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-01-eswatini-annual-results-report-2025-who",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health, with WHO support", "tiers": "not stated"}
+  ],
+  "note": "WHO says it supported 'DHIS2 optimisation', better data integration and adoption of a Strategic Information Plan in 2025, and calls health information systems weak and fragmented, but does not say what DHIS2 is used for; the capture is truncated after the UHC section, so no fact on a classed system."
+}

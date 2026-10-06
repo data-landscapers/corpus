@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-28-zambia-smartcare-2-0-ndola-pilot",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "SMART Zambia Institute, with the Ministry of Health and IHM Southern Africa, launched a pilot rollout of the SmartCare 2.0 Hospital Edition electronic health record system at Ndola Teaching Hospital on 27 April 2026.", "as_of": "2026-04-27", "date_precision": "day", "system": "SmartCare 2.0", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "SmartCare 2.0 Hospital Edition went live as a pilot at one facility, Ndola Teaching Hospital, on 27 April 2026.", "as_of": "2026-04-27", "date_precision": "day", "system": "SmartCare 2.0", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "As of 27 April 2026 SmartCare 2.0 is a pilot at Ndola Teaching Hospital only; the document names no primary clinic using it.", "as_of": "2026-04-27", "date_precision": "day", "system": "SmartCare 2.0", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Government Chief Technology Officer Kasali Musenge said at the 27 April 2026 launch that SmartCare 2.0 is locally developed and owned; it was launched by SMART Zambia Institute with the Ministry of Health and IHM Southern Africa.", "as_of": "2026-04-27", "date_precision": "day", "system": "SmartCare 2.0", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare 2.0", "country_label": "SmartCare 2.0 Hospital Edition", "class": "emr", "platform": "locally developed", "owner": "SMART Zambia Institute with the Ministry of Health and IHM Southern Africa", "tiers": "pilot at Ndola Teaching Hospital"}
+  ],
+  "note": ""
+}

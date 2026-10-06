@@ -1,0 +1,14 @@
+{
+  "slug": "2014-01-01-moh-zambia-ict-standards-and-guidelines",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's ICT Standards and Guidelines of January 2014 state that SmartCare is the approved patient-level health care information system, under a circular of 5 April 2006 from the Permanent Secretary's office, and set Ministry rules for its use.", "as_of": "2014-01", "date_precision": "month", "system": "SmartCare", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare", "country_label": "SmartCare Health Information System", "class": "emr", "platform": "standalone facility databases merged upward monthly; patient smartcards", "owner": "Ministry of Health", "tiers": "facilities where deployed, districts, 2nd and 3rd level hospitals, provincial and national offices"},
+    {"system": "District Health Information System", "country_label": "DHIS (HIA2 report)", "class": "hmis", "platform": "DHIS", "owner": "Ministry of Health", "tiers": "the HIA2 facility report is to be produced from SmartCare for each facility"},
+    {"system": "HMIS", "country_label": "HMIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Laboratory Information Management System", "country_label": "LIMS / LIS", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Logistics information system", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "A rule book, not a status account: it prescribes daily entry of patient data into SmartCare wherever deployed and monthly database submission from facility to district, province and national office, but states no count of facilities and does not say what was happening in practice."
+}

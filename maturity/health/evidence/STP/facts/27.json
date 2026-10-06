@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-01-oms-sao-tome-estrategia-cooperacao-pais-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "plataforma de software distrital de informação sanitária (DHIS2); sistema de informação sanitária (SIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The held text says only that WHO added indicators for monitoring non-communicable diseases to DHIS2 and that use of the tool must be optimised in the short term to give reliable data (July 2023): no aspect value. Class hmis is read from 'indicators'. The capture is cut off in section 2.2.1, before section 2.2.4 on the health information system, which is not held. For tier mapping it gives the facility count: 21 community health posts and 32 health posts (first level), 6 district health centres including the Príncipe regional hospital (second), and the central hospital Dr. Ayres de Menezes (third)."
+}

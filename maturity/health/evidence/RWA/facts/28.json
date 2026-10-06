@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-01-rwanda-vital-statistics-report-2024",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The National Institute of Statistics of Rwanda states that the Rwanda Health Management Information System operates countrywide under the management of the Ministry of Health, collecting routine health information and still capturing aggregated births and deaths used to counter-verify civil registration; no date is given, so the report's publication date is used.", "as_of": "2025-04", "date_precision": "month", "system": "Rwanda Health Management Information System (R-HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Rwanda Health Management Information System (R-HMIS)", "country_label": "R-HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "countrywide"},
+    {"system": "DHIS2 mortality module", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "National Centralized and Integrated Civil Registration and Vital Statistics (NCI-CRVS) system", "country_label": "NCI-CRVS", "class": "", "platform": "", "owner": "", "tiers": "hospitals, health centres, clinics and polyclinics, public and private, with cells, sectors, districts and embassies; launched in health facilities on 10 August 2020"},
+    {"system": "Verbal Autopsy", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "community cause of death"}
+  ],
+  "note": ""
+}

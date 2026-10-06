@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' AI-assisted 54-country review states that rural primary clinics in Angola record on paper registers and that the data is aggregated monthly and transcribed into the national DHIS2, in use for aggregation since 2015, at municipal or provincial level; the review gives no date for the position, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "national DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' AI-assisted 54-country review states that rural primary clinics in Angola predominantly record patient data (consultations, vaccinations, treatments) on paper registers, not digitally at the point of care, and that it found no evidence of a routine EMR at rural clinics; the review gives no date for the position, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper patient registers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "national DHIS2", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "data entered at municipal or provincial level from rural clinics' paper registers"},
+    {"system": "TB EMR pilot", "country_label": "", "class": "tracker", "platform": "", "owner": "", "tiers": "urban, Luanda-based pilot"}
+  ],
+  "note": "Passages file. The source carries its own caution: an AI-assisted compilation, the author's analysis rather than sourced fact, resting on three cited sources (a Serbian Journal of the Medical Chamber article, a Frontiers in Public Health article and the WHO Angola Annual Report 2024). It also mentions Excel training for reports in 52 Huambo units and a national HIS strategic plan 2024-2030 under way, neither tied to a described system. The EMR statement is about rural clinics only, not every tier."
+}

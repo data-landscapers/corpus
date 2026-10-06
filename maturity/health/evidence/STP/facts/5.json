@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-15-sao-tome-rstp-teleconsulta-piaui-caue",
+  "facts": [],
+  "systems": [
+    {"system": "Piauí Saúde Digital teleconsultation platform", "country_label": "plataforma de teleconsulta", "class": "enabling", "platform": "Piauí Saúde Digital", "owner": "Government of the Brazilian state of Piauí, in partnership with the Sao Tomean authorities", "tiers": "Installed at the Angolares health centre, Caué district, operating from 1 July 2026; to be extended later to Lembá district and the Autonomous Region of Príncipe"}
+  ],
+  "note": "Telemedicine only: remote consultations with doctors in Brazil, launched 15 June 2026; the article describes no patient record and no routine reporting, so the system is enabling and gives no fact."
+}

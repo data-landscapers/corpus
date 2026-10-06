@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-17-tconnect-impact-soofia-school-publiceye",
+  "facts": [],
+  "systems": [
+    {
+      "system": "T-Connect Impact Account (Starlink Priority Connectivity)",
+      "country_label": "T-Connect Impact",
+      "class": "enabling",
+      "platform": "Starlink",
+      "owner": "T-Connect Lesotho",
+      "tiers": "offered to schools, clinics and community centres; launched at a school in Butha-Buthe, no clinic named"
+    }
+  ],
+  "note": "A satellite connectivity offer launched at a school in January 2026; the article says clinics would gain telemedicine and digital health records as a prospect, naming no clinic connected and no records system."
+}

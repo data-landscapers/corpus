@@ -1,0 +1,15 @@
+{
+  "slug": "2024-10-01-inege-hechos-vitales-guinea-ecuatorial-2023",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "country_label": "SNIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministerio de Sanidad y Bienestar Social (MSBS)",
+      "tiers": "public hospitals are named as the source of births, deaths and causes of death reaching INEGE through the SNIS; a 'puesto de salud' appears only as a place of birth"
+    }
+  ],
+  "note": "INEGE's vital-events report for 2023 uses the SNIS as a source of hospital births and deaths and says vital-event variables are added to the register books of public hospitals and private clinics, reported to INEGE quarterly; it does not say how the SNIS itself collects or whether it is digital. TACE is INEGE's own processing application for vital-event forms, not a health information system. No fact."
+}

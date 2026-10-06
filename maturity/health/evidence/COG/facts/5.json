@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Data Landscapers' 54-country review states that DHIS2 implementation was announced by the Ministry of Health in 2019.", "as_of": "2019", "date_precision": "year", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' review states that on 2020-2021 assessments there was no evidence the DHIS2 rollout was complete or of facility-level digital recording, the national HMIS relying on aggregate data entry, likely from paper reports at district level.", "as_of": "2021", "date_precision": "year", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "none", "fact": "Data Landscapers' review, citing the GHS Index, states that no electronic health records were in use, scored 0 in the 2020 assessment.", "as_of": "2020", "date_precision": "year", "system": "electronic health records (none in use)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' review states that rural primary healthcare clinics predominantly use paper for patient records, registers and prescriptions, with no 2024-2026 evidence of a shift to digital at rural level; no date is given for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "electronic health records (none in use)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (national HMIS)", "country_label": "national HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, with World Bank health project support", "tiers": "aggregate data entry, likely at district level from paper reports; tablets used for verification; no facility-level digital recording evidenced"}
+  ],
+  "note": "The source is the author's AI-assisted compilation and flags itself as analysis, not sourced fact; its statements rest on the GHS Index 2021 and a World Bank health sector project document."
+}

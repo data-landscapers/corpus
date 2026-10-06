@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-26-joghep-niger-integrating-specialised-services-phc",
+  "facts": [],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "digital hospital information system named OpenClinic", "class": "", "platform": "OpenClinic", "owner": "Ministry of Health with Enabel (PASS-Sutura project, Belgian funding ending 2026)", "tiers": "Gaya and Gothèye district hospitals"},
+    {"system": "District Health Information System (DHIS-2)", "country_label": "DHIS-2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "Computerised Maintenance and Management System", "country_label": "GMAO", "class": "enabling", "platform": "", "owner": "Ministry of Health with Enabel (PASS-Sutura)", "tiers": "three health districts since 2022; national scale-up expected after 2025"},
+    {"system": "telemedicine at referral hospitals", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "referral hospitals, planned for later in 2025"}
+  ],
+  "note": "The article describes OpenClinic, introduced at two district hospitals (Gaya, Gothèye), by its monitoring of service coverage and volume and a 75% rise in facility revenue between 2023 and 2024, and does not say it holds the clinical record, so it is unclassified and gives no emr fact. DHIS-2 is named only in a warning against duplicated indicators, with no description of reporting. The text as held does not state that reporting is fed by paper tallies or that there are thirty-odd platforms."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-tablet-based-clinical-decision-support-in-primary-health-facilities-in-chad",
+  "facts": [],
+  "systems": [
+    {"system": "CDSS (tablet-based clinical decision support system, SysRef project)", "country_label": "SysRef (Système Numérique pour une meilleure gestion de la santé des réfugiés)", "class": "tracker", "platform": "CommCare, later migrated to the Community Health Toolkit; cloud server", "owner": "Swiss TPH project team with CSSI, the Ministry of Health and UNHCR; funded by the Stanley Thomas Johnson Foundation; supervision handed to the Goré health district team at project end (June 2023)", "tiers": "3 primary healthcare facilities in Goré health district, Logone Oriental; used in 25,621 of 77,214 eligible consultations (33.2%) between July 2021 and April 2023; being replicated in one further health district"}
+  ],
+  "note": "Classed tracker, not emr: the paper describes a decision-support application for consultations of children aged 2-59 months only (IMCI), holding de-identified cases under a per-patient code with recall of earlier visits, while nurses still wrote the consultation into the paper patient registry; it is not described as the patient's general care record, so no emr fact. It says of HMIS only that the systems in place are insufficient to produce quality data, which fits no aspect. Parent may wish to review the class."
+}

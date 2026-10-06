@@ -1,0 +1,80 @@
+{
+  "slug": "2025-11-14-ehr-impilo-coverage-matabeleland-south",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:71.9%",
+      "fact": "The Matabeleland South provincial health team reports 110 of the province's 153 health facilities (71.9%) with Impilo fully functional, 138 (90.2%) with the network installed, 112 (73.2%) activated with trained users and 15 (9.8%) with no coverage, on data from its May 2025 meeting; one province, all facility types, not primary clinics alone.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:68%",
+      "fact": "The same study cites the Ministry of Health and Child Care's 2024 mid-term review for Manicaland Province at 88% coverage and 68% functional, giving no numerator or denominator; one province.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study, led by the provincial health team with the ministry, says the Ministry of Health and Child Care launched the Impilo EHR system and runs its rollout mandate; no date is given for this, so the document's published date is used.",
+      "as_of": "2025-11-14",
+      "date_precision": "day",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The study says Impilo was launched as part of the National eHealth Strategy 2021-2025, which aims at nationwide digitisation of health records, and cites a 2024 mid-term review of that strategy; the document's published date is used.",
+      "as_of": "2025-11-14",
+      "date_precision": "day",
+      "system": "Impilo EHR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Impilo EHR",
+      "country_label": "Impilo",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "Matabeleland South: 138 of 153 facilities across seven districts, urban centres to remote rural clinics; 15 mine, border-post and uniformed-forces clinics excluded from the rollout"
+    },
+    {
+      "system": "Laboratory Information Management Systems (LIMS)",
+      "country_label": "LIMS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Essential Logistics Management Information System (ELMIS)",
+      "country_label": "ELMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Starlink pilot",
+      "country_label": "Starlink Pilot Program",
+      "class": "enabling",
+      "platform": "Starlink",
+      "owner": "",
+      "tiers": "one remote site in Matabeleland South"
+    }
+  ],
+  "note": "The study does not say whether records are entered at the point of care, and gives no breakdown by facility tier. It records 2 sites non-functional for power, 26 awaiting training, and unstable connectivity in Bulilima and Matobo districts; integration of Impilo with LIMS and ELMIS is a recommendation, not a fact."
+}

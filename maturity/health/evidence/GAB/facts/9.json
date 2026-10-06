@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-16-ngounie-extension-egabon-sis-quatre-departements",
+  "facts": [],
+  "systems": [
+    {"system": "télé-échographie (eGabon-SIS)", "country_label": "eGabon-SIS", "class": "enabling", "platform": "", "owner": "Ministry of Health, with World Bank financing and ANINF technical support", "tiers": "health centres in four pilot health departments of Ngounié (Mbigou, Malinga, Mimongo, Mandji-Ndoulou), read remotely at the Centre hospitalier régional de Mouila; installation from 15 April 2026"}
+  ],
+  "note": "The deployment described under the eGabon-SIS name is tele-ultrasound kits in health centres, a telemedicine kit of class enabling, which gives no fact; nothing is said of reporting or of patient records."
+}

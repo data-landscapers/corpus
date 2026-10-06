@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-21-dovepress-somalia-hmis-data-quality-commentary",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The authors write from HMIS Sections inside the Federal Ministry of Health and Human Services (Department of Digital Health and Innovations) and the Banadir Regional Administration, and cite the ministry's own 2022 HMIS Standard Operating Procedures and registers manual as the national standard; no date is given for the units, so the publication date is used.", "as_of": "2026-08-21", "date_precision": "day", "system": "HMIS (DHIS2-based reporting)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The commentary says national reforms introduced standard registers, summary sheets and DHIS2-based reporting but implementation remains uneven across facilities and administrative levels, and it treats DHIS2 access and skills as something to check at facility level; no share of facilities is given and no date, so the publication date is used.", "as_of": "2026-08-21", "date_precision": "day", "system": "HMIS (DHIS2-based reporting)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "HMIS (DHIS2-based reporting)", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Federal Ministry of Health and Human Services, HMIS Section, Department of Digital Health and Innovations; regional HMIS sections such as Banadir's", "tiers": "facility, district, regional and national levels named; implementation uneven"},
+    {"system": "EMR", "country_label": "electronic medical record", "class": "emr", "platform": "", "owner": "", "tiers": "45 Somali public health facilities in a 2026 multicentre study, tier not stated"}
+  ],
+  "note": "The digitised fact is weak: the document implies facilities submit DHIS2 reports but never says outright who keys the data. On EMR it reports only a cited 2026 study in which 35.8% of 405 managers in 45 public facilities adequately used EMR-generated data, which fits no aspect; the 45 facilities are in the systems entry. Data-quality figures (65.3% across 36 Banadir public facilities) fit no aspect either."
+}

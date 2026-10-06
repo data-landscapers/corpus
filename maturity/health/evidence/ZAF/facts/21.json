@@ -1,0 +1,198 @@
+{
+  "slug": "2025-08-01-question-nw4495-minister-of-health-ehr",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Minister of Health told Parliament in reply NW4495 that there is currently no single EMR or EHR implemented, provinces having developed different systems, and that the National Department of Health is developing the single common Electronic Medical Record for primary health care facilities.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "National Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:36",
+      "fact": "The Minister of Health's reply NW4495 states the National EMR beta implementation was done in 36 primary health care facilities and 1 general practitioner practice, in Free State, KwaZulu-Natal, Northern Cape, Mpumalanga and North West between 22 October 2024 and 13 February 2025; the same reply counts 3,333 PHC facilities reporting to the 2024/25 Ideal Clinic Assessment.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "National Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "The Minister of Health's reply NW4495 lists the National EMR beta sites as clinics and community health centres (for example Jan Kempdorp CHC, Pampierstad CHC and Unit 9 CHC) in five local municipalities, with scale-up in primary health care facilities envisaged from January 2026 once an implementation-support tender is concluded.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "National Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The first phase of the National Electronic Medical Record went formally live on 28 March 2025, according to the Minister of Health's reply NW4495.",
+      "as_of": "2025-03-28",
+      "date_precision": "day",
+      "system": "National Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Minister of Health's reply NW4495, under hospital electronic medical record implementation, states the Eastern Cape Department of Health is implementing HMS2 in hospitals, with at least 44 hospitals in various stages of implementation; no total of hospitals is given.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "HMS2 (Eastern Cape)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Minister of Health's reply NW4495 states the Free State Department of Health has implemented HMS2 in phases in 16 hospitals since March 2023 and is implementing Meditech, a legacy system, in 3 hospitals; no total of hospitals is given.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "HMS2 and Meditech (Free State)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Minister of Health's reply NW4495 states Gauteng province is implementing a system named Health Information System, built on a SAP platform, in hospitals; no number of hospitals is given.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "Health Information System on SAP (Gauteng)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Minister of Health's reply NW4495 states KwaZulu-Natal has developed the eHealth system, implemented in phases in 42 public hospitals since March 2020; no total of hospitals is given.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "eHealth system (KwaZulu-Natal)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The Minister of Health's reply NW4495 states the Western Cape Department of Health has implemented Clinicom in 53 hospitals, the Primary Health Care Information System in 308 PHC facilities and PREHMIS in City of Cape Town PHC facilities, and recently began implementing the Electronic Continuity of Care Record to collate this patient data.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "Clinicom, PHCIS and PREHMIS (Western Cape)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:308",
+      "fact": "The Minister of Health's reply NW4495 states the Western Cape's Primary Health Care Information System is implemented in 308 PHC facilities, with PREHMIS in City of Cape Town PHC facilities (number not given); the same reply counts 244 Western Cape and 3,333 national PHC facilities reporting to the 2024/25 Ideal Clinic Assessment.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "Primary Health Care Information System (PHCIS), Western Cape",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The Minister of Health's reply NW4495 states the Mpumalanga, North West, Limpopo and Northern Cape Departments of Health are not currently implementing patient information or EMR systems at hospitals.",
+      "as_of": "2025-08-01",
+      "date_precision": "day",
+      "system": "hospital patient information or EMR systems (Mpumalanga, North West, Limpopo, Northern Cape: stated absent)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Electronic Medical Record (EMR)",
+      "country_label": "National EMR",
+      "class": "emr",
+      "platform": "",
+      "owner": "National Department of Health",
+      "tiers": "36 primary health care facilities (clinics and CHCs) and 1 GP practice, beta"
+    },
+    {
+      "system": "HMS2",
+      "country_label": "HMS2",
+      "class": "emr",
+      "platform": "HMS2",
+      "owner": "Eastern Cape and Free State Departments of Health",
+      "tiers": "hospitals: at least 44 in Eastern Cape in various stages; 16 in Free State"
+    },
+    {
+      "system": "Meditech",
+      "country_label": "Meditech",
+      "class": "emr",
+      "platform": "Meditech (legacy)",
+      "owner": "Free State Department of Health",
+      "tiers": "3 hospitals"
+    },
+    {
+      "system": "Health Information System (Gauteng)",
+      "country_label": "Health Information System",
+      "class": "emr",
+      "platform": "SAP",
+      "owner": "Gauteng province",
+      "tiers": "hospitals"
+    },
+    {
+      "system": "eHealth system (KwaZulu-Natal)",
+      "country_label": "eHealth",
+      "class": "emr",
+      "platform": "developed by the province",
+      "owner": "KwaZulu-Natal province",
+      "tiers": "42 public hospitals"
+    },
+    {
+      "system": "Clinicom",
+      "country_label": "Clinicom",
+      "class": "emr",
+      "platform": "Clinicom",
+      "owner": "Western Cape Department of Health",
+      "tiers": "53 hospitals"
+    },
+    {
+      "system": "Primary Health Care Information System (PHCIS)",
+      "country_label": "PHCIS",
+      "class": "emr",
+      "platform": "",
+      "owner": "Western Cape Department of Health",
+      "tiers": "308 PHC facilities"
+    },
+    {
+      "system": "PREHMIS",
+      "country_label": "PREHMIS",
+      "class": "emr",
+      "platform": "",
+      "owner": "Western Cape / City of Cape Town",
+      "tiers": "City of Cape Town PHC facilities"
+    },
+    {
+      "system": "Electronic Continuity of Care Record (ECCR)",
+      "country_label": "ECCR",
+      "class": "",
+      "platform": "",
+      "owner": "Western Cape Department of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Health Patient Registration System (HPRS)",
+      "country_label": "HPRS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "PHC facilities"
+    }
+  ],
+  "note": "The provincial systems are classed emr because the reply lists them under hospital electronic medical record implementation; it does not say what clinical content each holds, and it describes HPRS only as a digital patient administration system. Enabling: of 3,333 PHC facilities self-assessed in 2024/25, 52 (1.5%) had no functional computers and 173 (5.2%) no internet; the national department budgeted R20 million in 2025/26 for LTE routers and data for digital health solutions at PHC facilities and R13 million towards computers. The 28 March 2025 go-live is recorded though it falls outside twelve months of the study date."
+}

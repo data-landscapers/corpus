@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01-usaid-ken-hpn-afya-uzazi-2016-hpn---afya-uzazi-fprmncah",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 (a health management information system component)", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "community health information system", "country_label": "community health information system", "class": "community", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact: the record says USAID's Afya Uzazi maternal and child health programme (US$18,649,774 committed, 2016-2022) had health management information system components including DHIS2 and a community health information system, without describing what DHIS2 reports, so it is unclassified; the record was withdrawn from the finance register on 2026-10-01 because the money is not chiefly for a digital activity."
+}

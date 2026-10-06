@@ -1,0 +1,94 @@
+{
+  "slug": "2026-05-11-sudan-health-sector-digitalization-hms-launch",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "SUNA reports that on 11 May 2026 the ministries of health and of digital transformation and communications launched phase one of the health sector digitisation programme through the hospital management system (HMS), which includes an electronic patient record and an electronic medical record, at Al-Nao hospital in Khartoum state and the diagnostic centre of Gedaref hospital.",
+      "as_of": "2026-05-11",
+      "date_precision": "day",
+      "system": "Hospital Management System (HMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "SUNA reports that phase one of the HMS started at two hospital sites, Al-Nao hospital in Khartoum state and the diagnostic centre of Gedaref hospital, ahead of gradual expansion to health institutions in other states; the report does not give the hospitals' level, and states a launch rather than routine use.",
+      "as_of": "2026-05-11",
+      "date_precision": "day",
+      "system": "Hospital Management System (HMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "SUNA reports that the HMS programme was launched by the Ministry of Health and the Ministry of Digital Transformation and Communications as their own programme; no vendor, partner or funding source is named.",
+      "as_of": "2026-05-11",
+      "date_precision": "day",
+      "system": "Hospital Management System (HMS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Hospital Management System (HMS)",
+      "country_label": "نظام إدارة المستشفيات HMS",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "Al-Nao hospital (Khartoum state) and the diagnostic centre of Gedaref hospital; gradual expansion to other states intended"
+    },
+    {
+      "system": "Health information (HMIS) component of the HMS",
+      "country_label": "المعلومات الصحية (HMIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "the two phase-one hospital sites"
+    },
+    {
+      "system": "Laboratory information management (LIMS) component of the HMS",
+      "country_label": "إدارة معلومات المختبرات (LIMS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "the two phase-one hospital sites"
+    },
+    {
+      "system": "Pharmacy information (PIS) component of the HMS",
+      "country_label": "معلومات الصيدلة (PIS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "the two phase-one hospital sites"
+    },
+    {
+      "system": "Disease surveillance and monitoring component of the HMS",
+      "country_label": "نظام ترصد ومراقبة الأمراض",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "the two phase-one hospital sites"
+    },
+    {
+      "system": "Health workforce human resources information system (HRIS) component of the HMS",
+      "country_label": "نظام معلومات الموارد البشرية للعاملين الصحيين (HRIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "the two phase-one hospital sites"
+    },
+    {
+      "system": "Civil registration and vital statistics (CRVS) component of the HMS",
+      "country_label": "نظام التسجيل المدني والإحصاءات الحيوية (CRVS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health with Ministry of Digital Transformation and Communications",
+      "tiers": "the two phase-one hospital sites"
+    }
+  ],
+  "note": "The HMS is classed emr because the report lists an electronic patient record and an electronic medical record among its components. The HMIS component is named with no description of what it does, so it carries no class and no hmis fact. The tier value is T2 on the report's word 'hospital' alone."
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "2026-07-01-dhis2-comores-climate-health-country-profile",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "DHIS2's country profile (updated July 2026) says DHIS2 has been the national health management information system since 2022, covering routine data on a range of health programmes with malaria data collected monthly, describes the DHIS2 systems as locally owned, and says HISP Rwanda gives the Ministry of Health technical assistance and capacity building.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "DHIS2 national health management information system (HMIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 national health management information system (HMIS)",
+      "country_label": "national health management information system (HMIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with technical assistance from HISP Rwanda",
+      "tiers": "not stated; national"
+    },
+    {
+      "system": "DHIS2 disease surveillance",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2 community health",
+      "country_label": "",
+      "class": "community",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2 Climate & Health instance (malaria early warning)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2 with the DHIS2 Climate App, Chap Modeling Platform and DHIS2 Modeling App",
+      "owner": "Ministry of Health and National Malaria Control Programme, set up by HISP Rwanda with World Bank (COMPASS) funding to June 2026",
+      "tiers": "testing instance; piloted in the Ngazidja region"
+    },
+    {
+      "system": "National Malaria Control Programme weekly malaria data collection",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "not stated; kept in parallel to DHIS2 and being imported into it",
+      "owner": "National Malaria Control Programme",
+      "tiers": "not stated"
+    }
+  ],
+  "note": ""
+}

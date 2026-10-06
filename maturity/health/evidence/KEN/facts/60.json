@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-14-ssa-health-data-governance-literature-review",
+  "facts": [],
+  "systems": [
+    {"system": "Event-based surveillance system (EBS)", "country_label": "event-based surveillance system (EBS)", "class": "single-function", "platform": "", "owner": "", "tiers": "community and health facility settings"},
+    {"system": "Kenyan Health Information Systems Interoperability Framework", "country_label": "Health Information Systems Interoperability Framework", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "public and private health service providers"}
+  ],
+  "note": "A literature review of health-data governance law; for Kenya it names only an interoperability framework (exchange) and COVID-19 event-based surveillance (single-function), and states nothing about an HMIS or an EMR."
+}

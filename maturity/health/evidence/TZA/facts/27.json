@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-01-rita-universal-birth-registration-tanzania",
+  "facts": [],
+  "systems": [
+    {"system": "HMIS", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": "named only as a system the civil registration platform eRITA is integrated or being integrated with"},
+    {"system": "eRITA", "country_label": "e-RITA", "class": "", "platform": "", "owner": "RITA", "tiers": "civil registration, with registration points in health facilities (maternity and RCH wards) where health workers send birth details by mobile phone; not a health information system"}
+  ],
+  "note": "Civil registration slide deck: HMIS appears once, as an integration partner of the eRITA civil registration platform, with nothing said of what it does or where it runs."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (health sector use)", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "About the education EMIS on DHIS2; the only health statement is that DHIS2 has been used in the Gambian healthcare sector since 2009, with no description of what it does there, so no fact."
+}

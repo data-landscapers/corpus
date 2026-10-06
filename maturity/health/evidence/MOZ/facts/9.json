@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-31-iati-gb-chc-1099776-2u-mz-mozambique-upscale-echis",
+  "facts": [],
+  "systems": [
+    {"system": "upSCALE", "country_label": "upSCALE (eCHIS)", "class": "community", "platform": "mobile phone application", "owner": "Malaria Consortium, being institutionalised into the Ministry of Health under a UNICEF grant from January 2025 (US$4,614,127 disbursed)", "tiers": "community health workers (APSs); pilot from 2016, to be scaled to all 10 provinces and every district in each"}
+  ],
+  "note": "The only system named is upSCALE, a community health worker system (class community), so no HMIS or EMR fact; the document does not say it exchanges data with the HMIS."
+}

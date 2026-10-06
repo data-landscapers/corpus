@@ -1,0 +1,15 @@
+{
+  "slug": "2023-02-16-innovation-gouv-bj-sniam-strategie-nationale-ia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système National de Gestion d'Information Sanitaire (DHIS 2)",
+      "country_label": "Système National de Gestion d'Information Sanitaire",
+      "class": "",
+      "platform": "DHIS 2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The national AI and big data strategy (adopted 18 January 2023) names DHIS 2 only in a list of health data providers, beside the Ministry of Health, a data warehouse producing indicators (AIDS and others) and the national malaria programme, without saying what it does or who reports into it, so it is left unclassified and gives no fact. The 'dossier patient' appears only as an input to proposed AI use cases, with no statement that an electronic record exists. The document also cites the Stratégie Nationale de Cybersanté 2018-2022 (ICT at every level of the health system) and lists continuing the health interoperability framework under it as an accompanying measure."
+}

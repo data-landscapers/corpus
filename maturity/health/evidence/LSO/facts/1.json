@@ -1,0 +1,50 @@
+{
+  "slug": "2026-09-23-lso-newsday-unicef-srhr-data-systems-workshop",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Newsday reports a Ministry of Health officer from its Health Management Information Systems (HMIS) Division presenting how health data is collected from communities and facilities, at a workshop reported on 23 September 2026 (workshop dates not stated; publication date used).",
+      "as_of": "2026-09-23",
+      "date_precision": "day",
+      "system": "Health Management Information Systems (HMIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health Management Information Systems (HMIS)",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health, HMIS Division",
+      "tiers": "communities and health facilities, tiers not stated"
+    },
+    {
+      "system": "electronic registers",
+      "country_label": "electronic registers",
+      "class": "tracker",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "some programmes; others still on paper"
+    },
+    {
+      "system": "laboratory information system",
+      "country_label": "laboratory information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "national data warehouse",
+      "country_label": "national data warehouse",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "national"
+    }
+  ],
+  "note": "The HMIS Division says data is collected with a mix of paper-based and electronic registers, and the ICT department that some programmes use electronic registers while others rely on paper (September 2026); the mix fits no single 'digitised' value, so no such fact is recorded. The laboratory information system is not yet fully integrated into the national data warehouse."
+}

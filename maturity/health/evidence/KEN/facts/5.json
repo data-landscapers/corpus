@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-ken-duale-grants-one-month-extension-for-sha-hmis-transition",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "Ministry of Health; Digital Health Agency supports the transition", "tiers": "public Level 2 to 4 (all 6,427, as the garbled body gives it), public Level 5 (23 still in transition), Level 6 (KNH, KUTRRH in transition), faith-based (38 of 518), private"},
+    {"system": "SHA Provider Portal", "country_label": "SHA Provider Portal", "class": "", "platform": "", "owner": "Social Health Authority", "tiers": "contracted facilities, being migrated off it"}
+  ],
+  "note": "The report names the HMIS without describing what it does beyond 'a fully digital and paperless health information system', so the class is empty and there is no fact. It carries the extension of the migration deadline to 30 October 2026 for public Level 5 and 6, faith-based and private facilities, and the counts 6,427 public Level 2-4 transitioned, 23 Level 5 in progress and 38 of 518 faith-based transitioned."
+}

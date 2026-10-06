@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The essay, citing a 2023 WHO EMTCT assessment, states that rural health posts and primary centres keep manual registers and send paper aggregates upward, and that DHIS2 is used at district level for the aggregates.", "as_of": "2023", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The essay, citing the 2023 WHO EMTCT assessment, states that DHIS2 is used at district level for aggregates and not for routine digital entry at the facility; it gives no count of facilities.", "as_of": "2023", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay, citing the 2023 WHO EMTCT assessment, states that rural health posts and primary centres use manual registers and patient cards, and that it found no evidence of digital patient records at rural clinics, the point of care remaining paper-dominant.", "as_of": "2023", "date_precision": "year", "system": "manual registers and patient cards", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national health information system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "Used at district level for aggregates; facility-level training; tablets provided by WHO and UNDP"},
+    {"system": "DHIS2 individual tracker modules (primary health care patient registry and consultations)", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "", "tiers": "Primary health care, since 2020, supported by WHO and UNDP"}
+  ],
+  "note": "Passages file: one table row on clinics in Sao Tome and Principe. The essay is an AI-assisted compilation by its own account and reports the WHO assessment second-hand. The tracker modules are classed tracker on the study's DHIS2 rule although the essay says they cover general primary-care registration and consultations; the parent may want to look at that."
+}

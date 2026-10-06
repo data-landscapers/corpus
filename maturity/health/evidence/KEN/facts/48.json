@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-kenya-the-principles-in-action",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Health Management Information System (KeHMIS)", "country_label": "KeHMIS", "class": "tracker", "platform": "", "owner": "KeHMIS project, supporting the Ministry of Health, County Health Management Teams and service delivery partners", "tiers": "HIV clinics"},
+    {"system": "National Data Warehouse (NDW)", "country_label": "National Data Warehouse", "class": "tracker", "platform": "", "owner": "hosted by the National AIDS & STI Control Program", "tiers": "over 1,200 health facilities, 2.2 million patients (HIV care)"},
+    {"system": "KeHMIS interoperability layer", "country_label": "interoperability layer", "class": "exchange", "platform": "OpenHIE framework; HL7 standards", "owner": "KeHMIS project", "tiers": "eight participating systems"},
+    {"system": "Ushauri", "country_label": "Ushari", "class": "tracker", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Text for Adherence", "country_label": "Text for Adherence", "class": "tracker", "platform": "SMS/USSD", "owner": "", "tiers": ""},
+    {"system": "Mobile Laboratory", "country_label": "Mobile Laboratory", "class": "single-function", "platform": "SMS", "owner": "", "tiers": "sends national laboratory results to health facilities"},
+    {"system": "MYDAWA pharmacovigilance system", "country_label": "MYDAWA pharmacovigilance system", "class": "single-function", "platform": "", "owner": "MYDAWA (private online pharmacy)", "tiers": ""},
+    {"system": "reach52 platform", "country_label": "reach52", "class": "community", "platform": "offline-first mobile applications", "owner": "reach52 (social enterprise)", "tiers": "rural communities of Elgeyo Marakwet and Homa Bay counties"}
+  ],
+  "note": "No fact: every system described is of a noted class. KeHMIS, despite its name, is described as digitising HIV paper records and holding HIV patient-level data, a single-programme tracker, not routine aggregate reporting or a general patient record."
+}

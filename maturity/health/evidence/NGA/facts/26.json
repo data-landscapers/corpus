@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-07-nigeria-joins-dpga",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated; named as a digital public good to be scaled across government agencies and states under a planned national playbook"
+    }
+  ],
+  "note": "Nigeria's accession to the Digital Public Goods Alliance (7 October 2025); DHIS2 is named among goods to be scaled, with no description of what it does or where it is used."
+}

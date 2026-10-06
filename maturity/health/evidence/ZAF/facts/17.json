@@ -1,0 +1,118 @@
+{
+  "slug": "2026-03-03-ndoh-emr-digital-solution-implementation-invitation-to-bid",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Department of Health states in invitation to bid NDoH 04/2025-2026 that it developed the bespoke Electronic Medical Record solution itself, that its Digital Health Unit directs implementation, and that NGO service providers are to be appointed only to implement it in facilities and hand over to the provinces; the document carries no date line, so its published date is used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Department of Health's bid document says the department has committed to further development of the EMR solution as part of its Annual Performance Plan, citing also the 2019-2024 Digital Health Strategy, and sets an 18-month period to implement it in all fixed primary health care facilities in eight provinces; published date used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The National Department of Health's bid document for EMR implementation names no budget line or funding source; it bars any provider already holding two or more projects from the department's Global Fund Cluster and requires bidders to declare any Global Fund donor relationship; published date used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The National Department of Health describes its EMR solution as capturing clinical information on health encounters at the point of care by health service providers, verified against the patient's unique identifier in the Health Patient Registration System and intended to feed a longitudinal electronic health record; published date used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "The National Department of Health states the EMR implementation is intended only for public fixed primary healthcare facilities listed as Clinics and Community Health Centres or Community Day Centres, in eight provinces; this is the tender's target, and the document does not say which facilities already use it; published date used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The National Department of Health's bid document gives no number of primary facilities already using the EMR; it gives the target as 3,083 registered public fixed primary healthcare facilities across eight provinces, while its own per-province table sums to 3,213 (2,927 clinics and 286 community health centres); published date used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The National Department of Health issued invitation to bid NDoH 04/2025-2026 for NGO service providers to scale up its EMR to all fixed primary health care facilities in eight provinces within 18 months, with provincial timelines of 4 to 14 months and sites sequenced by a facility maturity model; the document carries no date line, so its published date is used.",
+      "as_of": "2026-03-03",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) solution",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Record (EMR) solution",
+      "country_label": "Electronic Medical Record (EMR) digital solution",
+      "class": "emr",
+      "platform": "bespoke, developed by the National Department of Health",
+      "owner": "National Department of Health (Digital Health Unit)",
+      "tiers": "fixed primary health care facilities: Clinics and Community Health Centres / Community Day Centres, in eight provinces (target)"
+    },
+    {
+      "system": "Health Patient Registration System (HPRS)",
+      "country_label": "Health Patient Registration System (HPRS)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "National Department of Health",
+      "tiers": "rolled out across South Africa"
+    },
+    {
+      "system": "Master Health Facility List (MHFL)",
+      "country_label": "Master Health Facility List (MHFL)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "every health establishment in South Africa"
+    },
+    {
+      "system": "Synchronised National Communication in Health (SyNCH)",
+      "country_label": "SyNCH",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "laboratory information system",
+      "country_label": "laboratory information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The eight provinces are Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape and North West; Western Cape is not in the tender. The stated total of 3,083 facilities does not match the table's own sum of 3,213."
+}

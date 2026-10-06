@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-15-unicef-and-hisp-uio-expand-partnership-somalia",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "HISP UiO reports that it and UNICEF signed a three-year agreement in August 2025 under which HISP, through HISP Tanzania, provides the ongoing maintenance and technical upkeep of Somalia's DHIS2 platform and trains ministry staff, with the stated aim that the Ministry of Health can later run it without external assistance; no domestic funding is mentioned.", "as_of": "2025-08-15", "date_precision": "day", "system": "DHIS2-based health management information system", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "A new three-year UNICEF and HISP UiO agreement to maintain and extend Somalia's DHIS2-based HMIS was announced on 15 August 2025, following the 2020 to 2023 partnership that supported the initial DHIS2 deployment.", "as_of": "2025-08-15", "date_precision": "day", "system": "DHIS2-based health management information system", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2-based health management information system", "country_label": "national health management information system", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health; maintained by HISP UiO and HISP Tanzania under a UNICEF agreement", "tiers": ""},
+    {"system": "DHIS2 Tracker (disease surveillance, HIV monitoring, immunization records)", "country_label": "DHIS2 Tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health, with UNICEF support", "tiers": ""},
+    {"system": "HIV Tracker", "country_label": "HIV Tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health; deployed by HISP under the 2025 agreement", "tiers": ""}
+  ],
+  "note": "The document states nothing on tiers, where data is keyed or how many facilities report. The DHIS2 system is classed hmis because the document calls it the backbone of the national health management information system; it does not describe aggregate reporting in so many words. The last12 event is dated August 2025, outside twelve months of today."
+}

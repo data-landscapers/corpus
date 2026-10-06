@@ -1,0 +1,70 @@
+{
+  "slug": "2024-08-19-eha-pillars-of-digital-transformation-telemedicine-uhis",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The Egypt Healthcare Authority said on 19 August 2024 that it runs a unified electronic medical record for patients in the governorates where the Universal Health Insurance System applies, with nearly 4.5 million electronic health files created, 42 million electronic prescriptions issued and electronic referral from primary healthcare units and centres to higher levels; its primary healthcare centres and units there are fully digitised and its hospitals work on a fully computerised system. The hospital tier is not distinguished and the statement covers only those governorates.",
+      "as_of": "2024-08-19",
+      "date_precision": "day",
+      "system": "Unified electronic medical record (Egypt Healthcare Authority)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:100%",
+      "fact": "The Egypt Healthcare Authority states that the primary healthcare centres and units under it, in the governorates where the Universal Health Insurance System applies, are 100% digitised; it gives no numerator or denominator, and the share is of the Authority's own facilities in those governorates, not of Egypt's primary clinics (19 August 2024).",
+      "as_of": "2024-08-19",
+      "date_precision": "day",
+      "system": "Unified electronic medical record (Egypt Healthcare Authority)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The unified electronic medical record is run by the Egypt Healthcare Authority, the state body that operates facilities under the Universal Health Insurance System, which describes itself as Egypt's first fully digital authority (19 August 2024); the owner is a public authority, not a ministry department, and no partner or vendor is named.",
+      "as_of": "2024-08-19",
+      "date_precision": "day",
+      "system": "Unified electronic medical record (Egypt Healthcare Authority)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Unified electronic medical record (Egypt Healthcare Authority)",
+      "country_label": "Unified electronic medical record / electronic health files",
+      "class": "emr",
+      "platform": "",
+      "owner": "Egypt Healthcare Authority",
+      "tiers": "Primary healthcare units and centres and hospitals under the Authority, in the governorates where the Universal Health Insurance System applies"
+    },
+    {
+      "system": "Electronic referral system",
+      "country_label": "Electronic referral system",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Egypt Healthcare Authority",
+      "tiers": "From primary healthcare units and centres to higher levels of service"
+    },
+    {
+      "system": "Telemedicine and remote diagnosis",
+      "country_label": "Telemedicine",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Egypt Healthcare Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Electronic dashboard for data analysis and patient satisfaction",
+      "country_label": "Electronic dashboard",
+      "class": "",
+      "platform": "",
+      "owner": "Egypt Healthcare Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "The share:100% value is the Authority's own claim over its own facilities in the UHIS governorates only, with no counts; the parent should not read it as a national share of primary clinics. The document does not say whether the record is keyed at the point of care, so no digitised fact."
+}

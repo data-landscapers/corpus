@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-09-state-lbr-afghs-data-systems-2025-record",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The deal record, quoting section 2.5.3 of the US-Liberia MOU signed 9 December 2025, states the US Government intends US$2,676,744 for Electronic Medical Records systems over 2026-2030, including US$827,050 in 2026, non-binding and subject to availability of funds.", "as_of": "2025-12-09", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The deal record, quoting section 2.5.3 of the US-Liberia MOU signed 9 December 2025, states the US Government intends US$1,338,372 for HMIS/DHIS2 as the national health data warehouse over 2026-2030, including US$413,525 in 2026, non-binding and subject to availability of funds.", "as_of": "2025-12-09", "date_precision": "day", "system": "HMIS/DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "HMIS/DHIS2", "country_label": "HMIS/DHIS2, national health data warehouse", "class": "hmis", "platform": "DHIS2", "owner": "Government of Liberia / Ministry of Health", "tiers": ""},
+    {"system": "Electronic Medical Records (EMR)", "country_label": "EMR", "class": "emr", "platform": "", "owner": "Government of Liberia / Ministry of Health", "tiers": ""},
+    {"system": "mSupply", "country_label": "mSupply", "class": "", "platform": "mSupply", "owner": "", "tiers": ""},
+    {"system": "LIS", "country_label": "lab information system", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eIDSR/IDSR", "country_label": "eIDSR/IDSR", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A finance deal record excerpting the MOU read as document 13; it repeats that document's funding figures (US$26,133,684 for all data systems, 2026-2030) and adds nothing on coverage."
+}

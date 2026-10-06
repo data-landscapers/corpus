@@ -1,0 +1,34 @@
+{
+  "slug": "2026-07-31-sacj-single-electronic-health-record-south-africa",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "Moonsamy states that since the government announced a single electronic health record for all South Africans (citing the President's 2025 State of the Nation address) it has not informed healthcare facilities how this would be accomplished, the term is not defined, and the current healthcare architecture does not support a single record; undated in the text, so the document's published date is used.",
+      "as_of": "2026-07-31",
+      "date_precision": "day",
+      "system": "single electronic health record (EHR)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "single electronic health record (EHR)",
+      "country_label": "single electronic health record",
+      "class": "emr",
+      "platform": "",
+      "owner": "government (announced, not built)",
+      "tiers": ""
+    },
+    {
+      "system": "SAP Health Information System (SAP HIS)",
+      "country_label": "SAP HIS",
+      "class": "",
+      "platform": "SAP",
+      "owner": "public sector, Gauteng province",
+      "tiers": "Gauteng only; not yet in other provinces"
+    }
+  ],
+  "note": "A literature review on architectures for a single record. It says SAP HIS was recently implemented for Gauteng's public sector and not yet in other provinces, without describing what it holds or at which tiers, and that paper-based and unconnected digital systems persist as data islands; no coverage figures."
+}

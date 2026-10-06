@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-16-digital-health-kenya-patient-summary-fhir-implementation-guide",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Patient Summary (KPS) FHIR Implementation Guide", "country_label": "Kenya Patient Summary", "class": "exchange", "platform": "HL7 FHIR 4.0.1, adapted from the International Patient Summary", "owner": "Digital Health Agency; built by IntelliSOFT Consulting", "tiers": "intended for community clinics, county hospitals, referral centres and emergency settings"},
+    {"system": "Kenya Digital Health Superhighway", "country_label": "Digital Health Superhighway", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A draft interoperability specification (version 0.1.0, continuous build, 'not an authorized publication') for sharing a patient summary between EMRs. It is class exchange and states nothing about any EMR or HMIS in use, so no fact."
+}

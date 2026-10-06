@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-16-xaf-chinadaily-africa-seeks-ai-digital-health-boost",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Health Superhighway", "country_label": "Digital Health Superhighway", "class": "exchange", "platform": "", "owner": "Digital Health Agency", "tiers": ""},
+    {"system": "Integrated health information system", "country_label": "integrated health information system", "class": "", "platform": "", "owner": "Digital Health Agency", "tiers": ""}
+  ],
+  "note": "Regional reportage. For Kenya it states intentions only: the Digital Health Superhighway is described as a national framework meant to connect healthcare players and enable shared health records, which is class exchange; the 'integrated health information system' the agency is working toward is not described. No fact of class hmis or emr."
+}

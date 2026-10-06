@@ -1,0 +1,16 @@
+{
+  "slug": "2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's Chad digital economy diagnostic states that the Ministry of Health implemented DHIS2, a health management data platform, in July 2021 with the financial support of the Global Fund and the GAVI Alliance, and that the project faces challenges in securing sustainable funding for connectivity, energy, maintenance and investment.", "as_of": "2021-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank's diagnostic states that the Ministry of Public Health and National Solidarity implemented DHIS2 in July 2021 and that the platform is used by several entities within the ministry, with the ministry turning to private hosting for it.", "as_of": "2021-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "District Health Information Software 2 (DHIS2)", "class": "hmis", "platform": "DHIS2, on private hosting", "owner": "Ministry of Public Health and National Solidarity; Global Fund and GAVI financing", "tiers": "more than 80 percent of districts equipped with IT devices for deployment to the deconcentrated level; rollout to all hospitals in progress (as of the 2023 report)"},
+    {"system": "AVADAR (Auto-Visual AFP Detection and Reporting)", "country_label": "AVADAR", "class": "single-function", "platform": "SMS-based application", "owner": "eHealth Africa (launched 2016)", "tiers": "health workers and key informants in hospital facilities and local communities"},
+    {"system": "Teleconsultation pilot, Good Samaritan University Hospital", "country_label": "", "class": "enabling", "platform": "", "owner": "Good Samaritan University Hospital, N'Djamena, with a foreign company's technical support", "tiers": "one hospital, with a plan to interconnect 23 hospitals"},
+    {"system": "mobile applications for immunization supervision visits", "country_label": "", "class": "single-function", "platform": "", "owner": "Government of Chad with development partners", "tiers": "pilot"},
+    {"system": "digital tools for diagnosis of maternal and child health diseases in refugee camps", "country_label": "", "class": "tracker", "platform": "", "owner": "Government of Chad with development partners", "tiers": "pilot, refugee camps"},
+    {"system": "tools to strengthen community voice in health policymaking", "country_label": "", "class": "", "platform": "", "owner": "Government of Chad with development partners", "tiers": "pilot"}
+  ],
+  "note": "The district-equipment figure (more than 80 percent, undated beyond 'to date') says devices were supplied, not that districts report, so it is carried in the systems entry rather than as a coverage fact."
+}

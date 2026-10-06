@@ -1,0 +1,13 @@
+{
+  "slug": "2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A WHO-led five-country study (fieldwork 2016-2017) reports that in the 16 randomly selected public primary facilities visited in Ghana (5 health centres, 10 CHPS or health posts, 1 maternal and child health clinic; 15 rural) monthly reporting forms were tallied on paper from registers and submitted to the district management office, where they were entered into the district management information system.", "as_of": "2017", "date_precision": "year", "system": "district management information system (DMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The study states that none of the selected primary facilities had electronic data collection in place, which for Ghana is 0 of 16 public primary facilities visited in four districts in 2016-2017; staff there used 23 paper monthly reporting forms taking 15 hours per health worker a month.", "as_of": "2017", "date_precision": "year", "system": "district management information system (DMIS)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The study found patient recording at the 16 Ghanaian public primary facilities visited in 2016-2017 to be on paper registers (16 mandated nationally), taking 31% of consultation time across four services, with no electronic system in any selected facility.", "as_of": "2017", "date_precision": "year", "system": "paper registers", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "None of the 16 public primary facilities visited in Ghana in 2016-2017 had an electronic system for recording patient data, by the study's statement that no selected facility had electronic data collection in place.", "as_of": "2017", "date_precision": "year", "system": "paper registers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "district management information system (DMIS)", "country_label": "", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "district management office, entered from primary facilities' paper forms"}
+  ],
+  "note": "The study names no Ghanaian system; 'district management information system' is its generic term across the five countries, and DHIS appears only in the abbreviations. The emr facts are statements of absence, so their system field carries the paper registers. Sample is 16 facilities, not a national figure."
+}

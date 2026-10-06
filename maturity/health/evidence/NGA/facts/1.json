@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-16-nga-health-ministry-nhtdao-digital-health-data-office",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Federal Ministry of Health and Social Welfare inaugurated the steering committee of the National Health Technology and Data Analytics Office on 16 September 2026; the minister of state said the electronic medical record systems deployed in health facilities are fragmented, some neither interconnected nor adequately standardised, and that minimum standards would be set and enforced.",
+      "as_of": "2026-09-16",
+      "date_precision": "day",
+      "system": "electronic medical record systems (unnamed, several)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic medical record systems (unnamed, several)",
+      "country_label": "electronic medical record systems",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "health facilities, tier not stated"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-19-eth-bmchsr-dhis2-data-utilization-harari-dire-dawa",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System 2 (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "public health facilities in Harari Regional State and Dire Dawa City Administration"}
+  ],
+  "note": "Abstract only. States a DHIS2 data-utilisation level of about 45% among 220 staff surveyed June-July 2020, below a national threshold of two thirds; that is data use, not any of the five aspects. It does not say what DHIS2 reports, which tiers enter data or where it is keyed, so the system is left unclassified."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "2025-06-01-digital-health-governance-framework-malawi",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry",
+     "fact": "The Ministry of Health's framework calls MaHIS the ministry's flagship platform for managing health information and the cornerstone for harmonising fragmented EMR systems, and gives its Digital Health Division the job of overseeing its expansion, maintenance and user support.",
+     "as_of": "2025-06", "date_precision": "month", "system": "Malawi Healthcare Information System (MaHIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current",
+     "fact": "The Digital Health Governance Framework 2025-2030, signed by the Secretary for Health in June 2025, names MaHIS and sets its nationwide scale-up across public and private facilities, integrated with the national ID system and hosted on e-Government data centres; it cites a Digital Health Policy 2024-2030 alongside.",
+     "as_of": "2025-06", "date_precision": "month", "system": "Malawi Healthcare Information System (MaHIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor",
+     "fact": "The framework states that digital health in Malawi continues to rely heavily on donor funding, and sets a medium-term step of starting the transition from donor-funded to government-led systems; it says this of digital health systems generally, with no budget line given for MaHIS.",
+     "as_of": "2025-06", "date_precision": "month", "system": "Malawi Healthcare Information System (MaHIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1",
+     "fact": "The framework describes central hospitals, the national referral tier, as key implementation sites for MaHIS, and says its rollout has been constrained; it gives no count of facilities at any tier.",
+     "as_of": "2025-06", "date_precision": "month", "system": "Malawi Healthcare Information System (MaHIS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Malawi Healthcare Information System (MaHIS)", "country_label": "MaHIS", "class": "emr", "platform": "", "owner": "Ministry of Health, Digital Health Division", "tiers": "central hospitals named as key implementation sites; to be deployed across public and private facilities"},
+    {"system": "Shared Health Records", "country_label": "Shared Health Records", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

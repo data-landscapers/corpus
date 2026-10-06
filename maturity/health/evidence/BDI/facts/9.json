@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31-bluesquare-structurer-utilisation-donnees-lutte-paludisme-burundi",
+  "facts": [],
+  "systems": [
+    {"system": "Entrepôt national de données paludisme", "country_label": "entrepôt national de données paludisme (projet Malariya Pi)", "class": "single-function", "platform": "", "owner": "Ministry of Public Health (PNILP, with the SNIS directorate and the health-sector IT directorate), built by Bluesquare with Enabel; financed by the Gates Foundation and Belgium", "tiers": "national; under construction as of March 2026"},
+    {"system": "Malariya Pi / HealthPulse AI", "country_label": "application Malariya Pi/Health Pulse", "class": "single-function", "platform": "HealthPulse AI (Audere)", "owner": "Audere, with Enabel", "tiers": "pilot, in hospitals (number not stated)"}
+  ],
+  "note": "Both systems serve malaria only (a programme data warehouse and an AI reader for rapid tests); no HMIS or EMR is described, the SNIS directorate being named only as a partner."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-02-marocma-hopitaux-publics-ia-diagnostic-precoce",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Health minister Amine Tehraoui told the House of Representatives on 1 June 2026 that the ministry is still working to put in place the unified medical record, meant to follow a patient across levels of care, and reported no facility count or completion date.", "as_of": "2026-06-01", "date_precision": "day", "system": "dossier médical unifié", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The health minister presented the unified medical record on 1 June 2026 as a project the Ministry of Health and Social Protection is itself putting in place.", "as_of": "2026-06-01", "date_precision": "day", "system": "dossier médical unifié", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier médical unifié", "country_label": "dossier médical unifié", "class": "emr", "platform": "", "owner": "Ministère de la Santé et de la Protection sociale", "tiers": "not stated; being put in place"},
+    {"system": "systèmes informatiques de santé (unified national project)", "country_label": "projet national d'unification des systèmes informatiques de santé / système numérique intégré", "class": "", "platform": "", "owner": "Ministère de la Santé et de la Protection sociale", "tiers": "generalised in hospitals in several regions, with primary health care centres being integrated, as the minister states; what it records is not described"},
+    {"system": "AI-assisted ultrasound pilot", "country_label": "programme d'échographie assistée par l'IA", "class": "enabling", "platform": "", "owner": "Ministère de la Santé et de la Protection sociale", "tiers": "pilot in two health centres, Aghbala (Béni Mellal) and Moulay Bouazza (Khénifra)"},
+    {"system": "AI-assisted breast cancer screening", "country_label": "dépistage du cancer du sein assisté par l'IA", "class": "enabling", "platform": "", "owner": "Institut national d'oncologie, CHU Ibn Sina, Rabat", "tiers": "one national referral institute"}
+  ],
+  "note": "The minister's statement that hospital information systems have been generalised in several regions and primary care centres integrated gives no fact: the system is not described as holding the clinical record or as aggregate reporting, and no count is given."
+}

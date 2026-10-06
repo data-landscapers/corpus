@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-30-tza-mediawireexpress-who-controls-health-data",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Names DHIS2 only generically (collection, storage, analysis, reporting and dissemination of health information), with no description of aggregate facility reporting, tiers or coverage; the Data Use Partnership with PATH is a governance programme, not a system. No fact."
+}

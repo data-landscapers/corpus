@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-equipe-pays-nations-unies-soumission-epu-congo",
+  "facts": [],
+  "systems": [
+    {"system": "eLMIS", "country_label": "système électronique d'information sur la gestion logistique (eLMIS)", "class": "single-function", "platform": "", "owner": "Ministère de la Santé et de la Population, through a technical working group supported by UNFPA and the Global Fund", "tiers": ""}
+  ],
+  "note": "The UN country team reports only that the health ministry set up a Comité Technique National pour l'informatisation du système de santé at the prompting of the eLMIS working group, that UNDP supported data collection for the health statistical yearbook in 2022, and that the planned health-to-civil-registration interoperability is not yet implemented; no HMIS or EMR is named or described, so no fact."
+}

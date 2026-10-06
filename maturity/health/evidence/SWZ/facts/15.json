@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Master Patient Index (MPI)", "country_label": "Master Patient Index", "class": "exchange", "platform": "MPI with deterministic and probabilistic matching, linked to the Population Registry", "owner": "Eswatini's health IT teams, implemented by Jembi with Data.FI", "tiers": "health facilities, not further specified"},
+    {"system": "FHIR-based health information exchange", "country_label": "interoperability platform", "class": "exchange", "platform": "OpenHIM Platform, FHIR", "owner": "Eswatini's health IT teams, implemented by Jembi with Data.FI", "tiers": "health facilities, with scaling to additional facilities named as a next step"}
+  ],
+  "note": "Describes only exchange-class systems (a Master Patient Index and an OpenHIM/FHIR exchange layer, year of the 30 January date inferred by the capture); no HMIS or EMR is named, though it says providers otherwise operate separate, disconnected systems."
+}

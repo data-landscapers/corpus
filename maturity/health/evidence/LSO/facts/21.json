@@ -1,0 +1,72 @@
+{
+  "slug": "2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A BMC study (Sekoai, Turner and Mitchell) states that since February 2015 the Ministry of Health's Health Management Information System has run on DHIS2 for data capture, storage and programme queries, introduced with PEPFAR support.",
+      "as_of": "2015-02",
+      "date_precision": "month",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "A BMC study states that PEPFAR has supported the Ministry of Health since February 2015 in introducing DHIS2 as its Health Management Information System; it names no domestic funding.",
+      "as_of": "2015-02",
+      "date_precision": "month",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "A BMC study states that a hospital-based EMR system was introduced in 2013 across 16 public hospitals in Lesotho's 10 districts; it does not say which were referral and which district hospitals.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "hospital-based EMR system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "A BMC study, citing the Ministry of Health's EMR assessment report of 18 October 2017, states that the hospital EMR had been discontinued in several facilities, was in substandard use in others, and that the Ministry was not receiving monthly outpatient reports from the 16 hospitals; the count of hospitals that stopped is not given.",
+      "as_of": "2017-10-18",
+      "date_precision": "day",
+      "system": "hospital-based EMR system",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health Management Information System (DHIS2)",
+      "country_label": "HMIS; national DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with PEPFAR support",
+      "tiers": ""
+    },
+    {
+      "system": "hospital-based EMR system",
+      "country_label": "EMR",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "16 public hospitals in 10 districts from 2013; discontinued in several by 2017"
+    },
+    {
+      "system": "eRegister",
+      "country_label": "eRegister; EMR system",
+      "class": "tracker",
+      "platform": "open-source client-level electronic register",
+      "owner": "Ministry of Health",
+      "tiers": "implemented from 2018 under a three-phase plan; in the study, one district referral hospital and 16 clinics (government and CHAL) in Mafeteng district"
+    }
+  ],
+  "note": "The study calls the eRegister an EMR throughout, but describes a client-level register tailored for HIV, TB and maternal and child health, built to track patients through the 95-95-95 targets, so it is classed tracker and its Mafeteng coverage (17 facilities surveyed, ethics approval 2023) gives no EMR fact; if the parent classes it emr, this document holds tiers, clinics and outage evidence. The hospital EMR is classed emr on the term alone, the study not describing what it held. The two 2013 and 2017 facts lie well outside the aspect windows."
+}

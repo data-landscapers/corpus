@@ -1,0 +1,98 @@
+{
+  "slug": "2025-11-21-worldbank-isr06012-senegal-digital-economy-acceleration-project",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:1%",
+      "fact": "The World Bank's implementation report records 1% of health centres using electronic medical records at 31 October 2025, against 0% at baseline and a 20% target for May 2028; the denominator is the 102 district-level 'centres de santé' only, and a centre counts if at least 30% of its consultations are recorded electronically.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) platform",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The World Bank's implementation report measures EMR use at district-level health centres ('centres de santé'), recording 1% of the 102 as users at 31 October 2025, and counts 200,000 primary care patients with an electronic medical record available on the same date; it reports no use at any other tier.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) platform",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank reports that primary care patients with an electronic medical record available rose from 0 at 25 October 2024 to 200,000 at 31 October 2025 (55% female), against a target of 1,500,000 by May 2028, and that the draft contract for scaling up the EMR had been finalised.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) platform",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The EMR is financed under Component 4 (USD 46 million) of the IDA-funded Senegal Digital Economy Acceleration Project, of which 4.15% of USD 166.85 million was disbursed by the report's archiving on 21 November 2025; the indicator for a financial viability model integrating digital health costs into national health financing stood at 'No' on 31 October 2025.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) platform",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank project approved on 9 February 2023 and closing on 31 May 2028 names adoption of electronic medical records in its development objective and sets costed targets of 20% of health centres using the EMR and 1,500,000 patients with a record by May 2028; it is a project results framework, not a national strategy.",
+      "as_of": "2025-11-21",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) platform",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Record (EMR) platform",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "delivered under the World Bank Senegal Digital Economy Acceleration Project (P172524); project unit under the MCTN",
+      "tiers": "district-level health centres (1% of 102 at 31 October 2025); 200,000 primary care patients"
+    },
+    {
+      "system": "electronic maternal records (digitised mother and child health record)",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "",
+      "owner": "World Bank project P172524, Component 4",
+      "tiers": "0% of eligible women at 25 October 2024"
+    },
+    {
+      "system": "telemedicine platform (pilot)",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "World Bank project P172524, Component 4",
+      "tiers": "0 consultations at 25 October 2024; kits planned for selected health facilities"
+    },
+    {
+      "system": "broadband connectivity of public healthcare facilities (governmental intranet)",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "World Bank project P172524, Component 4",
+      "tiers": "3% of public facilities: 51 of 1,600 health structures on the governmental intranet, last measured 4 May 2023"
+    },
+    {
+      "system": "geo-referenced map of healthcare facilities",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "to be published on the MSAS website",
+      "tiers": "not available at 31 October 2025"
+    }
+  ],
+  "note": "The 1% share has health centres (T3) as its denominator, not all primary clinics; health posts are not measured."
+}

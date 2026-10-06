@@ -1,0 +1,31 @@
+{
+  "slug": "2026-02-15-letemps-arp-adoption-loi-financement-e-sante",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-Santé programme: health establishments' information systems",
+      "country_label": "programme «E-Santé»; systèmes d'information des établissements de santé; système d'information sanitaire",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health supervises execution; financed by an Agence française de développement loan",
+      "tiers": "deployment in 24 university hospitals"
+    },
+    {
+      "system": "télémédecine (five regional initiatives)",
+      "country_label": "initiatives régionales de télémédecine",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health, under the E-Santé programme",
+      "tiers": "five regional initiatives covering the North, Centre and South"
+    },
+    {
+      "system": "hôpital numérique intégré",
+      "country_label": "hôpital numérique intégré",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: the article never says the hospital information systems hold the clinical record or report patients treated, so they are unclassified under the typology. What it does state, should the parent class them emr from another document: parliament approved on 12 February 2026 (94-2-3) amendment 2 to the 2019 AFD loan of EUR 27.3 million for E-Santé, covering modernising and securing health establishments' information systems and deploying them in 24 university hospitals; about 16% drawn (EUR 4.3 million), EUR 23 million remaining, drawdown deadline moved from 30 June 2024 to 30 September 2028 and completion to 31 December 2029; the Ministry of Health supervises."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-ken-tukio-sha-provider-contracting-digital-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Centralised Digital Platform", "country_label": "Centralised Digital Platform / SHA digital platform", "class": "", "platform": "", "owner": "Social Health Authority", "tiers": "all providers seeking a contract under the four SHA funds; used for onboarding and claims"},
+    {"system": "Facility electronic medical records system or other approved claims system", "country_label": "electronic medical records system", "class": "", "platform": "", "owner": "each healthcare provider", "tiers": "required of contracted facilities, primary healthcare providers included, from the cycle opening 1 October 2026"}
+  ],
+  "note": "States a contracting requirement, not a deployment: facilities must have a functional electronic medical records system 'or another approved claims system' to support contracting and claims processing, with internet-enabled devices at points of service. The requirement is framed by claims, names no system and gives no count of facilities holding one, so no fact."
+}

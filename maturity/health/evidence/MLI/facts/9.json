@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-26 Mali introduces new platforms to enhance digital public service access",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Biometric Update reports that OpenClinic, described as the Health Ministry's integrated health information system covering clinical, financial, pharmaceutical, laboratory and statistical aspects, was among platforms developed in Mali and presented to the Prime Minister on 16 September 2025, with links to the NINA identification number and the AMO insurance scheme still planned; no facility count is given.", "as_of": "2025-09-16", "date_precision": "day", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Health Ministry's OpenClinic system was presented to the Prime Minister on 16 September 2025 among newly introduced government platforms, as Biometric Update reports; the article gives no number of facilities using it.", "as_of": "2025-09-16", "date_precision": "day", "system": "OpenClinic", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "OpenClinic", "class": "emr", "platform": "OpenClinic", "owner": "Health Ministry", "tiers": "not stated"}
+  ],
+  "note": "OpenClinic is classed emr on the article's statement that it covers clinical and laboratory aspects; the article does not say in terms that it holds the patient's clinical record, and it also covers finance and statistics."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-06-ine-anuario-estatistico-sanitario-2023-minsa",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Anuário Estatístico Sanitário 2023, released in April 2026, is compiled by the health ministry's Gabinete de Estudos, Planeamento e Estatística from the Sistema de Informação Sanitária, worked by MINSA health staff at every level with the system's technical assistants and international partners taking part in review; no date is given for the arrangement, so the publication date is used.", "as_of": "2026-04", "date_precision": "month", "system": "Sistema de Informação Sanitária (SIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Sistema de Informação Sanitária (SIS)", "country_label": "Sistema de Informação Sanitária (SIS)", "class": "hmis", "platform": "", "owner": "Gabinete de Estudos, Planeamento e Estatística, Ministério da Saúde (MINSA)", "tiers": "all levels of the health system, from the base to the highest level, as the document puts it; no tier named"}
+  ],
+  "note": "Release notice for the health statistics yearbook; it describes the routine chain of registration, collection, sending, receipt, quality control, processing and analysis of health data but does not say whether any step is digital, names no software, and gives no tiers, place of entry or facility count."
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-21-lapresse-tunisie-portail-sahetna-identifiant-national-sante",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "A Ministry of Health communiqué of 21 July 2026 announced the imminent launch of the national citizen health platform Sahetna.tn, which ministry adviser Inès Ayadi said had entered its final phase of technical configuration and network deployment, giving hospital patients online access to their medical files and care history on a unified shared medical record; it was not yet in service.",
+      "as_of": "2026-07-21",
+      "date_precision": "day",
+      "system": "Sahetna.tn / dossier médical partagé unifié",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "La Presse reports on 21 July 2026 that the Ministry of Health's general directorate announced Sahetna.tn and the unified shared medical record as the ministry's own e-health project, with the ministry's roadmap extending the identifier and portal to private clinics and laboratories through joint technical commissions; no supplier or funder is named.",
+      "as_of": "2026-07-21",
+      "date_precision": "day",
+      "system": "Sahetna.tn / dossier médical partagé unifié",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sahetna.tn",
+      "country_label": "Plateforme Nationale pour la Santé du Citoyen « Sahetna.tn »",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "citizen portal for public hospital patients: care history, appointments, household electronic health files; final configuration, not in service; private sector to follow"
+    },
+    {
+      "system": "dossier médical partagé unifié",
+      "country_label": "dossier médical partagé unifié",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "intended to move clinical data between emergency departments and operating theatres; tiers in use not stated"
+    },
+    {
+      "system": "Identifiant National de Santé (INS)",
+      "country_label": "Identifiant National de Santé (INS); Identifiant Unique de Santé",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "pilot completed in a group of reference hospitals; progressive generalisation begun across all public health structures and university hospitals (CHU)"
+    }
+  ],
+  "note": "Probably the same ministry communiqué as document 9, reported two days earlier. The tier detail belongs to the INS (exchange), not to the record, so no tiers fact is taken."
+}

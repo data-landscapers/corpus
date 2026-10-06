@@ -1,0 +1,12 @@
+{
+  "slug": "2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A five-country study led with the Ministry of Health (Siyam et al., BMC Health Services Research) found in 2016-17 that Mozambique's public primary care facilities tallied paper registers onto monthly paper reporting forms (52 mandated, the most of the five countries; 25 in use) submitted to the district management office, where the forms' data were entered into the district management information system.", "as_of": "2017", "date_precision": "year", "system": "routine health information system (district management information system)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The same study states that none of the selected facilities had electronic data collection in place in 2016-17: 0 of the 16 randomly selected public primary care facilities visited in Mozambique (15 health centres and 1 health post, in four districts), and 0 of 80 across the five countries.", "as_of": "2017", "date_precision": "year", "system": "routine health information system (district management information system)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Siyam et al. report that in 2016-17 patient data at the 16 Mozambican public primary care facilities visited (15 health centres and 1 health post) were recorded daily in paper registers and tally sheets, recording taking 53% of consultation time, and that none of the selected facilities had an electronic system.", "as_of": "2017", "date_precision": "year", "system": "patient registers at primary care facilities (paper)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "routine health information system (district management information system)", "country_label": "", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "health centres and health posts report on paper to the district management office, which keys the data"}
+  ],
+  "note": ""
+}

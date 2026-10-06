@@ -1,0 +1,13 @@
+{
+  "slug": "2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The national statistics institute describes DHIS 2 as the national health information management system run by the Ministry of Public Health (MINSANTE); no date is attached to the statement, so the report's date of August 2023 is used.", "as_of": "2023-08", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "The national statistics institute states that DHIS2 carries aggregate patient data from the Monthly Activity Reports of all health facilities across the national territory, and uses those reports for 2018 to 2022; it does not break the facilities down by level.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "système national de gestion d'informations sanitaires (DHIS 2); Rapport Mensuel d'Activités (RMA)", "class": "hmis", "platform": "DHIS2", "owner": "MINSANTE", "tiers": "aggregate monthly activity reports of all health facilities nationwide"},
+    {"system": "DHIS2 individual declaration forms (births, deaths, causes of death)", "country_label": "formulaires de déclaration de naissances, de décès et de certification des causes de décès (DHIS 2 EVENT)", "class": "tracker", "platform": "DHIS2 Event", "owner": "MINSANTE", "tiers": "health facilities of four pilot regions (Centre, Extrême-Nord, Littoral, Sud), trained in 2022 to key the forms into DHIS2; 21,941 births keyed in 2022; cause-of-death data fed regularly by one facility (CURY)"},
+    {"system": "Electronic transmission of death declarations to civil status centres", "country_label": "transmission électronique", "class": "exchange", "platform": "", "owner": "MINSANTE; BUNEC", "tiers": "some health facilities in four regions from 2022; paper elsewhere"}
+  ],
+  "note": "Passages only. The report says where the individual declaration forms are keyed (at facilities in four pilot regions) but not where the aggregate monthly reports are keyed, so no digitised or clinics fact is taken; its annex table on facility completeness is not in the passages."
+}

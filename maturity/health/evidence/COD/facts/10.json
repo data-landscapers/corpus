@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-22-rti-ebola-surveillance-response-activated",
+  "facts": [],
+  "systems": [
+    {"system": "Ebola outbreak surveillance and response platform", "country_label": "official system for outbreak surveillance and response", "class": "tracker", "platform": "", "owner": "RTI International, funded by US CDC, with the government-led National Ebola Response Task Force", "tiers": "national and field response teams, Ituri and North Kivu"}
+  ],
+  "note": "The system handles Ebola case investigation, contact monitoring, laboratory and community alert data only; activated within 24 hours of the declaration of 15 May 2026, having been used in the 2025 Bulape response. No routine reporting system or patient record is described. The body does not name the software."
+}

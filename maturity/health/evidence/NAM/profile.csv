@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,hmis,governance,qualifier,,,,,nothing held
+NAM,hmis,tiers,coverage,,,,,nothing held
+NAM,hmis,digitised,coverage,district,2026-03-31,NAM-001,,
+NAM,hmis,last12,qualifier,,,,,nothing held
+NAM,hmis,clinics,coverage,none,2026-03-31,NAM-002,,
+NAM,emr,governance,qualifier,,,,,nothing held
+NAM,emr,tiers,coverage,,,,,nothing held
+NAM,emr,digitised,coverage,paper,2026-03-31,NAM-003,,
+NAM,emr,last12,qualifier,,,,,nothing held
+NAM,emr,clinics,coverage,,,,,nothing held

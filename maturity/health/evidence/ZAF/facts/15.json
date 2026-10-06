@@ -1,0 +1,58 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' country assessment states that no national EHR exists in public primary clinics and that rural primary healthcare clinics predominantly record patient data on paper at the point of service, with clinicians lacking real-time digital access during consultations; the assessment is undated, so the essay's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "national EHR (stated absent in public primary clinics)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregates from rural primary healthcare clinics entered by dedicated data capturers for national reporting"
+    },
+    {
+      "system": "Tier.net",
+      "country_label": "Tier.net",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": "public primary clinics (HIV/TB), back-end digitisation from paper"
+    },
+    {
+      "system": "HPRS",
+      "country_label": "HPRS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "public primary clinics (patient demographics)"
+    },
+    {
+      "system": "E-tick",
+      "country_label": "E-tick (electronic tick register)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "district-level trials in urban Gauteng, stalled"
+    },
+    {
+      "system": "PHCIS",
+      "country_label": "PHCIS (Western Cape)",
+      "class": "",
+      "platform": "",
+      "owner": "Western Cape",
+      "tiers": "Western Cape primary clinics; partial digital entry, paper barcodes retained"
+    }
+  ],
+  "note": "For hmis the assessment says clinicians record by hand, consolidate monthly onto paper forms and dedicated data capturers then enter aggregates into DHIS2, but it does not say whether the capturers sit at the facility or the district, so no digitised value is recorded. It also says 40% of facilities lack reliable internet, and that E-tick stalled after district trials in Gauteng (no date)."
+}

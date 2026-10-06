@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-18-japan-cpv-2025-telemedicina-equipamentos",
+  "facts": [],
+  "systems": [
+    {"system": "Serviço Nacional de Telemedicina", "country_label": "Serviço Nacional de Telemedicina (projeto Reestruturação do Serviço Nacional de Telemedicina)", "class": "enabling", "platform": "24 telemedicine carts, 24 videoconference systems, 2 digital microscopes", "owner": "Ministério da Saúde; equipment granted by the Government of Japan (CVE 240,000,000)", "tiers": "handed over 18 December 2025; installation under way so that all 22 municipalities have at least one equipped health facility; digital microscopes in the two central hospitals"},
+    {"system": "Sistema de Informação Sanitária", "country_label": "Sistema de Informação Sanitária", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Deal record for the Japanese grant of telemedicine equipment, an enabling class; the Sistema de Informação Sanitária is named only as what the equipment is to be integrated with, undescribed, so no HMIS or EMR fact is stated."
+}

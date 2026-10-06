@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "One sentence on Ethiopia: it has one of the continent's largest DHIS2 deployments, used for disease surveillance and health system monitoring, while patient-level records remain incomplete. No tier, place of data entry, clinic count, owner or dated event is given, and the description does not settle the module, so DHIS2 is left unclassified."
+}

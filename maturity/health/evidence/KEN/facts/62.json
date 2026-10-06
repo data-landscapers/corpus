@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-10-nature-health-safety-llm-clinical-decision-support-kenya",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:16", "fact": "The study authors state that all 16 outpatient facilities of the private social enterprise Penda Health in Nairobi and Kiambu counties used a cloud-based electronic health record system, recording 78,366 clinical consultations between 1 July and 30 September 2024; no denominator of clinics is given.", "as_of": "2024-09", "date_precision": "month", "system": "Penda Health EMR (Easy Clinic cloud-based electronic health record)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "The study authors describe the facilities using the EMR as Level 3a and 3b facilities, 24/7 outpatient urgent and primary care centres staffed mainly by clinical officers, in a private urban network, July to September 2024; no hospital or public-sector use is stated.", "as_of": "2024-09", "date_precision": "month", "system": "Penda Health EMR (Easy Clinic cloud-based electronic health record)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The study describes clinicians entering symptoms, vital signs, history, examination and tests into the EMR during the patient encounter and reviewing the embedded decision-support output in real time during the consultation, July to September 2024.", "as_of": "2024-09", "date_precision": "month", "system": "Penda Health EMR (Easy Clinic cloud-based electronic health record)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "The study states the EMR is a cloud-based system developed by Easy Clinic (India) and run by the private social enterprise Penda Health across its own network in 2024; no ministry role in the system is stated.", "as_of": "2024-09", "date_precision": "month", "system": "Penda Health EMR (Easy Clinic cloud-based electronic health record)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Penda Health EMR (Easy Clinic cloud-based electronic health record)", "country_label": "the EMR / electronic health record system", "class": "emr", "platform": "Easy Clinic (India) cloud-based electronic health record; replica held in an Azure SQL Server database", "owner": "Penda Health (private social enterprise); software by Easy Clinic", "tiers": "16 Level 3a and 3b outpatient urgent and primary care centres in Nairobi and Kiambu counties"}
+  ],
+  "note": "All facts concern one private clinic network, not the public system; the governance value is the nearest of the closed list (private provider on a vendor's product)."
+}

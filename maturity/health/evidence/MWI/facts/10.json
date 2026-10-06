@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that rural clinics' data clerks transcribe from Health Passports into paper facility registers, which are aggregated monthly and entered into DHIS2 at district level and not at the facility, although DHIS2 mobile allows some facility entry; no event date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Data Landscapers' review states that rural primary clinics predominantly record patient data on paper at the point of care, the patient-held Health Passport being the primary medical record because most rural facilities keep no outpatient files; no event date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Health Passports (paper)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "Data Landscapers' review states that the openSRP e-register, a tablet-based electronic health record, is limited to pilots, naming one site, Bilira Health Centre, since about 2021, covering thousands of patients; no event date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "Data Landscapers' review places the openSRP e-register at one health centre, Bilira, as a pilot since about 2021; no event date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "Data Landscapers' review states that electronic health records are mainly in urban and central hospitals, without naming the systems or counting the hospitals; no event date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "EHRs (unnamed)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district level from facilities' paper registers; DHIS2 mobile allows some facility entry"},
+    {"system": "openSRP e-register", "country_label": "e-register", "class": "emr", "platform": "OpenSRP", "owner": "", "tiers": "one health centre pilot, Bilira Health Centre, since about 2021"},
+    {"system": "iCHIS", "country_label": "iCHIS", "class": "community", "platform": "", "owner": "", "tiers": "community tool, 3 districts"},
+    {"system": "EHRs (unnamed)", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": "mainly urban and central hospitals"}
+  ],
+  "note": "The file's own header flags the country rows as an AI-aided compilation, the author's analysis and not sourced fact; the row also gives '41% facilities use digital tech', which is not a share of clinics entering their own reports and is not recorded as a clinics value."
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "count:342",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states that DHIS2 connected 342 facilities in 2018, rural ones included, through offline decentralised entry of aggregate data; it gives no denominator and does not say how many are primary clinics.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states that rural clinics record patient data mainly on paper at the point of care, with no evidence of direct digital patient registration in most rural clinics; the statement is undated, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper patient records",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "342 facilities including rural ones (2018), offline decentralised entry"
+    },
+    {
+      "system": "DHIS2 tracker program",
+      "country_label": "tracker program",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated; implementation described as unclear"
+    },
+    {
+      "system": "digital platforms planned for hospitals",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned for hospitals, not clinics"
+    }
+  ],
+  "note": "Passages file; only the Eritrea clinic row bears on health. It also mentions computers procured for districts in 2020 (enabling, no system named)."
+}

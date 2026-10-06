@@ -1,0 +1,50 @@
+{
+  "slug": "2026-09-29-tun-lapresse-telehealth-connect-health-id-2026",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Health Minister Mustapha Ferjani said on 29 September 2026 that the Ministry of Health aims for every Tunisian to have a unique health identifier and a digital medical record before the end of 2026, retrievable wherever the patient is treated, public or private, and hosted on a Tunisian sovereign cloud; this is a stated aim, with no coverage figure.",
+      "as_of": "2026-09-29",
+      "date_precision": "day",
+      "system": "dossier médical numérique",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical numérique",
+      "country_label": "dossier médical numérique",
+      "class": "emr",
+      "platform": "to be hosted on a \"cloud souverain tunisien\"",
+      "owner": "Ministry of Health",
+      "tiers": "not stated; aim is every citizen by end 2026, across public and private facilities"
+    },
+    {
+      "system": "identifiant sanitaire unique",
+      "country_label": "identifiant sanitaire unique",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "not stated; aim is every citizen by end 2026"
+    },
+    {
+      "system": "Sahetna",
+      "country_label": "plateforme « Sahetna »",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "citizen-facing portal in test phase: remote access to the medical record, appointments and test results; not in service"
+    },
+    {
+      "system": "hôpital numérique",
+      "country_label": "hôpital numérique",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health, with Tunisie Telecom contributing",
+      "tiers": "more than 32 hospitals equipped for remote imaging during 2026; over 120,000 radiology examinations and over 3,000 remote consultations since entry into service"
+    }
+  ],
+  "note": "Sahetna is a patient portal onto the record rather than the record itself; classed emr on what the article says it does, and no fact taken from it because it is in test."
+}

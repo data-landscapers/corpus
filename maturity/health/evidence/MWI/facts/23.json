@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-03-patient-held-records-rural-malawi",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "A qualitative study in Zomba District (Taylor and Kazembe, BMC Health Services Research), with a focus group of 10 practitioners from 9 clinics in September 2024, found that most facilities, particularly rural government clinics, kept no out-patient files on their premises, so the paper, patient-held Health Passport, written by hand during consultation, was the only medical record for the majority of the population.", "as_of": "2024-09", "date_precision": "month", "system": "Health Passports (paper)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Health Passports (paper)", "country_label": "Health Passport (HP)", "class": "emr", "platform": "paper booklet", "owner": "mandated by the National Health Information System Policy 2015; booklets bought by patients from vendors", "tiers": "used at clinics and for referral to central hospitals; not used in private clinics or for privately insured patients"},
+    {"system": "DHIS1 electronic aggregation system", "country_label": "DHIS1", "class": "hmis", "platform": "DHIS (the paper writes DHIS1)", "owner": "", "tiers": "receives data compiled from facility OPD and other registers, which data clerks transcribe from Health Passports; where the data is keyed is not stated"}
+  ],
+  "note": "The study covers one district; it does not say at which level register data is entered into the aggregation system, so no hmis fact is recorded. It also states the National Health Information System Policy has not been updated since 2015, which names no system plan and is not recorded as a governance value. The capture omits part of the Results, the Recommendations, Conclusion and References."
+}

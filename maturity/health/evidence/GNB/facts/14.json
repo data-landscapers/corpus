@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-01-minsap-pnds-iii-plano-nacional-desenvolvimento-sanitario-2023-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Nacional de Informação Sanitária (SIS/SNIS)", "country_label": "SIS / SNIS", "class": "", "platform": "", "owner": "MINSAP", "tiers": ""}
+  ],
+  "note": "The held capture of PNDS III 2023-2028 is truncated before section 3.8 on health information; the SIS/SNIS and a Plano Estratégico Nacional do Sistema de Informação Sanitária (PENSIS) appear in the acronym list only, with nothing stated about what the system does, its plan's status, tiers or data entry."
+}

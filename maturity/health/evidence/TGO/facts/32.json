@@ -1,0 +1,13 @@
+{
+  "slug": "2020-01-01-togo-immunization-package",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "DHIS2 (HISP) states that when Togo moved its routine immunisation (EPI) reporting off DVD-MT into the national HMIS on DHIS2, data entry and analysis were decentralised down to the facility level; it gives EPI report completeness of 99.1% in 2018 and 99.3% in 2019 and on-time submission rising from 38.2% to 83% (both printed as 2019).", "as_of": "2019", "date_precision": "year", "system": "DHIS2 (national HMIS), immunization package", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "DHIS2 (HISP) states that Togo implemented the DHIS2 immunization package and data quality tool with the support of Gavi; the statement covers the immunisation reporting within the national DHIS2, not the whole system, and no domestic funding is mentioned.", "as_of": "2019", "date_precision": "year", "system": "DHIS2 (national HMIS), immunization package", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "data entry down to facility level (for EPI data)"},
+    {"system": "DHIS2 immunization package", "country_label": "PEV-Routine", "class": "single-function", "platform": "DHIS2", "owner": "EPI team; Gavi-supported", "tiers": "facility level"},
+    {"system": "DVD-MT", "country_label": "", "class": "single-function", "platform": "DVD-MT", "owner": "EPI team", "tiers": "central team only; replaced by DHIS2"}
+  ],
+  "note": "The published date is inferred (year); the figures the page gives are for 2018 and 2019, used for as_of. Both facts concern aggregate immunisation reporting inside the national DHIS2, one programme's stream rather than the whole HMIS."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2025-06-13-emr-rollout-patient-care-data-management",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health says it introduced electronic medical records itself in 2018 and in 2022 gave facilities two platforms, Clinic Master and eAFYA, distributing more than 1,700 computers and installing servers in key hospitals.", "as_of": "2022", "date_precision": "year", "system": "Electronic Medical Records (eAFYA; Clinic Master)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "The Ministry of Health says the EMR began in 2018 as a pilot in seven hospitals, including Naguru and Entebbe General.", "as_of": "2018", "date_precision": "year", "system": "Electronic Medical Records", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "The Ministry of Health says that by 2020 the EMR had been extended to nine regional referral hospitals.", "as_of": "2020", "date_precision": "year", "system": "Electronic Medical Records", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "The Ministry of Health says facilities using the EMR grew from 23 to 69 within the year 2023, covering all 16 regional referral hospitals and most general hospitals.", "as_of": "2023", "date_precision": "year", "system": "Electronic Medical Records (eAFYA; Clinic Master)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2;T3", "fact": "The Ministry of Health says that as of 2025 the EMR covers 92 per cent of targeted hospitals: four national referral hospitals, all regional referral hospitals, 47 general hospitals, 5 Health Centre IVs and 2 Health Centre IIIs.", "as_of": "2025", "date_precision": "year", "system": "Electronic Medical Records (eAFYA; Clinic Master)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:7", "fact": "The Ministry of Health counts 5 Health Centre IVs and 2 Health Centre IIIs using the EMR as of 2025, with no denominator given; Health Centre IVs and some Health Centre IIIs were first brought on in 2024.", "as_of": "2025", "date_precision": "year", "system": "Electronic Medical Records (eAFYA; Clinic Master)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The Ministry of Health says that as of 2025 the EMR is integrated across outpatient, maternal and child health, pharmacy and laboratory departments, shares data in real time and raises automated alerts that have reduced medication errors.", "as_of": "2025", "date_precision": "year", "system": "Electronic Medical Records (eAFYA; Clinic Master)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eAFYA", "country_label": "Electronic Medical Records (EMR)", "class": "emr", "platform": "eAFYA", "owner": "Ministry of Health", "tiers": "National referral, regional referral and general hospitals, 5 Health Centre IVs and 2 Health Centre IIIs (2025); the preferred platform, works offline and connects to laboratory systems and pharmacies"},
+    {"system": "Clinic Master", "country_label": "Electronic Medical Records (EMR)", "class": "emr", "platform": "Clinic Master", "owner": "Ministry of Health", "tiers": "Offered to facilities from 2022 as one of two EMR platforms; earlier used in HIV clinics"}
+  ],
+  "note": ""
+}

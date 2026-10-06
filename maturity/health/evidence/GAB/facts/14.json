@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-29-gabon-egabon-sis-health-mis-equipment",
+  "facts": [],
+  "systems": [
+    {"system": "eGabon-SIS (Système d'Information de Santé, second phase)", "country_label": "eGabon-SIS / SIS", "class": "", "platform": "", "owner": "Government of Gabon (ministries of Digital Economy and Health, ANINF), with World Bank technical and financial support", "tiers": "13 pilot public health structures across the country received a first lot of computer equipment on 28 July 2025; tier not stated"}
+  ],
+  "note": "Reports the handover of computer equipment to 13 pilot health structures on 28 July 2025 at the launch of the second phase of the SIS; it speaks only of collecting, processing and securing medical data and interconnecting establishments, without saying whether the system is aggregate reporting or a patient record, so it is unclassified and no fact is taken."
+}

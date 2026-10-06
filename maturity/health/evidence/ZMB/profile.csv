@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,hmis,governance,qualifier,plan:none;finance:donor,2025-04,ZMB-023;ZMB-028,ZMB-029=finance:donor,not stated: owner
+ZMB,hmis,tiers,coverage,,,,,nothing held
+ZMB,hmis,digitised,coverage,district,2026-03-31,ZMB-015,,
+ZMB,hmis,last12,qualifier,,,,,nothing held
+ZMB,hmis,clinics,coverage,,,,,nothing held
+ZMB,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-07-16,ZMB-001;ZMB-010;ZMB-021,ZMB-014=owner:ministry;ZMB-018=owner:ministry;ZMB-020=owner:ministry;ZMB-022=plan:current;ZMB-026=owner:ministry;ZMB-030=owner:ministry,
+ZMB,emr,tiers,coverage,T1,2026-07-16,ZMB-004;ZMB-007;ZMB-012,,
+ZMB,emr,digitised,coverage,point-of-care,2026-01-15,ZMB-017;ZMB-027,,
+ZMB,emr,last12,qualifier,advancing,2026-07-16,ZMB-003;ZMB-006;ZMB-011,,
+ZMB,emr,clinics,coverage,share:80%,2026-07-07,ZMB-009,ZMB-002=count:2000;ZMB-005=count:2000;ZMB-008=pilot;ZMB-013=pilot;ZMB-016=count:877;ZMB-019=count:877;ZMB-024=count:1800;ZMB-025=count:350,

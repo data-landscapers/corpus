@@ -1,0 +1,34 @@
+{
+  "slug": "2026-08-04-dhis2-hisp-highlights-juillet-2026-erdqa-togo",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "HISP's July 2026 round-up says HISP WCA supported the health ministry's national directorate for health information and IT on a field supervision mission in the Savanes, Kara and Centrale regions to integrate the eRDQA routine data quality assessment app into the national DHIS2 platform, testing it on Android at the regional hospitals of Sokodé and Dapaong and the health centres of Kadambara, Ataloté and Kpessidè.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "plateforme nationale DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "plateforme nationale DHIS2",
+      "country_label": "plateforme nationale DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Direction nationale du système d'information sanitaire et de l'informatique, with HISP WCA support",
+      "tiers": "not stated; the eRDQA app was tested at two regional hospital centres and three health centres"
+    },
+    {
+      "system": "eRDQA",
+      "country_label": "eRDQA",
+      "class": "",
+      "platform": "DHIS2 Android application",
+      "owner": "Direction nationale du système d'information sanitaire et de l'informatique, with HISP WCA support",
+      "tiers": "field-tested at the regional hospital centres of Sokodé and Dapaong and the health centres of Kadambara, Ataloté and Kpessidè"
+    }
+  ],
+  "note": "The document does not say what the national DHIS2 platform reports; classed hmis on its description as the national platform for routine data whose quality the app assesses."
+}

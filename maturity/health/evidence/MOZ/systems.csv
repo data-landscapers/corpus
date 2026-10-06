@@ -1,0 +1,45 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,SIS-MA (Sisma Agregado),Sistema de Informação de Saúde para Monitoria e Avaliação (SIS-MA / SISMA),hmis,DHIS2,"MISAU, Departamento de Informação para Saúde (DIS)","not stated; its facility list covers provinces, districts, health units, health centres and hospitals",2026-08-28-sisma-interoperability-platform
+MOZ,SIS-MA módulo de dados hospitalares,módulo de dados hospitalares,,DHIS2,MISAU,"hospitals; records patient demographic data and deaths, passed to SIRCEV for death certificates",2026-08-28-sisma-interoperability-platform
+MOZ,Plataforma de Interoperabilidade,Plataforma de Interoperabilidade do SISMA,exchange,,"MISAU, Departamento de Informação para Saúde (DIS)",national; mediates exchange between SIS-MA and other systems,2026-08-28-sisma-interoperability-platform
+MOZ,Master Facility List (MFL) and MFL Updater,Master Facility List - MFL,exchange,API over DHIS2,"MISAU, Departamento de Informação para Saúde (DIS)",national; facility registry synchronised across the DHIS2 instances,2026-08-28-sisma-interoperability-platform
+MOZ,Ferramenta Central (FC),Ferramenta Central,single-function,,Central de Medicamentos e Artigos Médicos (CMAM),"national; medicines logistics data, consumed by SIS-MA",2026-08-28-sisma-interoperability-platform
+MOZ,National DHIS2 HMIS,,hmis,DHIS2,,aggregates entered at district level from clinics' paper,2026-03-31 Africa we have a data problem
+MOZ,DHIS2 Tracker app for immunization,,tracker,DHIS2 Tracker,,"pilot in 5 of 11 provinces, 2024, 19,000 children",2026-03-31 Africa we have a data problem
+MOZ,ECR platform,ECR,,,,in development for facilities,2026-03-31 Africa we have a data problem
+MOZ,Hospital digitalisation pilots (2024),,,,,"hospitals, pilot, to reduce paper",2026-03-31 Africa we have a data problem
+MOZ,SIS-RME,Integrated Electronic Medical Record System (SIS-RME),emr,,Government of Mozambique,not stated; minimum viable version targeted September 2026; scannable capture planned for low-burden facilities by June 2027,2025-12-15-afghs-mou-mozambique
+MOZ,SESP,Electronic Patient Tracking System (SESP),tracker,,US Government (developed it); to pass to Government of Mozambique management by 20 June 2026,not stated; generates existing MISAU reports during transition,2025-12-15-afghs-mou-mozambique
+MOZ,SIS-MA,SIS-MA / SISMA,hmis,,,"not stated; cited as the source of national counts (people on ART, positive HIV tests, malaria treatment, TB notifications, antenatal visits)",2025-12-15-afghs-mou-mozambique
+MOZ,SIS-RME pharmacy module,,single-function,SIS-RME,Government of Mozambique,not stated,2025-12-15-afghs-mou-mozambique
+MOZ,iDMED,iDMED,single-function,,,"existing pharmacy data system for ART and TPT, kept temporarily until moved into SIS-RME",2025-12-15-afghs-mou-mozambique
+MOZ,SIS-LAB,Laboratory Information System (SIS-LAB),single-function,open source,Government of Mozambique,in design; clinical and public health laboratories by end 2030,2025-12-15-afghs-mou-mozambique
+MOZ,DISA,DISA,single-function,licensed software,,laboratories; in use for clinical and surveillance laboratory data,2025-12-15-afghs-mou-mozambique
+MOZ,eVIDR,Integrated Disease Surveillance and Response Platform (eVIDR),single-function,,Government of Mozambique,case-based outbreak surveillance; all applicable locations by end 2027,2025-12-15-afghs-mou-mozambique
+MOZ,e-IDSR / BES,e-IDSR; BES,single-function,,,cited as source for polio and measles case counts,2025-12-15-afghs-mou-mozambique
+MOZ,nSIMAM,nSIMAM,single-function,,Government of Mozambique,health commodity logistics; all government-run supply chain components by end 2028,2025-12-15-afghs-mou-mozambique
+MOZ,Health data exchange,health data exchange,exchange,,Government of Mozambique,"national; to be functional by end 2026, with a shared health record",2025-12-15-afghs-mou-mozambique
+MOZ,National Health Data Warehouse,National Health Data Warehouse,,,Government of Mozambique,national; to be operational by end 2027,2025-12-15-afghs-mou-mozambique
+MOZ,SIS-COVE,SIS-COVE,,,,cited as source for maternal and under-5 mortality rates,2025-12-15-afghs-mou-mozambique
+MOZ,Unified M&E System,Unified M&E System,,,MISAU,not stated,2025-12-15-afghs-mou-mozambique
+MOZ,Registo Médico Electrónico,Registo Médico Electrónico,emr,,,to be implemented starting from the health units (unidades sanitárias),2025-12-15-mocambique-eua-acordo-saude
+MOZ,SIS-RME,SIS-RME,emr,,Government of Mozambique,not stated,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,SESP,SESP,tracker,,US-built; to Mozambican management by 20 June 2026,not stated,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,SIS-LAB,SIS-LAB,,,,not stated,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,eVIDR,eVIDR,single-function,,,outbreak surveillance platform,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,nSIMAM,nSIMAM,single-function,,,commodity logistics,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,Health data exchange,health data exchange,exchange,,,national; due functional by end 2026,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,National health data warehouse,national health data warehouse,,,,national; due operational by end 2027,2025-12-15-state-moz-afghs-data-systems-2025-record
+MOZ,upSCALE,upSCALE (eCHIS),community,mobile phone application,"Malaria Consortium, being institutionalised into the Ministry of Health under a UNICEF grant from January 2025 (US$4,614,127 disbursed)","community health workers (APSs); pilot from 2016, to be scaled to all 10 provinces and every district in each",2025-03-31-iati-gb-chc-1099776-2u-mz-mozambique-upscale-echis
+MOZ,SIS-MA,Sistema de Informação para Saúde / SIS-MA,hmis,,MISAU (plan contributors include its DIS),"four reporting levels named: unidade sanitária, distrital, provincial, central; the document does not say at which level data is keyed",2025-01-01-misau-plano-melhoria-qualidade-dados-2025-2029
+MOZ,SIS-H,Hospital Health Information System (SIS-H),emr,,,"Mavalane General Hospital, Maputo, from December 2024",2025-01-01-jembi-mozambique-case-study
+MOZ,MGDH-Birth,MGDH-Birth (Hospital Data Management),tracker,,,"pilot grown from 5 to 19 health facilities in Inhambane Province since July 2024, including Chicuque Rural Hospital; over 11,589 newborns registered",2025-01-01-jembi-mozambique-case-study
+MOZ,OpenHIM interoperability layer,,exchange,OpenHIM,Jembi Health Systems,"links MGDH-Birth to the civil registration system e-SiRCEV in real time, from July 2024",2025-01-01-jembi-mozambique-case-study
+MOZ,National Health System's death-registration module,,,,,not stated; said to interoperate with the civil registration system (156 civil registration posts opened in hospitals by December 2024),2025-01-01-strengthening-civil-registration-mozambique-crvs
+MOZ,SIS-MA,"SIS-MA, Sistema de Informação em Saúde para ...",,,,"not stated; listed as one of 64 databases in the INS catalogue, March 2022",2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,DISA,DISA (Sistema ...),,,,not stated; listed in the INS catalogue,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,MozART,"MozART, Mozambique Antiretroviral Treatment",tracker,,,not stated; holds HIV patients' care and treatment data from EPTS,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,Marcação de consultas,Marcação de consultas,,,,not stated; a database on consultation appointments,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,APES,APES,,,,not stated,2022-03-01-ins-mozambique-catalogo-bases-de-dados
+MOZ,routine health information system (district management information system),,hmis,,Ministry of Health,"health centres and health posts report on paper to the district management office, which keys the data",2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries
+MOZ,DHIS,,hmis,DHIS / DHIS2,,"aggregated data recorded at facility, district and regional levels",2021-08-04 Health information systems in developing countries case of African countries

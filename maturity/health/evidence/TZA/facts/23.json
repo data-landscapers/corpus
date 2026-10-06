@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-02-matumizi-ya-data-na-teknolojia-yaimarisha-huduma-za-afya-nchini",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2;T3", "fact": "The Permanent Secretary of the Ministry of Health, opening the 12th Tanzania Health Summit, said the country now has for the first time an integrated electronic medical records system linking a patient's information from community level through health centres and district hospitals to national level; no facility counts are given and dispensaries are not named.", "as_of": "2025-10-01", "date_precision": "day", "system": "integrated electronic medical records system (mfumo jumuishi wa rekodi za matibabu za kielektroniki)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "integrated electronic medical records system (mfumo jumuishi wa rekodi za matibabu za kielektroniki)", "country_label": "mfumo jumuishi wa rekodi za matibabu za kielektroniki", "class": "emr", "platform": "", "owner": "Government (Ministry of Health speaking)", "tiers": "community level, health centres, district hospitals, national level"},
+    {"system": "M-Mama", "country_label": "M-Mama", "class": "single-function", "platform": "", "owner": "Government (national emergency transport system for mothers and newborns)", "tiers": "all regions; free number 155"}
+  ],
+  "note": ""
+}

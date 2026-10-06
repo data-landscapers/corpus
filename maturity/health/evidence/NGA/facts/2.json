@@ -1,0 +1,31 @@
+{
+  "slug": "2026-08-21-lmvsv-vaccine-last-mile-nigeria",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Last Mile Vaccine Stock Visibility (LMVSV)",
+      "country_label": "LMVSV",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "National Primary Health Care Development Agency (NPHCDA), hosted on an NPHCDA server; technical assistance from VillageReach and Development Delivery Partners",
+      "tiers": "primary health facilities: 13,634 enrolled across 36 states and the FCT by July 2026, 4,855 had reported at least once by 26 July 2026; stock entered at the facility by a focal person, viewed by LGA cold chain officers"
+    },
+    {
+      "system": "OpenLMIS",
+      "country_label": "OpenLMIS",
+      "class": "single-function",
+      "platform": "OpenLMIS",
+      "owner": "",
+      "tiers": "all 835 vaccine cold stores, down to LGA level"
+    },
+    {
+      "system": "Cold Chain Data Exchange (CCDX)",
+      "country_label": "CCDX",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned interoperability, not stated"
+    }
+  ],
+  "note": "Vaccine stock reporting only: LMVSV and OpenLMIS are single-function systems, so no hmis or emr fact. The document does state that about 20,000 primary health facilities kept vaccine stock records on paper until the rollout."
+}

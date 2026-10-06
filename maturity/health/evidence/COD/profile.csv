@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COD,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06-10,COD-004;COD-006;COD-008,COD-007=finance:donor;COD-009=owner:ministry;COD-003=owner:ministry,
+COD,hmis,tiers,coverage,,,,,nothing held
+COD,hmis,digitised,coverage,,,,,nothing held
+COD,hmis,last12,qualifier,advancing,2026-02,COD-005,,
+COD,hmis,clinics,coverage,,,,,nothing held
+COD,emr,governance,qualifier,owner:vendor,2026-08-13,COD-002,,"not stated: plan, finance"
+COD,emr,tiers,coverage,,,,,nothing held
+COD,emr,digitised,coverage,,,,,nothing held
+COD,emr,last12,qualifier,advancing,2026-08-13,COD-001;COD-010,,
+COD,emr,clinics,coverage,,,,,nothing held

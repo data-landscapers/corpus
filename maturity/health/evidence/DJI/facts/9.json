@@ -1,0 +1,15 @@
+{
+  "slug": "2025-04-22-wearetech-msupply-djibouti",
+  "facts": [],
+  "systems": [
+    {
+      "system": "mSupply",
+      "country_label": "mSupply",
+      "class": "single-function",
+      "platform": "mSupply",
+      "owner": "Centrale d'Achat des Médicaments et Matériels Essentiels (CAMME); technical and financial support from partners, chiefly the World Bank (Health System Strengthening Project)",
+      "tiers": "all healthcare facilities nationwide, installation announced complete on 21 April 2025"
+    }
+  ],
+  "note": "No fact: mSupply is described as pharmaceutical stock, traceability and supply-planning software, a single-function system; the article names no HMIS or EMR."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-17 Mali rolls out new digital tools to modernize public administration",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Ecofin Agency reports that on 16 September 2025 the Prime Minister attended the presentation of OpenClinic for the health ministry, a tool that centralises patient records (clinical, financial, pharmaceutical, statistical) and is to be linked to the NINA identification system and the AMO health insurance; no number of facilities is given.", "as_of": "2025-09-16", "date_precision": "day", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Ecofin Agency reports that OpenClinic was presented on 16 September 2025 as the Health ministry's solution among tools created by local companies for three ministries.", "as_of": "2025-09-16", "date_precision": "day", "system": "OpenClinic", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "OpenClinic", "class": "emr", "platform": "OpenClinic, built by local companies", "owner": "Ministry of Health", "tiers": "not stated"}
+  ],
+  "note": ""
+}

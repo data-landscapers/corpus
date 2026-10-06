@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2 (routine health data)",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "No fact: a conference poster abstract proposing machine learning models on routine DHIS2 malaria data (confirmed cases); it states nothing about ownership, tiers, where data is keyed, clinic coverage or any dated event for the system."
+}

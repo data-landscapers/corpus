@@ -1,0 +1,64 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Data Landscapers review states that national DHIS2 is used for aggregate reporting from district level, with paper registers at clinics transcribed upward; the document gives no date for this, so its publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The Data Landscapers review states that pilots exist, citing some direct DHIS2 entry in one clinic, and that there is no evidence of majority point-of-service digital use in rural clinics; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review states that rural primary healthcare clinics in Benin predominantly record patient data on paper registers and scores them as entirely paper-based; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Data Landscapers review states that Enabel equipped 244 facilities (rural or not unspecified) with IT for data collection but not point-of-care patient records, and scores rural clinics as entirely paper-based; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "National DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregate reporting from district level; direct entry in one clinic as a pilot"
+    },
+    {
+      "system": "District.Team",
+      "country_label": "District.Team",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "pilot, described only as for management"
+    }
+  ],
+  "note": "The document's own header marks its country figures as an AI-assisted compilation, the author's analysis rather than sourced fact. It also mentions a national eHealth strategy of 2017 aiming for a digital HIS, and 4,000 paper health data registers distributed to private facilities by Abt Global's PSHPA project."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2020-04-22-instad-bj-snds-3",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système National d'Information et de Gestion Sanitaires (SNIGS)",
+      "country_label": "Système National d'Information et de Gestion Sanitaires (SNIGS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS-2",
+      "country_label": "Système d'Information Sanitaire de Zone 2ème génération",
+      "class": "",
+      "platform": "DHIS-2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The file is an excerpt of the national statistics strategy 2020-2023, cut off in chapter 1; SNIGS and DHIS-2 appear only in the list of abbreviations, with no description of what they do, so both are unclassified and give no fact. The captured text says in general that ministries' information-system units (SGSI) sit in their programming directorates and that for most sectors the centralisation of data is not sufficiently computerised, without naming health."
+}

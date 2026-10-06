@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-sierra-leone-npha-digital-mortality-surveillance-system",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Digital Mortality Surveillance, Registration and Certification System", "country_label": "Integrated National Digital Mortality Surveillance, Registration and Certification System", "class": "single-function", "platform": "", "owner": "National Public Health Agency (NPHA)", "tiers": "not stated; planned, suppliers engaged and a prototype dashboard shown (August 2026)"},
+    {"system": "National Health Information Hub", "country_label": "National Health Information Hub", "class": "exchange", "platform": "", "owner": "", "tiers": "not stated; launched January 2026, integrates data streams"},
+    {"system": "electronic Integrated Disease Surveillance and Response (eIDSR)", "country_label": "eIDSR", "class": "single-function", "platform": "", "owner": "National Public Health Agency (NPHA)", "tiers": "health facilities nationwide"}
+  ],
+  "note": "Mortality registration and disease surveillance only, both single-function; the Hub is described only as integrating data streams. Nothing on routine aggregate reporting or patient records."
+}

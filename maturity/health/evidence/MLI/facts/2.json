@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-03-mali-snisi-a-propos-de-ce-systeme",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The SNISI's own 'about' page says the health ministry's agency ANTIM developed and hosts the SNISI, a single platform and common database for the monthly and weekly routine data of health centres and of community agents, credited to ANTIM with the firm Yeleman; the page is undated, so the date is its published (retrieval) date.", "as_of": "2026-09-03", "date_precision": "day", "system": "SNISI (Système National d'Information Sanitaire Intégré)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The SNISI's own page says data is captured on a mobile terminal carrying a form and sent to a site server synchronised with a data centre, with SMS reception by modem or SMPP, the terminals being placed at CSCom and CSRéf level; it gives no count of sites, and the page is undated, so the date is its published (retrieval) date.", "as_of": "2026-09-03", "date_precision": "day", "system": "SNISI (Système National d'Information Sanitaire Intégré)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SNISI", "country_label": "Système National d'Information Sanitaire Intégré", "class": "hmis", "platform": "custom build by ANTIM and Yeleman", "owner": "ANTIM, Ministère de la Santé", "tiers": "health centres (CSCom, CSRéf) and community agents; no coverage figure"},
+    {"system": "Flotte mobile pour la Santé", "country_label": "Flotte mobile pour la Santé", "class": "enabling", "platform": "ANTIM-tagged mobile and fixed-GSM terminals sharing an Orange Mali internet connection", "owner": "ANTIM, Ministère de la Santé", "tiers": "CSCom and CSRéf; said to be used at all levels of the pyramid"},
+    {"system": "Système de collecte Paludisme", "country_label": "Collecte des données de routine mensuelle sur le Paludisme", "class": "single-function", "platform": "", "owner": "PNLP with USAID / ICF Macro / MEASURE Evaluation funding; now part of SNISI", "tiers": "Bamako and Ségou; extension to Mopti planned"},
+    {"system": "Collecte des données communautaires sur la mortalité maternelle et infantile", "country_label": "Collecte des données communautaires sur la mortalité maternelle et infantile", "class": "community", "platform": "", "owner": "hosted by ANTIM for NGO projects", "tiers": "community level, Koulikoro and Ségou"},
+    {"system": "Système de collecte Nutrition", "country_label": "Système de collecte Nutrition", "class": "single-function", "platform": "", "owner": "funded by UNICEF; now part of SNISI", "tiers": ""},
+    {"system": "Système de collecte Cécité", "country_label": "Système de collecte Cécité", "class": "single-function", "platform": "", "owner": "funded by Sightsavers; now part of SNISI", "tiers": ""},
+    {"system": "Système de collecte Santé de la reproduction", "country_label": "Système de collecte Santé de la reproduction", "class": "single-function", "platform": "", "owner": "two tools, funded by MSI and by UNFPA / ANTIM; now part of SNISI", "tiers": ""}
+  ],
+  "note": ""
+}

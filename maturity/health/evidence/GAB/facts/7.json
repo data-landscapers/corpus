@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "AGP reports that the eGabon-SIS health information system strengthening project, launched in June 2016 with World Bank support, was officially closed in Libreville on 24 June 2026; no domestic budget line for the computerised patient record is stated.", "as_of": "2026-06-24", "date_precision": "day", "system": "eGabon-SIS (dossier patient informatisé)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "no-change", "fact": "The eGabon-SIS project closed on 24 June 2026 after ten years; ANINF's director general said it had interconnected several health facilities, equipped establishments and trained hundreds of professionals to use the computerised patient record, and the authorities named maintenance, cybersecurity, training and extension to the whole territory as the next priorities, with no figures or dates.", "as_of": "2026-06-24", "date_precision": "day", "system": "eGabon-SIS (dossier patient informatisé)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eGabon-SIS (dossier patient informatisé)", "country_label": "eGabon-SIS", "class": "emr", "platform": "", "owner": "ANINF with the ministries of Health and Defence (project partners, as stated)", "tiers": "several interconnected health facilities, including the military teaching hospitals (HIA); number and tier not stated"}
+  ],
+  "note": "The last12 value is the nearest fit for a project closure: the document reports neither a new rollout nor a withdrawal. It gives no facility count, no tiers and does not say where the record is keyed."
+}

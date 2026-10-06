@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-04-evaluacion-trabajos-implantacion-seguro-medico-universal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Nacional de Información Sanitaria",
+      "country_label": "Sistema Nacional de Información Sanitaria",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Computerised management system for the Seguro Médico Universal (SEMU)",
+      "country_label": "sistema informatizado para la gestión del Seguro Médico Universal",
+      "class": "",
+      "platform": "",
+      "owner": "Comité de Pilotaje del Seguro Médico Universal / Ministerio de Sanidad (in preparation, not in service)",
+      "tiers": ""
+    }
+  ],
+  "note": "The national health information system is named only as something the SEMU digitalisation plan must cohere with, with no description of what it does; the SEMU system is insurance administration in preparation. No fact."
+}

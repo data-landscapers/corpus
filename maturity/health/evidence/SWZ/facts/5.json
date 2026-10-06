@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-20-eswatini-rolls-out-digital-platforms-health-agriculture-creative",
+  "facts": [],
+  "systems": [
+    {"system": "TruMD", "country_label": "TruMD", "class": "enabling", "platform": "", "owner": "MTN Eswatini in partnership with the Ministry of ICT", "tiers": "not stated; a platform giving citizens access to healthcare services without long-distance travel"}
+  ],
+  "note": "TruMD is described only as a platform for more convenient remote access to healthcare services (launched June 2026); no HMIS or EMR is named."
+}

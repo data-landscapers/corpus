@@ -1,0 +1,11 @@
+{
+  "slug": "2022-06-01-ghana-health-information-system-strategic-plan-2022-2025",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Health's Health Information System Strategic Plan 2022-2025 (June 2022), costed at about GHC30 million, covers routine health service reporting by all public and private facilities in agreed summary formats and names the web-based District Health Information Management System (DHIMS2) among the sector's platforms; the plan's preparation was funded by USAID through R4D.", "as_of": "2022-06", "date_precision": "month", "system": "District Health Information Management System (DHIMS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information Management System (DHIMS2)", "country_label": "DHIMS2", "class": "hmis", "platform": "web-based", "owner": "", "tiers": ""},
+    {"system": "Ghana Integrated Logistics Management Information System (GhILMIS)", "country_label": "GhILMIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The capture is an excerpt, truncated mid-Chapter One in the sentence that begins to describe DHIMS2; the situational analysis table, strategies, financing arrangements and budget are not in the file. GhILMIS appears only in the acronym list, so it is left unclassified. The plan also states that the sector's data platforms have limited interoperability and no interoperability standards (2022)."
+}

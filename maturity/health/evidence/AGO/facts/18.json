@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-04-world-bank-angola-hepr-project-appraisal-document",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's appraisal of 4 November 2025 proposes IBRD US$4.5 million and a US$0.5 million Livable Planet Fund grant (Subcomponent 1.4) to enhance the functionality and geographic coverage of DHIS2 and link vital statistics to it, in a US$253 million project the Bank says requires no counterpart funding; this is a proposed loan at appraisal, with Board approval expected 26 November 2025.", "as_of": "2025-11-04", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "not stated; provinces are to register health events in it (baseline 0 per cent in August 2025, target 90 per cent by March 2030)"},
+    {"system": "Immunization registry system", "country_label": "", "class": "tracker", "platform": "", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "Health logistics and supply chain management platform", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "Surveillance systems / Integrated Disease Surveillance and Response (IDSR)", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated; municipal health officials to be trained (baseline 0 per cent, target 90 per cent)"}
+  ],
+  "note": "The document names DHIS2 as a health platform without describing its modules; it is classed hmis because the results framework draws counts of children immunised and of women and children given nutrition services from it, which is aggregate service reporting. The classing is a reading the parent should check. Nothing is stated on tiers, where data is entered or how many facilities enter it, and no EMR is mentioned. Also stated, and not tied to a system: USAID has substantially reduced assistance to Angola's disease prevention and control programmes; the National Development Plan 2023-2027 lists advancing integrated health information systems among health priorities; REDISSE and the COVID-19 project closed in May 2025."
+}

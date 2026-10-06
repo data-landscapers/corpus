@@ -1,0 +1,84 @@
+{
+  "slug": "2026-04-09-who-lesotho-2025-annual-report",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO's country office reports that in 2025 Lesotho endorsed its National Digital Health Strategy 2025-2030, in the same sentence as advancing interoperability across HMIS, HRH, LMIS and surveillance platforms; the report does not say which systems the strategy names.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "HMIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO's country office reports that during 2025 Lesotho advanced interoperability across its HMIS, HRH, LMIS and surveillance platforms, while listing the institutionalising of interoperability, data governance and data use as a challenge still needing sustained capacity building.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "HMIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "HMIS",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "LMIS (Logistics Management Information System)",
+      "country_label": "LMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "HRH platform / National Health Workforce Accounts Version 2",
+      "country_label": "HRH; NHWA",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "surveillance platforms (IDSR Edition 3)",
+      "country_label": "IDSR",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "nationwide rollout of IDSR Edition 3 in 2025"
+    },
+    {
+      "system": "national all-cause mortality surveillance and CRVS integration system",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO support under the Pandemic Fund",
+      "tiers": "design begun in 2025, to be completed in 2026"
+    },
+    {
+      "system": "DORIS (Digital Online Reporting and Information System)",
+      "country_label": "DORIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "design work advanced in 2025"
+    }
+  ],
+  "note": "The capture is an excerpt truncated mid-document. 'HMIS' is named, not described, and is classed hmis on the term alone; the parent may prefer it unclassified. DHIS2 appears only as the home of zero-dose and equity analytics integrated in 2025 for immunisation microplanning, which is not routine reporting, so it is left unclassified. Nothing is stated on tiers, where data is keyed, clinics, or any EMR."
+}

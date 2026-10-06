@@ -1,0 +1,83 @@
+{
+  "slug": "2021-12-31-msas-plan-directeur-informatique-2021-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The health ministry's IT master plan lists DHIS2 as in production under the ministry's information-system division (the DSISS, under the planning, research and statistics directorate), its function being the collection of data on daily activity; no date is given for the audit, so the plan's own date of 31 December 2021 is used.",
+      "as_of": "2021-12-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The plan's audit states that DHIS2 is the only health data collection platform in Senegal, and that it runs from the health districts up to the minister's cabinet and the general directorates, adding that the source data are declarative rather than drawn from factual sources; undated, so the plan's date of 31 December 2021 is used.",
+      "as_of": "2021-12-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The IT master plan 2021-2025 and the digital health strategic plan 2018-2023 it reviews both name the Dossier Patient Partagé as a flagship project, with a project sheet whose aim is an electronic medical record for every patient in a national database and on an electronic card, over two years, with a forecast schedule of specification, testing and scale-up.",
+      "as_of": "2021-12-31",
+      "date_precision": "day",
+      "system": "Dossier Patient Partagé (DPP)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Dossier Patient Partagé project sheet is issued under the health ministry's Cellule Informatique and its digital health unit CSSDOS, which governs the digitalisation programme, with patient data scheduled to be hosted on the state IT agency ADIE's servers; the plan's date of 31 December 2021 is used.",
+      "as_of": "2021-12-31",
+      "date_precision": "day",
+      "system": "Dossier Patient Partagé (DPP)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Dossier Patient Partagé project sheet leaves its cost blank and names no funding source, and the plan's only costed budget (1,063,000,000 CFA) covers the IT cell's seven internal projects, not the patient record; the plan's date of 31 December 2021 is used.",
+      "as_of": "2021-12-31",
+      "date_precision": "day",
+      "system": "Dossier Patient Partagé (DPP)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "MSAS, Division SI (DSISS)", "tiers": "from health districts up to the minister's cabinet and general directorates; in production"},
+    {"system": "DHIS2 tracker", "country_label": "DHIS2 tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "MSAS, Division SI (DSISS)", "tiers": "daily data collection on coronavirus cases; in production; tiers not stated"},
+    {"system": "DVTMT", "country_label": "DVTMT", "class": "", "platform": "", "owner": "MSAS, Division SI (DSISS)", "tiers": "collection of vaccination data; in production; tiers not stated"},
+    {"system": "ERPX3", "country_label": "ERPX3", "class": "single-function", "platform": "ERP X3", "owner": "MSAS, DSI/Pharmacies", "tiers": "medicines management; in production; tiers not stated"},
+    {"system": "SIM", "country_label": "SIM", "class": "", "platform": "", "owner": "MSAS, DEPS (public health establishments directorate)", "tiers": "hospital management; in production; clinical record not stated"},
+    {"system": "MINFOSANTE/RAPIDPRO", "country_label": "mInfoSanté", "class": "", "platform": "RapidPro", "owner": "MSAS, Direction de la prévention", "tiers": "free SMS platform for health workers to communicate and report in real time; in production"},
+    {"system": "LOGISTIMO", "country_label": "Logistimo", "class": "", "platform": "Logistimo", "owner": "MSAS, Direction de la prévention", "tiers": "users at the periphery of the network, on Android devices; in production"},
+    {"system": "PARSYL", "country_label": "Parsyl", "class": "single-function", "platform": "Parsyl", "owner": "MSAS, Direction de la prévention", "tiers": "monitoring of refrigeration equipment performance; in production; tiers not stated"},
+    {"system": "COACH2PEV", "country_label": "Coach2PEV", "class": "single-function", "platform": "", "owner": "MSAS, Direction de la prévention", "tiers": "performance measurement of the immunisation programme; in production; tiers not stated"},
+    {"system": "DANNCOVID", "country_label": "DannCovid", "class": "single-function", "platform": "", "owner": "MSAS, Direction de la prévention", "tiers": "management of Covid-19 alerts; in production; tiers not stated"},
+    {"system": "mDiabete", "country_label": "mDiabète", "class": "", "platform": "", "owner": "MSAS, DLM", "tiers": "diabetes prevention platform; in production"},
+    {"system": "Registre du cancer", "country_label": "Registre du cancer", "class": "", "platform": "", "owner": "MSAS, DLM", "tiers": "being deployed; tiers not stated"},
+    {"system": "Dirpharm", "country_label": "Dirpharm", "class": "", "platform": "", "owner": "MSAS, Direction de la pharmacie et du médicament", "tiers": "online database of medicines; in production"},
+    {"system": "ePOCT", "country_label": "ePOCT", "class": "", "platform": "", "owner": "MSAS, DSME", "tiers": "electronic tool for managing childhood illness; in production; tiers not stated"},
+    {"system": "ICATT", "country_label": "ICATT", "class": "", "platform": "", "owner": "MSAS, DSME", "tiers": "tool for integrated management of childhood illness; in production; tiers not stated"},
+    {"system": "Dossier Patient Partagé (DPP)", "country_label": "Dossier Patient Partagé", "class": "emr", "platform": "", "owner": "MSAS, Cellule Informatique and CSSDOS", "tiers": "planned project, not in use; to be used by health staff at consultations, with EPS and health centres to be connected by fibre"},
+    {"system": "Système d'Information Hospitalière (SIH)", "country_label": "SIH", "class": "", "platform": "", "owner": "MSAS, Cellule Informatique and CSSDOS", "tiers": "planned project; all facilities that hospitalise, health posts included; clinical and medico-technical modules drawing on the DPP's databases, interoperable with DHIS2"},
+    {"system": "Télé@ccesSanté", "country_label": "Télé@ccesSanté", "class": "enabling", "platform": "", "owner": "MSAS, Cellule Informatique and CSSDOS", "tiers": "planned telemedicine equipment for health centres"},
+    {"system": "Système d'Information Géographique Santé (SIGS)", "country_label": "SIGS", "class": "", "platform": "ArcGIS", "owner": "MSAS, Cellule Informatique and CSSDOS", "tiers": "planned; geolocation of all points of care and ambulances"},
+    {"system": "Système d'information intégré de gestion et de contrôle du médicament et des produits essentiels", "country_label": "SIPMED", "class": "single-function", "platform": "", "owner": "MSAS, Cellule Informatique, CSSDOS and DPM", "tiers": "planned project; tiers not stated"},
+    {"system": "DHIS2 mobile module for community health actors", "country_label": "Digitalisation de la santé communautaire", "class": "community", "platform": "DHIS2 mobile", "owner": "MSAS, Cellule de Santé Communautaire with CSSDOS", "tiers": "planned pilot in 803 cases de santé (30%), reporting to health posts and into the national warehouse"},
+    {"system": "Seda", "country_label": "Seda", "class": "hmis", "platform": "", "owner": "", "tiers": "monthly reporting system on mobile phone for health providers, one of some 50 eHealth initiatives counted in a 2015 assessment"},
+    {"system": "CommCare", "country_label": "CommCare", "class": "", "platform": "CommCare", "owner": "", "tiers": "named among initiatives counted in 2015; no description"},
+    {"system": "MedicMobile", "country_label": "MedicMobile", "class": "", "platform": "Medic Mobile", "owner": "", "tiers": "named among initiatives counted in 2015; no description"},
+    {"system": "LabBook", "country_label": "LabBook", "class": "", "platform": "LabBook", "owner": "", "tiers": "named among initiatives counted in 2015; no description"}
+  ],
+  "note": "DHIS2 mobile for community actors is a planned community-class pilot and gives no fact; SIM and the planned SIH are hospital management systems the plan does not say hold the clinical record, so they are left unclassed. The plan also states that hospitals run their own unintegrated information systems, without saying what they hold."
+}

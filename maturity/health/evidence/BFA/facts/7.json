@@ -1,0 +1,23 @@
+{
+  "slug": "2025-09-29-africa-frontline-first-burkina-faso-digital-community-health-roadmap",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ENDOS",
+      "country_label": "ENDOS",
+      "class": "hmis",
+      "platform": "DHIS2 (District Health Information Software)",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Community health worker (ASBC) digital tools",
+      "country_label": "",
+      "class": "community",
+      "platform": "",
+      "owner": "Ministry of Health, Directorate of Community Health; Project BIRCH funded by the Global Fund and implemented by Living Goods",
+      "tiers": "community level; most ASBCs still on paper tools"
+    }
+  ],
+  "note": "The document is about the community class: a roadmap co-created on 8-12 September 2025 to digitise community health workers, most of whom work on paper, and to integrate their data into ENDOS, where it states that data is not integrated; it states nothing on ENDOS's own tiers, point of entry, clinics, plan or finance, and the event falls just outside twelve months."
+}

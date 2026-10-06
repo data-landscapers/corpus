@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-03-rwanda-integrated-civil-registration-system-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information Management System", "country_label": "Health Information Management System", "class": "", "platform": "", "owner": "", "tiers": "not stated; named as one of the databases the integrated civil registration system links to"},
+    {"system": "National Centralized and Integrated CRVS", "country_label": "National Centralized and Integrated CRVS", "class": "", "platform": "", "owner": "National Identification Agency", "tiers": "births and deaths registered at health facilities; community events at cell level"}
+  ],
+  "note": "A civil registration launch notice; the Health Information Management System is named once as a linked database with no description of what it does, so it takes no class and gives no fact. The page carries no date for the launch itself beyond the publisher's page date."
+}

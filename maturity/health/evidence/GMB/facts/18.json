@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-ijtld-open-tb-etracker-gambia",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Ministry of Health authors state that TB data are reported monthly by health facilities as aggregated data from paper registers and then entered into DHIS2, the level at which it is keyed not being named; during the June to November 2024 pilot the 11 sites' paper registers continued to generate the monthly reports submitted into the DHIS2 aggregate system.", "as_of": "2024-11", "date_precision": "month", "system": "DHIS2 aggregate system", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 aggregate system", "country_label": "District Health Information System 2 (DHIS2); hmis.moh.gm", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "monthly aggregate reports from health facilities"},
+    {"system": "TB e-Tracker", "country_label": "e-Tracker / DHIS2 TB tracker; hivtb.moh.gm", "class": "tracker", "platform": "DHIS2 Tracker (WHO case-based TB package)", "owner": "Ministry of Health, National Leprosy and Tuberculosis Control Programme, with WHO-TDR funding for the study", "tiers": "pilot at 11 TB treatment sites, June to November 2024: general and district hospitals, one health centre and one community clinic, across all seven regions"}
+  ],
+  "note": "The value district is the nearest list value: the paper says facility paper reports are 'then entered' into DHIS2 without naming who keys them or where; the parent should check it. Everything else concerns the TB e-Tracker, a one-programme patient-level tracker, which gives no fact."
+}

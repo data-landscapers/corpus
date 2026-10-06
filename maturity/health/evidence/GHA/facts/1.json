@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-28-lbr-gha-onehealthehr-goes-live",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "OneHealthEHR Inc. says its electronic health record and disease-surveillance platform went into live clinical use in Liberia and Ghana on 1 September 2026, at four facilities growing to seven clinics and health centres in about three weeks across the two countries; the Ghana share is not given.", "as_of": "2026-09-01", "date_precision": "day", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The company reports seven active clinics and health centres across Liberia and Ghana together by late September 2026, with 30 to 40 clinics and hospitals targeted by December 2026; no Ghana count or denominator is given and the article calls the rollout a pilot.", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The company says the platform is offline-first, with clinicians recording patient information during care and synchronising when a connection returns, giving patient information at the point of care (stated for both countries, September 2026).", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "The platform is run by the private company OneHealthEHR Inc. with a consortium of European technology and research partners; no Ghanaian ministry or public body is named as owner or partner (September 2026).", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OneHealthEHR", "country_label": "OneHealthEHR", "class": "emr", "platform": "OneHealthEHR (offline-first, FHIR R4 / HL7)", "owner": "OneHealthEHR Inc. (private company)", "tiers": "clinics and health centres; seven facilities across Liberia and Ghana, Ghana facilities not named"}
+  ],
+  "note": ""
+}

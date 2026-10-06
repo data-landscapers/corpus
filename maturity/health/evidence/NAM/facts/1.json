@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-namibia-digital-community-system-health-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Community System (DCS)", "country_label": "Digital Community System (DCS)", "class": "community", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": "community health workers at household level, on phones or tablets; to share patient information with clinics and hospitals; not yet rolled out (national training held, no rollout date, phased, paper registers kept in parallel)"}
+  ],
+  "note": "The only system named is a community health worker application (class community), not yet rolled out as of 2026-07-29; the document states nothing about an HMIS or an EMR."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-02-herams-sudan-health-services-across-states-2026-01",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Health Resources and Services Availability Monitoring System (HeRAMS)",
+      "country_label": "HeRAMS Sudan",
+      "class": "single-function",
+      "platform": "HeRAMS",
+      "owner": "WHO with health sector actors",
+      "tiers": "health service delivery units, reported at state level across 18 states and Abyei"
+    }
+  ],
+  "note": "Passages only: the interpretation guide says the infographics cover the availability of facility-based epidemiological reporting and HMIS, defined by completeness, timeliness and accuracy of reports, but the passages carry none of the figures. HeRAMS itself monitors service and resource availability, not patients treated."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-19-muso-integrated-efficient-health-information-ecosystem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Muso reports that at a workshop of 30-31 July 2025 the health ministry's Directorate General of Health and Public Hygiene (DGSHP) reviewed community indicators for alignment with DHIS2, which the article calls the official national health data management system; a DGSHP deputy director says interoperability between DHIS2 and DISC-Mali is already established.", "as_of": "2025-07-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national DHIS2 platform", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health (DGSHP)", "tiers": "national; tiers not stated"},
+    {"system": "DISC-Mali", "country_label": "DISC-Mali", "class": "community", "platform": "", "owner": "Ministry of Health, promoted with Muso", "tiers": "community health workers; interoperability with DHIS2 stated as established"},
+    {"system": "Muso community health toolkit", "country_label": "digital toolkit for ProCHWs and their supervisors", "class": "community", "platform": "", "owner": "Muso (NGO)", "tiers": "professional community health workers and supervisors supported by Muso; integration with DHIS2 begun July 2025, not complete"}
+  ],
+  "note": "Written by the implementing NGO. DHIS2 is classed hmis on the article's description of it as the national health data system holding indicators; the article does not describe facility reporting. The DHIS2 to DISC-Mali interoperability statement bears on the community integrated flag."
+}

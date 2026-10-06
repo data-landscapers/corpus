@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-19-newvision-ucc-digital-skilling-health-centres",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "paper", "fact": "At the 11 August 2026 launch, the Uganda Muslim Medical Bureau said many Health Centre IIIs lack computers and connectivity to submit reports, with Ziiru Health Centre III carrying its report physically to Buvuma district headquarters, and the in-charge of St Francis Kijjaguzo Health Centre III spoke of a transition still to be made from the manual Health Management Information System to the ministry's digital tools.", "as_of": "2026-08-11", "date_precision": "day", "system": "Health Management Information System (manual)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (manual)", "country_label": "manual Health Management Information System", "class": "hmis", "platform": "paper", "owner": "Ministry of Health", "tiers": "Health Centre IIIs (faith-based facilities named: Ziiru, Buvuma; St Francis Kijjaguzo, Nakaseke)"},
+    {"system": "Faith Medical Bureau-UCC Digital Skilling Project", "country_label": "Faith Medical Bureau-UCC Digital Skilling Project", "class": "enabling", "platform": "three computers per facility and ICT training; no software named", "owner": "Uganda Communications Commission (UCUSAF funding), led by Uganda Catholic Medical Bureau for the faith medical bureaux", "tiers": "58 faith-based Health Centre IIIs; about 800 health workers trained of 1,000 targeted since May 2025"}
+  ],
+  "note": ""
+}

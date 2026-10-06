@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-28-lbr-gha-onehealthehr-goes-live",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "OneHealthEHR Inc. says its electronic health record platform went into live clinical use with real patients on 1 September 2026 at four facilities across Liberia and Ghana, having previously been a limited pilot at four named Liberian facilities.", "as_of": "2026-09-01", "date_precision": "day", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "By the company's account the deployment grew from four to seven active clinics and health centers within about three weeks of 1 September 2026, counted across Liberia and Ghana together with no country split and no denominator; 30 to 40 clinics and hospitals are targeted by end December 2026.", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3;T4", "fact": "The article says the platform is in use at clinics and health centers, naming as the earlier Liberian pilot sites Barcolleh Health Center (Kakata), Care Africa Medical Foundation (Buchanan), Ruth Howard Medical Clinic (Paynesville) and Hope For Women International (Monrovia); no hospital is stated as live.", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The company says clinicians, nurses and registration staff record patient information in the platform during routine care, offline-first with synchronisation when a connection returns, and that it gives clinicians patient information at the point of care.", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "The platform is deployed and run by the company OneHealthEHR Inc. with a consortium of European firms and research bodies; the National Public Health Institute of Liberia is named as surveillance partner, and the Ministry of Health is not named as owner.", "as_of": "2026-09", "date_precision": "month", "system": "OneHealthEHR", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OneHealthEHR", "country_label": "OneHealthEHR", "class": "emr", "platform": "OneHealthEHR (offline-first, FHIR R4 and HL7)", "owner": "OneHealthEHR Inc. / OneHealthEHR Africa, with NPHIL as surveillance partner", "tiers": "clinics and health centers (seven across Liberia and Ghana, September 2026)"}
+  ],
+  "note": ""
+}

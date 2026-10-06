@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-impulse-erhis-newborn-data-functionalities",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "electronic routine health information system (eRHIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "data offices at central and subnational levels; study of 53 offices across four countries, November 2022 to July 2024"}
+  ],
+  "note": "Abstract only. It states that Ethiopia's electronic routine health information system runs on DHIS2 and that the function for calculating reports received against expected was available in 75.0% of Ethiopian data offices assessed, with visualisation gaps; these are software functionalities in data offices, not tiers in use, place of data entry or clinic coverage, so no fact is recorded."
+}

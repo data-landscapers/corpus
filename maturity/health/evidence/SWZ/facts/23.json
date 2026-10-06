@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-01-eswatini-annual-report-health-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Disease Notification System", "country_label": "Integrated Disease Notification System", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated; births and perinatal deaths are reported through it"},
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated; appears only in the acronym list"}
+  ],
+  "note": "The capture is truncated in chapter 2: chapter 3.1 on the Health Management Information System, and the statement on electronic and paper data collection that the capture's own header describes, are not in the file, so CMIS and HMIS appear only in the contents and acronym lists. Possible denominator for the parent: SARA 2017 counted 327 health facilities, of which 234 clinics, 7 public health units and 5 health centres. A Human Resources Information System was rolled out to 74 facilities in the third quarter of 2024; it is a staff system, not a health information system of any class."
+}

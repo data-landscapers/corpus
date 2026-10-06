@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-cabo-verde-ida-health-digital-tools-tender",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "SIS/Portal", "country_label": "SIS/PORTAL", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Request for expressions of interest (4 Sept 2026, IDA-financed project P179078) for six months of training and support on 'SIS/Portal and DHIS2'; the notice names both tools but does not describe what either does, so neither can be classed and no fact is taken."
+}

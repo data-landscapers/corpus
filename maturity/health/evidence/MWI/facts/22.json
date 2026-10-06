@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Early Warning, Alert and Response System", "country_label": "", "class": "single-function", "platform": "", "owner": "Public Health Institute of Malawi named as the collaborating body", "tiers": ""}
+  ],
+  "note": "A continental AI report; its one Malawi sentence concerns IntelSurv, an LLM tool from the Kuyesera AI Lab at MUBAS with the Public Health Institute of Malawi, funded by the Gates Foundation, that trains health professionals in disease surveillance through the Early Warning, Alert and Response System. IntelSurv is a training tool and not a health information system; nothing is stated about an HMIS or EMR in Malawi."
+}

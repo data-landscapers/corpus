@@ -1,0 +1,23 @@
+{
+  "slug": "2023-07-01-moh-annual-performance-report-2022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "electronic Health Information System (eHIS)",
+      "country_label": "eHIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated; the public system is given as one tertiary hospital with four annexes and 17 primary care centres in six regions"
+    },
+    {
+      "system": "Cancer Registry",
+      "country_label": "Cancer Registry",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "No fact: the report says eHIS implementation started late 2021 with slow progress in 2022, and the Minister's foreword calls it 'on the way but long overdue', but the captured text never says what the system does, so it cannot be classed. Capture is an excerpt, truncated at the Summary Indicator Table."
+}

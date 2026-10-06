@@ -1,0 +1,31 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,DHIS2,DHIS2,,DHIS2,,,2026-09-30-som-frontiers-ntp-health-reform-implementation-review
+SOM,Master Health Facility List (MHFL),Master Health Facility List,exchange,,"Federal Ministry of Health, with WHO technical support","national registry of 1,455 health facilities; no tier of use stated",2026-08-23-who-emro-somalia-health-facility-registry
+SOM,HMIS (DHIS2-based reporting),HMIS,hmis,DHIS2,"Federal Ministry of Health and Human Services, HMIS Section, Department of Digital Health and Innovations; regional HMIS sections such as Banadir's","facility, district, regional and national levels named; implementation uneven",2026-08-21-dovepress-somalia-hmis-data-quality-commentary
+SOM,EMR,electronic medical record,emr,,,"45 Somali public health facilities in a 2026 multicentre study, tier not stated",2026-08-21-dovepress-somalia-hmis-data-quality-commentary
+SOM,RAAD (BAMNI),RAAD,emr,Bahmni (written BAMNI),Federal Ministry of Health,111 public primary healthcare facilities across six states,2026-05-27-somalia-raad-bamni-ehr-dhis2-integration
+SOM,DHIS2,national HMIS,hmis,DHIS2,,national HMIS for aggregate reporting; tiers not stated,2026-05-27-somalia-raad-bamni-ehr-dhis2-integration
+SOM,Caafimaad+ Digitalized Data System (C+ DDS),C+ DDS,emr,,"CaafimaadPlus consortium (Action Against Hunger, Concern Worldwide, Trocaire, International Medical Corps and six others), funded by ECHO",over 40 facilities in 9 regions and 25+ districts of South-Central Somalia; a maternal health clinic and health posts named,2026-04-14-somalia-caafimaad-plus-digitalized-data-system
+SOM,Pharmaceutical Information Management System (PIMS),PIMS,single-function,,"International Medical Corps, within the CaafimaadPlus consortium",consortium-supported facilities; handheld devices and barcode scanning at dispensing,2026-04-14-somalia-caafimaad-plus-digitalized-data-system
+SOM,DHIS2,the government's DHIS2 platform,,DHIS2,Federal Ministry of Health,,2026-04-14-somalia-caafimaad-plus-digitalized-data-system
+SOM,DHIS2,national DHIS2 system,hmis,DHIS2,,entered by district HMIS officers from facilities' paper monthly summaries,2026-03-31 Africa we have a data problem
+SOM,CaafimaadPlus C+ DDS,C+ DDS,emr,Ogow Health,CaafimaadPlus (donor project),"43 south-central facilities including rural, since 2024",2026-03-31 Africa we have a data problem
+SOM,RAAD EMR,RAAD,emr,,,scaling to 40 clinics,2026-03-31 Africa we have a data problem
+SOM,OGOW app,OGOW,tracker,,,Puntland; vaccinations recorded on tablets,2026-03-31 Africa we have a data problem
+SOM,IDSR tracker,IDSR tracker,single-function,,,introduced 2023; tiers not stated,2026-03-31 Africa we have a data problem
+SOM,electronic immunization registry,electronic immunization registry,tracker,,,,2026-03-31 Africa we have a data problem
+SOM,Electronic Immunization Register (EIR),Electronic Immunization Register,tracker,DHIS2,Federal Ministry of Health (Expanded Program on Immunization); technical support from WHO and HISP Tanzania,"piloted in 14 health facilities in Banadir in 2025, Kahda Health Center named; ministry plans more than 80 facilities nationwide by 2026",2026-02-27-somalia-electronic-immunization-register
+SOM,DHIS2-based health management information system,national health management information system,hmis,DHIS2,Ministry of Health; maintained by HISP UiO and HISP Tanzania under a UNICEF agreement,,2025-08-15-unicef-and-hisp-uio-expand-partnership-somalia
+SOM,"DHIS2 Tracker (disease surveillance, HIV monitoring, immunization records)",DHIS2 Tracker,tracker,DHIS2 Tracker,"Ministry of Health, with UNICEF support",,2025-08-15-unicef-and-hisp-uio-expand-partnership-somalia
+SOM,HIV Tracker,HIV Tracker,tracker,DHIS2 Tracker,Ministry of Health; deployed by HISP under the 2025 agreement,,2025-08-15-unicef-and-hisp-uio-expand-partnership-somalia
+SOM,DHIS2,DHIS2,hmis,DHIS2,government,,2025-04-03 Now is the time to invest in locally-owned health data systems
+SOM,ODK,ODK,,ODK,,,2024-01-01-ministry-of-finance-annual-report-2024
+SOM,Health Management Information System (HMIS),HMIS,,,,,2024-01-01-ministry-of-finance-annual-report-2024
+SOM,DHIS2,HMIS,hmis,DHIS2,Federal Ministry of Health; built with University of Oslo under a Global Fund contract,"3 national, 26 regional and 35 district hospitals, 386 health centres, 140 primary health care units, 5 private hospitals, 46 TB centres (641 facilities, September 2022, excluding Somaliland)",2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,DHIS2 tracker app (surveillance),DHIS2 tracker,tracker,DHIS2 Tracker,Federal Ministry of Health,being piloted,2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,"Early Warning, Alert and Response Network (EWARN)",EWARN,single-function,,,"runs in parallel to DHIS2, not integrated",2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,OGOW,OGOW,tracker,,,"implementing health facilities in Puntland, on tablets; planned for more states",2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,HeRAMS,HeRAMS,single-function,HeRAMS,,"488 public health facilities, introduced 2020",2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,logistics data in DHIS2,logistics management information,single-function,DHIS2,Federal Ministry of Health,logistic management information officers in each district,2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,ONA,ONA,,ONA,,,2024-01-01-somalia-health-information-system-comprehensive-assessment-2022
+SOM,national health management information system (HMIS) using DHIS2,HMIS,hmis,DHIS2,"Somali Ministry of Health, supported by Sida",,2019-01-01-sida-som-digital-health-2019-digital-health-somalia-2019-2026

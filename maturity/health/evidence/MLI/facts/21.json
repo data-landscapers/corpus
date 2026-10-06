@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-instat-mali-plan-action-2026-2029-handicap",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "plateforme DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "CPS-SS DS PF and DGSHP (named as responsible for the two DHIS2 activities)", "tiers": "the plan speaks of DHIS2 from community level to national level, with CSCOM and CSREF among the parties to training"},
+    {"system": "SISO", "country_label": "Système d'Information Sociale (SISO)", "class": "", "platform": "", "owner": "DNDS", "tiers": ""},
+    {"system": "SIFEF", "country_label": "Système d'Information sur la Femme, l'Enfant et la Famille (SIFEF)", "class": "", "platform": "", "owner": "CNDIFE", "tiers": ""}
+  ],
+  "note": "INSTAT's December 2025 action plan on disability statistics. DHIS2 appears only in two planned activities for 2026: training health agents in entering and analysing disability data in DHIS2 (20 million FCFA, to be sought from partners) and configuring disability indicators in the platform (10 million FCFA, 5 million secured from the State). These are plans, not statements of what is in use, so no fact."
+}

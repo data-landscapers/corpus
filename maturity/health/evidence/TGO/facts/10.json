@@ -1,0 +1,70 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review says rural primary clinics in Togo predominantly use paper patient registers and records at the point of care, with no evidence of routine EMR at rural clinics and only 11.8% of surveyed doctors nationwide using an EMR; it gives no date for the position, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "EMR (none in routine use at rural clinics)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The Data Landscapers review says digital patient files exist as a pilot through the DokitaEyes app in 230 facilities, private or NGO-led and offline-capable, and not standard practice in public rural clinics; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DokitaEyes",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Data Landscapers review says the national DHIS2 is used for aggregate HMIS and IDSR reporting and not for facility-level recording, with no evidence of routine DHIS2 use at rural clinics; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "National DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National DHIS2",
+      "country_label": "National DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregate HMIS and IDSR; not at rural clinics"
+    },
+    {
+      "system": "Argus",
+      "country_label": "Argus",
+      "class": "single-function",
+      "platform": "Argus app, SMS on dedicated phones",
+      "owner": "",
+      "tiers": "facilities send weekly aggregated surveillance counts for 15 diseases, tallied from paper registers"
+    },
+    {
+      "system": "DokitaEyes",
+      "country_label": "DokitaEyes",
+      "class": "emr",
+      "platform": "DokitaEyes app",
+      "owner": "private/NGO-led",
+      "tiers": "230 facilities"
+    },
+    {
+      "system": "National Digital Health Center",
+      "country_label": "National Digital Health Center",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The document is an AI-assisted expert compilation, flagged as analysis in its own header; the Integrate Health ICBHSS programme in 21 northern facilities is described as having no digital records and is not listed as a system."
+}

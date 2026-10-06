@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-07-libya-who-national-digital-health-system",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Libya Review reports the Ministry of Health convening a meeting at its headquarters, with its Centre for Health Information and Documentation and technical departments, on the performance of DHIS2 digital reporting, with WHO offering technical support to the Ministry; the meeting is undated, so the publication date is used.", "as_of": "2025-11-07", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "no-change", "fact": "Libya Review reports a Ministry of Health and WHO meeting that assessed digital reporting tools and explored the feasibility of extending DHIS2 to pharmacy management, supply forecasting and service monitoring in public facilities; it states no decision or rollout, and the meeting is undated, so the publication date is used.", "as_of": "2025-11-07", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "regional Health Information System (DHIS2)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, with the Centre for Health Information and Documentation; WHO technical support", "tiers": "use at national and regional levels; data entry called for from all health institutions"}
+  ],
+  "note": "The last12 value is the nearest fit: the event is a feasibility discussion of expansion, not a rollout; the parent may prefer advancing."
+}

@@ -1,0 +1,42 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,Malawi Health Care Information System (Mahis),Mahis,emr,,Ministry of Health and Sanitation,"Queen Elizabeth Central Hospital (Blantyre) and selected health centres nationwide, pilot",2026-09-04-malawi-mahis-digital-health-records-pilot
+MWI,Interoperability layer,interoperability layer,exchange,,Ministry of Health and Sanitation,"links the central server of patient identifiers and records to health facilities across the country, as described by the ministry",2026-09-04-malawi-mahis-digital-health-records-pilot
+MWI,integrated Community Health Information System (iCHIS),iCHIS,community,,Ministry of Health and Sanitation; developed by the University of Malawi Computing Department (HISP UNIMA) with the ministry and partners,"community level: Health Surveillance Assistants in 15 districts, 3,764 HSAs and Senior HSAs trained and using it",2026-06-21-ichis-community-health-information-system
+MWI,Malawi Healthcare Information System (MaHIS),MaHIS,,,"Ministry of Health and Sanitation, implementation supported by HISP UNIMA",,2026-06-21-ichis-community-health-information-system
+MWI,national Health Management Information System (HMIS),HMIS,hmis,,"Ministry of Health and Sanitation, implementation supported by HISP UNIMA",,2026-06-21-ichis-community-health-information-system
+MWI,DHIS2 systems,DHIS2 systems,,DHIS2,"Ministry of Health and Sanitation, implementation supported by HISP UNIMA",,2026-06-21-ichis-community-health-information-system
+MWI,national disease surveillance and reporting systems,,single-function,,"Ministry of Health and Sanitation, implementation supported by HISP UNIMA",,2026-06-21-ichis-community-health-information-system
+MWI,interoperability solutions for data exchange between health information systems,,exchange,,"Ministry of Health and Sanitation, implementation supported by HISP UNIMA",,2026-06-21-ichis-community-health-information-system
+MWI,Malawi Health Information System (MaHIS),MaHIS,emr,OpenMRS,Ministry of Health,"health facilities, tiers not stated",2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,integrated Community Health Information System (iCHIS),iCHIS,community,DHIS2,"Ministry of Health, Community Health Services section; technical implementation by HISP UNIMA","community health workers across the country, deployed October 2021; NCD module piloted in Salima District, 50 CHWs trained 8-9 April 2026",2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,DHIS2-based national health information system,DHIS2,,DHIS2 (precursor DHIS v1),Ministry of Health,not stated; in use since around 2000,2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,DHIS2,DHIS2,hmis,DHIS2,,entered at district level from facilities' paper registers; DHIS2 mobile allows some facility entry,2026-03-31 Africa we have a data problem
+MWI,openSRP e-register,e-register,emr,OpenSRP,,"one health centre pilot, Bilira Health Centre, since about 2021",2026-03-31 Africa we have a data problem
+MWI,iCHIS,iCHIS,community,,,"community tool, 3 districts",2026-03-31 Africa we have a data problem
+MWI,EHRs (unnamed),,emr,,,mainly urban and central hospitals,2026-03-31 Africa we have a data problem
+MWI,DHIS2-based health management information system (HMIS),national HMIS,hmis,DHIS2,Ministry of Health; HISP UNIMA technical partner,not stated,2026-02-26-mwi-dhis2-climate-health-surveillance-project
+MWI,One Health surveillance platform (OHSP),OHSP,single-function,DHIS2,Ministry of Health; HISP UNIMA technical partner,not stated,2026-02-26-mwi-dhis2-climate-health-surveillance-project
+MWI,"Early Warning, Alert and Response (EWARS) system",EWARS,single-function,,national system supported by the WHO,not stated,2026-02-26-mwi-dhis2-climate-health-surveillance-project
+MWI,Electronic Medical Records (EMR) systems,EMR,emr,,Ministry of Health,five health facilities in Karonga District in the National ID integration pilot; tier of the facilities not stated,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,national health information software,,,"digital public goods, not named",,,2026-02-01-mwi-undp-idt4m-annual-report-2025
+MWI,Electronic Medical Records system,EMR,emr,,"Ministry of Health, Digital Health Department",Mbabvi Health Centre named as an NID-EMR integration site,2026-02-01-national-registration-bureau-malawi
+MWI,Electronic Medical Records (EMR) systems,EMR,emr,,Ministry of Health,Karonga District pilot of National ID linkage; facilities and tiers not stated,2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025
+MWI,Health Management Information System (HMIS) on DHIS2,HMIS,hmis,DHIS2,Government of Malawi; district health offices receive facility reports,"studied at six faith-based (Synod of Livingstonia) facilities, main facility and health centre level, and three district health offices; facilities report monthly on paper to the district",2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi
+MWI,HMIS,HMIS,,,,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,eBirth and eDeath System,eBirth and eDeath System,,,,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
+MWI,"Early Warning, Alert and Response System",,single-function,,Public Health Institute of Malawi named as the collaborating body,,2025-06-25-cipit-state-of-ai-in-africa-report-2025
+MWI,Health Passports (paper),Health Passport (HP),emr,paper booklet,mandated by the National Health Information System Policy 2015; booklets bought by patients from vendors,used at clinics and for referral to central hospitals; not used in private clinics or for privately insured patients,2025-06-03-patient-held-records-rural-malawi
+MWI,DHIS1 electronic aggregation system,DHIS1,hmis,DHIS (the paper writes DHIS1),,"receives data compiled from facility OPD and other registers, which data clerks transcribe from Health Passports; where the data is keyed is not stated",2025-06-03-patient-held-records-rural-malawi
+MWI,Malawi Healthcare Information System (MaHIS),MaHIS,emr,,"Ministry of Health, Digital Health Division",central hospitals named as key implementation sites; to be deployed across public and private facilities,2025-06-01-digital-health-governance-framework-malawi
+MWI,Shared Health Records,Shared Health Records,,,Ministry of Health,,2025-06-01-digital-health-governance-framework-malawi
+MWI,Ministry of Health EMR systems,Electronic Medical Records (EMR),emr,,Ministry of Health,UIN linkage piloted in Karonga District; tiers not stated,2025-06-01-undp-malawi-idt4m-quarterly-report-apr-jun25
+MWI,"Health Management Information Systems (HMIS), such as DHIS2",HMIS,hmis,DHIS2,,,2025-01-01-malawi-digital-readiness-assessment
+MWI,openSRP e-register,e-register,emr,OpenSRP,"Ministry of Health and Population pilot, overseen by GIZ; built by Jembi and Ona with HISP Malawi","one rural health centre (Bilira, Ntcheu District)",2021-09-21-linking-rural-health-centres-malawi-digital-health
+MWI,DHIS2,national health information management system,hmis,DHIS2,implemented by HISP Malawi,national; health centres report on paper to the District Health Office,2021-09-21-linking-rural-health-centres-malawi-digital-health
+MWI,OpenMRS,,,OpenMRS,,,2021-09-21-linking-rural-health-centres-malawi-digital-health
+MWI,Master Facility Registry,Master Facility Registry,exchange,,,,2021-09-21-linking-rural-health-centres-malawi-digital-health
+MWI,OpenHIE interoperability framework,,exchange,OpenHIE,,,2021-09-21-linking-rural-health-centres-malawi-digital-health
+MWI,Government Wide Area Network (GWAN),GWAN,enabling,,"Ministry of Health scheme, supported by GIZ",last-mile connectivity to health centres in Dedza and Ntcheu districts,2021-09-21-linking-rural-health-centres-malawi-digital-health
+MWI,national health information system (DHIS-based data warehouse),health management information system,hmis,DHIS2,,,2021-08-04 Health information systems in developing countries case of African countries
+MWI,DHIS2,,,DHIS2,,,2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square
+MWI,District Health Information System (DHIS),DHIS,,DHIS,,,2019-09-01-digital-government-strategy-malawi

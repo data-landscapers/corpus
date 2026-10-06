@@ -1,0 +1,8 @@
+{
+  "slug": "2019-09-01-digital-government-strategy-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System (DHIS)", "country_label": "DHIS", "class": "", "platform": "DHIS", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages hold only the strategy's contents page and glossary, where DHIS and HISP are expanded as abbreviations; nothing is stated about the system."
+}

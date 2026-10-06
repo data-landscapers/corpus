@@ -1,0 +1,114 @@
+{
+  "slug": "2025-03-01-pnud-lanzamiento-herramienta-digital-sistema-sanitario-dhis2",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "UNDP states that with DHIS2 implemented the health ministry can now digitise and have immediately available aggregated health-care data at district level; it does not say whether facilities or district offices key the data.",
+      "as_of": "2025-03-01",
+      "date_precision": "day",
+      "system": "DHIS2 (aggregated health-care data)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNDP states the digital tool was launched by the Ministerio de Sanidad y Bienestar Social, which leads the joint programme, and that the health database in the new Data Center at the ministry's Malabo headquarters is administered exclusively by the ministry.",
+      "as_of": "2025-03-01",
+      "date_precision": "day",
+      "system": "DHIS2 (aggregated health-care data)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNDP states the DHIS2 implementation, the Data Center, training of more than 100 digital agents and donated equipment (50 laptops, 30 tablets, 20 desktops) came through the UN Joint Programme for strengthening the national health system (UNDP, WHO, UNICEF); no domestic budget is mentioned.",
+      "as_of": "2025-03-01",
+      "date_precision": "day",
+      "system": "DHIS2 (aggregated health-care data)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The health minister is quoted saying the digitalisation falls within the national health development plan PNDS 2021-2025, whose situation analysis names the lack of reliable health information sources as a priority problem; the plan is not said to name DHIS2.",
+      "as_of": "2025-03-01",
+      "date_precision": "day",
+      "system": "DHIS2 (aggregated health-care data)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The digital tool of the national health system, built on DHIS2, was officially launched at Baney on 1 March 2025 by the health ministry and UNDP.",
+      "as_of": "2025-03-01",
+      "date_precision": "day",
+      "system": "DHIS2 (aggregated health-care data)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (aggregated health-care data)",
+      "country_label": "herramienta digital del sistema sanitario; DHIS 2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministerio de Sanidad y Bienestar Social (MINSABS), with UNDP support under the UN Joint Programme",
+      "tiers": "aggregated care data at district level; launched at Baney"
+    },
+    {
+      "system": "DHIS2 routine vaccination individual register and follow-up",
+      "country_label": "registro individualizado y seguimiento de la vacunación de rutina",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "MINSABS, with UNDP support",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS2 HIV/AIDS patient follow-up",
+      "country_label": "seguimiento personalizado de pacientes con VIH-SIDA",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "MINSABS, with UNDP support",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS2 health workforce availability and qualification data",
+      "country_label": "información sobre la disponibilidad y cualificación de los recursos humanos sanitarios",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "MINSABS, with UNDP support",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS2 inventory control in medicine dispensaries",
+      "country_label": "control de inventarios en los dispensarios de medicamentos",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "MINSABS, with UNDP support",
+      "tiers": "dispensaries of health centres and hospitals"
+    },
+    {
+      "system": "Ministry of Health Data Center",
+      "country_label": "Data Center; Base de Datos digital sobre Salud Pública",
+      "class": "enabling",
+      "platform": "",
+      "owner": "MINSABS (administered exclusively by the ministry), installed with UNDP support",
+      "tiers": "ministry headquarters, Malabo"
+    },
+    {
+      "system": "TRANSDOC",
+      "country_label": "TRANSDOC",
+      "class": "",
+      "platform": "TRANSDOC document management (UNDP SIGOB team)",
+      "owner": "MINSABS, with UNDP support",
+      "tiers": "ministry internal administration"
+    }
+  ],
+  "note": "The release gives no count of facilities entering data and names no tier for the aggregate module; the 'district' value rests on 'datos agregados ... a nivel distrital' and is the parent's to confirm. The launch falls outside twelve months of October 2026."
+}

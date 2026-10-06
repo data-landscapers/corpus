@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-impulse-erhis-newborn-data-functionalities",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (electronic routine health information system)", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "data offices at central and subnational levels, observed November 2022 to July 2024"}
+  ],
+  "note": "Abstract only. It states that DHIS2 is the electronic routine health information system used in data offices at central and subnational levels, that it offers fewer functionalities in the Central African Republic than in the other three countries, and that 100% of end-users interviewed there said it needs improvement (28.6% major improvement); none of that is a statement on governance, tiers, where data is keyed, a dated change or primary clinics."
+}

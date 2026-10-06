@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births",
+  "facts": [],
+  "systems": [
+    {"system": "DISK-Mali", "country_label": "DISK-Mali", "class": "community", "platform": "smartphone tool integrated into the DHIS2 platform", "owner": "Ministry of Health and partners; project by INSP and Vital Strategies", "tiers": "community health worker sites; birth and perinatal death notification in four health districts (Diéma, Kita, Sikasso, Kignan), the electronic form set up for all CHW sites"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "Conference abstract on community health workers notifying births and perinatal deaths by smartphone (729 live births and 35 perinatal deaths in 8 months); a community system only. DHIS2 is named as where the data was analysed and as the platform DISK-Mali is integrated into, with no description of aggregate facility reporting, so no hmis or emr fact."
+}

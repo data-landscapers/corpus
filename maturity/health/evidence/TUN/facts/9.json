@@ -1,0 +1,34 @@
+{
+  "slug": "2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of Health confirmed on 21 July 2026 that the Sahetna.tn portal, through which citizens are to reach their medical records, appointments and treatments under the National Health Identifier, had completed technical validation and a cybersecurity audit reviewed by a steering committee on 10 June 2026; the portal is cleared, not yet in service.",
+      "as_of": "2026-07-21",
+      "date_precision": "day",
+      "system": "Sahetna.tn",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sahetna.tn",
+      "country_label": "Sahetna.tn",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "citizen-facing online portal to medical records, appointments and treatments; tiers not stated"
+    },
+    {
+      "system": "National Health Identifier (INS)",
+      "country_label": "National Health Identifier (INS)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "being deployed across public healthcare facilities; over 15,000 numbers issued per the minister on 22 June 2026; pilot assigns it to newborns through digital birth registration"
+    }
+  ],
+  "note": "Sahetna is the patient portal onto the record, classed emr on what the article says it does; the parent may prefer to hold the event against the record system rather than the portal. The INS figures (15,000 issued, every citizen by end 2026) are exchange-class and give no fact."
+}

@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBY,hmis,governance,qualifier,owner:ministry;plan:current,2025-11-07,LBY-004;LBY-009,LBY-010=owner:ministry;LBY-011=plan:current,not stated: finance
+LBY,hmis,tiers,coverage,none,2021,LBY-007,,nothing dated since 2023-10-06
+LBY,hmis,digitised,coverage,national,2021,LBY-008,,nothing dated since 2023-10-06
+LBY,hmis,last12,qualifier,no-change,2025-11-07,LBY-005,,
+LBY,hmis,clinics,coverage,pilot,2018,LBY-003,,nothing dated since 2023-10-06
+LBY,emr,governance,qualifier,,,,,nothing held
+LBY,emr,tiers,coverage,,,,,nothing held
+LBY,emr,digitised,coverage,paper,2026-03-31,LBY-001;LBY-006,,
+LBY,emr,last12,qualifier,,,,,nothing held
+LBY,emr,clinics,coverage,none,2016,LBY-002,,nothing dated since 2023-10-06

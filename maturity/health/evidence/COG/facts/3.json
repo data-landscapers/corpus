@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-18-aci-pnud-equipements-informatiques-e-lmis-sante",
+  "facts": [],
+  "systems": [
+    {"system": "e-LMIS", "country_label": "Système intégré de gestion logistique électronique (e-Lmis)", "class": "single-function", "platform": "Open mSupply", "owner": "Ministère de la Santé et de la Population, with UNDP", "tiers": "54 of 92 planned pilot sites fully operational (UNDP, July 2026); equipment going to health districts, departmental directorates and the central level; extension to other health facilities planned after the pilot"},
+    {"system": "DHIS2", "country_label": "plateforme de collecte des données de santé (Dhis2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "Plateformes numériques PNLS et PNLT", "country_label": "plateformes numériques des Programmes nationaux de lutte contre le VIH/sida (PNLS) et la tuberculose (PNLT)", "class": "", "platform": "", "owner": "Ministère de la Santé et de la Population (PNLS, PNLT), with UNDP", "tiers": ""}
+  ],
+  "note": "The systems described are a stock and supply-chain system (single-function) and two programme platforms described only as spreading knowledge and results; DHIS2 is named only as the health data collection platform the e-LMIS is being made interoperable with, with no description of aggregate reporting, so no fact for hmis or emr."
+}

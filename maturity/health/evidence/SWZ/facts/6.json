@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-12-hmis-eswatini-cmis-elmis-integration",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Health's HMIS Eswatini unit says a workshop in Piggs Peak tested and validated the integration of CMIS, the national EMR, with eLMIS, so that dispensing by a clinician in CMIS updates eLMIS stock automatically; it runs for ART medicines only and is ready for facility-level pilot ahead of national scale-up (workshop undated, published date used).", "as_of": "2026-06-12", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS, the country's national EMR", "class": "emr", "platform": "", "owner": "Ministry of Health (HMIS Eswatini unit), with Palladium and Vitalliance Corp", "tiers": "not stated; clinicians dispense medication in it"},
+    {"system": "Electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated; facility-level pilot of the CMIS link planned"}
+  ],
+  "note": ""
+}

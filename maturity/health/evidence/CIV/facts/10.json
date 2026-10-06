@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The essay (Data Landscapers, an AI-assisted compilation) states that rural primary clinics record on paper registers and forms, aggregate by hand into summary reports sent monthly or quarterly to district or regional level, and that entry into the national DHIS2 HMIS happens there, DHIS2 having been rolled out nationwide since about 2019; the statement is undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay (Data Landscapers, an AI-assisted compilation) states that rural primary clinics predominantly record patient data on paper registers and forms at the point of service, that it found no evidence of routine electronic medical or health records or digital point-of-care entry in most rural clinics, and that digital systems are limited to isolated pilots or disease-specific programmes; the statement is undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national DHIS2 health management information system (HMIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district or regional level from clinics' paper summary reports; nationwide since about 2019"},
+    {"system": "SIGDEP", "country_label": "SIGDEP", "class": "tracker", "platform": "", "owner": "", "tiers": "HIV patient management at 233 sites; electronic but not general care"},
+    {"system": "cervical cancer screening tracker", "country_label": "", "class": "tracker", "platform": "", "owner": "donor-supported", "tiers": ""},
+    {"system": "eLMIS", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

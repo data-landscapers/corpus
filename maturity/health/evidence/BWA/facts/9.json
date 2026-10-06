@@ -1,0 +1,112 @@
+{
+  "slug": "2026-03-05-ministry-of-health-committee-of-supply-speech",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:22",
+      "fact": "The Assistant Minister of Health told Parliament on 5 March 2026 that Phase 1 of the centralised Electronic Medical Record had been implemented in 22 health facilities in Ngami, to be extended to 21 facilities in Okavango by end of March 2026; the facility types and a national denominator are not given.",
+      "as_of": "2026-03-05",
+      "date_precision": "day",
+      "system": "Centralized Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of Health's 2026/27 budget speech reports the Phase 1 rollout of the centralised EMR as ongoing, at 22 facilities in Ngami to date, 21 more in Okavango due by end of March 2026 and the remaining 29 districts planned for the 2026/27 financial year.",
+      "as_of": "2026-03-05",
+      "date_precision": "day",
+      "system": "Centralized Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's 2026/27 budget speech states that the Ministry of Health and the Ministry of Local Government and Traditional Affairs will jointly roll out the completed EMR system to the remaining 29 districts in 2026/27.",
+      "as_of": "2026-03-05",
+      "date_precision": "day",
+      "system": "Centralized Electronic Medical Record (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The 2026/27 development budget request allocates P62,534,000 to the Ministry of Health headquarters for consultancies, computerisation and fleet, naming the 'Digitalization of Health Services Project' among what it funds; the EMR rollout is reported under the speech's 'Digitalisation of Health Services' heading, and the line does not name the EMR itself.",
+      "as_of": "2026-03-05",
+      "date_precision": "day",
+      "system": "Centralized Electronic Medical Record (EMR)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Centralized Electronic Medical Record (EMR)",
+      "country_label": "centralized Electronic Medical Record (EMR)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health, with the Ministry of Local Government and Traditional Affairs",
+      "tiers": "22 health facilities in Ngami; 21 in Okavango due by end March 2026; remaining 29 districts in 2026/27"
+    },
+    {
+      "system": "Hospital Electronic Health Record (EHR) system",
+      "country_label": "Hospital Electronic Health Record (EHR)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned, to replace the platform in use across all public hospitals; no date given"
+    },
+    {
+      "system": "Platform currently in use across all public hospitals",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "all public hospitals; not named and not described"
+    },
+    {
+      "system": "National Health Intelligence Centre",
+      "country_label": "National Health Intelligence Centre",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "national platform for collecting, processing and analysing real-time health data from community health workers to tertiary referral hospitals; completion scheduled before end of FY 2025/26"
+    },
+    {
+      "system": "Health Information Exchange (HIE)",
+      "country_label": "Health Information Exchange (HIE)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Client Registry (unique patient identifier from Omang or passport number) and Facilities Registry (all health facilities nationwide) reported ready for deployment"
+    },
+    {
+      "system": "Electronic Logistics Management Information System (eLMIS)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Central Medical Stores; financed by the World Bank",
+      "tiers": "inventory digitalisation at key facilities; immediate target at least 20 percent of facilities, accounting for 80 percent of CMS supply volumes"
+    },
+    {
+      "system": "Picture Archiving and Communication System (PACS)",
+      "country_label": "PACS",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "to be introduced; links X-ray and CT scan services with experts for remote reporting"
+    },
+    {
+      "system": "Quality Information Management System (QIMS)",
+      "country_label": "QIMS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "named in the development budget; not described"
+    }
+  ],
+  "note": "No HMIS fact: the National Health Intelligence Centre is described as a real-time data and analysis platform, not as routine aggregate reporting, so it is left unclassified. The speech also says primary health care services are relocating to the Ministry of Local Government and Traditional Affairs, due to complete by end of March 2026."
+}

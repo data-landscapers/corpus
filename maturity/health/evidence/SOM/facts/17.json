@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-ministry-of-finance-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "ODK", "country_label": "ODK", "class": "", "platform": "ODK", "owner": "", "tiers": ""},
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "One sentence on health data: in 2024 digital health systems advanced with the introduction of tools such as ODK and e-learning platforms, with plans to transition to the HMIS. Neither system is described, so neither is classed and no fact is taken."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2012-01-01-zimbabwe-e-health-strategy-2012-2017",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The health ministry's E-Health Strategy 2012-2017 names the District Health Information System (DHIS) as the national HMIS and lists its strengthening among the e-health applications under way; the document is undated, so the year is its published date.", "as_of": "2012", "date_precision": "year", "system": "District Health Information System (DHIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The health ministry's E-Health Strategy 2012-2017 states that the DHIS is deployed throughout the country and captures data from all 67 districts, with mobile phones being added for remote facilities reporting to the national database; it does not say in so many words where the data is keyed, and the year is the undated document's published date.", "as_of": "2012", "date_precision": "year", "system": "District Health Information System (DHIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The health ministry's E-Health Strategy 2012-2017 says mobile phones are being used in remote facilities to report to the national DHIS database but gives no number or share of facilities doing so; the year is the undated document's published date.", "as_of": "2012", "date_precision": "year", "system": "District Health Information System (DHIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS)", "country_label": "National Health Management Information System (HMIS)", "class": "hmis", "platform": "DHIS", "owner": "", "tiers": "all 67 districts; remote facilities by mobile phone"},
+    {"system": "Human resource information system", "country_label": "Human resource information systems", "class": "", "platform": "", "owner": "Ministry of Health and Child Welfare with the regulatory authorities", "tiers": ""},
+    {"system": "Medical school telemedicine application", "country_label": "", "class": "enabling", "platform": "", "owner": "the medical school", "tiers": ""},
+    {"system": "Private provider care-centre network", "country_label": "", "class": "", "platform": "", "owner": "a private service provider, unnamed", "tiers": ""}
+  ],
+  "note": "No EMR fact: the strategy treats electronic medical records and a shared patient record as priorities and architecture to be built, and names no deployed EMR. The digitised:district value rests on the 'all 67 districts' wording, not on an explicit statement of where data is keyed."
+}

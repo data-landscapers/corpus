@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-13-guinea-kouma-academy-hospital-digitisation-financing",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "As of August 2026 the Guinean start-up Kouma Academy's Visa Medical digital medical record is deployed in 19 public establishments (the start-up says about twenty hospitals and over one million users) with Ministry of Health support; the one named site is Dubréka hospital, and the tier of the others is not stated beyond 'hospitals'.", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "Visa Medical is built and run by the private start-up Kouma Academy, which says it invests its own funds in the hospitals' equipment and infrastructure under a 'zero debt' model with the Ministry of Health's support, the patient paying 30,000 GNF for the card; no state budget line or donor is named (August 2026).", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "At Dubréka hospital patient care now relies on a digital medical record centralising consultations, tests and examinations on the patient's Visa Medical card, with clinicians retrieving a patient's information in real time and not re-entering it by hand at each consultation (August 2026).", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Visa Medical", "country_label": "Visa Medical", "class": "emr", "platform": "Visa Medical (Kouma Academy)", "owner": "Kouma Academy (private start-up), with Ministry of Health support", "tiers": "19 public establishments / about twenty hospitals, including Dubréka hospital"}
+  ],
+  "note": ""
+}

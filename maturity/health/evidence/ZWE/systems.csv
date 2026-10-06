@@ -1,0 +1,32 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZWE,Laboratory Information Management System (LIMS),LIMS,single-function,,"Ministry of Health, Directorate of Laboratory Services","117 main laboratories, linked to lower-level laboratories; National Health Laboratory Strategic Plan 2025-2030 targets 80 percent of health facilities",2026-09-23-herald-zwe-lims-rural-diagnostics-2026
+ZWE,Impilo electronic health records platform,Impilo,emr,,Ministry of Health,,2026-09-23-herald-zwe-lims-rural-diagnostics-2026
+ZWE,Laboratory Information Management System (LIMS),LIMS,single-function,,,,2026-09-14-zwe-ungm-laboratory-information-management-system-tender
+ZWE,Impilo,"Impilo, Zimbabwe's National Health Operating System",emr,,Ministry of Health and Child Care,,2026-08-08-impilo-zimbabwe-national-health-operating-system
+ZWE,TSHEPO,TSHEPO,,,,,2026-08-08-impilo-zimbabwe-national-health-operating-system
+ZWE,Starlink kits at rural health facilities,Starlink kits,enabling,Starlink,Ministry of Health and Child Care,"more than 400 health facilities, described as rural health centres, have received kits, with 300 more to be added; kits not activated for want of subscription payments (July 2026)",2026-07-17-starlink-kits-gather-dust-rural-hospitals
+ZWE,Zimbabwe Core FHIR Implementation Guide (ZWCore),Zimbabwe Core IG,exchange,HL7 FHIR 4.0.1,MOH Zimbabwe (Ministry of Health and Child Care),,2026-06-15-zimbabwe-core-fhir-implementation-guide
+ZWE,Impilo EMR,Impilo,emr,,,,2026-06-15-zimbabwe-core-fhir-implementation-guide
+ZWE,DHIS2,national DHIS2,hmis,DHIS2,,aggregate data from rural primary clinics' paper registers entered at district level,2026-03-31 Africa we have a data problem
+ZWE,Impilo EMR,Impilo,emr,,,"1,254 of about 1,900 public health facilities, including rural 'last mile' sites such as Sipepa Rural Hospital",2026-03-31 Africa we have a data problem
+ZWE,Impilo EHR,Impilo,emr,,Ministry of Health and Child Care,"Matabeleland South: 138 of 153 facilities across seven districts, urban centres to remote rural clinics; 15 mine, border-post and uniformed-forces clinics excluded from the rollout",2025-11-14-ehr-impilo-coverage-matabeleland-south
+ZWE,Laboratory Information Management Systems (LIMS),LIMS,single-function,,,,2025-11-14-ehr-impilo-coverage-matabeleland-south
+ZWE,Essential Logistics Management Information System (ELMIS),ELMIS,single-function,,,,2025-11-14-ehr-impilo-coverage-matabeleland-south
+ZWE,Starlink pilot,Starlink Pilot Program,enabling,Starlink,,one remote site in Matabeleland South,2025-11-14-ehr-impilo-coverage-matabeleland-south
+ZWE,Impilo,Impilo,emr,,Government of Zimbabwe,"1,254 health facilities implementing, planned for all 1,900",2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,national health management information system,national health management information system,hmis,,Government of Zimbabwe and partners,national and sub-national levels,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,DHIS2,DHIS2,,DHIS2,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,DHIS2 Tracker for HIV prevention,"national digital system to track HIV risk, referrals, services and outcomes",tracker,DHIS2 Tracker,Zimbabwe National AIDS Council,"community level; over 5,900 mobile devices distributed with Global Fund grants",2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,health information exchange,national health information exchange platform,exchange,HL7 FHIR,,"under development, to connect laboratories, logistics systems and DHIS2 to Impilo",2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,Digital Health Architecture Blueprint,national Digital Health Architecture Blueprint,exchange,,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,lab information system,lab information system,single-function,,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,eSample transport system,eSample transport system,single-function,,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,logistics management and information system,logistics management and information system,single-function,,,,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,warehouse management system,warehouse management system,single-function,,,national warehouse of the National Pharmaceutical Company,2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,Solar for Health,Solar for Health,enabling,,"Global Fund financed, with UNDP technical support","1,044 health facilities solarised in all ten provinces, more than 60% of all health facilities; additional internet connectivity for rural health facilities being funded",2025-08-01-global-fund-zimbabwe-digital-health-case-study
+ZWE,HMIS of health facilities,HMIS / HIS (health facility records),,,,health facilities,2022-03-08-eu-multiannual-indicative-programme-2021-2027-zimbabwe-annex
+ZWE,DHIS2 data warehouse (national health information system),,hmis,DHIS2,,,2021-08-04 Health information systems in developing countries case of African countries
+ZWE,District Health Information System (DHIS),National Health Management Information System (HMIS),hmis,DHIS,,all 67 districts; remote facilities by mobile phone,2012-01-01-zimbabwe-e-health-strategy-2012-2017
+ZWE,Human resource information system,Human resource information systems,,,Ministry of Health and Child Welfare with the regulatory authorities,,2012-01-01-zimbabwe-e-health-strategy-2012-2017
+ZWE,Medical school telemedicine application,,enabling,,the medical school,,2012-01-01-zimbabwe-e-health-strategy-2012-2017
+ZWE,Private provider care-centre network,,,,"a private service provider, unnamed",,2012-01-01-zimbabwe-e-health-strategy-2012-2017

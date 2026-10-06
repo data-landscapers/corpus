@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "Data Landscapers' AI-assisted 54-country review states that CSCom staff review the paper monthly reports and enter aggregated data into the national DHIS2, entry being at facility or district level from paper and not at the point of care; it gives no figures and no date for the practice, so the date is the essay's published date.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T3", "fact": "The same review states that DHIS2 has been national since 2016 and covers most districts, with rural primary clinics (CSComs) the place where aggregated data is entered; no count of districts or clinics is given, and the date is the essay's published date.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The review states that rural CSComs record patient data on paper registers and forms at the point of service, that patient recording remains paper by default and that it found no evidence of majority digital point-of-service use; this is the author's compiled analysis, undated, so the date is the essay's published date.", "as_of": "2026-03-31", "date_precision": "day", "system": "none named (paper registers at CSComs)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national DHIS2 system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "national since 2016, most districts; aggregated entry at CSCom or district level"},
+    {"system": "DISC-Mali", "country_label": "DISC-Mali", "class": "community", "platform": "smartphone app", "owner": "", "tiers": "community health workers; launched 2023, scale to 25k by 2025, replacing their paper reports"},
+    {"system": "electronic vaccination registries", "country_label": "", "class": "tracker", "platform": "", "owner": "", "tiers": "pilot in 2 districts"},
+    {"system": "eLMIS", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "piloted in some regions"}
+  ],
+  "note": "Passages file; the Mali clinic row is the only health content. The document is flagged in its own header as an AI-aided compilation, the author's analysis rather than sourced fact."
+}

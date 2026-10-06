@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+KEN,hmis,governance,qualifier,owner:ministry;finance:donor,2025-04-11,KEN-019;KEN-023,KEN-025=finance:donor,not stated: plan
+KEN,hmis,tiers,coverage,,,,,nothing held
+KEN,hmis,digitised,coverage,district,2016,KEN-024,,nothing dated since 2023-10-06
+KEN,hmis,last12,qualifier,,,,,nothing held
+KEN,hmis,clinics,coverage,,,,,nothing held
+KEN,emr,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-10-02,KEN-005;KEN-006;KEN-013,KEN-009=finance:donor;KEN-012=owner:ministry;KEN-014=finance:donor;KEN-015=finance:domestic;KEN-017=finance:donor;KEN-029=owner:vendor;KEN-020=owner:ministry;KEN-033=owner:vendor;KEN-022=owner:ministry,
+KEN,emr,tiers,coverage,T2;T3;T4,2026-10-02,KEN-001;KEN-028;KEN-031,,
+KEN,emr,digitised,coverage,point-of-care,2026-10-02,KEN-003;KEN-026;KEN-032,KEN-008=paper,
+KEN,emr,last12,qualifier,advancing,2026-09-30,KEN-004;KEN-007;KEN-010;KEN-016;KEN-018,KEN-021=regressing,
+KEN,emr,clinics,coverage,share:100%,2026-10-02,KEN-002,KEN-011=count:1500;KEN-027=count:16;KEN-030=count:16,

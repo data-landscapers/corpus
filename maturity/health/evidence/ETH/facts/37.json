@@ -1,0 +1,76 @@
+{
+  "slug": "2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "By the end of 2013, 98% of public hospitals and 87% of health centres had adopted HMIS, as the study reports citing the Health Sector Transformation Plan; no numerators or denominators are given.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "HMIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The first Health Sector Transformation Plan (2015-2020) called for an information revolution in how health data are collected, analysed and disseminated, giving rise to HMIS data-quality and data-use initiatives, on the study's account.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "HMIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "DHIS-2, a web-based platform for capturing and analysing data, was introduced in 2018 alongside a nationwide campaign to improve internet connectivity in health facilities, under a Federal Ministry of Health the study describes as highly invested in the HMIS.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:95%",
+      "fact": "The study states that more than 95% of health facilities used the online or offline version of DHIS-2, with reporting rates through it of about 80% for disease reporting and 90% for service reporting; the denominator is all health facilities, not primary clinics, no counts are given, and the figure is undated in the text, so the document's published date is used.",
+      "as_of": "2023-05-11",
+      "date_precision": "day",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "In the 2019 and 2020 PMA Ethiopia facility surveys, 305 public hospitals and health centres reported a functional HMIS, while health posts and health clinics were excluded because they have no independent HMIS.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "HMIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The study describes health posts recording largely on paper and sending data monthly to their health centre, which compiles and submits it so that digitised health centre and health post data are compiled at the woreda health office; primary and general hospitals send data digitally and specialised hospitals submit digitally direct to the ministry (survey years 2019-2020).",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "HMIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "HMIS",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "DHIS-2 since 2018",
+      "owner": "Federal Ministry of Health",
+      "tiers": "specialised, general and primary hospitals and health centres; health posts report on paper through their health centre"
+    }
+  ],
+  "note": ""
+}

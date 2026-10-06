@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-01-undp-msupply-elmis-dhis2-integration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "mSupply eLMIS",
+      "country_label": "Electronic Logistics Management Information System (eLMIS)",
+      "class": "single-function",
+      "platform": "mSupply",
+      "owner": "Ministry of Health with UNDP; funded by the Global Fund",
+      "tiers": "Gumbo Warehouse and 105 of 145 health facilities (72.4%) as at March 2026, 300 health workers trained; 40 facilities in Jonglei, Unity and Upper Nile prioritised for 2026; described as interoperable with DHIS2, with an eLMIS dashboard integrated into DHIS2"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "named only as the system the eLMIS dashboard is integrated into; not described"
+    }
+  ],
+  "note": "The system described is a stock and logistics system, classed single-function; DHIS2 is named without description of what it does, so no fact for hmis or emr. Capture is an excerpt, truncated after section 2.5."
+}

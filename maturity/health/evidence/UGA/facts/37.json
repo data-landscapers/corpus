@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-01-uganda-data-ecosystem-social-protection",
+  "facts": [],
+  "systems": [
+    {"system": "Health management information system", "country_label": "health management information system", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages say only that the health management information system runs on DHIS2, collects data frequently and is open only to officials with login credentials; nothing on any aspect."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-03-nilepost-chil-group-e-ward-round-platform",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "Chil Group, a private digital health company, says it supplies its own zero-cost EMR software holding patients' digital health records to its partner health facilities, 67% of which have inpatient capacity (more than 260 wards); the number and tier of facilities are not given.", "as_of": "2026-09-03", "date_precision": "day", "system": "Chil Group Electronic Medical Record (EMR) software", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Chil Group Electronic Medical Record (EMR) software", "country_label": "zero-cost EMR software", "class": "emr", "platform": "Chil Group proprietary", "owner": "Chil Group (private company)", "tiers": "Chil Group partner health facilities, including rural facilities with inpatient wards; tiers not stated"},
+    {"system": "E-Ward Round Platform", "country_label": "E-Ward Round Platform / E-Ward Round Module", "class": "enabling", "platform": "Chil Group proprietary", "owner": "Chil Group (private company)", "tiers": "available to partner health facilities with inpatient capacity; launched 3 September 2026"}
+  ],
+  "note": ""
+}

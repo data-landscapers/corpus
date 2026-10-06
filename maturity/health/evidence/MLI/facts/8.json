@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-26-pnud-mali-kalake-innovation-sante-familles-sandi",
+  "facts": [],
+  "systems": [
+    {"system": "SanDi", "country_label": "projet SanDi", "class": "enabling", "platform": "solar power, computing equipment and telemedicine by camera-equipped smart glasses", "owner": "UNDP with WHO, the Ministère de la Santé et du Développement social, the Université de Sherbrooke and the Agence des Énergies Renouvelables; financed by AECID and UN funds", "tiers": "34 health structures to December 2025: 27 CSCOM and 7 Centres de Santé de Référence in Kayes, Koulikoro, Sikasso, Ségou, Mopti, Bandiagara and Bamako district; CHU Gabriel Touré also"},
+    {"system": "electronic billing and cash-tracking software, CSCOM de Kalaké", "country_label": "système électronique de facturation / logiciel de gestion financière", "class": "", "platform": "", "owner": "CSCOM de Kalaké, under the SanDi project", "tiers": "one CSCOM (Kalaké, cercle de Barouéli)"}
+  ],
+  "note": "UNDP story of 26 December 2025: power, devices and telemedicine (enabling) and a billing system that replaced handwritten tickets, which is administration only and out of scope; nothing on routine reporting or a patient record."
+}

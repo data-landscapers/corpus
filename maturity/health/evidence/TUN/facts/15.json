@@ -1,0 +1,60 @@
+{
+  "slug": "2025-01-01-gnetnews-ministere-sante-digitalisation-secteur-medical-tunisie",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "GnetNews reports the Minister of Health saying, at the 10th Réalités forum on digital health, that digitisation of the medical record under the ministry's 'dossier médical unique' project had passed 95 per cent implementation; what the 95 per cent is a share of is not stated, and the capture is undated, so the record's proxy date of 2025 is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "dossier médical unique",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Minister of Health said the next stage of the 'dossier médical unique' project would be to connect first-line health facilities to the internet and train their nurses and doctors, placing primary facilities ahead of the record rather than on it; no count of facilities is given, and the capture is undated (proxy date of 2025 used).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "dossier médical unique",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical unique",
+      "country_label": "dossier médical unique; numérisation du dossier médical",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "digitisation of medical files in university, regional and local hospitals spoken of in the future tense; first-line facilities to be connected next"
+    },
+    {
+      "system": "numérisation du parcours des médicaments",
+      "country_label": "projet de numérisation du parcours des médicaments",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Agence Nationale des Médicaments, with the United States embassy",
+      "tiers": "national medicines agency; in implementation"
+    },
+    {
+      "system": "télémédecine (Tozeur, Sfax, La Rabta)",
+      "country_label": "télémédecine",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "teams at Tozeur, Sfax and La Rabta hospital: stroke cases and remote radiology diagnosis"
+    },
+    {
+      "system": "tele-radiology image-reading software",
+      "country_label": "logiciel tunisien de lecture à distance des images médicales",
+      "class": "enabling",
+      "platform": "being developed with InstaDeep",
+      "owner": "Ministry of Health with InstaDeep",
+      "tiers": "in development"
+    }
+  ],
+  "note": "The record's date is a proxy at year precision (no dateline on the capture); the status report dates the same statement to February 2025, which this document does not itself state. The clinics value rests on the minister calling first-line connection the next stage, not on an explicit statement that no clinic uses the record; the parent should weigh it."
+}

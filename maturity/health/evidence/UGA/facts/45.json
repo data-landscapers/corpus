@@ -1,0 +1,11 @@
+{
+  "slug": "2018-12-28-id4d-country-diagnostic-uganda-world-bank",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The World Bank's ID4D diagnostic says the health records the Ministry of Health keeps on its clients are still very much paper based and that a fully functioning electronic health records system lies in the future; it gives no date, so the document's published date is used.", "as_of": "2018-12-28", "date_precision": "day", "system": "Ministry of Health client health records", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "electronic Health Management Information System", "country_label": "electronic Health Management Information System", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "The ministry has plans to develop it further"},
+    {"system": "second-generation District Health Information System", "country_label": "District Health Information System", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "Planned"}
+  ],
+  "note": ""
+}

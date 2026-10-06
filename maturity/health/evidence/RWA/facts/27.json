@@ -1,0 +1,16 @@
+{
+  "slug": "2025-04-03-rwanda-health-intelligence-center-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Health Intelligence Center (HIC)", "country_label": "Health Intelligence Center", "class": "exchange", "platform": "six-layer data platform with a data lakehouse; software not named", "owner": "Ministry of Health", "tiers": "consolidates data from community health workers at village level up to national referral hospitals"},
+    {"system": "DHIS2 (Health Management Information System)", "country_label": "Health Management Information System", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "eBuzima", "country_label": "eBuzima", "class": "emr", "platform": "", "owner": "", "tiers": ""},
+    {"system": "cEMR", "country_label": "cEMR", "class": "emr", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eLMIS (Logistics Management)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "WelTel (population health tracking)", "country_label": "WelTel", "class": "", "platform": "WelTel", "owner": "", "tiers": ""},
+    {"system": "Health Workforce Management System (HWMS)", "country_label": "HWMS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Emergency Medical Services", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Civil Registration and Vital Statistics (CRVS)", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Ministry of Health release of 3 April 2025 on the launch of the Health Intelligence Center; it lists DHIS2, eBuzima and cEMR only as data sources feeding the centre and states nothing about their tiers, where data is keyed or how many clinics use them."
+}

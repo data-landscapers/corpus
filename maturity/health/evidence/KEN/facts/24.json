@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-15-expands-digital-id-minors-health-biometricupdate",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Kenya began biometric enrolment of dependants aged 7 to 17 under the SHA system, each to be issued a Maisha Namba, which Health CS Duale said would link each child to a health record and make medical history, immunisation logs and treatment records accessible at any SHA facility; the report gives no start date, so its published date is used.", "as_of": "2026-06-15", "date_precision": "day", "system": "Social Health Authority (SHA) system", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Social Health Authority (SHA) system", "country_label": "SHA system", "class": "emr", "platform": "", "owner": "Social Health Authority / Ministry of Health", "tiers": "'any SHA facility', as the minister puts it"},
+    {"system": "Maisha Namba", "country_label": "Maisha Namba", "class": "enabling", "platform": "", "owner": "Government of Kenya (national digital ID)", "tiers": ""}
+  ],
+  "note": "Classed emr only on the minister's description of a per-child health record (medical history, immunisation logs, treatment records) retrievable at any SHA facility, which is stated as the aim of the enrolment and not as a count of facilities or records. Maisha Namba is the national identifier, entered as enabling for want of a closer class."
+}

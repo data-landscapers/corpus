@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-misau-plano-melhoria-qualidade-dados-2025-2029",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Health's Plano de Melhoria de Qualidade de Dados 2025-2029, dated Maputo, January 2025, is a national plan for the quality of data in SIS-MA, drawn up after the ministry's 2022-23 national assessment of 175 of 180 planned facilities in all 11 provinces found that only 9% of records matched exactly between facility source registers and SIS-MA.", "as_of": "2025-01", "date_precision": "month", "system": "SIS-MA", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SIS-MA", "country_label": "Sistema de Informação para Saúde / SIS-MA", "class": "hmis", "platform": "", "owner": "MISAU (plan contributors include its DIS)", "tiers": "four reporting levels named: unidade sanitária, distrital, provincial, central; the document does not say at which level data is keyed"}
+  ],
+  "note": ""
+}

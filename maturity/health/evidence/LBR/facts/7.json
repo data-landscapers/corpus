@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The essay (an AI-assisted compilation, citing a 2014 MEASURE Evaluation PRISM assessment) states that rural clinics aggregate their paper registers monthly onto paper HMIS forms and submit them to county health teams, where they are entered into DHIS2; no date is given for the position, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "HMIS on DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The essay states there is no digital entry at the point of service in rural primary clinics, which keep an average of 21 to 24 paper registers per facility, digital being used only for aggregate reporting at county level; no numerator or denominator is given and the position is undated, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "HMIS on DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay states that rural primary healthcare clinics record patient data in paper registers and ledgers with no EMR at the point of service, and cites a 2026 social-media post that most facilities still rely on paper records; undated beyond that, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "EMR (none in rural clinics)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "The essay states that rural clinics have no EMR and that electronic records exist only as isolated partner-supported pilots, naming the Partners In Health OpenMRS rollout at J.J. Dossen Hospital in Maryland County in 2020; no count or denominator is given, and the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "EMR (none in rural clinics)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "The essay states that the OpenMRS EMR at J.J. Dossen Hospital was rolled out by Partners In Health in 2020, replacing paper records there, and that such deployments are limited to partner-supported sites.", "as_of": "2020", "date_precision": "year", "system": "OpenMRS EMR at J.J. Dossen Hospital", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "HMIS on DHIS2", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at county health teams from clinics' paper forms"},
+    {"system": "OpenMRS EMR at J.J. Dossen Hospital", "country_label": "", "class": "emr", "platform": "OpenMRS", "owner": "Partners In Health", "tiers": "J.J. Dossen Hospital, Maryland County"},
+    {"system": "Birth registration system linked to DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "UNICEF-supported", "tiers": "tablets/online in 98% of health districts (2024), per the essay"}
+  ],
+  "note": "Passages file. The source is flagged in its own header as an AI-aided compilation to be treated as the author's analysis, not sourced fact; its Liberia clinic row rests on a 2014 assessment and a 2020 PIH article."
+}

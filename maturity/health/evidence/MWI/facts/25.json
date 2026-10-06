@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-01-undp-malawi-idt4m-quarterly-report-apr-jun25",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry",
+     "fact": "UNDP's quarterly report describes the EMR systems as the Ministry of Health's, with the ministry's Digital Health Directorate leading the work to link them to the National Registration Bureau's unique identification numbers.",
+     "as_of": "2025-06", "date_precision": "month", "system": "Ministry of Health EMR systems", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing",
+     "fact": "UNDP reports that on 30 June 2025 the Ministry of Health's senior management approved the lessons-learnt report on linking national ID and birth certificate numbers to electronic medical records, piloted in Karonga District, and recommended scaling the linkage to other districts nationwide.",
+     "as_of": "2025-06-30", "date_precision": "day", "system": "Ministry of Health EMR systems", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Ministry of Health EMR systems", "country_label": "Electronic Medical Records (EMR)", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "UIN linkage piloted in Karonga District; tiers not stated"}
+  ],
+  "note": ""
+}

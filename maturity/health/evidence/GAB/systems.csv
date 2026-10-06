@@ -1,0 +1,25 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GAB,eGabon-SIS,eGabon-SIS,,,,,2026-09-11-gabon-digital-id-interoperability-implementation
+GAB,e-Gabon-SIS,e-Gabon-SIS,,,,,2026-09-09-techafricanews-gabon-four-digital-projects
+GAB,eGabon-SIS,eGabon-SIS,,,,pilot in 13 facilities (tier not stated),2026-07-23-ictworks-african-national-digital-health-strategies-2026
+GAB,eGabon-SIS (dossier patient informatisé),eGabon-SIS,emr,,"ANINF with the ministries of Health and Defence (project partners, as stated)","several interconnected health facilities, including the military teaching hospitals (HIA); number and tier not stated",2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis
+GAB,DHIS2 Tracker (hypertension and diabetes follow-up),DHIS2 Tracker,tracker,DHIS2 Tracker,"Ministry of Health, national non-communicable disease programme, with WHO technical support",pilot sites in several health structures; extension to four health districts planned by September 2026 and national generalisation in 2027,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker
+GAB,système national DHIS2,DHIS2,,DHIS2,,,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker
+GAB,télé-échographie (eGabon-SIS),eGabon-SIS,enabling,,"Ministry of Health, with World Bank financing and ANINF technical support","health centres in four pilot health departments of Ngounié (Mbigou, Malinga, Mimongo, Mandji-Ndoulou), read remotely at the Centre hospitalier régional de Mouila; installation from 15 April 2026",2026-04-16-ngounie-extension-egabon-sis-quatre-departements
+GAB,DHIS2,DHIS2,hmis,DHIS2,,entered by data managers at district or regional level; launched nationally in 2024,2026-03-31 Africa we have a data problem
+GAB,SNIS,SNIS,hmis,,,district or regional level,2026-03-31 Africa we have a data problem
+GAB,eGabon,eGabon/SNIS,,,,,2026-03-31 Africa we have a data problem
+GAB,Routine Info,Routine Info,,,,pilot in select facilities,2026-03-31 Africa we have a data problem
+GAB,"eGabon-SIS (Système d'Information de Santé, second phase)",eGabon-SIS / SIS,,,"Government of Gabon (ministries of Digital Economy and Health, ANINF), with World Bank technical and financial support",13 pilot public health structures across the country received a first lot of computer equipment on 28 July 2025; tier not stated,2025-07-29-gabon-egabon-sis-health-mis-equipment
+GAB,eGabon-SIS,eGabon-SIS,,,ANINF's deputy director general is named as general coordinator of the project,,2025-06-23-gabon-legal-digital-id-three-projects
+GAB,DHIS2,DHIS2,hmis,DHIS2,"not named; launched by the government with WHO Gabon, the Global Fund, CERMEL and HISP Rwanda","national scale, tiers not stated",2025-06-03-dhis2-officially-launched-gabon
+GAB,système national de collecte des informations sanitaires,système national d'information sanitaire,hmis,,"Ministry of Health, DGPEP, Direction de l'Information, de la Planification et de la Prospective (Service Information)",,2024-08-01-gabon-decret-0292-pr-ms-dgpep-planification-evaluation-partenariats
+GAB,E-Gabon National Health Information System (NHIS) project,E-Gabon SIS,,,,,2021-08-04 Health information systems in developing countries case of African countries
+GAB,eGabon (National Health Information System),eGabon,,,"World Bank-financed eGabon project (P132824), launched in 2016",,2021-06-15-world-bank-digital-gabon-project-pad
+GAB,national Health Information System (eGabon project),eGabon,,,,,2021-05-10-gabon-project-information-document-digital-gabon-p175987
+GAB,CNAM-GS social protection beneficiary registry,CNAM-GS,,,CNAM-GS (national health insurance and social security fund),,2021-05-10-gabon-project-information-document-digital-gabon-p175987
+GAB,National Health Information System (NHIS),Système National d'Information Sanitaire (eGabon),emr,to be designed; open source applications to be used where feasible,"MSPSSN (health ministry) and ANINF, financed by the World Bank eGabon project (P132824)","planned for all facilities, public, private, military and prison, after a first region; not yet in use in 2016",2016-05-12-worldbank-pad-egabon-project
+GAB,existing hospital information systems,HIS,,,individual hospitals,"some hospitals; a limited number of electronic systems exist, largely independent and not exchanging data",2016-05-12-worldbank-pad-egabon-project
+GAB,CNAM-GS information systems,CNAM-GS,,,CNAM-GS (national health insurance fund),,2016-05-12-worldbank-pad-egabon-project
+GAB,National Health Information System (e-health),National Health Information System,emr,,supported by the World Bank,not stated; described in the future tense,2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report
+GAB,National Health Information System (eGabon),eGabon,emr,,"Ministry of Health, ANINF and CNAM-GS as implementers; Ministry of the Digital Economy and CN-TIPPEE as implementing agencies of the loan",not stated; the design provides for rural clinic data capture,2016-06-03-wb-gab-003-egabon

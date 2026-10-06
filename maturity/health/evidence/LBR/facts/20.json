@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-11-unicef-liberia-children-legal-identity",
+  "facts": [],
+  "systems": [
+    {"system": "Birth Registration Information Management System (BRIMS)", "country_label": "BRIMS", "class": "", "platform": "DHIS2", "owner": "Ministry of Health, UNICEF-supported", "tiers": "birth registration services in all 15 counties and 58 centers (December 2024)"}
+  ],
+  "note": "BRIMS is a civil registration system built on DHIS2, not a system of any class the study assesses; the document states nothing about HMIS or EMR."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2026-08-08-impilo-zimbabwe-national-health-operating-system",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Impilo front page, published by the Ministry of Health and Child Care, says Impilo connects care, records, telemedicine, diagnostics and citizen services in one environment led by the ministry, with sign-in for a person's own records, results, prescriptions and referrals; the page is undated, so the capture date given as its published date is used.",
+      "as_of": "2026-08-08",
+      "date_precision": "day",
+      "system": "Impilo",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Impilo",
+      "country_label": "Impilo, Zimbabwe's National Health Operating System",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": ""
+    },
+    {
+      "system": "TSHEPO",
+      "country_label": "TSHEPO",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The page states no facility-coverage figure, no tier and no place of data entry."
+}

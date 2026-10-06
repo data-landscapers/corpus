@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-malawi-mahis-digital-health-records-pilot",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health and Sanitation has rolled out the Malawi Health Care Information System (Mahis), a digital health records system meant to replace hard-copy health passport books, according to its director of quality management and digital health.", "as_of": "2026-09-03", "date_precision": "day", "system": "Malawi Health Care Information System (Mahis)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T3", "fact": "Mahis is in pilot phase at Queen Elizabeth Central Hospital in Blantyre and at selected health centres nationwide; the number of health centres is not given.", "as_of": "2026-09-03", "date_precision": "day", "system": "Malawi Health Care Information System (Mahis)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The newspaper's check at Queen Elizabeth Central Hospital's outpatient department found Mahis operational: registered patients no longer produced health passport books, and first-time patients had details captured at the registry and were issued a barcode; the ministry says each patient gets a unique identifier held on a server reachable by facilities through an interoperability layer.", "as_of": "2026-09-03", "date_precision": "day", "system": "Malawi Health Care Information System (Mahis)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Mahis was reported in pilot phase and live at Queen Elizabeth Central Hospital's outpatient department on 3 September 2026, with the ministry hoping most health facilities will be digitised within the next year or so.", "as_of": "2026-09-03", "date_precision": "day", "system": "Malawi Health Care Information System (Mahis)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "Mahis is under pilot at selected health centres nationwide alongside one central hospital; no count or share of health centres is stated.", "as_of": "2026-09-03", "date_precision": "day", "system": "Malawi Health Care Information System (Mahis)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Malawi Health Care Information System (Mahis)", "country_label": "Mahis", "class": "emr", "platform": "", "owner": "Ministry of Health and Sanitation", "tiers": "Queen Elizabeth Central Hospital (Blantyre) and selected health centres nationwide, pilot"},
+    {"system": "Interoperability layer", "country_label": "interoperability layer", "class": "exchange", "platform": "", "owner": "Ministry of Health and Sanitation", "tiers": "links the central server of patient identifiers and records to health facilities across the country, as described by the ministry"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2018-01-01-politique-nationale-de-sante-2018-2030",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "paper", "fact": "The health ministry's national health policy states that the health information system is organised over the three levels of the pyramid but does not work effectively: the information exists in health facilities, but the system cannot yet collect and transcribe it through a computerised system, only some programmes and projects doing so in a targeted, siloed way.", "as_of": "2018", "date_precision": "year", "system": "SNIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SNIS", "country_label": "Système National d'Information Sanitaire (SNIS)", "class": "hmis", "platform": "", "owner": "Ministère de la Santé et de la Population", "tiers": "organised over the central, intermediate (departmental) and peripheral (health district) levels; not computerised as of 2018"}
+  ],
+  "note": "Nothing on electronic patient records. The policy gives the facility denominators of 2018: 597 first-contact public facilities, of which 334 centres de santé intégrés and 232 health posts; 31 functional district (base) hospitals for 52 health districts; 7 to 8 general hospitals."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-21-msh-mobile-app-health-delivery-rural-madagascar",
+  "facts": [],
+  "systems": [
+    {"system": "CommCare", "country_label": "CommCare, the only nationally recognised electronic community health information system", "class": "community", "platform": "CommCare (Dimagi)", "owner": "Ministry of Public Health, which adopted it; introduced by USAID in 2017 and supported by the USAID ACCESS programme (MSH, Dimagi), with servers acquired for local hosting", "tiers": "community health volunteers and heads of health centres, more than 4,300 users at May 2024; volunteers' Monthly Activity Reports are integrated into the national health information management system"},
+    {"system": "national health information management system", "country_label": "national health information management system", "class": "", "platform": "", "owner": "", "tiers": "not stated; receives CommCare community data"}
+  ],
+  "note": "The only system described is a community health worker application (class community), which the document says feeds volunteers' monthly reports into the national health information management system; that national system is named but not described, so no fact."
+}

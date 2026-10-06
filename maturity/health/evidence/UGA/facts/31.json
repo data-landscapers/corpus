@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-01-uganda-vital-statistics-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2, MoH", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "not stated; cited as the source of the 2024 table of medically certified health facility deaths"}
+  ],
+  "note": "Passages file: the only study-term passages are the abbreviation list and a table sourced to 'DHIS2, MoH' for medically certified deaths in 2024; nothing on tiers, where data is keyed, clinics, ownership or recent change."
+}

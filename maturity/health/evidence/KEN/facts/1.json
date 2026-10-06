@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-05-kenyas-health-system-has-a-ghost",
+  "facts": [],
+  "systems": [
+    {"system": "SHA healthcare information technology digitisation system (Sh104.8 billion contract, 2024)", "country_label": "SHA system", "class": "", "platform": "", "owner": "Social Health Authority / Government of Kenya", "tiers": "hospitals; the column says the contract did not specify the number of public facilities to be installed"},
+    {"system": "HMIS to which hospitals are being migrated", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": "hospitals"}
+  ],
+  "note": "Opinion column. Describes the SHA systems only by entitlement checks and treatment authorisations, and the contract as 'an electronic system for managing health information'; nothing says either system does aggregate reporting or holds the clinical record, so no fact of class hmis or emr. States the migration deadline of 30 September 2026 was extended by a month."
+}

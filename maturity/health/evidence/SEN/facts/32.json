@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-enabel-sen-direcct-2021-direcct-senegal-acp-eu-digital-response-for",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A deal record: an EU-funded grant managed by Enabel with AFD (EUR 1,230,832, 2021-2023) whose health component is given only as digitisation of health facility data and DHIS2; it does not say what DHIS2 does, so the system is unclassed and gives no fact."
+}

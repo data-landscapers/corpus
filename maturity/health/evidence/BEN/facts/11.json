@@ -1,0 +1,26 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "A literature review by Koumamba and others, carried out February to July 2019, states that 11 of the 12 African countries it covers, Benin among them and Malawi the one exception, had no national health information system strategy, only strategies implemented under a specific project and aligned to donors; it says this of the group and gives no Benin detail.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "national health information system (data warehouse supported by DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national health information system (data warehouse supported by DHIS2)",
+      "country_label": "routine health information system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Benin is named once, as the subject of one of the 14 reviewed articles (a 2014 study of data quality in its routine health information system); every statement touching it is made of the 12 countries together: all took a data warehouse approach supported by DHIS2, which captures aggregate data from health programmes, and 11 of 12 lacked a national strategy. Nothing on tiers, where data is keyed or clinic counts for Benin."
+}

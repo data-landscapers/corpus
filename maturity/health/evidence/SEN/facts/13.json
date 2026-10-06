@@ -1,0 +1,92 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that rural health centres, posts and huts record on paper registers and that their aggregate data is compiled and entered into the national DHIS2 at district or higher levels; the document gives no date for this, so its publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' review states that rural health centres, posts and huts predominantly record patient data in paper registers at the point of service, with no evidence of routine electronic records or point-of-care digital entry in most rural facilities; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "electronic patient records (pilot)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "Data Landscapers' review states that electronic patient records were piloted in 2 hospitals (tier not stated), 1 health centre and 1 health post as of 2025, covering 127,000 patients.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "electronic patient records (pilot)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:2",
+      "fact": "Data Landscapers' review counts 1 health centre and 1 health post, beside 2 hospitals, as the pilot sites for electronic patient records as of 2025; it gives no denominator of primary clinics.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "electronic patient records (pilot)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Data Landscapers' review states that the Programme de Digitalisation du Système de Santé (PDSS) targets 20% EMR adoption in health centres by end-2025; no date is given for the statement, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "electronic patient records (pilot)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "Data Landscapers' review describes the PDSS, the programme carrying the EMR target, as supported by the World Bank; no domestic budget line is stated and no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "electronic patient records (pilot)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national DHIS2 system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregate data from health centres, posts and huts entered at district or higher levels"
+    },
+    {
+      "system": "electronic patient records (pilot)",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "under the PDSS (Programme de Digitalisation du Système de Santé), World Bank-supported",
+      "tiers": "2 hospitals, 1 health centre, 1 health post as of 2025"
+    },
+    {
+      "system": "facility internet connectivity",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "51 of 1,600 facilities connected at baseline"
+    }
+  ],
+  "note": "Passages file. The source's own header marks its country figures as an AI-aided compilation, the author's analysis rather than sourced fact; the Senegal Clinic row is the only one used."
+}

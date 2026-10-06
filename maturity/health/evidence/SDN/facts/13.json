@@ -1,0 +1,50 @@
+{
+  "slug": "2025-12-05-unfpa-sudan-country-programme-document",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "UNFPA's country programme document of 5 December 2025 states that Sudan's statistical and health information systems collapsed following the conflict that began in April 2023, leaving the country without a functioning framework for data collection and analysis; it gives no figures and names the health management information system only as something the programme will help authorities strengthen reporting to.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "health management information system",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "health management information system",
+      "country_label": "health management information system",
+      "class": "hmis",
+      "platform": "",
+      "owner": "local and national health authorities",
+      "tiers": ""
+    },
+    {
+      "system": "district health information system",
+      "country_label": "district health information system platform",
+      "class": "",
+      "platform": "DHIS2 (named only as the district health information system)",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "national maternal death surveillance and response system",
+      "country_label": "maternal death surveillance and response reporting system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "local and national health authorities",
+      "tiers": "78% of notified maternal deaths reviewed through it (2025 baseline)"
+    },
+    {
+      "system": "gender-based violence information management system",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "GBVIMS",
+      "owner": "UNFPA and partners",
+      "tiers": "48% of UNFPA partners using it and other digital platforms monthly (2025 baseline)"
+    }
+  ],
+  "note": "The collapse is dated by the document to the 2023 conflict, outside the twelve-month window; it is recorded on the event's year. The district health information system is named as something UNFPA will strengthen and use to track its own programme, with no description of what it reports, so it carries no class. UNFPA's planned support is an intention and no finance fact is taken."
+}

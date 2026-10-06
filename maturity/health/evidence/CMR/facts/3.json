@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-01-pandemic-fund-cmr-2026-record",
+  "facts": [],
+  "systems": [
+    {"system": "Digitalised community surveillance (Pandemic Fund project)", "country_label": "digitalisation de la surveillance communautaire", "class": "single-function", "platform": "", "owner": "Ministry of Public Health", "tiers": "community level, 42 municipalities (planned, 2026-2029)"},
+    {"system": "National health information systems", "country_label": "systèmes nationaux d'information sanitaire", "class": "", "platform": "", "owner": "Ministry of Public Health", "tiers": ""}
+  ],
+  "note": "Finance record of the Pandemic Fund project launched 2026-07-29 (FCFA 13.44bn within FCFA 91.5bn, 2026-2029): digitalised community surveillance in 42 municipalities, seven regional emergency call centres and increased interoperability of the national health information systems, none of them named or described as routine reporting or patient records, so no hmis or emr fact."
+}

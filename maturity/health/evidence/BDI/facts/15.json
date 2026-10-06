@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-15-enabel-amelioration-diagnostic-paludisme-burundi-outil-pilote-ia",
+  "facts": [],
+  "systems": [
+    {"system": "Health Pulse", "country_label": "outil Health Pulse (projet Malariya Pi)", "class": "single-function", "platform": "HealthPulse (Audere), mobile", "owner": "Ministry of Public Health and AIDS Control through PNILP, with Enabel's Malariya Pi project", "tiers": "pilot in Cibitoke and Kirundo provinces (October 2024); facility tiers not stated"}
+  ],
+  "note": "The only system is a mobile AI reader of malaria rapid diagnostic tests with case geolocation (one function, malaria); no HMIS or EMR is named."
+}

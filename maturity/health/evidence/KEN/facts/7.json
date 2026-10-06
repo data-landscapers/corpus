@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-29-ken-duale-orders-health-facilities-to-switch-to-sha-digital-system-by-sept",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "Ministry of Health, through the Digital Health Agency", "tiers": "county and public hospitals at levels two, three and four (already migrated); private and faith-based facilities (530 of 876 faith-based with SHA contracts transacting on it)"},
+    {"system": "SHA provider portal", "country_label": "provider portal", "class": "", "platform": "", "owner": "Social Health Authority", "tiers": "SHA-contracted facilities; to close at midnight on 30 September 2026"}
+  ],
+  "note": "The report describes the HMIS only as digital patient verification and electronic claims submission, which is billing and administration and gives no fact of class hmis or emr. It carries the order to migrate by 30 September 2026 and the statement that public level 2-4 facilities had already migrated."
+}

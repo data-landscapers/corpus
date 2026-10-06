@@ -1,0 +1,26 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "CIPIT's 2025 continental report states that Egypt has deployed AI-driven electronic health record systems, using large biomedical language models to assist record-keeping, diagnostics and treatment planning in public hospitals, citing an arXiv paper; it gives no count of hospitals, does not distinguish the hospital tier and gives no date, so the document's published date is used.",
+      "as_of": "2025-06-25",
+      "date_precision": "day",
+      "system": "AI-driven electronic health record (EHR) systems",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "AI-driven electronic health record (EHR) systems",
+      "country_label": "EHR",
+      "class": "emr",
+      "platform": "Incorporates the Llama3-OpenBioLLM-70B language model",
+      "owner": "",
+      "tiers": "Public hospitals"
+    }
+  ],
+  "note": "One sentence on Egypt in a continental report; the source it cites is an arXiv paper on a proposed system, so the parent may wish to weigh the claim of deployment."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-23-e1-2-billion-digital-project-connect-schools-clinics-communities",
+  "facts": [],
+  "systems": [
+    {"system": "Eswatini Digital Project broadband connectivity for health centres", "country_label": "Eswatini Digital Project", "class": "enabling", "platform": "", "owner": "Ministry of ICT (World Bank-financed)", "tiers": "134 health centres to be connected to broadband"}
+  ],
+  "note": "Only connectivity is described (134 health centres to be connected to broadband); no HMIS or EMR system is named."
+}

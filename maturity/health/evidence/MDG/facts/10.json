@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-18-sii-csb-launch-fianarantsoa",
+  "facts": [],
+  "systems": [
+    {"system": "SII-CSB", "country_label": "Système Intégré d'Information des Dotations CSB (SII-CSB)", "class": "single-function", "platform": "", "owner": "the State, announced by PREA (Présidence); regional health directorates (DRSP) and the Treasury as users", "tiers": "user training launched 18 February 2026 at Fianarantsoa for Fitovinany, Haute Matsiatra and Menabe; further sessions to cover the whole territory"}
+  ],
+  "note": "SII-CSB tracks the funds allocated to basic health centres (financial monitoring and control), not patients treated or a patient record; classed single-function on that description, so no fact."
+}

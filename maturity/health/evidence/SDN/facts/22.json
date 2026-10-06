@@ -1,0 +1,36 @@
+{
+  "slug": "2022-01-01-sudan-health-information-system-assessment-2020",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The foreword to WHO's assessment, signed by Sudan's acting health minister, states that the Federal Ministry of Health established an integrated health management information system in 2013 to reduce parallel reporting, and that the DHIS2 platform was deployed from 2016 to digitise and hold integrated health information.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "national integrated health management information system (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The foreword to WHO's assessment states that the national health sector policy and strategic directions set out what the national integrated health management information system is intended to do; it does not date the policy, so the document's published year is used, the assessment itself being of 2020.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "national integrated health management information system (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national integrated health management information system (DHIS2)",
+      "country_label": "integrated health management information system",
+      "class": "hmis",
+      "platform": "DHIS2, deployed since 2016",
+      "owner": "Federal Ministry of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "Excerpt only: the capture holds the cataloguing page, the contents and the minister's foreword, and stops before the executive summary and key findings. The coverage and reporting-rate figures other documents attribute to this assessment are not in the captured text, so no tiers, digitised or clinics fact is taken. The contents list annexes on routine facility reporting for HIV, TB and malaria, a service availability monitoring system and a national human resources health information system, none described."
+}

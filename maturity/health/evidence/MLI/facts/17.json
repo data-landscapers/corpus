@@ -1,0 +1,13 @@
+{
+  "slug": "2021-06-01-health-data-reporting-challenges-mopti-mali",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The Population Council's Frontline Health brief, on fieldwork of September-October 2018 in four sub-districts of Mopti (18 centre directors interviewed, 152 community health workers surveyed), states that the technical director of each CSCOM reviews the community workers' paper monthly reports and enters the data into the DHIS2 online platform for aggregation at district level, with unreliable internet the main barrier to prompt entry.", "as_of": "2018-10", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T3", "fact": "The Population Council brief states that Mali's health system adopted DHIS2 in 2015 for aggregation and analysis of health service data at facility level, and that in its September-October 2018 fieldwork in Mopti region data entry into DHIS2 was done at primary health care centres (CSCOM); no count of facilities is given.", "as_of": "2018-10", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 online platform", "class": "hmis", "platform": "DHIS2", "owner": "the health system; no unit named", "tiers": "adopted 2015 at facility level; entry by CSCOM technical directors, review at district level (Mopti region, 2018)"},
+    {"system": "paper community reporting by ASCs", "country_label": "rapports mensuels des ASC", "class": "community", "platform": "paper client forms and service registers", "owner": "", "tiers": "community health workers; carried in person to the CSCOM each month"},
+    {"system": "Aga Khan Foundation tablet pilot", "country_label": "", "class": "community", "platform": "tablets", "owner": "Aga Khan Foundation - Mali", "tiers": "pilot with community health workers in Mopti"}
+  ],
+  "note": "Figures are 2018 fieldwork reported in June 2021, from one region. The brief says community health workers report on paper; that is a community-class statement and gives no fact."
+}

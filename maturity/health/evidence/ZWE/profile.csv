@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,hmis,governance,qualifier,plan:none;finance:donor,2025-08,ZWE-013;ZWE-014,ZWE-015=plan:current,not stated: owner
+ZWE,hmis,tiers,coverage,,,,,nothing held
+ZWE,hmis,digitised,coverage,district,2026-03-31,ZWE-003;ZWE-016,,
+ZWE,hmis,last12,qualifier,,,,,nothing held
+ZWE,hmis,clinics,coverage,not-published,2012,ZWE-017,,nothing dated since 2023-10-06
+ZWE,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-23,ZWE-001;ZWE-009;ZWE-012,ZWE-002=owner:ministry;ZWE-008=owner:ministry;ZWE-011=owner:ministry,
+ZWE,emr,tiers,coverage,,,,,nothing held
+ZWE,emr,digitised,coverage,,,,,nothing held
+ZWE,emr,last12,qualifier,,,,,nothing held
+ZWE,emr,clinics,coverage,share:66%,2026-03-31,ZWE-004,ZWE-010=count:1254;ZWE-006=share:71.9%;ZWE-005=share:72%;ZWE-007=share:68%,

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage",
+  "facts": [],
+  "systems": [
+    {"system": "openIMIS UHC", "country_label": "openIMIS UHC platform", "class": "", "platform": "openIMIS (HL7 FHIR based)", "owner": "Ministry of Public Health, with GIZ, Swiss TPH and local firm Y-Note", "tiers": "health financing management (invoicing, payments, verification) in more than 500 health facilities in all 10 regions by April 2024; over 1,200 registered users by mid-2024"},
+    {"system": "CamerHealth", "country_label": "CamerHealth", "class": "exchange", "platform": "", "owner": "Ministry of Public Health", "tiers": "separate beneficiary registry for the UHC scheme, interoperable with openIMIS"},
+    {"system": "Metabase", "country_label": "UHC Business Intelligence System", "class": "", "platform": "Metabase", "owner": "Ministry of Public Health, introduced by GIZ", "tiers": "dashboards for central, regional and district health offices and health facility teams; deployed November 2023"},
+    {"system": "openHIM", "country_label": "", "class": "exchange", "platform": "OpenHIM", "owner": "", "tiers": "planned interoperability layer between openIMIS and other applications"},
+    {"system": "DHIS2", "country_label": "district health information system DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The article describes openIMIS as the management tool for health financing schemes (invoicing, payment, verification), adopted in January 2023, with a beneficiary registry beside it; none of this is routine aggregate reporting or a patient record, and DHIS2 is mentioned only as something openIMIS can link to, so there is no hmis or emr fact."
+}

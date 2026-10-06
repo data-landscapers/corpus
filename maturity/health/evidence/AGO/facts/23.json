@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-01-who-angola-annual-report-2024",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "WHO reports that in 2024 it supported the development of the Strategic Plan for the National Health Information System (2025-2030) and of a National Health Information System Policy, with a working meeting held with the Minister of Health to assess progress on both; the report does not say either was adopted.", "as_of": "2024", "date_precision": "year", "system": "National Health Information System (SIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "WHO reports that the 2024 rapid assessment of the Health Information System was carried out with financial support from the European Union and that WHO gave technical and financial support to Angola's data and health information capacity; the assessment named financing for the system among the needs.", "as_of": "2024", "date_precision": "year", "system": "National Health Information System (SIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "National Health Information System", "country_label": "SIS", "class": "hmis", "platform": "", "owner": "Ministry of Health (MINSA)", "tiers": ""},
+    {"system": "DHIS2 psychoactive substance dependence data", "country_label": "INALUD data on DHIS2", "class": "single-function", "platform": "DHIS2", "owner": "National Institute for Drug Abuse (INALUD)", "tiers": ""}
+  ],
+  "note": "The report names the SIS as the national health information system without describing routine facility reporting; class hmis is taken from its account of the system as the source of national health indicators. The plan recorded is one in development in 2024, not reported as adopted."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-04-openhexa-niger-interoperabilite-sante",
+  "facts": [],
+  "systems": [
+    {"system": "OpenHEXA", "country_label": "plateforme OpenHEXA", "class": "exchange", "platform": "OpenHEXA (Bluesquare, open source)", "owner": "Ministry of Health, Direction de la e-Santé (hosted on ministry servers); financed by the Enabel Palu / Gates Foundation project", "tiers": "national; installed at a workshop of 30 June to 6 July 2025, production roadmap agreed"},
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "OpenIMIS", "country_label": "", "class": "", "platform": "OpenIMIS", "owner": "", "tiers": ""},
+    {"system": "OpenClinic", "country_label": "", "class": "", "platform": "OpenClinic", "owner": "", "tiers": ""},
+    {"system": "SNIS", "country_label": "SNIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "carte sanitaire (SNIS > OpenHEXA > Superset)", "country_label": "carte sanitaire", "class": "exchange", "platform": "OpenHEXA, Superset", "owner": "Direction de la e-Santé", "tiers": "planned use case, second workshop October-November 2025"}
+  ],
+  "note": "The vendor's account of an interoperability and data-pipeline platform, class exchange; DHIS2, OpenIMIS, OpenClinic and the SNIS are named only as data sources with no description of what they do, so none gives a fact. It states more than 32 digital platforms and applications in the health sector."
+}

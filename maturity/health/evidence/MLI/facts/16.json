@@ -1,0 +1,16 @@
+{
+  "slug": "2023-01-01-worldbank-mali-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The World Bank's Mali Digital Economy Diagnostic states that pilot projects (Mali Health Data Project) to digitize patient files within a few community health centers and to develop an electronic health record on cell phones, run with external technical partners, were not able to succeed for lack of funding and institutional support; it gives no count and no date, so the date is the report's published date.", "as_of": "2023-01-01", "date_precision": "day", "system": "Mali Health Data Project (electronic health record pilots)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank diagnostic states that health-sector pilots including the patient-file and electronic health record pilots were launched with the support of external technical and financial partners and suffer from a lack of sustainable funding or of an implementation mechanism, while a national digital health plan was technically validated and awaiting political validation; undated, so the date is the report's published date.", "as_of": "2023-01-01", "date_precision": "day", "system": "Mali Health Data Project (electronic health record pilots)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Mali Health Data Project", "country_label": "Mali Health Data Project", "class": "emr", "platform": "", "owner": "external technical partners", "tiers": "pilots in a few community health centers; reported as not having succeeded"},
+    {"system": "SNISI", "country_label": "Integrated Digital Health Information System (SNISI)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIH", "country_label": "Hospital Information System (SIH)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "digitized patient registries in certain hospitals", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "certain hospitals"},
+    {"system": "digital vaccination record with alert system", "country_label": "", "class": "tracker", "platform": "", "owner": "external technical partners", "tiers": "pilot, reported as not having succeeded"},
+    {"system": "teledermatology", "country_label": "", "class": "enabling", "platform": "application over a 3G connection", "owner": "", "tiers": "described as a flagship national telemedicine project"}
+  ],
+  "note": "Passages file. SNISI and SIH are named in a list of government systems with no account of what they do; the sentence on hospitals' patient registries and 'registries for vaccinations DHIS2 monitoring' is too loose to class."
+}

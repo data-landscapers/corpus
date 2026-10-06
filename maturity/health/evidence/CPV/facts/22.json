@@ -1,0 +1,10 @@
+{
+  "slug": "2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies",
+  "facts": [],
+  "systems": [
+    {"system": "Medical Information System (SIS)", "country_label": "Medical Information System (SIS)", "class": "", "platform": "NOSi application on the national eGovernment cloud", "owner": "developed by NOSi", "tiers": "hospitals, number not stated; manages pharmaceuticals, equipment, materials, laboratory diagnosis and appointments, and collects statistics on hospitalisations, appointments and deaths"},
+    {"system": "Telemedicine application system", "country_label": "telemedicine application system", "class": "enabling", "platform": "runs over the Huawei-built eGovernment network", "owner": "NOSi / Government of Cabo Verde", "tiers": "medical institutions among 1,142 networked organisations; sites not counted"},
+    {"system": "eGovernment network and national data centre", "country_label": "eGovernment network", "class": "enabling", "platform": "Huawei routers, switches and cloud data centre", "owner": "NOSi", "tiers": "connects 1,142 organisations including schools and medical institutions"}
+  ],
+  "note": "Huawei vendor case study (dated 2018 from its URL; capture is an excerpt). It describes the SIS as a hospital management module covering stock, laboratory, appointments and hospital statistics, without saying it holds the clinical record or carries routine facility reporting, and gives no tier, count or date, so it is unclassed and no fact is taken."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-02-vacci360-projette-de-renforcer-la-couverture-vaccinale",
+  "facts": [],
+  "systems": [
+    {"system": "Vacci360", "country_label": "Vacci360", "class": "single-function", "platform": "analysis layer added on top of DHIS2", "owner": "Ministère de la Santé publique et de la Prévention (Direction de la lutte contre la maladie, des vaccinations et de la santé environnementale), with technical support from Community Innovation Hub and GDI Advisors and Gates Foundation backing", "tiers": "pilot in Lac, Kanem and Hadjer Lamis provinces, for health managers planning vaccination; launched 2 April 2026"},
+    {"system": "DHIS2", "country_label": "socle DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "Vacci360 is a vaccination micro-planning and analysis tool (single function); DHIS2 is named only as the existing base it sits on, with no description of what it reports, so no fact for hmis or emr."
+}

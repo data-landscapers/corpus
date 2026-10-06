@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-who-emro-libya-annual-report-2023",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "WHO's Libya annual report for 2023 states that WHO continued to advance the health information system work plan during 2023, with efforts to expand and integrate systems such as DHIS2 and its Health Information Management Unit giving technical support towards a unified HIS with systematic data reporting.", "as_of": "2023", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information Software (DHIS2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "electronic tools for standardized registration of vital statistics", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The file is a truncated capture: it stops before the Health information system chapter at page 31 of the PDF, where the DHIS2 municipality and facility counts sit, so no coverage fact could be taken. The report does not say what DHIS2 reports here beyond systematic data reporting within the HIS."
+}

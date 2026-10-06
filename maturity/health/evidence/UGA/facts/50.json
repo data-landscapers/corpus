@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-27-pulse-uganda-uncdf-digital-inclusion-closeout",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "", "owner": "Ministry of Health; in Maracha district implemented with UNCDF and BRAC Uganda", "tiers": "Village Health Teams; in Maracha since 2021 across 1,382 VHTs supervised by 182 community health extension workers"}
+  ],
+  "note": "The only health system named is eCHIS, a community-class system, so no fact is taken; the document reports Maracha's VHT reporting rate on it falling from 75% to about 15% as external support ended with the UNCDF programme's close on 26 August 2026."
+}

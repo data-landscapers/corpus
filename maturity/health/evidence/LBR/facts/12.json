@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-15-liberia-lisgis-nsds-iii-2026-2030",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The National Strategy for the Development of Statistics (NSDS III) 2026-2030 carries costed Ministry of Health activities naming the system: national refresher training for county and facility HIS focal persons on DHIS2 reporting standards (US$105,000 over the plan) and equipping the HMIS Division and county teams with ICT infrastructure and software (US$77,504); the plan is undated beyond its publication, so that date is used.", "as_of": "2025-12-15", "date_precision": "day", "system": "HMIS on DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "NSDS III assigns the HMIS activities to the Ministry of Health, naming its HMIS Division, the 'MOH HMIS team', county HMIS officers and county M&E officers as implementers; the source of the money is not stated. Publication date used.", "as_of": "2025-12-15", "date_precision": "day", "system": "HMIS on DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "HMIS on DHIS2", "country_label": "HMIS; DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, HMIS Division", "tiers": "county and facility HIS focal persons are to be trained on DHIS2 reporting standards"},
+    {"system": "eLMIS/mSupply", "country_label": "eLMIS/mSupply", "class": "", "platform": "mSupply", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "eIDSR", "country_label": "eIDSR", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "LIS", "country_label": "LIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "CBIS", "country_label": "CBIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "EIR", "country_label": "EIR", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "National interoperability layer (planned)", "country_label": "national interoperability layer", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "planned 2026 and 2029, US$14,400: to integrate DHIS2, eLMIS/mSupply, eIDSR, LIS and CBIS"}
+  ],
+  "note": "Passages file. eLMIS/mSupply, eIDSR, LIS, CBIS and EIR are named by acronym only, with no description of what they do, so their class is left empty."
+}

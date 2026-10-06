@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "FHIR-compliant data exchange", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "vaccine management digital systems", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated"}
+  ],
+  "note": "A deal record: USAID/PEPFAR Digital Square grant of about US$2.5m (2021-2026) to work with the Ministry of Health on DHIS2, data exchange and vaccine systems. DHIS2 is named with no description of what it does, so it is unclassified and gives no fact."
+}

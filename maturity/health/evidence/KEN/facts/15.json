@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-21-kenya-hmis-data-collection-data-use-kenya-foundation",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Health Enterprise Architecture Blueprint 2025", "country_label": "Kenya Health Enterprise Architecture", "class": "exchange", "platform": "", "owner": "Ministry of Health; Digital Health Agency as custodian of the ecosystem", "tiers": ""},
+    {"system": "Kenya Health Management Information Systems project (KeHMIS)", "country_label": "KeHMIS", "class": "", "platform": "", "owner": "Palladium, funded by PEPFAR through US CDC", "tiers": ""}
+  ],
+  "note": "Reports the launch at the Kenya Health Summit 2026 of four Ministry of Health documents: the Enterprise Architecture Blueprint 2025, the Health Data Governance Framework 2025, the Digital Health Solutions Standards and Guidelines 2025 and the Kenya Digital Health Strategy 2025-2030, developed with Palladium as principal technical partner under CDC funding. A current strategy exists, but the piece names no HMIS or EMR system the strategy covers and describes no system by function, so there is no fact; the launch itself is undated in the body."
+}

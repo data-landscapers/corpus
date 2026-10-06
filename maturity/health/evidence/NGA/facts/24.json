@@ -1,0 +1,58 @@
+{
+  "slug": "2025-11-20-nch-2025-salako-digital-health-remarks",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Minister of State for Health told the National Council on Health on 20 November 2025 that over 200 hospitals are integrated with Electronic Medical Records systems; he gives no denominator and does not say which hospital tiers, and names no primary facilities.",
+      "as_of": "2025-11-20",
+      "date_precision": "day",
+      "system": "Electronic Medical Records systems (unnamed)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Records systems (unnamed)",
+      "country_label": "Electronic Medical Records systems",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "over 200 hospitals"
+    },
+    {
+      "system": "National Health Information Exchange Platform",
+      "country_label": "National Health Information Exchange Platform",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Ministry of Health and Social Welfare, under the National Digital Health Blueprint",
+      "tiers": "at least 7.2 million Nigerians registered; intended to connect public and private, tertiary, secondary and primary"
+    },
+    {
+      "system": "mHealth initiatives",
+      "country_label": "mHealth initiatives",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "at least 4.5 million users reached with health information"
+    },
+    {
+      "system": "Edo State Digital Health Initiative",
+      "country_label": "Edo State Digital Health Initiative",
+      "class": "",
+      "platform": "",
+      "owner": "Edo State",
+      "tiers": "biometric registration of 850,000 residents; digital vaccine tracking; e-medicine consultations reaching 12,000 rural patients monthly"
+    },
+    {
+      "system": "national health workforce registry",
+      "country_label": "national health workforce registry",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Ministry of Health and Social Welfare",
+      "tiers": "being implemented"
+    }
+  ],
+  "note": ""
+}

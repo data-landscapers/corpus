@@ -1,0 +1,52 @@
+{
+  "slug": "2026-01-20-facility-based-digital-intervention-district-data-quality-burkina-faso",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The BMJ Global Health study states that an assigned health worker at each public primary healthcare centre (CSPS) summarises service volumes on paper forms and submits them monthly to the district statistics team, which enters them into the online DHIS2 database; the study's DHIS2 data run from December 2017 to December 2021 and it dates the practice no more closely.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The study states that DHIS2 is implemented nationwide, including all CSPS facilities, the first level of a three-tier public system, as monthly reports keyed by the district; in its two districts report completeness was 100% (34 facilities, Toma) and 95.5% to 100% (36 facilities, Gourcy) over December 2017 to December 2021. It names no other tier.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "nationwide including all CSPS; data entered by district statistics teams from CSPS paper forms"
+    },
+    {
+      "system": "Registre Electronique de Consultations-Maternité (REC-Maternity)",
+      "country_label": "REC-Maternité",
+      "class": "tracker",
+      "platform": "tablet job aid within the IeDA project",
+      "owner": "Terre des hommes in partnership with the Ministry of Health",
+      "tiers": "CSPS only; first deployed January 2019 in Toma district; 14 health districts and 556 CSPS as of March 2022"
+    },
+    {
+      "system": "IeDA (Integrated electronic Diagnostic Approach)",
+      "country_label": "IeDA",
+      "class": "tracker",
+      "platform": "",
+      "owner": "Terre des hommes in partnership with the Ministry of Health, since 2014",
+      "tiers": "primary health facilities; childhood-illness (IMCI) consultations"
+    }
+  ],
+  "note": "REC-Maternity is patient-level for maternal and newborn care only, so it gives no EMR fact, though the study once calls its data electronic medical records; it ran parallel to paper and DHIS2 without integration, and timely DHIS2 reporting in Toma fell from 100% to 35.4% of facility-months between 2017-18 and 2020-21."
+}

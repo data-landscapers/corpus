@@ -1,0 +1,11 @@
+{
+  "slug": "2020-08-06-anicns-pndis-ii-plan-national-informatique-sante",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Public Health's national health informatics plan for 2020-2024 (PNDIS II), validated in Kinshasa on 6 August 2020, states that DHIS2 has been adopted as the country software of the national health information system (SNIS) and is being implemented progressively, and sets a complete and timely SNIS as an objective; the plan's period ends in 2024.", "as_of": "2020-08-06", "date_precision": "day", "system": "DHIS2 (SNIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "PNDIS II, produced by the Ministry of Public Health and its agency ANICiiS, presents the SNIS and its DHIS2 software as the ministry's own system, regulated by a normative framework of 12 sub-systems of which the primary health care component is said to be largely functional.", "as_of": "2020-08-06", "date_precision": "day", "system": "DHIS2 (SNIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Système National d'Information Sanitaire (SNIS) on DHIS2", "country_label": "SNIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Public Health", "tiers": "progressively implemented in the country, as stated; tiers not given"}
+  ],
+  "note": "Excerpt only: the capture is truncated before the plan's action sections, including the DHIS2 data warehouse section. The excerpt states that computerisation of the SNIS is weak for want of equipment, internet and power at all levels, but gives no level at which data is keyed and no facility figures. The plan's drafting was funded by the Horace W. Goldsmith Foundation with PATH; no financing of the system itself is stated."
+}

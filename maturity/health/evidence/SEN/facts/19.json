@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Dossier patient",
+      "country_label": "Dossier patient",
+      "class": "",
+      "platform": "",
+      "owner": "shown on the health side ('Santé', 'Structure de santé') of the civil registration agency's interoperability diagram",
+      "tiers": ""
+    }
+  ],
+  "note": "Civil registration agency's deck (August 2025). 'Dossier patient' appears only as a label in diagrams of intended links between the civil register, the unique number and health, with no description of what it does or where it runs; hence no class and no fact. Birth and death notification by health staff is a civil-registration tool."
+}

@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+EGY,hmis,governance,qualifier,,,,,nothing held
+EGY,hmis,tiers,coverage,,,,,nothing held
+EGY,hmis,digitised,coverage,district,2025,EGY-008,,
+EGY,hmis,last12,qualifier,,,,,nothing held
+EGY,hmis,clinics,coverage,,,,,nothing held
+EGY,emr,governance,qualifier,owner:ministry;finance:not-stated,2026-09-14,EGY-002;EGY-011,,not stated: plan
+EGY,emr,tiers,coverage,T1;T2;T3;T4,2026-03-31,EGY-004;EGY-007;EGY-009,EGY-005=T4,
+EGY,emr,digitised,coverage,paper,2026-03-31,EGY-003,,
+EGY,emr,last12,qualifier,advancing,2026-09-14,EGY-001,,
+EGY,emr,clinics,coverage,share:100%,2024-08-19,EGY-010,EGY-006=pilot,

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-26-lepandaguinee-guinee-a-mamou-et-dalaba-le-pari-de",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "A Ministry of Health mission of 17-22 August 2026 reviewed five digitised health facilities in the Mamou and Dalaba districts running the OpenClinic hospital information system, which includes a complete computerised medical record; the one facility named is the Dalaba prefectural hospital, and the tier of the other four is not stated.", "as_of": "2026-08", "date_precision": "month", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The article states that in the five digitised facilities of Mamou and Dalaba data are entered directly into the OpenClinic system, cutting transcription errors, duplicates and lost documents, and that the software aims to dematerialise the patient record progressively.", "as_of": "2026-08", "date_precision": "month", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The digitalisation of the five Mamou and Dalaba facilities was carried out with the support of the Belgian agency Enabel through its SAFE project, as reviewed by the ministry mission of 17-22 August 2026; no domestic funding is mentioned.", "as_of": "2026-08", "date_precision": "month", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Dalaba prefectural hospital deployed the OpenClinic hospital management software in January 2026, moving from essentially manual management in January-July 2025; its management reports consultations up from 6,585 to 7,908 (+20.09%) over January-July year on year.", "as_of": "2026-01", "date_precision": "month", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "paper", "fact": "The August 2026 ministry mission recorded that the five digitised Mamou and Dalaba facilities still keep physical reporting tools alongside the software (double reporting), whose withdrawal awaits validation of the data transmitted to the SNIS; OpenClinic is described as interoperable with the national system (DHIS2).", "as_of": "2026-08", "date_precision": "month", "system": "SNIS (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "logiciel SIH Openclinic / Open Clinic", "class": "emr", "platform": "OpenClinic", "owner": "Ministry of Health and Public Hygiene (SMSI) with Enabel SAFE project support", "tiers": "five health facilities in Mamou and Dalaba districts, including the Dalaba prefectural hospital"},
+    {"system": "SNIS (DHIS2)", "country_label": "système national (DHIS2) / SNIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "national system receiving the facilities' reporting data"}
+  ],
+  "note": ""
+}

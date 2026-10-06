@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:99%",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that rural clinics moved from paper stock and service reporting to DHIS2, used by 99% of public facilities including primary ones; it gives no numerator, denominator or year, so the date is the document's published date, and it does not say the clinics key the data themselves.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' review states it found no EMR or patient-record system and that records are likely on paper at clinic level with aggregates digitised later; the document gives no date for this, so the date is its published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "none found (patient records)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "99% of public facilities including primaries"
+    },
+    {
+      "system": "eLMIS (Android RTS tool)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "DHIS2 Android Real-Time Stock tool",
+      "owner": "World Bank-funded (2024)",
+      "tiers": "78% of 74 facilities"
+    }
+  ],
+  "note": "Passages file; the Comoros clinic row is the only health passage. It also cites the World Bank COMPASS appraisal (2019) for a DHIS2 upgrade then ongoing, performance-based financing verified against paper registers and cards, and computers in only 14% of facilities; not recorded as a fact because no aspect value is stated."
+}

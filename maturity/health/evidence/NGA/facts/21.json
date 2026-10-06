@@ -1,0 +1,71 @@
+{
+  "slug": "2025-12-19-state-nga-afghs-data-systems-2025-record",
+  "facts": [],
+  "systems": [
+    {
+      "system": "government EHRs and state EHRs",
+      "country_label": "EHRs",
+      "class": "emr",
+      "platform": "",
+      "owner": "federal and state governments",
+      "tiers": "not stated; expected to integrate with the Nigeria Digital Health Architecture exchanges"
+    },
+    {
+      "system": "NigeriaMRS",
+      "country_label": "NigeriaMRS",
+      "class": "tracker",
+      "platform": "",
+      "owner": "US-funded (US$1.35M in 2026); listed among the TB and HIV systems",
+      "tiers": "not stated"
+    },
+    {
+      "system": "LAMISPlus",
+      "country_label": "LAMISPlus",
+      "class": "tracker",
+      "platform": "",
+      "owner": "US-funded (US$1.05M in 2026); listed among the TB and HIV systems",
+      "tiers": "not stated"
+    },
+    {
+      "system": "ViVA EMR",
+      "country_label": "ViVA EMR",
+      "class": "",
+      "platform": "",
+      "owner": "US-funded (US$0.38M in 2026)",
+      "tiers": "not stated; this record does not say what it does"
+    },
+    {
+      "system": "National Data Repository",
+      "country_label": "National Data Repository",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    },
+    {
+      "system": "LMIS",
+      "country_label": "LMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    },
+    {
+      "system": "SORMAS",
+      "country_label": "SORMAS",
+      "class": "",
+      "platform": "SORMAS",
+      "owner": "",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Nigeria Digital Health Architecture exchanges (health information, health services, health insurance claims)",
+      "country_label": "Nigeria Digital Health Architecture",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Ministry of Health and Social Welfare",
+      "tiers": "national; target of the funding"
+    }
+  ],
+  "note": "A deal record excerpted from the MOU at n=20: US$196,000,000 of planned US funding for health data systems over 2026-2030 against Nigerian co-funding of US$13,793,103 (2026) rising to US$33,817,048 (2030). The sum is not attributed to any one system of class hmis or emr, so no fact is taken; the MOU itself is document 20."
+}

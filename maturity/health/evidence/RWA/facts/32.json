@@ -1,0 +1,19 @@
+{
+  "slug": "2024-08-26-assessment-electronic-medical-records-rwanda",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "share:33.0%", "fact": "A field epidemiology training programme survey of 17 April to 19 May 2023 found 71 of 215 randomly sampled public health centres (33.0%), from a frame of 491, using an electronic medical record system; 39 of those 71 used OpenMRS (Uwambajimana et al., preprint).", "as_of": "2023-05", "date_precision": "month", "system": "EMR systems (OpenMRS and others)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2;T3", "fact": "The same 2023 survey found all 42 district hospitals using an electronic medical record system, 35 of them OpenMRS, against 71 of 215 sampled health centres; referral hospitals and health posts were not surveyed.", "as_of": "2023-05", "date_precision": "month", "system": "EMR systems (OpenMRS and others)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenMRS", "country_label": "OpenMRS", "class": "emr", "platform": "OpenMRS", "owner": "", "tiers": "35 of 42 district hospitals (2 more with OpenClinics); 39 of 71 EMR-using health centres alone and 6 more beside another system (2023)"},
+    {"system": "OpenClinics", "country_label": "OpenClinics", "class": "emr", "platform": "OpenClinic", "owner": "", "tiers": "4 district hospitals alone, 2 with OpenMRS (2023)"},
+    {"system": "e-EHRIS Gitwe", "country_label": "Electronic Easy Health Record Information System", "class": "emr", "platform": "", "owner": "", "tiers": "1 district hospital (2023)"},
+    {"system": "Medisoft", "country_label": "Medisoft", "class": "emr", "platform": "", "owner": "", "tiers": "9 health centres alone, 5 with OpenMRS (2023)"},
+    {"system": "Care system", "country_label": "Care system", "class": "emr", "platform": "", "owner": "", "tiers": "9 health centres alone, 1 with OpenMRS (2023)"},
+    {"system": "IHMS (Iwacu hub Medical System)", "country_label": "IHMS", "class": "emr", "platform": "", "owner": "", "tiers": "5 health centres (2023)"},
+    {"system": "EASY CARE", "country_label": "EASY CARE", "class": "emr", "platform": "", "owner": "", "tiers": "2 health centres (2023)"},
+    {"system": "Dirsoft.net", "country_label": "Dirsoft.net", "class": "emr", "platform": "", "owner": "", "tiers": "1 health centre (2023)"},
+    {"system": "EMR for tuberculosis and HIV care (2005)", "country_label": "", "class": "tracker", "platform": "OpenMRS", "owner": "Rwanda with Partners in Health", "tiers": "16 health centres and clinics at introduction in 2005"}
+  ],
+  "note": ""
+}

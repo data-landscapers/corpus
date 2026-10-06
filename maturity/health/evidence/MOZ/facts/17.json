@@ -1,0 +1,12 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "A literature review carried out February-July 2019 (Koumamba et al., citing a 2013 African Health Initiative paper) states that Mozambique, like Ghana, adapted the DHIS software from its standardised tools in order to record aggregated data at the facility, district and regional levels; it gives no count of facilities entering data.", "as_of": "2019", "date_precision": "year", "system": "DHIS", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The same review states that Mozambique was one of the countries that received support from the International Health Partnership and used the DHIS software to implement its health information system, and that most such projects were supported by external donors; review carried out February-July 2019.", "as_of": "2019", "date_precision": "year", "system": "DHIS", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "The review found that 11 of the 12 African countries studied, Mozambique among them and Malawi the only exception, had no national health information strategy, only strategies implemented under a specific project and aligned with donors; review carried out February-July 2019.", "as_of": "2019", "date_precision": "year", "system": "DHIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS", "country_label": "", "class": "hmis", "platform": "DHIS / DHIS2", "owner": "", "tiers": "aggregated data recorded at facility, district and regional levels"}
+  ],
+  "note": "The digitised value is the lowest of the three levels the document names in one phrase (facilities, district and regional); the document does not say which level does the keying in practice."
+}

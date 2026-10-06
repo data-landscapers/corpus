@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-03-dhis2-guinea-bissau-climate-health-country-profile",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The DHIS2 project's country profile says DHIS2 has been Guinea-Bissau's national health management information system since 2013, covering routine data on a range of health programmes, and describes the existing DHIS2 systems as locally owned, with the Ministry of Health leading the work on them with Saudigitus (HISP Mozambique).", "as_of": "2026-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "The DHIS2 Climate App, the Chap Modeling Platform and the DHIS2 Modeling App have been installed on a DHIS2 testing instance, not the national production system, to explore combining climate data with HMIS data at facility catchment level; the page is stamped as updated July 2026 and gives no installation date.", "as_of": "2026-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national health management information system (HMIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health; technical support Saudigitus (HISP Mozambique)", "tiers": "not stated; national, in use since 2013"},
+    {"system": "DHIS2 disease surveillance", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "DHIS2 ITN campaign planning and management", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health; National Malaria Control Programme", "tiers": "not stated"},
+    {"system": "DHIS2 Tracker electronic registries for maternal and child health and immunization", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "mWater (UNICEF WASH programme)", "country_label": "", "class": "community", "platform": "mWater", "owner": "UNICEF", "tiers": "around 2,500 community health workers entering data on tablets; not integrated with DHIS2"},
+    {"system": "Rota Segura", "country_label": "Rota Segura", "class": "community", "platform": "", "owner": "", "tiers": "concept pending funding; co-designed with community health workers"},
+    {"system": "DHIS2 Climate App, Chap Modeling Platform and DHIS2 Modeling App", "country_label": "", "class": "", "platform": "DHIS2", "owner": "Saudigitus with the Ministry of Health", "tiers": "testing instance only"}
+  ],
+  "note": ""
+}

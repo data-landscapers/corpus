@@ -1,0 +1,62 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Data Landscapers review, citing the WHO EMRO assessment of 2020, states that rural clinics compile aggregate data by hand on paper or Excel, on 11 to 13 monthly forms per facility, and submit it to locality offices, where it is entered into the national DHIS2 at state and locality level; it gives 76% locality coverage and a 64% facility reporting rate as of 2020, lower in rural and fragile states.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "national DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review states that rural primary healthcare clinics in Sudan predominantly record patient data on paper registers and forms at the point of service, with no evidence of widespread electronic medical records there; it gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "patient records (no system named)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The Data Landscapers review states that electronic records at rural clinics are confined to pilots that are not majority practice: it cites a telehealth service with electronic medical record support rolled out to 400 facilities from a pilot in 6, and a survey claiming 65% adoption in unspecified rural facilities, which it calls potentially donor-linked; no denominator is given and the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "patient records (no system named)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national DHIS2",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "entered at state and locality level; 76% locality coverage, 64% facility reporting rate (2020)"
+    },
+    {
+      "system": "IConnect telehealth with EMR support",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "400 facilities, from a pilot in 6"
+    },
+    {
+      "system": "Mobile telemedicine (2025)",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages file; the source header marks the country rows as an AI-assisted compilation and the author's analysis, not sourced fact. The row also says 70 to 80% of facilities are non-operational in some areas under the war. Whether the telehealth service holds a clinical record is not stated, so it is classed enabling and its 400 facilities are not taken as an EMR count."
+}

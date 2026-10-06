@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-26-mwi-dhis2-climate-health-surveillance-project",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "DHIS2.org describes the DHIS2-based health management information system as Malawi's national HMIS, on which the Ministry of Health, with GIZ support and HISP UNIMA as its technical partner leading implementation, will integrate climate and health data.", "as_of": "2026-02-26", "date_precision": "day", "system": "DHIS2-based health management information system (HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "A project that began in December 2025 and runs to March 2027, with a kickoff event on 10 February 2026, will deploy DHIS2 climate and health tools (the Chap Modeling Platform and climate data integration) on the DHIS2-based national HMIS and the One Health surveillance platform, first in four districts, and link them to the WHO-supported EWARS; it is commissioned by BMZ and implemented by GIZ.", "as_of": "2025-12", "date_precision": "month", "system": "DHIS2-based health management information system (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2-based health management information system (HMIS)", "country_label": "national HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health; HISP UNIMA technical partner", "tiers": "not stated"},
+    {"system": "One Health surveillance platform (OHSP)", "country_label": "OHSP", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health; HISP UNIMA technical partner", "tiers": "not stated"},
+    {"system": "Early Warning, Alert and Response (EWARS) system", "country_label": "EWARS", "class": "single-function", "platform": "", "owner": "national system supported by the WHO", "tiers": "not stated"}
+  ],
+  "note": "The HMIS is classed hmis on the document calling it the national health management information system; the document does not itself describe aggregate reporting of patients treated, and states no tiers, place of data entry or clinic coverage."
+}

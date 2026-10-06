@@ -1,0 +1,52 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, citing an MCC blog of 2023) states that data on non-HIV/TB patients at rural health centres is kept on paper and manually aggregated into the national DHIS2 'at higher levels', the level not being named; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "national DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that patient recording for general care in rural health centres is predominantly paper-based, non-HIV/TB patients using paper health booklets, with digital recording confined to a donor-driven register for specific diseases; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper health booklets",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregated at higher levels from health centres' paper records"
+    },
+    {
+      "system": "eRegister",
+      "country_label": "eRegister EMR",
+      "class": "tracker",
+      "platform": "",
+      "owner": "donor-driven (PEPFAR/ICAP)",
+      "tiers": "all 170 government health centres, on local servers, for HIV, TB, PMTCT, cervical screening and pharmacy; auto-syncs to DHIS2"
+    },
+    {
+      "system": "village health worker tablets (BKM)",
+      "country_label": "",
+      "class": "community",
+      "platform": "",
+      "owner": "",
+      "tiers": "community level, pilots"
+    }
+  ],
+  "note": "Passages file; the source header marks the country figures as the author's AI-aided analysis rather than sourced fact. The document calls eRegister an EMR but describes a patient register for named programmes, so it is classed tracker and gives no EMR fact. It also states that an MCC compact (2024+) plans expansion to all diseases and that a Digital Health Strategy 2025-30 was validated in 2024."
+}

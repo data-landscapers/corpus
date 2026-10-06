@@ -1,0 +1,16 @@
+{
+  "slug": "2026-05-27-somalia-raad-bamni-ehr-dhis2-integration",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "A Federal Ministry of Health author states that the Ministry of Health developed RAAD (BAMNI) as a national electronic health record for primary healthcare, implemented between 2023 and 2025.", "as_of": "2025", "date_precision": "year", "system": "RAAD (BAMNI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:111", "fact": "RAAD was deployed in 111 public primary healthcare facilities across six states between 2023 and 2025, per the ministry's own case study; no denominator of primary facilities is given.", "as_of": "2025", "date_precision": "year", "system": "RAAD (BAMNI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3;T4", "fact": "The ministry's case study places RAAD in public primary healthcare facilities only (111 of them, 2023 to 2025), without splitting health centres from lower-level clinics and naming no hospital.", "as_of": "2025", "date_precision": "year", "system": "RAAD (BAMNI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "RAAD captures standardised clinical data as routine care documentation, aligned with the national HMIS registers, in place of an average of 15 paper forms, per the ministry's case study of 2023 to 2025.", "as_of": "2025", "date_precision": "year", "system": "RAAD (BAMNI)", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "In the 111 primary facilities running RAAD, routine care documentation generates the DHIS2 aggregate reports automatically; the ministry's case study reports completeness up from 85% to 96% and submission from up to 15 days late to same-day (2023 to 2025).", "as_of": "2025", "date_precision": "year", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "count:111", "fact": "111 public primary healthcare facilities across six states produce their DHIS2 aggregate reports digitally from the RAAD record, per the ministry's case study of 2023 to 2025; no denominator is given.", "as_of": "2025", "date_precision": "year", "system": "DHIS2 (national HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "RAAD (BAMNI)", "country_label": "RAAD", "class": "emr", "platform": "Bahmni (written BAMNI)", "owner": "Federal Ministry of Health", "tiers": "111 public primary healthcare facilities across six states"},
+    {"system": "DHIS2", "country_label": "national HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "national HMIS for aggregate reporting; tiers not stated"}
+  ],
+  "note": "A conference poster abstract by a ministry author. The tiers value assumes primary healthcare facilities means T3 and T4 together, which the document does not break down; the platform reading of BAMNI as Bahmni is mine, the document writes only BAMNI."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress",
+  "facts": [],
+  "systems": [
+    {"system": "Rahaka", "country_label": "système d'échange national Rahaka", "class": "exchange", "platform": "", "owner": "Unité de Gouvernance Digitale (UGD), with World Bank PRODIGY support", "tiers": "no health participant: operational at EDBM, CNaPS, INSTAT, the justice ministry and the tax directorate at 28-29 April 2026"}
+  ],
+  "note": "Health appears only as the minister's example of what interoperability would allow (direct access to a patient's medical record); no health system is connected or named, so no fact."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2020-09-18-pih-emr-jj-dossen-hospital",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "Partners In Health reports that an OpenMRS electronic medical record system launched in July 2020 at J.J. Dossen Hospital in Maryland County, in its non-communicable disease clinic, outpatient department and mental health services, with more than 5,500 patients registered by September 2020 and expansion to triage, laboratory, pharmacy and prenatal clinics planned; no other Liberian facility is stated as using it.", "as_of": "2020-07", "date_precision": "month", "system": "OpenMRS EMR at J.J. Dossen Hospital", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "PIH says the system lets providers enter vital signs, lab results, prescriptions and other diagnostic details during patient appointments, with patients given a barcoded card that staff scan to open the record; old paper records were still to be transferred.", "as_of": "2020-09-18", "date_precision": "day", "system": "OpenMRS EMR at J.J. Dossen Hospital", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "The EMR was implemented by Partners In Health-Liberia at the PIH-supported, government-staffed hospital; seven staff from PIH and the Maryland County Health Team were trained, and PIH says it will roll the system out to its other supported facilities in Liberia.", "as_of": "2020-09-18", "date_precision": "day", "system": "OpenMRS EMR at J.J. Dossen Hospital", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "PIH states the work is part of its global data-systems effort supported by the Wagner Foundation and the multi-year Building Impact Grant; no government funding is mentioned.", "as_of": "2020-09-18", "date_precision": "day", "system": "OpenMRS EMR at J.J. Dossen Hospital", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenMRS EMR at J.J. Dossen Hospital", "country_label": "electronic medical record (EMR) system", "class": "emr", "platform": "OpenMRS", "owner": "Partners In Health-Liberia, with the Maryland County Health Team", "tiers": "one hospital, J.J. Dossen Hospital, Maryland County (described as a rural hospital)"}
+  ],
+  "note": "The article does not give the hospital's tier; T2 is read from its description as a county's rural hospital, not a national referral hospital."
+}

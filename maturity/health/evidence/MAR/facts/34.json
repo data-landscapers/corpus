@@ -1,0 +1,114 @@
+{
+  "slug": "2022-06-29-morocco-improving-primary-health-rural-areas-icr",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:100%",
+      "fact": "The World Bank's completion report states that by the December 2019 restructuring the SMIPF-SC was already operational in every public health centre in all regions of the country, having reached every public health centre in the Program Area by end-2018; the achieved result is worded as 100% of public health centres, with no numerator or denominator given.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "SMIPF-SC",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The World Bank reports the SMIPF-SC operational in public health centres (urban and rural primary care establishments) in all regions by December 2019, with its data aggregated in dashboards at provincial, regional and central levels; hospitals are not said to use it.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "SMIPF-SC",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The World Bank describes the government's approach as integrating and digitising facility-level information systems nationally: the SMIPF-SC, operational in every public health centre by December 2019, gives detailed service-utilisation data at facility level, then aggregated through dashboards at provincial, regional and central levels; the report does not say in so many words who keys the data.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "SMIPF-SC",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The World Bank states that the government had no functional, digitalised and integrated HMIS at Program design, with a proliferation of paper-based systems until 2012, and that results data were drawn from the fragmented, paper-based system until the SMIPF-SC supplied them from 2018; the design date is taken as 2015, the first results year in the report.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "paper-based health information system",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The report states that in 2020 the Ministry of Health's Planning and Financial Resources Direction launched the revision of the information system, its indicator list and its application with the technical directorates and regional directorates, adding chronic disease, mental health and other programmes to the SMIPF content, with the new version due before the end of 2021.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "SMIPF-SC",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank states that the Ministry of Health's 2012 action plan to 2016 sought a fully digitalised information system by 2025, and that an urbanisation study and a roadmap and master plan for an integrated HMIS strategy were completed by 2018.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "SMIPF-SC",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank states that the disbursement-linked indicator on establishing the HMIS carried US$24 million of its US$135 million Program-for-Results loan to the Ministry of Health's programme, an amount it judges insufficient for a patient-level system; no domestic budget line for the system is given. The date is the December 2019 restructuring that reset the indicator.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "SMIPF-SC",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The World Bank states that at the December 2019 restructuring the government had dropped the development of a patient-level electronic medical records system in one region in favour of the national facility-level system, while still working on a plan for patient-level electronic medical records.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "patient-level electronic medical records",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank states that implementation of a patient-based electronic health record system has already been launched as part of the health reforms; it gives no date, coverage or facility count, so the report's published date is used.",
+      "as_of": "2022-06-29",
+      "date_precision": "day",
+      "system": "patient-based electronic health record system",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SMIPF-SC",
+      "country_label": "Santé maternelle et infantile, planification familiale, et soins curatifs (SMIPF-SC), the national digitised health management information system",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health (Planning and Financial Resources Direction)",
+      "tiers": "every public health centre in all regions; dashboards at provincial, regional and central levels"
+    },
+    {
+      "system": "patient-based electronic health record system",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only. finance:donor rests on a World Bank loan to the government's own programme, which the parent may read differently. The report also mentions an unnamed information system scaled up for COVID-19 diagnosis and treatment, built on the SMIPF-SC, with no description."
+}

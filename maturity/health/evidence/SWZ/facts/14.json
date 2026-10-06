@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-23 From Paper to Pixels - Digital Transformation of Community Health Services in Eswatini",
+  "facts": [],
+  "systems": [
+    {"system": "electronic Community-Based Health Information System (CBHIS)", "country_label": "CBHIS", "class": "community", "platform": "offline handheld device application, syncing when connected", "owner": "Ministry of Health, with World Bank support (Health Systems Strengthening for Human Capital Development Project)", "tiers": "Rural Health Motivators at community level; pilot completed in Mpolonjeni Inkhundla, Lubombo, national rollout starting February 2026; integrated with CMIS"},
+    {"system": "Client Management Information System (CMIS)", "country_label": "national electronic health record management system (CMIS)", "class": "emr", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The document is about CBHIS, a community-class system, and states that it is integrated with CMIS (bearing on the community-integrated flag for EMR); it says Rural Health Motivators' reporting was previously on paper, but states nothing about CMIS itself or about an HMIS beyond the name."
+}

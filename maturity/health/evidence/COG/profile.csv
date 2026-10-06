@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COG,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2024-09-01,COG-008;COG-009;COG-010,COG-001=owner:ministry;COG-005=plan:current;COG-007=plan:current,
+COG,hmis,tiers,coverage,T2;T3,2024-09-01,COG-012,,
+COG,hmis,digitised,coverage,district,2024,COG-002;COG-006;COG-011,COG-014=paper,
+COG,hmis,last12,qualifier,,,,,nothing held
+COG,hmis,clinics,coverage,none,2024-09-01,COG-013,,
+COG,emr,governance,qualifier,,,,,nothing held
+COG,emr,tiers,coverage,none,2020,COG-003,,nothing dated since 2023-10-06
+COG,emr,digitised,coverage,paper,2026-03-31,COG-004,,
+COG,emr,last12,qualifier,,,,,nothing held
+COG,emr,clinics,coverage,,,,,nothing held

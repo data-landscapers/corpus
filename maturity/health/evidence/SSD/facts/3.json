@@ -1,0 +1,50 @@
+{
+  "slug": "2026-07-01-south-sudan-dhis2-climate-and-health-country-profile",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The DHIS2 country profile states that a pilot of the FLLOW-M dashboard, a custom application inside the national DHIS2 instance combining malaria surveillance data with climate indicators for predictive analytics and automated outbreak alerts, was launched in July 2026, with the DHIS2 Climate App, Chap Modeling Platform and Modeling App installed on the same instance by HISP Tanzania; initial funding is from Malaria Consortium.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "DHIS2 (national HMIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national health management information system (HMIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health (described as locally owned)",
+      "tiers": "national HMIS since 2020, covering routine data on a range of health programmes; tiers not stated"
+    },
+    {
+      "system": "DHIS2 disease surveillance",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2 for ITN campaign planning and management",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "National Malaria Control Programme",
+      "tiers": "not stated"
+    },
+    {
+      "system": "FLLOW-M dashboard",
+      "country_label": "FLLOW-M",
+      "class": "single-function",
+      "platform": "DHIS2 custom application with Chap Modeling Platform, DHIS2 Climate App and CAPS middleware",
+      "owner": "HISP Tanzania with Malaria Consortium and the National Malaria Control Programme",
+      "tiers": "national DHIS2 instance; pilot launched July 2026"
+    }
+  ],
+  "note": ""
+}

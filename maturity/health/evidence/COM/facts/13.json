@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-06-comoros-digital-measles-rubella-campaign-odk-wearetech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Open Data Kit (ODK) campaign data collection, measles-rubella vaccination campaign",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "Open Data Kit (ODK) on mobile devices, feeding dashboards and maps",
+      "owner": "Ministry of Health, Expanded Programme on Immunization, with WHO support and Gavi funding",
+      "tiers": "campaign vaccination teams on Ndzuwani, Ngazidja and Mwali; campaign launched 4 October 2025; no facility tier stated"
+    }
+  ],
+  "note": "No fact: the only system is a data collection tool for one vaccination campaign, replacing paper forms for the first time; it is neither routine facility reporting nor a patient record."
+}

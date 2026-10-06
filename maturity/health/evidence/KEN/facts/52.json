@@ -1,0 +1,8 @@
+{
+  "slug": "2018-01-01-usaid-ken-kenya-digital-health-2018-kenya-digital-health-investment-support",
+  "facts": [],
+  "systems": [
+    {"system": "KHIS2 (Kenya Health Information System 2)", "country_label": "KHIS2", "class": "", "platform": "", "owner": "", "tiers": "county level, as the record states it"}
+  ],
+  "note": "No fact: the deal record says a USAID grant (about US$5,000,000 committed, 2018-2023, marked low source confidence) supported county-level health information systems and KHIS2, naming KHIS2 without describing what it does, so it is unclassified."
+}

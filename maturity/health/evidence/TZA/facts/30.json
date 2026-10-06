@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-01-en-mini-tools-implementation-tanzania-brief",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data for Impact's brief on the EN-MINI tools in Tanzania (Tanga region) describes newborn data as passing from health facility routine registers into the electronic routine health information system and reports improved data entry accuracy at the district level, with gaps in data culture and reporting at health facilities; it does not say outright that all entry is at the district, and gives no date for the findings, so the document's published month is used.", "as_of": "2024-07", "date_precision": "month", "system": "national health management information system (routine health information system, RHIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "national health management information system (routine health information system, RHIS)", "country_label": "national health management information system", "class": "hmis", "platform": "", "owner": "", "tiers": "health facility routine registers feeding an electronic RHIS; district-level data entry mentioned"}
+  ],
+  "note": "The digitised value rests on one phrase (data entry accuracy at the district level) and should be weighed as such."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-06-marocma-achevement-1400-etablissements-sante-primaires",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Health and Social Protection, announcing on 5 April 2026 the completion of the rehabilitation of 1,400 primary health care establishments in all 12 regions, said the work continues with the generalisation of the electronic medical record; it gives no number of establishments using the record.", "as_of": "2026-04-05", "date_precision": "day", "system": "dossier médical électronique", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier médical électronique", "country_label": "dossier médical électronique", "class": "emr", "platform": "", "owner": "Ministère de la Santé et de la Protection sociale", "tiers": "primary health care establishments; generalisation under way, no count"},
+    {"system": "système d'information intégré", "country_label": "système d'information intégré", "class": "", "platform": "", "owner": "Ministère de la Santé et de la Protection sociale", "tiers": "stated as generalised across the 1,400 rehabilitated primary health care establishments, urban and rural, in all 12 regions; what it records is not described"}
+  ],
+  "note": "The communiqué says the integrated information system was generalised in the 1,400 rehabilitated primary care establishments (investment above 6,430 million dirhams for the whole programme) but does not say whether it is aggregate reporting or a patient record, so it is left unclassified and gives no fact; the parent may wish to look at this one."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-14-mohim-project-interoperability-digital-health-africa",
+  "facts": [],
+  "systems": [
+    {"system": "CI-SIS Morocco", "country_label": "CI-SIS Maroc, national interoperability framework built by the MOHIM Lab (Morocco Health Interoperability and Maturity Lab)", "class": "exchange", "platform": "profiles of HL7 FHIR, DICOM and SNOMED CT, tested on the IHE Gazelle suite", "owner": "Center for e-Health Innovation (CIeS), Mohammed V University, with the Ministry of Health and Social Protection; IHE Catalyst and HIMSS as partners", "tiers": "none stated; a framework and test sandbox under development since GITEX Africa 2025, with a Pan-African Connectathon planned for October 2026"},
+    {"system": "Shared Patient Record (SPR)", "country_label": "Shared Patient Record", "class": "emr", "platform": "", "owner": "", "tiers": "none stated; named only as a use case for which standards are being profiled"}
+  ],
+  "note": "No fact: the document is about an interoperability framework (exchange class). The Shared Patient Record is named only as a local use case for standards profiling, with nothing stated about its deployment."
+}

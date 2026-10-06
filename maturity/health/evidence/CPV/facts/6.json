@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-oms-cabo-verde-modernizacao-sistema-registo-de-obitos",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS-2", "country_label": "DHIS-2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "WHO news item on death certification and cause-of-death notification (30 desktops handed to health delegations and central services, Portuguese-financed). DHIS-2 is named only as being modernised under the national health information systems strategy, with no description of what it does, so it is unclassed and gives no fact."
+}

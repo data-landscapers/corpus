@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-inege-guinea-ecuatorial-en-cifras-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "country_label": "SNIS; cited as MSBSIS-SNIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministerio de Sanidad, Bienestar Social e Infraestructuras Sanitarias (MSBSIS)",
+      "tiers": "source notes say births and deaths come from regional, provincial and district public hospitals, with private clinics added from 2022-2023"
+    }
+  ],
+  "note": "SNIS appears only as the source line under birth, death and cause-of-death charts for 2020-2024; the compendium does not say how the SNIS collects or whether it is digital. No fact."
+}

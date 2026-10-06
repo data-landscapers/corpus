@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-26-burundi-elmis-medexis-health-rollout-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "eLMIS Medexis", "country_label": "eLMIS Medexis", "class": "single-function", "platform": "Medexis", "owner": "Ministry of Public Health, with i+Solutions and the Embassy of the Netherlands", "tiers": "all public and faith-based health facilities (956 facilities, rollout complete 2025); extension to private facilities planned (June 2026)"}
+  ],
+  "note": "The only system described is a stock and supply-chain system (single-function); no HMIS or EMR is named. Interoperability with unnamed other platforms was discussed on 25 June 2026."
+}

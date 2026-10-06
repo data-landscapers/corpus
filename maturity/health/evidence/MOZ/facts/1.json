@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-28-sisma-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's own page states that SIS-MA's aggregate instance and the other DHIS2 instances are managed by the ministry's Departamento de Informação para Saúde (DIS), with a mother instance holding the master list of organisational units; the page is undated, so the published date is used.", "as_of": "2026-08-28", "date_precision": "day", "system": "SIS-MA (Sisma Agregado)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SIS-MA (Sisma Agregado)", "country_label": "Sistema de Informação de Saúde para Monitoria e Avaliação (SIS-MA / SISMA)", "class": "hmis", "platform": "DHIS2", "owner": "MISAU, Departamento de Informação para Saúde (DIS)", "tiers": "not stated; its facility list covers provinces, districts, health units, health centres and hospitals"},
+    {"system": "SIS-MA módulo de dados hospitalares", "country_label": "módulo de dados hospitalares", "class": "", "platform": "DHIS2", "owner": "MISAU", "tiers": "hospitals; records patient demographic data and deaths, passed to SIRCEV for death certificates"},
+    {"system": "Plataforma de Interoperabilidade", "country_label": "Plataforma de Interoperabilidade do SISMA", "class": "exchange", "platform": "", "owner": "MISAU, Departamento de Informação para Saúde (DIS)", "tiers": "national; mediates exchange between SIS-MA and other systems"},
+    {"system": "Master Facility List (MFL) and MFL Updater", "country_label": "Master Facility List - MFL", "class": "exchange", "platform": "API over DHIS2", "owner": "MISAU, Departamento de Informação para Saúde (DIS)", "tiers": "national; facility registry synchronised across the DHIS2 instances"},
+    {"system": "Ferramenta Central (FC)", "country_label": "Ferramenta Central", "class": "single-function", "platform": "", "owner": "Central de Medicamentos e Artigos Médicos (CMAM)", "tiers": "national; medicines logistics data, consumed by SIS-MA"}
+  ],
+  "note": ""
+}

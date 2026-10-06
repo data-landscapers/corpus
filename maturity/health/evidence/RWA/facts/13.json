@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:400", "fact": "The Data Landscapers review states, citing Rwanda's Digital Health Strategy 2018-2023, that OpenMRS EMR modules were deployed in nearly 400 of about 500 health centres at a 2018 baseline, primarily for HIV and TB but expanding.", "as_of": "2018", "date_precision": "year", "system": "OpenMRS EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "The Data Landscapers review states that OpenMRS EMR modules were in nearly 400 of about 500 health centres at a 2018 baseline, and that a 2022 survey at 54 rural health centres found high EMR use with some possible dual paper entry.", "as_of": "2018", "date_precision": "year", "system": "OpenMRS EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The Data Landscapers review describes the OpenMRS EMR modules in Rwanda's health centres (2018 baseline) as functioning as point-of-care local systems, with connectivity or power outages at 25 per cent of sites and some paper fallback.", "as_of": "2018", "date_precision": "year", "system": "OpenMRS EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "The Data Landscapers review states that the national rollout of the integrated EMR eBuzima was ongoing in 2025 through Ministry of Health partnerships with NGOs such as Health Builders in rural districts (Rwamagana and Rulindo named), replacing paper records at health centres, with paper persisting in rollout gaps; no count of facilities is given.", "as_of": "2025", "date_precision": "year", "system": "eBuzima", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenMRS EMR", "country_label": "OpenMRS EMR modules", "class": "emr", "platform": "OpenMRS", "owner": "", "tiers": "nearly 400 of ~500 health centres (2018 baseline); primarily HIV/TB but expanding; local point-of-care installations"},
+    {"system": "eBuzima", "country_label": "eBuzima (integrated EMR)", "class": "emr", "platform": "", "owner": "Ministry of Health, with NGO partners such as Health Builders", "tiers": "health centres in rural districts (Rwamagana, Rulindo), national rollout ongoing 2025"},
+    {"system": "DHIS2 HMIS", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "collects aggregates nationwide since 2012; tiers not stated"}
+  ],
+  "note": "Passages of an AI-assisted 54-country compilation (the source file flags its country figures as the author's analysis, not sourced fact). The OpenMRS modules are described as primarily HIV/TB, which a reviewer may prefer to class as tracker; they are recorded as emr because the document calls them the health centres' patient-data record. The DHIS2 HMIS statement (aggregates nationwide since 2012) names no tier and no place of entry, so it is a systems entry only. The document also says national policy targeted 100% EMR coverage by 2022."
+}

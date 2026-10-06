@@ -1,0 +1,29 @@
+{
+  "slug": "2016-01-01-usaid-ken-healthit-sustaining-2016-healthit-sustaining-use-of-district-health",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "USAID's HealthIT grant, per its IATI record, committed US$22,528,318 over 2016-2021 (US$22,520,057 disbursed) to support DHIS2 implementation and use for health data collection, analysis and reporting and to strengthen Kenya's health management information system; the record names no domestic funding.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "District Health Information System II (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The IATI record of USAID's HealthIT grant (2016-2021) describes DHIS2 in Kenya as used for health data collection, analysis and reporting at district and national level; it does not mention entry at facilities.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "District Health Information System II (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "District Health Information System II (DHIS2)", "country_label": "District Health Information System II; health management information system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "district and national level"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification",
+  "facts": [],
+  "systems": [
+    {"system": "Hospital Management Information Systems (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "counties; Ministry of Health", "tiers": "24 counties transitioning to it as of 4 August 2025; levels not stated"},
+    {"system": "Biometric Health Identification (BHI)", "country_label": "BHI", "class": "enabling", "platform": "fingerprint verification", "owner": "Ministry of Health", "tiers": "operational in all Level 4, 5 and 6 public facilities, Level 2 and 3 to follow; 29 devices at KUTRRH"},
+    {"system": "Health Information Exchange (HIE)", "country_label": "HIE", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "between hospitals, counties and national systems"},
+    {"system": "Practise360", "country_label": "Practise360", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "doctors within assigned facilities; restricts pre-authorisation codes"},
+    {"system": "National Product Catalogue", "country_label": "National Product Catalogue", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Track-and-Trace system for pharmaceuticals", "country_label": "Track-and-Trace", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "in final testing"}
+  ],
+  "note": "A Ministry of Health release of 4 August 2025 on the launch of biometric patient identification at KUTRRH. It says 24 counties are transitioning to Hospital Management Information Systems without saying what those systems do, so their class is empty and there is no fact of class hmis or emr; biometric identification is an identity layer, entered as enabling. It also says 99% of KUTRRH walk-in patients are registered under SHA."
+}

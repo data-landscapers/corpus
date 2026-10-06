@@ -1,0 +1,23 @@
+{
+  "slug": "2025-08-16-who-jee-eritrea-mission-report-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national electronic reporting system (USSD-based)",
+      "country_label": "national electronic reporting system",
+      "class": "single-function",
+      "platform": "USSD over mobile networks",
+      "owner": "Ministry of Health and Ministry of Agriculture",
+      "tiers": "not stated; recommended for development and deployment, not yet in use (August 2025)"
+    },
+    {
+      "system": "mobile-based data system for essential health service utilization during emergencies",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "mobile",
+      "owner": "",
+      "tiers": "not stated; a recommendation (August 2025)"
+    }
+  ],
+  "note": "Excerpt of the JEE report: the only systems named are surveillance and emergency-monitoring systems that the evaluation recommends building (D2.1 scored 3, R3.1 scored 4); no HMIS or EMR is described, so no fact."
+}

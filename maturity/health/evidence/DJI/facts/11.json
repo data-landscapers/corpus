@@ -1,0 +1,26 @@
+{
+  "slug": "2025-04-14-who-management-response-djibouti-evaluation",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "WHO's Djibouti country office, in its management response of 14 April 2025, lists as an action in progress the review and enhancement of the DHIS2 system as implemented at primary health care level, and says assessments have shown limitations in the data system including challenges in the use of DHIS2; it names the primary care level only, not individual tiers or a count of facilities.",
+      "as_of": "2025-04-14",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "HIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "implemented in primary health care (PHC)"
+    }
+  ],
+  "note": "Excerpt capture, recommendation 1 only. DHIS2 is classed hmis because the action sits under data on service delivery from the HIS at primary care level; the document does not describe the module, so the parent may prefer it unclassified. It also says resources are still being sought to revamp the data system and ensure data connectivity at national level, which states no aspect value. T3;T4 is the mapping of 'PHC', not the document's wording."
+}

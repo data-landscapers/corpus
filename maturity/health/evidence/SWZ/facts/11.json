@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "share:71%", "fact": "The Data Landscapers review, citing the 2024 National Health Sector Strategic Plan, says 71% of health facilities have CMIS, with a target of 95% by 2028, and that the 29% without it may still be partly on paper; the share is of all health facilities and no numerator or denominator is given.", "as_of": "2024", "date_precision": "year", "system": "Client Management Information System (CMIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The Data Landscapers review says the National Health Sector Strategic Plan 2024-28 reports CMIS coverage and sets a target of 95% of health facilities by 2028.", "as_of": "2024", "date_precision": "year", "system": "Client Management Information System (CMIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The Data Landscapers review says CMIS supports point-of-care data entry for clinical management, with tablet job aids linked to it at primary level (no date stated for this, published date used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T4", "fact": "The Data Landscapers review says rural primary healthcare clinics predominantly record patient data digitally in CMIS and that it found no evidence of entirely paper-based rural clinics; it does not describe other tiers (no date stated, published date used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "emr", "platform": "", "owner": "", "tiers": "71% of health facilities as of the 2024 NHSSP, including rural primary healthcare clinics"},
+    {"system": "CBHIS", "country_label": "CBHIS", "class": "community", "platform": "", "owner": "", "tiers": "Rural Health Motivators at community level; piloted in one region in 2026, integrating with CMIS"}
+  ],
+  "note": "Passages of an expert review whose country figures are an AI-assisted compilation of other sources (the capture's own caution); facts are recorded as the review states them."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-04-ynews-sha-digital-platform-cost-defence",
+  "facts": [],
+  "systems": [
+    {"system": "SHA digital system / UHC digital platform", "country_label": "Taifacare; SHA digital system; UHC digital platform", "class": "", "platform": "", "owner": "a private consortium, which keeps ownership of the system and all intellectual property (Auditor General); fully outsourced, paid by user fees over a 10-year contract (presidential adviser David Ndii)", "tiers": ""},
+    {"system": "HMIS for 7000+ public health facilities", "country_label": "HMIS", "class": "", "platform": "", "owner": "supplied within the outsourced SHA software services", "tiers": "7,000+ public health facilities, as stated by David Ndii on 3 March 2025; tiers not given"}
+  ],
+  "note": "No fact: the article names an 'HMIS for 7000+ public health facilities' inside the outsourced Sh104.8bn SHA contract but never says what it does (aggregate reporting, clinical record or billing), so it is unclassified; the SHA platform itself is described only as claims, patient authentication and payment verification."
+}

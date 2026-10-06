@@ -1,0 +1,49 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ZMB,SmartCare Pro,SmartCare Pro,emr,,Ministry of Health with Smart Zambia Institute,"more than 2,000 facilities (design scope as stated)",2026-07-16-zambia-govlink-private-4g-itweb
+ZMB,SmartCare 2.0,SmartCare 2.0,emr,,Ministry of Health with Smart Zambia Institute,hospital-focused version,2026-07-16-zambia-govlink-private-4g-itweb
+ZMB,GovLink Private 4G,GovLink,enabling,private 4G network,"Smart Zambia Institute, with IHM Southern Africa and the Ministry of Health","first connected: Ndola Teaching Hospital, Kitwe Teaching Hospital, Arthur Davison Children's Hospital",2026-07-16-zambia-govlink-private-4g-itweb
+ZMB,SmartCare Pro,SmartCare Pro,emr,,Ministry of Health,"more than 2,000 health facilities nationwide",2026-07-16-zambia-govlink-private-4g-techafricanews
+ZMB,Care 2.0,Care 2.0,emr,,,"pilot at Ndola Teaching Hospital, Arthur Davison Children's Hospital and Kitwe Teaching Hospital",2026-07-16-zambia-govlink-private-4g-techafricanews
+ZMB,GovLink Private 4G,GovLink,enabling,private 4G network,"e-Government Division, SMART Zambia Institute, with IHM Southern Africa, Tuso Business Dynamics, Quadrupleplay and the Ministry of Health",three Copperbelt hospitals as demonstration sites,2026-07-16-zambia-govlink-private-4g-techafricanews
+ZMB,SmartCare Pro,SmartCare Pro,emr,,,approximately 80% of health facilities nationwide,2026-07-08-smart-zambia-expands-digital-infrastructure
+ZMB,Government Wide Area Network (GWAN),GWAN,enabling,fibre-optic network,SMART Zambia e-Government Division,"links government offices, schools and health facilities in North-Western Province",2026-07-08-smart-zambia-expands-digital-infrastructure
+ZMB,SmartCare 2.0,SmartCare 2.0 Hospital Edition,emr,locally developed,SMART Zambia Institute with the Ministry of Health and IHM Southern Africa,pilot at Ndola Teaching Hospital,2026-04-28-zambia-smartcare-2-0-ndola-pilot
+ZMB,DHIS2,the national HMIS platform,hmis,DHIS2,,entered at district offices from rural clinics' monthly paper reports,2026-03-31 Africa we have a data problem
+ZMB,SmartCare Pro,SmartCare / SmartCare Pro (EHR),emr,,,"877 of 3,540 facilities (2025); limited SmartCare in select rural antenatal sites",2026-03-31 Africa we have a data problem
+ZMB,CHIP,CHIP,community,,,pilot for community health workers (2025),2026-03-31 Africa we have a data problem
+ZMB,SmartCare Pro,SmartCare Pro,emr,centralised EHR built by TuSo Business Dynamics (IHM Southern Africa),Government of Zambia with IHM Southern Africa,a rural clinic in Kafulafuta is described; records said to be reachable at any public hospital,2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia
+ZMB,National Digital ID service,National Digital ID,exchange,,,,2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia
+ZMB,Health Management Information Systems (HMIS),HMIS,,,,,2026-01-01-zambia-national-electronic-government-plan
+ZMB,ZM-Core,"ZM-Core, HL7 FHIR R5 implementation guide",exchange,HL7 FHIR R5,Ministry of Health,sets minimum conformance for national and facility systems,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,Master Facility List (MFL),MFL,exchange,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,SmartCare,SmartCare,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,HMIS,HMIS,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,DHIS2,DHIS2,,DHIS2,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,eLMIS,eLMIS,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,iHRIS,iHRIS,,,,,2025-11-21-zambia-zm-core-fhir-implementation-guide
+ZMB,SmartCare / SmartCare Pro,SmartCare,emr,,Ministry of Health,"877 of 3,540 health facilities (SmartCare Pro), contingent on power and internet",2025-04-01-zambia-digital-health-case-study
+ZMB,DHIS2-based health management information system,national health management information system,hmis,DHIS2,Government of Zambia and partners,,2025-04-01-zambia-digital-health-case-study
+ZMB,Electronic integrated disease surveillance and response system,eIDSR,single-function,DHIS2,Zambia National Public Health Institute,approximately 90% of health facilities use the national DHIS2 platform for surveillance,2025-04-01-zambia-digital-health-case-study
+ZMB,Electronic logistics management information system,,single-function,custom-built,,,2025-04-01-zambia-digital-health-case-study
+ZMB,Laboratory information system,,single-function,,,,2025-04-01-zambia-digital-health-case-study
+ZMB,Electronic community health information system,,community,custom-built,,,2025-04-01-zambia-digital-health-case-study
+ZMB,Digitized community health package,,community,mobile phone application,Ministry of Health with the Global Fund,community health volunteers; transmits data electronically into national health information systems,2025-04-01-zambia-digital-health-case-study
+ZMB,Health facility solar power and internet connectivity,,enabling,solar; internet including low earth orbit,Smart Zambia Institute and Ministry of Health,"about 650 facilities with Global Fund solar, 1,050 more with solar back-up, 883 with internet, of 3,540",2025-04-01-zambia-digital-health-case-study
+ZMB,Data warehouse,,,,,,2025-04-01-zambia-digital-health-case-study
+ZMB,SmartCare Pro,SmartCare Pro,emr,"centralised architecture, central server",Ministry of Health,,2025-03-01-smartcare-pro-programme-managers-presentation
+ZMB,SmartCare Legacy and SmartCare Plus,SmartCare Legacy; SmartCare Plus,emr,offline and online instances,Ministry of Health,"approximately 1,800 healthcare facilities in 10 provinces",2025-03-01-smartcare-pro-programme-managers-presentation
+ZMB,eLMIS,eLMIS (Pharmacy),single-function,,,integrated with SmartCare Pro,2025-03-01-smartcare-pro-programme-managers-presentation
+ZMB,DISA,DISA (Laboratory),single-function,,,integrated with SmartCare Pro,2025-03-01-smartcare-pro-programme-managers-presentation
+ZMB,GWAN,GWAN,enabling,government network; Starlink for government,,free in government facilities,2025-03-01-smartcare-pro-programme-managers-presentation
+ZMB,Data Warehouse,Data Warehouse,,,,,2025-03-01-smartcare-pro-programme-managers-presentation
+ZMB,SmartCarePro Electronic Health Record System,SmartCarePro,emr,,,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
+ZMB,MOSIP,MOSIP-based digital identity and eKYC platform,exchange,MOSIP,SMART Zambia e-government division,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
+ZMB,DHIS,DHIS,hmis,DHIS / DHIS2,,adapted by standardising and computerising the registers that collect care-delivery data from health facilities,2021-08-04 Health information systems in developing countries case of African countries
+ZMB,SmartCare,SmartCare Health Information System,emr,standalone facility databases merged upward monthly; patient smartcards,Ministry of Health,"facilities where deployed, districts, 2nd and 3rd level hospitals, provincial and national offices",2014-01-01-moh-zambia-ict-standards-and-guidelines
+ZMB,District Health Information System,DHIS (HIA2 report),hmis,DHIS,Ministry of Health,the HIA2 facility report is to be produced from SmartCare for each facility,2014-01-01-moh-zambia-ict-standards-and-guidelines
+ZMB,HMIS,HMIS,,,Ministry of Health,,2014-01-01-moh-zambia-ict-standards-and-guidelines
+ZMB,Laboratory Information Management System,LIMS / LIS,single-function,,Ministry of Health,,2014-01-01-moh-zambia-ict-standards-and-guidelines
+ZMB,Logistics information system,,single-function,,Ministry of Health,,2014-01-01-moh-zambia-ict-standards-and-guidelines
+ZMB,Electronic Health Record (EHR) system,Electronic Health Record (EHR) system,emr,,Government,"used in hospitals, as stated by Muchinga Province's Deputy Permanent Secretary (reported 2026-09-24)",2026-09-24-lusakatimes-zmb-funeral-scheme-digital-platform
+ZMB,Health Management Information Systems (HMIS),HMIS,,,,,2023-10-11-national-ict-policy-2023-zambia
+ZMB,Health Management Information Systems (HMIS),HMIS,,,,,2023-08-17-national-electronic-government-plan-2023-2026-zambia

@@ -1,0 +1,34 @@
+{
+  "slug": "2024-02-28-mtnra-simplification-digitalisation-parcours-usagers",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The digital transition ministry (MTNRA) states that it is working with the Ministry of Health and Social Protection and the CNSS on setting up a shared medical record for medical follow-up, preparing data reference frameworks, UX/UI design and change management for adoption by health professionals and patients; the page gives no date for this, so the published date (itself inferred) is used.",
+      "as_of": "2024-02-28",
+      "date_precision": "day",
+      "system": "dossier médical partagé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical partagé",
+      "country_label": "dossier médical partagé",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministère de la Santé et de la Protection Sociale, with MTNRA support",
+      "tiers": ""
+    },
+    {
+      "system": "feuille de soins électronique",
+      "country_label": "feuille de soins électronique",
+      "class": "",
+      "platform": "",
+      "owner": "CNSS",
+      "tiers": ""
+    }
+  ],
+  "note": "Both health systems are described as projects being set up; no tier, coverage or digitisation point is stated. The electronic claim form is for reimbursement, outside the classes."
+}

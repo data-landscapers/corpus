@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LSO,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-23,LSO-001;LSO-002;LSO-008,LSO-007=owner:ministry,
+LSO,hmis,tiers,coverage,,,,,nothing held
+LSO,hmis,digitised,coverage,district,2026-03-31,LSO-004,LSO-006=facility,
+LSO,hmis,last12,qualifier,advancing,2025,LSO-003,,
+LSO,hmis,clinics,coverage,,,,,nothing held
+LSO,emr,governance,qualifier,,,,,nothing held
+LSO,emr,tiers,coverage,T2,2013,LSO-009,,nothing dated since 2023-10-06
+LSO,emr,digitised,coverage,paper,2026-03-31,LSO-005,,
+LSO,emr,last12,qualifier,regressing,2017-10-18,LSO-010,,nothing dated since 2025-10-06
+LSO,emr,clinics,coverage,,,,,nothing held

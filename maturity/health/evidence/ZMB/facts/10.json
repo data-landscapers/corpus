@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-21-zambia-zm-core-fhir-implementation-guide",
+  "facts": [],
+  "systems": [
+    {"system": "ZM-Core", "country_label": "ZM-Core, HL7 FHIR R5 implementation guide", "class": "exchange", "platform": "HL7 FHIR R5", "owner": "Ministry of Health", "tiers": "sets minimum conformance for national and facility systems"},
+    {"system": "Master Facility List (MFL)", "country_label": "MFL", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SmartCare", "country_label": "SmartCare", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HMIS", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "eLMIS", "country_label": "eLMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "iHRIS", "country_label": "iHRIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "An interoperability specification (repository created 2025-11-21): it names SmartCare, HMIS, DHIS2, eLMIS and iHRIS only as issuers of facility identifiers, without describing what any of them does or where it is used, so no HMIS or EMR fact."
+}

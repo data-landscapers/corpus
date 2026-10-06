@@ -1,0 +1,23 @@
+{
+  "slug": "2025-12-01-bfa-insd-sds5-schema-directeur-statistique-2026-2030",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Endos-BF (Entrepôt de données sanitaires du Burkina Faso)",
+      "country_label": "Endos-BF",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SNIS (Système national d'information sanitaire)",
+      "country_label": "SNIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "National statistics master plan 2026-2030 (validated 1 December 2025): Endos-BF and SNIS appear only in the list of abbreviations, with no description of what they do. Its one health statement is that 2026 and 2027 costs carry large purchases of computer equipment in the health sector for 'digitalisation of tools' in health facilities and hospital care units and for health intelligence centres, the tools unspecified; the plan as a whole is costed at 107.156 billion FCFA, 47.7% from internal resources, 25.2% from partners and 27.1% unfunded. The file stops mid-sentence in section 2.4, so the logical framework and action plan annexes, where health activities would be itemised, are not in it."
+}

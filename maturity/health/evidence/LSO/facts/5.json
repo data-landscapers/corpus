@@ -1,0 +1,39 @@
+{
+  "slug": "2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national DHIS2 platform",
+      "country_label": "national DHIS2 platform",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS2 Tracker systems (EpiC project)",
+      "country_label": "DHIS2 Tracker",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "FHI 360 EpiC Lesotho project (US Government-funded HIV programme)",
+      "tiers": "project-supported sites and districts"
+    },
+    {
+      "system": "LEAD",
+      "country_label": "LEAD",
+      "class": "",
+      "platform": "",
+      "owner": "FHI 360 EpiC Lesotho project",
+      "tiers": ""
+    },
+    {
+      "system": "Infolink",
+      "country_label": "Infolink",
+      "class": "",
+      "platform": "",
+      "owner": "FHI 360 EpiC Lesotho project",
+      "tiers": ""
+    }
+  ],
+  "note": "A request for proposal (due 23 June 2026) for a July-September 2026 consultant to maintain an HIV project's LEAD, Infolink and DHIS2 Tracker systems and coordinate their integration with the national DHIS2 platform; the national platform is named without a description of what it reports, and nothing is stated about its tiers, data entry or clinics, nor about any EMR in use."
+}

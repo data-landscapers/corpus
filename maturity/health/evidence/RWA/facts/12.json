@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-08-rwanda-ebuzima-emr-rollout-presentation-2026",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "not-published", "fact": "A Rwanda Biomedical Centre officer's conference slides state that eBuzima had been rolled out to the majority of public health facilities as at 8 April 2026, for services other than HIV; no numerator, denominator or tier breakdown is given, and the slides describe it as centralised, web-based and synchronising records across public facilities.", "as_of": "2026-04-08", "date_precision": "day", "system": "eBuzima EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Rwanda Biomedical Centre slides date the rollout of eBuzima to the majority of public health facilities at 8 April 2026, with its HIV key-population and PrEP modules running in one Kigali pilot site that had enrolled 39 clients by 31 March 2026.", "as_of": "2026-04-08", "date_precision": "day", "system": "eBuzima EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Rwanda Biomedical Centre slides of April 2026 present eBuzima as the national system for all public health facilities, served from the Ministry of Health's own domain (ebuzima.moh.gov.rw), and say the ministry will oversee EMR systems in private facilities; the slides do not name an owning unit in so many words.", "as_of": "2026-04-08", "date_precision": "day", "system": "eBuzima EMR", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eBuzima EMR", "country_label": "eBuzima", "class": "emr", "platform": "centralised, web-based; platform not named", "owner": "Ministry of Health (system at ebuzima.moh.gov.rw); presented by Rwanda Biomedical Centre", "tiers": "majority of public health facilities (8 April 2026), tiers not broken down; HIV key-population and PrEP modules in 1 pilot site in Kigali"},
+    {"system": "OpenMRS", "country_label": "OpenMRS (legacy EMR)", "class": "emr", "platform": "OpenMRS", "owner": "often donor- or project-driven", "tiers": "often single-facility or hospital-specific"},
+    {"system": "OpenClinic", "country_label": "OpenClinic (legacy EMR)", "class": "emr", "platform": "OpenClinic", "owner": "often donor- or project-driven", "tiers": "often single-facility or hospital-specific"},
+    {"system": "DHIS2 HIV CBS", "country_label": "DHIS2 (HIV case-based surveillance, with Tracker)", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "", "tiers": "not stated; programme-level data, individual-level with Tracker"}
+  ],
+  "note": "Slides, thin on figures: 'majority of public health facilities' is the only coverage statement and is not a share or a count, so clinics is not-published. Nothing is said on whether entry is at the point of care."
+}

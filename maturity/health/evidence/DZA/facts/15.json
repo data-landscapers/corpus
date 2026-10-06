@@ -1,0 +1,15 @@
+{
+  "slug": "2018-07-02-joradp-loi-18-11-sante",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Dossier médical unique au niveau national",
+      "country_label": "dossier médical unique",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; art. 26 requires one for every patient, with the modalities left to regulation"
+    }
+  ],
+  "note": "Health law of 2 July 2018 (capture truncated after art. 237): art. 26 says every patient must have a single medical record at national level and art. 177 obliges practitioners to keep the patient's record up to date, but the text does not say the record is electronic, names no system, tier, owner or budget, so no fact is taken; arts. 36 and 47 also provide for surveillance networks and registers for non-communicable diseases without describing any system."
+}

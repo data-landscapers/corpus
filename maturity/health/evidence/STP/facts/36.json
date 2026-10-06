@@ -1,0 +1,26 @@
+{
+  "slug": "2021-01-01-sao-tome-ministerio-saude-anuario-estatistico-saude-2021",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's statistical yearbook for 2021, produced by its own Sistema de Informação da Saúde (SIS) office, states that the Ministry chose DHIS2 as the management software of the health information system, to produce periodic reports and health bulletins and to serve as the data warehouse fed from source systems, with a web portal for sharing data; no date is given for the choice, so the document's published date is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2 (District Health Information System-2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (District Health Information System-2)",
+      "country_label": "SIS - Sistema de Informação da Saúde / Sistema de Informação Sanitária",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministério da Saúde, gabinete do Sistema de Informação da Saúde (SIS)",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "Capture is an excerpt, truncated in Table 3; the document states no tiers, no place of data entry and no clinic count. Decentralising SIS collection to each level of the pyramid is listed as an objective, not as done."
+}

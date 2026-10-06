@@ -1,0 +1,56 @@
+{
+  "slug": "2025-04-30-senegal-digital-health-policy-data-law",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "We Are Tech Africa reports that the Health and Social Action Minister approved a national digital health policy framework on 28 April 2025, with a digital health law still in draft, and that the PAEN project plans to extend the electronic patient record to six additional regions starting in 2025.",
+      "as_of": "2025-04-28",
+      "date_precision": "day",
+      "system": "electronic patient record (EPR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "We Are Tech Africa reports that the electronic patient record is promoted under the Digital Economy Acceleration Project (PAEN), a USD 150 million initiative financed by the World Bank through 2028; no domestic budget line is stated.",
+      "as_of": "2025-04-28",
+      "date_precision": "day",
+      "system": "electronic patient record (EPR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "We Are Tech Africa reports that the electronic patient record had completed a pilot phase in four Dakar facilities: the Abass Ndao and Thierno Birahim Ndao hospitals (tier not stated), the Khadim Rassoul health centre and the HLM Fass health post; the pilot is undated, so the article's publication date is used.",
+      "as_of": "2025-04-30",
+      "date_precision": "day",
+      "system": "electronic patient record (EPR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:2",
+      "fact": "We Are Tech Africa names one health centre (Khadim Rassoul) and one health post (HLM Fass), both in Dakar, as the primary-level sites of the electronic patient record pilot, beside two hospitals; no denominator is given and the pilot is undated, so the article's publication date is used.",
+      "as_of": "2025-04-30",
+      "date_precision": "day",
+      "system": "electronic patient record (EPR)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic patient record (EPR)",
+      "country_label": "electronic patient record (EPR)",
+      "class": "emr",
+      "platform": "",
+      "owner": "under the World Bank-financed PAEN; digital health policy approved by the Ministry of Health and Social Action",
+      "tiers": "pilot in Dakar: Abass Ndao and Thierno Birahim Ndao hospitals, Khadim Rassoul health centre, HLM Fass health post; six more regions planned from 2025"
+    }
+  ],
+  "note": ""
+}

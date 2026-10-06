@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "ICTworks' directory lists Burkina Faso's Plan Stratégique de la Santé Numérique (PSSN) 2025-2029 as the operative instrument, signed in January 2025, and says the instruments adopted by Burkina Faso and six neighbours in 2023-2025 share an EHR component alongside an interoperability layer, telemedicine, a governance pillar and costed implementation; it names no EHR product and gives no deployment.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "EHR (component of the PSSN 2025-2029)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EHR (component of the PSSN 2025-2029)",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Regional directory; the only Burkina Faso content is the strategy's name, period and adoption date, and a group statement on what seven countries' strategies contain."
+}

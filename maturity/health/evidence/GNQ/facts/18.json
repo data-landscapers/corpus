@@ -1,0 +1,94 @@
+{
+  "slug": "2025-01-01-sistema-informacion-sanitaria-guinea-ecuatorial",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "national",
+      "fact": "EHAS states that health data collection had been manual: facilities filled paper register sheets, which ministry staff periodically collected and transferred to spreadsheets (the IMA monthly activity report and HIMOD district sheet); no date is given for this prior state, so the document's published year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "IMA / HIMOD paper sheets and spreadsheets",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "EHAS states the first pilot was deployed between February and May 2025 so that health facilities in two districts, insular Baney and continental Añisok, could enter real data; no count of facilities is given.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "EHAS states that in the Baney and Añisok pilot (February to May 2025) data can be entered from the health facilities themselves with the DHIS2 Android capture app or web app, where digital means are available; otherwise entry is at the District Office.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "EHAS states that in the Baney and Añisok pilot (February to May 2025) data is entered at the District Offices where the health facility lacks digital means; otherwise the facility enters it.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "EHAS states the system was built for the health ministry (MINSABS), that data is centralised on a server in MINSABS offices, and that a local MINSABS team was trained from March 2024 to January 2025 to configure, implement and maintain DHIS2 and built its indicators and dashboards.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "EHAS states the project, worked on since 2022 with FRS, MINSABS and the University of Oslo, was financed by the Spanish cooperation agency AECID; no domestic funding is mentioned.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Between February and May 2025 the first DHIS2 pilot was deployed in the districts of Baney and Añisok, with real data entered from health facilities.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sistema de Información Sanitaria (SIS) on DHIS2, aggregate data modules",
+      "country_label": "Sistema de Información Sanitaria (SIS)",
+      "class": "hmis",
+      "platform": "DHIS2 (Android capture app and web app); 22 aggregate modules including morbidity, mortality, hospitalisations, vaccination, malaria, TB, HIV, nutrition and reproductive health",
+      "owner": "MINSABS (server at ministry offices); built by EHAS, FRS and the University of Oslo, financed by AECID",
+      "tiers": "health facilities and District Offices in the pilot districts of Baney and Añisok; tiers not named"
+    },
+    {
+      "system": "IMA / HIMOD paper sheets and spreadsheets",
+      "country_label": "IMA (Informe Mensual de Actividades); HIMOD (Hoja de Información y Monitoreo Distrital)",
+      "class": "hmis",
+      "platform": "paper register sheets transcribed into spreadsheets",
+      "owner": "Ministry of Health (MINSABS)",
+      "tiers": "register sheets filled at health facilities; transcription by ministry staff"
+    }
+  ],
+  "note": "The document is dated 2025 at year precision but describes events to May 2025. Pilot entry point is either facility or District Office, recorded as two rows. The pilot falls outside twelve months of October 2026."
+}

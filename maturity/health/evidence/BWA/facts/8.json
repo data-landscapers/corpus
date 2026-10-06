@@ -1,0 +1,70 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's analysis) states that DHIS2 is deployed nationally for aggregate reporting but data is typically collected on paper at facilities and entered later at district level; no date is given, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Data Landscapers review states that rural primary healthcare clinics predominantly record patient data in paper registers and forms at the point of service, with no evidence of majority EMR adoption in rural settings; no date is given, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "IPMS",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:16",
+      "fact": "The Data Landscapers review states that limited EMR pilots exist in some clinics, giving the IPMS rollout to 16 clinics before 2010 as its example; no denominator is given and 2009 stands for 'pre-2010'.",
+      "as_of": "2009",
+      "date_precision": "year",
+      "system": "IPMS",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "deployed nationally for aggregate reporting and specific programmes (malaria surveillance, HIV); entered at district level from facility paper"
+    },
+    {
+      "system": "IPMS",
+      "country_label": "IPMS",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "described as an EMR; rolled out to 16 clinics before 2010"
+    },
+    {
+      "system": "VisualDx CDSS",
+      "country_label": "VisualDx",
+      "class": "",
+      "platform": "VisualDx",
+      "owner": "",
+      "tiers": "clinical decision support; said to have faced infrastructure hurdles in public facilities"
+    },
+    {
+      "system": "Clinic connectivity",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "223 clinics connected by 2025"
+    }
+  ],
+  "note": "Passages file. The review also cites 18+ parallel systems and the eHealth Strategy 2020-24 without describing them; the source carries a caution that country figures are an AI-aided compilation."
+}

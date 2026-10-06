@@ -1,0 +1,60 @@
+{
+  "slug": "2026-10-02-tun-tunisienumerique-pacte-national-sante-signe",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Health Minister Mustapha Ferjani said at the signing of the National Health Pact on 1 October 2026 that the shared medical record, with the national health identifier and telemedicine, was being generalised nationwide after successful pilot phases; no facility count is given.",
+      "as_of": "2026-10-01",
+      "date_precision": "day",
+      "system": "dossier médical partagé",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Health Pact signed on 1 October 2026 by the health and communication-technologies ministers is described by the health minister as an agreement between the Ministry of Health and its partners, and he presents the shared medical record as the ministry's programme being generalised nationally.",
+      "as_of": "2026-10-01",
+      "date_precision": "day",
+      "system": "dossier médical partagé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical partagé",
+      "country_label": "dossier médical partagé",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "being generalised nationally after pilot phases; tiers not stated"
+    },
+    {
+      "system": "EVAX",
+      "country_label": "plateforme nationale de vaccination « EVAX »",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": "about 2,000 centres connected; 13 million doses tracked"
+    },
+    {
+      "system": "identifiant national de santé",
+      "country_label": "identifiant national de santé",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "being generalised nationally after pilot phase"
+    },
+    {
+      "system": "télémédecine",
+      "country_label": "télémédecine",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "being generalised nationally after pilot phase"
+    }
+  ],
+  "note": ""
+}

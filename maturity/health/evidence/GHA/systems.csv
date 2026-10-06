@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GHA,OneHealthEHR,OneHealthEHR,emr,"OneHealthEHR (offline-first, FHIR R4 / HL7)",OneHealthEHR Inc. (private company),"clinics and health centres; seven facilities across Liberia and Ghana, Ghana facilities not named",2026-09-28-lbr-gha-onehealthehr-goes-live
+GHA,DHIMS2,DHIMS2,hmis,DHIS2,,entered at district level from rural clinics' paper tallies,2026-03-31 Africa we have a data problem
+GHA,LHIMS,LHIMS,emr,,,district and regional hospitals and urban facilities in 16 regional capitals; being extended to health centres; not in most rural clinics,2026-03-31 Africa we have a data problem
+GHA,Simprints biometrics,Simprints biometrics,,Simprints,donor project,"select rural CHPS, e.g. 325 Eastern Region facilities (pilot)",2026-03-31 Africa we have a data problem
+GHA,DHIMS 2,District Health Information Management System II (DHIMS 2),hmis,DHIS2,,"CHPS zones (routine monthly reporting), sub-district and district offices",2026-02-02-chps-staffing-accountability-digital-integration-northern-ghana
+GHA,RMNCAH platform,"Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCAH) platform",,,,facility and CHPS level; takes quarterly Community Health Action Plans,2026-02-02-chps-staffing-accountability-digital-integration-northern-ghana
+GHA,Lightwave Health Information Management System (LHIMS),LHIMS,emr,Lightwave,vendor under Ministry of Health contract (contract expired),"public health facilities; 450 of 950 targeted facilities connected by December 2024, tiers not stated",2025-10-29-ghana-77m-health-data-contract-scandal-graphic
+GHA,Lightwave Health Information Management System (LHIMS),LHIMS,emr,Lightwave (cloud hosted in India),Lightwave (vendor); software not owned by the state,"450 of 950 contracted health facilities connected; hospitals named, tiers otherwise not stated",2025-10-29-ghana-ghims-replaces-lhims-health-data-system
+GHA,Ghana Health Information Management System (GHIMS),GHIMS,emr,,Ministry of Health,"public health facilities, not specified",2025-10-29-ghana-ghims-replaces-lhims-health-data-system
+GHA,Ghana Health Information Management System (GHIMS),GHIMS,emr,implemented by Axon Information Systems,Ministry of Health,"public health system; facilities listed for implementation, tiers not stated",2025-10-29-health-ministry-new-digital-system-nhis-graphic
+GHA,Lightwave Health Information Management System (LHIMS),LHIMS,emr,Lightwave,Lightwave Health Information Management System Limited (vendor),hundreds of health facilities contracted; hospitals named,2025-10-29-health-ministry-new-digital-system-nhis-graphic
+GHA,national DHIS2 system,national DHIS2 system,,DHIS2,"Ghana Health Service, supported by HISP Ghana and HISP UiO",,2025-04-03 Now is the time to invest in locally-owned health data systems
+GHA,District Health Information System (DHIS) e-tracker,DHIS e-tracker,tracker,DHIS2 Tracker,Ghana Health Service,"community health posts and health centres; deployed in 338 health facilities (GHS Director-General, March 2024)",2024-03-14-ghana-card-number-at-birth-system-launch
+GHA,Lightwave,lightwave,,Lightwave,,hospitals,2024-03-14-ghana-card-number-at-birth-system-launch
+GHA,Ghana Card Number at Birth System,Ghana Card Number at Birth,exchange,,"Ministry of Health, Ghana Health Service, Births and Deaths Registry and National Identification Authority","health facilities nationwide, as announced",2024-03-14-ghana-card-number-at-birth-system-launch
+GHA,District Health Information Management System (DHIMS2),DHIMS2,hmis,web-based,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,Ghana Integrated Logistics Management Information System (GhILMIS),GhILMIS,,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
+GHA,district management information system (DMIS),,hmis,,Ministry of Health,"district management office, entered from primary facilities' paper forms",2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries
+GHA,DHIS,,hmis,DHIS (District Health Information System) software,,"facilities, district and regional levels",2021-08-04 Health information systems in developing countries case of African countries
+GHA,DHIS2,,,DHIS2,,,2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square
+GHA,health management information system (HMIS),,,,,,2015-01-01-usaid-gha-evaluate-health-task-2015-evaluate-for-health---task-order

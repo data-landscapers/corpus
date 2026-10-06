@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-25-automated-standing-orders-app-chps",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Automated National Standing Orders (NSO) Mobile Application",
+      "country_label": "Automated National Standing Orders app",
+      "class": "community",
+      "platform": "mobile application; developed by the Community Health Practitioners Registration Board of Nigeria with the Health Information System Agency",
+      "owner": "Community Health Practitioners Registration Board of Nigeria (CHPRBN)",
+      "tiers": "community health practitioners at primary healthcare level; launched 25 October 2025, mandatory for all registered practitioners by 2027"
+    }
+  ],
+  "note": "A clinical decision-support app for community health practitioners (class community); the document describes no routine reporting or patient record system, so no hmis or emr fact."
+}

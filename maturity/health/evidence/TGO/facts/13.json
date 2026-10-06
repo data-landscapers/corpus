@@ -1,0 +1,140 @@
+{
+  "slug": "2025-12-24-togo-essential-quality-health-services-uhc-additional-financing",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The World Bank's additional-financing paper records 'No' at December 2025 for the establishment of an electronic health record system, a new indicator with targets of Yes by December 2027 or 2028, and describes the EHR as something to be introduced.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Electronic Health Record (EHR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The World Bank's results framework gives a baseline of 0 health facilities contracted with the national health insurance scheme holding an electronic health record system at December 2025, against a target of 50 (the results table also shows 60 and 70) by December 2028, out of about 335 contracted facilities; it does not separate primary clinics.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Electronic Health Record (EHR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank paper says that since October 2025 the health ministry (MoH-UHC) has been responsible for the health and insurance systems layer, including the EHR, and that the EHR pilot is supported by the ministry's national health information system division, DSNISI.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "Electronic Health Record (EHR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's additional financing of December 2025 pays for the EHR through performance-based conditions: EUR 866,112.50 on establishment of the system and EUR 173,223 for every 10 contracted facilities with an EHR, with USD 160,000 for equipment and implementation in the centres; no domestic budget line is stated.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Electronic Health Record (EHR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank project paper of December 2025 sets costed, dated targets for the EHR under sub-component 3.1.2 (US$6.50 million for digitalising the insurance scheme): a pilot over a representative sample of primary, secondary and tertiary facilities and laboratories, the system established by 2027-2028 and 50 contracted facilities equipped by December 2028; this is a donor project plan, not a national strategy.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Electronic Health Record (EHR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 24 December 2025 the World Bank put forward additional financing (a EUR 60.6 million credit and US$11 million in grants) that adds new performance-based conditions for establishing an electronic health record system in facilities contracted under the national health insurance scheme, starting with a pilot.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Electronic Health Record (EHR) system",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Health Record (EHR) system",
+      "country_label": "EHR",
+      "class": "emr",
+      "platform": "",
+      "owner": "MoH-UHC, with DSNISI support",
+      "tiers": "planned pilot in a representative sample of primary, secondary and tertiary facilities and laboratories; none in place at December 2025"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "District Health Information Software 2 (DHIS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "DSNISI, MoH-UHC",
+      "tiers": "data source for primary health care visits, deliveries, immunisation and tracer drug availability; tiers of entry not stated"
+    },
+    {
+      "system": "Digital Vaccine Passports through DHIS2",
+      "country_label": "Digital Vaccine Passports",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SIAMU platform",
+      "country_label": "SIAMU",
+      "class": "",
+      "platform": "",
+      "owner": "MoH-UHC",
+      "tiers": "connected with INAM, CNSS, EHR and DHIS2 in the planned architecture"
+    },
+    {
+      "system": "Patient, Provider, Facility and Product Registries",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "part of the national digital health and insurance interoperability architecture"
+    },
+    {
+      "system": "National Data Warehouse",
+      "country_label": "National Data Warehouse",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Wezou digital registration system",
+      "country_label": "Wezou",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "registration of pregnant women under the free maternal care programme"
+    },
+    {
+      "system": "School Assur digital registration system",
+      "country_label": "School Assur",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "registration of school-aged children"
+    },
+    {
+      "system": "LMIS",
+      "country_label": "Logistics Management Information System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only. The paper also says monitoring and data collection remain difficult at primary care level because the health information system is fragmented; it does not say where DHIS2 data is keyed, so no hmis fact is taken."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-malawi-digital-readiness-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information Systems (HMIS), such as DHIS2", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The one passage says only that HMIS such as DHIS2 run over the Government Wide Area Network for health data collection and reporting; nothing on governance, tiers, where data is keyed, clinics or a dated event."
+}

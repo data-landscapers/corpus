@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-khronicle-kofih-masaka-vht-smartphones",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": "Village Health Teams; 306 smartphones from KOFIH for VHTs in Masaka District (August 2026)"},
+    {"system": "national digital health systems handed to the Ministry in March 2026", "country_label": "national digital health systems", "class": "", "platform": "", "owner": "Ministry of Health, after 15 years of US government support", "tiers": "not stated; said to monitor HIV, tuberculosis and malaria and medicine supplies"}
+  ],
+  "note": "Devices for community health workers and the community system eCHIS only (classes enabling and community); the systems handed over in March 2026 are named without a description that would class them as HMIS or EMR."
+}

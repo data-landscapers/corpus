@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-01-thecitizen-tanzania-korea-ai-healthcare",
+  "facts": [],
+  "systems": [
+    {"system": "Hospital Information Systems (HIS)", "country_label": "HIS", "class": "", "platform": "", "owner": "", "tiers": "some hospitals; platforms do not always communicate with one another"},
+    {"system": "electronic prescription system", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Health (government, in development)", "tiers": "to link public and private healthcare providers; under development"},
+    {"system": "patient management systems", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "health facilities; integration planned"}
+  ],
+  "note": "Talks and stated plans only (KOTRA event, weekend before 2026-09-01): hospital information systems are named without saying they hold the clinical record, and an e-prescription system is in development; nothing stated on HMIS or on EMR tiers, digitisation or clinic coverage."
+}

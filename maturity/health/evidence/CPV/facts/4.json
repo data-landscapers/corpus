@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cabo-verde-simfar-pharmaceutical-market-monitoring-platform",
+  "facts": [],
+  "systems": [
+    {"system": "SIMFAR", "country_label": "Sistema Integrado de Monitorização do Mercado Farmacêutico (SIMFAR)", "class": "single-function", "platform": "", "owner": "Entidade Reguladora Independente da Saúde (ERIS)", "tiers": "national; follows the medicines circuit across the whole country, launched 29 July 2026, to be integrated with the customs system"}
+  ],
+  "note": "The only system named is SIMFAR, a medicines-market and stock monitoring platform launched on 29 July 2026: single-function, so it gives no HMIS or EMR fact."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-11-lesoleil-alioune-sall-kolda-starlink",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink satellite kits (New Deal Technologique universal connectivity programme)",
+      "country_label": "kits satellitaires Starlink",
+      "class": "enabling",
+      "platform": "Starlink",
+      "owner": "Ministère de la Communication, des Télécommunications et du Numérique, with Starlink Sénégal",
+      "tiers": "care centres ('centres de soins') named as a priority target, to ease telemedicine; none stated as connected"
+    }
+  ],
+  "note": "Connectivity only: first 200 of 1,000 donated Starlink kits launched at Kolda on 10 April 2026, with care centres a stated target. An enabling system, so no HMIS or EMR fact."
+}

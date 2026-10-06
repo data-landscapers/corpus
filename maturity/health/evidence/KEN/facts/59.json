@@ -1,0 +1,19 @@
+{
+  "slug": "2015-01-01-usaid-ken-national-hmis-afyain-2015-national-hmis-program-afyainfo---kenya",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "USAID's National HMIS Program, per its IATI record, committed US$18,534,492 over 2015-2021 (US$20,804,957 disbursed) to support the AfyaInfo platform and strengthen collection, analysis and use of health data across Kenya's public health system; the record names no domestic funding.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "National Health Management Information System (AfyaInfo)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "National Health Management Information System (AfyaInfo)", "country_label": "National HMIS; AfyaInfo platform", "class": "hmis", "platform": "", "owner": "", "tiers": "across Kenya's public health system, tiers not given"}
+  ],
+  "note": ""
+}

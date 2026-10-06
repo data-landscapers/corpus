@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude",
+  "facts": [],
+  "systems": [
+    {"system": "Laboratory information management platform (Uma Só Saúde)", "country_label": "plataforma para a gestão de informação laboratorial no âmbito de Uma Só Saúde", "class": "single-function", "platform": "to be developed; LIS/LIMS, HL7/FHIR conformance required", "owner": "Ministério da Saúde (INSP and GTCIS follow the work; UGPE contracts)", "tiers": "planned for 20 laboratories: 6 INSP, 12 public clinical laboratories, 1 veterinary, 1 INIDA; not yet built"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "SIS", "country_label": "Sistema de Informação Sanitária (SIS)", "class": "", "platform": "built by NOSi; IGRP, Talend and WSO2, moving from Oracle to PostgreSQL", "owner": "Ministério da Saúde, developed and maintained by NOSi", "tiers": ""},
+    {"system": "PDEX", "country_label": "PDEX", "class": "exchange", "platform": "state interoperability platform exposing REST APIs", "owner": "State of Cabo Verde", "tiers": "all data interoperability between state institutions, the health ministry's included"}
+  ],
+  "note": "Terms of reference (file dated 28 April 2026) to procure a laboratory information system for 20 laboratories, a single-function system not yet built. DHIS2 and the SIS are named only as systems to integrate with, with no description of what they record, so neither is classed and no HMIS or EMR fact is stated."
+}

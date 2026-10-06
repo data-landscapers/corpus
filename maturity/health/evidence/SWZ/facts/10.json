@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-07-even-on-the-rainiest-afternoons-in-eswatini",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "share:73%", "fact": "The Data.FI project says CMIS is used in 73% of the country's health facilities, with 233 live sites; the share is of all health facilities, not of primary clinics alone, and no denominator is given (no date stated, published date used).", "as_of": "2026-04-07", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Data.FI describes CMIS as an open-source, government-owned electronic medical record whose records are backed up in government-owned cloud systems, with the Ministry of Health working on its connectivity (no date stated, published date used).", "as_of": "2026-04-07", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "Data.FI says clinicians open a client's full record in CMIS on a unique ID number and are led through guided modules at their point of service, and that the record is available to clinicians at another clinic if the patient moves district (no date stated, published date used).", "as_of": "2026-04-07", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2;T4", "fact": "Data.FI describes CMIS in use in the outpatient department of Piggs Peak Government Hospital and at local health clinics, within 233 live sites; it names no other tier (no date stated, published date used).", "as_of": "2026-04-07", "date_precision": "day", "system": "Client Management Information System (CMIS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "emr", "platform": "open-source (not named)", "owner": "Government of Eswatini / Ministry of Health, supported by the US-funded Data.FI project and MTN Eswatini on connectivity", "tiers": "233 live sites, 73% of health facilities; a government hospital outpatient department and local clinics are described"}
+  ],
+  "note": ""
+}

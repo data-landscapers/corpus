@@ -1,0 +1,212 @@
+{
+  "slug": "2025-12-19-afghs-mou-nigeria",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "In the health MOU signed with the United States on 19 December 2025, Nigeria commits to use NDHI-aligned digital medical record solutions as its EHRs and to roll them out in 20% of facilities by 2026, 40% by 2027, 60% by 2028, 80% by 2029 and 100% by 2030, with more than 50% of encounters loaded within one year of rollout in a facility and 90% within two.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "NDHI-aligned digital medical record solutions (government EHRs)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The MOU of 19 December 2025 states that the US Government plans to fund approximately US$28 million for an enhanced electronic medical record system over 2026-2030 and to support improvement and rollout of the existing EHR, out of US$196 million of US data-systems funding.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "NDHI-aligned digital medical record solutions (government EHRs)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The MOU of 19 December 2025 records a planned Federal Republic of Nigeria commitment to digitisation and data systems of US$13,793,103 in 2026 rising to US$33,817,048 in 2030 (US$119,025,381 in all, 38% of the joint data-systems total); it is not broken down by system, so the EHR's share is not stated.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "NDHI-aligned digital medical record solutions (government EHRs)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "In the MOU of 19 December 2025 Nigeria commits to use a data repository in line with the Nigeria Digital Health Architecture and DHIS2 as its national health data warehouse, which is expected to collect and report all the MOU's outcome and process metrics.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The MOU of 19 December 2025 states that the US Government plans to fund approximately US$50.5 million for DHIS2 as Nigeria's national health data warehouse over 2026-2030 (figure read from a degraded text layer).",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The MOU of 19 December 2025 records a planned Federal Republic of Nigeria commitment to digitisation and data systems of US$13,793,103 in 2026 rising to US$33,817,048 in 2030 (US$119,025,381 in all); it is not broken down by system, so DHIS2's share is not stated.",
+      "as_of": "2025-12-19",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NDHI-aligned digital medical record solutions (government EHRs)",
+      "country_label": "EHR",
+      "class": "emr",
+      "platform": "not named; existing EHRs or equivalent OCR technologies",
+      "owner": "Federal Republic of Nigeria, with US support for improvement and rollout",
+      "tiers": "target of 20% of facilities by 2026 to 100% by 2030; current use not stated"
+    },
+    {
+      "system": "state-level EHRs",
+      "country_label": "state-level EHRs",
+      "class": "emr",
+      "platform": "",
+      "owner": "state governments",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2 (national health data warehouse)",
+      "country_label": "national health data warehouse",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Federal Republic of Nigeria, US-supported",
+      "tiers": "national; facility tiers not stated"
+    },
+    {
+      "system": "ViVA EMR",
+      "country_label": "ViVA EMR",
+      "class": "tracker",
+      "platform": "",
+      "owner": "US Government-funded tuberculosis and HIV system (US$0.38M in 2026)",
+      "tiers": "not stated"
+    },
+    {
+      "system": "NigeriaMRS",
+      "country_label": "NigeriaMRS",
+      "class": "tracker",
+      "platform": "",
+      "owner": "US Government-funded tuberculosis and HIV system (US$1.35M in 2026)",
+      "tiers": "not stated"
+    },
+    {
+      "system": "LAMIS Plus",
+      "country_label": "LAMIS Plus",
+      "class": "tracker",
+      "platform": "",
+      "owner": "US Government-funded tuberculosis and HIV system (US$1.05M in 2026)",
+      "tiers": "not stated"
+    },
+    {
+      "system": "National Data Repository",
+      "country_label": "National Data Repository",
+      "class": "tracker",
+      "platform": "",
+      "owner": "US Government-funded tuberculosis and HIV system",
+      "tiers": "national"
+    },
+    {
+      "system": "NDARS",
+      "country_label": "NDARS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "cited only as the source of the HIV process metrics"
+    },
+    {
+      "system": "Nigeria Health Logistics Management Information System (NHLMIS)",
+      "country_label": "NHLMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Federal Republic of Nigeria; US funding of about US$1.6M",
+      "tiers": "to be rolled out across the government-run health commodity supply chain by end of 2026"
+    },
+    {
+      "system": "M-Supply",
+      "country_label": "M-Supply",
+      "class": "single-function",
+      "platform": "mSupply",
+      "owner": "Federal Republic of Nigeria; US funding of about US$2.14M",
+      "tiers": "warehouses: 6 by end of 2026, 15 by end of 2027"
+    },
+    {
+      "system": "Laboratory Information Management System (LIMS)",
+      "country_label": "LIMS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Federal Republic of Nigeria; US funding of about US$0.53M",
+      "tiers": "all national and regional laboratories by end of 2026"
+    },
+    {
+      "system": "SORMAS",
+      "country_label": "SORMAS",
+      "class": "single-function",
+      "platform": "SORMAS",
+      "owner": "Federal Republic of Nigeria; US funding of about US$7.76M",
+      "tiers": "all applicable sites by end of 2026"
+    },
+    {
+      "system": "electronic Community Health Information System (eCHIS)",
+      "country_label": "eCHIS",
+      "class": "community",
+      "platform": "",
+      "owner": "Government of Nigeria",
+      "tiers": "community health workers; intended, with data linked to the National Health Information Exchange"
+    },
+    {
+      "system": "Nigeria Digital Health Architecture exchanges (health information exchange, health services exchange, health insurance claims exchange)",
+      "country_label": "National Health Information Exchange",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Republic of Nigeria",
+      "tiers": "national; envisaged"
+    },
+    {
+      "system": "health worker registry and health facility registry",
+      "country_label": "health worker registry; health facility registry",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Republic of Nigeria",
+      "tiers": "to be expanded to all 36+1 states"
+    },
+    {
+      "system": "NADIS",
+      "country_label": "NADIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as a public health data system, not described"
+    },
+    {
+      "system": "AMRISS",
+      "country_label": "AMRISS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as a public health data system, not described"
+    },
+    {
+      "system": "INHESS",
+      "country_label": "INHESS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as a public health data system, not described"
+    }
+  ],
+  "note": "The MOU is a statement of intent for 2026-2030, not a record of deployment; no tier, place of digitisation or clinic count is stated for any system. The PDF text layer is degraded, so dollar figures are read against the funding tables."
+}

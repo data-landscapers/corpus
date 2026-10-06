@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities",
+  "facts": [],
+  "systems": [
+    {"system": "multi-tenant electronic medical records pilot", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": "proposed; stakeholders converged on it as the next step to test interoperability, not stated as running"}
+  ],
+  "note": "States that Ethiopia's digital health ecosystem holds more than 70 siloed platforms and over 200 pilots, none named, and that stakeholders chose a multi-tenant EMR pilot as the next step; the pilot is a proposal with no tier, site or date, so no fact is recorded."
+}

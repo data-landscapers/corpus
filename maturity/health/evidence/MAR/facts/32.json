@@ -1,0 +1,44 @@
+{
+  "slug": "2022-12-09-maroc-loi-cadre-06-22-systeme-national-sante",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Article 28 of framework law 06-22, promulgated on 9 December 2022, creates an integrated national health information system in which all data on public and private health establishments, their activities and their resources are to be collected and processed, to monitor and evaluate the health system's performance; Article 33 leaves implementation to later legislative and regulatory texts.",
+      "as_of": "2022-12-09",
+      "date_precision": "day",
+      "system": "système d'information sanitaire national intégré",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Article 29 of framework law 06-22, promulgated on 9 December 2022, creates within the national health information system an integrated computer system called the shared medical record, to identify, follow and evaluate each patient's care pathway, subject to personal data protection law; Article 33 leaves implementation to later legislative and regulatory texts.",
+      "as_of": "2022-12-09",
+      "date_precision": "day",
+      "system": "dossier médical partagé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système d'information sanitaire national intégré",
+      "country_label": "système d'information sanitaire national intégré",
+      "class": "hmis",
+      "platform": "",
+      "owner": "the State (created by framework law 06-22; no operating body named)",
+      "tiers": "all public and private health establishments, as the law's stated scope"
+    },
+    {
+      "system": "dossier médical partagé",
+      "country_label": "dossier médical partagé",
+      "class": "emr",
+      "platform": "",
+      "owner": "the State (created by framework law 06-22; no operating body named)",
+      "tiers": ""
+    }
+  ],
+  "note": "A framework law: it creates both systems in law and states nothing about deployment, tiers in use or where data is keyed. plan:current is recorded because the law names each system; it is a statute, not a costed plan, and names no owner or budget."
+}

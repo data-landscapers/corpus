@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "UNDP's IDT4M report for July to September 2025 describes the Electronic Medical Records systems linked to the National Registration Bureau's unique identification number database in the Karonga District pilot as the Ministry of Health's EMR systems.", "as_of": "2025-06-30", "date_precision": "day", "system": "Electronic Medical Records (EMR) systems", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "UNDP reports that the lessons-learnt report on linking unique identification numbers from National IDs and birth certificates with Electronic Medical Records, piloted in Karonga District, went to the Ministry of Health's senior management team on 30 June 2025, which approved it and recommended scaling the initiative up nationwide to other districts.", "as_of": "2025-06-30", "date_precision": "day", "system": "Electronic Medical Records (EMR) systems", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR) systems", "country_label": "EMR", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "Karonga District pilot of National ID linkage; facilities and tiers not stated"}
+  ],
+  "note": "Passages file; the EMR systems are not named and no tiers, place of data entry or facility counts are given."
+}

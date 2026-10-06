@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-30-implementation-strategies-to-promote-e-tracker-use-in-childhood-immunization-rwanda",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T3", "fact": "The study's authors (University of Rwanda and Rwanda Biomedical Center) state that HMIS reports on immunisation indicators for October to December 2022 were held for all 520 primary health facilities in Rwanda and compared with e-Tracker data, 472 of the 520 showing 90 to 100 per cent consistency; the document does not say where the HMIS reports are keyed.", "as_of": "2022-12", "date_precision": "month", "system": "Health Management Information System (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "Rwanda Biomedical Center holds the national database for immunisation indicators", "tiers": "primary health facilities (520); routine aggregate reports"},
+    {"system": "e-Tracker", "country_label": "e-Tracker (electronic immunization registry)", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health; National Immunization Program / Expanded Program on Immunization at the Rwanda Biomedical Center", "tiers": "more than 500 public health facilities, nationwide; primary health facilities; data entered by immunisation nurses, in some facilities keyed from paper afterwards by a data manager (2023)"},
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "integrated with the e-Tracker in early 2022"}
+  ],
+  "note": "The subject is the immunisation e-Tracker, a tracker: introduced 2019, phased rollout September 2019 to January 2020, ministry directive of October 2022 ending paper immunisation records, parallel paper still kept in many facilities in 2023. None of that is a fact under hmis or emr. The one hmis fact is incidental; 'primary health facilities' is given as T3 and the document does not separate health centres from health posts."
+}

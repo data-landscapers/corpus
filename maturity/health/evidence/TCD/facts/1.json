@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-13-guinea-kouma-academy-hospital-digitisation-financing",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Guinéenews reports that the Guinean start-up Kouma Academy has signed a partnership with Chad's Ministry of Public Health and Prevention for the national digitalisation of its hospitals with the Visa Medical digital medical record; no signing date or deployment in Chad is given, so the date is the article's publication date.", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "Guinéenews states that Kouma Academy supplies Visa Medical under a 'Zéro Dette' model in which the company invests its own funds in the equipment and infrastructure of public hospitals rather than the state borrowing, and has an agreement with Chad's health ministry; no date is given, so the date is the article's publication date.", "as_of": "2026-08-13", "date_precision": "day", "system": "Visa Medical", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Visa Medical", "country_label": "Visa Medical", "class": "emr", "platform": "Visa Medical (Kouma Academy)", "owner": "Kouma Academy, under an agreement with the Ministère de la Santé publique et de la Prévention", "tiers": "hospitals; agreement signed for national digitalisation, no deployment in Chad stated"}
+  ],
+  "note": ""
+}

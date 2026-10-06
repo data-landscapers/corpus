@@ -1,0 +1,31 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BFA,EHR (component of the PSSN 2025-2029),,emr,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
+BFA,DHIS2/Endos,Endos,hmis,DHIS2,,entered at district level from CSPS paper forms,2026-03-31 Africa we have a data problem
+BFA,REC-Maternity/IeDA,REC,tracker,tablet app,,"more than 1,600 CSPS in select districts (556 by 2022), maternal and child consultations, parallel to paper and not integrated",2026-03-31 Africa we have a data problem
+BFA,EMRs (unnamed),,emr,,,pilots; absent at primary level,2026-03-31 Africa we have a data problem
+BFA,DHIS2,,hmis,DHIS2,,nationwide including all CSPS; data entered by district statistics teams from CSPS paper forms,2026-01-20-facility-based-digital-intervention-district-data-quality-burkina-faso
+BFA,Registre Electronique de Consultations-Maternité (REC-Maternity),REC-Maternité,tracker,tablet job aid within the IeDA project,Terre des hommes in partnership with the Ministry of Health,CSPS only; first deployed January 2019 in Toma district; 14 health districts and 556 CSPS as of March 2022,2026-01-20-facility-based-digital-intervention-district-data-quality-burkina-faso
+BFA,IeDA (Integrated electronic Diagnostic Approach),IeDA,tracker,,"Terre des hommes in partnership with the Ministry of Health, since 2014",primary health facilities; childhood-illness (IMCI) consultations,2026-01-20-facility-based-digital-intervention-district-data-quality-burkina-faso
+BFA,ENDOS,ENDOS,hmis,DHIS2 (District Health Information Software),Ministry of Health,,2025-09-29-africa-frontline-first-burkina-faso-digital-community-health-roadmap
+BFA,Community health worker (ASBC) digital tools,,community,,"Ministry of Health, Directorate of Community Health; Project BIRCH funded by the Global Fund and implemented by Living Goods",community level; most ASBCs still on paper tools,2025-09-29-africa-frontline-first-burkina-faso-digital-community-health-roadmap
+BFA,Endos-BF (entrepôt de données sanitaires),Endos-BF,hmis,,,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,Saisie décentralisée des données de routine dans les formations sanitaires,,hmis,,,"health facilities, being scaled up",2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,"REC-PCIME (registre électronique de consultation, prise en charge intégrée des maladies de l'enfant)",REC / PCIME-REC,tracker,,,stated coverage 84% of the country,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,REC-maternité,REC-maternité,tracker,,,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,eSanteCom,eSanteCom,community,,,community health workers (ASBC); extension to the remaining health districts budgeted for 2025-2026,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,NetSIGL 2.0 (système électronique intégré de gestion de la logistique),NetSIGL 2.0,single-function,,,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,ReDoP-BF (répertoire des données du paludisme),ReDoP-BF,single-function,,,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,MS Surveillance (plateforme de gestion des données de COVID-19),MS Surveillance,single-function,,,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,SIH (système d'information hospitalier),SIH,,,,planned: installation in hospitals budgeted for 2025-2026,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,Registre électronique de consultation unique,,,,,planned: budgeted for 2025-2026,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,REV (registre électronique de vaccination),REV,,,,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,EDM (écosystème digital minimal),EDM,,,,extension budgeted for 2025-2026,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,Mini-datacenter du ministère de la Santé,,enabling,,Ministry of Health,,2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029
+BFA,"SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",SNIS; Endos-BF (entrepôt de données sanitaires),hmis,,"Ministry of Health: DGESS, through its Direction des statistiques sectorielles et de l'évaluation","CHU and CHR (SPIH/SIM); district teams (CISSE); first-level facilities CSPS, CM and CMA where decentralised entry applies; regional directorates enter coordination data",2023-07-01-mshp-manuel-procedures-gestion-information-sanitaire
+BFA,Sous-système d'information pour la surveillance épidémiologique (TLOH),TLOH (télégramme lettre officielle hebdomadaire),single-function,,Ministry of Health: Direction de la protection de la santé de la population,,2023-07-01-mshp-manuel-procedures-gestion-information-sanitaire
+BFA,Sous-système d'information à assise communautaire,registre ASBC,community,,,"community health workers (ASC, ASBC); their data feed the monthly activity report",2023-07-01-mshp-manuel-procedures-gestion-information-sanitaire
+BFA,IeDA (Integrated e-Diagnosis Approach) / REC (Registre Electronique de Consultation),REC,tracker,"mobile application on tablets, developed and maintained by Dimagi",Terre des hommes with the Ministry of Health; handover to the ministry stated as an aim,primary health centres: 86% of all primary health centres in Burkina Faso by the end of 2022; used in 90% of under-five consultations where installed,2023-01-01-tdh-ieda-digital-solution-burkina-faso
+BFA,IeDA-maternity,,tracker,IeDA,Terre des hommes with the Ministry of Health,implemented in Burkina Faso in 2021,2023-01-01-tdh-ieda-digital-solution-burkina-faso
+BFA,National Health Information System,,,,"Ministry of Health, Director of Sectoral Statistics quoted",,2023-01-01-tdh-ieda-digital-solution-burkina-faso
+BFA,Endos-BF (Entrepôt de données sanitaires du Burkina Faso),Endos-BF,,,,,2025-12-01-bfa-insd-sds5-schema-directeur-statistique-2026-2030
+BFA,SNIS (Système national d'information sanitaire),SNIS,,,,,2025-12-01-bfa-insd-sds5-schema-directeur-statistique-2026-2030

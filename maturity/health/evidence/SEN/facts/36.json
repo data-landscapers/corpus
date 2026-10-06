@@ -1,0 +1,19 @@
+{
+  "slug": "2026-09-08-sen-primature-declaration-politique-generale-lo",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "In his general policy declaration to the National Assembly on 8 September 2026 the Prime Minister committed the Government, over 2026-2034, to deploy the Dossier Patient Informatisé alongside an updated health map and the health observatory; no cost, budget line or coverage figure is given.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "Dossier Patient Informatisé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Dossier Patient Informatisé", "country_label": "Dossier Patient Informatisé", "class": "emr", "platform": "", "owner": "Government of Senegal", "tiers": "to be deployed 2026-2034; tiers not stated"}
+  ],
+  "note": "The plan here is a government policy declaration, not a costed sector strategy; the passage states an intention to deploy and nothing about what is in use."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A regional deal record: USAID's Digital Square grant to PATH (US$111.3m, 2016-2026) lists Tanzania among 24+ countries and names DHIS2 with no description of what it does there; nothing is stated about Tanzania's own systems."
+}

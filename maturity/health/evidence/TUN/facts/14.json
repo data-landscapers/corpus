@@ -1,0 +1,70 @@
+{
+  "slug": "2025-04-02-worldbank-tunisia-health-system-strengthening-pid",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The World Bank's appraisal-stage PID states that the EHR (Dossier Médical Informatisé, DMI) is fully installed and used in 50 per cent of university hospitals and installed but partially used in the other 50 per cent; in regional hospitals 32 per cent are fully operational, 52 per cent installed but partially used and 16 per cent have none; no counts of hospitals are given and the figures are undated, so the PID's date of 2 April 2025 is used.",
+      "as_of": "2025-04-02",
+      "date_precision": "day",
+      "system": "Dossier Médical Informatisé (DMI) / EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The World Bank PID states that in district hospitals and primary health centres (CSBs) EHR systems are neither installed nor used, against a stated base of over 2,000 CSBs; the statement is undated, so the PID's date of 2 April 2025 is used.",
+      "as_of": "2025-04-02",
+      "date_precision": "day",
+      "system": "Dossier Médical Informatisé (DMI) / EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The World Bank PID, describing primary health care, states that the health system remains largely paper-based, that the Electronic Health Records pilot (DMI) faces connectivity and functionality issues, and that there is no unified registry for chronic conditions; undated, so the PID's date of 2 April 2025 is used.",
+      "as_of": "2025-04-02",
+      "date_precision": "day",
+      "system": "Dossier Médical Informatisé (DMI) / EHR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Dossier Médical Informatisé (DMI)",
+      "country_label": "Dossier Médical Informatisé (DMI); Electronic Health Records (EHR)",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "university hospitals: 50% fully installed and used, 50% installed and partially used; regional hospitals: 32% full, 52% partial, 16% none; district hospitals and CSBs: none; a DMI pilot in primary care with connectivity and functionality issues"
+    },
+    {
+      "system": "comprehensive national PHC information system",
+      "country_label": "comprehensive national PHC information system",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health (implementing agency); deployment to be supported under Component 2 (US$50M) of the proposed World Bank project",
+      "tiers": "primary health care; planned, not deployed"
+    },
+    {
+      "system": "national management system for disease surveillance and response",
+      "country_label": "national management system for disease surveillance and response",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned under Component 1; existing surveillance platforms described as not integrated"
+    },
+    {
+      "system": "SAMU pre-hospital emergency reporting",
+      "country_label": "SAMU (six departments) and 37 SMUR units",
+      "class": "",
+      "platform": "paper reports",
+      "owner": "",
+      "tiers": "pre-hospital emergency services; no centralised data collection and no integration with hospital or EHR records"
+    }
+  ],
+  "note": "The record is an excerpt, truncated at paragraph 21 of the PID. The national PHC information system is not described, so it is unclassified and its World Bank financing (proposed US$108M IBRD plus US$17.2M Pandemic Fund, appraisal stage, approval estimated 29 May 2025) gives no fact. The PID calls the health information system 'inefficient' and gives nothing on routine aggregate reporting, so no hmis fact. Tier mapping used: university hospitals T1, regional hospitals T2, district hospitals T2, CSBs T3/T4."
+}

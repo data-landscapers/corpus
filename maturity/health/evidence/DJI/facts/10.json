@@ -1,0 +1,44 @@
+{
+  "slug": "2025-04-19-worldbank-p178033-isr-djibouti-health-system-strengthening",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:69%",
+      "fact": "The World Bank implementation status report for the Health System Strengthening Project (P178033) records that 69% of health facilities entered data directly into DHIS2 by 31 December 2024; the share is of health facilities, not of primary clinics alone, no numerator or denominator is given, and the figure stands in the capture's summary note, the results table itself not being reproduced.",
+      "as_of": "2024-12-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The World Bank report records that by 31 December 2024 69% of health facilities entered their data directly into DHIS2 while the others still used paper submitted onward; the statement stands in the capture's summary note, the results table itself not being reproduced.",
+      "as_of": "2024-12-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "69% of health facilities entering data directly (31 December 2024); the rest on paper submitted onward"
+    },
+    {
+      "system": "national logistics information system (mSupply/eLMIS)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "mSupply",
+      "owner": "",
+      "tiers": "23 of 62 facilities connected (37%) against a 65% target, 31 December 2024"
+    }
+  ],
+  "note": "Excerpt capture: the body carries objective, components, ratings and the PBF/DFF pilot narrative only. The DHIS2 and mSupply/eLMIS figures come from the file's frontmatter note, which says they are drawn from the report's results table; the parent should weigh that. The DHIS2 system is classed hmis on the description of facilities' data entry; the note does not say what data."
+}

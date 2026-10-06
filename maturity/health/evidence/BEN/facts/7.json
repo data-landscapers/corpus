@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-21-lanouvelletribune-telemedecine-alafia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Alafia.com",
+      "country_label": "plateforme Alafia.com",
+      "class": "community",
+      "platform": "",
+      "owner": "Ministry of Digital Affairs with the Ministry of Health",
+      "tiers": "community health workers with tablets, in households and villages; data centralised in real time"
+    }
+  ],
+  "note": "The only system described is Alafia.com, recently launched (reported 21 November 2025) for community health workers to record household health information, symptoms and suspect cases on tablets: class community, so no fact. The minister also states ambitions with no system named: a health data processing centre and the interconnection of hospitals, centres and pharmacies; and enabling works under way (fibre at the CNHU, centralised scanner reading, mini digital centres in remote areas such as Sinendé). Nothing is said of routine facility reporting or patient records in facilities."
+}

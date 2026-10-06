@@ -1,0 +1,26 @@
+{
+  "slug": "2025-01-01-who-emro-egypt-crvs-country-questionnaire",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "Egypt's answers to the WHO EMRO civil registration questionnaire state that notifications made at health offices go as copies to the health department (district) level, where they are processed electronically into the Ministry of Health's national health information system, then reviewed at directorate and central level; work is electronic from the directorates and automation of the health offices is under implementation, with a pilot of electronic registration at health-office level in some governorates. The document describes this flow for birth and death data only and carries no date of its own beyond the published year; the latest year it cites is 2011.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National health information system",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National health information system",
+      "country_label": "National health information system (Ministry of Health - Health Information System)",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health and Population; statistics published with the National Information Center for Health and Population",
+      "tiers": "Electronic from the health department (district) level through the health directorate to the central level; health offices notify on paper, their automation under implementation"
+    }
+  ],
+  "note": "Two cautions for the parent. The system is named the national health information system but is described only through birth and death notifications, so on the typology it may be single-function, not hmis. And the content is far older than the published year: its latest figures are for 2011, so the as_of of 2025 is the document's published date, not the date the described position held."
+}

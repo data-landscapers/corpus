@@ -1,0 +1,12 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current",
+     "fact": "A literature review of 12 African countries' health information systems, carried out February to July 2019, found Malawi the only one of the 12 with a national strategy for its health information system to which all actors, donors included, must align, accompanied by a procedural guide; the other 11 ran on project strategies.",
+     "as_of": "2019", "date_precision": "year", "system": "national health information system (DHIS-based data warehouse)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "national health information system (DHIS-based data warehouse)", "country_label": "health management information system", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "Regional review; the only Malawi-specific statement is the national strategy. The review covers literature from 2005 to 2019 and its Malawi sources are older than the review."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2024-09-18-moh-emrs-implementation-guidelines",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's EMRS implementation guidelines, published 18 September 2024, name the Ministry as owner, its Division of Health Information Management as coordinator of public-sector design and development, and the national Ministry team as system administrator, with local governments leading implementation in districts and cities.", "as_of": "2024-09-18", "date_precision": "day", "system": "Electronic Medical Records System (EMRS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Health's guidelines of 18 September 2024 set a framework for implementing the EMRS nationwide in all public and private health facilities, aligned with the Uganda Health Information and Digital Health Strategic Plan 2020/21-2024/25 and to be reviewed annually.", "as_of": "2024-09-18", "date_precision": "day", "system": "Electronic Medical Records System (EMRS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records System (EMRS)", "country_label": "EMRS", "class": "emr", "platform": "", "owner": "Ministry of Health, Division of Health Information Management", "tiers": "Intended for all service delivery points in public and private health facilities; guidelines require patient registration with a unique identifier and longitudinal tracking of services"},
+    {"system": "eHMIS", "country_label": "eHMIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "ELMIS", "country_label": "Electronic Logistic Management Information Systems", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Captured body is an excerpt cut off in section 2.6; governance, deployment and monitoring chapters were not available to read."
+}

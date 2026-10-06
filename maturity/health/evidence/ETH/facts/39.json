@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-ec-eth-009-technical-assistance-to-develop-health-insurance",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Health Insurance Information System",
+      "country_label": "Health insurance information system (SHI and CBHI)",
+      "class": "",
+      "platform": "",
+      "owner": "Ethiopian Health Insurance Agency (EHIA)",
+      "tiers": ""
+    }
+  ],
+  "note": "EU grant (EUR 1,345,910, 2021-2024) for a health insurance member enrolment and claims system; it is neither routine facility reporting nor a patient record, so no HMIS or EMR fact."
+}

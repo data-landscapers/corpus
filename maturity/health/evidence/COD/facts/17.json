@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-10-sanru-lancement-numerisation-dossier-patients-armee-salut",
+  "facts": [],
+  "systems": [
+    {"system": "Numérisation du dossier des patients (Visa Médical)", "country_label": "Renforcement des capacités et numérisation du dossier des patients – Armée du Salut/RD Congo", "class": "tracker", "platform": "Visa Médical", "owner": "Armée du Salut (implementer), SANRU Asbl (principal recipient), funded by SANOFI, technical support from Visa Médical", "tiers": "Salvation Army health facilities (formations sanitaires); number not stated"}
+  ],
+  "note": "Launched 10 March 2026. The document describes the digitised patient record as serving the follow-up of diabetic and hypertensive patients only, so it is classed as a one-programme tracker and gives no emr fact; the parent should weigh this against document 2, which describes the same product (Visa Medical) as a general patient record in Guinea. Funding is SANOFI; the Ministry of Public Health attended and the Provincial Health Division proclaimed the launch."
+}

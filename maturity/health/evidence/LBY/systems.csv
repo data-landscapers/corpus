@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LBY,Health Number System,Health Number System,,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
+LBY,Unified electronic system of the National Diabetes Authority,المنظومة الإلكترونية الموحدة,tracker,,National Diabetes Authority,"diabetes and endocrinology centres, with data integration between the centres and the Authority",2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada
+LBY,DHIS2,DHIS2,hmis,DHIS2,,adopted nationally 2018; piloted in limited primary health care centres (e.g. 6 sites); aggregate reporting and surveillance,2026-03-31 Africa we have a data problem
+LBY,"Speetar ""Health Dots"" e-clinics",Health Dots,,,Speetar (donor project),pilots targeting the rural south,2026-03-31 Africa we have a data problem
+LBY,DHIS2,regional Health Information System (DHIS2),hmis,DHIS2,"Ministry of Health, with the Centre for Health Information and Documentation; WHO technical support",use at national and regional levels; data entry called for from all health institutions,2025-11-07-libya-who-national-digital-health-system
+LBY,Integrated electronic system for tracking the movement of medicines,منظومة إلكترونية متكاملة لتتبع حركة الأدوية,single-function,,Ministry of Health,"links the Ministry's pharmacy department, the Medical Supply Organisation and hospital pharmacy departments; tracks medicines from arrival to dispensing to hospitals and health facilities",2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya
+LBY,District Health Information System (DHIS-2),DHIS-2,hmis,DHIS2,,"being implemented, piloting stage (2021); not in routine use at national or local level",2024-06-11-rapid-mixed-methods-assessment-libya-primary-care-system
+LBY,national Health Information System,Health Information System,hmis,,,national; collates facility-level data from paper records,2024-06-11-rapid-mixed-methods-assessment-libya-primary-care-system
+LBY,National Centre for Disease Control epidemiological reporting,,single-function,,National Centre for Disease Control,,2024-06-11-rapid-mixed-methods-assessment-libya-primary-care-system
+LBY,District Health Information Software (DHIS2),DHIS2,hmis,DHIS2,,,2024-01-01-who-emro-libya-annual-report-2023
+LBY,electronic tools for standardized registration of vital statistics,,,,,,2024-01-01-who-emro-libya-annual-report-2023
+LBY,DHIS2,"نظام المعلومات الصحية المناطقي (DHIS2), www.dhis2ly.ly",hmis,DHIS2,"Health Information and Documentation Centre, Ministry of Health","activated nationally; dozens of training courses for staff of health facilities, municipalities and health regions",2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi
+LBY,Health statistical information system,نظام المعلومات الإحصائي الصحي,,hosted on Al-Madar cloud,"Health Information and Documentation Centre, Ministry of Health",,2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi
+LBY,"unified health identification number and electronic medical record system (recommended, not built)",,emr,,,,2026-08-26-libyaherald-libyan-experts-forum-recommendations

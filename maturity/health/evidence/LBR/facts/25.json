@@ -1,0 +1,9 @@
+{
+  "slug": "2023-08-29-dhis2-liberia-hiv-tracker",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 Tracker for HIV client-level data", "country_label": "DHIS2 Tracker (HIV), National AIDS and STI Control Program", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "EpiC project (FHI 360, PEPFAR/USAID-funded) with the National AIDS and STI Control Program; hosted on the EpiC cloud server, with a Ministry of Health plan to migrate it to its own server", "tiers": "21 PEPFAR-supported HIV treatment sites since 2021, covering 70% of people on treatment; data keyed by data entry clerks from paper registers; rollout to 900+ non-PEPFAR facilities planned"},
+    {"system": "DHIS2 Tracker, Key Population program", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Plan International", "tiers": ""}
+  ],
+  "note": "The system described is a one-programme patient tracker (HIV), which the typology notes and does not assess, so no fact. The article states that 91% of HIV records in the 21 facilities were transferred from paper registers into Tracker, and refers to a Health Information Systems Strategic Plan and a locally owned Ministry of Health DHIS2 server without describing the aggregate HMIS."
+}

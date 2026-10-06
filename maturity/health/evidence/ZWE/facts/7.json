@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-17-starlink-kits-gather-dust-rural-hospitals",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Starlink kits at rural health facilities",
+      "country_label": "Starlink kits",
+      "class": "enabling",
+      "platform": "Starlink",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "more than 400 health facilities, described as rural health centres, have received kits, with 300 more to be added; kits not activated for want of subscription payments (July 2026)"
+    }
+  ],
+  "note": "Connectivity only: the Health Minister told the National Assembly in July 2026 that kits at more than 400 facilities are unactivated because the ministry cannot pay the subscriptions; no HMIS or EMR is named."
+}

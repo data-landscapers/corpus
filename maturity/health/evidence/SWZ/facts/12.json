@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31-hmis-eswatini-cmis-dhis2-integration",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's HMIS unit describes itself as custodian of the digital health systems, with its own in-country developers working on CMIS and technical support from the US State Department-funded Data.FI project.", "as_of": "2026-03", "date_precision": "month", "system": "CMIS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2;T4", "fact": "The HMIS unit reports user feedback sessions in the first quarter of 2026 with clinicians using CMIS in big hospitals in Piggs Peak and in smaller remote facilities such as Mahlangatsha Clinic.", "as_of": "2026-03", "date_precision": "month", "system": "CMIS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The HMIS unit says that in the first quarter of 2026 its developers completed training with OpenFn that produced automated, FHIR-aligned data flows from CMIS's SQL Server to DHIS2.", "as_of": "2026-03", "date_precision": "month", "system": "CMIS", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "The HMIS unit says that in the first quarter of 2026 CMIS-to-DHIS2 data reporting was strengthened with automated, FHIR-aligned data flows from SQL Server into DHIS2.", "as_of": "2026-03", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "CMIS", "country_label": "CMIS", "class": "emr", "platform": "SQL Server database", "owner": "Ministry of Health HMIS unit, with Data.FI technical support", "tiers": "big hospitals in Piggs Peak and smaller remote clinics such as Mahlangatsha Clinic; described as nationwide"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health HMIS unit", "tiers": "not stated; receives reported data from CMIS"}
+  ],
+  "note": "DHIS2 is classed hmis only on the phrase 'CMIS-DHIS2 data reporting'; the post does not say what is reported."
+}

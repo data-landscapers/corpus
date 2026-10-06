@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TUN,hmis,governance,qualifier,,,,,nothing held
+TUN,hmis,tiers,coverage,,,,,nothing held
+TUN,hmis,digitised,coverage,,,,,nothing held
+TUN,hmis,last12,qualifier,,,,,nothing held
+TUN,hmis,clinics,coverage,,,,,nothing held
+TUN,emr,governance,qualifier,owner:ministry;finance:donor,2026-10-01,TUN-002;TUN-006,TUN-003=owner:ministry;TUN-009=owner:ministry;TUN-015=owner:ministry,not stated: plan
+TUN,emr,tiers,coverage,T1;T2,2025-04-02,TUN-012,,
+TUN,emr,digitised,coverage,paper,2026-03-31,TUN-010;TUN-014,,
+TUN,emr,last12,qualifier,advancing,2026-10-01,TUN-001;TUN-007;TUN-008,,
+TUN,emr,clinics,coverage,pilot,2026-09-03,TUN-005,TUN-004=not-published;TUN-011=none;TUN-016=none;TUN-013=none,

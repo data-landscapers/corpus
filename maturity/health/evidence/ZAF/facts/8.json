@@ -1,0 +1,42 @@
+{
+  "slug": "2026-07-31-sacj-digital-health-live-healthcare-console-sa",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "Moonsamy and Singh state that the SAP Health Information System has been rolled out to most of the public hospitals in Gauteng province and aims to centralise patient health and other records within the province, also handling hospital bed management; no count of hospitals is given and the rollout is undated, so the document's published date is used.",
+      "as_of": "2026-07-31",
+      "date_precision": "day",
+      "system": "SAP Health Information System (SAP HIS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SAP Health Information System (SAP HIS)",
+      "country_label": "SAP HIS",
+      "class": "emr",
+      "platform": "SAP",
+      "owner": "Gauteng public healthcare system (provincial)",
+      "tiers": "most public hospitals in Gauteng province"
+    },
+    {
+      "system": "Federated Health Information Architecture (FHIA)",
+      "country_label": "Federated Health Information Architecture (FHIA)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Department of Health (proposed architecture)",
+      "tiers": ""
+    },
+    {
+      "system": "Live Healthcare Console",
+      "country_label": "Live Healthcare Console",
+      "class": "single-function",
+      "platform": "",
+      "owner": "proposed design model, not deployed",
+      "tiers": "Gauteng public hospitals and emergency medical services (proposed)"
+    }
+  ],
+  "note": "The paper is a design proposal for a bed-occupancy and ambulance-divert console in Gauteng; its only statement about a system in use is the SAP HIS rollout to most Gauteng public hospitals. It also states ambulance divert information is not digitised and hospitals cannot see each other's bed occupancy."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-21-uga-kiryandongo-emr-health-facilities-struggle",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "New Vision reports that the Ministry of Health introduced the EMR system in selected health facilities in 2016 and has gradually enrolled more since.", "as_of": "2016", "date_precision": "year", "system": "Electronic Medical Record (EMR) system", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2;T3;T4", "fact": "In Kiryandongo district the EMR system is in use at Kiryandongo General Hospital, Nyakadoti Health Centre III and Mpumwe and Apodorwa Health Centre IIs, as reported from a public baraza on 19 September 2026.", "as_of": "2026-09-19", "date_precision": "day", "system": "Electronic Medical Record (EMR) system", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The in-charge of Nyakadoti Health Centre III said patient data must be captured in the EMR at every stage of the visit, which with too few computers lengthens queues; the hospital superintendent said everything stops when power fails.", "as_of": "2026-09-19", "date_precision": "day", "system": "Electronic Medical Record (EMR) system", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:3", "fact": "The article names three primary clinics in Kiryandongo district using the EMR (Nyakadoti Health Centre III, Mpumwe Health Centre II, Apodorwa Health Centre II), with no denominator and no national figure.", "as_of": "2026-09-19", "date_precision": "day", "system": "Electronic Medical Record (EMR) system", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "no-change", "fact": "Health workers and patients told a public baraza on 19 September 2026 that the EMR was slowing care in Kiryandongo facilities because of poor connectivity, unstable power and too few computers; no rollout or withdrawal is reported.", "as_of": "2026-09-19", "date_precision": "day", "system": "Electronic Medical Record (EMR) system", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Record (EMR) system", "country_label": "EMR system", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "Kiryandongo General Hospital; Nyakadoti Health Centre III; Mpumwe and Apodorwa Health Centre IIs (Kiryandongo district)"}
+  ],
+  "note": ""
+}

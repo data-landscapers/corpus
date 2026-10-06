@@ -1,0 +1,31 @@
+{
+  "slug": "2025-09-15-sudan-health-digital-innovations-share-un",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IConnect",
+      "country_label": "IConnect",
+      "class": "enabling",
+      "platform": "",
+      "owner": "UNICEF with the Federal Ministry of Health and WHO, under the World Bank-funded SHARE project",
+      "tiers": "piloted with Care Connect and ZAMW in five primary health care facilities and one referral hospital; to be deployed in over 400 health facilities across all 18 states"
+    },
+    {
+      "system": "Care Connect",
+      "country_label": "Care Connect",
+      "class": "enabling",
+      "platform": "",
+      "owner": "UNICEF with the Federal Ministry of Health and WHO, under the World Bank-funded SHARE project",
+      "tiers": "as IConnect"
+    },
+    {
+      "system": "ZAMW",
+      "country_label": "ZAMW",
+      "class": "",
+      "platform": "AI-powered mobile app",
+      "owner": "UNICEF with the Federal Ministry of Health and WHO, under the World Bank-funded SHARE project",
+      "tiers": "as IConnect"
+    }
+  ],
+  "note": "No fact: none of the three tools is of class hmis or emr on the page's own description. IConnect is described as telehealth consultation by voice, video and text, with medication and laboratory requests 'supported by electronic medical records'; that is a telemedicine service and the page does not say it keeps the patient's record for general care, so it is classed enabling. If the parent reads it as emr, the page gives: launched 15 September 2025, pilot in five primary health care facilities and a referral hospital, rollout to over 400 facilities planned, partner-run and World Bank-funded. Care Connect is a staff communication platform and ZAMW a training app. The page also states that more than 70 per cent of health facilities are non-functional."
+}

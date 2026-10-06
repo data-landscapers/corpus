@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The essay's Morocco clinic row, citing a World Bank HMIS report of about 2017, states that data collection was on paper at service delivery level, rural clinics and dispensaries included, with aggregate entry 'higher up'; the level of entry is not named, and the row is the author's AI-assisted compilation.", "as_of": "2017", "date_precision": "year", "system": "national HMIS", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "The essay's Morocco clinic row states, citing the WHO EMRO eHealth profile, that there is no national EHR and no EHR use in primary care facilities, and that it found no evidence of facility-level digital patient records in rural clinics; no date is given for the position, so the essay's publication date is used, and the row is the author's AI-assisted compilation.", "as_of": "2026-03-31", "date_precision": "day", "system": "EHR", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "national HMIS", "country_label": "national HMIS", "class": "hmis", "platform": "", "owner": "", "tiers": "paper at clinics and dispensaries with aggregate entry higher up, about 2017, as the essay states"},
+    {"system": "HOSIX", "country_label": "HOSIX", "class": "emr", "platform": "HOSIX", "owner": "", "tiers": "urban hospitals since 2009; slow expansion to primary and secondary care under a plan put at 120 million US dollars"},
+    {"system": "digital prescriptions pilot", "country_label": "digital prescriptions", "class": "", "platform": "", "owner": "", "tiers": "pilot, 2026"}
+  ],
+  "note": "Passages file. The source is flagged in its own header as an AI-assisted compilation to be treated as the author's analysis rather than sourced fact; both facts carry that caveat. The hmis value 'district' renders 'aggregate entry higher up' and should be checked against the World Bank report it cites."
+}

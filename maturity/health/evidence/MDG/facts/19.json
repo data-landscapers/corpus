@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-07-ajtmh-malaria-routine-data-quality-assessment-madagascar",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A 2021 malaria data quality assessment of 30 health centres in Atsinanana (14 of 52) and Atsimo-Andrefana (16 of 65), published in AJTMH, describes health centres compiling HMIS monthly summary reports from registers on standard reporting forms and submitting them to the health district by the 15th of the following month, with DHIS2 data checked as a separate, third source; it does not say in terms who keys the DHIS2 entry.", "as_of": "2021", "date_precision": "year", "system": "HMIS monthly reports / DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T3", "fact": "The 2021 assessment (AJTMH) found monthly report submission completeness of 100% and timeliness of 85% (Atsinanana) and 95% (Atsimo-Andrefana) among the 30 health centres assessed in two of 22 health regions, a convenience sample of centres whose 2021 timeliness was below 70%; data-element completeness was 43% and 68%.", "as_of": "2021", "date_precision": "year", "system": "HMIS monthly reports / DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The 2021 assessment (AJTMH) names the health centres' primary documents for recording patient information as the outpatient register, laboratory register, pharmacy dispensing log and stock logs, scoring the reserve stock of registers or reporting forms at 43% (Atsinanana) and 64% (Atsimo-Andrefana) across 30 health centres; it names no electronic patient record.", "as_of": "2021", "date_precision": "year", "system": "health centre registers (no patient record system named)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 / HMIS monthly reports", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "health centres report monthly to the health district; 30 health centres in Atsinanana and Atsimo-Andrefana assessed in 2021"},
+    {"system": "MRDQA tool", "country_label": "Malaria Routine Data Quality Assessment tool (MRDQA)", "class": "single-function", "platform": "Microsoft Excel form; an Android version developed", "owner": "National Malaria Program with the PMI Measure Malaria project (USAID)", "tiers": "pilot at 30 health centres in two regions, 2021"}
+  ],
+  "note": ""
+}

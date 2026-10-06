@@ -1,0 +1,36 @@
+{
+  "slug": "2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Abt Global states that health zone data managers report directly to the director for health statistics in the Ministry of Health's Department of Programming and Foresight, and that the ministry combines private and public sector data in the national HMIS feeding DHIS2; no date is given beyond the project's 2018-2023 span, so the publication date is used.",
+      "as_of": "2023-11-22",
+      "date_precision": "day",
+      "system": "National Health Management and Information System (NHMIS) / DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "count:1",
+      "fact": "Abt Global names one private facility, the Minonkpo Clinic in Cotonou, as recording its data directly into DHIS2 since 2020, against 752 private health facilities in the country; it gives no count of facilities entering their own data, and the publication date is used.",
+      "as_of": "2023-11-22",
+      "date_precision": "day",
+      "system": "National Health Management and Information System (NHMIS) / DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Management and Information System (NHMIS) / DHIS2",
+      "country_label": "National Health Management and Information System (NHMIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Department of Programming and Foresight (director for health statistics)",
+      "tiers": "private health facilities in all regions report through NHMIS tools; health zone data managers; one named clinic enters directly"
+    }
+  ],
+  "note": "Also stated, with no aspect to carry it: the USAID-funded PSHPA project (2018-2023) trained private providers to fill in NHMIS tools that feed DHIS2, distributed 4,000 health data registers to private facilities in all regions, raised private-facility data completeness from 15% to over 100% of the target, ran quarterly DHIS2 data quality audits, built a DHIS2 RMNCH dashboard and gave three servers for the ministry's intranet. The one named clinic is in Cotonou and private, so the count is an example, not a count of primary clinics; the document does not say where other facilities' data is keyed."
+}

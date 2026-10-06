@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-04-state-us-kenya-25bn-health-framework-announcement",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The US State Department's release on the Health Cooperation Framework signed on 4 December 2025 says US funding, within up to US$1.6 billion over five years, will support the scale-up of Kenya's health data systems, including accelerating the national rollout of Kenya's electronic medical record systems; it gives no amount for the record systems.", "as_of": "2025-12-04", "date_precision": "day", "system": "Kenya's electronic medical record systems", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The United States and Kenya signed a five-year Health Cooperation Framework on 4 December 2025 whose data systems provision includes accelerating the national rollout of Kenya's electronic medical record systems, as the US State Department announced that day.", "as_of": "2025-12-04", "date_precision": "day", "system": "Kenya's electronic medical record systems", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Kenya's electronic medical record systems", "country_label": "electronic medical record systems", "class": "emr", "platform": "", "owner": "Government of Kenya", "tiers": "national rollout to be accelerated; no tier given"}
+  ],
+  "note": "A press release announcing the instrument held as document 35; the record systems are named generically, with no product, tier or count. The archived capture is truncated in its last bullet."
+}

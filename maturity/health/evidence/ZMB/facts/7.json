@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The implementers (IHM Southern Africa, Co-Develop) describe SmartCare Pro as a centralised electronic health record that uses the National Digital ID service to create a unique patient record, with a nurse at a rural clinic in Kafulafuta identifying a patient by fingerprint to reach his record, said to be retrievable at any public hospital; no figures are given and the publication date is used.", "as_of": "2026-01-15", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The article states that the Government of Zambia launched SmartCare Pro in partnership with TuSo Business Dynamics, the technology division of IHM Southern Africa; it names no ministry unit and gives no launch date, so the publication date is used.", "as_of": "2026-01-15", "date_precision": "day", "system": "SmartCare Pro", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "emr", "platform": "centralised EHR built by TuSo Business Dynamics (IHM Southern Africa)", "owner": "Government of Zambia with IHM Southern Africa", "tiers": "a rural clinic in Kafulafuta is described; records said to be reachable at any public hospital"},
+    {"system": "National Digital ID service", "country_label": "National Digital ID", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Promotional first-hand account by the system's builders: one testimony, no coverage figures."
+}

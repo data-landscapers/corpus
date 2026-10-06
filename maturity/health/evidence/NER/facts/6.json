@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "ICTworks lists Niger's operative instrument as the Schéma Directeur National de Santé Numérique, validated 28-30 May 2025 per Le Sahel, and says the instruments adopted by seven countries including Niger share an EHR component among others; the primary text was not locatable and no Niger system is named.", "as_of": "2025-05", "date_precision": "month", "system": "EHR (component of the Schéma Directeur National de Santé Numérique, unnamed)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "EHR (strategy component, unnamed)", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": ""},
+    {"system": "interoperability layer (strategy component, unnamed)", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A continental directory of strategies; the one emr fact rests on a statement made about seven countries collectively, with no deployed system named for Niger. Nothing is stated about an HMIS."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-14-egy-dailynews-unified-platform-patient-records",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of Health and Population said the health minister discussed a proposed 'Egypt Smart Healthcare Platform' with MTS and Inspur, to hold unified patient health records shared between facilities, and discussed launching a pilot for its first phase; it is a proposal, with no timetable given (reported 14 September 2026).",
+      "as_of": "2026-09-14",
+      "date_precision": "day",
+      "system": "Egypt Smart Healthcare Platform",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "Officials reviewed proposed financing models for the Egypt Smart Healthcare Platform, but the health ministry disclosed neither its expected cost nor the financing arrangements (reported 14 September 2026).",
+      "as_of": "2026-09-14",
+      "date_precision": "day",
+      "system": "Egypt Smart Healthcare Platform",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Egypt Smart Healthcare Platform",
+      "country_label": "Egypt Smart Healthcare Platform",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Population (proposed; discussed with MTS and Inspur)",
+      "tiers": "Proposed only: to connect health facilities through a unified network; no tiers stated"
+    }
+  ],
+  "note": ""
+}

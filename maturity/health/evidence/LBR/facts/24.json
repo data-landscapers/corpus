@@ -1,0 +1,10 @@
+{
+  "slug": "2023-12-01-lisgis-socioeconomic-statistical-bulletin-2023",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "LISGIS's December 2023 statistical bulletin states that its health statistics by county (consultations by sex and age, reported disease cases and deaths, ANC, malaria, TB and immunisation, 2017 to 2021 or 2022) were obtained from the Health Information System (HIS) of the Ministry of Health.", "as_of": "2023-12", "date_precision": "month", "system": "Health Information System (HIS) of the Ministry of Health", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Information System (HIS) of the Ministry of Health", "country_label": "Health Information System (HIS)", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "statistics published by county"}
+  ],
+  "note": "Passages file; the bulletin names the system only as the source of its county health tables."
+}

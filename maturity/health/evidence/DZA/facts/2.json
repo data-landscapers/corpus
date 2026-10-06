@@ -1,0 +1,54 @@
+{
+  "slug": "2026-08-17-seybousetimes-annaba-health-fibre-emr",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Seybouse Times reports a working meeting by videoconference on Sunday 16 August 2026 between the Annaba wilaya health directorate (DSP), the Ministry of Health and Algérie Télécom to speed up fibre-optic connection of health structures, in preparation for the forthcoming implementation of the Dossier médical électronique (DME) project; it gives no count of structures connected.",
+      "as_of": "2026-08-16",
+      "date_precision": "day",
+      "system": "Dossier médical électronique (DME)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "Seybouse Times describes the DME as a project whose implementation is still forthcoming in the wilaya of Annaba in mid-August 2026, with the technical conditions for its progressive roll-out in the wilaya's health structures still being assembled; no facility is said to be using it.",
+      "as_of": "2026-08-16",
+      "date_precision": "day",
+      "system": "Dossier médical électronique (DME)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Seybouse Times presents the DME as a project of the health system's modernisation whose preparation in Annaba is coordinated by the Ministry of Health's services with the wilaya health directorate and Algérie Télécom (meeting of 16 August 2026); no partner or vendor is named as running it.",
+      "as_of": "2026-08-16",
+      "date_precision": "day",
+      "system": "Dossier médical électronique (DME)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Dossier médical électronique (DME)",
+      "country_label": "Dossier médical électronique (DME)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health (with the wilaya health directorates)",
+      "tiers": "not yet in use; to be rolled out progressively in the health structures of the wilaya of Annaba"
+    },
+    {
+      "system": "Fibre-optic connection of health structures",
+      "country_label": "raccordement des structures de santé à la fibre optique",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Algérie Télécom, with the Ministry of Health and the Annaba DSP",
+      "tiers": "health structures of the wilaya of Annaba, in progress"
+    }
+  ],
+  "note": ""
+}

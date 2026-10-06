@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-12-ami-cnass-services-numeriques-khidmati",
+  "facts": [],
+  "systems": [
+    {
+      "system": "services numériques de la CNASS sur Khidmati",
+      "country_label": "services numériques du Fonds national de solidarité en santé (CNASS) via la plateforme « Khidmati »",
+      "class": "",
+      "platform": "Khidmati",
+      "owner": "CNASS, launched by the ministers of health and of digital transformation, with European Union support",
+      "tiers": "Insured citizens in all wilayas; no health facility tier stated"
+    }
+  ],
+  "note": "Launch on 12 May 2026 of health insurance e-services for policyholders (access to insurance services, online complaints handled within 48 hours); this is insurance administration, which fits no class of the typology, and the document describes neither facility reporting nor a patient record."
+}

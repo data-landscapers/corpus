@@ -1,0 +1,26 @@
+{
+  "slug": "2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The World Bank states that the health ministry has no digitised national health information system and that data collection on diseases such as HIV or malaria is done manually and cannot be accessed centrally; the passage is undated, so the document's published date is used, though it speaks of a pilot still to come in 2023 and the work is cited as World Bank 2023.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "national system of sanitary information (none digitised)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (planned)",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health (plans to work with the platform; stated goal to pilot in 2023)",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages file. DHIS2 is named as a plan with no module described, so it is unclassified here."
+}

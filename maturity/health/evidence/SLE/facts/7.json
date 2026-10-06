@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The essay states, citing a JMIR study, that a 2022 survey of 55 rural facilities found the majority using one or two digital tools, mainly DHIS2/eIDSR on tablets or mobiles for aggregate and weekly surveillance reporting; it also states that primary healthcare units fill paper forms HF1-HF9 for aggregate service reporting to NHMIS/DHIS2, without saying where those are keyed. The essay does not separate DHIS2 from eIDSR in the survey figure.", "as_of": "2022", "date_precision": "year", "system": "NHMIS/DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay states that rural primary healthcare units keep paper patient files at the point of care, and that a 2022 survey of 55 rural facilities (JMIR) found no EMR or patient registry in use.", "as_of": "2022", "date_precision": "year", "system": "paper patient files", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The essay states, citing the Digital Health Roadmap 2024-2026, that EMR exists only as isolated pilots, naming a GOPA-GIZ pilot in 2 rural primary healthcare units in Kambia and Port Loko and planned QEHSSSP hub-and-spoke sites in selected rural districts, with no nationwide scaling; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "GOPA-GIZ EMR pilot", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "NHMIS/DHIS2", "country_label": "NHMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "primary healthcare units (PHUs) report to it on paper forms HF1-HF9"},
+    {"system": "eIDSR", "country_label": "eIDSR", "class": "single-function", "platform": "", "owner": "", "tiers": "1,500+ facilities nationwide by 2019, via mobile apps"},
+    {"system": "GOPA-GIZ EMR pilot", "country_label": "", "class": "emr", "platform": "", "owner": "GOPA-GIZ", "tiers": "2 rural PHUs in Kambia and Port Loko"},
+    {"system": "QEHSSSP hub-and-spoke EMR", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": "planned, selected rural districts"}
+  ],
+  "note": "Passages of an AI-assisted 54-country compilation; every figure is the essay's own summary of cited sources (JMIR 2022, WHO AFRO, the Roadmap), not a primary statement."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2016-06-03-wb-gab-003-egabon",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's project record for eGabon (P132824) shows a US$56 million IBRD loan approved on 3 June 2016, US$55.7 million of it disbursed, of which US$40.08 million plus US$1.50 million government counterpart was for strengthening the National Health Information System, designed to include electronic medical records and e-prescription; the record gives a closing date of 29 August 2025.", "as_of": "2016-06-03", "date_precision": "day", "system": "National Health Information System (eGabon)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "National Health Information System (eGabon)", "country_label": "eGabon", "class": "emr", "platform": "", "owner": "Ministry of Health, ANINF and CNAM-GS as implementers; Ministry of the Digital Economy and CN-TIPPEE as implementing agencies of the loan", "tiers": "not stated; the design provides for rural clinic data capture"}
+  ],
+  "note": "A finance deal record: it states the loan and the component's design, not any deployment. The page itself warns that its implementing agency field is truncated."
+}

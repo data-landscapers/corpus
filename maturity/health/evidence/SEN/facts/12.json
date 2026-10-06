@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-09-lesoleil-connectivite-universelle-tournee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Satellite kits (programme de connectivité universelle)",
+      "country_label": "kits satellitaires, programme de connectivité universelle",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministère de la Communication, des Télécommunications et du Numérique",
+      "tiers": "health centres ('centres de santé') named among priority targets; none stated as connected"
+    }
+  ],
+  "note": "Connectivity only: satellite-kit tour of Ziguinchor, Kolda and Kaolack, 9-13 April 2026, health centres among the stated targets. An enabling system, so no HMIS or EMR fact."
+}

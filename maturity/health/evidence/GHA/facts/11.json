@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-02-chps-staffing-accountability-digital-integration-northern-ghana",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T4", "fact": "A PLOS One survey of 86 purposively selected CHPS zones in six Northern Region districts (13-20 March 2024) found routine monthly reporting into DHIMS 2 at CHPS level at between 86% and 100% compliance by district, Nanton lowest at 86%.", "as_of": "2024-03", "date_precision": "month", "system": "DHIMS 2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The same survey presents community health officers' entry of data into DHIMS 2 'at the CHPS level', with routine monthly reporting compliance of 86% to 100% across the six districts (86 CHPS zones, March 2024); the authors add that facility reporting into DHIS2 is often high in Ghana.", "as_of": "2024-03", "date_precision": "month", "system": "DHIMS 2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "CHPS staff interviewed in Karaga, Mion and Sagnarigu (March 2024) said the platform is controlled from the district level, that CHPS compounds lack login details and computers, that entry depends on one or two computer-literate staff, and that paper reports are sent to the sub-district or left for the district office to upload into DHIMS2.", "as_of": "2024-03", "date_precision": "month", "system": "DHIMS 2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIMS 2", "country_label": "District Health Information Management System II (DHIMS 2)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "CHPS zones (routine monthly reporting), sub-district and district offices"},
+    {"system": "RMNCAH platform", "country_label": "Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCAH) platform", "class": "", "platform": "", "owner": "", "tiers": "facility and CHPS level; takes quarterly Community Health Action Plans"}
+  ],
+  "note": "No clinics fact: the 86-100% figure is a by-district range over a purposive sample of 86 zones, not a single share. Community Scorecard uploads to DHIMS 2 (36% of zones overall; 92% Gushegu, 60% Sagnarigu and Yendi, none in Karaga and Nanton) concern a community accountability tool, not routine reporting. The document states both facility-level and district-level entry; both are recorded."
+}

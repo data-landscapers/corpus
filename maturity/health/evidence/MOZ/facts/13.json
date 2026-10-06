@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-strengthening-civil-registration-mozambique-crvs",
+  "facts": [],
+  "systems": [
+    {"system": "National Health System's death-registration module", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "not stated; said to interoperate with the civil registration system (156 civil registration posts opened in hospitals by December 2024)"}
+  ],
+  "note": "Civil registration slide deck: it refers to interoperability with 'the health information system' and a death-registration module of the National Health System without naming or describing either, so there is no HMIS or EMR fact."
+}

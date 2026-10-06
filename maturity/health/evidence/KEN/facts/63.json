@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-01-kenya-odpc-guidance-public-sector",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "Health Management Information System (HMIS)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Data-protection guidance for public bodies; it names HMIS, eHealth and mHealth applications only as digitisation that handles sensitive data, with no description of what they do, and its one EMR mention is an illustrative example at a fictional hospital (Afya Nzuri National Hospital)."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-openiaso-ssc-app-digitalization-drc",
+  "facts": [],
+  "systems": [
+    {"system": "SSC App", "country_label": "application SSC (Sites de Soins Communautaires)", "class": "community", "platform": "IASO (Bluesquare), Android mobile app with offline capture and a web instance", "owner": "PNECHOL-MD and DSNIS with Bluesquare; funded first by USAID PROSANI (9 provinces), then the Global Fund through SANRU (16 provinces) and the RHCC project (Kasai); server due to migrate to ANICNS", "tiers": "head nurses of health areas enter supervision and monthly data on community care sites; all 26 provinces; more than 80,000 monthly form submissions as of 10 June 2026"},
+    {"system": "DHIS2 community NHIS instance", "country_label": "SNIS communautaire (DHIS2)", "class": "community", "platform": "DHIS2", "owner": "DSNIS, Ministry of Health", "tiers": "receives regular exports of the monthly variables head nurses upload through the SSC App"}
+  ],
+  "note": "A community health worker supervision system, noted and not assessed, so no fact. It exchanges data with the national system: the document states that all monthly variables are configured in the DHIS2 community NHIS instance and exported regularly from IASO to DHIS2."
+}

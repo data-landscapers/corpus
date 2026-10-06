@@ -1,0 +1,42 @@
+{
+  "slug": "2025-12-06-egypt-national-health-compact",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The government's National Health Compact of 6 December 2025 describes electronic health records in Egypt as at the stage of early pilots, says adoption of electronic medical records in health facilities remains a work in progress, and says rural and public-sector facilities face infrastructure, financing and workforce constraints in adopting digital tools; it gives no count of facilities and does not say which tiers the pilots are in.",
+      "as_of": "2025-12-06",
+      "date_precision": "day",
+      "system": "Electronic health records (EHR) pilots",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic health records (EHR) pilots",
+      "country_label": "EHR / electronic medical records",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "Early pilots; tiers not stated"
+    },
+    {
+      "system": "National database of health infrastructure",
+      "country_label": "Database of health infrastructure",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Government commitment; to cover facilities of MoHP, MoI, MoHE, MoD, EHA, the private sector and NGOs",
+      "tiers": "All facility types nationally (a commitment, not stated as built)"
+    },
+    {
+      "system": "Integrated health workforce management system",
+      "country_label": "Integrated health workforce management system",
+      "class": "",
+      "platform": "",
+      "owner": "MoHP, EHA (to be designed and implemented)",
+      "tiers": ""
+    }
+  ],
+  "note": "The one fact is the compact's general statement on EHR pilots; it is not specific to primary clinics, and the parent may prefer to hold it as context. The compact names no HMIS and commits to a Telemedicine Law by 2030 covering data privacy, digital prescribing and interoperability."
+}

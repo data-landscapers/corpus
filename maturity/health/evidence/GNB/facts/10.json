@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-28-guine-bissau-bo-12-4-suplemento-decreto-10-2025-entd-gw",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The national digital transformation strategy annexed to Decreto n.º 10/2025 lists among the country's strengths that the health sector, through INASA, has a health information management platform (DHIS2); the strategy gives no date for this, so the gazette date is used.", "as_of": "2025-03-28", "date_precision": "day", "system": "plataforma de Gestão de Informação Sanitária (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "plataforma de Gestão de Informação Sanitária (DHIS2)", "country_label": "plataforma de Gestão de Informação Sanitária", "class": "hmis", "platform": "DHIS2", "owner": "health sector via INASA", "tiers": "not stated"}
+  ],
+  "note": "Passages file: two mentions of DHIS2, both as an existing asset; the passages do not show the strategy planning or costing anything for it, and say nothing on tiers or where data is entered. Class rests on the label 'health information management platform' alone."
+}

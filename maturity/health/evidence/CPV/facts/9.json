@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-19-ministro-saude-digitalizacao-sns",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "On 18 December 2025 the Minister of Health, Jorge Figueiredo, announced that each citizen will get a unique patient code giving access to a digital clinical history (laboratory analyses, imaging, treatments) that health professionals can consult whichever hospital or health centre the patient attends, with electronic prescription alongside; stated as coming, with no count of facilities.", "as_of": "2025-12-18", "date_precision": "day", "system": "código único do paciente / histórico clínico digital", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "código único do paciente / histórico clínico digital", "country_label": "código único do paciente, histórico clínico digital", "class": "emr", "platform": "", "owner": "", "tiers": "announced for hospitals and health centres; stated in the future tense"},
+    {"system": "receita eletrónica", "country_label": "receita eletrónica", "class": "single-function", "platform": "", "owner": "", "tiers": "announced; to be used with pharmacies"},
+    {"system": "unidades de telemedicina", "country_label": "unidades de telemedicina", "class": "enabling", "platform": "", "owner": "", "tiers": "24 units handed over on 18 December 2025; sites not stated"}
+  ],
+  "note": ""
+}

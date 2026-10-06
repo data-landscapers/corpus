@@ -1,0 +1,23 @@
+{
+  "slug": "2022-12-08 Deploying DHIS2 for eLMIS to improve Malaria stock management in Equatorial Guinea",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2 malaria eLMIS (Bioko Island Malaria Elimination Project)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "DHIS2 with the WHO malaria-logistics metadata package; moving to DHIS2 Android Capture",
+      "owner": "Bioko Island Malaria Elimination Project (BIMEP), working with the Ministry of Health and Social Welfare",
+      "tiers": "commodity distribution tracked from the central warehouse to facilities"
+    },
+    {
+      "system": "BIMEP DHIS2 instance for health data",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Bioko Island Malaria Elimination Project (BIMEP)",
+      "tiers": ""
+    }
+  ],
+  "note": "Only a malaria stock system (single-function) is described; BIMEP's existing DHIS2 use 'for health data' is not described further. No fact."
+}

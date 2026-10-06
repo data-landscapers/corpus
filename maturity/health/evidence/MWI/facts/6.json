@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-21-ichis-community-health-information-system",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The University of Malawi states that its Computing Department, through HISP UNIMA, supports the Ministry of Health and Sanitation in implementing the national Health Management Information System and DHIS2 systems; no event date is given, so the document's published date (itself a proxy from the URL) is used.", "as_of": "2026-06-21", "date_precision": "day", "system": "national Health Management Information System (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "integrated Community Health Information System (iCHIS)", "country_label": "iCHIS", "class": "community", "platform": "", "owner": "Ministry of Health and Sanitation; developed by the University of Malawi Computing Department (HISP UNIMA) with the ministry and partners", "tiers": "community level: Health Surveillance Assistants in 15 districts, 3,764 HSAs and Senior HSAs trained and using it"},
+    {"system": "Malawi Healthcare Information System (MaHIS)", "country_label": "MaHIS", "class": "", "platform": "", "owner": "Ministry of Health and Sanitation, implementation supported by HISP UNIMA", "tiers": ""},
+    {"system": "national Health Management Information System (HMIS)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health and Sanitation, implementation supported by HISP UNIMA", "tiers": ""},
+    {"system": "DHIS2 systems", "country_label": "DHIS2 systems", "class": "", "platform": "DHIS2", "owner": "Ministry of Health and Sanitation, implementation supported by HISP UNIMA", "tiers": ""},
+    {"system": "national disease surveillance and reporting systems", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Health and Sanitation, implementation supported by HISP UNIMA", "tiers": ""},
+    {"system": "interoperability solutions for data exchange between health information systems", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Health and Sanitation, implementation supported by HISP UNIMA", "tiers": ""}
+  ],
+  "note": "The document describes only iCHIS, a community health worker system, in any detail. The national HMIS is classed hmis on its being called the national health management information system, with no description of what it reports; MaHIS and 'DHIS2 systems' are named with no description and left unclassified."
+}

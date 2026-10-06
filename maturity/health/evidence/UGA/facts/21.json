@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' 54-country review states that rural primary clinics (HC II/III) keep paper registers and HMIS tools and that the aggregate data is transcribed from those paper forms into DHIS2 at district level; the review gives no date for this, so its publication date is used, and its country rows are an AI-assisted compilation.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2;T3", "fact": "Data Landscapers' review states that EMRs such as UgandaEMR are available in Health Centre IVs and above but are mostly HIV programme-specific, with hybrid paper-digital records in 94%+ of HC IVs and purely digital records in 1-2%, while HC II/III clinics record patients on paper at the point of care; undated in the review, so its publication date is used, and the row is an AI-assisted compilation.", "as_of": "2026-03-31", "date_precision": "day", "system": "UgandaEMR", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 / HMIS tools", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district level from HC II/III paper forms"},
+    {"system": "UgandaEMR", "country_label": "UgandaEMR", "class": "emr", "platform": "", "owner": "", "tiers": "HC IV and above; mostly programme-specific (HIV)"},
+    {"system": "Stre@mline", "country_label": "Stre@mline", "class": "", "platform": "", "owner": "", "tiers": "pilots in select rural hospitals, not scaled nationally"}
+  ],
+  "note": "Passages file; one Uganda clinic row. The source is expert analysis compiled with AI assistance and cites PMC12816509, PMC12512544 and an MIT paper as its primaries. It also states a national digital health strategy aiming at point-of-care digital by 2025/26, with no system named."
+}

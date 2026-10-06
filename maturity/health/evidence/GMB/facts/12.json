@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Paper Technology (SPT)", "country_label": "Smart Paper Technology", "class": "tracker", "platform": "Smart Paper Technology (Shifo Foundation), synchronised with DHIS2", "owner": "Ministry of Health with MRCG at LSHTM, Shifo Foundation, US CDC and Bundung Hospital", "tiers": "launched 2017, piloted at Bundung Maternal and Child Hospital and Fajikunda"},
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The only system described is Smart Paper Technology, a patient-level maternal, child and immunisation record on scanned paper forms (class tracker), so no hmis or emr fact; DHIS2 is named only as what SPT synchronises with, and the statement that facilities relied on paper registers for decades is undated."
+}

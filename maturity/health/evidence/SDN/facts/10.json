@@ -1,0 +1,46 @@
+{
+  "slug": "2026-03-30-sudan-pm-ai-bachelor-directive-hospital-digitisation",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The government portal reports that the Prime Minister directed the Ministry of Digital Transformation and Communications, with the Ministry of Health, to digitise hospital systems within two weeks through a first pilot phase at Soba teaching hospital and Gedaref hospital, applying an electronic system for managing medical records, with expansion to follow an evaluation of the pilot; the page is undated and the date is the document's published date, taken from a SUNA republication.",
+      "as_of": "2026-03-30",
+      "date_precision": "day",
+      "system": "electronic system for managing medical records (hospital systems digitisation)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The government portal reports that the hospital digitisation pilot was assigned by the Prime Minister to the Ministry of Digital Transformation and Communications in coordination with the Ministry of Health; no vendor, partner or funding is named, and the date is the document's published date.",
+      "as_of": "2026-03-30",
+      "date_precision": "day",
+      "system": "electronic system for managing medical records (hospital systems digitisation)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The government portal reports that the directed first phase of the electronic medical records system covers two hospitals only, Soba teaching hospital and Gedaref hospital, with any wider expansion left to a later phased plan; no primary clinic is included, and the date is the document's published date.",
+      "as_of": "2026-03-30",
+      "date_precision": "day",
+      "system": "electronic system for managing medical records (hospital systems digitisation)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic system for managing medical records (hospital systems digitisation)",
+      "country_label": "رقمنة أنظمة المستشفيات",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Digital Transformation and Communications with the Ministry of Health",
+      "tiers": "pilot directed at Soba teaching hospital and Gedaref hospital"
+    }
+  ],
+  "note": "A directive, not a report of use: no tiers fact is taken. Classed emr because the page says the system manages medical records."
+}

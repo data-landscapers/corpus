@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-03 Now is the time to invest in locally-owned health data systems",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "government", "tiers": ""}
+  ],
+  "note": "A HISP advocacy piece on the 2025 US funding cuts. Its one sentence on Somalia says DHIS2 is used to calculate key performance indicators on outputs, use and coverage in support of the government's universal health coverage goals, citing a World Bank publication; that states nothing on governance, tiers, where data is keyed, clinics or a dated event. Its claim that all national DHIS2 systems stayed online is network-wide and names no Somali event."
+}

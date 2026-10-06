@@ -1,0 +1,11 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "A literature review carried out February to July 2019 (Koumamba et al., BMC Medical Informatics and Decision Making) found that 11 of the 12 African countries studied, Zambia among them, had no national health information system strategy, only strategies run under a specific project, Malawi being the one exception.", "as_of": "2019", "date_precision": "year", "system": "DHIS", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The same review lists Zambia among countries that received International Health Partnership support and used the DHIS software to implement their health information system, and finds such projects mostly supported by external donors, citing Mutale et al. 2013; review conducted 2019.", "as_of": "2019", "date_precision": "year", "system": "DHIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS", "country_label": "DHIS", "class": "hmis", "platform": "DHIS / DHIS2", "owner": "", "tiers": "adapted by standardising and computerising the registers that collect care-delivery data from health facilities"}
+  ],
+  "note": "The review does not say at which level Zambia's data is keyed, nor how many facilities enter it."
+}

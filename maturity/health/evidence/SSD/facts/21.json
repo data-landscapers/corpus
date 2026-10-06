@@ -1,0 +1,44 @@
+{
+  "slug": "2025-02-01-who-his-maturity-assessment-south-sudan",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The WHO and Ministry of Health maturity assessment states that DHIS 2 is implemented at national and sub-national/district levels, with integration of health programme data into it still in progress and routine report completeness at 62% (indicator data 57%); the brief is dated February 2025.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "DHIS 2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The WHO and Ministry of Health self-assessment scores strategic planning for the health information system at 13% and HIS financing at 7%, and lists an HIS policy, a strategic plan for HIS and financing for HIS among components still to be established; the brief is dated February 2025.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "DHIS 2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS 2",
+      "country_label": "District Health Information System 2 (DHIS 2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "national and sub-national/district levels; facility tiers not stated"
+    },
+    {
+      "system": "comprehensive facility-wide electronic systems (unnamed)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "22.4% of health facilities, as the assessment records it; no numerator, denominator or facility type given"
+    }
+  ],
+  "note": "The 22.4% figure for health facilities with comprehensive facility-wide electronic systems is not tied to DHIS 2 or to any described system, so it is logged under systems and not as a clinics fact; the parent may wish to weigh it."
+}

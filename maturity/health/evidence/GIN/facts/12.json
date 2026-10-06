@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-01-cseaafrica-data-driven-public-sector-guinea-roadmap",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The CSEA policy brief of November 2025 states that the Ministry of Health relies on DHIS2, which it describes as a digital platform backed by international partners, to monitor health indicators, and that health data managed through DHIS2 remain isolated from education and social protection systems.", "as_of": "2025-11", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "paper", "fact": "The CSEA brief (November 2025) states that weak rural connectivity forces local health centres to rely on manual reporting and paper-based records, and that in remote villages such as around Kankan community health workers' paper records are physically delivered or manually typed into simple spreadsheets at the district health office at the end of each month.", "as_of": "2025-11", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, backed by international partners", "tiers": "not stated; rural health centres said to report manually on paper"},
+    {"system": "DCRS birth notification application", "country_label": "Digital Civil Registration System (DCRS) mobile application for birth notification", "class": "exchange", "platform": "", "owner": "Ministry of Territorial Administration, with Enabel and the EU", "tiers": "goal: automatic notification of births by health centres in ten pilot municipalities (pilot from October 2022)"},
+    {"system": "Ministry of Health personnel database", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "separate health staff database, not synchronised with the public service ministry's"}
+  ],
+  "note": ""
+}

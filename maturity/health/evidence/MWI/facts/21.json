@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-mwi-nrb-strategic-plan-2025-2030",
+  "facts": [],
+  "systems": [
+    {"system": "HMIS", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eBirth and eDeath System", "country_label": "eBirth and eDeath System", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages file; HMIS is named only as one of several separate platforms that capture the same information as the birth and population registers, causing duplication, with no description of what it does, where it is used or who runs it."
+}

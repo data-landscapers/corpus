@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-04-digital-health-for-tuberculosis-control-electronic-medical-record-luanda",
+  "facts": [],
+  "systems": [
+    {"system": "TB EMR system", "country_label": "TB EMR system", "class": "tracker", "platform": "", "owner": "Doctors with Africa CUAMM with the Gabinete Provincial de Saúde de Luanda, ADPP and the Italian National Institute of Health; financed by the Italian Agency for Development Cooperation", "tiers": "pilot in three urban secondary facilities in Luanda (Dispensário Anti Tuberculose e Lepra, Hospital Divina Providência, Hospital Municipal de Kilamba Kiaxi), January 2022 to February 2023"}
+  ],
+  "note": "The system is called an electronic medical record but holds tuberculosis patients' data only, one programme, so the typology makes it a tracker and no EMR fact is taken. What the paper states of it: piloted in three Luanda facilities from January 2022 to February 2023; data written on paper clinical records and registers and keyed afterwards by data entry assistants and then trained staff (6,757 cases in the system against 6,852 on paper, January to June 2022); continuation said to depend on earmarked funds; the authors say the technology is otherwise largely untapped in Angola's TB services."
+}

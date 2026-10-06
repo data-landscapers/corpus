@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-rwanda-vital-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The National Institute of Statistics of Rwanda states, describing the system as it stood in 2025, that the Rwanda Health Management Information System operates countrywide under the management of the Ministry of Health to collect routine health information, and keeps capturing aggregated births and deaths as denominators to check the civil registration system.", "as_of": "2025", "date_precision": "year", "system": "Rwanda Health Management Information System (R-HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Rwanda Health Management Information System (R-HMIS)", "country_label": "R-HMIS / HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "countrywide; tiers not stated"},
+    {"system": "National Centralized and Integrated Civil Registration and Vital Statistics (NCI-CRVS) system", "country_label": "NCI-CRVS", "class": "", "platform": "", "owner": "National Identification Agency", "tiers": "hospitals, health centres, clinics and polyclinics, public and private, plus cells, sectors, districts and embassies; launched 10 August 2020; linked to R-HMIS"}
+  ],
+  "note": "Passages only. DHIS2 appears in the acronym list alone and is not tied to the R-HMIS in the passages given. The report does not say at which tier R-HMIS data is keyed."
+}

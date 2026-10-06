@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-24-ict-trains-change-agents-e1-2bn-digitization",
+  "facts": [],
+  "systems": [
+    {"system": "Eswatini Digitization Project broadband connectivity for health centres", "country_label": "Eswatini Digitization Project / Digital Eswatini", "class": "enabling", "platform": "", "owner": "Ministry of ICT (World Bank loan)", "tiers": "134 health centres set to benefit from broadband; rollout planned for 2027"}
+  ],
+  "note": "Only connectivity is described (134 health centres to get broadband under the World Bank-funded project, rollout in 2027); no HMIS or EMR system is named."
+}

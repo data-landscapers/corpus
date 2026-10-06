@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-10-icap-hiv-insight-dashboard-drc",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "ICAP states that DR Congo adopted DHIS2 in 2013 as the national electronic platform for health data collection, processing and dissemination, used by Ministry of Health programmes such as the PNLS.", "as_of": "2013", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "ICAP's support to the Ministry of Health's PNLS on HIV strategic information in the national DHIS2, including the HIV Insight Dashboard, has run since 2022 on PEPFAR funding through US CDC; no domestic funding is mentioned (dated to the document's publication).", "as_of": "2026-06-10", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "In February 2026 Lualaba became the first province to make the HIV Insight Dashboard, an analysis application ICAP built inside the national DHIS2, the primary tool for provincial meetings and data validation; training of trainers for 112 managers from the 26 provinces was planned.", "as_of": "2026-02", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Public Health", "tiers": "users from national leadership to provincial and facility teams, as stated"},
+    {"system": "HIV Insight Dashboard", "country_label": "HIV Insight Dashboard", "class": "single-function", "platform": "DHIS2 application", "owner": "PNLS (Ministry of Public Health) with ICAP", "tiers": "provinces and health zones; Kinshasa, Haut-Katanga and Lualaba first"}
+  ],
+  "note": "The dashboard analyses reported HIV data only; it is recorded as an event on the national DHIS2 because it was built inside it. The document does not say where data is keyed or how many facilities enter it."
+}

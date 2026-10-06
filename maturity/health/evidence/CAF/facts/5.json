@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The essay (Data Landscapers, an AI-assisted compilation) states that DHIS2 was piloted only in Bangui under the 2019 HMIS roadmap, with revised paper tools rolled out to 12 districts and no routine use in rural health centres (387 centres and 434 posts), data being transcribed upward from paper rather than captured at facilities; the statement is undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The essay (Data Landscapers, an AI-assisted compilation) states that rural primary healthcare clinics rely entirely on paper registers and forms for patient data at the point of care, and that donor pilots are isolated and not for patient records; the statement is undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "The essay (Data Landscapers, an AI-assisted compilation) states there is no evidence that rural clinics use digital systems routinely and that patient data in rural primary clinics is recorded entirely on paper; the statement is undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "piloted only in Bangui; no routine use in rural health centres or posts"},
+    {"system": "DHIS2-based immunization micro-planning", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "donor-driven pilot (HISP Rwanda cited)", "tiers": "isolated pilots"}
+  ],
+  "note": "Passages file; only the Clinic row for the Central African Republic bears on health. It also states that no national eHealth strategy existed in 2023, naming no system, and cites World Bank SENI-PLUS (2022) for plans for a DHIS2 rollout; neither is recorded as a fact."
+}

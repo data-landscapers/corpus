@@ -1,0 +1,36 @@
+{
+  "slug": "2021-12-14-mrt-arrete-1496-systeme-regional-sante-snis-collecte-donnees",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Arrêté n° 1496 of the Minister of Health, dated 14 December 2021, assigns collection, synthesis and analysis of SNIS data to the ministry's own services: the planning, strategic information and epidemiological surveillance service of each regional health directorate (Article 7) and the surveillance and strategic information service of each circonscription sanitaire (Article 18).",
+      "as_of": "2021-12-14",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "Article 18 of Arrêté n° 1496 of 14 December 2021 charges the surveillance and strategic information service of the circonscription sanitaire (moughataa level) with collecting the routine SNIS data, coordinating the editing of the circonscription's health statistics reports and their entry into the database; it assigns no data entry to health centres or health posts.",
+      "as_of": "2021-12-14",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SNIS",
+      "country_label": "SNIS (routine data and health statistics reports)",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health, through the directions régionales de santé and the circonscriptions sanitaires",
+      "tiers": "Reports edited and entered into the database at circonscription sanitaire level; coordinated at regional level. The circonscription comprises its hospital, health centres, health posts and basic health units (USB)"
+    }
+  ],
+  "note": "The stored body is a Journal Officiel extract that also carries a water ministry act and the start of Arrêté n° 1236 of 2022 on the SAMU. The text does not name the software; the mention of DHIS2 is in the record's frontmatter note only and is not recorded."
+}

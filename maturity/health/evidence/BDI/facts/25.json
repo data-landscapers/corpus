@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-burundi-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "MSPLS, under the PNDIS", "tiers": "said with Open Clinic to connect all hospitals and health centres"},
+    {"system": "Open Clinic", "country_label": "Open Clinic", "class": "", "platform": "OpenClinic", "owner": "MSPLS, under the PNDIS", "tiers": "said with DHIS2 to connect all hospitals and health centres"}
+  ],
+  "note": "Passages only. This version of the World Bank assessment (2020) names DHIS2 and Open Clinic as modern systems of the health ministry's PNDIS that connect all hospitals and health centres, without saying what either does, so neither can be classed and no fact is taken."
+}

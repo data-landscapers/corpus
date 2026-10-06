@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-cote-divoire-gontougo-mhealth-650-equipements",
+  "facts": [],
+  "systems": [
+    {"system": "mHealth", "country_label": "plateforme numérique mHealth", "class": "community", "platform": "", "owner": "Ministère de la Santé, de l'Hygiène publique et de la Couverture universelle, with UNICEF, Canada, C2D and Mastercard Foundation support", "tiers": "community health workers (smartphones) and their supervisors (tablets); piloted in the Poro region, being extended to the Gontougo health region with 380 smartphones and 270 tablets handed over on 28 August 2026"}
+  ],
+  "note": "The only system is mHealth, a platform used by community health workers and their supervisors (class community); the document names no HMIS or EMR and states no exchange with either."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-08-techgriot-mali-national-digital-health-portal",
+  "facts": [],
+  "systems": [
+    {"system": "sante.gov.ml national digital health portal", "country_label": "www.sante.gov.ml", "class": "", "platform": "", "owner": "Ministry of Health and Social Development", "tiers": ""},
+    {"system": "OpenClinic", "country_label": "OpenClinic HMIS", "class": "", "platform": "OpenClinic", "owner": "", "tiers": ""}
+  ],
+  "note": "Short capture of a July 2026 portal launch: the portal publishes ministry information and geolocates facilities, with patient medical-record tracking named only as a future function, so it is neither hmis nor emr as described. OpenClinic is named once in a closing parenthesis as an HMIS to be linked to NINA and AMO, with no account of what it does."
+}

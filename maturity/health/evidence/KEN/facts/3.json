@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-03-new-sha-payment-system-why-hospitals-have-a-problem-with-duales-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS), certified, facility-owned", "country_label": "HMIS", "class": "", "platform": "several accredited vendors' products; 28 existing platforms certified", "owner": "each facility, from an accredited vendor at its own cost; certified by the Digital Health Agency", "tiers": "public Level 2 to 4 (all 6,427 transitioned), public Level 5 county referral hospitals (4 of 27), Level 6 national referral hospitals (KNH and KUTRRH still in transition), faith-based (38 of 518) and private facilities"},
+    {"system": "SHA provider portal", "country_label": "provider portal", "class": "", "platform": "", "owner": "consortium under Savannah Informatics, for the Social Health Authority", "tiers": "contracted facilities; being decommissioned, switch-off moved from 30 September to 30 October 2026"},
+    {"system": "NHIF claims portal", "country_label": "NHIF claims portal", "class": "", "platform": "", "owner": "National Health Insurance Fund (predecessor of SHA)", "tiers": "superseded"}
+  ],
+  "note": "The article describes the HMIS and the portal it replaces only as claims and billing systems ('a new system for running your business'); it does not say the HMIS holds the clinical record or reports aggregate service data, so billing and administration alone give no fact of class hmis or emr. Figures carried, from the Ministry's 1 October 2026 statement: 6,427 of 6,427 public Level 2-4 facilities on HMIS; 4 of 27 Level 5; 38 of 518 faith-based; cost to owners Sh60,000-100,000 a year for smaller facilities, up to Sh1 million for Level 4 and 5."
+}

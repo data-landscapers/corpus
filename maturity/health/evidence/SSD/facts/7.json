@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-01-id4d-country-diagnostic-south-sudan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Digital Database (MoH) - DHIS2 system",
+      "country_label": "National Digital Database (MoH)",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "function given as birth notifications and basic CRVS; birth notification issued for births in 7 of the country's 73 hospitals"
+    },
+    {
+      "system": "DHIS2 CRVS Module",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health with UNICEF",
+      "tiers": "function given as CRVS data management; tiers not stated"
+    }
+  ],
+  "note": "Identity diagnostic; DHIS2 appears only in a table of identification systems as the Ministry of Health's birth-notification and CRVS database, which is neither routine aggregate reporting nor a patient record, so no fact for hmis or emr."
+}

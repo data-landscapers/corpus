@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-22-dhis2-global-fund-climate-health-catalytic-guinea-bissau",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "The DHIS2 project announced that the HISP network, selected by the Global Fund under its Climate x Health Catalytic Fund, will give technical assistance to seven African countries including Guinea-Bissau to integrate climate data into their existing national HMIS, using tools such as the DHIS2 Climate App; the announcement gives no start date, so its publication date is used, and it does not say which tools apply to Guinea-Bissau.", "as_of": "2025-12-22", "date_precision": "day", "system": "national Health Management Information System (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "national Health Management Information System (HMIS)", "country_label": "", "class": "hmis", "platform": "DHIS2 (implied by the DHIS2 Climate App; not stated for Guinea-Bissau individually)", "owner": "", "tiers": "not stated"},
+    {"system": "DHIS2 Climate App and Chap Modeling Platform", "country_label": "", "class": "", "platform": "DHIS2", "owner": "HISP UiO; Saudigitus (HISP Mozambique) among the supporting HISP groups", "tiers": "not stated"}
+  ],
+  "note": ""
+}

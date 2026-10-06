@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ERI,DHIS2,DHIS2,hmis,DHIS2,,"342 facilities including rural ones (2018), offline decentralised entry",2026-03-31 Africa we have a data problem
+ERI,DHIS2 tracker program,tracker program,tracker,DHIS2,,not stated; implementation described as unclear,2026-03-31 Africa we have a data problem
+ERI,digital platforms planned for hospitals,,,,,"planned for hospitals, not clinics",2026-03-31 Africa we have a data problem
+ERI,national electronic reporting system (USSD-based),national electronic reporting system,single-function,USSD over mobile networks,Ministry of Health and Ministry of Agriculture,"not stated; recommended for development and deployment, not yet in use (August 2025)",2025-08-16-who-jee-eritrea-mission-report-2025
+ERI,mobile-based data system for essential health service utilization during emergencies,,single-function,mobile,,not stated; a recommendation (August 2025),2025-08-16-who-jee-eritrea-mission-report-2025
+ERI,DHIS2,national DHIS2 system,hmis,DHIS2,"Ministry of Health, with HISP Tanzania as technical partner",zones and sub-zones; deployed across the national health system,2024-03-13-dhis2-eritrea-connectivity
+ERI,DHIS2 tracker program,tracker program,tracker,DHIS2,Ministry of Health,not stated,2024-03-13-dhis2-eritrea-connectivity
+ERI,DHIS-2,DHIS-2,,DHIS2,,not stated,2024-01-01-eritrea-who-uhc-dhis2-rollout
+ERI,National Health Information System (NHIS),National Health Information System (NHIS); HMIS,hmis,"DHIS2, alongside paper channels","Ministry of Health, Minister's Office (HMIS, ICT and System Development units)","data from all health facilities by paper and electronic channels; DHIS2 at about 40% of secondary-level-and-above facilities; zoba-level structures, sub-zoba HMIS office under development",2021-10-01-eritrea-hssdp-iii-2022-2026-health-information-system
+ERI,aggregated routine health information system (routine facility reporting system),,hmis,,,not stated,2021-03-15-who-score-eritrea-assessment
+ERI,patient-level systems,,,,,not stated,2021-03-15-who-score-eritrea-assessment

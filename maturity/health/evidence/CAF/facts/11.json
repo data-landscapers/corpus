@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-30-worldbank-icr-redisse-iv-health-surveillance",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "Integrated Disease Surveillance and Response (IDSR)", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Early Warning, Alert and Response System (EWARS)", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The capture is an excerpt cut off before any country passage: DHIS2, IDSR and EWARS appear only in the abbreviations list of a five-country surveillance project (US$15 million equivalent to the Central African Republic, closed 31 May 2025), with nothing stated about what they do or where they run in this country."
+}

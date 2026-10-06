@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-impulse-erhis-newborn-data-functionalities",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "electronic routine health information system (eRHIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "data offices at central and subnational level (study sites, November 2022 to July 2024)"}
+  ],
+  "note": "Abstract only. The IMPULSE study observed DHIS2 in central and subnational data offices: facility annual summary reports could be generated in all, and the share of reports received against expected could be calculated in 88.9% of Tanzania's assessed offices. It states nothing on which facility tiers use it, where data is keyed or clinic coverage, so no aspect value is supported."
+}

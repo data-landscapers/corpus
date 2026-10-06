@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-28-linkedin-frieden-rwanda-death-notification-crvs",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "share:66.7%", "fact": "Tom Frieden writes that the eBuzima electronic health record is now in more than two thirds of health centres, giving no numerator, denominator or source; the piece is undated, so its publication date (a proxy) is used.", "as_of": "2026-09-28", "date_precision": "day", "system": "eBuzima", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "Tom Frieden writes that the eBuzima electronic health record is in use at health centres, in more than two thirds of them, and names no other tier; the piece is undated, so its publication date (a proxy) is used.", "as_of": "2026-09-28", "date_precision": "day", "system": "eBuzima", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Tom Frieden reports eBuzima as now reaching more than two thirds of health centres, and a government plan to match cause-of-death records to it; no date is given for the rollout, so the publication date (a proxy) is used.", "as_of": "2026-09-28", "date_precision": "day", "system": "eBuzima", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eBuzima electronic health record", "country_label": "eBuzima", "class": "emr", "platform": "", "owner": "", "tiers": "more than two thirds of health centres"},
+    {"system": "national health intelligence center", "country_label": "national health intelligence center", "class": "exchange", "platform": "", "owner": "", "tiers": "national; analysts link death reports to other outbreak signals"},
+    {"system": "phone-based community death notification", "country_label": "", "class": "", "platform": "basic phone, linked to the national ID database", "owner": "Government of Rwanda, supported by Vital Strategies", "tiers": "village leaders, nationwide from spring of the year of writing; about 10,000 community deaths logged in its first months"},
+    {"system": "verbal autopsy", "country_label": "", "class": "", "platform": "tablet-based structured interview", "owner": "", "tiers": "staff of the local administrative cell, for deaths at home"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2022-12-08-dhis2-tchad-systeme-information-sanitaire",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The DHIS2 programme (University of Oslo) reports that, a year after the June 2021 pilot in Moyen-Chari and Batha and following the official national launch of DHIS2 in November 2022, 96.4% of Chad's districts were entering their data directly into DHIS2; no numerator or denominator is given.", "as_of": "2022-11", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The DHIS2 programme states that the Ministry of Public Health and Prevention, through its Direction des Statistiques et du Système d'Information Sanitaire and a national DHIS2 team formed inside the ministry in 2019-2020, runs the implementation of DHIS2 as the health management information system, with HISP Rwanda supporting scale-up and PADS supporting districts.", "as_of": "2022-11", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The DHIS2 programme reports that the ministry planned to buy 1,798 tablets for offline data entry with the DHIS2 Android Capture app because of unstable connectivity in the north, and gives a district figure only; it publishes no share or count of health facilities entering their own reports. Dated to the article's publication.", "as_of": "2022-12-08", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "système de gestion de l'information sanitaire (DHIS2)", "class": "hmis", "platform": "DHIS2 (aggregate data entry app; Android Capture planned for offline entry)", "owner": "Ministère de la Santé Publique et de la Prévention, Direction des Statistiques et du Système d'Information Sanitaire (DSSIS); HISP Rwanda and PADS in support", "tiers": "districts: 96.4% entering data directly (2022); piloted from June 2021 in Moyen-Chari and Batha, launched nationally November 2022"},
+    {"system": "Gesis", "country_label": "Gesis", "class": "hmis", "platform": "Gesis", "owner": "Ministère de la Santé Publique et de la Prévention", "tiers": "replaced by DHIS2; before DHIS2 facilities reported on paper forms collected monthly and compiled by districts, then consolidated by provincial delegations and nationally at year end"},
+    {"system": "DHIS2 Tracker (TB, HIV, malaria programmes)", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "national TB, HIV and malaria programmes", "tiers": "envisaged only, for individual patient data (2022)"}
+  ],
+  "note": ""
+}

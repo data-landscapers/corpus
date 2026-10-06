@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-12-barriers-electronic-health-records-nigeria",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "The authors (Bolatito and Togunwa, Global Journal of Medical Students) state that some state governments have started standalone EHR pilots in tertiary hospitals while other states have no digital health strategy at all; no date is given, so the publication date is used.", "as_of": "2025-09-12", "date_precision": "day", "system": "Electronic Health Records (EHR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "not-published", "fact": "The article puts EHR adoption in Nigeria at 'as low as 18%' (citing an earlier study, no numerator or denominator, not broken down by level of care) and says rural primary health centres often lack basic electricity or computer equipment, making even minimal EHR functionality unattainable; no share or count of primary clinics is given, and the date is the publication date as none is stated.", "as_of": "2025-09-12", "date_precision": "day", "system": "Electronic Health Records (EHR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The article states that limited financial incentives and inadequate political will have left even the available EHR systems dependent on unsustainable foreign funding; no date is given, so the publication date is used.", "as_of": "2025-09-12", "date_precision": "day", "system": "Electronic Health Records (EHR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:none", "fact": "The article states there are no comprehensive national EHR policies or guidelines in Nigeria, although it names the National Health ICT Strategic Framework (2015-2020) and the Nigeria Digital in Health Strategy (2024) as general digital health frameworks that have faced implementation problems; no date is given, so the publication date is used.", "as_of": "2025-09-12", "date_precision": "day", "system": "Electronic Health Records (EHR)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Health Records (EHR)", "country_label": "EHR / EMR", "class": "emr", "platform": "", "owner": "", "tiers": "standalone pilots in tertiary hospitals in some states; partially implemented systems in public hospitals, underused"},
+    {"system": "Surveillance Outbreak Response Management and Analysis System", "country_label": "Surveillance Outbreak Response Management and Analysis System", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

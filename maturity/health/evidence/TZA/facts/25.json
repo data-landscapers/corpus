@@ -1,0 +1,18 @@
+{
+  "slug": "2025-07-01-annual-health-sector-performance-profile-report-2024",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's Annual Health Sector Performance Profile 2024 states that DHIS2, under the ministry's Monitoring and Evaluation Unit, is the main source of routine statistical data, its components being the health facility monthly and annual reports; it reports 47,982,589 outpatient attendances for Tanzania Mainland in 2024 from it.", "as_of": "2024", "date_precision": "year", "system": "DHIS2 (HMIS-DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (HMIS-DHIS2)", "country_label": "HMIS; DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, Monitoring and Evaluation Unit", "tiers": "health facility monthly and annual reports; outpatient, admission and malaria figures given for Tanzania Mainland and for all 184 councils"},
+    {"system": "Got-HOMIS (Government of Tanzania Hospital Management Information System)", "country_label": "GotHOMIS", "class": "", "platform": "", "owner": "", "tiers": "health facilities (named as one of the information systems to be made interoperable)"},
+    {"system": "AFYA Care", "country_label": "AFYA Care", "class": "", "platform": "", "owner": "", "tiers": "health facilities (named as one of the information systems to be made interoperable)"},
+    {"system": "Electronic Medical Records (EMR)", "country_label": "EMR", "class": "emr", "platform": "", "owner": "", "tiers": "coverage is the subject of section 14.2 and Figure 91, which the passages do not carry"},
+    {"system": "eLMIS", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "", "tiers": "health facilities report commodity data to it"},
+    {"system": "eIDSR (electronic Integrated Disease Surveillance and Response)", "country_label": "eIDSR", "class": "single-function", "platform": "mobile technology, linked to DHIS2", "owner": "", "tiers": "in use since 2014 for early reporting of diseases and events"},
+    {"system": "VIMS", "country_label": "VIMS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS2-ETL", "country_label": "DHIS2-ETL", "class": "", "platform": "DHIS2", "owner": "", "tiers": "source of TB and leprosy figures by region"},
+    {"system": "Human Resources Information System", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only, and they stop before chapter 14 (14.2 Digital health coverage of EMR, 14.3 Interoperability status, Figure 91 percentage of EMR coverage by facility, pp. 187-190), which appears in the contents list alone: the report's EMR coverage figures are not in the file read. The malaria chapter reports inconsistency between HMIS tools, DHIS2 and eLMIS data from the same facilities and recommends a single digital reporting tool at facilities to cut transcription errors, without saying where reports are keyed."
+}

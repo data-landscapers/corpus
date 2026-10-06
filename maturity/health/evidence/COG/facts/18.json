@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-strategie-cooperation-oms-congo-2025-2028",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "WHO states that Congo adopted a national strategic plan for the national health information system (SNIS) and e-health for 2020-2024 in November 2019, that its implementation is insufficient, and that there is no legislative or functional multisectoral framework coordinating the health information system.", "as_of": "2019-11", "date_precision": "month", "system": "SNIS (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "WHO states that DHIS2 has been used since 2020 as the national warehouse 'at the peripheral level' for routine health data, enabling electronic aggregation, with data completeness of 87% and timeliness of 47.9% in 2024; the document does not say whether entry is at the facility or the district office.", "as_of": "2024", "date_precision": "year", "system": "SNIS (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SNIS (DHIS2)", "country_label": "Système national d'information sanitaire (SNIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministère de la Santé et de la Population (Direction des études et de la planification), with WHO support", "tiers": "peripheral level since 2020 for routine health data; health districts to enter the health statistics yearbook questionnaire in DHIS2 (planned WHO support)"}
+  ],
+  "note": "Nothing on electronic patient records. The value 'district' reads 'niveau périphérique' as the health district tier of the Congolese pyramid; the parent may prefer to leave it unvalued."
+}

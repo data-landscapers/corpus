@@ -1,0 +1,38 @@
+{
+  "slug": "2021-09-21-linking-rural-health-centres-malawi-digital-health",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot",
+     "fact": "BMZ reports that the openSRP electronic patient register was being piloted at one rural health centre, Bilira in Ntcheu District, with 23 tablets and about 10,000 patients covered, and that scaling to other facilities was still to be funded.",
+     "as_of": "2021-07", "date_precision": "month", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3",
+     "fact": "BMZ reports the openSRP e-register in use at a single rural health centre, Bilira, in its maternal, newborn and child health clinics, with an outpatient module in development; no other facility had it.",
+     "as_of": "2021-07", "date_precision": "month", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care",
+     "fact": "BMZ describes nurses at Bilira health centre opening or creating the patient's electronic record on a tablet during the consultation and following a step-by-step checklist that will not advance until the required value is entered.",
+     "as_of": "2021-07", "date_precision": "month", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner",
+     "fact": "BMZ states that GIZ oversees the Bilira pilot in support of the Ministry of Health and Population, with Jembi and Ona contracted to prepare and install the system and train staff, in partnership with HISP Malawi.",
+     "as_of": "2021-07", "date_precision": "month", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor",
+     "fact": "BMZ states the Bilira e-register pilot is co-funded by the Gates Foundation and the German government, and quotes GIZ as hoping to attract funding for a national rollout.",
+     "as_of": "2021-07", "date_precision": "month", "system": "openSRP e-register", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district",
+     "fact": "BMZ quotes Bilira's health assistant saying that, unlike other health centres in the area, Bilira no longer has to find transport to deliver paper reports to the District Health Office, its data being uploaded automatically to DHIS2 daily or weekly; the article does not say where the other centres' paper reports are keyed.",
+     "as_of": "2021-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "pilot",
+     "fact": "BMZ reports one health centre, Bilira, sending its data electronically from the facility to the national DHIS2 as part of the e-register pilot, against paper reports from the other health centres in the area; no national count is given.",
+     "as_of": "2021-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:partner",
+     "fact": "BMZ describes HISP Malawi as the health informatics programme responsible for implementing the national health information system, DHIS2.",
+     "as_of": "2021-07", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "openSRP e-register", "country_label": "e-register", "class": "emr", "platform": "OpenSRP", "owner": "Ministry of Health and Population pilot, overseen by GIZ; built by Jembi and Ona with HISP Malawi", "tiers": "one rural health centre (Bilira, Ntcheu District)"},
+    {"system": "DHIS2", "country_label": "national health information management system", "class": "hmis", "platform": "DHIS2", "owner": "implemented by HISP Malawi", "tiers": "national; health centres report on paper to the District Health Office"},
+    {"system": "OpenMRS", "country_label": "", "class": "", "platform": "OpenMRS", "owner": "", "tiers": ""},
+    {"system": "Master Facility Registry", "country_label": "Master Facility Registry", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "OpenHIE interoperability framework", "country_label": "", "class": "exchange", "platform": "OpenHIE", "owner": "", "tiers": ""},
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "enabling", "platform": "", "owner": "Ministry of Health scheme, supported by GIZ", "tiers": "last-mile connectivity to health centres in Dedza and Ntcheu districts"}
+  ],
+  "note": "Dates taken from the author's credit line, July 2021; the article was published 2021-09-21."
+}

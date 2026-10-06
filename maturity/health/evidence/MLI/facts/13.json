@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-01-asc-hawa-kone-disc-mali",
+  "facts": [],
+  "systems": [
+    {"system": "DISC-Mali", "country_label": "Digitalisation de la Santé Communautaire (DISC-Mali)", "class": "community", "platform": "Community Health Toolkit (open source), customised by Medic", "owner": "Ministère de la Santé et de l'Hygiène Publique; implemented with Medic, Muso and a committee of NGOs", "tiers": "community health workers on tablets; launched March 2023 in Ségou as a national system, with 2,000 tablets distributed at launch on top of 26,000 from partners"}
+  ],
+  "note": "Medic's story of one community health worker in Ségou using DISC-Mali; a community system only, with nothing on facility reporting or a patient record held by a facility."
+}

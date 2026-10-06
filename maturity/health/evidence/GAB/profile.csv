@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,hmis,governance,qualifier,owner:ministry;finance:donor,2024-12-06,GAB-005;GAB-006,,not stated: plan
+GAB,hmis,tiers,coverage,,,,,nothing held
+GAB,hmis,digitised,coverage,district,2026-03,GAB-003,,
+GAB,hmis,last12,qualifier,,,,,nothing held
+GAB,hmis,clinics,coverage,,,,,nothing held
+GAB,emr,governance,qualifier,owner:ministry;finance:donor,2026-06-24,GAB-001;GAB-008,GAB-010=finance:donor;GAB-009=finance:donor,not stated: plan
+GAB,emr,tiers,coverage,none,2016-05-12,GAB-007,,nothing dated since 2023-10-06
+GAB,emr,digitised,coverage,paper,2026-03,GAB-004,,
+GAB,emr,last12,qualifier,no-change,2026-06-24,GAB-002,,
+GAB,emr,clinics,coverage,,,,,nothing held

@@ -1,0 +1,13 @@
+{
+  "slug": "2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette",
+  "facts": [],
+  "systems": [
+    {"system": "National Health Information Exchange (HIE)", "country_label": "National Health Information Exchange", "class": "exchange", "platform": "IHE profiles, HL7 v3, FHIR", "owner": "National Department of Health", "tiers": "planned: all healthcare facilities served by the shared infrastructure"},
+    {"system": "Central patient registry", "country_label": "central patient registry", "class": "exchange", "platform": "", "owner": "National Department of Health", "tiers": "planned: shared across all healthcare facilities served by the shared infrastructure, one identifier per patient"},
+    {"system": "Central provider registry", "country_label": "central provider registry", "class": "exchange", "platform": "", "owner": "National Department of Health", "tiers": "planned: shared across all healthcare facilities served by the shared infrastructure"},
+    {"system": "Central facility registry", "country_label": "central facility registry", "class": "exchange", "platform": "", "owner": "National Department of Health", "tiers": "planned: shared across all healthcare facilities served by the shared infrastructure"},
+    {"system": "Shared clinical repositories", "country_label": "shared clinical repositories", "class": "exchange", "platform": "", "owner": "local and provincial government departments", "tiers": "planned: shared across services, facilities, hospitals and districts, within a province or nationally"},
+    {"system": "South African National Health Information System (SA NHIS)", "country_label": "SA NHIS", "class": "", "platform": "", "owner": "National Department of Health", "tiers": "national, provincial and local levels; described as emerging"}
+  ],
+  "note": "Gazetted interoperability standards framework (GN 2667, 21 October 2022). It sets out a planned federated architecture of registries, shared repositories and an exchange, and states nothing about any HMIS or EMR in use, its tiers, where data is keyed or clinic coverage; all systems named are exchange-class or undescribed, so no fact."
+}

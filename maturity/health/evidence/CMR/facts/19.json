@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-06-mkwbc-mhealth-southern-region-health-centres",
+  "facts": [],
+  "systems": [
+    {"system": "mHealth software (MK WBC)", "country_label": "mHealth", "class": "tracker", "platform": "bespoke web and mobile application by MK WBC", "owner": "UNICEF Cameroon (commissioned by tender); Ministry of Public Health departments took part in the training", "tiers": "four integrated health centres (CSI) in four pilot health districts of the South Region: Ebolowa, Meyomessala, Sangmelima, Ambam; use to begin after training of 6-11 October 2025"}
+  ],
+  "note": "The software follows pregnant and breastfeeding women and adolescents living with HIV (medication and appointment tracking), so it is a single-programme tracker and gives no hmis or emr fact."
+}

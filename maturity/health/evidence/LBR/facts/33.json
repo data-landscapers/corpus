@@ -1,0 +1,11 @@
+{
+  "slug": "2015-01-01-usaid-lbr-collaborative-health-2015-collaborative-support-for-health-systems-strengthening",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The record of USAID's Collaborative Support for Health Systems Strengthening programme (US$21,257,274 committed, US$21,257,253 disbursed, 2015 to 2022) states that it supported the national HMIS, iHRIS and electronic data capture for PEPFAR reporting; the share of the money for HMIS is not given, health information systems being one element of a broad programme.", "as_of": "2015", "date_precision": "year", "system": "national HMIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "national HMIS", "country_label": "national HMIS", "class": "hmis", "platform": "", "owner": "", "tiers": ""},
+    {"system": "iHRIS", "country_label": "iHRIS", "class": "", "platform": "iHRIS", "owner": "", "tiers": ""}
+  ],
+  "note": "An excerpt-only deal record, withdrawn from the finance register; it names the HMIS without describing what it does, and the programme ended in 2022."
+}

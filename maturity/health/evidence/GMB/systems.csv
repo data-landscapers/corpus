@@ -1,0 +1,33 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GMB,Health Management Information System (HMIS),HMIS,,,Ministry of Health,,2026-07-01-mobse-health-ministry-data-systems
+GMB,DHIS2 (health sector use),,,DHIS2,,,2026-04-02-eeas-eu-supports-digital-tracking-system-rf-ndp
+GMB,DHIS2,HMIS/DHIS2,hmis,DHIS2,,data entered at district or regional level from clinics' paper,2026-03-31 Africa we have a data problem
+GMB,Smart Paper Technology (SPT),Smart Paper Technology,tracker,"Smart Paper Technology, synchronised to DHIS2",,scaled nationally for the Expanded Programme on Immunization; piloted in urban facilities such as Bundung Maternal and Child Hospital,2026-03-31 Africa we have a data problem
+GMB,TB e-Tracker,TB e-Tracker,tracker,,,limited pilots in some rural sites,2026-03-31 Africa we have a data problem
+GMB,Smart Paper Technology (SPT),Smart Paper Technology,tracker,"Smart Paper Technology (Shifo Foundation), synchronised with DHIS2","Ministry of Health with MRCG at LSHTM, Shifo Foundation, US CDC and Bundung Hospital","launched 2017, piloted at Bundung Maternal and Child Hospital and Fajikunda",2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia
+GMB,DHIS2,,,DHIS2,,,2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia
+GMB,DHIS2 aggregate system,District Health Information System 2 (DHIS2); hmis.moh.gm,hmis,DHIS2,Ministry of Health,monthly aggregate reports from health facilities,2025-01-01-ijtld-open-tb-etracker-gambia
+GMB,TB e-Tracker,e-Tracker / DHIS2 TB tracker; hivtb.moh.gm,tracker,DHIS2 Tracker (WHO case-based TB package),"Ministry of Health, National Leprosy and Tuberculosis Control Programme, with WHO-TDR funding for the study","pilot at 11 TB treatment sites, June to November 2024: general and district hospitals, one health centre and one community clinic, across all seven regions",2025-01-01-ijtld-open-tb-etracker-gambia
+GMB,Health Management Information System,Health Management Information System (HMIS),emr,,Ministry of Health; World Bank supported project,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,electronic National Health Insurance System (eNHIS),eNHIS / National Health Insurance System,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,"electronic Human Resource Management Information System (eHRMIS), of Health",eHRMIS,,,,,2025-01-01-world-bank-gambia-id4d-diagnostic
+GMB,DHIS2,HMIS (Ministry of Health unit),,DHIS2,Ministry of Health (HMIS),,2023-09-01-gbos-national-strategy-development-of-statistics-nsds-iii-2024-2028
+GMB,DHIS2,HMIS; District Health Information Software 2,hmis,DHIS2,"Ministry of Health, Directorate of Planning and Information",monthly reports from public health facilities; weekly surveillance forms entered at regional level,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic Health Records (EHR) System,EHR,emr,OpenClinic,Ministry of Health; contractor Bluesquare,to be piloted in four health facilities,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic Logistics Management Information System (eLMIS),eLMIS,single-function,,"Ministry of Health; software financed by GFATM, hardware, hosting and connectivity by the World Bank project","pilot from December 2022, about 50 facilities covered, all health facilities expected by July 2023",2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic National Health Insurance System (eNHIS),eNHIS,,,contractor Bluesquare,to be piloted in four health facilities,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic Human Resource Management Information System (eHRMIS),eHRMIS,,,Ministry of Health,,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic Asset Management Information System,,,,Ministry of Health,,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic Civil Registration and Vital Statistics (eCRVS) System,eCRVS,,HERA,"Ministry of Health, Births and Deaths Registry",,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,electronic case-based surveillance system (planned),,tracker,DHIS2 Tracker,"Ministry of Health, Epidemiology and Disease Control Unit",not yet built; notifiable cases reported by phone and WhatsApp,2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,community health workers' service delivery reports integrated into HMIS,,community,DHIS2,Ministry of Health,"baseline 80.6% of expected community health worker reports integrated into HMIS, end target 90%",2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486
+GMB,DHIS2 (health sector use),,,DHIS2,,,2022-10-06-dhis2-gambia-mobse-emis-tracker-impact-story
+GMB,DHIS2 (health sector use),,,DHIS2,,,2022-10-01-dhis2-education-gambia-country-use-case-emis-shift
+GMB,DHIS2,HMIS; District Health Information Software 2,hmis,DHIS2,Ministry of Health,health facilities' monthly reports,2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,electronic medical records system (planned),,emr,,Ministry of Health,none; request for bids being finalised,2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,electronic logistics management information system (eLMIS),eLMIS,single-function,,Ministry of Health,not yet established; bids for consulting services evaluated,2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,electronic Human Resource Management Information System (eHRMIS),eHRMIS,,,Ministry of Health,request for bids issued,2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,electronic Civil Registration and Vital Statistics system,eCRVS,,,Ministry of Health,user devices procured for registration centres across the country,2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,National Health Insurance Authority electronic enrolment and claims processing (planned),,,,National Health Insurance Authority (proposed),,2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,community health workers' service delivery reports integrated into HMIS,,community,,Ministry of Health,"baseline 80.6% of reports integrated into HMIS, end target 90%",2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing
+GMB,e-Health information system (planned),,,,,,2020-10-01-gambia-e-government-strategy-2021-2024-moici

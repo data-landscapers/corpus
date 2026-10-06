@@ -1,0 +1,38 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,national interoperability layer,national interoperability layer,exchange,OpenFn (Open Function),"Directorate of e-Health, with the Data.FI Project and OpenFn developers",national,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,national DHIS2-based health information system,national health information system,,DHIS2,,national,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,three digital health platforms connected to DHIS2 (unnamed),,,,,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
+NER,"EHR (strategy component, unnamed)",,emr,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
+NER,"interoperability layer (strategy component, unnamed)",,exchange,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
+NER,OpenClinic,projet OpenClinic (système d'information hospitalier et dossier patient informatisé),emr,OpenClinic,"Ministry of Health, Direction de la e-Santé (presenter)",hospitals; not otherwise stated,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,couche nationale d'interopérabilité,couche nationale d'interopérabilité,exchange,,"Ministry of Health, Direction de la e-Santé",national; stated as already operational with several systems,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,Estelab,plateforme Estelab,single-function,,,not stated; surveillance of notifiable diseases,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,DHIS2 (weekly notifiable-disease reporting),système DHIS2,single-function,DHIS2,,"CSI (integrated health centres), health districts and hospitals entered the weekly data by hand until the interoperability layer",2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,plateforme eLearning,projet eLearning,,,Ministry of Health,,2026-07-08-anp-sante-numerique-schema-directeur-e-sante
+NER,mHealth,mHealth platform,community,"mHealth (offline-first Android app, SMS synchronisation), mHealth Africa",,"Gouré health district: 139 organisational units, including integrated health centres (CSI) and community health posts; used by community health workers, with CSIs reporting supply needs through it",2026-05-18-mhealth-goure-niger
+NER,mHealth Monitor,mHealth Monitor dashboard,community,mHealth,,"district supervisors, Gouré",2026-05-18-mhealth-goure-niger
+NER,national health information system,national health information system,,,,,2026-05-18-mhealth-goure-niger
+NER,DHIS2,national HMIS,hmis,DHIS2,,"national; aggregate data, likely transcribed at district level from facility paper tallies",2026-03-31 Africa we have a data problem
+NER,OpenClinic HIS,,,OpenClinic,,piloted at select district hospitals,2026-03-31 Africa we have a data problem
+NER,computerised maintenance system,,,,,"3 rural districts; management-focused, not patient records",2026-03-31 Africa we have a data problem
+NER,National Health Information System (SNIS),SNIS,,,Ministry of Health,,2026-02-11-worldbank-cerp-project-paper-niger
+NER,OpenClinic,digital hospital information system named OpenClinic,,OpenClinic,"Ministry of Health with Enabel (PASS-Sutura project, Belgian funding ending 2026)",Gaya and Gothèye district hospitals,2025-09-26-joghep-niger-integrating-specialised-services-phc
+NER,District Health Information System (DHIS-2),DHIS-2,,DHIS2,,,2025-09-26-joghep-niger-integrating-specialised-services-phc
+NER,Computerised Maintenance and Management System,GMAO,enabling,,Ministry of Health with Enabel (PASS-Sutura),three health districts since 2022; national scale-up expected after 2025,2025-09-26-joghep-niger-integrating-specialised-services-phc
+NER,telemedicine at referral hospitals,,enabling,,,"referral hospitals, planned for later in 2025",2025-09-26-joghep-niger-integrating-specialised-services-phc
+NER,OpenHEXA,plateforme OpenHEXA,exchange,"OpenHEXA (Bluesquare, open source)","Ministry of Health, Direction de la e-Santé (hosted on ministry servers); financed by the Enabel Palu / Gates Foundation project","national; installed at a workshop of 30 June to 6 July 2025, production roadmap agreed",2025-09-04-openhexa-niger-interoperabilite-sante
+NER,DHIS2,,,DHIS2,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,OpenIMIS,,,OpenIMIS,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,OpenClinic,,,OpenClinic,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,SNIS,SNIS,,,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,carte sanitaire (SNIS > OpenHEXA > Superset),carte sanitaire,exchange,"OpenHEXA, Superset",Direction de la e-Santé,"planned use case, second workshop October-November 2025",2025-09-04-openhexa-niger-interoperabilite-sante
+NER,base de données DHIS2,base de données DHIS2 du ministère de la Santé Publique,,DHIS2,Ministère de la Santé Publique (MSP),connecting the CSIs of remote villages to it is listed as an item; whether done or planned is not in the passage,2022-10-01-niger-strategie-nationale-agriculture-numerique
+NER,Système National d'Information Sanitaire (SNIS),SNIS,hmis,"DHIS2 (www.dhisniger.ne, online since September 2016), alongside semi-electronic and manual reporting","Ministère de la Santé Publique, Direction des Statistiques",whole country; DHIS2 data entry begun in certain health facilities,2019-01-01-niger-strategie-nationale-e-sante
+NER,Dossier Electronique du Patient,Dossier Electronique du Patient (DEP) / Dossier Médical Personnel (DMP),emr,,,"initiatives in two health districts, Gaya and Gothèye",2019-01-01-niger-strategie-nationale-e-sante
+NER,télémédecine (RAFT / UNFM),projet national de télémédecine,enabling,"RAFT, UNFM","Ministère de la Santé Publique, Cellule d'Appui au Développement de la Télésanté","national hospitals of Niamey, Lamordé and Zinder, Tahoua hospital, Mainé district hospital, Ouallam health district; Fachi CSI connected by VSAT on 29 June 2018",2019-01-01-niger-strategie-nationale-e-sante
+NER,plateforme e-surveillance via mobile Health,plateforme e-surveillance,single-function,,Ministère de la Santé Publique,,2019-01-01-niger-strategie-nationale-e-sante
+NER,"progiciels de gestion administrative, financière et médicale",,,,Ministère de la Santé Publique,,2019-01-01-niger-strategie-nationale-e-sante
+NER,World Vision / University of Toronto mobile child-health follow-up,,community,,World Vision and University of Toronto,"116 community health agents in Maradi, Dakoro, Dosso and Doutchi, 2014-2016",2019-01-01-niger-strategie-nationale-e-sante
+NER,Save the Children / USAID mobile follow-up of acute malnutrition,,community,,"Save the Children, USAID","community health agents, nationwide, 2013-2016",2019-01-01-niger-strategie-nationale-e-sante
+NER,connectivité des structures sanitaires / RINA,Réseau Informatique National de l'Administration,enabling,,ANSI,"ministry central services and national hospitals connected; other CHR, district hospitals and CSI partially, by ADSL or WiFi",2019-01-01-niger-strategie-nationale-e-sante
+NER,National Health Information System (SNIS),SNIS,,DHIS2,,,2025-06-01-unhcr-niger-annual-results-report-2024

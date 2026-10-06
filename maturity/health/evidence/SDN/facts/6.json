@@ -1,0 +1,27 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "ICTworks' directory, current as of July 2026, lists Sudan's operative digital health instrument as the Sudan eHealth Strategy of the WHO Global Observatory's 2014 cycle and states that no replacement has been promulgated; it names no system.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "routine facility reporting (no system named)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "ICTworks' directory, current as of July 2026, lists Sudan's operative digital health instrument as the Sudan eHealth Strategy of the WHO Global Observatory's 2014 cycle and states that no replacement has been promulgated; it names no system.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "patient records (no system named)",
+      "class": "emr"
+    }
+  ],
+  "systems": [],
+  "note": "Regional directory; the Sudan entry is one line. It also states that over 70% of health facilities are non-functional and the Federal Ministry of Health is displaced, with no date beyond the war's start in April 2023; neither is a statement about a system. A later paragraph says Sudan carries primary sources for an integrated health sector plan but no standalone digital strategy."
+}

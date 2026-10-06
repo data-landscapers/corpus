@@ -1,0 +1,23 @@
+{
+  "slug": "2023-01-01-world-bank-phcpi-assessment-primary-health-care-system-mauritania",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 (District Health Information Software 2)",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "HMIS",
+      "country_label": "Système National d'Information Sanitaire (SNIS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The stored body is an excerpt cut at the fetch limit in the Coverage chapter, before the Capacity chapter (information systems). What is stored names DHIS2 and the HMIS/SNIS only in the abbreviations list, with no description, and says in general terms that the Ministry of Health lacks sufficient nationwide information and recommends investing in information systems integrating medical records; no fact can be taken. The statement that health posts send paper to health centres for entry into DHIS2 and that no electronic medical record is in use appears only in the record's frontmatter note, not in the stored text, so it is not recorded here."
+}

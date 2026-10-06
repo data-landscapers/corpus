@@ -1,0 +1,118 @@
+{
+  "slug": "2026-01-12-e-tick-stalled-ehr-implementation-south-africa",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Zharima, Griffiths and Goudge state that most primary health care facilities continue to rely on manual paper-based systems, clinicians ticking services in a paper tick register, and that there is no national EHR at the primary care level; the statement is undated (interviews ran November 2021 to June 2022), so the paper's published date is used.",
+      "as_of": "2026-01-12",
+      "date_precision": "day",
+      "system": "national EHR (stated absent at primary care level)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "Zharima, Griffiths and Goudge state that most provinces have had some type of operational EHR system in public hospitals, on differing architectures that hinder integration, with none at national level for primary care; no count of provinces or hospitals is given and the statement is undated, so the paper's published date is used.",
+      "as_of": "2026-01-12",
+      "date_precision": "day",
+      "system": "provincial hospital EHR systems (unnamed)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The E-tick electronic tick register was piloted in 3 public health care facilities in Ekurhuleni district, Gauteng, deployed in 2019-2020 after development from 2017, according to Zharima, Griffiths and Goudge; no denominator of clinics is given.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-tick (electronic tick register)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T4",
+      "fact": "During its 2019-2020 pilot the E-tick was used in 3 public clinics in Ekurhuleni district by nurses, midwives, clerks and facility managers, according to Zharima, Griffiths and Goudge.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-tick (electronic tick register)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "In the E-tick pilot clinicians recorded services directly into the system on the patient's record in the consultation room, on desktops or wall-mounted tablets, and could retrieve the patient's history; a back-capture function was added for network failures, and the authors say it was not a full EHR.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-tick (electronic tick register)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The E-tick was initiated by a senior district health manager and paid for by a non-profit funding partner, which funded development, network cabling and routers; the provincial department did not host its data or give support, and the funder's own funding was later cancelled, according to Zharima, Griffiths and Goudge.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-tick (electronic tick register)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "Expansion of the E-tick beyond its 3 pilot clinics halted in 2021 after a change of developers, funding cuts and lack of provincial support, and an originator said that with no new funder found it had been put to sleep, according to Zharima, Griffiths and Goudge.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "E-tick (electronic tick register)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-tick (electronic tick register)",
+      "country_label": "E-tick",
+      "class": "emr",
+      "platform": "bespoke, built on the Microsoft platform, web-based with cloud hosting, not open source",
+      "owner": "Ekurhuleni district originators with a non-profit funder and contracted developers",
+      "tiers": "3 public clinics in Ekurhuleni district, Gauteng (pilot, halted 2021)"
+    },
+    {
+      "system": "District Health Information Software (DHIS)",
+      "country_label": "DHIS",
+      "class": "hmis",
+      "platform": "DHIS",
+      "owner": "public sector; data submitted to district, provincial and national health departments",
+      "tiers": "public health facilities"
+    },
+    {
+      "system": "Health Patient Registration System (HPRS)",
+      "country_label": "HPRS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "public sector",
+      "tiers": ""
+    },
+    {
+      "system": "Tier.net",
+      "country_label": "Tier.net",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "provincial HIS platform (Gauteng)",
+      "country_label": "HIS platform",
+      "class": "",
+      "platform": "off-the-shelf",
+      "owner": "Gauteng Provincial Department of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "For hmis the paper says DHIS data is first collected manually on paper tick registers, then captured into the DHIS software and submitted to district, provincial and national departments, and an originator put about 80% of data errors at the counting and transfer into DHIS; it does not say at which level the capture is done, so no digitised value is recorded. It describes HPRS as a manual patient registry of contact details and identity numbers."
+}

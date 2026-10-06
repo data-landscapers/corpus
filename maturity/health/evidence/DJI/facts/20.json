@@ -1,0 +1,23 @@
+{
+  "slug": "2024-12-02-igad-digital-health-equipment-djibouti",
+  "facts": [],
+  "systems": [
+    {
+      "system": "digital health (computer) equipment handed over by IGAD",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "computer equipment, EU Digital Solutions project",
+      "owner": "Ministry of Health as recipient; donated by IGAD, funded by the European Union with German (BMZ) co-funding, implemented by GIZ",
+      "tiers": "three cross-border health facilities, district health offices and the Ministry of Health's HMIS/Digital Health/IDSR sections"
+    },
+    {
+      "system": "Health Information System (HIS) / HMIS section of the Ministry of Health",
+      "country_label": "HIS; HMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Ministry of Health (national)"
+    }
+  ],
+  "note": "No fact: the article (published 2 December 2024) reports a handover of equipment for cross-border disease surveillance and data sharing, an enabling item; it names the ministry's HIS and HMIS sections as recipients without saying what any system does, so they are unclassified."
+}

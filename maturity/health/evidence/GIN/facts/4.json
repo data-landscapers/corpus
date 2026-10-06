@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-16-japon-unfpa-spaq-numerisation-soins-guinee",
+  "facts": [],
+  "systems": [
+    {"system": "SPAQ", "country_label": "SPAQ (SOIK Corporation)", "class": "tracker", "platform": "SPAQ application linked to a portable ultrasound scanner", "owner": "UNFPA with the Guinean government, financed by Japan (USD 393,333); technology of SOIK Corporation", "tiers": "planned: one mobile clinic and ten health structures (unnamed), 20 midwives trained; memorandum signed 16 June 2026"}
+  ],
+  "note": "No hmis or emr system: the only system is SPAQ, an application tied to a portable ultrasound for antenatal follow-up, centralising results and remote monitoring (maternal programme only, with a telehealth element), planned under a memorandum signed 16 June 2026."
+}

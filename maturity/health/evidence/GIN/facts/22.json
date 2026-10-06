@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-usaid-gin-notre-sant--guinea-2023-notre-sante---guinea-digital-health",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national health information systems / DHIS2 implementation", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "Deal record: USAID's Notre Santé programme (US$28,749,042 committed 2023, to run 2023-2028) is described as supporting national health information systems, DHIS2 implementation and health data governance; DHIS2 is named without any description of what it reports, so it is unclassified and gives no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief",
+  "facts": [],
+  "systems": [
+    {"system": "electronic Integrated Disease Surveillance Reporting (eIDSR) platform", "country_label": "eIDSR", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated; linked to the education DHIS2-Ed system for school-based surveillance indicators"}
+  ],
+  "note": "Education policy brief on the DHIS2-for-Education Termly School Report; the only health system named is the surveillance platform eIDSR (single-function), so no HMIS or EMR fact."
+}

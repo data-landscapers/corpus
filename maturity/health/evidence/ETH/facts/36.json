@@ -1,0 +1,31 @@
+{
+  "slug": "2023-06-07 Barriers, facilitators and motivators of electronic community health information system use among health workers in Ethiopia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "electronic community health information system (eCHIS)",
+      "country_label": "eCHIS",
+      "class": "community",
+      "platform": "offline-first mobile application on tablets",
+      "owner": "Ministry of Health, with development partners (study funded by USAID Digital Health Activity)",
+      "tiers": "health extension workers at health posts and house to house; releases 1 and 2 in more than 7,000 health posts by 2022, releases 3 to 5 in pilot; dashboards used at health centres and woreda health offices"
+    },
+    {
+      "system": "community health information system (CHIS), manual",
+      "country_label": "CHIS / family folder",
+      "class": "community",
+      "platform": "paper family folders and tickler file",
+      "owner": "Ministry of Health",
+      "tiers": "health posts; in use since 2008 and still mandatory in parallel with eCHIS in May 2022"
+    },
+    {
+      "system": "national health management information system (HMIS)",
+      "country_label": "HMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The study is about eCHIS, a system used by community health workers (class community), so it gives no HMIS or EMR fact; the national HMIS is named only for its principles."
+}

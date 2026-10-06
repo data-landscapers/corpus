@@ -1,0 +1,9 @@
+{
+  "slug": "2021-05-10-gabon-project-information-document-digital-gabon-p175987",
+  "facts": [],
+  "systems": [
+    {"system": "national Health Information System (eGabon project)", "country_label": "eGabon", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CNAM-GS social protection beneficiary registry", "country_label": "CNAM-GS", "class": "", "platform": "", "owner": "CNAM-GS (national health insurance and social security fund)", "tiers": ""}
+  ],
+  "note": "Appraisal-stage document for Digital Gabon (May 2021); the national Health Information System is named only as a system the planned interoperability platform would link to, with no description of what it does. The CNAM-GS registry is an insurance beneficiary registry, outside the study's classes."
+}

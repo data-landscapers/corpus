@@ -1,0 +1,17 @@
+{
+  "slug": "2022-05-04-car-health-service-delivery-system-strengthening-seni-plus-pad",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The World Bank appraisal document states that the Roadmap for the HMIS was elaborated in June 2019 and was being implemented at appraisal, and that the country's ambition is to roll out DHIS2 in all areas of the country; the published date is used for the date of that position.", "as_of": "2022-05-04", "date_precision": "day", "system": "national HMIS (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank appraisal document states that the SENI-Plus project (an IDA grant of US$58 million equivalent and a Global Financing Facility grant of US$12 million) will finance the national rollout of improved HMIS tools and the gradual transition to DHIS2 in all 35 districts, IT equipment and connectivity including VSAT, and data managers in all regions and districts, building on the 55 data managers recruited under SENI.", "as_of": "2022-05-04", "date_precision": "day", "system": "national HMIS (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The World Bank appraisal document states that there is no functioning HMIS, that revised paper forms and registers had been rolled out in 12 districts, that DHIS2 had been piloted in Bangui and was in only five districts in and around Bangui, and that data managers scaled it up particularly at the district level; the published date is used, the statements being undated.", "as_of": "2022-05-04", "date_precision": "day", "system": "national HMIS (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "national HMIS (DHIS2)", "country_label": "national HMIS", "class": "hmis", "platform": "DHIS2, gradually replacing the current HMIS", "owner": "Ministry of Health and Population (MOH)", "tiers": "five districts in and around Bangui as of appraisal; all 35 districts planned"},
+    {"system": "PBF portal", "country_label": "PBF digital portal / PBF database", "class": "single-function", "platform": "", "owner": "PBF National Technical Unit (CTN-FBP); a PBF portal manager sits in the project implementation unit", "tiers": "runs in parallel to the national HMIS, using many of the same primary data collection tools; interoperability with DHIS2 planned"},
+    {"system": "Geo-Enabled Monitoring and Supervision (GEMS)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Health Resources Availability Mapping System (HeRAMS)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Gender-Based Violence Information Management System (GBVIMS)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "electronic surveillance reporting systems and epidemic outbreak alert system", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "planned under the project, with tablets for timely reporting"}
+  ],
+  "note": "Passages file; only the paragraphs carrying a study term were read. It says nothing of patient records, so there is no emr fact."
+}

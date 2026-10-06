@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-01-who-liberia-annual-report-2025",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO reports that in 2025, with Gavi support, it procured and delivered 31 laptops with statistical software to strengthen data analysis and use within the health management information and surveillance systems, and names DHIS2 among the platforms through which routine health information was strengthened that year.", "as_of": "2025", "date_precision": "year", "system": "Health Management Information System (HMIS) / DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (HMIS) / DHIS2", "country_label": "HMIS; routine HIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "e-IDSR", "country_label": "electronic Integrated Disease Surveillance and Response (e-IDSR)", "class": "single-function", "platform": "", "owner": "Ministry of Health / NPHIL, WHO-supported", "tiers": "137 surveillance officers across all districts and zones, reporting by mobile phone"},
+    {"system": "dIMCI", "country_label": "Digital Integrated Management of Childhood Illness", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Also states, with no system of an assessed class attached: a WHO-supported HIS functionality assessment in 2025 found an overall early maturity level and is to inform a national HIS policy and strategy still to be developed; the second WHO SCORE assessment was completed; WHO will support the Ministry to develop modern HIS strategies in 2026. dIMCI appears only in the abbreviations list."
+}

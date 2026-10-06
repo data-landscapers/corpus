@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Health Management Information System (iHMIS), also called the integrated Hospital Management Information System and the IICS system", "country_label": "iHMIS", "class": "", "platform": "Built by Integrated Intelligent Computer Systems (IICS) Technologies Ltd, a local firm", "owner": "Ministry of ICT and National Guidance as contracting and funding ministry", "tiers": "Deployed in selected health centres across the country (FY2021/22)"},
+    {"system": "My Musawo", "country_label": "", "class": "", "platform": "", "owner": "Innovator awardee under the National ICT Initiatives Support Programme", "tiers": ""},
+    {"system": "Call the Clinic", "country_label": "", "class": "", "platform": "", "owner": "Innovator awardee under the National ICT Initiatives Support Programme", "tiers": ""}
+  ],
+  "note": "The ICT ministry's Q4 FY2021/22 report (excerpt, cut off at page 35 of 91) records contracting IICS Technologies Ltd to develop the iHMIS, an inception report approved for a 20% payment, deployment in selected health centres and UGX 5.01bn spent from the domestic budget under grants to innovators; it never says what the system does or that it holds a clinical record, so it cannot be classed and gives no fact."
+}

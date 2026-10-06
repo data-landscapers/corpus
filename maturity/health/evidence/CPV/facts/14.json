@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01-oms-resultados-cooperacao-tecnica-cabo-verde-2024-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação em Saúde (SIS)", "country_label": "Sistema de Informação em Saúde (SIS)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS2 (death certification and cause-of-death notification)", "country_label": "DHIS2", "class": "single-function", "platform": "DHIS2", "owner": "Ministério da Saúde, with WHO support and Portuguese financing", "tiers": "use beginning in 2024-2025 for vital statistics; computers delivered to every delegacia de saúde (municipal level)"},
+    {"system": "Observatório Nacional de Saúde", "country_label": "Observatório Nacional de Saúde", "class": "", "platform": "", "owner": "", "tiers": "national; operational and made interoperable with the WHO regional health observatory"},
+    {"system": "EIOS", "country_label": "Epidemic Intelligence from Open Sources (EIOS)", "class": "single-function", "platform": "WHO EIOS", "owner": "WHO platform; used by national surveillance and the CNOE", "tiers": "central level; 25 professionals trained"}
+  ],
+  "note": "WHO biennial report (December 2025; the capture is truncated at the fetch limit, so its last pages are not read). It states that an assessment put the Sistema de Informação em Saúde at 55% maturity and that the Estratégia Nacional de Saúde Digital 2024-2034 was published as the framework for modernising the SIS, but never says what the SIS records, so it is unclassed and neither statement can be taken as an HMIS or EMR fact. DHIS2 appears only in the death-certification work."
+}

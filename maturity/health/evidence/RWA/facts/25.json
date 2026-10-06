@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-24-rwanda-e-ubuzima-rollout",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "TechCabal reports that e-Ubuzima is the Ministry of Health's locally built platform for replacing paper medical records in all public health facilities by December 2025, with the ministry's head of planning speaking for it.", "as_of": "2025-04-24", "date_precision": "day", "system": "e-Ubuzima", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "not-published", "fact": "TechCabal reports e-Ubuzima deployed in 15 districts as at April 2025 and gives no count of health centres using it; the ministry says all 520 health centres still need at least 25 computers each and stable internet for nationwide use.", "as_of": "2025-04-24", "date_precision": "day", "system": "e-Ubuzima", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "e-Ubuzima", "country_label": "e-Ubuzima", "class": "emr", "platform": "locally built; software not named", "owner": "Ministry of Health", "tiers": "deployed in 15 districts; meant for all public health facilities, including the 520 health centres"},
+    {"system": "virtual hospital", "country_label": "virtual hospital", "class": "enabling", "platform": "telemedicine", "owner": "Government of Rwanda", "tiers": "planned; remote consultation from a central facility in Kigali"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,65 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,District Health Information Software 2 (DHIS2),DHIS2,,DHIS2,Ministry of Health,,2026-09-30-tza-mediawireexpress-who-controls-health-data
+TZA,electronic medical records (EMRs),EMR,emr,,,"100 percent of national, specialised, zonal and regional referral hospitals; expanding across district hospitals, health centres and dispensaries",2026-09-01-thecitizen-tanzania-digital-health-procurement
+TZA,Afya-Tek,Afya-Tek,community,,Ministry of Health,community level; launched December 2024,2026-09-01-thecitizen-tanzania-digital-health-procurement
+TZA,Hospital Information Systems (HIS),HIS,,,,some hospitals; platforms do not always communicate with one another,2026-09-01-thecitizen-tanzania-korea-ai-healthcare
+TZA,electronic prescription system,,single-function,,"Ministry of Health (government, in development)",to link public and private healthcare providers; under development,2026-09-01-thecitizen-tanzania-korea-ai-healthcare
+TZA,patient management systems,,,,,health facilities; integration planned,2026-09-01-thecitizen-tanzania-korea-ai-healthcare
+TZA,District Health Information Software 2 (DHIS2) / HMIS data warehouse,DHIS2 HMIS Data; Public Data Portal,hmis,DHIS2,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,Human Resource for Health Information System (HRHIS3),HRHIS3,single-function,HRHIS 3 (web-based open source),Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,Health Facility Registry (HFR),HFR; Master Facility List,exchange,,Ministry of Health,all health facilities in Tanzania Mainland are listed,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,Training Institution Information System (TIIS),TIIS,,,Ministry of Health,"more than 150 schools, colleges and universities (health training institutions, not facilities)",2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,Health and Social Welfare Training Information Portal (HSTIP),HSTIP,,,Ministry of Health,,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr
+TZA,national interoperability platform (mfumo wa kitaifa wa mawasiliano ya mifumo),interoperability platform,exchange,,Government of Tanzania (Ministry of Health),"more than 45 digital health systems linked; about 220 health facilities able to communicate digitally (Minister Mchengerwa, Geneva, 2026-05-19)",2026-05-19-mageuzi-ya-kidijitali-katika-sekta-ya-afya-tanzania-yashika-kasi
+TZA,Police Health Management Information System (PHMIS),PHMIS,,,Ministry of Home Affairs (police),,2026-05-01-hotuba-ya-bajeti-ya-wizara-ya-mambo-ya-ndani-ya-nchi-2026-2027
+TZA,GoTHoMIS,GoTHoMIS,emr,,,dispensaries and health centres (primary health care facilities),2026-03-31 Africa we have a data problem
+TZA,DHIS2,DHIS2,hmis,DHIS2,,stated only as mainly for aggregate reporting,2026-03-31 Africa we have a data problem
+TZA,District Health Information Software 2 (DHIS2),electronic routine health information system (eRHIS),hmis,DHIS2,,"data offices at central and subnational level (study sites, November 2022 to July 2024)",2025-12-01-impulse-erhis-newborn-data-functionalities
+TZA,GOTHOMIS,GOTHOMIS,,,Government (Ministry of Health speaking),"primary health care (afya ya msingi), named as the system currently in use there",2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,DHIS2,DHIS2,,DHIS2,,,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,EMR,EMR,emr,,,,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,MPDSR,MPDSR,single-function,,,maternal death surveillance and reporting,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,MTUHA registers (vitabu vya MTUHA),MTUHA,,paper books,,,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya
+TZA,integrated electronic medical records system (mfumo jumuishi wa rekodi za matibabu za kielektroniki),mfumo jumuishi wa rekodi za matibabu za kielektroniki,emr,,Government (Ministry of Health speaking),"community level, health centres, district hospitals, national level",2025-10-02-matumizi-ya-data-na-teknolojia-yaimarisha-huduma-za-afya-nchini
+TZA,M-Mama,M-Mama,single-function,,Government (national emergency transport system for mothers and newborns),all regions; free number 155,2025-10-02-matumizi-ya-data-na-teknolojia-yaimarisha-huduma-za-afya-nchini
+TZA,DHIS2 (HMIS-DHIS2),HMIS; DHIS2,hmis,DHIS2,"Ministry of Health, Monitoring and Evaluation Unit","health facility monthly and annual reports; outpatient, admission and malaria figures given for Tanzania Mainland and for all 184 councils",2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,Got-HOMIS (Government of Tanzania Hospital Management Information System),GotHOMIS,,,,health facilities (named as one of the information systems to be made interoperable),2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,AFYA Care,AFYA Care,,,,health facilities (named as one of the information systems to be made interoperable),2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,Electronic Medical Records (EMR),EMR,emr,,,"coverage is the subject of section 14.2 and Figure 91, which the passages do not carry",2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,eLMIS,eLMIS,single-function,,,health facilities report commodity data to it,2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,eIDSR (electronic Integrated Disease Surveillance and Response),eIDSR,single-function,"mobile technology, linked to DHIS2",,in use since 2014 for early reporting of diseases and events,2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,VIMS,VIMS,,,,,2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,DHIS2-ETL,DHIS2-ETL,,DHIS2,,source of TB and leprosy figures by region,2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,Human Resources Information System,,,,,,2025-07-01-annual-health-sector-performance-profile-report-2024
+TZA,AI-powered telemedicine and diagnostics programme (Tanzania Data Lab with UNICEF and PATH),,enabling,,Tanzania Data Lab (dLab) with UNICEF and PATH,"rural health settings; described as exploring triage, diagnostics and remote consultations",2025-06-25-cipit-state-of-ai-in-africa-report-2025
+TZA,HMIS,HMIS,,,,named only as a system the civil registration platform eRITA is integrated or being integrated with,2025-06-01-rita-universal-birth-registration-tanzania
+TZA,eRITA,e-RITA,,,RITA,"civil registration, with registration points in health facilities (maternity and RCH wards) where health workers send birth details by mobile phone; not a health information system",2025-06-01-rita-universal-birth-registration-tanzania
+TZA,"national health management information system (routine health information system, RHIS)",national health management information system,hmis,,,health facility routine registers feeding an electronic RHIS; district-level data entry mentioned,2024-07-01-en-mini-tools-implementation-tanzania-brief
+TZA,Government of Tanzania Health Operations Management Information System (GOTHOMIS),GOTHOMIS,,,listed under the Regional Administration and Local Government Authorities sector,,2024-02-01-e-government-technology-roadmap
+TZA,NHIF Service Portal,NHIF Service Portal,,,National Health Insurance Fund,,2024-02-01-e-government-technology-roadmap
+TZA,GOTHOMIS,GOTHOMIS,,,,,2024-01-01-tanzania-digital-economy-strategic-framework
+TZA,DHIS2,HMIS / DHIS2,hmis,DHIS2,Ministry of Health (M&E department),rolled out to all district councils in 2013; data flows from health facilities to higher levels,2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,GoTHOMIS,Government of Tanzania Hospital Operations Management Information System,emr,,Government,"district hospitals, health centres and dispensaries (from 2019)",2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,AfyaCare,AfyaCare,emr,,Government,regional referral hospitals (from 2018),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,"MediPro, eMedical","MediPro, eMedical",,,,"specialized, tertiary and zonal hospitals (from 2016)",2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,eLMIS,Electronic Logistics Management Information System,single-function,,,not stated (introduced 2014),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,HFR,Health Facility Registry,exchange,,,not stated (introduced 2014); being integrated with DHIS2,2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,HIM,Health Information Mediator,exchange,,,not stated (introduced 2019),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,Muungano Gateway,Muungano Gateway,exchange,,,not stated (introduced 2019); links the different systems,2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,HRHIS,Human Resource for Health Information System,,,,not stated (introduced 2008); being integrated with DHIS2,2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,TIIS,Training Institution Information System,,,,not stated (introduced 2008),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,mHealth,mHealth Services,,,,not stated (introduced 2013),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,Telemedicine,TeleHealth (Telemedicine),enabling,,,not stated (introduced 2016),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,FFARS,Facility Financing Accounting and Reporting System,,,,not stated (introduced 2017),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,PlanRep,"Planning, budgeting and reporting system (web based)",,,,not stated (introduced 2017/18),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,AfyaSS,Afya Supportive Supervision,,,,not stated (introduced 2021),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,JEEVA,JEEVA,,,,national level (introduced 2005),2023-10-30 A political economy analysis of strengthening health information system in Tanzania
+TZA,district management information system (DMIS),HMIS,hmis,,Ministry of Health,"district management office, from primary facilities' paper monthly forms",2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries
+TZA,DHIS,DHIS data warehouse,hmis,DHIS / DHIS2,Ministry of Health; Zanzibar Ministry of Health,mainland: adapted by standardising and computerising facility registers; Zanzibar: entered at health districts from facilities' paper forms,2021-08-04 Health information systems in developing countries case of African countries
+TZA,OpenMRS,OpenMRS (Zanzibar),emr,OpenMRS,Zanzibar Ministry of Health,health facility level; a project in difficulty for lack of local technical capacity,2021-08-04 Health information systems in developing countries case of African countries
+TZA,DHIS2,DHIS2,,DHIS2,Ministry of Health,not stated,2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity
+TZA,FHIR-compliant data exchange,,exchange,,Ministry of Health,not stated,2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity
+TZA,vaccine management digital systems,,single-function,,Ministry of Health,not stated,2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity
+TZA,DHIS2,DHIS2,,DHIS2,,not stated,2017-01-01-usaid-tza-health-information-s-2017-health-information-systems---tanzania
+TZA,facility management information systems,,,,,facility; not otherwise stated,2017-01-01-usaid-tza-health-information-s-2017-health-information-systems---tanzania
+TZA,DHIS2,DHIS2,,DHIS2,,not stated,2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square

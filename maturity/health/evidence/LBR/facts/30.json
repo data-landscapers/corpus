@@ -1,0 +1,8 @@
+{
+  "slug": "2019-10-31-liberia-mopt-national-ict-policy-2019-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information System (envisaged)", "country_label": "Health Information System comprising patient data records", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Passages file. The 2019-2024 ICT policy states only intentions: the Ministry of Health will design a national e-Health strategy including a Health Information System comprising patient data records, with targets of 50% then 100% of clinics and hospitals having internet access. It describes no system in use and gives no dated position."
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "2025-12-01-nga-fmohsw-nigeria-digital-health-architecture",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Federal Ministry of Health and Social Welfare's Nigeria Digital Health Architecture (December 2025) states that health data systems remain largely siloed and paper based, especially in public facilities, that patients often rely on physical records, and that where electronic health record systems exist the absence of national standards restricts data sharing.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Electronic Health Record systems (unnamed)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Nigeria Digital Health Architecture (December 2025), published by the Federal Ministry of Health and Social Welfare under the Nigeria Digital in Health Initiative approved by the National Council on Health in 2024, sets implementing interoperable electronic health record systems across all levels of care as its first pillar and says rollout will start with the six national EHR vendors; a costed implementation road map is promised, not yet published.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Electronic Health Record systems (unnamed)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Health Record systems (unnamed)",
+      "country_label": "EHR / EMR systems; '6 National EHR Vendors'",
+      "class": "emr",
+      "platform": "several vendors, not named",
+      "owner": "federal government, states and private providers",
+      "tiers": "hospitals and clinics where they exist; not quantified"
+    },
+    {
+      "system": "Nigeria Health Logistics Management Information System (NHLMIS)",
+      "country_label": "NHLMIS",
+      "class": "single-function",
+      "platform": "offline-capable, cloud-based; healthlmis.ng",
+      "owner": "Federal Ministry of Health",
+      "tiers": "the national pharmaceutical supply chain for key public health programmes"
+    },
+    {
+      "system": "Health Information Exchange with Shared Health Record",
+      "country_label": "HIE / SHR",
+      "class": "exchange",
+      "platform": "FHIR Release 4 APIs",
+      "owner": "to be built and operated by the Nigeria Digital Health Transformation Organisation; some states already run state-level HIEs",
+      "tiers": "planned; federal HIE plus state HIEs"
+    },
+    {
+      "system": "Health Claims Exchange",
+      "country_label": "HCX",
+      "class": "exchange",
+      "platform": "FHIR-based eClaim format",
+      "owner": "Nigeria Digital Health Transformation Organisation",
+      "tiers": "planned"
+    },
+    {
+      "system": "Health Services Exchange",
+      "country_label": "HSX",
+      "class": "exchange",
+      "platform": "open network protocol (beckn)",
+      "owner": "Nigeria Digital Health Transformation Organisation",
+      "tiers": "planned"
+    },
+    {
+      "system": "Nigeria Health Client Registry",
+      "country_label": "NHCR",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Nigeria Digital Health Transformation Organisation",
+      "tiers": "planned; based on the NIN"
+    },
+    {
+      "system": "Nigeria Health Facility Registry",
+      "country_label": "NHFR / Master Facility List",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Nigeria Digital Health Transformation Organisation with the states",
+      "tiers": "planned; every facility from primary clinic to large hospital, public and private"
+    },
+    {
+      "system": "Nigeria Health Worker Registry",
+      "country_label": "NHWR",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Nigeria Digital Health Transformation Organisation with the professional councils",
+      "tiers": "planned"
+    },
+    {
+      "system": "public health programme software for tuberculosis, HIV and others",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "",
+      "owner": "federal government",
+      "tiers": "not stated"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "a National Council on Health programme on DHIS2 was approved in 2013",
+      "tiers": "not stated; named only as a reporting system the analytics layer will exchange data with"
+    }
+  ],
+  "note": "An architecture document: it describes what is to be built, and gives no tier, count or share of facilities for any system. DHIS2 is named without a description of what it reports, so no hmis fact is taken."
+}

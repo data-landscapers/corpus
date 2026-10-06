@@ -1,0 +1,46 @@
+{
+  "slug": "2021-10-01-eritrea-hssdp-iii-2022-2026-health-information-system",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's HSSDP III, as summarised in the record's note (section 2.6.6 is not captured verbatim), states that the National Health Information System sits under the Minister's Office with HMIS, ICT and System Development units and parallel structures at zoba level, a sub-zoba HMIS office still being under development.",
+      "as_of": "2021-10",
+      "date_precision": "month",
+      "system": "National Health Information System (NHIS) / HMIS on DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's sector plan HSSDP III covers 2022 to 2026, is dated October 2021 and was launched on 28 April 2022 per the record's note, and treats the HMIS and DHIS2 in its Data and Information section (2.6.6, not captured verbatim).",
+      "as_of": "2021-10",
+      "date_precision": "month",
+      "system": "National Health Information System (NHIS) / HMIS on DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "HSSDP III, as summarised in the record's note (section not captured verbatim), states that DHIS2 had been rolled out to about 40 per cent of facilities at secondary level and above, while data is collected from all health facilities through paper and electronic channels; no numerator or denominator is given.",
+      "as_of": "2021-10",
+      "date_precision": "month",
+      "system": "National Health Information System (NHIS) / HMIS on DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Information System (NHIS)",
+      "country_label": "National Health Information System (NHIS); HMIS",
+      "class": "hmis",
+      "platform": "DHIS2, alongside paper channels",
+      "owner": "Ministry of Health, Minister's Office (HMIS, ICT and System Development units)",
+      "tiers": "data from all health facilities by paper and electronic channels; DHIS2 at about 40% of secondary-level-and-above facilities; zoba-level structures, sub-zoba HMIS office under development"
+    }
+  ],
+  "note": "The captured body is the title page and table of contents only; all three facts rest on the record's frontmatter note describing section 2.6.6, not on verbatim text. The parent should weigh them accordingly."
+}

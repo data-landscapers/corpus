@@ -1,0 +1,52 @@
+{
+  "slug": "2022-06-01-mtnima-agenda-national-transformation-numerique-2022-2025",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The Agenda's sectoral indicators give the share of the population holding a shared medical record (DMP, dossier médical partagé) as 0% in 2021, attributed to the Ministry of Health, against a 2025 target of 50%; it gives no numerator or denominator and names no tier.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DMP (dossier médical partagé)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Agenda National de Transformation Numérique 2022-2025, issued by the digital transformation ministry in June 2022, sets a target of 50% of the population holding a shared medical record (DMP) by 2025, alongside a costed eSanté project (EUR 7 million, 36 months) and a digital health master plan (EUR 300,000, 12 months); the sectoral axis is budgeted 89% from partners and 11% from the State.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DMP (dossier médical partagé)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DMP (dossier médical partagé)",
+      "country_label": "DMP (dossier médical partagé)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health (source of the indicator)",
+      "tiers": "None in 2021: 0% of the population held one; target 50% by 2025"
+    },
+    {
+      "system": "réseau d'interconnexion du Ministère de la Santé",
+      "country_label": "réseau d'interconnexion du Ministère de Santé",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "38% of hospital structures and health centres connected in 2021; projected 90% by 2025"
+    },
+    {
+      "system": "télé-radiologie (pilot projects)",
+      "country_label": "projets pilotes (ex. télé-radiologie)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Pilot projects since 2012, sites not stated"
+    }
+  ],
+  "note": "The stored body is an excerpt cut at the fetch limit inside the OS4 project tables, so the project sheets (including the eSanté sheet) were not available. The document also says the eSanté strategy 2017-2022 was being updated; it names no HMIS."
+}

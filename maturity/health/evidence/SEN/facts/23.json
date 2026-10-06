@@ -1,0 +1,26 @@
+{
+  "slug": "2025-02-24-new-deal-technologique-horizon-2034",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The New Deal Technologique, the national digital strategy to 2034 launched on 24 February 2025, names the 'Dossier Patient Informatisé' among its health-sector outcomes and carries e-Santé in priority programme PR-P_11; the strategy is costed at 1,105 billion FCFA for all 12 programmes, with no figure for the patient record itself.",
+      "as_of": "2025-02-24",
+      "date_precision": "day",
+      "system": "Dossier Patient Informatisé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Dossier Patient Informatisé",
+      "country_label": "Dossier Patient Informatisé",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The patient record appears once, as a named outcome in the sector list beside digitalised health cover and telemedicine; the document states an intention and describes no deployment. The PDF is undated; 24 February 2025 is the launch date in the record's header."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-kenya-sha-hims-finsprint-court-petition",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information Management System (HIMS)", "country_label": "HIMS", "class": "", "platform": "", "owner": "Social Health Authority; the petition names the private firm Finsprint Limited as managing the HIMS System Utilisation Fee", "tiers": "SHA-accredited hospitals and health facilities"}
+  ],
+  "note": "The article describes the HIMS as the platform through which hospitals submit claims to SHA, obtain pre-authorisation and receive reimbursement: billing and administration only, which the typology puts out of scope. It carries the petitioners' claim that a 2 per cent system utilisation fee on about Sh60.7 billion of claims paid to 1 July 2026 gave Finsprint about Sh1.2 billion; no fact of class hmis or emr."
+}

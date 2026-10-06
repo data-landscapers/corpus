@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-13-kenya-ppb-digital-pharmacy-guidelines-full-text",
+  "facts": [],
+  "systems": [
+    {"system": "Shared Health Record (SHR)", "country_label": "Shared Health Record", "class": "exchange", "platform": "", "owner": "Digital Health Agency (national core digital health services)", "tiers": ""},
+    {"system": "Kenya health facility registry", "country_label": "Kenya health facility registry", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Kenya Workforce Registry", "country_label": "Kenya Workforce Registry", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Kenya National Health Terminology Services", "country_label": "Kenya National Health Terminology Services", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National super highway (digital health data exchange)", "country_label": "national super highway", "class": "exchange", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National pharmacovigilance system / PPB reporting system", "country_label": "PPB reporting system", "class": "single-function", "platform": "", "owner": "Pharmacy and Poisons Board", "tiers": ""}
+  ],
+  "note": "A regulator's guideline (Revision 02, effective 2026, review 2029) setting requirements for digital pharmacy platforms. It prescribes what those platforms must do and which national shared services they must connect to; it states nothing about any HMIS or EMR in use, at any tier, so no fact. 'EMR' and 'EHR' appear only in the abbreviations list and in general background."
+}

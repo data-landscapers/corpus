@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's own page states that its Health Information and Documentation Centre, set up within the Ministry in 2006, introduced DHIS2 as the electronic system for routine data collection from health facilities and runs it as the central platform for routine statistics and health surveys; the page is undated and its newest content is from 2022, used here as the date.", "as_of": "2022", "date_precision": "year", "system": "DHIS2 (نظام المعلومات الصحية المناطقي)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Health's page states that the Health Information and Documentation Centre drafted a health information system development strategy whose main component was DHIS2 for routine data collection from health facilities; the strategy's years are not given and the page is undated, so 2022, its newest content, is used and whether the strategy is still current is not stated.", "as_of": "2022", "date_precision": "year", "system": "DHIS2 (نظام المعلومات الصحية المناطقي)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "نظام المعلومات الصحية المناطقي (DHIS2), www.dhis2ly.ly", "class": "hmis", "platform": "DHIS2", "owner": "Health Information and Documentation Centre, Ministry of Health", "tiers": "activated nationally; dozens of training courses for staff of health facilities, municipalities and health regions"},
+    {"system": "Health statistical information system", "country_label": "نظام المعلومات الإحصائي الصحي", "class": "", "platform": "hosted on Al-Madar cloud", "owner": "Health Information and Documentation Centre, Ministry of Health", "tiers": ""}
+  ],
+  "note": "The page also states the Centre signed an agreement in 2022 with Al-Madar to buy cloud space hosting the health statistical information system; no budget line is stated, so no finance fact. It gives no facility counts and does not say at which level data is keyed."
+}

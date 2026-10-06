@@ -1,0 +1,22 @@
+{
+  "slug": "2025-04-01-zambia-digital-health-case-study",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:877", "fact": "The Global Fund's April 2025 case study states that SmartCare Pro is in use at 877 health facilities, against 3,540 health facilities in Zambia, with further scale-up under way; the count is of all health facilities and is not split for primary clinics.", "as_of": "2025-04", "date_precision": "month", "system": "SmartCare Pro", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Global Fund states that the Ministry of Health developed the SmartCare electronic health record system, and that digital health governance sits in the Ministry's Directorate of Information and Communications Technology, Policy and Planning; cover date April 2025.", "as_of": "2025-04", "date_precision": "month", "system": "SmartCare", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The Global Fund describes SmartCare as co-financed by the Global Fund, within more than US$23.7 million of digital health investment in Zambia since 2014; the document names no domestic budget line for the system; cover date April 2025.", "as_of": "2025-04", "date_precision": "month", "system": "SmartCare", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The Global Fund lists expansion of the SmartCare electronic medical record system to all health facilities, including those operating on paper-based systems, among the investment areas advancing the national digital health strategy's objectives; cover date April 2025.", "as_of": "2025-04", "date_precision": "month", "system": "SmartCare", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "For the 2023-2025 grant cycle the Global Fund finances the upgrade and maintenance of the DHIS2-based health management information system, and laptops and tablets for the roll-out of health management information systems; the document names no domestic budget line.", "as_of": "2025-04", "date_precision": "month", "system": "DHIS2-based health management information system", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SmartCare / SmartCare Pro", "country_label": "SmartCare", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "877 of 3,540 health facilities (SmartCare Pro), contingent on power and internet"},
+    {"system": "DHIS2-based health management information system", "country_label": "national health management information system", "class": "hmis", "platform": "DHIS2", "owner": "Government of Zambia and partners", "tiers": ""},
+    {"system": "Electronic integrated disease surveillance and response system", "country_label": "eIDSR", "class": "single-function", "platform": "DHIS2", "owner": "Zambia National Public Health Institute", "tiers": "approximately 90% of health facilities use the national DHIS2 platform for surveillance"},
+    {"system": "Electronic logistics management information system", "country_label": "", "class": "single-function", "platform": "custom-built", "owner": "", "tiers": ""},
+    {"system": "Laboratory information system", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic community health information system", "country_label": "", "class": "community", "platform": "custom-built", "owner": "", "tiers": ""},
+    {"system": "Digitized community health package", "country_label": "", "class": "community", "platform": "mobile phone application", "owner": "Ministry of Health with the Global Fund", "tiers": "community health volunteers; transmits data electronically into national health information systems"},
+    {"system": "Health facility solar power and internet connectivity", "country_label": "", "class": "enabling", "platform": "solar; internet including low earth orbit", "owner": "Smart Zambia Institute and Ministry of Health", "tiers": "about 650 facilities with Global Fund solar, 1,050 more with solar back-up, 883 with internet, of 3,540"},
+    {"system": "Data warehouse", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The 90% figure is stated for disease surveillance reporting on DHIS2, a single-function use, so it is recorded under systems and not as an HMIS fact."
+}

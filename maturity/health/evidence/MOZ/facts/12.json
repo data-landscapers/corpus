@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-jembi-mozambique-case-study",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "Jembi Health Systems states that in December 2024 Mavalane General Hospital in Maputo became Mozambique's first digital hospital, its Hospital Health Information System (SIS-H) digitising patient admissions and inpatient care and replacing paper records, with an estimated saving of up to US$7.8 million a year; one hospital, and no other facility is named as using it.", "as_of": "2024-12", "date_precision": "month", "system": "SIS-H", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SIS-H", "country_label": "Hospital Health Information System (SIS-H)", "class": "emr", "platform": "", "owner": "", "tiers": "Mavalane General Hospital, Maputo, from December 2024"},
+    {"system": "MGDH-Birth", "country_label": "MGDH-Birth (Hospital Data Management)", "class": "tracker", "platform": "", "owner": "", "tiers": "pilot grown from 5 to 19 health facilities in Inhambane Province since July 2024, including Chicuque Rural Hospital; over 11,589 newborns registered"},
+    {"system": "OpenHIM interoperability layer", "country_label": "", "class": "exchange", "platform": "OpenHIM", "owner": "Jembi Health Systems", "tiers": "links MGDH-Birth to the civil registration system e-SiRCEV in real time, from July 2024"}
+  ],
+  "note": ""
+}

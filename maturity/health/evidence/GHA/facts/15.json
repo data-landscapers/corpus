@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-29-ghana-77m-health-data-contract-scandal-graphic",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "regressing", "fact": "The Health Minister said on 29 October 2025 that the LHIMS contract had expired with the system shut down and the vendor refusing to release data and access rights, so the ministry rebuilt 14 to 15 million patient records (71 to 72 million visits) from National Health Insurance Authority claims data; the shutdown date itself is not given.", "as_of": "2025-10-29", "date_precision": "day", "system": "Lightwave Health Information Management System (LHIMS)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "By the Health Minister's account, the LHIMS vendor held the system's data and access rights and refused to hand them to government when the contract expired, having been paid about $77 million (over 70% of the contract sum) with 450 of 950 targeted facilities connected by December 2024 and a forensic audit finding hardware shortfalls of at least $18 million.", "as_of": "2025-10-29", "date_precision": "day", "system": "Lightwave Health Information Management System (LHIMS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Lightwave Health Information Management System (LHIMS)", "country_label": "LHIMS", "class": "emr", "platform": "Lightwave", "owner": "vendor under Ministry of Health contract (contract expired)", "tiers": "public health facilities; 450 of 950 targeted facilities connected by December 2024, tiers not stated"}
+  ],
+  "note": "The 450-of-950 figure counts facilities of unstated tier, so it is carried in the fact text and not as a clinics value. The minister's planned 'government-controlled health information system' is not named in this document."
+}

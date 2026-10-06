@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "The author's 54-country review states that DHIS2 covers all 30,000-plus public health facilities for aggregate reporting, at 95 per cent or more completeness; it gives no date for the figure, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The author's review states that data at health posts is still primarily collected on paper and then entered into DHIS2 at district level; it gives no date, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "all 30,000+ public health facilities for aggregate reporting; health posts' data entered at district level from paper"},
+    {"system": "electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "tablet-based platform", "owner": "", "tiers": "about 8,011 of about 17,900 health posts (about 45%) as of 2024, used by Health Extension Workers"},
+    {"system": "EMR systems", "country_label": "EMR", "class": "emr", "platform": "", "owner": "", "tiers": "58 public facilities nationally; tier not stated"}
+  ],
+  "note": "Passages naming Ethiopia only; the document is an AI-assisted compilation by its author and its figures are his analysis. The statement that EMR systems exist at only 58 public facilities gives neither tier nor date nor whether any is a primary clinic, so it is carried in systems and not as a fact. The eCHIS figures (8,011 health posts, about half of equipped HEWs using it, ICT infrastructure rated 1.67 of 5 in 2023) are community class."
+}

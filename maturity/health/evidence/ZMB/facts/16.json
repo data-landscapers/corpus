@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration",
+  "facts": [],
+  "systems": [
+    {"system": "SmartCarePro Electronic Health Record System", "country_label": "SmartCarePro", "class": "emr", "platform": "", "owner": "", "tiers": ""},
+    {"system": "MOSIP", "country_label": "MOSIP-based digital identity and eKYC platform", "class": "exchange", "platform": "MOSIP", "owner": "SMART Zambia e-government division", "tiers": ""}
+  ],
+  "note": "Reports developer training (January 2025) on integrating MOSIP identity verification with SmartCarePro, funded through the World Bank's Digital Zambia Acceleration Project; it states nothing on where the record system is used, who owns or funds it, or how data is entered, and the event is older than twelve months."
+}

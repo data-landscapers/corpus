@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-23-cote-divoire-digitalisation-sante-connectivite-espc",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The health ministry's account of a 22 April 2026 meeting between the health and digital transition ministers notes the deployment of the Dossier Patient Informatisé (DPI) as an advance under way, gives no count of facilities using it, and states that weak connectivity at public first-contact health establishments remains a major challenge, with 150 establishments prioritised for connectivity in 2026 and 450 the following year.", "as_of": "2026-04-22", "date_precision": "day", "system": "Dossier Patient Informatisé (DPI)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Dossier Patient Informatisé (DPI)", "country_label": "Dossier Patient Informatisé (DPI)", "class": "emr", "platform": "", "owner": "", "tiers": "being deployed; tiers not stated"}
+  ],
+  "note": ""
+}

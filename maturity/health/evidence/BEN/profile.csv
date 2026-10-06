@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,hmis,governance,qualifier,owner:ministry;plan:none,2023-11-22,BEN-005;BEN-007,BEN-011=owner:ministry;BEN-012=plan:current,not stated: finance
+BEN,hmis,tiers,coverage,T1;T2;T3,2019,BEN-010,,nothing dated since 2023-10-06
+BEN,hmis,digitised,coverage,district,2026-03-31,BEN-001;BEN-008,,
+BEN,hmis,last12,qualifier,,,,,nothing held
+BEN,hmis,clinics,coverage,count:1,2023-11-22,BEN-006,BEN-002=pilot;BEN-009=not-published,
+BEN,emr,governance,qualifier,,,,,nothing held
+BEN,emr,tiers,coverage,,,,,nothing held
+BEN,emr,digitised,coverage,paper,2026-03-31,BEN-003,,
+BEN,emr,last12,qualifier,,,,,nothing held
+BEN,emr,clinics,coverage,none,2026-03-31,BEN-004,,

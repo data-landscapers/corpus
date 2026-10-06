@@ -1,0 +1,11 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "The review states, citing Braa et al. (2010), that Sierra Leone's adapted DHIS served as the repository of the national health information system at all levels of the health system, a model allowing data to be recorded at all levels and aggregated in one place, entered from paper or from mobile phones. It names no tiers individually and gives no count of facilities; the date is that of the cited study.", "as_of": "2010", "date_precision": "year", "system": "DHIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS)", "country_label": "DHIS", "class": "hmis", "platform": "DHIS / DHIS2", "owner": "not stated", "tiers": "all levels of the health system; a single data warehouse built after a consensual sorting of data sources"},
+    {"system": "Hospital management software (HMS), such as OpenMRS", "country_label": "", "class": "", "platform": "OpenMRS", "owner": "not stated", "tiers": "areas with digital infrastructure; exchanged data with DHIS through the SDMX-HD standard (the document writes SDX-HD)"}
+  ],
+  "note": "A 2021 literature review of 12 countries; its Sierra Leone content is one paragraph resting on a 2010 paper, so the fact is historical. The DHIS to hospital-software exchange is evidence for dpi.exchange. The hospital software is not said to hold the clinical record in Sierra Leone, so it is unclassified. The review's finding that 11 of 12 countries had only project strategies aligned to donors is not stated for Sierra Leone by name."
+}

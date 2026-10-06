@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-01-uganda-health-information-exchange-interoperability-guidelines",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information Exchange (HIE)", "country_label": "Uganda Health Information Exchange", "class": "exchange", "platform": "APIs, ETL tools and OpenHIE architecture are named as modalities in use", "owner": "Ministry of Health, Division of Health Information Management", "tiers": ""},
+    {"system": "eHMIS", "country_label": "national eHMIS", "class": "", "platform": "", "owner": "", "tiers": "National; receives data from mTrac"},
+    {"system": "mTrac", "country_label": "mTrac", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Viral Load Information System", "country_label": "national Viral Load Information System", "class": "single-function", "platform": "", "owner": "", "tiers": "National; receives data from EMRs"},
+    {"system": "EMRs", "country_label": "EMRs", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Master Facility List / Electronic Health Facility Registry", "country_label": "Master Facility List (MFL)", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Interoperability guidelines (January 2023, approved 18 September 2024), captured as an excerpt ending in section 1.2; it describes ad hoc exchanges between systems and no HMIS or EMR ownership, tier, data-entry or coverage position, so the content belongs to dpi.exchange only."
+}

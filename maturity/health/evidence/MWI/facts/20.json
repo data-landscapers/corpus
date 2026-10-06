@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A cross-sectional study of six Synod of Livingstonia health facilities and the district health offices of Mzimba South, Mzimba North and Rumphi (Salangwa et al., Archives of Public Health) found in August 2023 that facilities compile monthly HMIS reports on registers, tally sheets and report forms and deliver them to the district health office, where data pass from the paper-based to the computer-based HMIS; 40% (36/90, as the paper prints it) reported quality control on that entry.", "as_of": "2023-08", "date_precision": "month", "system": "Health Management Information System (HMIS) on DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Salangwa et al. state that the government of Malawi adopted DHIS2, web-based software for gathering, verifying, analysing and presenting aggregate statistical data, to improve the performance of the HMIS; the paper gives no date for the adoption, so its published date is used.", "as_of": "2025-10-21", "date_precision": "day", "system": "Health Management Information System (HMIS) on DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (HMIS) on DHIS2", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Government of Malawi; district health offices receive facility reports", "tiers": "studied at six faith-based (Synod of Livingstonia) facilities, main facility and health centre level, and three district health offices; facilities report monthly on paper to the district"}
+  ],
+  "note": "The study measures data use, training and supervision in six faith-based facilities in three northern districts in August 2023; it gives no national tiers, no share of clinics entering their own reports and no financing statement that fits the finance facet (9 of 13 district respondents said they had a system for raising money for HMIS)."
+}

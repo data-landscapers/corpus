@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-06-nigeria-joins-digital-public-goods-alliance",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 for health information systems",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated; to be standardised and scaled across government agencies and states under a planned national playbook"
+    },
+    {
+      "system": "eHealth Nigeria solutions on OpenMRS",
+      "country_label": "",
+      "class": "",
+      "platform": "OpenMRS",
+      "owner": "eHealth Nigeria (non-governmental)",
+      "tiers": "not stated; used to digitise health data in the north of the country"
+    }
+  ],
+  "note": "Nigeria's accession to the Digital Public Goods Alliance, announced 22 September 2025; DHIS2 and an OpenMRS-based deployment are named but neither is described closely enough to classify, and no tier, date of use or count is given."
+}

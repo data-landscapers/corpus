@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-01-researchers-explain-why-africa-struggles-to-share-health-data",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "A Ministry of Health eHealth adviser (Claudel Sebaganwa) said at the Africa HealthTech Summit on 1 October 2026 that from the moment a patient enters a clinical setting all data is recorded electronically, the record covering patients, diseases, medicines, laboratory services and pharmacies; no facility count or share is given.", "as_of": "2026-10-01", "date_precision": "day", "system": "electronic medical record", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "electronic medical record", "country_label": "electronic medical record", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "clinical settings, tiers not stated"},
+    {"system": "community health worker electronic medical record", "country_label": "electronic medical record used by community health workers", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": "community health workers; records all households; integrated with the National Health Intelligence Centre"},
+    {"system": "National Health Intelligence Centre", "country_label": "National Health Intelligence Centre", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document does not separate the community health workers' record from the clinical one by name; the adviser describes both under 'an electronic medical record', so the emr fact rests on his clinical-settings sentence only."
+}

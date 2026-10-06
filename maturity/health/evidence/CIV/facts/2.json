@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-05-koaci-cote-divoire-ouattara-digital-governance",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "At the close of the national digital public services prioritisation workshop in Abidjan on 4 September 2026, the computerised patient record was announced among ten first deliverables due by the end of 2026; the document states it as an announcement, not as a system in service, and does not describe it further.", "as_of": "2026-09-04", "date_precision": "day", "system": "dossier patient informatisé", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier patient informatisé", "country_label": "dossier patient informatisé", "class": "emr", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

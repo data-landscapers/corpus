@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-17-hisp-rwanda-tchad-dossier-medical-electronique",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "HISP Rwanda reports that a high-level meeting on 15 April 2026, chaired by the Secretary-General of the Ministry of Public Health and Prevention, was devoted to modernising the patient medical record, with HISP Rwanda supporting the implementation of a patient-centred Dossier Médical Électronique; no pilot site, budget or timetable is stated.", "as_of": "2026-04-15", "date_precision": "day", "system": "Dossier Médical Électronique (DME)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "HISP Rwanda states that the electronic medical record initiative is led by the Ministry of Public Health and Prevention, whose Secretary-General chaired the meeting of 15 April 2026, with HISP Rwanda acting as technical assistant.", "as_of": "2026-04-15", "date_precision": "day", "system": "Dossier Médical Électronique (DME)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Dossier Médical Électronique (DME)", "country_label": "Dossier Médical Électronique (DME)", "class": "emr", "platform": "", "owner": "Ministère de la Santé Publique et de la Prévention, with HISP Rwanda as technical assistant", "tiers": "not stated; planned, not yet in use"},
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

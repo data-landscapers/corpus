@@ -1,0 +1,52 @@
+{
+  "slug": "2025-10-31-dhis2-comores-supply-chain-management-open-msupply",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:99%",
+      "fact": "DHIS2 states that almost 99 percent of public health facilities already used DHIS2 for health service reporting before the eLMIS project launched in 2024; the share is of all public facilities (the document counts 74 sites), not of primary clinics alone, with no numerator given and no statement of where the reports are keyed.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2 (national platform, health service reporting)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "DHIS2 states that the national DHIS2 platform is the Ministry of Health's, that local Ministry staff are being trained to maintain DHIS2 configurations and dashboards, and that HISP Rwanda leads customisation and capacity building with maintenance being handed over to the Ministry, as of November 2025.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2 (national platform, health service reporting)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (national platform, health service reporting)",
+      "country_label": "national DHIS2 platform",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with HISP Rwanda technical assistance",
+      "tiers": "almost 99 percent of public health facilities"
+    },
+    {
+      "system": "eLMIS: DHIS2 Real-Time Stock Management (RTS)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "DHIS2 Real-Time Stock Management tool on Android devices",
+      "owner": "Ministry of Health with HISP Rwanda, HISP UiO and the mSupply Foundation; World Bank funded; launched 2024",
+      "tiers": "health facilities: 58 of 74 sites (78%) within just over three months of go-live; some facilities with poor connectivity file monthly stock reports"
+    },
+    {
+      "system": "eLMIS: Open mSupply",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "Open mSupply",
+      "owner": "Ministry of Health with the mSupply Foundation; World Bank funded",
+      "tiers": "central and regional warehouses"
+    }
+  ],
+  "note": ""
+}

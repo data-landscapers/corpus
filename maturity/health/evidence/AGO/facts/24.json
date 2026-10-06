@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-worldbank-id4d-diagnostic-id-systems-angola-published-edition",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "records taken to the nearest health service equipped to digitise them, then uploaded to the control centre through DHIS2"}
+  ],
+  "note": "The passages hold one sentence fragment on DHIS2, cut before its subject: something is taken to the nearest health service equipped with the means to digitise it and then uploaded to the control centre through DHIS2. What data it concerns is not in the passage, so no fact is taken; the whole document may state it."
+}

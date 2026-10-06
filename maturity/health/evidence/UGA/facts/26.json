@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-impulse-erhis-newborn-data-functionalities",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "electronic routine health information system (eRHIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "central and subnational data offices assessed November 2022 to July 2024; facility tiers not stated"}
+  ],
+  "note": "Abstract only (excerpt). It confirms DHIS2 as Uganda's electronic routine health information system in central and subnational data offices and reports on its functionalities for newborn data, but states nothing on tiers, where data is keyed, clinics, ownership or recent change."
+}

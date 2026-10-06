@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-27 Interoperability - key workshop to modernize Guinea's health information system",
+  "facts": [],
+  "systems": [
+    {"system": "REC maternité", "country_label": "REC maternité", "class": "tracker", "platform": "", "owner": "Terre des Hommes with the Ministry of Health and Public Hygiene; funded by Enabel via Wehubit (DGA project)", "tiers": "electronic maternity consultation register piloted in 15 health centres to support midwives (November 2025)"},
+    {"system": "SNIS", "country_label": "Système National d'Information Sanitaire (SNIS)", "class": "", "platform": "", "owner": "Ministry of Health and Public Hygiene (BSD, SMSI)", "tiers": "named as the national system that aggregated individual data would feed; what it does is not described"}
+  ],
+  "note": "No hmis or emr fact: the only described system is REC maternité, a maternal-programme electronic register (tracker) piloted in 15 health centres; the 25-28 November 2025 workshop on interoperability names the SNIS without describing its reporting."
+}

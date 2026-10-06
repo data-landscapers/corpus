@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SNIS",
+      "country_label": "Système national d'information sanitaire (SNIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health (the plan's author; the abbreviations list a Direction de la planification, de la coopération et de l'information sanitaire, DPCIS)",
+      "tiers": ""
+    }
+  ],
+  "note": "The stored body is the first 50,000 characters of the plan and stops in chapter 2, before section 3.3.2 (Système d'information sanitaire) and sub-programme 4.6 (component 4.6.1 SNIS, component 4.6.3 Santé digitale), which appear only as table-of-contents lines; the SNIS is therefore named with no description of what it does, and no fact is taken. The stored text does give the public facility counts usable as denominators: 746 health posts and 118 health centres in the health pyramid, or 794 health posts and 115 health centres in the 2018 SARA census."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01-sudan-health-information-systems-needs-limitations",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "the only approved system for collecting health information",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Abstract only; the publisher withholds the full text. It states, from stakeholder interviews, that DHIS2 is the one approved system for collecting health information, that many information sources sit outside the health information system, that collected information is usually estimated and inaccurate, and that there is no unified mechanism for exchange between health institutions. None of this gives a tier, a level at which data is keyed, a clinic count, an owner or a dated event, and the abstract does not say what DHIS2 reports, so it carries no class. Nothing in the abstract states that clinics record on paper."
+}

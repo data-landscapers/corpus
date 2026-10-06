@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-02-regional-sciencenigeria-africa-cdc-digital-tools-ebola-drc",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "single-function", "platform": "DHIS2", "owner": "DRC government with Africa CDC", "tiers": "Ebola-affected health zones"},
+    {"system": "Internet devices including Starlink systems", "country_label": "", "class": "enabling", "platform": "Starlink", "owner": "Africa CDC", "tiers": "Ebola-affected health zones"}
+  ],
+  "note": "DHIS2 is described only as a tool for outbreak (Ebola) data, a surveillance function; the paper-based reporting it mentions is outbreak reporting, not routine HMIS. No hmis or emr system described."
+}

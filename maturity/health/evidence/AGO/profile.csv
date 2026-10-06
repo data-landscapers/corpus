@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+AGO,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-04,AGO-003;AGO-006;AGO-008,AGO-001=owner:ministry;AGO-007=owner:ministry;AGO-009=finance:donor;AGO-010=finance:domestic;AGO-013=plan:current;AGO-014=finance:donor,
+AGO,hmis,tiers,coverage,,,,,nothing held
+AGO,hmis,digitised,coverage,district,2026-03-31,AGO-004;AGO-011,,
+AGO,hmis,last12,qualifier,advancing,2026-03,AGO-002,,
+AGO,hmis,clinics,coverage,none,2025-06-25,AGO-012,,
+AGO,emr,governance,qualifier,,,,,nothing held
+AGO,emr,tiers,coverage,,,,,nothing held
+AGO,emr,digitised,coverage,paper,2026-03-31,AGO-005,,
+AGO,emr,last12,qualifier,,,,,nothing held
+AGO,emr,clinics,coverage,,,,,nothing held

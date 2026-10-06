@@ -1,0 +1,74 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states, citing WHO's 2015 eHealth profile, that there was no EMR or EHR at primary level and that primary care relied on paper forms.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "paper patient records",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states, citing a government audit, that digital systems such as IPCS failed at Area Health Centres, Medi-Clinics and Community Health Centres, with hardware unused and records kept manually as of 2016.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "paper patient records",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states, citing the UNDP roadmap, that as of February 2025 the system remained mostly paper-based and that the One Patient, One Record PAS/EHR was not yet standard at the point of service.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states, citing the UNDP roadmap, that as of February 2025 the One Patient, One Record PAS/EHR project was in early rollout, piloting at one regional hospital.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The essay's country table (the author's AI-assisted compilation) states, citing the UNDP roadmap, that as of February 2025 extension of One Patient, One Record to health centres, mediclinics and community centres was planned as Phase 1 and not yet done, the pilot being at one regional hospital; it gives no count of clinics.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "One Patient, One Record",
+      "country_label": "One Patient, One Record PAS/EHR project",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "pilot at one regional hospital; extension to health centres, mediclinics and community centres planned (February 2025)"
+    },
+    {
+      "system": "IPCS",
+      "country_label": "IPCS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Area Health Centres, Medi-Clinics and Community Health Centres; implementation failed, hardware unused (2016)"
+    }
+  ],
+  "note": "Passages file; only the Mauritius clinic row bears on health. It says aggregate reporting is 'possibly' digital, which is a conjecture and gives no HMIS fact. OpenEMIS, the police CADB and civil status systems in the other rows are not health systems."
+}

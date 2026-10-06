@@ -1,0 +1,8 @@
+{
+  "slug": "2019-12-01-senegal-snds-iii-2019-2023-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "DPRS/MSAS", "tiers": "not stated; an action to extend its coverage to the private health sector"}
+  ],
+  "note": "The passages carry one action line of the 2019-2023 statistics strategy, extending DHIS2 coverage to the private health sector under DPRS/MSAS, costed at 68,779 (unit not shown in the passage) and shown 100 per cent in the last financing column; DHIS2 is named without a description of what it does, so it is unclassed and gives no fact."
+}

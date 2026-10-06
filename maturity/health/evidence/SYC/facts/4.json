@@ -1,0 +1,46 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:88%",
+      "fact": "The essay states, citing the Ministry of Health's 2023 Annual Performance Report, that eHIS patient registration coverage in primary health care facilities reached 88% in 2023, up from 29% in 2022, with no numerator given and 17 community health centres nationwide; it adds that consultation recording lagged below expectations even after EMR training for 140 doctors.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "eHIS",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The essay states that eHIS patient registration was in use in primary health care facilities (community health centres) in 2023, at 88% coverage against 29% in 2022, citing the Ministry of Health's 2023 performance report.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "eHIS",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The essay states that primary clinics still record patient data predominantly on paper despite the eHIS rollout, that eHIS implementation begun in 2020 stalled, and that point-of-care recording is hybrid with paper used for consultations; no date is given for this position, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "eHIS",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "eHIS",
+      "country_label": "eHIS (electronic Health Information System)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Primary health care facilities (community health centres); said to integrate surveillance and laboratories centrally"
+    }
+  ],
+  "note": "Passages file; an AI-assisted compilation by the essay's own account, so each fact is the essay's statement of what the ministry's documents say. The 88% is patient registration coverage in PHCs, not stated as a share of clinics."
+}

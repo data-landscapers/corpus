@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya",
+  "facts": [],
+  "systems": [
+    {"system": "GOTHOMIS", "country_label": "GOTHOMIS", "class": "", "platform": "", "owner": "Government (Ministry of Health speaking)", "tiers": "primary health care (afya ya msingi), named as the system currently in use there"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "EMR", "country_label": "EMR", "class": "emr", "platform": "", "owner": "", "tiers": ""},
+    {"system": "MPDSR", "country_label": "MPDSR", "class": "single-function", "platform": "", "owner": "", "tiers": "maternal death surveillance and reporting"},
+    {"system": "MTUHA registers (vitabu vya MTUHA)", "country_label": "MTUHA", "class": "", "platform": "paper books", "owner": "", "tiers": ""}
+  ],
+  "note": "The Chief Medical Officer (2025-11-25) says data collection through DHIS2 and EMR is being improved and that the government's priority is to strengthen existing health information systems, above all GOTHOMIS in primary care, not to start new ones. No system is described by what it does (GOTHOMIS is not said to hold the clinical record, DHIS2 not said to carry aggregate reports), so none can be classed for a fact. It also mentions adding fields to the MTUHA books, the paper registers."
+}

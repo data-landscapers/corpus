@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-who-egypt-country-cooperation-strategy-2024-2028",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National health information system",
+      "country_label": "National health information system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only, and the paragraph on the health information system (section 3.5.5) is cut to fragments: it says the national health information system is anchored by civil registration and vital statistics, and the strategic agenda commits WHO to support a national digital health policy and to strengthen the system's capacity for data generation and use. Nothing in the passages says what the system does, where data is entered or which tiers use it, so no fact. The parent may want section 3.5.5 read whole from the raw file."
+}

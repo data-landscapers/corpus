@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-13-nature-echis-death-notification",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "Workshops held May to August 2024 found that Village Health Teams report on paper HMIS forms (007, 008, 097b) quarterly and hand them to the health facility for aggregation and entry into DHIS2, and that facility and community reporting rely substantially on paper HMIS tools, facilities recording in paper registers and the HMIS 033b and 108 summaries (Scientific Reports, 2026).", "as_of": "2024", "date_precision": "year", "system": "District Health Information System (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS2)", "country_label": "DHIS2 / HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "health facilities enter aggregated paper HMIS forms; tiers not stated"},
+    {"system": "electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": "about 11,099 Village Health Teams and 160 Community Health Extension Workers in 17 districts at the time of the study (2024); synchronises with DHIS2 dashboards; community death notification workflow piloted in the 17 districts"},
+    {"system": "SMS-based COVID-19 death reporting platform (short code 6767)", "country_label": "6767", "class": "single-function", "platform": "SMS", "owner": "emergency response project", "tiers": "Village Health Teams; not integrated into DHIS2 and discontinued when funding ended"}
+  ],
+  "note": "Body is an excerpt, truncated in the Results section. eCHIS is stated to synchronise with DHIS2, which bears on the community-integrated flag."
+}

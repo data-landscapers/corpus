@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-undp-digital-x-zzapp-malaria-sao-tome-ai-vector-control",
+  "facts": [],
+  "systems": [
+    {"system": "Zzapp Malaria", "country_label": "Zzapp Malaria", "class": "single-function", "platform": "Zzapp Malaria (software as a service, with a field workers' mobile app)", "owner": "Zzapp Malaria (vendor)", "tiers": "Not facility-based: field workers mapping and treating water bodies; 2022 pilot in districts with urban and rural areas covering more than 160,000 people"}
+  ],
+  "note": "An AI system for planning, assigning and monitoring anti-malaria field operations (larviciding, house spraying), one function only and not routine facility reporting or a patient record; no fact. The typology has no class for an operations tool, so single-function is the nearest fit and the parent may prefer to leave it unclassed. The body does not mention DHIS2 or an HMIS."
+}

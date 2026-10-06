@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-gavi-programme-audit-report-angola",
+  "facts": [],
+  "systems": [
+    {"system": "IOTA", "country_label": "IOTA", "class": "single-function", "platform": "", "owner": "Ministry of Health, vaccine management reliant on external consultants as the audit puts it", "tiers": "not stated"}
+  ],
+  "note": "Gavi programme audit of 2018-2022 support, fieldwork February 2024, published August 2025; the capture is truncated before sections 4.1.3 (information systems project management) and 4.5.2 (immunisation data collection and reporting). What it holds concerns the immunisation programme only: administrative immunisation data unreliable against WUENIC, and the vaccine supply tool IOTA not fully used or integrated into the ministry's operations. No routine HMIS or EMR is named or described, so no fact is taken."
+}

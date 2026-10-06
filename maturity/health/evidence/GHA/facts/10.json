@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The Data Landscapers review states that rural clinics, CHPS compounds in particular, compile aggregate data monthly on paper tallies which are entered into DHIMS2 (DHIS2) at district level for national reporting; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIMS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "The review states that the patient-level record LHIMS is standard in district and regional hospitals and urban facilities in the 16 regional capitals, with efforts under way to extend it to health centres and no rollout to most rural clinics; undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "LHIMS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The review states that rural primary clinics, CHPS compounds in particular, record patient data at the point of care predominantly in paper registers, citing a semi-rural district where only two hospitals used an electronic record and the health centres all relied on paper; undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "LHIMS", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIMS2", "country_label": "DHIMS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "entered at district level from rural clinics' paper tallies"},
+    {"system": "LHIMS", "country_label": "LHIMS", "class": "emr", "platform": "", "owner": "", "tiers": "district and regional hospitals and urban facilities in 16 regional capitals; being extended to health centres; not in most rural clinics"},
+    {"system": "Simprints biometrics", "country_label": "Simprints biometrics", "class": "", "platform": "Simprints", "owner": "donor project", "tiers": "select rural CHPS, e.g. 325 Eastern Region facilities (pilot)"}
+  ],
+  "note": "The passage is the document's own country table row for Ghana clinics; the source is flagged as an AI-assisted compilation. The 2023-2027 Digital Health Strategy is mentioned without naming a system, so no governance fact."
+}

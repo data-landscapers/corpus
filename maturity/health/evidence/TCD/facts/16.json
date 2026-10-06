@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-30-worldbank-icr-redisse-iv-health-surveillance",
+  "facts": [],
+  "systems": [
+    {"system": "REDISSE IV health information and reporting systems (subcomponent 1.2)", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Public Health - Chad (implementing agency), World Bank financed", "tiers": ""}
+  ],
+  "note": "The held text is an excerpt truncated before any country detail; for Chad it states only a US$30 million equivalent grant to a disease-surveillance project (closed 31 May 2025) with a health information and reporting subcomponent, and DHIS2, IDSR and EWARS appear only in the abbreviations list with no description for Chad, so no fact."
+}

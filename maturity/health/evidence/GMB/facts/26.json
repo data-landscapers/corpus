@@ -1,0 +1,8 @@
+{
+  "slug": "2022-10-01-dhis2-education-gambia-country-use-case-emis-shift",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (health sector use)", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "About DHIS2 for Education at the Ministry of Basic and Secondary Education; mentions existing health-sector DHIS2 capacity only in passing, with no description, so no fact."
+}

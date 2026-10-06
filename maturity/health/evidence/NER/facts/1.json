@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "national interoperability layer", "country_label": "national interoperability layer", "class": "exchange", "platform": "OpenFn (Open Function)", "owner": "Directorate of e-Health, with the Data.FI Project and OpenFn developers", "tiers": "national"},
+    {"system": "national DHIS2-based health information system", "country_label": "national health information system", "class": "", "platform": "DHIS2", "owner": "", "tiers": "national"},
+    {"system": "three digital health platforms connected to DHIS2 (unnamed)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is about an exchange-class system: the first national interoperability layer (OpenFn) automating data exchange between three unnamed health platforms and the national DHIS2, announced 2026-08-13; it also says Niger had more than 32 largely isolated digital health platforms in 2023. The national DHIS2 is named without a description of what it reports, so it is unclassified and gives no hmis fact."
+}

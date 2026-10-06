@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-morocco-dhis2-health-data-audit",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "plateforme nationale DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministère de la Santé et de la Protection Sociale (MSPS)", "tiers": "not stated; used in several national public health programmes, among them HIV and tuberculosis"}
+  ],
+  "note": "No fact: the article calls DHIS2 the ministry's platform for collecting, managing and analysing health data, used in several national programmes including HIV and TB, without saying whether it carries routine aggregate facility reporting or programme tracking, so it is left unclassified. It does state: ministry-run; a technical and security audit July to September 2026 budgeted at 170,000 DH excluding tax under the Global Fund 2024-2026 grant; an earlier diagnostic with HISP MENA; skills transfer to ministry teams."
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "2023-07-01-mshp-manuel-procedures-gestion-information-sanitaire",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's procedures manual (3rd edition, July 2023) states that the ministry's Direction générale des études et des statistiques sectorielles, created by decree of 19 July 2022, coordinates the national health information system, and that its Direction des statistiques sectorielles et de l'évaluation manages the system's databases and designs the reporting forms.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The manual states that a strategic plan for the national health information system for 2022-2025 (plan stratégique du SNIS 2022-2025) is in place and that updating the manual is one of its actions; no cost or funding source is given in the captured part.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The manual charges the heads of health facilities covered by decentralised entry (saisie décentralisée) with keying their own monthly activity report before the 5th of the following month; it does not say how many facilities are covered.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The manual charges the district's CISSE, immunisation and pharmacy officers with keying the monthly activity reports of health facilities, which compile them from registers that may be physical or electronic; this is the route for facilities not covered by decentralised entry.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The manual prescribes the monthly activity report for public and private facilities at every level and assigns its entry to hospital data managers (CHU and CHR, through their SPIH or SIM services), to district teams, and to first-level facilities (CSPS, CM, CMA) where decentralised entry applies; it is a procedure, not a count of who complies, and it names no entry by health posts.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SNIS routine reporting sub-system (rapport mensuel d'activités, Endos-BF)",
+      "country_label": "SNIS; Endos-BF (entrepôt de données sanitaires)",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health: DGESS, through its Direction des statistiques sectorielles et de l'évaluation",
+      "tiers": "CHU and CHR (SPIH/SIM); district teams (CISSE); first-level facilities CSPS, CM and CMA where decentralised entry applies; regional directorates enter coordination data"
+    },
+    {
+      "system": "Sous-système d'information pour la surveillance épidémiologique (TLOH)",
+      "country_label": "TLOH (télégramme lettre officielle hebdomadaire)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health: Direction de la protection de la santé de la population",
+      "tiers": ""
+    },
+    {
+      "system": "Sous-système d'information à assise communautaire",
+      "country_label": "registre ASBC",
+      "class": "community",
+      "platform": "",
+      "owner": "",
+      "tiers": "community health workers (ASC, ASBC); their data feed the monthly activity report"
+    }
+  ],
+  "note": "The capture is an excerpt that stops mid-sentence in section B.III.6, before the sections on entry deadlines, quality assurance and SNIS financing. The body does not name DHIS2. No EMR fact: patient files (dossiers des patients) and consultation registers are mentioned only as records to be kept, registers being 'physical or electronic', with no system described. Tier names: CSPS and CM (first échelon), CMA (second échelon), CHR, CHU."
+}

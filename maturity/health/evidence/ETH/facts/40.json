@@ -1,0 +1,31 @@
+{
+  "slug": "2020-01-01-usaid-eth-digital-health-dha-2020-digital-health-activity-dha---ethiopia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Government of Ethiopia, supported by USAID Digital Health Activity",
+      "tiers": ""
+    },
+    {
+      "system": "OpenMRS",
+      "country_label": "OpenMRS",
+      "class": "",
+      "platform": "OpenMRS",
+      "owner": "Government of Ethiopia, supported by USAID Digital Health Activity",
+      "tiers": ""
+    },
+    {
+      "system": "interoperability platforms",
+      "country_label": "interoperability platforms",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Government of Ethiopia, supported by USAID Digital Health Activity",
+      "tiers": ""
+    }
+  ],
+  "note": "Deal record: USAID committed US$60,148,170 (2020-2025, US$59,693,346 disbursed) to the Digital Health Activity supporting DHIS2, OpenMRS and interoperability platforms; the systems are named by product only with no description of what they do, so none can be classed and no fact is taken."
+}

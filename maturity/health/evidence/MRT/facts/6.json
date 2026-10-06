@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-09-mrt-ministere-sante-banque-mondiale-plateforme-numerique-donnees-sante",
+  "facts": [],
+  "systems": [
+    {
+      "system": "integrated digital platform for managing health institutions and services (proposed)",
+      "country_label": "منصة رقمية متكاملة لتسيير المؤسسات والخدمات الصحية",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, on World Bank experts' proposal",
+      "tiers": "Proposed for hospitals, health centres and health posts; not deployed"
+    }
+  ],
+  "note": "On 9 March 2026 a World Bank mission proposed to the Ministry of Health an integrated digital platform to manage health institutions and services at hospitals, centres and posts, and the centralisation of health data; the minister said implementation would begin and a joint technical committee be formed. The platform is a proposal described only as management of institutions and services, with no statement that it carries routine aggregate reporting or the clinical record, so it is unclassified and gives no fact."
+}

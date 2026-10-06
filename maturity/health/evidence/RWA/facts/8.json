@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-23-tbi-rwanda-health-data",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "The Tony Blair Institute states that King Faisal Hospital Rwanda, a Kigali referral hospital, replaced multiple and sometimes paper-based systems used before 2024 with an Integrated Health Management Information System joining administrative and clinical areas (imaging and laboratory among them) so that each patient has a single record; one hospital only, and no date is given beyond the document's publication.", "as_of": "2026-07-23", "date_precision": "day", "system": "Integrated Health Management Information System", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Integrated Health Management Information System", "country_label": "Integrated Health Management Information System (King Faisal Hospital Rwanda)", "class": "emr", "platform": "", "owner": "King Faisal Hospital Rwanda, with the ministries of health and ICT; Tony Blair Institute advised on design", "tiers": "one referral hospital in Kigali"},
+    {"system": "e-Buzima", "country_label": "e-Buzima", "class": "emr", "platform": "", "owner": "government", "tiers": "to be rolled out to all hospitals and health centres; no deployment figure stated"},
+    {"system": "National Health Intelligence Center (NHIC)", "country_label": "National Health Intelligence Center", "class": "exchange", "platform": "data warehouse", "owner": "Ministry of Health", "tiers": "national hub integrating data from hospitals, health centres, supply chains and workforce management; launched April 2025"}
+  ],
+  "note": "The document also says that before the NHIC, facility managers spent two or three days each month-end manually recording data to send to the Ministry of Health, and that records can now flow directly into the NHIC; it names no reporting system and does not say where that data was keyed, so no hmis fact is taken. For e-Buzima it states an intention to roll out, not a deployment."
+}

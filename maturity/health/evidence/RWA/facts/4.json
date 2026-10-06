@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-14-ssa-health-data-governance-literature-review",
+  "facts": [],
+  "systems": [
+    {"system": "health information exchange (HIE) systems", "country_label": "Rwanda's HIE systems", "class": "exchange", "platform": "", "owner": "", "tiers": "sharing patient information between public healthcare sectors; tiers not stated"}
+  ],
+  "note": "A literature review of health-data governance law; for Rwanda it states only that the country led in developing a proof of concept for a health information exchange (citing 2018 and 2022 sources) and that its HIE systems share patient information within the public sector. Nothing on an HMIS or EMR deployment."
+}

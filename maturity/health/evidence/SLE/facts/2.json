@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-health-minister-starlink-jmb-pediatric-hospital",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink High-Speed Internet Service", "country_label": "Starlink internet", "class": "enabling", "platform": "Starlink", "owner": "Ministry of Health", "tiers": "launched at the Julius Maada Bio Pediatric Excellence Hospital, Lumley (27 July 2026); to be expanded to more than 300 health facilities nationwide"}
+  ],
+  "note": "Connectivity only. Electronic medical records are named as something the connection is expected to enable; no record system is named or described."
+}

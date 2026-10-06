@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-03 Now is the time to invest in locally-owned health data systems",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (Marburg outbreak response)", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The only statement about Rwanda is that it used DHIS2 to manage the response to the 2024 Marburg virus outbreak, an outbreak-response use and not routine aggregate reporting; the HISP survey findings are not given by country."
+}

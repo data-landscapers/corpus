@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-eritrea-who-uhc-dhis2-rollout",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS-2",
+      "country_label": "DHIS-2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "WHO UHC Partnership activity record: support to sector digitisation, DHIS-2 roll out and a health information system gaps analysis, 1 January to 31 December 2018, 70 per cent implemented, status completed. DHIS-2 is named with no description of what it does, so it is unclassified and gives no fact."
+}

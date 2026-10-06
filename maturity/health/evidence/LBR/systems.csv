@@ -1,0 +1,48 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LBR,OneHealthEHR,OneHealthEHR,emr,"OneHealthEHR (offline-first, FHIR R4 and HL7)","OneHealthEHR Inc. / OneHealthEHR Africa, with NPHIL as surveillance partner","clinics and health centers (seven across Liberia and Ghana, September 2026)",2026-09-28-lbr-gha-onehealthehr-goes-live
+LBR,"Electronic Medical Records (EMR), planned national implementation",Electronic Medical Records (EMR),emr,,"Ministry of Health, National Health Intelligence Center (NHIC), with SAND Technologies and TRIBE",planned across health facilities nationwide; readiness assessed in selected hospitals and health centers,2026-05-08-liberia-moh-emr-readiness-enumerator-training
+LBR,Health Management Information System (HMIS) / DHIS2,HMIS; routine HIS,hmis,DHIS2,Ministry of Health,,2026-05-01-who-liberia-annual-report-2025
+LBR,e-IDSR,electronic Integrated Disease Surveillance and Response (e-IDSR),single-function,,"Ministry of Health / NPHIL, WHO-supported","137 surveillance officers across all districts and zones, reporting by mobile phone",2026-05-01-who-liberia-annual-report-2025
+LBR,dIMCI,Digital Integrated Management of Childhood Illness,,,,,2026-05-01-who-liberia-annual-report-2025
+LBR,HMIS on DHIS2,HMIS,hmis,DHIS2,,entered at county health teams from clinics' paper forms,2026-03-31 Africa we have a data problem
+LBR,OpenMRS EMR at J.J. Dossen Hospital,,emr,OpenMRS,Partners In Health,"J.J. Dossen Hospital, Maryland County",2026-03-31 Africa we have a data problem
+LBR,Birth registration system linked to DHIS2,,,DHIS2,UNICEF-supported,"tablets/online in 98% of health districts (2024), per the essay",2026-03-31 Africa we have a data problem
+LBR,Health Management Information System (HMIS),HMIS,hmis,,Ministry of Health,,2026-03-01-liberia-national-data-governance-policy
+LBR,GFF Data Portal,GFF Data Portal for the Ministry of Health,,,Ministry of Health,,2026-03-01-liberia-national-data-governance-policy
+LBR,HMIS on DHIS2,HMIS; DHIS2,hmis,DHIS2,"Ministry of Health, HMIS Division",county and facility HIS focal persons are to be trained on DHIS2 reporting standards,2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,eLMIS/mSupply,eLMIS/mSupply,,mSupply,Ministry of Health,,2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,eIDSR,eIDSR,,,Ministry of Health,,2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,LIS,LIS,,,Ministry of Health,,2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,CBIS,CBIS,,,Ministry of Health,,2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,EIR,EIR,,,Ministry of Health,,2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,National interoperability layer (planned),national interoperability layer,exchange,,Ministry of Health,"planned 2026 and 2029, US$14,400: to integrate DHIS2, eLMIS/mSupply, eIDSR, LIS and CBIS",2025-12-15-liberia-lisgis-nsds-iii-2026-2030
+LBR,HMIS/DHIS2,"Health Management Information System (HMIS)/DHIS2, national integrated health data warehouse",hmis,DHIS2,Government of Liberia,,2025-12-09-afghs-mou-liberia
+LBR,"Electronic Medical Records (EMR), open-source",Electronic Medical Records (EMR),emr,"open-source, not named",Government of Liberia,"planned for clinics, health centers and hospitals; 20% of public facilities targeted in 2026 rising to 100% in 2030",2025-12-09-afghs-mou-liberia
+LBR,DHIS2 e-tracker,DHIS2 e-tracker,tracker,DHIS2 Tracker,Government of Liberia,,2025-12-09-afghs-mou-liberia
+LBR,Lab Information System (LIS),LIS,single-function,,Government of Liberia,to be rolled out across all national and regional labs by end 2027,2025-12-09-afghs-mou-liberia
+LBR,IDSR / eIDSR,Electronic Integrated Disease Surveillance and Response (eIDSR),single-function,,Government of Liberia,to be rolled out across all applicable sites by end 2027,2025-12-09-afghs-mou-liberia
+LBR,mSupply / eLMIS,mSupply and Electronic Logistics Management Information System (eLMIS),single-function,mSupply,Government of Liberia,"targeted at 20% of government-run health facilities by end 2026, 100% by 2030",2025-12-09-afghs-mou-liberia
+LBR,sLMIS,"Soft Logistics Management Information System (sLMIS), pharmacy management",single-function,,Government of Liberia,"targeted at 20% of pharmacies in public health facilities by end 2026, 100% by 2030",2025-12-09-afghs-mou-liberia
+LBR,CBIS / eCBIS,"Community Based Information System (CBIS), a sub-system within DHIS2; electronic CBIS (eCBIS)",community,DHIS2,Government of Liberia,community,2025-12-09-afghs-mou-liberia
+LBR,HMIS/DHIS2,"HMIS/DHIS2, national health data warehouse",hmis,DHIS2,Government of Liberia / Ministry of Health,,2025-12-09-state-lbr-afghs-data-systems-2025-record
+LBR,Electronic Medical Records (EMR),EMR,emr,,Government of Liberia / Ministry of Health,,2025-12-09-state-lbr-afghs-data-systems-2025-record
+LBR,mSupply,mSupply,,mSupply,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
+LBR,LIS,lab information system,single-function,,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
+LBR,eIDSR/IDSR,eIDSR/IDSR,,,,,2025-12-09-state-lbr-afghs-data-systems-2025-record
+LBR,"Electronic Medical Records (EMR) system, Careysburg and Duport Road Health Centers",Electronic Medical System / EMR,emr,"bespoke, to be developed; mobile application; interoperable with DHIS2","UNFPA, with the Ministry of Health (HMER)",two health centers (commissioned),2025-10-27-liberia-unfpa-rfq-electronic-medical-system-careysburg-duport-road
+LBR,DHIS2,DHIS2,,DHIS2,,,2025-10-27-liberia-unfpa-rfq-electronic-medical-system-careysburg-duport-road
+LBR,HMIS on DHIS2,Health Management Information System (HMIS); DHIS2,hmis,DHIS2,"Ministry of Health, Department of Policy, Planning, Monitoring and Evaluation","all health facilities, public and private, required to report monthly; counties submit to the central Ministry",2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,eLMIS,Electronic Logistics Management Information System (eLMIS),single-function,,Ministry of Health,under development in 2024; reporting delayed by insufficient internet access,2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,eCBIS,eCBIS platform,community,Ona,"Ministry of Health, with Ona",,2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,EIR,EIR (pilot),,,Ministry of Health,pilot in 2024,2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,Birth and death registration on DHIS2,birth registration web-based platform,,DHIS2,"Ministry of Health, Birth and Death Registration unit","county service centers; 93,031 birth registrations recorded in DHIS2 as of 2023",2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,LIS,Laboratory Information System,,,,,2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,HRIS,Human Resource Information System,,,,,2025-01-01-liberia-moh-annual-health-service-performance-report-2024
+LBR,Birth Registration Information Management System (BRIMS),BRIMS,,DHIS2,"Ministry of Health, UNICEF-supported",birth registration services in all 15 counties and 58 centers (December 2024),2024-12-11-unicef-liberia-children-legal-identity
+LBR,Health Information System (HIS) of the Ministry of Health,Health Information System (HIS),hmis,,Ministry of Health,statistics published by county,2023-12-01-lisgis-socioeconomic-statistical-bulletin-2023
+LBR,DHIS2 Tracker for HIV client-level data,"DHIS2 Tracker (HIV), National AIDS and STI Control Program",tracker,DHIS2 Tracker,"EpiC project (FHI 360, PEPFAR/USAID-funded) with the National AIDS and STI Control Program; hosted on the EpiC cloud server, with a Ministry of Health plan to migrate it to its own server","21 PEPFAR-supported HIV treatment sites since 2021, covering 70% of people on treatment; data keyed by data entry clerks from paper registers; rollout to 900+ non-PEPFAR facilities planned",2023-08-29-dhis2-liberia-hiv-tracker
+LBR,"DHIS2 Tracker, Key Population program",,tracker,DHIS2 Tracker,Plan International,,2023-08-29-dhis2-liberia-hiv-tracker
+LBR,OpenMRS EMR at J.J. Dossen Hospital,electronic medical record (EMR) system,emr,OpenMRS,"Partners In Health-Liberia, with the Maryland County Health Team","one hospital, J.J. Dossen Hospital, Maryland County (described as a rural hospital)",2020-09-18-pih-emr-jj-dossen-hospital
+LBR,Health Information System (envisaged),Health Information System comprising patient data records,,,Ministry of Health,,2019-10-31-liberia-mopt-national-ict-policy-2019-2024
+LBR,national HMIS,national HMIS,hmis,,,,2015-01-01-usaid-lbr-collaborative-health-2015-collaborative-support-for-health-systems-strengthening
+LBR,iHRIS,iHRIS,,iHRIS,,,2015-01-01-usaid-lbr-collaborative-health-2015-collaborative-support-for-health-systems-strengthening

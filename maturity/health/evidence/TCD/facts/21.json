@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-01-swisstph-sysref-satisfaction-survey-poster-tchad",
+  "facts": [],
+  "systems": [
+    {"system": "SysRef digital solution (CDSS with electronic monitoring of vaccinations and pre- and postnatal consultations)", "country_label": "SysRef, continued as SANU-TD (Santé Numérique au Tchad)", "class": "tracker", "platform": "", "owner": "Swiss TPH with CSSI, the Ministry for Public Health and Prevention and UNHCR; funded by the Stanley Thomas Johnson Foundation, extension funded by the Swiss Agency for Development and Cooperation through PADS", "tiers": "piloted in three health centres in southern Chad; being extended to the national health system in the south of Chad (as of April 2024)"}
+  ],
+  "note": "Poster on user satisfaction with a clinical decision-support tool with vaccination and ante/postnatal monitoring (patient-level, programme-specific: tracker); it says nothing of HMIS reporting, paper registers or district data entry, and does not describe the tool as a general patient record, so no hmis or emr fact."
+}

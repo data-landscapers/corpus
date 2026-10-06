@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNB,hmis,governance,qualifier,owner:ministry,2026-07,GNB-001,GNB-008=owner:ministry,"not stated: plan, finance"
+GNB,hmis,tiers,coverage,,,,,nothing held
+GNB,hmis,digitised,coverage,district,2026-03-31,GNB-006,,
+GNB,hmis,last12,qualifier,advancing,2026-07,GNB-002;GNB-007,,
+GNB,hmis,clinics,coverage,,,,,nothing held
+GNB,emr,governance,qualifier,,,,,nothing held
+GNB,emr,tiers,coverage,,,,,nothing held
+GNB,emr,digitised,coverage,paper,2026-03-31,GNB-003;GNB-004,,
+GNB,emr,last12,qualifier,,,,,nothing held
+GNB,emr,clinics,coverage,none,2026-03-31,GNB-005,,

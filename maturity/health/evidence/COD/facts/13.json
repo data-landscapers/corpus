@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-22-dhis2-community-surveillance-mpox-sud-kivu",
+  "facts": [],
+  "systems": [
+    {"system": "Mpox surveillance application integrated with DHIS2", "country_label": "Surveillance MPOX intégrée à DHIS2", "class": "single-function", "platform": "Flutter/Vue.js mobile and web application linked to DHIS2 by REST API", "owner": "local developer with the South Kivu Provincial Health Division", "tiers": "pilot in three health zones (Uvira, Fizi, Walungu), South Kivu"},
+    {"system": "Community-level data capture", "country_label": "", "class": "community", "platform": "ODK/KoBoCollect, synchronised with DHIS2", "owner": "", "tiers": "community relays in the pilot zones"},
+    {"system": "National DHIS2 system", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "health facilities transmit data to it, often late or incomplete, as stated"}
+  ],
+  "note": "A surveillance pilot for epidemic case notification, posted 22 April 2026; the national DHIS2 is named as available but what it reports is not described, and no level of data entry or facility count is given."
+}

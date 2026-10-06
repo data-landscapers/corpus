@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-24-lesoleil-anacod3-donnees-mortalite",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ANACoD3",
+      "country_label": "outil d'analyse de la mortalité et des causes de décès (ANACoD3)",
+      "class": "single-function",
+      "platform": "ANACoD3 (WHO)",
+      "owner": "Ministère de la Santé et de l'Hygiène publique, Direction de la planification, de la recherche et des statistiques (DPRS)",
+      "tiers": ""
+    }
+  ],
+  "note": "The only system named is a WHO analysis tool for mortality and cause-of-death data (training workshop, Dakar, 20-21 July 2026): one function, so no HMIS or EMR fact. The 'système d'information sanitaire' is mentioned only as something to be modernised."
+}

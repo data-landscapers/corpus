@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-oms-sao-tome-semana-africana-vacinacao-digitalizacao-dados",
+  "facts": [],
+  "systems": [
+    {"system": "digitalisation of vaccination data (test)", "country_label": "digitalização dos dados de vacinação", "class": "", "platform": "", "owner": "WHO in partnership with the Ministry of Health, with WHO/AFRO support", "tiers": "Being tested in three districts, Água Grande, Mé-Zóchi and Caué, during African Vaccination Week, 29 April to 6 May 2026"}
+  ],
+  "note": "Immunisation only, and the release does not say whether the data are aggregate (single-function) or per person (tracker), nor name the software; neither class is the sub-indicators' own, so no fact. The dated event is a test begun 29 April 2026."
+}

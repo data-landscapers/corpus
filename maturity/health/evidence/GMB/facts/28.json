@@ -1,0 +1,18 @@
+{
+  "slug": "2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank project paper of October 2021 states that the Global Fund allocated US$4.5 million, in parallel co-financing with the Bank's project, to health-systems strengthening areas that include the Health Management Information System and monitoring and evaluation; it names no government budget line for the HMIS.", "as_of": "2021-10-29", "date_precision": "day", "system": "Health Management Information System (HMIS) on DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "none", "fact": "As of October 2021 the World Bank reports that the Ministry of Health's request for bids for an electronic medical records system was still being finalised, so no such system was procured or in use.", "as_of": "2021-10-29", "date_precision": "day", "system": "electronic medical records system (planned)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's Essential Health Services Strengthening Project, implemented by the Ministry of Health, is the vehicle through which the request for bids for an electronic medical records system was being prepared in October 2021.", "as_of": "2021-10-29", "date_precision": "day", "system": "electronic medical records system (planned)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "HMIS; District Health Information Software 2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "health facilities' monthly reports"},
+    {"system": "electronic medical records system (planned)", "country_label": "", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "none; request for bids being finalised"},
+    {"system": "electronic logistics management information system (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not yet established; bids for consulting services evaluated"},
+    {"system": "electronic Human Resource Management Information System (eHRMIS)", "country_label": "eHRMIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "request for bids issued"},
+    {"system": "electronic Civil Registration and Vital Statistics system", "country_label": "eCRVS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "user devices procured for registration centres across the country"},
+    {"system": "National Health Insurance Authority electronic enrolment and claims processing (planned)", "country_label": "", "class": "", "platform": "", "owner": "National Health Insurance Authority (proposed)", "tiers": ""},
+    {"system": "community health workers' service delivery reports integrated into HMIS", "country_label": "", "class": "community", "platform": "", "owner": "Ministry of Health", "tiers": "baseline 80.6% of reports integrated into HMIS, end target 90%"}
+  ],
+  "note": "Results framework baselines that fit no aspect: timely submission of health facilities' monthly reports 69.8% and completeness 75.7% (end targets 90% and 92%). The Ministry states a preference for open-source, web-based systems interoperable with the existing DHIS2. The capture is an excerpt cut off inside the results framework."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa",
+  "facts": [],
+  "systems": [
+    {"system": "interoperable digital health systems", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "a large proportion of facilities, unquantified"},
+    {"system": "mobile-based tools used by community health workers", "country_label": "", "class": "community", "platform": "", "owner": "", "tiers": "community health workers; feed centralised dashboards"}
+  ],
+  "note": "For Rwanda the article says only that a coordinated national approach has deployed interoperable digital health systems across a large proportion of facilities and that community health workers' mobile tools feed central dashboards: no system is named or described as reporting or as a patient record, and no figure or date is given, so no fact is taken."
+}

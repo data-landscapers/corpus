@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-08-anp-sante-numerique-schema-directeur-e-sante",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "ANP reports that on 8 July 2026 the health minister opened the workshop validating the costed roadmap of the Schéma Directeur National de la e-Santé 2025-2029, 27 projects covering hospitals among other fields, at which OpenClinic, the hospital information system and computerised patient record project, was presented as already under way.", "as_of": "2026-07-08", "date_precision": "day", "system": "OpenClinic", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "At the 8 July 2026 roadmap validation workshop the Directorate of e-Santé presented the OpenClinic project, for a hospital information system and computerised patient record, as one of several projects already engaged; ANP gives no sites or counts.", "as_of": "2026-07-08", "date_precision": "day", "system": "OpenClinic", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "projet OpenClinic (système d'information hospitalier et dossier patient informatisé)", "class": "emr", "platform": "OpenClinic", "owner": "Ministry of Health, Direction de la e-Santé (presenter)", "tiers": "hospitals; not otherwise stated"},
+    {"system": "couche nationale d'interopérabilité", "country_label": "couche nationale d'interopérabilité", "class": "exchange", "platform": "", "owner": "Ministry of Health, Direction de la e-Santé", "tiers": "national; stated as already operational with several systems"},
+    {"system": "Estelab", "country_label": "plateforme Estelab", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated; surveillance of notifiable diseases"},
+    {"system": "DHIS2 (weekly notifiable-disease reporting)", "country_label": "système DHIS2", "class": "single-function", "platform": "DHIS2", "owner": "", "tiers": "CSI (integrated health centres), health districts and hospitals entered the weekly data by hand until the interoperability layer"},
+    {"system": "plateforme eLearning", "country_label": "projet eLearning", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "DHIS2 is described here only for weekly notifiable-disease reporting (surveillance), so it is entered as single-function and gives no hmis fact; the document does state that staff at CSIs, districts and hospitals keyed that weekly data into DHIS2 themselves. The roadmap covers 'systèmes d'information sanitaire' without naming an HMIS."
+}

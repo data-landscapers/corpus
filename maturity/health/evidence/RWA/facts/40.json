@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-01-rwanda-crvs-standard-operating-procedures",
+  "facts": [],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "country_label": "NCI-CRVS", "class": "", "platform": "", "owner": "", "tiers": "health facilities register births and deaths occurring in them"}
+  ],
+  "note": "Civil registration procedures; the passages name the HMIS only in the list of abbreviations and state nothing about it."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-30-mohw-annual-report-performance-fy2024-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Disease Surveillance and Response (IDSR) on DHIS2",
+      "country_label": "Integrated Disease Surveillance and Response (IDSR)",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "primary health care centres, reporting electronically on 11 priority suspected diseases (FY 2024-2025)"
+    }
+  ],
+  "note": "Passages file: the only passage carrying a study term describes disease surveillance reported through DHIS2, a single-function system, so no fact. The contents page lists a section 1.11 on implementation of the e-Health system, but its text is not among the passages."
+}

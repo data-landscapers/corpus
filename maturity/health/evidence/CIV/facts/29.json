@@ -1,0 +1,9 @@
+{
+  "slug": "2024-07-10-cmu-numero-immatriculation-identifiant-sante",
+  "facts": [],
+  "systems": [
+    {"system": "numéro d'immatriculation de la CMU", "country_label": "numéro d'immatriculation de la Couverture maladie universelle (CMU), identifiant de santé", "class": "exchange", "platform": "", "owner": "Government of Côte d'Ivoire (decree adopted by the Council of Ministers, 10 July 2024)", "tiers": "all public and private health establishments nationwide, which have twenty-four months to conform in the hospital information system"},
+    {"system": "système d'information hospitalier", "country_label": "système d'information hospitalier", "class": "", "platform": "", "owner": "", "tiers": "named only as where establishments must adopt the identifier"}
+  ],
+  "note": "A decree of 10 July 2024 making the CMU registration number the single health identifier for opening a patient's record in public and private establishments: a patient identifier (class exchange), with no statement on any EMR's tiers, digitisation or coverage, so no fact."
+}

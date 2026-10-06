@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-02-dhis2-africa-cdc-ebola-outbreak-response-toolkit",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 Tracker configuration for Ebola response", "country_label": "DHIS2", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health, with HISP DRC, RTI International and the Public Health Emergency Operations Centre (COUSP)", "tiers": "provincial response teams, Ituri outbreak"},
+    {"system": "DHIS2 for disease surveillance", "country_label": "DHIS2", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health with HISP DRC, HISP UiO and Africa CDC", "tiers": "not stated"},
+    {"system": "DHIS2 animal health surveillance system", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "Every DHIS2 use described for DR Congo is surveillance or outbreak case tracking: the Ebola Tracker made operational within 24 hours of the declaration of 15 May 2026, and earlier Ebola (2025) and mpox (2024) responses. No routine aggregate reporting and no patient record system is described."
+}

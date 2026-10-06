@@ -1,0 +1,46 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:84%",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that the World Bank Health Strengthening Project reports 84% of facilities with DHIS2 data entry; the share is of facilities generally, not of primary clinics, and it gives no numerator, denominator or year, so the date is the document's published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "Data Landscapers' review states that some facilities enter data into DHIS2 directly while others record on paper and submit it at once, with disaggregated data collected by hand, and reads this as mainly paper recording at rural clinics with aggregate digital entry; it gives no date, so the date is the document's published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' review states it found no evidence of an EMR or of digital patient records, registers or prescriptions at clinic level in Djibouti's 38 rural primary health centres, and that recording there is predominantly on paper; it gives no date, so the date is the document's published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "none found (patient records)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "84% of facilities with DHIS2 data entry; rural primary health centres (38) mainly on paper with aggregate entry"
+    }
+  ],
+  "note": "Passages file; the Djibouti clinic row is the only health passage. It also mentions IGAD digital equipment donated to districts and the HIS, with no date or figure. The school, police and registry rows state nothing about health information systems."
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "2026-01-01-worldbank-senegal-digital-economy-acceleration-restructuring",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:1%",
+      "fact": "The World Bank's results framework gives 1 per cent of health centres as using electronic medical records at 31 October 2025, against a baseline of 0 in October 2022 and a target of 20 per cent by May 2028; the denominator is the 102 district-level centres de santé (health posts are not in it), and a centre counts as using the record when at least 30 per cent of consultations are recorded electronically.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The World Bank reports the electronic medical record in use at district-level health centres (1 per cent of 102 at 31 October 2025) and an electronic record available for a cumulative 200,000 primary care patients at the same date, 55 per cent of them female, against a target of 1,500,000 by May 2028; no other tier is reported as using it.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The electronic medical record is a core activity of the US$46 million health component of the IDA-financed Senegal Digital Economy Acceleration Project (P172524, closing 31 May 2028), of which US$6.91 million of the whole project, 4.4 per cent, had been disbursed as of December 2025; the paper's results framework still awaits a government model for carrying the costs after closure, recorded as not developed at 31 October 2025.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank names the Ministry of Health and Public Hygiene as lead agency for the health component and describes the electronic medical record as a system deployed by that ministry, with a joint technical committee with the digital ministry (MCTN) created in September 2025 over the selected system and its deployment strategy; undated otherwise, so the paper's inferred date of January 2026 is used.",
+      "as_of": "2026-01",
+      "date_precision": "month",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "no-change",
+      "fact": "The World Bank records that disagreement between the health and digital ministries delayed the launch of an electronic medical record pilot across 51 health centres, which had not started as of December 2025 and was then expected in the third quarter of fiscal 2026 with an evaluation in the fourth, and that the contract for scaling up the system was expected to be signed in January 2026.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Electronic Medical Record (EMR) system", "country_label": "", "class": "emr", "platform": "", "owner": "Ministry of Health and Public Hygiene", "tiers": "district-level health centres (1% of 102 at 31 October 2025); pilot across 51 health centres pending; holds patient demographics, visits, diagnoses, treatments, prescriptions and referrals"},
+    {"system": "Electronic maternal records (digitised mother and child health record)", "country_label": "", "class": "tracker", "platform": "", "owner": "Ministry of Health and Public Hygiene", "tiers": "0% of eligible women at 25 October 2024; target 25% by May 2028"},
+    {"system": "Telemedicine platform", "country_label": "", "class": "enabling", "platform": "", "owner": "Ministry of Health and Public Hygiene", "tiers": "pilot with kits for selected health facilities; 0 consultations at 25 October 2024"},
+    {"system": "Geo-referenced map of healthcare facilities", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Health and Public Hygiene", "tiers": "not available online at 31 October 2025"},
+    {"system": "Government intranet connectivity of health structures", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "51 health structures connected out of 1,600 nationally (3%), October 2022 baseline, unchanged at 4 May 2023"}
+  ],
+  "note": "The paper does not say whether consultations are recorded at the point of care or keyed afterwards, so no fact is given on where data is digitised. It also reports a target digital health architecture as developed, undated, and the health component rated Moderately Satisfactory."
+}

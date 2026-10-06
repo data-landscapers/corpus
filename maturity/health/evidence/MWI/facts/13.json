@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-01-mwi-undp-idt4m-annual-report-2025",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "UNDP's IDT4M annual report for 2025 states that the Ministry of Health, with the National Registration Bureau and partners, piloted integration of the National ID into Electronic Medical Records systems in five health facilities in Karonga District.", "as_of": "2025", "date_precision": "year", "system": "Electronic Medical Records (EMR) systems", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "UNDP states that the Karonga pilot linking the National ID to Electronic Medical Records systems in five health facilities ran with UNDP's technical and financial support; the report says nothing of how the EMR systems themselves are financed.", "as_of": "2025", "date_precision": "year", "system": "Electronic Medical Records (EMR) systems", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "UNDP reports that in 2025 the Ministry of Health reviewed lessons from the Karonga pilot linking National ID and birth certificates to electronic medical records in five health facilities and approved a national scale-up plan.", "as_of": "2025", "date_precision": "year", "system": "Electronic Medical Records (EMR) systems", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR) systems", "country_label": "EMR", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "five health facilities in Karonga District in the National ID integration pilot; tier of the facilities not stated"},
+    {"system": "national health information software", "country_label": "", "class": "", "platform": "digital public goods, not named", "owner": "", "tiers": ""}
+  ],
+  "note": "The EMR systems are not named and the tier of the five Karonga facilities is not given, so no tiers or clinics fact is recorded. The report also mentions a 'National Digital Health System' that is an innovation-award prototype, not a deployed system, and hospital-based birth registration with certificate printers at 58 health facilities, which is civil registration and not a health information system."
+}

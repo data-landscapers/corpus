@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada",
+  "facts": [],
+  "systems": [
+    {"system": "Unified electronic system of the National Diabetes Authority", "country_label": "المنظومة الإلكترونية الموحدة", "class": "tracker", "platform": "", "owner": "National Diabetes Authority", "tiers": "diabetes and endocrinology centres, with data integration between the centres and the Authority"}
+  ],
+  "note": "Launch on 2026-05-03 of a one-programme patient register (diabetes patients and insulin dispensing tied to the national number); a tracker, so noted and no HMIS or EMR fact."
+}

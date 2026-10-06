@@ -1,0 +1,52 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, published 31 March 2026) scores Algeria's rural clinics 1 and says rural primary healthcare clinics predominantly keep paper records, citing 2026 analyses that describe public hospitals, including rural and southern ones, as largely reliant on handwritten patient folders with no EHR at facility level.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "DEM.DZ EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "Data Landscapers' review (an AI-assisted compilation, published 31 March 2026) says the DEM.DZ EMR and digital-hospital initiatives are pilots, for example in Annaba wilaya, or hospital-focused, and have not been rolled out to rural clinics; it gives no count of facilities.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "DEM.DZ EMR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DEM.DZ EMR",
+      "country_label": "DEM.DZ",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "pilots (e.g. Annaba wilaya) or hospital-focused; not in rural clinics"
+    },
+    {
+      "system": "Digital hospitals",
+      "country_label": "digital hospitals",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "hospitals; pilots"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated; the document calls its use in Algeria unconfirmed (listed in old forums only) and guesses at aggregate HMIS, so no hmis fact is taken"
+    }
+  ],
+  "note": ""
+}

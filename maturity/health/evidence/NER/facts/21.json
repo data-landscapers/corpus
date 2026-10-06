@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-01-unhcr-niger-annual-results-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "National Health Information System (SNIS)", "country_label": "SNIS", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "UNHCR's 2024 results report; its one statement on health information is that UNHCR's advocacy in 2024 facilitated refugees' integration into the SNIS via DHIS2. It does not describe what the system reports or where data is entered, so the system is unclassified and gives no fact."
+}

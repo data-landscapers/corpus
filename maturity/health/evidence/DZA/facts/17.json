@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-08-elmoudjahid-algerie-a-l-ere-du-tout-numerique",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "An El Moudjahid editorial says the generalisation of the electronic medical record system across the country's hospital establishments is being finalised ('on parle aussi de finalisation'), and that it eases emergency departments, smooths patient referral and ends the carrying of bulky paper files; it gives no count of hospitals and no date, so the editorial's publication date of 8 September 2026 is used.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "Système de dossier médical électronique",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "An El Moudjahid editorial places the electronic medical record system at the level of the national hospital establishments, describing its generalisation there as being finalised rather than complete; it mentions no facility below hospital level and gives no figures or date, so the publication date of 8 September 2026 is used.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "Système de dossier médical électronique",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système de dossier médical électronique",
+      "country_label": "dossier médical électronique",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "établissements hospitaliers nationaux (hospitals); generalisation being finalised"
+    }
+  ],
+  "note": ""
+}

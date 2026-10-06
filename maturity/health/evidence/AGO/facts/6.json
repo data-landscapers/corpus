@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-07-dhis2-angola-parceria-hisp-uio-oms-integracao-sistema-informacao-sanitaria",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The DHIS2 site reports that the Ministry of Health (MINSA) is itself advancing the strengthening of its DHIS2-based national health information system, with WHO Angola, the HISP Centre of the University of Oslo and Saudigitus giving technical support, and that the agreed direction is open-source, nationally owned solutions managed locally.", "as_of": "2026-03", "date_precision": "month", "system": "Sistema nacional de informação sanitária (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "A joint WHO Angola and HISP UiO technical mission with Saudigitus in March 2026 assessed the DHIS2-based national system, found it working as a solid national platform with more than 4,700 registered users, and MINSA and partners agreed to upgrade and optimise the platform, harmonise data across information flows, build decision-maker dashboards and train staff at all levels.", "as_of": "2026-03", "date_precision": "month", "system": "Sistema nacional de informação sanitária (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Sistema nacional de informação sanitária (DHIS2)", "country_label": "sistema nacional de informação sanitária / sistema nacional de informação sobre saúde", "class": "hmis", "platform": "DHIS2", "owner": "Ministério da Saúde (MINSA); technical support from HISP UiO, Saudigitus and WHO", "tiers": "not stated; more than 4,700 registered users, described as serving decision-making at all levels"},
+    {"system": "eLMIS", "country_label": "sistemas electrónicos de informação de gestão logística", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The document does not describe the DHIS2 modules in use; it is classed hmis because the document presents it as the country's national health information system, the platform holding health data for decisions at all levels. It gives no tiers, no place of data entry and no count of facilities. The assessment also names system uptime and performance, user support and infrastructure as needing attention."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2023-01-01-tdh-ieda-digital-solution-burkina-faso",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IeDA (Integrated e-Diagnosis Approach) / REC (Registre Electronique de Consultation)",
+      "country_label": "REC",
+      "class": "tracker",
+      "platform": "mobile application on tablets, developed and maintained by Dimagi",
+      "owner": "Terre des hommes with the Ministry of Health; handover to the ministry stated as an aim",
+      "tiers": "primary health centres: 86% of all primary health centres in Burkina Faso by the end of 2022; used in 90% of under-five consultations where installed"
+    },
+    {
+      "system": "IeDA-maternity",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "IeDA",
+      "owner": "Terre des hommes with the Ministry of Health",
+      "tiers": "implemented in Burkina Faso in 2021"
+    },
+    {
+      "system": "National Health Information System",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, Director of Sectoral Statistics quoted",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: IeDA/REC records consultations of children under five under the IMCI protocol, extended to antenatal, delivery, postnatal, post-abortion and family-planning care, so it is patient-level for one programme and not a general-care record, although the page's timeline glosses REC as a 'Digital Patient Record System'. The parent may want to check that classing. The page quotes the ministry's Director of Sectoral Statistics saying IeDA is interoperable with the ministry's database and collects data for the national health information system, which bears on the community-or-tracker integration question, not on an HMIS aspect. Timeline: pilot 2011 in three districts, 270 clinics by 2015-2016, version 2.7 in all centres in 2018."
+}

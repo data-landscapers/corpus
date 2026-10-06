@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Comprehensive Integrated Digital Health Information System", "country_label": "Comprehensive Integrated Digital Health Information System", "class": "", "platform": "", "owner": "Digital Health Agency, both established by the Digital Health Act No. 15 of 2023", "tiers": ""}
+  ],
+  "note": "A reference directory of strategies. For Kenya it lists, as of July 2026: the Digital Health Act No. 15 of 2023 (binding, challenged in the High Court and operating under a Court of Appeal stay), the Kenya Digital Health Strategy 2024-2027 and the Health Information Management Procedures Regulations 2025. The one system it names is not described by function, so its class is empty and the current-plan statement cannot be recorded as a fact against hmis or emr."
+}

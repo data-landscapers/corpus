@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-18-mhealth-goure-niger",
+  "facts": [],
+  "systems": [
+    {"system": "mHealth", "country_label": "mHealth platform", "class": "community", "platform": "mHealth (offline-first Android app, SMS synchronisation), mHealth Africa", "owner": "", "tiers": "Gouré health district: 139 organisational units, including integrated health centres (CSI) and community health posts; used by community health workers, with CSIs reporting supply needs through it"},
+    {"system": "mHealth Monitor", "country_label": "mHealth Monitor dashboard", "class": "community", "platform": "mHealth", "owner": "", "tiers": "district supervisors, Gouré"},
+    {"system": "national health information system", "country_label": "national health information system", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The system described is a community health worker application (household surveys, antenatal visits, community IMCI, stock, referrals), class community, so it gives no hmis or emr fact. The vendor's account, published 2026-05-18, says the Gouré rollout is full-scale over 139 units and that before it community monthly reports reached the district on paper, weeks late; it does not say mHealth exchanges data with the HMIS in Niger."
+}

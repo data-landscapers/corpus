@@ -1,0 +1,8 @@
+{
+  "slug": "2022-10-01-niger-strategie-nationale-agriculture-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "base de données DHIS2", "country_label": "base de données DHIS2 du ministère de la Santé Publique", "class": "", "platform": "DHIS2", "owner": "Ministère de la Santé Publique (MSP)", "tiers": "connecting the CSIs of remote villages to it is listed as an item; whether done or planned is not in the passage"}
+  ],
+  "note": "Passages file of the agriculture ministry's digital strategy (October 2022): the only health content is two list items without their context, connecting remote villages' CSIs to the health ministry's DHIS2 database and the adoption of the e-Santé strategy 2019-2023. DHIS2 is not described, so it is unclassified and gives no fact."
+}

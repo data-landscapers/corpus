@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-07-echis-implementation-east-shewa-cfir-eric",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "mobile-based application on tablets; modules Digital Family Folder, RMNCHN, Disease Prevention and Control, Logistics Supply and Management", "owner": "Ministry of Health, under its Information Revolution agenda, with development partners (JSI L10K named); eCHIS strategic plan 2022-2025 cited", "tiers": "adopted at 7,808 of 17,903 health posts (46%) since 2018, per a 2022 MOH status report; used by Health Extension Workers, with midwives at health centres giving referral feedback"},
+    {"system": "DHIS2", "country_label": "the nationally adopted digital reporting platform; HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated; not interoperable with eCHIS"}
+  ],
+  "note": "The subject is eCHIS, a community-class system, so no fact is recorded. Bearing on the community-integrated flag: interviews of 5 to 25 November 2024 in East Shewa found no interoperability between eCHIS and DHIS2, with health extension workers still reporting HMIS indicators by manual methods. The study calls DHIS2 the health sector's national reporting platform but gives no tier, place of data entry or clinic count for it."
+}

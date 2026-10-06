@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-03 Now is the time to invest in locally-owned health data systems",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The DHIS2 project says Uganda's Ministry of Health uses DHIS2 at national scale, and quotes the Assistant Commissioner of its Division of Health Informatics that HISP Uganda provides capacity building and backup support; no date is given, so the document's published date is used.", "as_of": "2025-04-03", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "no-change", "fact": "The Ministry of Health's Assistant Commissioner for Health Informatics is quoted that DHIS2 implementations in Uganda stayed resilient and kept delivering health data despite the budget cuts that followed the 2025 withdrawal of United States funding.", "as_of": "2025-04", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, Division of Health Informatics, with HISP Uganda in support", "tiers": "National scale"},
+    {"system": "DHIS2 case-based analytics for TB, immunization and COVID-19 vaccination certification", "country_label": "", "class": "tracker", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "DHIS2 death notification and certification (ICD-11)", "country_label": "", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": ""
+}

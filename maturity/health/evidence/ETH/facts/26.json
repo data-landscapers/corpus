@@ -1,0 +1,46 @@
+{
+  "slug": "2025-02-28 Enhancing healthcare performance in Ethiopia using DHIS2",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health began full national implementation of the DHIS2-based national HMIS in 2017 and trained more than 7,000 workers, on the HISP Centre's account.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "DHIS2-based national HMIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The DHIS2-based national HMIS reached all of the country's 30,000+ public health facilities by 2024, on the HISP Centre's account; the document names no tiers, only all public facilities.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2-based national HMIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The Ministry of Health reported at the 2025 Global DPI Summit in Cape Town that the national DHIS2 system held more than 1 billion records, with data from 30,000+ health facilities.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2-based national HMIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2-based national HMIS",
+      "country_label": "national HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "all 30,000+ public health facilities"
+    }
+  ],
+  "note": ""
+}

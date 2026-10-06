@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-sao-tome-telanon-dhis2-dcnt-analise-distrital",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "sistema DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "A master's dissertation used national DHIS2 data for 2022-2023 to compute new cases of hypertension, diabetes and stroke by district and sex; the article states nothing on owner, plan, finance, tiers, where data is keyed or clinics entering. Class hmis is read from that use (case counts by condition and district); the module is not named."
+}

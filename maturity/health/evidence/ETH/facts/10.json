@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-28-plos-one-echis-maternal-child-health-impact-study",
+  "facts": [],
+  "systems": [
+    {"system": "electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "community", "platform": "three mobile applications: HEW app, Focal Person app, Referral app", "owner": "Ministry of Health", "tiers": "Health Extension Workers at health posts and on home visits in rural communities, in eCHIS-implementing woredas; referrals to and from health centres"},
+    {"system": "Community Health Information System (CHIS)", "country_label": "CHIS", "class": "community", "platform": "paper", "owner": "Ministry of Health", "tiers": "community level, Health Extension Program, introduced 2008"}
+  ],
+  "note": "The only system described is eCHIS, launched by the Ministry of Health in 2018 for Health Extension Workers, a community-class system, so no fact is recorded. The study compares woredas with and without eCHIS (household data July-August 2024) and gives no coverage count."
+}

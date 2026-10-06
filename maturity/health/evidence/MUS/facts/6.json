@@ -1,0 +1,110 @@
+{
+  "slug": "2025-02-01-roadmap-for-digital-health-transformation-in-mauritius",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "UNDP's case study states that UNDP Mauritius ran the procurement that selected the technology partner TrioTree Technologies and its consortium, and plans to hand ownership and management of the One Patient, One Record project to the Ministry of Health and Wellness only at the conclusion of Phase 1, after operational acceptance; the ministry is said to lead and direct the plans.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "UNDP's case study states that Mauritius has no specific digital health strategy, but that strategic goal 18 of the Health Sector Strategic Plan 2020-2024 calls for implementation of the eHealth project, of which One Patient, One Record is the centre; the date is the plan's last year.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "UNDP's case study states that the One Patient, One Record project has been allocated a budget of MUR 600 million, divided into phases, citing a UNDP notice of 29 January 2024; it does not say whether the money is domestic or donor.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "UNDP's case study states that the vendor's readiness assessment at public health facilities found most clinical data captured unstructured in hundreds of paper forms, journals, books and letters; the assessment is undated, so the document's published date is used.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "UNDP's case study states, in the future tense, that the Phase 1 patient administration system will be tested at Jawaharlal Nehru Regional Hospital and afterwards extended to other regional hospitals, health centres, community centres and mediclinics; it reports no facility using it as of February 2025.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "UNDP's case study states that extension of the patient administration system to health centres, community centres and mediclinics is to follow testing at one regional hospital, which had itself not yet happened as of February 2025; the public network is given as 157 facilities, with no count of primary clinics.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "UNDP's case study cites its own notice of 29 January 2024 on the launch of the One Patient, One Record eHealth project, and states that a technology partner, TrioTree Technologies with Informatics International and Netcom Partners, has since been selected and has carried out a readiness assessment at public health facilities.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "One Patient, One Record",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "One Patient, One Record",
+      "country_label": "One Patient, One Record (eHealth project); patient administration system (PAS) with EHR capabilities, patient portal, National Electronic Health Record",
+      "class": "emr",
+      "platform": "TrioTree Technologies PAS",
+      "owner": "UNDP Mauritius until the end of Phase 1, then the Ministry of Health and Wellness",
+      "tiers": "to be tested at Jawaharlal Nehru Regional Hospital, then other regional hospitals, health centres, community centres and mediclinics (planned, February 2025)"
+    },
+    {
+      "system": "OpenELIS",
+      "country_label": "laboratory information system",
+      "class": "single-function",
+      "platform": "OpenELIS Global",
+      "owner": "implemented by the University of Washington under contract to UNDP Mauritius, for the Ministry of Health and Wellness",
+      "tiers": "not stated; introduced for COVID-19 test orders and results from 2020, being scaled up to other diseases"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated; listed only as an interoperability target of the PAS in Figure 1"
+    },
+    {
+      "system": "Digital Health Blueprint shared services",
+      "country_label": "Digital Health Blueprint: national digital health architecture with health facility registry, provider directory and master patient index",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness, with UNDP-hired technical experts",
+      "tiers": "under development (February 2025)"
+    }
+  ],
+  "note": "No HMIS fact: the document describes no routine aggregate reporting system. It also states that when COVID-19 arrived in 2020 the health system was mostly paper-based with some fragmented digital systems, and that Cabinet approved plans for a Digital Health Agency on 24 August 2024; neither is tied to one system. The hospital-pilot fact uses 'none' for tiers because the test is described as still to come."
+}

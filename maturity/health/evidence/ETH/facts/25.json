@@ -1,0 +1,26 @@
+{
+  "slug": "2025-04-03 Now is the time to invest in locally-owned health data systems",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The HISP Centre (DHIS2's developer) states that Ethiopia's Ministry of Health has scaled its DHIS2-based health information system nationwide, with more timely and more complete data; no date is given, so the document's published date is used.",
+      "as_of": "2025-04-03",
+      "date_precision": "day",
+      "system": "DHIS2-based HIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2-based HIS",
+      "country_label": "DHIS2-based HIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "nationwide; facility-level reporting mentioned, tiers not named"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BEN,DHIS2,National DHIS2,hmis,DHIS2,,aggregate reporting from district level; direct entry in one clinic as a pilot,2026-03-31 Africa we have a data problem
+BEN,District.Team,District.Team,,,,"pilot, described only as for management",2026-03-31 Africa we have a data problem
+BEN,carnet de santé digital (dossier patient électronique),carnet de santé digital,emr,,,"none stated; a pledge, not a deployment",2026-03-21-benin-programme-wadagni-talata-2026-2033
+BEN,Alafia.com,plateforme Alafia.com,community,,Ministry of Digital Affairs with the Ministry of Health,"community health workers with tablets, in households and villages; data centralised in real time",2025-11-21-lanouvelletribune-telemedecine-alafia
+BEN,National Health Management and Information System (NHMIS) / DHIS2,National Health Management and Information System (NHMIS),hmis,DHIS2,"Ministry of Health, Department of Programming and Foresight (director for health statistics)",private health facilities in all regions report through NHMIS tools; health zone data managers; one named clinic enters directly,2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2
+BEN,Système National de Gestion d'Information Sanitaire (DHIS 2),Système National de Gestion d'Information Sanitaire,,DHIS 2,,,2023-02-16-innovation-gouv-bj-sniam-strategie-nationale-ia
+BEN,national health information system (data warehouse supported by DHIS2),routine health information system,hmis,DHIS2,,,2021-08-04 Health information systems in developing countries case of African countries
+BEN,Système National d'Information et de Gestion Sanitaires (SNIGS) / DHIS2,Système National d'Information et de Gestion Sanitaires (SNIGS),hmis,DHIS2,Ministry of Health (SNIGS-MS),"paper forms from health facilities (health centres, hospitals); keyed in every health zone (zone sanitaire); direct entry at certain community relays and facilities",2020-03-01-instad-annuaire-statistiques-sanitaires-2019
+BEN,Sous-système de surveillance épidémiologique et de détection des épidémies,Sous-système de surveillance épidémiologique et de détection des épidémies,single-function,,Ministry of Health,,2020-03-01-instad-annuaire-statistiques-sanitaires-2019
+BEN,Sous-système d'information à assise communautaire,Sous-système d'information à assise communautaire,community,,Ministry of Health,"community relays, some keying directly into the data warehouse",2020-03-01-instad-annuaire-statistiques-sanitaires-2019
+BEN,Système National d'Information et de Gestion Sanitaires (SNIGS),Système National d'Information et de Gestion Sanitaires (SNIGS),,,,,2020-04-22-instad-bj-snds-3
+BEN,DHIS-2,Système d'Information Sanitaire de Zone 2ème génération,,DHIS-2,,,2020-04-22-instad-bj-snds-3

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-29-sao-tome-pnud-avaliacao-sistema-informacao-saude",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Sistema de informação na Saúde", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "mSupply", "country_label": "mSupply", "class": "", "platform": "mSupply", "owner": "", "tiers": ""},
+    {"system": "Instalações Inteligentes", "country_label": "Instalações Inteligentes", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A UNDP tender (UNDP-STP-00136, published 29 April 2026) for a one-month independent evaluation of the health digitalisation project, on the effectiveness and sustainability of DHIS2, mSupply and Instalações Inteligentes; the three are named with no description of what they do, so none can be classed and no fact is recorded."
+}

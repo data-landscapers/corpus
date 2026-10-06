@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-2023-kenya-vital-statistics-report",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Health Information system", "country_label": "Kenya Health Information system (HIS)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only: the one mention is that 12,175 registered neonatal deaths in 2023 resonate with the Kenya Health Information system's figure of 11,979; nothing on what the system does, who owns it, tiers or where data is entered."
+}

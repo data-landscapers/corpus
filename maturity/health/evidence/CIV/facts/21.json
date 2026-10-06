@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "mHealth Africa (TICANALYSE) reports that the Health Information Directorate (DIS) of the health ministry organised the DHIS2 Technical Working Group meeting of 11 September 2025 on managing the national DHIS2 database, SIGSANTE, which it says has centralised routine health data as the backbone of the national health information system since its deployment in 2015; the meeting was hosted by WHO and supported by the Global Fund.", "as_of": "2025-09-11", "date_precision": "day", "system": "SIGSANTE (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SIGSANTE (DHIS2)", "country_label": "SIGSANTE, the national DHIS2 database of the Système National d'Information Sanitaire (SNIS)", "class": "hmis", "platform": "DHIS2", "owner": "Direction de l'Information Sanitaire (DIS), Ministry of Health, Public Hygiene and Universal Health Coverage", "tiers": "national; centralises routine health data since 2015 and, since 2018, vaccination, epidemiological surveillance and community data; facility tiers not stated"},
+    {"system": "mHealth", "country_label": "mHealth community platform", "class": "community", "platform": "mHealth (TICANALYSE), HL7 FHIR and secure APIs", "owner": "TICANALYSE, as partner of the ministry", "tiers": "community health workers; the publisher says it transmits community-level data automatically to the national DHIS2 instances"}
+  ],
+  "note": ""
+}

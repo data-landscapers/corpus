@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MUS,hmis,governance,qualifier,,,,,nothing held
+MUS,hmis,tiers,coverage,,,,,nothing held
+MUS,hmis,digitised,coverage,,,,,nothing held
+MUS,hmis,last12,qualifier,,,,,nothing held
+MUS,hmis,clinics,coverage,,,,,nothing held
+MUS,emr,governance,qualifier,owner:partner;plan:current;finance:not-stated,2025-02,MUS-006;MUS-007;MUS-008,,
+MUS,emr,tiers,coverage,T2;none,2025-02,MUS-004;MUS-010,,
+MUS,emr,digitised,coverage,paper,2025-02,MUS-001;MUS-002;MUS-003;MUS-009,,
+MUS,emr,last12,qualifier,advancing,2024-01,MUS-012,,nothing dated since 2025-10-06
+MUS,emr,clinics,coverage,none,2025-02,MUS-005;MUS-011,,

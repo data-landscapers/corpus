@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-uga-ai-health-pilot-community-workers",
+  "facts": [],
+  "systems": [
+    {"system": "electronic Community Health Information System", "country_label": "electronic Community Health Information System (eCHIS)", "class": "community", "platform": "not stated; implemented with Medic, with Audere's HealthPulse AI Interpreter built in for the pilot", "owner": "Ministry of Health, with Medic", "tiers": "Village Health Teams; AI febrile-illness workflow piloted in Mpigi, Moyo, Buikwe and Lira districts"}
+  ],
+  "note": "The only system described is the community health workers' eCHIS (class community), with an AI febrile-illness pilot in four districts; it states nothing on the HMIS or an EMR."
+}

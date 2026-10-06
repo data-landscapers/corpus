@@ -1,0 +1,26 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+LSO,Health Management Information Systems (HMIS),HMIS,hmis,,"Ministry of Health, HMIS Division","communities and health facilities, tiers not stated",2026-09-23-lso-newsday-unicef-srhr-data-systems-workshop
+LSO,electronic registers,electronic registers,tracker,,Ministry of Health,some programmes; others still on paper,2026-09-23-lso-newsday-unicef-srhr-data-systems-workshop
+LSO,laboratory information system,laboratory information system,single-function,,Ministry of Health,,2026-09-23-lso-newsday-unicef-srhr-data-systems-workshop
+LSO,national data warehouse,national data warehouse,,,Ministry of Health,national,2026-09-23-lso-newsday-unicef-srhr-data-systems-workshop
+LSO,LOMSHA,LOMSHA,,,National AIDS Commission (NAC); upgrade procured by the Ministry of Finance and Development Planning Project Management Unit under the Global Fund GC7 grant,,2026-08-16-selibeng-consultant-strengthen-nac-capacity-coordinate-national
+LSO,national DHIS2 platform,national DHIS2 platform,,DHIS2,,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,DHIS2 Tracker systems (EpiC project),DHIS2 Tracker,tracker,DHIS2 Tracker,FHI 360 EpiC Lesotho project (US Government-funded HIV programme),project-supported sites and districts,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,LEAD,LEAD,,,FHI 360 EpiC Lesotho project,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,Infolink,Infolink,,,FHI 360 EpiC Lesotho project,,2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy
+LSO,HMIS,HMIS,hmis,,Ministry of Health,,2026-04-09-who-lesotho-2025-annual-report
+LSO,DHIS2,DHIS2,,DHIS2,Ministry of Health,,2026-04-09-who-lesotho-2025-annual-report
+LSO,LMIS (Logistics Management Information System),LMIS,single-function,,,,2026-04-09-who-lesotho-2025-annual-report
+LSO,HRH platform / National Health Workforce Accounts Version 2,HRH; NHWA,single-function,,,,2026-04-09-who-lesotho-2025-annual-report
+LSO,surveillance platforms (IDSR Edition 3),IDSR,single-function,,,nationwide rollout of IDSR Edition 3 in 2025,2026-04-09-who-lesotho-2025-annual-report
+LSO,national all-cause mortality surveillance and CRVS integration system,,,,"Ministry of Health, with WHO support under the Pandemic Fund","design begun in 2025, to be completed in 2026",2026-04-09-who-lesotho-2025-annual-report
+LSO,DORIS (Digital Online Reporting and Information System),DORIS,,,,design work advanced in 2025,2026-04-09-who-lesotho-2025-annual-report
+LSO,national DHIS2,DHIS2,hmis,DHIS2,,aggregated at higher levels from health centres' paper records,2026-03-31 Africa we have a data problem
+LSO,eRegister,eRegister EMR,tracker,,donor-driven (PEPFAR/ICAP),"all 170 government health centres, on local servers, for HIV, TB, PMTCT, cervical screening and pharmacy; auto-syncs to DHIS2",2026-03-31 Africa we have a data problem
+LSO,village health worker tablets (BKM),,community,,,"community level, pilots",2026-03-31 Africa we have a data problem
+LSO,T-Connect Impact Account (Starlink Priority Connectivity),T-Connect Impact,enabling,Starlink,T-Connect Lesotho,"offered to schools, clinics and community centres; launched at a school in Butha-Buthe, no clinic named",2026-01-17-tconnect-impact-soofia-school-publiceye
+LSO,eRegister,eRegister,tracker,,"Ministry of Health with implementing partners; ICAP funds computers, internet and support","piloted in 2018 at four health centres and two hospitals, towards a rollout across 178 government facilities; study sites were a health centre, a filter clinic and a district hospital",2025-11-01-bmj-open-eregister-data-use-midwifery-lesotho
+LSO,district health information management system,district health information management system,hmis,,,receives facility-level data compiled by the eRegister,2025-11-01-bmj-open-eregister-data-use-midwifery-lesotho
+LSO,Health Management Information System (DHIS2),HMIS; national DHIS2,hmis,DHIS2,"Ministry of Health, with PEPFAR support",,2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho
+LSO,hospital-based EMR system,EMR,emr,,Ministry of Health,16 public hospitals in 10 districts from 2013; discontinued in several by 2017,2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho
+LSO,eRegister,eRegister; EMR system,tracker,open-source client-level electronic register,Ministry of Health,"implemented from 2018 under a three-phase plan; in the study, one district referral hospital and 16 clinics (government and CHAL) in Mafeteng district",2025-05-12-bmc-healthcare-workers-perceptions-emr-mafeteng-lesotho

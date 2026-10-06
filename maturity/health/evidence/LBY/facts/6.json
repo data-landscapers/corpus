@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The Data Landscapers essay's Libya clinic row states that rural primary clinics record patient data on paper and that it found no evidence of electronic medical records or digital patient registration at the point of service in rural facilities; it gives no date for this, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "electronic medical records (none named)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "The essay reports a 2016 readiness study (University of Brighton thesis) of five rural clinics that found no e-health technologies in use and IT equipment not used for clinical purposes, rating maturity at level zero: 0 of 5 clinics sampled.", "as_of": "2016", "date_precision": "year", "system": "electronic medical records (none named)", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "pilot", "fact": "The essay states that DHIS2 was adopted nationally in 2018 for monitoring and evaluation, piloted in a limited number of primary health care centres (it gives six sites as an example) and rolled out for aggregate reporting and surveillance, citing WHO EMRO; no denominator is given.", "as_of": "2018", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "adopted nationally 2018; piloted in limited primary health care centres (e.g. 6 sites); aggregate reporting and surveillance"},
+    {"system": "Speetar \"Health Dots\" e-clinics", "country_label": "Health Dots", "class": "", "platform": "", "owner": "Speetar (donor project)", "tiers": "pilots targeting the rural south"}
+  ],
+  "note": "The file's own header flags the country rows as an AI-assisted compilation to be treated as the author's analysis, not sourced fact; the facts above are what the row states, with the sources it names."
+}

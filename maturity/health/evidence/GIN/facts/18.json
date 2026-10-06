@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-pasa2-gestion-analyse-validation-donnees-snis-dhis2",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The ministry's PASA2 programme page states that SNIS data of health posts, health centres and prefectural hospitals are collected on paper primary tools (2,940 registers reproduced) and keyed into DHIS2, with 77 solar systems installed in 7 regional inspectorates and 33 health districts (DRS/DPS and hospitals) to power SNIS data entry and 21 structures (8 hospitals, 8 DPS, 3 CMC, 1 CSA, 1 DRS) given laptops and internet; the page is undated beyond activities of 2022, so its published year is used.", "as_of": "2025", "date_precision": "year", "system": "SNIS/DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "The PASA2 page states that the SNIS lacks financial resources and has no subsidy allocated for these activities, recommends that one be allocated, and lists the Global Fund/GAVI and RTI/USAID as potential funders, the work described having been supported by PASA2 (GIZ) and Chemonics/USAID; undated, so the published year is used.", "as_of": "2025", "date_precision": "year", "system": "SNIS/DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The PASA2 page shows the DHIS2 platform administered by Ministry of Health units, with 19 SMSI/ANSS staff trained in DHIS2 data analysis and 17 in system and server administration, while noting weak coordination among partners over the several DHIS2 servers and sub-optimal server security; undated, so the published year is used.", "as_of": "2025", "date_precision": "year", "system": "SNIS/DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SNIS/DHIS2", "country_label": "SNIS sur la plateforme DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health (SNIS, SMSI); supported by PASA2/GIZ, Chemonics/USAID", "tiers": "data entry at DRS/DPS and hospitals; health posts, health centres and prefectural hospitals fill paper primary tools"},
+    {"system": "DHIS2 (ANSS)", "country_label": "données DHIS2 gérées par l'ANSS", "class": "", "platform": "DHIS2", "owner": "ANSS", "tiers": "not stated; page recommends better coordination between ANSS and SNIS DHIS2 data management"},
+    {"system": "DHIS2 Tracker", "country_label": "DHIS2 Tracker", "class": "tracker", "platform": "DHIS2", "owner": "", "tiers": "two staff trained in its configuration; no deployment stated"},
+    {"system": "Entrepôt de données sanitaires", "country_label": "entrepôt des données sanitaires pour l'aide à la prise de décision", "class": "", "platform": "", "owner": "Ministry of Health with GIZ and WHO (2022 study)", "tiers": "study only"}
+  ],
+  "note": ""
+}

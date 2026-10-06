@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The National Data Governance Policy (final, March 2026) names the Ministry of Health as the sectoral data manager for health, managing health data primarily through the Health Management Information System (HMIS); it states no plan or funding for the system.", "as_of": "2026-03", "date_precision": "month", "system": "Health Management Information System (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "GFF Data Portal", "country_label": "GFF Data Portal for the Ministry of Health", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "The policy describes the HMIS only as the system through which the Ministry manages health data, and classes 'health records (HMIS)' as Level 2 confidential data to be stored in Liberia or a data embassy; the GFF Data Portal is said to handle all health-related data, with no description of what it does. It also lists a data-sharing agreement between LISGIS and the Ministry of Health."
+}

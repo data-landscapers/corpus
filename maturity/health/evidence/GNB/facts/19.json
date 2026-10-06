@@ -1,0 +1,11 @@
+{
+  "slug": "2020-12-01-dhis2-guinea-bissau-covid-surveillance",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "centralized health data system", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated; in use for health information management since 2011"},
+    {"system": "DHIS2 COVID-19 Surveillance packages (with Index Case app, Point of Entry and lab test scheduling apps, public portal and dashboard)", "country_label": "national DHIS2 COVID-19 surveillance system", "class": "tracker", "platform": "DHIS2 Tracker with custom apps", "owner": "government high commission for COVID-19 response; National Institute of Health; support from Saudigitus (HISP Mozambique), UNDP and WHO", "tiers": "points of entry, laboratories and health facilities; adopted from March 2020"},
+    {"system": "Excel and Access laboratory data tool", "country_label": "", "class": "single-function", "platform": "Excel; Access", "owner": "", "tiers": "laboratories; ran in parallel to DHIS2, results returned to health facilities on paper"},
+    {"system": "DHIS2 for COVID-19 vaccination campaigns", "country_label": "", "class": "", "platform": "DHIS2", "owner": "supported by Saudigitus", "tiers": "not stated"}
+  ],
+  "note": "DHIS2 project story of 1 December 2020 on COVID-19 surveillance, a patient-level single-programme Tracker deployment, so it gives no HMIS or EMR fact. It says only that DHIS2 has been used for health information management since 2011 (the 2026 DHIS2 country profile, document 2, says since 2013), without describing routine reporting, tiers or where data is keyed."
+}

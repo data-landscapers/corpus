@@ -1,0 +1,28 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GNB,DHIS2,national health management information system (HMIS),hmis,DHIS2,Ministry of Health; technical support Saudigitus (HISP Mozambique),"not stated; national, in use since 2013",2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,DHIS2 disease surveillance,,single-function,DHIS2,Ministry of Health,not stated,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,DHIS2 ITN campaign planning and management,,single-function,DHIS2,Ministry of Health; National Malaria Control Programme,not stated,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,DHIS2 Tracker electronic registries for maternal and child health and immunization,,tracker,DHIS2 Tracker,Ministry of Health,not stated,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,mWater (UNICEF WASH programme),,community,mWater,UNICEF,"around 2,500 community health workers entering data on tablets; not integrated with DHIS2",2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,Rota Segura,Rota Segura,community,,,concept pending funding; co-designed with community health workers,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,"DHIS2 Climate App, Chap Modeling Platform and DHIS2 Modeling App",,,DHIS2,Saudigitus with the Ministry of Health,testing instance only,2026-08-03-dhis2-guinea-bissau-climate-health-country-profile
+GNB,DHIS2,health information systems such as DHIS2,,DHIS2,Ministry of Health; enhanced with UNDP support under the +Digit@l project (UNDP is Principal Recipient of the Global Fund malaria grant),not stated,2026-07-01-gnb-undp-annual-report-2025
+GNB,eLMIS,eLMIS,single-function,,implemented with UNDP support under the +Digit@l project,not stated; said to integrate service delivery and supply chain data,2026-07-01-gnb-undp-annual-report-2025
+GNB,National Telemedicine Center,National Telemedicine Center,enabling,,Ministry of Health with UNDP support,"national centre, operational in 2025",2026-07-01-gnb-undp-annual-report-2025
+GNB,SIREC (Integrated Civil Registration System),SIREC,,,"Ministry of Justice; UNDP technical assistance; Swiss, EU and Portuguese Cooperation finance",civil registry offices and health facilities,2026-07-01-gnb-undp-annual-report-2025
+GNB,DHIS2,,hmis,DHIS2,,national level for aggregate reporting and surveillance; not at rural clinics,2026-03-31 Africa we have a data problem
+GNB,DREAM HIV software,,tracker,DREAM,NGO pilot,isolated pilot sites,2026-03-31 Africa we have a data problem
+GNB,NIA 2026,NIA,,,,not stated; named only as a recent platform,2026-03-31 Africa we have a data problem
+GNB,national Health Management Information System (HMIS),,hmis,DHIS2 (implied by the DHIS2 Climate App; not stated for Guinea-Bissau individually),,not stated,2025-12-22-dhis2-global-fund-climate-health-catalytic-guinea-bissau
+GNB,DHIS2 Climate App and Chap Modeling Platform,,,DHIS2,HISP UiO; Saudigitus (HISP Mozambique) among the supporting HISP groups,not stated,2025-12-22-dhis2-global-fund-climate-health-catalytic-guinea-bissau
+GNB,plataforma de Gestão de Informação Sanitária (DHIS2),plataforma de Gestão de Informação Sanitária,hmis,DHIS2,health sector via INASA,not stated,2025-03-28-guine-bissau-bo-12-4-suplemento-decreto-10-2025-entd-gw
+GNB,DHIS2,,,DHIS2,,,2024-12-11-gnb-worldbank-pad-p179509-human-capital-project
+GNB,National Integration and Analytics (NIA) Platform,Plataforma Nacional de Integração e Análise (NIA),exchange,Zenysis,"INASA and MINSAP, developed with Zenysis Technologies; supported by the Global Fund",national (INASA and MINSAP management); announced 15 May 2024 in the future tense,2024-05-15-zenysis-inasa-minsap-partnership
+GNB,more than twenty fragmented health data systems (unnamed),,,,"INASA, MINSAP and health sector partners",not stated; over 60% said to be inaccessible to INASA management,2024-05-15-zenysis-inasa-minsap-partnership
+GNB,Sistema Nacional de Informação Sanitária (SIS/SNIS),SIS / SNIS,,,MINSAP,,2023-06-01-minsap-pnds-iii-plano-nacional-desenvolvimento-sanitario-2023-2028
+GNB,sistema de informação sanitária (DHIS2),Sistema Nacional de Informação Sanitária,hmis,DHIS2,Ministry of Health,not stated in the held text; the yearbook's tables cite deaths recorded at health structures and in-hospital mortality by region,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022
+GNB,RapidPro,,,RapidPro,,not stated; a data-collection platform for birth registrations,2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022
+GNB,DHIS2,centralized health data system,,DHIS2,,not stated; in use for health information management since 2011,2020-12-01-dhis2-guinea-bissau-covid-surveillance
+GNB,"DHIS2 COVID-19 Surveillance packages (with Index Case app, Point of Entry and lab test scheduling apps, public portal and dashboard)",national DHIS2 COVID-19 surveillance system,tracker,DHIS2 Tracker with custom apps,"government high commission for COVID-19 response; National Institute of Health; support from Saudigitus (HISP Mozambique), UNDP and WHO","points of entry, laboratories and health facilities; adopted from March 2020",2020-12-01-dhis2-guinea-bissau-covid-surveillance
+GNB,Excel and Access laboratory data tool,,single-function,Excel; Access,,"laboratories; ran in parallel to DHIS2, results returned to health facilities on paper",2020-12-01-dhis2-guinea-bissau-covid-surveillance
+GNB,DHIS2 for COVID-19 vaccination campaigns,,,DHIS2,supported by Saudigitus,not stated,2020-12-01-dhis2-guinea-bissau-covid-surveillance

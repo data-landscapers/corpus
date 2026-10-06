@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CAF,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-05-26,CAF-001;CAF-011;CAF-012,,
+CAF,hmis,tiers,coverage,,,,,nothing held
+CAF,hmis,digitised,coverage,district,2025,CAF-002;CAF-013,,
+CAF,hmis,last12,qualifier,advancing,2025,CAF-003,,
+CAF,hmis,clinics,coverage,none,2026-03-31,CAF-004,,
+CAF,emr,governance,qualifier,finance:donor,2026-03-18,CAF-007,,"not stated: owner, plan"
+CAF,emr,tiers,coverage,T3,2026-03-18,CAF-009,,
+CAF,emr,digitised,coverage,paper,2026-03-31,CAF-005,CAF-008=point-of-care,
+CAF,emr,last12,qualifier,advancing,2026-03-18,CAF-010,,
+CAF,emr,clinics,coverage,none,2026-03-31,CAF-006,,

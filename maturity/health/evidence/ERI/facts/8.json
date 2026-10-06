@@ -1,0 +1,44 @@
+{
+  "slug": "2024-03-13-dhis2-eritrea-connectivity",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A DHIS2 Community post states that the Ministry of Health implemented DHIS2 as its health information system, installed locally on the ministry's own local area networks after the head of HMIS identified it in 2015, with HISP Tanzania supporting customisation, upgrades and training; the position is undated, so the published date is used.",
+      "as_of": "2024-03-13",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "A DHIS2 Community post states that data enters the national DHIS2 from zones and sub-zones over the Ministry of Health's local networks, a model of decentralised entry and central analysis, running offline; it does not mention entry at facilities, and the position is undated, so the published date is used.",
+      "as_of": "2024-03-13",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national DHIS2 system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with HISP Tanzania as technical partner",
+      "tiers": "zones and sub-zones; deployed across the national health system"
+    },
+    {
+      "system": "DHIS2 tracker program",
+      "country_label": "tracker program",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "The post calls DHIS2 the ministry's health information system under its HMIS head but does not spell out aggregate reporting of patients treated; classed hmis on that description, with the patient-level tracker as a separate entry."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-20-worldbank-isr-supporting-egypt-uhis-p172426-seq11",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Modular UHIS information system",
+      "country_label": "UHIS Information System",
+      "class": "",
+      "platform": "",
+      "owner": "Universal Health Insurance Authority (UHIA); World Bank loan IBRD-91320 carries a USD 35m performance-based condition for its roll-out",
+      "tiers": "Not stated; as at 30 June 2025 the procurement module was rolled out and the beneficiary, provider and claims modules were not, the beneficiary module in testing"
+    }
+  ],
+  "note": "No fact: the only system named is the health insurer's modular information system (procurement, beneficiary, provider and claims modules), which is insurance administration with no clinical record or routine facility reporting described, so it fits neither hmis nor emr and is left unclassified. The report also records, as not yet achieved at 30 June 2025, guidelines on data privacy and management of health records."
+}

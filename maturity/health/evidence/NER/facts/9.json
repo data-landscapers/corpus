@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Data Landscapers' AI-assisted 54-country review says DHIS2 functions as Niger's national HMIS for aggregate data, 'likely' from facility paper tallies transcribed at district level; no date is given, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "The review finds no evidence of DHIS2 in routine use at rural health centres and health posts in Niger and scores rural clinics 1, paper at facility level; no figures are given and the date is the published date.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The review says rural health centres and health posts in Niger predominantly record patient data on paper, with no evidence of routine electronic health records at the point of care; the date is the published date.", "as_of": "2026-03-31", "date_precision": "day", "system": "patient records at rural primary clinics (paper)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "The review finds no routine electronic health record at rural primary clinics in Niger, digital being confined to aggregation and pilots; no count is given and the date is the published date.", "as_of": "2026-03-31", "date_precision": "day", "system": "patient records at rural primary clinics (paper)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national HMIS", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "national; aggregate data, likely transcribed at district level from facility paper tallies"},
+    {"system": "OpenClinic HIS", "country_label": "", "class": "", "platform": "OpenClinic", "owner": "", "tiers": "piloted at select district hospitals"},
+    {"system": "computerised maintenance system", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "3 rural districts; management-focused, not patient records"}
+  ],
+  "note": "Passages file; the Niger clinic row is the author's AI-assisted compilation, hedged ('likely', 'no evidence'), and undated. OpenClinic HIS is named as a pilot at select district hospitals without a statement that it holds the clinical record, so it is left unclassified and gives no tiers fact. The row also names the National E-Santé Strategy 2019-2023 without saying whether it is current."
+}

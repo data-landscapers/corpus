@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-02-eeas-eu-supports-digital-tracking-system-rf-ndp",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (health sector use)", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "EU release on a DHIS2-based national development plan tracking platform; says only in passing that DHIS2 is already used in the health sector, with no description of what it does there, so no fact."
+}

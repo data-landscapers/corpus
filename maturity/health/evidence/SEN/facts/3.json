@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-08-sen-leral-abdoulaye-ba-ia-outil-concret-dpg",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "An opinion piece by AI expert Abdoulaye Ba reports that the Prime Minister's general policy declaration of 8 September 2026 announces the digitalisation of the care pathway and the progressive generalisation of the computerised patient record; no coverage figure, budget or timetable is given.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "dossier patient informatisé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier patient informatisé",
+      "country_label": "dossier patient informatisé",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Secondhand account of the DPG; the announcement is an intention, not a deployment."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-09-01-gbos-national-strategy-development-of-statistics-nsds-iii-2024-2028",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "HMIS (Ministry of Health unit)", "class": "", "platform": "DHIS2", "owner": "Ministry of Health (HMIS)", "tiers": ""}
+  ],
+  "note": "The only health-system content is two planned training activities in the 2024-28 action plan (2.1.2.7 and 2.1.2.8): six MoH HMIS staff on the DHIS2 Level 2 Academy including Tracker configuration, and seven on statistical software, baseline 0, to be funded from the HMIS budget with partner support (Global Fund, World Bank, WHO); DHIS2 is not described, so it is unclassified and gives no fact. The capture is an excerpt truncated in Annex 1."
+}

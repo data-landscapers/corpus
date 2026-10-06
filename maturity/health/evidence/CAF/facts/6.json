@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-18-hisprwanda-emr-digitizing-hospital-care-car",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "HISP Rwanda states that it is supporting deployment of the HISP EMR (e-SENI) in partnership with the Ministry of Health and the Susan Buffett Foundation, under the SENI project; no date is given, so the published date is used.", "as_of": "2026-03-18", "date_precision": "day", "system": "HISP EMR (e-SENI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "HISP Rwanda states that the e-SENI EMR gives each patient a unique identification and a centralised record captured in real time across clinical units, from registration and consultation to laboratory and pharmacy, shared within the facility and synchronised to a central EMR server; no date is given, so the published date is used.", "as_of": "2026-03-18", "date_precision": "day", "system": "HISP EMR (e-SENI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T3", "fact": "HISP Rwanda states that its team supervised implementation of the e-SENI EMR at hospital and health centres, giving no number of sites and not stating the hospitals' level, and that medical records in many facilities are still kept in paper registers; no date is given, so the published date is used.", "as_of": "2026-03-18", "date_precision": "day", "system": "HISP EMR (e-SENI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "HISP Rwanda reports a phased deployment of the e-SENI EMR under way, with site assessments, configuration in French, staff training, an EMR showroom and a central synchronisation server set up; no event date is given, so the published date is used.", "as_of": "2026-03-18", "date_precision": "day", "system": "HISP EMR (e-SENI)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "HISP EMR (e-SENI)", "country_label": "e-SENI", "class": "emr", "platform": "HISP EMR", "owner": "deployed by HISP Rwanda in partnership with the Ministry of Health and the Susan Buffett Foundation, under the SENI project", "tiers": "hospitals and health centres; number and level not stated"},
+    {"system": "national health information systems powered by DHIS2", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "receives automated reporting from the EMR"}
+  ],
+  "note": ""
+}

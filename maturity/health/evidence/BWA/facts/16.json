@@ -1,0 +1,26 @@
+{
+  "slug": "2021-08-04 Health information systems in developing countries case of African countries",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "A literature review in BMC Medical Informatics and Decision Making found that 11 of the 12 African countries studied (92%), Botswana among them and Malawi the only exception, had no national health information strategy for their DHIS-based data warehouse, only strategies run under donor-funded projects; the review was carried out in February to July 2019 and gives no date for the finding, so the published date is used.",
+      "as_of": "2021-08-04",
+      "date_precision": "day",
+      "system": "District Health Information System (DHIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "District Health Information System (DHIS)",
+      "country_label": "DHIS",
+      "class": "hmis",
+      "platform": "DHIS / DHIS 2",
+      "owner": "",
+      "tiers": "a single data warehouse into which all the subsystems' paper forms were to be integrated without prior standardisation, producing overlap and duplication; tiers not stated"
+    }
+  ],
+  "note": "Botswana is treated in two sentences, drawn from a 2011 comparison of four countries; the review gives no tier, level of data entry or clinic count for it."
+}

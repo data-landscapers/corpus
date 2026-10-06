@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-26-nature-medicine-generative-ai-cdss-cluster-randomized-trial-kenya",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "The trial authors state that consultation data at Penda Health's 16 primary care facilities were recorded directly in the cloud-based EMR at the point of care by the clinical officers, who used it for documentation and order entry, during enrolment from 22 April to 16 July 2025.", "as_of": "2025-07", "date_precision": "month", "system": "Penda Health EMR (bespoke implementation of EasyClinic)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:16", "fact": "The trial authors report 16 primary care facilities, all operated by the private network Penda Health in Nairobi and Kiambu counties and described as urban clinics, using the same EMR for all consultations between 22 April and 16 July 2025; no denominator of clinics is given.", "as_of": "2025-07", "date_precision": "month", "system": "Penda Health EMR (bespoke implementation of EasyClinic)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T4", "fact": "The trial authors describe the EMR as in routine use in a single private network of 16 urban primary care clinics staffed by clinical officers in Nairobi and Kiambu counties, April to July 2025; no public-sector or hospital use is stated.", "as_of": "2025-07", "date_precision": "month", "system": "Penda Health EMR (bespoke implementation of EasyClinic)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:vendor", "fact": "The paper states the EMR is a bespoke implementation for the private provider Penda Health of EasyClinic's proprietary EMR product, run within Penda's own network during the 2025 trial; no ministry role in the system is stated.", "as_of": "2025-07", "date_precision": "month", "system": "Penda Health EMR (bespoke implementation of EasyClinic)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Penda Health EMR (bespoke implementation of EasyClinic)", "country_label": "the EMR / EasyClinic EHR system", "class": "emr", "platform": "EasyClinic proprietary cloud-based EMR", "owner": "Penda Health (private primary care network); software by EasyClinic", "tiers": "16 private primary care facilities (urban clinics) in Nairobi and Kiambu counties"}
+  ],
+  "note": "All facts concern one private clinic network, not the public system; the governance value is the nearest of the closed list (private provider on a vendor's proprietary product)."
+}

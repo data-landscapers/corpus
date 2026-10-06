@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+STP,hmis,governance,qualifier,owner:ministry,2021,STP-004,STP-005=owner:ministry,nothing dated since 2023-10-06
+STP,hmis,tiers,coverage,,,,,nothing held
+STP,hmis,digitised,coverage,district,2023,STP-001,,
+STP,hmis,last12,qualifier,,,,,nothing held
+STP,hmis,clinics,coverage,none,2023,STP-002,,
+STP,emr,governance,qualifier,,,,,nothing held
+STP,emr,tiers,coverage,,,,,nothing held
+STP,emr,digitised,coverage,paper,2023,STP-003,,
+STP,emr,last12,qualifier,,,,,nothing held
+STP,emr,clinics,coverage,,,,,nothing held

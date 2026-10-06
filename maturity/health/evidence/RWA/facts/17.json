@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-20 Building Open Digital States Country Case Studies on the Impact of DPGs for DPI",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "count:700", "fact": "The Digital Public Goods Alliance case study states that DHIS2, adopted in Rwanda in 2012, is used by 700+ facilities, with data completeness rising from 88 to 95 per cent and timeliness from 60 to over 90 per cent; the tier of the facilities, a denominator and the year of the figures are not given, so the date is the document's published date (itself a proxy from PDF metadata).", "as_of": "2026-01-20", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "700+ facilities, tiers not stated; adopted 2012; also used to track COVID vaccination and tests with national-ID linkage"}
+  ],
+  "note": "The mirror holds key facts extracted from the PDF, not its body. DHIS2 is classed hmis on the completeness and timeliness of reporting it describes; the 700+ count is of facilities of unstated tier, not expressly primary clinics, and the reviewer may prefer to drop it from clinics."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-30-jo-2025-44-ratification-financement-projet-acceleration-transformation-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Prévention des épidémies et système d'information sanitaire (Composante 12)", "country_label": "Prévention des épidémies et système d'information sanitaire", "class": "single-function", "platform": "to build on existing initiatives (DHIS2)", "owner": "Government of Congo, under the Projet d'accélération de la transformation numérique financed by the European Investment Bank", "tiers": ""},
+    {"system": "DHIS2", "country_label": "initiatives existantes (DHIS2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The EIB financing contract ratified on 16 October 2025 lists a planned component for epidemic prevention and a health information system, described in the passage only as triggering the response to epidemics and building on existing DHIS2 initiatives; that is surveillance, and DHIS2 is named without any description of what it does, so no fact for hmis or emr."
+}

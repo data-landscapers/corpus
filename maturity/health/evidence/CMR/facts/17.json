@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The file holds a summary only: a survey of 60 health workers and 6 experts found 80% aware of DHIS2 and 45% reporting interoperability problems with it, 85% unaware of any guidelines; it names DHIS2 without describing what it does, so the system is unclassified and gives no fact."
+}

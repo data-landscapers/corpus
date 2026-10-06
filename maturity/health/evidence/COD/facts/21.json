@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-22-dhis2-drc-ebola-response-2025",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "DHIS2.org states that DR Congo has used DHIS2 as a national-scale health management information system since 2013, for programme planning and management at zonal, provincial and national levels, and calls it locally owned and managed infrastructure of the Ministry of Health (dated to the document's publication).", "as_of": "2025-12-22", "date_precision": "day", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "DHIS2.org states that the national DHIS2 has been supported by funders such as Gavi, the Global Fund and US CDC, with HISP, RTI and MEASURE Evaluation as technical partners; no domestic budget line is mentioned (dated to the document's publication).", "as_of": "2025-12-22", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (national HMIS)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "zonal, provincial and national levels, as stated"},
+    {"system": "DHIS2 EVD tracking tool", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker, with offline Android capture", "owner": "Ministry of Health with RTI and HISP DRC", "tiers": "health facilities and contact tracing teams in Bulape and Mweka health zones, Kasaï"},
+    {"system": "DHIS2 for disease surveillance (IDSR)", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "being digitalised nationwide, as stated"},
+    {"system": "DHIS2 mpox surveillance and vaccination", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "national health authorities with Gavi, Africa CDC and HISP DRC", "tiers": "not stated"},
+    {"system": "Animal health and zoonotic disease surveillance pilot", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "health and agriculture authorities with HISP", "tiers": "pilot"}
+  ],
+  "note": "Most of the document concerns the Ebola tracker used in the 16th outbreak (September to 1 December 2025), which gives no fact. The HMIS statements say nothing on where data is keyed or how many facilities enter it; the document adds that outbreak databases remain fragmented and linkage to the routine HMIS is still to be made."
+}

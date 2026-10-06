@@ -1,0 +1,27 @@
+{
+  "slug": "2026-04-01-mak-transitions-digital-health-systems-assets",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "On 31 March 2026 Makerere University School of Public Health's METS programme signed over to the Ministry of Health 16 digital health systems it had developed, among them the UgandaEMR repositories and EMR metrics, with 725 servers and more than 4,700 computing devices.", "as_of": "2026-03-31", "date_precision": "day", "system": "UgandaEMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "Makerere says the systems handed over, including the electronic medical record platforms, were built over 15 years on three US Government (CDC/PEPFAR) grants totalling US$103.8 million; no domestic budget line is mentioned.", "as_of": "2026-03-31", "date_precision": "day", "system": "UgandaEMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The handover of the UgandaEMR repositories and supporting infrastructure from the donor-funded Makerere METS programme to the Ministry of Health took place on 31 March 2026, the Permanent Secretary saying the country would not return to paper-heavy systems.", "as_of": "2026-03-31", "date_precision": "day", "system": "UgandaEMR", "class": "emr"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "Makerere's METS programme reports that reporting through DHIS2 improved from 58 percent in 2020 to 98 percent in 2025; what the rate measures and its denominator are not stated.", "as_of": "2025", "date_precision": "year", "system": "DHIS2 (District Health Information System 2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (District Health Information System 2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "not stated; reporting rate 58% (2020) to 98% (2025)"},
+    {"system": "UgandaEMR", "country_label": "UgandaEMR repositories; EMR metrics", "class": "emr", "platform": "", "owner": "Ministry of Health since 31 March 2026; built by Makerere MakSPH-METS with CDC/PEPFAR funding", "tiers": "not stated; electronic medical record coverage 50% (2020) to 86% (2024), 100% in high-volume sites, denominator not given"},
+    {"system": "National Data Warehouse", "country_label": "National Data Warehouse", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "OpenHIM", "country_label": "OpenHIM for health information exchange", "class": "exchange", "platform": "OpenHIM", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "eIDSR", "country_label": "eIDSR", "class": "single-function", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": "patient-level data on acute illnesses and outbreaks; tiers not stated"},
+    {"system": "Weekly Stock Status System", "country_label": "Weekly Stock Status System", "class": "single-function", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "PIRS", "country_label": "PIRS (PEPFAR indicator reporting beyond DHIS2)", "class": "single-function", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "HIV case-based surveillance (HIV CBS dashboard)", "country_label": "HIV CBS", "class": "tracker", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": "1,300 health facilities; HIV recency surveillance in 1,084"},
+    {"system": "TB eCBSS", "country_label": "TB eCBSS", "class": "tracker", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "DREAMS Tracker", "country_label": "DREAMS Tracker", "class": "tracker", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "PREV Tracker", "country_label": "PREV Tracker", "class": "tracker", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "EID and viral load dashboards", "country_label": "EID and viral load dashboards", "class": "tracker", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "QI database", "country_label": "QI database", "class": "", "platform": "", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "SURGE Dashboard", "country_label": "SURGE Dashboard", "class": "", "platform": "Power BI", "owner": "Ministry of Health since 31 March 2026", "tiers": ""},
+    {"system": "METS ICT infrastructure", "country_label": "", "class": "enabling", "platform": "servers, devices, solar, connectivity", "owner": "Ministry of Health since 31 March 2026", "tiers": "solar systems for nearly 800 facilities; connectivity equipment for more than 1,300 sites; network upgrades at regional referral hospitals"}
+  ],
+  "note": "Not recorded as a clinics fact because the tier and denominator are not given: electronic medical record coverage tracked by the programme rose from 50% in 2020 to 86% in 2024 and 100% in high-volume sites. The programme is HIV-funded and the article does not say whether UgandaEMR holds the general record. The body ends mid-sentence."
+}

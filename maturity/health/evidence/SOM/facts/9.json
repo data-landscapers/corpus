@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-27-somalia-electronic-immunization-register",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Immunization Register (EIR)", "country_label": "Electronic Immunization Register", "class": "tracker", "platform": "DHIS2", "owner": "Federal Ministry of Health (Expanded Program on Immunization); technical support from WHO and HISP Tanzania", "tiers": "piloted in 14 health facilities in Banadir in 2025, Kahda Health Center named; ministry plans more than 80 facilities nationwide by 2026"}
+  ],
+  "note": "The only system is a patient-level immunisation register on DHIS2, class tracker, so no fact is taken. It states that staff sometimes record on paper and upload later, that monthly paper submissions were the earlier reporting route, and that partners funded the pilot's design."
+}

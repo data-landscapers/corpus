@@ -1,0 +1,11 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2024,SLE-007;SLE-008;SLE-009,,
+SLE,hmis,tiers,coverage,T1;T2;T3;T4,2010,SLE-016,,nothing dated since 2023-10-06
+SLE,hmis,digitised,coverage,facility,2022,SLE-002,,nothing dated since 2023-10-06
+SLE,hmis,last12,qualifier,,,,,nothing held
+SLE,hmis,clinics,coverage,share:96%,2022-11,SLE-010,,nothing dated since 2023-10-06
+SLE,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-06,SLE-005;SLE-006;SLE-015,SLE-014=plan:current;SLE-013=owner:partner,
+SLE,emr,tiers,coverage,,,,,nothing held
+SLE,emr,digitised,coverage,paper,2026-07-27,SLE-001;SLE-003,SLE-012=point-of-care,
+SLE,emr,last12,qualifier,,,,,nothing held
+SLE,emr,clinics,coverage,pilot,2026-03-31,SLE-004;SLE-011,,

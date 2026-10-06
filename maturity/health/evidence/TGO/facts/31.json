@@ -1,0 +1,13 @@
+{
+  "slug": "2021-04-01-togo-mentd-strategie-togo-digital-2025",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The Togo Digital 2025 strategy (April 2021) plans, under access to basic social services, the digitalisation of care pathways alongside the roll-out of universal health coverage, including a digital and centralised medical record, online appointment booking and a digital vaccination booklet, and lists 'constitution of a single medical record' among the public services to digitise; it describes these as to be developed, not as existing.", "as_of": "2021-04", "date_precision": "month", "system": "dossier médical digital et centralisé", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "dossier médical digital et centralisé", "country_label": "dossier médical unique", "class": "emr", "platform": "", "owner": "", "tiers": "planned; none stated"},
+    {"system": "carnet de vaccination numérique", "country_label": "carnet de vaccination numérique", "class": "tracker", "platform": "", "owner": "", "tiers": "planned; none stated"},
+    {"system": "Suivi sanitaire et vaccinal (couple mère - enfant)", "country_label": "Suivi sanitaire et vaccinal (couple mère - enfant)", "class": "tracker", "platform": "", "owner": "", "tiers": "planned service to digitise; none stated"},
+    {"system": "Application de prévention des complications liées aux grossesses", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "listed service; none stated"}
+  ],
+  "note": "Passages only. The strategy names the medical record as a planned service; the passages give no owner, budget, tier or deployment for it, and say nothing of an HMIS."
+}

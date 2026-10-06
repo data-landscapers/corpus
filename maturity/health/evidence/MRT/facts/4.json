@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-30-mauritanie-digisante-mr-selection-sites-pilote",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DIGISANTÉ-MR",
+      "country_label": "projet de digitalisation de la santé en Mauritanie (DIGISANTÉ-MR)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health (direction for promotion of ICT and health education, digital strategy cell), financed by the European Union",
+      "tiers": "Pilot sites still to be chosen among preselected health centres in five wilayas: Brakna, Trarza, Nouakchott Ouest, Nouakchott Nord, Nouakchott Sud"
+    }
+  ],
+  "note": "A ministry meeting of 30 April 2026 adopted the criteria for choosing pilot sites for DIGISANTÉ-MR, an EU-financed integrated pilot model of digital transformation in health centres under the Stratégie nationale de santé numérique 2024-2030, with national extension intended; the document does not say what the pilot system does (reporting or patient record), so it is unclassified and gives no fact."
+}

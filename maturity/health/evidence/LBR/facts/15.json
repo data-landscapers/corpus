@@ -1,0 +1,14 @@
+{
+  "slug": "2025-10-27-liberia-unfpa-rfq-electronic-medical-system-careysburg-duport-road",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "UNFPA Liberia issued a request for quotation dated 27 October 2025 for an ICT firm to build an EMR (patient management, clinical documentation, e-prescribing, lab integration, billing; interoperable with DHIS2) and deploy it at Careysburg and Duport Road Health Centers over a five-month consultancy (October 2025 to February 2026) with one year of maintenance; the document is a tender and does not state that the system was deployed.", "as_of": "2025-10-27", "date_precision": "day", "system": "Electronic Medical Records (EMR) system, Careysburg and Duport Road Health Centers", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "The EMR for the two health centers is procured and supervised by UNFPA (its Data and Evidence Specialist), in collaboration with the Ministry of Health's Coordinator for Health Information System, Monitoring and Evaluation, and Research.", "as_of": "2025-10-27", "date_precision": "day", "system": "Electronic Medical Records (EMR) system, Careysburg and Duport Road Health Centers", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The EMR for Careysburg and Duport Road Health Centers is to be paid for by UNFPA under RFQ UNFPA/LBR/RFQ/25/020 as a lump-sum contract; no amount and no government budget line is stated.", "as_of": "2025-10-27", "date_precision": "day", "system": "Electronic Medical Records (EMR) system, Careysburg and Duport Road Health Centers", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The RFQ covers deployment of the EMR at two named health centers, Careysburg and Duport Road, with no wider rollout and no denominator stated; deployment was commissioned, not reported as done.", "as_of": "2025-10-27", "date_precision": "day", "system": "Electronic Medical Records (EMR) system, Careysburg and Duport Road Health Centers", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR) system, Careysburg and Duport Road Health Centers", "country_label": "Electronic Medical System / EMR", "class": "emr", "platform": "bespoke, to be developed; mobile application; interoperable with DHIS2", "owner": "UNFPA, with the Ministry of Health (HMER)", "tiers": "two health centers (commissioned)"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The RFQ contradicts itself on its number (25/020 and 25/019) and submission deadline (7 November and 7 October 2025). It describes the purpose as moving away from paper-based records but gives no dated statement of the current position. DHIS2 is named only as the system the EMR must interoperate with."
+}
