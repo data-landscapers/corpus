@@ -1,0 +1,203 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-07 00:42",
+ "pass": "sweep cycle",
+ "head": "90c21dbb4d1a8ac252c2036d201b94fb56e112fe",
+ "head_committed_utc": "2026-10-07 00:42",
+ "collection": {
+  "last_admission": "2026-10-07 00:58",
+  "sweep_closed": "2026-10-07 00:18",
+  "ingest_started": "2026-10-07 00:19"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-07 00:02",
+   "end": "2026-10-07 01:36",
+   "duration": "1:34",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 175,
+  "admitted": 103,
+  "dropped": 71,
+  "screened": 730,
+  "screen_dropped": 561,
+  "pages_over_line": 153,
+  "awaiting_ingest": 0,
+  "raw_sources": 26585
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-06 22:59",
+   "seven_day": 9.0,
+   "five_hour": 0.0
+  },
+  "notes": {
+   "time_utc": "2026-10-06 23:04",
+   "seven_day": 10.0,
+   "five_hour": 2.0
+  },
+  "sweep": {
+   "time_utc": "2026-10-06 23:18",
+   "seven_day": 10.0,
+   "five_hour": 4.0
+  },
+  "ingest": {
+   "time_utc": "2026-10-06 23:45",
+   "seven_day": 12.0,
+   "five_hour": 11.0
+  },
+  "lint": {
+   "time_utc": "2026-10-07 00:36",
+   "seven_day": 14.0,
+   "five_hour": 16.0
+  },
+  "close": {
+   "time_utc": "2026-10-07 00:37",
+   "seven_day": 14.0,
+   "five_hour": 16.0
+  },
+  "rules": {
+   "time_utc": "2026-10-07 00:42",
+   "seven_day": 14.0,
+   "five_hour": 17.0
+  },
+  "end": {
+   "time_utc": "2026-10-07 00:42",
+   "seven_day": 14.0,
+   "five_hour": 17.0
+  }
+ },
+ "drops": {
+  "night": "2026-10-07",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 3,
+    "ingest_drop_rate": 0.0
+   },
+   "corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 1,
+     "already-seen": 1,
+     "no-value": 1,
+     "off-place": 1
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "country-deep": {
+    "sweep": {
+     "off-topic": 67,
+     "syndicated-copy": 34,
+     "already-seen": 32,
+     "no-development": 24,
+     "already-held": 16,
+     "inadmissible-origin": 8,
+     "out-of-window": 7,
+     "date-unestablished": 5,
+     "fails-record-test": 5,
+     "headline-only-stub": 5,
+     "fetch-blocked": 3,
+     "not-this-slice": 2,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 28,
+     "no-value": 13,
+     "no-development": 4,
+     "off-topic": 4,
+     "already-seen": 2,
+     "headline-only-stub": 1,
+     "off-place": 1
+    },
+    "admitted": 70,
+    "ingest_drop_rate": 0.431
+   },
+   "daily": {
+    "sweep": {
+     "off-place": 45,
+     "no-development": 39,
+     "already-seen": 15,
+     "already-held": 5,
+     "off-topic": 4,
+     "syndicated-copy": 2,
+     "fails-record-test": 1
+    },
+    "ingest": {
+     "already-held": 7,
+     "already-seen": 1,
+     "no-development": 1
+    },
+    "admitted": 11,
+    "ingest_drop_rate": 0.45
+   },
+   "financiers": {
+    "sweep": {
+     "no-development": 12,
+     "off-topic": 7,
+     "syndicated-copy": 5,
+     "already-held": 2,
+     "already-seen": 2,
+     "inadmissible-origin": 2,
+     "off-place": 2,
+     "fetch-blocked": 1,
+     "headline-only-stub": 1,
+     "not-this-slice": 1,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "already-held": 2,
+     "off-topic": 2
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.364
+   },
+   "iati": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 3,
+    "ingest_drop_rate": 0.0
+   },
+   "off-list": {
+    "sweep": {
+     "off-topic": 9,
+     "off-place": 4,
+     "no-development": 3,
+     "already-seen": 1,
+     "date-unestablished": 1,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "already-held": 1
+    },
+    "admitted": 5,
+    "ingest_drop_rate": 0.167
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 1,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 367,
+  "since": "2026-10-06 17:24"
+ }
+}
