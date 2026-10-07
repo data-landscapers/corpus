@@ -15,8 +15,12 @@ the country's own on that sub-indicator, a cell with no stage and no reason, and
 rule. The same tests are `lint-study.py`'s, run here so a bad cell goes back to its stager
 and not into the file.
 
-`short` is the writing step's (§8) and is carried over from an existing assessment.csv
-where the cell's stage has not moved; a restaged cell loses its summary.
+`short` is the writing step's (§8): a writer leaves `short.json` beside `stage.json`, to
+`maturity/documentation/writer-brief.md`, and its line is folded in here. Without one, the
+summary is carried over from an existing assessment.csv where the cell's stage has not
+moved; a restaged cell loses its summary.
+
+`systems.csv`, the typology, is each country's `evidence/{ISO3}/systems.csv` set end to end.
 
 Exit: 0 written, 1 a cell is wrong, 2 the study cannot be read.
 """
@@ -38,7 +42,7 @@ _spec.loader.exec_module(lint_study)
 
 
 def cells(study: dict, iso: str, doc: dict, evidence: list[dict], as_at: str,
-          shorts: dict) -> tuple[list[dict], list[str]]:
+          shorts: dict, written: dict | None = None) -> tuple[list[dict], list[str]]:
     """`(assessment rows, problems)` for one country's stage.json."""
     asp = study_lib.aspects(study)
     by_sub = {c.get("sub_indicator"): c for c in doc.get("cells") or []}
@@ -65,7 +69,8 @@ def cells(study: dict, iso: str, doc: dict, evidence: list[dict], as_at: str,
         for k in ("cap", "flags", "stage_sources", "gaps"):
             row[k] = str(c.get(k, "") or "").strip()
         was = shorts.get((iso, sub["indicator_id"]), {})
-        row["short"] = was.get("short", "") if was.get("stage") == stage else ""
+        row["short"] = " ".join(str((written or {}).get(key, "") or "").split()) or (
+            was.get("short", "") if was.get("stage") == stage else "")
         for f in lint_study._flags(row):
             if f not in study["flags"]:
                 problems.append(f"{where}: flag `{f}` is not one of {study['flags']}")
@@ -102,7 +107,7 @@ def main(argv=None) -> int:
     base = os.path.join(study_lib.study_dir(a.study), "evidence")
     out = os.path.join(study_lib.CORPUS, "outputs", "maturity", a.study, "assessment.csv")
     shorts = {(r["iso3"], r["indicator_id"]): r for r in study_lib.read_csv(out)}
-    rows, problems = [], []
+    rows, problems, systems = [], [], []
     for iso in sorted(study_lib.countries()):
         path = os.path.join(base, iso, "stage.json")
         try:
@@ -111,10 +116,19 @@ def main(argv=None) -> int:
         except (OSError, ValueError) as e:
             problems.append(f"{iso}: stage.json not readable ({e})")
             continue
+        try:
+            with open(os.path.join(base, iso, "short.json"), encoding="utf-8") as fh:
+                written = json.load(fh)
+        except OSError:
+            written = None
+        except ValueError as e:
+            problems.append(f"{iso}: short.json not readable ({e})")
+            written = None
         got, bad = cells(study, iso, doc, study_lib.read_csv(os.path.join(base, iso, "evidence.csv")),
-                         a.as_at, shorts)
+                         a.as_at, shorts, written)
         rows += got
         problems += bad
+        systems += study_lib.read_csv(os.path.join(base, iso, "systems.csv"))
 
     for p in problems:
         print(f"  {p}")
@@ -125,6 +139,8 @@ def main(argv=None) -> int:
     if not a.dry:
         os.makedirs(os.path.dirname(out), exist_ok=True)
         study_lib.write_csv(out, fields, rows)
+        study_lib.write_csv(os.path.join(os.path.dirname(out), "systems.csv"),
+                            study_lib.SYSTEMS_FIELDS, systems)
     for sub in study["sub_indicators"]:
         mine = [r["stage"] for r in rows if r["indicator_id"] == sub["indicator_id"]]
         tally = ", ".join(f"{s} {mine.count(s)}" for s in ["5", "4", "3", "2", "1", *study_lib.NOT_STAGED])
