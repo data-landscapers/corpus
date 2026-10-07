@@ -12,7 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
-2026-10-07 09:40 · **MATURITY-STUDY** · unclocked · health, Phase 1 search and handover (H5): 54 countries searched in 99 country-and-subject briefs; 245 documents selected (hmis 150, emr 95), 382 unselected; delivered to `prepared\maturity-study-health\` with READY, lint clean; notes-for-osint 218 raised; Phase 2 waits on the note closing — ok
+2026-10-07 07:52 · **MATURITY-STUDY** · unclocked · health, Phase 1 search and handover (H5): 54 countries searched in 99 country-and-subject briefs; 245 documents selected (hmis 150, emr 95), 382 unselected; delivered to `prepared\maturity-study-health\` with READY, lint clean; notes-for-osint 218 raised; Phase 2 waits on the note closing — ok
 2026-10-07 03:12 · **RENDER** · 17m · 251 documents, home, countries, catalogue, finance, datasets rendered, deployed — ok
 2026-10-07 02:55 · **REVIEW** · <1m · BDI: status 6 sections revised, progress 4 cells (4 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT — ok
 2026-10-07 02:55 · **REVIEW** · 3m · AGO: status 13 sections revised, progress 5 cells (5 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
