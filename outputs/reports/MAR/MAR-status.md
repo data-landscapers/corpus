@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-09-30
+compiled: 2026-10-07
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 192
+sources_cited: 193
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -106,7 +106,7 @@ The African Development Bank's two Moroccan digital operations are both small: [
 Six distinct digital-sector commitments to Morocco are on record for 2020 to 2028, from three financiers — the World Bank, the African Development Bank and the private firm Nexus Core Systems. The World Bank leads on both count and public money, with three of the six totalling about $820 million (2026).
 
 <!-- derived -->
-Digital payments and fintech takes the most separate commitments, three of the six, ahead of one each for AI infrastructure, digital identity and civil registration, and govtech; by value the order inverts, and AI infrastructure dominates (2026).
+Digital payments and fintech takes the most separate commitments, three of the six, ahead of one each for AI infrastructure, digital identity and civil registration, and govtech; by value the order inverts, and AI infrastructure dominates (2026). [A decree in the official bulletin of 1 October 2026 approved the EUR 218.2m loan agreement for the programme](https://www.laverite.ma/maroc-567-millions-numerique-risques-climatiques-banque-mondiale/).
 
 ## ICT Infrastructure
 

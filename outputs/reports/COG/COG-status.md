@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-09-27
+compiled: 2026-10-07
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 134
+sources_cited: 135
 sections_written: 39
 not_established: 2
 acquire_lines: 35
@@ -305,7 +305,7 @@ A national statistics dissemination platform, Hiswaca, [was launched in January 
 
 The Institut National de la Statistique [counted about 6.1 million people in the 2023 census](https://ins-congo.cg/recensement/). The economic base is where the gap sits: [no business or economic census has been run in the past twenty years](https://www.worldbank.org/en/programs/statistical-performance-indicators), and of the survey rounds registered over the past decade [two are health surveys and one a household survey, with no labour force or business survey among them](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023), which leaves employment and enterprise statistics without a recent instrument. The IMF works from the same shortage: [the most recent Enterprise Survey data for Congo dates to 2009](https://www.elibrary.imf.org/view/journals/002/2024/252/article-A001-en.xml), so the case on small-business access to finance is argued from a fifteen-year-old survey (2024).
 
-On the World Bank's Statistical Performance Indicators the weakest showing is on [data services and data sources — how the office serves its users, and where it gets its raw material — in the 20-49 per cent band against 50-69 per cent on data use, data products and data infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The administrative record behind those pillars is thin in the same way: an independent panel reviewing the education sector in June 2024 found [the enabling environment for education data weak and fragile, leaning on donor-financed school directories](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-06-congo_republic-itap-report.pdf). Public opinion is missing outright — [none of the Ibrahim Index's public-perception indicators, which draw on Afrobarometer surveys, carry any data for Congo](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf) (2023).
+On the World Bank's Statistical Performance Indicators the weakest showing is on [data services and data sources — how the office serves its users, and where it gets its raw material — in the 20-49 per cent band against 50-69 per cent on data use, data products and data infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). The administrative record behind those pillars is thin in the same way: an independent panel reviewing the education sector in June 2024 found [the enabling environment for education data weak and fragile, leaning on donor-financed school directories](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-06-congo_republic-itap-report.pdf). Public opinion is missing outright — [none of the Ibrahim Index's public-perception indicators, which draw on Afrobarometer surveys, carry any data for Congo](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf) (2023). [The statistics institute held a workshop on 2 October 2026 to set up a permanent statistical system for informal cross-border trade, with a baseline survey planned for 2027](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel).
 
 ### Open data
 <!-- data.open -->

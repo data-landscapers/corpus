@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-10-05
+compiled: 2026-10-07
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 195
+sources_cited: 196
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -44,7 +44,7 @@ A joint decision of the Supreme Council for Media Regulation and the telecoms re
 
 The one substantial enforcement to date came from a court, not the regulator. The Alexandria Economic Court [awarded EGP 10 million against Orange Egypt in February 2025 over an unconsented SIM swap](https://shehatalaw.com/law-update/legal-alert-egyptian-court-judgment-tightens-enforcement-of-privacy-and-data-protection-laws), grounding the operator's liability [in tort and "custodian's liability" rather than in the data protection law, which had no implementing rules at the time](https://shehatalaw.com/law-update/legal-alert-egyptian-court-judgment-tightens-enforcement-of-privacy-and-data-protection-laws).
 
-Around the statute the direction has been the other way: [Egypt's Digital Freedom score fell 11.8 points over 2014–2023 to 16.6 of 100, 51st of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf), and [Rights is its second worst-performing governance sub-category, at 16.0 and 52nd of 54 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf). In July 2026 [an MP put on record that the Cybercrime Law and the Penal Code are insufficient to protect digital privacy, and called for a standalone privacy statute](https://gate.ahram.org.eg/News/5814479.aspx).
+Around the statute the direction has been the other way: [Egypt's Digital Freedom score fell 11.8 points over 2014–2023 to 16.6 of 100, 51st of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf), and [Rights is its second worst-performing governance sub-category, at 16.0 and 52nd of 54 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-eg.pdf). In July 2026 [an MP put on record that the Cybercrime Law and the Penal Code are insufficient to protect digital privacy, and called for a standalone privacy statute](https://gate.ahram.org.eg/News/5814479.aspx). [The centre opened its portal for accreditation, licence and permit applications in early October 2026, on a law firm's account](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update).
 
 ### Regional collaboration
 <!-- gov.regional -->

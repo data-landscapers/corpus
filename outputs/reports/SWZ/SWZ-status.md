@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-10-05
+compiled: 2026-10-07
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 158
+sources_cited: 160
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -123,7 +123,7 @@ Two financiers account for all of it: the World Bank on three of the four commit
 The four sit one apiece in different parts of the estate — broadband connectivity, data-centre disaster recovery, public financial management and health information systems — so no part of it has drawn a second external commitment (August 2026).
 
 <!-- derived -->
-All of the money is lending on concessional terms rather than grant or equity finance (August 2026).
+All of the money is lending on concessional terms rather than grant or equity finance (August 2026). [Parliament approved the guarantee, and the ICT minister told senators on 5 October 2026 that E26m of the loan goes to the post office pension fund](https://independentnews.co.sz/49165/news/who-was-held-accountable-for-eptc-pension-crisis-sen-tony/).
 
 ## ICT Infrastructure
 
@@ -209,7 +209,7 @@ The card is what opens the state: [banks take it as the primary know-your-custom
 
 Government collects digitally more readily than it pays. [The Revenue Service takes tax and customs payments by electronic transfer, mobile money, card and bank deposit](https://www.ers.org.sz/PaymentPage), [has handled no cash at its own offices since April 2021, cash falling from 36% of tax transactions in 2018 to 2% in 2021](https://doi.org/10.19088/ictd.2025.057), and [35 post offices now act as payment points for government services](https://techafricanews.com/2025/09/26/eswatini-ministry-of-ict-unveils-post-office-based-government-service-payment-system/) (September 2025). [Payments out are only lightly digitised, against a target of digitising 80% of recurring government payments by 2028](https://afi-global.org/wp-content/uploads/2025/12/National-Fintech-Strategy-Digital.pdf).
 
-[Licensing runs under the National Payment Systems Act 2023](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=CBE+prioritises+broader+digital+ecosystem&bvhdgsj=Business+and+Economy&yiphi=1848), and [the Practice Note for Mobile Money Service Providers requires fee disclosure, written customer agreements, working complaints and dispute resolution, free hotlines and confidentiality](https://www.centralbank.org.sz/wp-content/uploads/2021/03/PracticeNoteforMMSP-FinalMarch2019.pdf), [published in full and without registration](https://www.centralbank.org.sz/national-payment-systems/). [Scheme governance runs through a National Payments Council with no reserved seats for consumers or small providers](https://www.centralbank.org.sz/wp-content/uploads/2021/03/NPSOversightPolicyFramework-March2019.pdf) (2023). [Access points make no accommodation for persons with disabilities](https://gov.sz/images/FinalReport--NFIS--2023-2028.pdf), and [refugees reach digital accounts only partially, on refugee and non-Swazi documents accepted by several banks and by MTN's mobile money under simplified due diligence](https://issuu.com/afi-global/docs/leveraging_digital_id_and_e-kyc_for_the_financial_/s/16368018) (2025).
+[Licensing runs under the National Payment Systems Act 2023](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=CBE+prioritises+broader+digital+ecosystem&bvhdgsj=Business+and+Economy&yiphi=1848), and [the Practice Note for Mobile Money Service Providers requires fee disclosure, written customer agreements, working complaints and dispute resolution, free hotlines and confidentiality](https://www.centralbank.org.sz/wp-content/uploads/2021/03/PracticeNoteforMMSP-FinalMarch2019.pdf), [published in full and without registration](https://www.centralbank.org.sz/national-payment-systems/). [Scheme governance runs through a National Payments Council with no reserved seats for consumers or small providers](https://www.centralbank.org.sz/wp-content/uploads/2021/03/NPSOversightPolicyFramework-March2019.pdf) (2023). [Access points make no accommodation for persons with disabilities](https://gov.sz/images/FinalReport--NFIS--2023-2028.pdf), and [refugees reach digital accounts only partially, on refugee and non-Swazi documents accepted by several banks and by MTN's mobile money under simplified due diligence](https://issuu.com/afi-global/docs/leveraging_digital_id_and_e-kyc_for_the_financial_/s/16368018) (2025). [The bank closing its mobile wallet at the end of 2026 has begun telling customers that its Instant Money service will return](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced.
 
 ### Registries
 <!-- dpi.registry -->

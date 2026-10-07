@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-10-02
+compiled: 2026-10-07
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 159
+sources_cited: 160
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -73,7 +73,7 @@ There is no digital channel for it either. Gabon has [no national platform throu
 <!-- derived -->
 None of the four public service portals the GovTech Maturity Index assesses in Gabon involves citizens in the design of its services (2025).
 
-Speech itself is under pressure. [Freedom of Expression and Belief fell 17.0 points over 2014-2023 to 60.1 of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf), and [social media had been suspended for nearly five months when the presidency defended the measure as temporary at a Libreville press conference on 17 July 2026](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), [rejecting a purely political reading of it and framing it as regulation and protection of the young](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/). Advocacy has filled some of the vacuum: [APSAD presented a report on civic and digital liberties at Libreville on 25 July 2026, built from two months of consultations with civil-society organisations, journalists, bloggers and digital-sector operators](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/), [asking the state to end blanket social-media suspensions, revise provisions of the regulation in force it judges disproportionate, strengthen the Haute Autorité de la Communication's independence and open a standing dialogue with the sector](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). Consultation that does happen leaves little trace: when [the ministry postponed the Kimba Connect final on 6 August 2026 over start-up concerns](https://techafricanews.com/2026/08/06/gabon-postpones-kimba-connect-finale-following-startup-concerns/), [it described the objections only as concerning the programme's organisation, and no start-up was named or quoted](https://techafricanews.com/2026/08/06/gabon-postpones-kimba-connect-finale-following-startup-concerns/), leaving the complaint on the record only through the body it was aimed at.
+Speech itself is under pressure. [Freedom of Expression and Belief fell 17.0 points over 2014-2023 to 60.1 of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf), and [social media had been suspended for nearly five months when the presidency defended the measure as temporary at a Libreville press conference on 17 July 2026](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), [rejecting a purely political reading of it and framing it as regulation and protection of the young](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/). Advocacy has filled some of the vacuum: [APSAD presented a report on civic and digital liberties at Libreville on 25 July 2026, built from two months of consultations with civil-society organisations, journalists, bloggers and digital-sector operators](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/), [asking the state to end blanket social-media suspensions, revise provisions of the regulation in force it judges disproportionate, strengthen the Haute Autorité de la Communication's independence and open a standing dialogue with the sector](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). Consultation that does happen leaves little trace: when [the ministry postponed the Kimba Connect final on 6 August 2026 over start-up concerns](https://techafricanews.com/2026/08/06/gabon-postpones-kimba-connect-finale-following-startup-concerns/), [it described the objections only as concerning the programme's organisation, and no start-up was named or quoted](https://techafricanews.com/2026/08/06/gabon-postpones-kimba-connect-finale-following-startup-concerns/), leaving the complaint on the record only through the body it was aimed at. [The suspension was reported still in force on 6 October 2026, after the presidential spokesman said on radio that he gets round it with a virtual private network](https://gabonmailinfos.com/reseaux-sociaux-apres-9-mois-laveu-du-porte-parole-de-la-presidence-relance-la-polemique/).
 
 ## Finance
 

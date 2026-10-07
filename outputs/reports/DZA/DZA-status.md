@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-05
+compiled: 2026-10-07
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -53,7 +53,7 @@ The bilateral track runs in two directions. [Algeria and Tunisia agreed to expan
 
 The multilateral commitments are pledges rather than plumbing. Algeria [joined the 50-in-5 digital public infrastructure campaign](https://techreviewafrica.com/news/4649/algeria-joins-50in5-initiative-pledges-to-strengthen-africas-digital-public-infrastructure) in March 2026, and the central bank [joined the Pan-African Payment and Settlement System](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025/) in August 2025, though [commercial banks were still completing their own connectivity through 2026](https://algeriatech.news/algeria-papss-bank-of-algeria-cross-border-intra-africa-trade-opportunity-2026/). The estate does reach across the border in one place: the [Apostille e-legalisation platform went live on 9 July 2026](https://www.echoroukonline.com/%D8%AA%D8%B5%D8%AF%D9%8A%D9%82-%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%86%D8%AD%D9%88-123), replacing the manual chain for documents destined for use abroad.
 
-Contact with Smart Africa remains at the level of talks: its chief executive [met Minister Sid Ali Zerrouki in Geneva in July 2026](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration, covering the Africa AI Council and Algeria's participation in the Smart Market Initiative. Algeria had also [argued at the UN Global Dialogue on AI Governance in Geneva on 6 July 2026 for practical, implementable measures](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) — technology transfer, capacity building and narrowing the digital divide.
+Contact with Smart Africa remains at the level of talks: its chief executive [met Minister Sid Ali Zerrouki in Geneva in July 2026](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration, covering the Africa AI Council and Algeria's participation in the Smart Market Initiative. Algeria had also [argued at the UN Global Dialogue on AI Governance in Geneva on 6 July 2026 for practical, implementable measures](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) — technology transfer, capacity building and narrowing the digital divide. [The Algerian and Nigerien ministers launched operation of the fibre link between In Guezzam and Arlit-Agadez on 6 October 2026, at a starting capacity of 100 Gbps](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/).
 
 ### Standards
 <!-- gov.standards -->

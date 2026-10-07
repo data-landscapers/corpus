@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-10-02
+compiled: 2026-10-07
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -175,7 +175,7 @@ What crosses it is mostly identity verification. [NIDA's identity verification r
 
 A second exchange is being built alongside the first. [Jamii X-Change, an ICT ministry and e-Government Authority build under the Digital Tanzania Project, comprises three modules — Jamii Namba for identity, Jamii Kadi for the card and Jamii Malipo for payments](https://www.mawasiliano.go.tz/news/mfumo-wa-jamii-x-change-kuunganisha-mifumo-ya-tehama-ya-kisekta) (August 2024), and [the ministry named Jamii Namba, Jamii X-Change and Jamii Portal as the three systems central to the digital-economy strategy, with the Prime Minister directing every institution head to make their systems interoperable](https://www.mawasiliano.go.tz/news/hakikisheni-mnapata-namba-ya-nida-jamii-namba-waziri-mkuu-majaliwa) (October 2024). [The 2022 e-Government Strategy had set a Huduma Data Exchange Platform to be operational by June 2025 and local government sectoral exchange platforms to be enhanced by June 2024](https://www.utumishi.go.tz/uploads/documents/sw-1688121445-Tanzania%20e-Government%20Strategy%202022.pdf).
 
-Across the border, [the East African Community endorsed a regional Secure Data Sharing Framework at a validation workshop in Dar es Salaam in June 2026](https://www.burunditimes.com/eac-backs-secure-data-sharing-framework-to-drive-regional-trade-innovation-and-growth/), while [its rules on cross-border data flows still have to pass the Community's decision-making organs](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html).
+Across the border, [the East African Community endorsed a regional Secure Data Sharing Framework at a validation workshop in Dar es Salaam in June 2026](https://www.burunditimes.com/eac-backs-secure-data-sharing-framework-to-drive-regional-trade-innovation-and-growth/), while [its rules on cross-border data flows still have to pass the Community's decision-making organs](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html). [The central bank signed a cooperation agreement with IFC on the credit reporting system, reported 5 October 2026](https://www.tanzaniainvest.com/finance/banking/ifc-bot-agreement-credit-reporting-sme-financing).
 
 ### Digital Identity and CRVS
 <!-- dpi.id -->

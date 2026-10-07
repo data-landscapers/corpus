@@ -1,12 +1,12 @@
 ---
 title: Uganda: status report
-compiled: 2026-10-01
+compiled: 2026-10-07
 place: UGA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 229
+sources_cited: 230
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -219,7 +219,7 @@ Business registration has moved fastest. [The Online Business Registration Syste
 
 The voters' register is the most tightly joined of them all. [The Electoral Commission updates the details of learners already registered by NIRA who have turned eighteen, assigning each a polling station on their National Identification Number](https://www.ec.or.ug/sites/default/files/press/Press%20Release%20General%20Update%20of%20the%20National%20Voters%20Register%2C%20January%202025._1.pdf), and [deployed 109,142 biometric verification kits across 50,739 polling stations for the January 2026 elections](https://www.ec.or.ug/news/statement-chairperson-electoral-commission-progress-implementation-activities-under-roadmap-0). [International IDEA records 21,649,067 registered voters against an estimated voting-age population of 24,487,969 for that election](https://www.idea.int/data-tools/data/country?country=233&database_theme=293).
 
-Social protection is the weak link. [The National Single Registry has been operational since February 2021 but cannot support beneficiary targeting, with a dynamic social registry module still under construction](https://devinit.org/files/documents/1484/how_does_ugandas_data_ecosystem_inform_social_protection_systems.pdf). Two registers are only now being created: [NIRA began registering legally resident foreign nationals for the first time on 10 June 2026](https://www.newvision.co.ug/category/news/nira-kicks-off-first-registration-of-foreigne-NV_234932_062026), a gap the Auditor General had repeatedly flagged, and [Uganda still has no operational national address register, Posta Uganda having received UGX 280 million of the UGX 5 billion it sought for nationwide GPS-based mapping (January 2026)](https://businessfocus.co.ug/posta-uganda-seeks-ugx5bn-to-conduct-nationwide-mapping-of-all-locations/).
+Social protection is the weak link. [The National Single Registry has been operational since February 2021 but cannot support beneficiary targeting, with a dynamic social registry module still under construction](https://devinit.org/files/documents/1484/how_does_ugandas_data_ecosystem_inform_social_protection_systems.pdf). Two registers are only now being created: [NIRA began registering legally resident foreign nationals for the first time on 10 June 2026](https://www.newvision.co.ug/category/news/nira-kicks-off-first-registration-of-foreigne-NV_234932_062026), a gap the Auditor General had repeatedly flagged, and [Uganda still has no operational national address register, Posta Uganda having received UGX 280 million of the UGX 5 billion it sought for nationwide GPS-based mapping (January 2026)](https://businessfocus.co.ug/posta-uganda-seeks-ugx5bn-to-conduct-nationwide-mapping-of-all-locations/). [The Attorney General told a parliamentary committee that the supplier has failed the core obligations of the 2021 digital number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

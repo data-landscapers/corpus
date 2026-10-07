@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-09-27
+compiled: 2026-10-07
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 210
+sources_cited: 211
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -184,7 +184,7 @@ Identity could not be checked online in 2024. [The card then in issue supported 
 
 The system is privately financed. Government signed [a build, co-operate and transfer contract with Margins ID Systems Applications in January 2026](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd), [running eight years with the supplier bearing the build cost and taking 70% of revenue, with free replacement of all valid existing cards and ten years of validity on the new card](https://standard.gm/new-id-card-to-get-10-years-validity/), and [the register runs on a National Data Centre at Abuko inaugurated alongside it](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/). [The legal framework for identity carries gaps in inclusion, data protection, cybersecurity and cross-border recognition](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf) (2025).
 
-Access carries a price and an age floor. [The card costs 450 dalasi](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/), [the same for first issuance, renewal and replacement and for vulnerable groups](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and [eligibility begins at 18, children being assigned a national identification number at birth through the electronic civil registration system](https://www.uneca.org/sites/default/files/TCND/Digital%20ID%20Transformation%20Strategy%20_Gambia%20V_9.pdf). The credential is [a dual-interface biometric ECOWAS card compliant with both ECOWAS and ICAO standards](https://www.biometricupdate.com/202309/ecowas-drums-importance-of-regional-biometric-id-card-for-the-gambia-in-integration-push), though [The Gambia is not among the states financed by the World Bank's WURI identification programme](https://documents.worldbank.org/curated/en/099072623112025025).
+Access carries a price and an age floor. [The card costs 450 dalasi](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/), [the same for first issuance, renewal and replacement and for vulnerable groups](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and [eligibility begins at 18, children being assigned a national identification number at birth through the electronic civil registration system](https://www.uneca.org/sites/default/files/TCND/Digital%20ID%20Transformation%20Strategy%20_Gambia%20V_9.pdf). The credential is [a dual-interface biometric ECOWAS card compliant with both ECOWAS and ICAO standards](https://www.biometricupdate.com/202309/ecowas-drums-importance-of-regional-biometric-id-card-for-the-gambia-in-integration-push), though [The Gambia is not among the states financed by the World Bank's WURI identification programme](https://documents.worldbank.org/curated/en/099072623112025025). [An immigration officer testified on 6 October 2026 that the department no longer has access to data generated under the former biometric identity system](https://dailyobservergambia.com/gid-tells-court-it-cannot-access-semlex-id-data/), leaving open who holds the historical records.
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

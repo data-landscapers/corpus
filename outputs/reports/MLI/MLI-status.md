@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-10-01
+compiled: 2026-10-07
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 142
+sources_cited: 143
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -130,7 +130,7 @@ Mali's ban on non-homologated Starlink and WiFi Zone equipment was [reiterated i
 
 The decade to 2023 was one of fast improvement from a low starting point. Mali's [internet and computers score rose 19.8 points to 31.8 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), its third most improved indicator and 29th of 54 African states, and its [mobile communications score rose 19.9 points to 60.5](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 37th of 54. The [Infrastructure sub-category scored 36.4 out of 100, 30th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf) and gained 8.4 points over the decade. Delivery infrastructure moved the other way: the [postal and shipping network score fell 16.3 points to 15.6](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 40th of 54 and among Mali's ten worst measures, while [Malians' own assessment of infrastructure provision rose 13.6 points to 46.7](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), 16th of 54 and far above what the counted measures record.
 
-Traffic exchange runs through [a single internet exchange point, MLIX, established in Bamako in February 2018 and managed by the regulator AMRTP, with five participating networks](https://www.pch.net/ixp/details/2019). The Chinese-financed Mali Digital 2020 project was [designed around intercity fibre connecting Kidal, Gao and Timbuktu to Mopti and running to the Guinean, Algerian and Burkinabè borders](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), with an urban network interconnecting government institutions.
+Traffic exchange runs through [a single internet exchange point, MLIX, established in Bamako in February 2018 and managed by the regulator AMRTP, with five participating networks](https://www.pch.net/ixp/details/2019). The Chinese-financed Mali Digital 2020 project was [designed around intercity fibre connecting Kidal, Gao and Timbuktu to Mopti and running to the Guinean, Algerian and Burkinabè borders](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), with an urban network interconnecting government institutions. [The Malian and Senegalese state fibre operators inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing on 5 October 2026](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
 
 ### Data Storage
 <!-- infra.store -->
