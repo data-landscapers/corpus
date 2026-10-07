@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: GHA
 ledger_rows: 88
 not_held: 9
-record: 2f0a5ed05c74
+record: 8844b1c17bbb
 ---
 
 # Ghana: monthly update, September – October 2026

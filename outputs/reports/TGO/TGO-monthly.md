@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: TGO
 ledger_rows: 51
 not_held: 21
-record: 955f0e213988
+record: a7bf1488542c
 ---
 
 # Togo: monthly update, September – October 2026

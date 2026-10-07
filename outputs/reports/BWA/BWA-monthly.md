@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: BWA
 ledger_rows: 14
 not_held: 8
-record: f79ea22e3eb1
+record: dc43e0f8d000
 ---
 
 # Botswana: monthly update, September – October 2026

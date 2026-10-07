@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: XSA
 ledger_rows: 11
 not_held: 2
-record: cd375c4acebd
+record: eb5868a82d53
 ---
 
 # Southern Africa: monthly update, September – October 2026

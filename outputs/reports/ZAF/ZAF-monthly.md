@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: ZAF
 ledger_rows: 124
 not_held: 21
-record: 346edc147008
+record: 7afc993c33ed
 ---
 
 # South Africa: monthly update, September – October 2026

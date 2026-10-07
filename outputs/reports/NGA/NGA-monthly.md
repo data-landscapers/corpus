@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: NGA
 ledger_rows: 136
 not_held: 9
-record: 8cfd870c5e25
+record: b9c4c4dc79e0
 ---
 
 # Nigeria: monthly update, September – October 2026

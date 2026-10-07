@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: XEA
 ledger_rows: 18
 not_held: 0
-record: 8cbaa16ce1c9
+record: 16617f638293
 ---
 
 # East Africa: monthly update, September – October 2026

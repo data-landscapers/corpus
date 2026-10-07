@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: CIV
 ledger_rows: 33
 not_held: 10
-record: 0a18c94d1254
+record: c7013838567a
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -146,5 +146,5 @@ The access-to-information commission [began work on a national register of publi
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
-The environment ministry [signed a framework memorandum with an Ivorian company to monitor land use and ecosystem carbon from satellite data](https://techreviewafrica.com/news/7588/x).
+The environment ministry [signed a framework memorandum with an Ivorian company to monitor land use and carbon stocks from satellite data](https://techreviewafrica.com/news/7588/x).
 <!-- /narrative -->

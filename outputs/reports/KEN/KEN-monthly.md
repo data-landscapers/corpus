@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: KEN
 ledger_rows: 120
 not_held: 7
-record: 95ec12658220
+record: 163c3595c71d
 ---
 
 # Kenya: monthly update, September – October 2026

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: MAR
 ledger_rows: 25
 not_held: 14
-record: 44b43da8ad5b
+record: 67f45b1165c5
 ---
 
 # Morocco: monthly update, September – October 2026

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: SWZ
 ledger_rows: 33
 not_held: 3
-record: 6aac39853b4d
+record: 554153c6795b
 ---
 
 # Eswatini: monthly update, September – October 2026

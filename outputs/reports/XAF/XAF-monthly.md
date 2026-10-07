@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: XAF
 ledger_rows: 92
 not_held: 3
-record: 48e4bbb96df9
+record: 1a814d110cc5
 ---
 
 # Africa: monthly update, September – October 2026

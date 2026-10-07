@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-08
 place: DJI
 ledger_rows: 14
 not_held: 12
-record: 7c3dd3ee554f
+record: 7d88bbd90dda
 ---
 
 # Djibouti: monthly update, September – October 2026
