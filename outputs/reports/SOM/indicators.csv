@@ -127,7 +127,9 @@ dpi.mis--health,Movement,"An [electronic immunisation register](2026-02-27-somal
 
 Power and connectivity gaps force recording on paper and uploading later, which is the operating reality behind every digitisation claim in this unit and is stated here rather than inferred.
 
-A pandemic-fund health information project launched in the capital in August 2026, with no budget, duration or surveillance-system specification published ([project](2026-08-20-afenet-somalia-pandemic-fund-health-information-sharing)).",SOM-dpi.mis-eir|SOM-dpi.mis-pandemic-fund-health-information,,,,,,,,,2026-08-31,0,Immunisation register pilot and a surveillance project launch; no HMIS on record
+A pandemic-fund health information project launched in the capital in August 2026, with no budget, duration or surveillance-system specification published ([project](2026-08-20-afenet-somalia-pandemic-fund-health-information-sharing)).
+
+2023-12-01 - the health ministry's quarterly bulletin counted [579 public health facilities reporting to DHIS2 in July to September 2023, against 532 a year earlier](2023-12-01-som-quarterly-health-statistics-bulletin-july-september-2023).",SOM-dpi.mis-eir|SOM-dpi.mis-pandemic-fund-health-information|SOM-dpi.mis-dhis2-national-health-information-system,,,,,,,,,2026-08-31,0,Immunisation register pilot and a surveillance project launch; no HMIS on record
 dpi.registry--electoral-register,Movement,[Nearly a million voters were registered biometrically across Mogadishu](2025-12-01-voter-registration-in-mogadishu) in the city’s first registration in more than 55 years.,"The electoral commission presented digital voter registration equipment in March 2025 ([equipment](2025-03-18 Somalia's Electoral Commission unveils digital voter registration equipment)).
 
 The exercise itself was the first held in Mogadishu in more than 55 years, run by the National Independent Electoral and Boundaries Commission on biometric fingerprint capture with digital scanners, and the commission announced nearly a million voters registered across the city’s 16 districts ([paper](2025-12-01-voter-registration-in-mogadishu)).

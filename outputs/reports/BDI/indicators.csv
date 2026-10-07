@@ -328,7 +328,13 @@ dpi.mis--health,Movement,"The health supply-chain system [reached all public and
 
 It is the most completely deployed sectoral system on this ledger by facility coverage. What is not published is what it produces: no stock-out rate, no order cycle time and no data-quality measure appears, so the record shows a system installed everywhere and nothing about whether the supply chain it manages improved.
 
-The other health system on the ledger is the civil-registry link running in 123 facilities, reported under digital identity from birth.",BDI-dpi.mis-elmis,3,BDI-dpi.mis-elmis,,,,,,,2026-08-31,0,National supply-chain MIS in 956 facilities; HMIS and integration not on record
+The other health system on the ledger is the civil-registry link running in 123 facilities, reported under digital identity from birth.
+
+2026-02-06 - the memorandum with the United States [committed the government to DHIS2 as its national health data warehouse, with US$188,526 of support costed for 2026](2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state).
+
+2026-02-06 - the memorandum with the United States [named SIDAinfo the country's electronic medical record, to reach 460 facilities by 2026 and 572 by 2028](2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state).
+
+2025-07-01 - the Belgian development agency reported that [the health ministry validated the priorities of its health informatics plan for 2025 to 2027 on 22 July 2025](2025-07-01-bdi-burundi-validation-du-plan-national-de-developpement-de-l-informatique).",BDI-dpi.mis-elmis|BDI-dpi.mis-national-health-information-system-dhis2|BDI-dpi.mis-sidainfo-electronic-medical-record|BDI-dpi.mis-plan-national-developpement-informatique-sante,3,BDI-dpi.mis-elmis,,,,,,,2026-08-31,0,National supply-chain MIS in 956 facilities; HMIS and integration not on record
 dpi.mis--education,Movement,"A monitoring tool for technical and vocational training centres [was validated on 7 August 2026](2026-08-07-burundi-cem-cfp-digital-monitoring-tool-eu-funded), with no deployment date or centre count stated.","2026-08-07 — [a digital tool for tracking the institutional performance of technical and vocational training centres in real time was validated, built by a youth organisation under a European Union-backed project](2026-08-07-burundi-cem-cfp-digital-monitoring-tool-eu-funded). Nothing of the kind was held before it.
 
 No deployment date, centre count or custodian ministry is stated, so what exists is a validated tool without an owner. It is the only education system on this ledger: no school census platform, enrolment system, teacher registry or examination system appears for the country.",BDI-dpi.mis-cemcfp,,,,,,,,,2026-08-31,0,only a TVET-centre monitoring tool validated (BDI-dpi.mis-cemcfp); no EMIS on record
