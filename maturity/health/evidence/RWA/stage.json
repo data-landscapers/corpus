@@ -19,7 +19,7 @@
       "sub_indicator": "emr",
       "stage": "3",
       "governance": "owner:ministry;plan:current;finance:donor",
-      "tiers": "T1;T3",
+      "tiers": "T1;T2;T3",
       "digitised": "",
       "last12": "advancing",
       "clinics": "share:66.7%",
@@ -28,7 +28,7 @@
       "stage_sources": "RWA-004;RWA-019;RWA-021",
       "gaps": "No row establishes a unique patient identifier or a record retrievable at another facility, so `shared` is not met; the one digitised fact outside the excluded source (RWA-001) is dated 2026-10-01, a day after the as-at, and gives no facility count. The clinic figures disagree: 33.0% of sampled health centres using an EMR in 2023 (RWA-018), 'majority of public health facilities' with no figure in April 2026 (RWA-004), and 'more than two thirds of health centres' in September 2026 (RWA-021), which has no numerator, denominator or source and says where eBuzima is, not who enters data. T2 rests on the 2023 survey of all 42 district hospitals (RWA-019); T1 on one hospital. Rows RWA-007 to RWA-010 are from the excluded source and set nothing. Where the record is keyed is stated only by a fact dated after the as-at (RWA-001).",
       "note": "Stage 3 is met on all 42 district hospitals using an EMR in 2023 and health centres using one across the country. It is not 4 because the record is not shown to be shared across facilities and the more-than-half figure for health centres is an unsourced deployment statement.",
-      "parent": "Parent, 2026-10-07: RWA-001 is dated after the as-at and sets nothing; digitised left empty, which stage 3 does not turn on."
+      "parent": "Parent, 2026-10-07: RWA-001 is dated after the as-at and sets nothing; digitised left empty, which stage 3 does not turn on. Tiers set to T1;T2;T3: the district hospitals the stage rests on are T2."
     }
   ]
 }

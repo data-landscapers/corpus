@@ -1,0 +1,33 @@
+# Namibia
+
+## HMIS
+
+**Governance, planning, finance.** Managers interviewed for a study published in March 2026 said that [the Ministry of Health and Social Services manages DHIS2 centrally, on a server at headquarters where national staff alone change its design, add indicators and run backups](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>). They said that [external donors pay for customising DHIS2, fund the training and buy the computers](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), and that [Namibia has no specific policy on health information systems, its HIS strategy existing only as an unpromulgated draft](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>).
+
+**Tiers in use.** The same managers said that [DHIS2 is used at district, regional and national levels](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>).
+
+**Where data is digitised.** District HIS officers [key the monthly paper summary forms sent in by health facilities into the DHIS2 aggregate module at the district office](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), on the managers' account of March 2026.
+
+**Last twelve months.** Countdown to 2030's analysis of DHIS2 facility data reports that [the share of expected monthly facility reports received nationally rose from 86% in 2019 to 96% in 2024](<https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf>).
+
+**Primary clinics doing the digital input.** The managers said in the study of March 2026 that [primary health facilities still report on paper tools](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>).
+
+***Noted, not assessed***. Trackers: the [DHIS2 tracker module](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), the [Electronic Patient Management Information System (EPMIS)](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), the [Electronic Tuberculosis Register (ETR)](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), [PTracker](<https://journal-isi.org/index.php/isi/article/download/1185/612>), the [Electronic Patient Monitoring System (EPMS)](<https://journal-isi.org/index.php/isi/article/download/1185/612>) and the [Electronic Dispensing Tool (EDT)](<https://journal-isi.org/index.php/isi/article/download/1185/612>). Single-function: the [Pharmacy Management Information System (PMIS)](<https://journal-isi.org/index.php/isi/article/download/1185/612>), [Meditech](<https://journal-isi.org/index.php/isi/article/download/1185/612>), [SysPro](<https://journal-isi.org/index.php/isi/article/download/1185/612>) and the [COVID-19 electronic data system and dashboards](<https://dev2.restoredcdc.org/www.cdc.gov/global-health/media/pdfs/2024/11/Namibia-2024-Fact-Sheet.pdf>). Community: the ministry's [Digital Community System (DCS)](<https://neweralive.na/health-prepares-for-digital-system-rollout/>).
+
+***Not held***. Which tiers use DHIS2 is not established, and no share or count of primary clinics entering their own reports is published. No dated event on DHIS2 falls in the last twelve months; the newest figures are for 2024.
+
+## EMR
+
+**Governance, planning, finance.** The Ministry of Health and Social Services [launched its Integrated Health Care Information Management System (IHCIMS) in Windhoek in 2011, and its own IT department supports the ministry's information systems](<https://journal-isi.org/index.php/isi/article/download/1185/612>). Managers interviewed for a study published in March 2026 said the ministry [has developed an e-Health Strategy, cited as the National eHealth Strategy 2021-2025, to guide a digital platform for capturing patient data](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>). A study of ministry staff published in September 2025 [reports budget constraints as the greatest obstacle and says the ministry is making budgetary provision for IT equipment](<https://journal-isi.org/index.php/isi/article/download/1185/612>).
+
+**Tiers in use.** IHCIMS, launched for every facility, [was fully deployed only at Windhoek Central Hospital and Oshakati State Hospital](<https://journal-isi.org/index.php/isi/article/download/1185/612>), on the study of September 2025.
+
+**Where data is digitised.** Practitioners [reach a patient's record only through the paper health passport and manual records, and there is no unique patient identifier](<https://journal-isi.org/index.php/isi/article/download/1185/612>), the same study states.
+
+**Last twelve months.** The managers said in the study of March 2026 that [the platform was starting with a billing module on pilot at Katutura and Windhoek Central hospitals](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>).
+
+**Primary clinics doing the digital input.** The study of September 2025 states that [the ministry still relies on paper records in most hospitals and clinics](<https://journal-isi.org/index.php/isi/article/download/1185/612>).
+
+***Noted, not assessed***. Trackers: the [DHIS2 tracker module](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), the [Electronic Patient Management Information System (EPMIS)](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), the [Electronic Tuberculosis Register (ETR)](<https://sajim.co.za/index.php/sajim/article/view/2060/3547>), [PTracker](<https://journal-isi.org/index.php/isi/article/download/1185/612>), the [Electronic Patient Monitoring System (EPMS)](<https://journal-isi.org/index.php/isi/article/download/1185/612>) and the [Electronic Dispensing Tool (EDT)](<https://journal-isi.org/index.php/isi/article/download/1185/612>). Single-function: the [Pharmacy Management Information System (PMIS)](<https://journal-isi.org/index.php/isi/article/download/1185/612>), [Meditech](<https://journal-isi.org/index.php/isi/article/download/1185/612>), [SysPro](<https://journal-isi.org/index.php/isi/article/download/1185/612>) and the [COVID-19 electronic data system and dashboards](<https://dev2.restoredcdc.org/www.cdc.gov/global-health/media/pdfs/2024/11/Namibia-2024-Fact-Sheet.pdf>). Community: the ministry's [Digital Community System (DCS)](<https://neweralive.na/health-prepares-for-digital-system-rollout/>).
+
+***Not held***. No count or share of primary clinics using an electronic record is held, and no dated event falls in the last twelve months. No funder or budget line for the system is stated, and no strategy running past 2025 is held.
