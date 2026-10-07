@@ -1,0 +1,62 @@
+{
+  "slug": "2023-09-01-nga-national-health-management-information-systems-nhmis-annual-report-dat",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Federal Ministry of Health's NHMIS annual report for 2021 states that the facility NHMIS/M&E focal person collates the paper daily registers into the monthly summary form and submits it to the LGA office by the 7th, where the LGA M&E focal person enters it into DHIS2 by the 14th.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Health Management Information System (NHMIS), DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Federal Ministry of Health reports 32,192 NHMIS monthly summary reports received on the national DHIS2 instance of 38,999 expected in December 2021 (82.5%), up from 22,363 of 39,742 in January 2021 (56.3%), and about 80% for the year; the reports are keyed at LGA level from facilities' paper forms.",
+      "as_of": "2021-12",
+      "date_precision": "month",
+      "system": "National Health Management Information System (NHMIS), DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The report states that the 56th National Council on Health approved harmonised NHMIS tools with a single national DHIS2 instance for routine data reporting, domiciled at the Department of Health Planning, Research and Statistics of the Federal Ministry of Health, DHIS2 having been introduced in 2013 for the monthly aggregation of facility service statistics; the approval is undated, so the fact is dated to the report's year.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Health Management Information System (NHMIS), DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Management Information System (NHMIS)",
+      "country_label": "NHMIS; NHMIS Monthly Summary (versions 2013 and 2019, the latter launched December 2019)",
+      "class": "hmis",
+      "platform": "DHIS2, single national instance",
+      "owner": "Department of Health Planning, Research and Statistics, Federal Ministry of Health",
+      "tiers": "health facilities report monthly on paper to the LGA office, which keys the data; state M&E officers and FMoH check quality"
+    },
+    {
+      "system": "Programme monthly forms on the national DHIS2 instance",
+      "country_label": "ART Monthly Summary; HCT Monthly Summary; Health Facility Immunization; Health Facility Vaccines Utilisation Summary; IDSR 003; Routine Immunisation Supplementary Dataset",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health",
+      "tiers": "monthly reporting forms; tiers not stated"
+    },
+    {
+      "system": "Community Monthly Summary Form",
+      "country_label": "Community Monthly Summary Form",
+      "class": "community",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health",
+      "tiers": "community level; a monthly reporting form on the national DHIS2 instance"
+    }
+  ],
+  "note": "The report gives no breakdown of reporting by facility tier; its published date is a proxy from the upload path, and the facts are dated to the 2021 reporting period."
+}

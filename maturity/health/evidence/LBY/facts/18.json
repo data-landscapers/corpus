@@ -1,0 +1,140 @@
+{
+  "slug": "2025-01-01-lby-libya-annual-report-2024",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "WHO states that DHIS2 reached 100% national geographic coverage by March 2023 but that consistent reporting from health facilities remains a challenge; it gives no count or share of facilities, or of primary facilities, entering reports.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "WHO and the Ministry of Health made supervisory visits to five health facilities in Suq Aljuma municipality, Tripoli, on 16-23 December 2024, assessing the facilities' DHIS2 data entry compliance, reporting timeliness and completeness and local data management capacity.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO reports that the first round of DHIS2 supervisory visits, to five health facilities in Suq Aljuma on 16-23 December 2024, led to noticeable improvements in data quality and reporting compliance, with further visits planned for 2025 in eastern and southern Libya; four workshops in the western and central regions trained municipal Health Services Administration Officers and HIS focal points to use DHIS2 and HeRAMS.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO describes the Ministry of Health's Health Information Centre as the body giving technical support to the DHIS2 platform, and sent two of its core team to DHIS2 training in New Delhi on 18-23 November 2024; WHO says it led the strengthening of the national health information system in collaboration with the ministry.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO states that all 2024 health information system activities followed the 2024-2025 HIS operational plan, whose focus included strengthening the functionality of the DHIS2 platform, and that the findings of a SCORE assessment (data collected November 2024 to January 2025) will inform a revision of the national HIS strategy.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO states that the Ministry of Health and WHO developed a five-year digital transformation roadmap, 2025-2030, promoting integrated digital health solutions including electronic health records and hospital management systems on open-source platforms; it describes no such system as in use.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Electronic health records (planned under the 2025-2030 roadmap)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 platform",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Health Information Centre, with WHO support",
+      "tiers": "Health facilities nationwide (100% geographic coverage by March 2023); municipal HIS focal points; ICD cause-of-death coding by selected public hospitals"
+    },
+    {
+      "system": "DHIS2 Tracker Data Capture",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Health Information Centre",
+      "tiers": "Training of two central staff only; no use stated"
+    },
+    {
+      "system": "HeRAMS",
+      "country_label": "Health Resources and Services Availability Monitoring System",
+      "class": "single-function",
+      "platform": "HeRAMS",
+      "owner": "Ministry of Health with WHO",
+      "tiers": "Municipal level; roadmap for rollout to primary health care level nationwide"
+    },
+    {
+      "system": "Electronic health records (planned under the 2025-2030 roadmap)",
+      "country_label": "",
+      "class": "emr",
+      "platform": "open-source platforms, unnamed",
+      "owner": "Ministry of Health with WHO",
+      "tiers": "Not stated; planned"
+    },
+    {
+      "system": "Integrated disease surveillance electronic reporting tools",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Centre for Disease Control",
+      "tiers": "Pilot in 10 municipalities, two health facilities each; 100 devices for weekly reports"
+    },
+    {
+      "system": "Event-based surveillance",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Centre for Disease Control",
+      "tiers": "Flood-affected regions; surveillance officers and community volunteers"
+    },
+    {
+      "system": "EMFLU 2.0",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "EMFLU 2.0",
+      "owner": "National Centre for Disease Control with the WHO Regional Office",
+      "tiers": "Influenza sentinel sites, laboratories and central offices"
+    },
+    {
+      "system": "LIVE Oxygen Platform",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "WHO with the Ministry of Health",
+      "tiers": "Over 50 health facilities in Tripoli, Misrata, Almargeb, Zwara, Sabha and Benghazi"
+    },
+    {
+      "system": "National cancer registry",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "",
+      "owner": "National Cancer Control Authority",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": ""
+}

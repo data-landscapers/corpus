@@ -1,0 +1,13 @@
+{
+  "slug": "2024-03-22-tza-decentralizing-user-support-in-dhis2-a-case-of-hmis-in-tanzania",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The UDSM DHIS2 Lab states that the Ministry of Health has used DHIS2 as its national HMIS since 2010 to collect routine data on services at healthcare facilities, with a DHIS2 support team, in which the lab works, handling user requests; the page is undated, so its published date, itself a proxy, is used.", "as_of": "2024-03-22", "date_precision": "day", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The UDSM DHIS2 Lab states that data is captured at the point of service delivery and entered into DHIS2 either directly or at the district level, and speaks of increased use of DHIS2 up to the facility level; it gives no split between the two routes, and the page is undated, so its published date, a proxy, is used.", "as_of": "2024-03-22", "date_precision": "day", "system": "DHIS2 (national HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The UDSM DHIS2 Lab states that data captured at the point of service delivery is entered into DHIS2 either directly or at the district level, with no split between the two routes; the page is undated, so its published date, a proxy, is used.", "as_of": "2024-03-22", "date_precision": "day", "system": "DHIS2 (national HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (national HMIS)", "country_label": "HMIS-DHIS2", "class": "hmis", "platform": "DHIS2 (version 2.32 or later)", "owner": "Ministry of Health; UDSM DHIS2 Lab in the support team", "tiers": "about 9,000 health facilities in 184 district councils hold reporting datasets; users at district and facility level; national data warehouse"},
+    {"system": "User Support App", "country_label": "User Support App", "class": "", "platform": "DHIS2 app", "owner": "UDSM DHIS2 Lab", "tiers": "district and facility health managers; in use since March 2022"}
+  ],
+  "note": "The two digitised rows come from one sentence giving both routes. The 'about 9,000 health facilities' is the number with datasets assigned in DHIS2, not the number keying their own reports, so no clinics fact is taken; no tier is named. The body's only dated event is the app's go-live in March 2022."
+}

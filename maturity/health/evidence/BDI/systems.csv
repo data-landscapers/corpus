@@ -39,3 +39,24 @@ BDI,DHIS2,DHIS2,,DHIS2,"MSPLS, under the PNDIS",said with Open Clinic to connect
 BDI,Open Clinic,Open Clinic,,OpenClinic,"MSPLS, under the PNDIS",said with DHIS2 to connect all hospitals and health centres,2020-01-01-burundi-digital-economy-assessment
 BDI,DHIS2,DHIS 2,hmis,DHIS2,"Ministry of Public Health (MSPLS), under the PNDIS",all public and faith-based hospitals and health centres; all health regions and districts,2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Open Clinic,"Open Clinic, integrated hospital MIS",emr,OpenClinic,"Ministry of Public Health (MSPLS), with Enabel and EU support","23 hospitals (15 public, 8 private); 14 more planned by June 2022",2020-01-01-world-bank-burundi-digital-economy-assessment
+BDI,SIDAinfo,SIDAinfo,emr,,Burundi Government (Ministry of Public Health signatory); improvements funded by the U.S. Government,"460 facilities by 2026 and 572 by 2028, as commitments; tiers not stated",2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
+BDI,DHIS2 (national health data warehouse),National Health Information System,hmis,DHIS2,Burundi Government; improvements funded by the U.S. Government,not stated,2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
+BDI,DHIS2 Tracker,,single-function,DHIS2 Tracker,Burundi Government; improvements funded by the U.S. Government,"all applicable sites by the end of 2026, as a commitment",2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
+BDI,Ibipimo,Ibipimo,single-function,,Burundi Government; improvements funded by the U.S. Government,"all national and regional laboratories by the end of 2026, as a commitment",2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
+BDI,eLMIS,eLMIS,single-function,,Burundi Government; improvements funded by the U.S. Government,"10% of pharmacies by end 2026, 25% by end 2027, 50% by end 2028; the whole government-run commodity supply chain by end 2030, as commitments",2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
+BDI,Sage,,single-function,Sage,Burundi Government,warehouse management; not stated,2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state
+BDI,SNIS (DHIS2),Système National d'Information Sanitaire (SNIS),hmis,DHIS2,,not stated; data reviewed at health-district meetings,2025-07-01-bdi-rapport-annuel-2024
+BDI,MEDEXIS,MEDEXIS,single-function,MEDEXIS,,"drug tracing from CAMEBU down to the health district; 359 ministry staff trained at central level and in 11 districts of 3 provincial health offices, enabling use in 172 health facilities (2024)",2025-07-01-bdi-rapport-annuel-2024
+BDI,e-Surv Compagnon,e-Surv Compagnon,single-function,,,routine polio surveillance; 183 surveillance focal points and district team members trained (2024),2025-07-01-bdi-rapport-annuel-2024
+BDI,EIOS,,,EIOS,,35 central-level staff certified (2024),2025-07-01-bdi-rapport-annuel-2024
+BDI,GLASS,,single-function,GLASS,WHO (global platform),antimicrobial resistance surveillance data reported by WHO,2025-07-01-bdi-rapport-annuel-2024
+BDI,ODK Collect,,,ODK,,28 supervisions of vaccine-preventable-disease surveillance (2024),2025-07-01-bdi-rapport-annuel-2024
+BDI,Kobocollect,,,KoboCollect,,infection prevention and control assessments in 46 mpox treatment facilities (2024),2025-07-01-bdi-rapport-annuel-2024
+BDI,Observatoire National de Santé (ONS),Observatoire National de Santé,,,,not stated,2025-07-01-bdi-rapport-annuel-2024
+BDI,"DHIS2 (plateforme nationale, SNIS)",Système National d'Information Sanitaire (SNIS),hmis,DHIS2,"Ministry of Public Health, Direction du SNIS (DSNIS)","health centres (CDS), district, regional and national hospitals, public, faith-based, associative and private; community (GASC) reports keyed at the health centre",2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,Open Clinic,Open Clinic,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,Open carenet,Open carenet,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,Quick soft center,Quick soft center,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,SIDA Info,SIDA Info,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,Open RBF,Open RBF,,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023
+BDI,GMAO,Gestion de maintenance assistée par ordinateur (GMAO),,,,not stated,2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023

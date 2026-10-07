@@ -1,0 +1,108 @@
+{
+  "slug": "2024-04-15-tun-assessing-the-maturity-level-of-the-hospital-information-system-in-sel",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO Tunisia's terms of reference state that the Information Technology Centre of the Ministry of Health (CIMS) develops and implements the hospital information management system, which has had a specific focus on electronic medical records in recent years, and supports and trains its users; the statement is undated, so the document's date of 15 April 2024 is used.",
+      "as_of": "2024-04-15",
+      "date_precision": "day",
+      "system": "Hospital Information Management System (HIMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "WHO Tunisia's terms of reference name three public hospitals of the second and third lines where the HIMS applications are in use: Charles Nicolle University Hospital, described as having complete deployment of the applications, Habib Thameur University Hospital, described as digitalised, and Ben Arous Regional Hospital, described as a digital reference despite its second-line status; no national count of hospitals is given and the statement is undated, so the document's date of 15 April 2024 is used.",
+      "as_of": "2024-04-15",
+      "date_precision": "day",
+      "system": "Hospital Information Management System (HIMS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Hospital Information Management System (HIMS)",
+      "country_label": "Hospital Information Management System (HIMS); also written HMIS and HIS in the document",
+      "class": "emr",
+      "platform": "",
+      "owner": "Information Technology Center of the Ministry of Health (CIMS)",
+      "tiers": "public hospitals of the second and third lines; three named: Charles Nicolle University Hospital (complete deployment), Habib Thameur University Hospital, Ben Arous Regional Hospital"
+    },
+    {
+      "system": "DMI",
+      "country_label": "DMI, listed under the HIMS's medical information system",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "Santé-Lab",
+      "country_label": "Santé-Lab, listed under the HIMS's medical information system",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "RIS",
+      "country_label": "RIS, listed under the HIMS's medical information system",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "STKMED",
+      "country_label": "STKMED, listed under the HIMS's medical information system",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "Accessoire",
+      "country_label": "Accessoire, listed under the HIMS's medical information system",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "ANAPATH",
+      "country_label": "ANAPATH, listed under the HIMS's medical information system",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "Medical-administrative information system",
+      "country_label": "Medical-administrative information system: appointments, outpatient care, admission",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "Management Information System",
+      "country_label": "Management Information System: 12 applications for a hospital's administrative, financial and accounting management (billing, stocks, supply, budget, accounting, fixed assets, biomedical maintenance and others)",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    },
+    {
+      "system": "Management information system and decision-making support",
+      "country_label": "Management information system and decision-making support",
+      "class": "",
+      "platform": "",
+      "owner": "CIMS",
+      "tiers": "hospitals; not stated further"
+    }
+  ],
+  "note": "Terms of reference for a planned assessment (1 June to 31 December 2024) of HIMS maturity against HIMSS models (EMRAM and others) in three hospitals; it states intent and gives no results. The HIMS is classed emr on the document's statement that its implementation has focused on electronic medical records; DMI and the other applications are named without a description of what they do, so they are unclassified, and the administrative and financial subsystems are out of scope. The document also states that a WHO mission of 28 May to 2 June 2023 recommended supporting the ongoing development of a national Digital Health Strategy with the ministry: a strategy in development, not recorded as a plan fact. WHO finances the assessment, not the system, so no finance fact. Nothing on primary care or on routine aggregate reporting, so no clinics or hmis fact. Tier mapping used: third line (university hospitals) T1, second line (regional hospitals) T2."
+}

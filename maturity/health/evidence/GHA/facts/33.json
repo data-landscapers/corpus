@@ -1,0 +1,95 @@
+{
+  "slug": "2024-10-01-gha-report-of-the-mid-term-review-of-the-health-sector-medium-term-develop",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIMS2",
+      "country_label": "District Health Information Management System version 2 (DHIMS2)",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; monthly reports are submitted to it as statutory reporting, and nationally designed NCD data collection forms are on it"
+    },
+    {
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "country_label": "LHIMS",
+      "class": "emr",
+      "platform": "Lightwave Health Information Management System",
+      "owner": "",
+      "tiers": "being implemented nationwide; no tier stated"
+    },
+    {
+      "system": "Open EHR system",
+      "country_label": "electronic medical records system (Open EHR system)",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "GhILMIS",
+      "country_label": "Ghana Integrated Logistics Management Information System (GhiLMIS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "SORMAS",
+      "country_label": "Surveillance Outbreak Response Management & Analysis System (SORMAS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "KoboCollect",
+      "country_label": "KoboCollect interface for nutrition data",
+      "class": "single-function",
+      "platform": "KoboCollect",
+      "owner": "",
+      "tiers": "collects nutrition data from facilities"
+    },
+    {
+      "system": "rsLog",
+      "country_label": "rsLog application",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": "family planning and comprehensive abortion care service data from health facilities across the country"
+    },
+    {
+      "system": "e-tracker",
+      "country_label": "e-tracker",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National electronic Pharmacy Platform (NEPP)",
+      "country_label": "National electronic Pharmacy Platform (NEPP)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "MyNHISApp",
+      "country_label": "MyNHISApp",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Claimit",
+      "country_label": "Claimit",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only, of a 25,036-word review dated October 2024. It says LHIMS is being implemented nationwide as an electronic medical record system and that monthly reports go to DHIMS2 as statutory reporting, but states no tier, no place of data entry, no clinic count, no owner, no finance and no dated event for either, so nothing fits an aspect's closed list. It calls for a national digital health policy and a cross-cutting sector digital strategy while also saying the HISSP was developed, so no plan value is taken. rsLog is classed tracker on its one-programme client data; the passage does not say whether it is patient-level."
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "2020-11-12-caf-plan-de-relance-de-la-vaccination-de-routine-en-republique-centrafrica",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's routine immunisation recovery plan 2021-2022 states that the country holds a validated 2017-2021 strategic plan for strengthening the SNIS, turned into an operational plan each year, and a validated roadmap for revitalising the SNIS for the move to DHIS2; the statement is undated, so the document's published date is used.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The plan places the SNIS in the Ministry of Health and Population: it counts 9 SNIS staff among the ministry cadres to be trained and gives the ministry's SNIS service the administration of the DHIS2 system; undated, so the document's published date is used.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The plan costs 'revitalisation of the SNIS for the move to DHIS2' at 141,954,000 FCFA over six activities for 2021-2022 (configuring DHIS2 at 52,000,000 FCFA with 30,000,000 shown as available, and progressive deployment to all regions and districts), and leaves the source-of-financing column empty for every one of them; undated, so the document's published date is used.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The plan states that data managers are in post in the 35 health districts, the 7 health regions and 5 central hospitals for keying SNIS data, and refers to facilities' SNIS reports arriving at the district; undated, so the document's published date is used.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "The plan names 5 central hospitals as having data managers for keying SNIS data, alongside the 35 district and 7 regional health offices; it names no other facility tier doing so; undated, so the document's published date is used.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "SNIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SNIS",
+      "country_label": "Système national d'information sanitaire (SNIS); système d'information sanitaire de routine",
+      "class": "hmis",
+      "platform": "not stated; move to DHIS2 planned (roadmap validated, configuration in 2021, progressive deployment 2021-2022)",
+      "owner": "Ministère de la Santé et de la Population, service SNIS",
+      "tiers": "data managers key SNIS data in 35 health districts, 7 health regions and 5 central hospitals; facilities send SNIS reports to the district"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministère de la Santé et de la Population, service SNIS",
+      "tiers": "planned: all regions and health districts, 2021-2022"
+    },
+    {
+      "system": "Tracking par le DHIS2 des enfants vaccinés",
+      "country_label": "Tracking des enfants vaccinés dans les FOSA",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "Ministère de la Santé et de la Population",
+      "tiers": "planned: health facilities offering routine immunisation, 440 Android phones and 440 health workers to be trained"
+    },
+    {
+      "system": "Registres électroniques de la vaccination de routine",
+      "country_label": "registres électroniques de la vaccination de routine",
+      "class": "tracker",
+      "platform": "",
+      "owner": "Ministère de la Santé et de la Population, Direction de la Prévention par la Vaccination",
+      "tiers": "planned pilot study in 50% of EPI centres, 2021"
+    },
+    {
+      "system": "DVD-MT",
+      "country_label": "Data Vaccine District Management Tool (DVDMT)",
+      "class": "single-function",
+      "platform": "DVD-MT",
+      "owner": "Ministère de la Santé et de la Population, Direction de la Prévention par la Vaccination",
+      "tiers": "district level, for compiling and transmitting immunisation data"
+    },
+    {
+      "system": "SMT",
+      "country_label": "Stock Management Tools (SMT)",
+      "class": "single-function",
+      "platform": "SMT",
+      "owner": "Ministère de la Santé et de la Population, Direction de la Prévention par la Vaccination",
+      "tiers": "not stated"
+    },
+    {
+      "system": "ODK",
+      "country_label": "Open Data Kit (ODK)",
+      "class": "single-function",
+      "platform": "ODK",
+      "owner": "",
+      "tiers": "collection of disease surveillance data; use described as weak"
+    }
+  ],
+  "note": ""
+}

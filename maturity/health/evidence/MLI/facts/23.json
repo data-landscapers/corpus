@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-01-mli-annuaire-2023-du-systeme-national-d-information-sanitaire-et-social-sn",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The 2023 SNISS yearbook, issued under the health and family ministries, says the sector's planning and statistics cell (CPS/SSDSPF) coordinates the SNISS, which collects, analyses and aggregates national health and social data, with the ministries' technical services and partners; the yearbook was validated at a workshop of 26 to 30 May 2025 and cites DHIS2 as the source of its national tables (for example 958,571 first and 2,144,030 total antenatal visits in 2023).", "as_of": "2025-05", "date_precision": "month", "system": "SNISS (Système National d'Information Sanitaire et Social) / DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 (District Health Information Software, 2ème version)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated; cited as the source of national and regional aggregates (facility counts, hospitalisations, antenatal visits, population)"},
+    {"system": "SNISS", "country_label": "Système National d'Information Sanitaire et Social", "class": "hmis", "platform": "", "owner": "CPS/SSDSPF, Cellule de Planification et de Statistique du Secteur Santé, Développement Social et Promotion de la Famille", "tiers": "all levels, as the document puts it; no tier named"},
+    {"system": "SLIS", "country_label": "Système Local d'Informations Sanitaires", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIH", "country_label": "Système d'Information Hospitalier", "class": "", "platform": "", "owner": "", "tiers": "hospitals, by its name and its yearbook's tables"}
+  ],
+  "note": "Passages only: the file holds the paragraphs carrying a study term, mostly table sources; it states no tier, no place of entry and no clinic count for DHIS2."
+}

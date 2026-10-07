@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-mli-l-appropriation-des-outils-de-sante-numerique-par-les-professionnel-le",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:27", "fact": "A University of Sherbrooke (CIDIS) poster at ACFAS 2024 says the SanDi project (2021-2022) deployed the OpenClinic software with tablets, computers and smart glasses in 27 community health centres (CSCom), which a CSCom user describes as giving a record for each patient; it gives no denominator, and its own sample of 27 centres in five regions counts 15 community, 7 university and 5 reference centres.", "as_of": "2022", "date_precision": "year", "system": "OpenClinic (projet SanDi)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2;T3", "fact": "The CIDIS poster reports health workers using the SanDi digital tools, OpenClinic among them, in community health centres (CSCom and university CSCom, for example Wondobougou, Banconi and Doumanzana) and in reference centres (Korofina), across Bamako, Sikasso, Kayes, Ségou and Koulikoro; deployment is dated 2021-2022 and the interviews fall under the ApproTech project of 2023-2025.", "as_of": "2022", "date_precision": "year", "system": "OpenClinic (projet SanDi)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "OpenClinic", "country_label": "OpenClinic (projet SanDi)", "class": "emr", "platform": "OpenClinic", "owner": "deployed by the SanDi project; the document names no operator", "tiers": "27 centres in five regions: community health centres (CSCom), university CSCom and reference centres"},
+    {"system": "Lunettes intelligentes (SanDi)", "country_label": "lunettes intelligentes", "class": "enabling", "platform": "", "owner": "deployed by the SanDi project", "tiers": "CSCom; contact with specialists through them had not started, by one participant"},
+    {"system": "Tablettes et ordinateurs (SanDi)", "country_label": "tablettes, ordinateurs", "class": "enabling", "platform": "", "owner": "deployed by the SanDi project", "tiers": "CSCom and reference centres; computers not on solar power at Korofina"}
+  ],
+  "note": ""
+}

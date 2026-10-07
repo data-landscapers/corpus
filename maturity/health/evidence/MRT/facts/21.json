@@ -1,0 +1,36 @@
+{
+  "slug": "2025-01-01-mrt-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The Ministry of Health and Countdown to 2030 analysis presented in June 2025 assesses health-centre data quality from DHIS2 for 2019 to 2024, with antenatal, delivery, vaccination and outpatient figures reported by health facilities, and finds report completeness low against the target, particularly at district level; it gives no completeness figure.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "The same analysis states that, for institutional mortality, only the data of the hospitals of Hodh Gharbi and Guidimagha are available and integrated in the DHIS2 base, that hospital and private-facility data are missing from the reports, and recommends strengthening the integration of hospital data.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 / SNIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "health centres and other health facilities report; of hospitals only Hodh Gharbi and Guidimagha are integrated; private facilities missing"
+    }
+  ],
+  "note": "The document also states that the 2024 fall in reported deliveries may reflect under-reporting and newly created facilities that offer services and do not report, and recommends a review of SNIS completeness and data quality for 2024; it gives no figure for facilities reporting, nothing on where data is keyed, and nothing on governance."
+}

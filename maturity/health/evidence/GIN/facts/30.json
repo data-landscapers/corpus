@@ -1,0 +1,144 @@
+{
+  "slug": "2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Digital Health Strategy 2021-2025 carries project P221, strengthening and extending the SNIS with DHIS2, running October 2021 to December 2025 at an estimated USD 1.5 million with the SNIS service as coordinator, and says DHIS2 will be kept and reinforced as the SNIS data warehouse.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The strategy says the Ministry of Health adopted DHIS2 in 2016 as its main online platform for managing health data, and names the ministry's SNIS service as the institution responsible for the DHIS2 extension project.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The strategy says DHIS2 has been deployed in health facilities since 2016 with technical and financial support from the Global Fund and USAID, that the ministry installed it with Global Fund support, and that USAID and Chemonics supported its interoperability with other sub-systems; no domestic budget line is stated. Dated to the strategy's publication year.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The strategy says DHIS2 is functional in all 38 health districts, and that the national health information system covers the whole country by electronic, semi-electronic and manual means for sending data upwards; elsewhere it says the ministry installed DHIS2 in all health facilities, and it sets a 2025 target of more than 80 per cent of facilities feeding the SNIS over the planned national network against a baseline of 0. Dated to the strategy's publication year.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "SNIS (Systeme National d'Information Sanitaire) / DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, SNIS service",
+      "tiers": "All 38 health districts; 'all health facilities of the country' as the strategy puts it"
+    },
+    {
+      "system": "eSIGL",
+      "country_label": "eSIGL (gestion de la logistique des produits de sante)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "eLMIS",
+      "country_label": "eLMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "iHRIS",
+      "country_label": "iHRIS (gestion des ressources humaines)",
+      "class": "",
+      "platform": "iHRIS",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Tracker",
+      "country_label": "Tracker (surveillance epidemiologique; reseau national de surveillance des maladies)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "Fed mainly by health professionals in health facilities"
+    },
+    {
+      "system": "Labbook",
+      "country_label": "Labbook",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Module Covid-19 du DHIS2",
+      "country_label": "Module de gestion du Covid-19 integre dans le DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Interoperabilite DHIS2 - eLMIS / cadre d'interoperabilite du SNIS",
+      "country_label": "Cadre d'interoperabilite du SNIS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health, with USAID and Chemonics support",
+      "tiers": ""
+    },
+    {
+      "system": "Dossier patient a Sino-Guineen",
+      "country_label": "Le dossier patient a Sino-Guineen",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "One site, cited as an isolated case"
+    },
+    {
+      "system": "Applications metiers des structures sanitaires (projet P231)",
+      "country_label": "Application unique de gestion des structures sanitaires, planned: resources and medical activities (reception, consultations, tests, hospitalisations, transfers, billing), interfaced with the SNIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, with ANGEIE",
+      "tiers": "Planned from health post to referral hospitals; baseline 0, target more than 60 per cent of facilities by end 2025"
+    },
+    {
+      "system": "Telemedecine Donka",
+      "country_label": "Unite de telemedecine de l'hopital de Donka (projet Inde/Union Africaine)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "Donka hospital, pilot"
+    },
+    {
+      "system": "Telemedecine Faranah",
+      "country_label": "Plateforme de telemedecine de l'hopital regional de Faranah (GIZ/PASA2, VSAT)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "Faranah regional hospital; installed, not operational"
+    }
+  ],
+  "note": ""
+}

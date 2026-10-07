@@ -1,0 +1,16 @@
+{
+  "slug": "2025-07-01-tgo-rapport-annuel-oms-togo-2024",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "regressing", "fact": "WHO Togo's 2024 annual report states that Togo uses DHIS2 to collect health data in all districts and that, despite good command of the tools and a working quality-control system, completeness rates remain unstable: 91% in 2017, a peak of 96.5% in 2018, then a fall to 89.2% in 2021; it gives no numerator or denominator and does not say which facilities report or where the data is keyed.", "as_of": "2021", "date_precision": "year", "system": "DHIS2 (SNIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO Togo reports that in 2024, through the Benin-Burkina Faso-Niger-Togo (BBNT) initiative supported by WHO and the Global Fund, Togo strengthened its capacity to analyse and use the data extracted from DHIS2 on malaria, tuberculosis and HIV, hepatitis and STIs, the analysis leading to a roadmap of corrective measures; it gives no counts of staff or facilities.", "as_of": "2024", "date_precision": "year", "system": "DHIS 2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "Système national d'information sanitaire (SNIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "health data collection in all districts"},
+    {"system": "DHIS2 (dengue surveillance)", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "", "tiers": "used in the 2024 dengue response for analysis of surveillance data alongside line lists; tiers not stated"},
+    {"system": "ODK forms (active surveillance of vaccine-preventable diseases)", "country_label": "formulaires ODK", "class": "single-function", "platform": "ODK", "owner": "WHO regional platform; submissions driven by WHO IVD consultants", "tiers": "supervision visits to health facilities ranked by priority; 7,955 forms submitted in 2024 against 4,088 in 2023"},
+    {"system": "EIOS", "country_label": "outil EIOS", "class": "single-function", "platform": "Epidemic Intelligence from Open Sources (WHO)", "owner": "", "tiers": "introduced in 2024 for integrated disease surveillance; tiers not stated"},
+    {"system": "DORIS", "country_label": "", "class": "", "platform": "DORIS", "owner": "", "tiers": "named as a digital tool envisaged with the adoption of ICD-11 for cause-of-death coding; not stated as in use"},
+    {"system": "Carte de score SRMNIA-Nut", "country_label": "carte de score SRMNIA-Nutrition", "class": "", "platform": "", "owner": "", "tiers": "launched nationally in 2024 to analyse reproductive, maternal, child and nutrition data in real time; tiers not stated"}
+  ],
+  "note": "No tier, place of data entry or clinic count is stated for DHIS2. The report also says a national digital health strategic plan (PSSN/PSNSN) began to be drafted in 2024 with WHO support; it does not name the HMIS, so no governance fact is taken. No EMR is mentioned."
+}

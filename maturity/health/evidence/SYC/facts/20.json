@@ -1,0 +1,15 @@
+{
+  "slug": "2022-11-04-syc-budget-2023",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Health Information System",
+      "country_label": "Health Information System project",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Seychelles (health sector capital budget)",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "No fact: the address names the health information system without saying what it does, so it is unclassified. What it states, for the parent to attach once the class is settled elsewhere: the 2023 budget (delivered 2022-11-04) allocates R 27.13 million to 'the continuation of the Health Information System project' within R 118.8 million of health-sector capital projects, with no external financier named for it (the La Digue hospital line beside it is marked as a UAE grant), which would be governance finance:domestic for FY2023; and the minister expects the system 'will come into operation towards the end of 2022'."
+}

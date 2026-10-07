@@ -1,0 +1,86 @@
+{
+  "slug": "2024-05-29-mar-informatisation-du-dossier-medical-au-chu-mohammed-vi-avis-des-utilisa",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "A Marrakech medical thesis surveying residents and interns of the CHU Mohammed VI who use HOSIX in daily practice reports that 94.2% of respondents had used it for more than two years and 37.1% for more than five; it gives the sample variously as 80 and 85 responses and as 100 participants, and dates the survey inconsistently, so the defence date is used.",
+      "as_of": "2024-05-29",
+      "date_precision": "day",
+      "system": "HOSIX",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The thesis states that the HOSIX hospital information system is installed in four regions (Marrakech, Fès, Oujda and Casablanca) and that these regions have a regional shared patient record through the computerisation of all their health centres, hospitals and university hospital; it gives no source, count or date for this, and its own discussion reports no network for sharing patient information between staff. The defence date is used.",
+      "as_of": "2024-05-29",
+      "date_precision": "day",
+      "system": "HOSIX",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The thesis describes doctors at the CHU Mohammed VI writing and amending the medical observation, diagnoses and history in HOSIX and ordering and reading laboratory tests there, while the paper record is kept alongside: 31.4% of respondents cite time lost filling both the physical file and the HOSIX report, and 71.4% cite system freezes. The defence date is used.",
+      "as_of": "2024-05-29",
+      "date_precision": "day",
+      "system": "HOSIX",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "HOSIX",
+      "country_label": "HOSIX (Hosix.NET), système d'information hospitalier with the dossier médical informatisé",
+      "class": "emr",
+      "platform": "HOSIX, by the Spanish company SIVSA",
+      "owner": "",
+      "tiers": "CHU Mohammed VI, Marrakech; said to be installed in four regions (Marrakech, Fès, Oujda, Casablanca) across health centres, hospitals and university hospitals; first adopted by the CHU of Fès"
+    },
+    {
+      "system": "ENOVA",
+      "country_label": "one of four hospital information system (SIH intégré) solutions deployed across the 12 regions",
+      "class": "emr",
+      "platform": "ENOVA",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "BILMED",
+      "country_label": "one of four hospital information system (SIH intégré) solutions deployed across the 12 regions",
+      "class": "emr",
+      "platform": "BILMED",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DEDALUS",
+      "country_label": "one of four hospital information system (SIH intégré) solutions deployed across the 12 regions; written DEDAL US in the source",
+      "class": "emr",
+      "platform": "DEDALUS",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "NADIS",
+      "country_label": "NADIS, computerised patient record for HIV patients in the infectious diseases service",
+      "class": "tracker",
+      "platform": "Nadis",
+      "owner": "",
+      "tiers": "infectious diseases service of the CHU Mohammed VI"
+    },
+    {
+      "system": "medical record application in maxillofacial surgery",
+      "country_label": "computerised medical record database of the maxillofacial and aesthetic surgery service",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "one service of the CHU Mohammed VI"
+    }
+  ],
+  "note": "A student thesis with internally inconsistent figures and dates (survey said to be run at the end of 2024, defended 29 May 2024). The regional shared-record statement is recorded under tiers only and no digitised:shared row is written, because the same thesis reports no network for sharing patient information; the parent should weigh it accordingly. Class emr for ENOVA, BILMED and DEDALUS rests on one collective sentence that the hospital information system centralises medical, administrative and financial data. The figure of 132 hospital centres for Nadis is not said to be Moroccan and is not used."
+}

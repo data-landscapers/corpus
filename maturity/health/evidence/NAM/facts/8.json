@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "Countdown to 2030's analysis of DHIS2 facility data reports that the share of expected monthly facility reports received nationally (mean of antenatal, delivery, immunisation and outpatient forms) rose from 86% in 2019 and 93% in 2023 to 96% in 2024, districts at 90% completeness or more from 66% to 93%, and the annual data quality score from 80 to 91, which it attributes to sustained investment in digital systems, staff capacity, supervision and data quality dashboards.", "as_of": "2024", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated; holds monthly reports from health facilities, analysed by district and region"}
+  ],
+  "note": "The document publishes reporting completeness and data quality for 2019-2024 but states nothing on who keys the reports, which tiers use the system, or its governance; the completeness series is carried in the one last12 fact. It notes internet outages and delayed data entry in remote areas as possible causes of gaps, without a date."
+}

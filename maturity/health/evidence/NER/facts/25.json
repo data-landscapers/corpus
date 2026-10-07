@@ -1,0 +1,14 @@
+{
+  "slug": "2024-10-02-ner-le-niger-avance-vers-la-digitalisation-des-services-de-sante-avec-le-p",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "Enabel states that a hospital information system built around a computerised medical record was put in place at the district hospitals of Gaya and Gothèye after two field missions in February and April 2024, following a patient-record dematerialisation process begun in 2017.", "as_of": "2024-04", "date_precision": "month", "system": "Système d'Information Hospitalier (SIH)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "Enabel places the hospital information system in two district hospitals only and says a mission planned for September 2024 will explore extending some of its modules to other facilities, notably urban integrated health centres and district pharmacies.", "as_of": "2024-04", "date_precision": "month", "system": "Système d'Information Hospitalier (SIH)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "Enabel states that under its PASS Sutura programme it recruited an e-health consultancy in December 2022 to write the specification and retained the Post-Factum consortium to deploy the hospital information system at Gaya and Gothèye.", "as_of": "2024-04", "date_precision": "month", "system": "Système d'Information Hospitalier (SIH)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "Enabel presents the hospital information system at Gaya and Gothèye as delivered within its health-system support programme PASS Sutura, launched in March 2022; no domestic funding is stated.", "as_of": "2024-04", "date_precision": "month", "system": "Système d'Information Hospitalier (SIH)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Système d'Information Hospitalier (SIH)", "country_label": "SIH", "class": "emr", "platform": "", "owner": "Enabel (PASS Sutura), deployed by the Post-Factum consortium", "tiers": "district hospitals of Gaya and Gothèye"},
+    {"system": "Gestion de la Maintenance Assistée par Ordinateur (GMAO)", "country_label": "GMAO", "class": "", "platform": "", "owner": "Enabel (PASS Sutura), led by Post-Factum", "tiers": ""}
+  ],
+  "note": "The document's date is a proxy; the facts are dated to the April 2024 mission it names. GMAO is computerised maintenance management of equipment and buildings, outside the typology's classes, so its class is left empty. Where the record is keyed is not stated."
+}

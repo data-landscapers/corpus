@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,hmis,governance,qualifier,,,,,nothing held
+NAM,hmis,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-03-26,NAM-006;NAM-007;NAM-008,NAM-017=owner:ministry,
 NAM,hmis,tiers,coverage,,,,,nothing held
-NAM,hmis,digitised,coverage,,,,,nothing held
-NAM,hmis,last12,qualifier,,,,,nothing held
-NAM,hmis,clinics,coverage,,,,,nothing held
-NAM,emr,governance,qualifier,,,,,nothing held
-NAM,emr,tiers,coverage,,,,,nothing held
-NAM,emr,digitised,coverage,,,,,nothing held
+NAM,hmis,digitised,coverage,district,2026-03-26,NAM-004,NAM-015=facility,
+NAM,hmis,last12,qualifier,advancing,2024,NAM-016,,nothing dated since 2025-09-28
+NAM,hmis,clinics,coverage,none,2026-03-26,NAM-005,,
+NAM,emr,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-03-26,NAM-009;NAM-012;NAM-014,NAM-013=plan:current,
+NAM,emr,tiers,coverage,T1,2025-09,NAM-010,,
+NAM,emr,digitised,coverage,paper,2025-09,NAM-011,,
 NAM,emr,last12,qualifier,,,,,nothing held
 NAM,emr,clinics,coverage,,,,,nothing held

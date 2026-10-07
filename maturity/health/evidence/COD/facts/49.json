@@ -1,0 +1,13 @@
+{
+  "slug": "2021-10-20-cod-rapport-de-la-mission-dappui-technique-au-monitorage-mensuel-des-donne",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A malaria-programme support mission to the Kananga and Ndesha health zones (Kasaï Central), 15 to 18 October 2021, reports that facilities fill paper SNIS forms and monthly activity reports and transfer them to the zone central office, where data are keyed into DHIS2: it found late keying in Ndesha, DHIS2 figures that disagreed with the paper forms, a data-entry plan assigned to the zone's chief medical officer and nurse supervisor, and an internet fault at the Kananga zone office that delayed downloading the data.", "as_of": "2021-10", "date_precision": "month", "system": "DHIS2 (SNIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (SNIS)", "country_label": "SNIS; canevas SNIS; DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "not stated; the Système National d'Information Sanitaire under its normative framework, with PMI Measure Malaria and PROSANI USAID support in Kasaï Central", "tiers": "Kananga and Ndesha health zone offices key and analyse data from the health areas' facilities (health centres and a hospital are named); facilities report on paper"},
+    {"system": "SURVEPI data set", "country_label": "SURVEPI", "class": "single-function", "platform": "DHIS2 data set, keyed weekly", "owner": "", "tiers": "Kananga zone office; low timeliness because the surveillance officer's fixed computer had no internet"},
+    {"system": "SIGL data", "country_label": "SIGL", "class": "single-function", "platform": "", "owner": "", "tiers": "stock data of the health areas, described as poor quality"},
+    {"system": "Base de données d'analyses PNLP / tableau de bord PMM", "country_label": "", "class": "single-function", "platform": "", "owner": "PNLP; PMI Measure Malaria", "tiers": "malaria analysis tool shared with the Kananga zone team"}
+  ],
+  "note": ""
+}

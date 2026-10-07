@@ -1,0 +1,52 @@
+{
+  "slug": "2023-07-01-oms-sao-tome-estrategia-cooperacao-pais-2023-2027",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO states that it added indicators for monitoring non-communicable diseases to the DHIS2 platform, which is used to collect, validate, analyse and share data on people with communicable and non-communicable diseases, and that integrated disease surveillance and response data are being integrated into DHIS2, while data quality and reliability remain a problem and even paper data collection is weak; the document dates none of this, so the publication date is used.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The WHO country cooperation strategy 2023-2027, approved by the Minister of Health and aligned with the national health development plan, lists implementation of DHIS2 in the districts with data from all health plans and programmes made available as a country-office product under strategic priority 1, budgeted at an estimated USD 4,250,000 over five years for the whole priority, and describes the national strategy for a robust health information system as fragile; dated to publication, the document giving no other date.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "plataforma de software distrital de informação sanitária (DHIS2), within the Sistema de informação sanitária (SIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "implementation in the districts listed as a planned product for 2023-2027"
+    },
+    {
+      "system": "msupply",
+      "country_label": "msupply",
+      "class": "single-function",
+      "platform": "mSupply",
+      "owner": "",
+      "tiers": "medicine stock management at national level"
+    },
+    {
+      "system": "Integrated disease surveillance and response (VRID) data",
+      "country_label": "vigilância e resposta integradas às doenças (VRID)",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The document does not say which facility tiers use DHIS2, at what level data is keyed, or how many clinics enter data; it names no patient record system."
+}

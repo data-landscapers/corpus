@@ -1,0 +1,17 @@
+{
+  "slug": "2025-09-01-tza-annual-health-statistical-tables-and-figures-2024",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The Ministry of Health's methodology for its 2024 annual statistics states that patient data is recorded at the point of care in HMIS registers and tally sheets, aggregated by the facility each month, and then entered into the DHIS2 platform at council level, for data covering January to December 2024 from 11,805 public and private health facilities.", "as_of": "2024", "date_precision": "year", "system": "DHIS2 (Health Management Information System, HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's Monitoring and Evaluation Unit coordinates the HMIS data and its annual report drawn from DHIS2 for 2024, with the University of Dar es Salaam and HISP Tanzania acknowledged for technical support in maintaining the DHIS2 platform, and Council and Regional Health Management Teams validating the data.", "as_of": "2024", "date_precision": "year", "system": "DHIS2 (Health Management Information System, HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (Health Management Information System, HMIS)", "country_label": "HMIS; the foreword calls it the National Health Information System (HMIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, Monitoring and Evaluation Unit; UDSM and HISP Tanzania maintain the platform", "tiers": "11,805 public and private health facilities report on paper; entry into DHIS2 at council level; validated by council then regional teams"},
+    {"system": "HRHIS", "country_label": "Human Resource for Health Information System", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "NSMIS", "country_label": "NSMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "VIMS", "country_label": "VIMS", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "eIDSR", "country_label": "Electronic Integrated Disease Surveillance and Response system", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "HFR", "country_label": "Health Facility Registry", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "biometric fingerprint identification at CTC sites", "country_label": "", "class": "tracker", "platform": "", "owner": "", "tiers": "all HIV care and treatment (CTC) sites, as stated"}
+  ],
+  "note": "Passages of a longer report, mainland only. Tiers are not broken down in the passages, and no figure is given for clinics entering their own data: the methodology puts entry at council level for all facilities. HRHIS, NSMIS, VIMS, eIDSR and HFR are named as other data sources or in the abbreviations list only, without a description, so they are unclassified. The Global Fund and Bloomberg funding acknowledged is for producing the report, not stated as finance of the system."
+}

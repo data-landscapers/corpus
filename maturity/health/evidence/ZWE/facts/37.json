@@ -1,0 +1,140 @@
+{
+  "slug": "2023-01-01-zwe-zimbabwe-malaria-profile",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The U.S. President's Malaria Initiative profile states that monthly HMIS data collection is paper-based at village, health facility and hospital levels, and that the paper records go to the district, where the district health information officer enters them into the Zimbabwe DHIS2; no date is given, so the document's published year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Zimbabwe DHIS2 (HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "PMI states that monthly HMIS collection at health facility level is on paper, keyed at the district; its routine table gives 1,776 health facilities reporting into the HMIS/DHIS2 in 2022 (1,758 in 2018) with 96% of expected monthly reports received (97.2% in 2018), which counts reports received and not facilities entering them.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Zimbabwe DHIS2 (HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "PMI states that the HMIS collects routine aggregate health information from four levels of the health system: primary (over 1,700 health centres, clinics and rural hospitals), secondary (about 140 district-level hospitals), tertiary (eight provincial hospitals) and quaternary (six hospitals); all report on paper. The document's published year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Zimbabwe DHIS2 (HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "PMI describes DHIS2 as the Ministry of Health and Child Care's system: donors and partners have very limited access to it, the ministry circulates no routine monthly DHIS2 report, and the malaria programme shares its data with PMI at bilateral meetings. The document's published year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Zimbabwe DHIS2 (HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "PMI states that electronic health records designed for deployment at each health facility, from which patient-level data would be aggregated into DHIS2, had been piloted in a small number of select districts, with no count given, and that the country continued to rely mainly on the existing paper-based HMIS. The document's published year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "electronic health records",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "PMI gives full digitisation of the HMIS through facility electronic health records as the current strategic direction of the Ministry of Health and Child Care, and says it is unclear whether the very substantial resources needed for scale-up will be made available. The document's published year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "electronic health records",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Zimbabwe DHIS2 (HMIS)",
+      "country_label": "HMIS / Zimbabwe DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "aggregate monthly data from primary, secondary, tertiary and quaternary levels, with community-level data included; paper to the district, keyed there"
+    },
+    {
+      "system": "electronic health records",
+      "country_label": "electronic health records",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "designed for every health facility; piloted in a small number of select districts"
+    },
+    {
+      "system": "Rapid Disease Notification System / Weekly Disease Surveillance Database",
+      "country_label": "Integrated Disease Surveillance and Response (IDSR) epidemic detection system",
+      "class": "single-function",
+      "platform": "text messaging platform feeding the IDSR portion of DHIS2",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "weekly reports by text message from facilities and the community, reviewed by district and provincial health officers"
+    },
+    {
+      "system": "DHIS2 Tracker Capture (malaria case-based surveillance)",
+      "country_label": "case-based surveillance system",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker Capture, with a smartphone platform that works offline",
+      "owner": "National Malaria Control Program, with Clinton Health Access Initiative support",
+      "tiers": "health facilities in the 32 districts implementing malaria elimination activities"
+    },
+    {
+      "system": "electronic LMIS (eLMIS)",
+      "country_label": "logistics management information system (LMIS) / eLMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "rollout begun in 2020 with district hospitals as the first sites; phased rollout to all public sector facilities planned through 2024"
+    },
+    {
+      "system": "Zimbabwe Assisted Pull System (ZAPS) ordering system",
+      "country_label": "ZAPS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Department of Pharmacy Services and NatPharm, mostly under direct donor funding",
+      "tiers": "the district pharmacy manager keys each facility's quarterly order; the system is accessible at central level"
+    },
+    {
+      "system": "interoperability layer",
+      "country_label": "interoperability layer",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "at the design and planning stage; to aggregate patient-level data from electronic health records into DHIS2"
+    },
+    {
+      "system": "Malaria Data Integration and Visualization for Eradication (MDIVE)",
+      "country_label": "MDIVE",
+      "class": "single-function",
+      "platform": "",
+      "owner": "U.S. President's Malaria Initiative",
+      "tiers": "receives HMIS and programme monitoring data from the malaria programme each quarter; a donor's system, not a facility one"
+    },
+    {
+      "system": "inpatient morbidity and mortality information system",
+      "country_label": "inpatient morbidity and mortality information system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The profile's date is a proxy: routine data run to 2022 and the text treats the second quarter of 2023 as still to come. The clinics value 'none' rests on the statement that facility-level collection is paper-based, not on a count. The policy table lists a National Digital Health Strategy (2021-2025) as a draft and does not say it names either system, so no plan fact is taken. No funder of the HMIS itself is named, so no finance fact is taken; malaria programming is said to rely almost wholly on the Global Fund and PMI. Community health worker data is said to be integrated into the HMIS, with no separate community system named. The profile also says DHIS2 had not yet been updated for the eight-contact antenatal schedule."
+}

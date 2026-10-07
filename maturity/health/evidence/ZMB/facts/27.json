@@ -1,0 +1,15 @@
+{
+  "slug": "2024-04-01-zmb-programme-audit-report-the-republic-of-zambia",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Gavi's programme audit states that the Ministry of Health's DHIS2 is the national system for recording and reporting health information, including aggregate immunisation data from routine service delivery points, that the programme relies heavily on paper, and that data entry into DHIS2 is done monthly at the district level with a few health facilities reporting directly; the statement is undated, so the report's date of April 2024 is used (audit fieldwork was in August and September 2023).", "as_of": "2024-04", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "Gavi's programme audit says only that 'a few' health facilities report directly into DHIS2, the rest being keyed at the district; it gives no count or share, though it cites 3,320 health facilities countrywide from a 2022 cold chain inventory; undated statement, the report's date of April 2024 used.", "as_of": "2024-04", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Gavi's programme audit calls DHIS2 the Ministry of Health's own system and 'the approved country data management system', with the ministry setting and adjusting its population denominators from 2018; undated statement, the report's date of April 2024 used.", "as_of": "2024-04", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "District Health Information System (DHIS2)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "data entry monthly at district level; a few health facilities report directly"},
+    {"system": "Logistimo eLMIS", "country_label": "electronic logistics management information system (eLMIS)", "class": "single-function", "platform": "Logistimo (web-based, Logistimo India Private Limited)", "owner": "Ministry of Health / Expanded Programme for Immunisation, with no formal contract or licence with the vendor", "tiers": "national, provincial and district vaccine stores and selected facilities from 2016; discontinued 6 July 2022 with no data backup, no replacement working at September 2023"},
+    {"system": "Zambia Immunisation Electronic Register", "country_label": "ZIER", "class": "tracker", "platform": "", "owner": "built with Gavi support (USD 886,262); not in use by the Ministry of Health or EPI at September 2023", "tiers": ""},
+    {"system": "Mobile Vaccination system", "country_label": "MVAC", "class": "", "platform": "", "owner": "built with Gavi support (USD 382,827); not in use by the Ministry of Health or EPI at September 2023", "tiers": ""}
+  ],
+  "note": ""
+}

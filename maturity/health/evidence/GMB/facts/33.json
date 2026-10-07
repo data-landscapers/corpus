@@ -1,0 +1,14 @@
+{
+  "slug": "2023-08-10-gmb-efsth-launches-emr-system",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "The Point reports the pilot launch of an Electronic Medical Records system at Edward Francis Small Teaching Hospital, the country's main referral hospital, with MRC Gambia's director of operations saying it is being rolled out to other departments within the hospital; the article carries no date, so its published date is used.", "as_of": "2023-08-10", "date_precision": "day", "system": "EMR System (EFSTH)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "The article states the EMR was developed over years by technicians and staff of the Medical Research Council Unit The Gambia and launched at the hospital under a memorandum of understanding between the two institutions, with the Ministry of Health thanking MRCG for the collaboration; undated in the article, so its published date is used.", "as_of": "2023-08-10", "date_precision": "day", "system": "EMR System (EFSTH)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "EMR System (EFSTH)", "country_label": "Electronic Medical Records System", "class": "emr", "platform": "software developed in-house by MRC Unit The Gambia", "owner": "MRC Unit The Gambia with Edward Francis Small Teaching Hospital", "tiers": "pilot at Edward Francis Small Teaching Hospital, being rolled out to other departments of the hospital"},
+    {"system": "Expanded Programme on Immunization digital system", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Logistic and Management System", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "digitalised, not yet finally rolled out"},
+    {"system": "Electronic Health Insurance System", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "work under way"}
+  ],
+  "note": ""
+}

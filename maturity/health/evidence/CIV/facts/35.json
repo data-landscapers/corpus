@@ -1,0 +1,12 @@
+{
+  "slug": "2024-05-01-civ-les-choses-a-savoir-sur-le-systeme-d-information-hospitalier",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "shared", "fact": "The PAGDS project's explainer says the SGCH hospital information system traces the patient from entry to discharge, digitises the medical record and gives each patient a unique identifier under which the patient is handled at any health centre in the country that has the solution, staff reaching it through a web platform in the health centres; the page is undated and the date is its published date, a proxy.", "as_of": "2024-05", "date_precision": "month", "system": "SGCH (Système de Gestion de Centre Hospitalier)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The PAGDS project's explainer states that SGCH, a hospital information system holding the digitised patient medical record, was designed by the Ministry of Health, Public Hygiene and Universal Health Coverage; it names no financier and no plan, and the page is undated, so the date is its published date, a proxy.", "as_of": "2024-05", "date_precision": "month", "system": "SGCH (Système de Gestion de Centre Hospitalier)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SGCH (Système de Gestion de Centre Hospitalier)", "country_label": "Système d'Information Hospitalier (SIH)", "class": "emr", "platform": "SGCH, a web platform", "owner": "Ministry of health (MSHPCMU), which designed it", "tiers": "health establishments where the solution is deployed; no count and no tier stated; modules cover admissions and medical records, pharmacy, beds, hospitalisation, insurance and tariffs, finance and accounting, blood bank, emergencies, pathologies, births and deaths, and the monthly SIG reports"},
+    {"system": "SANTE CIV", "country_label": "SANTE CIV", "class": "emr", "platform": "mobile application on AppStore and PlayStore", "owner": "", "tiers": "patients, who open their patient record, book appointments and pay at any health centre where the SIH is deployed"}
+  ],
+  "note": ""
+}

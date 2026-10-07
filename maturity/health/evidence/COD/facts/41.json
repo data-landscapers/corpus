@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-13-cod-kasai-oriental-un-lot-dequipements-numeriques-offert-a-la-division-pro",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "ACP reported on 13 February 2025 that ANICNS handed the Kasaï-Oriental provincial health division 516 computers, 206 tablets and 206 routers to equip 206 care establishments, which its director general said would allow an ANICNS-approved hospital information system to be put into service and the computerised patient record to be portable; the system is described as to come, not as running.", "as_of": "2025-02-13", "date_precision": "day", "system": "Système d'information hospitalier (SIH) homologué par l'ANICNS", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Système d'information hospitalier (SIH) homologué par l'ANICNS", "country_label": "SIH; dossier patient informatisé", "class": "emr", "platform": "", "owner": "approved by ANICNS; operator not stated", "tiers": "206 care establishments (ESS) in Kasaï-Oriental to be equipped; tier not stated; not stated as in service"},
+    {"system": "Kit digital (computers, tablets, routers)", "country_label": "kit digital; postes digitalisés", "class": "enabling", "platform": "516 computers, 206 tablets, 206 routers", "owner": "supplied by ANICNS to the DPS Kasaï-Oriental", "tiers": "206 care establishments in Kasaï-Oriental"},
+    {"system": "Carte Nationale d'Assurance Maladie (CNAM)", "country_label": "CNAM", "class": "", "platform": "", "owner": "", "tiers": "national; a health card and payment card the country is said to be preparing to use"}
+  ],
+  "note": ""
+}

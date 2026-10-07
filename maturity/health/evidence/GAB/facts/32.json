@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-11-gab-projet-egabon-sis-la-banque-mondiale-satisfaite-du-bon-fonctionnement",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "Gabonactu reports that on 11 February 2026 a World Bank delegation found the eGabon-SIS system working in 13 pilot hospitals across Grand Libreville, the Egypt-Gabon cooperation hospital among them and described as fully computerised with the patient record available; the Libreville university hospital and the regional hospitals were not yet covered.", "as_of": "2026-02-11", "date_precision": "day", "system": "eGabon-SIS (Système d'information sanitaire)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The system ran in 13 pilot hospitals in Grand Libreville on 11 February 2026, per Gabonactu; the document names no primary clinic using it and gives no denominator.", "as_of": "2026-02-11", "date_precision": "day", "system": "eGabon-SIS (Système d'information sanitaire)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "On 11 February 2026 the director general of the Egypt-Gabon cooperation hospital said one year of use as a pilot site had cut patient waiting time, centralised finances and made the patient record available; the health minister asked the World Bank, which agreed, to bring the system into the Libreville university hospital, and said it would extend to every regional hospital.", "as_of": "2026-02-11", "date_precision": "day", "system": "eGabon-SIS (Système d'information sanitaire)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "Gabonactu states on 11 February 2026 that the eGabon-SIS project is financed by the World Bank; no domestic budget line is mentioned.", "as_of": "2026-02-11", "date_precision": "day", "system": "eGabon-SIS (Système d'information sanitaire)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eGabon-SIS (Système d'information sanitaire)", "country_label": "SIS / eGabon-SIS", "class": "emr", "platform": "", "owner": "not stated; Ministry of Health with World Bank financing", "tiers": "13 pilot hospitals in Grand Libreville; extension to the CHUL and all regional hospitals (CHR) announced"}
+  ],
+  "note": "Classed emr because the document says the system makes the patient record available, alongside patient flow and finances. The tier value T2 is a reading: the document calls all 13 sites hospitals and says the university hospital and the regional hospitals are still to come, but does not state their tier; the earlier documents in this list count health centres among the pilot sites. It does not say where the record is keyed."
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "2024-01-01-who-emro-libya-annual-report-2023",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "WHO states that in 2023 it and the Ministry of Health rolled out DHIS2 in 40 municipalities, covering 465 primary health care facilities and 51 hospitals (516 facilities), and that with other partners' support this brought DHIS2 to a 100% implementation rate nationwide; the report names only 'hospitals' and 'PHC facilities', not their levels.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "WHO states that 655 health staff from public PHC facilities, hospitals and municipal health administration were trained on DHIS2 in 2023 and given laptops, desktops and tablets to enable data entry, and that 34 supervisory site visits guided staff at health facility level.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "count:465",
+      "fact": "WHO counts 465 primary health care facilities among the 516 facilities in 40 municipalities where DHIS2 was rolled out in 2023; it gives no denominator of primary facilities and no national total, and the count is of facilities where the platform was rolled out, not of facilities shown to be entering reports.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "WHO states that its support, with UNICEF, IOM, GIZ, the International Rescue Committee, the International Medical Corps and UNFPA, enabled the nationwide DHIS2 rollout in 2023, including the ICT equipment given to trained staff; the report names no domestic budget for the platform and says WHO is urging the Government to make domestic resources available as donor funding falls.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO states that the five-year plan to strengthen Libya's health information system ended in 2022 with its objectives partly met, that the 2023 HIS workplan carried forward the expansion of DHIS2 across the country and the integration of vertical programmes' reporting into it, and that a joint WHO and Ministry of Health operational plan for 2024-2025 was endorsed in November 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO reports that DHIS2 reached a 100% implementation rate nationwide during 2023 after rollout in a further 40 municipalities, with about 7 million people living in areas that use it; integration of civil registration and vital statistics reporting into DHIS2 was planned for 2024.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "District Health Information Software 2 (DHIS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health with WHO and partners",
+      "tiers": "Public PHC facilities, hospitals and municipal health administration; 465 PHC facilities and 51 hospitals in 40 municipalities in 2023; 100% of municipalities"
+    },
+    {
+      "system": "HeRAMS",
+      "country_label": "Health Resources and Services Availability Monitoring System",
+      "class": "single-function",
+      "platform": "HeRAMS",
+      "owner": "Ministry of Health (adopted end of 2022), with WHO",
+      "tiers": "Hospital level across Libya in 2023; PHC facilities planned for 2024"
+    },
+    {
+      "system": "EWARN",
+      "country_label": "Early Warning and Response Network",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Centre for Disease Control with WHO",
+      "tiers": "326 reporting health facilities in 2023, up from 180 in 2021"
+    },
+    {
+      "system": "RASED",
+      "country_label": "RASED",
+      "class": "single-function",
+      "platform": "RASED, developed by a local company",
+      "owner": "National Centre for Disease Control",
+      "tiers": "Adopted by consensus in December 2023 for integrated disease surveillance; pilot planned in 10 municipalities in early 2024"
+    },
+    {
+      "system": "EMFLU-2",
+      "country_label": "Eastern Mediterranean Flu Network 2",
+      "class": "single-function",
+      "platform": "EMFLU-2",
+      "owner": "National Centre for Disease Control with WHO",
+      "tiers": "Planned for 2024 at 11 influenza sentinel sites and assigned laboratories"
+    },
+    {
+      "system": "EPI data management systems",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Centre for Disease Control, Expanded Programme on Immunization",
+      "tiers": "Municipality supervisors and data managers (115 trained in 2023)"
+    }
+  ],
+  "note": ""
+}

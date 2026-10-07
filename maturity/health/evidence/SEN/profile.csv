@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,hmis,governance,qualifier,owner:ministry,2021-12-31,SEN-024,SEN-022=owner:ministry,nothing dated since 2023-10-06
-SEN,hmis,tiers,coverage,T4,2018,SEN-021,,nothing dated since 2023-10-06
-SEN,hmis,digitised,coverage,district,2021-12-31,SEN-025,SEN-020=facility,nothing dated since 2023-10-06
-SEN,hmis,last12,qualifier,,,,,nothing held
+SEN,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-11,SEN-036;SEN-038;SEN-051,SEN-050=plan:current;SEN-024=owner:ministry;SEN-058=owner:ministry;SEN-059=finance:donor;SEN-022=owner:ministry,
+SEN,hmis,tiers,coverage,T1;T2;T3;T4,2021-03-02,SEN-056,SEN-021=T4,nothing dated since 2023-09-28
+SEN,hmis,digitised,coverage,district,2021-12-31,SEN-025,SEN-057=facility;SEN-020=facility,nothing dated since 2023-09-28
+SEN,hmis,last12,qualifier,regressing,2025-12-11,SEN-035;SEN-039;SEN-043;SEN-044;SEN-049,,
 SEN,hmis,clinics,coverage,,,,,nothing held
-SEN,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-08,SEN-001;SEN-032;SEN-033,SEN-029=plan:current;SEN-014=plan:current;SEN-013=finance:donor;SEN-002=plan:current;SEN-003=finance:donor;SEN-015=plan:current;SEN-016=finance:donor;SEN-019=plan:current;SEN-026=plan:current;SEN-027=owner:ministry;SEN-028=finance:not-stated,
-SEN,emr,tiers,coverage,T3;T4,2025-10-31,SEN-011;SEN-017;SEN-031,,
-SEN,emr,digitised,coverage,paper,2018,SEN-023,,nothing dated since 2023-10-06
-SEN,emr,last12,qualifier,no-change,2025-12,SEN-034,SEN-012=advancing,
+SEN,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-08,SEN-001;SEN-032;SEN-033,SEN-029=plan:current;SEN-037=finance:donor;SEN-014=plan:current;SEN-013=finance:donor;SEN-002=plan:current;SEN-003=finance:donor;SEN-015=plan:current;SEN-016=finance:donor;SEN-040=plan:current;SEN-041=owner:ministry;SEN-019=plan:current;SEN-054=finance:donor;SEN-055=owner:ministry;SEN-047=owner:ministry;SEN-026=plan:current;SEN-027=owner:ministry;SEN-028=finance:not-stated;SEN-052=plan:current,
+SEN,emr,tiers,coverage,T2;T3;T4,2025-10-31,SEN-011;SEN-017;SEN-031;SEN-045,,
+SEN,emr,digitised,coverage,point-of-care,2024-11,SEN-046,SEN-023=paper,
+SEN,emr,last12,qualifier,no-change,2025-12,SEN-034,SEN-012=advancing;SEN-042=advancing;SEN-053=advancing;SEN-048=advancing,
 SEN,emr,clinics,coverage,share:1%,2025-10-31,SEN-010;SEN-030,SEN-018=count:2,

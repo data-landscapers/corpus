@@ -1,0 +1,12 @@
+{
+  "slug": "2020-07-17-rwa-health-management-information-system-hmis-data-verification-a-case-stu",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "Nshimyiryo and others (PLOS ONE) describe the 2017 reporting routine: heads of service fill paper HMIS forms from registers by the 3rd of the month and the facility's own data manager uploads the facility's data into DHIS 2 by the 5th, with corrections by the facility team allowed until the 15th.", "as_of": "2017", "date_precision": "year", "system": "Rwanda HMIS (DHIS 2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T2;T3", "fact": "The study compared HMIS reports with registers for April to September 2017 in 76 Ministry-operated facilities in four districts, 7 district or provincial hospitals and 69 health centres (14% of 499 health centres and 15% of 48 hospitals nationally); between 85.5% and 100% of them had complete HMIS reports for the three months, by data element.", "as_of": "2017", "date_precision": "year", "system": "Rwanda HMIS (DHIS 2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The authors state that the Ministry of Health upgraded the HMIS, established in 1998, to web-based DHIS2 from 2012, that a national HMIS team at the Ministry extracts its data, and that any change to reported data after the 15th of the month needs the central Ministry's approval.", "as_of": "2017", "date_precision": "year", "system": "Rwanda HMIS (DHIS 2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Rwanda HMIS (DHIS 2)", "country_label": "Rwanda HMIS", "class": "hmis", "platform": "DHIS2 (web-based, since 2012)", "owner": "Rwanda Ministry of Health", "tiers": "routinely collected data from community health workers and all health facilities across the country; studied in 7 hospitals and 69 health centres"}
+  ],
+  "note": "Peer-reviewed data verification study of 14 maternal and newborn data elements. No clinics fact: its 69 health centres are an intervention sample, not a count of clinics entering data. Verification results: acceptable factors in 75 of 76 facilities for deliveries and 66 of 69 for ANC new registrants, but 17 of 68 for the first standard ANC visit and 12 of 69 for the fourth."
+}

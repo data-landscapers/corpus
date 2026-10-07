@@ -1,0 +1,34 @@
+{
+  "slug": "2024-01-01-lby-national-comprehensive-health-care-programme-and-health-number-system",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Libya Herald reports that the National Centre for Health System Reform, under the Ministry of Health's supervision, launched the National Comprehensive Health Care Programme and the Health Number System in Tripoli in January 2024; its director general called the project the ministry's strategic option for implementing the electronic health file and a referral system from primary health care centres to hospitals, beginning with a first applied model in Abu Sleem municipality. The report does not say the electronic file is in use anywhere.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "Electronic health file",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic health file",
+      "country_label": "electronic health file",
+      "class": "emr",
+      "platform": "",
+      "owner": "National Centre for Health System Reform, under the Ministry of Health",
+      "tiers": "Not stated as in use; to be implemented through the Comprehensive Health Care project in health centres, first applied model in Abu Sleem municipality"
+    },
+    {
+      "system": "Health Number System",
+      "country_label": "Health Number System",
+      "class": "",
+      "platform": "",
+      "owner": "National Centre for Health System Reform, under the Ministry of Health",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": ""
+}

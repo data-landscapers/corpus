@@ -1,0 +1,36 @@
+{
+  "slug": "2025-01-01-caf-facility-newborn-and-stillbirth-data-use-and-enabling-factors-at-diffe",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:21.4%",
+      "fact": "The IMPULSE study (Journal of Global Health 2025) found that 21.4% of the 14 health facilities it assessed in the Central African Republic used a functional electronic system for routine data entry and analysis, against over 75% in Ethiopia, Tanzania and Uganda; the 14 were hospitals and health centres giving emergency obstetric care in Bangui and health regions 1, 2 and 7, chosen for access and security, with data collected between November 2022 and July 2024.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "electronic routine health information system (RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The IMPULSE study found a functional electronic system for data entry and analysis in 83.3% of the 6 district health offices it assessed in the Central African Republic, against 21.4% of the 14 facilities, and states that all data offices used DHIS2 for key data analysis; data collected between November 2022 and July 2024.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "District Health Information Software 2 (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "District Health Information Software 2 (DHIS2)",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "district health offices (all assessed data offices used it for key data analysis); 21.4% of 14 assessed facilities used an electronic system, not named"
+    }
+  ],
+  "note": ""
+}

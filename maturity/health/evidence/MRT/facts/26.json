@@ -1,0 +1,78 @@
+{
+  "slug": "2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's PNDS 2021-2030 carries a SNIS component (4.6.1) targeting a health information system performance index of 80% by 2030, commits to a SNIS strategic plan to 2030 with operational plans of 4 to 5 years following the 2017-2020 SNIS plan, and requires all PNDS indicators to be included in DHIS2; it costs the sub-programme for health information, research and digital health at 662,938,000 in total, the currency and column headings not being legible in the passages; dated to publication, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "SNIS / DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The PNDS 2021-2030 states that the Ministry of Health, with its partners' support, put in place DHIS2 as a platform integrating all health system data in one national warehouse, after adopting a SNIS strengthening strategy in 2014 and moving the local entry and reporting database Maurisis to a web version, and that migration to online DHIS2 improved the availability and accessibility of data; the SNIS is a ministry programme created by ministerial order; dated to publication, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "SNIS / DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The PNDS 2021-2030 plans the integration of the public hospital sector into the SNIS through the development of the electronic medical record, and the piloting and scaling up of electronic medical record projects with telehealth and distance training, while stating that digital health is under-developed; dated to publication, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "dossier médical électronique",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SNIS",
+      "country_label": "Système national d'information sanitaire (SNIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health (programme SNIS)",
+      "tiers": "not stated; private sector, community level and public hospitals still to be integrated"
+    },
+    {
+      "system": "Maurisis",
+      "country_label": "Maurisis",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "local database for SNIS data entry and reporting, moved to a web version; tiers not stated"
+    },
+    {
+      "system": "dossier médical électronique",
+      "country_label": "dossier médical électronique",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned; pilots to be run and scaled up"
+    },
+    {
+      "system": "mHealth pour la santé communautaire",
+      "country_label": "mHealth",
+      "class": "community",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned; pilots to be run and scaled up"
+    },
+    {
+      "system": "SIMR",
+      "country_label": "Surveillance intégrée de la maladie et de la riposte",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The situational analysis states that several SNIS evaluations found low completeness and timeliness and poor, discordant data, caused chiefly by parallel data systems and multiple reporting, and lists insufficient computerisation among the system's weaknesses; it gives no tier, no place of data entry, no figure for facilities reporting and no source of finance for the SNIS, so no coverage or finance fact is taken. SIMR appears only in the abbreviations list."
+}

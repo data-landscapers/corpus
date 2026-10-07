@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-caf-facility-newborn-and-stillbirth-data-use-and-enabling-factors-at-diffe",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The IMPULSE study (J Glob Health 2025), assessing 27 Tanzanian facilities that give comprehensive emergency obstetric care, from national hospital to health centre, between November 2022 and July 2024, reports that over 75% of facilities in Tanzania used a functional electronic system for entry and analysis of routine data; it gives no exact Tanzanian percentage, the sample was chosen for practicality and holds no dispensaries.", "as_of": "2024", "date_precision": "year", "system": "routine health information system (RHIS), electronic systems at facilities", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The IMPULSE study reports that all 17 Tanzanian subnational data offices assessed between November 2022 and July 2024 (district health offices, including 3 regional health bureaus) had a functional electronic system for data entry and analysis, and that all data offices used DHIS2 for key data analysis.", "as_of": "2024", "date_precision": "year", "system": "DHIS2 (routine health information system)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (routine health information system)", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "all 17 Tanzanian district and regional data offices in the sample; over 75% of the 27 sampled facilities used an electronic system, the platform at facilities not named"}
+  ],
+  "note": "A four-country study; only the Tanzanian figures are taken. No breakdown by facility level is given for Tanzania, so there is no tiers fact, and the sample (hospitals and health centres with CEmOC, picked for access) is not a share of primary clinics, so there is no clinics fact. Fieldwork ran 2022-11 to 2024-07; as_of takes its last year. Also stated for Tanzania: national RHIS strategic plan available in 33.3% of facilities and 70.6% of data offices."
+}

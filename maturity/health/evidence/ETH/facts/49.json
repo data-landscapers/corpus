@@ -1,0 +1,98 @@
+{
+  "slug": "2024-12-06-eth-request-of-expression-of-interest-eoi-development-and-implementation-o",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:70",
+      "fact": "The Ministry of Health states that electronic medical records have been introduced in over 70 health facilities over the last three years, 10 of them now operating entirely paperless; the type or tier of facility and the total are not given, and the date is the document's own.",
+      "as_of": "2024-12-06",
+      "date_precision": "day",
+      "system": "Electronic Medical Records (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The Ministry of Health states that 10 of the more than 70 facilities with electronic medical records operate entirely paperless and that the EMR records medical treatments but not the associated cash payments; the date is the document's own.",
+      "as_of": "2024-12-06",
+      "date_precision": "day",
+      "system": "Electronic Medical Records (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health presents the introduction of electronic medical records as a milestone of its own digital health work, and its Digital Health Executive Office is the contracting body for the payment solution to be integrated with the EMR; the date is the document's own.",
+      "as_of": "2024-12-06",
+      "date_precision": "day",
+      "system": "Electronic Medical Records (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health states that the health sector has a Digital Health Strategy aligned with the Digital Transformation Strategy 2025 and a Digital Health Blueprint whose four pillars include point of care data exchange, under which EMR introduction is reported as progress; the date is the document's own.",
+      "as_of": "2024-12-06",
+      "date_precision": "day",
+      "system": "Electronic Medical Records (EMR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "count:33000",
+      "fact": "The Ministry of Health, citing its Digital Health Executive Report (2024), states that DHIS2 is now implemented across more than 33,000 health facilities; the facility types and the denominator are not given.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Records (EMR)",
+      "country_label": "EMR",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "over 70 health facilities, 10 paperless; tier not stated"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "Health Information System 2 (DHIS2)",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "more than 33,000 health facilities"
+    },
+    {
+      "system": "Electronic Community Health Information System (eCHIS)",
+      "country_label": "eCHIS",
+      "class": "community",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "over 8,000 health extension workers"
+    },
+    {
+      "system": "CBHI claim management",
+      "country_label": "offline, Excel-based claim management for Community-Based Health Insurance",
+      "class": "single-function",
+      "platform": "Excel",
+      "owner": "",
+      "tiers": "health facilities"
+    },
+    {
+      "system": "telemedicine services",
+      "country_label": "telemedicine services",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The document names DHIS2 with no description of what it does, so its systems entry has an empty class; the 33,000 count is recorded under hmis for the parent to keep or drop on that ground. Neither count is a count of primary clinics as such."
+}

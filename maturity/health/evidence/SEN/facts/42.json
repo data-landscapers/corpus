@@ -1,0 +1,49 @@
+{
+  "slug": "2025-01-01-sen-digitalisation-hospitaliere-le-centre-hospitalier-regional-thierno-bir",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "The health ministry states that the computerised patient record (DPI) has been in use since November 2024 at the Thierno Birahim Ndao regional hospital in Kaffrine, one of the establishments the ministry chose as pilots, and the hospital's director says more than 26,000 patients have been registered on the platform since; the page is undated and does not say as at when the count stood.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Dossier Patient Informatisé (DPI)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The health ministry states that at the Kaffrine regional hospital the patient is created in the system at registration, the doctor enters observations directly into it after the consultation, and prescriptions, reports and test requests are generated from it and kept in the record's history; each patient has a single record that any professional can consult in real time in whichever service of the hospital the patient attends, and retrieval at another facility is not stated. In place since November 2024.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Dossier Patient Informatisé (DPI)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The health ministry states that it chose the Kaffrine regional hospital as one of the pilots for the computerised patient record and that Senegal aims to generalise the record to all its health facilities; the page is undated, so the go-live month it gives, November 2024, is used.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Dossier Patient Informatisé (DPI)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The computerised patient record went live at the Kaffrine regional hospital in November 2024, on the health ministry's account, as one of the ministry's pilot sites.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Dossier Patient Informatisé (DPI)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Dossier Patient Informatisé (DPI)", "country_label": "Dossier Patient Informatisé (DPI)", "class": "emr", "platform": "", "owner": "Ministère de la Santé et de l'Hygiène publique", "tiers": "Thierno Birahim Ndao regional hospital, Kaffrine, a pilot site; outpatient consultation, laboratory, imaging, cardiology and billing"}
+  ],
+  "note": ""
+}

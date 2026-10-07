@@ -1,0 +1,58 @@
+{
+  "slug": "2023-10-18-syc-digital-maturity-of-seychelles-health-sector-in-the-spotlight",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Seychelles Nation reports the health minister saying on 17 October 2023 that the Ministry of Health is investing in an Electronic Health Information System encompassing Electronic Medical Records, to be accessible to all health professionals throughout the system, is building its capacity to use it, and is working with the ICT department on the security of citizens' health information.",
+      "as_of": "2023-10-17",
+      "date_precision": "day",
+      "system": "Electronic Health Information System",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Health Information System",
+      "country_label": "Electronic Health Information System",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated; to be accessible to all health professionals throughout the system"
+    },
+    {
+      "system": "Disease surveillance system",
+      "country_label": "disease surveillance system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Laboratory digital platforms",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Imaging department digital platforms",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Stock management digital platform",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "The access of all health professionals to the records is stated as an intention, so no tiers or digitised fact is taken. The minister says the National Health Strategic Plan 2022-2026 underscores IT solutions as an enabler but the article does not say the plan names the system, so no plan fact. The article says only that surveillance, laboratories and imaging have used digital platforms for some time."
+}

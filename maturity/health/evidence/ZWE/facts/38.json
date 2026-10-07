@@ -1,0 +1,96 @@
+{
+  "slug": "2021-01-01-zwe-national-health-strategy-2021-2025",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health and Child Care's National Health Strategy 2021-2025 commits to supporting the deployment of the electronic health record (Impilo) system, alongside health ICT infrastructure and broadband connectivity at all levels and a start on digitising the community health strategy; no costing is in the passages, and the strategy's published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Impilo Electronic Health Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The ministry's own strategy lists the Impilo Electronic Health Record among its routine patient-level reporting systems and takes its deployment as a ministry undertaking; the strategy's published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Impilo Electronic Health Record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Health Strategy 2021-2025 names DHIS2 among the ministry's routine aggregate systems for monitoring and evaluation and plans an Electronic Logistics Management Information System linked to the electronic health record and DHIS2, with private facilities' consumption linked separately; the strategy's published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The strategy cites 'MoHCC DHIS2 2019' as the source of its service figures and lists DHIS2 among the ministry's own routine aggregate systems; the strategy's published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Impilo Electronic Health Record",
+      "country_label": "electronic health record (Impilo) system",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "not stated in the passages"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 / HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "not stated in the passages"
+    },
+    {
+      "system": "Electronic Logistics Management Information System (eLMIS)",
+      "country_label": "eLMIS; LMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "not stated; planned to link to the electronic health record and DHIS2 and to private sector facilities"
+    },
+    {
+      "system": "ePMS",
+      "country_label": "ePMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "NEAMS",
+      "country_label": "NEAMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "HRIS",
+      "country_label": "HRIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only, 745 words of 57,641, most of them the contents page and acronym list; the sections on the health information system itself are not in them. Nothing in the passages gives tiers, where data is digitised, a count of facilities or a funder. DHIS2 is classed hmis because the strategy calls it an aggregate routine system and draws service counts from it. ePMS is called a patient-level system with no description of what it does, and NEAMS and HRIS are named without description; PFMS, the public finance system, is not a health information system and is left out. The strategy also says routine health information system data is insufficient for some conditions."
+}

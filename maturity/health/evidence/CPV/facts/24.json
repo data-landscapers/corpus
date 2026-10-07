@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01-oms-resultados-cooperacao-tecnica-cabo-verde-2024-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação em Saúde (SIS)", "country_label": "Sistema de Informação em Saúde (SIS)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "Sistema de certificação de óbito e notificação de causas de morte", "country_label": "Sistema de certificação de óbito e notificação de causas de morte", "class": "single-function", "platform": "", "owner": "", "tiers": "computers delivered to all delegacias (municipal level) for timely registration"},
+    {"system": "Observatório Nacional de Saúde", "country_label": "Observatório Nacional de Saúde", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact: the WHO biennial report names the SIS (assessed at 55% maturity, baseline, 2024-2025) and says the Estratégia Nacional de Saúde Digital 2024-2034 was published as the framework for modernising it, but never describes what the SIS does, so it cannot be classed hmis or emr; DHIS2 appears only as 'start of use' beside ICD-11 tools under death certification, and the National Health Observatory only as operational and made interoperable with the Regional Observatory."
+}

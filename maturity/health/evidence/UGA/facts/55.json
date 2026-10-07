@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-caf-facility-newborn-and-stillbirth-data-use-and-enabling-factors-at-diffe",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The IMPULSE study (J Glob Health 2025), assessing 20 district health offices in Uganda between November 2022 and July 2024, found 95% had a functional electronic system for data entry and analysis, and that all data offices used DHIS2 as the platform for key data analysis; sites were chosen purposively and are not nationally representative.", "as_of": "2024", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The IMPULSE study (J Glob Health 2025) found that over 75% of the 28 Ugandan facilities it assessed between November 2022 and July 2024 used a functional electronic system for routine data entry and analysis; the facilities were comprehensive emergency obstetric care sites from national hospitals to health centres, purposively chosen, and the exact Uganda share is in the supplement only.", "as_of": "2024", "date_precision": "year", "system": "Electronic routine health information system (not named at facility level)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "All district health offices assessed (20 in Uganda) used it for key data analysis"}
+  ],
+  "note": "Four-country study; only the Uganda figures are taken. No tier breakdown of the Ugandan facilities is given in the body, so no tiers or clinics fact."
+}

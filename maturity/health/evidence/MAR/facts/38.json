@@ -1,0 +1,70 @@
+{
+  "slug": "2024-12-01-mar-politiques-publiques-en-matiere-de-la-sante-et-de-la-protection-social",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The government states that the integrated hospital information system has been developed and deployed in all public hospitals of the twelve regions; the same passage calls the new system generalised nationally to health centres, dispensaries and private clinics while listing the primary care system as still being deployed. The document gives no date, so its published date is used.",
+      "as_of": "2024-12-01",
+      "date_precision": "day",
+      "system": "système d'information hospitalier intégré",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The government states that a specific information system for primary health care establishments is being put in place and is in the course of deployment, with no count or share of establishments; the document gives no date, so its published date is used.",
+      "as_of": "2024-12-01",
+      "date_precision": "day",
+      "system": "système d'information spécifique pour les établissements de soins de santé primaires",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The government states that the national integrated health information system is set up by the Ministry of Health and Social Protection, which has signed a tripartite convention on it with the national police directorate (DGSN) and the data protection commission (CNDP); the document gives no date, so its published date is used.",
+      "as_of": "2024-12-01",
+      "date_precision": "day",
+      "system": "système d'information intégré de santé nationale",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système d'information intégré de santé nationale",
+      "country_label": "système d'information intégré de santé nationale, with its dossier patient partagé (DPP)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Social Protection",
+      "tiers": "operational in the main hospital centres; said to be generalised nationally to health centres, dispensaries and private clinics"
+    },
+    {
+      "system": "système d'information hospitalier intégré",
+      "country_label": "système d'information hospitalier intégré",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Social Protection",
+      "tiers": "all public hospitals of the twelve regions"
+    },
+    {
+      "system": "système d'information spécifique pour les établissements de soins de santé primaires",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Social Protection",
+      "tiers": "primary health care establishments, in the course of deployment"
+    },
+    {
+      "system": "plateformes interopérables",
+      "country_label": "interoperable platforms connecting the ministry's hospital information systems to a national database",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health and Social Protection",
+      "tiers": "ministry hospitals; project continuing"
+    }
+  ],
+  "note": "Passages only. Class emr is a judgement the parent should check: the passage says the national integrated system will give doctors access to the shared patient record (DPP) managed on a health identifier, alongside appointments, billing and prescriptions, but states this in the future tense and does not say in so many words that the hospital or primary care component holds the clinical record today; no digitised row is written for that reason. The passage contradicts itself on the primary tier (generalised nationally, and in the course of deployment), so tiers is held to hospitals."
+}

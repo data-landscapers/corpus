@@ -1,0 +1,13 @@
+{
+  "slug": "2021-12-22-som-somalia-health-sector-strategic-plan-20222026-hssp-iii",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The ministry's Health Sector Strategic Plan 2022-2026, dated 22 December 2021, commits the Federal Ministry of Health to a single reporting system on the updated DHIS2 and names the Health Information System Strategic Plan 2018-2022, of which it says there is little evidence of adequate implementation.", "as_of": "2021-12-22", "date_precision": "day", "system": "DHIS2 (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information Software (DHIS2)", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Federal Ministry of Health; routine system managed with strong support from a technical partner, unnamed", "tiers": "introduced in all districts in 2017; updated 2021"},
+    {"system": "Integrated Disease Surveillance and Response (IDSR) module", "country_label": "IDSR", "class": "single-function", "platform": "DHIS2", "owner": "Federal Ministry of Health", "tiers": "incorporated in the 2021 DHIS2 update"},
+    {"system": "Logistics information management system", "country_label": "logistics management module", "class": "single-function", "platform": "DHIS2", "owner": "Federal Ministry of Health", "tiers": "incorporated in the updated DHIS2, available for implementation in 2022"},
+    {"system": "Early Warning, Alert and Response Network (EWARN)", "country_label": "EWARN", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. The plan says the online DHIS2 platform for HMIS was introduced in all districts in 2017 and updated in 2021, but not which facility tiers use it nor where reports are keyed, so no tiers, digitised or clinics fact is taken. It says the routine system is managed with strong support from an unnamed technical partner and that lack of financing is a major reason for poor implementation, without naming an owner or a funding source, so no owner or finance fact. It adds that HMIS-based reports do not fully cover rural and nomadic communities. EWARN appears in the acronym list only."
+}

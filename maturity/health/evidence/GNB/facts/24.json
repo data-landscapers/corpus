@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-gnb-ine-anuario-estatisticas-vitais-2018-2022",
+  "facts": [],
+  "systems": [
+    {"system": "sistema de informação sanitária (DHIS2)", "country_label": "Sistema Nacional de Informação Sanitária", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated; the source INE used for deaths and causes of death in health structures, 2018 to 2022, and described in a recommendations table as a store of aggregate data"},
+    {"system": "RapidPro", "country_label": "plataforma de recolha de dados (RapidPro)", "class": "", "platform": "RapidPro", "owner": "", "tiers": "not stated; birth registration, beside paper civil registers"}
+  ],
+  "note": "Passages only. INE's vital statistics yearbook says it took deaths and their causes for 2018 to 2022 from the health information system (DHIS2), and a table fragment calls DHIS2 a store of aggregate data; it states nothing about tiers, where data is keyed, clinics, ownership or finance of that system. RapidPro and the paper civil registers are civil registration, not health reporting."
+}

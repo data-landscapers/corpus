@@ -1,0 +1,66 @@
+{
+  "slug": "2023-05-01-lso-effects-of-primary-healthcare-reform-on-routine-health-information-sys",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "A BMJ Open study (Partners In Health and Ministry of Health authors) reports health workers saying that under the primary health care reform pilot of July 2014 to June 2017 each health facility nurse in charge was given a computer and submitted the monthly report from the facility, where before the reform they waited for district staff to collect it; the registers themselves stayed on paper.",
+      "as_of": "2017-06",
+      "date_precision": "month",
+      "system": "routine health information system (RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T2;T3",
+      "fact": "A BMJ Open study covers monthly routine reporting by 60 health centres and 6 hospitals in the four pilot districts of Berea, Butha Buthe, Leribe and Mohale's Hoek over July 2013 to June 2017, and reports that facilities submitted their monthly reports electronically during the reform; it does not say what rank the hospitals hold.",
+      "as_of": "2017-06",
+      "date_precision": "month",
+      "system": "routine health information system (RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "A BMJ Open study reports electronic submission of monthly reports from facility computers in the four pilot districts of the reform, which held 66 facilities (60 health centres, 6 hospitals) and about 40% of the population, out of 10 districts; it gives no count of facilities that actually submitted that way and nothing for the other six districts.",
+      "as_of": "2017-06",
+      "date_precision": "month",
+      "system": "routine health information system (RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A BMJ Open study states that the Ministry of Health enhanced the routine health information systems as part of the reform it piloted with Partners In Health from 2014 to 2017, placing new data officers in the four district health management teams' strategic information divisions.",
+      "as_of": "2017-06",
+      "date_precision": "month",
+      "system": "routine health information system (RHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "A BMJ Open study reports that data clerks at Berea district health facilities were phased out a year after the reform's roll-out, which interviewees said demotivated facility staff; the roll-out being July 2014, the year is taken as 2015.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "routine health information system (RHIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "routine health information system (RHIS)",
+      "country_label": "RHIS; Health Management Information System",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health, with Partners In Health during the 2014-2017 pilot",
+      "tiers": "hospitals and health centres in four pilot districts; monthly reports to district health management teams and on to the central ministry"
+    }
+  ],
+  "note": "DHIS2 appears only as the study team's own tool for digitising paper registers on tablets between September 2017 and February 2018; the study never names the platform the facilities reported through, so platform is left empty. Community health workers' reports are on paper forms and give no fact. Every fact dates to 2017 or earlier, far outside the aspect windows. The completion rates (hospitals 85.8% to 97.3%, health centres 90.1% to 94.2%) measure paper registers and fit no aspect."
+}

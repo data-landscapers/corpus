@@ -1,0 +1,11 @@
+{
+  "slug": "2022-07-01-gmb-service-statistics-report-2021",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "The Ministry of Health's HMIS Unit states that its 2021 report, sourced to DHIS2, carries data from public, private and NGO facilities, community clinics, referral hospitals and the village health service, and tabulates 1,647,777 outpatient visits by service level from hospitals down to community clinics and health posts; it publishes HMIS reporting completeness of 80.3% and timeliness of 74.6% for 2021. The passages do not say where the reports are keyed.", "as_of": "2021", "date_precision": "year", "system": "Health Management Information System (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The 2021 service statistics report is produced from DHIS2 by the HMIS Unit of the Ministry of Health's Directorate of Planning and Information, which also runs quarterly supervision and data verification in all seven health regions, supported mainly by the Global Fund and UNICEF; WHO's country office funded the report's validation.", "as_of": "2021", "date_precision": "year", "system": "Health Management Information System (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (DHIS2)", "country_label": "HMIS", "class": "hmis", "platform": "DHIS2 (District Health Information System version 2)", "owner": "HMIS Unit, Directorate of Planning and Information, Ministry of Health", "tiers": "data reported from hospitals, district hospitals, major and minor health centres, community clinics and health posts, NGO and private facilities and the village health service"}
+  ],
+  "note": "Passages only: chapter 12 on timeliness and completeness is not among them, so only the headline rates in the key indicators table are available; nothing on where data is digitised or on how many clinics enter their own reports."
+}

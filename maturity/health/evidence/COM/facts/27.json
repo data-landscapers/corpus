@@ -1,0 +1,76 @@
+{
+  "slug": "2025-07-10-com-rapport-annuel-performances-et-perspectives-2024",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "WHO Comoros lists among the health information system's weaknesses before 2023 that DHIS2 had not been put in place at national scale, and says that before DHIS2 the data sat in scattered, non-centralised Excel files; it does not say reporting was on paper.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "In 2024, with WHO support, 170 health workers were trained in managing and analysing data in DHIS2 with the WHO Data Quality Tool built in, the first quarterly health information bulletins were published and the 2021 and 2022 health statistical yearbooks were produced; WHO Comoros says health structures and all districts can now see health information in real time.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS 2 / Système d'Information Sanitaire (SIS)",
+      "class": "hmis",
+      "platform": "DHIS2, with the WHO Data Quality Tool",
+      "owner": "not stated; the Direction de l'Information et des Statistiques Sanitaires (DISS) is named for a supervision tool, and WHO supports the Ministry of Health",
+      "tiers": "health structures and all districts have real-time access (2024); no tier named"
+    },
+    {
+      "system": "SIMR in DHIS2",
+      "country_label": "Surveillance Intégrée de la Maladie et de la Riposte (SIMR)",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "not stated; integrated and deployed with WHO technical and financial support",
+      "tiers": "100% of the country's health districts (2024)"
+    },
+    {
+      "system": "Registre électronique de vaccination (REV)",
+      "country_label": "registre électronique de vaccination (REV)",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "not stated; deployed in 2024 by the Ministry of Health with WHO and partners",
+      "tiers": "not stated; national extension is a next step, and uptake by health workers is described as weak"
+    },
+    {
+      "system": "ODK geolocation of suspected vaccine-preventable disease cases and adverse events",
+      "country_label": "système de géolocalisation des cas suspects de MEV et des MAPI",
+      "class": "single-function",
+      "platform": "ODK",
+      "owner": "not stated; deployed in 2024 with WHO support",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Kobo Collect, cholera vaccination campaign",
+      "country_label": "application Kobo Collect",
+      "class": "single-function",
+      "platform": "KoboCollect",
+      "owner": "not stated; government campaign with WHO and Gavi support",
+      "tiers": "oral cholera vaccination campaign on the three islands, 2024: real-time follow-up of vaccinations and side effects"
+    },
+    {
+      "system": "Cholera digital case register and dashboard",
+      "country_label": "registre numérique pour le suivi en temps réel des cas de choléra",
+      "class": "single-function",
+      "platform": "not stated",
+      "owner": "Ministry of Health, with WHO support",
+      "tiers": "cholera response 2024; local teams trained in data entry and analysis"
+    }
+  ],
+  "note": ""
+}

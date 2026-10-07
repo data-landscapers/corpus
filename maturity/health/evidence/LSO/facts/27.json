@@ -1,0 +1,60 @@
+{
+  "slug": "2022-05-12-lso-millennium-challenge-compact-between-the-united-states-of-america-acti",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The MCC compact with Lesotho of 12 May 2022 funds, under its Digital Health Services Activity, the expansion of the e-Register, which it says is currently limited to HIV and tuberculosis patients, into a national electronic medical record system covering all primary health care patients and linked to their national identification documents; no amount is given in the passages read.",
+      "as_of": "2022-05-12",
+      "date_precision": "day",
+      "system": "national electronic medical record system (planned expansion of the e-Register)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The MCC compact with Lesotho of 12 May 2022 states that its health project builds on PEPFAR, USAID and CDC work on the e-Register and its connection to DHIS2, which it calls the national health information system, and will extend both, funding the integration, extension and improvement of the existing health management system; no amount is given in the passages read.",
+      "as_of": "2022-05-12",
+      "date_precision": "day",
+      "system": "national health information system (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Register",
+      "country_label": "e-Register IT system",
+      "class": "tracker",
+      "platform": "",
+      "owner": "built with PEPFAR, USAID and CDC support",
+      "tiers": "not stated; limited to HIV and tuberculosis patients; connected to DHIS2"
+    },
+    {
+      "system": "national electronic medical record system (planned expansion of the e-Register)",
+      "country_label": "national electronic medical record system; standardized, transferable patient record system",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health, funded by MCC",
+      "tiers": "planned for all primary health care patients"
+    },
+    {
+      "system": "national health information system (DHIS2)",
+      "country_label": "national health information system; DHIS2; health management system; HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "not stated; health centre staff are to be enabled to report village health worker data into it"
+    },
+    {
+      "system": "DHMT financial management systems",
+      "country_label": "financial management systems at DHMT level",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Finance and Ministry of Health",
+      "tiers": "to be extended to district health management teams"
+    }
+  ],
+  "note": "Passages only, of a 34,266-word compact. The e-Register as it stood in May 2022 is classed tracker on the compact's own words (HIV and tuberculosis patients only), so it gives no emr fact; the two facts record who pays for what is planned. DHIS2 is classed hmis on 'national health information system' and 'aggregate patient data', the compact describing no module. No tiers, digitised or clinics statement appears in the passages."
+}

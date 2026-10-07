@@ -1,0 +1,46 @@
+{
+  "slug": "2024-07-23-mar-19-50",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Nichan reports, from tender data it obtained, that the health ministry is preparing to buy and install a national smart health system built on a shared patient file, to manage patients' passage through health establishments and share the data in real time, sized for 50 million patient files, at an estimated 189,999,000 dirham under an open international tender whose bids open on 12 September 2024; the article's date is used.",
+      "as_of": "2024-07-23",
+      "date_precision": "day",
+      "system": "national smart health system (shared patient file)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "Nichan reports the ministry's estimated cost of about 190 million dirham for the national shared patient file system and does not state the source of the financing; the article's date is used.",
+      "as_of": "2024-07-23",
+      "date_precision": "day",
+      "system": "national smart health system (shared patient file)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "Nichan reports that the tender itself records the absence of a shared national patient register, with poor coordination between actors, repeated examinations and lost or inaccessible medical information as consequences; the system is not yet bought. The article's date is used.",
+      "as_of": "2024-07-23",
+      "date_precision": "day",
+      "system": "national smart health system (shared patient file)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national smart health system (shared patient file)",
+      "country_label": "نظام صحي وطني ذكي (national smart health system), on a nationally shared patient file",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Social Protection",
+      "tiers": "not yet in use; to cover health establishments nationwide"
+    }
+  ],
+  "note": "Arabic-language news report of tender data, not the tender notice; the article's date is a proxy in the source's own frontmatter. tiers:none records the stated absence of a shared national patient record, not the absence of facility-level records, on which the article is silent."
+}

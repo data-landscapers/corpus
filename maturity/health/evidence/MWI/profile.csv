@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,hmis,governance,qualifier,owner:ministry;plan:current,2026-06-21,MWI-006;MWI-039,MWI-013=owner:ministry;MWI-023=owner:ministry;MWI-038=owner:partner,not stated: finance
-MWI,hmis,tiers,coverage,,,,,nothing held
-MWI,hmis,digitised,coverage,district,2023-08,MWI-022;MWI-036,,nothing dated since 2023-10-06
-MWI,hmis,last12,qualifier,advancing,2025-12,MWI-014,,
-MWI,hmis,clinics,coverage,pilot,2021-07,MWI-037,,nothing dated since 2023-10-06
-MWI,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-03,MWI-001;MWI-016;MWI-026,MWI-019=owner:ministry;MWI-015=owner:ministry;MWI-020=owner:ministry;MWI-025=owner:ministry;MWI-027=finance:donor;MWI-029=owner:ministry;MWI-034=owner:partner;MWI-035=finance:donor,
-MWI,emr,tiers,coverage,T1;T3,2026-09-03,MWI-002;MWI-018;MWI-028,MWI-032=T3,
+MWI,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06-21,MWI-006;MWI-039;MWI-058,MWI-013=owner:ministry;MWI-023=owner:ministry;MWI-041=owner:ministry;MWI-047=owner:ministry;MWI-059=owner:ministry;MWI-038=owner:partner,
+MWI,hmis,tiers,coverage,T3,2023,MWI-048,MWI-042=T1;T2;T3,
+MWI,hmis,digitised,coverage,district,2024-12-06,MWI-022;MWI-036;MWI-043,MWI-049=facility,
+MWI,hmis,last12,qualifier,advancing,2025-12,MWI-014;MWI-051;MWI-060,MWI-046=regressing,
+MWI,hmis,clinics,coverage,pilot,2022-11,MWI-037;MWI-044,MWI-040=not-published;MWI-050=not-published;MWI-061=not-published;MWI-045=not-published,
+MWI,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-03,MWI-001;MWI-016;MWI-026,MWI-019=owner:ministry;MWI-015=owner:ministry;MWI-020=owner:ministry;MWI-025=owner:ministry;MWI-027=finance:donor;MWI-029=owner:ministry;MWI-052=owner:ministry;MWI-054=finance:donor;MWI-062=plan:none;MWI-053=plan:current;MWI-034=owner:partner;MWI-035=finance:donor,
+MWI,emr,tiers,coverage,T1;T3,2026-09-03,MWI-002;MWI-018;MWI-028;MWI-055,MWI-032=T3,
 MWI,emr,digitised,coverage,shared,2026-09-03,MWI-003,MWI-024=paper;MWI-033=point-of-care,
-MWI,emr,last12,qualifier,advancing,2026-09-03,MWI-004;MWI-007;MWI-017;MWI-021;MWI-030,,
-MWI,emr,clinics,coverage,pilot,2026-09-03,MWI-005;MWI-031,,
+MWI,emr,last12,qualifier,advancing,2026-09-03,MWI-004;MWI-007;MWI-017;MWI-021;MWI-030;MWI-057,,
+MWI,emr,clinics,coverage,pilot,2026-09-03,MWI-005;MWI-031;MWI-056,,

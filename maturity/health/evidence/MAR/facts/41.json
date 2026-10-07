@@ -1,0 +1,46 @@
+{
+  "slug": "2024-04-23-mar-details-de-l-avis-d-achat-prestation-d-assistance-technique-liee-au-sy",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "keyed-afterwards",
+      "fact": "A purchase notice put online on 23 April 2024 by the health ministry's delegate for Taounate province buys 19,200 working hours of technical assistance to key the HOSIX database of patient files for users of the province's primary health care establishments, local emergency units, reproductive health reference centre and birthing houses, by contracted staff holding a secretarial, IT or management diploma rather than by clinicians.",
+      "as_of": "2024-04-23",
+      "date_precision": "day",
+      "system": "HOSIX",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "The Taounate purchase notice of 23 April 2024 places the HOSIX patient-file database in the province's primary health care establishments, local emergency units, reproductive health reference centre and birthing houses; it gives no count of establishments and covers one province.",
+      "as_of": "2024-04-23",
+      "date_precision": "day",
+      "system": "HOSIX",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The public buyer of the HOSIX data-entry service for Taounate's primary care patient files is the provincial delegate of the Ministry of Health and Social Protection, who assigns the contracted staff to posts, on a notice of 23 April 2024 with quotations due 30 April 2024; the notice states no price or budget line.",
+      "as_of": "2024-04-23",
+      "date_precision": "day",
+      "system": "HOSIX",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "HOSIX",
+      "country_label": "Système d'Information (HOSIX), holding the patient files of primary care users",
+      "class": "emr",
+      "platform": "HOSIX",
+      "owner": "Ministry of Health and Social Protection, Taounate provincial delegation",
+      "tiers": "primary health care establishments, local emergency units, the reproductive health reference centre and birthing houses of Taounate province"
+    }
+  ],
+  "note": "A procurement notice for one province. The notice names primary health care establishments (ESSP) without dividing health centres from dispensaries, so tiers is given as T3;T4 for the primary tier as a whole. keyed-afterwards rests on the notice buying data-entry labour for the patient-file database; it does not say whether clinicians also enter data at the consultation."
+}

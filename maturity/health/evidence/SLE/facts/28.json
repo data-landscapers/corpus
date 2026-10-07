@@ -1,0 +1,17 @@
+{
+  "slug": "2026-04-01-sle-pih-emr-maternal-center-of-excellence-case-study",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "OpenMRS's case study states that Koidu Government Hospital in Kono District, a referral centre, uses the PIH EMR for mental health, triage, vitals, non-communicable diseases and maternal and child health, and across all inpatient wards of its Maternal Center of Excellence, opened 14 February 2026.", "as_of": "2026-04", "date_precision": "month", "system": "PIH EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T4", "fact": "OpenMRS's case study states that the PIH EMR has run at Wellbody Clinic since 2015 and since 2020 is used by nearly every department there, including primary care, mental health, NCDs, maternal and child health, laboratory and pharmacy, replacing the clinic's paper records for about 200 patients a day; the document calls the facility a clinic and gives no tier.", "as_of": "2020", "date_precision": "year", "system": "PIH EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "OpenMRS's case study states that the EMR at the Maternal Center of Excellence in Koidu is entered at the point of care, with retrospective entry also possible, and that real-time entry at the point of care is a goal of the PIH EMR.", "as_of": "2026-04", "date_precision": "month", "system": "PIH EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "OpenMRS's case study states that the PIH EMR was introduced to the maternity ward of Koidu Government Hospital in July 2025.", "as_of": "2025-07", "date_precision": "month", "system": "PIH EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "OpenMRS's case study states that the Maternal Center of Excellence on the Koidu Government Hospital campus opened on 14 February 2026 with the EMR covering all its inpatient wards.", "as_of": "2026-02-14", "date_precision": "day", "system": "PIH EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:partner", "fact": "OpenMRS's case study describes the EMR as Partners In Health's own OpenMRS distribution, supporting PIH-supported facilities and developed by PIH's EMR teams in Sierra Leone and Boston.", "as_of": "2026-04", "date_precision": "month", "system": "PIH EMR", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:1", "fact": "OpenMRS's case study names one clinic in Sierra Leone using the PIH EMR, Wellbody Clinic, and gives no denominator; the date is the document's published date, the document giving none for the count.", "as_of": "2026-04", "date_precision": "month", "system": "PIH EMR", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "PIH EMR", "country_label": "PIH EMR; Wellbody EMR; KGH EMR", "class": "emr", "platform": "OpenMRS (PIH EMR distribution; first built on Bahmni in 2015)", "owner": "Partners In Health, with the Ministry of Health", "tiers": "Wellbody Clinic; Koidu Government Hospital and its Maternal Center of Excellence, Kono District"},
+    {"system": "Laboratory Information System (LIMS)", "country_label": "LIMS", "class": "single-function", "platform": "", "owner": "Partners In Health", "tiers": "planned, to be integrated with the PIH EMR"}
+  ],
+  "note": ""
+}

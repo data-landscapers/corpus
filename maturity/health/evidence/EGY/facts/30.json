@@ -1,0 +1,140 @@
+{
+  "slug": "2024-01-01-egy-mohp-national-health-strategy-2024-2030",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Egypt's National Health Strategy 2024-2030 names a unified electronic medical record among its key actions: hospitals of all service providers are to be automated to align with it, and operational systems are to automate all primary care units in governorates inside and outside Universal Health Insurance to support it, measured by the percentage of automated units and of compliance with the record; these are planned actions with no figure of present use, and the document gives no date, so the published date is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Unified electronic medical record",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Health Strategy 2024-2030 lists the Ministry of Health and Population as key implementer in the action table that carries the unified electronic medical record and the automation of hospitals and primary care units to support it; the passage's table is flattened in extraction, so the pairing of implementer to action is read from position, and the document gives no date, so the published date is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Unified electronic medical record",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Unified electronic medical record",
+      "country_label": "Unified electronic medical record",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": "Planned: hospitals of all service providers and all primary care units, in UHI and non-UHI governorates"
+    },
+    {
+      "system": "Electronic health records systems",
+      "country_label": "Electronic health records systems",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": "Planned: healthcare providers, tier not stated"
+    },
+    {
+      "system": "Operational systems for primary care units",
+      "country_label": "Operational systems for primary care units",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": "Planned: all primary care units, covering primary care services, vaccination clinics, family planning, maternal care, dental clinics and chronic disease management"
+    },
+    {
+      "system": "Health information system (HIS)",
+      "country_label": "Health information system (HIS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Health information system synchronized between UHIA and EHA",
+      "country_label": "Health information system, with automated claim management",
+      "class": "",
+      "platform": "",
+      "owner": "Universal Health Insurance Authority and Egypt Healthcare Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Hospital automation",
+      "country_label": "Automation in hospitals",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Hospitals, with 70-80% of processes automated"
+    },
+    {
+      "system": "National Health Information System and surveillance of NCDs",
+      "country_label": "National Health Information System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Health Information Exchange (HIE) platform",
+      "country_label": "HIE platform",
+      "class": "exchange",
+      "platform": "HL7 FHIR or similar standards",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": "Planned: healthcare providers and institutions"
+    },
+    {
+      "system": "Automated systems for deaths and births registration in hospitals",
+      "country_label": "Automated systems for deaths and births registration",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": "Planned: hospitals, linked to their health offices"
+    },
+    {
+      "system": "Patient portal",
+      "country_label": "Patient portal",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": ""
+    },
+    {
+      "system": "Health Map of the Arab Republic of Egypt",
+      "country_label": "Health Map",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Population",
+      "tiers": ""
+    },
+    {
+      "system": "Central control and command centre",
+      "country_label": "Central control and command centre",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Population",
+      "tiers": ""
+    },
+    {
+      "system": "Applications for urgent, neonatal and emergency care with hotline 137",
+      "country_label": "Applications for urgent care, neonatal care and emergency care",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Population",
+      "tiers": ""
+    },
+    {
+      "system": "Telemedicine/telehealth solutions",
+      "country_label": "Telemedicine/telehealth",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health and Population, as key implementer",
+      "tiers": "Planned: healthcare facilities"
+    }
+  ],
+  "note": "Passages only, with the action tables flattened. Everything on the EMR is a planned action; the document states no present tier, point of entry or clinic count, so there are governance facts alone. The health information system is named but its description is cut off after 'handles a multitude of indicators', so it is left unclassed and gives no hmis fact. The 70-80% hospital automation figure does not say it holds the clinical record, so it is not an emr fact."
+}

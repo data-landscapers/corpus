@@ -1,0 +1,16 @@
+{
+  "slug": "2026-05-01-tcd-rapport-des-resultats-biennal-2024-2025",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO's Chad office reports that during the 2024-2025 biennium its support contributed to the validation of the 2024 statistical yearbook, the updating of the reporting tools and their integration into DHIS2, and the validation of a procedures manual for managing health information; it gives no count of facilities or districts.", "as_of": "2025", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "WHO's Chad office reports that a national digital health strategy was adopted during the 2024-2025 biennium, with WHO supporting the national strategic plan for digital health, its operational plans and a law on health data protection; the report does not say which systems the plan names.", "as_of": "2025", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "système d'information sanitaire (SIS); DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "not stated; WHO in support", "tiers": "not stated; cited as the source of administrative vaccination coverage by province and of antenatal and maternal figures for the 15 supported provinces (2024-2025)"},
+    {"system": "Tracker DHIS2", "country_label": "Tracker DHIS2", "class": "tracker", "platform": "DHIS2 Tracker on Android tablets, online and offline, with a central production server holding all patient files and the imported historical HIV database", "owner": "not stated; WHO in support", "tiers": "focal points trained at 160 TB treatment sites and 482 HIV sites; 7,475 HIV patients and 21,824 TB patients registered (2024-2025)"},
+    {"system": "GeneXpert interconnectivity", "country_label": "interconnectivité des appareils GeneXpert", "class": "single-function", "platform": "SystemOne (company named as trainer); 54 routers", "owner": "not stated; WHO in support", "tiers": "54 GeneXpert machines connected nationally, 54 laboratory technicians trained (2024-2025)"},
+    {"system": "EWARS Mobile", "country_label": "EWARS Mobile", "class": "single-function", "platform": "EWARS Mobile", "owner": "WHO", "tiers": "eight health districts in eastern Chad including refugee camps; 64 alerts detected, 68.6% handled within 48 hours; mobile phones supplied to 85 staff (2024-2025)"},
+    {"system": "CanReg5 and CanScreen5", "country_label": "système d'information sur le cancer", "class": "", "platform": "CanReg5; CanScreen5", "owner": "not stated; WHO in support", "tiers": "not stated"},
+    {"system": "Numérisation des hôpitaux pilotes", "country_label": "numérisation des hôpitaux pilotes", "class": "", "platform": "not stated", "owner": "not stated; WHO preparing it with regional and headquarters experts", "tiers": "pilot hospitals, planned for 2026; what is to be digitised is not described"}
+  ],
+  "note": ""
+}

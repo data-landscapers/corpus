@@ -1,0 +1,166 @@
+{
+  "slug": "2024-01-01-bfa-current-status-of-digital-health-interventions-in-the-health-system-in",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The BMC study (fieldwork September 2022 to April 2023) states that health facilities record consultations in physical registers and copy them onto a paper monthly activity report, which is sent to the district, where data managers enter it into the national data warehouse; in hospitals the departments send reports to an information manager who enters them.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National health data warehouse (Endos)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The BMC study lists a National Health Information System Strategic Plan 2022-2025 among the strategic documents it reviewed during fieldwork between September 2022 and April 2023; it describes the routine data flow into the national data warehouse as the architecture of that system.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National health data warehouse (Endos)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The BMC study (fieldwork September 2022 to April 2023) states that the predominant data collection instruments in health facilities are physical consultation registers, and that the public health system lacks computerised patient records, those that exist being electronic registers or isolated specialty records in a hospital.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Paper consultation registers; public-sector electronic patient records",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "The BMC study found, among 35 digital health interventions analysed, one patient-record package fully deployed in a public university hospital, covering reception, consultation, hospitalisation, movement and discharge but not billing; its other public patient-record tools were two single-specialty records in one university hospital and three electronic consultation registers.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Electronic health record of a university hospital (unnamed; Burkina Faso and Taiwan partnership)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The BMC study states that the one fully deployed university-hospital patient-record package is proprietary, developed under a partnership between the country and Taiwan, and that Ministry of Health and hospital technicians have limited knowledge of its technology, no effective knowledge transfer having taken place.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Electronic health record of a university hospital (unnamed; Burkina Faso and Taiwan partnership)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The BMC study states that Burkina Faso lacked a current digital health strategic plan and interoperability standards at the time of its fieldwork (September 2022 to April 2023), although the health ministry's information systems department, created in 2018, is charged with the national electronic patient file and the hospital information system.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National electronic patient file (dossier patient électronique national)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The BMC study states that the State budget carries no dedicated provision for digital health and that about 89% of the funding of the 35 interventions it analysed, nine of them patient-record tools, came from technical and financial partners and the private sector, against 11% local funding; the three private-sector patient-record tools were paid for by the clinics themselves.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Public-sector electronic patient records",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National health data warehouse (Endos)",
+      "country_label": "ENDOS",
+      "class": "hmis",
+      "platform": "DHIS2, adopted in 2013",
+      "owner": "Ministry of Health and Public Hygiene",
+      "tiers": "monthly activity reports of health facilities keyed at district; hospital reports keyed by the hospital information manager; validated at central level"
+    },
+    {
+      "system": "Electronic health record of a university hospital (unnamed)",
+      "country_label": "",
+      "class": "emr",
+      "platform": "proprietary; uses ICD-10",
+      "owner": "developed under a partnership between Burkina Faso and Taiwan",
+      "tiers": "one university hospital, fully deployed"
+    },
+    {
+      "system": "Specialty patient records, diabetes and orthopaedics departments (unnamed)",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": "two departments of one university hospital; consultation only"
+    },
+    {
+      "system": "Electronic consultation registers (three, unnamed; two for children aged 0-5 and pregnant women)",
+      "country_label": "",
+      "class": "tracker",
+      "platform": "",
+      "owner": "",
+      "tiers": "public sector; tier not stated"
+    },
+    {
+      "system": "Private-sector electronic health records, including Inter Pharmaceutical Club and VIDAL",
+      "country_label": "",
+      "class": "emr",
+      "platform": "proprietary; ICD-10",
+      "owner": "private clinics, bought without Ministry of Health involvement",
+      "tiers": "private clinics"
+    },
+    {
+      "system": "REC",
+      "country_label": "REC",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "STELAB",
+      "country_label": "STELAB",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "One Health platform",
+      "country_label": "One Health",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "CPS-MILDA platform",
+      "country_label": "CPS-MILDA",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Cervical cancer platform",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Base_Enquête; E_fluxfinancier; E_Certification",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Fieldwork ran September 2022 to April 2023; facts are dated 2023. For exchange: none of the applications had effective interoperability with the national data warehouse, though 60% of the technologies could interoperate with DHIS2, and DHIS2 and CommCare make up about 54% of the 35 selected applications. 66% of the interventions were still pilots; 22 of the platforms were hosted in the country, 20 on the government cloud. The funding figure is sector-wide, not specific to patient records, and applies equally to the reporting platforms. The two specialty records and the consultation registers are classed tracker as single-specialty or single-group patient-level tools, although the paper counts them among its nine patient EHRs. The paper counts 2,207 CSPS, 99 medical centres, 46 CMA, 9 regional and 6 university hospitals in the public pyramid."
+}

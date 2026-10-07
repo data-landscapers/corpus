@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-21-gab-egabon-sis-quel-modele-economique-apres-la-phase-de-deploiement",
+  "facts": [],
+  "systems": [
+    {"system": "eGabon-SIS (Système d'information de santé)", "country_label": "SIS / eGabon-SIS", "class": "", "platform": "", "owner": "Ministry of Health with the project team; World Bank support ending", "tiers": "trialled on 21 May 2025 in about ten Libreville facilities: the Mère-Enfant Jeanne Ebori and Owendo university hospitals, the Akanda and PK9 military teaching hospitals, and several health centres including Glass (in use there since January 2025); aim is the whole national network including rural areas"}
+  ],
+  "note": "No fact: the document does not say the system holds a patient record or produces routine reports. The only functions it describes are financial and human-resources management at the Glass health centre and reliable data for steering, so it is unclassified here. If the parent classes eGabon-SIS as emr from other documents, this one carries governance material dated 2025-05-21: a workshop validated a hybrid post-deployment financing model (a proposed levy of 10% of the affected facilities' own revenue, plus contributions from health insurers such as CNAMGS and public and private bodies) to replace World Bank support; and the pilot sites by tier as listed under systems."
+}

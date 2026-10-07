@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,hmis,governance,qualifier,owner:ministry;finance:donor,2023-06-20,GMB-005;GMB-009,,nothing dated since 2023-10-06
-GMB,hmis,tiers,coverage,,,,,nothing held
-GMB,hmis,digitised,coverage,district,2024-11,GMB-003;GMB-006,,
+GMB,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2024-02-28,GMB-009;GMB-018;GMB-019,GMB-014=owner:ministry;GMB-005=owner:ministry;GMB-028=owner:ministry,
+GMB,hmis,tiers,coverage,T2,2023-10-01,GMB-013,GMB-016=none;GMB-025=T1;T2;T3;T4;GMB-027=T1;T2;T3;T4,
+GMB,hmis,digitised,coverage,district,2024-11,GMB-003;GMB-006;GMB-015,GMB-012=facility,
 GMB,hmis,last12,qualifier,,,,,nothing held
-GMB,hmis,clinics,coverage,,,,,nothing held
-GMB,emr,governance,qualifier,finance:donor,2025,GMB-004,GMB-007=finance:donor;GMB-011=finance:donor,"not stated: owner, plan"
-GMB,emr,tiers,coverage,none,2023-06-20,GMB-008,GMB-010=none,nothing dated since 2023-10-06
-GMB,emr,digitised,coverage,,,,,nothing held
+GMB,hmis,clinics,coverage,none,2024-02-28,GMB-017,GMB-026=not-published,
+GMB,emr,governance,qualifier,owner:partner;plan:current;finance:donor,2025,GMB-004;GMB-022;GMB-024,GMB-007=finance:donor;GMB-011=finance:donor,
+GMB,emr,tiers,coverage,none,2024-02-28,GMB-020,GMB-023=T1;GMB-008=none;GMB-010=none,
+GMB,emr,digitised,coverage,paper,2024-02-28,GMB-021,,
 GMB,emr,last12,qualifier,,,,,nothing held
 GMB,emr,clinics,coverage,,,,,nothing held

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-03-01-cmr-monitoring-of-characteristics-of-the-patients-visiting-an-emergency-ce",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The study's authors state that at the national emergency centre in Yaoundé (CURY) patient medical records were kept mostly on paper during January 2016 to June 2018, stored disorganised with some charts missing or torn, and that most hospitals in Cameroon keep no patient chart at all because patients take their charts home on discharge.", "as_of": "2018-06", "date_precision": "month", "system": "Paper patient medical records", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "CURY hospital information system", "country_label": "CURY hospital information system", "class": "", "platform": "", "owner": "Ministry of Public Health", "tiers": "implemented by the ministry and being tested in 5 hospitals including the Centre des Urgences de Yaoundé; little used there; holds patient identity, arrival, destination service, physician, chief complaint, triage and payment status"},
+    {"system": "CURY Epi Info patient database", "country_label": "", "class": "", "platform": "Epi Info 7.2, exported to Excel", "owner": "Centre des Urgences de Yaoundé, with Seoul National University Hospital and KOICA funding", "tiers": "one national emergency centre; 18,875 patients' data for January 2016 to June 2018 keyed by one employed doctor from paper records and three other sources between March 2017 and July 2018"}
+  ],
+  "note": "The hospital information system is described by fields that are administrative and triage only, with the clinical record on paper, so it is not classed as emr; the Epi Info database is a study database compiled from paper records, not a record kept for care. Neither gives a fact beyond the paper position."
+}

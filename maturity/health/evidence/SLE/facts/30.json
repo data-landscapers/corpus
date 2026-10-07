@@ -1,0 +1,22 @@
+{
+  "slug": "2025-12-06-sierra-leone-national-health-compact",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:5", "fact": "The Government's National Health Compact gives a baseline of 5 health facilities implementing the Electronic Medical Records system against a 2030 target of 1,800, in a network it puts at about 1,463 public facilities including about 24 hospitals; the count is of facilities of all tiers, and the baseline is undated, so the Compact's own date is used.", "as_of": "2025-12-06", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The National Health Compact of 6 December 2025 names the EMR in its action plan: a costed strategy for the phased roll-out by 2027 and roll-out to all medical facilities by 2030, beginning in high-volume districts and linking PHUs and referral hospitals.", "as_of": "2025-12-06", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The National Health Compact names the Ministry of Health's Directorate of Policy, Planning and Information as lead institution for the EMR costed strategy and roll-out.", "as_of": "2025-12-06", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Government adopted the National Health Compact in Tokyo on 6 December 2025, committing to scale the EMR to all health facilities by 2030 with integration into DHIS2.", "as_of": "2025-12-06", "date_precision": "day", "system": "Electronic Medical Records (EMR)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR)", "country_label": "EMR", "class": "emr", "platform": "", "owner": "Ministry of Health (DPPI)", "tiers": "5 health facilities at baseline; target all 1,800 PHUs and hospitals by 2030"},
+    {"system": "DHIS2", "country_label": "District Health Information Software (DHIS2)", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "PReSTrack", "country_label": "Pregnancy Registration and Service Tracking (PReSTrack)", "class": "tracker", "platform": "", "owner": "Ministry of Health (Directorate of RMCAH, DPPI)", "tiers": "to be institutionalised across all districts"},
+    {"system": "eIDSR", "country_label": "electronic Integrated Disease Surveillance and Response (eIDSR)", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "National Disease Surveillance System (NDSS)", "country_label": "NDSS", "class": "single-function", "platform": "", "owner": "Ministry of Health, with partner support", "tiers": "over 96 percent of facilities reporting regularly"},
+    {"system": "LMIS", "country_label": "Last-Mile Logistics Management Information System (LMIS)", "class": "single-function", "platform": "", "owner": "DPS, NMSA, DPPI", "tiers": "PHUs"},
+    {"system": "mSupply", "country_label": "mSupply", "class": "single-function", "platform": "mSupply", "owner": "DPS, NMSA, DPPI", "tiers": "phased deployment at PHUs planned by 2029"},
+    {"system": "iHRIS", "country_label": "Integrated Human Resource Information System (iHRIS)", "class": "", "platform": "iHRIS", "owner": "Ministry of Health", "tiers": "not stated"},
+    {"system": "Telehealth platforms", "country_label": "telehealth", "class": "enabling", "platform": "", "owner": "Ministry of Health (DPPI)", "tiers": "planned, connecting PHUs and referral hospitals"},
+    {"system": "Emergency Operations Centre (EOC) dashboard", "country_label": "EOC dashboard", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "DHIS2 is named throughout with no description of the reporting it carries, so it gives no hmis fact."
+}

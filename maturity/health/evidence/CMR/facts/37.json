@@ -1,0 +1,16 @@
+{
+  "slug": "2023-09-01-cmr-sante-publique-le-gouvernement-en-quete-dune-expertise-etrangere-pour",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "EcoMatin reports that in almost all public hospitals patient files are kept on paper and often lost in archiving, and that the paper medical booklet patients must buy is still in use, because the electronic medical record has not been rolled out.", "as_of": "2023-09-01", "date_precision": "day", "system": "Dossier médical électronique (DME)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "EcoMatin, citing the health ministry's services, reports that the electronic medical record had been tried out in about fifty health facilities, whose level is not stated, and that no launch date for national deployment had been set.", "as_of": "2023-09-01", "date_precision": "day", "system": "Dossier médical électronique (DME)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "EcoMatin reports the electronic medical record as a Ministry of Public Health project begun in 2012, for which the ministry had adopted specifications and a national feasibility study and whose minister was in London from 28 August 2023 meeting those involved in building it.", "as_of": "2023-09-01", "date_precision": "day", "system": "Dossier médical électronique (DME)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "EcoMatin reports that the electronic medical record sits in the National Digital Health Strategic Plan 2020-2024, among the priorities of its fifth axis, services and applications, which is costed at FCFA 4.235 billion over five years within a plan budget it gives as FCFA 11.337 billion.", "as_of": "2023-09-01", "date_precision": "day", "system": "Dossier médical électronique (DME)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:not-stated", "fact": "EcoMatin reports that one year before the 2020-2024 plan closed the projected cost of digitising medical booklets and files had still not been fixed, and names no source of funds for it.", "as_of": "2023-09-01", "date_precision": "day", "system": "Dossier médical électronique (DME)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Dossier médical électronique (DME)", "country_label": "DME", "class": "emr", "platform": "", "owner": "Ministère de la Santé publique", "tiers": "tried out in about fifty health facilities; not deployed nationally"},
+    {"system": "SystmOne", "country_label": "", "class": "emr", "platform": "SystmOne (The Phoenix Partnership, UK)", "owner": "The Phoenix Partnership, positioned as supplier", "tiers": "proposed pilot of the electronic medical record at the Yaoundé Gynaeco-Obstetric and Paediatric Hospital and the University Teaching Hospital; not in place"},
+    {"system": "Système national intégré de gestion informatique", "country_label": "système national intégré de gestion informatique", "class": "", "platform": "", "owner": "Ministère de la Santé publique", "tiers": "ministry target of 70% of health facilities in 2024, described as hypothetical"}
+  ],
+  "note": "The page marks the article subscriber-only; the captured text may not be the whole article."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2021-01-01-moz-reflections-learnings-and-proposed-interventions-on-data-validation-an",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "A 2019 assessment by the University of Oslo, Eduardo Mondlane University and the Ministry of Health (Collinson et al.), covering 14 districts and 8 health units in six provinces, found that facilities' monthly data reached the district health office (SDSMAS) on paper forms, were validated there on paper or in Excel, and only then were entered into SISMA, in most districts visited by the district statistical officers, with entry shared with programme officers in Cuamba and delegated to nurses in Bilene and Cumbane.", "as_of": "2019", "date_precision": "year", "system": "SISMA", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Collinson et al. report from their 2019 assessment that SISMA is the national health information system platform, that registering users and configuring services and health facilities are done centrally at the Ministry of Health, that support passes from district and provincial statisticians to technical teams at the Ministry, and that an external team linked to the platform's owner gives further support under agreement with the Ministry.", "as_of": "2019", "date_precision": "year", "system": "SISMA", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "Collinson et al. report that at the health facilities visited in 2019 (8 health units in five provinces) daily registries were collected in paper books and charts, beside tablets supplied by particular programmes to collect specific data; the paper names no patient record system.", "as_of": "2019", "date_precision": "year", "system": "paper books and charts at health facilities", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "SISMA", "country_label": "SISMA", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "scaled up nationwide in 2016; data entered at the district health office (SDSMAS) from health facilities' monthly paper forms; used at district, provincial and central levels"},
+    {"system": "District Health Information System (DHIS), desktop version", "country_label": "", "class": "", "platform": "DHIS", "owner": "", "tiers": "piloted in the early 2000s in Gaza, Inhambane and Niassa provinces"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "2021-03-02-sen-harmoniser-la-collecte-de-donnees-pour-une-meilleure-riposte-contre-la",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "A DHIS2 Community post states that Senegal began implementing DHIS2 in 2013, deployed it in stages from 2014 and scaled it nationally between 2015 and 2016, and that the platform is used at all levels of the health pyramid, naming public health establishments (hospitals), health centres and health posts, with every health programme using it as the single source for aggregate data collection; the statement is undated, so the post's published date of 2 March 2021 is used.",
+      "as_of": "2021-03-02",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The same post states that DHIS2 is used in public health establishments, health centres and health posts for coordination, supervision, data entry and analysis; it gives no count of facilities entering their own data, and no date, so the post's published date of 2 March 2021 is used.",
+      "as_of": "2021-03-02",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The post states that the Ministère de la Santé et de l'Action Sociale has run the DHIS2 implementation since 2013, working with the University of Oslo and HISP WCA, with a DHIS2 Task Force and the ministry's Cellule informatique on the technical team; undated, so the published date of 2 March 2021 is used.",
+      "as_of": "2021-03-02",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The post states that the NGO PATH contributes technical and financial assistance to improving the performance of the health information system, and names no domestic budget line; undated, so the published date of 2 March 2021 is used.",
+      "as_of": "2021-03-02",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministère de la Santé et de l'Action Sociale, with the University of Oslo, HISP WCA and PATH", "tiers": "all levels of the health pyramid: public health establishments, health centres and health posts; national since 2015-2016"},
+    {"system": "DHIS2 Tracker (HIV)", "country_label": "Tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministère de la Santé et de l'Action Sociale", "tiers": "individual data of HIV-positive patients; tuberculosis and epidemiological surveillance modules being implemented; tiers not stated"},
+    {"system": "DHIS2 Tracker COVID-19 package", "country_label": "Tracker COVID-19", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministère de la Santé et de l'Action Sociale (DHIS2 Task Force, COUS, Cellule informatique) with PATH and HISP WCA", "tiers": "case and contact tracking from March 2020, entry forms in the 79 districts; set up in six days; unique identifier per case at district level; compared continuously against paper forms"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2022-06-01-lbr-liberia-national-and-county-coverage-on-reproductive-maternal-newborn",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "The Liberian team's Countdown to 2030 synthesis (Ministry of Health and University of Liberia authors) states that facilities' monthly reports are normally collected by the County Health Team for entry into the national DHIS2 system, the keying being done at county level and not at the facility; the statement is undated, so the publication date is used.", "as_of": "2022-06", "date_precision": "month", "system": "DHIS2 (national system)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The Countdown to 2030 synthesis counts 856 functional health facilities submitting service delivery reports through DHIS2 of 964 on the Master Facility List, for data of January 2017 to December 2021; it gives no figure for facilities entering their own data and says entry is normally made by the County Health Team.", "as_of": "2021-12", "date_precision": "month", "system": "DHIS2 (national system)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (national system)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "856 facilities, public and private, in 93 health districts of 15 counties; reports collected by County Health Teams for entry"},
+    {"system": "Master Facility List", "country_label": "MFL", "class": "exchange", "platform": "", "owner": "", "tiers": "964 health facilities listed"}
+  ],
+  "note": "Reporting completeness is published and has no aspect to carry it: 96% for all services in 2021 against a 95% threshold; on-time reporting 90.7% for public and 77.9% for private facilities in 2021; 81 of 93 districts at 95-100% on time. No facility tiers are named and no EMR is mentioned."
+}

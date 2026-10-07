@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-03-gab-gabon-digitalisation-du-systeme-de-sante-dix-structures-hospitalieres",
+  "facts": [],
+  "systems": [
+    {"system": "e-Gabon-SIS (digitalisation du système d'information sanitaire)", "country_label": "e-Gabon-SIS", "class": "", "platform": "", "owner": "programme financed by the World Bank and steered by the Gabon Digital group, with ANINF and civil society; coordination through CN-TIPPEE", "tiers": "about ten facilities in the pilot phase on 2 July 2025: the London, Glass, Nzeng-Ayong and Owendo health centres, the Akanda and PK9 military hospitals, the Owendo and Mère & Enfants university hospitals, and the Sino-Gabonese and Egypt-Gabon cooperation hospitals"}
+  ],
+  "note": "No fact: the document does not say what the system does. It reports about ten named facilities in the pilot phase of a project launched in February 2024, and gives only the minister's aim of quick access to medical data and the seminar's modules on demand and complaints management; it never says the system holds a patient record or produces routine reports, so it is unclassified. If the parent classes eGabon-SIS as emr from the other documents, this one carries the named pilot sites by tier (four health centres, two military hospitals, two CHU, two cooperation hospitals) as of 2025-07-02."
+}

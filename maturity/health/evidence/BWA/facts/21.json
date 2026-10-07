@@ -1,0 +1,66 @@
+{
+  "slug": "2025-10-30-bwa-botswana-health-emergency-preparedness-response-and-resilience-heprr-p",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's technical note for the HEPRR project costs the electronic medical record at US$1.531 million inside sub-component 1.3, information systems and digitalisation, of US$13.1 million, all of it from an IBRD loan; the note is undated and the date is its published date.",
+      "as_of": "2025-10-30",
+      "date_precision": "day",
+      "system": "EMR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMR",
+      "country_label": "electronic medical record (EMR)",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "roll out described as ongoing, to be monitored by data maturity assessments; no tier or facility count stated"
+    },
+    {
+      "system": "Shared health record (SHR)",
+      "country_label": "shared health record (SHR)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "to digitise medical records with the EMR so a record stays reachable when a facility is compromised; no tier stated"
+    },
+    {
+      "system": "HIE",
+      "country_label": "health information exchange (HIE)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "to be enhanced by linking the EMR, eIDSR, eLMIS, BRIMS and registries including product catalogues; no tier stated"
+    },
+    {
+      "system": "eIDSR",
+      "country_label": "electronic Integrated Disease Surveillance and Response System (eIDSR)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "disease surveillance, costed at US$808,350; training planned in all 31 districts, at least one professional per district"
+    },
+    {
+      "system": "eLMIS",
+      "country_label": "electronic logistics management information system (eLMIS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "medicines supply chain, costed at US$2.03 million, with a rollout through Central Medical Stores; no tier stated"
+    },
+    {
+      "system": "BRIMS",
+      "country_label": "Botswana Regulatory Information Management System (BRIMS)",
+      "class": "",
+      "platform": "",
+      "owner": "Botswana Medicines Regulatory Authority",
+      "tiers": "medicines regulator's system, to be upgraded at US$907,932 and linked to the HIE; not a facility system"
+    }
+  ],
+  "note": "One EMR fact only. No owner or plan is named for the EMR, and no tier, facility count or place of entry; the paper baseline appears only in a greenhouse-gas footnote and is not a dated statement of paper records. No HMIS system is named. The published date is inferred from the document id, per the source's own frontmatter."
+}

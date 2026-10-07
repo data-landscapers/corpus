@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2024,SLE-007;SLE-008;SLE-009,,
-SLE,hmis,tiers,coverage,T1;T2;T3;T4,2010,SLE-016,,nothing dated since 2023-10-06
-SLE,hmis,digitised,coverage,,,,,nothing held
+SLE,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2024,SLE-008;SLE-033;SLE-045,SLE-044=owner:ministry;SLE-007=owner:ministry;SLE-009=finance:donor;SLE-052=owner:ministry,
+SLE,hmis,tiers,coverage,T1;T2,2023-01,SLE-040,SLE-041=T3;T4;SLE-051=T1;T2;SLE-016=T1;T2;T3;T4,nothing dated since 2023-09-28
+SLE,hmis,digitised,coverage,facility,2023-01,SLE-042;SLE-049,SLE-043=district;SLE-048=district;SLE-031=district,nothing dated since 2023-09-28
 SLE,hmis,last12,qualifier,,,,,nothing held
-SLE,hmis,clinics,coverage,share:96%,2022-11,SLE-010,,nothing dated since 2023-10-06
-SLE,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-06,SLE-005;SLE-006;SLE-015,SLE-014=plan:current;SLE-013=owner:partner,
-SLE,emr,tiers,coverage,,,,,nothing held
-SLE,emr,digitised,coverage,point-of-care,2022-11,SLE-012,SLE-001=paper,
-SLE,emr,last12,qualifier,,,,,nothing held
-SLE,emr,clinics,coverage,pilot,2022-11,SLE-011,,nothing dated since 2023-10-06
+SLE,hmis,clinics,coverage,share:96%,2024,SLE-010;SLE-032;SLE-039,SLE-030=not-published;SLE-050=none,
+SLE,emr,governance,qualifier,owner:partner;plan:current;finance:donor,2026-04,SLE-022;SLE-026;SLE-027,SLE-025=owner:ministry;SLE-005=plan:current;SLE-006=owner:ministry;SLE-014=plan:current;SLE-035=owner:partner;SLE-036=owner:ministry;SLE-038=owner:ministry;SLE-046=owner:partner;SLE-047=finance:donor;SLE-013=owner:partner;SLE-015=finance:donor,
+SLE,emr,tiers,coverage,T1;T2,2026-04,SLE-017;SLE-037,SLE-018=T4,
+SLE,emr,digitised,coverage,point-of-care,2026-04,SLE-012;SLE-019,SLE-001=paper,
+SLE,emr,last12,qualifier,advancing,2026-02-14,SLE-020;SLE-021;SLE-024;SLE-029,,
+SLE,emr,clinics,coverage,count:1,2026-04,SLE-023,SLE-028=count:5;SLE-034=pilot;SLE-011=pilot,

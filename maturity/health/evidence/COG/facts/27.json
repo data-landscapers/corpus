@@ -1,0 +1,68 @@
+{
+  "slug": "2026-04-01-cog-rapport-annuel-2025-oms-au-congo",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO Congo's annual report for 2025 says its support strengthened the health information system during 2025: 401 data collectors were equipped for electronic transmission of data and the national list of health indicators was drawn up; it gives no denominator for the collectors, does not say at which tier they work and does not name the software.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "système d'information sanitaire",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "WHO Congo reports that the 2025 equipping of 401 data collectors for electronic transmission was done with WHO support, and its partner map lists UNFPA, AFD and the EU as the partners working on information systems; it states no domestic budget line for the health information system.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "système d'information sanitaire",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système d'information sanitaire",
+      "country_label": "système d'information sanitaire",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministère de la Santé et de la Population (a photo caption names its Direction de l'information sanitaire et la recherche briefing a health-centre worker on data collection)",
+      "tiers": "not stated; 401 data collectors equipped for electronic transmission in 2025; the 2025 sector review found the private sector weakly integrated"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "not stated; cited as the source for causes of consultation nationally in 2025 (influenza second after malaria)"
+    },
+    {
+      "system": "surveillance épidémiologique",
+      "country_label": "surveillance épidémiologique",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministère de la Santé et de la Population, with WHO support",
+      "tiers": "surveillance reports from 415 health areas, reviewed in 52 national meetings with district chief medical officers in 2025"
+    },
+    {
+      "system": "surveillance sentinelle de la grippe",
+      "country_label": "surveillance sentinelle de la grippe",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministère de la Santé et de la Population, with WHO support",
+      "tiers": "three sentinel sites in Brazzaville and Pointe-Noire, operating since November 2025"
+    },
+    {
+      "system": "observatoire national des décès maternels et infantiles",
+      "country_label": "observatoire national des décès maternels et infantiles",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; cited only as the source of the maternal mortality rate"
+    }
+  ],
+  "note": ""
+}

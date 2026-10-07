@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,LBR-014;LBR-015;LBR-020,LBR-016=owner:ministry;LBR-019=plan:current;LBR-022=finance:donor;LBR-027=owner:ministry;LBR-030=owner:ministry;LBR-035=finance:donor,
-LBR,hmis,tiers,coverage,T1;T2;T3;T4,2024,LBR-028,,
-LBR,hmis,digitised,coverage,,,,,nothing held
+LBR,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,LBR-014;LBR-015;LBR-020,LBR-016=owner:ministry;LBR-019=plan:current;LBR-022=finance:donor;LBR-027=owner:ministry;LBR-030=owner:ministry;LBR-039=owner:ministry;LBR-040=plan:current;LBR-041=finance:donor;LBR-035=finance:donor,
+LBR,hmis,tiers,coverage,T1;T2;T3;T4,2024,LBR-028,LBR-038=T4,
+LBR,hmis,digitised,coverage,district,2022-07,LBR-036;LBR-042;LBR-045,,nothing dated since 2023-09-28
 LBR,hmis,last12,qualifier,advancing,2025,LBR-008,LBR-029=regressing,
-LBR,hmis,clinics,coverage,,,,,nothing held
+LBR,hmis,clinics,coverage,none,2022-07,LBR-037,LBR-043=not-published;LBR-046=not-published,nothing dated since 2023-09-28
 LBR,emr,governance,qualifier,owner:vendor;plan:current;finance:donor,2026-09,LBR-005;LBR-017;LBR-018,LBR-007=owner:ministry;LBR-021=finance:donor;LBR-024=owner:partner;LBR-025=finance:donor;LBR-033=owner:partner;LBR-034=finance:donor,
 LBR,emr,tiers,coverage,T3;T4,2026-09,LBR-003,LBR-031=T2,
-LBR,emr,digitised,coverage,point-of-care,2026-09,LBR-004;LBR-032,,
+LBR,emr,digitised,coverage,point-of-care,2026-09,LBR-004;LBR-032,LBR-044=paper,
 LBR,emr,last12,qualifier,advancing,2026-09-01,LBR-001;LBR-006;LBR-023,,
 LBR,emr,clinics,coverage,pilot,2026-09,LBR-002;LBR-026,,

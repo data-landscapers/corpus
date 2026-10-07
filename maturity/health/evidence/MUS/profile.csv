@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,hmis,governance,qualifier,,,,,nothing held
+MUS,hmis,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2022-01,MUS-023;MUS-024;MUS-025,,nothing dated since 2023-09-28
 MUS,hmis,tiers,coverage,,,,,nothing held
-MUS,hmis,digitised,coverage,,,,,nothing held
+MUS,hmis,digitised,coverage,paper,2020,MUS-027;MUS-035,,nothing dated since 2023-09-28
 MUS,hmis,last12,qualifier,,,,,nothing held
-MUS,hmis,clinics,coverage,,,,,nothing held
-MUS,emr,governance,qualifier,owner:partner;plan:current;finance:not-stated,2025-02,MUS-006;MUS-007;MUS-008,,
-MUS,emr,tiers,coverage,none,2025-02,MUS-010,,
-MUS,emr,digitised,coverage,paper,2025-02,MUS-009,,
-MUS,emr,last12,qualifier,advancing,2024-01,MUS-012,,nothing dated since 2025-10-06
-MUS,emr,clinics,coverage,none,2025-02,MUS-011,,
+MUS,hmis,clinics,coverage,none,2022-01,MUS-026,,nothing dated since 2023-09-28
+MUS,emr,governance,qualifier,owner:partner;plan:current;finance:not-stated,2026-05,MUS-007;MUS-008;MUS-013,MUS-014=owner:ministry;MUS-020=owner:ministry;MUS-006=owner:partner;MUS-032=owner:ministry;MUS-033=plan:current;MUS-034=finance:not-stated,
+MUS,emr,tiers,coverage,T2;T3,2026-05,MUS-015,MUS-010=none;MUS-030=none,
+MUS,emr,digitised,coverage,point-of-care,2026-04-30,MUS-016,MUS-021=paper;MUS-009=paper;MUS-028=paper,
+MUS,emr,last12,qualifier,advancing,2026-04-30,MUS-012;MUS-018;MUS-019;MUS-022,,
+MUS,emr,clinics,coverage,share:0%,2019,MUS-031,MUS-017=pilot;MUS-011=none;MUS-029=none,

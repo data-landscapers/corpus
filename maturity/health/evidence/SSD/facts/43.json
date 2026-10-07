@@ -1,0 +1,78 @@
+{
+  "slug": "2021-01-01-ssd-heath-service-monitoring-in-south-sudan-use-of-technology-for-monitori",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The World Bank brief states that county health departments are intended to be the focal point for DHIS2 data entry and uploading, and that some of them struggle with internet access and have no regular wifi or cellular network; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The World Bank brief states that most primary health care units and many primary health care centres lack computers or tablets for entering data, quotes a respondent that it is too early to introduce facility-level reporting and that tablets had been tried with many challenges, and lists facility-based DHIS2 data entry in high-volume facilities only as a pilot still to be done; no count is given; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank brief's table of technologies in use for health monitoring names the Ministry of Health as the user of DHIS2, with an offline data entry tool available for settings without internet; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "data entry and uploading at county health departments; facility-based entry proposed as a pilot in high-volume facilities"
+    },
+    {
+      "system": "Master health facility list",
+      "country_label": "master health facility list with GPS coordinates",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO; under development",
+      "tiers": ""
+    },
+    {
+      "system": "HSF platform",
+      "country_label": "Health Service Functionality (HSF) dashboard",
+      "class": "",
+      "platform": "web-based dashboard",
+      "owner": "WHO",
+      "tiers": "aggregates data from the Ministry of Health, donors and partners; no facility tier stated"
+    },
+    {
+      "system": "Ona mobile app",
+      "country_label": "",
+      "class": "",
+      "platform": "Ona",
+      "owner": "UNICEF",
+      "tiers": "collects real-time data from health facilities; tiers not stated"
+    },
+    {
+      "system": "Supply chain call center",
+      "country_label": "",
+      "class": "",
+      "platform": "telephone call centre",
+      "owner": "Chemonics",
+      "tiers": "facilities Chemonics supports; tiers not stated"
+    }
+  ],
+  "note": "published is a year-precision proxy; interviews ran September 2020 to March 2021, so facts are dated 2021 at year precision. The clinics value none rests on the brief treating facility entry as a pilot still to come, not on an outright statement that no clinic enters data. A respondent's remark that the country has no programmers to troubleshoot 'the system' and relies on consultants from Tanzania or Oslo names no system and gives no fact. The brief counts 1,900 public health facilities, a possible denominator. Kobo Toolbox, Open Data Kit and ENA are survey tools and are not listed as systems."
+}

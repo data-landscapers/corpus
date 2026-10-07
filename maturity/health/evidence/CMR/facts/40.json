@@ -1,0 +1,14 @@
+{
+  "slug": "2021-03-15-cmr-score-for-health-data-technical-package-assessment-summary-for-cameroo",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "WHO's SCORE assessment rates a standardised system of electronic data entry for aggregate reporting at the district or comparable level as partial in Cameroon, on data from 2013 to 2018 in a profile updated 15 March 2021; no system is named.", "as_of": "2018", "date_precision": "year", "system": "Routine facility reporting system", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "WHO's SCORE assessment puts completeness of reporting by public primary care facilities, and by public hospitals, in the band 25% to 75%, with none given for private facilities, on data from 2013 to 2018; it gives no count or share of facilities entering their own reports.", "as_of": "2018", "date_precision": "year", "system": "Routine facility reporting system", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "none", "fact": "WHO's SCORE assessment rates a system of electronic capture of patient-level health data that is standardised and fully interoperable with the aggregate routine system as not there, both in primary care facilities and in hospitals, on data from 2013 to 2018; a national unique patient identifier is marked no data.", "as_of": "2018", "date_precision": "year", "system": "Electronic capture of patient-level health data", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "WHO's SCORE assessment rates standardised, interoperable electronic capture of patient-level health data in primary care health facilities as not there, on data from 2013 to 2018 in a profile updated 15 March 2021.", "as_of": "2018", "date_precision": "year", "system": "Electronic capture of patient-level health data", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Routine facility reporting system", "country_label": "", "class": "hmis", "platform": "", "owner": "", "tiers": "public primary care facilities and public hospitals report; electronic aggregate entry at district or comparable level rated partial"},
+    {"system": "National health data portal", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "exists; updated less than annually"}
+  ],
+  "note": "A scorecard that names no system; the facts are attached to the generic systems it rates. The assessment gives its data period as 2013 to 2018 without dating individual items, so 2018 is used. It marks a national eHealth strategy and standards-based interoperability as no data."
+}

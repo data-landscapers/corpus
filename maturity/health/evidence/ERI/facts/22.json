@@ -1,0 +1,44 @@
+{
+  "slug": "2021-01-01-eri-who-eritrea-biennium-report-2020-2021-consolidating-achievement-of-uhc",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "WHO Eritrea states that by 2019 Eritrea had installed and rolled out DHIS 2 in all Zobas, the regional level, and that the country uses the offline version, which it says works well with high reporting rates; no figure and no facility-level entry is stated.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "DHIS 2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO Eritrea states that in the 2020-2021 biennium the national DHIS2 server and an updated version of the software were installed and the server upgraded, the work done by HISP Tanzania with support from Oslo and UNICEF, and that 20 national DHIS2 focal persons were trained in a November whose year the passage does not give; dated here to the document's published year.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS 2",
+      "country_label": "District Health Information Software (DHIS 2); HMIS",
+      "class": "hmis",
+      "platform": "DHIS2, offline version",
+      "owner": "",
+      "tiers": "all Zobas; HMIS stated as available at all levels, reporting from health facilities"
+    },
+    {
+      "system": "IDSR",
+      "country_label": "IDSR",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "data collected through the HMIS structure at all levels"
+    }
+  ],
+  "note": ""
+}

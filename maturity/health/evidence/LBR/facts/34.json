@@ -1,0 +1,13 @@
+{
+  "slug": "2023-02-01-lbr-comprehensive-facility-survey-report-for-the-maternal-syphilis-program",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Evidence Action's facility survey states that all 48 surveyed facilities in Montserrado, Margibi and Grand Bassa fill paper HMIS forms monthly and submit them to the district or county health team's office, where district or county data clerks enter the values into the online DHIS2 database; the records reviewed were for May to July 2022.", "as_of": "2022-07", "date_precision": "month", "system": "HMIS database (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "none", "fact": "Evidence Action's survey reports that 48 of 48 sampled facilities in three counties (100%) report to district or county health teams on paper HMIS forms, the DHIS2 entry being made by district or county data clerks and not at the facility; the sample includes clinics and at least one hospital, and the review covered May to July 2022.", "as_of": "2022-07", "date_precision": "month", "system": "HMIS database (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T4", "fact": "The survey names clinics (Bokay Town Clinic, Gbaye-Ta Clinic) among the 48 facilities whose monthly paper HMIS forms feed the national DHIS2 database, alongside C.H. Rennie Hospital, whose tier it does not give; records reviewed were for May to July 2022.", "as_of": "2022-07", "date_precision": "month", "system": "HMIS database (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "HMIS database (DHIS2)", "country_label": "HMIS / DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "Facilities report on paper forms to district or county health teams, whose data clerks enter the data"},
+    {"system": "electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. No EMR fact: patient records appear as paper registers and patient charts, but the passages carry no dated statement about electronic records. The DHIS2 dashboard lacked 26% (74/288) of the data elements for one indicator, a completeness finding with no aspect to carry it."
+}

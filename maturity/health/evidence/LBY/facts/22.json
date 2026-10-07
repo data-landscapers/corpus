@@ -1,0 +1,36 @@
+{
+  "slug": "2022-01-01-lby-moh-annual-statistical-report-2021",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The Ministry of Health's 2021 statistical report tabulates outpatient attendance at hospitals and medical centres, and separately at primary health care facilities by region, from what was entered in DHIS2 for 2021, along with surgery and deliveries at hospitals and medical centres; it notes that surgery and delivery counts fell because some hospitals and medical centres supplied no data. The passages name facility types, not levels.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The director general of the Ministry of Health's Health Information and Documentation Centre writes that DHIS2, an electronic information system whose design was completed in 2018 and on which staff in all municipalities were widely trained, had become an important source of the routine health facility data behind the centre's 2021 report.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "نظام المعلومات الصحية المناطقي (DHIS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Health Information and Documentation Centre",
+      "tiers": "Hospitals and medical centres; primary health care facilities; training in all municipalities"
+    }
+  ],
+  "note": ""
+}

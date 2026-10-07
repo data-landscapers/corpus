@@ -1,0 +1,13 @@
+{
+  "slug": "2023-10-01-vital-statistics-report-2022",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "facility", "fact": "The Central Statistical Office's 2022 vital statistics report shows, in its registration flow charts, an HMIS officer at the hospital or maternity recording birth and death outcomes in the Ministry of Health's inpatient system, producing the Ministry's hospital birth and death statistics; HMIS supplied the report with 28,541 health-institution births and 1,354 health-institution deaths for 2022.", "as_of": "2022", "date_precision": "year", "system": "HMIS system (MoH inpatient system)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Central Statistical Office's 2022 vital statistics report states that the Ministry of Health modernised its health information system by establishing the Client Management Information System, with out-patient facilities networked to the National Population Register and health facilities reading patients' PINs directly from it.", "as_of": "2022", "date_precision": "year", "system": "Client Management Information System (CMIS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "HMIS system (MoH inpatient system)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health, Health Management Information System unit", "tiers": "hospitals and maternities; HMIS data said to come from all health institutions in the country"},
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "emr", "platform": "", "owner": "Ministry of Health", "tiers": "out-patient facilities, tiers not stated"},
+    {"system": "CMIS link to the National Population Register", "country_label": "NPR / PIN access", "class": "exchange", "platform": "NPR on ADABAS mainframe at RSTP National Data Centre; new PINs uploaded by FTP", "owner": "Ministry of Home Affairs and RSTP National Data Centre, with Ministry of Health", "tiers": "out-patient facilities"}
+  ],
+  "note": "Read whole; most of the document is civil registration statistics and cause-of-death lists. The HMIS system is classed hmis on its description as the source of facility birth and death statistics, though the report also calls its archive individual-level. The report states that no legislation compels all health institutions to share data with the Ministry of Health, so data from health institutions is incomplete, and that no information moves electronically from hospitals to civil registration. No count of facilities and no tier is given for either system."
+}

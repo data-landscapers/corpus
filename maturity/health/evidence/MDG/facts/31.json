@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-20-mdg-deux-sites-pilotes-ont-ete-choisis-pour-demarrer-le-projet-de-digitali",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "2424.mg reports that the hospital digitalisation project was initiated by the digital development ministry (MNDPT), which held a working meeting on its implementation at its Digital Center with officials of the Ministry of Public Health; its stated priorities include patient-flow management, traceability of medical records and transparency of services. The meeting is dated only as 'this Friday', so the published date is used.", "as_of": "2025-01", "date_precision": "month", "system": "projet de digitalisation des hôpitaux", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "2424.mg reports that two pilot sites were chosen to start the hospital digitalisation project, the Centre hospitalier universitaire Ravoahangy Andrianavalona and the CHU de soins et de santé publique at Analakely (CHUSSPA); the article reports the choice of sites and a planning meeting, not a system in use. No date is given beyond 'this Friday', so the published date is used.", "as_of": "2025-01", "date_precision": "month", "system": "projet de digitalisation des hôpitaux", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "projet de digitalisation des hôpitaux", "country_label": "projet de digitalisation des hôpitaux", "class": "emr", "platform": "", "owner": "Ministère du Développement numérique, des postes et des télécommunications (MNDPT), with the Ministère de la Santé Publique", "tiers": "two pilot sites chosen: CHU Ravoahangy Andrianavalona and CHUSSPA Analakely"}
+  ],
+  "note": "Classed emr on the stated priority of tracing medical records (dossiers médicaux); the article names no software and does not say the system holds the clinical record in so many words. The two hospitals are chosen sites, not sites in operation."
+}

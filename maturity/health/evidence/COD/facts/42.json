@@ -1,0 +1,14 @@
+{
+  "slug": "2024-11-23-cod-rdc-lanicns-dote-les-hopitaux-de-mbuji-mayi-et-kalemie-dequipements-nu",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Actualite.cd reported on 23 November 2024 that ANICNS handed computers, tablets and routers to the Muya, Banzola and Kabeya Kamwanga hospitals in Mbuji-Mayi (10 computers, 10 tablets, 5 routers), the Kalemie general referral hospital (10, 10 and 5) and the Mutowa health centre (5, 1 and 1), which its director general said would allow an ANICNS-approved hospital information system to be put into service and ease portability of the computerised patient record; the system is described as to come, not as running.", "as_of": "2024-11-23", "date_precision": "day", "system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:domestic", "fact": "Actualite.cd states that the health-sector digital transformation project, under which the equipment for an approved hospital information system was delivered, is financed entirely by the Congolese government; no amount or budget line is given, and the date is the document's.", "as_of": "2024-11-23", "date_precision": "day", "system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Actualite.cd states that the health-sector digital transformation project is led by the national agency ANICNS (Agence Nationale d'Ingénierie Clinique et du Numérique de la Santé), which also approves the hospital information system to be put into service; the document does not name the ministry itself, and the date is the document's.", "as_of": "2024-11-23", "date_precision": "day", "system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "country_label": "SIH; Dossier Patient Informatisé", "class": "emr", "platform": "", "owner": "approved by ANICNS, the state agency leading the project; government-financed", "tiers": "to be put into service at three hospitals in Mbuji-Mayi, the Kalemie general referral hospital and the Mutowa health centre; not stated as in service"},
+    {"system": "Kit digital (computers, tablets, routers)", "country_label": "kit digital; postes de travail digitalisés", "class": "enabling", "platform": "25 computers, 21 tablets and 11 routers across the named sites", "owner": "supplied by ANICNS", "tiers": "hospitals in Mbuji-Mayi, HGR Kalemie, Mutowa health centre"},
+    {"system": "Ligne verte 151", "country_label": "ligne verte 151 dédiée à la Santé", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

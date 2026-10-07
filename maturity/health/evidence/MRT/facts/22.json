@@ -1,0 +1,88 @@
+{
+  "slug": "2025-01-01-mrt-annexe-2-de-la-decision-d-execution-de-la-commission-relative-au-finan",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The European Commission's 2025 action document for PASS IV states that the health information system DHIS2 is now deployed nationally, that primary collection and processing of data falls to the health facilities, and that the Ministry of Health service in charge of the national health information system compiles and finally processes the data, the ministry publishing the health statistical yearbook; the date is the document's own, 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The European Commission's 2025 action document commits EUR 15,000,000 of EU budget to PASS IV over 48 months, of which EUR 3,000,000 in direct procurement is for output 1.4, interoperable government-owned digital solutions, whose indicator counts interoperable digital services at 0 in 2024 against a target of 5 (information system, patient record, human resources, medicines, CNASS); the Government of Mauritania co-finances the action as a whole in parallel with EUR 1,500,000, not attributed to any system.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The European Commission's 2025 action document states that Mauritania's digital health strategy 2024-2030 is to be deployed through telemedicine, electronic medical records and integrated management systems, its success depending on local capacity, data governance and the digital ministry's support to the Ministry of Health; the date is the document's own, 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "dossiers médicaux électroniques",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The European Commission's 2025 action document names the patient record (dossier patient) among the five interoperable digital services targeted under PASS IV output 1.4, against a 2024 baseline of 0, with EUR 3,000,000 of the EU's EUR 15,000,000 set aside for procurement under that output; no domestic budget line for the record is stated.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "dossier patient",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "système d'information sanitaire DHIS2 / système d'information national sanitaire",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, the service in charge of the national health information system",
+      "tiers": "deployed nationally; no tier stated"
+    },
+    {
+      "system": "dossier patient / dossiers médicaux électroniques",
+      "country_label": "dossier patient",
+      "class": "emr",
+      "platform": "",
+      "owner": "to belong to the Government",
+      "tiers": "planned; none stated in use"
+    },
+    {
+      "system": "CNASSI",
+      "country_label": "CNASSI",
+      "class": "",
+      "platform": "",
+      "owner": "Caisse Nationale de Solidarité en Santé (CNASS)",
+      "tiers": "CNASS agencies and antennes; planned interoperability with the central system and health facilities (centres, posts, hospitals)"
+    },
+    {
+      "system": "interoperable digital solutions (PASS IV output 1.4)",
+      "country_label": "solutions numériques interopérables",
+      "class": "exchange",
+      "platform": "",
+      "owner": "to belong to the Government",
+      "tiers": "0 interoperable digital services in 2024, target 5"
+    },
+    {
+      "system": "télémédecine",
+      "country_label": "télémédecine",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned under the digital health strategy 2024-2030"
+    }
+  ],
+  "note": "The document also states that data quality stays uneven for want of qualified staff, of connectivity, and of interoperability between the Ministry's information systems and CNASS's, and that the PNDS 2022-2030 aims to digitalise the health system without saying it names DHIS2, so no plan fact is taken for hmis. It gives no tier, no place of data entry and no count of clinics for either sub-indicator. CNASSI is the insurance fund's digital system, described only as the fund's digitalisation, so it is left unclassified."
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "2021-01-01-ssd-heath-service-monitoring-in-south-sudan-overview-of-approaches-and-arr",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank brief states that the Ministry of Health, as steward of the health system, wants all reporting and monitoring organised under DHIS2 and is prioritising its rollout, with county health departments designated as the linchpins and in overall charge of DHIS2 reporting; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank brief states that respondents credited the Ministry of Health with articulating a clear strategy encouraging all facilities to report data to DHIS2, while some doubted its capacity to oversee the rollout; the strategy document is not named; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank brief states that health monitoring activities, of which HMIS including DHIS2 is one of three categories, are highly dependent on donor funding, raising concern for their sustainability once donor support is withdrawn; the statement is about monitoring as a whole and not DHIS2 alone; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The World Bank brief states that facility workers transmit their data to county health departments, which are in overall charge of DHIS2 reporting, that the system is web based, and that piloting facility-based DHIS2 at a handful of facilities such as busy hospitals was still only a recommendation to explore; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The World Bank brief states that the DHIS2 implementation was accelerating but had yet to involve a significant fraction, which it puts at 20 percent or more, of the country's health facilities; no numerator or denominator is given, and the figure is of facilities whose data reaches the system, not of clinics keying their own; from interviews held September 2020 to March 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 (South Sudan DHIS2 online platform)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with county health departments in charge of reporting; supported by donors, UN agencies and implementing partners",
+      "tiers": "health facilities report to county health departments; under 20 percent of facilities involved; tiers not stated"
+    },
+    {
+      "system": "ISDR/EWARS",
+      "country_label": "Early Warning, Alert and Response System (EWARS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health, WHO",
+      "tiers": ""
+    },
+    {
+      "system": "Pharmaceutical system",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health, USAID",
+      "tiers": ""
+    },
+    {
+      "system": "Human resources system",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, WHO",
+      "tiers": ""
+    },
+    {
+      "system": "ICRC internal monitoring system",
+      "country_label": "",
+      "class": "",
+      "platform": "proprietary",
+      "owner": "International Committee of the Red Cross",
+      "tiers": ""
+    },
+    {
+      "system": "MSF internal monitoring system",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Médecins Sans Frontières",
+      "tiers": ""
+    },
+    {
+      "system": "NIS",
+      "country_label": "Nutrition Information System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "published is a year-precision proxy; the brief's interviews ran September 2020 to March 2021, so every fact is dated 2021 at year precision. The under-20-percent figure has no exact value, so clinics is recorded as not-published with the bound in the fact."
+}

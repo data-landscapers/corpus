@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-11-worldbank-cerp-project-paper-niger",
+  "facts": [],
+  "systems": [
+    {"system": "National Health Information System (SNIS)", "country_label": "SNIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "A World Bank emergency-response project paper, read to its end (29 pages); it names the SNIS only as the Ministry of Health body giving technical support to the project and as an implementation agency in the organisation chart, with no description of what the system does, where it is used or how data is entered."
+}

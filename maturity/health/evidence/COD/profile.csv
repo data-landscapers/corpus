@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06-10,COD-004;COD-006;COD-008,COD-007=finance:donor;COD-009=owner:ministry;COD-003=owner:ministry,
-COD,hmis,tiers,coverage,,,,,nothing held
-COD,hmis,digitised,coverage,,,,,nothing held
-COD,hmis,last12,qualifier,advancing,2026-02,COD-005,,
-COD,hmis,clinics,coverage,,,,,nothing held
-COD,emr,governance,qualifier,owner:vendor,2026-08-13,COD-002,,"not stated: plan, finance"
+COD,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06-10,COD-004;COD-006;COD-031,COD-007=finance:donor;COD-024=owner:ministry;COD-028=finance:donor;COD-029=owner:ministry;COD-008=plan:current;COD-009=owner:ministry;COD-003=owner:ministry,
+COD,hmis,tiers,coverage,T2;T3;T4,2021-12,COD-026,COD-032=T2;T3,nothing dated since 2023-09-28
+COD,hmis,digitised,coverage,district,2021,COD-022;COD-025;COD-030,,nothing dated since 2023-09-28
+COD,hmis,last12,qualifier,advancing,2026-02,COD-005,COD-023=regressing;COD-027=regressing,
+COD,hmis,clinics,coverage,share:75.3%,2022,COD-021,,nothing dated since 2023-09-28
+COD,emr,governance,qualifier,owner:vendor;finance:domestic,2026-08-13,COD-002;COD-013,COD-014=owner:ministry;COD-016=owner:ministry;COD-018=finance:domestic;COD-019=owner:ministry,not stated: plan
 COD,emr,tiers,coverage,,,,,nothing held
-COD,emr,digitised,coverage,,,,,nothing held
-COD,emr,last12,qualifier,advancing,2026-08-13,COD-001;COD-010,,
+COD,emr,digitised,coverage,paper,2023,COD-020,,
+COD,emr,last12,qualifier,advancing,2026-08-13,COD-001;COD-010;COD-011;COD-012;COD-015;COD-017,,
 COD,emr,clinics,coverage,,,,,nothing held

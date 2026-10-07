@@ -1,0 +1,156 @@
+{
+  "slug": "2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health and Wellness's own roadmap, dated 2019, sets under the ministry's stewardship the establishment of one integrated DHIS2 as the default reporting system for the sector, with other systems exporting data to it and the various DHIS2 instances merged.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The ministry's Health Data Collaborative Roadmap 2020-2025, dated 2019, names DHIS2: reporting is to be improved by developing the DHIS2 platform by 2020, measured by the percentage of health facilities reporting onto it; it also records the e-Health Strategy 2016-2020 as still a draft.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The roadmap's 2020/21 operational plan, dated 2019, gives no cost, available budget or source for merging the DHIS2 instances, inside a digital health plan costed at P45,620,945 in total; the ministry also states it is not clear how much of the health budget goes to the health information system.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health and Wellness's own roadmap, dated 2019, makes establishing a home-grown electronic medical record a strategic intervention under a digital health working group led by the ministry.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "home-grown EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The ministry's Health Data Collaborative Roadmap 2020-2025, dated 2019, lists establishing a home-grown EMR for Botswana within an eHealth platform to be established by 2024, measured by the percentage of facilities using the EMR, and costs a roadmap for it and for moving existing software onto it in 2020/21.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "home-grown EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The roadmap's 2020/21 operational plan, dated 2019, costs the home-grown EMR's roadmap at US$160,000 (P1,758,242) and the evaluation of existing software at US$85,000 (P934,066), and shows no available budget or funding source against either line.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "home-grown EMR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "District Health Information Software-2 (DHIS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "the routine reporting system, in several instances to be merged; the current HMIS holds data from public facilities only, not private or NGO facilities"
+    },
+    {
+      "system": "home-grown EMR",
+      "country_label": "home-grown EMR for Botswana",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "planned; a roadmap to be drawn up in 2020/21"
+    },
+    {
+      "system": "Integrated Patient Management System (IPMS)",
+      "country_label": "Integrated Patient Management System (IPMS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "rolled out to all public hospitals; called an electronic health system, with no account of what it holds"
+    },
+    {
+      "system": "Patient Information Management System (PIMS)",
+      "country_label": "Patient Information Management System (PIMS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "a centralised version to be rolled out to all non-IPMS facilities, costed at US$1,200,000 with US$285,986 available from PEPFAR"
+    },
+    {
+      "system": "OpenMRS",
+      "country_label": "OpenMRS",
+      "class": "",
+      "platform": "OpenMRS",
+      "owner": "",
+      "tiers": "operational at various levels; not described"
+    },
+    {
+      "system": "Data warehouse",
+      "country_label": "data warehouse; Botswana National Data Warehouse (planned)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "receives electronic data from the other systems over the Government Data Network; a national warehouse integrating all routine systems is to be established, US$220,000, PEPFAR-funded"
+    },
+    {
+      "system": "Government Data Network (GDN)",
+      "country_label": "Government Data Network (GDN)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Government of Botswana",
+      "tiers": "carries the systems' data to the warehouse; all health facilities to be connected at a minimum bandwidth by end 2023"
+    },
+    {
+      "system": "Interoperability platform",
+      "country_label": "Botswana eHealth Interoperability Platform; middleware to interface PIMS, IPMS and other systems",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "planned; the existing systems are described as vertical and not sharing data readily"
+    },
+    {
+      "system": "Unique identifier and Master Patient Index",
+      "country_label": "health unique identifier (UID) and Master Patient Index (MPI)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "planned for all people in Botswana by end 2023; options to be investigated in 2020/21"
+    },
+    {
+      "system": "National facility register",
+      "country_label": "electronic national facility register",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "planned for 2020/21, PEPFAR-funded"
+    },
+    {
+      "system": "Disease surveillance system",
+      "country_label": "disease surveillance system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not integrated with the routine reporting system; to be reported onto DHIS2"
+    }
+  ],
+  "note": "Governance facts only. The 2018 assessment the roadmap reports says data at the point of generation is captured on a mixed system, paper and in some instances electronic, with up to 42 registers in one facility and 23 to 30 monthly reports each; that fits no single digitised value and is not recorded. IPMS, PIMS and OpenMRS are named without any account of what they do, so by this document alone they are unclassed and its statement that IPMS reached all public hospitals gives no EMR tiers fact; the parent may wish to reclass against documents 23 to 25. The cover gives only the year 2019."
+}

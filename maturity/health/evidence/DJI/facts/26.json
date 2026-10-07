@@ -1,0 +1,72 @@
+{
+  "slug": "2020-01-01-dji-plan-national-de-developpement-sanitaire-2020-2024",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's national health development plan 2020-2024 states that the national health information system (SNIS) is placed under the responsibility of the ministry's Direction de l'Information Sanitaire (DIS), its sub-systems covering epidemiological surveillance, routine health-service information, special programmes and administration; the plan gives no date for the statement, so its publication date is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Système National d'Information Sanitaire (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The national health development plan 2020-2024 names DHIS2 and commits to implementing it across the whole national territory, with equipment, user training, interoperability and maintenance, under a strategic priority for the SNIS costed at 435,193,066 over five years, 0.71% of the plan's budget (currency not shown in the passages); it cites a DHIS2 deployment plan used for unit costs in January 2020, and does not say who finances the line.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "national",
+      "fact": "The national health development plan 2020-2024 states that health facilities regularly send monthly activity reports (RAM), transmitted to the DIS on paper or in electronic format to be compiled there, that the SNIS holds its database on Excel and the ESOPE software, and that the system is hampered by the absence of a platform for collecting, analysing and storing data; undated in the plan, so its publication date is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Système National d'Information Sanitaire (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The national health development plan 2020-2024 gives 'No' as the baseline for a functional DHIS2 platform, with 'Yes' as the 2024 target, and says data will be transmitted through the DHIS2 portal once it is functional; the baseline is undated, so the plan's publication date is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système National d'Information Sanitaire (SNIS)",
+      "country_label": "SNIS",
+      "class": "hmis",
+      "platform": "Excel and ESOPE database at the DIS; monthly activity reports (RAM) from facilities",
+      "owner": "Ministry of Health, Direction de l'Information Sanitaire (DIS)",
+      "tiers": "monthly reports from level 1 (village/community, health post, community health centre, polyclinic), level 2 (CMH and polyclinic) and level 3 (referral hospitals, the regional hospital, private hospital), sent to the DIS on paper or electronically"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "portail DHIS2 (also written DIHS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, DIS",
+      "tiers": "planned for monthly reporting at levels 1, 2 and 3; not functional at the plan's baseline"
+    },
+    {
+      "system": "système d'information à base communautaire (SNIS communautaire)",
+      "country_label": "SNIS communautaire",
+      "class": "community",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned: a digitised community-based system compatible with or linked to DHIS2; baseline 'No', target 'Yes'"
+    }
+  ],
+  "note": "Passages only, of a 42,709-word plan, so some sentences are cut. DHIS2 is classed hmis because the plan sets it to carry the facilities' monthly activity reports. The 'national' value rests on reports compiled at the DIS in Excel and ESOPE; the plan also allows electronic transmission, without saying by which facilities. Not entered as facts, for the parent: baseline report completeness 97.5% and timeliness 51.7% of establishments or districts (these measure the monthly reports, not digital entry), 0% of eligible establishments with a functional 'e-health', and 0 digital solutions introduced, all undated baselines. The plan says digital solutions had been introduced unsystematically, often by vertical programmes, none named. The plan's own pyramid puts health posts and community health centres at level 1, CMH at level 2 and referral and regional hospitals at level 3, which bears on the tier mapping in document 25."
+}

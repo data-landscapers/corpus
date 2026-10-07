@@ -1,0 +1,12 @@
+{
+  "slug": "2023-10-11-sle-emr-system-to-improve-health-care-delivery-in-sierra-leone",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1", "fact": "The Ministry of Health and Sanitation states that it and Smart Systems Sierra Leone Ltd launched the pilot of an EMR at Connaught Hospital in Freetown, to be tested there before expansion to other government facilities; the document calls it a hospital and gives no tier, and gives no launch date, so its published date is used.", "as_of": "2023-10-11", "date_precision": "day", "system": "Electronic Medical Records (EMR) system (Smart Systems)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health and Sanitation states that it launched the Connaught Hospital EMR pilot under a memorandum of understanding signed the week before with its partner Smart Systems Sierra Leone Ltd, the company supplying the system; the document gives no launch date, so its published date is used.", "as_of": "2023-10-11", "date_precision": "day", "system": "Electronic Medical Records (EMR) system (Smart Systems)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Records (EMR) system (Smart Systems)", "country_label": "EMR", "class": "emr", "platform": "", "owner": "Ministry of Health and Sanitation with Smart Systems Sierra Leone Ltd", "tiers": "Connaught Hospital, Freetown; pilot"},
+    {"system": "DHIS2", "country_label": "District Health Information System (DHIS2)", "class": "", "platform": "DHIS2", "owner": "", "tiers": "not stated"}
+  ],
+  "note": ""
+}

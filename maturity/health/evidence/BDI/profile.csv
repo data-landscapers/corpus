@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2023-03,BDI-004;BDI-019;BDI-028,BDI-017=owner:ministry;BDI-018=plan:current,nothing dated since 2023-10-06
-BDI,hmis,tiers,coverage,T1;T2;T3,2023-03,BDI-005,BDI-025=T1;T2;T3;BDI-014=T1;T2;T3,nothing dated since 2023-10-06
-BDI,hmis,digitised,coverage,facility,2023-03,BDI-006;BDI-015;BDI-026,,nothing dated since 2023-10-06
-BDI,hmis,last12,qualifier,,,,,nothing held
-BDI,hmis,clinics,coverage,share:100%,2020,BDI-027,BDI-007=not-published;BDI-016=not-published,nothing dated since 2023-10-06
-BDI,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2023-03,BDI-010;BDI-011;BDI-013,BDI-012=finance:domestic;BDI-030=finance:donor;BDI-031=plan:current;BDI-024=plan:current,nothing dated since 2023-10-06
-BDI,emr,tiers,coverage,T1;T2,2023-03,BDI-008,BDI-029=T1;T2;BDI-020=T1;T2,nothing dated since 2023-10-06
-BDI,emr,digitised,coverage,point-of-care,2019,BDI-021,,nothing dated since 2023-10-06
-BDI,emr,last12,qualifier,,,,,nothing held
-BDI,emr,clinics,coverage,count:6,2023-03,BDI-009,BDI-022=count:3;BDI-023=pilot,nothing dated since 2023-10-06
+BDI,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-02-06,BDI-037;BDI-038;BDI-039,BDI-042=finance:donor;BDI-043=owner:ministry;BDI-004=owner:ministry;BDI-028=plan:current;BDI-017=owner:ministry;BDI-018=plan:current;BDI-019=finance:donor,
+BDI,hmis,tiers,coverage,T1;T2;T3,2023,BDI-044,BDI-005=T1;T2;T3;BDI-025=T1;T2;T3;BDI-014=T1;T2;T3,
+BDI,hmis,digitised,coverage,facility,2023,BDI-006;BDI-015;BDI-026;BDI-045,,
+BDI,hmis,last12,qualifier,advancing,2026-02-06,BDI-040;BDI-041,,
+BDI,hmis,clinics,coverage,share:100%,2020,BDI-027,BDI-007=not-published;BDI-016=not-published,nothing dated since 2023-09-28
+BDI,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-02-06,BDI-032;BDI-033;BDI-034,BDI-010=owner:ministry;BDI-011=finance:donor;BDI-012=finance:domestic;BDI-013=plan:current;BDI-030=finance:donor;BDI-031=plan:current;BDI-024=plan:current,
+BDI,emr,tiers,coverage,T1;T2,2023-03,BDI-008,BDI-029=T1;T2;BDI-020=T1;T2,nothing dated since 2023-09-28
+BDI,emr,digitised,coverage,point-of-care,2019,BDI-021,,nothing dated since 2023-09-28
+BDI,emr,last12,qualifier,advancing,2026-02-06,BDI-036,,
+BDI,emr,clinics,coverage,count:460,2026-02-06,BDI-035,BDI-009=count:6;BDI-022=count:3;BDI-023=pilot,

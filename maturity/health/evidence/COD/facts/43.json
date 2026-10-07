@@ -1,0 +1,13 @@
+{
+  "slug": "2024-11-01-cod-kinshasa-le-centre-hospitalier-universitaire-renaissance-beneficie-dun",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "ACP reported that on 1 November 2024 ANICNS handed the Centre Hospitalier Universitaire Renaissance in Kinshasa 20 computers, 20 tablets and 5 routers for 40 digitised workstations, which its director general said would also allow an ANICNS-approved hospital information system to be put into service and ease portability of the computerised patient record; the system is described as to come, not as running.", "as_of": "2024-11-01", "date_precision": "day", "system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "ACP describes ANICNS, which approves the hospital information system, as a public establishment of a scientific and technical character charged with setting up and coordinating the digital system for universal health coverage and with digital governance of that coverage; the document does not name the ministry itself, and the date is the document's.", "as_of": "2024-11-01", "date_precision": "day", "system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Système d'Information Hospitalier (SIH) homologué par l'ANICNS", "country_label": "SIH; dossier patient informatisé", "class": "emr", "platform": "", "owner": "approved by ANICNS, a public establishment; operator not stated", "tiers": "to be put into service at the Centre Hospitalier Universitaire Renaissance, Kinshasa; not stated as in service"},
+    {"system": "Kit digital (computers, tablets, routers)", "country_label": "kit digital; postes de travail digitalisés", "class": "enabling", "platform": "20 computers, 20 tablets, 5 routers", "owner": "supplied by ANICNS, financed entirely by the Congolese government", "tiers": "Centre Hospitalier Universitaire Renaissance, Kinshasa (40 workstations)"},
+    {"system": "Système digital dédié à la CSU", "country_label": "système digital dédié à la CSU", "class": "", "platform": "", "owner": "ANICNS is charged with setting it up and coordinating it", "tiers": ""}
+  ],
+  "note": "The document says the equipment kit, an enabling item, is financed entirely by the government; it does not say who finances the hospital information system, so no finance fact is recorded."
+}

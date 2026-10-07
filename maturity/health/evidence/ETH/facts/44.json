@@ -1,0 +1,36 @@
+{
+  "slug": "2026-01-01-eth-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Countdown to 2030 with the Ethiopian Public Health Institute and the Ministry of Health report that the share of expected monthly facility reports received in DHIS2 (mean of antenatal care, delivery and immunisation) rose from 90% in 2024 to 93% in 2025, from 89% in 2020, and that regions with completeness of 90% or more rose from 77% to 79% (59% in 2020); the annual data quality score was 89 in both years.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The same report gives outpatient service-utilisation reporting completeness in DHIS2 as 80-84% over 2019-2023, 90% in 2024 and 92% in 2025, with data element completeness at 100% in 2024 and 2025 and 79% of regions at 90% completeness or more in 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2; routine health information system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "health facilities reporting monthly, aggregated by region; tiers not stated"
+    }
+  ],
+  "note": "States reporting completeness and data quality only; nothing on tiers, where data is keyed, or the share of clinics entering their own reports. The 2025 figures are annual, the latest year in the report."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2025-07-18-bfa-digitalisation-de-la-gestion-des-hopitaux-au-burkina-des-administrateu",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "NetAfrique reports that the OpenClinic platform, an integrated hospital management system whose functions include clinical and nursing records, is deployed at pilot sites, namely the CHUR of Ouahigouya and the CHR of Manga; the article states no date, so the published date is used.",
+      "as_of": "2025-07-18",
+      "date_precision": "day",
+      "system": "OpenClinic",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "NetAfrique reports that the Ministry of Health, through its Direction des systèmes d'information (DSI) and its hospital information system team, runs the second training session for OpenClinic administrators in the Nazinon region, the tool having been chosen at a workshop with the directors general of all university and regional hospitals; the article states no date, so the published date is used.",
+      "as_of": "2025-07-18",
+      "date_precision": "day",
+      "system": "OpenClinic",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OpenClinic",
+      "country_label": "OpenClinic; Système d'information hospitalier (SIH)",
+      "class": "emr",
+      "platform": "OpenClinic (open source)",
+      "owner": "Ministry of Health, Direction des systèmes d'information (DSI)",
+      "tiers": "pilot sites: CHUR of Ouahigouya and CHR of Manga"
+    }
+  ],
+  "note": "The article says the platform also covers patient administration, health insurance, finance, admissions and transfers, cashier, laboratory, imaging and pharmacy. It names no plan or budget for the system and does not say whether records are entered at the point of care."
+}

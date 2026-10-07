@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-23,ETH-007;ETH-008;ETH-009,ETH-017=plan:current;ETH-013=owner:ministry;ETH-014=plan:current;ETH-020=owner:ministry;ETH-010=owner:ministry;ETH-019=plan:current,
-ETH,hmis,tiers,coverage,T1;T2;T3;T4,2025,ETH-011;ETH-012,ETH-015=T1;T2;T3;T4;ETH-022=T1;T2;T3;ETH-018=T1;T2;T3,
-ETH,hmis,digitised,coverage,facility,2022-06,ETH-016;ETH-023,,nothing dated since 2023-10-06
-ETH,hmis,last12,qualifier,,,,,nothing held
-ETH,hmis,clinics,coverage,share:95%,2023-05-11,ETH-021,,nothing dated since 2023-10-06
-ETH,emr,governance,qualifier,plan:current;finance:donor,2025-12-23,ETH-004;ETH-005,,not stated: owner
-ETH,emr,tiers,coverage,,,,,nothing held
-ETH,emr,digitised,coverage,,,,,nothing held
-ETH,emr,last12,qualifier,advancing,2025-12-23,ETH-006,,
-ETH,emr,clinics,coverage,share:0%,2025-12-23,ETH-003,,
+ETH,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,ETH-008;ETH-009;ETH-035,ETH-007=plan:current;ETH-030=plan:current;ETH-017=plan:current;ETH-013=owner:ministry;ETH-014=plan:current;ETH-020=owner:ministry;ETH-034=owner:ministry;ETH-010=owner:ministry;ETH-019=plan:current,
+ETH,hmis,tiers,coverage,T1;T2;T3;T4,2025,ETH-011;ETH-012;ETH-032,ETH-015=T1;T2;T3;T4;ETH-022=T1;T2;T3;ETH-018=T1;T2;T3,
+ETH,hmis,digitised,coverage,facility,2025,ETH-016;ETH-023;ETH-028;ETH-033;ETH-036;ETH-046;ETH-050,ETH-029=district,
+ETH,hmis,last12,qualifier,advancing,2025,ETH-024,,
+ETH,hmis,clinics,coverage,share:95%,2025,ETH-021;ETH-031,ETH-041=count:33000,
+ETH,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-23,ETH-004;ETH-005;ETH-027,ETH-026=plan:current;ETH-039=owner:ministry;ETH-040=plan:current;ETH-042=owner:ministry;ETH-043=plan:current;ETH-053=owner:ministry,
+ETH,emr,tiers,coverage,T1;T2;T3,2024-09-15,ETH-044,ETH-047=T2;T3;ETH-051=T1,
+ETH,emr,digitised,coverage,point-of-care,2024-12-06,ETH-038;ETH-045;ETH-048,ETH-049=keyed-afterwards;ETH-052=paper,
+ETH,emr,last12,qualifier,advancing,2025-12-23,ETH-006;ETH-025,,
+ETH,emr,clinics,coverage,share:0%,2025-12-23,ETH-003,ETH-037=count:70,

@@ -1,0 +1,71 @@
+{
+  "slug": "2024-10-01-ken-financial-and-non-financial-information-flows-in-the-kenya-health-sect",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "IDinsight states that KHIS Aggregate is used by the Ministry of Health to collect, manage and analyse health data from facilities nationwide, and that the ministry's Health Informatics Division creates and revises the registers and forms that feed it; no date is given, so the document's publication date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Kenya Health Information System (KHIS) Aggregate",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "IDinsight states that KHIS Aggregate collects data from health facilities nationwide and is designed to support health information management at all levels of the health system, from the national level down to the community level; it names no facility tier individually and gives no date, so the document's publication date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Kenya Health Information System (KHIS) Aggregate",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "IDinsight states that KHIS Aggregate is web-based and lets health facilities enter and submit their data online, and that facilities record services in paper daily activity registers which are summarised at the end of the week or month and entered into KHIS; no date is given, so the document's publication date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Kenya Health Information System (KHIS) Aggregate",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "IDinsight reports that Kenyatta National Hospital told its interviewers it has an e-hospital platform used mainly to capture clinical data; no date is given, so the document's publication date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "e-hospital platform (Kenyatta National Hospital)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Kenya Health Information System (KHIS) Aggregate", "country_label": "KHIS", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": "all levels of the health system, national down to community; facilities enter and submit data online"},
+    {"system": "KHIS Tracker", "country_label": "KHIS Tracker", "class": "tracker", "platform": "", "owner": "", "tiers": "described as tracking health services and programmes, and facilities' services, resources and commodities; not stated as patient-level"},
+    {"system": "KHIS Event Capture", "country_label": "KHIS Event Capture", "class": "single-function", "platform": "", "owner": "", "tiers": "health workers reporting disease outbreaks and public health events"},
+    {"system": "Kenya Master Health Facility List", "country_label": "KMHFL", "class": "exchange", "platform": "", "owner": "", "tiers": "maintained by sub-county and county health records information officers"},
+    {"system": "TIBU", "country_label": "TIBU", "class": "tracker", "platform": "", "owner": "National Tuberculosis Program", "tiers": "case-based TB data entered by TB coordinators on behalf of facilities, monthly or quarterly; aggregated into KHIS quarterly"},
+    {"system": "TIBU lite", "country_label": "TIBU lite", "class": "community", "platform": "", "owner": "National Tuberculosis Program", "tiers": "community level, integrated with the Community Worker App"},
+    {"system": "KenyaEMR", "country_label": "KenyaEMR", "class": "tracker", "platform": "", "owner": "", "tiers": "not stated; captures patient-level HIV data"},
+    {"system": "Electronic Community Health Information System", "country_label": "eCHIS", "class": "community", "platform": "", "owner": "", "tiers": "community health promoters on tablets; being implemented in Kilifi and Nakuru counties"},
+    {"system": "e-hospital platform (Kenyatta National Hospital)", "country_label": "e-hospital platform", "class": "emr", "platform": "", "owner": "Kenyatta National Hospital", "tiers": "Kenyatta National Hospital"},
+    {"system": "Comprehensive Patient Application Database", "country_label": "CPAD", "class": "", "platform": "", "owner": "", "tiers": "private and public hospitals (Waithera et al., 2017)"},
+    {"system": "IQ Care", "country_label": "IQ Care", "class": "", "platform": "", "owner": "", "tiers": "private and public hospitals (Waithera et al., 2017)"},
+    {"system": "Care 2000", "country_label": "Care 2000", "class": "", "platform": "", "owner": "", "tiers": "private and public hospitals (Waithera et al., 2017)"},
+    {"system": "Funsoft", "country_label": "Funsoft", "class": "", "platform": "", "owner": "", "tiers": "private and public hospitals (Waithera et al., 2017)"},
+    {"system": "Compact", "country_label": "Compact", "class": "", "platform": "", "owner": "", "tiers": "private and public hospitals (Waithera et al., 2017)"},
+    {"system": "Open Medical Record System", "country_label": "OpenMRS", "class": "", "platform": "OpenMRS", "owner": "", "tiers": "private and public hospitals (Waithera et al., 2017)"},
+    {"system": "MEDBOSS", "country_label": "MEDBOSS", "class": "", "platform": "", "owner": "Trans-Nzoia County", "tiers": "Trans-Nzoia County; outpatient registration data"},
+    {"system": "DORMAS", "country_label": "DORMAS", "class": "", "platform": "", "owner": "Trans-Nzoia County", "tiers": "Trans-Nzoia County; outpatient registration data"},
+    {"system": "Elephant", "country_label": "Elephant", "class": "", "platform": "", "owner": "Nakuru County", "tiers": "Nakuru County"},
+    {"system": "AfyaKE", "country_label": "AfyaKE", "class": "", "platform": "", "owner": "Nakuru County", "tiers": "Nakuru County"},
+    {"system": "Electronic Health Information System (Kenya Health Facility Census 2023)", "country_label": "EHIS", "class": "", "platform": "", "owner": "", "tiers": "about one-third of 14,883 surveyed facilities; 62% of those integrated or end-to-end, 38% programme-specific"},
+    {"system": "Comprehensive Integrated Digital Health Information System", "country_label": "digital health superhighway", "class": "exchange", "platform": "", "owner": "Digital Health Agency, under the Digital Health Act 2023", "tiers": "not stated; government initiative under way"},
+    {"system": "E-Claim system", "country_label": "E-Claim system", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "not stated; expected within six months on a respondent's account"},
+    {"system": "National Health Data banks", "country_label": "National Health Data banks", "class": "", "platform": "", "owner": "", "tiers": "established by section 26 of the Digital Health Act"}
+  ],
+  "note": "No clinics fact: the Health Facility Census figure (about one-third of 14,883 facilities with an EHIS, MoH 2023) is not described as HMIS entry or as a clinical record, so it is a systems entry only."
+}

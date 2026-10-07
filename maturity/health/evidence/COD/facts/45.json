@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-cod-status-report-on-computerized-management-of-patient-files-in-hospitals",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "A University of Kananga survey of 86 staff in 7 hospitals of the city of Kananga (the provincial hospital and six general referral hospitals), covering January to December 2023, found 4 respondents (4.7%) managing patient information electronically against 46 (53.5%) on forms, 20 (23.3%) on paper, 10 (11.6%) in registers and 6 (7.0%) otherwise; the authors call computerisation of patient files in the city almost non-existent, and 69 (80.2%) gave lack of means as the reason for not using software.", "as_of": "2023", "date_precision": "year", "system": "Computerized Patient File (DPI)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Computerized Patient File (DPI)", "country_label": "dossier patient informatisé (DPI)", "class": "emr", "platform": "none named", "owner": "", "tiers": "7 hospitals in Kananga surveyed (provincial hospital and six general referral hospitals); 4 of 86 respondents report electronic management of patient information"},
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": "named as the software used at the hospital by 84 of 86 respondents (97.7%) in 7 Kananga hospitals; what it is used for is not described"},
+    {"system": "Computerized medication management", "country_label": "", "class": "single-function", "platform": "not named", "owner": "", "tiers": "78 of 86 respondents (90.7%) in 7 Kananga hospitals say medication management is computerised in their facility"}
+  ],
+  "note": "DHIS2 is named as the software in use with no description of what it does there, so it gives no HMIS fact."
+}

@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2022-12-09,MAR-011;MAR-017;MAR-019,MAR-018=plan:current,nothing dated since 2023-10-06
-MAR,hmis,tiers,coverage,T3,2019-12,MAR-014,,nothing dated since 2023-10-06
-MAR,hmis,digitised,coverage,facility,2019-12,MAR-015,MAR-016=paper,nothing dated since 2023-10-06
-MAR,hmis,last12,qualifier,,,,,nothing held
-MAR,hmis,clinics,coverage,share:100%,2019-12,MAR-013,,nothing dated since 2023-10-06
-MAR,emr,governance,qualifier,owner:ministry;plan:current,2026-06-01,MAR-004;MAR-012,MAR-005=owner:ministry;MAR-010=owner:ministry,not stated: finance
-MAR,emr,tiers,coverage,none,2019-12,MAR-020,,nothing dated since 2023-10-06
-MAR,emr,digitised,coverage,,,,,nothing held
+MAR,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-06,MAR-022;MAR-023;MAR-028,MAR-024=finance:domestic;MAR-011=plan:current;MAR-017=owner:ministry;MAR-019=finance:donor;MAR-018=plan:current,
+MAR,hmis,tiers,coverage,T1;T2,2023-03,MAR-026,MAR-014=T3,nothing dated since 2023-09-28
+MAR,hmis,digitised,coverage,facility,2019-12,MAR-015,MAR-016=paper,nothing dated since 2023-09-28
+MAR,hmis,last12,qualifier,advancing,2025-12-06,MAR-025,,
+MAR,hmis,clinics,coverage,share:100%,2019-12,MAR-013,MAR-027=not-published,nothing dated since 2023-09-28
+MAR,emr,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-06-01,MAR-004;MAR-012;MAR-033,MAR-005=owner:ministry;MAR-031=owner:ministry;MAR-032=owner:ministry;MAR-040=owner:ministry;MAR-010=owner:ministry,
+MAR,emr,tiers,coverage,T1;T2;T3;T4,2024-12-01,MAR-029;MAR-035;MAR-036;MAR-039,MAR-034=none;MAR-020=none,
+MAR,emr,digitised,coverage,point-of-care,2024-05-29,MAR-037,MAR-038=keyed-afterwards,
 MAR,emr,last12,qualifier,advancing,2026-08-06,MAR-001;MAR-002;MAR-003;MAR-007;MAR-021,,
-MAR,emr,clinics,coverage,not-published,2026-04-15,MAR-006,,
+MAR,emr,clinics,coverage,not-published,2026-04-15,MAR-006;MAR-030,,

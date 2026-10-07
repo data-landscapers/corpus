@@ -1,0 +1,86 @@
+{
+  "slug": "2021-03-15-mus-score-for-health-data-technical-package-assessment-summary-for-mauriti",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "WHO's SCORE assessment summary, on data from 2013-2018, rates a standardised system of electronic data entry for aggregate reporting at district or comparable level as 'not there' in Mauritius, while rating completeness of reporting above 75% for public primary care facilities, public hospitals and private facilities; the last year of the data is used as the date.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "routine facility reporting system",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "WHO's SCORE assessment summary, on data from 2013-2018, rates as 'not there' a system of electronic capture of patient-level health data that is standardised and fully interoperable with the aggregate routine system, both in hospitals and in primary care facilities, and records 'no data' on a national unique patient identifier; the criterion is a standardised interoperable system, not any electronic record, and the last year of the data is used as the date.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "electronic capture of patient-level health data",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "WHO's SCORE assessment summary, on data from 2013-2018, rates a standardised and interoperable system of electronic capture of patient-level data in primary care health facilities as 'not there', with no count of facilities; the last year of the data is used as the date.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "electronic capture of patient-level health data",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "routine facility reporting system",
+      "country_label": "routine facility reporting system with patient monitoring; HMIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "public primary care facilities, public hospitals and private facilities report, each above 75% complete; no electronic aggregate entry at district level (2013-2018)"
+    },
+    {
+      "system": "electronic capture of patient-level health data",
+      "country_label": "",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "rated not there in hospitals and in primary care facilities (2013-2018)"
+    },
+    {
+      "system": "national human resources health information system (HRHIS)",
+      "country_label": "HRHIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; most tracking functions rated partial"
+    },
+    {
+      "system": "cancer registries",
+      "country_label": "cancer registries for all types of cancer",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; rated complete"
+    },
+    {
+      "system": "master facility list",
+      "country_label": "master facility list",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; rated up to date and complete"
+    },
+    {
+      "system": "national health data portal",
+      "country_label": "national health data portal",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; updated less than annually, limited coverage"
+    }
+  ],
+  "note": "A scorecard of ratings, not prose: every fact is a rated checklist item, and the data are from 2013-2018 although the summary was updated on 15 March 2021. The summary also rates standards-based data exchange between systems as 'not there' and records a national eHealth strategy and a well-enforced legal framework for health information systems; neither names a system, so no governance fact is taken. No system is named anywhere in the document."
+}

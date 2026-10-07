@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-01-uga-uganda-national-health-compact-2025-2030",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The National Health Compact 2025-2030, adopted December 2025, commits under action 2.9 to scale up DHIS2 to all facilities, with a target of 100% of hospitals and 80% of HC IVs and IIIs reporting in real time by 2028; the Ministry of Health is named first among the responsible entities, and the compact elsewhere describes DHIS 2 as used for routine reporting from health facilities.", "as_of": "2025-12", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The National Health Compact 2025-2030, adopted December 2025, commits under action 2.9 to scale up the Electronic Medical Records System (EMRS) to all facilities and make it interoperable with eLMIS, mTRAC, eCHIS and health registries, with the Ministry of Health named first among the responsible entities; it gives no count of facilities now using it.", "as_of": "2025-12", "date_precision": "month", "system": "Electronic Medical Records System (EMRS)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (District Health Information System 2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "Routine reporting from health facilities; to be scaled to all facilities"},
+    {"system": "HMIS", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "", "tiers": "Named as data source for facility deliveries and tracer-medicine availability; national health management information system, reporting to which is called poor in one part of the health sector (passage truncated)"},
+    {"system": "Electronic Medical Records System (EMRS)", "country_label": "EMRS", "class": "emr", "platform": "", "owner": "", "tiers": "To be scaled to all facilities"},
+    {"system": "electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "", "tiers": "Use to be scaled up under the health supply chain action (2.7)"},
+    {"system": "eCHIS", "country_label": "eCHIS", "class": "community", "platform": "", "owner": "", "tiers": "Named as data source for households visited by a VHT member"},
+    {"system": "mTRAC", "country_label": "mTRAC", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Health Registries", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. The EMRS is classed emr on its name alone, the compact giving no further description of what it holds. The compact's interoperability commitment (EMRS and DHIS2 with eLMIS, mTRAC, eCHIS and health registries) is a target, not a statement of what runs."
+}

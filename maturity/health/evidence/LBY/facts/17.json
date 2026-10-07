@@ -1,0 +1,56 @@
+{
+  "slug": "2025-12-24-lby-barriers-electronic-medical-records-sabratha-teaching-hospital",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "A Sabratha University field study says Sabratha Teaching Hospital has moved to apply an electronic medical records system but difficulties prevent its full use; 80 staff (doctors, nurses, administrators) were surveyed. No date is given for the survey, so the publication date is used.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Electronic medical records system, Sabratha Teaching Hospital",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The study's author states that most public hospitals in Libya use traditional paper records, with a clear trend towards adopting electronic medical records that is slow or stalled in many government hospitals; no figures given, and no date, so the publication date is used.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Paper medical records in public hospitals",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "In the staff survey at Sabratha Teaching Hospital, 56 of 80 respondents agreed or strongly agreed that there is no clear strategic plan for developing the hospital's electronic system, and 50 of 80 that no clear legislation or regulations govern electronic records; survey undated, publication date used.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Electronic medical records system, Sabratha Teaching Hospital",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "In the same survey 70 of 80 respondents agreed or strongly agreed that the financial resources allocated to developing the system are insufficient, and 50 of 80 that government support for it is limited; the source of the funding is not stated. Survey undated, publication date used.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Electronic medical records system, Sabratha Teaching Hospital",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic medical records system, Sabratha Teaching Hospital",
+      "country_label": "نظام السجلات الطبية الإلكترونية",
+      "class": "emr",
+      "platform": "",
+      "owner": "Sabratha Teaching Hospital",
+      "tiers": "Sabratha Teaching Hospital (one public teaching hospital)"
+    }
+  ],
+  "note": ""
+}

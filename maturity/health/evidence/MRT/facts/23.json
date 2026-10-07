@@ -1,0 +1,54 @@
+{
+  "slug": "2023-01-01-world-bank-phcpi-assessment-primary-health-care-system-mauritania",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The World Bank's PHCPI assessment states that health posts continue to submit their information on paper to health centres, where it is then made available digitally, making the information system partially electronic, and that the SNIS relies on DHIS2 for the entry and compilation of data received from the districts, each district having DHIS2 access online or offline; undated in the text, so dated to publication, 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Health Information System (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3;T4",
+      "fact": "The World Bank's PHCPI assessment states that SNIS data, including consultation and emergency services, are collected by the first-level facilities (health posts and centres) and sent to the moughataa health centre, which compiles them into quarterly reports reviewed by the regional directorate before going to the centre; that the SNIS network includes all health districts but not the private sector; and that monthly summary reports from basic health facilities have a coverage rate of 92 percent, with no numerator or denominator; undated, so dated to publication, 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Health Information System (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank's PHCPI assessment states that the SNIS is implemented by the Ministry of Health in most health facilities and, on expert interviews, that it uses DHIS2, which the ministry has piloted but not scaled up to national level; undated, so dated to publication, 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Health Information System (SNIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Information System (SNIS)",
+      "country_label": "Système National d'Information Sanitaire (SNIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "health posts and health centres collect; moughataa health centres compile; regional directorates review; all health districts, private sector not integrated"
+    },
+    {
+      "system": "online applications and rapid SMS",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No emr fact: the passages name the development and use of registries and personal medical records as a key weakness and recommend building personal care records on the SNIS, without stating that records are on paper or naming any record system in use. The text is inconsistent on DHIS2's reach (not scaled up nationally, yet every district has access); both statements are recorded as given. Within the quarterly reports, ANC, immunisation and TB/HIV programmes are said to have nominal registration per patient, with no system named."
+}

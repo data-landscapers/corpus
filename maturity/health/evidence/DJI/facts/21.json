@@ -1,0 +1,44 @@
+{
+  "slug": "2026-02-08-dji-strengthening-the-governance-of-gender-based-violence-data-integrating",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNFPA Djibouti states that the Ministry of Health ensures national governance of the integrated DHIS2 and GBVIMS-Health platform and oversees the security, confidentiality and sovereignty of its data, while its Health Information Directorate (DIS), supported by the DSME and INSPD, administers the system: user access, analysis and reports; the document dates the launching workshop 2 February 2025, though it was published on 8 February 2026.",
+      "as_of": "2025-02-02",
+      "date_precision": "day",
+      "system": "National Health Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNFPA Djibouti states that the Ministry of Health began integrating gender-based violence case-management data into the National Health Information System (DHIS2) with UNFPA's technical and financial support; the statement covers the integration work only, not the system's running costs, and the workshop launching it is dated 2 February 2025 in a document published on 8 February 2026.",
+      "as_of": "2025-02-02",
+      "date_precision": "day",
+      "system": "National Health Information System (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Information System (DHIS2)",
+      "country_label": "National Health Information System",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health; operational administration by the Health Information Directorate (DIS) with the DSME and INSPD",
+      "tiers": ""
+    },
+    {
+      "system": "GBVIMS-Health",
+      "country_label": "GBVIMS-Health",
+      "class": "tracker",
+      "platform": "GBVIMS",
+      "owner": "Ministry of Health (national governance of the integrated platform); UNFPA technical and financial support",
+      "tiers": "health facilities, the National Gendarmerie, the UNFD listening unit and the National Agency for Persons Living with Disabilities contribute to case registration and follow-up"
+    }
+  ],
+  "note": "The document calls DHIS2 the National Health Information System and describes validated indicators entering it for service monitoring and national trend analysis; it is classed hmis on that, though the document never describes routine reporting of patients treated, so the parent may prefer it unclassified. The file's own frontmatter flags that the workshop date of 2 February 2025 may be a slip for 2026. Interoperability between DHIS2 and GBVIMS-Health was under examination, not in operation: a matter for exchange.csv. Validated GBV indicators are to be integrated into DHIS2 progressively; no tier, entry point or clinic count is stated."
+}

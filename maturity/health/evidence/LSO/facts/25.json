@@ -1,0 +1,68 @@
+{
+  "slug": "2023-12-11-lso-mcc-set-to-invest-in-stronger-digital-health-systems-in-lesotho",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "MCC states that a pregnant woman who tests negative for HIV or TB at a rural health centre has her care recorded on paper, in a health booklet she carries, while an HIV-positive patient's care is recorded in an electronic medical record; MCC gives no date, so the document's is used.",
+      "as_of": "2023-12-11",
+      "date_precision": "day",
+      "system": "paper record and patient-held health booklet",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "MCC states that it plans to work with the Ministry of Health to design and implement a fully operational digital health system across all disease areas, building on what PEPFAR established, with major investment in digital health infrastructure beginning in early 2024; it names no domestic funding.",
+      "as_of": "2023-12-11",
+      "date_precision": "day",
+      "system": "national digital health system (planned)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic medical record for HIV-positive patients",
+      "country_label": "electronic medical record",
+      "class": "tracker",
+      "platform": "",
+      "owner": "built on PEPFAR and Global Fund investment",
+      "tiers": "rural health centres, for HIV-positive patients; linked to the national health information system, pharmacy and laboratory systems"
+    },
+    {
+      "system": "national health information system",
+      "country_label": "national health information system",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "non-HIV patient information is manually tabulated and entered; where is not stated"
+    },
+    {
+      "system": "pharmacy system",
+      "country_label": "pharmacy system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "laboratory system",
+      "country_label": "laboratory system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "national digital health system (planned)",
+      "country_label": "national digital health system",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health with MCC, through the Millennium Challenge Account",
+      "tiers": "planned for primary health care, all disease areas"
+    }
+  ],
+  "note": "The existing electronic medical record is classed tracker: this document says it serves HIV-positive (and by implication TB) patients only, so its presence at rural health centres gives no emr fact. No hmis digitised fact: non-HIV data is manually tabulated and entered into the national system, but the document does not say at which level. The planned system is classed emr on 'across all disease areas'. The document's date is a proxy by its frontmatter."
+}

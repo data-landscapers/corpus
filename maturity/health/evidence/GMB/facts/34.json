@@ -1,0 +1,13 @@
+{
+  "slug": "2023-07-01-gmb-the-primary-health-care-system-of-the-gambia-a-primary-health-care-per",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3;T4", "fact": "The World Bank's PHCPI assessment states that The Gambia has established an HMIS in all public facilities and uses it to collect and store data in DHIS2 across all public facilities, with private and urban facilities excluded; it names no tiers and gives no date beyond a validation workshop of November 2021, so the report's published month is used.", "as_of": "2023-07", "date_precision": "month", "system": "HMIS (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The World Bank assessment states that many lower-level facilities continue to collect HMIS data on paper and that further digitalisation of data collection at facility level is needed; it gives no number or share of facilities, and no date, so the report's published month is used.", "as_of": "2023-07", "date_precision": "month", "system": "HMIS (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "HMIS (DHIS2)", "country_label": "Health Management Information System (HMIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "all public facilities; paper data collection continues in many lower-level facilities; private and urban facilities excluded"},
+    {"system": "Electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "Government with the Global Fund", "tiers": "pilot in 50 facilities, expected to cover all health facilities by July 2023"},
+    {"system": "Integrated Disease Surveillance and Response (IDSR)", "country_label": "IDSR", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": "electronic system not interoperable with DHIS2; facility-level data collection needs further digitalisation"}
+  ],
+  "note": "Passages only. No emr fact: the report names no patient record system; it says, from key informants, that the country has no unique person identification letting facilities keep a history of referrals or reach clinical data, and calls longitudinal personal care records an area of opportunity."
+}

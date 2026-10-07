@@ -1,10 +1,10 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,hmis,governance,qualifier,owner:ministry;plan:current,2022,SYC-005;SYC-006,,nothing dated since 2023-10-06
+SYC,hmis,governance,qualifier,owner:ministry;plan:current,2022,SYC-005;SYC-006,SYC-011=plan:current;SYC-012=owner:ministry,nothing dated since 2023-09-28
 SYC,hmis,tiers,coverage,,,,,nothing held
-SYC,hmis,digitised,coverage,paper,2022,SYC-004,,nothing dated since 2023-10-06
+SYC,hmis,digitised,coverage,paper,2022,SYC-004,,nothing dated since 2023-09-28
 SYC,hmis,last12,qualifier,,,,,nothing held
 SYC,hmis,clinics,coverage,,,,,nothing held
-SYC,emr,governance,qualifier,,,,,nothing held
+SYC,emr,governance,qualifier,owner:ministry;plan:current,2024-01-22,SYC-007;SYC-009,SYC-008=owner:ministry;SYC-010=owner:ministry,not stated: finance
 SYC,emr,tiers,coverage,,,,,nothing held
 SYC,emr,digitised,coverage,,,,,nothing held
 SYC,emr,last12,qualifier,,,,,nothing held

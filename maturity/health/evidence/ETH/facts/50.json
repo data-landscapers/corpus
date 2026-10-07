@@ -1,0 +1,138 @@
+{
+  "slug": "2024-09-15-eth-digital-health-systems",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Central Ethiopia Regional Health Bureau states that the EMR system is led by the Federal Ministry of Health in collaboration with regional health bureaus and development partners; the page is undated and its proxy published date is used.",
+      "as_of": "2024-09-15",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The regional health bureau calls the EMR system a foundational pillar of Ethiopia's digital health strategy, aligned with the national eHealth architecture; the strategy is not named or dated, the page is undated and its proxy published date is used.",
+      "as_of": "2024-09-15",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The regional health bureau states that EMR systems are implemented in health centres and hospitals to replace paper patient records, with several platforms piloted and scaled including SmartCare, OpenMRS and regionally customised solutions; no count or hospital level is given, the page is undated and its proxy published date is used.",
+      "as_of": "2024-09-15",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The regional health bureau lists real-time data entry at the point of care among the EMR's features, with online and offline working and records linked across outpatient, pharmacy, laboratory and inpatient departments within the facility; interoperability with other platforms is described as designed, not as in use; the page is undated and its proxy published date is used.",
+      "as_of": "2024-09-15",
+      "date_precision": "day",
+      "system": "Electronic Medical Record (EMR) system",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The regional health bureau states that DHIS2 is implemented nationwide and deployed across health facilities ranging from primary healthcare units to hospitals, where it collects data on services such as maternal and child health, immunisation and nutrition, and serves as the hub for collection, analysis and reporting at regional bureau and district levels; no count is given, the page is undated and its proxy published date is used.",
+      "as_of": "2024-09-15",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2; national Health Management Information System (HMIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and regional health bureaus",
+      "tiers": "health facilities from primary healthcare units to hospitals; regional health bureau and district levels"
+    },
+    {
+      "system": "electronic Community Health Information System (eCHIS)",
+      "country_label": "eCHIS",
+      "class": "community",
+      "platform": "smartphone or tablet application, offline-capable",
+      "owner": "Ministry of Health",
+      "tiers": "Health Extension Workers; stated to be integrated with the national HMIS and to synchronise community data with DHIS2"
+    },
+    {
+      "system": "Master Facility Registry (MFR)",
+      "country_label": "MFR",
+      "class": "exchange",
+      "platform": "web-based",
+      "owner": "Federal Ministry of Health, with regional health bureaus and technical partners",
+      "tiers": "all public and private health facilities, each with a unique identifier"
+    },
+    {
+      "system": "Electronic Medical Record (EMR) system",
+      "country_label": "EMR",
+      "class": "emr",
+      "platform": "SmartCare, OpenMRS and regionally customised solutions",
+      "owner": "Federal Ministry of Health with regional health bureaus and development partners",
+      "tiers": "health centres and hospitals"
+    },
+    {
+      "system": "Dagu",
+      "country_label": "Dagu; Dagu 2 (logistics management information system)",
+      "class": "single-function",
+      "platform": "Dagu",
+      "owner": "",
+      "tiers": "facility stores and dispensing units in government hospitals, health centres, refugee health centres, private hospitals and clinics"
+    },
+    {
+      "system": "Electronic Auditable Pharmaceuticals Transactions and Service (eAPTS)",
+      "country_label": "eAPTS",
+      "class": "single-function",
+      "platform": "Dagu 2",
+      "owner": "",
+      "tiers": "dispensing units"
+    },
+    {
+      "system": "eMCS",
+      "country_label": "eMCS (electronic medical catalogue system)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "facility card rooms"
+    },
+    {
+      "system": "iHRIS",
+      "country_label": "iHRIS (human resource information system)",
+      "class": "",
+      "platform": "iHRIS",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Vitas",
+      "country_label": "Vitas",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Fanos Dashboard",
+      "country_label": "Fanos Dashboard",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "An undated catalogue page with no counts; published is a proxy date. eMCS registers patients and traces cards and is stated not to be the EMR; iHRIS is a workforce system; neither fits a class. 'Primary healthcare units' is not defined, so no hmis tiers fact is recorded."
+}

@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,MDG-004;MDG-005;MDG-014,MDG-012=owner:ministry;MDG-013=plan:current,
+MDG,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,MDG-004;MDG-005;MDG-027,MDG-012=owner:ministry;MDG-013=plan:current;MDG-025=owner:ministry;MDG-026=plan:current;MDG-014=finance:donor,
 MDG,hmis,tiers,coverage,T2;T3,2023,MDG-015,MDG-010=T3,
 MDG,hmis,digitised,coverage,district,2023,MDG-009;MDG-016,,
 MDG,hmis,last12,qualifier,advancing,2025,MDG-001;MDG-002,MDG-003=regressing,
 MDG,hmis,clinics,coverage,pilot,2023,MDG-017,,
-MDG,emr,governance,qualifier,plan:current,2023,MDG-018,,"not stated: owner, finance"
-MDG,emr,tiers,coverage,,,,,nothing held
-MDG,emr,digitised,coverage,paper,2021,MDG-011,,nothing dated since 2023-10-06
+MDG,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-01,MDG-018;MDG-019;MDG-024,MDG-023=owner:partner;MDG-032=owner:partner;MDG-033=finance:donor,
+MDG,emr,tiers,coverage,T1;T3,2025-01,MDG-020;MDG-021,MDG-031=T4,
+MDG,emr,digitised,coverage,point-of-care,2019,MDG-029,MDG-011=paper,nothing dated since 2023-09-28
 MDG,emr,last12,qualifier,,,,,nothing held
-MDG,emr,clinics,coverage,,,,,nothing held
+MDG,emr,clinics,coverage,count:30,2019,MDG-030,MDG-022=not-published;MDG-028=pilot,

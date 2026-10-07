@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-19-zaf-national-department-of-health-annual-report-2024-25",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "The National Department of Health reports that during March 2025 the first phase of its Primary Health Care Electronic Medical Record, covering TB and HIV, was deployed across 37 pilot facilities, after testing in Dihlabeng in the Free State; no denominator is given.", "as_of": "2025-03", "date_precision": "month", "system": "Primary Health Care Electronic Medical Record", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The department reports that development of an electronic medical record for primary health care commenced in 2024/25, with a TB/HIV-focused version deployed in March 2025 at 37 pilot facilities, and that scoping of the longitudinal patient record and the shared electronic health record was completed.", "as_of": "2025-03", "date_precision": "month", "system": "Primary Health Care Electronic Medical Record", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The National Department of Health's annual report for 2024/25 says the department itself developed the first phase of the electronic medical record, as a first phase of a single electronic health record, and carries an Electronic Medical Record for PHC services as an output in its performance table.", "as_of": "2025-03", "date_precision": "month", "system": "Primary Health Care Electronic Medical Record", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Primary Health Care Electronic Medical Record", "country_label": "Electronic Medical Record (EMR) for PHC services; first phase of a single electronic health record", "class": "emr", "platform": "", "owner": "National Department of Health", "tiers": "37 pilot facilities (March 2025); tested in Dihlabeng, Free State; first phase covers TB and HIV only"},
+    {"system": "District Health Information System", "country_label": "District Health Information System (DHIS2/WebDHIS)", "class": "hmis", "platform": "DHIS2", "owner": "National Department of Health", "tiers": "data captured for all fixed public health facilities, by a phased approach (the passage is cut off after 'fixed public health')"}
+  ],
+  "note": "Passages only, several cut mid-sentence. The DHIS statement (web-based transition, phased capture for all fixed public health facilities) is truncated before it says where data is keyed, so it is a systems entry and gives no hmis fact. The EMR's first phase covers TB and HIV only; it is classed emr because the report calls it the primary health care record and the first phase of a single electronic health record."
+}

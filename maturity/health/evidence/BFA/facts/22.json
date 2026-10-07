@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-03-bfa-donnees-sanitaires-enabel-accompagne-le-burkina-faso-dans-la-mise-en-u",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système national d'information sanitaire (SNIS)",
+      "country_label": "SNIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, through the Direction des statistiques sectorielles et de l'évaluation (DSSE)",
+      "tiers": ""
+    }
+  ],
+  "note": "Enabel news item dated Ouagadougou, 3 July 2026: the Ministry of Health, through the DSSE, held the first 2026 session of the health data quality and security committee (CQSDS) with a workshop disseminating the SNIS strategic plan (PS-SNIS) 2026-2030, attended by more than 80 representatives and paid for by Enabel through its PARD-AO programme; the plan stresses data quality and security, interoperable systems and faster digital transformation. No fact is taken because the item names the SNIS without describing what it does (no reporting, software or tier is stated), so the system cannot be classed from this document; if the parent classes the SNIS as hmis from other documents, this item would give governance plan:current and owner:ministry as of 2026-07-03."
+}

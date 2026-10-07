@@ -1,0 +1,34 @@
+{
+  "slug": "2025-11-19-mrt-strengthening-the-use-of-srmnia-nutrition-data-for-action-in-mauritani",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Countdown to 2030 reports that from 3 to 7 November 2025 its Mauritania country collaboration, with APHRC's technical support, held a national workshop training district-level focal points to analyse and use routine data from the National Health Information System (SNIS), reviewing routine data processes and reporting gaps, with practical sessions in Excel, DHIS2, R and Stata; it gives no count of participants or districts.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "National Health Information System (SNIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Information System (SNIS)",
+      "country_label": "SNIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "district-level focal points analyse its routine data; no facility tier stated"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "DHIS2 is named only as one of the analysis tools used in the workshop's practical sessions, with no description of what it holds, so it is left unclassified. The document states nothing on tiers, where data is digitised, clinics or governance."
+}

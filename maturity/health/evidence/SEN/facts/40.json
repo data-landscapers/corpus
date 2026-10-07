@@ -1,0 +1,67 @@
+{
+  "slug": "2025-03-25-sen-lettre-de-politique-sectorielle-de-la-sante-et-de-l-action-sociale-202",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The health ministry's sector policy letter 2025-2029 states that a national strategic plan 2022-2026 for the health and social information system (SISS) is in force and that work is under way to integrate routine data in a national data warehouse on the DHIS2 platform, which it describes as the channel for routine health statistics; undated, so the letter's date of 25 March 2025 is used.",
+      "as_of": "2025-03-25",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The health ministry states that retention of data by health unions, recurrent although recently lifted, together with union boycotts of activities, produces very low levels of availability, timeliness, completeness and accuracy of health data; it gives no figures and no date, so the letter's date of 25 March 2025 is used.",
+      "as_of": "2025-03-25",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The sector policy letter 2025-2029 names the shared single patient record as the flagship project of the Health System Digitalisation Programme 2023-2029 and sets, under its action 1.6, the generalisation of the computerised patient record, with an indicator counting the hospitals, health centres and health posts delivering it; the letter's date of 25 March 2025 is used.",
+      "as_of": "2025-03-25",
+      "date_precision": "day",
+      "system": "dossier patient unique partagé",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The health ministry (MSAS) presents the shared single patient record platform as its own project, part of its health digitalisation programme, with the contract awarded to a local company run by young Senegalese entrepreneurs, which it does not name; the letter's date of 25 March 2025 is used.",
+      "as_of": "2025-03-25",
+      "date_precision": "day",
+      "system": "dossier patient unique partagé",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The health ministry states that deployment of the shared single patient record platform is in progress, without saying in how many facilities or where; undated, so the letter's date of 25 March 2025 is used.",
+      "as_of": "2025-03-25",
+      "date_precision": "day",
+      "system": "dossier patient unique partagé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "routine health statistics; national data warehouse being set up; scale-up listed as a strength; tiers not stated"},
+    {"system": "dossier patient unique partagé", "country_label": "dossier patient unique partagé / dossier patient informatisé", "class": "emr", "platform": "", "owner": "MSAS, built by an unnamed local company", "tiers": "deployment in progress; indicator covers hospitals (EPS), health centres and health posts"},
+    {"system": "dossier patient (private sector)", "country_label": "dossier patient", "class": "emr", "platform": "", "owner": "private health sector", "tiers": "private facilities, not specified"},
+    {"system": "m-Diabète", "country_label": "m-Diabète", "class": "", "platform": "", "owner": "", "tiers": "awareness messages to users"},
+    {"system": "Care for Health", "country_label": "Care for Health", "class": "", "platform": "", "owner": "", "tiers": "named with no description"},
+    {"system": "digitalisation de la santé communautaire", "country_label": "digitalisation de la santé communautaire", "class": "community", "platform": "", "owner": "", "tiers": "community health; no further description"},
+    {"system": "télémédecine", "country_label": "initiatives de télémédecine", "class": "enabling", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "IHRIS", "country_label": "IHRIS", "class": "", "platform": "iHRIS", "owner": "MSAS", "tiers": "computerised human resources management; tiers not stated"},
+    {"system": "MIRSAS", "country_label": "MIRSAS", "class": "", "platform": "", "owner": "MSAS", "tiers": "computerised human resources management; tiers not stated"}
+  ],
+  "note": "Passages only. The indicator table row for facilities delivering the computerised patient record is cut off after a single figure, 2, with no year or target visible, so no coverage fact is taken from it. The letter also lists the lack of an interoperability framework among the constraints on digitalisation."
+}

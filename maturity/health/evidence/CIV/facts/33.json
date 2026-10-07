@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-01-civ-deploiement-reussi-du-dossier-patient-informatise-a-l-hg-de-ferkessedo",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T2", "fact": "The health ministry's DISD reports that the Dossier Patient Informatisé (DPI) has been operational at the Hôpital Général de Ferkessédougou since 16 August 2024, after a deployment mission of 4 to 25 August 2024, and that all the hospital's services, including surgery, paediatrics and the admissions office, use it to register and follow patients.", "as_of": "2024-08-16", "date_precision": "day", "system": "Dossier Patient Informatisé (DPI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "point-of-care", "fact": "At the Hôpital Général de Ferkessédougou the DPI platform is installed on the hospital's local server and used in every hospital service for registering and following patients from 16 August 2024, every service having been equipped with computers and a local network put in, according to the DISD; the mission recommended more tablets for some services.", "as_of": "2024-08-16", "date_precision": "day", "system": "Dossier Patient Informatisé (DPI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The DISD presents the DPI as a platform of the Ministry of Health, Public Hygiene and Universal Health Coverage (MSHPCMU), deployed at Ferkessédougou in August 2024 by a team led by the ministry's Direction de l'Informatique et de la Santé Digitale with technicians of the firm WINLOGIC, and supported by the UCPS-BM.", "as_of": "2024-08", "date_precision": "month", "system": "Dossier Patient Informatisé (DPI)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Dossier Patient Informatisé (DPI)", "country_label": "Dossier Patient Informatisé (DPI)", "class": "emr", "platform": "", "owner": "Ministry of health (MSHPCMU), through the Direction de l'Informatique et de la Santé Digitale (DISD), with the firm WINLOGIC and support from the UCPS-BM", "tiers": "Hôpital Général de Ferkessédougou, all services, from 16 August 2024, on a local server"}
+  ],
+  "note": ""
+}

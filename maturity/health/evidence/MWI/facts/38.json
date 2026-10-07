@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-mwi-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "Countdown to 2030, with the Ministry of Health, gives no count or share of facilities entering their own reports; it puts completeness of monthly facility reporting in DHIS2 (mean of ANC, delivery and immunisation forms) at 97% of expected reports nationally in 2025, up from 83% in 2020, with 95% of districts at 90% or more, and an annual data-quality score of 87 against 73 in 2020.", "as_of": "2025", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "health facilities, reporting monthly; tiers not stated"}
+  ],
+  "note": ""
+}

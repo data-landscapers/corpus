@@ -1,0 +1,34 @@
+{
+  "slug": "2024-08-29-dji-doucement-mais-surement-la-sante-devient-numerique-a-djibouti",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "Gavi's VaccinesWork reports that Djibouti faces the vagaries of medical follow-up kept on paper and a risk of information being lost along a paper care pathway, the second point attributed to WHO's representative; the statement is general, names no tier and no system, and is undated, so the publication date of 29 August 2024 is used.",
+      "as_of": "2024-08-29",
+      "date_precision": "day",
+      "system": "",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Medyc online platform",
+      "country_label": "Medyc",
+      "class": "enabling",
+      "platform": "Medyc (private e-health firm, founded 2019)",
+      "owner": "Medyc, a private company; €100,000 from ACE Capital, selected late 2023",
+      "tiers": "direct to patients in Djibouti city: 1,200 people registered for teleconsultation; about a hundred diabetes patients monitored through a mobile application since 1 July 2024; remote reading of the CHU de Djibouti's radiology by specialists in Morocco; video follow-up of high-risk pregnancies and automated child-vaccine reminders for the Dar al Hanan hospital"
+    },
+    {
+      "system": "Starlink teleconsultation pilot",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "Starlink terminal with a computer and solar panel",
+      "owner": "Medyc with the Ministry of Health",
+      "tiers": "three devices planned for the remotest places, operated by local nurses; planned, not installed, at 29 August 2024"
+    }
+  ],
+  "note": "One fact, and a weak one: the paper position is stated in general terms in the standfirst and in a paraphrase of WHO's representative, not as a statement about every tier; the parent should weigh whether it is a dated statement of absence. The rest of the article is a private telemedicine firm and a planned satellite pilot, both enabling; it describes no patient record held by a facility and no routine reporting system."
+}

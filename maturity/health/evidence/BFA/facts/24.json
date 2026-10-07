@@ -1,0 +1,36 @@
+{
+  "slug": "2026-01-01-bfa-implementing-an-open-source-hospital-information-system-lessons-from-t",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "The paper's abstract reports a pilot deployment of OpenClinic GA at one hospital, the Manga University and Regional Hospital Center, between 2024 and 2025, ending in full digitisation of admissions, high use of the pharmacy module and effective use of the electronic patient record across multiple departments; it names no other facility.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "OpenClinic GA",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The abstract describes OpenClinic GA in Burkina Faso as a nationally governed open-source hospital information system, customised under a national hospital information system reference framework during the 2024-2025 pilot; it says national governance and does not name the ministry unit.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "OpenClinic GA",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OpenClinic GA",
+      "country_label": "",
+      "class": "emr",
+      "platform": "OpenClinic GA (open source)",
+      "owner": "nationally governed; unit not named",
+      "tiers": "pilot at the Manga University and Regional Hospital Center, 2024-2025"
+    }
+  ],
+  "note": "Abstract and citation only; the body of the paper is not in the file. The abstract states integration of HL7, ICD-11 and SNOMED-CT standards but no exchange with another system, and does not say whether records are entered at the point of care."
+}

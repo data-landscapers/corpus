@@ -1,0 +1,34 @@
+{
+  "slug": "2024-12-18-eth-unveiling-the-role-of-dhis2-in-enhancing-data-quality-and-accessibilit",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "A qualitative study in five regions (30 interviews, 16 focus groups, October 2023 to March 2024; PLOS ONE) reports that DHIS2 data entry is decentralised to local health facilities, where health information technicians key routine HMIS reports; a regional expert says numerous facilities in one region lack internet, computers or reliable power, and those with a computer and electricity enter data offline and carry it by flash drive to a connected site; no count is given.",
+      "as_of": "2024-03",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2; HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "primary health care units: district hospitals, health centres and health posts, with district health offices; one respondent says health posts send data to health centres"
+    },
+    {
+      "system": "former HMIS",
+      "country_label": "the former HMIS, on Excel sheets and paper-based reporting",
+      "class": "hmis",
+      "platform": "Excel and paper",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Qualitative only: no share, count or governance statement. Respondents describe monthly deadlines (facilities by day 21, health posts to health centres by day 23, health centres by day 26) without saying in what form health posts report, so no tiers fact is recorded."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-civ-amelioration-de-la-qualite-et-de-l-utilisation-des-donnees-sur-le-palu",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "PMI Measure Malaria states that health centres which collect and report health data on paper management tools still have no access to the information in DHIS2, for want of computers, internet and reliable power, and that health structures send their monthly reports to the districts: in its 20 supported districts 85% of structures sent them on time and, in the third quarter of 2022, 75% of districts reached 100% completeness of monthly reports and all reached 99%.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "finance:donor", "fact": "Support to the routine health information system (SISR) and to the use of the data held in DHIS2 in 20 health districts was financed by USAID's President's Malaria Initiative through the PMI Measure Malaria project, working with the national malaria programme (PNLP) and the health ministry's DIIS, according to the project's own lessons-learned sheet of 2023; the sheet does not say how DHIS2 itself is financed.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2, within the système d'information sanitaire de routine (SISR)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "holds the monthly reports of health structures; dashboards and validation rules used by supervisors at central, regional and district level; health centres reporting on paper have no access to it"},
+    {"system": "Mobile dashboard and performance-score applications for malaria", "country_label": "applications mobiles de tableaux de bord et de scores de performance", "class": "single-function", "platform": "mobile applications drawing on DHIS2", "owner": "PMI Measure Malaria and the national malaria programme (PNLP)", "tiers": "20 first-contact health establishments (ESPC) from March 2022 and 16 more from October 2022; they display malaria indicators and take no data entry as described"}
+  ],
+  "note": ""
+}

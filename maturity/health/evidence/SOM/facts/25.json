@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-somalia-human-capital-review-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "Electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages are a World Bank draft's proposals: DHIS2 is named as a national information system and the recognised reporting channel for health, to which contract payments should be tied, without a description of what it collects, who runs it, which tiers use it or where data is entered. The only stated present conditions are gaps: DHIS2 not disaggregated by age and sex, and completeness and timeliness gaps, with no figures. eLMIS is named for vaccine stock monitoring."
+}

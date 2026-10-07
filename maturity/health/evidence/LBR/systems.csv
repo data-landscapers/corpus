@@ -46,3 +46,15 @@ LBR,OpenMRS EMR at J.J. Dossen Hospital,electronic medical record (EMR) system,e
 LBR,Health Information System (envisaged),Health Information System comprising patient data records,,,Ministry of Health,,2019-10-31-liberia-mopt-national-ict-policy-2019-2024
 LBR,national HMIS,national HMIS,hmis,,,,2015-01-01-usaid-lbr-collaborative-health-2015-collaborative-support-for-health-systems-strengthening
 LBR,iHRIS,iHRIS,,iHRIS,,,2015-01-01-usaid-lbr-collaborative-health-2015-collaborative-support-for-health-systems-strengthening
+LBR,HMIS database (DHIS2),HMIS / DHIS2,hmis,DHIS2,,"Facilities report on paper forms to district or county health teams, whose data clerks enter the data",2023-02-01-lbr-comprehensive-facility-survey-report-for-the-maternal-syphilis-program
+LBR,electronic Logistics Management Information System (eLMIS),eLMIS,single-function,,,,2023-02-01-lbr-comprehensive-facility-survey-report-for-the-maternal-syphilis-program
+LBR,integrated health management information system (DHIS2),HMIS,hmis,DHIS2,"Ministry of Health, HIS Unit under the HMER Unit","Public and private health facilities throughout the country, reporting monthly on one form; managed at community, facility, district, county and national levels",2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,eLMIS,eLMIS / e-LMIS; Logistics Management Information System,single-function,,Ministry of Health,Quarterly reporting forms from facilities,2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,eIDSR,eIDSR; Integrated Disease Surveillance Information System (IDSIS),single-function,,Ministry of Health,,2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,Community Based Information System,CBIS,community,,Ministry of Health,"Community level, with community health assistants and volunteers",2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,iHRIS,iHRIS / Human Resource Information System (HRIS),,iHRIS,Ministry of Health,"Baseline 40% of national, county and district administrative units implementing it",2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,national data warehouse,national data warehouse / central data repository,,,"Ministry of Health, HMER and ICT","Planned; a consultant budgeted at US$40,000 to establish it",2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,Electronic Disease Early Warning System,eDEWS,,,,,2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,Disease Surveillance Information System,DSIS,,,,,2022-06-01-lbr-data-quality-improvement-plan-dqip-june-20222027
+LBR,DHIS2 (national system),DHIS2,hmis,DHIS2,,"856 facilities, public and private, in 93 health districts of 15 counties; reports collected by County Health Teams for entry",2022-06-01-lbr-liberia-national-and-county-coverage-on-reproductive-maternal-newborn
+LBR,Master Facility List,MFL,exchange,,,964 health facilities listed,2022-06-01-lbr-liberia-national-and-county-coverage-on-reproductive-maternal-newborn

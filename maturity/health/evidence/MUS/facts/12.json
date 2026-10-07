@@ -1,0 +1,80 @@
+{
+  "slug": "2022-01-27-mus-integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-ca",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "DHIS2's own country story states that the government, through the Ministry of Health and Wellness, has begun implementing DHIS2 as the national health information system, the work being done by the teams of the health ministry and the Ministry of Information Technology, Communication and Innovation with support from WHO, Gavi, the Global Fund, HISP UiO and HISP Uganda; undated, so the published date is used.",
+      "as_of": "2022-01",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "DHIS2's country story states that implementation of DHIS2 as the national health information system is carried out under Mauritius's Health Sector Strategic Plan 2020-2024; the published date is used.",
+      "as_of": "2022-01",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "DHIS2's country story names WHO, Gavi, the Global Fund, HISP UiO and HISP Uganda as supporting the DHIS2 implementation, without saying who pays for it or naming any budget; the published date is used.",
+      "as_of": "2022-01",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "DHIS2's country story states that Mauritian health authorities plan to decentralise the DHIS2 system further, to district and primary health care level and to Rodrigues and Agalega, which will need more training, staff and IT infrastructure; it reports use at regional and national level only and gives no count of facilities, and the published date is used.",
+      "as_of": "2022-01",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "système d'information sanitaire national (SGIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Wellness with the Ministry of Information Technology, Communication and Innovation; supported by WHO, Gavi, the Global Fund, HISP UiO and HISP Uganda",
+      "tiers": "aggregate data collection for IDSR and EPI; regional and national level, with decentralisation to district and primary health care level planned (January 2022)"
+    },
+    {
+      "system": "DHIS2 Tracker programmes",
+      "country_label": "Electronic Immunization Registry (EIR) Tracker and AEFI Tracker (COVID-19 Vaccine Delivery Toolkit); Tracker for EPI, hepatitis, HIV/AIDS and TB case surveillance",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Ministry of Health and Wellness, with HISP UiO support",
+      "tiers": "AEFI package deployed April 2021 with users trained at regional and national level; regional pharmacovigilance pharmacists key paper AEFI forms from regional health facilities into a national database"
+    },
+    {
+      "system": "VigiFlow",
+      "country_label": "VigiFlow, used by the National Pharmacovigilance Committee to report to WHO's VigiBase",
+      "class": "single-function",
+      "platform": "VigiFlow (Uppsala Monitoring Centre)",
+      "owner": "National Pharmacovigilance Committee",
+      "tiers": "national"
+    },
+    {
+      "system": "DHIS2-VigiFlow integration",
+      "country_label": "pilot integration of DHIS2 AEFI data with VigiFlow",
+      "class": "exchange",
+      "platform": "Python extraction script by HISP UiO, XML export imported by hand into VigiFlow",
+      "owner": "HISP UiO with WHO and the Uppsala Monitoring Centre's VigiFlow team",
+      "tiers": "national; first transfer confirmed December 2021, a prototype and partly manual"
+    }
+  ],
+  "note": "The class of the aggregate deployment is a reading the parent should check: the document calls DHIS2 the national health information system for collecting, compiling and analysing health data, but the only aggregate uses it names are IDSR and EPI, which taken alone are single-function; it never describes facility reports of patients treated. No tiers or digitised fact for HMIS: the document does not say at which level the aggregate data is entered. Everything it does describe in detail (paper AEFI forms keyed regionally into Tracker, April 2021) is tracker class and gives no fact."
+}

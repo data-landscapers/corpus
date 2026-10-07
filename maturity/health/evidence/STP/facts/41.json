@@ -1,0 +1,26 @@
+{
+  "slug": "2024-01-01-stp-highlights-of-the-2022-2023-biennium-in-sao-tome-and-principe",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO reports that in the 2022-2023 biennium it supported the Department of Health Information Systems in drawing up strategies and micro-plans, strengthening use of the DHIS2 tool for data quality with a data validation component, and addressing shortcomings in the daily recording of health data in district health units and in central, district and regional services; the passage places the system with that department and gives no month.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 tool",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Department of Health Information Systems",
+      "tiers": "district health units and central, district and regional services, as places where health data is recorded daily"
+    }
+  ],
+  "note": "Passages only; the one paragraph on DHIS2 sits in the immunisation section and does not say at which level data is keyed into the system."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2024-12-12-bwa-sir-ketumile-masire-teaching-hospital-implements-meditech-expanse",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "The vendor MEDITECH states that Sir Ketumile Masire Teaching Hospital in Gaborone completed implementation of its Expanse electronic health record in November 2024, covering nursing, the laboratory and the patient journey from admission to discharge; one hospital, no other facility named.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "MEDITECH Expanse",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The vendor MEDITECH states that the Expanse project at Sir Ketumile Masire Teaching Hospital launched in March 2024 and that implementation was completed in November 2024.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "MEDITECH Expanse",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MEDITECH Expanse",
+      "country_label": "MEDITECH Expanse",
+      "class": "emr",
+      "platform": "MEDITECH Expanse",
+      "owner": "Sir Ketumile Masire Teaching Hospital, implemented with MEDITECH South Africa",
+      "tiers": "one teaching hospital in Gaborone: nursing, laboratory, billing and a patient portal"
+    }
+  ],
+  "note": "The page is the vendor's own and shows no date; the events are dated in the body. It says the system is paperless and holds a centralised database for the hospital, but does not say where entry is made or that the record is retrievable at any other facility, so no digitised fact. No ministry role, plan or finance is stated."
+}

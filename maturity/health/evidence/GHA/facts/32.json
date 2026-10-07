@@ -1,0 +1,62 @@
+{
+  "slug": "2024-10-31-gha-veep-launches-national-e-health-project-to-transform-ghanas-healthcare",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Vice President said at the launch that LHIMS was deployed in about 481 health facilities across all 16 regions, being all six teaching hospitals, 10 regional hospitals, 243 district hospitals, three psychiatric hospitals and 50 polyclinics, with deployment to over 1,000 health centres ongoing; the Health Minister said 21 million Ghanaians had their data captured in it.",
+      "as_of": "2024-10-31",
+      "date_precision": "day",
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "shared",
+      "fact": "Ghana News Agency reports that patient records in all teaching, regional and district hospitals have been digitised and those hospitals interconnected, so that a referred patient's electronic record is accessible at another hospital in any region without carrying a file; the report states no patient identifier.",
+      "as_of": "2024-10-31",
+      "date_precision": "day",
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Vice President launched the National E-Health project in Accra on 31 October 2024, with LHIMS, piloted in the Central region from 2017 and in its second phase since 2019, deployed in about 481 hospitals and polyclinics and being deployed to over 1,000 health centres.",
+      "as_of": "2024-10-31",
+      "date_precision": "day",
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "country_label": "LHIMS, part of the National E-Health project",
+      "class": "emr",
+      "platform": "Lightwave Health Information Management System",
+      "owner": "implemented by Lightwave Health Information Management System with the Ministry of Health",
+      "tiers": "all teaching, regional, district and psychiatric hospitals and polyclinics, about 481 facilities in 16 regions; over 1,000 health centres' deployment ongoing"
+    },
+    {
+      "system": "national e-pharmacy platform",
+      "country_label": "national e-pharmacy platform",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "digital renewal system for National Health Insurance subscribers",
+      "country_label": "digital renewal system for National Health Insurance subscribers",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No owner fact: the report says only that the project is implemented by LHIMS with the Ministry of Health. No clinics fact: the health-centre figure is deployment under way, not clinics in use. Polyclinics are not placed in a tier by the document."
+}

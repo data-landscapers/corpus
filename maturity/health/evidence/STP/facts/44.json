@@ -1,0 +1,110 @@
+{
+  "slug": "2022-09-01-stp-national-health-development-plan-sao-tome-and-principe-2023-2032-more",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The national health development plan states that the Ministry of Health approved the nationwide use of DHIS2 as its health information management system, run by the ministry's SIS unit, and that two years after implementation its use covers only the vaccination, reproductive health, tuberculosis, HIV/AIDS and malaria programmes, with health professionals failing to adhere to it even where it is available; the passages give no date, so the plan's September 2022 date is used.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's National Health Development Plan 2023-2032 carries a costed health information pillar that names DHIS2: recognition of DHIS2 by ministerial order as the country's selected system, training of SIS technicians, focal points in health units, equipment for health centres to run DHIS2 and parameterising all programmes on it, while itself recording a weak national strategy and an SIS strategy still to be written; dated to the plan, September 2022.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The plan states that the SIS, still being built, has the support of WHO, Gavi, UNFPA and UNICEF, and lists WHO, UNDP, the Global Fund, UNICEF, the World Bank, UNFPA and Gavi beside the Ministry of Health as implementing partners for its DHIS2 training, support team and equipment; the passages name no domestic budget line, and the date is the plan's, September 2022.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "The plan refers to a pilot phase of the single clinical process at the Ayres de Menezes central hospital and the Água Grande Health Area, to be evaluated before expansion to the whole national health system; it does not name the facilities of the health area, and the date is the plan's, September 2022.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "single process (single clinical process)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The plan describes the single clinical process as in a pilot phase at the Ayres de Menezes Hospital and the Água Grande Health Area, with computerised clinical records to be introduced gradually through a pilot model of health centres and the central hospital; no count of facilities is given, and the date is the plan's, September 2022.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "single process (single clinical process)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The plan attributes the digital health tools, namely the single clinical process, computerised clinical records and clinical information available on a network, to the Ministry of Health's SIS, which is also the data source for the indicator counting health units with computerised clinical records; dated to the plan, September 2022.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "single process (single clinical process)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Health Development Plan 2023-2032 sets a strategic axis on expanding the single process to the whole national health system, with an evaluation of the pilot, an equipment needs report and purchase of computer equipment, and a further axis on digital health at all levels of care; dated to the plan, September 2022.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "single process (single clinical process)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "Health Information System (SIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, SIS",
+      "tiers": "nationwide use approved; in use for vaccination, reproductive health, tuberculosis, HIV/AIDS and malaria programmes"
+    },
+    {
+      "system": "single process (single clinical process)",
+      "country_label": "single process; unique clinical process",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health, SIS",
+      "tiers": "pilot at Ayres de Menezes Hospital and the Água Grande Health Area"
+    },
+    {
+      "system": "Laboratory information and documentation system (SIDLAB)",
+      "country_label": "SIDLAB",
+      "class": "single-function",
+      "platform": "",
+      "owner": "SIS",
+      "tiers": "public health laboratory network; listed as an indicator to be developed and implemented"
+    },
+    {
+      "system": "Telemedicine",
+      "country_label": "Telemedicine",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO and IMVF",
+      "tiers": "between health units; to be made available and regulated"
+    }
+  ],
+  "note": "Passages only, with gaps mid-sentence: the sentence on the absence of an official plan is cut off, and the passages do not say at what level DHIS2 data is keyed."
+}

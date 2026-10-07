@@ -1,0 +1,46 @@
+{
+  "slug": "2021-01-01-eth-implementation-challenges-and-perception-of-care-providers-on-electron",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "Bisrat and others (BMC Medical Informatics and Decision Making), surveying 172 providers in October to December 2019, found the SmartCare EMR deployed in 2009 still functioning at Ayder Comprehensive Specialized Hospital, Mekele, a tertiary referral hospital, where management said all medical services were becoming dependent on it; it had failed at the other tertiary hospital studied, St. Paul's.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "SmartCare EMR (later Tena Care)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The same study found St. Paul's Hospital Millennium Medical College, Addis Ababa, working predominantly on paper patient records in October to December 2019, the SmartCare EMR having failed there in mid-2010 and again after redeployments in 2014 and 2017; this is one hospital, not a statement about every tier.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "SmartCare EMR (later Tena Care)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study states that the Federal Ministry of Health began adopting SmartCare in 2009, a system first developed by the US Centers for Disease Control and Prevention and customised and maintained by the Tulane University Technical Assistance Project in Ethiopia, which with the Ministry supplied installation, equipment, backup and training at deployment.",
+      "as_of": "2009",
+      "date_precision": "year",
+      "system": "SmartCare EMR (later Tena Care)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SmartCare EMR (later Tena Care)",
+      "country_label": "SmartCare; Tena Care",
+      "class": "emr",
+      "platform": "SmartCare",
+      "owner": "Federal Ministry of Health; developed by CDC, customised and maintained by Tulane University Technical Assistance Project in Ethiopia (TUTAPE); upgraded in-house at Ayder",
+      "tiers": "two tertiary referral hospitals: functioning at Ayder, failed at St. Paul's"
+    }
+  ],
+  "note": "Two tertiary hospitals only; fieldwork October to December 2019, well outside the windows. St. Paul's management reported recent moves towards a new EMR, with no system named."
+}

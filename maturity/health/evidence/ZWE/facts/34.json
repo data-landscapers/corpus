@@ -1,0 +1,36 @@
+{
+  "slug": "2025-01-01-zwe-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Countdown to 2030 synthesis report, written with Ministry of Health and Child Care staff, calls the routine system 'the MoHCC HMIS' and says a study was run on the private sector's readiness to report through it; no date is given for this, so the document's published date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2 (MoHCC HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The report states that the national reporting rate of health facility data in DHIS2 was above 92% in 2024, with only Harare and Bulawayo provinces just below the 90% threshold, and that the number of districts meeting that threshold rose over 2019-2024; no numerator or denominator is given and it does not say who keys the reports.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2 (MoHCC HMIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (MoHCC HMIS)",
+      "country_label": "MoHCC HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "health facility data reported by district in every province, covering outpatient and inpatient utilisation, deliveries, antenatal care, immunisation and institutional deaths; no tier named"
+    }
+  ],
+  "note": "DHIS2 is classed hmis because the document uses it for routine aggregate facility reporting of service counts. The 92% is a reporting rate, not a share of clinics entering their own data, so no clinics, tiers or digitised fact is taken; it sits under last12 as the only place for it, dated 2024, and the parent may drop it on the window. The report also says the overall annual data quality score declined between 2019 and 2024, and that a new data collection tool was introduced in July 2024, causing a sharp rise in recorded outpatient visits. Most of the report is charts whose figures did not survive extraction."
+}

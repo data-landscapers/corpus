@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,hmis,governance,qualifier,owner:ministry,2021-12-14,MRT-006,,nothing dated since 2023-10-06
-MRT,hmis,tiers,coverage,,,,,nothing held
-MRT,hmis,digitised,coverage,district,2021-12-14,MRT-007,,nothing dated since 2023-10-06
-MRT,hmis,last12,qualifier,,,,,nothing held
+MRT,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,MRT-011;MRT-012;MRT-022,MRT-017=owner:ministry;MRT-023=owner:ministry;MRT-006=owner:ministry,
+MRT,hmis,tiers,coverage,T2;T3;T4,2024,MRT-009;MRT-010;MRT-016,,
+MRT,hmis,digitised,coverage,district,2023,MRT-007;MRT-015,,
+MRT,hmis,last12,qualifier,advancing,2025-11,MRT-008,,
 MRT,hmis,clinics,coverage,,,,,nothing held
-MRT,emr,governance,qualifier,plan:current,2022-06,MRT-005,,nothing dated since 2023-10-06
-MRT,emr,tiers,coverage,none,2021,MRT-004,,nothing dated since 2023-10-06
+MRT,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,MRT-013;MRT-014;MRT-018,MRT-021=finance:donor;MRT-005=plan:current;MRT-024=plan:current,
+MRT,emr,tiers,coverage,T3,2022,MRT-020,MRT-004=none,nothing dated since 2023-09-28
 MRT,emr,digitised,coverage,,,,,nothing held
 MRT,emr,last12,qualifier,,,,,nothing held
-MRT,emr,clinics,coverage,,,,,nothing held
+MRT,emr,clinics,coverage,pilot,2022,MRT-019,,nothing dated since 2023-09-28

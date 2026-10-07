@@ -1,0 +1,21 @@
+{
+  "slug": "2024-03-01-sen-bulletin-epidemiologique-annuel-2023-du-paludisme-au-senegal",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The national malaria programme (PNLP) states that the 2023 strike by care providers came with retention of health data, and that national completeness of the data entered in DHIS2 for January to December 2023 was 26.66% and timeliness 10.28% on an extraction of 31 January 2024, against completeness of 97.8% in 2021 and 73.8% in 2022; by region it ran from 73.0% in Kédougou to 2.7% in Matam, and the programme says the level rules out analysis or comparison with earlier years.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "routine malaria indicators by region and district, public and private sectors; data retention observed by a large number of health posts"},
+    {"system": "DHIS2 Tracker", "country_label": "DHIS2 Tracker", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "PNLP", "tiers": "malaria case notification and investigation by head nurses of health posts in pre-elimination districts; weekly alert thresholds computed for all health facilities from 2023, alerts sent by email to all levels; boycotted by many head nurses in November and December 2023"},
+    {"system": "PNLP data dashboard", "country_label": "tableau de bord", "class": "single-function", "platform": "", "owner": "PNLP with the Institute for Disease Modeling", "tiers": "national programme level; still in development"}
+  ],
+  "note": "The DHIS2 Tracker facts (cases notified down from 11,956 in 2022 to 7,815 in 2023; the 2023 alert system) concern a tracker-class system and give no fact. The bulletin gives reporting completeness, not the number or share of facilities entering their own reports."
+}

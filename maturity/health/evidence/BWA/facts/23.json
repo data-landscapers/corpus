@@ -1,0 +1,56 @@
+{
+  "slug": "2023-04-06-bwa-adoption-and-utilization-of-integrated-patient-management-system-in-bo",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A journal study by a Ministry of Health officer and two academics states that the Ministry of Health introduced the Integrated Patient Management System in 2004 to move from paper medical records to a computerised one, and that ministry officers were responsible for its rollout when the survey ran from November 2019 to May 2020.",
+      "as_of": "2020-05",
+      "date_precision": "month",
+      "system": "Integrated Patient Management System (IPMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2;T4",
+      "fact": "The study states that in 2007 the system was implemented in four government hospitals, Princess Marina, Sekgoma Memorial, Nyangabgwe Referral and Maun General, and in 16 satellite clinics around them.",
+      "as_of": "2007",
+      "date_precision": "year",
+      "system": "Integrated Patient Management System (IPMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:16",
+      "fact": "The study states that in 2007 the system was implemented in 16 satellite clinics around four government hospitals; it gives no denominator of clinics.",
+      "as_of": "2007",
+      "date_precision": "year",
+      "system": "Integrated Patient Management System (IPMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The study names 13 public hospitals as facilities using the system at its survey of November 2019 to May 2020: referral, psychiatric, general and district hospitals and three primary hospitals (Gumare, Kasane, Letlhakeng); of 420 staff surveyed, 152 of 222 in referral hospitals (69.1%) and 135 of 198 in general hospitals (68.5%) used it more than once a day.",
+      "as_of": "2020-05",
+      "date_precision": "month",
+      "system": "Integrated Patient Management System (IPMS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Patient Management System (IPMS)",
+      "country_label": "Integrated Patient Management System (IPMS)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "2007: four government hospitals and 16 satellite clinics; 2019-20 survey: 13 public hospitals named, referral, general and primary"
+    }
+  ],
+  "note": "IPMS is classed emr on the study's description: a computerised replacement for the paper medical record, used for admission, discharge, prescription, lab orders and results, referral, health history and treatment. The 2019-20 tiers fact reads the three primary hospitals as hospitals, not primary clinics; the parent should check the tier map. No digitised fact: the study does not say where entry is made, and 228 of 420 (54.2%) saying they would prefer IPMS to a paper form for observations implies paper was still in use. The e-health strategy is mentioned without date and not as naming IPMS, so no plan fact. The text gives the survey sample as 400 in one place and 420 in the tables."
+}

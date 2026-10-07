@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-01-som-health-management-information-systems-hmis-training",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "ISDP states that it ran a three-day HMIS training of trainers in Bosaso on 3 to 5 February 2026 for 16 health workers from the health centres and primary health units it supports, on collecting, analysing and reporting health and nutrition data to national guidelines, under the SHF Emergency Health and Nutrition Project.", "as_of": "2026-02-05", "date_precision": "day", "system": "Health Management Information System (HMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "", "tiers": "supported health centers and PHUs in Bosaso (16 health workers trained)"}
+  ],
+  "note": "The document does not say whether the reporting trained for is on paper or digital, names no software and no owner; no tiers or digitised fact is taken for that reason."
+}

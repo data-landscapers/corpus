@@ -1,0 +1,46 @@
+{
+  "slug": "2021-03-18-sdn-developing-electronic-medical-records-emrs-framework-for-sudanese-hosp",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "An MSc thesis at Sudan University of Science and Technology, dated March 2021, states as its problem that hospitals in Sudan have no electronic medical records and all still keep patients' health records on paper; it gives no survey or count behind the statement.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "electronic medical records (EMRs)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The thesis states that in March 2021 no electronic medical record was implemented in Sudan, government clinics and hospitals in particular depending wholly on paper records, and that private clinics and hospitals attend to financial and internal management systems rather than to collecting medical data.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "electronic medical records (EMRs)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The thesis states that in March 2021 government clinics, with government hospitals, had no electronic medical record and depended wholly on paper records; it is the author's statement, with no numerator or denominator.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "electronic medical records (EMRs)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMR framework (thesis prototype)",
+      "country_label": "Electronic Medical Records framework for Sudanese educational hospitals",
+      "class": "emr",
+      "platform": "Visual Basic .NET front end on SQL Server 2008 R2",
+      "owner": "the thesis author, Sudan University of Science and Technology",
+      "tiers": "not deployed; a prototype designed for teaching hospitals and judged by an online survey of 63 doctors"
+    }
+  ],
+  "note": "The thesis builds and evaluates a prototype; nothing in it is in service. Its design holds the clinical record keyed on the national ID, with a reporting part for the ministry's statistics and information unit, but that is a proposal. In its January 2021 survey 25 of 63 doctors and medical staff said they had dealt with an EMR before and 33 had not, without saying where; this is not recorded as a fact. The data items were taken from the Federal Ministry of Health's paper form filled in at all teaching hospitals. Other systems named (PIH-EMR, MMRS, MEDCAB and others) are in other countries."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2024-01-01-ken-kenya-health-sector-strategic-plan-khssp-july-2023-june-2027-transform",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's Kenya Health Sector Strategic Plan for July 2023 to June 2027 names the Kenya Health Information System as a data source its monitoring is linked to, and as the source of most of its indicator baselines and targets through 2027/28.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "Kenya Health Information System (KHIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Kenya Health Sector Strategic Plan for July 2023 to June 2027 commits to operationalising immediately a National Health Information System for Electronic Health Records, to standardise patient data and make it portable.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "National Health Information System for Electronic Health Records (EHR)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Kenya Health Information System (KHIS)", "country_label": "KHIS", "class": "hmis", "platform": "DHIS2 (the references cite 'Ministry of Health, DHIS2 2022')", "owner": "Ministry of Health", "tiers": "facilities report on it; tiers not stated"},
+    {"system": "National Health Information System for Electronic Health Records (EHR)", "country_label": "National Health Information System for EHR", "class": "emr", "platform": "", "owner": "", "tiers": "not stated; to be operationalised"},
+    {"system": "Integrated Health Management Information System", "country_label": "IHMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated; a pillar to fully digitise health services and interconnect the sector"},
+    {"system": "SPICE electronic medical records system", "country_label": "SPICE", "class": "tracker", "platform": "", "owner": "", "tiers": "primary healthcare level, for non-communicable disease services"},
+    {"system": "Electronic Community Health Information System", "country_label": "E-CHIS", "class": "community", "platform": "", "owner": "", "tiers": "community health units and promoters; rollout planned"},
+    {"system": "Electronic health information system, any form (Health Facility Census indicator)", "country_label": "electronic health information system (any form)", "class": "", "platform": "", "owner": "", "tiers": "31% of health facilities in 2023/24, no baseline; targets 70%, 80%, 90% and 100% by 2027/28"},
+    {"system": "TIBU", "country_label": "TIBU", "class": "", "platform": "", "owner": "", "tiers": "not stated; data source for the TB treatment success rate"},
+    {"system": "National Data Warehouse", "country_label": "National Data warehouse", "class": "", "platform": "", "owner": "", "tiers": "not stated; data source for the ART retention rate"},
+    {"system": "Integrated Logistics Management System", "country_label": "ILMIS", "class": "", "platform": "", "owner": "", "tiers": "listed in the abbreviations only"},
+    {"system": "Logistics Management System", "country_label": "LMIS", "class": "", "platform": "", "owner": "", "tiers": "listed in the abbreviations only"},
+    {"system": "Hospital Management Information System", "country_label": "HMIS", "class": "", "platform": "", "owner": "", "tiers": "listed in the abbreviations only"},
+    {"system": "National Unique Patient Identifier", "country_label": "NUPI", "class": "", "platform": "", "owner": "", "tiers": "listed in the abbreviations only"},
+    {"system": "National Health Data Centre", "country_label": "National Health Data Centre", "class": "enabling", "platform": "", "owner": "", "tiers": "national; to be enhanced for rising data traffic"},
+    {"system": "National Optic Fibre Backbone Infrastructure telemedicine links", "country_label": "NOFBI", "class": "enabling", "platform": "", "owner": "", "tiers": "planned to link all level 4 and 5 facilities to a level 6 facility"}
+  ],
+  "note": "No clinics fact: the 31% of facilities with an electronic health information system 'of any form' (2023/24, Health Facility Census) is not described as HMIS entry or as a clinical record, so it is a systems entry only; the 46% of 7,850 facilities reporting on KHIS is conditional on providing cervical screening."
+}

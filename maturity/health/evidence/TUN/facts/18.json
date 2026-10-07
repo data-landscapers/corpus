@@ -1,0 +1,66 @@
+{
+  "slug": "2022-12-01-tun-rapport-annuel-de-performance-de-l-annee-2021",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's annual performance report for 2021 states, under its hospital services programme, that the ministry will concentrate on developing the generalisation of the computerised medical record (dossier médical informatisé), alongside generalising the laboratory and radiography applications, because medicine management depends on them; it gives no count of hospitals using the record.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "dossier médical informatisé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical informatisé",
+      "country_label": "dossier médical informatisé",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministère de la santé",
+      "tiers": "hospitals under Programme 2, hospital health services; generalisation still to be developed in 2021, extent not stated"
+    },
+    {
+      "system": "système d'information sanitaire national unifié",
+      "country_label": "système d'information sanitaire national unifié",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la santé",
+      "tiers": "not stated; being put in place in 2021"
+    },
+    {
+      "system": "Réseau National de Santé (RNS NG)",
+      "country_label": "Réseau National de Santé (RNS NG)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministère de la santé",
+      "tiers": "not stated; the network modernisation contract was running late in 2021"
+    },
+    {
+      "system": "applications informatiques relatives à la gestion des laboratoires et de la radiographie",
+      "country_label": "applications informatiques relatives à la gestion des laboratoires et de la radiographie",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la santé",
+      "tiers": "hospitals under Programme 2; generalisation of use still to come in 2021"
+    },
+    {
+      "system": "application de gestion financière",
+      "country_label": "application de gestion financière",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la santé",
+      "tiers": "regional hospitals; installation and use continuing in 2021"
+    },
+    {
+      "system": "système de gestion de la maintenance biomédicale",
+      "country_label": "système de gestion de la maintenance biomédicale",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la santé",
+      "tiers": "not stated; computerisation planned"
+    }
+  ],
+  "note": "Passages only, of a 10,459-word report. The report states that the ministry continued putting in place a unified national health information system in 2021 without saying what it does, so it is unclassified and gives no fact. It reports technical difficulties with the information system from the delayed RNS NG network modernisation contract: an enabling system, no fact. The passages give no tier, coverage or point-of-entry statement for the medical record, and nothing on routine aggregate reporting, so no hmis fact."
+}

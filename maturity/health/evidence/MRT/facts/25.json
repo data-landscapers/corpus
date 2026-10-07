@@ -1,0 +1,46 @@
+{
+  "slug": "2022-01-01-mrt-le-centre-de-sante-de-sabkha-un-modele-de-digitalisation-des-structure",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "AMI reports the Ministry of Health's secretary general visiting the Sebkha health centre in Nouakchott-Ouest, which he called a pilot centre that has digitised patients' health records and a model for all the country's health and hospital facilities, and saying the whole patient pathway from consultation to discharge would be fully digital by 2025; the page carries no date, so dated to its published year, 2022.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "digitised patient health records, Sebkha health centre",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "AMI reports that patients' health records have been digitised at one health centre, that of the Sebkha district in Nouakchott-Ouest, described as a pilot; no other facility is named; the page carries no date, so dated to its published year, 2022.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "digitised patient health records, Sebkha health centre",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "AMI reports the head of the health solidarity fund CNASS crediting the European Union, the Belgian development agency and the health sector support project for the digitisation of the Sebkha health centre; no amount and no domestic funding is stated; the page carries no date, so dated to its published year, 2022.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "digitised patient health records, Sebkha health centre",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "digitised patient health records, Sebkha health centre",
+      "country_label": "numérisation des dossiers de santé des patients",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "one pilot health centre, Sebkha, Nouakchott-Ouest"
+    }
+  ],
+  "note": "The document names no software and does not say whether records are entered at the point of care, nor whether they can be retrieved at another facility. The 2025 date is a spoken commitment by the secretary general, not a plan document, so no plan fact is taken."
+}

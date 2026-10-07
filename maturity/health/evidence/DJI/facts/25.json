@@ -1,0 +1,56 @@
+{
+  "slug": "2020-11-23-dji-premiere-evaluation-du-dhis2-depuis-son-introduction-dans-la-gestion-d",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health reports that its health information directorate (DIS), under director Chehem Ibrahim, led the DHIS2 project from design through physical installation to operation, with a steering committee and a technical team set up to manage and coordinate it, as presented to the minister on 12 November 2020.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health reports that the DHIS2 introduction began with a roadmap carrying a budget and a timetable for putting DHIS2 in place, as recounted by the DIS director on 12 November 2020; the roadmap's own date and period are not given.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T2;T3",
+      "fact": "The DIS director confirmed on 12 November 2020 that DHIS2 was operational at levels 1 and 2 of the health pyramid, end users having been trained at the CSC and CMH, with routine data reaching the DIS through it; integration of level 3, the hospitals, was still being studied.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The Ministry of Health reports that end users at the CSC and CMH were trained on DHIS2, followed by data-entry workshops and post-training supervision visits, and that by 12 November 2020 routine data rose through the platform to the DIS; it gives no count of facilities entering.",
+      "as_of": "2020-11-12",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 (written DHS2 in places)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Direction de l'information sanitaire (DIS)",
+      "tiers": "levels 1 and 2 of the health pyramid, end users at the CSC and CMH; level 3 (hospitals) under study; vertical programmes and the parapublic and private sectors a later ambition (12 November 2020)"
+    }
+  ],
+  "note": "Classed hmis on the document's own description: an electronic system for routine health data, collected, compiled, analysed and disseminated. The tier value is a mapping the parent should check: the document says levels 1 and 2 and names CSC and CMH without expanding either, and says level 3 is the hospitals; T3 is given for CSC as health centres and T2 for CMH as first-referral facilities, and whether level 1 also covers health posts (T4) is not stated. Facility entry is read from end users being trained at those facilities and data-entry workshops, not from an explicit statement of where keying happens. The implementation is dated about a year before the meeting. No finance source is stated."
+}

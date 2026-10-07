@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,hmis,governance,qualifier,owner:ministry,2025-10-10,UGA-018,UGA-031=owner:ministry,"not stated: plan, finance"
-UGA,hmis,tiers,coverage,T1;T2;T3,2025-10-10,UGA-019,,
-UGA,hmis,digitised,coverage,facility,2025-10-10,UGA-008;UGA-020,UGA-007=paper,
-UGA,hmis,last12,qualifier,advancing,2025,UGA-012,UGA-032=no-change,
+UGA,hmis,governance,qualifier,owner:ministry;plan:current,2025-12,UGA-018;UGA-036,UGA-031=owner:ministry;UGA-040=owner:ministry;UGA-044=owner:ministry,not stated: finance
+UGA,hmis,tiers,coverage,T1;T2;T3;T4,2025-10-10,UGA-019;UGA-041,UGA-045=T1;T2;T3;T4,
+UGA,hmis,digitised,coverage,facility,2025-10-10,UGA-008;UGA-020;UGA-039;UGA-042;UGA-046,UGA-007=paper;UGA-038=district,
+UGA,hmis,last12,qualifier,advancing,2025,UGA-012;UGA-047,UGA-032=no-change;UGA-043=regressing,
 UGA,hmis,clinics,coverage,,,,,nothing held
-UGA,emr,governance,qualifier,owner:vendor;plan:current;finance:donor,2026-09-03,UGA-006;UGA-010;UGA-016,UGA-009=owner:ministry;UGA-015=owner:ministry;UGA-017=finance:donor;UGA-022=owner:partner;UGA-023=finance:donor;UGA-033=owner:ministry;UGA-034=plan:current;UGA-024=owner:ministry;UGA-001=owner:ministry,
+UGA,emr,governance,qualifier,owner:vendor;plan:current;finance:donor,2026-09-03,UGA-006;UGA-010;UGA-037,UGA-009=owner:ministry;UGA-015=owner:ministry;UGA-016=plan:current;UGA-017=finance:donor;UGA-022=owner:partner;UGA-023=finance:donor;UGA-033=owner:ministry;UGA-034=plan:current;UGA-024=owner:ministry;UGA-001=owner:ministry,
 UGA,emr,tiers,coverage,T1;T2;T3;T4,2026-09-19,UGA-002;UGA-021;UGA-027;UGA-028,UGA-026=T2;UGA-025=T2,
 UGA,emr,digitised,coverage,point-of-care,2026-09-19,UGA-003;UGA-030,UGA-035=paper,
-UGA,emr,last12,qualifier,no-change,2026-09-19,UGA-005,UGA-011=advancing,
+UGA,emr,last12,qualifier,no-change,2026-09-19,UGA-005,UGA-011=advancing;UGA-048=advancing,
 UGA,emr,clinics,coverage,count:3,2026-09-19,UGA-004,UGA-029=count:7,

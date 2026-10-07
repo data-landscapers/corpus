@@ -1,9 +1,9 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,hmis,governance,qualifier,owner:ministry;plan:none,2026-08-05,SSD-001;SSD-008,SSD-006=owner:ministry,not stated: finance
-SSD,hmis,tiers,coverage,,,,,nothing held
-SSD,hmis,digitised,coverage,district,2025-02,SSD-007,,
-SSD,hmis,last12,qualifier,advancing,2026-07,SSD-002,,
-SSD,hmis,clinics,coverage,,,,,nothing held
+SSD,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-05,SSD-001;SSD-013;SSD-023,SSD-006=owner:ministry;SSD-012=owner:ministry;SSD-018=owner:ministry;SSD-019=plan:current;SSD-025=owner:ministry;SSD-024=owner:ministry;SSD-008=plan:none;SSD-027=plan:current;SSD-028=owner:ministry;SSD-032=owner:ministry;SSD-033=plan:current;SSD-034=finance:donor;SSD-039=owner:ministry;SSD-031=owner:ministry,
+SSD,hmis,tiers,coverage,T1;T2;T3;T4,2025,SSD-011;SSD-017,,
+SSD,hmis,digitised,coverage,facility,2025,SSD-015,SSD-016=district;SSD-007=district;SSD-035=district;SSD-037=district;SSD-029=district,
+SSD,hmis,last12,qualifier,advancing,2026-07,SSD-002;SSD-009;SSD-010;SSD-020;SSD-021;SSD-022,SSD-026=no-change,
+SSD,hmis,clinics,coverage,share:30%,2025,SSD-014,SSD-036=not-published;SSD-038=none;SSD-030=not-published,
 SSD,emr,governance,qualifier,,,,,nothing held
 SSD,emr,tiers,coverage,,,,,nothing held
 SSD,emr,digitised,coverage,,,,,nothing held

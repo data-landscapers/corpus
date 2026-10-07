@@ -1,0 +1,72 @@
+{
+  "slug": "2022-01-01-eri-who-eritrea-annual-report-2022",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "WHO Eritrea states that it has supported the Ministry of Health to introduce and sustain a functional DHIS-2 at national level, at sub-national level and in 44% of the districts, with no numerator or denominator given, and that timeliness and completeness of reporting through DHIS2 are among the best in the African region, with no figure given.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO Eritrea states that the Ministry of Health's HMIS unit produces the Annual Health Service Activity Report each year from routine health and disease records, and that DHIS-2 was introduced and is sustained by the Ministry with WHO support.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO Eritrea states that in 2022 the DHIS 2 server was upgraded to the latest version, with new data analysis applications and WHO data quality applications.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS 2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO Eritrea states that in the two years before its 2022 report 50 people, including data managers and HMIS focal persons at national and sub-national level, were trained through the DHIS2 academy, with training in data analysis and data quality assessment.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS-2",
+      "country_label": "District health information system (DHIS); HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, HMIS unit, with WHO support",
+      "tiers": "national, sub-national and 44% of districts; no facility tier stated"
+    },
+    {
+      "system": "National Health Observatory (NHO)",
+      "country_label": "National Health Observatory",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, established with WHO support; not yet approved or launched",
+      "tiers": "national"
+    },
+    {
+      "system": "Integrated Disease Surveillance and Response (IDSR)",
+      "country_label": "IDSR",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO support",
+      "tiers": "national and Zoba levels, with focal points in prioritised health facilities"
+    }
+  ],
+  "note": ""
+}

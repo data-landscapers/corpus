@@ -1,0 +1,14 @@
+{
+  "slug": "2025-07-01-swz-eswatini-2024-annual-report",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO Eswatini reports that DHIS2 was introduced nationally in 2024 as a single platform bringing together health data that had sat in separate programme databases, Eswatini being among the last seven countries in the African region to introduce it; in 2024 test and production servers were set up, a national Health Sector Indicator Compendium finalised, dashboards built and 25 Strategic Information Officers trained in configuration.", "as_of": "2024", "date_precision": "year", "system": "District Health Information Software version 2 (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "WHO Eswatini reports that in November 2024 it sent two consultants from its Regional Office to help the country roll out DHIS2, for which a domain and URL were already in place.", "as_of": "2024-11", "date_precision": "month", "system": "District Health Information Software version 2 (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "WHO Eswatini describes DHIS2 as the Ministry of Health's platform, rolled out by the Ministry of Health with the Ministry of ICT and WHO and with the national M&E team mentored for national ownership, while stating that in 2024 it was hosted on UNICEF servers and that limited local hosting capacity and dependence on external technical support put its sustainability and national data sovereignty at risk.", "as_of": "2024", "date_precision": "year", "system": "District Health Information Software version 2 (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information Software version 2 (DHIS2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health, with Ministry of ICT and WHO; hosted on UNICEF servers", "tiers": "national; leadership at national and district levels named, facility use not stated"},
+    {"system": "Epidemic Intelligence from Open Sources (EIOS)", "country_label": "EIOS", "class": "single-function", "platform": "EIOS", "owner": "not stated; 25 technical officers trained with WHO support", "tiers": "not stated"},
+    {"system": "Cancer Registry", "country_label": "Cancer Registry", "class": "", "platform": "", "owner": "not stated", "tiers": "not stated"}
+  ],
+  "note": "DHIS2 classed hmis on the document's description of it as the single platform for health-sector and programme indicator data; the document does not say at which level data is entered, which tiers use it or how many facilities report."
+}

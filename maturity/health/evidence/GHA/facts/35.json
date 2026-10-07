@@ -1,0 +1,104 @@
+{
+  "slug": "2022-06-01-ghana-health-information-system-strategic-plan-2022-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's plan states that the Centre for Health Information Management, a unit of the Ghana Health Service's Policy, Planning, Monitoring and Evaluation Division, manages DHIMS2 and its access control, with direct access limited to staff of the ministry and its agencies; the date is the document's, which gives no other.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's Health Information System Strategic Plan 2022-2025, dated June 2022, names DHIMS2 and sets a strategy to expand it as the official data repository for service delivery data, with a budget table totalling GHS 31,354,750 over 2022 to 2025 (the summary says about GHC 30 million).",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The plan gives a 2021 baseline of 0 for the percentage of the total health budget allocated to health information management, lists over-reliance on development partners for budgetary support as a threat, and splits its own GHS 31,354,750 budget into GHS 3,135,475 from government and GHS 28,219,275 from development partners; the figures are for health information management as a whole, not DHIMS2 alone.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The plan states that facilities summarise data from electronic medical records or manual registers and that most facilities validate and enter their data into DHIMS2 themselves, while facilities without computers or internet submit manually to the sub-district for verification and entry; it gives no count of either, and the date is the document's.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIMS2",
+      "country_label": "District Health Information Management System (DHIMS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Centre for Health Information Management (CHIM), Ghana Health Service PPME Division",
+      "tiers": "all public and private health facilities are to report through district, municipal and metropolitan health directorates; teaching hospitals, quasi-government facilities and some private hospitals do not align"
+    },
+    {
+      "system": "Electronic Medical Records System (EMRS)",
+      "country_label": "electronic medical records used by facilities",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "increasing use by facilities to manage patients' health care data; no system or tier named"
+    },
+    {
+      "system": "Teaching Hospitals Information Management System (THIMS)",
+      "country_label": "Tertiary/Teaching Hospital Health Information Management System (THIMS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "teaching hospitals"
+    },
+    {
+      "system": "eTracker",
+      "country_label": "eTracker",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "GhILMIS",
+      "country_label": "Ghana Integrated Logistics Management Information System (GhILMIS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Human Resource Information System (HRIS)",
+      "country_label": "Human Resource Information System (HRIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Human Resource Division, Ghana Health Service",
+      "tiers": ""
+    },
+    {
+      "system": "national health database and dashboard",
+      "country_label": "national level database (DHIS2) and dashboard",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "proposed; to receive indicators from the agencies' systems"
+    }
+  ],
+  "note": "The same slug as document 22, here in the full capture. No tiers fact: the plan says all facilities report and that teaching hospitals do not align, but names no tier in use. No clinics fact: it gives no share or count of facilities entering their own data; its only coverage figures are 3 of 28 agencies (GHS, CHAG, private sector) reporting to DHIMS2 and under 10% of registered private providers submitting, both 2021 baselines. No EMR fact: electronic medical records are described only as in increasing use, with no system, tier, owner or figure. eTracker and THIMS appear only in the data-flow figure and a dashboard activity."
+}

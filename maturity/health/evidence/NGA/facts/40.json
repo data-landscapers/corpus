@@ -1,0 +1,84 @@
+{
+  "slug": "2024-11-01-nga-assessment-of-the-political-economy-context-surrounding-evidence-use-f",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Gavi Zero-Dose Learning Hub assessment states that all health facilities offering routine immunisation give monthly reports to LGA offices, where they are entered manually into DHIS2, the administrative system, from health management information system paper tools filled in by PHC personnel; undated in the document, so dated to its publication.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A key informant interviewed between June and November 2023 calls DHIS2 government-owned, and says NPHCDA and its technical working group gave access to it to all stakeholders working on routine immunisation; NPHCDA's NERICC manages immunisation data and reports it through DHIS2 monthly.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 (administrative data system)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Government; NPHCDA (NERICC) for routine immunisation data",
+      "tiers": "facilities report monthly on paper to LGA offices, where data is keyed; accessed at state and national level"
+    },
+    {
+      "system": "DHIS2 routine immunisation module and dashboard",
+      "country_label": "RI module of DHIS2",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "NPHCDA",
+      "tiers": "scaled up 2014-2017 across the 774 LGAs, each state with at least one DHIS2 focal point"
+    },
+    {
+      "system": "Routine Immunisation Short Message Service (RI-SMS)",
+      "country_label": "RI-SMS",
+      "class": "single-function",
+      "platform": "SMS",
+      "owner": "NPHCDA, introduced with AFENET",
+      "tiers": "operational across 18 states; daily reporting through SERICC and LERICC, viewed weekly at national level"
+    },
+    {
+      "system": "Electronic Management of Immunization Data (EMID)",
+      "country_label": "EMID",
+      "class": "tracker",
+      "platform": "",
+      "owner": "NPHCDA, developed with eHealth Africa",
+      "tiers": "built for the COVID-19 vaccine rollout with real-time entry of client data; a routine immunisation module piloted in select states and recently launched to all states"
+    },
+    {
+      "system": "Logistics Management Information System application",
+      "country_label": "Logistics Management Information System application",
+      "class": "single-function",
+      "platform": "",
+      "owner": "developed by eHealth Africa",
+      "tiers": "last mile health workers, for stock management information"
+    },
+    {
+      "system": "CommCare",
+      "country_label": "CommCare",
+      "class": "community",
+      "platform": "CommCare",
+      "owner": "",
+      "tiers": "community health workers in Abuja and Nasarawa State registering and tracking pregnant women, not linked to immunisation records; CHAN plans a CommCare module for zero-dose children reached by community health workers"
+    },
+    {
+      "system": "Routine Immunization Supportive Supervision (RISS) checklist",
+      "country_label": "RISS",
+      "class": "",
+      "platform": "Open Data Kit (ODK)",
+      "owner": "states",
+      "tiers": "supervisors at facility and community level, on mobile phones; data kept by subnational governments"
+    }
+  ],
+  "note": "The document's DHIS2 statements concern routine immunisation reporting; the facts are taken for hmis because it describes the facilities' monthly reports on HMIS paper tools keyed at LGA level into the government's administrative DHIS2."
+}

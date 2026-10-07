@@ -1,0 +1,46 @@
+{
+  "slug": "2026-01-08-mus-ile-maurice-la-transformation-numerique-via-le-projet-ehealth-prend-fo",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "allAfrica reports that Digital Health Company Ltd, a public company under the Ministry of Health and Wellness, holds overall responsibility, management and supervision of the eHealth project and its One Patient, One Record system, that it has no chief executive and the ministry's Permanent Secretary is officer in charge, and that Cabinet approved its creation as a Digital Health Agency in August 2024, a ministry senior adviser being the source; the article's published date is used.",
+      "as_of": "2026-01-08",
+      "date_precision": "day",
+      "system": "One Patient, One Record (OPOR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "allAfrica describes the eHealth project as one that would replace the paper-based health system with an integrated digital one, and One Patient, One Record as aiming to create a single electronic medical record per patient, both in the future tense; no date is given, so the article's published date is used.",
+      "as_of": "2026-01-08",
+      "date_precision": "day",
+      "system": "One Patient, One Record (OPOR)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "allAfrica reports that training of hospital staff on One Patient, One Record has begun in some health facilities, notably Flacq hospital, and is to be extended to other hospitals, and that Digital Health Company Ltd has opened calls for applications to recruit its staff; undated, so the article's published date is used.",
+      "as_of": "2026-01-08",
+      "date_precision": "day",
+      "system": "One Patient, One Record (OPOR)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "One Patient, One Record (OPOR)",
+      "country_label": "projet eHealth; One Patient, One Record (OPOR); dossier médical électronique (DME)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Digital Health Company Ltd, a public company under the Ministry of Health and Wellness; supported by UNDP, implemented with the Ministry of Information Technology",
+      "tiers": "staff training begun in some health facilities, notably Flacq hospital, to be extended to other hospitals (January 2026); no facility stated as using it"
+    }
+  ],
+  "note": "No HMIS fact: the article describes no routine aggregate reporting system. No tiers or clinics fact: it reports training, not use, and names no primary clinic. UNDP's support is stated without saying who pays, and no plan or budget line is named."
+}

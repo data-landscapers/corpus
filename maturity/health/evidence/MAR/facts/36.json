@@ -1,0 +1,56 @@
+{
+  "slug": "2025-12-06-mar-pacte-national-pour-la-sante-royaume-du-maroc",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The government's National Health Compact, dated 6 December 2025, commits to finish deploying integrated health information systems in health facilities so that data are timely, reliable and accessible; its action plan lists deploying and operationalising an integrated health information system (SIIS) in all primary health care establishments and in all university hospitals, with targets to 2030.",
+      "as_of": "2025-12-06",
+      "date_precision": "day",
+      "system": "système intégré d'information sanitaire (SIIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Compact's action plan names the Ministry of Health and Social Protection (MSPS) and the territorial health groups (GST) as accountable for deploying the SIIS in all primary health care establishments and all university hospitals.",
+      "as_of": "2025-12-06",
+      "date_precision": "day",
+      "system": "système intégré d'information sanitaire (SIIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The Compact states that the health investment budget more than doubled from 3 billion dirham in 2021 to 7.9 billion in 2022, and that these funds serve to rehabilitate more than 1,400 primary care establishments and hospitals, modernise information systems and buy medical equipment; it names no budget line for the SIIS itself.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "système intégré d'information sanitaire (SIIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Compact's action plan gives the baseline for the SIIS in all primary health care establishments as being deployed (en cours de déploiement) and in all university hospitals as in progress, at 6 December 2025; no count of facilities is given.",
+      "as_of": "2025-12-06",
+      "date_precision": "day",
+      "system": "système intégré d'information sanitaire (SIIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système intégré d'information sanitaire (SIIS)",
+      "country_label": "système intégré d'information sanitaire (SIIS); also système national d'information numérique en santé",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health and Social Protection (MSPS) with the territorial health groups (GST)",
+      "tiers": "being deployed in all primary health care establishments (ESSP) and all university hospitals (CHU)"
+    }
+  ],
+  "note": "Class is a judgement the parent should check: the Compact describes the SIIS only by its purpose (timely, reliable, accessible data; faster reporting to guide investment and decisions) and never says whether it holds patient records, so it is classed hmis on that description alone. It also states, undated beyond the Compact, that information and surveillance systems are fragmented and obsolete, and commits to bring the private sector into the national digital health information system."
+}

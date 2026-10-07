@@ -1,0 +1,80 @@
+{
+  "slug": "2022-01-01-syc-national-health-strategic-plan-2022-2026-sd6-specific-objectives",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Health Strategic Plan 2022-2026 sets specific objective 6.8, 'Implement eHIS', with user acceptance testing, end-user training and three go-live phases: client registration and appointments across all relevant units; then in-patient, laboratory, radiology, billing and doctors' desk modules; then the remaining modules including procurement and stores and biomedical. The table gives no dates or costs, so the document's published year is used.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "eHIS",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's strategic plan names the Health Care Agency as lead entity for implementing the eHIS, with the Ministry of Health and the Public Health Authority contributing; the document's published year is used as the date.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "eHIS",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Health Strategic Plan 2022-2026 sets specific objective 6.1, to set up one integrated health information system for the Ministry of Health that stops fragmented data collection and reduces the reporting burden, with a strategic framework and governance structure as milestones; nothing is costed or dated, so the document's published year is used.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Integrated HIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The strategic plan names the Ministry of Health as lead entity for the integrated health information system, with the Public Health Authority and the Health Care Agency contributing; the document's published year is used as the date.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Integrated HIS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "eHIS",
+      "country_label": "eHIS",
+      "class": "emr",
+      "platform": "",
+      "owner": "Health Care Agency (lead), with the Ministry of Health and the Public Health Authority",
+      "tiers": "Not stated; client registration and appointment module to roll out 'across all relevant units'"
+    },
+    {
+      "system": "Integrated HIS",
+      "country_label": "one integrated HIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health (lead), with the Public Health Authority and the Health Care Agency",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Cancer registry",
+      "country_label": "Cancer registry",
+      "class": "",
+      "platform": "",
+      "owner": "Not stated",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Integrated data repository or portal",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health (lead)",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "Both classes rest on inference the parent should check. The eHIS is classed emr on its module list (client registration, appointments, in-patient, doctors' desk, laboratory, radiology), which is patient-level general care; the table never says in terms that it holds the clinical record, and it also carries billing, stores and biomedical modules. The table calls its users 'HMIS end-users', apparently meaning a hospital management system. The integrated HIS is classed hmis on its stated purpose of data collection and reporting; it is planned, not in use, and the table does not say whether it and the eHIS are the same system. The cancer registry appears only as an annual report and the data repository only as something to be set up with outside technical assistance."
+}

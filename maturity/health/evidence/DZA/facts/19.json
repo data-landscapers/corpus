@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-01-dza-cour-des-comptes-rapport-annuel-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "the information system of the Institut national de santé publique (INSP), under its digitalisation strategy",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Institut national de santé publique, with the Ministry of Health's directorate of informatics and information systems; WHO support",
+      "tiers": "not stated; a group of INSP file managers and IT specialists trained on the platform"
+    }
+  ],
+  "note": "The one passage carrying a term says the INSP is carrying out a three-year digitalisation strategy with the Ministry of Health's IT directorate and WHO support, and that an INSP group has been trained on DHIS2 by a WHO expert; it names the platform without describing what it reports, so the system is unclassified and gives no fact."
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "2025-12-11-sen-program-information-document-pid-senegal-health-system-development-and",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The World Bank's appraisal-stage programme document states that health worker strikes over the past 2.5 years have brought retention of routine data, technical limitations and resource shortages, leaving gaps in data collection, storage and reporting across DHIS2 and other platforms and impeding timely, accurate and complete health statistics; it gives no date for the position, so the document's date of 11 December 2025 is used.",
+      "as_of": "2025-12-11",
+      "date_precision": "day",
+      "system": "District Health Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank states that its proposed programme (US$100m IDA, with US$15m from the Global Financing Facility and US$15m from a multi-donor trust fund, against a government programme cost of US$540m) will strengthen health information systems with digital tools and pay for dedicated health data managers in priority regions to ensure data entry, validation and use at facility and district levels; the financing was at appraisal stage and not yet approved, estimated approval being 18 March 2026.",
+      "as_of": "2025-12-11",
+      "date_precision": "day",
+      "system": "District Health Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank states that its Senegal Digital Economy Acceleration Project (PAENS, P172524) provides the foundational infrastructure for health digitalisation, electronic medical records among it, alongside broadband connectivity, telemedicine platforms and secure data systems; undated, so the document's date of 11 December 2025 is used.",
+      "as_of": "2025-12-11",
+      "date_precision": "day",
+      "system": "electronic medical records (EMRs)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "routine health data; planned data managers to work at facility and district levels in priority regions"},
+    {"system": "electronic medical records (EMRs)", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": "provided under the World Bank's PAENS project; tiers not stated"},
+    {"system": "telemedicine platforms", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "provided under PAENS, for underserved areas; tiers not stated"},
+    {"system": "logistics management information systems", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "named only as having gaps; tiers not stated"},
+    {"system": "regional multisectoral, multi-hazard early warning system (One Health)", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "planned under the programme; not in use"}
+  ],
+  "note": ""
+}

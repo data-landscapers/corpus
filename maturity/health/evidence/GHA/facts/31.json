@@ -1,0 +1,44 @@
+{
+  "slug": "2025-10-01-gha-health-sector-medium-term-development-plan-mtdp-2026-2029",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Health's Health Sector Medium-Term Development Plan 2026-2029 (October 2025) carries a results-framework outcome indicator, reported nationally and annually by MOH headquarters, for the percentage of health facilities (public, private and faith-based) with functional EMR systems in use for patient records; the date is the document's, which gives no other.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "Electronic Medical Record (EMR) systems",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:15%",
+      "fact": "The Ministry of Health's plan for 2026-2029 gives the values 15%, 25%, 40, 55 and 70 against its indicator for the percentage of all health facilities (public, private and faith-based) with functional EMR systems in use for patient records, the first read as the baseline and the rest as the four plan years; the passage carries no column headings, no numerator or denominator and no baseline year, so the date is the document's, and the share is of all health facilities, not of primary clinics.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "Electronic Medical Record (EMR) systems",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Medical Record (EMR) systems",
+      "country_label": "Electronic Medical Record (EMR) systems",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "health facilities, public, private and faith-based; no tier stated"
+    },
+    {
+      "system": "DHIMS2",
+      "country_label": "District Health Information Management System (Version 2)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only, of a 50,009-word plan: the EMR indicator row arrives as a broken table without its column headings, so the reading of 15% as baseline is from the order of the values. DHIMS2 appears only in the acronym list, with no description."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2023-11-07-syc-seychelles-health-system-is-bolstered-by-commonwealth-who-partnership",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic Health Information System",
+      "country_label": "Electronic Health Information System",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Seychelles",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "No fact: the release names the Electronic Health Information System as a government investment that has brought digital platforms into disease surveillance, laboratories and imaging, but does not say what the system itself does, so it is unclassified. It also reports that a four-day digital health maturity assessment workshop (over 45 participants, over 30 indicators) recommended mapping existing solutions into a digital health strategy, which implies no such strategy existed at the date (workshop October 2023, release dated 2023-11-07), and that the ICT department works with the ministry on protecting citizen health records."
+}

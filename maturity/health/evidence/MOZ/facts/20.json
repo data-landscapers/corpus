@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-06-moz-program-paper-on-a-proposed-additional-grant-to-the-republic-of-mozamb",
+  "facts": [],
+  "systems": [
+    {"system": "SISMA (Sistema de informação para a saúde para a monitoria e avaliação)", "country_label": "SISMA", "class": "", "platform": "DHIS2", "owner": "MISAU (Ministry of Health)", "tiers": ""}
+  ],
+  "note": "The passages name SISMA only as \"MISAU's DHIS2\", the data source for disbursement-linked indicators counting district hospitals rehabilitated and connected to the internet; they do not describe what it reports, where it is keyed or which tiers use it, so it is unclassified and gives no fact."
+}

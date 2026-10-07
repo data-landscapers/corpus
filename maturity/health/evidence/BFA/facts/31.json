@@ -1,0 +1,44 @@
+{
+  "slug": "2021-01-01-bfa-feuille-de-route-pour-la-sante-communautaire-mise-a-jour-2021",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The 2021 Community Health Roadmap update states that community health workers' monthly reports are compiled by the CSPS into a monthly community activity report (RMA-C), which is sent to the health district for entry into DHIS2 (Endos-BF).",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Endos-BF (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The 2021 Community Health Roadmap update states that decentralised entry into DHIS2 (Endos-BF), done by the CSPS themselves, is already operational in the Boucle du Mouhoun region, one of the country's 13 regions; it gives no number of CSPS entering, against 1,839 CSPS nationally.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Endos-BF (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Endos-BF (DHIS2)",
+      "country_label": "Endos-BF",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "monthly community activity reports compiled at CSPS and keyed at the health district; keyed by CSPS in the Boucle du Mouhoun region"
+    },
+    {
+      "system": "mHealth platform",
+      "country_label": "mhealth",
+      "class": "community",
+      "platform": "",
+      "owner": "",
+      "tiers": "community health workers; being implemented in 36 health districts as of September 2021, with a medicines management module added"
+    }
+  ],
+  "note": "The document describes Endos-BF only through the community health workers' monthly aggregate reports, not the facilities' own activity reports; it is classed hmis as monthly aggregate reporting keyed into the national DHIS2, and the parent may prefer to read these two rows as evidence for the community flag instead. For that flag: community reports enter the same Endos-BF as the routine system. The document counts 17,648 community health workers and 1,839 CSPS, and lists investing in the national health information system and ICT among urgent investment actions. The page on data collection carries no date of its own; the progress columns are as of September 2021."
+}

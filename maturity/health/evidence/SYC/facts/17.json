@@ -1,0 +1,26 @@
+{
+  "slug": "2024-01-23-syc-leaders-scrutinize-seychelles-digital-health-transformation",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Seychelles Nation, from a Ministry of Health press release, reports at the ministry's digital health visioning meeting of 22 January 2024 that the Electronic Health Information System has been operational since the end of 2021 and that the ministry is now trying to link it with laboratories and X-ray so doctors get results on their computers.",
+      "as_of": "2024-01-22",
+      "date_precision": "day",
+      "system": "Electronic Health Information System (EHIS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Health Information System (EHIS)",
+      "country_label": "EHIS",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "Classed emr on thin ground: the article describes the EHIS only as a system doctors use on their computers, to which laboratory and X-ray results are to be linked; it does not say in terms that it holds the patient record. No tier, no place of digitisation and no clinic count is given. A Digital Health Roadmap is being worked towards, not yet a plan; the article ties digital health to the National Health Strategic Plan 2022-2026 without saying the plan names the EHIS."
+}

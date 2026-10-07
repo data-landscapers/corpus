@@ -1,0 +1,34 @@
+{
+  "slug": "2019-01-01-tun-projet-de-politique-nationale-de-sante",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The draft National Health Policy submitted to the National Health Conference of 27 June 2019, with a 2030 horizon, names a single, digitised and integrated medical record as the support for continuity of care and calls for the generalisation of the unique identifier and the digitised medical record to create traceability and reduce waste and corruption; it is a draft policy, gives no cost or timetable for the record in the passages, and is dated here to its publication year.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "dossier médical unique et numérisé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical unique et numérisé",
+      "country_label": "dossier médical unique et numérisé; dossier médical unique informatisé et intégré; dossier médical numérisé",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; a policy aim to be generalised, not a deployment"
+    },
+    {
+      "system": "identifiant unique",
+      "country_label": "identifiant unique",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; a policy aim to be generalised"
+    }
+  ],
+  "note": "Passages only, of a 24,743-word document. The record is stated as an intended change of the policy, not as something in use, so there is no tiers, digitised or clinics fact; the passages name no owner and no financing for it. Nothing on routine aggregate reporting, so no hmis fact."
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "2024-01-01-eth-barriers-and-facilitators-of-the-electronic-medical-record-adoption-am",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2;T3",
+      "fact": "A qualitative study (Digital Health, SAGE) found the Bahmni EMR in use for patient care in June 2023 at one general hospital, Tirunesh Beijing, and three health centres, Kazanchis, Saris and Ferensay, all in Addis Ababa; the sites were chosen because they had the EMR and no national count is given.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "Bahmni EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "Providers at the four Addis Ababa facilities interviewed on 5-13 June 2023 describe entering consultations, prescriptions and laboratory orders in the Bahmni EMR during care, a nurse at Ferensay health centre saying the facility works fully paperless; the record is used across departments of the one facility and results from outside facilities cannot be uploaded.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "Bahmni EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "keyed-afterwards",
+      "fact": "In the same June 2023 interviews a nurse at Tirunesh Beijing General Hospital says staff usually record on the system after serving patients, and providers at the hospital and at Ferensay and Saris health centres say departments without computers are not connected, so paper and the EMR run side by side and staff revert to paper when the system or power fails.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "Bahmni EMR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "A physician at Tirunesh Beijing General Hospital, interviewed in June 2023, says the EMR is not integrated with DHIS2, so staff copy data from the EMR to a tally sheet and then enter it into DHIS2 to report upward.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Bahmni EMR",
+      "country_label": "EMR",
+      "class": "emr",
+      "platform": "Bahmni",
+      "owner": "",
+      "tiers": "one general hospital and three health centres in Addis Ababa"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "general hospital, keyed from tally sheets"
+    }
+  ],
+  "note": "Purposive sample of four EMR sites in Addis Ababa, so no clinics count is recorded. The paper also states, undated beyond the year, that Ethiopia began EMR implementation in 2013 and that adoption has been low; no owner or plan is stated, only that the Ministry of Health and others supplied computers."
+}

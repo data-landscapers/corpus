@@ -1,0 +1,94 @@
+{
+  "slug": "2022-01-01-dza-salmi-dossier-patient-informatise-chu-tizi-ouzou",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1",
+      "fact": "Salmi, Bouchelaghem and Mohellebi state that in 2018 (2017 in another passage) the health ministry (MSPRH) put the DEMDZ electronic patient record software into certain establishments named pilot hospitals, the Tizi-Ouzou university hospital among them, where the web application was installed in April 2019 at the Belloua unit for the thoracic surgery service; the paper gives no count of pilot hospitals and describes no routine use.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DEMDZ (dossier électronique du malade en Algérie)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "Salmi, Bouchelaghem and Mohellebi state that at the Tizi-Ouzou university hospital the use of DEMDZ was a failure, the thoracic surgery team finding shortcomings that made it hard to use, and that at the time of writing only the laboratory and radiology parts of a computerised patient record were developed and in use there; the paper gives no date for this, so its publication year 2022 is used, and it speaks for this one hospital only.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DEMDZ (dossier électronique du malade en Algérie)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Salmi, Bouchelaghem and Mohellebi state that the health ministry (MSPRH) itself put DEMDZ in place in the pilot hospitals from 2018, and that the Tizi-Ouzou hospital's IT service reported the application's anomalies to the ministry's information systems directorate for correction and updates.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DEMDZ (dossier électronique du malade en Algérie)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DEMDZ",
+      "country_label": "DEMDZ (dossier électronique du malade en Algérie)",
+      "class": "emr",
+      "platform": "web application reached by browser over the intranet",
+      "owner": "Ministry of Health (MSPRH), information systems directorate",
+      "tiers": "certain pilot hospitals from 2018, including CHU Tizi-Ouzou (Belloua unit, thoracic surgery, April 2019); use there failed"
+    },
+    {
+      "system": "DZsiha",
+      "country_label": "DZsiha, dossier électronique du patient drawn up with a software supplier",
+      "class": "emr",
+      "platform": "DZsiha",
+      "owner": "CHU Tizi-Ouzou management with a software supplier, after ministerial directives of 2013",
+      "tiers": "paediatrics service of CHU Tizi-Ouzou for more than a year; never put to use"
+    },
+    {
+      "system": "Outpatient consultation software (2009)",
+      "country_label": "logiciel au niveau des consultations spécialisées",
+      "class": "emr",
+      "platform": "",
+      "owner": "CHU Tizi-Ouzou management",
+      "tiers": "specialist outpatient consultations of CHU Tizi-Ouzou, 2009; failed because staff refused to key the data"
+    },
+    {
+      "system": "logiciel « patient »",
+      "country_label": "logiciel « patient »",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health (MSPRH)",
+      "tiers": "admissions offices of all health structures nationally, from 2002; records the patient's administrative data, social status and the acts performed during the stay"
+    },
+    {
+      "system": "IDAS",
+      "country_label": "programme IDAS, remote query of the single file of the socially insured held by CNAS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "CNAS, queried from the hospital",
+      "tiers": "hospitals, tied to the « patient » software"
+    },
+    {
+      "system": "IKOLAB",
+      "country_label": "système d'information de laboratoire (SIL), IKOLAB",
+      "class": "single-function",
+      "platform": "IKOLab",
+      "owner": "CHU Tizi-Ouzou",
+      "tiers": "laboratory of CHU Tizi-Ouzou, in real-time use"
+    },
+    {
+      "system": "RISPACKS",
+      "country_label": "système d'information de radiologie, RISPACKS",
+      "class": "single-function",
+      "platform": "RIS/PACS",
+      "owner": "CHU Tizi-Ouzou",
+      "tiers": "radiology service of CHU Tizi-Ouzou, images readable over the hospital's local network"
+    }
+  ],
+  "note": "The « patient » software is left unclassified: the paper describes it as recording administrative data and acts for costing and contracting, not as holding the clinical record."
+}

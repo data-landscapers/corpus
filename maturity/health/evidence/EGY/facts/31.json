@@ -1,0 +1,34 @@
+{
+  "slug": "2020-05-08-egy-mohamed-ehr-model-omrania-family-health-centre",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "A Cairo University ethnographic study of Omrania family health centre, Giza, observed between September 2016 and December 2019, states that the centre's patient records were paper family files fetched by a clerk and handed to the physician, with a paper booklet for patients without a file, very poor technology infrastructure and no connection between departments; it says more widely that Egypt's newly launched family health centres run on paper-based family records. The centre serves about 200 patients a day in a catchment of 58,639 people; one centre was studied.",
+      "as_of": "2019-12",
+      "date_precision": "month",
+      "system": "Family health records (paper family files)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Family health records (paper family files)",
+      "country_label": "Family health records / family files",
+      "class": "emr",
+      "platform": "Paper",
+      "owner": "Ministry of Health and Population family health centres",
+      "tiers": "Family health centres (primary care); observed at Omrania family health centre, Giza"
+    },
+    {
+      "system": "National health registration system",
+      "country_label": "National heath registration system (2016 census of catchment population)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The paper's electronic record is a proposed model for the centre, untested and not implemented, so it is not entered as a system and gives no fact. The paper statement covers one primary centre directly and family health centres generally; it says nothing of hospitals, so no tiers or clinics fact is recorded."
+}

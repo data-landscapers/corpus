@@ -1,0 +1,36 @@
+{
+  "slug": "2025-06-01-bfa-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The Countdown to 2030 country team states that health centres ('centres de santé', also 'établissements de santé') report monthly through DHIS2 on antenatal care, deliveries, vaccination, outpatient consultations and hospitalisations, and that 83% of expected monthly facility reports were received nationally in 2024; it does not define the tier of the facilities counted.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The Countdown to 2030 country team reports that the share of expected monthly facility reports in DHIS2 fell from 93% in 2020 to 83% in 2024 (94, 89 and 89 in between), and the share of districts with report completeness of 90% or more fell from 78% to 50%, which it attributes to facility closures and population displacement from insecurity.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "monthly reports of health facilities, analysed nationally, by region and by district; tier not defined"
+    }
+  ],
+  "note": "The report also gives an annual data-quality score of 85, 89, 85, 85 and 79 for 2020 to 2024, falls in the score in high-insecurity regions (Est 93 to 66, Boucle du Mouhoun 93 to 74, Centre-Nord 80 to 63, Nord 82 to 69), and states that private-sector data are not reported. It says nothing of where reports are keyed, of ownership or of finance. The tiers value rests on the report's term 'centres de santé', used loosely for health facilities; the parent may prefer to drop it."
+}

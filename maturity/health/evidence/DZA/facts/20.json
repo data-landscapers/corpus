@@ -1,0 +1,52 @@
+{
+  "slug": "2024-09-01-dza-oms-rapport-biennal-2022-2023",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The WHO Algeria office reports that the Ministry of Health, so that the national health information system yields information for decision-makers at every level, began with WHO support training health practitioners and IT staff to use the DHIS2 platform adapted to the national context: a first five-day session in December 2023 for a first team of 20, led by an international expert, with further sessions to be programmed in the 2024-2025 work plan.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "DHIS2 (système national d'information sanitaire)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The WHO Algeria office reports that the national digital health strategy, under which the DHIS2 training was begun, was still a draft in November 2023: a pre-validation workshop of sixty participants enriched the initial draft ahead of its submission to the national authorities for validation, so no adopted strategy is stated.",
+      "as_of": "2023-11",
+      "date_precision": "month",
+      "system": "DHIS2 (système national d'information sanitaire)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "système national d'information sanitaire; plateforme logicielle DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with WHO support",
+      "tiers": "not stated; a first team of 20 practitioners and IT staff trained in December 2023"
+    },
+    {
+      "system": "SIS (Sahrawi refugee camps, Tindouf)",
+      "country_label": "SIS",
+      "class": "",
+      "platform": "",
+      "owner": "Sahrawi camp health administration, with WHO supervision",
+      "tiers": "central administration of the camps and the hospitals of Smara and Rabouni"
+    },
+    {
+      "system": "Weekly notification forms for priority diseases and events (Sahrawi refugee camps, Tindouf)",
+      "country_label": "formulaires de notification hebdomadaires des maladies et évènements prioritaires",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Sahrawi camp health administration, with WHO support",
+      "tiers": "the refugee camps at Tindouf"
+    }
+  ],
+  "note": "DHIS2 is classed hmis because the document ties it to the national health information system's output for decision-makers at all levels; it does not describe the reporting itself, and says nothing of any tier using it. The report names the Agence Nationale de Numérisation de la Santé only as a participant in an NCD plan evaluation."
+}

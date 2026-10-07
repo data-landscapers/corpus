@@ -1,0 +1,108 @@
+{
+  "slug": "2022-01-01-sdn-national-health-sector-recovery-and-reform-strategic-plan-nhrr-sp-2022",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Federal Ministry of Health's strategic plan for 2022-2024 names DHIS2 in three strategic interventions: expanding the use of integrated DHIS2 through primary health care (1.C), starting the rollout of DHIS2 reporting at selected hospitals (2.I) and reporting through DHIS2 under an integrated, digitalised health information system (5.E).",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS2 (integrated health facility report system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The plan's monitoring framework names the Federal Ministry of Health's health information system unit (FMoH-HIS) as the body responsible for every DHIS2 indicator, and DHIS2 itself as their data source, with 2021 baselines.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2 (integrated health facility report system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The plan states that its costing exercise and resource mobilisation strategy are still to be done and names no budget line or funder for DHIS2; it gives no date for this, so the document's published year is used.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS2 (integrated health facility report system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The plan's situation analysis lists as a strength that DHIS2 is used as the electronic platform for data collection and analysis at the locality level, alongside an integrated health facility report system for hospitals and primary health care; it does not say whether localities key from paper forms, and gives no date, so the document's published year is used.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "DHIS2 (integrated health facility report system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The plan's monitoring framework, citing DHIS2, gives 86.40 per cent of selected hospitals as using DHIS2 in 2021 and a hospital-level DHIS2 reporting rate of 72.40 per cent; it gives no numerator or denominator and does not separate hospital tiers, speaking of secondary and tertiary facilities.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2 (integrated health facility report system)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The plan's monitoring framework, citing DHIS2, gives the reporting rate at primary health care level as 46.90 per cent in 2021, the same figure it gives as the overall DHIS2 reporting rate, with targets of 60, 65 and 70 per cent; it is a rate of reports received, with no numerator or denominator, and the plan places DHIS2 data collection at locality level.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2 (integrated health facility report system)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 (integrated health facility report system)",
+      "country_label": "integrated health facility report system; health information system (HIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health, health information system unit (FMoH-HIS)",
+      "tiers": "data collection and analysis at locality level; reporting rates given for primary health care level and hospital level; 86.40 per cent of selected hospitals using it in 2021"
+    },
+    {
+      "system": "DHIS2 tracker module (List A notifiable diseases)",
+      "country_label": "DHIS2 tracker module",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Federal Ministry of Health, Directorate General of Health Emergencies and Epidemics Control",
+      "tiers": "no state had implemented it in 2021; four states targeted in years 2 and 3"
+    },
+    {
+      "system": "electronic patient registration system",
+      "country_label": "electronic patient registration system at the hospital level",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Health, health information system unit (FMoH-HIS)",
+      "tiers": "hospitals; none running it at the 2022 baseline, targets of 0, 5 and 30 hospitals"
+    },
+    {
+      "system": "Tele-health services",
+      "country_label": "Tele-health services for maternal and child health providers",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Federal Ministry of Health, IT unit",
+      "tiers": "primary health care level; one service established in 2021, targets of 2, 4 and 6"
+    },
+    {
+      "system": "Human Resource for Health Information System (HRHIS)",
+      "country_label": "HRH Information System",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Health, Directorate General of Human Resources for Health Development",
+      "tiers": ""
+    }
+  ],
+  "note": "No EMR fact: the plan's only patient-level hospital system is an electronic patient registration system, with a baseline of no hospital running one in 2022 (source HIS) and a target of 30; it is described as registration, tied to referral, and is not said to hold a clinical record, so it is a systems entry and not an emr fact. The primary health care reporting rate is a rate of reports received, not a share of clinics entering their own data, so no clinics fact is taken. The plan also lists as weaknesses of DHIS2 inadequate administrative capacity, weak server infrastructure and no troubleshooting documents, and gives 7 primary-care modules integrated with DHIS2 in 2021 against a target of 10; neither fits an aspect."
+}

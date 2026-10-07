@@ -1,0 +1,17 @@
+{
+  "slug": "2025-10-10-rwa-annual-health-statistical-booklet-fiscal-year-2023-2024",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2;T3", "fact": "The Ministry of Health's booklet for fiscal year 2023/24 says health facilities submit data to the Rwanda Health Management Information System on structured schedules, and its HMIS-sourced tables report counts by facility level for referral, provincial and district hospitals, medicalized health centres and medical clinics (188,128 surgeries in the year).", "as_of": "2024-06", "date_precision": "month", "system": "Rwanda Health Management Information System (RHMIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "Rwanda Health Management Information System (RHMIS)", "country_label": "RHMIS / R-HMIS", "class": "hmis", "platform": "", "owner": "", "tiers": "public and private health facilities submit data on structured schedules; tables by facility level cover referral, provincial and district hospitals, medicalized health centres and medical clinics; the facility list it holds counts 2,226 facilities, 1,914 of them primary level"},
+    {"system": "Electronic Medical Records (EMRs)", "country_label": "EMRs", "class": "emr", "platform": "", "owner": "", "tiers": "public and private health facilities, as a source of the data integrated into RHMIS; no tier stated"},
+    {"system": "Community Health Workers' standardized forms and mobile tools", "country_label": "", "class": "community", "platform": "", "owner": "", "tiers": "community level; the data is integrated into RHMIS"},
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "contributes births, deaths and causes of death, with verbal autopsies for non-facility deaths, integrated into RHMIS"},
+    {"system": "integrated Human Resource Information System (iHRIS)", "country_label": "iHRIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Health Resource Tracking Tools (HRTT)", "country_label": "HRTT", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Gestion du Système d'Information Sanitaire (GESIS)", "country_label": "GESIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "District Health System Strengthening Tool (DHSST)", "country_label": "DHSST", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages of the Ministry of Health's statistical booklet for July 2023 to June 2024. It uses RHMIS as the source of nearly every table but does not say where reports are keyed, how many primary clinics enter their own, who owns or funds the system, or what software it runs on; it gives 2,226 health facilities (1,914 primary level) as the RHMIS facility count, with no reporting rate. Community health worker data and EMRs are said to feed RHMIS. iHRIS, HRTT, GESIS and DHSST appear in the abbreviations list only."
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "2022-01-01-sudan-health-information-system-assessment-2020",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "WHO's 2020 assessment states that in DHIS2 the data from the facility are entered at the locality level, the flow running from facility to locality to DHIS2, and that localities have staffing needs for DHIS2 data entry.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "integrated health management information system (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "WHO's assessment states that the DHIS2 platform covers 144 of 189 localities in 17 states, Khartoum State joining in 2021, that only 122 of those 144 localities reported into it in May 2020, mainly for loss of internet connectivity, and that reporting rates through DHIS2 rose from 30 per cent of facilities in 2016 to 61.5 per cent in December 2018 and 64 per cent in May 2020.",
+      "as_of": "2020-05",
+      "date_precision": "month",
+      "system": "integrated health management information system (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "WHO's 2020 assessment states that DHIS2 has not been implemented in most hospitals, for want of funding and infrastructure, and that facility data are entered at locality level; it names no facility tier as entering its own reports.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "integrated health management information system (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO's 2020 assessment states that DHIS2 is customised by a core team in the Federal Ministry of Health, under its health information system directorate, with advanced configuration and system administration mostly supplied by expert technical assistance; it says DHIS2 was adopted in 2014 to carry the integrated system.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "integrated health management information system (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO's assessment states that a focus of the 2019 Health Reform Plan is further integration of the health management information system on the DHIS2 platform, and that a national plan and vision for an integrated HMIS on DHIS2 exists, while the 2013 health information policy needs updating and there is no e-health policy or strategy.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "integrated health management information system (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "WHO's 2020 assessment states that the printing and distribution of the registers and report forms the system rests on still depend on donor funding, and that a Global Fund-supported consultancy upgraded every DHIS2 instance at the National Data Centre and the ministry; the passages read name no domestic budget line, though they say the ministry is seeking a common investment plan for partner and domestic support of DHIS2.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "integrated health management information system (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "integrated health management information system (DHIS2)",
+      "country_label": "integrated health management information system (HMIS); routine health information system",
+      "class": "hmis",
+      "platform": "DHIS2, version 2.33 after a Global Fund-supported upgrade",
+      "owner": "Federal Ministry of Health, health information system directorate (DHIS2 core team)",
+      "tiers": "entered at locality level from facility reports; 144 of 189 localities in 17 states; not implemented in most hospitals; does not collect from army-run facilities"
+    },
+    {
+      "system": "Tier.Net",
+      "country_label": "electronic patient management system (HIV)",
+      "class": "tracker",
+      "platform": "Tier.Net, non-networked, University of Cape Town",
+      "owner": "HIV programme, Federal Ministry of Health",
+      "tiers": "3 to 5 of 42 antiretroviral treatment centres"
+    },
+    {
+      "system": "integrated disease surveillance and response system",
+      "country_label": "sentinel surveillance system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Federal Ministry of Health",
+      "tiers": "1817 of 6118 facilities, referral hospitals among them; state-level data held in Excel"
+    },
+    {
+      "system": "DHIS2 COVID-19 module",
+      "country_label": "COVID-19 module",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "National Medical Supplies Fund ERP system and electronic logistics management information systems",
+      "country_label": "electronic logistics management information systems; NMSF ERP system",
+      "class": "single-function",
+      "platform": "ERP",
+      "owner": "National Medical Supplies Fund",
+      "tiers": ""
+    },
+    {
+      "system": "TB reporting system and the separate MDR-TB data collection system",
+      "country_label": "TB reporting system",
+      "class": "single-function",
+      "platform": "MDR-TB held in Excel; TB forms configured in DHIS2 but not yet in use",
+      "owner": "TB programme, Federal Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "community-based health information system",
+      "country_label": "community-based HIS",
+      "class": "community",
+      "platform": "",
+      "owner": "Federal Ministry of Health",
+      "tiers": "community level; inclusion of its data in DHIS2 is a plan"
+    },
+    {
+      "system": "human resources for health information system",
+      "country_label": "national human resources health information system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only, many cut mid-sentence. The 64 per cent is a reporting rate of facilities whose reports are keyed at locality, not a share of clinics entering their own data, so no clinics fact is taken. A fragment in a list of strengths reads that the DHIS2 system is deployed nationwide, which sits beside the 144 of 189 localities; it is not recorded. Nothing on patient records for general care, so no emr fact."
+}

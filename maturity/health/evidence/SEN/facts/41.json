@@ -1,0 +1,29 @@
+{
+  "slug": "2025-01-01-sen-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "Countdown to 2030's analysis with the health ministry's DPRS and DSME states that the overall quality score of health facility data in DHIS2 fell from 71% in 2019 to 63% in 2024, chiefly because strikes in health facilities between 2022 and 2024 disrupted the regular transmission of data into DHIS2; it gives the share of districts with reporting completeness of 90% or more for antenatal care and deliveries as 31% in 2019 and 57% in 2024, while describing that share as having fallen.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The same analysis states that for the years after 2019 the missing of district vaccination coverage targets is explained largely by data being unavailable in more than 30% of districts, and that the gap between Penta3 coverage from DHIS2 and from the DHS survey widened from 5% in 2019 to nearly 15% in 2023, which it puts down to variable data quality in DHIS2.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "health facility data analysed by district; weak reporting by the private sector into the platform; tiers not stated"}
+  ],
+  "note": "The document gives no figure for facilities entering their own reports; its completeness figures are shares of districts, and the two it prints (31% in 2019, 57% in 2024) contradict the fall it describes."
+}

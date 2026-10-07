@@ -1,0 +1,36 @@
+{
+  "slug": "2025-01-01-south-sudan-2025-health-statistics-abstract",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's Director General for Policy, Planning, Budget, Research, Monitoring and Evaluation names DHIS2 as the national health information system from which the abstract's routine service delivery, morbidity and mortality data are drawn; the statement is undated and is given the document's publication date.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "no-change",
+      "fact": "The abstract, by the Ministry of Health and the National Bureau of Statistics, puts average DHIS2 reporting completeness at an estimated 60% over 2021 to 2024, with the national reporting rate for the OPD and inpatient form (MOH F01A) staying in the mid-60 per cent range and on-time reporting in the low 50s across the four years; DHIS2 indicators were adjusted from county level, where data were most complete, and stronger data entry at facility level is recommended.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national health information system; national health management system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "routine reports from health facilities (OPD, inpatient, immunisation, HIV, TB, malaria), tabulated by state and administrative area; tiers of entry not stated"
+    }
+  ],
+  "note": ""
+}

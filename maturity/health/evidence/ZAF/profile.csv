@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,hmis,governance,qualifier,owner:ministry;plan:none,2026-07-27,ZAF-004;ZAF-036,ZAF-038=plan:current;ZAF-037=owner:ministry,not stated: finance
-ZAF,hmis,tiers,coverage,T1;T2;T3;T4,2021-08-04,ZAF-035,,nothing dated since 2023-10-06
-ZAF,hmis,digitised,coverage,facility,2019-05-15,ZAF-039,,nothing dated since 2023-10-06
-ZAF,hmis,last12,qualifier,,,,,nothing held
-ZAF,hmis,clinics,coverage,,,,,nothing held
-ZAF,emr,governance,qualifier,owner:ministry;plan:none;finance:not-stated,2026-08-26,ZAF-001;ZAF-003;ZAF-012,ZAF-005=owner:ministry;ZAF-010=owner:ministry;ZAF-011=plan:current;ZAF-024=owner:ministry;ZAF-022=finance:donor;ZAF-040=plan:current;ZAF-041=owner:ministry,
+ZAF,hmis,governance,qualifier,owner:ministry;plan:none;finance:domestic,2026-07-27,ZAF-004;ZAF-036;ZAF-044,ZAF-043=owner:ministry;ZAF-038=plan:current;ZAF-054=owner:ministry;ZAF-037=owner:ministry,
+ZAF,hmis,tiers,coverage,T1;T2;T3;T4,2026-07-24,ZAF-045,ZAF-035=T1;T2;T3;T4;ZAF-051=T1;T2;T3;T4,
+ZAF,hmis,digitised,coverage,facility,2026-07-24,ZAF-039;ZAF-046;ZAF-052,,
+ZAF,hmis,last12,qualifier,advancing,2026-07-24,ZAF-047,,
+ZAF,hmis,clinics,coverage,share:100%,2020-03,ZAF-053,,nothing dated since 2023-09-28
+ZAF,emr,governance,qualifier,owner:ministry;plan:none;finance:not-stated,2026-08-26,ZAF-001;ZAF-003;ZAF-012,ZAF-005=owner:ministry;ZAF-010=owner:ministry;ZAF-011=plan:current;ZAF-024=owner:ministry;ZAF-050=owner:ministry;ZAF-022=finance:donor;ZAF-040=plan:current;ZAF-041=owner:ministry,
 ZAF,emr,tiers,coverage,T1;T2;T3;T4,2026-07-31,ZAF-002;ZAF-006;ZAF-014;ZAF-018;ZAF-026;ZAF-028;ZAF-029;ZAF-030;ZAF-031;ZAF-032,ZAF-034=none;ZAF-020=T4;ZAF-042=none,
 ZAF,emr,digitised,coverage,point-of-care,2026-03-03,ZAF-013;ZAF-021,ZAF-017=paper,
-ZAF,emr,last12,qualifier,advancing,2026-05-14,ZAF-008;ZAF-016;ZAF-027,,
-ZAF,emr,clinics,coverage,count:36,2025-08-01,ZAF-025,ZAF-007=not-published;ZAF-015=not-published;ZAF-033=count:308;ZAF-023=none;ZAF-019=pilot,
+ZAF,emr,last12,qualifier,advancing,2026-05-14,ZAF-008;ZAF-016;ZAF-027;ZAF-049,,
+ZAF,emr,clinics,coverage,count:36,2025-08-01,ZAF-025,ZAF-007=not-published;ZAF-015=not-published;ZAF-033=count:308;ZAF-048=pilot;ZAF-023=none;ZAF-019=pilot,

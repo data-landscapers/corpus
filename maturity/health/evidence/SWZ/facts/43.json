@@ -1,0 +1,13 @@
+{
+  "slug": "2019-08-01-swz-eswatini-his-indicators",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "paper", "fact": "MEASURE Evaluation's HIS country profile, as of August 2019, answers No to whether Eswatini has an electronic system for aggregating routine facility or community service data, while recording, from an in-country contact, 95% of facilities as represented in HMIS information.", "as_of": "2019-08", "date_precision": "month", "system": "HMIS (routine health information system)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:none", "fact": "MEASURE Evaluation's HIS country profile, as of August 2019, records the Health Information System Strategic Plan 2010-2014 as not current and the HIS policy as the Health Management Information Policy of November 2008, and lists an eHealth Strategy 2016-2020 as available without saying what it covers.", "as_of": "2019-08", "date_precision": "month", "system": "HMIS (routine health information system)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "HMIS (routine health information system)", "country_label": "HMIS / RHIS", "class": "hmis", "platform": "none electronic, per the profile", "owner": "not stated", "tiers": "95% of facilities represented in HMIS information; tiers not stated"},
+    {"system": "Service Availability Mapping (SAM) database", "country_label": "SAM database (master facility list)", "class": "exchange", "platform": "", "owner": "updated when HMIS is notified of new facilities", "tiers": "national"},
+    {"system": "Health statistics website", "country_label": "website for health statistics", "class": "", "platform": "", "owner": "not stated", "tiers": "national"}
+  ],
+  "note": "The 95% is a share of facilities represented in HMIS information, not of clinics entering data digitally, so it is carried in the paper fact and not recorded under clinics. The profile also records a national HIS coordinating body as established with activity unknown, the last annual health statistics report as 2015 and not online, and a data quality assessment in 2016. No emr fact."
+}

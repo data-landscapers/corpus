@@ -1,0 +1,64 @@
+{
+  "slug": "2022-06-01-gin-annuaire-statistique-sanitaire-2021",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health's 2021 statistical yearbook says the ministry set up the national health information system (SNIS), that the Section Statistiques et Information Sanitaire of its Bureau de Strategie et de Developpement is the technical body charged with coordinating, centralising and disseminating health information, and that the whole health system's 2021 data were compiled in the DHIS2 platform.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The yearbook's methodology note says that for 2021 the national hospitals, regional and prefectoral hospitals and communal medical centres enter their monthly reports directly in DHIS2, and that the monthly reports of first-level health centres (CS) and improved health centres (CSA) are either entered in DHIS2 or sent to the district team for entry; health posts are not named as reporting units.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The yearbook's methodology note says second- and third-level facilities (communal medical centres, prefectoral, regional and national hospitals) enter their data directly and monthly in the DHIS2 platform, and that first-level health centres' monthly reports are entered in the platform or else passed to the district; it gives no count of health centres entering their own.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The yearbook's methodology note says first-level facilities compile their monthly reports from paper primary tools (registers, notebooks, forms), that these reports reach the health district by the 15th of the following month and are entered in DHIS2 by the prefectoral or communal health directorate (DPS/DCS) by the 20th, where the centre has not entered them itself.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "SNIS (Systeme National d'Information Sanitaire), plateforme DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Public Hygiene: Bureau de Strategie et de Developpement, Section Statistiques et Information Sanitaire",
+      "tiers": "National, regional and prefectoral hospitals and communal medical centres enter directly; health centres and improved health centres enter or send to the district; DPS/DCS enter for first-level facilities"
+    },
+    {
+      "system": "eSIGL",
+      "country_label": "eSIGL (Systeme de gestion logistique)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

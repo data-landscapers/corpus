@@ -1,0 +1,56 @@
+{
+  "slug": "2024-11-17-zwe-1-322-facilities-to-get-electronic-health-record-system",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:1178",
+      "fact": "The Permanent Secretary for Health and Child Care, Dr Aspect Maunganidze, told The Sunday Mail that the Impilo EHR had been deployed at 1,178 health facilities since 2021, at varied levels of adoption and uptake: Bulawayo 23, Harare 53, Manicaland 225, Mashonaland Central 88, Mashonaland East 111, Mashonaland West 148, Masvingo 158, Matabeleland North 79, Matabeleland South 135 and Midlands 158; no denominator is given and the count covers hospitals as well as clinics.",
+      "as_of": "2024-11-17",
+      "date_precision": "day",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2;T3;T4",
+      "fact": "The Permanent Secretary says the 1,178 facilities with Impilo are spread across provinces and districts and include clinics, hospitals and other health centres; the level of the hospitals is not stated and no count is given by type.",
+      "as_of": "2024-11-17",
+      "date_precision": "day",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Sunday Mail describes Impilo as the national electronic health record system, developed by a local technical team, with the Ministry of Health and Child Care's Permanent Secretary speaking for its rollout and the ICT ministry, the higher education ministry and Potraz named as contributing government agencies.",
+      "as_of": "2024-11-17",
+      "date_precision": "day",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The article says significant financial and technical support for Impilo has come from donor funding and implementing partners, alongside contributions from three government agencies; it names no donor, no amount and no domestic budget line.",
+      "as_of": "2024-11-17",
+      "date_precision": "day",
+      "system": "Impilo EHR",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Impilo EHR",
+      "country_label": "Impilo electronic health record (EHR) system",
+      "class": "emr",
+      "platform": "developed by a local technical team",
+      "owner": "Ministry of Health and Child Care",
+      "tiers": "1,178 facilities in all ten provinces: clinics, hospitals and other health centres"
+    }
+  ],
+  "note": "The headline figure of 1,322 is a 2024 target: the Permanent Secretary gives it as facilities to be connected to the internet that year, the article as facilities to receive Impilo in addition to the 1,178; neither is a statement of what was done. Real-time access, electronic prescribing and interoperability are described as future functions, and retrieval of a record at another facility is a doctor's conditional remark, so no digitised fact is taken. The finance row records donor support stated beside government contributions, not donor-only finance. The source's date is marked a proxy in its frontmatter."
+}

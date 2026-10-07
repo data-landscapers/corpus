@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,hmis,governance,qualifier,owner:ministry;plan:none,2025,BWA-001;BWA-012,,not stated: finance
-BWA,hmis,tiers,coverage,,,,,nothing held
+BWA,hmis,governance,qualifier,owner:ministry;plan:none;finance:not-stated,2025,BWA-001;BWA-012;BWA-031,BWA-029=owner:ministry;BWA-030=plan:current;BWA-026=plan:current,
+BWA,hmis,tiers,coverage,T1;T2;T3;T4,2019-08,BWA-024,,nothing dated since 2023-09-28
 BWA,hmis,digitised,coverage,district,2025,BWA-002,,
 BWA,hmis,last12,qualifier,,,,,nothing held
-BWA,hmis,clinics,coverage,,,,,nothing held
-BWA,emr,governance,qualifier,owner:ministry;finance:domestic,2026-03-05,BWA-008;BWA-009,BWA-011=owner:ministry,not stated: plan
-BWA,emr,tiers,coverage,,,,,nothing held
-BWA,emr,digitised,coverage,,,,,nothing held
-BWA,emr,last12,qualifier,advancing,2026-03-05,BWA-007,,
-BWA,emr,clinics,coverage,count:22,2026-03-05,BWA-006,BWA-010=pilot,
+BWA,hmis,clinics,coverage,share:100%,2018,BWA-025,,nothing dated since 2023-09-28
+BWA,emr,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-03-05,BWA-008;BWA-009;BWA-020,BWA-011=owner:ministry;BWA-013=finance:donor;BWA-016=owner:ministry;BWA-032=owner:ministry;BWA-033=plan:current;BWA-034=finance:not-stated,
+BWA,emr,tiers,coverage,T1,2024-11,BWA-014,BWA-019=T1;T2;BWA-021=T1;T2;BWA-022=T4;BWA-027=T1;T2;BWA-017=T1;T2;T4,
+BWA,emr,digitised,coverage,point-of-care,2020-03,BWA-023,,nothing dated since 2023-09-28
+BWA,emr,last12,qualifier,advancing,2026-03-05,BWA-007;BWA-015,,
+BWA,emr,clinics,coverage,count:22,2026-03-05,BWA-006,BWA-010=pilot;BWA-028=none;BWA-018=count:16,

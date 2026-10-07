@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COM,hmis,governance,qualifier,owner:ministry,2026-07,COM-001,COM-005=owner:ministry,"not stated: plan, finance"
-COM,hmis,tiers,coverage,,,,,nothing held
-COM,hmis,digitised,coverage,,,,,nothing held
-COM,hmis,last12,qualifier,,,,,nothing held
-COM,hmis,clinics,coverage,share:99%,2024,COM-004,,
+COM,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-07,COM-001;COM-013;COM-016,COM-005=owner:ministry;COM-015=owner:ministry;COM-017=finance:donor,
+COM,hmis,tiers,coverage,T1;T2;T3;T4,2025,COM-007,COM-009=none,
+COM,hmis,digitised,coverage,district,2021-07,COM-014,,nothing dated since 2023-09-28
+COM,hmis,last12,qualifier,advancing,2025,COM-008;COM-010;COM-012;COM-018,,
+COM,hmis,clinics,coverage,share:100%,2025,COM-006,COM-004=share:99%;COM-011=count:69,
 COM,emr,governance,qualifier,,,,,nothing held
-COM,emr,tiers,coverage,,,,,nothing held
+COM,emr,tiers,coverage,none,2021-07,COM-019,,nothing dated since 2023-09-28
 COM,emr,digitised,coverage,,,,,nothing held
 COM,emr,last12,qualifier,,,,,nothing held
 COM,emr,clinics,coverage,,,,,nothing held

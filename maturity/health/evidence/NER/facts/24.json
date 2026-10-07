@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-06-ner-how-dhis2-and-a-brand-new-vaccine-helped-niger-beat-a-major-meningitis",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The article states that Niger's DHIS2 system, which it describes as the national routine health management information system, is hosted within the Directorate of Statistics at the Ministry of Health; it gives no date for this, so the published date is used.", "as_of": "2025-02-06", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "national routine health management information system", "class": "hmis", "platform": "DHIS2", "owner": "Directorate of Statistics, Ministry of Health", "tiers": "operational-level health workers, tiers not specified"},
+    {"system": "DHIS2 tracker module for the Men5CV post-campaign coverage survey", "country_label": "", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health, developed with HISP West Africa", "tiers": "survey teams with tablets in vaccinated districts, 2024"},
+    {"system": "DHIS2 intra-campaign monitoring module", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health, developed with HISP West Africa", "tiers": "vaccination campaign teams in three regions, July 2024"},
+    {"system": "STELab", "country_label": "STELab", "class": "single-function", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Most of the article concerns DHIS2 used for a 2024 vaccination campaign and coverage survey, which are not the hmis class. It says health workers use DHIS2 routinely but names no tier and no place of data entry. An integration of DHIS2 with STELab (laboratory specimens and case-based surveillance) is described as current."
+}

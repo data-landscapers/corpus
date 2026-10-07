@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-28,MOZ-001;MOZ-011;MOZ-017,MOZ-018=plan:none,
+MOZ,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-28,MOZ-001;MOZ-011;MOZ-017,MOZ-018=plan:none;MOZ-020=owner:ministry,
 MOZ,hmis,tiers,coverage,,,,,nothing held
-MOZ,hmis,digitised,coverage,facility,2019,MOZ-016,MOZ-013=district,nothing dated since 2023-10-06
+MOZ,hmis,digitised,coverage,facility,2019,MOZ-016,MOZ-019=district;MOZ-013=district,nothing dated since 2023-09-28
 MOZ,hmis,last12,qualifier,,,,,nothing held
-MOZ,hmis,clinics,coverage,none,2017,MOZ-014,,nothing dated since 2023-10-06
+MOZ,hmis,clinics,coverage,none,2017,MOZ-014,,nothing dated since 2023-09-28
 MOZ,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-15,MOZ-004;MOZ-005;MOZ-006,MOZ-009=finance:donor;MOZ-010=owner:ministry,
 MOZ,emr,tiers,coverage,T2,2024-12,MOZ-012,,
-MOZ,emr,digitised,coverage,paper,2017,MOZ-015,,nothing dated since 2023-10-06
+MOZ,emr,digitised,coverage,paper,2019,MOZ-015;MOZ-021,,nothing dated since 2023-09-28
 MOZ,emr,last12,qualifier,advancing,2025-12-15,MOZ-007;MOZ-008,,
 MOZ,emr,clinics,coverage,,,,,nothing held

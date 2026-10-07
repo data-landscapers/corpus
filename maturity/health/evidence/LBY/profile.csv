@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,hmis,governance,qualifier,owner:ministry;plan:current,2025-11-07,LBY-004;LBY-009,LBY-010=owner:ministry;LBY-011=plan:current,not stated: finance
-LBY,hmis,tiers,coverage,none,2021,LBY-007,,nothing dated since 2023-10-06
-LBY,hmis,digitised,coverage,national,2021,LBY-008,,nothing dated since 2023-10-06
-LBY,hmis,last12,qualifier,no-change,2025-11-07,LBY-005,,
-LBY,hmis,clinics,coverage,,,,,nothing held
-LBY,emr,governance,qualifier,,,,,nothing held
-LBY,emr,tiers,coverage,,,,,nothing held
-LBY,emr,digitised,coverage,paper,2021,LBY-006,,nothing dated since 2023-10-06
+LBY,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-11-07,LBY-004;LBY-020;LBY-026,LBY-019=owner:ministry;LBY-009=plan:current;LBY-010=owner:ministry;LBY-011=plan:current;LBY-033=owner:ministry,
+LBY,hmis,tiers,coverage,T1;T2;T3;T4,2023,LBY-023,LBY-007=none;LBY-032=T1;T2;T3;T4,
+LBY,hmis,digitised,coverage,facility,2024-12,LBY-017;LBY-024,LBY-008=national,
+LBY,hmis,last12,qualifier,no-change,2025-11-07,LBY-005,LBY-018=advancing;LBY-027=advancing,
+LBY,hmis,clinics,coverage,count:465,2023,LBY-025,LBY-016=not-published,
+LBY,emr,governance,qualifier,owner:ministry;plan:none;finance:not-stated,2025-12-24,LBY-014;LBY-015;LBY-022,LBY-021=plan:current;LBY-031=owner:ministry,
+LBY,emr,tiers,coverage,T1,2025-12-24,LBY-012,LBY-029=T3,
+LBY,emr,digitised,coverage,point-of-care,2022-05,LBY-030,LBY-013=paper;LBY-006=paper,
 LBY,emr,last12,qualifier,,,,,nothing held
-LBY,emr,clinics,coverage,,,,,nothing held
+LBY,emr,clinics,coverage,pilot,2022-05,LBY-028,,nothing dated since 2023-09-28

@@ -1,0 +1,140 @@
+{
+  "slug": "2021-07-01-comores-strategie-nationale-sante-numerique-2022-2026",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Ministry of Health's strategy of July 2021 says the national health information system (SNIS) is semi-electronic, computerised at the level of the regions on GESIS, with data passing from districts to regions by hand or by e-mail; the keying level it names is the region, above the district.",
+      "as_of": "2021-07",
+      "date_precision": "month",
+      "system": "SNIS on GESIS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The strategy states that the Ministry of Health is deploying DHIS2 under the supervision of its Direction de l'Information et des Statistiques Sanitaires (DISS), which is to be responsible for operating the SNIS databases.",
+      "as_of": "2021-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Stratégie Nationale de Santé Numérique 2022-2026 names DHIS2 in project P221, strengthening and extension of the SNIS with DHIS2, scheduled January 2022 to December 2025 and costed at USD 0.60 million, and recommends DHIS2 as the single SNIS for the whole ministry including the vertical programmes.",
+      "as_of": "2021-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The strategy says the DHIS2 deployment is financed by the Global Fund, and its financing table puts the whole USD 0.60 million of the SNIS extension project against technical and financial partners, with nothing against the Ministry of Health.",
+      "as_of": "2021-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "As at July 2021 the Ministry of Health was in the course of deploying DHIS2 with Global Fund technical and financial support, the one part of the previous digital health strategy's action plan carried out, the rest having gone unimplemented for lack of funds.",
+      "as_of": "2021-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The Ministry of Health's strategy of July 2021 states that the electronic patient record (Dossier Electronique du Patient) does not exist in the country, listing it with telemedicine, m-health applications and online training as components that are absent.",
+      "as_of": "2021-07",
+      "date_precision": "month",
+      "system": "Dossier Electronique du Patient",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "GESIS",
+      "country_label": "Système National d'Information Sanitaire (SNIS)",
+      "class": "hmis",
+      "platform": "GESIS, developed by AEDES and the École de Santé Publique of the Université Libre de Bruxelles",
+      "owner": "Ministry of Health",
+      "tiers": "computerised at the level of the regions; used in connected structures; districts send data to regions by hand or by e-mail"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, under the supervision of the DISS, with Global Fund support",
+      "tiers": "being deployed in July 2021; to be installed in all health structures connected to the planned national network"
+    },
+    {
+      "system": "Applications métiers des structures sanitaires",
+      "country_label": "applications métiers des structures sanitaires (project P231)",
+      "class": "",
+      "platform": "not chosen; to be developed or bought",
+      "owner": "Ministry of Health (DGS/DISS), with ANADEN",
+      "tiers": "planned: a modular application for resources and medical activity (reception, consultations, tests, hospitalisation, billing) interfaced with the SNIS; target of more than 40 structures by end 2024"
+    },
+    {
+      "system": "Entrepôt SNIS and reference databases",
+      "country_label": "entrepôt SNIS; bases de données référentielles de la santé (projects P221, P112)",
+      "class": "exchange",
+      "platform": "undecided: DHIS2 as the warehouse or a separate database",
+      "owner": "Ministry of Health (DISS)",
+      "tiers": "planned; central"
+    },
+    {
+      "system": "Système National Automatisé de Collecte et de Saisie des naissances et des décès",
+      "country_label": "Système National Automatisé de Collecte et de Saisie des naissances et des décès",
+      "class": "single-function",
+      "platform": "not stated",
+      "owner": "Ministry of Health, with the local civil status authorities",
+      "tiers": "planned: births and deaths recorded in health structures or by community health workers"
+    },
+    {
+      "system": "Observatoire National de Santé",
+      "country_label": "Observatoire National de Santé",
+      "class": "",
+      "platform": "interactive web portal, to be developed",
+      "owner": "Ministry of Health",
+      "tiers": "planned; central"
+    },
+    {
+      "system": "Réseau National Numérique de la Santé (RNNS)",
+      "country_label": "Réseau National Numérique de la Santé (RNNS)",
+      "class": "enabling",
+      "platform": "network connecting health structures",
+      "owner": "Ministry of Health, with ANADEN and telecom operators",
+      "tiers": "planned; in July 2021 only CHN El Maarouf, CHRI Hombo and the medical imaging centre had internet, and district health centres were rarely connected"
+    },
+    {
+      "system": "Réseau national de télémédecine",
+      "country_label": "Réseau national de télémédecine (project P241)",
+      "class": "enabling",
+      "platform": "not stated",
+      "owner": "Ministry of Health (DGS)",
+      "tiers": "planned; telemedicine stated as absent in July 2021"
+    },
+    {
+      "system": "Applications mobile-health",
+      "country_label": "applications mobile-health (project P251)",
+      "class": "",
+      "platform": "not stated",
+      "owner": "Ministry of Health (DGS/DISS)",
+      "tiers": "planned; m-health applications stated as absent in July 2021"
+    }
+  ],
+  "note": ""
+}

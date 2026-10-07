@@ -1,0 +1,84 @@
+{
+  "slug": "2024-01-01-ssd-advancing-resilient-health-systems-and-services-in-south-sudan-annual",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO reports that in 2023 it supported the Ministry of Health to develop a five-year health information policy and strategy to guide implementation of the HMIS, and a five-year implementation roadmap setting out milestones, activities and resources for the country's health information systems; neither is said to be costed or adopted.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Health Management Information System (HMIS), DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO describes the HMIS as the Ministry of Health's national health information system, to be strengthened by integrating other data collection and reporting systems into DHIS2, and says in 2023 that it is weakened by parallel systems run by implementing partners and short of skilled personnel to manage it.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Health Management Information System (HMIS), DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health Management Information System (HMIS)",
+      "country_label": "national health information system; HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, supported by WHO",
+      "tiers": "not stated; data quality audits held in health facilities across the country in 2023"
+    },
+    {
+      "system": "IDSR reporting system",
+      "country_label": "Integrated Disease Surveillance and Response (IDSR)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO",
+      "tiers": "health facilities: WHO distributed 1,200 smartphones to facilities and 90 laptops to state and county surveillance officers in 2023; 8,863 alerts generated"
+    },
+    {
+      "system": "Electronic laboratory information management system",
+      "country_label": "electronic laboratory information management system (IMS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Public Health Laboratory",
+      "tiers": "National Public Health Laboratory, with state and county surveillance officers trained to use it"
+    },
+    {
+      "system": "ODK mobile data collection tool",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "Open Data Kit (ODK)",
+      "owner": "WHO, for states and counties",
+      "tiers": "states and counties: supplementary immunisation, AFP, cholera and measles data"
+    },
+    {
+      "system": "AFP and Environmental Surveillance dashboard",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "WHO",
+      "tiers": "national, with feedback to lower levels"
+    },
+    {
+      "system": "South Sudan Health Service Functionality dashboard",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "WHO and the Ministry of Health",
+      "tiers": "national; consolidates facility functionality and service availability data"
+    },
+    {
+      "system": "EPI dashboard",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; finalised in 2023, not described"
+    }
+  ],
+  "note": ""
+}

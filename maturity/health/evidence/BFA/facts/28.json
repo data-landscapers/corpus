@@ -1,0 +1,66 @@
+{
+  "slug": "2024-06-01-bfa-annuaire-statistique-2023",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Ministry of Health's 2023 statistical yearbook states that health facilities' monthly activity reports go to the district CISSE, and regional and university hospital units' reports to the hospital SPIH/CIM, by the 5th of the following month, and that district and hospital data managers have until the 20th to key them into Endos-BF, which is online on the DHIS2 platform, and check their quality.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The 2023 yearbook states that in the health districts where entry is done by the head nurses of health posts (infirmiers chefs de poste), monthly activity reports are keyed into Endos-BF by the 5th of the following month; it does not say how many districts do so.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The 2023 yearbook states that Endos-BF holds the monthly activity reports of health facilities, public and private, and of the care and technical units of hospitals, keyed by head nurses of health posts, district CISSE and the information services of the regional and university hospitals (CHR/CHU).",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The 2023 yearbook's methodological note says head nurses key their own monthly reports in some health districts, and gives no number or share of facilities or districts doing so in the passages read.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The 2023 yearbook, issued in June 2024 by the health ministry's Direction générale des études et des statistiques sectorielles, states that the ministry's Direction des statistiques sectorielles et de l'évaluation has 15 days to validate Endos-BF data after regional validation and that it locked the national Endos-BF database and extracted the 2023 data.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "country_label": "Endos-BF",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Public Hygiene, DGESS / Direction des statistiques sectorielles et de l'évaluation",
+      "tiers": "health facilities (public and private), district CISSE, regional and university hospitals (CHR/CHU), regional health directorates"
+    }
+  ],
+  "note": "Passages file: the methodological note only, of a 185,075-word yearbook; any reporting-completeness or facility-count tables are not in it, so the clinics value says only that the passages give no figure."
+}

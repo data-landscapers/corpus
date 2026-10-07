@@ -1,7 +1,7 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,GIN-010;GIN-011;GIN-012,GIN-026=finance:donor;GIN-027=owner:ministry;GIN-023=owner:ministry;GIN-029=plan:current;GIN-030=owner:ministry,
-GIN,hmis,tiers,coverage,T1;T2;T3;T4,2026-03,GIN-009,,
-GIN,hmis,digitised,coverage,district,2025,GIN-025;GIN-028,GIN-005=paper;GIN-024=paper,
+GIN,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,GIN-010;GIN-011;GIN-012,GIN-026=finance:donor;GIN-027=owner:ministry;GIN-023=owner:ministry;GIN-031=owner:ministry;GIN-032=finance:donor;GIN-029=plan:current;GIN-030=owner:ministry;GIN-035=owner:ministry;GIN-039=finance:donor,
+GIN,hmis,tiers,coverage,T1;T2;T3;T4,2026-03,GIN-009,GIN-033=T2;T3;GIN-036=T1;T2;T3,
+GIN,hmis,digitised,coverage,district,2025,GIN-025;GIN-028;GIN-038,GIN-005=paper;GIN-024=paper;GIN-034=facility;GIN-037=facility,
 GIN,hmis,last12,qualifier,advancing,2026-03,GIN-013,,
 GIN,hmis,clinics,coverage,,,,,nothing held
 GIN,emr,governance,qualifier,owner:vendor;finance:donor,2026-08,GIN-003;GIN-007,GIN-020=owner:partner;GIN-021=finance:donor,not stated: plan

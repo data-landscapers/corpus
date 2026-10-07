@@ -1,0 +1,90 @@
+{
+  "slug": "2019-04-29-sdn-global-fund-grants-in-the-republic-of-sudan-audit-report-gf-oig-19-010",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Global Fund's Inspector General found that results from health facilities are consolidated by hand and then entered in DHIS2 above the facility, by the states, which had included only 32 per cent of health facilities, generally because facilities reported late; DHIS2 then carried malaria indicators only, with TB and HIV planned for 2019 and 2020. The audit covered June 2016 to June 2018 with field visits in 2018 to 21 localities, facilities and hospitals in three states; no numerator or denominator is given for the 32 per cent.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The Inspector General states that DHIS2 was in use for malaria in almost all 18 states, Khartoum excepted, but not in their health facilities, as found by the audit of 2018.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "The Inspector General states that DHIS2 was not used in health facilities in 2018, their results being consolidated on paper and keyed above them; registers and report forms were out of stock in 75 per cent of the facilities the auditors visited, of 19 visited for data.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Inspector General states that Global Fund grant money was invested in rolling out the Health Management Information System on DHIS2 in 2015 to 2017; the audit names no domestic budget line for it.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The audit treats the HMIS on DHIS2 as the Federal Ministry of Health's: the ministry, principal recipient of the health systems grant since 2015, was to move malaria results onto HMIS/DHIS2 by June 2019 and to carry out a general review of the HMIS, and the states enter the data.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Health Management Information System (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health Management Information System (DHIS2)",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health; data entered by the states",
+      "tiers": "almost all 18 states except Khartoum; not in health facilities; malaria indicators only in 2018"
+    },
+    {
+      "system": "Khartoum State's own reporting system",
+      "country_label": "a more comprehensive system in place in Khartoum",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Khartoum State"
+    },
+    {
+      "system": "National Medical Supply Fund electronic commodity management information system",
+      "country_label": "electronic commodity management information system; Enterprise Resource Planning system; LMIS",
+      "class": "single-function",
+      "platform": "ERP",
+      "owner": "National Medical Supply Fund; Khartoum and Gezira run by the state ministries of health",
+      "tiers": "central and state levels; facilities report stock weekly, six of those visited by telephone"
+    },
+    {
+      "system": "eVIN",
+      "country_label": "mobile application for health facilities to capture LMIS data",
+      "class": "single-function",
+      "platform": "eVIN mobile application",
+      "owner": "",
+      "tiers": "health facilities; planned, not launched at the audit"
+    }
+  ],
+  "note": "DHIS2 is classed hmis because the audit calls it the Health Management Information System and describes routine facility reporting of patients treated, though it carried malaria indicators alone at the time; the parent may prefer single-function. The 32 per cent is facilities whose results the states had keyed, not facilities entering their own, so it is not a clinics share. No emr fact: the audit notes only that HIV care lacks a documented system for patient tracking."
+}

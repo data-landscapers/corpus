@@ -1,0 +1,15 @@
+{
+  "slug": "2020-10-12-cod-retro-information-globale-aux-dps-a-lissue-danalyse-des-donnees-du-sni",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The SNIS division's feedback to the 26 provincial health divisions on second-quarter 2020 data states that the SNIS was in the third year of its Plan de Renforcement du SNIS 2018-2020, whose financing remained partial, and that programmes (EPI, HIV, TB, malaria sentinel sites, nutrition, facility stock) had been integrated into DHIS2 by a modular approach.", "as_of": "2020", "date_precision": "year", "system": "SNIS (DHIS2)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T2;T3", "fact": "The SNIS division's table extracted on 28 August 2020 gives, for the second quarter of 2020, 52,625 basic-services reports in DHIS2 of 53,736 expected (97.9%), 47,408 of 49,377 secondary-services reports (96%) and 5,648 of 6,249 hospital-service reports (90.4%), with overall completeness across 11 data sets of 78.7% (326,317 of 414,665) and timeliness of 41.1%; the document names the data sets and, for sentinel sites, health centres (CS) and general referral hospitals (HGR), not facility tiers as such, and does not say where reports are keyed.", "as_of": "2020-06", "date_precision": "month", "system": "SNIS (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "SNIS (DHIS2)", "country_label": "SNIS; DHIS2", "class": "hmis", "platform": "DHIS2, modular data sets (Services de Base, Services Secondaires, Service Hôpital, Activités BCZ)", "owner": "Division du SNIS, Ministère de la Santé (the publisher; not stated in the body)", "tiers": "national, 26 provincial health divisions; monthly reports for basic, secondary and hospital services and zone-office activities"},
+    {"system": "SIGL FOSA", "country_label": "C- SIGL FOSA", "class": "single-function", "platform": "DHIS2 data set", "owner": "", "tiers": "46,608 of 53,892 expected facility stock reports in Q2 2020 (86.5%)"},
+    {"system": "Relevé Epidémiologique Hebdomadaire", "country_label": "H- Relevé Epidémiologique Hebdomadaire", "class": "single-function", "platform": "DHIS2 data set", "owner": "", "tiers": "156,469 of 232,856 expected weekly surveillance reports in Q2 2020 (67.2%); timeliness 16.4%"},
+    {"system": "Programme reporting modules (PNLS, PNLT, PNLP sentinel sites, blood bank)", "country_label": "Canevas UNIQUE PNLS 2019; PNLT - Rapport Trimestriel Tuberculose 2019; PNLP CS/HGR Site Sentinelle; Banque de Sang et Transfusion", "class": "single-function", "platform": "DHIS2 data sets", "owner": "the national programmes", "tiers": "completeness 84% to 100% in Q2 2020"},
+    {"system": "Outil de supervision de la qualité des données (OSQD)", "country_label": "OSQD", "class": "", "platform": "", "owner": "", "tiers": "set up and taught in the provincial health divisions supported by USAID"}
+  ],
+  "note": "The capture is an excerpt ending after Tableau 1; the published date is a proxy, so the facts are dated to the quarter and the plan period the text gives."
+}

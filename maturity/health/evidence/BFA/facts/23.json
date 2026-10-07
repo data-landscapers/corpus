@@ -1,0 +1,54 @@
+{
+  "slug": "2026-07-01-bfa-analyse-et-utilisation-des-donnees-sanitaires-les-districts-de-dedougo",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Enabel states that the July 2026 district training sessions are a step in implementing the Strategic Plan of the national health information system (SNIS) 2026-2030, the SNIS being described as the structured, decentralised system that collects routine data across the whole territory.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Système national d'information sanitaire (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Enabel states that the Ministry of Health, through its DGESS and the DSSE under it, organised the SNIS data-analysis training of July 2026 and developed the approach behind it, with Enabel giving technical and financial support to the sessions through the PARD-AO programme.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Système national d'information sanitaire (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Enabel states that district management teams and head nurses of health posts were trained for five days in data analysis and use, including quality control of DHIS2 data, at Dédougou on 6-11 July 2026 and Tenkodogo on 13-18 July 2026, extending to further districts an approach piloted in several health districts between 2023 and 2025; it gives no participant or facility count.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "Système national d'information sanitaire (SNIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système national d'information sanitaire (SNIS)",
+      "country_label": "SNIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "Ministry of Health: DGESS, through the DSSE",
+      "tiers": "collects routine data across the whole territory; no tier named"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "DHIS2 is named only as the source of the data whose quality the trainees learned to check, with no module or function described, so it is left unclassed. The training itself was financed by Enabel; the item says nothing of who finances the SNIS, so no finance fact is taken."
+}

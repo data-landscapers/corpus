@@ -1,9 +1,9 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,hmis,governance,qualifier,owner:ministry;plan:none,2025,RWA-012;RWA-020,RWA-017=owner:ministry,not stated: finance
-RWA,hmis,tiers,coverage,T3,2022-12,RWA-002,,nothing dated since 2023-10-06
-RWA,hmis,digitised,coverage,,,,,nothing held
+RWA,hmis,governance,qualifier,owner:ministry;plan:none,2025,RWA-012;RWA-020,RWA-017=owner:ministry;RWA-028=owner:ministry;RWA-031=owner:ministry,not stated: finance
+RWA,hmis,tiers,coverage,T1;T2;T3;T4,2024-06,RWA-024;RWA-025,RWA-002=T3;RWA-030=T2;T3,
+RWA,hmis,digitised,coverage,facility,2023-12,RWA-026;RWA-029,,
 RWA,hmis,last12,qualifier,,,,,nothing held
-RWA,hmis,clinics,coverage,count:700,2026-01-20,RWA-011,,
+RWA,hmis,clinics,coverage,share:100%,2023-12,RWA-027,RWA-011=count:700,
 RWA,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-04-08,RWA-006;RWA-013;RWA-014,RWA-015=owner:ministry,
 RWA,emr,tiers,coverage,T1;T3,2026-09-28,RWA-003;RWA-022,RWA-019=T2;T3,
 RWA,emr,digitised,coverage,point-of-care,2026-10-01,RWA-001,,

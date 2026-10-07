@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-01-cmr-bulletin-trimestriel-sante-de-reproduction-maternelle-neonatale-infant",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The Ministry of Public Health's family health directorate gives completeness of monthly activity reports in DHIS2 as 96% nationally and timeliness as 89% for October to December 2025 (lowest in the East, 83% and 70%; North 100% and 98%), read from DHIS2 on 23 February 2026; it gives no count or share of facilities entering their own reports.", "as_of": "2025-12", "date_precision": "month", "system": "DHIS2 Cameroun", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 Cameroun", "country_label": "DHIS2 (District Health Information Software); rapports mensuels d'activités", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "monthly activity reports from health facilities (formations sanitaires) in all 10 regions; levels not stated"}
+  ],
+  "note": "The bulletin is a quarterly analysis of aggregate maternal, neonatal and child health indicators drawn from DHIS2; it does not say who runs the system, where reports are keyed or which facility levels enter them."
+}

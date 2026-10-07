@@ -1,0 +1,56 @@
+{
+  "slug": "2022-05-01-lby-trial-run-of-the-unified-electronic-health-file-system-inaugurated",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "Libya Herald reports that the trial operation of the Unified Electronic Health File System was inaugurated in May 2022 at the Ghout al-Shaal Clinical Centre in Tripoli, with the first phase covering two sites, the Ghout al-Shaal clinic in Tripoli and the al-Kish clinic in Benghazi, where the infrastructure had been completed.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Unified Electronic Health File System",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The first phase of the Unified Electronic Health File System was set for two facilities the report calls clinics, Ghout al-Shaal in Tripoli (also called a Clinical Centre) and al-Kish in Benghazi, and was presented as improving primary health care services; the report describes a trial run in May 2022, not routine use.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Unified Electronic Health File System",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "At the May 2022 trial the system's technical committee showed information being entered directly from patients attending the clinic; the system comprises an electronic health file and an individual electronic health card accessible to treating doctors. The report adds that Libya has no family doctor system holding and sharing patient records, so doctors rely on what patients tell them.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Unified Electronic Health File System",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Libya Herald describes the Unified Electronic Health File System as a Ministry of Health project under implementation for more than five years as of May 2022, with the acting Minister of Health attending the trial and asking for technical changes to secure citizens' data; no funding source is given.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Unified Electronic Health File System",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Unified Electronic Health File System",
+      "country_label": "Unified Electronic Health File System",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Trial at Ghout al-Shaal clinic, Tripoli, and al-Kish clinic, Benghazi (first phase)"
+    }
+  ],
+  "note": ""
+}

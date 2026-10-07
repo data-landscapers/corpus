@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-14-cod-couvertures-nationales-et-provinciales-et-autres-statistiques-de-servi",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "share:75.3%", "fact": "The Ministry of Public Health's Countdown to 2030 analysis report, signed 14 August 2022, states that the DHIS2 database lists 16,010 health facilities of which 12,050 report in DHIS2 (7,046 public, 2,596 private, 1,699 faith-based, 709 unclassified), the remaining 25% being private facilities that do not; this is a share of all health facilities whose monthly reports are in DHIS2, not of primary clinics, and the report does not say who keys them; it gives completeness of expected monthly facility reports as 84% in 2017 rising to 96% in 2020 and 2021.", "as_of": "2022", "date_precision": "year", "system": "DHIS2 (Système National d'Information Sanitaire, SNIS)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 (Système National d'Information Sanitaire, SNIS)", "country_label": "SNIS; DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "Ministère de la Santé Publique, Hygiène et Prévention (the report's publisher; ownership not stated in terms)", "tiers": "monthly reports of 12,050 health facilities (FOSA) in 519 health zones and 26 provinces; hospital reporting of admissions noted as still weak; tiers not named"}
+  ],
+  "note": "The report uses DHIS2 monthly facility data for 2017 to 2021 and scores its quality; it does not state at which level reports are keyed, nor name the facility tiers."
+}

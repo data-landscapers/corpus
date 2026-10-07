@@ -1,0 +1,124 @@
+{
+  "slug": "2023-12-01-gha-ghana-health-data-ecosystem-mapping-scaling-the-use-of-digital-tools-f",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "GIZ's mapping with Ghana Health Service and Digital Square lists the Ghana Health Service's Policy, Planning, Monitoring and Evaluation Division as DHIMS2's system owner and GHS as its implementer, deployed on a national scale; the date is the document's, which gives no other.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The mapping states that the servers hosting DHIMS2 and E-Tracker were paid for by donor-funded projects that have now ended, leaving a gap for the annual server costs, and lists USAID, the Global Fund, the World Bank, JICA and KOICA as DHIMS2's partners; the date is the document's.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The mapping states that health workers at facility and community levels tally immunisation data from paper registers and enter the aggregates into DHIMS2 at those facilities where the system is operational, and that Health Information Officers are the primary users who input data; it gives no count of such facilities, and the date is the document's.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The mapping reports that the donor-funded projects which paid for the servers hosting DHIMS2 and E-Tracker have ended, leaving the annual server costs unfunded; it does not date the end, so the date is the document's.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "DHIMS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The mapping lists the Ministry of Health as LHIMS's system owner, calls it an MOH-approved EMR solution under a proprietary licence that manages a longitudinal electronic medical record for individual clients, with GHS and CHISU as implementers and deployment on a sub-national scale; the date is the document's.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The mapping's system overview lists the Ministry of Health as the funder of LHIMS and names no donor; it cites no budget line, and the date is the document's.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIMS2",
+      "country_label": "District Health Information Management System II (DHIMS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ghana Health Service, Policy, Planning, Monitoring and Evaluation Division",
+      "tiers": "national scale; health care providers at facility and community levels, district and regional health information officers, national MOH and GHS units"
+    },
+    {
+      "system": "E-Tracker",
+      "country_label": "E-Tracker",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Ghana Health Service PPME; implemented by the Center for Health Information Management",
+      "tiers": "sub-national: Bono East, Upper East, Volta, Oti and Eastern regions, Savanna in progress; used by Community Health Officers"
+    },
+    {
+      "system": "SORMAS",
+      "country_label": "Surveillance Outbreak Response Management and Analysis System (SORMAS)",
+      "class": "single-function",
+      "platform": "SORMAS",
+      "owner": "Ghana Health Service, Disease Surveillance Department",
+      "tiers": "national scale; community health workers, health facility level, disease control officers"
+    },
+    {
+      "system": "GhiLMIS",
+      "country_label": "Ghana Integrated Logistics Management Information System (GhiLMIS)",
+      "class": "single-function",
+      "platform": "One Network NEO platform",
+      "owner": "Ministry of Health, Supplies, Stores and Drugs Management Division",
+      "tiers": "national scale; more than 1,500 medical facilities; national, regional and district supply chain managers, with rollout to CHPS ongoing in phases"
+    },
+    {
+      "system": "Lightwave Health Information Management System (LHIMS)",
+      "country_label": "LHIMS",
+      "class": "emr",
+      "platform": "Lightwave Health Information Management System, proprietary",
+      "owner": "Ministry of Health; implemented by GHS and CHISU",
+      "tiers": "sub-national scale; hospitals, labs and clinics, no tier stated"
+    },
+    {
+      "system": "Penless",
+      "country_label": "Penless",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "listed as deployed on a sub-national scale under health management information system"
+    },
+    {
+      "system": "National Facility Register",
+      "country_label": "National Facility Register / Master Facility Registry",
+      "class": "exchange",
+      "platform": "none selected",
+      "owner": "",
+      "tiers": "planned; DHIMS2 serves as the de facto Master Facility List"
+    }
+  ],
+  "note": "No tiers fact for either system: the document gives DHIMS2's users as facility and community levels and says it can be adapted from primary to tertiary levels, and gives LHIMS only as sub-national, without naming tiers in use. No plan fact: it cites the GHS Policy and Strategy on Digital Health 2023-2027 but does not say that strategy names either system. The interoperability layer is shown as not yet deployed."
+}

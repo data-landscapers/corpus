@@ -4,8 +4,8 @@ AGO,hmis,tiers,coverage,,,,,nothing held
 AGO,hmis,digitised,coverage,district,2025-06-25,AGO-011,,
 AGO,hmis,last12,qualifier,advancing,2026-03,AGO-002,,
 AGO,hmis,clinics,coverage,none,2025-06-25,AGO-012,,
-AGO,emr,governance,qualifier,,,,,nothing held
+AGO,emr,governance,qualifier,owner:partner,2019-11,AGO-017,,nothing dated since 2023-09-28
 AGO,emr,tiers,coverage,,,,,nothing held
-AGO,emr,digitised,coverage,,,,,nothing held
+AGO,emr,digitised,coverage,keyed-afterwards,2019-11,AGO-016,AGO-015=paper,nothing dated since 2023-09-28
 AGO,emr,last12,qualifier,,,,,nothing held
 AGO,emr,clinics,coverage,,,,,nothing held

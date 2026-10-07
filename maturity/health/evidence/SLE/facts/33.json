@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-sle-analysis-report-2025-analysis-of-reproductive-maternal-newborn-child-a",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The Countdown to 2030 analysis by Statistics Sierra Leone, the Ministry of Health and APHRC gives DHIS2 completeness of expected monthly facility reports (mean of ANC, delivery, immunisation and OPD forms) as 98% nationally in 2024, after 99, 95, 95, 93 and 94% in 2019 to 2023, with all districts at 90% or more in 2024; it gives no count or share of facilities entering their own reports, and names stock-outs of HMIS reporting tools and facilities not reporting in DHIS2 as causes of under-reporting.", "as_of": "2024", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2; HMIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "health facilities reporting monthly, public and private; tiers not named"}
+  ],
+  "note": ""
+}

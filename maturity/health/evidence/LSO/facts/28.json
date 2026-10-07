@@ -1,0 +1,162 @@
+{
+  "slug": "2022-03-01-lso-transforming-health-care-in-lesotho-using-digital-health-to-overcome-h",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank and Ministry of Health report cites the Ministry's HMIS Strategic Plan 2018-2022, drawn up after an ICAP and Ministry rapid assessment of the HMIS at central, district and facility levels; the plan's period still ran at the report's date, which is used here.",
+      "as_of": "2022-03",
+      "date_precision": "month",
+      "system": "Health Management Information System (DHIS-2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank and Ministry of Health report, summarising the HMIS Strategic Plan 2018-2022, records a central HMIS unit with capacity in core health information sciences, alongside parallel reporting lines on a hybrid of paper and electronic systems and no HMIS organisational structure at district level.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Health Management Information System (DHIS-2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The World Bank and Ministry of Health report's table of existing applications states that the eRegister aggregates its data monthly and posts it into DHIS2, and that monthly reports are posted to DHIS2 as an aggregated report at facility level; the passages read give only fragments of the table and no date, so the document's is used.",
+      "as_of": "2022-03",
+      "date_precision": "month",
+      "system": "Health Management Information System (DHIS-2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The World Bank and Ministry of Health report, summarising the Ministry and ICAP EMR Assessment of 2017, states that physicians returned to manual work and the hospital EMR system was withdrawn, after a design with little interoperability, limited functionality and no technical support.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "EMR system (2017 assessment)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2",
+      "fact": "The World Bank and Ministry of Health report, summarising the HMIS Strategic Plan 2018-2022, states that the EMR was implemented at six hospitals, where clinicians and pharmacists used it inadequately; it does not give the hospitals' rank.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "EMR system (2017 assessment)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health Management Information System (DHIS-2)",
+      "country_label": "HMIS; DHIS-2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, central HMIS unit",
+      "tiers": "used for programme monitoring and reporting; tiers not stated"
+    },
+    {
+      "system": "e-Register",
+      "country_label": "e-Register; eRegister; national EMR",
+      "class": "tracker",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "182 health facilities in 2021; HIV and TB patients only; aggregates monthly into DHIS2"
+    },
+    {
+      "system": "EMR system (2017 assessment)",
+      "country_label": "EMR",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "six hospitals; withdrawn"
+    },
+    {
+      "system": "EMRx",
+      "country_label": "EMRx",
+      "class": "",
+      "platform": "",
+      "owner": "Baylor College of Medicine Children's Foundation Lesotho",
+      "tiers": "partner-run facilities; duplicates the e-Register, with a connection planned"
+    },
+    {
+      "system": "OpenMRS",
+      "country_label": "OpenMRS",
+      "class": "",
+      "platform": "OpenMRS",
+      "owner": "Partners In Health",
+      "tiers": "Partners In Health facilities; data clerks enter information in both it and the e-Register"
+    },
+    {
+      "system": "Logistic Management Information System (LMIS)",
+      "country_label": "LMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Bophelo ka Mosebeletsi App",
+      "country_label": "Bophelo ka Mosebeletsi",
+      "class": "community",
+      "platform": "",
+      "owner": "",
+      "tiers": "village health workers"
+    },
+    {
+      "system": "Health Information Exchange",
+      "country_label": "Health Information Exchange",
+      "class": "exchange",
+      "platform": "",
+      "owner": "hosted in the cloud through ICAP",
+      "tiers": ""
+    },
+    {
+      "system": "laboratory results systems",
+      "country_label": "laboratory results systems",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "not linked to DHIS-2"
+    },
+    {
+      "system": "DISA",
+      "country_label": "DISA",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "BONOLOMED",
+      "country_label": "BONOLOMED",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Health Situation Room",
+      "country_label": "Health Situation Room",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "ECHO",
+      "country_label": "ECHO",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages only, of a 34,953-word report, and Table 2.1 (existing applications) arrives as broken fragments: a whole read of that table would settle the classes of EMRx, OpenMRS, DISA and BONOLOMED, left empty here because the passages label them without describing them. The e-Register is classed tracker on the report's repeated statement that it covers only HIV and TB patients, so its 182 facilities (2021) give no emr fact. Not recorded: 'Typically, an HMIS digitizes health data at the district level', which reads as a general remark rather than a statement about Lesotho; and recommendation R14 to plan the e-Register's growth into a comprehensive EMR, which is advice, not a plan."
+}

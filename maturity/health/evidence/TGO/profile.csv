@@ -1,9 +1,9 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,hmis,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-07,TGO-002;TGO-016;TGO-017,TGO-015=owner:ministry;TGO-020=finance:donor,
-TGO,hmis,tiers,coverage,T1;T2;T3;T4,2018,TGO-013,,nothing dated since 2023-10-06
-TGO,hmis,digitised,coverage,facility,2022-04,TGO-014;TGO-019,,nothing dated since 2023-10-06
-TGO,hmis,last12,qualifier,advancing,2026-07,TGO-001;TGO-003,,
-TGO,hmis,clinics,coverage,,,,,nothing held
+TGO,hmis,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-07,TGO-002;TGO-025;TGO-026,TGO-024=owner:ministry;TGO-030=owner:ministry;TGO-031=plan:current;TGO-032=finance:not-stated;TGO-015=owner:ministry;TGO-016=plan:current;TGO-017=finance:not-stated;TGO-020=finance:donor,
+TGO,hmis,tiers,coverage,T1;T2;T3;T4,2023-10-06,TGO-028,TGO-013=T1;T2;T3;T4,
+TGO,hmis,digitised,coverage,facility,2023-10-06,TGO-014;TGO-019;TGO-027,,
+TGO,hmis,last12,qualifier,advancing,2026-07,TGO-001;TGO-003;TGO-022;TGO-023,TGO-021=regressing,
+TGO,hmis,clinics,coverage,share:96.5%,2021,TGO-029,,nothing dated since 2023-09-28
 TGO,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-24,TGO-009;TGO-010;TGO-011,TGO-018=plan:current,
 TGO,emr,tiers,coverage,none,2025-12,TGO-007,,
 TGO,emr,digitised,coverage,,,,,nothing held

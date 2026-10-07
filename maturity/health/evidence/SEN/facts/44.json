@@ -1,0 +1,46 @@
+{
+  "slug": "2024-01-01-sen-strategie-de-cooperation-de-l-oms-avec-le-senegal-2024-2028",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO states that the health ministry developed a national strategic plan for the health and social information system (PSNSISS) 2022-2026, which covers building health actors' capacity to configure and use DHIS2, in place since 2013; the passage is undated, so the document's published year, 2024, is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "District Health Information System version 2 (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO presents DHIS2, in place since 2013, as the software of the national health and social information system that the Ministère de la Santé et de l'Action sociale plans for and strengthens under its own strategic plan; undated, so the document's published year, 2024, is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "District Health Information System version 2 (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO states that the health ministry, with the ministry in charge of digital affairs, carried out in 2021 a feasibility study of the health system digitalisation programme centred on six projects, the shared patient record first among them, following a digital health strategic plan 2018-2023; the document describes a study and a programme, not a costed plan.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "dossier patient partagé",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "District Health Information System version 2 (DHIS2)", "country_label": "DHIS2 / SNIS", "class": "hmis", "platform": "DHIS2", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "in place since 2013; health data stated not to include the private sector, hospitals and other sectors; tiers not otherwise stated"},
+    {"system": "dossier patient partagé", "country_label": "dossier patient partagé", "class": "emr", "platform": "", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "project in the digitalisation programme; not stated as in use"},
+    {"system": "télésanté", "country_label": "télésanté", "class": "enabling", "platform": "", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "project in the digitalisation programme"},
+    {"system": "système d'information hospitalier", "country_label": "système d'information hospitalier", "class": "", "platform": "", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "project in the digitalisation programme; clinical record not stated"},
+    {"system": "système d'information géographique de santé", "country_label": "système d'information géographique de santé", "class": "", "platform": "", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "project in the digitalisation programme"},
+    {"system": "système d'information intégré de gestion et de contrôle du médicament et des produits essentiels", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "project in the digitalisation programme"},
+    {"system": "appui à la digitalisation de la santé communautaire", "country_label": "digitalisation de la santé communautaire", "class": "community", "platform": "", "owner": "Ministère de la Santé et de l'Action sociale", "tiers": "project in the digitalisation programme"},
+    {"system": "observatoire national de la santé", "country_label": "observatoire national de la santé", "class": "", "platform": "", "owner": "", "tiers": "to be made operational with WHO support; no description"}
+  ],
+  "note": "Passages only. Two statements fit no aspect value and are left as context: health data are incomplete and do not include the private sector or hospitals; and the results table gives SNIS completeness and timeliness a 2028 target of 90% against a baseline printed as 95%, undated, with the share of private facilities whose data are in DHIS2 at a target of 50% and no baseline."
+}

@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,hmis,governance,qualifier,owner:ministry,2025-09-11,CIV-011,,"not stated: plan, finance"
-CIV,hmis,tiers,coverage,,,,,nothing held
-CIV,hmis,digitised,coverage,,,,,nothing held
+CIV,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-09-11,CIV-011;CIV-024;CIV-028,CIV-027=owner:ministry;CIV-035=owner:ministry,
+CIV,hmis,tiers,coverage,T2;T3,2021-10,CIV-025,CIV-034=T2,nothing dated since 2023-09-28
+CIV,hmis,digitised,coverage,district,2022,CIV-023;CIV-026;CIV-032,,nothing dated since 2023-09-28
 CIV,hmis,last12,qualifier,,,,,nothing held
-CIV,hmis,clinics,coverage,,,,,nothing held
-CIV,emr,governance,qualifier,finance:donor,2025-09-18,CIV-010,,"not stated: owner, plan"
-CIV,emr,tiers,coverage,,,,,nothing held
-CIV,emr,digitised,coverage,paper,2025-09-18,CIV-005;CIV-009,,
+CIV,hmis,clinics,coverage,none,2020,CIV-033,,nothing dated since 2023-09-28
+CIV,emr,governance,qualifier,owner:ministry;plan:none;finance:donor,2025-09-18,CIV-010;CIV-013;CIV-015,CIV-014=finance:not-stated;CIV-018=owner:ministry;CIV-022=owner:ministry;CIV-020=owner:ministry;CIV-030=owner:ministry;CIV-031=plan:current,
+CIV,emr,tiers,coverage,T2,2024-08-16,CIV-016,,
+CIV,emr,digitised,coverage,shared,2024-05,CIV-021,CIV-009=paper;CIV-017=point-of-care;CIV-005=paper,
 CIV,emr,last12,qualifier,advancing,2026-09-04,CIV-001;CIV-002;CIV-003;CIV-004;CIV-006,,
-CIV,emr,clinics,coverage,,,,,nothing held
+CIV,emr,clinics,coverage,count:268,2025-03-25,CIV-012,CIV-019=count:193;CIV-029=pilot,

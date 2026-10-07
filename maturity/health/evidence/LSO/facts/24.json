@@ -1,0 +1,122 @@
+{
+  "slug": "2025-11-01-lso-lesotho-country-update",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:197",
+      "fact": "The Ministry of Health's HIV programme, presenting at the CQUIN meeting of November 2025, states that the OpenMRS/Bahmni-based EMR/eRegister is currently in 197 public facilities, 92% of them at Stage 2 (hybrid with more automation) for ART reports and 75% for the HTS report; it gives no denominator and does not split hospitals from clinics, and the date is the document's.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The Ministry of Health's HIV programme states in November 2025 that the plan is for the Government of Lesotho to completely own the EMR, using domestic resources, and that EMR use was affected by the handover from the previous strategic information partner to the current one in September 2024; the date is the document's.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The Ministry of Health's HIV programme states that after the US stop-work orders of 2025 the Government of Lesotho increased the staff who maintain the EMR, hiring 10 IT and 10 HMIS personnel to support districts and more central ICT staff; no budget line or amount is given.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of Health's HIV programme states that the EMRs stayed in place through the 2025 US funding cuts because the Government of Lesotho hired 10 IT and 10 HMIS personnel for the districts and added central ICT staff to maintain the system.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The Ministry of Health's HIV programme states that EMR utilisation was affected by the transition from the previous strategic information partner to the current one in September 2024.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The Ministry of Health's HIV programme states that suboptimal use of the eRegister has led to under-reporting of new ART initiations in the January 2024 to September 2025 series, although that indicator is automated into DHIS2.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The Ministry of Health's HIV programme states in November 2025 that DHIS2 has been strengthened for aggregated reporting, with facility reports automated from the EMR into DHIS2; it does not say how facilities without the EMR enter theirs, and the date is the document's.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2 (national aggregate HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The Ministry of Health's HIV programme states that 231 facilities report on HIV indicators and that reporting rates fell from 97% in January to 95% in September 2025, with a dip to 93% in June, and timeliness from 91% to 88%.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "DHIS2 (national aggregate HMIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The Ministry of Health's HIV programme states that records assistants were laid off in some facilities in January 2025 and had not been replaced, and that between February and May 2025 about 30% of facilities ran out of patient monitoring tools, lowering report quality.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "DHIS2 (national aggregate HMIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OpenMRS/Bahmni-based EMR/eRegister",
+      "country_label": "EMR; eRegister",
+      "class": "emr",
+      "platform": "OpenMRS/Bahmni",
+      "owner": "Ministry of Health with a strategic information partner; full government ownership is the stated plan",
+      "tiers": "197 public facilities; started 2018, phased expansion; tiers not stated"
+    },
+    {
+      "system": "DHIS2 (national aggregate HMIS)",
+      "country_label": "DHIS2; National Aggregate HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "231 facilities reporting on HIV indicators; tiers not stated"
+    },
+    {
+      "system": "Bonolo Meds",
+      "country_label": "Bonolo Meds",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "eLockers and retail pharmacies; interrupted in 2025"
+    }
+  ],
+  "note": "The EMR/eRegister is classed emr here because this document says it captures HIV and primary care data and enables longitudinal patient tracking; document 21's drafter classed the same system tracker on that document's description. Owner is given as partner on the statement that full government ownership is still a plan; the parent may read it otherwise. No tiers fact: the 197 facilities are not broken down by type. No digitised fact for emr: the rollout stages (hybrid, hybrid with more automation, paperless) do not say whether entry is at the point of care."
+}

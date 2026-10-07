@@ -1,9 +1,9 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,hmis,governance,qualifier,owner:ministry;finance:donor,2022-11,TCD-011;TCD-013,TCD-014=owner:ministry,nothing dated since 2023-10-06
-TCD,hmis,tiers,coverage,,,,,nothing held
-TCD,hmis,digitised,coverage,district,2022-11,TCD-010,,nothing dated since 2023-10-06
-TCD,hmis,last12,qualifier,,,,,nothing held
-TCD,hmis,clinics,coverage,not-published,2022-12-08,TCD-012,,nothing dated since 2023-10-06
+TCD,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,TCD-013;TCD-016;TCD-018,TCD-011=owner:ministry;TCD-022=plan:current;TCD-023=owner:ministry;TCD-029=owner:ministry;TCD-014=owner:ministry,
+TCD,hmis,tiers,coverage,T1;T2,2023,TCD-019,TCD-028=T2;T3,
+TCD,hmis,digitised,coverage,district,2024-08,TCD-010;TCD-017;TCD-024;TCD-026,,
+TCD,hmis,last12,qualifier,advancing,2025,TCD-015;TCD-021,,
+TCD,hmis,clinics,coverage,none,2018,TCD-027,TCD-020=not-published;TCD-012=not-published;TCD-025=not-published,
 TCD,emr,governance,qualifier,owner:vendor,2026-08-13,TCD-002,TCD-004=owner:ministry,"not stated: plan, finance"
 TCD,emr,tiers,coverage,,,,,nothing held
 TCD,emr,digitised,coverage,,,,,nothing held

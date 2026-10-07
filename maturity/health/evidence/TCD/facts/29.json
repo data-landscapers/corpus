@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-01-tcd-rapport-d-audit-des-programmes-republique-du-tchad",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "Gavi's programme audit, on site in August 2024, records that in one district visited the district immunisation officer receives the monthly activity reports of 16 health centres and keys them into DHIS2 himself, and that in N'Djamena Centre district (14 health centres, 7 of them private) entry into DHIS2 is likewise done at the district from the monthly vaccination reports the health centres send.", "as_of": "2024-08", "date_precision": "month", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Gavi's programme audit states that the health ministry (MSPP) began moving data management from the manual DVDMT tool to DHIS2 in 2019, that a note of November 2023 from the ministry's Secretary-General to the provincial health delegates required exclusive use of DHIS2, and that the migration was complete only from January 2024.", "as_of": "2024-01", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2; SNIS", "class": "hmis", "platform": "DHIS2, with validation rules and a data-quality application", "owner": "Ministère de la Santé Publique et de la Prévention (MSPP); Direction de la Vaccination for immunisation data", "tiers": "keyed at district from health centres' monthly paper reports in the two districts described (August 2024); in exclusive use for immunisation data since January 2024"},
+    {"system": "DVDMT", "country_label": "DVDMT", "class": "single-function", "platform": "DVDMT, described as the manual tool for immunisation data", "owner": "MSPP, immunisation programme", "tiers": "used in parallel with DHIS2 by the provincial delegations and data collection points until the end of 2023; replaced by DHIS2 from January 2024"},
+    {"system": "SMT", "country_label": "Stock Management Tool (SMT)", "class": "single-function", "platform": "Excel tool for vaccine and consumables stock", "owner": "MSPP, immunisation programme (PEV)", "tiers": "central and subnational depots; the audit finds it not correctly filled in (August 2024)"},
+    {"system": "SIGL", "country_label": "SIGL", "class": "single-function", "platform": "not stated", "owner": "PEV", "tiers": "intended only: the PEV said it planned to use the SIGL and an online SMT to follow logistics"},
+    {"system": "PEV Manager", "country_label": "PEV Manager", "class": "", "platform": "not stated", "owner": "not stated", "tiers": "formerly used for supervision in N'Djamena Centre district, since replaced by DHIS2"}
+  ],
+  "note": ""
+}

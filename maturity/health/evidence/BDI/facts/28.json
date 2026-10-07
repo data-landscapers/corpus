@@ -1,0 +1,104 @@
+{
+  "slug": "2026-02-06-bdi-memorandum-of-understanding-between-the-government-of-the-united-state",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "In the memorandum signed on 6 February 2026 by the Minister of Public Health, the Burundi Government commits to use SIDAinfo as its electronic medical records system and to pay the ongoing licensing, cloud, hardware maintenance and replacement costs the U.S. Government does not pay.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "SIDAinfo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The U.S.-Burundi memorandum of 6 February 2026, running 1 April 2026 to 31 December 2030, names SIDAinfo as the country's EMR, sets a rollout of 460 facilities by 2026 and 572 by 2028 and costs U.S. support for it at $565,579 in 2026 and about $1,829,216 over the term.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "SIDAinfo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The memorandum states the U.S. Government intends to fund SIDAinfo with $565,579 in 2026 and about $1,829,216 over 2026-2030, subject to availability of funds; Burundi's own contribution is an unquantified commitment to pay ongoing costs the U.S. does not, with no budget line given.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "SIDAinfo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:460",
+      "fact": "A commitment, not a count achieved: the Burundi Government commits in the memorandum to roll SIDAinfo out in 460 facilities by 2026 and a total of 572 by 2028; the facilities are not broken down by tier, no denominator is given, and the number already using it at signing is not stated.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "SIDAinfo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 6 February 2026 Burundi and the United States signed a memorandum committing Burundi to roll SIDAinfo out as its EMR in 460 facilities by 2026 and 572 by 2028, with incentives so that more than 80% of encounters are loaded within a year of rollout in a facility and 90% within two, and U.S. funding of $565,579 for it in 2026.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "SIDAinfo",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "In the memorandum signed on 6 February 2026 by the Minister of Public Health, the Burundi Government commits to use DHIS2 as its national health data warehouse, within a National Health Information System the text says manages all health information.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The U.S.-Burundi memorandum of 6 February 2026, running to 31 December 2030, names DHIS2 as the national health data warehouse and costs U.S. support for it at $188,526 in 2026 and about $609,872 over the term, for linking it with SIDAinfo and other systems and integrating supply chain and laboratory data.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The memorandum states the U.S. Government intends to fund DHIS2 as national health data warehouse with $188,526 in 2026 and about $609,872 over 2026-2030, subject to availability of funds; Burundi's contribution is an unquantified commitment to pay ongoing costs the U.S. does not, with no budget line given.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 6 February 2026 Burundi and the United States signed a memorandum under which Burundi commits to use DHIS2 as its national health data warehouse and the U.S. plans $188,526 for it in 2026, with total U.S. data-systems funding falling from $1,885,264 in 2026 to $475,264 in 2030.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "DHIS2 (national health data warehouse)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "SIDAinfo", "country_label": "SIDAinfo", "class": "emr", "platform": "", "owner": "Burundi Government (Ministry of Public Health signatory); improvements funded by the U.S. Government", "tiers": "460 facilities by 2026 and 572 by 2028, as commitments; tiers not stated"},
+    {"system": "DHIS2 (national health data warehouse)", "country_label": "National Health Information System", "class": "hmis", "platform": "DHIS2", "owner": "Burundi Government; improvements funded by the U.S. Government", "tiers": "not stated"},
+    {"system": "DHIS2 Tracker", "country_label": "", "class": "single-function", "platform": "DHIS2 Tracker", "owner": "Burundi Government; improvements funded by the U.S. Government", "tiers": "all applicable sites by the end of 2026, as a commitment"},
+    {"system": "Ibipimo", "country_label": "Ibipimo", "class": "single-function", "platform": "", "owner": "Burundi Government; improvements funded by the U.S. Government", "tiers": "all national and regional laboratories by the end of 2026, as a commitment"},
+    {"system": "eLMIS", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "Burundi Government; improvements funded by the U.S. Government", "tiers": "10% of pharmacies by end 2026, 25% by end 2027, 50% by end 2028; the whole government-run commodity supply chain by end 2030, as commitments"},
+    {"system": "Sage", "country_label": "", "class": "single-function", "platform": "Sage", "owner": "Burundi Government", "tiers": "warehouse management; not stated"}
+  ],
+  "note": "Two classing calls for the parent. SIDAinfo is classed emr because the text calls it the country's Electronic Medical Records and describes patient-centred, integrated care, never one programme, whatever the name suggests. DHIS2 is classed hmis on thin ground: the text calls it the national health data warehouse, expected (with 'and/or other data systems') to collect and report the Section 1 metrics such as people on ART and malaria cases treated; it does not describe monthly facility reporting. Every rollout figure is a commitment dated to signing, none a count achieved; nothing on tiers or on where data is keyed. DHIS2 Tracker is the outbreak surveillance system here, hence single-function."
+}

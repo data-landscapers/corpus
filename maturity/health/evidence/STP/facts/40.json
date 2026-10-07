@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-sao-tome-ine-ende-2025-2029",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIS",
+      "country_label": "Sistema de Informação da Saúde",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health (a delegated statistical organ of INE)",
+      "tiers": ""
+    }
+  ],
+  "note": "A national statistics strategy: it names the SIS only in its acronym list and as the body responsible for the health statistical yearbook and the annual health accounts in the 2025-2029 action plan, with no description of what the system does, where it is used or how data is entered."
+}

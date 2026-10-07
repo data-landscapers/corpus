@@ -1,0 +1,132 @@
+{
+  "slug": "2020-01-01-mus-health-sector-strategic-plan-2020-2024-caring-for-people-s-health-and",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "none",
+      "fact": "The Ministry of Health and Wellness's Health Sector Strategic Plan 2020-2024 gives the share of health facilities using EMR as 0 at its 2019 baseline, against a 2024 target of 100%, with the e-health report as data source; for Rodrigues it gives the E-Health Project at Queen Elizabeth Hospital and the two area health centres as 0 implemented in 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "E-Health Project",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "share:0%",
+      "fact": "The Ministry of Health and Wellness's Health Sector Strategic Plan 2020-2024 states a 2019 baseline of 0 for the percentage of health facilities using EMR, target 100% by 2024; the figure is a share of all health facilities, with no numerator or denominator, and the plan's Rodrigues chapter lists extension of the E-Health Project to community health centres as an action still to come.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "E-Health Project",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Health Sector Strategic Plan 2020-2024 is the Ministry of Health and Wellness's own plan and lists implementation of the E-Health Project among the ministry's proposed actions under Strategic Goal 18, with the Rodrigues Commission for Health to implement it at Queen Elizabeth Hospital and the two area health centres; the plan's published date is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-Health Project",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Health Sector Strategic Plan 2020-2024 names implementation of the E-Health Project as a proposed action under Strategic Goal 18 and sets a monitoring indicator of 100% of health facilities using EMR by 2024; the plan's published date is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-Health Project",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Health Sector Strategic Plan 2020-2024's programme-based budget gives recurrent estimates for the priority Health Information System and Health Research of 1,593,801 over 2020-2024 for Mauritius and 55,347 for Rodrigues, units not shown in the passages, without naming the E-Health Project or a source of funds; Rodrigues's E-Health indicator cites the Budget Estimates as its data source.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "E-Health Project",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "The Health Sector Strategic Plan 2020-2024 states that the health information system in Rodrigues is largely manual and very often non-retrievable and non-transferable, with limited analysis of routine data; this is Rodrigues only, undated in the plan's situational analysis, so the plan's published date is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Health Information System (Rodrigues)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-Health Project",
+      "country_label": "E-Health Project; EMR (Electronic Medical Records)",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness; Commission for Health in Rodrigues",
+      "tiers": "no facility using EMR in 2019; planned for all health facilities by 2024, and in Rodrigues for Queen Elizabeth Hospital, the two area health centres and then the community health centres"
+    },
+    {
+      "system": "Health Information System (Rodrigues)",
+      "country_label": "Health Information System (HIS)",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "Rodrigues; largely manual"
+    },
+    {
+      "system": "Integrated Health Management Information System",
+      "country_label": "Integrated Health Management Information System, named among E-Health technologies under the governance priority",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "not stated; planned"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 for case detection and active surveillance of all major notifiable diseases, including vaccine-preventable diseases and HIV",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Wellness; in Rodrigues to be developed with MOHW and WHO support",
+      "tiers": "to be established; baseline 0 in Rodrigues in 2019"
+    },
+    {
+      "system": "Laboratory Management and Information System (LMIS)",
+      "country_label": "Laboratory Management and Information System (LMIS)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; implementation to be sustained"
+    },
+    {
+      "system": "inventory management system for medicines (Rodrigues)",
+      "country_label": "paper-based inventory management system",
+      "class": "single-function",
+      "platform": "paper",
+      "owner": "",
+      "tiers": "Rodrigues health facilities"
+    },
+    {
+      "system": "District Vaccine Data Management (DVDMT)",
+      "country_label": "DVDMT, in the acronym list only",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Health Observatory",
+      "country_label": "National Health Observatory",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Wellness",
+      "tiers": "national; not established in 2019, planned by 2024"
+    }
+  ],
+  "note": "Passages only, of a 43,039-word plan: the strategic actions of section 7.13 and the list of HIS challenges at 3.1.2.53 are cut off in the passages, so the plan may state more than is recorded here. The class of the Rodrigues HIS fact is a reading the parent should check: the plan describes a general health information system, not specifically routine facility reporting. The plan also gives 20% of private health facilities reporting data in 2019 and no quarterly report reaching the five health regions, neither tied to a digital system. DHIS2 appears only for disease surveillance, so it gives no HMIS fact."
+}

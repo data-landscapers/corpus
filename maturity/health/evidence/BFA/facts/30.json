@@ -1,0 +1,60 @@
+{
+  "slug": "2023-01-01-bfa-stakeholder-s-perception-of-the-health-information-system-performance",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T3",
+      "fact": "The Pan African Medical Journal study states that an electronic HMIS on DHIS2 was introduced in 2013 and that monthly activity reports of health facilities, in its two districts 60 primary health care centres and 2 medical centres, reach the central warehouse EnDoS/DHIS2 through the districts; across 15 health districts completeness was above 91% in all but one in 2016 and 2018 and fell to between 49% and 97.5% in 2019. It says the performance of regional and university hospitals is not measured separately.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Health data warehouse (EnDoS/DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The study reports, for 2016 to 2019, that monthly activity reports are transmitted from each health district to the central level, that data entry on EnDoS varies between districts of one region, and that the flow from the district information and surveillance centre (CISSE) into the system suffers from missing or late data entry.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Health data warehouse (EnDoS/DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Health data warehouse (EnDoS/DHIS2)",
+      "country_label": "EnDoS",
+      "class": "hmis",
+      "platform": "DHIS2, introduced 2013",
+      "owner": "Ministry of Health; a national HIS data manager at central level",
+      "tiers": "monthly activity reports of primary health care centres and medical centres, through the district CISSE to the central level"
+    },
+    {
+      "system": "Community-based health workers' reports in EnDoS/DHIS2",
+      "country_label": "rapports des ASBC",
+      "class": "community",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "community reports passed to primary health care centres and entered at district level; in 2017, 7 of 15 districts recorded 0% completeness"
+    },
+    {
+      "system": "Télégramme-lettre officiel hebdomadaire (TLOH)",
+      "country_label": "TLOH",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "weekly epidemic surveillance reports from each health district to the central level"
+    },
+    {
+      "system": "e-IDSR (electronic integrated disease surveillance and response)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "described as a next step, not as in use"
+    }
+  ],
+  "note": "Data cover 2016 to 2019 in 15 health districts of the Hauts-Bassins and Centre-Est regions; facts are dated 2019. The 2019 fall in completeness, and in weekly surveillance telegrams to below 60%, is put down to the health workers' strike of the third and fourth quarters of 2019; it is too old for the last-twelve-months aspect and is not recorded there. For the community flag: community health workers' reports are entered into the same EnDoS/DHIS2 warehouse, with completeness often near zero (fewer than 35% of districts reached 90% since 2017). The study calls full computerisation including patient files a future possibility and names no patient-record system."
+}

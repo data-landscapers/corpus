@@ -1,0 +1,70 @@
+{
+  "slug": "2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "count:700",
+      "fact": "A DHIS2 Community of Practice abstract (primary author Shepherd Maverudze) states that the Impilo EHR is deployed across over 700 facilities; it gives no denominator and no breakdown by tier, and no date, so the document's published date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The abstract states that Impilo captures real-time clinical and administrative data for services including HIV testing, antiretroviral therapy and maternal and child health, and that facility data is stored in centralised repositories and a national data warehouse; it does not say a record can be retrieved at another facility. No date is given, so the document's published date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Impilo EHR",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The abstract states that data from Impilo facilities flows to DHIS2 by three pipelines (real-time for connected facilities, mobile backups for offline synchronisation, manual backups elsewhere), with middleware updating DHIS2 aggregate data and tracker programmes and reporting on over 150 indicators and 15 facility registers; this covers Impilo facilities only, and how other facilities report is not stated. The document's published date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Impilo EHR",
+      "country_label": "Impilo Electronic Health Record (EHR) system",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "over 700 facilities; no tier named"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "national end-user database for indicators and facility registers; aggregate data and tracker programmes both updated from Impilo"
+    },
+    {
+      "system": "OpenHIE pipeline with FHIR mappings",
+      "country_label": "OpenHIE pipeline",
+      "class": "exchange",
+      "platform": "OpenHIE; FHIR; Python middleware on the DHIS2 API",
+      "owner": "",
+      "tiers": "connected Impilo facilities to central repositories, in real time"
+    },
+    {
+      "system": "National data warehouse",
+      "country_label": "national data warehouse",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; fed from the centralised repositories and optimised into data marts for reporting"
+    }
+  ],
+  "note": "A conference abstract, undated beyond 2025, naming no owner, plan or funder. Impilo is classed emr on the document's description of an electronic health record capturing clinical data across several services. The DHIS2 tracker programmes it mentions are of class tracker and give no fact. The hmis digitised row rests on automated transfer from the facility's own record rather than on facility staff keying a report, which the parent may judge differently."
+}

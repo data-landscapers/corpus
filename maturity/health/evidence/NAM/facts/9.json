@@ -1,0 +1,12 @@
+{
+  "slug": "2024-10-04-nam-u-s-cdc-namibia",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The U.S. CDC fact sheet describes DHIS2 as the national health information management system of the Ministry of Health and Social Services, collecting aggregated data and producing summary reports for key indicators, with CDC supporting the ministry in it; the kind of support is not specified and no date is given, so the fact sheet's date is used.", "as_of": "2024-10-04", "date_precision": "day", "system": "District Health Information System (DHIS2)", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "District Health Information System (DHIS2)", "country_label": "national health information management system", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health and Social Services, supported by U.S. CDC", "tiers": "not stated; information said to reach ministry staff from health facilities up to national programmes"},
+    {"system": "National health information systems for HIV testing, treatment, PMTCT, TB and COVID-19 cases and vaccinations", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Health and Social Services, maintained with U.S. CDC support", "tiers": "not stated; unnamed, described only by programme"},
+    {"system": "COVID-19 electronic data system and dashboards", "country_label": "", "class": "single-function", "platform": "", "owner": "developed with U.S. CDC support", "tiers": "not stated"}
+  ],
+  "note": "A two-page fact sheet: it says who owns and who supports DHIS2 and nothing on tiers, where data is keyed, clinic coverage or the money."
+}

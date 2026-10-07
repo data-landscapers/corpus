@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,hmis,governance,qualifier,,,,,nothing held
+SWZ,hmis,governance,qualifier,owner:ministry;plan:none,2024,SWZ-016;SWZ-033,SWZ-018=owner:ministry,not stated: finance
 SWZ,hmis,tiers,coverage,,,,,nothing held
-SWZ,hmis,digitised,coverage,,,,,nothing held
-SWZ,hmis,last12,qualifier,advancing,2026-03,SWZ-013,,
+SWZ,hmis,digitised,coverage,facility,2022,SWZ-030,SWZ-032=paper,nothing dated since 2023-09-28
+SWZ,hmis,last12,qualifier,advancing,2026-03,SWZ-013;SWZ-014;SWZ-015;SWZ-017,,
 SWZ,hmis,clinics,coverage,,,,,nothing held
-SWZ,emr,governance,qualifier,owner:ministry,2026-04-07,SWZ-003,SWZ-010=owner:ministry,"not stated: plan, finance"
-SWZ,emr,tiers,coverage,T2;T4,2026-04-07,SWZ-005;SWZ-011,,
-SWZ,emr,digitised,coverage,shared,2026-04-07,SWZ-004,,
-SWZ,emr,last12,qualifier,advancing,2026-06-12,SWZ-001;SWZ-012,,
-SWZ,emr,clinics,coverage,share:73%,2026-04-07,SWZ-002,,
+SWZ,emr,governance,qualifier,owner:ministry;finance:donor,2026-04-07,SWZ-003;SWZ-024,SWZ-010=owner:ministry;SWZ-023=owner:ministry;SWZ-027=owner:ministry;SWZ-028=finance:donor;SWZ-031=owner:ministry,not stated: plan
+SWZ,emr,tiers,coverage,T2;T4,2026-04-07,SWZ-005;SWZ-011;SWZ-021,,
+SWZ,emr,digitised,coverage,shared,2026-04-07,SWZ-004;SWZ-026,SWZ-022=point-of-care,
+SWZ,emr,last12,qualifier,advancing,2026-06-12,SWZ-001;SWZ-012;SWZ-019;SWZ-025;SWZ-029,,
+SWZ,emr,clinics,coverage,share:73%,2026-04-07,SWZ-002,SWZ-020=share:75%,

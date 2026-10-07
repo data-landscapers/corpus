@@ -1,0 +1,94 @@
+{
+  "slug": "2026-05-01-mus-e-health-le-ministre-bachoo-promet-une-acceleration-du-chantier",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "L'Express reports health minister Anil Bachoo telling Parliament that the e-Health project, launched in 2022 with UNDP, is run on a portfolio approach with UNDP in charge from the start of procurement and overall management; the article is dated May 2026 and gives no other date for this, so its published date is used.",
+      "as_of": "2026-05",
+      "date_precision": "month",
+      "system": "e-Health",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "L'Express reports the health minister saying his ministry accelerated the e-Health project after November 2024, and that an inter-ministerial committee co-chaired by the ministers of health and of information technology meets regularly to clear operational obstacles; undated, so the article's published date is used.",
+      "as_of": "2026-05",
+      "date_precision": "month",
+      "system": "e-Health",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T2;T3",
+      "fact": "L'Express reports the health minister saying the e-Health system is already operational at New Flacq Hospital, where testing began on 23 August 2025, and in several primary health care structures of the same region, which the article neither names nor counts; the statement is undated, so the article's published date is used.",
+      "as_of": "2026-05",
+      "date_precision": "month",
+      "system": "e-Health",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "L'Express reports the health minister saying the e-Health system covers the full outpatient cycle from registration through appointments, consultation, laboratory investigations and medication to follow-up, with nursing, doctor and pharmacy modules added to phase 1 towards a paperless patient experience, and that by 30 April 2026 it had recorded more than 126,000 patient registrations, 225,000 visits and 221,000 medical consultations.",
+      "as_of": "2026-04-30",
+      "date_precision": "day",
+      "system": "e-Health",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "L'Express reports the health minister saying that, following a test phase begun at New Flacq Hospital on 23 August 2025, the e-Health system is operational in several primary health care structures of that region; no number of clinics and no denominator is given, and the article's published date is used.",
+      "as_of": "2026-05",
+      "date_precision": "month",
+      "system": "e-Health",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "L'Express reports the health minister saying the e-Health test phase began on 23 August 2025 at New Flacq Hospital, the site judged best prepared, and that the system is now operational there and in several primary health care structures of the region.",
+      "as_of": "2025-08-23",
+      "date_precision": "day",
+      "system": "e-Health",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "L'Express reports the health minister telling Parliament that by 30 April 2026 the e-Health application had recorded more than 126,000 patient registrations, 225,000 visits and 221,000 medical consultations, with deployment scheduled at New Flacq Hospital during May 2026, Jawaharlal Nehru Hospital by September 2026, Sir Seewoosagur Ramgoolam National Hospital in March 2027 and Dr A.G. Jeetoo and Victoria hospitals no earlier than December 2027, subject to electrical and connectivity works.",
+      "as_of": "2026-04-30",
+      "date_precision": "day",
+      "system": "e-Health",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Health",
+      "country_label": "projet e-Health; phase 1 modules: patient administration system, e-Health portal and mobile application, blood transfusion service management, analytical reporting and dashboards, plus nursing, doctor and pharmacy modules",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health, with UNDP in charge of procurement and overall management; inter-ministerial committee co-chaired by the health and information technology ministers",
+      "tiers": "operational at New Flacq Hospital and several primary health care structures of its region (May 2026); Jawaharlal Nehru, SSRN, Dr A.G. Jeetoo and Victoria hospitals scheduled; Rodrigues to be considered"
+    },
+    {
+      "system": "laboratory information management system",
+      "country_label": "système de gestion des informations de laboratoire",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; its integration is part of e-Health phase 1"
+    }
+  ],
+  "note": "No HMIS fact: the article describes no routine aggregate reporting system. Tier values are a reading: the article calls New Flacq simply a hospital and the primary sites 'structures de santé primaire' without type, so T2 and T3 are the nearest values, not the document's own words. The minister also says the legal standing of electronic records is to be referred to the Parquet, and that delays before November 2024 came from poor planning and unready sites (electrical works, connectivity); no finance source is stated beyond three modules being added at no extra cost to government."
+}

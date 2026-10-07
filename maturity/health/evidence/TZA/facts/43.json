@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-01-tza-advancing-tanzanias-information-systems-interoperability-agenda",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "The UDSM DHIS2 Lab reports that a workshop led by the Ministry of Health Zanzibar and the lab validated end-to-end data flows from vertical-programme and point-of-service systems into ZHMIS, Zanzibar's HMIS, through the Zanzibar Health Information Layer, and moved the integration towards the live environment; the page is undated, so its published date, itself a proxy, is used.", "as_of": "2025-10-01", "date_precision": "day", "system": "ZHMIS", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "ZHMIS", "country_label": "ZHMIS (the page calls it the national HMIS)", "class": "hmis", "platform": "", "owner": "Ministry of Health Zanzibar leads the work described; ownership of ZHMIS is not stated", "tiers": "not stated; Zanzibar"},
+    {"system": "Zanzibar Health Information Layer", "country_label": "Zanzibar Health Information Layer", "class": "exchange", "platform": "", "owner": "Ministry of Health Zanzibar, with the UDSM DHIS2 Lab giving technical leadership", "tiers": "not stated; Zanzibar"},
+    {"system": "ZanHFR", "country_label": "ZanHFR", "class": "exchange", "platform": "", "owner": "", "tiers": "not stated; an authoritative registry used as single source of truth"},
+    {"system": "vertical program systems (point-of-service applications)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "point of service; not otherwise stated"}
+  ],
+  "note": "Everything described is in Zanzibar, not the mainland. ZHMIS is classed hmis on the page's own description (the HMIS, routine reporting); its platform is not named. The date is a proxy on an undated page."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-sle-hiring-of-a-consulting-firm-to-develop-customize-deploy-manage-and-mai",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Health's project unit IHPAU issued a request for expressions of interest on 18 December 2025, closing 15 January 2026, for a firm to customise, deploy and maintain an OpenMRS-based EMR in an initial phase across 300 health facilities, 250 PHUs and 50 hospitals.", "as_of": "2025-12-18", "date_precision": "day", "system": "Electronic Medical Record (EMR) System", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The request for expressions of interest states that the Ministry of Health is the body seeking the firm to customise, deploy and sustain the EMR, procured through its Integrated Health Projects Administration Unit.", "as_of": "2025-12-18", "date_precision": "day", "system": "Electronic Medical Record (EMR) System", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "The request states that the initial phase of EMR deployment across 300 facilities is financed from a grant by the Large Anonymous Donor to the Government's SRHR project.", "as_of": "2025-12-18", "date_precision": "day", "system": "Electronic Medical Record (EMR) System", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The request states that the Ministry developed a National Digital Health Strategy in 2018 and a National Digital Health Roadmap in 2024 to operationalise it, and that an EMR work plan exists which the consultant is to review.", "as_of": "2025-12-18", "date_precision": "day", "system": "Electronic Medical Record (EMR) System", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Electronic Medical Record (EMR) System", "country_label": "EMR", "class": "emr", "platform": "OpenMRS (bespoke version to be developed)", "owner": "Ministry of Health (IHPAU procuring)", "tiers": "planned: 250 PHUs and 50 hospitals, hub and spoke facilities"}
+  ],
+  "note": ""
+}

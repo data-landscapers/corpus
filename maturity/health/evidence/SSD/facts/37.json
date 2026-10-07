@@ -1,0 +1,150 @@
+{
+  "slug": "2025-12-01-south-sudan-annual-health-sector-performance-report-2024-25",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:30%",
+      "fact": "The Ministry of Health reports that 30% of health facilities report directly through DHIS2 in 2025, against an HSSP target of 55%, these being the facilities equipped with tablets and computers; the share is of all health facilities and no numerator or denominator is given, and completeness of the OPD and inpatient form (MOH F01A) in DHIS2 was 52.15% in 2024/25.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The Ministry of Health reports that in 2025 the 30% of health facilities equipped with tablets and computers enter their own reports directly in DHIS2, and that facilities providing TB and HIV services were given tablets and data bundles to do so.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Ministry of Health states that hospitals and PHCCs often lack the computers, stable internet and trained staff to enter data directly into DHIS2, so that data entry is frequently centralised or delayed; it does not name the level at which the entry is done (FY 2024/25).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The Ministry of Health's assessment of health service institutions finds that many hospitals submit DHIS2 reports regularly and that DHIS2 reporting is common among them, with monthly reporting and verification inconsistent in some and internal data tools not yet linked (FY 2024/25).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Minister of Health calls DHIS2 the official national health information platform and asks all stakeholders to avoid parallel platforms; in FY 2024/25 the ministry operationalised a monthly M&E Technical Working Group and wrote a Data Governance Framework into its HMIS SOPs.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Health Sector Strategic Plan 2023-2027 sets targets for the proportion of health facilities reporting directly through DHIS2 of 55% by 2025 and 90% by 2027, as the Ministry of Health's report tabulates them; the same report records a HIS maturity score of 13% for strategic planning and 7% for HIS financing.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of Health reports that in FY 2024/25 ICT hardware, solar power and Starlink connectivity were deployed to selected health facilities, a facility data clean-up validated about 70% of facilities in DHIS2 as the master facility list, and over 500 facilities were matched between DHIS2 and EWARS.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "official national health information platform; HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "monthly forms (MOH F01A OPD and inpatient, F02 safe motherhood, F03 EPI, F10 HIV testing) from health facilities; 30% of facilities report directly; many hospitals report regularly"
+    },
+    {
+      "system": "Boma Health Initiative reporting form in DHIS2",
+      "country_label": "BHI reporting form",
+      "class": "community",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "community (boma health workers); 44.2% of expected reports submitted in 2024, reported in DHIS2"
+    },
+    {
+      "system": "EWARS",
+      "country_label": "Early Warning, Alert and Response System",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "main platform for weekly IDSR reporting; not yet interoperable with DHIS2, over 500 facilities matched"
+    },
+    {
+      "system": "eLMIS",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "mSupply (open source)",
+      "owner": "",
+      "tiers": "81 health facilities across seven states; offline-capable, integrates with DHIS2"
+    },
+    {
+      "system": "eLIMS",
+      "country_label": "national electronic Laboratory Information Management System",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "laboratory network; not integrated with DHIS2"
+    },
+    {
+      "system": "Viral Load Management System (VLMS)",
+      "country_label": "VLMS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "with GeneXpert at 64 point-of-care testing sites; not integrated with DHIS2"
+    },
+    {
+      "system": "NIS",
+      "country_label": "NIS (nutrition information)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; runs in parallel with DHIS2 for nutrition reporting"
+    },
+    {
+      "system": "Birth notification (MOH F1B) in DHIS2",
+      "country_label": "Birth notification",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "pilot at health facilities; 2% of live births notified"
+    },
+    {
+      "system": "Hospitals' internal data systems",
+      "country_label": "internal systems; in-house data tools",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "hospitals; not described, not fully linked to DHIS2"
+    }
+  ],
+  "note": ""
+}

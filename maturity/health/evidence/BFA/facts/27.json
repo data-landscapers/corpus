@@ -1,0 +1,66 @@
+{
+  "slug": "2025-04-01-bfa-annuaire-statistique-2024",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The Ministry of Health's 2024 statistical yearbook states that health facilities' activity reports go to the district health information and epidemiological surveillance centres (CISSE), and hospital units' reports to the hospital information services (SPIH/SIM), by the 5th of the following month, and that district and hospital data managers have until the 20th to key them into the online platform Endos-BF and check their quality.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The Ministry of Health's 2024 statistical yearbook states that Endos-BF is also keyed by head nurses of health posts (infirmiers chefs de poste), and that in the health districts implementing decentralised entry the heads of health facilities enter their monthly activity reports themselves by the 5th of the following month; it does not say how many districts do so.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The 2024 yearbook states that Endos-BF takes the monthly activity reports of health facilities, public and private, headed by infirmiers chefs de poste, and of the units of the regional and university hospitals (CHR/CHU), validated by each regional health directorate by the 25th of the following month.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The 2024 yearbook's methodological note says facility heads key their own monthly reports in the districts implementing decentralised entry, and gives no number or share of facilities or districts doing so in the passages read.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The 2024 yearbook, issued in April 2025 by the Ministry of Health's Direction générale des études et des statistiques sectorielles, states that the technical team of its Direction des statistiques sectorielles et de l'évaluation takes over the Endos-BF data after regional validation.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)",
+      "country_label": "Endos-BF",
+      "class": "hmis",
+      "platform": "online platform; software not named in the passages",
+      "owner": "Ministry of Health, DGESS / Direction des statistiques sectorielles et de l'évaluation",
+      "tiers": "health facilities (public and private), district CISSE, regional and university hospitals (CHR/CHU), regional health directorates"
+    }
+  ],
+  "note": "Passages file: the methodological note only, of a 198,209-word yearbook, and it breaks off mid-sentence; any reporting-completeness or facility-count tables are not in it, so the clinics value says only that the passages give no figure. The yearbook calls the whole the système national d'information sanitaire."
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "2024-02-27-dza-algerie-eco-dossier-electronique-patient-numero-national",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "shared",
+      "fact": "Algérie Eco, reproducing APS, reports that the Minister of Health presented to hospital directors on Monday 26 February 2024 a new version of the patient's electronic record carrying a national identification number for each patient and holding all the patient's personal and medical data, which he said any hospital establishment in the country can access; the article does not say where the record is keyed or how many establishments use it.",
+      "as_of": "2024-02-26",
+      "date_precision": "day",
+      "system": "dossier électronique du patient",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Algérie Eco, reproducing APS, reports that the Ministry of Health itself updated the patient's electronic record and its minister presented the new version on 26 February 2024, the update drawing on nearly 700 proposals from specialists and heads of the sector's establishments; no partner or vendor is named.",
+      "as_of": "2024-02-26",
+      "date_precision": "day",
+      "system": "dossier électronique du patient",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier électronique du patient",
+      "country_label": "dossier électronique du patient; dossier numérique du patient",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "hospital establishments across the country, as the places able to access it; use is not quantified"
+    }
+  ],
+  "note": "The minister's figure that digitisation of the health sector has reached 97% is a statement about the sector, not about the record or about clinics, and gives no fact; no numerator, denominator or date is given for it."
+}

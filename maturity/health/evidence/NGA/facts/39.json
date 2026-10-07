@@ -1,0 +1,78 @@
+{
+  "slug": "2025-06-01-nga-nhmis-bulletin-june-2025-edition",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "The Federal Ministry of Health's NHMIS bulletin gives the national health facility reporting rate for the NHMIS Monthly Summary (Version 2019) on DHIS-2 as 91.5% for June 2025 (93.4, 93.1, 90.9, 92.1 and 91.4% for January to May), and charts the rate by facility type, primary, secondary and tertiary, and by public and private ownership; no numerator or denominator is given.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "National Health Management Information System (NHMIS), DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The Federal Ministry of Health encourages states to continue to deploy mobile devices and computers for direct reporting to the DHIS-2, as more cost effective and better for data quality; it gives no count of facilities reporting directly.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "National Health Management Information System (NHMIS), DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The NHMIS monthly bulletin of routine facility data (attendance, deliveries, immunisation, malaria cases, under-5 deaths) is issued by the Federal Ministry of Health, which also gives state HMIS officers access to its national platforms.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "National Health Management Information System (NHMIS), DHIS-2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Health Management Information System (NHMIS)",
+      "country_label": "NHMIS",
+      "class": "hmis",
+      "platform": "DHIS-2",
+      "owner": "Federal Ministry of Health",
+      "tiers": "primary, secondary and tertiary facilities, public and private, reporting monthly"
+    },
+    {
+      "system": "National MSDAT Platform",
+      "country_label": "MSDAT",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Health",
+      "tiers": "national analytics platform comparing routine, survey and global-estimate data"
+    },
+    {
+      "system": "National Health Service Uptake Dashboard",
+      "country_label": "Nigeria Health Analytical Tool",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Health",
+      "tiers": "national dashboard of monthly service uptake drawn from NHMIS facility reports"
+    },
+    {
+      "system": "National Digital ISS/DQA Platform",
+      "country_label": "digital Integrated Supportive Supervision / Data Quality Assessment tools",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Health",
+      "tiers": "states and the FCT; access for state HMIS officers, SPHCDA and LGA M&E officers"
+    },
+    {
+      "system": "Health Facility Registry",
+      "country_label": "Health Registry (hfr.health.gov.ng)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Ministry of Health",
+      "tiers": "national list of approved health facilities"
+    }
+  ],
+  "note": "The by-state and by-facility-type rates in the extracted charts are not reliably aligned to their labels, so only the national rate is taken."
+}

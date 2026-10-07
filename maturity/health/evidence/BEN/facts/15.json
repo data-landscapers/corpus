@@ -1,0 +1,54 @@
+{
+  "slug": "2023-12-01-ben-dppd-2024-2026-ministere-de-la-sante-019",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The health ministry's 2024-2026 programme budget names its Direction des Systèmes d'Information (DSI) as the structure responsible for the indicator on health facilities whose statistics are integrated in SNIGS, with DHIS 2 as the indicator's source, and places DSI in charge of the budget action for information systems; the document gives no date for this, so its cover date of December 2023 is used.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "SNIGS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The health ministry's programme budget allocates action 045006, information systems and pre-archiving, run by DSI, 590,406,313 FCFA in 2024 and the same in 2025 and 2026: 154,556,313 for staff, 135,850,000 for goods and services and 300,000,000 of capital from domestic resources, with nothing from external resources; the line is for the directorate's information systems and does not name SNIGS or DHIS 2.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "SNIGS",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The health ministry's costed programme document for 2024-2026 sets targets for the proportion of health facilities whose private health statistics yearbook is integrated in SNIGS, of 80 per cent in 2024 and 85 per cent in 2025 and 2026 against an undated reference value of 70 per cent, measured from DHIS 2 by DSI; it also says the national health plan it rests on is the PNDS 2018-2022 and that a new one is still being drawn up.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "SNIGS",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SNIGS",
+      "country_label": "SNIGS",
+      "class": "hmis",
+      "platform": "DHIS 2",
+      "owner": "Ministère de la Santé, Direction des Systèmes d'Information (DSI)",
+      "tiers": "health facilities, private ones included, whose statistics are integrated; no tier named"
+    },
+    {
+      "system": "Plateforme de gestion des évacuations sanitaires",
+      "country_label": "plateforme de gestion des évacuations sanitaires",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Santé",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

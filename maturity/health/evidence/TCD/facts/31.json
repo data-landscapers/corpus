@@ -1,0 +1,13 @@
+{
+  "slug": "2024-07-01-tcd-analyse-des-indicateurs-de-sante-reproductive-maternelle-neonatale-inf",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "tiers", "value": "T1;T2", "fact": "The Countdown to 2030 country team states that hospitals, which handle nearly half of deliveries, have reported weakly in recent years because their migration from the old health information system to DHIS2 is very slow and resisted by staff, that support to the hospitals has run since 2022 to complete the migration, and that the hospital reporting forms were revised at the end of 2023, delaying data entry.", "as_of": "2023", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The Countdown to 2030 country team reports facility reporting rates above 90% since 2020 and the share of districts whose monthly reports are at least 90% complete over a year rising from 78% in 2019 to 83% in 2023, with 2023 completeness held down by hospitals and by some hard-to-reach districts without internet coverage; it gives no share or count of health centres entering their own reports.", "as_of": "2023", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "last12", "value": "advancing", "fact": "The Countdown to 2030 country team, meeting in April 2024, states that the country began integrating the data of private health facilities into its health information system (DHIS2) the previous December and that the process was still under way; private facilities' data had not been counted in earlier years.", "as_of": "2023-12", "date_precision": "month", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "système d'information sanitaire (DHIS2)", "class": "hmis", "platform": "DHIS2", "owner": "not stated", "tiers": "routine monthly reports of health facilities by district, migration begun at the end of 2019 with all operational levels brought in during 2021; hospitals migrating slowly; private facilities being integrated from December 2023; district-level data for 2019-2021 not available nationally"},
+    {"system": "ancien système d'information sanitaire", "country_label": "ancien système d'information sanitaire", "class": "", "platform": "not stated", "owner": "not stated", "tiers": "the system hospitals are migrating from; not described"}
+  ],
+  "note": ""
+}

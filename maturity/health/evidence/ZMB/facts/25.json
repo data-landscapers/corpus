@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-zmb-zambia-analysis-of-reproductive-maternal-newborn-child-and-adolescent",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "The Countdown to 2030 country team (University of Zambia and Ministry of Health) states that 99% of expected monthly facility reports (mean of antenatal care, delivery, immunisation and outpatient forms) were in DHIS2 in 2024, against 93% in 2019, with 99% of districts at 90% completeness or more; it gives no count or share of facilities entering their own reports and does not say where the data are keyed.", "as_of": "2024", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+  ],
+  "systems": [
+    {"system": "DHIS2", "country_label": "", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "health facilities reporting monthly on antenatal care, delivery, immunisation, outpatient and inpatient services; tiers not stated"}
+  ],
+  "note": ""
+}

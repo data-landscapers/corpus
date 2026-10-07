@@ -1,0 +1,74 @@
+{
+  "slug": "2025-10-22-dji-implementation-status-results-report-djibouti-health-system-strengthen",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:84%",
+      "fact": "The World Bank's results table for the Health System Strengthening Project (P178033) records 84% of facilities with DHIS-2 data entry at the facility level at 30 June 2025, against an end target of 65% for May 2027; the share is of facilities, not of primary clinics alone, and no numerator or denominator is given.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:69%",
+      "fact": "The World Bank's results table records, as the previous actual, 69% of facilities with DHIS-2 data entry at the facility level at 31 December 2024; the share is of facilities, not of primary clinics alone, and no numerator or denominator is given.",
+      "as_of": "2024-12-31",
+      "date_precision": "day",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:35%",
+      "fact": "The World Bank's results table gives a baseline of 35% of facilities with DHIS-2 data entry at the facility level in May 2022; the share is of facilities, not of primary clinics alone, and no numerator or denominator is given.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The World Bank's comment on its indicator of DHIS-2 data entry at the facility level, 84% at 30 June 2025, states that some health facilities use DHIS-2 directly while others track data on paper and submit it immediately.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "DHIS-2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank's results table shows the share of facilities with DHIS-2 data entry at the facility level rising from 69% at 31 December 2024 to 84% at 30 June 2025.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "DHIS-2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS-2",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "84% of facilities with data entry at the facility level (30 June 2025); the others on paper, submitted onward"
+    },
+    {
+      "system": "National Logistics Management Information System (eLMIS)",
+      "country_label": "eLMIS",
+      "class": "single-function",
+      "platform": "mSupply",
+      "owner": "",
+      "tiers": "44% of facilities connected at 30 June 2025 (37% at 31 December 2024; target 65% by May 2027); the comment still reads 23 of 62 health facilities connected to mSupply"
+    }
+  ],
+  "note": "DHIS-2 is classed hmis on the indicator's own wording, facility-level data entry with paper submission as the alternative; the document does not say what data is entered. The eLMIS comment's 23 of 62 is 37%, the previous period's figure, beside a current value of 44%; it does give 62 as a count of health facilities, which the DHIS-2 indicator does not. mSupply's 15-facility pilot was financed by the Global Fund and its expansion by Gavi and the Bank. The report also mentions co-financing agreements to expand digital logistics systems for drugs, vaccines and laboratories, unnamed, and an unnamed central database for under-5 growth monitoring (58% at 30 June 2025); neither is entered as a system."
+}

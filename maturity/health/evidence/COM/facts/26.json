@@ -1,0 +1,96 @@
+{
+  "slug": "2026-05-01-com-rapport-annuel-des-resultats-2025-oms-comores",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:100%",
+      "fact": "WHO Comoros reports DHIS2 extended to 91 public-level health structures in 2025, which it gives as 100% of public-level structures; the figure is of all public structures the system reaches, not of primary clinics alone, and the report does not say whether each structure keys its own reports.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "WHO Comoros states DHIS2 reached all 91 public-level health structures (100%) in 2025 and calls this a national extension; the report names no tier, so every tier is read from 'all public structures' only.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "During 2025, with WHO support, DHIS2 was extended to the 91 public structures, validation rules were put into DHIS2, a data quality self-assessment (DQS) was run, a standard data-management procedures manual was written and the WHO SCORE survey and an assessment of the health information system's functionality were carried out.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Three quarterly national health information bulletins were produced and circulated in 2025 with WHO support, and WHO Comoros says bulletins (quarterly, half-yearly, annual) have been issued regularly since 2023, crediting the national extension of DHIS2 and better data completeness.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS 2 / système d'information sanitaire (SIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "not stated; WHO supports it and the Direction de l'Information et des Statistiques Sanitaires (DISS) appears only in the acronym list",
+      "tiers": "91 public-level health structures, 100% of public-level structures (2025)"
+    },
+    {
+      "system": "SIMR surveillance data entry in DHIS2 and KoboCollect",
+      "country_label": "Surveillance Intégrée de la Maladie et la Riposte (SIMR)",
+      "class": "single-function",
+      "platform": "DHIS2; KoboCollect",
+      "owner": "not stated; WHO supplied training, logistics and daily follow-up of data entry",
+      "tiers": "surveillance focal points in the districts of Ngazidja, Anjouan and Mohéli, with regional and central levels"
+    },
+    {
+      "system": "ODK/PADACOR",
+      "country_label": "plateforme ODK/PADACOR",
+      "class": "single-function",
+      "platform": "ODK",
+      "owner": "not stated; Ministry of Health campaign with WHO technical and financial support",
+      "tiers": "measles-rubella campaign of 4 to 8 October 2025: 13 forms, 879 phones issued by WHO, real-time monitoring and geolocation"
+    },
+    {
+      "system": "EIOS",
+      "country_label": "plateforme EIOS",
+      "class": "single-function",
+      "platform": "EIOS (WHO)",
+      "owner": "WHO platform; 25 national surveillance staff trained in 2025",
+      "tiers": "national surveillance staff, with the environment ministry and INRAPE"
+    },
+    {
+      "system": "Système d'information des ressources humaines en santé",
+      "country_label": "système d'information des ressources humaines en santé",
+      "class": "single-function",
+      "platform": "not stated; integrated into the Ministry of Health website",
+      "owner": "Ministry of Health, set up with WHO support in 2025",
+      "tiers": "not stated"
+    },
+    {
+      "system": "GLASS",
+      "country_label": "système mondial GLASS",
+      "class": "single-function",
+      "platform": "GLASS (WHO global antimicrobial resistance surveillance)",
+      "owner": "WHO; Comoros joined in 2024 and sent its first national data",
+      "tiers": "reference laboratories CHN El Maarouf and INRAPE"
+    }
+  ],
+  "note": ""
+}

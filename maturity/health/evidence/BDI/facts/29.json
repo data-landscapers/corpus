@@ -1,0 +1,36 @@
+{
+  "slug": "2025-07-01-bdi-rapport-annuel-2024",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO Burundi reports that in 2024 it assessed the functionality of the national health information system (SNIS) and digitised the DHIS2 data collection tools, and that health data were produced with timeliness and completeness of 99.6%; it does not say at which level the tools are used or how many facilities use them.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "SNIS (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "WHO Burundi states that in 2024 it gave technical and financial support to the quarterly coordination meetings of the partners strengthening the SNIS and to the health districts' data review and analysis meetings; no government budget line for the system is mentioned.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "SNIS (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "SNIS (DHIS2)", "country_label": "Système National d'Information Sanitaire (SNIS)", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "not stated; data reviewed at health-district meetings"},
+    {"system": "MEDEXIS", "country_label": "MEDEXIS", "class": "single-function", "platform": "MEDEXIS", "owner": "", "tiers": "drug tracing from CAMEBU down to the health district; 359 ministry staff trained at central level and in 11 districts of 3 provincial health offices, enabling use in 172 health facilities (2024)"},
+    {"system": "e-Surv Compagnon", "country_label": "e-Surv Compagnon", "class": "single-function", "platform": "", "owner": "", "tiers": "routine polio surveillance; 183 surveillance focal points and district team members trained (2024)"},
+    {"system": "EIOS", "country_label": "", "class": "", "platform": "EIOS", "owner": "", "tiers": "35 central-level staff certified (2024)"},
+    {"system": "GLASS", "country_label": "", "class": "single-function", "platform": "GLASS", "owner": "WHO (global platform)", "tiers": "antimicrobial resistance surveillance data reported by WHO"},
+    {"system": "ODK Collect", "country_label": "", "class": "", "platform": "ODK", "owner": "", "tiers": "28 supervisions of vaccine-preventable-disease surveillance (2024)"},
+    {"system": "Kobocollect", "country_label": "", "class": "", "platform": "KoboCollect", "owner": "", "tiers": "infection prevention and control assessments in 46 mpox treatment facilities (2024)"},
+    {"system": "Observatoire National de Santé (ONS)", "country_label": "Observatoire National de Santé", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The SNIS is classed hmis because the report ties it to the statistical yearbook, district data reviews and DHIS2 collection tools, though it never describes monthly facility reporting as such. The 99.6% timeliness and completeness figure is given without numerator, denominator or system name. Not a system: ICD-11 (CIM-11) deployed in 13 district hospitals in 2024. Nothing on tiers, where data is keyed, clinic counts or any EMR. The document has no printed date; all facts are dated to the report year 2024."
+}

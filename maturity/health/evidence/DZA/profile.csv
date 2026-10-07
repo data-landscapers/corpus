@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,hmis,governance,qualifier,,,,,nothing held
+DZA,hmis,governance,qualifier,owner:ministry;plan:none,2023-12,DZA-008;DZA-009,,not stated: finance
 DZA,hmis,tiers,coverage,,,,,nothing held
 DZA,hmis,digitised,coverage,,,,,nothing held
 DZA,hmis,last12,qualifier,,,,,nothing held
 DZA,hmis,clinics,coverage,,,,,nothing held
-DZA,emr,governance,qualifier,owner:ministry,2026-08-16,DZA-003,,"not stated: plan, finance"
-DZA,emr,tiers,coverage,T1;T2,2026-09-08,DZA-007,DZA-002=none,
-DZA,emr,digitised,coverage,,,,,nothing held
+DZA,emr,governance,qualifier,owner:ministry,2026-08-16,DZA-003,DZA-011=owner:ministry;DZA-014=owner:ministry,"not stated: plan, finance"
+DZA,emr,tiers,coverage,T1;T2,2026-09-08,DZA-007,DZA-002=none;DZA-013=none;DZA-012=T1,
+DZA,emr,digitised,coverage,shared,2024-02-26,DZA-010,,
 DZA,emr,last12,qualifier,advancing,2026-09-08,DZA-001;DZA-006,,
 DZA,emr,clinics,coverage,,,,,nothing held

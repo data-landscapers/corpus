@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-STP,hmis,governance,qualifier,owner:ministry,2021,STP-004,STP-005=owner:ministry,nothing dated since 2023-10-06
+STP,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2023,STP-007;STP-009;STP-012,STP-010=owner:ministry;STP-011=plan:current;STP-004=owner:ministry;STP-005=owner:ministry,
 STP,hmis,tiers,coverage,,,,,nothing held
 STP,hmis,digitised,coverage,,,,,nothing held
-STP,hmis,last12,qualifier,,,,,nothing held
+STP,hmis,last12,qualifier,advancing,2025,STP-006;STP-008,,
 STP,hmis,clinics,coverage,,,,,nothing held
-STP,emr,governance,qualifier,,,,,nothing held
-STP,emr,tiers,coverage,,,,,nothing held
-STP,emr,digitised,coverage,,,,,nothing held
+STP,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2022-09,STP-015;STP-016;STP-018,STP-017=owner:ministry,nothing dated since 2023-09-28
+STP,emr,tiers,coverage,T1,2022-09,STP-013,,nothing dated since 2023-09-28
+STP,emr,digitised,coverage,point-of-care,2022-07-26,STP-019,,nothing dated since 2023-09-28
 STP,emr,last12,qualifier,,,,,nothing held
-STP,emr,clinics,coverage,,,,,nothing held
+STP,emr,clinics,coverage,pilot,2022-09,STP-014;STP-020,,nothing dated since 2023-09-28

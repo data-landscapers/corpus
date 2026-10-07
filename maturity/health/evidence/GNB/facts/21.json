@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-11-gnb-worldbank-pad-p179509-human-capital-project",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages hold the acronym list and six results-framework entries naming DHIS2 as the data source, collected annually by routine data collection; the indicators themselves are not in the passages and nothing is stated about what the system reports, who runs it, where it is keyed or which tiers use it."
+}

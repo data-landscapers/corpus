@@ -1,0 +1,114 @@
+{
+  "slug": "2026-02-01-south-sudan-who-annual-report-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO reports that the first national DHIS2 audit, held in 2025, found 44.3% reporting completeness and 37.3% timeliness and led to a Technical Roadmap to merge duplicate datasets, correct indicator formulas and improve data structures.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "WHO reports that in the third quarter of 2025 six national HMIS tools, the drug dispensing registers and monthly reporting vouchers for hospitals, PHCCs and PHCUs, were validated, approved and configured in DHIS2 with harmonised coding, and that EWARS was linked with DHIS2 and PLMIS.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "WHO states that monthly reporting vouchers for hospitals, primary health care centres (PHCCs) and primary health care units (PHCUs) are configured in DHIS2 as of the third quarter of 2025; it does not say at which level they are keyed.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "WHO reports that the Minister of Health names DHIS2 as South Sudan's national health information system and urges partners to report through it rather than parallel systems, and that technical working groups coordinate the HIS nationally and at state level under a DHIS2 support framework, which WHO calls government-led.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "WHO reports that the 2025 national DHIS2 audit guided a Technical Roadmap for fixing DHIS2 (merging duplicate datasets, correcting indicator formulas, improving data structures); no cost or period is given.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national health information system (HMIS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with WHO support",
+      "tiers": "monthly reporting vouchers for hospitals, PHCCs and PHCUs configured in it; only 10% of designated EmONC facilities reported post-abortion care through it in early 2025"
+    },
+    {
+      "system": "EWARS",
+      "country_label": "Early Warning, Alert and Response System",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "IDSR/EWARS implementing facilities; linked with DHIS2 and PLMIS in 2025"
+    },
+    {
+      "system": "PLMIS",
+      "country_label": "PLMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; linked with EWARS and DHIS2"
+    },
+    {
+      "system": "HERMES",
+      "country_label": "HERMES platform",
+      "class": "single-function",
+      "platform": "",
+      "owner": "WHO (launched in 2025 for emergency logistics)",
+      "tiers": "end-to-end digital tracking of supply requisitions, approvals and deliveries; tiers not stated"
+    },
+    {
+      "system": "eSurv and the Companion App",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "polio surveillance: geo-tagged reporting of site visits, over 6,000 submissions in 2025"
+    },
+    {
+      "system": "Open Data Kit (ODK) real-time supportive supervision",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "ODK",
+      "owner": "WHO preparedness programme (tested in early 2025)",
+      "tiers": "surveillance supervision; tiers not stated"
+    },
+    {
+      "system": "Epidemic Intelligence from Open Sources (EIOS)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "EIOS",
+      "owner": "WHO preparedness programme (introduced on test in early 2025)",
+      "tiers": "not stated"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "2022-07-26-stp-joint-programme-final-narrative-report-reaching-the-furthest-behind-fi",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Joint SDG Fund programme's final report, dated 26 July 2022, states that DHIS2 was adopted as the main information software of the Ministry of Health and that the Single Process module for patient files was developed inside it, with field supervision by the ministry's epidemiology directorate and Health Information System.",
+      "as_of": "2022-07-26",
+      "date_precision": "day",
+      "system": "Single Process module (DHIS2)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The report states that the DHIS2 work was paid for by the joint programme with support from the University of Oslo, Gavi and the Global Fund, that the French and Canadian cooperations bought IT material, and that rolling the Single Process out beyond the pilot will be done with funding from other donors; it names no domestic budget for it, as at 26 July 2022.",
+      "as_of": "2022-07-26",
+      "date_precision": "day",
+      "system": "Single Process module (DHIS2)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "digitised",
+      "value": "point-of-care",
+      "fact": "The report states that IT equipment was bought so that patient data is entered from reception through the nurses and doctors, each patient's file being reached by a bar code sticker and scanner, and that a performance-based incentive was paid to health professionals for capturing data during the transition from paper to online filling; 8 bar code scanners and 2 bar code printers are listed among the equipment, as at 26 July 2022.",
+      "as_of": "2022-07-26",
+      "date_precision": "day",
+      "system": "Single Process module (DHIS2)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "pilot",
+      "fact": "The report states that the Single Process has not been rolled out to other districts and that its implementation still needs consolidating in the first pilot district, Água Grande; it gives no count of facilities using it, as at 26 July 2022.",
+      "as_of": "2022-07-26",
+      "date_precision": "day",
+      "system": "Single Process module (DHIS2)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Single Process module (DHIS2)",
+      "country_label": "Single Process; Unique Process",
+      "class": "emr",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "pilot district of Água Grande; not rolled out to other districts"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "District Health Information System II (DHIS2); the information system chosen by the country",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Health Information System",
+      "tiers": "district managers monitor health facility data and central teams monitor district data; equipment distributed across the districts in 2021"
+    },
+    {
+      "system": "DHIS2 individual tracker",
+      "country_label": "DHIS2 Tracker; individual follow-up module",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Ministry of Health",
+      "tiers": "21,668 Single Social Registry members loaded for the districts of Água Grande, Mé-Zóchi and Lembá; care received at health centres and posts of the three pilot districts"
+    },
+    {
+      "system": "HIV Patient Tracking, HIV testing (DIPS) and TB Patient Tracking modules",
+      "country_label": "HIV Patient Tracking; DIPS; TB Patient Tracking",
+      "class": "tracker",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "External Consultation and Inpatient modules",
+      "country_label": "External Consultation; Inpatient",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": ""
+    },
+    {
+      "system": "Malaria Notification and Investigation, COVID-19 surveillance and Death Registry modules",
+      "country_label": "Malaria Notification and Investigation; COVID-19 surveillance; Death Registry",
+      "class": "single-function",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "malaria notification in all health units, health centres and hospitals"
+    },
+    {
+      "system": "COVID-19 vaccine module",
+      "country_label": "COVID-19 vaccine module",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "national"
+    },
+    {
+      "system": "Single Social Registry to DHIS2 interoperability platform",
+      "country_label": "interoperability between the Single Social Registry (SSR, CSU) and the DHIS2 tracker",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Labour social protection directorate and Ministry of Health",
+      "tiers": "semi-automated weekly synchronisation, set in May 2022"
+    }
+  ],
+  "note": "No hmis fact: the report describes DHIS2 by its patient-level modules and does not describe routine aggregate reporting, its tiers or where it is keyed."
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "2025-11-01-ssd-south-sudan-health-sector-transformation-project-hstp-p181385-world-ba",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank's mid-term review mission of 27 October to 14 November 2025 records that the M&E technical working group for HMIS integration was revitalised, HMIS SOPs and revised tools were being finalised and customised in DHIS2, and facilities in DHIS2 were verified with State Ministries of Health and closed or non-existent ones removed, raising completeness for forms such as OPD and malaria.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The project's results framework gives completeness of reporting by facilities as 58% for July 2024 to September 2025 against a 41% baseline and a 60% year-one target, rated constrained; reporting rates among HSTP-supported facilities are put above 85%.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The mission records that procurement of laptops, printers and accessories for data collection and reporting had begun, for delivery in January 2026 to selected county and state hospitals; selecting high-volume PHCCs for computers and buying Starlink for project facilities were still open actions as of 28 July 2025.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank records HMIS strengthening as subcomponent 2.4 of the Health Sector Transformation Project, financed by IDA grants and a multi-donor trust fund and implemented by WHO, with UNDP/Global Fund and UNICEF also funding HMIS activities and the printing of HMIS tools; the government's US$8 million counterpart funding had not been deposited.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank names a Ministry of Health HMIS department and a Department of M&E as the counterparts for DHIS2 and the HMIS tools, with WHO carrying out the strengthening work under the project.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health (HMIS department; Department of M&E), supported by WHO under HSTP",
+      "tiers": "health facilities report into it (OPD, malaria and other forms); laptops due for selected county and state hospitals; tiers of direct entry not stated"
+    },
+    {
+      "system": "Boma Health Initiative reporting in DHIS2",
+      "country_label": "BHI",
+      "class": "community",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, with UNICEF",
+      "tiers": "community (boma health workers, paper registers being redesigned); BHI reporting completeness assessed in DHIS2"
+    },
+    {
+      "system": "CareConnect",
+      "country_label": "CareConnect",
+      "class": "",
+      "platform": "",
+      "owner": "developed with HSTP support; rollout pending Ministry of Health guidance",
+      "tiers": "not stated; not yet rolled out"
+    },
+    {
+      "system": "iConnect",
+      "country_label": "iConnect",
+      "class": "",
+      "platform": "",
+      "owner": "developed with HSTP support; rollout pending Ministry of Health guidance",
+      "tiers": "not stated; not yet rolled out"
+    },
+    {
+      "system": "Birth notification",
+      "country_label": "birth registration notification",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "2 to 2.5% national coverage; a one-state pilot plan due by 31 December 2025"
+    }
+  ],
+  "note": ""
+}

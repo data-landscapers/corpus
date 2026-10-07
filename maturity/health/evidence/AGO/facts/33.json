@@ -1,0 +1,12 @@
+{
+  "slug": "2022-03-24-ago-improving-tb-surveillance-and-patients-quality-of-care-through-improve",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "digitised", "value": "paper", "fact": "The authors (Doctors with Africa CUAMM and the Italian National Institute of Health) state that the Sanatorium Hospital of Luanda and the Anti-Tuberculosis Dispensary of Luanda, the capital's two reference tuberculosis facilities, collected clinical and surveillance data entirely on paper medical records and registers at the situation analysis of March to September 2019.", "as_of": "2019", "date_precision": "year", "system": "paper medical records and registries", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "TB EMR system", "country_label": "TB EMR system", "class": "tracker", "platform": "custom open-source software in C# and Java on MSSQL Server 2017, web based, configured for offline use on a facility LAN", "owner": "Doctors with Africa CUAMM with technical support from the Italian National Institute of Health, under a project financed by the Italian Agency for Development Cooperation (AICS)", "tiers": "developed March 2019 to January 2020 for two Luanda facilities, the Sanatorium Hospital of Luanda and the Anti-Tuberculosis Dispensary; not yet piloted at publication"},
+    {"system": "National TB Program digital database", "country_label": "digital database of the Programa Nacional de Controlo da Tuberculose (PNCT)", "class": "single-function", "platform": "", "owner": "Programa Nacional de Controlo da Tuberculose", "tiers": "national programme level, collecting aggregated data from the TB network; TB facilities countrywide report on paper"},
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "hmis", "platform": "DHIS2", "owner": "", "tiers": "described as the health management information system increasingly used by the National TB Program for aggregate data reporting; no tier stated"}
+  ],
+  "note": "The TB EMR holds tuberculosis patients only, one programme, so the typology makes it a tracker and no EMR fact is taken from it; it was designed as a real-time point-of-care system able to communicate with DHIS2, and its piloting was postponed by Covid-19. The one fact is the dated paper statement for the two facilities, which the parent may judge too narrow (two TB facilities, not every tier). DHIS2 is named as the HMIS but only its use for TB aggregate reporting is described, with no tier, place of entry or date, so no HMIS fact."
+}

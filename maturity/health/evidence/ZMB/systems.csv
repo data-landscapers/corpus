@@ -47,3 +47,27 @@ ZMB,Logistics information system,,single-function,,Ministry of Health,,2014-01-0
 ZMB,Electronic Health Record (EHR) system,Electronic Health Record (EHR) system,emr,,Government,"used in hospitals, as stated by Muchinga Province's Deputy Permanent Secretary (reported 2026-09-24)",2026-09-24-lusakatimes-zmb-funeral-scheme-digital-platform
 ZMB,Health Management Information Systems (HMIS),HMIS,,,,,2023-10-11-national-ict-policy-2023-zambia
 ZMB,Health Management Information Systems (HMIS),HMIS,,,,,2023-08-17-national-electronic-government-plan-2023-2026-zambia
+ZMB,DHIS2,,hmis,DHIS2,,"health facilities reporting monthly on antenatal care, delivery, immunisation, outpatient and inpatient services; tiers not stated",2025-01-01-zmb-zambia-analysis-of-reproductive-maternal-newborn-child-and-adolescent
+ZMB,healthcare management information system,healthcare management information system,,,Ministry of Health,,2024-09-28-zmb-govt-sets-aside-k23-2-billion-for-health-sector-in-2025-aims-to-recrui
+ZMB,DHIS2,District Health Information System (DHIS2),hmis,DHIS2,Ministry of Health,data entry monthly at district level; a few health facilities report directly,2024-04-01-zmb-programme-audit-report-the-republic-of-zambia
+ZMB,Logistimo eLMIS,electronic logistics management information system (eLMIS),single-function,"Logistimo (web-based, Logistimo India Private Limited)","Ministry of Health / Expanded Programme for Immunisation, with no formal contract or licence with the vendor","national, provincial and district vaccine stores and selected facilities from 2016; discontinued 6 July 2022 with no data backup, no replacement working at September 2023",2024-04-01-zmb-programme-audit-report-the-republic-of-zambia
+ZMB,Zambia Immunisation Electronic Register,ZIER,tracker,,"built with Gavi support (USD 886,262); not in use by the Ministry of Health or EPI at September 2023",,2024-04-01-zmb-programme-audit-report-the-republic-of-zambia
+ZMB,Mobile Vaccination system,MVAC,,,"built with Gavi support (USD 382,827); not in use by the Ministry of Health or EPI at September 2023",,2024-04-01-zmb-programme-audit-report-the-republic-of-zambia
+ZMB,Health Management Information System (HMIS),HMIS,hmis,,Ministry of Health,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,SmartCare,SmartCare,emr,web-based after re-engineering in 2017-2021,,intended for 'all levels'; none stated as in use,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,Integrated Disease Surveillance and Response,IDSR,single-function,,Ministry of Health,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,Electronic Logistics Management Information System,eLMIS,single-function,,Ministry of Health,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,Human Resource Information System,HRIS,,,Ministry of Health,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,cHMIS,cHMIS,,,,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,DHMIS,DHMIS,,,,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,Blood Safety Information System,BSIS,,,,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,Oral health information system,,,,,,2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa
+ZMB,Health Management Information System (HMIS),HMIS,hmis,DHIS2,Ministry of Health,"health posts, health centres, district and provincial hospitals report on paper; keyed at district health offices; viewable at provincial and national level",2023-01-01-zmb-identifying-barriers-to-the-production-and-use-of-routine-health-infor
+ZMB,SmartCare,SmartCare,emr,developed by the Ministry of Health with US CDC,Ministry of Health,"some larger health centres and hospitals, select districts; most Western Province facilities still on paper",2023-01-01-zmb-identifying-barriers-to-the-production-and-use-of-routine-health-infor
+ZMB,Integrated Disease Surveillance Response system,IDSR,single-function,data uploaded to DHIS2,Zambia National Public Health Institute,weekly surveillance reports from facilities,2023-01-01-zmb-identifying-barriers-to-the-production-and-use-of-routine-health-infor
+ZMB,'Smart Card' project for HIV continuity of care,Smart Card,tracker,,US Centers for Disease Control,,2023-01-01-zmb-identifying-barriers-to-the-production-and-use-of-routine-health-infor
+ZMB,National malaria data reporting by mobile phone,,single-function,mobile phones,,facility level,2023-01-01-zmb-identifying-barriers-to-the-production-and-use-of-routine-health-infor
+ZMB,Routine facility reporting system,HMIS,hmis,,,electronic aggregate entry at district or comparable level; public primary care facilities and public hospitals reporting above 75% complete,2021-03-15-zmb-score-for-health-data-technical-package-assessment-summary-for-zambia
+ZMB,Electronic capture of patient-level health data,,emr,,,hospitals: partial; primary care facilities: not there,2021-03-15-zmb-score-for-health-data-technical-package-assessment-summary-for-zambia
+ZMB,National unique patient identifier system,,exchange,,,rated 'Partial',2021-03-15-zmb-score-for-health-data-technical-package-assessment-summary-for-zambia
+ZMB,National human resources for health information system,HRHIS,,,,,2021-03-15-zmb-score-for-health-data-technical-package-assessment-summary-for-zambia

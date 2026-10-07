@@ -1,0 +1,39 @@
+{
+  "slug": "2023-03-01-dza-oms-rapport-biennal-2020-2021",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "système d'information sanitaire DHIS2",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Direction des systèmes d'information et de l'informatique (DSII), with WHO support",
+      "tiers": "not stated; newly recruited DSII staff trained in its use during 2020-2021"
+    },
+    {
+      "system": "Go.Data (Sahrawi refugee camps, Tindouf)",
+      "country_label": "outil Go.Data pour la surveillance de la COVID-19",
+      "class": "single-function",
+      "platform": "Go.Data",
+      "owner": "WHO, with the Sahrawi camp health services; facilitated by UNHCR",
+      "tiers": "the refugee camps of the wilaya of Tindouf: a server room and a local WiFi network linking the 35 health structures, 42 staff trained"
+    },
+    {
+      "system": "Health information system of the Sahrawi refugees (Tindouf camps)",
+      "country_label": "système d'information sanitaire utilisé par les réfugiés sahraouis",
+      "class": "",
+      "platform": "",
+      "owner": "Sahrawi camp health services, with WHO support",
+      "tiers": "the refugee camps of the wilaya of Tindouf; digitalisation described as being initiated"
+    },
+    {
+      "system": "GIS for surveillance of EPI/polio indicators",
+      "country_label": "GIS dans la surveillance des indicateurs du PEV/Polio",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO support",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "The report says WHO supported the ministry's DSII in training newly recruited staff to use the health information system DHIS2 during 2020-2021, without describing what it reports or where it is used, so DHIS2 is unclassified here and gives no fact; the other systems named are surveillance tools, most of them in the Sahrawi refugee camps."
+}

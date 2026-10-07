@@ -45,3 +45,18 @@ CPV,Telemedicine application system,telemedicine application system,enabling,run
 CPV,eGovernment network and national data centre,eGovernment network,enabling,"Huawei routers, switches and cloud data centre",NOSi,"connects 1,142 organisations including schools and medical institutions",2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies
 CPV,SIS - Sistema de Informação Sanitária,SIS-Sistema de Informação Sanitária para uma versão integrada,,,,,2021-12-27-cpv-bo-retificacao-190-2021-egdcv-republicacao
 CPV,Receita Eletrónica,Receita Eletrónica (regulamento de implementação),single-function,,,,2021-12-27-cpv-bo-retificacao-190-2021-egdcv-republicacao
+CPV,Sistema de Informação em Saúde (SIS),Sistema de Informação em Saúde (SIS),,,,,2025-12-01-oms-resultados-cooperacao-tecnica-cabo-verde-2024-2025
+CPV,DHIS2,DHIS2,,DHIS2,,,2025-12-01-oms-resultados-cooperacao-tecnica-cabo-verde-2024-2025
+CPV,Sistema de certificação de óbito e notificação de causas de morte,Sistema de certificação de óbito e notificação de causas de morte,single-function,,,computers delivered to all delegacias (municipal level) for timely registration,2025-12-01-oms-resultados-cooperacao-tecnica-cabo-verde-2024-2025
+CPV,Observatório Nacional de Saúde,Observatório Nacional de Saúde,,,,,2025-12-01-oms-resultados-cooperacao-tecnica-cabo-verde-2024-2025
+CPV,DHIS-2,DHIS-2,hmis,DHIS2,Ministry of Health,all structures of the national health service,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,DHIS-2 COVID-19 vaccination module,COVID-19 vaccination module of DHIS-2,tracker,DHIS2,,,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Medicine One,Medicine One,emr,Medicine One (proprietary),Ministry of Health,Praia only: health centres and the central hospital,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Health Information System (HIS),Health Information System (HIS) / SIS,,IGRP Web for the planned clinical-process platform,Ministry of Health,"financial modules (Bankisation, DUC) in all national health service structures; Cadastre Management on Santiago; Service Management tested at Santa Rita Vieira Regional Hospital",2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Single electronic clinical process,single electronic clinical process / single clinical user file,emr,IGRP Web,Ministry of Health,"planned for the country's health structures, public and private",2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Electronic Prescription Project,Electronic Prescription Project,,Medicine One,,,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Hospital Agostinho Neto online system,online system,,,,"Hospital Agostinho Neto from 2004, with stock, laboratory, emergency care, patient-records and outpatient modules added",2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Medicines and Equipment Stock Management module,Medicine Stock Management module,single-function,HIS,Ministry of Health,,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Laboratory Management module,Laboratory Management module,single-function,HIS,Ministry of Health,development finalised,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,National Health Information System (SNIS),SNIS,,,Ministry of Health,,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal
+CPV,Saúdi na Mon,Saúdi na Mon,,,,,2024-02-01-cpv-terms-of-reference-hiring-a-consultant-to-support-the-ministry-of-heal

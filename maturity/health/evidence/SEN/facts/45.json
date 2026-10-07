@@ -1,0 +1,54 @@
+{
+  "slug": "2024-01-01-sen-digitalisation-de-certains-systemes-et-services-de-sante",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The PAENS project's 2024 work plan for health states that the Dossier Patient Partagé is in pilot deployment and testing in 2024, to be supported with IT equipment, digital patient cards, bandwidth and user training, without naming the sites or their number; the page is undated, so the plan year, 2024, is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Dossier Patient Partagé (DPP)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The PAENS project plans US$1,000,000 in 2024, of US$4,500,000 in its procurement plan for IT equipment (computers, tablets, phones), to support the pilot deployment of the Dossier Patient Partagé together with two other platforms; the page names the World Bank as paying the project's strategic assistance from Gates Foundation funds and states no domestic budget line.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Dossier Patient Partagé (DPP)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The work plan presents the Dossier Patient Partagé as an existing platform of the health ministry (MSAS), whose digital health unit CSSDOS is to be reinforced with recruited experts and developers, and whose steering and technical committees for digital health the minister set up by order; plan year 2024.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Dossier Patient Partagé (DPP)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {"system": "Dossier Patient Partagé (DPP)", "country_label": "Dossier Patient Partagé (DPP)", "class": "emr", "platform": "", "owner": "MSAS (CSSDOS)", "tiers": "pilot deployment and testing phase in 2024; sites not stated"},
+    {"system": "DHIS2", "country_label": "plateforme DHIS2", "class": "", "platform": "DHIS2", "owner": "MSAS", "tiers": "data stored on University of Oslo servers, to be repatriated to local hosting; what it reports is not described"},
+    {"system": "MIRSAS", "country_label": "MIRSAS", "class": "", "platform": "", "owner": "MSAS", "tiers": "transfers of health staff; pilot phase"},
+    {"system": "plateforme de délivrance des cartes d'égalité des chances", "country_label": "", "class": "", "platform": "", "owner": "MSAS", "tiers": "being deployed; testing phase"},
+    {"system": "e Vaccin", "country_label": "plateforme e Vaccin", "class": "tracker", "platform": "", "owner": "MSAS", "tiers": "individual vaccination data; health districts trained in January 2021; more than 19,000 QR-coded vaccination certificates issued in 2023"},
+    {"system": "carnet électronique de santé de la mère et de l'enfant", "country_label": "carnet de santé de la mère et de l'enfant", "class": "tracker", "platform": "", "owner": "MSAS (CSSDOS)", "tiers": "planned; terms of reference still to be written"},
+    {"system": "télémédecine", "country_label": "télémédecine", "class": "enabling", "platform": "", "owner": "MSAS", "tiers": "telemedicine rooms to be refurbished in 2024, equipment partly in 2025"},
+    {"system": "Datacenter and Datawarehouse", "country_label": "Datacenter type container, Datawarehouse", "class": "enabling", "platform": "", "owner": "MSAS", "tiers": "acquisition planned for 2024, central level"},
+    {"system": "Système d'Information Géographique", "country_label": "Système d'Information Géographique", "class": "", "platform": "", "owner": "MSAS", "tiers": "planned mapping platform"},
+    {"system": "base de données nationale des coordonnées géographiques des structures de santé", "country_label": "", "class": "exchange", "platform": "", "owner": "MSAS", "tiers": "planned; all public and private health facilities, each with a single agreed code and a QR code"},
+    {"system": "identification unique du patient", "country_label": "", "class": "exchange", "platform": "", "owner": "MSAS, begun with UNDP support", "tiers": "planned; first draft of the algorithm still to be finalised"},
+    {"system": "SDIS", "country_label": "SDIS", "class": "", "platform": "", "owner": "", "tiers": "named with DHIS2 as a system new platforms must interoperate with; no description"},
+    {"system": "SIAMO", "country_label": "Système d'Information de l'Assurance Maladie Obligatoire (SIAMO)", "class": "", "platform": "", "owner": "ICAMO", "tiers": "feasibility study completed; compulsory health insurance"},
+    {"system": "SMS messages to diabetes patients", "country_label": "", "class": "", "platform": "", "owner": "MSAS", "tiers": "awareness messages during Ramadan, tenth edition in 2024"},
+    {"system": "portail national d'information santé", "country_label": "", "class": "", "platform": "", "owner": "MSAS (CSSDOS)", "tiers": "planned"},
+    {"system": "WASH-MTN and e-tabac platforms", "country_label": "", "class": "", "platform": "", "owner": "MSAS programmes for neglected tropical diseases and tobacco control", "tiers": "proposed"}
+  ],
+  "note": "DHIS2 is named only as a platform whose data sit on University of Oslo servers and are to be repatriated; the page does not describe what it reports, so it is left unclassed and gives no HMIS fact. The page also states that unique patient identification is still at the stage of a draft algorithm."
+}

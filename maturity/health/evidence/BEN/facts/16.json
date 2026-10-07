@@ -1,0 +1,54 @@
+{
+  "slug": "2023-07-01-ben-annuaire-des-statistiques-sanitaires-2022",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The health ministry's 2022 statistical yearbook says SNIGS collects facilities' data on standardised paper forms, that a facility sends its paper report to the zone sanitaire before the 5th of each month and the zone keys it before the 20th, and that entry is done in all zones sanitaires, since September 2014 on the single DHIS2 platform, described as the tool for entering, validating and analysing facilities' aggregate statistics.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "SNIGS (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The health ministry's 2022 statistical yearbook says that certain health facilities and community relays with adequate equipment key their completed monthly forms directly into the data warehouse by the 20th of each month, as an exception to entry at the zone sanitaire; it gives no number of such facilities.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "SNIGS (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The 2022 statistical yearbook, written by the health ministry's Direction de la Planification, de l'Administration et des Finances under the SNIGS-MS mark, says the ministry adopted DHIS2 from 2014 as its platform for managing health data, and the minister's foreword thanks technical and financial partners for supporting the ministry in collecting, processing and publishing health information.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "SNIGS (DHIS2)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SNIGS",
+      "country_label": "Système National d'Information et de Gestion Sanitaires (SNIGS)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministère de la Santé (SNIGS-MS; Direction de la Planification, de l'Administration et des Finances)",
+      "tiers": "keyed in all zones sanitaires from facilities' paper reports; certain facilities and community relays enter directly; community data and part of the private sector's included"
+    },
+    {
+      "system": "SIS/DPCPDS/ANTS",
+      "country_label": "SIS (Agence Nationale pour la Transfusion Sanguine)",
+      "class": "",
+      "platform": "",
+      "owner": "Agence Nationale pour la Transfusion Sanguine",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

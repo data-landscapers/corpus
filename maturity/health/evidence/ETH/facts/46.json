@@ -1,0 +1,46 @@
+{
+  "slug": "2025-01-01-caf-facility-newborn-and-stillbirth-data-use-and-enabling-factors-at-diffe",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The IMPULSE study (Journal of Global Health), which assessed 24 Ethiopian facilities from national hospitals to health centres providing comprehensive emergency obstetric care between November 2022 and July 2024, reports that over 75% of facilities in Ethiopia used functional electronic systems for data entry and analysis; the exact Ethiopian figure and the system's name are not given, and the sample was not drawn to represent the country.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "routine health information system (electronic system at facilities)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "The IMPULSE study reports that all 6 Ethiopian district health offices assessed between November 2022 and July 2024 had functional electronic systems for data entry and analysis (100%), and that all data offices in the study used DHIS2 as the platform for key data analysis.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The IMPULSE study reports that a national routine health information system strategic plan was available at 83.3% of the 24 Ethiopian facilities and 100% of the 6 district health offices assessed between November 2022 and July 2024; the plan is not named or dated.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "routine health information system",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2; routine health information system (RHIS); HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "district health offices (all 6 assessed); facilities from national hospitals to health centres use an unnamed electronic system (over 75%)"
+    }
+  ],
+  "note": "A purposive sample of 24 facilities offering comprehensive emergency obstetric care and 6 district offices, so no clinics share is recorded; as_of is the end of data collection, July 2024."
+}

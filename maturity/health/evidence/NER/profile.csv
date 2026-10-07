@@ -1,11 +1,11 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,hmis,governance,qualifier,owner:ministry;plan:current,2019,NER-008;NER-009,,nothing dated since 2023-10-06
-NER,hmis,tiers,coverage,,,,,nothing held
-NER,hmis,digitised,coverage,facility,2018-09,NER-010,,nothing dated since 2023-10-06
+NER,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-02-06,NER-018;NER-025;NER-029,NER-026=owner:ministry;NER-009=plan:current;NER-028=owner:ministry;NER-008=owner:ministry,
+NER,hmis,tiers,coverage,T1;T2;T3,2023-12,NER-024,,
+NER,hmis,digitised,coverage,facility,2023-12,NER-010;NER-023;NER-030,,
 NER,hmis,last12,qualifier,,,,,nothing held
-NER,hmis,clinics,coverage,not-published,2018-09,NER-011,,nothing dated since 2023-10-06
-NER,emr,governance,qualifier,plan:current,2026-07-08,NER-002,NER-001=plan:current;NER-012=plan:none,"not stated: owner, finance"
-NER,emr,tiers,coverage,,,,,nothing held
+NER,hmis,clinics,coverage,not-published,2021,NER-011;NER-027;NER-031,,nothing dated since 2023-09-28
+NER,emr,governance,qualifier,owner:partner;plan:current;finance:donor,2026-07-08,NER-002;NER-016;NER-017,NER-001=plan:current;NER-021=owner:partner;NER-022=finance:donor;NER-032=plan:current;NER-012=plan:none,
+NER,emr,tiers,coverage,T2;T3,2024-11,NER-014;NER-019,,
 NER,emr,digitised,coverage,,,,,nothing held
 NER,emr,last12,qualifier,advancing,2026-07-08,NER-003,,
-NER,emr,clinics,coverage,pilot,2018-09,NER-013,,nothing dated since 2023-10-06
+NER,emr,clinics,coverage,pilot,2024-11,NER-013;NER-015,NER-020=none,

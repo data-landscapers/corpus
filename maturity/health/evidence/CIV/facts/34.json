@@ -1,0 +1,12 @@
+{
+  "slug": "2024-07-25-civ-mecanisme-de-coordination-du-secteur-de-la-sante-les-partenaires-techn",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "count:193", "fact": "The health minister, presenting his department's 2023 achievements to the health sector coordination meeting of 25 July 2024, said the hospital information system (SIH) and the Dossier Patient Informatisé (DPI) had been installed in 193 health establishments, centralising patients' medical and administrative information, as reported by WHO's country office; no denominator is given and the tiers of the 193 are not stated.", "as_of": "2023", "date_precision": "year", "system": "Dossier Patient Informatisé (DPI)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The installation of the SIH and the DPI in 193 health establishments was presented by the health minister on 25 July 2024 as one of his own department's achievements of 2023, according to WHO's country office; the account does not say who financed it.", "as_of": "2023", "date_precision": "year", "system": "Dossier Patient Informatisé (DPI)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Dossier Patient Informatisé (DPI)", "country_label": "dossier patient informatisé (DPI)", "class": "emr", "platform": "", "owner": "Ministry of health (MSHPCMU)", "tiers": "installed in 193 health establishments by 2023; tiers not stated"},
+    {"system": "Système d'information hospitalier (SIH)", "country_label": "système d'information hospitalier (SIH)", "class": "", "platform": "", "owner": "Ministry of health (MSHPCMU)", "tiers": "installed in 193 health establishments by 2023; tiers not stated; said to strengthen the traceability of financial data"}
+  ],
+  "note": ""
+}

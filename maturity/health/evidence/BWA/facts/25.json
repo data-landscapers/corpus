@@ -1,0 +1,98 @@
+{
+  "slug": "2019-08-01-bwa-botswana-his-indicators",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3;T4",
+      "fact": "MEASURE Evaluation's country profile, as of August 2019 and on an in-country contact, records a national deployment of DHIS2 used for aggregating health data from all facilities within the country.",
+      "as_of": "2019-08",
+      "date_precision": "month",
+      "system": "District Health Information System 2 (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:100%",
+      "fact": "MEASURE Evaluation's country profile gives 100% of public health facilities as reporting through DHIS2, for 2016 to 2018, on the 2016-2018 Master Facility List and an in-country contact; it gives no numerator or denominator, and does not say where the reports are keyed.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "District Health Information System 2 (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "MEASURE Evaluation's country profile, as of August 2019, lists the HIS strategic plan as current, being the eHealth Strategy of Botswana 2016-2020, while also recording that the eHealth strategy was completed but not officially launched and that no HIS policy or national HIS coordinating body was available; the profile does not say the strategy names DHIS2.",
+      "as_of": "2019-08",
+      "date_precision": "month",
+      "system": "District Health Information System 2 (DHIS2)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "MEASURE Evaluation's country profile, as of August 2019 and on an in-country contact, states that all hospitals are on a centralised Integrated Patient Management System, used in hospitals only to collect patient diagnostic information.",
+      "as_of": "2019-08",
+      "date_precision": "month",
+      "system": "Integrated Patient Management System (IPMS)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "clinics",
+      "value": "none",
+      "fact": "MEASURE Evaluation's country profile, as of August 2019, states that the Integrated Patient Management System is used in hospitals only and that other public facilities use a stand-alone system, with a Patient Management System used in clinics with the maternity sector.",
+      "as_of": "2019-08",
+      "date_precision": "month",
+      "system": "Integrated Patient Management System (IPMS)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "District Health Information System 2 (DHIS2)",
+      "country_label": "District Health Information System 2 (DHIS2)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "aggregating health data from all facilities within the country; 100% of public health facilities report through it"
+    },
+    {
+      "system": "Integrated Patient Management System (IPMS)",
+      "country_label": "Integrated Patient Management System (IPMS)",
+      "class": "emr",
+      "platform": "",
+      "owner": "",
+      "tiers": "hospitals only; all hospitals, centralised"
+    },
+    {
+      "system": "Patient Management System",
+      "country_label": "Patient Management System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "clinics with the maternity sector; other public facilities are said to use a stand-alone system"
+    },
+    {
+      "system": "Integrated Disease Surveillance and Response (IDSR)",
+      "country_label": "Botswana Integrated Disease Surveillance and Response (IDSR)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "weekly reports from facilities to districts; 78.6% of facilities on time for week 35 of 2017; whether electronic is not stated"
+    },
+    {
+      "system": "Health worker database",
+      "country_label": "national database of health workers (ORACLE)",
+      "class": "",
+      "platform": "Oracle",
+      "owner": "Ministry of Health",
+      "tiers": "ministry; last update unknown"
+    }
+  ],
+  "note": "The EMR clinics value 'none' records the profile's statement that IPMS is hospitals-only; the Patient Management System in clinics is named without a description and left unclassed. No digitised fact for either sub-indicator: the profile does not say where data is keyed. No reporting-completeness figure for the HMIS is given; the 78.6% is disease surveillance. The captured text has encoding artefacts in the dashes."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-11-tza-tanzania-s-experience-applying-who-smart-guidelines-dak-in-gothomis",
+  "facts": [],
+  "systems": [
+    {"system": "GOTHOMIS", "country_label": "GOTHOMIS (GoT-HoMIS)", "class": "", "platform": "", "owner": "President's Office - Regional Administration and Local Government (PO-RALG), which the deck says governs it centrally", "tiers": "primary health care facilities, as stated; offline and mobile-first design to reach remote health facilities; no count given"}
+  ],
+  "note": "No fact: the deck calls GOTHOMIS a centralised health information system for PHC facilities with programme modules (HTS, CTC, TB, Immunization, Outreach) and never says it holds the clinical record, so it is unclassified here. If the parent classes GOTHOMIS emr on other documents, this deck states, as of 2025-06-11: governance by PO-RALG; adaptation of WHO's Digital Adaptation Kit piloted in selected regions, starting with immunisation, retrospective data entry and outreach; alignment with the national digital health strategy 2019-2024; partners UNICEF, GIZ, PS3, PATH, WDF, TDA; no funding source stated."
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "2019-02-08-gnq-plan-estrategico-de-fortalecimiento-del-sistema-nacional-de-informacio",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The health ministry (MINSABS) states that the SNIS is run by its own central SIS service and Dirección Nacional del SNIS, which the plan moves under a new Dirección General de Planificación y Programación Sanitaria, and that the SNIS has no operating units at regional, provincial or district level; no date is given, so the document's published date is used.",
+      "as_of": "2019-02-08",
+      "date_precision": "day",
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "MINSABS adopted the PEFSNIS 2019-2023, a costed strategic plan for the SNIS of 5,069,481,498.40 XAF over five years across six results, drawn up during 2018 from a 2014 situation analysis that had found no strategic plan for the SNIS; the plan is dated by the document's published date.",
+      "as_of": "2019-02-08",
+      "date_precision": "day",
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The PEFSNIS 2019-2023 budgets 167,000,000 XAF for a routine-data management platform for the SNIS through international technical assistance (FRS), and 203,410,000 XAF for 135 desktop computers, 20 laptops and 50 laser printers for the 102 health centres, 18 district hospitals, 19 district and 8 provincial SNIS units, the Bata regional coordination, the epidemiology service and the national directorate; planned, not stated as done, and dated by the document's published date.",
+      "as_of": "2019-02-08",
+      "date_precision": "day",
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The plan's situation analysis records a budget line assigned to the SNIS in the Presupuestos Generales del Estado while stating that access to those funds remains limited, and says the plan's cost is to be mobilised from the Government and the health sector's development partners; the analysis is of 2014 updated in 2018 and gives no single date, so the document's published date is used.",
+      "as_of": "2019-02-08",
+      "date_precision": "day",
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "paper",
+      "fact": "MINSABS's situation analysis states that every level of the health pyramid lacks basic information technology (computers, internet access, e-mail), that the paper registers, forms and monthly sheets used for routine data are themselves unavailable in most service points, and that the SNIS lacks the capacity to create and maintain a database, a DHIS 2 database then being in the course of installation by FRS and MCDI; the analysis is of 2014 updated in 2018 and gives no single date, so the document's published date is used.",
+      "as_of": "2019-02-08",
+      "date_precision": "day",
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sistema Nacional de Información Sanitaria (SNIS)",
+      "country_label": "SNIS",
+      "class": "hmis",
+      "platform": "paper registers, monthly epidemiological sheets and monthly synthesis reports",
+      "owner": "MINSABS, Dirección Nacional del SNIS",
+      "tiers": "health posts, health centres, district and provincial hospitals, regional hospitals and private clinics, by the plan's table of routine data tools"
+    },
+    {
+      "system": "DHIS 2",
+      "country_label": "base de datos (DHIS 2)",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "being installed by FRS and MCDI",
+      "tiers": ""
+    },
+    {
+      "system": "Plataforma de gestión de datos de rutina del SNIS",
+      "country_label": "Plataforma de gestión de datos del SNIS",
+      "class": "hmis",
+      "platform": "",
+      "owner": "MINSABS, with FRS named for the technical assistance; planned",
+      "tiers": ""
+    },
+    {
+      "system": "Sistema Nacional de Vigilancia Epidemiológica",
+      "country_label": "Vigilancia Epidemiológica (VE), under the VIER guide",
+      "class": "single-function",
+      "platform": "",
+      "owner": "MINSABS",
+      "tiers": "health centres, hospitals, district focal points; parapublic and private facilities"
+    },
+    {
+      "system": "WISN",
+      "country_label": "programa informático de gestión de los recursos humanos WISN",
+      "class": "",
+      "platform": "WISN",
+      "owner": "MINSABS; implementation to be supported under the plan",
+      "tiers": "central, regional and provincial, by the 15 staff to be trained"
+    }
+  ],
+  "note": "Passages file only. DHIS 2 is named as a database being installed, with no description of what it reports, so it is a systems entry without a class; WISN is human-resources software, outside the typology."
+}

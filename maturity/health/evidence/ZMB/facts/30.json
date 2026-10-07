@@ -1,0 +1,16 @@
+{
+  "slug": "2021-03-15-zmb-score-for-health-data-technical-package-assessment-summary-for-zambia",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "district", "fact": "WHO's SCORE assessment rates Zambia 'Complete' on a standardised system of electronic data entry for aggregate reporting at the district or comparable level, on data from 2013 to 2018; it does not say whether any facility enters its own reports.", "as_of": "2018", "date_precision": "year", "system": "Routine facility reporting system", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "clinics", "value": "not-published", "fact": "WHO's SCORE assessment puts completeness of reporting by public primary care facilities, and by public hospitals, above 75%, and by private facilities at 25% to 75%, on data from 2013 to 2018; it gives no count or share of facilities entering their own reports.", "as_of": "2018", "date_precision": "year", "system": "Routine facility reporting system", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "clinics", "value": "none", "fact": "WHO's SCORE assessment rates as 'Not there' a system of electronic capture of patient-level health data in primary care facilities that is standardised and fully interoperable with the aggregate routine system, on data from 2013 to 2018; the rating is of a standardised interoperable system, not of every electronic record.", "as_of": "2018", "date_precision": "year", "system": "Electronic capture of patient-level health data", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "tiers", "value": "T1;T2", "fact": "WHO's SCORE assessment rates as 'Partial' a system of electronic capture of patient-level health data in hospitals that is standardised and fully interoperable with the aggregate routine system, on data from 2013 to 2018; it does not say which hospitals or how many.", "as_of": "2018", "date_precision": "year", "system": "Electronic capture of patient-level health data", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Routine facility reporting system", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "", "tiers": "electronic aggregate entry at district or comparable level; public primary care facilities and public hospitals reporting above 75% complete"},
+    {"system": "Electronic capture of patient-level health data", "country_label": "", "class": "emr", "platform": "", "owner": "", "tiers": "hospitals: partial; primary care facilities: not there"},
+    {"system": "National unique patient identifier system", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "rated 'Partial'"},
+    {"system": "National human resources for health information system", "country_label": "HRHIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A checklist of ratings with no system named; the system labels are the assessment's own criteria. It also records a national eHealth strategy as existing, without naming any system it covers."
+}

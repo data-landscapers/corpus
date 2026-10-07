@@ -1,0 +1,54 @@
+{
+  "slug": "2025-06-20-mar-implementation-status-results-report-morocco-health-reform-program-p17",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2",
+      "fact": "The World Bank's results framework gives as the baseline for its health-data indicator that an integrated and digitalised health information system was deployed at hospitals and that deployment had begun in primary health care centres; the indicator's own baseline is undated, and March 2023 is the baseline month the report gives for the Program's other indicators. Which hospitals is not said.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "integrated and digitalized health information system",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The World Bank's baseline states only that deployment of the integrated and digitalised health information system had begun in primary health care centres, with no count or share of centres; the baseline is undated, and March 2023 is the month the report gives for the Program's other baselines.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "integrated and digitalized health information system",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank reports that the disbursement-linked indicator on content, quality, accessibility and use of health data carries US$37.5 million of its US$450 million Program-for-Results loan to the Ministry of Health and Social Protection's reform programme, with nothing disbursed against it and the indicator rated off-track at 20 June 2025; no domestic budget line for the system is given.",
+      "as_of": "2025-06-20",
+      "date_precision": "day",
+      "system": "integrated and digitalized health information system",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "integrated and digitalized health information system",
+      "country_label": "",
+      "class": "hmis",
+      "platform": "",
+      "owner": "",
+      "tiers": "deployed at hospitals; deployment begun in primary health care centres"
+    },
+    {
+      "system": "maternal death surveillance system",
+      "country_label": "maternal and neonatal death surveillance, audit and response system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "used by 70% of territorial health groups in the Program area (baseline, March 2023)"
+    }
+  ],
+  "note": "Class is a judgement the parent should check: the system is described only through the indicator it sits under (content, quality, accessibility and use of health data, ending in a published annual health sector report), never as holding patient records. No last12 row: the Bank's June 2025 downgrade to moderately satisfactory, attributed in part to gradual progress on digitalisation of the health system, falls outside twelve months and fits none of the three values without judging. finance:donor rests on a World Bank loan to the government's own programme."
+}

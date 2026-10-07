@@ -1,0 +1,110 @@
+{
+  "slug": "2021-02-01-ssd-dhis2-international-consultant-for-south-sudan-ministry-of-health-juba",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "district",
+      "fact": "A UNDP consultancy notice states that DHIS2, the Ministry of Health's electronic health information management system since 2018, has been scaled up to all counties and to some selected health facilities; the notice is undated and the fact is given its publication date.",
+      "as_of": "2021-02",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "not-published",
+      "fact": "The UNDP notice says DHIS2 reaches some selected health facilities besides all counties, and gives no number or share of facilities; the notice is undated and the fact is given its publication date.",
+      "as_of": "2021-02",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The UNDP notice states that the Ministry of Health has used DHIS2 as South Sudan's electronic health information management system since 2018 and has a DHIS2 technical team, and that an HIS roadmap/plan was still to be reviewed and finalised; the notice is undated and the fact is given its publication date.",
+      "as_of": "2021-02",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "District Health Information System (DHIS2); electronic health information management system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "all counties and some selected health facilities; aggregate reporting at the various levels"
+    },
+    {
+      "system": "COVID-19 DHIS2 Tracker",
+      "country_label": "COVID-19 DHIS2 Tracker",
+      "class": "tracker",
+      "platform": "DHIS2 Tracker",
+      "owner": "Ministry of Health",
+      "tiers": "not stated; individual case data from alert to outcome, to be scaled up"
+    },
+    {
+      "system": "Laboratory management information system",
+      "country_label": "LMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    },
+    {
+      "system": "Logistics information management system (supply chain)",
+      "country_label": "LIMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    },
+    {
+      "system": "e-TB system",
+      "country_label": "e-TB system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    },
+    {
+      "system": "Electronic medical record (EMR) system",
+      "country_label": "EMR system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    },
+    {
+      "system": "EWAS",
+      "country_label": "EWAS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    },
+    {
+      "system": "IDSR",
+      "country_label": "IDSR",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    },
+    {
+      "system": "IHRIS",
+      "country_label": "IHRIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only, as a system to integrate with DHIS2"
+    }
+  ],
+  "note": ""
+}

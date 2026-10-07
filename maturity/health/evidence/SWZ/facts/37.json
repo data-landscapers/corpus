@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-01-eswatini-annual-results-report-2025-who",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministry of Health, with WHO support", "tiers": "not stated"}
+  ],
+  "note": "Read whole. WHO says that in 2025 a phased optimisation of DHIS2 set up national servers, standardised data elements, enhanced interoperability across HIV, maternal health, surveillance, NCD and immunisation programmes and trained 21 super users, and that a Strategic Information Department Strategic Plan 2024-2028 was developed; it never says what DHIS2 collects or who enters it, so the system is unclassified and gives no fact."
+}

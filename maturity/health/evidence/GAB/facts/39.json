@@ -1,0 +1,12 @@
+{
+  "slug": "2024-02-16-gab-egabon-sis-vers-un-hopital-sans-papier",
+  "facts": [
+    {"sub_indicator": "emr", "aspect": "last12", "value": "advancing", "fact": "Gabonreview reports that on 16 February 2024 the vice-prime minister handed the contract to acquire a turnkey health information system, with an electronic medical record among its modules, to the consortium Tich Consulting, Gladius and BS Gabon, which is to design, supply, install and integrate it and train users; the health minister said 23 health facilities, the pilot sites, are to be connected, 10 by fibre and 13 by microwave link.", "as_of": "2024-02-16", "date_precision": "day", "system": "eGabon SIS (système d'information santé)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "finance:donor", "fact": "Gabonreview states on 16 February 2024 that the eGabon SIS project has been financed by the World Bank since October 2016; no domestic budget line is mentioned.", "as_of": "2024-02-16", "date_precision": "day", "system": "eGabon SIS (système d'information santé)", "class": "emr"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "Gabonreview states that the consortium won a call for tenders launched by the Ministry of Health, and that the contract was handed over on 16 February 2024 in the presence of the health minister.", "as_of": "2024-02-16", "date_precision": "day", "system": "eGabon SIS (système d'information santé)", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "eGabon SIS (système d'information santé)", "country_label": "SIS / eGabon SIS", "class": "emr", "platform": "turnkey system supplied by the consortium Tich Consulting – Gladius – BS Gabon; product not named", "owner": "Ministry of Health (tender); World Bank financing", "tiers": "contract stage on 16 February 2024; 23 pilot health facilities to be interconnected, tier not stated"}
+  ],
+  "note": "Classed emr because the document lists the electronic medical record among the system's modules, with hospital, pharmacy, public health and training information systems, and gives access to patients' medical information and prescription follow-up as its purposes. It reports a contract award, not use: no tiers, digitised or clinics fact is taken. The date carries the year from the readlist's published date; the article says only 'vendredi 16 février'."
+}

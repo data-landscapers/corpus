@@ -49,3 +49,62 @@ SLE,District Health Information System (DHIS2),DHIS2,,DHIS2,,"not stated; descri
 SLE,MSupply,MSupply,,mSupply,,not stated; named once as an existing innovation,2025-12-01-sierra-leone-power-of-data-country-framework-2026-2030
 SLE,Health Management Information System (HMIS),HMIS,,,,not stated; appears in the list of abbreviations only,2025-11-01-sierra-leone-mof-fy2026-gender-budget-statement
 SLE,Health Management Information System (HMIS),HMIS,,,,not stated,2024-01-01-sierra-leone-mtndp-2024-2030
+SLE,PIH EMR,PIH EMR; Wellbody EMR; KGH EMR,emr,OpenMRS (PIH EMR distribution; first built on Bahmni in 2015),"Partners In Health, with the Ministry of Health","Wellbody Clinic; Koidu Government Hospital and its Maternal Center of Excellence, Kono District",2026-04-01-sle-pih-emr-maternal-center-of-excellence-case-study
+SLE,Laboratory Information System (LIMS),LIMS,single-function,,Partners In Health,"planned, to be integrated with the PIH EMR",2026-04-01-sle-pih-emr-maternal-center-of-excellence-case-study
+SLE,Electronic Medical Record (EMR) System,EMR,emr,OpenMRS (bespoke version to be developed),Ministry of Health (IHPAU procuring),"planned: 250 PHUs and 50 hospitals, hub and spoke facilities",2025-12-18-sle-hiring-of-a-consulting-firm-to-develop-customize-deploy-manage-and-mai
+SLE,Electronic Medical Records (EMR),EMR,emr,,Ministry of Health (DPPI),"5 health facilities at baseline; target all 1,800 PHUs and hospitals by 2030",2025-12-06-sierra-leone-national-health-compact
+SLE,DHIS2,District Health Information Software (DHIS2),,DHIS2,Ministry of Health,not stated,2025-12-06-sierra-leone-national-health-compact
+SLE,PReSTrack,Pregnancy Registration and Service Tracking (PReSTrack),tracker,,"Ministry of Health (Directorate of RMCAH, DPPI)",to be institutionalised across all districts,2025-12-06-sierra-leone-national-health-compact
+SLE,eIDSR,electronic Integrated Disease Surveillance and Response (eIDSR),single-function,,Ministry of Health,not stated,2025-12-06-sierra-leone-national-health-compact
+SLE,National Disease Surveillance System (NDSS),NDSS,single-function,,"Ministry of Health, with partner support",over 96 percent of facilities reporting regularly,2025-12-06-sierra-leone-national-health-compact
+SLE,LMIS,Last-Mile Logistics Management Information System (LMIS),single-function,,"DPS, NMSA, DPPI",PHUs,2025-12-06-sierra-leone-national-health-compact
+SLE,mSupply,mSupply,single-function,mSupply,"DPS, NMSA, DPPI",phased deployment at PHUs planned by 2029,2025-12-06-sierra-leone-national-health-compact
+SLE,iHRIS,Integrated Human Resource Information System (iHRIS),,iHRIS,Ministry of Health,not stated,2025-12-06-sierra-leone-national-health-compact
+SLE,Telehealth platforms,telehealth,enabling,,Ministry of Health (DPPI),"planned, connecting PHUs and referral hospitals",2025-12-06-sierra-leone-national-health-compact
+SLE,Emergency Operations Centre (EOC) dashboard,EOC dashboard,,,,not stated,2025-12-06-sierra-leone-national-health-compact
+SLE,DHIS2,District Health Information System (DHIS2),,DHIS2,,not stated,2025-12-01-sierra-leone-power-of-data-country-framework-2026-2030
+SLE,MSupply,MSupply,,mSupply,,not stated,2025-12-01-sierra-leone-power-of-data-country-framework-2026-2030
+SLE,DHIS2,DHIS2; HMIS,hmis,DHIS2,Ministry of Health,"health facilities reporting monthly, public and private; tiers not named",2025-01-01-sle-analysis-report-2025-analysis-of-reproductive-maternal-newborn-child-a
+SLE,DHIS 2,District Health Management Information System; national HMIS,hmis,DHIS2,"MoH (DPPI, HMIS Unit)",all districts; 96% coverage of public health facilities; DHMTs report into it,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,e-IDSR,electronic Integrated Disease Surveillance and Response (e-IDSR),single-function,DHIS2 tracker,MoH (DHSE),not stated,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,eCBDS,electronic Case-Based Disease Surveillance (eCBDS),tracker,DHIS2 tracker,MoH (DHSE),not stated,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,HIV tracker,HIV tracker,tracker,DHIS2 tracker,MoH,not stated,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,National EHR system,Electronic Health Records (EHR) system; EMR,emr,to be open-source and FHIR-compatible,MoH (DPPI),"planned: all tertiary and district hospitals and selected PHUs, hub and spoke",2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Elysium EMR,Elysium EMR,emr,Elysium,CUAMM Doctors with Africa,PCMH; pilot,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,OpenMRS (Wellbody clinic),OpenMRS,emr,OpenMRS,Partners In Health,"Wellbody clinic, Kono; pilot",2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Facility Management Information System (FMIS),FMIS,emr,,GOPA-GIZ,one PHU each in Kambia and Port Loko districts; pilot,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Sierra Rutile EMR,Sierra Rutile EMR,emr,,Sierra Rutile Ltd,"Sierra Rutile clinic, Freetown; prototype",2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Salone EMR,Salone EMR,emr,,GIZ,Waterloo PHU; pre-implementation,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,OpenMRS (Ola During Children's Hospital),OpenMRS,emr,OpenMRS,UNICEF,Ola During Children's Hospital; pre-implementation,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Health Connect EMR,Health Connect EMR,emr,,Health Connect,34 Military Hospital (pilot); Connaught Hospital (pre-implementation),2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,SPICE,SPICE,tracker,SPICE,Medtronic Labs,"13 facilities in WAU, WAR, Port Loko and Bombali; pilot",2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,PReSTrack,PReSTrack,tracker,,DSTI/MoH,WAU and WAR; prototype,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,m-Supply,m-Supply; mSupply mobile; eLMIS,single-function,mSupply,Project Last Mile/USAID; NMSA,central and district levels; mobile piloted in 25 last-mile facilities in 3 districts in 2022,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,eSMT,electronic Stock Management Tool (eSMT),single-function,,National EPI,not stated,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,iHRIS,Integrated Human Resources Information System (iHRIS),,iHRIS,MoH (DHRH),not stated,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,CMMS,Computerized Maintenance Management Software (CMMS),,,MoH/UNICEF,all district hospitals; pilot,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,CHIS,CHIS,community,DHIS2,MoH,not stated,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Community Health Workers mobile application,CHW mobile application,community,,MoH (DPPI-DPHC),pilot planned,2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026
+SLE,Electronic Medical Records (EMR) system (Smart Systems),EMR,emr,,Ministry of Health and Sanitation with Smart Systems Sierra Leone Ltd,"Connaught Hospital, Freetown; pilot",2023-10-11-sle-emr-system-to-improve-health-care-delivery-in-sierra-leone
+SLE,DHIS2,District Health Information System (DHIS2),,DHIS2,,not stated,2023-10-11-sle-emr-system-to-improve-health-care-delivery-in-sierra-leone
+SLE,DHIS2,DHIS 2; Health Management Information System,hmis,DHIS2,MoHS,96% of 246 facilities surveyed; M&E officers key data at secondary and tertiary facilities and at DHMTs,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,Elysium EMR,Elysium EMR,emr,Elysium,CUAMM,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,OpenMRS,OpenMRS,emr,OpenMRS,Partners In Health,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,FMIS,FMIS,emr,,GOPA-GIZ,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,Sierra Rutile EMR,Sierra Rutile EMR,emr,,Sierra Rutile,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,SPICE,SPICE,,SPICE,Medtronic Labs/USAID,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,PReSTrack,PReSTrack,,,DSTI/MoHS,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,e-IDSR,e-IDSR,single-function,,MoHS/WHO,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,e-CBDS,e-CBDS,single-function,,MoHS,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,m-Supply,m-Supply,single-function,mSupply,Project Last Mile,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,e-SMT,e-SMT,single-function,,UNICEF/WHO,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,LIMS,Laboratory Information Management System (LIMS),single-function,,MoHS,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,iHRIS,iHRIS,,iHRIS,MoHS,"hosted by MoHS, with a local instance for the CHW master list",2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,CMMS,CMMS,,,MoHS/UNICEF,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,Redcap,Redcap,,REDCap,iCARIA,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,Magbenteh hospital staff Information management system,Magbenteh hospital staff Information management system,,,Magbenteh Hospital (Bombali),one hospital,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,Commcare,Commcare,,CommCare,,not stated,2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess
+SLE,DHIS2,Health Management Information System (HMIS); DHIS2,hmis,DHIS2,"Ministry of Health and Sanitation (DPPI, HMIS unit)",entered at hospitals by hospital M&E officers and at DHMTs for peripheral health units; received nationally by DPPI,2020-04-01-sle-standard-operating-procedures-for-the-health-management-information-sy
+SLE,LMIS,Logistics Management Information System (LMIS); RR&IV,single-function,RR&IV data integrated into DHIS2 in 2019,Directorate of Drugs and Medical Supplies,keyed at district by the district information officer from health facilities' paper forms,2020-04-01-sle-standard-operating-procedures-for-the-health-management-information-sy
+SLE,IDSR,Integrated Disease Surveillance and Response (IDSR),single-function,,Directorate of Health Security and Emergency,not stated,2020-04-01-sle-standard-operating-procedures-for-the-health-management-information-sy
+SLE,Human resources information system,human resources information system,,,Directorate of Human Resources,not stated,2020-04-01-sle-standard-operating-procedures-for-the-health-management-information-sy

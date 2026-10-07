@@ -1,0 +1,23 @@
+{
+  "slug": "2025-05-15-dji-djibouti-ameliore-ses-services-de-planification-familiale-grace-au-dos",
+  "facts": [],
+  "systems": [
+    {
+      "system": "dossier patient électronique de planification familiale (MSupply)",
+      "country_label": "dossier patient électronique de planification familiale",
+      "class": "tracker",
+      "platform": "mSupply",
+      "owner": "Ministry of Health with UNFPA; technical expertise from the mSupply Foundation",
+      "tiers": "23 public health facilities across the country, deployed 7 to 13 May 2025; tiers not stated; used by midwives and programme managers"
+    },
+    {
+      "system": "système d'information sanitaire de Djibouti",
+      "country_label": "système d'information sanitaire",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: the one system described is a patient-level electronic record for a single programme, family planning, so the typology makes it a tracker and not an emr, whatever its name; it replaces manual data management in 23 public facilities from 7 to 13 May 2025. The national health information system is named only as what the tool will be integrated with, with no description of what it does."
+}

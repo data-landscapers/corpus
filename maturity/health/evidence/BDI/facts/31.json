@@ -1,0 +1,45 @@
+{
+  "slug": "2024-07-01-bdi-annuaire-des-statistiques-sanitaires-2023",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The health ministry's 2023 statistical yearbook states that the health information system is managed by the ministry's Direction du Système National d'Information Sanitaire (DSNIS), under the Direction Générale de la Planification, whose IT cell administers DHIS2; no date is given for this, so the yearbook's own date of July 2024 is used.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "DHIS2 (plateforme nationale, SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T1;T2;T3",
+      "fact": "The ministry's yearbook states its 2023 data were collected from public, faith-based, associative and private health facilities through the national DHIS2 platform, with report forms set by level of care (community, health centre, hospital), and tabulates 2023 DHIS2 data for health centres, district hospitals and national hospitals such as CHU Kamenge and HPRC.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2 (plateforme nationale, SNIS)",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The yearbook's method note says the community health workers' monthly report goes to the health centre for entry, that entry of reports in DHIS2 must be finished by the 10th of the following month with the facility head validating, and that facility and district SIS officers make corrections in DHIS2; for 2023 it gives community reports entered in DHIS2 at 98.9% completeness and 89.8% timeliness nationally. A second passage has facility monthly reports reaching the district office within 10 days without saying in what form.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "DHIS2 (plateforme nationale, SNIS)",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {"system": "DHIS2 (plateforme nationale, SNIS)", "country_label": "Système National d'Information Sanitaire (SNIS)", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Public Health, Direction du SNIS (DSNIS)", "tiers": "health centres (CDS), district, regional and national hospitals, public, faith-based, associative and private; community (GASC) reports keyed at the health centre"},
+    {"system": "Open Clinic", "country_label": "Open Clinic", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Open carenet", "country_label": "Open carenet", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Quick soft center", "country_label": "Quick soft center", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "SIDA Info", "country_label": "SIDA Info", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Open RBF", "country_label": "Open RBF", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "GMAO", "country_label": "Gestion de maintenance assistée par ordinateur (GMAO)", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "Passages only, of 272,272 words. No clinics fact: the passages give no number or share of health centres entering their own reports, and the health-centre completeness table (section VI.1) is not in the passages; denominators stated for 2023 are 1,159 health centres (630 public) and 1,444 facilities in all. No EMR fact: Open Clinic, Open carenet, Quick soft center, SIDA Info and Open RBF are only listed among electronic tools 'for patient management, reporting or data processing', with no statement of what each does or where. No finance fact: partners (WHO, Enabel, USAID, MEMISA) are thanked for the yearbook, not named as funding the system."
+}

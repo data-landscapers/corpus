@@ -1,0 +1,56 @@
+{
+  "slug": "2022-09-22-gin-le-ministere-de-la-sante-modernise-la-gestion-des-donnees-sanitaires-g",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The PASA2 project statement says the Ministry of Health and Public Hygiene has equipped itself with DHIS2 for managing health information in Guinea, and that the August 2022 orientation workshop on it in Kissidougou was organised by the ministry's Service national d'information sanitaire (SNIS) with GIZ.",
+      "as_of": "2022-08",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The August 2022 DHIS2 training of 21 managers in the N'Zerekore region and the prefectures of Kerouane and Kissidougou, and the computer kits given to decision-makers and statisticians there, were paid for by PASA2, a EUR 26.35 million project funded by the European Union (23 million), Germany (2.35 million) and France (1 million), according to the project's own statement.",
+      "as_of": "2022-08",
+      "date_precision": "month",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T2;T3",
+      "fact": "The PASA2 statement says the online DHIS2 platform is made available to the whole health pyramid: the central ministry, regional health inspectorates, prefectoral and communal health directorates, regional and prefectoral hospitals, communal medical centres, health centres and improved health centres; national hospitals and health posts are not named. No date is given, so the publication date is used.",
+      "as_of": "2022-09-22",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "The PASA2 statement says heads of health centres, once trained on DHIS2, enter the data themselves, which from now on relieves the statistics officers of the regional inspectorates and the prefectoral and communal health directorates of data entry; it gives no count of centres doing so. No date is given, so the publication date is used.",
+      "as_of": "2022-09-22",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 (logiciel d'information sanitaire de district)",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health and Public Hygiene: Service national d'information sanitaire (SNIS), Bureau de strategie et developpement",
+      "tiers": "Central ministry, regional health inspectorates, prefectoral and communal health directorates, regional and prefectoral hospitals, communal medical centres, health centres and improved health centres"
+    }
+  ],
+  "note": ""
+}

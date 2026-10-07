@@ -1,0 +1,21 @@
+{
+  "slug": "2023-02-01-zmb-national-health-stratergic-plan-for-zambia-2022-to-2026-revised-februa",
+  "facts": [
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's National Health Strategic Plan 2022-2026 lists the Health Management Information System, which it describes as routinely providing service and disease indicators, first among the subsystems coordinated within the Ministry of Health; the statement is undated, so the revision date of February 2023 is used.", "as_of": "2023-02", "date_precision": "month", "system": "Health Management Information System (HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "governance", "value": "plan:current", "fact": "The National Health Strategic Plan 2022-2026, costed at ZMW 158.3 billion over five years, names the HMIS as a basis for monitoring the plan and sets an intervention to strengthen compatibility and integration of health information systems at different levels (cHMIS, DHMIS, HMIS, eLMIS), to be carried out through a Digital Health strategic plan then being developed; revision date of February 2023 used.", "as_of": "2023-02", "date_precision": "month", "system": "Health Management Information System (HMIS)", "class": "hmis"},
+    {"sub_indicator": "hmis", "aspect": "digitised", "value": "paper", "fact": "Among the challenges of the HIV programme the National Health Strategic Plan 2022-2026 lists that the Health Management Information System for HIV prevention 'is still paper based'; the statement covers that programme's reporting only, not the HMIS as a whole, and is undated, so the revision date of February 2023 is used.", "as_of": "2023-02", "date_precision": "month", "system": "Health Management Information System (HMIS)", "class": "hmis"},
+    {"sub_indicator": "emr", "aspect": "governance", "value": "plan:current", "fact": "The National Health Strategic Plan 2022-2026 names SmartCare, an electronic system capturing individual patient-level information on various illnesses, says it was re-engineered during 2017-2021 to be web-based and usable at all levels, and places health information interventions under a Digital Health strategic plan then being developed; it sets no SmartCare coverage figure in the passages read; revision date of February 2023 used.", "as_of": "2023-02", "date_precision": "month", "system": "SmartCare", "class": "emr"}
+  ],
+  "systems": [
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "hmis", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "SmartCare", "country_label": "SmartCare", "class": "emr", "platform": "web-based after re-engineering in 2017-2021", "owner": "", "tiers": "intended for 'all levels'; none stated as in use"},
+    {"system": "Integrated Disease Surveillance and Response", "country_label": "IDSR", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Electronic Logistics Management Information System", "country_label": "eLMIS", "class": "single-function", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "Human Resource Information System", "country_label": "HRIS", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "cHMIS", "country_label": "cHMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHMIS", "country_label": "DHMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Blood Safety Information System", "country_label": "BSIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Oral health information system", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. DHIS2 appears in the acronym list alone and is not tied to the HMIS in the passages read."
+}

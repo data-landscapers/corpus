@@ -1,0 +1,54 @@
+{
+  "slug": "2024-11-19-com-implementation-status-results-report-support-to-covid-19-vaccine-purch",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "count:69",
+      "fact": "The World Bank's results framework for project P175840 counts 69 public health facilities reporting data in DHIS2 at 31 August 2024, from a baseline of 0 in May 2021 and against a target of 80 by December 2025; it gives no denominator and does not split primary clinics from hospitals.",
+      "as_of": "2024-08-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank reports the successful deployment of DHIS2 as the new health information system as a key achievement of the project, with more than 60 facilities reporting data through it so that programmes can monitor key indicators; the indicator stood at 69 on both 23 May 2024 and 31 August 2024.",
+      "as_of": "2024-08-31",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "DHIS2 was deployed under component 2 (health system strengthening, cost USD 24.7 million) of the World Bank IDA-financed project P175840, whose implementing agency is the Ministry of Health; the report names no domestic funding for the system.",
+      "as_of": "2024-11-19",
+      "date_precision": "day",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2, the new health information system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "not stated; deployed under a World Bank project implemented by the Ministry of Health",
+      "tiers": "69 public health facilities reporting at 31 August 2024; no tier named"
+    },
+    {
+      "system": "Hospital management information system",
+      "country_label": "hospital management information system",
+      "class": "",
+      "platform": "not stated",
+      "owner": "not stated; a results indicator of World Bank project P175840",
+      "tiers": "not stated; recorded as not functional at May 2022, 31 October 2023 and 31 August 2024, target functional by December 2025"
+    }
+  ],
+  "note": ""
+}

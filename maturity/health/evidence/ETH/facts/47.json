@@ -1,0 +1,82 @@
+{
+  "slug": "2025-01-01-eth-contributions-of-district-health-information-software-2-dhis2-to-mater",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "clinics",
+      "value": "share:95%",
+      "fact": "Zerfu and others (Archives of Public Health) state that over 4,000 primary health care institutions, 95% of eligible health institutions in Ethiopia, are implementing offline and web-based versions of DHIS2; primary health care institutions are defined as district hospitals, health centres, health posts and district health offices, the figure is given as current with no date or source, and the published year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "tiers",
+      "value": "T2;T3;T4",
+      "fact": "The study describes DHIS2 as the primary digital platform for the HMIS, implemented in primary health care institutions that it lists as district hospitals, health centres and health posts, with district health offices; no date is given for the statement and the published year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "digitised",
+      "value": "facility",
+      "fact": "Of 208 primary health care facilities visited in Addis Ababa, Oromia, Sidama and Somali, five did not use DHIS2; among the 194 analysed, facilities used DHIS2 for data collection and routine reporting, close to 30% used it offline, 96% used it for monitoring and 87% (169) for resource allocation; the visit date is not given and the published year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study states that the Ethiopian Ministry of Health integrated DHIS2 into its digitisation strategy and treats 2018 as the start of DHIS2 implementation, after earlier e-HMIS and DHIS m-health projects.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    },
+    {
+      "sub_indicator": "hmis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The study states that DHIS2 aligns with the nation's digitisation strategy and that the Ministry of Health integrated it into that strategy; the strategy is not named or dated, and the published year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2; HMIS",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "district hospitals, health centres, health posts and district (woreda) health offices"
+    },
+    {
+      "system": "e-HMIS",
+      "country_label": "e-HMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DHIS m-health",
+      "country_label": "DHIS m-health",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The 95% counts institutions implementing DHIS2, district hospitals and district offices included, not clinics shown to enter their own reports. e-HMIS and DHIS m-health are named as earlier projects with no description."
+}

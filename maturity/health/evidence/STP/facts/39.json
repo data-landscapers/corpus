@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-01-stp-biennial-report-2024-2025",
+  "facts": [
+    {
+      "sub_indicator": "hmis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The WHO country office reports that during the 2024-2025 biennium DHIS2 was implemented in all districts, strengthening the national health information system for data collection, analysis and use in health services management, and that district health managers were trained on the platform, on data quality and on report generation; no month is given.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "DHIS2",
+      "class": "hmis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "national health information system",
+      "class": "hmis",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "all districts; district health managers trained on the platform"
+    },
+    {
+      "system": "Surveillance monitoring dashboard",
+      "country_label": "monitoring dashboard of the 2025-2026 National Surveillance Strengthening Plan",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Epidemic Intelligence from Open Sources (EIOS)",
+      "country_label": "EIOS",
+      "class": "single-function",
+      "platform": "EIOS",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The document does not say which facility tiers enter data, where data is keyed, or how many clinics do so."
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "2022-06-01-mtnima-agenda-national-transformation-numerique-2022-2025",
+  "facts": [
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The digital ministry's National Digital Transformation Agenda 2022-2025, dated June 2022, lists as a new project a Digital Health Portal that is to create a shared medical record (dossier médical partagé) for every citizen, reached by a unique identifier on any device, with telemedicine and e-prescription interfaces, over 2 years at EUR 5,000k (to be confirmed), financed by the State and partners; the share of the population holding one is among its 2025 indicators.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "dossier médical partagé (DMP)",
+      "class": "emr"
+    },
+    {
+      "sub_indicator": "emr",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Digital Transformation Agenda 2022-2025, dated June 2022, names the Ministry of Health as the carrier of the Digital Health Portal project that is to hold the shared medical record.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "dossier médical partagé (DMP)",
+      "class": "emr"
+    }
+  ],
+  "systems": [
+    {
+      "system": "dossier médical partagé (DMP)",
+      "country_label": "DMP (dossier médical partagé), within the Portail Numérique de Santé",
+      "class": "emr",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned; a new project in June 2022"
+    },
+    {
+      "system": "Projet e-Santé – Composante 1",
+      "country_label": "système national d'information fédérant toutes les structures du secteur de la santé",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned for the administration and care facilities; project under way in June 2022"
+    },
+    {
+      "system": "Portail Numérique de Santé",
+      "country_label": "Portail Numérique de Santé",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned"
+    },
+    {
+      "system": "SNIS",
+      "country_label": "SNIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No hmis fact: the SNIS is named only as something the e-Santé information system would interface with. That system (EUR 2,000k to be confirmed, 2 years, State and partners) covers documents, human resources, equipment and the management of medical activities from reception to billing, and is not said to hold the clinical record, so it is left unclassified. The indicator table gives public medical establishments using digital at 38% in 2021 (Ministry of Health) against 90% in 2025, tied to no system; the table's layout is broken in the passages and the 2021 baseline for the shared record cannot be read with confidence."
+}
