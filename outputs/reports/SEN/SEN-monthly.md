@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: SEN
-ledger_rows: 48
+ledger_rows: 51
 not_held: 3
-record: ecbf3f5a04bf
+record: bd7566f6d122
 ---
 
 # Senegal: monthly update, September – October 2026
@@ -63,7 +63,7 @@ The commitment was presented to the president in Washington on 14 September: [Cy
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
+The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site. The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -139,12 +139,12 @@ The online civil-status certificate platform has left its pilot: by August it [w
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html).
+An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html). A high court [began piloting a locally deployed AI application for judicial archives](https://apanews.net/senegal-ai-enters-judicial-archives/), with UNDP and Korean funding.
 <!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
-A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger. The telecommunications ministry [is pooling public bodies' equipment demand so that local assemblers can win state contracts, and visited a private assembly unit with a pilot capacity of about 7,500 computers a year](https://www.seneweb.com/fr/news/Technologie/new-deal-technologique-le-senegal-parie-sur-la-fabrication-et-lassemblage-locaux_n_505809.html); no contract, volume or budget is stated.
+A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger. The telecommunications ministry [is pooling public bodies' equipment demand so that local assemblers can win state contracts, and visited a private assembly unit with a pilot capacity of about 7,500 computers a year](https://www.seneweb.com/fr/news/Technologie/new-deal-technologique-le-senegal-parie-sur-la-fabrication-et-lassemblage-locaux_n_505809.html); no contract, volume or budget is stated. The telecommunications ministry [signed a US$150m partnership convention for local production of electronic devices](https://aps.sn/un-partenariat-de-pres-de-88-milliards-fcfa-pour-developper-la-production-locale-de-solutions-technologiques/); no financing schedule is stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 

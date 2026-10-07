@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: BFA
-ledger_rows: 27
+ledger_rows: 28
 not_held: 8
-record: 087ba848a125
+record: 2bdff8cdf376
 ---
 
 # Burkina Faso: monthly update, September – October 2026
@@ -96,7 +96,7 @@ Automation also failed publicly for the first time. The civil service ministry a
 
 Electronic signature then arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published. At the same council the Prime Minister [named weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
 
-The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated.
+The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated. The ministry's mid-year report said [222 administrative procedures were described in the first half of 2026 and were being loaded onto the online-procedures platform at 30 June](https://cfinance.news/article/burkina-fasotransformation-digitale-222-procedures-de-dematerialisation-engagees-au-premier-trimestre-2026/).
 <!-- /narrative -->
 
 ## Technology

@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: ZAF
-ledger_rows: 117
+ledger_rows: 124
 not_held: 22
-record: 6359f5f6fc06
+record: d23311947277
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -56,7 +56,7 @@ The communications minister told Parliament [the regulator collected R1.29bn for
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
+The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r). A French development finance institution [said it is investing US$20m in the fibre operator and its service providers through a consortium](https://www.proparco.fr/en/news/proparco-invests-us20-million-frogfoot-vox-and-hypa-expand-affordable-fibre-connectivity-south).
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -70,7 +70,7 @@ The state-affiliated wholesaler, whose network runs to about 180,000km with just
 
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
 
-On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set.
+On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set. An operator [announced more than R500m of network investment in the Western Cape this financial year](https://techafricanews.com/2026/10/06/vodacom-western-cape-invests-r500-million-to-expand-5g-and-digital-connectivity/), naming townships.
 <!-- /narrative -->
 ### Data Storage
 
@@ -117,7 +117,7 @@ On 9 September South Africa and Lesotho [agreed to speed up smart one-stop borde
 <!-- narrative: dpi--dpi-id -->
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
-In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly.
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly. The home affairs department's quarterly report [records a missed target to start procuring digital ID hosting infrastructure](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The same report [records a missed target to revise the identification and registration Bill for public comment](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -137,7 +137,7 @@ Absa [put an institutional digital-asset custody service live on 21 September, b
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping.
+The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping. KwaZulu-Natal [announced the launch of a portal listing its 10,067 audited public-works properties](https://www.sanews.gov.za/south-africa/kzn-launches-public-works-and-infrastructure-property-finding-portal).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -149,7 +149,7 @@ The state IT agency [is procuring a 36-month incident management system for the 
 <!-- narrative: dpi--dpi-govtech -->
 The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting. On 23 September the commission said [the party had lost its court challenge, that it had concluded end-to-end testing of its results system for the 4 November elections, and that parties could test the system through their own experts from 5 to 12 October](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/).
 
-On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports.
+On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports. Gauteng's transport department [launched a digital system to clear its operating-licence backlog](https://www.ewn.co.za/2026/10/06/gauteng-transport-department-launches-digital-system-to-tackle-operating-licence-backlog). The minister told Parliament that [the state IT agency moved from a qualified audit opinion to an unqualified one for 2025/26](https://pmg.org.za/committee-question/41100/).
 <!-- /narrative -->
 
 ## Digitalisation
@@ -179,7 +179,7 @@ A market forecast says [80% of governments will use artificial-intelligence agen
 
 The state airports company [set a five-year plan to 2031 to use AI in check-in, security, baggage handling and parking, with terminal patrol robots and a metaverse proof of concept in the first year, tied to a R21.7bn capital pipeline that also covers wider infrastructure modernisation](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb). The pipeline is not broken down.
 
-The financial conduct regulator's 2025/26 integrated report, presented to Parliament's finance committee in the last week of September, [states that a framework for the regulator's own responsible use of AI is being developed](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4), the one outstanding item under its principle on data and technology governance. No publication date is given.
+The financial conduct regulator's 2025/26 integrated report, presented to Parliament's finance committee in the last week of September, [states that a framework for the regulator's own responsible use of AI is being developed](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4), the one outstanding item under its principle on data and technology governance. No publication date is given. A consultancy partner said [half of 903 South Africans surveyed had bypassed an employer's restrictions on AI tools](https://techcabal.com/2026/10/06/south-africans-bypassed-work-ai-rules/).
 <!-- /narrative -->
 ### ICT Industry
 
@@ -189,7 +189,7 @@ Online retail [crossed 10 per cent of national retail turnover in June 2026 and 
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-An eight-month accelerator [was launched on 9 September for twelve teams across Southern Africa building AI tools for classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe). An account of 2 September [reports start-up funding recovering, with founders still unable to find capital matched to their stage](https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/). A founder [launched Alpha Ticker, reported on 17 September, to fund AI ventures](https://www.wearetech.africa/fr/fils/tech-stars/nic-klopper-lance-alpha-ticker-pour-financer-et-propulser-l-ia-en-afrique).
+An eight-month accelerator [was launched on 9 September for twelve teams across Southern Africa building AI tools for classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe). An account of 2 September [reports start-up funding recovering, with founders still unable to find capital matched to their stage](https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/). A founder [launched Alpha Ticker, reported on 17 September, to fund AI ventures](https://www.wearetech.africa/fr/fils/tech-stars/nic-klopper-lance-alpha-ticker-pour-financer-et-propulser-l-ia-en-afrique). [Fifteen AI startups were named to a three-month accelerator, from 1,057 applications](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-our-2026-cohort-for-the-google-for-startups-accelerator-south-africa/).
 <!-- /narrative -->
 
 ## Capacity

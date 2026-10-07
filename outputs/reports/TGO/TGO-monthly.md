@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: TGO
-ledger_rows: 47
+ledger_rows: 49
 not_held: 21
-record: eb89e72dd16a
+record: 8ec7f11ee53e
 ---
 
 # Togo: monthly update, September – October 2026
@@ -23,7 +23,7 @@ Three framework documents entered the repository this month and not one is in fo
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published.
+A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published. The finance ministry [published a revenue strategy for 2027 to 2031 that puts 57.1% of its cost into digital transformation](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf), electronic invoicing and AI-assisted risk analysis among it.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -33,7 +33,7 @@ On 22 September the communication regulator HARC [held its first official meetin
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The data protection regulator turned to the state's own compliance. It [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published.
+The data protection regulator turned to the state's own compliance. It [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published. The data-protection authority [opened its first certification session for data protection officers, assessing 32 professionals](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -122,7 +122,7 @@ Togo's agricultural digital work is now being copied. Chad [drew on the Togolese
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated.
+The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated. The local-language AI pilot [opened paid public contributions of voice and text with UNDP support](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia).
 <!-- /narrative -->
 
 ## Capacity

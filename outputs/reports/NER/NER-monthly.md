@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: NER
-ledger_rows: 17
+ledger_rows: 18
 not_held: 1
-record: e6aa8cf077b2
+record: 4bd3efcb4bf2
 ---
 
 # Niger: monthly update, September – October 2026
@@ -55,7 +55,7 @@ The Algerian state operator [signed conventions in Niamey on 8 September for a s
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the repository holds is from 2023.
+Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the repository holds is from 2023. The Nigerien and Algerian ministers [launched operation of the fibre link between In Guezzam and Arlit-Agadez](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/); Algeria's account gives [a starting capacity of 100 Gbps](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/).
 <!-- /narrative -->
 
 ## DPI

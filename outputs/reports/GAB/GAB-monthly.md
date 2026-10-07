@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: GAB
-ledger_rows: 40
+ledger_rows: 41
 not_held: 15
-record: 4151c9eb59a1
+record: 9b5a3005cb5c
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -47,6 +47,11 @@ On 23 September the foreign minister [signed the United Nations Convention again
 
 <!-- narrative: governance--gov-standards -->
 The regional internet registry [presented its services to the technical community at a workshop in Libreville on 10 September 2026](https://www.gabonreview.com/internet-afrinic-sensibilise-lecosysteme-gabonais-aux-enjeux-de-lipv6/), held at the initiative of the national internet exchange point and focused on the transition to IPv6.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The presidential spokesman [said on radio that he uses a virtual private network to get round the social-media suspension, which was reported still in force](https://gabonmailinfos.com/reseaux-sociaux-apres-9-mois-laveu-du-porte-parole-de-la-presidence-relance-la-polemique/).
 <!-- /narrative -->
 
 ## ICT Infrastructure

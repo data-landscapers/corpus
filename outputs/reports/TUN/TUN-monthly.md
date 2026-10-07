@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: TUN
-ledger_rows: 47
+ledger_rows: 49
 not_held: 5
-record: 7a2953e6cd92
+record: caba497b6532
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -67,7 +67,7 @@ On 29 September the incumbent's chief executive [put its national fibre network 
 <!-- narrative: ict-infrastructure--infra-store -->
 Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
 
-On 29 September the health minister [named a Tunisian sovereign cloud as the host for every citizen's health identifier and digital medical record](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No operator, provider or amount is named.
+On 29 September the health minister [named a Tunisian sovereign cloud as the host for every citizen's health identifier and digital medical record](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No operator, provider or amount is named. An operator and an IT services firm [announced a partnership for cloud resources hosted and operated in Tunisia](https://techafricanews.com/2026/10/06/tunisias-orange-and-focus-partner-to-expand-local-cloud-services/); no capacity is stated.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -80,7 +80,7 @@ The administration was then given a baseline to meet. Circular n. 5 of 2 Septemb
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. [The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/).
+The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. [The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/). The interior ministry said [its strategy for the criminal-record extract rests on interconnection with the justice and finance ministries](https://www.tuniscope.com/article/441753/actualites/societe/b3-le-ministere-de-l-interieur-devoile-sa-nouvelle-strategie-242211).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

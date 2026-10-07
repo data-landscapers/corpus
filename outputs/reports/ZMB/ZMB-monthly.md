@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: ZMB
-ledger_rows: 35
+ledger_rows: 36
 not_held: 44
-record: 586e92fc741a
+record: 250779f91210
 ---
 
 # Zambia: monthly update, September – October 2026
@@ -150,6 +150,11 @@ A Zambian firm founded in 2023, Mytochondria, [uses satellite imagery and artifi
 
 ## Geopolitics
 
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/).
+<!-- /narrative -->
 ### India activities
 
 <!-- narrative: geopolitics--geopol-india -->

@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: XWA
-ledger_rows: 20
+ledger_rows: 21
 not_held: 1
-record: aa9a70db5be6
+record: 5383fa80f35e
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -73,7 +73,7 @@ Eight West African countries [took part in the pilot phase of a digital platform
 ### National statistics
 
 <!-- narrative: systems--data-statistics -->
-ECOWAS member states [began validating a practical guide for population and housing censuses in Cotonou on 15 September](https://lanation.bj/societe/recensements-generaux-de-la-population-et-de-lhabitat-lafrique-de-louest-veut-harmoniser-ses-methodes), meant to make national census data comparable across the region; the guide is not published.
+ECOWAS member states [began validating a practical guide for population and housing censuses in Cotonou on 15 September](https://lanation.bj/societe/recensements-generaux-de-la-population-et-de-lhabitat-lafrique-de-louest-veut-harmoniser-ses-methodes), meant to make national census data comparable across the region; the guide is not published. [A week-long regional training for managers of national statistical systems opened at Monrovia on 5 October](https://frontpageafricaonline.com/liberia/liberia-lisgis-boss-cautions-against-inadequate-usage-of-ai-for-data-collection/).
 <!-- /narrative -->
 
 ## Coordination and collaboration

@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: SWZ
 ledger_rows: 32
 not_held: 3
-record: 45810d15f55e
+record: 0b653e8cf9c2
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -43,7 +43,7 @@ A second regional channel opened alongside the SADC one. The Digital Cooperation
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills. The regional programme's half-year report [puts the Digital Eswatini Project at US$65m, with negotiations concluded on 18 May 2026 and the lender's approval in June](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); a preparation grant closes in December 2026, and the government's financial management system, still in a restricted pilot, may not serve the project's reporting.
+The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills. The regional programme's half-year report [puts the Digital Eswatini Project at US$65m, with negotiations concluded on 18 May 2026 and the lender's approval in June](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); a preparation grant closes in December 2026, and the government's financial management system, still in a restricted pilot, may not serve the project's reporting. The ICT minister told senators that [E26m of the guaranteed US$26m loan goes to the post office pension fund](https://independentnews.co.sz/49165/news/who-was-held-accountable-for-eptc-pension-crisis-sen-tony/), after Parliament approved the guarantee.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -73,7 +73,7 @@ In September the Civil Service Commission [found a suspended assistant regional 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/).
+A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/). The bank [began telling customers that its Instant Money service will return as the wallet closes](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced.
 <!-- /narrative -->
 ### Registries
 
@@ -87,7 +87,7 @@ The social registry is moving beyond its pilot region. The deputy prime minister
 <!-- narrative: dpi--dpi-mis -->
 The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
 
-The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was.
+The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was. [The outage was blocking new loans to civil servants](https://www.eswatiniobserver.com/system-glitch-stalls-civil-servants-loans/), lenders being unable to check applicants against the salary-deduction ceiling.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

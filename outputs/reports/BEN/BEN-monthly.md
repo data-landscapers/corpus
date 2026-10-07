@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: BEN
-ledger_rows: 31
+ledger_rows: 32
 not_held: 4
-record: 42fc4e371379
+record: 767393e3031c
 ---
 
 # Benin: monthly update, September – October 2026
@@ -84,7 +84,7 @@ Customs [now issues the laisser-passer for foreign vehicles wholly online](https
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The health ministry [awarded a contract for 20 AI-assisted malaria diagnosis units for public referral hospitals to the South Korean firm Noul](https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic), reported on 8 September. A state project [has collected 700 hours of Fongbe audio from 2,400 contributors](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees) to build AI training material in Beninese languages; the account asks what happens to the recordings afterwards. The national machine-learning meeting at Cotonou on 10 to 12 September [opened a track on African-language models](https://lanation.bj/societe/ia-numerique-les-langues-africaines-entrent-dans-la-course-a-lia).
+The health ministry [awarded a contract for 20 AI-assisted malaria diagnosis units for public referral hospitals to the South Korean firm Noul](https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic), reported on 8 September. A state project [has collected 700 hours of Fongbe audio from 2,400 contributors](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees) to build AI training material in Beninese languages; the account asks what happens to the recordings afterwards. The national machine-learning meeting at Cotonou on 10 to 12 September [opened a track on African-language models](https://lanation.bj/societe/ia-numerique-les-langues-africaines-entrent-dans-la-course-a-lia). The digital agency's quarterly bulletin [called for AI-specific rules on governance, liability and compliance](https://asin.bj/doc/150/download), naming no legal vehicle or timetable.
 <!-- /narrative -->
 
 ## Capacity

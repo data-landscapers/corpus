@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: SYC
-ledger_rows: 8
+ledger_rows: 9
 not_held: 6
-record: 0b9a3bd9bffe
+record: 75d4c1c06afc
 ---
 
 # Seychelles: monthly update, September – October 2026
@@ -43,6 +43,14 @@ The department that would write government-wide standards restated its mandate r
 
 <!-- narrative: finance--finance-new -->
 The African Development Bank [approved a USD 34 million loan on 22 September for the third and final phase of its Economic Resilience and Green Recovery Support Programme, taking its financing across the three phases to USD 84 million](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998). It is budget support spanning public financial management, the business environment and climate resilience; its named digital reforms are electronic invoicing for tax compliance, a national e-procurement system and a one-stop investment portal, and no digital share is stated.
+<!-- /narrative -->
+
+## ICT Infrastructure
+
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+The national response team [designed and delivered the third national cyberdrill itself for the first time](https://nation.sc/articles/32649/cert-sc-takes-the-lead-in-third-seychelles-national-cyberdrill).
 <!-- /narrative -->
 
 ## DPI

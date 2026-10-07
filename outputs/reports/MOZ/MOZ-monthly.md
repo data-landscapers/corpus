@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: MOZ
-ledger_rows: 31
+ledger_rows: 32
 not_held: 19
-record: 0f54705a3f72
+record: b04b4b83ba24
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -101,7 +101,7 @@ The citizen portal was presented as a single counter for about 140 public servic
 
 The road transport institute [moved applications for special transit licences for oversize and overweight vehicles to an end-to-end online process on 1 September](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
 
-The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began.
+The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began. The digital transformation agency [held the country's first digital service delivery design lab](https://clubofmozambique.com/news/mozambique-launches-its-first-design-lab-to-integrate-digital-public-services/), with the World Bank and a policy institute.
 <!-- /narrative -->
 
 ## Technology

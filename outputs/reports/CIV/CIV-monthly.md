@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: CIV
-ledger_rows: 31
+ledger_rows: 32
 not_held: 10
-record: 262c307ddcd8
+record: baaf0f1a6156
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -69,6 +69,11 @@ A data centre was [installed at the national polytechnic institute in Yamoussouk
 The cocoa traceability system went live for the new season. Compulsory with the producer card from 1 September, it [recorded about 38,000 producers selling with their cards in its first 13 days, and over 26,000 tonnes bought at the farm gate, each transaction sent to the coffee and cocoa board in real time](https://www.aip.ci/cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre/). The rollout gaps producers raised in August over card conditions and remote collection are not reported as settled.
 
 The credit bureau's data turned out to be mostly stale. On figures as at 10 June, [67.88 per cent of Ivorian contracts in the regional credit bureau had not been updated, against a union average of 46.20 per cent, and the country accounted for 60.17 per cent of all non-updated contracts in the union](https://news.abidjan.net/articles/749264/economie-qualite-des-donnees-de-credit-la-cote-divoire-mobilise-les-acteurs-financiers-pour-renforcer-le-dispositif-bic-uemoa). The finance ministry opened consultations on late and incomplete reporting, with three sectoral commissions to produce a national credit-information roadmap.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The government [launched a feasibility study for a national authentication platform and identity wallet](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/), due by January 2027.
 <!-- /narrative -->
 ### Sectoral management information systems
 

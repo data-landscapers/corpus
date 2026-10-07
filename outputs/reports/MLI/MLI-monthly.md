@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: MLI
-ledger_rows: 13
+ledger_rows: 14
 not_held: 1
-record: 47423f13d25e
+record: 65a0f56e9507
 ---
 
 # Mali: monthly update, September – October 2026
@@ -45,6 +45,14 @@ The standards agency's fourteenth ordinary board session [balanced a 2026 budget
 
 <!-- narrative: governance--gov-discourse -->
 The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
+<!-- /narrative -->
+
+## ICT Infrastructure
+
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
 <!-- /narrative -->
 
 ## DPI

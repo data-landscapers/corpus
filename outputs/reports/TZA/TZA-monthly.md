@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: TZA
-ledger_rows: 59
+ledger_rows: 62
 not_held: 5
-record: 3158523e1cb9
+record: 5946ab9492ca
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -90,7 +90,7 @@ August gave the national series the earlier account lacked. The regulator's dire
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published.
+The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published. The central bank [signed a cooperation agreement with IFC on the credit reporting system](https://www.tanzaniainvest.com/finance/banking/ifc-bot-agreement-credit-reporting-sme-financing).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -104,7 +104,7 @@ On International Identity Day the registration authority [said it will link the 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The state operator took its card into a stadium. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country.
+The state operator took its card into a stadium. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country. A bank and the Zanzibar health fund [signed a memorandum on member enrolment and contribution collection](https://ippmedia.co.tz/the-guardian/news/local-news/read/kcb-zanzibar-health-fund-expand-healthcare-access-2026-10-05-145433).
 <!-- /narrative -->
 ### Registries
 
@@ -143,7 +143,7 @@ The only movement on machine-generated content is in the argument rather than th
 
 A month later the rules existed. On 31 August the e-Government Authority's board [approved standards and guidelines for AI in public institutions, binding every institution and every AI system it runs, requiring impact and risk assessments and prohibiting fully automated decisions with significant outcomes](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They are a standard under the e-government statute, not a law, and the national strategy text is still not public.
 
-On a study visit to Helsinki reported on 29 September, the ICT Commission's head of ICT development [said the National AI Strategic Framework 2026-2031 is awaiting approval, and that the commission proposes a national readiness and compute-demand assessment feeding a planned AI observatory](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). No text of the framework is published.
+On a study visit to Helsinki reported on 29 September, the ICT Commission's head of ICT development [said the National AI Strategic Framework 2026-2031 is awaiting approval, and that the commission proposes a national readiness and compute-demand assessment feeding a planned AI observatory](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). No text of the framework is published. The state power utility [launched an AI-powered customer channel and a portal for large customers](https://dailynews.co.tz/tanesco-modernizes-its-customer-service-systems-in-line-with-vision-2050-goals/).
 <!-- /narrative -->
 ### ICT Industry
 

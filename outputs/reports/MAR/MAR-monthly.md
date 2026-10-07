@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: MAR
-ledger_rows: 23
+ledger_rows: 24
 not_held: 14
-record: 30c0525fb575
+record: 292ed1f8d639
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -50,7 +50,7 @@ The digital transition ministry and a critical digital-infrastructure supplier [
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-[The African Development Bank and the insurance supervisor ACAPS launched a US$680,000 InsurTech programme in September, US$510,000 of it an AfDB grant](https://canal212.ma/en/insurtech-maroc-bad-insurtech-bad-appuie-programme-moderniser-assurance-maroc/), to run until early 2027 and extend digital insurance to the under-insured.
+[The African Development Bank and the insurance supervisor ACAPS launched a US$680,000 InsurTech programme in September, US$510,000 of it an AfDB grant](https://canal212.ma/en/insurtech-maroc-bad-insurtech-bad-appuie-programme-moderniser-assurance-maroc/), to run until early 2027 and extend digital insurance to the under-insured. [A decree in the official bulletin of 1 October 2026 approved the EUR 218.2m loan agreement for the digital transformation programme](https://www.laverite.ma/maroc-567-millions-numerique-risques-climatiques-banque-mondiale/).
 <!-- /narrative -->
 
 ## ICT Infrastructure

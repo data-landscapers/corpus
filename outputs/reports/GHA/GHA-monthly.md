@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: GHA
-ledger_rows: 85
+ledger_rows: 86
 not_held: 9
-record: 0995814372ff
+record: 32caa7a2d795
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -182,7 +182,7 @@ The coders programme is to reach first-year degrees: the minister [said 12 unive
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
-Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count.
+Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count. The Korean ambassador said [the Korean aid agency is launching a US$28m digital basic education programme for 2026 to 2032](https://ghanaiantimes.com.gh/korea-ghana-50-a-partnership-anchored-on-mutual-respect-trust-and-shared-prosperity/).
 <!-- /narrative -->
 ### Research institutions
 

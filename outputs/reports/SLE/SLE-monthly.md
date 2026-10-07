@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: SLE
-ledger_rows: 24
+ledger_rows: 26
 not_held: 5
-record: 1a37a9e15795
+record: 251962d636e4
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -50,13 +50,18 @@ The contract to network government offices was challenged. On 21 September the I
 <!-- narrative: ict-infrastructure--infra-energy -->
 Three rural mini-grid sites [were named on 24 September for a philanthropic demonstration adding computing load to under-used generation](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), with local demand given priority; no site, capacity or start date is given for the country.
 <!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+The road safety authority [disclosed an unauthorised intrusion into the systems used to produce vehicle licences](https://www.sierraleonemonitor.com/slrsa-alerts-public-fake-vehicle-licences/), with five arrests.
+<!-- /narrative -->
 
 ## DPI
 
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), examining identity, payment and data exchange systems.
+A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), examining identity, payment and data exchange systems. The revenue authority [began consultations at the Jendema border crossing ahead of launching ASYCUDA World there](https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

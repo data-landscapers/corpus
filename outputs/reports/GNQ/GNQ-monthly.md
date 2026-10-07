@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: GNQ
-ledger_rows: 13
+ledger_rows: 14
 not_held: 6
-record: 386cd4ffefe3
+record: e258f5e33229
 ---
 
 # Equatorial Guinea: monthly update, September – October 2026
@@ -61,6 +61,11 @@ The one payments instrument in the window is a standing one, surfaced by a sales
 
 <!-- narrative: dpi--dpi-mis -->
 Customs also appears on a list of intended work: [an undated page of the PAMFP public finance reform programme names a second phase of the SYDONIA customs software for Bata, Mongomo, Ebebiyin, Corisco, Aconibe, Cogo and Rio Campo, with computer equipment and network links to carry it beyond Malabo](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/). No installation, cost or timetable is attached to it.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The government [announced a digital edition of the official gazette with free online access and search](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital).
 <!-- /narrative -->
 
 ## Inclusion

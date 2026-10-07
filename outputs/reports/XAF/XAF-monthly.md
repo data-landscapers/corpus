@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: XAF
-ledger_rows: 90
+ledger_rows: 91
 not_held: 3
-record: b53ed3e95051
+record: d446f683de98
 ---
 
 # Africa: monthly update, September – October 2026
@@ -57,7 +57,7 @@ The Commission's Infrastructure and Energy Department [put draft AU Guidelines o
 
 A [Hub for AI and Disability Inclusion, hosted at KNUST, and an African Disability Data Network were launched in Nairobi with IDRC, UK and AI4D backing](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/), to build datasets including African sign languages and assess disability inclusion in national AI strategies; no dataset is yet published.
 
-The 2026 Global Index on Responsible AI, [presented at a regional AI governance dialogue convened by the Global Center on AI Governance, finds African countries scoring high on skilling and capacity-building and low on labour protections](https://techreviewafrica.com/news/7520/african-ai-governance-dialogue-calls-for-practical-context-responsive-frameworks), with African workers concentrated in the low-paid and precarious parts of the AI value chain; no country scores are held.
+The 2026 Global Index on Responsible AI, [presented at a regional AI governance dialogue convened by the Global Center on AI Governance, finds African countries scoring high on skilling and capacity-building and low on labour protections](https://techreviewafrica.com/news/7520/african-ai-governance-dialogue-calls-for-practical-context-responsive-frameworks), with African workers concentrated in the low-paid and precarious parts of the AI value chain; no country scores are held. The World Bank's regional economic update [urged Sub-Saharan governments to invest in AI, pointing to low-cost applications, shared data centres and stronger data-protection laws](https://www.cnbcafrica.com/2026/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments).
 <!-- /narrative -->
 
 ## Shared systems and infrastructure

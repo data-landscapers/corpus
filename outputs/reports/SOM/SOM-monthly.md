@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: SOM
-ledger_rows: 14
+ledger_rows: 15
 not_held: 2
-record: 57ecd1c87d3f
+record: dbb3c9a76ab6
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -44,7 +44,7 @@ A business daily reported on 15 September that [Berbera is being positioned as a
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx). The immigration and citizenship agency [presented its biometric passport, electronic visa and exchange of travel data to the African Union's counterterrorism centre on 16 September](https://www.hiiraan.com/security4/2026/Sep/206283/somali_immigration_agency_au_discuss_border_security_and_counterterrorism_cooperation.aspx) as the basis of border-security cooperation. No issuance figure, enrolment coverage or data-sharing instrument is published.
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx). The immigration and citizenship agency [presented its biometric passport, electronic visa and exchange of travel data to the African Union's counterterrorism centre on 16 September](https://www.hiiraan.com/security4/2026/Sep/206283/somali_immigration_agency_au_discuss_border_security_and_counterterrorism_cooperation.aspx) as the basis of border-security cooperation. No issuance figure, enrolment coverage or data-sharing instrument is published. The identity authority [moved to link its services to the national unified public service delivery centre](https://en.goobjoog.com/somalia-moves-to-link-national-id-with-public-services/); the integration is planned, not implemented.
 <!-- /narrative -->
 ### Registries
 

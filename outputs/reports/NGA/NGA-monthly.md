@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: NGA
-ledger_rows: 130
+ledger_rows: 136
 not_held: 9
-record: 788e7bc15f85
+record: 8cfd870c5e25
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -37,7 +37,7 @@ The commission opened a second framework alongside its enforcement work: validat
 
 The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
 
-The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/).
+The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/). The data-protection commission and the orientation agency [signed a memorandum on public data-protection awareness](https://techafricanews.com/2026/10/06/nigerias-ndpc-noa-sign-mou-to-expand-data-protection-awareness/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -113,7 +113,7 @@ A second use for election hardware was floated rather than agreed: the admission
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
-On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published.
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -128,7 +128,7 @@ A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital 
 
 Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
 
-The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given. A banking group's audited half-year statements [put its payments subsidiary's profit at NGN 7.81bn](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943), the first position the repository holds on that switch.
+The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given. A banking group's audited half-year statements [put its payments subsidiary's profit at NGN 7.81bn](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943), the first position the repository holds on that switch. A listing prospectus, as reported, shows [a central bank directive required an operator's mobile-money arm to hand its 25% stake in a payment service bank back to the network company](https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/).
 <!-- /narrative -->
 ### Registries
 
@@ -177,13 +177,18 @@ One state measured its own agencies rather than announcing a platform. The Anamb
 
 Edo State [replaced a foreign-owned e-governance platform, for which it paid licence fees after funding its build, with a platform of its own serving all 128 state ministries, departments and agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/), the head of the state ICT agency said on 23 September. The date of the switch is not stated.
 <!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+The regulator's investment forum [resolved on a blended funding model for community-owned rural networks, with a six-month target to secure funding](https://businessday.ng/technology/article/fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks/).
+<!-- /narrative -->
 
 ## Technology
 
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held.
+On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held. The technology agency [published an advisory warning against entering identity numbers, bank details or confidential data into public AI tools](https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/).
 <!-- /narrative -->
 ### ICT Industry
 
@@ -203,7 +208,7 @@ A [US$12m Korean-funded Abuja Centre for Entrepreneurship is under construction 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/). Free digital and employability training [opened for 50,000 young people in the North-Central states and the federal capital](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/), towards a national target of 300,000.
+The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/). Free digital and employability training [opened for 50,000 young people in the North-Central states and the federal capital](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/), towards a national target of 300,000. The regulator said [its training institute has been designated an ITU Digital Transformation Centre](https://techafricanews.com/2026/10/06/nigerias-ncc-to-leverage-itu-digital-centre-to-expand-digital-skills-training/).
 <!-- /narrative -->
 
 ## Inclusion
@@ -217,7 +222,7 @@ A wider sample gave a less bleak figure: [47% of about 30 government digital pla
 
 An urban survey of 13,251 respondents in 12 cities, published in September by a consultancy and an operator group, [put smartphone ownership at 75% in 2025 against 64% in 2023, and found more than a third of mobile subscribers still on 2G in May 2026](https://assets.kpmg.com/content/dam/kpmgsites/ng/pdf/2026/09/Nigeria%20Smartphone%20Study%20-%20Orange%20Group%20and%20KPMG.pdf.coredownload.inline.pdf).
 
-A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people. Civil-society organisations [reported on 2 October that access to TikTok over mobile data has been disrupted in Kaduna, Kebbi, Kano and Sokoto since about 14 September](https://paradigmhq.org/joint-statement-on-the-unexplained-tiktok-disruption-in-northern-nigeria-by-civil-society-organisations/), across more than one provider; no authority, operator or the platform has explained it, and the organisations say they cannot establish the cause.
+A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people. Civil-society organisations [reported on 2 October that access to TikTok over mobile data has been disrupted in Kaduna, Kebbi, Kano and Sokoto since about 14 September](https://paradigmhq.org/joint-statement-on-the-unexplained-tiktok-disruption-in-northern-nigeria-by-civil-society-organisations/), across more than one provider; no authority, operator or the platform has explained it, and the organisations say they cannot establish the cause. The 2026 access-to-finance survey [finds only 30.7 per cent of formally included adults financially healthy](https://nairametrics.com/2026/10/05/nigeria-hits-73-financial-inclusion-target-but-60-4-million-adults-remain-vulnerable/). A foundation [filed a fundamental-rights suit against the platform over restricted access in four northern states](https://punchng.com/foundation-sues-as-tiktok-restricts-access-to-kano-kebbi-others/).
 <!-- /narrative -->
 ### Digital divides
 

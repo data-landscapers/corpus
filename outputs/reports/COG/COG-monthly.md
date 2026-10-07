@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 place: COG
-ledger_rows: 14
+ledger_rows: 15
 not_held: 6
-record: c869d21ac48f
+record: 7051d68e7b76
 ---
 
 # Congo: monthly update, September – October 2026
@@ -85,6 +85,11 @@ The state-control ministry publishes an [online channel for reporting irregulari
 
 ## Data
 
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The statistics institute [held a workshop to set up a permanent statistical system for informal cross-border trade](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel), with a baseline survey planned for 2027.
+<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
