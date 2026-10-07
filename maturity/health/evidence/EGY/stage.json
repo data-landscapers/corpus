@@ -1,0 +1,33 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "governance": "",
+      "tiers": "",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-008",
+      "gaps": "The one row describes the flow of birth and death notifications only, from health offices on paper to electronic processing at district level; nothing shows clinics' routine reports of patients treated entering the system, and the latest year the source cites is 2011. No tier, clinic share, governance or twelve-month fact is held.",
+      "note": "A national health information system keyed at district level is on record, with a health-office pilot in some governorates, which meets stage 2. Stage 3 needs the district system to take the clinics' routine reports, and the evidence shows only vital-event notifications."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "EGY-006;EGY-007;EGY-009",
+      "gaps": "Two facts disagree: the Egypt Healthcare Authority said in August 2024 that its primary units in the Universal Health Insurance governorates are 100% digitised on a unified record (EGY-009, EGY-010), and the government's compact of December 2025 puts electronic health records at early pilots (EGY-006); the newer stands. No count of hospitals or clinics with a denominator, no number of governorates covered, and no dated fact on where the record is entered: the only such row outside the excluded source is one paper-based centre observed to 2019. T3 and T4 use is in the insurance governorates only. The advancing flag rests on a proposal discussed in September 2026, with no timetable.",
+      "note": "The newest national statement is early pilots, and the hospital use on record carries no count, so neither most T1 and T2 hospitals nor primary clinics across some districts is established as at the date. Stage 3 would follow from a dated figure for the insurance governorates' primary clinics that postdates the compact."
+    }
+  ]
+}

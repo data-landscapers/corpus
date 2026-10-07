@@ -1,0 +1,33 @@
+{
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "no-change",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-016;LBY-017;LBY-023;LBY-024;LBY-025",
+      "gaps": "No share or count of primary clinics entering their own reports: the 465 primary facilities (LBY-025) are where DHIS2 was rolled out, with no denominator, and WHO says consistent facility reporting remains a challenge (LBY-016). Sources name hospitals and PHC facilities, not levels; a 2021 assessment (LBY-007) called DHIS2 a pilot not in routine use, against the ministry's 2021 report tabulated from DHIS2 entries (LBY-032); the 2024-2025 operational plan is not shown to run to the as-at, and the donor finance fact is dated 2023.",
+      "note": "Facility-level entry is evidenced in hospitals and primary facilities, but stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published. Coverage does not pass the cap's line, so the cap is not in play."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T1",
+      "digitised": "point-of-care",
+      "last12": "",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-012;LBY-013;LBY-028;LBY-029;LBY-030",
+      "gaps": "Nothing shows the 2022 two-clinic trial of the Unified Electronic Health File continuing, or the electronic health file launched in January 2024 in use anywhere; the one hospital system (Sabratha, LBY-012) is not in full use, and most public hospitals are stated to be on paper (LBY-013), which disagrees with the point-of-care entry shown at the 2022 trial (LBY-030). Plan facts disagree: the 2025-2030 national roadmap names electronic health records (LBY-021), while the newer Sabratha staff survey reports no clear plan for that hospital's system (LBY-014); no dated event falls in the last twelve months, and no finance source is stated.",
+      "note": "One teaching hospital partly applying a system and a two-clinic trial are some hospitals or pilot facilities, which is stage 2. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the newest fact says most public hospitals keep paper records."
+    }
+  ]
+}

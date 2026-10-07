@@ -1,0 +1,33 @@
+{
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002;BWA-024;BWA-025",
+      "gaps": "No admitted source names the level at which facilities' paper reports are keyed: BWA-002 establishes only that entry is not at the facility, and the one row saying district (BWA-003) is from the excluded source. The 100% figure (BWA-025, 2018) counts facilities reporting through DHIS2, not clinics entering their own data, and has no numerator or denominator; tiers and that share are dated 2018-19. Inside the 36 months no plan or finance fact is held, and nothing is held for the last twelve months.",
+      "note": "DHIS2 takes reports from all public facilities, but the newest fact (2025) has facilities reporting on paper and onsite capture only recommended. Stage 4 needs entry at the facility by more than half of primary clinics, and no figure for facility entry is published."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;finance:domestic",
+      "tiers": "T1;T2",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "count:22",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "BWA-006;BWA-019;BWA-021;BWA-023;BWA-027",
+      "gaps": "Hospital coverage rests on facts dated 2019-20 (IPMS in all public hospitals); the only newer tier fact is one teaching hospital (BWA-014, 2024-11), which does not carry the country. The 22 facilities of the centralised EMR are in one district, their types are not given and there is no national denominator; BWA-010 (2025-11) calls it a pilot in two districts. No unique patient identifier or retrieval at another facility is established (BWA-023, 2020). Finance disagrees: a domestic development line that does not name the EMR (BWA-009) against an IBRD loan that costs it (BWA-013). The plan facts are older than 36 months and are not carried.",
+      "note": "All public hospitals held an electronic record in 2019-20, and a centralised EMR reached 22 facilities in one district by March 2026. Stage 4 needs the primary tier on a shared record with more than half of clinics, and the evidence shows one district, no denominator and no shared identifier in use."
+    }
+  ]
+}

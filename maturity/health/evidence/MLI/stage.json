@@ -1,0 +1,33 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T2;T3",
+      "digitised": "facility",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "community integrated",
+      "stage_sources": "MLI-027;MLI-002;MLI-025;MLI-016",
+      "gaps": "No share or count of primary clinics entering their own reports: the 98% of September 2019 (MLI-016) is DHIS2 deployed in community health centres, with no numerator, denominator or statement of who keys, and facility entry is evidenced only for four sub-districts of Mopti in 2018 and, uncounted, for SNISI terminals at CSCom and CSRéf. Tiers and coverage are not dated since 2019; finance is not stated inside 36 months (the donor-dependence fact is of February 2021) and no dated event falls in the last twelve months; MLI-005 and MLI-006 are from the excluded source and set nothing.",
+      "note": "Routine data of CSCom, CSRéf and hospitals is on the ministry's DHIS2 and facility entry is described, but stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and only a deployment share is held. The cell takes stage 3, facility entry not published."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T2;T3",
+      "digitised": "point-of-care",
+      "last12": "",
+      "clinics": "count:27",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-003;MLI-004;MLI-019;MLI-034;MLI-023",
+      "gaps": "The newest tier fact (MLI-003, July 2026) is one Bamako hospital and does not carry the country; the T2 and T3 facts are of 2022 and concern OpenClinic, a different system: a dozen of 65 reference centres, 5 of 13 hospitals still in progress, and 27 CSCom equipped by the SanDi project with no denominator and no statement of routine use. Nothing shows most T1 and T2 hospitals, or primary clinics across named districts, keeping the record; the patient-file pilots of MLI-023 are reported as failed. Finance is not stated inside 36 months (the donor facts are of 2022 and January 2023), and the OpenClinic presentation of 16 September 2025 falls two weeks outside the twelve months; MLI-007 is from the excluded source and sets nothing.",
+      "note": "What is held is some hospitals and project sites: one hospital with a point-of-care circuit, a minority of reference centres and 27 project-equipped CSCom. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts using the record, and neither is established."
+    }
+  ]
+}

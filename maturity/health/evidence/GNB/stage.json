@@ -1,0 +1,34 @@
+{
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T3",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GNB-009;GNB-010;GNB-012",
+      "gaps": "No coverage fact is dated after June 2023. Clinics: the 2022 yearbook (GNB-010) counts reports, not centres keying their own, and disagrees with the 2018 pilot value (GNB-020), whose tablet entry from health areas has no later fact and no number of sites. Tiers: the 2019 presentation (GNB-017) gave T1;T2;T3 and the 2022 yearbook row speaks of health centres only. Governance: finance is not stated, and the plan fact (GNB-013, PENSIS 2022-2026) is dated 2022, outside the 36 months, so it is not carried. Last twelve months rests on a climate-data assistance announcement and a testing instance, not on any change in reporting coverage.",
+      "note": "Health centres' monthly reports reach DHIS2 by being keyed from paper at the 11 regional health directorates, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics, and the only facility entry on record is a 2018 pilot of unstated size.",
+      "parent": "Parent, 2026-10-07: plan:current restored; the plan the evidence names runs to 2026 and so covers the as-at."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "",
+      "tiers": "",
+      "digitised": "point-of-care",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Three of the four rows (GNB-003, GNB-004, GNB-005) come from the excluded source and set nothing, including the only paper statements and the only clinics value. The one remaining row (GNB-015) is a single private clinic in Bissau of unstated tier, as at June 2023: it does not carry the country, and nothing is held on tiers, primary clinics, governance or the last twelve months.",
+      "note": "Stage 2 needs its whole row and no admissible row gives the tiers or the primary-clinic position. Stage 1 is a claim, and the only dated statements of paper records are in the excluded source."
+    }
+  ]
+}

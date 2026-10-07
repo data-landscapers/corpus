@@ -1,0 +1,33 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "tiers": "T1",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "share:21.4%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-002;CAF-014;CAF-015;CAF-019",
+      "gaps": "No fact says primary clinics enter their own reports: the 21.4% is 3 of 14 hospitals and health centres chosen for access and security in Bangui and three regions (to July 2024), not a national share, and the only tiers fact is from 2020. The plan and the donor finance are dated 2020 and 2022, outside the 36 months, and the completeness rise to 2025 is a year-dated trend, not an event placed inside the twelve months; CAF-004 is from the excluded source and sets nothing.",
+      "note": "DHIS2 is in all 35 districts with data managers keying facilities' reports and completeness above 85% in 2025, which meets the district row. Stage 4 needs entry at the facility by more than half of primary clinics, and the evidence shows district entry and a small unrepresentative sample."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "finance:donor",
+      "tiers": "T3",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CAF-008;CAF-009;CAF-010",
+      "gaps": "The number of e-SENI sites, the hospitals' level and any district coverage are not stated, and no clinics figure is held; owner and plan are not stated. The deployment is undated and carries its source's published date of 2026-03-18; the record synchronises to a central server but is not said to be retrievable at another facility. CAF-005 and CAF-006 are from the excluded source and set nothing.",
+      "note": "A phased deployment at an unstated number of hospitals and health centres is pilot facilities, the stage 2 row. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the one source says records in many facilities are still on paper."
+    }
+  ]
+}

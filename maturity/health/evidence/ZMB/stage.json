@@ -1,0 +1,33 @@
+{
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T2;T3;T4",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-032;ZMB-033;ZMB-031;ZMB-040;ZMB-039",
+      "gaps": "No count or share of facilities entering their own reports: Gavi's audit (April 2024) says only that 'a few' report directly, and the 99% completeness figure for 2024 does not say where data are keyed. The tier fact dates from 2019 interviews and nothing dated falls in the last twelve months; systems.csv shows a community package sending data into 'national health information systems' without naming the HMIS, so community integrated is not set.",
+      "note": "Clinics' paper reports are keyed into DHIS2 at the district office, with facility entry in an unquantified few, which is the whole of rung 3. Rung 4 needs entry at the facility by more than half of primary clinics on a figure with a denominator, and none is held."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3",
+      "digitised": "shared",
+      "last12": "advancing",
+      "clinics": "count:877",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZMB-019;ZMB-024;ZMB-044;ZMB-027;ZMB-017",
+      "gaps": "The newest figures disagree with the last count of use: 80% of health facilities (7 July 2026) and more than 2,000 facilities (16 July 2026) are stated as deployment or design scope, with no numerator, denominator or split for primary clinics, against 877 of 3,540 facilities in use at April 2025. The newest tier facts (T1, 2026) concern the SmartCare 2.0 hospital pilot only; primary-tier use rests on 2019 interviews, the unsplit 2025 counts and one rural clinic, and the shared record is the implementers' description of the design, not a measured practice.",
+      "note": "SmartCare is in use at a minority of facilities, 877 of 3,540 on the shared SmartCare Pro and about 1,800 on older versions, including health centres in select districts, which meets rung 3. Rung 4 needs more than half of primary clinics entering at the point of care on the shared record, and the only figures above half count deployment, not use."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none;finance:donor",
+      "tiers": "T1;T2",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SDN-022;SDN-023;SDN-024;SDN-025;SDN-026;SDN-036",
+      "gaps": "Every coverage fact dates from 2018 to 2022, before the conflict of April 2023; nothing since says where data is keyed, which localities still enter it or whether any facility enters its own, and the ministry's 56 per cent reporting coverage at the end of 2025 has no numerator or denominator. On tiers the 2021 figure for selected hospitals (SDN-023) disagrees with the 2020 and 2018 statements that DHIS2 was not in hospitals or facilities (SDN-027, SDN-035), and it does not say the hospitals key their own reports.",
+      "note": "Facility reports are keyed into DHIS2 at locality level from paper, across 144 of 189 localities in 2020, which is stage 3's district test. Not stage 4: no source shows a primary clinic entering its own reports, and the February 2026 meeting still called for the move from paper and for linking facilities."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:none;finance:not-stated",
+      "tiers": "T2",
+      "digitised": "paper",
+      "last12": "advancing",
+      "clinics": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SDN-004;SDN-011",
+      "gaps": "The May 2026 report states a launch at two hospital sites, not routine use, and does not give the hospitals' level or where the record is entered; the newest fact on where data is digitised is the 2021 statement that all records are on paper (SDN-031). On owner, the undated SudaHealth row (SDN-015, owner:vendor, Khartoum State) disagrees with the ministry-run HMS rows (SDN-005, SDN-010); it gives no sites or counts. No funding source is named for any system.",
+      "note": "Phase one of the ministry's hospital management system, with an electronic medical record, was launched at two hospital sites on 11 May 2026, which meets stage 2's pilot facilities and supersedes the 2021 statement of paper at every tier. Not stage 3: two sites are not most T1 and T2 hospitals, and no primary clinic is included."
+    }
+  ]
+}

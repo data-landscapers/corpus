@@ -1,0 +1,33 @@
+{
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T2;T3",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "COG-006;COG-011;COG-012;COG-013",
+      "gaps": "No count or share of primary clinics entering their own reports is published, and the PNDS says facilities report on paper; health posts (T4) are not mentioned and general hospitals (T1) were configured but not yet reporting. The 401 data collectors equipped for electronic transmission are dated only to 2025, with no tier, denominator or software named, so it is not established that the event falls inside the twelve months or that it is facility entry; WHO (COG-006) does not say whether entry is at the facility or the district.",
+      "note": "DHIS2 is keyed at all 52 health districts from the paper reports of health centres and district hospitals, which meets the whole stage 3 row. Stage 4 needs entry at the facility by more than half of primary clinics, and the evidence says the districts do the keying."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only two EMR rows (COG-003, COG-004) come from the excluded source '2026-03-31 Africa we have a data problem' and set nothing, so the dated statement of absence stage 1 needs is not held from an admissible source. systems.csv names a 'système d'information hospitalier' in a public hospital's organisation decree, unclassified and not said to hold the clinical record.",
+      "note": "Rows exist but none is admissible, so no rung can be set, including stage 1, which is a claim. No admissible source describes a patient record system in use at any tier."
+    }
+  ]
+}

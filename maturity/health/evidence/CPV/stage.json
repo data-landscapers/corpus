@@ -1,0 +1,33 @@
+{
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-010;CPV-004",
+      "gaps": "No share or count of primary clinics entering their own reports is held: the two terms of reference say DHIS2 is in production in all structures, which is deployment, and CPV-004 says the source does not state who keys the reports. Nothing on the HMIS is dated after 2024-02, and no plan or finance is stated for it.",
+      "note": "Tiers and place of entry reach stage 4's row, but stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is held. The cell takes the rung below."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T3",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CPV-012",
+      "gaps": "No count of sites, no place of entry and no share of primary clinics is held; the position is as at 2024-02 and nothing later says what is in use. CPV-007 (2023-05, tiers none) is the SIS clinical modules not yet built, a different system from Medicine One; the December 2025 patient code and digital clinical history are announced as coming. Finance (donor, CPV-009) and the vendor dependence (CPV-006) date from 2023-05, outside the 36 months.",
+      "note": "Medicine One runs in one city only, Praia's health centres and one central hospital, which is neither most T1 and T2 hospitals nor primary clinics in some districts. One city does not carry the country, so stage 3's tier test is not met."
+    }
+  ]
+}

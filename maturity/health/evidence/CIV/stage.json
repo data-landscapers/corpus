@@ -1,0 +1,33 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "tiers": "T2",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "none",
+      "cap": "",
+      "flags": "community integrated",
+      "stage_sources": "CIV-023;CIV-026;CIV-032;CIV-033;CIV-034",
+      "gaps": "Every coverage fact dates from 2020 to 2022 and nothing later says where clinics' reports are keyed. The 2021 plan has DHIS 2 deployed in a few first-contact establishments (CIV-025) without saying they enter their own reports, so T3 is not held and the 2020 statement that none do stands. No plan or finance fact falls inside the 36 months, no dated event inside the twelve, and the community flag rests on the platform publisher's own statement in systems.csv.",
+      "note": "DHIS2 is keyed at the departmental health directorate from the first-contact establishments' paper monthly reports, nationally, with hospitals keying their own: the stage 3 row. Stage 4 needs entry at the facility by more than half of primary clinics, and the evidence shows none."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:none;finance:donor",
+      "tiers": "T2",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CIV-012;CIV-016;CIV-017;CIV-019",
+      "gaps": "The 268 establishments connected to the SIH and DPI (CIV-012) and the 193 before them carry no tier and no denominator, and connected is not in use, so neither most hospitals nor any primary clinic is established; use is evidenced at one general hospital. The facts disagree: an undated explainer describes a record shared on a unique identifier (CIV-021), Ferkessedougou runs on a local server (CIV-017), the World Bank in September 2025 says there is no nationwide system and records are on paper (CIV-009), and the September 2026 workshop reports call the patient record not yet in service (CIV-001 to CIV-004).",
+      "note": "The DPI is in routine use in every service of one general hospital and installed or connected at an unclassified 268 establishments: some hospitals, the stage 2 row. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and no source gives tiers or a denominator."
+    }
+  ]
+}

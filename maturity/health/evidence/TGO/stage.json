@@ -1,0 +1,33 @@
+{
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "share:96.5%",
+      "cap": "",
+      "flags": "advancing;community integrated",
+      "stage_sources": "TGO-027;TGO-028;TGO-029",
+      "gaps": "The share is for 2021, printed as a rate without its counts, covers all facilities and not primary clinics alone, and nothing newer is held; WHO's annual report gives 89.2% for the same year (TGO-021). TGO-026 records no coordinated digital health strategy across the systems while the PNDS monitoring plan 2023-2027 (TGO-031) names DHIS2 and runs past the as-at; no domestic budget line is stated, and community entry into DHIS2 is a procedure requirement, not an observed count.",
+      "note": "Facility entry at the primary tier with more than half of facilities keying their own reports meets the whole of rung 4, and the ministry owns the system under a current plan, so the cap does not apply. Rung 5 needs 90 per cent or more on a figure published within two years, and the only share was published in October 2023 for 2021."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "1",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "none",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TGO-007;TGO-008",
+      "gaps": "The statement of absence is that no electronic health record system was established at December 2025 and that none of about 335 insurance-contracted facilities held one; it does not say in terms that records are on paper at every tier, and it does not cover facilities outside the insurance scheme. Where records are digitised is not held: the only rows on it (TGO-004, TGO-005) are from the excluded source.",
+      "note": "Rung 2 needs some hospitals or pilot facilities using a record system, or a national system procured, and the evidence gives a pilot that is planned and financed but not started. The dated World Bank baseline of no system and zero facilities is taken as the statement of absence."
+    }
+  ]
+}

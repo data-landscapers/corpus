@@ -1,0 +1,34 @@
+{
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-004;COM-006;COM-007;COM-011;COM-014",
+      "gaps": "No row says where DHIS2 reports are keyed: the 99% (2024), the 69 facilities (August 2024) and the 91 structures or 100% (2025) are shares of all public facilities the system reaches or that report through it, not of primary clinics entering their own data, and the only keying level on record is the region, for the predecessor GESIS in July 2021. Tiers are read from 'all public structures' only; the plan row is dated July 2021, outside the 36 months, and the 2025 extension is dated to the year, so it cannot be placed inside the twelve months.",
+      "note": "DHIS2 takes the reports of every public structure, which meets stage 3. Stage 4 needs entry at the facility by more than half of primary clinics, and no source states that the facilities key their own reports.",
+      "parent": "Parent, 2026-10-07: plan:current restored; the plan the evidence names runs to 2026 and so covers the as-at."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "1",
+      "governance": "",
+      "tiers": "none",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-019",
+      "gaps": "The statement of absence is the Ministry's of July 2021 and nothing dated since confirms or replaces it; it says the electronic patient record does not exist in the country, not in words that records are on paper. COM-003 is from the excluded source and sets nothing. A hospital management information system recorded as not functional at August 2024 is not said to hold the clinical record.",
+      "note": "The one admissible row is a dated ministry statement that no electronic patient record exists in the country. Stage 2 needs a system in some hospital or pilot facility, or one procured, and no row shows either."
+    }
+  ]
+}

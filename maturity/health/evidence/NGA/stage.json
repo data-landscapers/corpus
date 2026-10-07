@@ -1,0 +1,33 @@
+{
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-027;NGA-028;NGA-030",
+      "gaps": "No share or count of primary clinics entering their own reports: NGA-028 (2025-06, valued facility) only encourages states to deploy devices for direct reporting and gives no count, and it disagrees with NGA-030, NGA-032 and NGA-033, which have paper forms keyed at the LGA office. The only clinic figure is 0 of 16 sampled facilities in 2016-2017 (NGA-025), which does not carry the country; no dated event is held for the last twelve months, and the domestic commitment in NGA-010 is not broken down to DHIS2.",
+      "note": "A single national DHIS2 instance takes primary, secondary and tertiary facilities' monthly reports at 91.5% in June 2025, keyed at the LGA from clinics' paper forms. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "count:100",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NGA-013;NGA-018;NGA-019;NGA-020",
+      "gaps": "The primary-clinic evidence is Lagos State alone, 100 of 326 PHCs where the platform is deployed, with one PHC described as fully digital; no national share or count exists, and the over 200 hospitals of NGA-013 have no denominator or tier, so most T1 and T2 hospitals is not shown. The December 2025 architecture (NGA-011) calls records largely paper based, against point of care in Lagos (NGA-020); NGA-017 (2025-09) says no national EHR policy, against the plans of December 2025 (NGA-005, NGA-012); no shared record on a unique identifier is evidenced, and the domestic commitment in NGA-007 is not broken down to the EHR.",
+      "note": "Stage 3 rests on primary clinics in part of one state using an EMR at the point of care, a minority, with hospital systems the minister calls fragmented and unconnected. Stage 4 needs the primary tier on a shared record in more than half of primary clinics; the 20% to 100% rollout of 2026-2030 is a commitment, not a position."
+    }
+  ]
+}

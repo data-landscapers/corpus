@@ -1,0 +1,33 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "regressing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "regressing",
+      "stage_sources": "SEN-020;SEN-021;SEN-025;SEN-056;SEN-057",
+      "gaps": "No share or count of primary clinics entering their own reports is held, and no coverage fact is dated after 2021. The facts disagree on where data is keyed: the ministry's 2021 plan (SEN-025, newest) runs DHIS2 from the districts up, while SEN-057 (2021) and SEN-020 (2018, four districts) describe entry at health posts. The regressing fact inside the twelve months (SEN-035) carries its document's date, not an event's, and the finance in SEN-036 was not yet approved.",
+      "note": "DHIS2 is national and used at every tier, with the newest dated fact placing entry at the district. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T2;T3;T4",
+      "digitised": "point-of-care",
+      "last12": "no-change",
+      "clinics": "share:1%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-010;SEN-011;SEN-017;SEN-018;SEN-030;SEN-031;SEN-045;SEN-046",
+      "gaps": "The 1% is of the 102 district health centres only, with health posts outside the denominator; hospital use is established at one named regional hospital, and the one health post is a pilot site reported in April 2025. Retrieval of the record at another facility is not stated, so `shared` is not held. Inside the twelve months SEN-012 (advancing, 31 October 2025) and SEN-034 (the 51-centre pilot not started at December 2025) disagree; the newer stands and no flag is set. No fact says whether that pilot began in 2026.",
+      "note": "The record runs at pilot facilities: one regional hospital, about one health centre in 102 and one health post. Stage 3 needs most T1 and T2 hospitals or primary clinics across some districts, and neither is evidenced."
+    }
+  ]
+}

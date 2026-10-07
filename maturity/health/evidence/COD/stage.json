@@ -1,0 +1,33 @@
+{
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T2;T3;T4",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "share:75.3%",
+      "cap": "",
+      "flags": "advancing;community integrated",
+      "stage_sources": "COD-021;COD-022;COD-025;COD-026;COD-030;COD-032",
+      "gaps": "No coverage fact is dated after 2022. The 75.3% (12,050 of 16,010 facilities, 2022) is the share of all facilities whose monthly reports are in DHIS2, not of clinics keying their own, and the source does not say who keys them; no share or count of facilities entering their own reports is published. The tiers value is from Sud-Kivu alone (COD-026), and the national table of 2020 (COD-032) names only health centres and referral hospitals. No plan dated inside the 36 months is held: PNDIS II ended in 2024. The advancing event (COD-005) is an HIV analysis dashboard inside the national DHIS2 made the primary tool in one province, not a change in where data is entered.",
+      "note": "Facilities report on paper and the health zone office keys DHIS2, nationally by the 2021 evaluation and in Sud-Kivu and Kasaï Central, so the district rung is met. Stage 4 needs entry at the facility by more than half of primary clinics, and the evidence puts facility entry in some large facilities only. Community integrated rests on systems.csv: the SSC App exports to the SNIS community DHIS2 instance, and community capture in the Sud-Kivu mpox pilot synchronises with DHIS2."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "owner:vendor;finance:domestic",
+      "tiers": "",
+      "digitised": "paper",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "",
+      "gaps": "No row states that any facility uses an electronic patient record: the ANICNS hospital information systems are described as delivered or to come, not running, and Visa Medical's deployment names no site or number. The one coverage row (COD-020) is a 2023 survey of 7 hospitals in Kananga, which does not carry the country, so it is neither a tier in use nor the dated statement of paper at every tier that stage 1 needs. Governance disagrees by system: the newest fact has a vendor running Visa Medical (COD-002), while the 2024 rows give the state agency ANICNS and domestic finance for the hospital information system programme; no plan is stated.",
+      "note": "Stage 2 needs some hospitals or pilot facilities using a record, or a national system procured, and the rows show equipment handed over and an approval regime opened, not use. Stage 1 is not claimed because the paper finding is for one city."
+    }
+  ]
+}

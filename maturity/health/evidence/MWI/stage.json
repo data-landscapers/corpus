@@ -1,0 +1,33 @@
+{
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T1;T2;T3",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MWI-022;MWI-040;MWI-042;MWI-043;MWI-048",
+      "gaps": "No count or share of health centres entering their own reports is published (MWI-040, MWI-050, MWI-061). The sources disagree on where data is keyed: the ministry's 2023 report says DHIS2 Mobile allows direct entry by all health centres (MWI-048, MWI-049), while the later-dated study (MWI-043) and the August 2023 survey (MWI-022) find paper forms keyed at the district office. The only plan on record is a 2019 finding with no period (MWI-039), so no plan is held at the as-at.",
+      "note": "DHIS2 keyed at district takes the facilities' paper reports from 1,266 facilities, which meets the whole of rung 3. Rung 4 needs more than half of primary clinics entering their own reports on a share or count; the ministry states that entry is allowed, not that it is done, and the Bilira and Neno facts are one facility and one district."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T3",
+      "digitised": "shared",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MWI-002;MWI-003;MWI-005",
+      "gaps": "The number of health centres in the Mahis pilot is not given, and no hospital beyond Queen Elizabeth Central is named as using it. `shared` rests on one hospital's outpatient department, with retrieval at another facility stated by the ministry and not observed; rural clinics were still on paper Health Passports in September 2024 (MWI-024). The iCHIS link to MaHIS was being finalised in April 2026 and is not shown live, so no community flag; a late-2023 audit finding of no EMR policy (MWI-062) is superseded by the 2025-2030 framework (MWI-026).",
+      "note": "Mahis is in pilot at one central hospital and selected health centres, which is rung 2's pilot facilities and pilot sites. Rung 3 needs most T1 and T2 hospitals or primary clinics in some districts using it routinely, and the evidence shows neither."
+    }
+  ]
+}

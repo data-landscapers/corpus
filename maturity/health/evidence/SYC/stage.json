@@ -1,0 +1,33 @@
+{
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "unplaced",
+      "governance": "plan:current",
+      "tiers": "",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No row gives the tiers reporting digitally or the primary clinics entering their own reports. The one coverage fact (SYC-004) says capture is primarily paper-based and the eHIS work begun in 2020 has stalled, which is neither a dated statement of no digital entry at any level nor a contracted rollout; it carries the plan's published year, not a date of its own. The ministry's ownership is dated 2022, outside the 36 months, and finance is not stated.",
+      "note": "Stage 1 needs a dated statement of no digital entry at any level, and 'primarily paper-based' is not that. Stage 2 needs hospitals or some districts reporting digitally or a rollout contracted, and no row shows either."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-007;SYC-008",
+      "gaps": "No coverage row from an admitted source: the tiers using the eHIS, where the record is entered and the primary clinics using it are not established, and the three rows that give them (SYC-001 to SYC-003) are from the excluded source and set nothing. The rung rests on the text of two governance rows, a ministry system encompassing electronic medical records and operational since the end of 2021. Finance is not stated and nothing is dated inside the last twelve months.",
+      "note": "A national system in the ministry's hands and operational meets stage 2's 'a national system procured'. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts using it, and no admitted row says which facilities do."
+    }
+  ]
+}

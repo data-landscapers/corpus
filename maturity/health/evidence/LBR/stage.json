@@ -1,0 +1,33 @@
+{
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "no-change",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-028;LBR-036;LBR-042;LBR-045;LBR-046",
+      "gaps": "No national figure for clinics entering their own reports: LBR-037 finds none in 48 facilities of three counties (2022), which does not carry the country, and LBR-043 and LBR-046 publish none. Nothing on where data is keyed is dated after 2022-07; the only last-twelve-months row (LBR-008) is dated to the year 2025 and cannot be placed inside the window, and the CBIS is described as a DHIS2 sub-system while its integration with DHIS2 is still planned, so no community flag is set.",
+      "note": "All facilities report monthly into the national DHIS2, keyed by district and county data clerks from the facilities' paper forms, which is the whole of rung 3. Rung 4 needs entry at the facility by more than half of primary clinics, and every source that speaks to it puts the keying at district or county."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:vendor;plan:current;finance:donor",
+      "tiers": "T3;T4",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "LBR-002;LBR-003;LBR-004",
+      "gaps": "The number of Liberian facilities live is not established: seven clinics and health centers are counted across Liberia and Ghana together with no split or denominator, on the company's own account. Owners disagree by system: the running platform is vendor-owned (LBR-005), the planned national EMR is the ministry's (LBR-007) and the two-health-center EMR is UNFPA's and only commissioned (LBR-024, LBR-026); whether the 2020 hospital OpenMRS (LBR-031) still runs is not on record, and the 20% of public facilities for 2026 is a target.",
+      "note": "A handful of pilot clinics and health centers record at the point of care on a vendor's platform, which is rung 2. Rung 3 needs most T1 and T2 hospitals or primary clinics across some districts, and the evidence shows only named pilot sites and plans."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T2;T3;T4",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MRT-007;MRT-009;MRT-015;MRT-016",
+      "gaps": "No share or count of primary clinics entering their own reports is held; the 92 per cent in MRT-016 is report coverage, with no numerator or denominator, and MRT-011's 'deployed nationally' (2025) is not facility entry and disagrees with MRT-017 (2023), which has DHIS2 piloted and not scaled up. Health posts report on paper, only two hospitals are integrated (MRT-010), and the one event in the twelve months is a training workshop for district focal points (MRT-008).",
+      "note": "DHIS2 is keyed at the moughataa and district level from the health posts' paper reports, which is the stage 3 row in full. Stage 4 needs entry at the facility and more than half of primary clinics entering their own reports, and neither is evidenced."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "plan:current;finance:donor",
+      "tiers": "T3",
+      "digitised": "",
+      "last12": "",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-019;MRT-020",
+      "gaps": "The only record in use is one pilot health centre, Sebkha, on a fact dated 2022, with nothing later on whether it still runs or has spread; where the record is digitised is not stated. No owner is held inside the 36 months (MRT-018 is June 2022), no event is held inside the twelve months, and the two rows of the excluded essay set nothing.",
+      "note": "One pilot health centre with digitised patient records meets stage 2 and no more. Stage 3 needs most T1 and T2 hospitals or primary clinics across some districts, and the evidence names a single facility."
+    }
+  ]
+}

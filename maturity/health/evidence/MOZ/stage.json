@@ -1,0 +1,33 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-019;MOZ-013;MOZ-014",
+      "gaps": "No coverage fact is dated after 2019, and nothing says which tiers use SIS-MA or how many primary clinics enter their own reports; the clinics value rests on a 2016-17 sample of 16 facilities in four districts. MOZ-016 (2019, a literature review citing a 2013 paper) gives facility-level recording and disagrees with MOZ-019 and MOZ-013, which describe district keying from paper; it names no facility entering data and is not followed. Finance is held only from 2019 (MOZ-017, donor), outside the 36 months, and no event is dated inside the twelve months.",
+      "note": "The 2019 field assessment with the ministry (MOZ-019) shows facilities' monthly paper forms keyed into SISMA at the district health office, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics, and no row shows any clinic keying its own reports."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T2",
+      "digitised": "paper",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MOZ-012",
+      "gaps": "One hospital is evidenced (SIS-H at Mavalane General Hospital, December 2024), with no statement of whether its record is kept at the point of care or shared, and no owner named for it. The governance values are those of SIS-RME, whose minimum viable version was only targeted for September 2026 with no row showing a release or any facility using it; the MOU is non-binding and its funding is pipeline. The paper position at primary facilities dates from 2017 and 2019, and no count or share of clinics is held.",
+      "note": "A single hospital with a digital clinical record meets stage 2's 'some hospitals or pilot facilities' and nothing more. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the evidence shows one hospital and paper registers at the primary facilities visited."
+    }
+  ]
+}

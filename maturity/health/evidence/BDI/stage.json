@@ -1,0 +1,33 @@
+{
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing;community integrated",
+      "stage_sources": "BDI-044;BDI-045;BDI-006;BDI-007",
+      "gaps": "No share or count with a denominator of health centres keying their own reports: the newest fact on the point (BDI-007, mid-2022) publishes none, and disagrees with BDI-027 (2020), which reads 'all health centres enter their data themselves' as 100% with no numerator, denominator or date, and with BDI-016 (2019), which says 'the majority' without a figure. Nothing on clinics is dated inside the last three years; the community flag rests on one UNICEF stock application described as interfaced with DHIS2 and still in test in 2023.",
+      "note": "DHIS2 reaches health centres and is keyed at the facility, but stage 4 needs more than half of primary clinics on a share or a count with a denominator, and none is published. The cell takes the rung below; the cap does not apply at 3."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "count:6",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "BDI-008;BDI-009;BDI-021",
+      "gaps": "The newest clinics fact (BDI-035, count:460) is a commitment under the February 2026 memorandum, not a count achieved, and sets nothing; the last count achieved is six pilot health centres in 2023, against more than 1,000 first-level facilities. The 41 of 71 hospitals are not broken down by tier, point-of-care entry rests on a 2019 description, and no coverage fact is dated since March 2023. The governance and last-twelve-months values rest on SIDAinfo, which systems.csv also records from a 2023 source as an HIV patient record, a tracker; whether it is a general-care EMR is not established.",
+      "note": "Most hospitals hold a patient record on OpenClinic, each on its own server and identifier, with health centres at pilot scale. Stage 4 needs the primary tier on a shared record in more than half of clinics, and neither is shown."
+    }
+  ]
+}

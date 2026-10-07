@@ -1,0 +1,33 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "governance": "",
+      "tiers": "",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-023;MUS-026",
+      "gaps": "No row states which tiers use DHIS2 routinely, and nothing on the HMIS is dated after January 2022: whether the decentralisation to district and primary level then planned has happened is not established, nor whether DHIS2 carries routine patients-treated reporting rather than surveillance and immunisation aggregates. Governance facts are all from January 2022, outside the 36 months, and the plan they name ran 2020-2024, so no governance value is held; the only digitised facts are a 2018 rating of no electronic aggregate entry at district level (MUS-027) and a 2020 statement on Rodrigues alone (MUS-035).",
+      "note": "DHIS2 was being implemented as the national health information system and used at regional and national level only, with primary-level entry still a plan (MUS-023, MUS-026). Stage 3 needs a district-keyed system taking the clinics' reports, which no row shows."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:partner;owner:ministry;finance:not-stated",
+      "tiers": "T2;T3",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MUS-015;MUS-016;MUS-017",
+      "gaps": "The primary structures using e-Health are neither named nor counted and lie in one region, so no share or count of primary clinics is established; the newest clinics fact is the May 2026 pilot (MUS-017), not the 2019 share of 0% the profile carries (MUS-031). Owner is disputed inside the window: UNDP in charge of procurement and overall management (MUS-006, MUS-013) against the ministry and its Digital Health Company (MUS-014, MUS-020). The only plan named ran 2020-2024 and has ended, so no current plan is held, and the source of the MUR 600 million is not stated; a January 2026 article still describes the system in the future tense (MUS-021) against the April 2026 usage figures (MUS-016). Whether the record is retrievable at another facility is not stated. Rows MUS-001 to MUS-005 are from the excluded source and set nothing.",
+      "note": "e-Health is operational at one regional hospital and several uncounted primary structures of the same region after a test phase begun in August 2025, which is pilot facilities. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and one region's pilot does not carry that."
+    }
+  ]
+}

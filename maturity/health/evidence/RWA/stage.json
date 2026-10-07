@@ -1,0 +1,34 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "",
+      "clinics": "share:100%",
+      "cap": "4",
+      "flags": "externally run;community integrated",
+      "stage_sources": "RWA-002;RWA-025;RWA-026;RWA-027",
+      "gaps": "No plan or finance fact falls inside the 36 months to the as-at: the only plan fact (RWA-020, plan:none) is dated 2021 and no row states finance, so the cap holds. The 100% is a rollout statement with no numerator, resting on 13 facility visits; whether the 1,250 health posts key their own reports is not established, the newest tier fact (RWA-024, 2024-06) names no T4, and reporting completeness is held only undated (RWA-011). Nothing is held for the last twelve months.",
+      "note": "Coverage reaches 4: reports are keyed into DHIS2 at the facility (RWA-026) and were held for all 520 primary health facilities (RWA-002); it is not 5 because no measured share of clinics entering their own data is published. The cap brings it to 3, the ministry being owner with neither a current plan nor a domestic budget line on record."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T3",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "share:66.7%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "RWA-004;RWA-019;RWA-021",
+      "gaps": "No row establishes a unique patient identifier or a record retrievable at another facility, so `shared` is not met; the one digitised fact outside the excluded source (RWA-001) is dated 2026-10-01, a day after the as-at, and gives no facility count. The clinic figures disagree: 33.0% of sampled health centres using an EMR in 2023 (RWA-018), 'majority of public health facilities' with no figure in April 2026 (RWA-004), and 'more than two thirds of health centres' in September 2026 (RWA-021), which has no numerator, denominator or source and says where eBuzima is, not who enters data. T2 rests on the 2023 survey of all 42 district hospitals (RWA-019); T1 on one hospital. Rows RWA-007 to RWA-010 are from the excluded source and set nothing. Where the record is keyed is stated only by a fact dated after the as-at (RWA-001).",
+      "note": "Stage 3 is met on all 42 district hospitals using an EMR in 2023 and health centres using one across the country. It is not 4 because the record is not shown to be shared across facilities and the more-than-half figure for health centres is an unsourced deployment statement.",
+      "parent": "Parent, 2026-10-07: RWA-001 is dated after the as-at and sets nothing; digitised left empty, which stage 3 does not turn on."
+    }
+  ]
+}

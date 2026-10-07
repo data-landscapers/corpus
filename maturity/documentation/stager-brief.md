@@ -22,11 +22,11 @@ A study id `{id}`, a country `{ISO3}` and an as-at date, under `C:\CORPUS`.
 
 ## Staging
 
-**One cell per sub-indicator. Stage it from the evidence rows of that sub-indicator, with their text in hand.** A row from a source the study excludes sets nothing.
+**One cell per sub-indicator. Stage it from the evidence rows of that sub-indicator, with their text in hand.** A row from a source the study excludes sets nothing, and neither does a fact dated after the as-at.
 
 - **The coverage aspects pick the rung.** For each, the newest dated fact stands; where two disagree, say so in `gaps`. Read the fact, not only its value: a system *deployed in*, *rolled out to* or *available to* facilities is not those facilities entering their own data, and a fact about one facility, one district or one province does not carry the country.
 - **A rung is reached only when its whole row is met.** Where the evidence stops short, the cell takes the rung below, and `gaps` names what was missing.
-- **Qualifier aspects never raise a stage.** Governance is read over 36 months to the as-at and the last twelve months over 12; older facts are not carried into those two columns.
+- **Qualifier aspects never raise a stage.** Governance is read over 36 months to the as-at and the last twelve months over 12; older facts are not carried into those two columns. A date given as a year or a month stands for its last day. **A plan is the exception**: it is `plan:current` where the period the fact gives for it includes the as-at, whenever the fact is dated, and not current once that period has ended.
 - **The cap rule**: where coverage reaches a rung above the cap's line and governance does not hold what the cap names, the stage is the cap's line, `cap` is the rung coverage reached, and the cap's flag is set. Otherwise `cap` is empty and that flag is never set.
 - **Flags**: `advancing` or `regressing` where a dated event inside the twelve months says so; `community integrated` where a row or `systems.csv` shows a community system exchanging data with this sub-indicator's system.
 - **`no evidence`**: the country has no evidence row on the sub-indicator. **`unplaced`**: it has rows, and they cannot set a rung. Either needs its reason in `gaps`.

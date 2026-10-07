@@ -1,0 +1,33 @@
+{
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "STP-006;STP-010",
+      "gaps": "No admissible row states which tiers use DHIS2 routinely, where the data is keyed or how many primary clinics enter their own reports; the only rows on those three aspects (STP-001, STP-002) come from the excluded source. Finance is held only as donor at September 2022 (STP-012), outside the 36 months, and the advancing event (STP-006) is dated to the 2024-2025 biennium with no month, so it falls in the twelve months only on the year-end reading.",
+      "note": "DHIS2 is implemented in all districts with district managers trained (STP-006), on a nationwide approval that reached five programmes with weak adherence (STP-010), which is a system in the districts and not yet one shown to take the clinics' reports. Stage 3 needs the district keying of clinics' paper forms stated, and no admissible row states it."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "plan:current",
+      "tiers": "T1",
+      "digitised": "point-of-care",
+      "last12": "",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "STP-013;STP-014;STP-019;STP-020",
+      "gaps": "Nothing is dated after September 2022: whether the Single Process pilot was evaluated, consolidated or extended beyond Água Grande is not established, and no count of facilities using it is given. The health area's facilities are not named, so no primary tier is held; owner (ministry) and finance (donor) are dated 2022 and fall outside the 36 months, and nothing is held for the last twelve months.",
+      "note": "The Single Process is a pilot at the central hospital and one health area, entered at the point of care, not rolled out to other districts and still needing consolidation in the first (STP-020). Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the evidence shows one pilot district with its facilities unnamed."
+    }
+  ]
+}

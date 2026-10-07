@@ -1,0 +1,33 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "no-change",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-027;GAB-028",
+      "gaps": "No source gives a share or count of primary clinics entering their own reports, and none names the tiers: GAB-027 says only that DHIS2 integrates all functional public facilities, and that the clinics report on paper is stated only by the excluded source (GAB-003). Completeness figures disagree (60% to 85% at the December 2024 launch in GAB-029; 35% in 2024 and 40% in 2025 in GAB-011), and the 2025 rise carries a year only, so no dated event is placed inside the twelve months.",
+      "note": "DHIS2 has run nationally since December 2024, keyed by 122 data managers in the 51 health departments and 10 regions, which is stage 3's district test. Stage 4 needs facility entry by more than half of primary clinics, and no facility entry is described at all."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T2;T3",
+      "digitised": "shared",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GAB-014;GAB-015;GAB-018;GAB-019",
+      "gaps": "No count of primary clinics and no denominator: use is confirmed at 13 pilot sites in Grand Libreville, two of them health centres, with the Libreville university hospital and the regional hospitals not yet covered on 11 February 2026, so T1 is not established (GAB-030 names no tier). The shared record rests on one health centre's statement and point-of-care entry is not stated; no plan naming the system and no domestic budget line is held, and the owner named is ANINF or the digital economy ministry rather than a health ministry unit. The newest fact (GAB-002, 24 June 2026) records the World Bank project closing with extension named only as a priority, which disagrees with the advancing events of October 2025 and February 2026.",
+      "note": "eGabon-SIS runs in 13 pilot sites in one urban area, which is stage 2's pilot facilities. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the university hospital and every regional hospital were still outside it."
+    }
+  ]
+}

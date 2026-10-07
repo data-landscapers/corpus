@@ -1,0 +1,33 @@
+{
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "no evidence",
+      "governance": "",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The country has no evidence row on HMIS: nothing is held on routine aggregate reporting, at any tier. systems.csv names a 'système d'information sanitaire national unifié' being put in place in 2021, unclassified and with no fact behind it.",
+      "note": "No row, so no rung and no statement of absence either; stage 1 is a claim and is not made."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2",
+      "digitised": "paper",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TUN-012;TUN-013;TUN-014;TUN-005",
+      "gaps": "Most T1 and T2 hospitals is not established: the record is fully used in 50 per cent of university and 32 per cent of regional hospitals, with no hospital counts, and district hospitals have none (TUN-012, TUN-013, dated 2025-04-02). Clinics rows disagree: none in 2025 (TUN-013), pilot sites in Nabeul with no count (TUN-005), and 99 facilities of unstated tier at various stages (TUN-004, not-published). Where hospitals digitise is not stated; paper is the primary-care position. The plan is a 2019 draft policy with a 2030 horizon, uncosted; finance is donor on the first-line DMI only.",
+      "note": "Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts; the evidence gives part-use in hospitals, none in district hospitals and pilot sites in one governorate. TUN-001 and TUN-002 are dated 2026-10-01, after the as-at, and set nothing."
+    }
+  ]
+}

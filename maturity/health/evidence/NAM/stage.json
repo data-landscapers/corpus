@@ -1,0 +1,33 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none;finance:donor",
+      "tiers": "",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-004;NAM-005",
+      "gaps": "No row sets the tiers in use, and no share or count of primary clinics entering their own reports is published. NAM-015 (2025-09) has four of 20 respondents saying primary facilities in every region upload some data to DHIS2, which disagrees with the newer NAM-004 and NAM-005 (district entry from paper; clinics on paper); the only last-twelve-months row, NAM-016, is dated 2024 and falls outside the window.",
+      "note": "District officers key the facilities' monthly paper forms into DHIS2 aggregate, which is the stage 3 row. Stage 4 needs entry at the facility by more than half of primary clinics, and the newest facts say clinics still report on paper."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:none;finance:not-stated",
+      "tiers": "T1",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-010;NAM-011",
+      "gaps": "No row gives primary clinics using an electronic record, and nothing is dated inside the twelve months. The plan is read as not current: NAM-009 gives the eHealth Strategy the period 2021-2025, which ended before the as-at, and NAM-013 gives no period. The only owner row, NAM-012, is dated 2011, outside the 36 months; owner:ministry is taken from the text of NAM-009 and NAM-013, where the ministry develops the strategy and platform. The Katutura and Windhoek Central pilot is a billing module, out of scope.",
+      "note": "IHCIMS is fully deployed at two hospitals only, Windhoek Central and Oshakati, with paper records in most hospitals and clinics, which is the stage 2 row. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and neither is evidenced; stage 1 fails because two hospitals use the system."
+    }
+  ]
+}

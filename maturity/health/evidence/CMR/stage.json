@@ -1,0 +1,33 @@
+{
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CMR-019;CMR-032;CMR-031;CMR-020",
+      "gaps": "No source gives a count or share of primary clinics entering their own reports: the 96% completeness for October to December 2025 measures reports received in DHIS2, not who keyed them. Where data is digitised is in dispute: the ministry's April 2022 plan says facility entry (the newest dated fact, and nothing on tiers or entry point is dated since), while its 2020 plan and WHO's SCORE (2018 data) put entry at district, and the 2022 plan still budgets a device per facility at 20% of users a year. Tiers are not broken down by level in any source. A DHIS2-based community system was designed and piloted in 2022, with no row showing it exchanging data with the HMIS, so community integrated is not set.",
+      "note": "Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published. The cell takes the rung below, where facility entry not published is met; the cap does not apply at 3."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;owner:partner;plan:current;finance:donor",
+      "tiers": "T1",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CMR-009;CMR-016;CMR-022;CMR-023",
+      "gaps": "The level of the fifty or so pilot facilities running the ministry's Bahmni record is not stated, and no count of facilities using SmartMobileClinic is given. The only tier and point-of-care facts are one department of Yaoundé Central Hospital, where staff stopped entering data once per-entry payment ended, so T1 is not shown to be in routine use at the as-at; EcoMatin (September 2023) has almost all public hospitals on paper, which disagrees with point-of-care for the country. Owner is split: the ministry for the national record, partners for SmartMobileClinic and MatLook. No national record is yet procured: the 2026-2030 plan only schedules selecting a partner in 2026.",
+      "note": "Stage 3 needs most T1 and T2 hospitals, or primary clinics in some districts, and the evidence holds about fifty pilot facilities of unstated level, one hospital department and twelve rural communities under campaign. Pilot facilities with pilot clinics meet the stage 2 row whole."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T1;T2",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TCD-017;TCD-010;TCD-024;TCD-020",
+      "gaps": "No source gives a share or count of health centres entering their own reports; the only facility-level statement of none is one district in 2018 (TCD-027), which does not carry the country. Tiers disagree: TCD-019 (2023) has hospitals on DHIS2 with a slow migration, TCD-028 (2018) has health centres and district hospitals reporting on paper. Finance is donor on a 2021 fact outside the 36 months, so not stated inside the window; plan:current rests on PNDS 4 2022-2030 (TCD-022), since the 2025 strategy does not name the system.",
+      "note": "Districts key the health centres' monthly paper reports into DHIS2 (Gavi audit, August 2024; 96.4% of districts entering in 2022), which is the whole of rung 3. Rung 4 needs entry at the facility by more than half of primary clinics, and extending DHIS2 to health centres is still a planned action."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "owner:vendor;finance:not-stated",
+      "tiers": "",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "",
+      "gaps": "No coverage fact is held: no tier, no place of digitisation and no clinic figure from an admitted source. The four admitted rows are governance and last-twelve-months facts on two systems not yet in use (Visa Medical, partnership signed, no deployment stated; the ministry's Dossier Médical Électronique, a meeting of 15 April 2026 with no pilot site, budget or timetable), and owner disagrees between them: vendor (TCD-002) and ministry (TCD-004). The only statement that records are on paper comes from the excluded source, so stage 1 is not claimed.",
+      "note": "Qualifier rows cannot set a rung and the paper statement is from an excluded source, so the cell is neither 1 nor 2. Rung 2 would need a hospital or pilot facility in use, or a source stating that a national system has been procured rather than a partnership signed."
+    }
+  ]
+}

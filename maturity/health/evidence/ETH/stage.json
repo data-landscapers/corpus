@@ -1,0 +1,33 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "share:95%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ETH-021;ETH-022;ETH-023;ETH-031;ETH-033;ETH-036",
+      "gaps": "No share of primary clinics entering their own reports is established: the 95% figures count all health facilities using DHIS2 (ETH-021, published 2023, no counts) or 'eligible' institutions implementing it (ETH-031, over 4,000, including district hospitals and district offices), while ETH-022 and ETH-023 from the same 2023 study say health posts have no HMIS of their own and report on paper through their health centre, and systems.csv counts 17,903 health posts. These disagree, and nothing dated after 2020 says health posts enter their own data. ETH-024 is a 2025 annual completeness figure, not a dated event; eCHIS is said to synchronise with DHIS2 by one undated regional page and not to be linked by two later sources, so community integrated is not set.",
+      "note": "Hospitals and health centres key their own reports into DHIS2, but health posts, the larger part of the primary tier, are not shown to, so more than half of primary clinics entering their own reports is not met. Read under the study's all-facilities rule, ETH-021 alone would give 4, with governance holding the cap."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "share:0%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ETH-003;ETH-037;ETH-038;ETH-044;ETH-047",
+      "gaps": "The tier and the denominator of the 70-plus facilities with an EMR are not given (ETH-037), and the 0% baseline (ETH-003) is for the full national multi-tenant solution only, so the two clinics figures measure different things. Neither most T1 and T2 hospitals nor primary clinics across any district is established; the named primary sites are three health centres in Addis Ababa in 2023, and the record stays in the facility. The 130-facility deployment of 23 September 2025 (ETH-025) falls a week outside the twelve months.",
+      "note": "EMRs run in some hospitals and health centres, over 70 facilities with 10 paperless, and the national system is to be piloted in 2026: pilot facilities and a national system in preparation. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and no row shows either."
+    }
+  ]
+}

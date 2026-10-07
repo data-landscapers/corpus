@@ -1,0 +1,33 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "none",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "none",
+      "cap": "",
+      "flags": "community integrated",
+      "stage_sources": "GMB-003;GMB-015;GMB-016;GMB-017",
+      "gaps": "No share or count of primary clinics entering their own reports is published, and nothing is held for the twelve months to the as-at. The tiers facts disagree: the policy (GMB-016, the newest) puts DHIS2 at the regional directorates and the centre only, GMB-013 shows one secondary hospital feeding it automatically in a pilot, and GMB-025 and GMB-027 say every tier's data reaches DHIS2 without saying where it is keyed; no finance fact falls inside the 36 months.",
+      "note": "Facilities report on paper and DHIS2 is keyed at the regional health directorates, which is the stage 3 row; stage 4 needs entry at the facility by more than half of primary clinics, and the only facility entry on record is one hospital pilot. The community flag rests on the systems.csv row for community health workers' reports integrated into the HMIS."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "plan:current;finance:donor",
+      "tiers": "none",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-007;GMB-020;GMB-023",
+      "gaps": "Whether the 2023 pilot at the teaching hospital or the contracted OpenClinic pilot in four facilities was running at the as-at is not established, and no primary clinic figure is held. The tiers facts disagree: the policy (GMB-020, the newest) says no robust system is in place, against the one-hospital pilot of GMB-023; the 2025 description of a system managing patient records (GMB-004) names no facility, and the only owner fact (partner, GMB-024) falls outside the 36 months.",
+      "note": "One referral hospital pilot and a contract amended to include an electronic health record meet the stage 2 row; stage 3 needs most T1 and T2 hospitals or clinics in some districts, and the policy says no robust system exists. Stage 1 is not claimed because no dated statement puts records on paper at every tier."
+    }
+  ]
+}

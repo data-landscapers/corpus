@@ -1,0 +1,33 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "tiers": "",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SWZ-030;SWZ-014",
+      "gaps": "No row says which tiers enter routine aggregate reports, where clinics' reports are keyed, or how many primary clinics enter their own; the one digitised fact (2022) is hospitals and maternities recording births and deaths, and it disagrees with the 2019 profile's statement of no electronic aggregation (SWZ-032). No plan or finance fact falls inside the 36 months; the only plan fact is from 2019.",
+      "note": "Digital entry is evidenced at hospitals only, with DHIS2 introduced nationally in 2024 and no tier of use stated. Stage 3 needs a system keyed at district taking the clinics' reports, which no row shows."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T2;T4",
+      "digitised": "shared",
+      "last12": "advancing",
+      "clinics": "share:73%",
+      "cap": "4",
+      "flags": "externally run;community integrated;advancing",
+      "stage_sources": "SWZ-002;SWZ-004;SWZ-005;SWZ-003;SWZ-024",
+      "gaps": "No current plan naming CMIS and no domestic budget line is held from an admitted source; the only plan row (SWZ-007) is from the excluded compilation. The 73% (233 sites, 2026) is a share of all health facilities with no denominator, read as primary clinics, against 75% (247 of 327) at March 2024 (SWZ-020); the 2024 report gives point-of-care with the Master Patient Index not live (SWZ-022), against shared in 2026.",
+      "note": "Coverage reaches stage 4: primary clinics use CMIS at the point of care on a unique ID, the record retrievable at another clinic, in more than half of facilities. The ministry owns it but finance is donor only and no current plan is held, so the cap holds it at 3; 90 per cent is not reached in any case."
+    }
+  ]
+}

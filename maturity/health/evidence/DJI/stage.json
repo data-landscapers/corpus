@@ -1,0 +1,33 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T3;T4",
+      "digitised": "facility",
+      "last12": "",
+      "clinics": "share:84%",
+      "cap": "4",
+      "flags": "externally run",
+      "stage_sources": "DJI-006;DJI-009;DJI-012;DJI-007;DJI-008",
+      "gaps": "Inside the 36 months no row gives a current plan naming the system or a domestic budget line: the only plan rows date from 2020 (DJI-016, DJI-020) and the only finance row is UNFPA's support for one integration (DJI-008). The 84% is of all facilities with no numerator or denominator, the tier row names the primary care level only, and nothing is dated inside the twelve months to the as-at (the 69% to 84% rise ends 2025-06-30); the 2020 tier rows (DJI-017 T2;T3, DJI-022 none) disagree with the 2025 one, which stands.",
+      "note": "Coverage reaches stage 4: the primary tier, entry at the facility, 84% of facilities at 30 June 2025, short of stage 5's 90%. Governance holds the ministry as owner but neither a current plan nor domestic finance within 36 months, so the cap holds it at 3."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "",
+      "tiers": "",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Two rows, neither able to set a rung: DJI-003 is from the excluded compilation, and DJI-014 is a general 2024 statement of paper follow-up that names no tier and no system. No row names an EMR at any tier, and none states that patient records are on paper at every tier.",
+      "note": "Stage 1 needs a dated statement of paper records at every tier, and DJI-014 names no tier. Stage 2 needs a hospital, pilot or procured EMR, and the only patient-level system held is a family-planning record, a tracker."
+    }
+  ]
+}

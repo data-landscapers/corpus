@@ -1,0 +1,33 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-027;ZWE-028;ZWE-029",
+      "gaps": "No count or share of primary clinics entering their own reports is held: the newest clinics fact (ZWE-028, 2022) has facilities on paper, keyed at the district. ZWE-022 (2025) disagrees on where data is digitised, giving facility-level flow into DHIS2, but for Impilo facilities only and without saying how the rest report. No plan is current at the as-at (the 2021-2025 strategy has ended) and nothing is dated inside the last twelve months.",
+      "note": "All four tiers report into the ministry's DHIS2 from paper keyed at the district, which is the whole of rung 3. Rung 4 needs more than half of primary clinics entering their own reports on a figure with a denominator, and none is held."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T2;T3;T4",
+      "digitised": "point-of-care",
+      "last12": "",
+      "clinics": "count:1254",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-010;ZWE-021;ZWE-024",
+      "gaps": "No fact says an Impilo record can be retrieved at another facility, so `shared` is not held. The counts are of facilities where Impilo is deployed or implemented, all facility types, not of primary clinics entering records, and they disagree: 1,254 of a planned 1,900 at August 2025 (ZWE-010) against over 700 in an undated abstract carried at 2025 (ZWE-020); the 71.9% fully functional is one province. No plan is current at the as-at (both 2021-2025 strategies have ended) and no dated event falls in the last twelve months.",
+      "note": "Impilo runs at the point of care in clinics and hospitals across all ten provinces, which meets rung 3. Rung 4 needs the record shared on a unique identifier and retrievable elsewhere, and more than half of primary clinics entering, and neither is established."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:domestic",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZAF-045;ZAF-046",
+      "gaps": "No national share or count of primary clinics entering their own reports: the only figure (ZAF-053, share:100%) is one province, Eastern Cape, for April 2017 to March 2020, and does not carry the country. No plan fact falls in the 36 months: the 2019-2024 strategy (ZAF-038) has ended and the plan:none statement (ZAF-036) is dated 2021.",
+      "note": "Tiers and facility-level capture meet stage 4's first two columns on the department's July 2026 bid, but stage 4 needs more than half of primary clinics on a share or a count with a denominator, and none is published nationally. The cell takes the rung below."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZAF-025;ZAF-028;ZAF-029;ZAF-031;ZAF-032;ZAF-033;ZAF-013",
+      "gaps": "The newest clinic facts (ZAF-007, ZAF-015, 2026) give no count in use; the older reply NW4495 counts 308 Western Cape PHC facilities on PHCIS and 36 national EMR beta sites against 3,333 PHC facilities, a minority, and says implemented rather than entering data. No total of hospitals is given, so most T1 and T2 hospitals is not established, and four provinces run none (ZAF-034). Digitised disagrees: point-of-care is the national EMR's design (ZAF-013) while ZAF-017 says most primary facilities stay on paper; nothing shows a record retrievable at another facility. Plan disagrees: ZAF-011 current, ZAF-003 none. Finance is not stated.",
+      "note": "Hospital systems in five provinces and primary-care systems in Western Cape and the national beta sites meet stage 3's primary clinics in some districts. Stage 4 needs a shared record across the primary tier in more than half of clinics, and the evidence shows a minority with no shared record."
+    }
+  ]
+}

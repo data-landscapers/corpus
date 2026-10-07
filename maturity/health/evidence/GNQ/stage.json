@@ -1,0 +1,34 @@
+{
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "",
+      "digitised": "national",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GNQ-006;GNQ-016;GNQ-017;GNQ-018",
+      "gaps": "No source names the tiers or counts the facilities entering data in the Baney and Añisok pilot, and nothing dated after November 2025 shows the national expansion foreseen for 2026 under way. The digitised facts disagree by place: facility or district-office entry in the two pilot districts (GNQ-017, GNQ-018), paper sheets transcribed to spreadsheets by ministry staff elsewhere (GNQ-015); the plan held in the window (PNDS 2021-2025, GNQ-013) is not said to name DHIS2, and the domestic budget facts are of 2019 and 2020, outside the 36 months.",
+      "note": "DHIS2 aggregate reporting ran as a pilot in two health districts in 2025, which is stage 2's some districts and pilot sites. Stage 3 needs a system keyed at district taking the clinics' reports beyond pilot sites, and no fact carries it past the two districts.",
+      "parent": "Parent, 2026-10-07: digitised takes one value; national stands for the country, the two pilot districts are in gaps."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only EMR rows (GNQ-003, GNQ-004, GNQ-005) come from the excluded source, Africa we have a data problem, and set nothing; no admitted source states either a patient record system or the paper position. systems.csv holds only noted classes on the patient side: DHIS2 trackers for routine vaccination and HIV follow-up.",
+      "note": "Stage 1 is a claim and needs a dated statement that patient records are on paper at every tier; the only such statements are from the excluded source. Nothing admitted describes a general-care patient record at any facility, so no rung can be set."
+    }
+  ]
+}

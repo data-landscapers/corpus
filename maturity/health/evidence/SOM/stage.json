@@ -1,0 +1,33 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "count:111",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SOM-002;SOM-007;SOM-008;SOM-023;SOM-033",
+      "gaps": "No denominator of primary clinics is held for the 111 facilities that produce their DHIS2 reports digitally, and no share of facilities entering their own data is published; the 2026 commentary calls implementation uneven without a figure. The facts disagree on where data is digitised (district from paper in September 2022, facility in the 111 RAAD sites by 2025) and on tiers (T4 primary health care units counted in 2022, no facility-type breakdown in the 2023 bulletin). The August 2025 UNICEF and HISP agreement falls outside the twelve months, so advancing rests on one NGO training in Bosaso in February 2026; the plan is read as current on the 2022-2026 and 2022-2027 periods, the five-year strategy's own period not being given.",
+      "note": "The national DHIS2 takes the clinics' reports, keyed at district from paper for most facilities, with facility entry shown only in 111 primary facilities. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is held."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:partner;finance:donor",
+      "tiers": "T3;T4",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "count:40",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SOM-004;SOM-005;SOM-006;SOM-011;SOM-012",
+      "gaps": "No denominator of primary clinics is held for either system, and the two counts are of different systems that are not shown to be additive: the ministry's RAAD in 111 public primary facilities (2023 to 2025) and the consortium's C+ DDS in over 40 facilities (April 2026), the newest fact and the one the clinics column carries. Ownership differs by system, ministry for RAAD and partner for C+ DDS, and the newest fact is the partner's. No plan naming an EMR is held from an admitted source, no unique patient identifier is stated, and the tier of the C+ DDS facilities is not given.",
+      "note": "Patient records are kept at the point of care in primary clinics across six states and 25 or more districts, a minority on any reading. Stage 4 needs a shared record on a unique patient identifier in more than half of primary clinics, and neither is established."
+    }
+  ]
+}

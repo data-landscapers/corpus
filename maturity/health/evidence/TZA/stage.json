@@ -1,0 +1,33 @@
+{
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none",
+      "tiers": "T2;T3;T4",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TZA-023;TZA-044",
+      "gaps": "No share or count of primary clinics entering their own reports is published: TZA-040 and TZA-043 say some facilities enter directly with no figure, the only clinics row (TZA-017, none) is a 2017 sample of 16 facilities and does not carry the country, and TZA-037 (facility, over 75% of 27 sampled facilities, no dispensaries) disagrees with TZA-023 (council-level entry for 11,805 facilities) for 2024. Tiers rest on a 2019 fact; finance is not stated inside 36 months (TZA-012, donor, is 2022); HSSP V, the plan TZA-035 cites, ran to June 2026 by TZA-011 and no successor period is given; the advancing event (TZA-022) is Zanzibar's ZHMIS on a proxy date.",
+      "note": "The ministry's own 2024 methodology has facilities aggregating on paper and councils keying into DHIS2, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics on a figure with a denominator, and none is held."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "share:23.25%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-001;TZA-027;TZA-030;TZA-031",
+      "gaps": "Nothing says where the record is digitised or whether it is retrievable at another facility: the only admitted digitised rows are paper (TZA-018, a 2017 sample; TZA-047, 2019), which the later tiers rows contradict, and TZA-007's integrated system carries no facility count. The clinics share is SARA 2023's 23.25% of all facilities read as primary clinics (10.6% of dispensaries, 44.9% of health centres); the newest rows give no share (TZA-002) or a count of more than 3,000 with no denominator (TZA-028). Finance is not stated; vendor systems run in zonal and specialised hospitals (TZA-033); the Digital Health Strategy ran out in 2024 and HSSP V in June 2026 with the successor still in development (TZA-034); no dated event falls inside the twelve months, and no named community system is shown exchanging with the EMR.",
+      "note": "Electronic records are reported in all referral and regional hospitals and in a minority of primary facilities, which meets stage 3. Stage 4 needs more than half of primary clinics on a shared record, and the latest share is 23.25% with no fact establishing a shared record."
+    }
+  ]
+}

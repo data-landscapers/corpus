@@ -1,0 +1,33 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T2;T3",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "BFA-007;BFA-020;BFA-022;BFA-023;BFA-024;BFA-025",
+      "gaps": "No source gives a number or share of primary clinics, or of districts, keying their own monthly reports; the facts disagree on where data is digitised, the newest (BFA-007, 2025-01) saying facility entry is being scaled up while the 2024 yearbook (BFA-022) still gives district keying from paper as the general route and facility entry only in the districts implementing it. Finance is not stated, and no row shows a community system exchanging data with Endos-BF: community reports reach it on paper through the CSPS and the district (BFA-041).",
+      "note": "Endos-BF on DHIS2 takes the reports of every tier, keyed at the district from the clinics' paper forms, with facility entry in an unpublished number of districts. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T2",
+      "digitised": "paper",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-016;BFA-018;BFA-035",
+      "gaps": "No admitted row states the position at primary clinics, none says whether the pilot hospitals record at the point of care or key afterwards, and nothing is dated inside the twelve months; the only digitised fact is the 2023 statement that registers are on paper (BFA-034), older than the OpenClinic pilots. The 2023 governance facts (owner:partner, plan:none, finance:donor; BFA-036 to BFA-038) rest on fieldwork ending April 2023, outside the 36 months, and are not carried, so finance is not held.",
+      "note": "Patient records run at pilot hospitals only: OpenClinic at the CHR of Manga and the CHUR of Ouahigouya, and one proprietary package at a university hospital. Stage 3 needs most T1 and T2 hospitals, or primary clinics in some districts, and the evidence shows neither."
+    }
+  ]
+}

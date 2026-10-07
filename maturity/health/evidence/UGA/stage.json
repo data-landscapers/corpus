@@ -1,0 +1,34 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing;community integrated",
+      "stage_sources": "UGA-007;UGA-020;UGA-041;UGA-042",
+      "gaps": "No share or count of primary clinics entering their own reports is published: the ministry says only that decentralising entry to facilities continued (UGA-042), and facility entry is established by census only for HC IVs and hospitals (UGA-019, UGA-020). The newest fact (UGA-007, August 2026) has many Health Centre IIIs without computers and one carrying its report to the district, which disagrees with the facility-entry rows. Finance is not stated, and the 58 to 98 per cent DHIS2 reporting rate behind the advancing flag (UGA-012) has no stated measure or denominator.",
+      "note": "DHIS2 takes reports from every tier down to HC IIs and clinics, but stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published. The 2028 target of 80% of HC IVs and IIIs reporting in real time (UGA-036) is a plan, not a position.",
+      "parent": "Parent, 2026-10-07: digitised takes one value; the newest fact (UGA-007) stands, the facility-entry rows are in gaps."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "count:7",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "UGA-002;UGA-003;UGA-004;UGA-021;UGA-028;UGA-029",
+      "gaps": "The hospital arm is disputed: the ministry reports the EMR in 92% of targeted hospitals as of 2025 (UGA-028), while a census of all 265 government HC IVs and hospitals found eAFYA in 16.6% and called typical EMR prevalence minimal (UGA-021). Primary-clinic use rests on a ministry count of 7 with no denominator (UGA-029) and three clinics named in one district (UGA-004), which do not carry the country; T4 is evidenced in that district only. Nothing shows a record retrievable at another facility, finance is donor only, and the twelve months hold both the March 2026 handover to the ministry (UGA-011) and a no-change report from one district (UGA-005). A private vendor's EMR (UGA-006) and partner-deployed systems (UGA-022) also run, outside the ministry's.",
+      "note": "The ministry's EMR is in use at the point of care in referral and general hospitals and in primary clinics in a few places, which meets stage 3 on the primary-clinics-in-some-districts arm. Stage 4 needs the primary tier with more than half of clinics on a shared record, and the evidence holds seven clinics and no shared record."
+    }
+  ]
+}

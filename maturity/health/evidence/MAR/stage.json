@@ -1,0 +1,33 @@
+{
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MAR-013;MAR-014;MAR-015;MAR-026;MAR-027",
+      "gaps": "The coverage facts disagree: at December 2019 the SMIPF-SC was operational in every public health centre (MAR-013, MAR-014), worded as 100% with no numerator or denominator, while the newer March 2023 baseline has an integrated system deployed at hospitals and only begun in primary centres, with no count (MAR-026, MAR-027). No source says the health centres key their own reports (MAR-015), and nothing on coverage is dated after March 2023; finance:domestic (MAR-024, 2022) falls outside the 36 months.",
+      "note": "A national system takes the health centres' reports and facility entry by clinics is not published, which is stage 3. Stage 4 needs more than half of primary clinics entering their own reports on a share or count with a denominator, and the one share is of centres where the system is operational, undenominated and from 2019."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;finance:not-stated",
+      "tiers": "T1;T2",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MAR-029;MAR-030;MAR-035;MAR-037;MAR-038;MAR-039",
+      "gaps": "The hospital system is stated as deployed in all public hospitals (MAR-029), which is not a count of hospitals using it; routine clinical use is evidenced at one university hospital (MAR-035, MAR-037). Primary-tier use rests on one province, where patient files are keyed afterwards by contracted clerks (MAR-038, MAR-039), and on an unsourced four-region claim (MAR-036), so T3 and T4 are not carried and digitised disagrees by tier. No share or count of primary clinics is published (MAR-006, MAR-030). The plan facet is left empty: framework law 06-22 (MAR-012, 2022) gives no period for the shared record, so plan:current is not established.",
+      "note": "Hospital deployment in all twelve regions with primary clinics in one province holding keyed patient files meets stage 3, the record staying in the facility. Stage 4 needs a shared record on a unique identifier in more than half of primary clinics, and the tender of 2024 and the draft law of 2026 both state that no shared record exists yet (MAR-034, MAR-001, MAR-002)."
+    }
+  ]
+}

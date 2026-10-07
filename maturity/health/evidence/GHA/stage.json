@@ -1,0 +1,33 @@
+{
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "tiers": "T4",
+      "digitised": "facility",
+      "last12": "no-change",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-009;GHA-010;GHA-022;GHA-036;GHA-042",
+      "gaps": "No share or count with a denominator of primary clinics entering their own reports: the ministry's 2022 plan says only that 'most facilities' enter into DHIMS2 themselves, and the one survey (86 purposively chosen CHPS zones in six Northern Region districts, March 2024) both reports entry at CHPS level (GHA-009) and CHPS staff without logins or computers whose paper goes to the district (GHA-010). The only clinics figure is none of 16 facilities in 2016-2017, a sample that does not carry the country; no plan fact falls inside the 36 months (the 2022-2025 plan is dated June 2022) and nothing on DHIMS2 is dated inside the twelve months.",
+      "note": "District entry from clinics' paper forms is established and facility entry exists at CHPS level, but stage 4 needs more than half of primary clinics on a share or a count with a denominator and none is published. Coverage stops at 3, so the cap rule does not bite."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "share:15%",
+      "cap": "",
+      "flags": "advancing;regressing",
+      "stage_sources": "GHA-002;GHA-011;GHA-013;GHA-017;GHA-018;GHA-030",
+      "gaps": "What runs at the as-at is not established: LHIMS, in all teaching, regional and district hospitals in October 2024 (GHA-031, GHA-032), had its contract expire on 31 December 2024 and was reported shut down by October 2025 with hospitals reverting to manual records, and no fact shows which tiers or how many facilities use its replacement GHIMS, whose nationwide rollout was only ordered for November 2025. The 15% is of all health facilities, read from an unheaded passage as a baseline with no numerator, denominator or year; sources disagree on whether LHIMS was shut down outright or disrupted in some hospitals; owner is ministry for GHIMS but vendor for the lost LHIMS and for the OneHealthEHR pilot, GHIMS's finance is not stated (the one domestic-funder fact is LHIMS's, December 2023), and the point-of-care fact is the pilot's, stated for two countries together.",
+      "note": "Stage 3 needs most T1 and T2 hospitals in use, and the system that gave that was shut down within the twelve months, so the cell is restaged on what still runs: a national replacement procured and ordered, a 15% facility share and a vendor pilot. Both the shutdown (October 2025) and the GHIMS launch and OneHealthEHR go-live are dated inside the twelve months, hence both flags."
+    }
+  ]
+}

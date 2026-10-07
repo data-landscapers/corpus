@@ -1,0 +1,34 @@
+{
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "facility",
+      "last12": "no-change",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-035;KEN-036",
+      "gaps": "No share or count of primary clinics keying their own reports is held: KEN-041's 94% (2019/20) is a reporting rate, not facility entry, and KEN-035 names no tier individually. KEN-036 (2024, entry at the facility) and KEN-024 (2016, district and national) disagree on where data is digitised; the newer stands. Finance rows are 2015 and 2016, outside the 36 months; the plan row KEN-038 is dated 2023-07, two months before the window opens, and is kept because the plan runs to June 2027. No dated event falls in the twelve months.",
+      "note": "KHIS takes facilities' reports nationwide and facilities can enter them online, but nothing shows more than half of primary clinics doing their own entry on a share or a count with a denominator. Stage 4 needs that figure, so the cell takes stage 3."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "tiers": "T2;T3;T4",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "KEN-004;KEN-011;KEN-026",
+      "gaps": "The record is not shown to be shared: KEN-003 gives point-of-care capture and retrieval across facilities as the intended arrangement, not as practice. KEN-002's 6,427 of 6,427 counts public Level 2 to 4 facilities that completed a transition from the claims portal, Level 4 hospitals included, private and faith-based clinics outside the denominator, and does not say clinicians enter patient records, so no share of primary clinics is taken from it. KEN-001, 002, 003, 005 and 006 carry the document's date of 2026-10-02, two days after the as-at; KEN-004 (2026-09-30) reports the same migration. Level 5 stands at 4 of 27 and both Level 6 hospitals are incomplete, so T1 is not set (KEN-037 is one hospital). Finance: KEN-014 (US funds, US$175m) and KEN-015 (government to pay running costs) disagree, and no budget line is named. KEN-008 is from the excluded source and sets nothing.",
+      "note": "Public primary facilities nationwide are reported on a government hospital management system with clinical modules, and point-of-care entry is established only for 16 private clinics. Stage 4 needs the value shared and more than half of primary clinics entering records, and neither is established.",
+      "parent": "Parent, 2026-10-07: three source rows dated after the as-at removed; the stager held the stage is 3 without them."
+    }
+  ]
+}

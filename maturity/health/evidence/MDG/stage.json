@@ -1,0 +1,33 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T2;T3",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "community integrated",
+      "stage_sources": "MDG-015;MDG-016;MDG-017",
+      "gaps": "No count or share of basic health centres keying their own monthly report: the electronic RMA is available in 10 pilot districts of 114 with no facility count (MDG-017), and the 2025 deployment of electronic registers and tablets (MDG-002) gives no count either. The donor-finance statements (MDG-014, MDG-027) predate the 36-month window, and the WHO facts on completeness, modernisation and CHRD data quality (MDG-001 to MDG-003, which disagree on direction) are dated only to 2025, so none can be placed inside the twelve months.",
+      "note": "DHIS2 takes the health centres' reports in all 114 districts, keyed at the district from paper forms, which is the whole of rung 3. Rung 4 needs more than half of primary clinics entering their own reports, and facility entry is held only as a pilot."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry;owner:partner;plan:current;finance:donor",
+      "tiers": "T3;T4",
+      "digitised": "point-of-care",
+      "last12": "",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-021;MDG-023;MDG-028",
+      "gaps": "No count, share or district is given for the facilities keeping an electronic record: the 2024 statement says only some private establishments and some CSB (MDG-021, MDG-022), and the 2019 figure counts doctors, not facilities, with no denominator (MDG-030). Point-of-care rests on one practice (MDG-029) against paper registers at 30 health centres in 2021 (MDG-011); the two owners are two systems, the partner-run Datasanté record in use and the ministries' hospital project, whose two pilot sites were chosen and not shown in use (MDG-019, MDG-020). Nothing is dated inside the twelve months.",
+      "note": "Electronic records run in scattered pilot and private facilities, which the ministry's own strategy calls experimental and local. Rung 3 needs most T1 and T2 hospitals or primary clinics in some districts, and no hospital use and no district is established."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "unplaced",
+      "governance": "owner:ministry;plan:none",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The two rows held (DZA-008, DZA-009) are governance only: a first team of 20 trained on DHIS2 in December 2023 and a digital health strategy still in draft in November 2023. Nothing says which tiers report through it, where data is keyed or how many primary clinics enter their own reports; finance is not stated, and there is no dated statement that reporting has no digital entry.",
+      "note": "Training on a platform is not use at any tier and not a contracted national rollout, so stage 2 is not reached. No statement of absence is held, so stage 1 cannot be claimed either."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "tiers": "T1;T2",
+      "digitised": "shared",
+      "last12": "advancing",
+      "clinics": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "DZA-007;DZA-002",
+      "gaps": "No count or share of hospitals using the record is held, and nothing on primary clinics. The newest fact (DZA-007, 8 September 2026) puts it in hospital establishments with generalisation being finalised, while DZA-002 (16 August 2026) has it still forthcoming in the wilaya of Annaba; the two disagree. The value shared rests on a ministerial statement of February 2024 (DZA-010) that does not say where the record is keyed; plan and finance are not stated. DZA-004 and DZA-005 are from the excluded source and set nothing.",
+      "note": "Stage 3 needs most T1 and T2 hospitals using it; the evidence is an undated, uncounted editorial saying generalisation is being finalised, against a wilaya where it had not started three weeks earlier. That establishes some hospitals, which is stage 2."
+    }
+  ]
+}

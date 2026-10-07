@@ -1,0 +1,33 @@
+{
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "tiers": "T2;T3",
+      "digitised": "facility",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-017;LSO-018;LSO-022;LSO-023;LSO-024;LSO-031",
+      "gaps": "No share or count with a denominator of primary clinics entering their own reports: facility entry is evidenced only for the four pilot districts to June 2017 (LSO-024) and for reports automated from the eRegister (LSO-017), and how facilities without it enter theirs is not stated. Tiers and clinics have nothing dated since 2017; finance inside the 36 months is not stated (the donor rows are 2015 and 2022); the 2025 advance (LSO-003) is dated to the year only and the same year carries falling reporting rates (LSO-018, LSO-019), so no twelve-month flag is set. LSO-004 is from the excluded source and sets nothing.",
+      "note": "The ministry's DHIS2 takes facility reports nationally (231 facilities reporting, LSO-018) and facility-level entry is shown in a minority, so the stage 3 row is met. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:partner;finance:domestic",
+      "tiers": "T2",
+      "digitised": "paper",
+      "last12": "advancing",
+      "clinics": "count:197",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-011;LSO-020;LSO-033",
+      "gaps": "The 197 facilities (LSO-011) are where the eRegister is in place, reported by the HIV programme on ART and HTS reports, with no denominator and no split of hospitals from clinics; the newest fact on general care (LSO-020, 2023) has it on paper at rural health centres, and nothing shows the planned expansion to all primary care patients delivered. The hospital EMR's standing is disputed and old: withdrawn by one account (LSO-032), in inadequate use at six hospitals by another (LSO-033, 2018). No plan naming the system is held; the 2025 advance (LSO-014) is dated to the year only and LSO-016 reports under-use to September 2025, so no twelve-month flag is set. LSO-005 is from the excluded source and sets nothing.",
+      "note": "An electronic record exists in some facilities, so the cell is above a paper-only claim, which no dated statement supports for every tier. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts keeping the general-care record, and the evidence shows a hospital system largely withdrawn and a record confined to HIV and TB patients."
+    }
+  ]
+}

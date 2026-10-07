@@ -1,0 +1,33 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T2",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-030;SLE-043;SLE-048;SLE-050",
+      "gaps": "No fact says a primary clinic keys its own reports: the 96% of SLE-010, SLE-032 and SLE-039 is DHIS2 deployed in facilities surveyed, with tracker applications joined in, and SLE-041 puts T3 and T4 under that deployment only. The January 2023 facts disagree on where data is digitised, at the facility in hospitals (SLE-042) and at the district (SLE-043); the district stands for the clinics, on the April 2020 procedure (SLE-048), and nothing dated since says whether the 2020 plan to move entry to community health centres took effect. Finance is held only for 2022, outside the 36 months, and no event is held for the last twelve months.",
+      "note": "Clinics' paper forms are keyed into DHIS2 at the district and hospitals key their own, which meets the whole of stage 3. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and the only published figures are of deployment and completeness."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:partner;plan:current;finance:donor",
+      "tiers": "T1;T2;T4",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "count:1",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SLE-017;SLE-018;SLE-023;SLE-028;SLE-037",
+      "gaps": "Each tier rests on one facility: Connaught Hospital as a 2023 pilot, Koidu Government Hospital and Wellbody Clinic; the Compact's baseline of 5 facilities (SLE-028) is undated, of all tiers, against about 1,463 public facilities. The clinic counts disagree, one named clinic (SLE-023) against pilots at three or four primary facilities in the Roadmap (SLE-034), whose present state is not held. The Minister's July 2026 account of paper-based patient records (SLE-001) disagrees with point-of-care entry at the facilities named and names no tier. The running systems are partner-owned; the Ministry owns the planned national EMR (SLE-006, SLE-025, SLE-036), which was at expressions of interest in December 2025 and is not shown procured.",
+      "note": "The EMR runs in a handful of hospitals and pilot facilities, with one primary clinic named, which is stage 2. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and 5 facilities in a network of about 1,463 is neither."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "tiers": "T1;T2;T3",
+      "digitised": "facility",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-023;NER-024;NER-027",
+      "gaps": "No count or share of integrated health centres keying their own reports into DHIS2 is held: the 2023 guide prescribes facility entry and does not measure it, and the only figures are 2021 completeness and timeliness of reports transmitted. Nothing on finance is dated inside the 36 months (the donor financing row is 2019), nothing is dated inside the last twelve months, and no community system is shown exchanging data with the SNIS.",
+      "note": "Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and the share is not published. Facility entry at the health centre is the ministry's prescribed circuit, with health posts sending paper to the centre, so the cell takes the rung below."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:partner;plan:current;finance:donor",
+      "tiers": "T2;T3",
+      "digitised": "",
+      "last12": "advancing",
+      "clinics": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NER-014;NER-015;NER-019",
+      "gaps": "No count of health centres using the computerised record and no denominator is held, and nothing says whether the record is made at the point of care or keyed afterwards; the only row on that is from the excluded source. The April 2024 row puts the system in two district hospitals only (clinics none) and the November 2024 evaluation adds health centres in three districts; the newer stands. The July 2026 OpenClinic event gives no sites or counts.",
+      "note": "The record is set up in the district hospitals and health centres of three project districts of 72, which is pilot sites and not routine use by primary clinics across districts. Stage 3 needs most T1 and T2 hospitals or established clinic use with a place of digitisation, and neither is evidenced."
+    }
+  ]
+}

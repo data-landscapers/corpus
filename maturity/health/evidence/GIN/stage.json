@@ -1,0 +1,33 @@
+{
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GIN-009;GIN-024;GIN-025",
+      "gaps": "No share or count of health centres or health posts entering their own reports is published; the 100% completeness of Q1 2026 (GIN-009) is data transmitted, not facility entry. The sources disagree on where data is keyed: the 2021 yearbook and a 2022 project statement have some health-centre heads entering in DHIS2 (GIN-034, GIN-037), while the newer rows have paper tools keyed at the district (GIN-025) and rural centres reporting on paper (GIN-024); GIN-025 is dated only to its published year.",
+      "note": "All levels of the pyramid report into the ministry's DHIS2 and the clinics' paper reports are keyed at the district, which is stage 3's whole row. Stage 4 needs facility entry by more than half of primary clinics on a share or a count, and no figure is held."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "owner:vendor;finance:donor",
+      "tiers": "T2;T3",
+      "digitised": "point-of-care",
+      "last12": "advancing",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GIN-001;GIN-006;GIN-019",
+      "gaps": "No denominator of hospitals is held, so the 19 public establishments on Visa Medical and the five OpenClinic facilities cannot be read as most T1 and T2 hospitals; the tier of all but two named sites is not stated. Clinic+O's record at community health centres carries no count and no district, and is captured by community health workers; a second owner, the partner Clinic+O (GIN-020), stands beside the vendor, and no plan naming any of the three systems is held. Whether a Visa Medical record can be retrieved at another facility is not stated.",
+      "note": "Three separate records run in some hospitals and pilot facilities, entered at the point of care, which is stage 2. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the evidence gives neither a hospital denominator nor a count or district for the health centres."
+    }
+  ]
+}

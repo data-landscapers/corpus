@@ -1,0 +1,33 @@
+{
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "AGO-011;AGO-012",
+      "gaps": "No row names the tiers using the system, and no count or share of primary clinics entering their own reports is published; the one source says facilities report on paper, undated beyond its June 2025 publication. The strategic plan is in preparation and not reported as adopted, and the 2024 domestic allocation (AGO-010) is not tied to the system by name.",
+      "note": "Facilities report on paper and DHIS2 is keyed at municipal or provincial level, which is the whole of rung 3. Rung 4 needs entry at the facility by more than half of primary clinics, and the evidence states the opposite."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "2",
+      "governance": "",
+      "tiers": "",
+      "digitised": "keyed-afterwards",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-016",
+      "gaps": "The only admissible EMR evidence is from 2019: a prototype obstetric record under test at one hospital in Lubango, keyed retrospectively, and paper records at two Luanda TB facilities (AGO-015). Nothing is dated since, so whether the prototype still runs, which tiers hold an EMR, any primary clinic use, and governance inside the 36 months are all not established; AGO-005 is from the excluded source and sets nothing.",
+      "note": "One hospital's prototype in test is a pilot facility, which meets rung 2 and no more. Rung 3 needs most T1 and T2 hospitals or primary clinics in some districts, and no row shows either."
+    }
+  ]
+}

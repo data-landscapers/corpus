@@ -1,0 +1,34 @@
+{
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "tiers": "T1;T2;T3;T4",
+      "digitised": "district",
+      "last12": "advancing",
+      "clinics": "share:30%",
+      "cap": "",
+      "flags": "advancing;community integrated",
+      "stage_sources": "SSD-014;SSD-015;SSD-016;SSD-007;SSD-011",
+      "gaps": "The 30% is a share of all health facilities with no numerator or denominator, and the tier of the facilities keying their own reports is not stated; the two 2025 facts on where data is keyed disagree (SSD-015 facility, SSD-016 centralised at a level it does not name), and SSD-011 says the PHCC and PHCU vouchers are configured, not where they are keyed. On the plan, the HSSP 2023-2027 targets for DHIS2 (SSD-019) stand against a February 2025 self-assessment that lists an HIS strategic plan as still to be established (SSD-008).",
+      "note": "The Ministry of Health puts facilities entering their own reports in DHIS2 at 30% in 2025, a minority, with entry elsewhere centralised above the facility, which is stage 3's row. Stage 4 needs more than half of primary clinics entering their own reports.",
+      "parent": "Parent, 2026-10-07: digitised takes one value; entry above the facility is the general route, 30% of facilities key their own."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one EMR row, SSD-005, is from the excluded source and sets nothing, so neither a system in use nor a dated statement of paper records at every tier is held. systems.csv holds only a noted class, the OpenMRS ART E-register at five sites (tracker), plus an unnamed and unclassified 22.4% of facilities with facility-wide electronic systems.",
+      "note": "No admissible row sets a rung, and stage 1 needs a dated statement of absence that only the excluded source gives. The country holds only a noted class on this sub-indicator."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "tiers": "T1;T2;T3",
+      "digitised": "district",
+      "last12": "",
+      "clinics": "not-published",
+      "cap": "",
+      "flags": "community integrated",
+      "stage_sources": "BEN-008;BEN-010;BEN-016;BEN-017;BEN-006",
+      "gaps": "No number or share of primary clinics keying their own reports is published: the 2022 yearbook says only that certain equipped facilities and community relays do (BEN-017, against BEN-016 the same year), and the one count held is a single named private clinic in Cotonou (BEN-006), which does not carry the country. Tiers rest on 2019 and digitisation on 2022, nothing below the health centre is named, and no dated event falls in the twelve months to the as-at; the domestic budget line is for the directorate's information systems and does not name SNIGS or DHIS2.",
+      "note": "Every zone sanitaire keys the facilities' paper reports into DHIS2, which meets the whole of rung 3. Rung 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and facility entry is recorded only as an unnumbered exception."
+    },
+    {
+      "sub_indicator": "emr",
+      "stage": "unplaced",
+      "governance": "",
+      "tiers": "",
+      "digitised": "",
+      "last12": "",
+      "clinics": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only two rows (BEN-003, BEN-004) come from the excluded source, Africa we have a data problem, and set nothing. No admitted row states a tier, a place of digitisation or a clinic count for an EMR, and none gives the dated statement of paper at every tier that stage 1 needs; systems.csv holds a digital health booklet only as a pledge.",
+      "note": "Rows exist, so the cell is unplaced and not no evidence. Stage 1 is a claim and the one statement of the paper position is from the excluded source."
+    }
+  ]
+}
