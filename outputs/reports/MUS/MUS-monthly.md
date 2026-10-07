@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: MUS
-ledger_rows: 18
+ledger_rows: 19
 not_held: 7
-record: cb202908303f
+record: 6517397e331e
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -105,4 +105,12 @@ The central bank opened its own statistics rather than waiting for the statutory
 
 
 The central bank put its statistics on a standards-based platform. It [launched its statistical data platform on 3 September, built with monetary fund and development bank support on an open data platform with standardised statistical data and metadata dissemination, and stated as the first African central bank on that platform's second version](https://www.bom.mu/media/media-releases/bank-mauritius-expands-access-official-statistics-rollout-bomstats-platform). No dataset count, series coverage, licence or machine-readable access statement accompanies the launch — which for a platform whose point is machine-readable dissemination is the thing a user would check first.
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+The incumbent operator and the cloud company [held an executive workshop on cloud, data and artificial intelligence for more than 125 delegates of state-owned enterprises](https://lexpress.mu/node/563331).
 <!-- /narrative -->

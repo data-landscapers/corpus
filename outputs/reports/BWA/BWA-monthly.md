@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: BWA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 8
-record: 27a4ca60c89b
+record: f79ea22e3eb1
 ---
 
 # Botswana: monthly update, September – October 2026
@@ -65,6 +65,11 @@ The identity register is being opened to banks: the bankers' association [launch
 
 <!-- narrative: dpi--dpi-pay -->
 A fourth came with a bank's annual results: FNBB [said its eWallet will send funds directly into all three mobile-money platforms](https://www.mmegi.bw/business/fnbb-muscles-into-mobile-money-race/news), with no start date or fee published.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+A newspaper reported [the transport ministry extending permits and clearing vehicles by hand after a systems outage at the road transport department](https://www.sundaystandard.info/the-system-is-down-not-the-road-traffic-act/).
 <!-- /narrative -->
 
 ## Technology

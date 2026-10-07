@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: XEA
-ledger_rows: 17
+ledger_rows: 18
 not_held: 0
-record: 89d02d9a6b5b
+record: 8cbaa16ce1c9
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -37,7 +37,7 @@ Insurance regulators from Kenya, Uganda, Tanzania, Rwanda, Burundi and the Democ
 ### AI
 
 <!-- narrative: instruments--tech-ai -->
-COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published. IGAD moved separately: its Council of Ministers [endorsed an IGAD Artificial Intelligence Centre of Excellence in principle on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/) and asked member states to bid to host it, with no host, budget or mandate yet set. A [regional AI and productivity study was launched at the East Africa CEO and Investment Forum on 18 September](https://eabc-online.com/chairperson-of-the-eac-heads-of-state-summit-lauds-the-regions-6-economic-growth-calls-on-the-private-sector-to-drive-shared-prosperity-as-east-africa-ceo-investment-forum-delivers-us3-95/), with no terms of reference or timetable held; [a two-day consultation on a Horn of Africa artificial-intelligence framework opened on 4 September](https://www.fanamc.com/english/igad-moves-to-forge-regional-ai-framework-to-drive-integration-development/); and [the region's quality assurance forum for higher education met in Kigali on how artificial intelligence changes what a degree must assure](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/).
+COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published. IGAD moved separately: its Council of Ministers [endorsed an IGAD Artificial Intelligence Centre of Excellence in principle on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/) and asked member states to bid to host it, with no host, budget or mandate yet set. A [regional AI and productivity study was launched at the East Africa CEO and Investment Forum on 18 September](https://eabc-online.com/chairperson-of-the-eac-heads-of-state-summit-lauds-the-regions-6-economic-growth-calls-on-the-private-sector-to-drive-shared-prosperity-as-east-africa-ceo-investment-forum-delivers-us3-95/), with no terms of reference or timetable held; [a two-day consultation on a Horn of Africa artificial-intelligence framework opened on 4 September](https://www.fanamc.com/english/igad-moves-to-forge-regional-ai-framework-to-drive-integration-development/); and [the region's quality assurance forum for higher education met in Kigali on how artificial intelligence changes what a degree must assure](https://www.ktpress.rw/2026/09/ea-universities-rethink-quality-as-ai-puts-degrees-to-a-new-test/). The regional community and its university council [validated the draft of an AI literacy module for university students in every discipline](https://iucea.org/eac-advances-regional-ai-skills-initiative-to-prepare-east-african-graduates-for-the-future-of-work/).
 <!-- /narrative -->
 
 ## Shared systems and infrastructure

@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: GHA
-ledger_rows: 86
+ledger_rows: 88
 not_held: 9
-record: 32caa7a2d795
+record: 2f0a5ed05c74
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -39,6 +39,11 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 <!-- narrative: governance--gov-regional -->
 Ghana's regional position moved on three fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The central bank [directed banks to give their fraud functions direct access to the chief executive, alongside work on implementing the directive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -106,7 +111,7 @@ The SIM half of the identity regime moved for the first time in nine months. The
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 
-The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december).
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december). The identification authority [began school-based registration of children aged 6 to 14 in the North East and Upper East Regions](https://www.myjoyonline.com/nia-extends-ghana-card-registration-for-children-in-north-east-and-upper-east/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

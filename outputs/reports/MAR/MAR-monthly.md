@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: MAR
-ledger_rows: 24
+ledger_rows: 25
 not_held: 14
-record: 292ed1f8d639
+record: 44b43da8ad5b
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -100,7 +100,7 @@ The state put money behind the startup strategy. A decree of 3 August [authorise
 <!-- narrative: capacity--capacity-training -->
 The Génération AIoT programme [opened seven cohorts in Casablanca, Fès and Oujda, aiming at 1,200 trained people a year from February 2027](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). Launched in February by the digital transition ministry with a foundation and a technology firm, it [had drawn 2,118 applications and gathered 95 participants](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). No completion or placement figure is published.
 
-The administration school and the digital development agency [agreed on 22 September to train civil servants in digital transformation, AI and data management](https://en.7news.ma/ena-add-digital-skills-partnership/); no number of officials or start date was announced.
+The administration school and the digital development agency [agreed on 22 September to train civil servants in digital transformation, AI and data management](https://en.7news.ma/ena-add-digital-skills-partnership/); no number of officials or start date was announced. The security directorate and the World Bank [opened an executive cybersecurity programme in Rabat for leaders of African cybersecurity authorities](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0).
 <!-- /narrative -->
 ### Research institutions
 

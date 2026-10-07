@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: GMB
-ledger_rows: 43
+ledger_rows: 44
 not_held: 3
-record: 60537905082f
+record: d0d17570e2c6
 ---
 
 # Gambia: monthly update, September – October 2026
@@ -118,7 +118,7 @@ The employment ministry [signed memoranda with the applied science university, t
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without.
+The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without. The regional alliance [opened a workshop to pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/).
 <!-- /narrative -->
 
 ## Geopolitics

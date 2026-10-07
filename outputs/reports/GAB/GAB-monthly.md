@@ -59,7 +59,7 @@ The presidential spokesman [said on radio that he uses a virtual private network
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/), and [signed it that day as a twenty-year partnership in which the network stays state property](https://agpgabon.ga/gabon-numerique-signature-dun-partenariat-entre-la-spin-et-gabon-fiber-s-a/). No financing has closed.
+The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/), and [signed it that day as a twenty-year partnership in which the network stays state property](https://agpgabon.ga/gabon-numerique-signature-dun-partenariat-entre-la-spin-et-gabon-fiber-s-a/). No financing has closed. The incumbent operator and the ministry [signed a convention ceding to the State the 196 km Fougamou-Mouila fibre section](https://union.sonapresse.com/fr/telecommunications-magt-et-letat-signent-une-convention-strategique).
 <!-- /narrative -->
 ### Data Storage
 

@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: DJI
-ledger_rows: 13
+ledger_rows: 14
 not_held: 12
-record: b7229472999d
+record: 7c3dd3ee554f
 ---
 
 # Djibouti: monthly update, September – October 2026
@@ -75,7 +75,7 @@ The forum also [carried a first national AI prototyping competition, putting you
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre on 5 September](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/), and [Djibouti Telecom certified 35 of its engineers in artificial intelligence on 17 September](https://www.adi.dj/article/138906). Neither account gives a cost.
+Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre on 5 September](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/), and [Djibouti Telecom certified 35 of its engineers in artificial intelligence on 17 September](https://www.adi.dj/article/138906). Neither account gives a cost. The Francophonie organisation and the education ministry [signed an agreement to train 200 young people in development, networks and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse).
 <!-- /narrative -->
 
 ## Inclusion

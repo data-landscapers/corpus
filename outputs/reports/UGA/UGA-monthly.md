@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: UGA
-ledger_rows: 58
+ledger_rows: 59
 not_held: 11
-record: 0a05d216b6cd
+record: dd777494c95f
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -35,7 +35,7 @@ Digital lending came before Parliament's accountability committee. The central b
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-Three men [were held at a Kampala station over alleged false news and unlawful obtaining or disclosure of personal data](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media), reported on 1 September, on offences under the computer misuse statute; the posts, the data and the complainant are not disclosed.
+Three men [were held at a Kampala station over alleged false news and unlawful obtaining or disclosure of personal data](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media), reported on 1 September, on offences under the computer misuse statute; the posts, the data and the complainant are not disclosed. A TikTok user [was charged with unlawfully obtaining and disclosing personal data over a photograph and video of a State House employee](https://www.newvision.co.ug/category/news/tiktoker-charged-over-alleged-fake-news-data-NV_241989_102026). The communications regulator [launched a child online protection campaign at a Kampala secondary school](https://techafricanews.com/2026/10/07/uganda-launches-child-online-protection-campaign-to-promote-safer-internet-use/).
 <!-- /narrative -->
 ### Regional collaboration
 

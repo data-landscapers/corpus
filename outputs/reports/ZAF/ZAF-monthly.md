@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: ZAF
 ledger_rows: 124
-not_held: 22
-record: d23311947277
+not_held: 21
+record: 346edc147008
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -149,7 +149,7 @@ The state IT agency [is procuring a 36-month incident management system for the 
 <!-- narrative: dpi--dpi-govtech -->
 The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting. On 23 September the commission said [the party had lost its court challenge, that it had concluded end-to-end testing of its results system for the 4 November elections, and that parties could test the system through their own experts from 5 to 12 October](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/).
 
-On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports. Gauteng's transport department [launched a digital system to clear its operating-licence backlog](https://www.ewn.co.za/2026/10/06/gauteng-transport-department-launches-digital-system-to-tackle-operating-licence-backlog). The minister told Parliament that [the state IT agency moved from a qualified audit opinion to an unqualified one for 2025/26](https://pmg.org.za/committee-question/41100/).
+On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports. Gauteng's transport department [launched a digital system to clear its operating-licence backlog](https://www.ewn.co.za/2026/10/06/gauteng-transport-department-launches-digital-system-to-tackle-operating-licence-backlog). The minister told Parliament that [the state IT agency moved from a qualified audit opinion to an unqualified one for 2025/26](https://pmg.org.za/committee-question/41100/). The electoral commission [opened its results system to audit by experts designated by four parties, after an independent external audit](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway).
 <!-- /narrative -->
 
 ## Digitalisation

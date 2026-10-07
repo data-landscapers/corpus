@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: SWZ
-ledger_rows: 32
+ledger_rows: 33
 not_held: 3
-record: 0b653e8cf9c2
+record: 6aac39853b4d
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -131,6 +131,14 @@ The central bank widened its own convening body: the governor announced on 23 Se
 In schools, the education minister [set out more than 1,140 computers donated by Taiwan to 49 schools and 40 interactive screens installed in five schools per region, with 106 more schools to follow](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/), and a US$4.75 million Global Partnership grant whose terms were not given.
 
 The civil service is being prepared for the Digital Eswatini Project's implementation phase. On 24 September [about 40 change agents from five ministries and participating parastatals, organised as a change-agent network since their first training, assessed the readiness of their own directorates](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/); no count of the staff they cover is published.
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The regional alliance [opened a workshop to pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/).
 <!-- /narrative -->
 
 ## Data

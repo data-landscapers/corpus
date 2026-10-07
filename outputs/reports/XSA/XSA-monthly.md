@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: XSA
-ledger_rows: 10
+ledger_rows: 11
 not_held: 2
-record: ee7806db6308
+record: cd375c4acebd
 ---
 
 # Southern Africa: monthly update, September – October 2026
@@ -42,6 +42,11 @@ COMESA's work then reached validation: member states, the African Union and the 
 
 <!-- narrative: systems--dpi-exchange -->
 Five Southern African customs administrations [adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria ending 26 August 2026](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), to exchange trade information before consignments reach the border, phased from priority corridors and building on links already running between Zambia and Malawi and between Zambia and Zimbabwe.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: systems--dpi-pay -->
+Mozambique's central bank governor was reported saying [the metical could enter the regional settlement system from January 2027](https://timesdetodos.com/2026/10/metical-podera-ser-usado-em-pagamentos-na-sadc-a-partir-de-janeiro-de-2027/).
 <!-- /narrative -->
 
 ## Coordination and collaboration

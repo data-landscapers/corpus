@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: GIN
-ledger_rows: 18
+ledger_rows: 19
 not_held: 4
-record: cce72f994756
+record: 3c58ad28d961
 ---
 
 # Guinea: monthly update, September – October 2026
@@ -64,7 +64,7 @@ The agriculture ministry [presented its farmer-card pilot on 16 September, with 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-A second citizen-facing platform launched, and one already running was presented abroad as evidence. The youth fund [launched a national platform for youth information, orientation, training, support and job placement, live on the web and on one mobile app store with the other to follow, with a national call for partners](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf) — no user count, vacancy volume, placement figure or funding arrangement published. Days later the anti-corruption agency [took the procurement platform and the mining cadastre to the United Nations convention review group at Vienna as evidence of transparency reform](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/), which is the first time the repository records either system being used as an argument rather than described as a service.
+A second citizen-facing platform launched, and one already running was presented abroad as evidence. The youth fund [launched a national platform for youth information, orientation, training, support and job placement, live on the web and on one mobile app store with the other to follow, with a national call for partners](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf) — no user count, vacancy volume, placement figure or funding arrangement published. Days later the anti-corruption agency [took the procurement platform and the mining cadastre to the United Nations convention review group at Vienna as evidence of transparency reform](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/), which is the first time the repository records either system being used as an argument rather than described as a service. The civil service minister [presented the one-stop public-service counter project to the mayors of Conakry's 13 communes](https://mediaguinee.com/2026/10/guichet-unique-des-services-publics-le-ministre-bourouno-mobilise-les-maires-de-conakry-pour-rapprocher-ladministration-des-citoyens/).
 <!-- /narrative -->
 
 ## Capacity

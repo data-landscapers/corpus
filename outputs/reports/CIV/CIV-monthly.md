@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 place: CIV
-ledger_rows: 32
+ledger_rows: 33
 not_held: 10
-record: baaf0f1a6156
+record: 0a18c94d1254
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -142,4 +142,9 @@ On 4 September the national coordination of disabled people's associations and t
 
 
 The access-to-information commission [began work on a national register of public documents, recording which documents public bodies hold, who holds them and how to obtain them](https://www.fratmat.info/article/2644667/culture/acces-a-linformation-et-aux-documents-publics-la-caidp-engage-le-chantier-du-referentiel-des-documents-publics), built with about 200 information officers. It points to existing inventories and archives rather than holding documents, and is to feed a national access-to-information strategy; no completion date is set.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+The environment ministry [signed a framework memorandum with an Ivorian company to monitor land use and ecosystem carbon from satellite data](https://techreviewafrica.com/news/7588/x).
 <!-- /narrative -->
