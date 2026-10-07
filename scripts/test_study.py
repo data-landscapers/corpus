@@ -328,6 +328,8 @@ try:
     manifest.write_text('{"written_utc": "2026-10-21 01:00"}', encoding="utf-8")
     check("a mirror written before it does not",
           "predates the ingest" in returned.gate("200", str(share), str(manifest)), True)
+    check("a mirror that already holds the batch opens it",
+          returned.gate("200", str(share), str(manifest), 0.9), "")
     returned.moved_at = lambda note, s: None
     check("no move in the history shuts it", "does not show" in returned.gate("200", str(share), str(manifest)), True)
 

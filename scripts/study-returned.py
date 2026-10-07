@@ -14,10 +14,17 @@ waits on two things, both read from where they are written:
 2. the mirror's `cycle-manifest.json` was written after the commit that moved it, so the
    copy of `lookups/` being read is one made after ingest finished with the batch.
 
+**The second is a clock on the wrong event when CORPUS commits OSINT's move**, which it does
+on its own next visit and so after the mirror was written. A mirror older than that commit
+still opens the gate when it already holds the batch: at least half the staged URLs resolve
+in its lookups, which a copy made before the ingest cannot show, because staging screened
+every one of them as unheld.
+
 A run before either holds would mark every document `not-returned` against an index that
 could not yet contain it, and the gaps would be searched again.
 
-Then every row of `maturity/{id}/search/staged.csv` is looked up by normalised URL in the
+Then every row of `maturity/{id}/search/staged.csv` is looked up by URL, normalised as
+`status-stage.py` normalises it (the index holds addresses percent-decoded), in the
 mirror's `lookups/raw-url-index.csv` and `lookups/rejected-urls.csv`, and
 `maturity/{id}/search/returned.csv` records the outcome:
 
@@ -41,12 +48,16 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import osint_lib   # noqa: E402
 import status_lib  # noqa: E402
 import study_lib   # noqa: E402
-import vault_lib   # noqa: E402
 
 _spec = importlib.util.spec_from_file_location(
     "lint_prepared", os.path.join(os.path.dirname(os.path.abspath(__file__)), "lint-prepared.py"))
 lint_prepared = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(lint_prepared)
+
+_spec = importlib.util.spec_from_file_location(
+    "status_stage", os.path.join(os.path.dirname(os.path.abspath(__file__)), "status-stage.py"))
+ss = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(ss)
 
 URL_INDEX = os.path.join(osint_lib.MIRROR, "lookups", "raw-url-index.csv")
 REJECTED = os.path.join(osint_lib.MIRROR, "lookups", "rejected-urls.csv")
@@ -74,8 +85,9 @@ def manifest_written(path: str) -> dt.datetime | None:
         return None
 
 
-def gate(note: str, share: str, manifest: str) -> str:
-    """Why Phase 2 may not open yet, or an empty string."""
+def gate(note: str, share: str, manifest: str, resolved: float = 0.0) -> str:
+    """Why Phase 2 may not open yet, or an empty string. `resolved` is the share of staged
+    URLs the mirror's lookups already hold."""
     read = lint_prepared._read
     state = lint_prepared.note_state(note, read(os.path.join(share, lint_prepared.NOTES)),
                                      read(os.path.join(share, lint_prepared.NOTES_RESOLVED)))
@@ -86,7 +98,7 @@ def gate(note: str, share: str, manifest: str) -> str:
         return f"the share's history does not show when note {note} was moved to the resolved file"
     if written is None:
         return f"the mirror's cycle manifest cannot be read at {manifest}"
-    if written <= moved:
+    if written <= moved and resolved < 0.5:
         return (f"the mirror was last written {written:%Y-%m-%d %H:%M} UTC and the note moved "
                 f"{moved:%Y-%m-%d %H:%M} UTC, so this copy of lookups/ predates the ingest")
     return ""
@@ -95,7 +107,7 @@ def gate(note: str, share: str, manifest: str) -> str:
 def outcomes(staged: list[dict], held: dict[str, str], rejected: dict[str, str]) -> list[dict]:
     out = []
     for row in staged:
-        key = vault_lib.normalise_url(row.get("url", ""))
+        key = ss.norm(row.get("url", ""))
         if key in held:
             slug = os.path.splitext(os.path.basename(held[key]))[0]
             out.append({**row, "outcome": "admitted", "slug": slug, "reason": ""})
@@ -118,17 +130,18 @@ def main(argv=None) -> int:
     if not staged:
         print(f"study-returned: no rows in {os.path.join(search, 'staged.csv')}.")
         return 2
-    shut = gate(a.note, a.share, osint_lib.MANIFEST)
+    index, declined = study_lib.read_csv(URL_INDEX), study_lib.read_csv(REJECTED)
+    rows = outcomes(staged, {r["url_normalized"]: r["file"] for r in index},
+                    {r["url_normalized"]: r.get("reason", "") for r in declined})
+    resolved = sum(1 for r in rows if r["outcome"] != "not-returned") / len(rows)
+    shut = gate(a.note, a.share, osint_lib.MANIFEST, resolved)
     if shut:
         print(f"study-returned: Phase 2 waits - {shut}.")
         return 2
-    index, declined = study_lib.read_csv(URL_INDEX), study_lib.read_csv(REJECTED)
     if not index:
         print(f"study-returned: the URL index is empty or missing at {URL_INDEX}.")
         return 2
 
-    rows = outcomes(staged, {r["url_normalized"]: r["file"] for r in index},
-                    {r["url_normalized"]: r.get("reason", "") for r in declined})
     study_lib.write_csv(os.path.join(search, "returned.csv"), study_lib.RETURNED_FIELDS, rows)
     count = {k: sum(1 for r in rows if r["outcome"] == k)
              for k in ("admitted", "rejected", "not-returned")}
