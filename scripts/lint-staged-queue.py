@@ -616,12 +616,18 @@ def check_flat(docs: list[Doc]) -> list[tuple[str, str, list[str]]]:
     return findings
 
 
+def staged(name: str) -> bool:
+    """A handover folder in `prepared/` carries a `BRIEF.md` beside the staged
+    files; it describes the batch and is not one of them."""
+    return name.endswith(".md") and name != "BRIEF.md"
+
+
 def walk(path: str) -> list[str]:
     if os.path.isfile(path):
         return [path]
     out = []
     for root, _, names in os.walk(path):
-        out.extend(os.path.join(root, n) for n in sorted(names) if n.endswith(".md"))
+        out.extend(os.path.join(root, n) for n in sorted(names) if staged(n))
     return sorted(out)
 
 
@@ -635,7 +641,7 @@ def batches(paths: list[str]) -> list[tuple[str, list[str]]]:
             loose.append(p)
         else:
             for root, _, names in os.walk(p):
-                mds = [os.path.join(root, n) for n in sorted(names) if n.endswith(".md")]
+                mds = [os.path.join(root, n) for n in sorted(names) if staged(n)]
                 if mds:
                     out.append((root, mds))
     if loose:

@@ -109,7 +109,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 - [x] **H2. Open the lane.** Done by OSINT (`notes-for-corpus` 78); no patch sent.
 - [x] **H3. Review all 54 countries in one run** *(Bill: no pilot)*, method §4.
 - [x] **H4. Test and fix the ladders**, §4 and §5.
-- [ ] **H5. Search, select and hand over**, method §5. Tell Bill the count before the note is written.
+- [x] **H5. Search, select and hand over**, method §5. Tell Bill the count before the note is written. *Done 2026-10-07: 245 documents delivered, `notes-for-osint` 218.*
 - [ ] **H6. Phase 2, on Bill's trigger**, method §6 and §7.
 - [ ] **H7. Write, render and lint** (method §8). Commit.
 - [ ] **H8. Report to Bill**: countries per stage for each sub-indicator; unplaced and *No evidence*; countries holding only noted classes; *community integrated* flags; the agreement count; what OSINT did not admit; and every country the cap rule held at 3, for his reconsideration.
