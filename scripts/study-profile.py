@@ -65,8 +65,13 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     own class; what a document says of a tracker or a stock system is a `systems` row.
 
     Row ids continue from the highest already in `evidence.csv`, so a second merge - the
-    Phase 2 re-read - leaves every cited id standing. A document already merged is skipped."""
+    Phase 2 re-read - leaves every cited id standing. A document already merged is skipped,
+    **except one listed a second time as `completed`**: an excerpt since held whole is read
+    again, and of what that reading states only the facts not already held for the document
+    are added."""
     listed = {str(r["n"]): r for r in readlist if r.get("kind") == "raw"}
+    held = {(r["source_slug"], r["sub_indicator"], r["aspect"], r["value"], r["as_of"])
+            for r in existing}
     sub_class = {s["key"]: s["class"] for s in study["sub_indicators"]}
     done = {r["source_slug"] for r in existing}
     nxt = max([int(r["row_id"].split("-")[1]) for r in existing] or [0]) + 1
@@ -84,7 +89,7 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
             systems.append({"iso3": iso, **{k: str(s.get(k, "") or "").strip()
                                            for k in study_lib.SYSTEMS_FIELDS[1:-1]},
                             "sources": src["slug"]})
-        if src["slug"] in done:
+        if src["slug"] in done and src.get("why") != "completed":
             continue
         for f in doc.get("facts") or []:
             sub = f.get("sub_indicator", "")
@@ -92,6 +97,11 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
                 problems.append(f"{iso} facts/{n}.json: a {sub} fact classed `{f.get('class')}`; "
                                 f"only `{sub_class[sub]}` systems are assessed there")
                 continue
+            key = (src["slug"], *(str(f.get(k, "") or "").strip()
+                                  for k in ("sub_indicator", "aspect", "value", "as_of")))
+            if key in held:
+                continue
+            held.add(key)
             rows.append({"row_id": f"{iso}-{nxt:03d}", "iso3": iso, "source_slug": src["slug"],
                          "url": src["url"],
                          **{k: str(f.get(k, "") or "").strip()

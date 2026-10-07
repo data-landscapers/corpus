@@ -5,6 +5,7 @@ r"""study-select.py — a maturity study's reading list, one per country.
     python scripts/study-select.py health            # all 54
     python scripts/study-select.py health --iso KEN  # one country
     python scripts/study-select.py health --dry      # the counts, nothing written
+    python scripts/study-select.py health --add      # Phase 2: append what ingest returned
 
 `maturity/documentation/maturity-study-method.md` §4. Writes
 `maturity/{id}/evidence/{ISO3}/readlist.csv`, the list a drafter reads whole, and
@@ -41,6 +42,14 @@ so in `read`. So does a document past `SPARSE_WORDS` with no more than `SPARSE_H
 123 such listings held 1.8 million words between them, each for a mention in passing. The
 risk is a fact stated away from any term, taken knowingly. Passages are
 source text, so they are written under the gitignored workroot and never committed.
+
+**`--add` is the Phase 2 re-read (method §7) and renumbers nothing.** It appends to each
+existing list the documents `search/returned.csv` marks admitted, as `why = returned`, and
+the held excerpts of `search/reacquire.csv` that are no longer excerpts, as
+`why = completed`. A document goes to the country its record's `places:` now names, which
+ingest may have corrected, and to the country it was staged for where it names none. `n`
+continues from the list's highest and the new rows open new slices, so every facts file
+already written still names its document.
 
 The status sub-sections themselves head each list as `kind = status` rows. Runs from the
 workroot because it reads `raw/` through Corpus's own index.
@@ -193,6 +202,57 @@ def number(status_rows: list[dict], rows: list[dict]) -> None:
         r.update(n=n, slice=part)
 
 
+def added(iso: str, existing: list[dict], docs: dict[str, dict], returned: list[dict],
+          reacquired: list[dict], complete: set[str], known: set[str]) -> list[dict]:
+    """The rows `--add` appends to one country's list, unnumbered."""
+    listed = {r["slug"]: r for r in existing if r.get("kind") == "raw"}
+    if any(r.get("why") in ("returned", "completed") for r in listed.values()):
+        return []          # this list has had its Phase 2 rows; a second run adds none
+    rows = []
+
+    def mine(slug: str, staged_iso: str) -> bool:
+        places = set(docs[slug]["places"]) & known
+        return iso in places if places else staged_iso == iso
+
+    def row(slug: str, why: str) -> dict:
+        doc = docs[slug]
+        return {"iso3": iso, "kind": "raw", "slug": slug, "path": doc["path"], "read": "whole",
+                "url": doc["url"], "title": doc["title"], "published": doc["published"],
+                "places": ";".join(doc["places"]), "why": why,
+                "terms": ";".join(doc["terms"]), "hits": doc["hits"], "words": doc["words"]}
+
+    for r in returned:
+        slug = r.get("slug", "")
+        if r.get("outcome") == "admitted" and slug in docs and slug not in listed                 and mine(slug, r["iso3"]):
+            rows.append(row(slug, "returned"))
+    for r in reacquired:
+        slug = r.get("slug", "")
+        was = listed.get(slug, {})
+        grown = was.get("read") != "whole" or int(docs[slug]["words"]) > int(was.get("words") or 0)
+        if slug in docs and slug in complete and grown and mine(slug, r["iso3"]):
+            rows.append(row(slug, "completed"))
+    seen, out = set(), []
+    for r in sorted(rows, key=lambda r: r["published"], reverse=True):
+        if r["slug"] not in seen:
+            seen.add(r["slug"])
+            out.append(r)
+    return out
+
+
+def renumber(existing: list[dict], rows: list[dict]) -> None:
+    """Number appended rows after the list's last, in slices after its last, in place."""
+    raw = [r for r in existing if r.get("kind") == "raw"]
+    n = max([int(r["n"]) for r in raw] or [0])
+    part, room = max([int(r["slice"]) for r in raw] or [0]) + 1, SLICE_WORDS
+    for r in rows:
+        words = int(r["words"])
+        if words > room and room < SLICE_WORDS:
+            part, room = part + 1, SLICE_WORDS
+        room -= words
+        n += 1
+        r.update(n=n, slice=part)
+
+
 def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
            routes: dict[str, set]) -> tuple[list[dict], int]:
     """`(readlist rows, tagged documents the terms dropped)` for one country."""
@@ -233,6 +293,8 @@ def main(argv=None) -> int:
     ap.add_argument("study")
     ap.add_argument("--iso", action="append", help="one country; repeatable")
     ap.add_argument("--dry", action="store_true", help="print the counts, write nothing")
+    ap.add_argument("--add", action="store_true",
+                    help="Phase 2: append the returned and completed documents, renumbering nothing")
     a = ap.parse_args(argv)
 
     try:
@@ -289,6 +351,32 @@ def main(argv=None) -> int:
                     fh.write(text)
         r.update(read="passages", words=cut[key],
                  path=os.path.relpath(path, study_lib.CORPUS).replace("\\", "/"))
+
+    if a.add:
+        search = os.path.join(study_lib.study_dir(a.study), "search")
+        returned = study_lib.read_csv(os.path.join(search, "returned.csv"))
+        reacquired = study_lib.read_csv(os.path.join(search, "reacquire.csv"))
+        complete = {r["d"]["slug"] for r in index
+                    if str(r["fm"].get("body_completeness") or "full") != "excerpt"}
+        total = 0
+        for iso in wanted:
+            path = os.path.join(base, iso, "readlist.csv")
+            existing = study_lib.read_csv(path)
+            rows = added(iso, existing, docs, returned, reacquired, complete, set(all_countries))
+            for r in rows:
+                if int(r["words"]) > PASSAGE_WORDS or (int(r["words"]) > SPARSE_WORDS
+                                                        and int(r["hits"]) <= SPARSE_HITS):
+                    shorten(r, iso)
+            renumber(existing, rows)
+            total += len(rows)
+            if rows and not a.dry:
+                study_lib.write_csv(path, study_lib.READLIST_FIELDS, existing + rows)
+            if rows:
+                print(f"  {iso}  {len(rows):3d} added  {sum(int(r['words']) for r in rows):7d} words  "
+                      f"slices {rows[0]['slice']}-{rows[-1]['slice']}")
+        print(f"study-select: {a.study} - {total} documents added to the reading lists"
+              + (" (dry run, nothing written)." if a.dry else "."))
+        return 0
 
     summary = []
     for iso in wanted:
