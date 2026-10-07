@@ -8,7 +8,7 @@ status: first used for maturity study health, task H7
 
 # Writer brief: write a country's summaries
 
-*(Method §8 as instructions. The parent folds, renders and lints what you write.)*
+*(Method §8 as instructions.)*
 
 ## What you are given
 
@@ -18,7 +18,7 @@ A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 2. Read `maturity/{id}/study.json` and the study file it names: the typology, the aspects and the ladders.
 3. Read, in `maturity/{id}/evidence/{ISO3}/`: `stage.json`, the staging you write up; `evidence.csv`, the facts; `systems.csv`, the systems named; `readlist.csv`, which gives the `url` of every `slug`.
 
-**Read no source document and use nothing you know of the country.** The stage is settled: you do not restage.
+**Read no source document and use nothing you know of the country.** You do not restage.
 
 ## The two rules that outrank the rest
 
@@ -55,4 +55,4 @@ A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 ## When you finish
 
-Reply in two lines at most: the word count of each long summary, and anything the parent must know.
+Reply in two lines: each long summary's word count, and anything the parent must know.
