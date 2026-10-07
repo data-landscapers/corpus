@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f425830ade2d
+record: aea6785839bd
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -137,7 +137,7 @@ Cabinet [approved the establishment of a hydrographic office inside the maritime
 
 ## Sierra Leone
 
-A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), examining identity, payment and data exchange systems.
+A government delegation [completed a two-week learning mission to India on 7 September 2026 under UNDP's digital public infrastructure accelerator](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), examining identity, payment and data exchange systems. The revenue authority [began consultations at the Jendema border crossing ahead of launching ASYCUDA World there](https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/).
 
 ## South Africa
 
@@ -155,7 +155,7 @@ The first service the repository holds that names agency-to-agency links went li
 
 ## Tanzania
 
-The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published.
+The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published. The central bank [signed a cooperation agreement with IFC on the credit reporting system](https://www.tanzaniainvest.com/finance/banking/ifc-bot-agreement-credit-reporting-sme-financing).
 
 ## Togo
 
@@ -163,7 +163,7 @@ The shared layer it would fit into is now visible, and it is a draft: the enterp
 
 ## Tunisia
 
-The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. [The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/).
+The health ministry [puts 99 facilities at various stages of implementing electronic medical records](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on an account of 25 September. [The loan financing information systems across 24 university hospitals has its drawdown deadline extended to 30 September 2028, with about 16 per cent drawn](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/). The interior ministry said [its strategy for the criminal-record extract rests on interconnection with the justice and finance ministries](https://www.tuniscope.com/article/441753/actualites/societe/b3-le-ministere-de-l-interieur-devoile-sa-nouvelle-strategie-242211).
 
 ## Uganda
 

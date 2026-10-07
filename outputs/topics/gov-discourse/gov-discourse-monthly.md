@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: gov.discourse
-places: CAF; TCD; GNQ; ETH; GHA; GIN; KEN; LBR; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cd687ac0d287
+places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d53a105c0453
 ---
 
 # Public debate and participation in policymaking: monthly update, September – October 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ Two enforcement bodies agreed to exchange information rather than to publish any
 ## Ethiopia
 
 Internet and telephone services [were severely disrupted across Tigray as fighting escalated, reported on 26 September 2026](https://wardheernews.com/tigray-cut-off-again-as-communications-blackout-deepens-civilian-misery/): the state operator's services were down and the second operator's partly running. An internet observatory confirmed a regional disruption; the regional and federal authorities each blame the other.
+
+## Gabon
+
+The presidential spokesman [said on radio that he uses a virtual private network to get round the social-media suspension, which was reported still in force](https://gabonmailinfos.com/reseaux-sociaux-apres-9-mois-laveu-du-porte-parole-de-la-presidence-relance-la-polemique/).
 
 ## Ghana
 

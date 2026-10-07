@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 88110a20bbda
+record: 03f15262b013
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
@@ -95,7 +95,7 @@ At the same UNGA81 showcase, [four Sierra Leonean teams were reported to have me
 
 ## South Africa
 
-An eight-month accelerator [was launched on 9 September for twelve teams across Southern Africa building AI tools for classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe). An account of 2 September [reports start-up funding recovering, with founders still unable to find capital matched to their stage](https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/). A founder [launched Alpha Ticker, reported on 17 September, to fund AI ventures](https://www.wearetech.africa/fr/fils/tech-stars/nic-klopper-lance-alpha-ticker-pour-financer-et-propulser-l-ia-en-afrique).
+An eight-month accelerator [was launched on 9 September for twelve teams across Southern Africa building AI tools for classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe). An account of 2 September [reports start-up funding recovering, with founders still unable to find capital matched to their stage](https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/). A founder [launched Alpha Ticker, reported on 17 September, to fund AI ventures](https://www.wearetech.africa/fr/fils/tech-stars/nic-klopper-lance-alpha-ticker-pour-financer-et-propulser-l-ia-en-afrique). [Fifteen AI startups were named to a three-month accelerator, from 1,057 applications](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/introducing-our-2026-cohort-for-the-google-for-startups-accelerator-south-africa/).
 
 ## Tanzania
 

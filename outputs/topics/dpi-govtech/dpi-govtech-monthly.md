@@ -1,15 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: dpi.govtech
-places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 241541405195
+places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: df67f2135dfe
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -43,7 +43,7 @@ Automation also failed publicly for the first time. The civil service ministry a
 
 Electronic signature then arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published. At the same council the Prime Minister [named weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
 
-The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated.
+The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated. The ministry's mid-year report said [222 administrative procedures were described in the first half of 2026 and were being loaded onto the online-procedures platform at 30 June](https://cfinance.news/article/burkina-fasotransformation-digitale-222-procedures-de-dematerialisation-engagees-au-premier-trimestre-2026/).
 
 ## Chad
 
@@ -74,6 +74,10 @@ The prime minister said on 3 September that [faults in the unified electricity p
 At its UN award shortlisting the services platform [reported 12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures. The prosecution [put five personal-status documents - marriage, divorce and acknowledgement records - on its portal on 10 September, behind the national digital identity](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763), and the environment ministry [launched IDEIA on 1 September, moving environmental impact assessment applications, review and approval online](https://www.youm7.com/story/2026/9/1/وزيرة-البيئة-تطلق-منظومة-تقييم-التأثير-البيئي-الرقمية-المتكاملة-IDEIA/7532879).
 
 The investment ministry's digital transformation aide [described a capital-increase platform linking the eight government bodies involved, from the investment authority to the commercial registry and central depository, with digital-identity log-in, remote signing and e-passport checks on foreign investors](https://www.youm7.com/story/2026/9/22/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%AA%D8%B1%D8%A8%D8%B7-8-%D8%AC%D9%87%D8%A7%D8%AA/7554140) on 22 September. No transaction count or go-live date was given.
+
+## Equatorial Guinea
+
+The government [announced a digital edition of the official gazette with free online access and search](https://www.guineaecuatorialpress.com/index.php/noticias/el_gobierno_pone_en_marcha_el_boletin_oficial_del_estado_digital).
 
 ## Eswatini
 
@@ -133,7 +137,7 @@ The state auditor is following it: the General Auditing Commission [has begun au
 
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 
-Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published.
+Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published. The central bank governor [proposed an electronic system and single database to record and track international grants, programmes and projects](https://alwasat.ly/news/478765) to the committee formed for the purpose; it is under discussion.
 
 ## Madagascar
 
@@ -159,7 +163,7 @@ The citizen portal was presented as a single counter for about 140 public servic
 
 The road transport institute [moved applications for special transit licences for oversize and overweight vehicles to an end-to-end online process on 1 September](https://jornalnoticias.co.mz/destaque/inatro-lanca-sistema-de-licenciamento-digital/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
 
-The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began.
+The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began. The digital transformation agency [held the country's first digital service delivery design lab](https://clubofmozambique.com/news/mozambique-launches-its-first-design-lab-to-integrate-digital-public-services/), with the World Bank and a policy institute.
 
 ## Namibia
 
@@ -199,7 +203,7 @@ The audit management system cleared its acceptance stage. It is [through user ac
 
 The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting. On 23 September the commission said [the party had lost its court challenge, that it had concluded end-to-end testing of its results system for the 4 November elections, and that parties could test the system through their own experts from 5 to 12 October](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/).
 
-On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports.
+On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports. Gauteng's transport department [launched a digital system to clear its operating-licence backlog](https://www.ewn.co.za/2026/10/06/gauteng-transport-department-launches-digital-system-to-tackle-operating-licence-backlog). The minister told Parliament that [the state IT agency moved from a qualified audit opinion to an unqualified one for 2025/26](https://pmg.org.za/committee-question/41100/).
 
 ## South Sudan
 

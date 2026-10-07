@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fa0e998012d2
+record: 457e8b8e6e06
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -103,7 +103,7 @@ A Bissau law professor told an ECOWAS Court conference in Dakar on 22 September 
 
 ## Kenya
 
-The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice.
+The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come. Public comment on the National Payment System Bill [runs to 9 October](https://bowmanslaw.com/insights/kenya-national-payment-system-bill-2026-proposes-comprehensive-overhaul-of-the-payments-regulatory-framework/), on a law firm's account of the notice. [Regulations for non-deposit-taking credit providers were gazetted, revoking the 2022 digital credit rules](https://new.kenyalaw.org/akn/ke/act/ln/2026/191/eng@2026-09-29/source.pdf), with separate consent for personal data and human review of AI lending decisions.
 
 ## Lesotho
 
@@ -123,7 +123,7 @@ The extraordinary session ended without passing a digital law. The National Asse
 
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 
-The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed.
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed. A law firm's reading has the amendment Act [recognise electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/).
 
 ## Mozambique
 

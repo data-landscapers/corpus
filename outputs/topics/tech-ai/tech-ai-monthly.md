@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 896e939d49bb
+record: a4b22fe15da9
 ---
 
 # AI: monthly update, September – October 2026
@@ -25,7 +25,7 @@ Money reached artificial intelligence in the administration for the first time t
 
 ## Benin
 
-The health ministry [awarded a contract for 20 AI-assisted malaria diagnosis units for public referral hospitals to the South Korean firm Noul](https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic), reported on 8 September. A state project [has collected 700 hours of Fongbe audio from 2,400 contributors](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees) to build AI training material in Beninese languages; the account asks what happens to the recordings afterwards. The national machine-learning meeting at Cotonou on 10 to 12 September [opened a track on African-language models](https://lanation.bj/societe/ia-numerique-les-langues-africaines-entrent-dans-la-course-a-lia).
+The health ministry [awarded a contract for 20 AI-assisted malaria diagnosis units for public referral hospitals to the South Korean firm Noul](https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic), reported on 8 September. A state project [has collected 700 hours of Fongbe audio from 2,400 contributors](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees) to build AI training material in Beninese languages; the account asks what happens to the recordings afterwards. The national machine-learning meeting at Cotonou on 10 to 12 September [opened a track on African-language models](https://lanation.bj/societe/ia-numerique-les-langues-africaines-entrent-dans-la-course-a-lia). The digital agency's quarterly bulletin [called for AI-specific rules on governance, liability and compliance](https://asin.bj/doc/150/download), naming no legal vehicle or timetable.
 
 ## Botswana
 
@@ -127,7 +127,7 @@ The research commission [set the launch of a national artificial-intelligence in
 
 ## Nigeria
 
-On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held.
+On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held. The technology agency [published an advisory warning against entering identity numbers, bank details or confidential data into public AI tools](https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/).
 
 ## Rwanda
 
@@ -135,7 +135,7 @@ An agriculture official [set out a plan to reach 2.5 million farmers with AI adv
 
 ## Senegal
 
-An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html).
+An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html). A high court [began piloting a locally deployed AI application for judicial archives](https://apanews.net/senegal-ai-enters-judicial-archives/), with UNDP and Korean funding.
 
 ## Seychelles
 
@@ -161,7 +161,7 @@ A market forecast says [80% of governments will use artificial-intelligence agen
 
 The state airports company [set a five-year plan to 2031 to use AI in check-in, security, baggage handling and parking, with terminal patrol robots and a metaverse proof of concept in the first year, tied to a R21.7bn capital pipeline that also covers wider infrastructure modernisation](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb). The pipeline is not broken down.
 
-The financial conduct regulator's 2025/26 integrated report, presented to Parliament's finance committee in the last week of September, [states that a framework for the regulator's own responsible use of AI is being developed](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4), the one outstanding item under its principle on data and technology governance. No publication date is given.
+The financial conduct regulator's 2025/26 integrated report, presented to Parliament's finance committee in the last week of September, [states that a framework for the regulator's own responsible use of AI is being developed](https://www.itweb.co.za/article/fsca-builds-ai-guardrails-as-digital-regulation-expands/kLgB17ezZVkM59N4), the one outstanding item under its principle on data and technology governance. No publication date is given. A consultancy partner said [half of 903 South Africans surveyed had bypassed an employer's restrictions on AI tools](https://techcabal.com/2026/10/06/south-africans-bypassed-work-ai-rules/).
 
 ## Tanzania
 
@@ -169,11 +169,11 @@ The only movement on machine-generated content is in the argument rather than th
 
 A month later the rules existed. On 31 August the e-Government Authority's board [approved standards and guidelines for AI in public institutions, binding every institution and every AI system it runs, requiring impact and risk assessments and prohibiting fully automated decisions with significant outcomes](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They are a standard under the e-government statute, not a law, and the national strategy text is still not public.
 
-On a study visit to Helsinki reported on 29 September, the ICT Commission's head of ICT development [said the National AI Strategic Framework 2026-2031 is awaiting approval, and that the commission proposes a national readiness and compute-demand assessment feeding a planned AI observatory](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). No text of the framework is published.
+On a study visit to Helsinki reported on 29 September, the ICT Commission's head of ICT development [said the National AI Strategic Framework 2026-2031 is awaiting approval, and that the commission proposes a national readiness and compute-demand assessment feeding a planned AI observatory](https://www.thecitizen.co.tz/tanzania/business/what-it-takes-to-turn-tanzania-s-startup-ideas-into-global-ventures-5612972). No text of the framework is published. The state power utility [launched an AI-powered customer channel and a portal for large customers](https://dailynews.co.tz/tanesco-modernizes-its-customer-service-systems-in-line-with-vision-2050-goals/).
 
 ## Togo
 
-The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated.
+The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated. The local-language AI pilot [opened paid public contributions of voice and text with UNDP support](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia).
 
 ## Tunisia
 

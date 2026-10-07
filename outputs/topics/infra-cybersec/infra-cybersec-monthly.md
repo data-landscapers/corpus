@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: infra.cybersec
-places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; RWA; SEN; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: a2bc6b56fa30
+places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: 0f66b5138c8d
 ---
 
 # Cybersecurity: monthly update, September – October 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -106,6 +106,14 @@ The prime minister said [reported financial fraud complaints fell by about 30% i
 ## Senegal
 
 At the end of September the interior minister [confirmed to deputies that the identity-file directorate had been attacked and said a general security audit had been engaged](https://www.vipeoples.net/Passeports-et-cartes-d-identite-Vers-la-fin-du-contrat-avec-l-operateur-malaisien-et-le-recours-a-l-expertise-nationale_a184204.html); no auditor, scope or completion date is given.
+
+## Seychelles
+
+The national response team [designed and delivered the third national cyberdrill itself for the first time](https://nation.sc/articles/32649/cert-sc-takes-the-lead-in-third-seychelles-national-cyberdrill).
+
+## Sierra Leone
+
+The road safety authority [disclosed an unauthorised intrusion into the systems used to produce vehicle licences](https://www.sierraleonemonitor.com/slrsa-alerts-public-fake-vehicle-licences/), with five arrests.
 
 ## South Africa
 

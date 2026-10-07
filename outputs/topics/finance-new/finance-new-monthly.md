@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: finance.new
 places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: ac18aae41ef8
+record: cf19e38690f6
 ---
 
 # New investments: monthly update, September – October 2026
@@ -53,7 +53,7 @@ Zeal, an Egyptian payments-software company, [raised US$10m to take its checkout
 
 ## Eswatini
 
-The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills. The regional programme's half-year report [puts the Digital Eswatini Project at US$65m, with negotiations concluded on 18 May 2026 and the lender's approval in June](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); a preparation grant closes in December 2026, and the government's financial management system, still in a restricted pilot, may not serve the project's reporting.
+The three financing Bills for the Digital Eswatini Project [had their second reading on 21 September 2026](https://independentnews.co.sz/48594/news/e455m-eptc-loan-puts-taxpayers-on-the-line-2/): a loan for the posts and telecommunications corporation's financial stabilisation, a US$19.3 million IBRD loan and a US$19.7 million IDA credit, for broadband, digitised services, digital ID, e-payments, data exchange, cybersecurity and skills. The regional programme's half-year report [puts the Digital Eswatini Project at US$65m, with negotiations concluded on 18 May 2026 and the lender's approval in June](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf); a preparation grant closes in December 2026, and the government's financial management system, still in a restricted pilot, may not serve the project's reporting. The ICT minister told senators that [E26m of the guaranteed US$26m loan goes to the post office pension fund](https://independentnews.co.sz/49165/news/who-was-held-accountable-for-eptc-pension-crisis-sen-tony/), after Parliament approved the guarantee.
 
 ## Ghana
 
@@ -73,7 +73,7 @@ The largest digital programme on the books came under review. The World Bank [op
 
 ## Morocco
 
-[The African Development Bank and the insurance supervisor ACAPS launched a US$680,000 InsurTech programme in September, US$510,000 of it an AfDB grant](https://canal212.ma/en/insurtech-maroc-bad-insurtech-bad-appuie-programme-moderniser-assurance-maroc/), to run until early 2027 and extend digital insurance to the under-insured.
+[The African Development Bank and the insurance supervisor ACAPS launched a US$680,000 InsurTech programme in September, US$510,000 of it an AfDB grant](https://canal212.ma/en/insurtech-maroc-bad-insurtech-bad-appuie-programme-moderniser-assurance-maroc/), to run until early 2027 and extend digital insurance to the under-insured. [A decree in the official bulletin of 1 October 2026 approved the EUR 218.2m loan agreement for the digital transformation programme](https://www.laverite.ma/maroc-567-millions-numerique-risques-climatiques-banque-mondiale/).
 
 ## Mozambique
 
@@ -107,7 +107,7 @@ The African Development Bank [approved a USD 34 million loan on 22 September for
 
 ## South Africa
 
-The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
+The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r). A French development finance institution [said it is investing US$20m in the fibre operator and its service providers through a consortium](https://www.proparco.fr/en/news/proparco-invests-us20-million-frogfoot-vox-and-hypa-expand-affordable-fibre-connectivity-south).
 
 ## Tanzania
 

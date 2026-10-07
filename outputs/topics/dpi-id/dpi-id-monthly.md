@@ -1,15 +1,15 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: dpi.id
-places: DZA; BEN; BFA; CMR; TCD; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 493e962c939c
+places: DZA; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
+record: 199daa3fe8a6
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -35,6 +35,10 @@ The youth ministry [signed a three-year renewable partnership on 14 September 20
 
 The identity agency stated its own position for the first time in the repository, [describing a system that assigns every enrolled individual a unique national identification number across 29 centres](https://www.anats.td/). What it does not give is a number: no enrolment total and no coverage rate, so the three per cent holding a card at appraisal in 2023 has no successor.
 
+## Cote d'Ivoire
+
+The government [launched a feasibility study for a national authentication platform and identity wallet](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/), due by January 2027.
+
 ## DR Congo
 
 Continentally, the laboratory system the country's current Ebola response runs on was assessed before the outbreak began. A multi-country study [covering 26 countries found every one with a functioning surveillance system and core diagnostic capacity and 3,964 laboratories mapped across fourteen, and named digital interoperability between laboratories and surveillance platforms — alongside specimen referral, workforce surge and domestic financing — as the weak points](https://aslm.org/inside-the-system-that-was-ready-how-years-of-quiet-investment-shaped-africas-ebola-response/), which is where the response has had to improvise. It is a reference study written up by its own author rather than a dated development here, and the repository holds no national laboratory-interoperability position to set against it.
@@ -59,7 +63,7 @@ In September the Civil Service Commission [found a suspended assistant regional 
 
 The enrolment rules reached the repository for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the repository already holds.
 
-The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/).
+The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/). [The state enterprise running the digital ID began charging banks for record retrievals and biometric authentications](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial), and the bankers' association asked for a consultation with the central bank.
 
 ## Gabon
 
@@ -73,7 +77,7 @@ The [National Identity Management System, inaugurated alongside the national dat
 
 The rollout got the calendar the repository had been missing. The government [published the phased schedule and fee structure: registration extends to Sibanor and Jarra Soma on 7 September, to Barra, Kerewan, Farafenni and Kaur on 11 September and to Janjanbureh, Basse and Fatoto on 21 September, with a first-time card at D450 waived during the rollout for holders of a valid immigration department card](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout). An applicant with no passport, birth certificate or prior document must be vouched for by both the Alkalo and the Seyfo of their place of residence.
 
-What the identity system replaced is now documented from two sides, and the backfill matters more than the launch. A [lender diagnostic finds fragmented mandates, no universal coverage and weak interoperability across the identity estate](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and a newspaper account describes a [processing centre in Kanifing shut when its electricity bill went unpaid, on a foreign-run biometric system in place since 2018 at a D450 fee](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/). Against that, the new system [went live on 29 June 2026 with the President as its first enrollee, under a public-private partnership between the interior ministry and the card supplier](https://www.voicegambia.com/2026/07/01/barrow-launches-national-identity-management-system-becomes-first-enrollee/).
+What the identity system replaced is now documented from two sides, and the backfill matters more than the launch. A [lender diagnostic finds fragmented mandates, no universal coverage and weak interoperability across the identity estate](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and a newspaper account describes a [processing centre in Kanifing shut when its electricity bill went unpaid, on a foreign-run biometric system in place since 2018 at a D450 fee](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/). Against that, the new system [went live on 29 June 2026 with the President as its first enrollee, under a public-private partnership between the interior ministry and the card supplier](https://www.voicegambia.com/2026/07/01/barrow-launches-national-identity-management-system-becomes-first-enrollee/). An immigration officer testified that [the department no longer has access to data generated under the former biometric identity system](https://dailyobservergambia.com/gid-tells-court-it-cannot-access-semlex-id-data/).
 
 ## Ghana
 
@@ -91,7 +95,7 @@ The licensing authority [put its DVLAverify biometric identity-verification app 
 
 The hospital-to-registry birth notification system, launched in June, [registered more than 270,000 newborns and assigned each a unique personal identifier within two months](https://www.biometricupdate.com/202609/kenyas-digital-birth-registration-platform-enrols-270k-newborns-in-two-months), according to the immigration and citizen services department, which also put national identity cards issued between January and September 2026 at 2.4 million. Integration with the health ministry's hospital management system and a death e-notification system are planned; no facility count or county coverage is published.
 
-The registration bureau said [more than 600,000 people who could not previously get identity cards have been registered since extra vetting in border counties was scrapped](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties), and [rights groups asked that the removal be made permanent](https://www.the-star.co.ke/counties/nairobi/2026-09-17-end-id-vetting-for-good-rights-groups-urge-government).
+The registration bureau said [more than 600,000 people who could not previously get identity cards have been registered since extra vetting in border counties was scrapped](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties), and [rights groups asked that the removal be made permanent](https://www.the-star.co.ke/counties/nairobi/2026-09-17-end-id-vetting-for-good-rights-groups-urge-government). A National Assembly committee [found identity registration in Bungoma held back by shortages of staff, vehicles, equipment and connectivity](https://www.vividvoicenews.com/2026/10/03/bungoma-id-registration-hampered-by-staff-vehicle-and-equipment-shortages/), with more live-capture kits awaited. The immigration principal secretary said [electronic birth notification will reach every insurer-contracted hospital by December 2026](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months).
 
 ## Liberia
 
@@ -101,7 +105,7 @@ The president's proclamation of a National Identification Day [put enrolment at 
 
 ## Libya
 
-The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/).
+The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/). The public prosecutor [announced a further case of civil-status data falsified for payment, with work at a registry office halted and suspects referred for investigation](https://alwasat.ly/news/479468), against more than 89,000 forged national numbers in the last official count.
 
 ## Madagascar
 
@@ -143,7 +147,7 @@ A second use for election hardware was floated rather than agreed: the admission
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
-On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published.
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/).
 
 ## Rwanda
 
@@ -159,13 +163,13 @@ In committee on bill 21/2026 the interior minister [said identity-card productio
 
 ## Somalia
 
-The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx). The immigration and citizenship agency [presented its biometric passport, electronic visa and exchange of travel data to the African Union's counterterrorism centre on 16 September](https://www.hiiraan.com/security4/2026/Sep/206283/somali_immigration_agency_au_discuss_border_security_and_counterterrorism_cooperation.aspx) as the basis of border-security cooperation. No issuance figure, enrolment coverage or data-sharing instrument is published.
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026). The federal government [began enforcing the national identity card requirement for domestic travel on 1 October, and passengers at Garowe in Puntland, where the identification authority keeps no registration offices, were refused boarding](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx). The immigration and citizenship agency [presented its biometric passport, electronic visa and exchange of travel data to the African Union's counterterrorism centre on 16 September](https://www.hiiraan.com/security4/2026/Sep/206283/somali_immigration_agency_au_discuss_border_security_and_counterterrorism_cooperation.aspx) as the basis of border-security cooperation. No issuance figure, enrolment coverage or data-sharing instrument is published. The identity authority [moved to link its services to the national unified public service delivery centre](https://en.goobjoog.com/somalia-moves-to-link-national-id-with-public-services/); the integration is planned, not implemented.
 
 ## South Africa
 
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
-In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly.
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly. The home affairs department's quarterly report [records a missed target to start procuring digital ID hosting infrastructure](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The same report [records a missed target to revise the identification and registration Bill for public comment](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html).
 
 ## Sudan
 

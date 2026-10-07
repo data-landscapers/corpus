@@ -1,15 +1,15 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: infra.connect
-places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 72265881d120
+places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 299fc4b0c6c2
 ---
 
 # Connectivity: monthly update, September – October 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -27,7 +27,7 @@ The national cable company [began deploying new optical equipment across its Sou
 
 ## Botswana
 
-On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed.
+On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed. The state fibre operator [announced the launch of its internet exchange point for local traffic](https://itweb.africa/article/bofinet-launches-digital-delta-ixp/8OKdWMDXL9VMbznQ); no member count is given.
 
 ## Burundi
 
@@ -131,7 +131,7 @@ The Communications Authority [called stakeholders to an online validation forum 
 
 ## Libya
 
-The telecommunications authority [held a first workshop with the ITU and the national crisis management centre to review the national emergency telecommunications plan](https://ar.libyaobserver.ly/article/38888), reported on 28 September; the plan was conceived after communications with Derna failed during Storm Daniel in 2023. Negotiations between a satellite internet operator and the regulator, open since 2024, [have reached no agreement](https://spaceinafrica.com/2026/09/13/starlinks-libya-market-entry-remains-on-hold-as-negotiations-continue/). One operator's [published tariff card](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx) runs from 0.5 LYD for 50MB over one day to 80 LYD for 80GB over thirty days.
+The telecommunications authority [held a first workshop with the ITU and the national crisis management centre to review the national emergency telecommunications plan](https://ar.libyaobserver.ly/article/38888), reported on 28 September; the plan was conceived after communications with Derna failed during Storm Daniel in 2023. Negotiations between a satellite internet operator and the regulator, open since 2024, [have reached no agreement](https://spaceinafrica.com/2026/09/13/starlinks-libya-market-entry-remains-on-hold-as-negotiations-continue/). One operator's [published tariff card](https://almadar.ly/ar/Pages/Tawasul/Services/Netpackages.aspx) runs from 0.5 LYD for 50MB over one day to 80 LYD for 80GB over thirty days. A state holding-company subsidiary [reviewed its project for 7,000 telecommunications towers at its general assembly](https://libyaherald.com/2026/10/lptics-al-bunyan-discusses-progress-of-developing-the-7000-telecommunications-towers-project); no count of towers built, cost or completion date is published.
 
 ## Madagascar
 
@@ -142,6 +142,10 @@ The satellite route to isolated areas moved from announcement to hardware: the d
 An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 
 The regulator said it is [investigating complaints of rapid data-bundle depletion on both mobile networks, assessing their charging and billing systems, usage records and the accuracy of deductions](https://www.itweb.africa/article/airtel-tnm-face-malawi-data-probe/DZQ587V8BEeqzXy2), reported on 30 September. It gave no completion date. The communications regulator's director general [put the deadline of its data-depletion investigation at mid-November](https://mwnation.com/macra-launches-mobile-data-bundle-consumption-probe/), with controlled tests of whether data deducted matches data used. The regional programme's half-year report [records assessments for the 100 universal service fund towers complete and the request for bids under the lender's review, with six of 25 priority e-services onboarded, and puts the acceleration project's financing at US$150m with a second tranche of US$80m expected in July 2028](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+
+## Mali
+
+The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
 
 ## Mauritania
 
@@ -161,7 +165,7 @@ On 28 September the largest mobile operator [confirmed 5G in five more towns, Gr
 
 ## Niger
 
-Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the repository holds is from 2023.
+Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the repository holds is from 2023. The Nigerien and Algerian ministers [launched operation of the fibre link between In Guezzam and Arlit-Agadez](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/); Algeria's account gives [a starting capacity of 100 Gbps](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/).
 
 ## Nigeria
 
@@ -187,7 +191,7 @@ An independent index put a number on how fragile the connection is. The Internet
 
 ## Senegal
 
-The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
+The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site. The Senegalese and Malian state fibre operators [inaugurated the interconnection of their national backbones at the Kidira-Diboli border crossing](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/).
 
 ## Sierra Leone
 
@@ -205,7 +209,7 @@ The state-affiliated wholesaler, whose network runs to about 180,000km with just
 
 A British-funded community network programme launched in August [plans R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9). It uses the shared open-access model planned for the national wireless network before that network was put on hold.
 
-On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set.
+On 30 September the Competition Commission [recommended that the Tribunal approve MTN's acquisition of the tower company IHS, on conditions](https://www.compcom.co.za/wp-content/uploads/2026/09/Statement-on-the-latest-decisions-by-the-Competition-Commission-30-September-2026.pdf): non-discriminatory access to the towers for every operator with no preference for MTN SA, fair lease renewals, protection of customers' information, an operationally independent tower business, and protection of jobs and historically disadvantaged ownership. The Tribunal has not ruled. The minister's reply to Parliament [records a R567m write-off of digital-migration inventory in 2025/26](https://pmg.org.za/committee-question/41023/); no analogue switch-off date is set. An operator [announced more than R500m of network investment in the Western Cape this financial year](https://techafricanews.com/2026/10/06/vodacom-western-cape-invests-r500-million-to-expand-5g-and-digital-connectivity/), naming townships.
 
 ## South Sudan
 

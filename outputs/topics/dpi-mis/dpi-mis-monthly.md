@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 66bc7003276a
+record: 1d04f13bc2fd
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -81,7 +81,7 @@ Customs also appears on a list of intended work: [an undated page of the PAMFP p
 
 The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
 
-The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was.
+The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was. [The outage was blocking new loans to civil servants](https://www.eswatiniobserver.com/system-glitch-stalls-civil-servants-loans/), lenders being unable to check applicants against the salary-deduction ceiling.
 
 ## Gabon
 
@@ -107,7 +107,7 @@ The claims platform was quantified from the settlement end for the first time. T
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
-The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities. The health minister [said the change makes each facility's own system the primary one, exchanging data with the insurer's systems, and that 28 existing hospital platforms have been certified](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains).
+The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/). The health ministry [extended to 30 October the deadline for public level 5 and 6, faith-based and private facilities to move from the health insurer's provider portal to the health management information system](https://www.kbc.co.ke/duale-grants-one-month-extension-for-sha-hmis-transition/): 6,427 county public facilities have moved, and 38 of 518 contracted faith-based facilities. The health minister [said the change makes each facility's own system the primary one, exchanging data with the insurer's systems, and that 28 existing hospital platforms have been certified](https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains). The health ministry and the governors' health committee [agreed that current facility contracts will not be extended again and set contracting clinics in every county to 14 October](https://www.health.go.ke/duale-and-governors-set-14-october-deadline-sha-facility-contracts). The health ministry [put migration at 6,427 public, 38 private and 38 of 518 faith-based facilities](https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting).
 
 ## Liberia
 
@@ -209,4 +209,4 @@ Beneficiary checks for the Keeping Girls in School programme [moved from paper f
 
 ## Zimbabwe
 
-The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS.
+The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS. [The electronic case management system went live in Midlands and Mashonaland West on 1 October 2026](https://www.heraldonline.co.zw/paperless-courts-spread-to-midlands-mashonaland-west/).

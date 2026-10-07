@@ -1,15 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: digital.rural
-places: CMR; TCD; CIV; EGY; KEN; LBY; MWI; MUS; SEN; TGO; TUN; ZMB
-record: 602bd6a21671
+places: CMR; TCD; CIV; EGY; KEN; LBY; MWI; MUS; NGA; SEN; TGO; TUN; ZMB
+record: 5f615312d122
 ---
 
 # Rural digital data capture: monthly update, September – October 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ UNDP [reported digital forensics training for the police on 1 September](https:/
 ## Mauritius
 
 The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the repository cannot say of either programme is how much of the estate it has reached.
+
+## Nigeria
+
+The regulator's investment forum [resolved on a blended funding model for community-owned rural networks, with a six-month target to secure funding](https://businessday.ng/technology/article/fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks/).
 
 ## Senegal
 

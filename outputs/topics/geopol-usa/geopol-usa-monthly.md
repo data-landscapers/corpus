@@ -1,15 +1,15 @@
 ---
 title: US / hyperscaler activities — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: geopol.usa
-places: CPV; DJI; EGY; KEN; ZAF; ZWE
-record: 0918f5949938
+places: CPV; DJI; EGY; KEN; ZAF; ZMB; ZWE
+record: b8376d261ed3
 ---
 
 # US / hyperscaler activities: monthly update, September – October 2026
 
-*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ Kenya [signed a joint declaration with Anthropic at the UN General Assembly, rep
 ## South Africa
 
 Microsoft [told a government technology briefing that it has committed R25.8bn to cloud and AI investment in the country through 2027](https://techreviewafrica.com/news/7405/), offering departments its two in-country cloud regions and deployment options down to disconnected private environments under customer-held keys. The figure is the company's own, with no spend to date or delivery measure published.
+
+## Zambia
+
+The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/).
 
 ## Zimbabwe
 

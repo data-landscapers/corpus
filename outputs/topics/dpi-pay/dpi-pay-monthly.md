@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dda9d0e5bb2d
+record: 449c037f7a77
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -79,7 +79,7 @@ The one payments instrument in the window is a standing one, surfaced by a sales
 
 ## Eswatini
 
-A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/).
+A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/). The bank [began telling customers that its Instant Money service will return as the wallet closes](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced.
 
 ## Ethiopia
 
@@ -113,7 +113,7 @@ Tanzania's competition regulator [put KCB Group's stake in the payments company 
 
 An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
 
-The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf).
+The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). A tier-one bank's fintech arm [launched a wallet that sends to mobile-money services and bank accounts](https://techcabal.com/2026/10/06/why-equity-bank-is-building-a-neo-wallet-for-everyday-cash/); no user figure is published.
 
 ## Lesotho
 
@@ -131,7 +131,7 @@ At a Tripoli conference on 7 September the central bank governor announced a [li
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 
-September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry. The central bank [put electronic transactions at about LD 865 billion by the end of September 2026](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/).
+September public-sector salaries [were paid through the Ratibak Lahzi system with about 1.75 million of 2.2 million public employees registered, 79%](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/), against [76% in July](https://cbl.gov.ly/%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d9%85%d8%b5%d8%b1%d9%81-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a-%d8%a8%d8%af%d8%a1-%d8%b5%d8%b1%d9%81-%d9%85%d8%b1%d8%aa%d8%a8%d8%a7-3/); the central bank is automating complaint handling for undisbursed salaries with the finance ministry. The central bank [put electronic transactions at about LD 865 billion by the end of September 2026](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/). A private bank [is to launch payments to China through a Chinese payment platform from its own application, capped at US$5,000 a transaction and US$50,000 a year](https://libyaherald.com/2026/09/libyas-north-africa-bank-to-launch-direct-payment-service-to-china-using-alipay/). The banking sector development forum [stopped pursuing its Zero Cash initiative on 7 September for want of an executive framework from the central bank](https://alwasat.ly/news/477201).
 
 ## Madagascar
 
@@ -177,7 +177,7 @@ A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital 
 
 Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
 
-The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given. A banking group's audited half-year statements [put its payments subsidiary's profit at NGN 7.81bn](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943), the first position the repository holds on that switch.
+The clearing operator [said its ISO 20022 payment stack had passed 100 million successful transactions by late September](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/), on its own figure, with no value or institution count given. A banking group's audited half-year statements [put its payments subsidiary's profit at NGN 7.81bn](https://gtco-plc.files.svdcdn.com/production/financial-information/H1-2026-Guaranty-Trust-Holding-Company-Financial-Statements.pdf?dm=1790850943), the first position the repository holds on that switch. A listing prospectus, as reported, shows [a central bank directive required an operator's mobile-money arm to hand its 25% stake in a payment service bank back to the network company](https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/).
 
 ## Rwanda
 
@@ -225,7 +225,7 @@ The central bank [revoked Sudan Pay Digital's mobile-payment and switching licen
 
 ## Tanzania
 
-The state operator took its card into a stadium. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country.
+The state operator took its card into a stadium. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country. A bank and the Zanzibar health fund [signed a memorandum on member enrolment and contribution collection](https://ippmedia.co.tz/the-guardian/news/local-news/read/kcb-zanzibar-health-fund-expand-healthcare-access-2026-10-05-145433).
 
 ## Togo
 
@@ -257,4 +257,4 @@ Trade with China gained a direct channel: a commercial bank [launched renminbi s
 
 The World Bank [warned that the tax on intermediated money transfers discourages digital transactions, weakens intermediation and pushes activity toward cash](https://businesstimes.co.zw/world-bank-warns-zim-5/), as banks and businesses press for its abolition. No government response is recorded.
 
-The stock exchange [launched InvoiceX, an invoice-discounting marketplace under its entrepreneurship exchange, reported on 24 September](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/): financiers bid for buyer-authenticated invoices of US$1,000 to US$1.5m and suppliers are to be paid within 48 hours for fees of 0.65 per cent. Whether financing is with recourse is not stated.
+The stock exchange [launched InvoiceX, an invoice-discounting marketplace under its entrepreneurship exchange, reported on 24 September](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/): financiers bid for buyer-authenticated invoices of US$1,000 to US$1.5m and suppliers are to be paid within 48 hours for fees of 0.65 per cent. Whether financing is with recourse is not stated. The central bank governor said [it is negotiating to build a real-time payments system on India's UPI technology](https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html), with an agreement possible by 31 October 2026.

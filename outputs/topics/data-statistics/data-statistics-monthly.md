@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: data.statistics
-places: AGO; BWA; BFA; CMR; CAF; TCD; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 84087155cb3a
+places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
+record: ce19763a5500
 ---
 
 # National statistics: monthly update, September – October 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,10 @@ The statistics institute posted the regulator's first-half 2026 market observato
 ## Chad
 
 The statistics institute set out what it publishes and on what terms: [five channels, from an Open Data Portal to a development-plan indicator tracker](https://www.inseed.td/), against an archive policy [barring transmission of microdata without prior written agreement](https://anad.inseed.td/index.php/politique-dacc). The pipes are built and the licence is what is missing.
+
+## Congo
+
+The statistics institute [held a workshop to set up a permanent statistical system for informal cross-border trade](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel), with a baseline survey planned for 2027.
 
 ## DR Congo
 
@@ -75,7 +79,7 @@ Census enumeration [is complete, with mop-up operations still running in Maseru 
 
 ## Libya
 
-The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published.
+The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published. A green industry centre [published a report of industrial and environmental indicators recording 305 registered industrial establishments, 301 of them private, and 26,034 workers](https://libyaherald.com/2026/09/green-industry-centre-report-provides-valuable-sector-data-for-policy-and-plan-formulation).
 
 ## Mauritius
 

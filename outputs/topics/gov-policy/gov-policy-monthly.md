@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 9c82a98f1272
+record: 8550f6224bf0
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -155,7 +155,7 @@ A banker's review published on 21 September [finds no implementation programmes,
 
 ## Togo
 
-A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published.
+A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published. The finance ministry [published a revenue strategy for 2027 to 2031 that puts 57.1% of its cost into digital transformation](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf), electronic invoicing and AI-assisted risk analysis among it.
 
 ## Tunisia
 
@@ -171,4 +171,4 @@ The second term opened on a new blueprint. The state ICT institute [endorsed the
 
 ## Zimbabwe
 
-The ICT minister said on 18 September 2026 that [a Postal and Courier Services Policy is being drafted](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy). No draft or date is published.
+The ICT minister said on 18 September 2026 that [a Postal and Courier Services Policy is being drafted](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy). No draft or date is published. The ICT minister [told the regulator to consider a unit to oversee operators' commercial arrangements and enforce active infrastructure sharing](https://www.heraldonline.co.zw/ict-minister-mavetera-directs-potraz-to-establish-unit-to-police-operator-deals/).

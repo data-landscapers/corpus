@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: gov.protect
 places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 1d5eeac829cc
+record: c760d4691da3
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -29,7 +29,7 @@ Oversight of the state's own intelligence capability moved by administrative act
 
 A joint decision of the media council and the telecoms regulator, reported on 17 September, [bars social platforms from holding independent accounts for children under 13, makes a safe mode the child cannot disable compulsory for those aged 13 to under 15, and requires age verification that collects no more data than it needs](https://www.youm7.com/story/2026/9/17/%C2%AB%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%C2%BB-%D9%88%C2%AB%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%C2%BB-%D9%8A%D9%84%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AF%D9%88%D9%86-15/7549926). The regulator says platforms have [three months to comply, existing accounts included, and can be blocked in Egypt if they do not](https://www.fintechgate.net/252234), and that [tens of thousands subscribed in two months to the operators' child online-protection services](https://www.fintechgate.net/252234). The decision's text is not held.
 
-On 29 September two rights organisations [asked the media council and the telecoms regulator to publish the joint decision's full text, number and legal basis, which the 17 September announcement did not carry, and to state what age-verification data will be collected, by whom and for how long](https://www.eipr.org/press/2026/09/%D9%85%D8%B3%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86-%D8%A8%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89).
+On 29 September two rights organisations [asked the media council and the telecoms regulator to publish the joint decision's full text, number and legal basis, which the 17 September announcement did not carry, and to state what age-verification data will be collected, by whom and for how long](https://www.eipr.org/press/2026/09/%D9%85%D8%B3%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D9%86-%D8%A8%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89). A law firm reported that [the data-protection centre opened its portal for accreditation, licence and permit applications in early October 2026](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update), weeks before the grace period ends.
 
 ## Eswatini
 
@@ -91,7 +91,7 @@ The commission opened a second framework alongside its enforcement work: validat
 
 The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
 
-The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/).
+The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/). The data-protection commission and the orientation agency [signed a memorandum on public data-protection awareness](https://techafricanews.com/2026/10/06/nigerias-ndpc-noa-sign-mou-to-expand-data-protection-awareness/).
 
 ## Senegal
 
@@ -115,7 +115,7 @@ The community development ministry told parliament on 31 August 2026 that [a Nat
 
 ## Togo
 
-The data protection regulator turned to the state's own compliance. It [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published.
+The data protection regulator turned to the state's own compliance. It [convened ministry chiefs of staff and secretaries-general in Lome on their obligations under the 2019 law and the measures needed to bring public-sector processing into conformity](https://levisionnaire.tg/protection-des-donnees-lipdcp-appelle-les-administrations-togolaises-a-accelerer-leur-mise-en-conformite/). No count of administrations registered or compliant is published. The data-protection authority [opened its first certification session for data protection officers, assessing 32 professionals](https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/).
 
 ## Tunisia
 

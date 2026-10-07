@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: tech.industry
 places: DZA; AGO; CAF; EGY; SWZ; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: 8431b5494e8e
+record: 09769e780751
 ---
 
 # ICT Industry: monthly update, September – October 2026
@@ -59,7 +59,7 @@ The communications minister [put the ICT sector's contribution to GDP at about 2
 
 ## Senegal
 
-A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger. The telecommunications ministry [is pooling public bodies' equipment demand so that local assemblers can win state contracts, and visited a private assembly unit with a pilot capacity of about 7,500 computers a year](https://www.seneweb.com/fr/news/Technologie/new-deal-technologique-le-senegal-parie-sur-la-fabrication-et-lassemblage-locaux_n_505809.html); no contract, volume or budget is stated.
+A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger. The telecommunications ministry [is pooling public bodies' equipment demand so that local assemblers can win state contracts, and visited a private assembly unit with a pilot capacity of about 7,500 computers a year](https://www.seneweb.com/fr/news/Technologie/new-deal-technologique-le-senegal-parie-sur-la-fabrication-et-lassemblage-locaux_n_505809.html); no contract, volume or budget is stated. The telecommunications ministry [signed a US$150m partnership convention for local production of electronic devices](https://aps.sn/un-partenariat-de-pres-de-88-milliards-fcfa-pour-developper-la-production-locale-de-solutions-technologiques/); no financing schedule is stated.
 
 ## South Africa
 

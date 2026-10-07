@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 1b0b0ab65fe2
+record: 6a68524bf520
 ---
 
 # Regional collaboration: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 1b0b0ab65fe2
 
 ## Algeria
 
-With Niger, [the two prime ministers reaffirmed three trans-Saharan projects, among them the fibre-optic backbone, at talks in Algiers on 27 August](https://www.actuniger.com/politique/22305-cooperation-niamey-et-alger-reaffirme-leur-engagement-a-concretiser-les-projets-dintegration-africaine.html), and on 8 September Algérie Télécom's Skills Centers network [signed a convention with Niger's telecommunications and post college on infrastructure capacity and training](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/). No value, duration or trainee target is published for the convention.
+With Niger, [the two prime ministers reaffirmed three trans-Saharan projects, among them the fibre-optic backbone, at talks in Algiers on 27 August](https://www.actuniger.com/politique/22305-cooperation-niamey-et-alger-reaffirme-leur-engagement-a-concretiser-les-projets-dintegration-africaine.html), and on 8 September Algérie Télécom's Skills Centers network [signed a convention with Niger's telecommunications and post college on infrastructure capacity and training](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/). No value, duration or trainee target is published for the convention. The Algerian and Nigerien ministers [launched operation of the fibre link between In Guezzam and Arlit-Agadez at a starting capacity of 100 Gbps](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/).
 
 ## Angola
 

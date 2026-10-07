@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: c8e78190dc04
+record: a4e0de911354
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -161,7 +161,7 @@ Somaliland's central bank [met banks and mobile-money operators on 11 September 
 
 ## South Africa
 
-The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping.
+The companies commission [launched on 29 September a disclosure module giving law enforcement agencies real-time access to beneficial ownership information](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/), with search and connection-mapping. KwaZulu-Natal [announced the launch of a portal listing its 10,067 audited public-works properties](https://www.sanews.gov.za/south-africa/kzn-launches-public-works-and-infrastructure-property-finding-portal).
 
 ## Sudan
 
@@ -181,7 +181,7 @@ A sectoral register was added beside them. The trade, industry and cooperatives 
 
 The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 
-The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight.
+The same contractor is the subject of a further purchase. Whistleblowers [asked the President, the Inspectorate of Government, the Auditor General and the procurement regulator to halt a proposed Shs158bn works ministry procurement of vehicle registration components from the digital number plate contractor, arguing that it pays twice for functions in the original contract and ties the vehicle registry to one foreign vendor](https://dailystar.co.ug/whistleblowers-ask-museveni-igg-to-halt-shs158bn-digital-plates-deal/). The paper states that the claims were not independently established, and no ministry response is held. On 30 September the works and transport ministry [told Parliament's infrastructure committee the number plate backlog is cleared, component supplies having been restored in August, with fitment at Kampala bonds down from 19 days in December 2025 to two](https://www.monitor.co.ug/uganda/news/national/ministry-clears-digital-number-plate-backlog-amid-parliamentary-scrutiny-5615106); the committee keeps the project under oversight. The Attorney General told a parliamentary committee that [the supplier has failed the core obligations of the 2021 number-plate contract, which a newspaper reports him declaring null and illegal](https://www.monitor.co.ug/uganda/news/national/attorney-general-declares-2021-digital-number-plates-contract-null-illegal-5616458).
 
 ## Zambia
 

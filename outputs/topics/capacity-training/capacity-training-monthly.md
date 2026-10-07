@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-07
+period: 2026-09-01 to 2026-10-07
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: bdb1b36a3f53
+record: a72e7be0096e
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -71,7 +71,7 @@ The coders programme is to reach first-year degrees: the minister [said 12 unive
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
-Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count.
+Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count. The Korean ambassador said [the Korean aid agency is launching a US$28m digital basic education programme for 2026 to 2032](https://ghanaiantimes.com.gh/korea-ghana-50-a-partnership-anchored-on-mutual-respect-trust-and-shared-prosperity/).
 
 ## Guinea
 
@@ -111,7 +111,7 @@ Algeria's state operator [signed a convention in Niamey on 8 September 2026 cove
 
 ## Nigeria
 
-The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/). Free digital and employability training [opened for 50,000 young people in the North-Central states and the federal capital](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/), towards a national target of 300,000.
+The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/). Free digital and employability training [opened for 50,000 young people in the North-Central states and the federal capital](https://www.primepost.ng/2026/09/30/idice-fg-to-offer-digital-employability-training-for-50000-north-central-youths/), towards a national target of 300,000. The regulator said [its training institute has been designated an ITU Digital Transformation Centre](https://techafricanews.com/2026/10/06/nigerias-ncc-to-leverage-itu-digital-centre-to-expand-digital-skills-training/).
 
 ## Rwanda
 
