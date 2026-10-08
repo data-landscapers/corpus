@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 6a68524bf520
+record: 7534e17138aa
 ---
 
 # Regional collaboration: monthly update, September – October 2026
@@ -23,7 +23,7 @@ Angola is one of 49 states that signed, with the European Space Agency, [a decla
 
 ## Benin
 
-At a joint assessment of the Seme-Krake border post on 11 September 2026, [Nigeria's customs offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). The two administrations share the post and no system.
+At a joint assessment of the Seme-Krake border post on 11 September 2026, [Nigeria's customs offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). The two administrations share the post and no system. [The Beninese and Togolese data-protection authorities held a joint working session at Lome on 2 and 3 October](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/) on sharing experience and building skills, after the Togolese authority's mission to Cotonou in August. The agreement's own date and text are not held.
 
 ## Burkina Faso
 

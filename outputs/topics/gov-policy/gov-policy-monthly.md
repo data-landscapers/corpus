@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 8550f6224bf0
+record: 5ac25e2730b2
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -115,7 +115,7 @@ The Digital Transformation Operational Plan 2026-2029 [was under appraisal at th
 
 The plan in force is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
-The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October.
+The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October. A proposed [Internet for All strategy with targets to 2030 was presented in Maputo, where only 15% of the population was said to afford mobile data](https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/).
 
 ## Nigeria
 

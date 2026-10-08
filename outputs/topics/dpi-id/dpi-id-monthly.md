@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: dpi.id
 places: DZA; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 199daa3fe8a6
+record: 5d0054f441a1
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -19,7 +19,7 @@ Applicants in Algiers and Bejaia [reported waits of at least three months, and i
 
 ## Benin
 
-On International Identity Day the identification agency [opened renewal of the biometric identity card online to all holders](https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/), through an e-services platform available at any hour. No uptake figure has been published.
+On International Identity Day the identification agency [opened renewal of the biometric identity card online to all holders](https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/), through an e-services platform available at any hour. No uptake figure has been published. [Pensioners can now prove they are alive from a smartphone](https://www.gouv.bj/article/3686/digitalisation-preuve-ministere-economie-finances-simplifie-demarche/): they identify by personal identification number and pension booklet number and confirm by fingerprint in a dedicated application, with biometric kiosks in some public places as the alternative. [An international expert is being sought to define a durable financing model for the digital identity system](https://www.wearetech.africa/fr/fils/actualites/tech/le-benin-recherche-un-expert-international-pour-renforcer-son-systeme-d-identite-numerique).
 
 ## Burkina Faso
 
@@ -89,7 +89,7 @@ The SIM half of the identity regime moved for the first time in nine months. The
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 
-The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december).
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december). The identification authority [began school-based registration of children aged 6 to 14 in the North East and Upper East Regions](https://www.myjoyonline.com/nia-extends-ghana-card-registration-for-children-in-north-east-and-upper-east/).
 
 ## Kenya
 

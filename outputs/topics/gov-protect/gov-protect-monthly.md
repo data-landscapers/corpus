@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: gov.protect
 places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: c760d4691da3
+record: 5a135b867be4
 ---
 
 # Data protection: monthly update, September – October 2026
@@ -47,7 +47,7 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
-The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October. The High Court [ordered the largest operator on 18 September to give a subscriber, within 21 days, the particulars of every request to access or disclose her communications and mobile money data and the access logs it holds](https://sheriahub.com/cases/ke/caselaw/matey-v-safaricom-plc-2026-kehc-13624-klr.pdf), under the constitutional right of access to information; compliance is not on record.
+The Public Service Commission [shortlisted 13 of 152 applicants to succeed the inaugural data commissioner at the end of her six-year term](https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/), among them the Media Council's chief executive and the senior deputy data commissioner; interviews are set for 5 October. The High Court [ordered the largest operator on 18 September to give a subscriber, within 21 days, the particulars of every request to access or disclose her communications and mobile money data and the access logs it holds](https://sheriahub.com/cases/ke/caselaw/matey-v-safaricom-plc-2026-kehc-13624-klr.pdf), under the constitutional right of access to information; compliance is not on record. The regulator told a parliamentary committee that [deactivation and recycling of inactive numbers now run under its 2026 procedures and safeguards](https://nation.africa/kenya/business/sim-deactivation-now-backed-by-law-ca-says-5622384).
 
 ## Lesotho
 
@@ -123,7 +123,7 @@ A digital-rights forum [said on 3 October that the national data-protection auth
 
 ## Uganda
 
-Three men [were held at a Kampala station over alleged false news and unlawful obtaining or disclosure of personal data](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media), reported on 1 September, on offences under the computer misuse statute; the posts, the data and the complainant are not disclosed.
+Three men [were held at a Kampala station over alleged false news and unlawful obtaining or disclosure of personal data](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media), reported on 1 September, on offences under the computer misuse statute; the posts, the data and the complainant are not disclosed. A TikTok user [was charged with unlawfully obtaining and disclosing personal data over a photograph and video of a State House employee](https://www.newvision.co.ug/category/news/tiktoker-charged-over-alleged-fake-news-data-NV_241989_102026). The communications regulator [launched a child online protection campaign at a Kampala secondary school](https://techafricanews.com/2026/10/07/uganda-launches-child-online-protection-campaign-to-promote-safer-internet-use/).
 
 ## Zimbabwe
 

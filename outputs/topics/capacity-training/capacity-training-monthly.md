@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: a72e7be0096e
+record: 1f655b40f6d3
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -37,7 +37,7 @@ The technical education ministry and UNESCO [launched a project on 17 September 
 
 ## Djibouti
 
-Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre on 5 September](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/), and [Djibouti Telecom certified 35 of its engineers in artificial intelligence on 17 September](https://www.adi.dj/article/138906). Neither account gives a cost.
+Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding, robotics and artificial intelligence at the national technology and innovation centre on 5 September](https://www.lanation.dj/cloture-de-techkid-2026-une-nouvelle-generation-de-techleaders-a-djibouti/), and [Djibouti Telecom certified 35 of its engineers in artificial intelligence on 17 September](https://www.adi.dj/article/138906). Neither account gives a cost. The Francophonie organisation and the education ministry [signed an agreement to train 200 young people in development, networks and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse).
 
 ## Egypt
 
@@ -103,7 +103,7 @@ The education ministry [opened a ten-day course on 8 September 2026 for 20 secon
 
 The Génération AIoT programme [opened seven cohorts in Casablanca, Fès and Oujda, aiming at 1,200 trained people a year from February 2027](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). Launched in February by the digital transition ministry with a foundation and a technology firm, it [had drawn 2,118 applications and gathered 95 participants](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). No completion or placement figure is published.
 
-The administration school and the digital development agency [agreed on 22 September to train civil servants in digital transformation, AI and data management](https://en.7news.ma/ena-add-digital-skills-partnership/); no number of officials or start date was announced.
+The administration school and the digital development agency [agreed on 22 September to train civil servants in digital transformation, AI and data management](https://en.7news.ma/ena-add-digital-skills-partnership/); no number of officials or start date was announced. The security directorate and the World Bank [opened an executive cybersecurity programme in Rabat for leaders of African cybersecurity authorities](https://www.maroc.ma/en/news/cyber-academy-cybersecurity-training-program-african-leaders-kicks-rabat-0).
 
 ## Niger
 
@@ -145,7 +145,7 @@ The instrument behind teacher training entered the repository, and it is eleven 
 
 The university's own [programme catalogue](https://etu.univ-lome.tg/information/offre) is now held: licences in software engineering, systems and networks, computing, and artificial intelligence and big data, masters in the last two, and a doctorate in computing. It carries no enrolment or graduate figure and names no cybersecurity degree, so annual output in the field stays unmeasured.
 
-The first artificial-intelligence summer school finished, [training 100 young people in artificial intelligence and big data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data) through the government data laboratory with German technical-cooperation support. The figure matches the hundred places announced; no selection ratio or destination for the cohort is published.
+The first artificial-intelligence summer school finished, [training 100 young people in artificial intelligence and big data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data) through the government data laboratory with German technical-cooperation support. The figure matches the hundred places announced; no selection ratio or destination for the cohort is published. The data-protection authority and the Universite de Kara [signed a convention for a professional master's in digital law, cybersecurity and data protection](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-luniversite-de-kara-signent-une-convention-pour-accompagner-la-transformation-numerique-et-developper-les-compete/).
 
 ## Tunisia
 

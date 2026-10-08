@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: infra.connect
 places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 299fc4b0c6c2
+record: 49b3ecbc082d
 ---
 
 # Connectivity: monthly update, September – October 2026
@@ -87,7 +87,7 @@ The second licensee now puts itself at [15 million ninety-day active customers a
 
 ## Gabon
 
-The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/), and [signed it that day as a twenty-year partnership in which the network stays state property](https://agpgabon.ga/gabon-numerique-signature-dun-partenariat-entre-la-spin-et-gabon-fiber-s-a/). No financing has closed.
+The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/), and [signed it that day as a twenty-year partnership in which the network stays state property](https://agpgabon.ga/gabon-numerique-signature-dun-partenariat-entre-la-spin-et-gabon-fiber-s-a/). No financing has closed. The incumbent operator and the ministry [signed a convention ceding to the State the 196 km Fougamou-Mouila fibre section](https://union.sonapresse.com/fr/telecommunications-magt-et-letat-signent-une-convention-strategique).
 
 ## Gambia
 

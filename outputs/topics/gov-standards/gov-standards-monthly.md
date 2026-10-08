@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: gov.standards
-places: ETH; GAB; GMB; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 9f78ff119596
+places: ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
+record: afefab6a7e53
 ---
 
 # Standards: monthly update, September – October 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The regional internet registry [presented its services to the technical communit
 ## Gambia
 
 The standards bureau's position was restated from both ends this month. Its director general put adoptions at [around 500 standards, alongside membership of the African standards organisation](https://thepoint.gm/africa/gambia/headlines/iso-secretary-general-visits-gambia-to-deepen-partnership), while the international body's own profile records the bureau as a [Correspondent member without a vote at the standards and electrotechnical organisations, and the country's technical-barriers enquiry point](https://www.iso.org/member/576505.html). A correspondent member may adopt standards; it does not help make them.
+
+## Ghana
+
+The central bank [directed banks to give their fraud functions direct access to the chief executive, alongside work on implementing the directive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/).
 
 ## Kenya
 

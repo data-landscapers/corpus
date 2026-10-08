@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: aea6785839bd
+record: 297a493aaf31
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -27,7 +27,7 @@ The tax and customs administration [is integrating the commerce ministry's and o
 
 ## Benin
 
-At the busiest land border, the systems gap was named on the record: Nigeria's customs chief [told a joint assessment at Seme-Krake that the two administrations work under one roof but not on one system, and offered real-time exchange of declarations, manifests and risk alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). Benin's reply is not reported.
+At the busiest land border, the systems gap was named on the record: Nigeria's customs chief [told a joint assessment at Seme-Krake that the two administrations work under one roof but not on one system, and offered real-time exchange of declarations, manifests and risk alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). Benin's reply is not reported. [The Treasury told road users to settle unpaid traffic penalties through the road-enforcement portal by 1 October](https://cadreco.media/regulation/2026/infractions-routieres-le-tresor-invite-au-reglement-des-penalites-avant-le-1er-octobre), with forced recovery on the road after that date. The portal lets a driver look up what is owed.
 
 ## Botswana
 

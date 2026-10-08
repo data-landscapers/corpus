@@ -1,15 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: dpi.govtech
-places: DZA; AGO; BEN; BFA; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: df67f2135dfe
+places: DZA; AGO; BEN; BWA; BFA; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c088072a8c84
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ The Constitutional Court is preparing its own systems for the 2027 elections: on
 ## Benin
 
 [UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow. The national police [moved loss certificates wholly online from 1 October](https://lanation.bj/actualites/benin-les-certificats-de-perte-desormais-delivres-en-ligne), with electronic payment; police stations no longer issue the certificate and are to assist people declaring a loss.
+
+## Botswana
+
+A newspaper reported [the transport ministry extending permits and clearing vehicles by hand after a systems outage at the road transport department](https://www.sundaystandard.info/the-system-is-down-not-the-road-traffic-act/).
 
 ## Burkina Faso
 
@@ -111,7 +115,7 @@ The tourism authority's chief executive [said on 18 September that a Ghana Touri
 
 ## Guinea
 
-A second citizen-facing platform launched, and one already running was presented abroad as evidence. The youth fund [launched a national platform for youth information, orientation, training, support and job placement, live on the web and on one mobile app store with the other to follow, with a national call for partners](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf) — no user count, vacancy volume, placement figure or funding arrangement published. Days later the anti-corruption agency [took the procurement platform and the mining cadastre to the United Nations convention review group at Vienna as evidence of transparency reform](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/), which is the first time the repository records either system being used as an argument rather than described as a service.
+A second citizen-facing platform launched, and one already running was presented abroad as evidence. The youth fund [launched a national platform for youth information, orientation, training, support and job placement, live on the web and on one mobile app store with the other to follow, with a national call for partners](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf) — no user count, vacancy volume, placement figure or funding arrangement published. Days later the anti-corruption agency [took the procurement platform and the mining cadastre to the United Nations convention review group at Vienna as evidence of transparency reform](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/), which is the first time the repository records either system being used as an argument rather than described as a service. The civil service minister [presented the one-stop public-service counter project to the mayors of Conakry's 13 communes](https://mediaguinee.com/2026/10/guichet-unique-des-services-publics-le-ministre-bourouno-mobilise-les-maires-de-conakry-pour-rapprocher-ladministration-des-citoyens/).
 
 ## Kenya
 
@@ -203,7 +207,7 @@ The audit management system cleared its acceptance stage. It is [through user ac
 
 The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting. On 23 September the commission said [the party had lost its court challenge, that it had concluded end-to-end testing of its results system for the 4 November elections, and that parties could test the system through their own experts from 5 to 12 October](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/).
 
-On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports. Gauteng's transport department [launched a digital system to clear its operating-licence backlog](https://www.ewn.co.za/2026/10/06/gauteng-transport-department-launches-digital-system-to-tackle-operating-licence-backlog). The minister told Parliament that [the state IT agency moved from a qualified audit opinion to an unqualified one for 2025/26](https://pmg.org.za/committee-question/41100/).
+On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports. Gauteng's transport department [launched a digital system to clear its operating-licence backlog](https://www.ewn.co.za/2026/10/06/gauteng-transport-department-launches-digital-system-to-tackle-operating-licence-backlog). The minister told Parliament that [the state IT agency moved from a qualified audit opinion to an unqualified one for 2025/26](https://pmg.org.za/committee-question/41100/). The electoral commission [opened its results system to audit by experts designated by four parties, after an independent external audit](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway).
 
 ## South Sudan
 

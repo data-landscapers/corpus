@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 457e8b8e6e06
+record: fe4a916aa890
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -63,7 +63,7 @@ The telecoms regulator said on 18 September that it is preparing [a comprehensiv
 
 The Financial Regulatory Authority's [Decision No. 2735 of 2026 gives consumer and small-business finance companies two months to verify customers by one-time password](https://www.maspero.eg/economy/2026/09/14/989116/), and a protocol signed on 16 September [requires the media council to take the authority's technical opinion, within fifteen days, before licensing any app that carries on non-bank financial activity or uses a supervised firm's name](https://www.youm7.com/story/2026/9/16/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%88-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/7548592). On 1 September [two more fintech projects received preliminary approval to enter the authority's sandbox](https://techafricanews.com/2026/09/01/egypt-fra-approves-two-new-fintech-projects-regulatory-sandbox/).
 
-The ministry's investment conference on 7 September [carried a session on the data-protection executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the compliance period closes on 1 November. No guidance, decision or transfer licence issued under the regulations is on the record. The House ICT committee's newly elected chair said [the digital-safety bill heads the committee's agenda for the new session and mostly regulates children's use of social media](https://www.youm7.com/story/2026/10/4/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A/7566923); no text is published.
+The ministry's investment conference on 7 September [carried a session on the data-protection executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the compliance period closes on 1 November. No guidance, decision or transfer licence issued under the regulations is on the record. The House ICT committee's newly elected chair said [the digital-safety bill heads the committee's agenda for the new session and mostly regulates children's use of social media](https://www.youm7.com/story/2026/10/4/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B9%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A/7566923); no text is published. The chair of the House communications committee said [the new session would open with the digital safety bill, which gives priority to protecting children on social media](https://gate.ahram.org.eg/News/5939716.aspx).
 
 ## Equatorial Guinea
 

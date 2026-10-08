@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: tech.industry
 places: DZA; AGO; CAF; EGY; SWZ; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: 09769e780751
+record: 8d5f6c42d778
 ---
 
 # ICT Industry: monthly update, September – October 2026
@@ -39,7 +39,7 @@ A state-facing platform changed hands rather than being built. The [Taiwan-funde
 
 The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
 
-The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record.
+The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record. A press report of the company's accounts showed [the device financier completing its US$8m acquisition of a Finnish device-locking software company](https://techcabal.com/2026/10/07/m-kopa-acquires-finnish-device-locking/).
 
 ## Madagascar
 

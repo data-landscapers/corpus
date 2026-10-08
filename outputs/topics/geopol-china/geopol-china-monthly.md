@@ -1,17 +1,15 @@
 ---
 title: China activities — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: geopol.china
 places: DJI; EGY; GMB
-record: 864bbaa8c8de
+record: 1138de33e337
 ---
 
 # China activities: monthly update, September – October 2026
 
 *3 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Djibouti
 

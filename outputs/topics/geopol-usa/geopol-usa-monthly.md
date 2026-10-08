@@ -1,15 +1,15 @@
 ---
 title: US / hyperscaler activities — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: geopol.usa
-places: CPV; DJI; EGY; KEN; ZAF; ZMB; ZWE
-record: b8376d261ed3
+places: CPV; DJI; EGY; KEN; MUS; ZAF; ZMB; ZWE
+record: 1dd5a53c95b8
 ---
 
 # US / hyperscaler activities: monthly update, September – October 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The prime minister [witnessed the signing of a letter of intent between the comm
 ## Kenya
 
 Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
+
+## Mauritius
+
+The incumbent operator and the cloud company [held an executive workshop on cloud, data and artificial intelligence for more than 125 delegates of state-owned enterprises](https://lexpress.mu/node/563331).
 
 ## South Africa
 

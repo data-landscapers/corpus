@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: infra.cybersec
 places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 0f66b5138c8d
+record: 93d33c93a60a
 ---
 
 # Cybersecurity: monthly update, September – October 2026
@@ -19,7 +19,7 @@ State media reports [a security operations centre and a network operations centr
 
 ## Benin
 
-Information-security officers from public and private institutions [constituted a professional club on 26 September](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux), adopting statutes and electing an 11-member board, with the aim of pooling expertise, training members and sharing lessons from incidents in confidence.
+Information-security officers from public and private institutions [constituted a professional club on 26 September](https://lanation.bj/actualites/cybersecurite-au-benin-le-club-des-rssi-porte-sur-les-fonts-baptismaux), adopting statutes and electing an 11-member board, with the aim of pooling expertise, training members and sharing lessons from incidents in confidence. [The national digital investigations centre opened complaint points at Porto-Novo, Abomey and Parakou](https://beninwebtv.com/benin-le-cnin-ouvre-trois-points-de-plainte-a-porto-novo-abomey-et-parakou/), in police premises, so that personal-data breaches and digital offences can be reported outside Cotonou.
 
 ## Burkina Faso
 
@@ -65,7 +65,7 @@ On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform p
 
 The standards the new agency will enforce were put to the people who would have to work them. The technology authority [tested the National Information Security Framework's audit, risk-management and certification mechanisms at a Nairobi workshop, to establish whether they are practical for national implementation](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/) ahead of certifying critical information infrastructure. Neither the framework text nor the certification criteria nor the list of infrastructure to be certified is published.
 
-The government's scorecard [reported the director-general recruited and deployed, board seats and technical posts still being filled, and the agency not yet fully operational](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running), and [two board members were then gazetted with effect from 11 September](https://cioafrica.co/kenya-appoints-two-members-to-national-cybersecurity-agency-board/). The prosecutor's office meanwhile [issued a reference guide setting out each offence under the cybercrimes Act with its elements, required evidence, sample charges and court application templates](https://nc4.go.ke/regulations/rapid-reference-guide/).
+The government's scorecard [reported the director-general recruited and deployed, board seats and technical posts still being filled, and the agency not yet fully operational](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running), and [two board members were then gazetted with effect from 11 September](https://cioafrica.co/kenya-appoints-two-members-to-national-cybersecurity-agency-board/). The prosecutor's office meanwhile [issued a reference guide setting out each offence under the cybercrimes Act with its elements, required evidence, sample charges and court application templates](https://nc4.go.ke/regulations/rapid-reference-guide/). The communications minister told the Senate that [the national incident response centre's forensics laboratory had received more than 200 requests, most involving online abuse](https://www.standardmedia.co.ke/national/article/2001559644/govt-steps-up-safety-against-cybersecurity-and-data-privacy).
 
 ## Liberia
 

@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: a4e0de911354
+record: 0e3a4829be9f
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -23,7 +23,7 @@ The education ministry made school enrolment independent of documentation. Two m
 
 ## Benin
 
-One commune is now completely mapped, and the map shows who the register cannot see. Parakou [became the first commune with complete cadastral coverage, 196,474 parcels across about 56,390 hectares, presented to a Netherlands embassy delegation on 1 September, with more than 11,500 cadastral registration certificates distributed door to door](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/). The ownership breakdown is the part worth carrying: [38 per cent of registered parcels are in men's ownership against 7 per cent women's and 3 per cent collectivites, and the owners of 21 per cent cannot be identified at all, with no parcel recorded as contested](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/).
+One commune is now completely mapped, and the map shows who the register cannot see. Parakou [became the first commune with complete cadastral coverage, 196,474 parcels across about 56,390 hectares, presented to a Netherlands embassy delegation on 1 September, with more than 11,500 cadastral registration certificates distributed door to door](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/). The ownership breakdown is the part worth carrying: [38 per cent of registered parcels are in men's ownership against 7 per cent women's and 3 per cent collectivites, and the owners of 21 per cent cannot be identified at all, with no parcel recorded as contested](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/). [A free campaign from 16 to 30 September issued a first birth certificate to 50,109 children under 14](https://beninwebtv.com/benin-50-109-enfants-ont-obtenu-gratuitement-leur-acte-de-naissance-en-septembre/), on the identification agency's count. The campaign rests on [a 2025 decree that allows a child under 14 with no legal identity to be registered on the public prosecutor's requisition and on witness testimony](https://lanouvelletribune.info/2026/09/benin-acte-de-naissance-gratuit-voici-la-procedure-pour-les-moins-de-14-ans/).
 
 ## Burkina Faso
 

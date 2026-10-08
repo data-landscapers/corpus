@@ -1,21 +1,25 @@
 ---
 title: Use of satellite data — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: data.satellite
-places: COG; DJI; NGA; ZMB
-record: b74284bb4454
+places: COG; CIV; DJI; NGA; TGO; ZMB
+record: 98fe3ca31629
 ---
 
 # Use of satellite data: monthly update, September – October 2026
 
-*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Congo
 
 Kazakhstan's deputy prime minister said [the two countries are working to build and launch Congo's first Earth-observation satellite](https://www.adiac-congo.com/content/technologies-spatiales-le-congo-se-prepare-lancer-son-premier-satellite-dobservation-171586), to monitor forests, farming, mining and flood-exposed areas, reported on 12 September. A delegation led by the head of state [attended the international space summit in Paris](https://www.adiac-congo.com/content/technologies-spatiales-le-congo-mise-sur-linnovation-pour-accelerer-son-developpement-171569).
+
+## Cote d'Ivoire
+
+The environment ministry [signed a framework memorandum with an Ivorian company to monitor land use and carbon stocks from satellite data](https://techreviewafrica.com/news/7588/x).
 
 ## Djibouti
 
@@ -24,6 +28,10 @@ The month's movement was political rather than technical. The head of state [too
 ## Nigeria
 
 The innovation minister said [the Federal Executive Council has approved a programme of six new satellites, four of them Earth-observation, and a Centre for Space Transport and Propulsion](https://businessday.ng/technology/article/nigeria-targets-1bn-space-investment-as-africa-pushes-space-sovereignty/), and sought private and foreign partners at the space summit in Paris. No manufacturer, cost, launch date or use for the data is given, and whether the two communications satellites are the ones approved in August is not stated.
+
+## Togo
+
+The digital minister [announced an earth-observation cooperation under which Kyrgyzstan is to transmit satellite data for agriculture and train local staff](https://togopresse.tg/technologies-spatiales-le-togo-et-le-kirghizistan-lancent-une-cooperation/).
 
 ## Zambia
 

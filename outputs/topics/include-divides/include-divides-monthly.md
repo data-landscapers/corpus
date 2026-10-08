@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: include.divides
-places: AGO; CPV; TCD; COD; EGY; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; UGA; ZMB
-record: 9d79d85f58a6
+places: AGO; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; UGA; ZMB
+record: a6f5dea57044
 ---
 
 # Digital divides: monthly update, September – October 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -33,9 +33,13 @@ For the school year that opened on 1 September, the education and health ministr
 
 The transport ministry [added text-to-speech, sign-language and other accessibility tools to its website, built with the ICT ministry and its academy for persons with disabilities](https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148) (17 September), after the ICT ministry [published an accessibility toolbar on every page of its own site](https://gate.ahram.org.eg/News/5882651.aspx) on 4 August. No deadline, list of bound entities, conformance level or audit route is stated.
 
+## Eswatini
+
+The regional alliance [opened a workshop to pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/).
+
 ## Gambia
 
-The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without.
+The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without. The regional alliance [opened a workshop to pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/).
 
 ## Ghana
 

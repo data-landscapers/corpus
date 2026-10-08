@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: infra.capacity
 places: CMR; COD; KEN; LBY; RWA; ZAF; TGO
-record: b1182c038bd6
+record: 34432a1e6749
 ---
 
 # Technical Capacity: monthly update, September – October 2026

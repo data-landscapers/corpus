@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: finance.new
 places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: cf19e38690f6
+record: 9630c642b8b7
 ---
 
 # New investments: monthly update, September – October 2026

@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a4b22fe15da9
+record: ee720cdef737
 ---
 
 # AI: monthly update, September – October 2026
@@ -25,7 +25,7 @@ Money reached artificial intelligence in the administration for the first time t
 
 ## Benin
 
-The health ministry [awarded a contract for 20 AI-assisted malaria diagnosis units for public referral hospitals to the South Korean firm Noul](https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic), reported on 8 September. A state project [has collected 700 hours of Fongbe audio from 2,400 contributors](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees) to build AI training material in Beninese languages; the account asks what happens to the recordings afterwards. The national machine-learning meeting at Cotonou on 10 to 12 September [opened a track on African-language models](https://lanation.bj/societe/ia-numerique-les-langues-africaines-entrent-dans-la-course-a-lia). The digital agency's quarterly bulletin [called for AI-specific rules on governance, liability and compliance](https://asin.bj/doc/150/download), naming no legal vehicle or timetable.
+The health ministry [awarded a contract for 20 AI-assisted malaria diagnosis units for public referral hospitals to the South Korean firm Noul](https://www.wearetech.africa/fr/fils/actualites/tech/paludisme-le-benin-integre-l-ia-dans-son-dispositif-national-de-diagnostic), reported on 8 September. A state project [has collected 700 hours of Fongbe audio from 2,400 contributors](https://lanation.bj/culture/numeriquelangues-beninoises-700-heures-de-fongbe-pour-lia-apres-les-voix-la-question-des-donnees) to build AI training material in Beninese languages; the account asks what happens to the recordings afterwards. The national machine-learning meeting at Cotonou on 10 to 12 September [opened a track on African-language models](https://lanation.bj/societe/ia-numerique-les-langues-africaines-entrent-dans-la-course-a-lia). The digital agency's quarterly bulletin [called for AI-specific rules on governance, liability and compliance](https://asin.bj/doc/150/download), naming no legal vehicle or timetable. [An external policy assessment argued that Benin must convert its lead in artificial-intelligence governance into results](https://lanation.bj/index.php/numerique/gouvernance-de-lia-le-benin-doit-transformer-son-avance-en-resultats), with the national strategy in force.
 
 ## Botswana
 
@@ -63,7 +63,7 @@ On 8 September the communications minister attended a Cairo ceremony at which [V
 
 The cabinet information centre put those who had heard of artificial-intelligence applications at [65% in 2026 against 22% in 2023, work the leading use at 51.7% ahead of personal use and study, with about 94% of users rating the accuracy of the answers they get](https://www.youm7.com/story/2026/9/7/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%82%D9%81%D8%B2-%D9%85%D9%86-22-%D9%84%D9%8065/7538408). Sample size, method and margin are not stated.
 
-The national AI council [adopted the strategy's achievements report for the first half of 2026, reviewed the outlines of a National Quantum Computing Strategy 2027-2030, and covered government procurement guidelines for AI systems, generative-AI guidelines for government and Safe Use Guidelines for AI Applications for Children](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/), reported on 25 September. None of the guidelines is stated as adopted or published.
+The national AI council [adopted the strategy's achievements report for the first half of 2026, reviewed the outlines of a National Quantum Computing Strategy 2027-2030, and covered government procurement guidelines for AI systems, generative-AI guidelines for government and Safe Use Guidelines for AI Applications for Children](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/), reported on 25 September. None of the guidelines is stated as adopted or published. A newspaper reported that [Egypt led the Human Rights Council to adopt by consensus a resolution on artificial intelligence and human rights](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270).
 
 ## Eswatini
 
@@ -127,7 +127,7 @@ The research commission [set the launch of a national artificial-intelligence in
 
 ## Nigeria
 
-On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held. The technology agency [published an advisory warning against entering identity numbers, bank details or confidential data into public AI tools](https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/).
+On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held. The technology agency [published an advisory warning against entering identity numbers, bank details or confidential data into public AI tools](https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/). An opposition movement [called on the electoral commission to abandon AI verification of results until its governance framework is published](https://kapitalfm.gov.ng/2026/10/07/obidients-want-inec-to-abandon-ai-results-verification-plan).
 
 ## Rwanda
 
@@ -177,7 +177,7 @@ The month's only artificial-intelligence movement is a procurement. The developm
 
 ## Tunisia
 
-At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record.
+At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record. A finance ministry document on the 2027 budget [rested resource mobilisation on countering tax evasion with artificial intelligence](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A).
 
 ## Uganda
 

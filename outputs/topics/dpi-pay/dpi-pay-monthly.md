@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 449c037f7a77
+record: bd44ea95ed14
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -23,7 +23,7 @@ A renminbi route opened for Angola-China trade: the largest private bank [signed
 
 ## Benin
 
-Online tax filing is spreading beyond the large taxpayers. The tax directorate [opens its declaration and payment platform to the small-business tax centres of Parakou from 21 September, Comè from 28 September and Lokossa from 5 October](https://beninwebtv.bj/benin-limpot-en-ligne-arrive-a-parakou-come-et-lokossa/).
+Online tax filing is spreading beyond the large taxpayers. The tax directorate [opens its declaration and payment platform to the small-business tax centres of Parakou from 21 September, Comè from 28 September and Lokossa from 5 October](https://beninwebtv.bj/benin-limpot-en-ligne-arrive-a-parakou-come-et-lokossa/). [Proof of an official mission is now given on a mobile application](https://www.gouv.bj/article/3685/semo-preuve-mission-entre-dans-numerique-/), where the agent identifies by personal identification number, shares a location and validates by fingerprint, under the system that pays mission expenses electronically.
 
 ## Botswana
 
@@ -155,7 +155,7 @@ The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi t
 
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 
-Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/). The central bank governor [said the country will join the regional settlement system with the metical in the first quarter of 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/), so that invoices from South Africa are settled from metical accounts.
+Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/). The central bank governor [said the country will join the regional settlement system with the metical in the first quarter of 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/), so that invoices from South Africa are settled from metical accounts. The central bank governor was reported saying [the metical could be used for regional payments through the settlement system from January 2027](https://timesdetodos.com/2026/10/metical-podera-ser-usado-em-pagamentos-na-sadc-a-partir-de-janeiro-de-2027/).
 
 ## Namibia
 

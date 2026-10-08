@@ -1,10 +1,10 @@
 ---
 title: Energy — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-08
+period: 2026-09-01 to 2026-10-08
 subject: infra.energy
 places: BWA; COD; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO; ZWE
-record: 011a6a7bfc14
+record: 7b7c38d9217b
 ---
 
 # Energy: monthly update, September – October 2026
