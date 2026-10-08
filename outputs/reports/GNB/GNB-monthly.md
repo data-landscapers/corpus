@@ -64,5 +64,5 @@ Bissau city council [launched CMB+ on 22 September, a modernisation and digital 
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-A survey of 2,039 adolescents in Bissau, reported on 3 September, [finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools](https://english.hi.is/news/covid-19-exposed-global-digital-divide-among-adolescents-guinea-bissau).
+A survey of 2,039 adolescents in Bissau, reported on 3 September, [finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools](https://english.hi.is/news/covid-19-exposed-global-digital-divide-among-adolescents-guinea-bissau). The first measurement of adolescent access the repository holds is academic: a [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and no official measurement of adolescent device or internet access exists at any date to set beside it.
 <!-- /narrative -->
