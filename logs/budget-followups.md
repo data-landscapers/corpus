@@ -63,9 +63,3 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
-- **BEN FY2026** — statement as-stated already held — read it for a revision: [[2026-10-06-ben-budget-citoyen-de-la-loi-de-finances-rectificative-gestion-2026-companion]] (queued 2026-10-08).
-- **MOZ FY2024** — implementation-report adds released: [[2024-04-01-moz-boletim-divida-publica-i-trimestre-2024-companion]] (queued 2026-10-08).
-- **MOZ FY2025** — implementation-report adds released: [[2025-08-01-moz-boletim-divida-publica-ii-trimestre-2025-companion]] (queued 2026-10-08).
-- **MOZ FY2025** — implementation-report adds released: [[2025-11-01-moz-boletim-do-iii-trimestre-2025-final-companion]] (queued 2026-10-08).
-- **MOZ FY2026** — implementation-report adds released or actual: [[2026-05-01-moz-boletim-divida-publica-i-trimestre-2026-companion]] (queued 2026-10-08).
-- **MOZ FY2026** — implementation-report adds released or actual: [[2026-07-01-moz-boletim-divida-publica-ii-trimestre-2026-companion]] (queued 2026-10-08).
