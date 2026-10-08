@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-09-27
+compiled: 2026-10-08
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 156
+sources_cited: 157
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -215,7 +215,7 @@ At least seven distinct government digital platforms entered service or procurem
 
 Businesses have gained the most. [LANDAYA launched in January 2026, issuing industrial administrative documents and permits within a 72-hour service standard](https://mediaguinee.com/2026/01/industrie-dre-diaka-sidibe-lance-landaya-pour-fluidifier-la-relation-entre-letat-et-les-promoteurs-industriels/); [company registration runs through the APIP one-stop shop, which issues the RCCM commercial registration](https://rccm.ohada.org); and [TELEMO, the national public-procurement platform digitising the full procurement cycle, launched in Conakry on 22 May 2026](https://techafricanews.com/2026/05/26/guinea-digitizes-public-procurement-with-launch-of-telemo-platform/). [A single window for public services, modelled on Azerbaijan's ASAN centres, was agreed as a partnership in March 2026](https://mediaguinee.com/2026/03/modernisation-de-ladministration-vers-le-deploiement-dun-guichet-unique-des-services-publics/) and [sits inside a nine-project package the public administration ministry presented in May 2026, alongside modernisation of the state HR systems, a mapping of the administration, an inventory of its personnel IT systems and digital-skills training for civil servants](https://www.wearetech.africa/fr/fils/actualites/tech/guinea-launches-nine-digital-projects-to-modernize-public-administration).
 
-Attention at the top has turned inward. [President Doumbouya announced on 14 August 2026 that he would personally monitor GEDA, the platform managing decrees and ministerial orders, from his own office, to speed administrative processing and the Simandou 2040 programme](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/); [the same week GEME was presented to digitise state mission orders, control their cost, frame allowance payments and reinforce post-mission reporting](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/), [with no budget, vendor or timetable stated](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/). For citizens without a connection of their own the service stops earlier than the portal: [those who depend on Conakry cybercafés to take computer training or submit job applications cannot reliably finish, because both the electricity and the connection are intermittent](https://afrique.le360.ma/societe/guinee-frequentes-coupures-delectricite-a-conakry-vacances-sous-tension_UV6SVPRQCFCTLFZRKVX26JKYIQ/).
+Attention at the top has turned inward. [President Doumbouya announced on 14 August 2026 that he would personally monitor GEDA, the platform managing decrees and ministerial orders, from his own office, to speed administrative processing and the Simandou 2040 programme](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/); [the same week GEME was presented to digitise state mission orders, control their cost, frame allowance payments and reinforce post-mission reporting](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/), [with no budget, vendor or timetable stated](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/). For citizens without a connection of their own the service stops earlier than the portal: [those who depend on Conakry cybercafés to take computer training or submit job applications cannot reliably finish, because both the electricity and the connection are intermittent](https://afrique.le360.ma/societe/guinee-frequentes-coupures-delectricite-a-conakry-vacances-sous-tension_UV6SVPRQCFCTLFZRKVX26JKYIQ/). The civil service minister [presented the one-stop public-service counter project to the mayors of Conakry's 13 communes](https://mediaguinee.com/2026/10/guichet-unique-des-services-publics-le-ministre-bourouno-mobilise-les-maires-de-conakry-pour-rapprocher-ladministration-des-citoyens/).
 
 ## Digitalisation
 

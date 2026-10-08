@@ -1,12 +1,12 @@
 ---
 title: Tunisia: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: TUN
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 201
+sources_cited: 202
 sections_written: 39
 not_established: 0
 acquire_lines: 49
@@ -252,7 +252,7 @@ In the state's own services the citizen-facing layer is still empty — [no chat
 Public use has moved ahead of all of this. Roughly half of Tunisian internet users [report using AI applications](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/), in the INT observatory's 2026 national survey on internet use and digital skills.
 
 <!-- derived -->
-Reported use of AI applications runs well ahead of reported use of online public administration in that same survey (2026).
+Reported use of AI applications runs well ahead of reported use of online public administration in that same survey (2026). A finance ministry document on the 2027 budget [rested resource mobilisation on countering tax evasion with artificial intelligence](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A) (2026).
 
 ### ICT Industry
 <!-- tech.industry -->

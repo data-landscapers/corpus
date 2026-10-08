@@ -1,12 +1,12 @@
 ---
 title: Rwanda: status report
-compiled: 2026-10-05
+compiled: 2026-10-08
 place: RWA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 197
+sources_cited: 198
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -219,7 +219,7 @@ The public financial core is custom-built rather than bought. [The integrated fi
 
 Health splits sharply between the aggregate layer and the record layer. [The health information system has run on DHIS2 since 2012, with data completeness rising from 88% to 95% and timeliness from 60% to over 90%](https://www.digitalpublicgoods.net/dpgs-for-dpi-building-open-digital-states.pdf), and a [National Health Intelligence Centre established](https://www.risa.gov.rw/news-detail/rwanda-champions-digital-public-infrastructure-dpi-to-transform-health-at-africa-healthtech-summit-2025). At the point of care it is thinner: [a 2024 assessment of 215 health centres found a minority had any electronic medical record system deployed](https://doi.org/10.21203/rs.3.rs-4763866/v1), and [the Ministry of Health's e-Ubuzima platform, meant to replace paper registers at all of the country's health centres, was operating in 15 districts as at April 2025](https://techcabal.com/2025/04/24/rwanda-e-ubuzima-rollout/). The national services platform's operator [described a patient-facing health platform in September 2026, letting patients see their records and track them across facilities, with no launch date or user figure published](https://www.ktpress.rw/2026/09/five-years-on-rwanda-is-leading-the-edge-of-digital-health-in-africa/).
 
-Education statistics run on [the School Data Management System, covering pre-primary, primary, secondary and technical education](https://www.mineduc.gov.rw/fileadmin/user_upload/Mineduc/Publications/REPORTS/Education_Statistics/Education_statistical_yearbook/Final_Education_Statistical_Yearbook_23_24.pdf), and the education ministry has [introduced a digital attendance system to identify learners at risk of dropping out](https://www.newtimes.co.rw/article/32152/news/technology/new-digital-attendance-system-aims-to-curb-school-dropouts) (December 2025). In justice, [the sector and its stakeholders began using an upgraded Integrated Electronic Case Management System in January 2025](https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system). [The Chief Justice named technology a major focus of the 2026/27 judicial year, opened on 4 September 2026](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year).
+Education statistics run on [the School Data Management System, covering pre-primary, primary, secondary and technical education](https://www.mineduc.gov.rw/fileadmin/user_upload/Mineduc/Publications/REPORTS/Education_Statistics/Education_statistical_yearbook/Final_Education_Statistical_Yearbook_23_24.pdf), and the education ministry has [introduced a digital attendance system to identify learners at risk of dropping out](https://www.newtimes.co.rw/article/32152/news/technology/new-digital-attendance-system-aims-to-curb-school-dropouts) (December 2025). In justice, [the sector and its stakeholders began using an upgraded Integrated Electronic Case Management System in January 2025](https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system). [The Chief Justice named technology a major focus of the 2026/27 judicial year, opened on 4 September 2026](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year). The health ministry's statistical booklet for 2023/24 was [compiled from the health management information system by facility level](https://www.moh.gov.rw/fileadmin/user_upload/Moh/Publications/Reports/new_annual_Report/Annual_Statistical_Booklet_Fiscal_Year_2023-2024_Final_10102025.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

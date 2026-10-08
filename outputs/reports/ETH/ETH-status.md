@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 185
+sources_cited: 186
 sections_written: 39
 not_established: 1
 acquire_lines: 67
@@ -219,7 +219,7 @@ The core systems exist. [An integrated financial management information system b
 
 Health is the deepest deployment and shows what depth is worth. [DHIS2 has been the national health information system since 2018, with automated reporting implemented at all health facilities](https://medinform.jmir.org/2024/1/e50375), yet [the deployment scored 2.81 out of 5 against the country's own 2025 target of 4.09](https://medinform.jmir.org/2024/1/e50375). [The community health information system was running in more than 7,500 health posts, with more than 20 million people registered through it](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/) (2025), [under half of the country's 17,903 health posts](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1554995/full); [health workers report carrying parallel paper and electronic records and personal liability for lost devices](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/).
 
-Education is digitising its records while most schools lack power: [digitisation of the education management information system was completed in 2024/25, and only 31.8 per cent of primary and middle schools had electricity](https://blog.atenu.org/ethiopia-education-report-2024-25/), and [a DHIS2-based education data system begun with UNICEF in November 2025 works with schools, woreda offices and zonal departments in four regions](https://education.dhis2.org/implementation/ethiopia/).
+Education is digitising its records while most schools lack power: [digitisation of the education management information system was completed in 2024/25, and only 31.8 per cent of primary and middle schools had electricity](https://blog.atenu.org/ethiopia-education-report-2024-25/), and [a DHIS2-based education data system begun with UNICEF in November 2025 works with schools, woreda offices and zonal departments in four regions](https://education.dhis2.org/implementation/ethiopia/). The health ministry [announced deployment of electronic medical information systems across 130 health facilities](https://www.ecofinagency.com/news-digital/2409-48979-ethiopia-to-modernize-medical-data-management-with-digital-rollout) (2025).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

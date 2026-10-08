@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-10-01
+compiled: 2026-10-08
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 168
+sources_cited: 169
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -233,7 +233,7 @@ Line ministries run their own sector systems: the Ministry of Labour [launched L
 
 Health data is the most heavily funded and the least complete. USAID's health systems programme [built the national health management information system and the iHRIS human-resources register, and closed in 2022](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-AID-669-C-15-00001). A [DHIS2 tracker for client-level HIV data replaced paper registers at 21 PEPFAR-supported treatment sites](https://dhis2.org/liberia-hiv-tracker/) from 2021, but facility electronic records remain [partner deployments such as OpenMRS at J.J. Dossen Hospital in Maryland County, live since July 2020](https://www.pih.org/article/pih-rolls-out-electronic-medical-records-jj-dossen-hospital-liberia), and in May 2026 the Ministry launched [a nationwide assessment of readiness for electronic medical records](https://informernewspaperliberia.com/ministry-of-health-launches-nationwide-enumerator-training-for-major-emr-readiness-assessment/) — an exercise premising that routine digital capture is not yet the norm. [A December 2025 memorandum with the United States](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) intends further funding for medical records, laboratory systems and the national health data warehouse over 2026-2030.
 
-Education is mid-transition: the Ministry [has moved from paper to a digital EMIS 2.0 and validated a costed plan in September 2025 introducing national unique learner and teacher identifiers](https://www.iped.africa/document/liberia-education-management-information-system-emis-peer-review-report), against [no school data collected between the 2022 census and the September 2025 review](https://www.iped.africa/media/Liberia_Emis_Review_Report_Final.pdf). The Revenue Authority [operates its integrated tax administration system nationwide](https://revenue.lra.gov.lr/eservices/), built out with customs and IFMIS under [a US$24 million World Bank project that closed in 2024](https://projects.worldbank.org/en/projects-operations/project-detail/P165000). Two systems reach for the national identifier: the Civil Service Agency signed a memorandum in May 2024 [to verify government payroll against national identification numbers and detect ghost workers](https://www.thenewdawnliberia.com/csa-and-nir-sign-mou-for-service-delivery/), and the pension body NASSCORP [is among the systems the registry lists with a data-sharing interface](https://id4africa.com/2024/ps2/PS2-4-Liberia-Final.pdf) (2024).
+Education is mid-transition: the Ministry [has moved from paper to a digital EMIS 2.0 and validated a costed plan in September 2025 introducing national unique learner and teacher identifiers](https://www.iped.africa/document/liberia-education-management-information-system-emis-peer-review-report), against [no school data collected between the 2022 census and the September 2025 review](https://www.iped.africa/media/Liberia_Emis_Review_Report_Final.pdf). The Revenue Authority [operates its integrated tax administration system nationwide](https://revenue.lra.gov.lr/eservices/), built out with customs and IFMIS under [a US$24 million World Bank project that closed in 2024](https://projects.worldbank.org/en/projects-operations/project-detail/P165000). Two systems reach for the national identifier: the Civil Service Agency signed a memorandum in May 2024 [to verify government payroll against national identification numbers and detect ghost workers](https://www.thenewdawnliberia.com/csa-and-nir-sign-mou-for-service-delivery/), and the pension body NASSCORP [is among the systems the registry lists with a data-sharing interface](https://id4africa.com/2024/ps2/PS2-4-Liberia-Final.pdf) (2024). A facility survey found [all 48 sampled facilities in three counties reporting on paper forms keyed by district or county clerks](https://files.givewell.org/files/DWDA%202009/Evidence_Action/Facility_Survey_Report_Liberia_Maternal%20Syphilis_2022.pdf) (2023).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

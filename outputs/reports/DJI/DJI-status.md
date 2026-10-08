@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-09-25
+compiled: 2026-10-08
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 193
+sources_cited: 194
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -349,7 +349,7 @@ Short cohorts are most of what has been delivered. [240 young Djiboutians comple
 The [EFTP digital-transformation strategy, developed from 28 May 2025 with OIF/IFEF support](https://ifef.francophonie.org/djibouti-valide-sa-strategie-nationale-de-transformation-numerique-de-leftp/), [proposes an action programme built around digital tools in learning, graduate tracking and job placement](https://ifef.francophonie.org/djibouti-valide-sa-strategie-nationale-de-transformation-numerique-de-leftp/). School-level provision is exposed on recurrent cost: the [STEM centres run on a split model, STEMpower supplying equipment and initial training, MENFOP and the host schools the premises and upkeep](http://mail.education.gov.dj/index.php?Itemid=1524&id=419%3Aceremonie-de-remise-de-kits-scolaires-et-de-machines-braille-a-l-eabs&lang=en&option=com_k2&view=item). The constraint may not be training: much of the unemployed [already hold an upper-secondary or tertiary qualification, in a majority-informal job market](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs) (2025).
 
 <!-- derived -->
-Three digital-skills instruments — E-SKILLS, IGAD's digital-trade training call and the SKILLS Project — all name women and youth as target populations, and only one has reported any outcome figure against its own target (May 2026).
+Three digital-skills instruments — E-SKILLS, IGAD's digital-trade training call and the SKILLS Project — all name women and youth as target populations, and only one has reported any outcome figure against its own target (May 2026). The Francophonie organisation and the education ministry [signed an agreement to train 200 young people in development, networks and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse) (2026).
 
 ### Research institutions
 <!-- capacity.research -->

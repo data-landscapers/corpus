@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 128
+sources_cited: 130
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -197,7 +197,7 @@ The finance and revenue back office is another matter. [A financial management i
 
 Two admissions sit inside that record. [The government human resource management information system is a hybrid of custom and commercial software but still carries manual processes and paperwork](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [the financial management system carries programme performance indicators for only some programmes rather than across the budget as a whole](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-Elsewhere the line ministries do run real systems. [OpenEMIS is the national education management information system, with student and staff profiles, attendance, enrolment and academic performance entered directly by administrators at national, zonal and school level, following a 2022 UNESCO-supported capacity-building programme for ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) (2022). Policing is mid-replacement: [the 2025-2026 budget allocates Rs 43 million to replace the Crime Occurrence Tracking System with a new police case management system and to add biometric capability to the Criminal Attribute Database, with tendering opening at the end of August 2025](https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/).
+Elsewhere the line ministries do run real systems. [OpenEMIS is the national education management information system, with student and staff profiles, attendance, enrolment and academic performance entered directly by administrators at national, zonal and school level, following a 2022 UNESCO-supported capacity-building programme for ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) (2022). Policing is mid-replacement: [the 2025-2026 budget allocates Rs 43 million to replace the Crime Occurrence Tracking System with a new police case management system and to add biometric capability to the Criminal Attribute Database, with tendering opening at the end of August 2025](https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/). The platform's country account reported [DHIS2 in use at regional and national level, with extension to district and primary care level still planned](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/) (2022).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
@@ -330,7 +330,7 @@ The state's one established use of earth observation is the land record: [the ca
 
 The clearest American commitment on the record is a soft one: [Mauritius Telecom signed a memorandum of understanding with Amazon Web Services on 16 July 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/), [aimed at skills, at helping businesses and public institutions turn ideas into solutions and at a pathway to scale for local innovators](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/), with no value and no binding deliverable disclosed. An arrangement of that shape gives the platform a standing channel into government and into the training pipeline while committing it to nothing a reader can measure later.
 
-American hardware sits further down the stack, and it reaches Mauritius through one supplier. Mauritius Telecom has attached its data-centre compute plans to NVIDIA, [saying in February 2026 that it had met the company's senior leadership while seeking accelerators](https://lexpress.mu/node/554669) and [returning to the same supplier in July](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/). On the network side, [the Prime Minister announced on 16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/), positioning the island as a digital gateway on the Asia-Africa corridor. Taken together the American footprint is an agreement, a chip supply line and an announced cable — access and dependency in prospect rather than infrastructure operated on the island.
+American hardware sits further down the stack, and it reaches Mauritius through one supplier. Mauritius Telecom has attached its data-centre compute plans to NVIDIA, [saying in February 2026 that it had met the company's senior leadership while seeking accelerators](https://lexpress.mu/node/554669) and [returning to the same supplier in July](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/). On the network side, [the Prime Minister announced on 16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/), positioning the island as a digital gateway on the Asia-Africa corridor. Taken together the American footprint is an agreement, a chip supply line and an announced cable — access and dependency in prospect rather than infrastructure operated on the island. The incumbent operator and the cloud company [held an executive workshop on cloud, data and artificial intelligence for more than 125 delegates of state-owned enterprises](https://lexpress.mu/node/563331) (2026).
 
 ### China activities
 <!-- geopol.china -->

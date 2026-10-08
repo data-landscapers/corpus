@@ -1,12 +1,12 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-09-25
+compiled: 2026-10-08
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 158
+sources_cited: 159
 sections_written: 39
 not_established: 1
 acquire_lines: 62
@@ -225,7 +225,7 @@ Above that, the systems are real. [Financial management, treasury, tax, customs,
 <!-- derived -->
 Most are built to order rather than bought in: five of the seven core systems — financial management, tax, human resources, payroll and social insurance — run custom software, against commercial off-the-shelf products for customs and debt management.
 
-The revenue side has the clearest plans for connection. [The tax administration's 2025–2027 operational plan sets actions to interconnect seventeen of its sites over the state network and to upgrade its interface with the national statistics institute](https://dgi.bf/wp-content/uploads/2025/06/Plan-daction-operationnel-2025_2027-du-PS-2023_2027-de-la-DGI.pdf), and [an integrated eCustoms payment platform launched in December 2023 is to let importers pay duties by a choice of methods](https://blogs.worldbank.org/en/africacan/burkina-faso-public-treasury-enters-age-digital-payments) (2024). Elsewhere the links are few and single-purpose: [the SIGASPE civil-service database is linked to the identity card's biometric database to authenticate anyone working as a civil servant](https://documents1.worldbank.org/curated/en/653431522763079651/ID4D-Country-Diagnostic-Burkina-Faso.pdf) (2017), [a national pupil file with online enrolment and school identity cards was under review with WURI support, progressive enrolment due from the following school year](https://www.latribunedufaso.net/?p=21538) (June 2025), and [the employment agency's online recruitment platform gives each jobseeker a unique identifier](https://www.latribunedufaso.net/?p=3358) (2021).
+The revenue side has the clearest plans for connection. [The tax administration's 2025–2027 operational plan sets actions to interconnect seventeen of its sites over the state network and to upgrade its interface with the national statistics institute](https://dgi.bf/wp-content/uploads/2025/06/Plan-daction-operationnel-2025_2027-du-PS-2023_2027-de-la-DGI.pdf), and [an integrated eCustoms payment platform launched in December 2023 is to let importers pay duties by a choice of methods](https://blogs.worldbank.org/en/africacan/burkina-faso-public-treasury-enters-age-digital-payments) (2024). Elsewhere the links are few and single-purpose: [the SIGASPE civil-service database is linked to the identity card's biometric database to authenticate anyone working as a civil servant](https://documents1.worldbank.org/curated/en/653431522763079651/ID4D-Country-Diagnostic-Burkina-Faso.pdf) (2017), [a national pupil file with online enrolment and school identity cards was under review with WURI support, progressive enrolment due from the following school year](https://www.latribunedufaso.net/?p=21538) (June 2025), and [the employment agency's online recruitment platform gives each jobseeker a unique identifier](https://www.latribunedufaso.net/?p=3358) (2021). A conference paper reported [the OpenClinic pilot at the Manga regional hospital ending in full digitisation of admissions and use of the electronic patient record across departments](https://doi.org/10.3233/shti260468) (2026).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

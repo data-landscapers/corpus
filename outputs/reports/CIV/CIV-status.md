@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 222
+sources_cited: 224
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -221,7 +221,7 @@ Health is only partly digital. [The two main disease-surveillance tools, MAGPI a
 
 Revenue administration is the strongest function on the narrowest base. [Budgetary and financial management scores 83.3 out of 100 and fourth of 54 African states in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf), while [the tax directorate put the entire taxpayer base across all non-property taxes at around 130,000 in the third quarter of 2021, roughly one taxpayer per 125 residents, a ratio it called low](https://news.abidjan.net/articles/698529/impots-ivoiriens-7436-milliards-fcfa-collectes-au-3e-trimestre-2021). [A customs management system is in use on commercial off-the-shelf software, and the treasury system is used extensively by all ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-[The civil service runs human-resource and payroll systems, and a social insurance and pension system whose primary scheme also serves public employees](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The agriculture ministry's October 2025 initiative with NEC — an e-voucher input distribution system and a farm database covering an initial 30,000 hectares — issues registered farmers ID cards carrying biometric data](https://agrotech.space/2025/10/22/nec-cote-divoire-agri-digital-project/). Policing runs [105 interconnected processing sites in the judicial and investigative services under the West African Police Information System, with urban video protection covering all 12 police prefectures](https://bilan.gouv.ci/actualite/19393).
+[The civil service runs human-resource and payroll systems, and a social insurance and pension system whose primary scheme also serves public employees](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The agriculture ministry's October 2025 initiative with NEC — an e-voucher input distribution system and a farm database covering an initial 30,000 hectares — issues registered farmers ID cards carrying biometric data](https://agrotech.space/2025/10/22/nec-cote-divoire-agri-digital-project/). Policing runs [105 interconnected processing sites in the judicial and investigative services under the West African Police Information System, with urban video protection covering all 12 police prefectures](https://bilan.gouv.ci/actualite/19393). The project's steering committee heard that [268 health establishments had been connected to the hospital information system and the computerised patient record in the first phase](https://disd.ci/digitalisation-du-systeme-de-sante-en-cote-divoire-le-comite-de-pilotage-du-projet-pape-digitalisation-fait-le-point/) (2025).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
@@ -374,7 +374,7 @@ Openness about the state's own systems is another matter. What is known about th
 
 The nearest thing to a public geospatial platform is metropolitan rather than national: a project to develop the [Geoportail du Grand Abidjan, an urban-planning data platform to be built with Japanese cooperation over 2025-2027, was launched in June 2026 to promote a smart-city approach](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance). In agriculture, a [Huawei platform to map agricultural plots, set against traceability demands in cocoa and cashew under European environmental rules, received preliminary ministerial approval in May 2026](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-eyes-huawei-partnership-to-digitize-agriculture-sector).
 
-What has moved fast is satellite communications, which is a different capability. [Orange sells satellite broadband over Eutelsat KONNECT capacity into rural areas the terrestrial network does not reach](https://www.connectingafrica.com/connectivity/orange-c-te-d-ivoire-eutelsat-launch-satellite-broadband-services) (January 2026), [MTN followed with its own KONNECT capacity deal for rural white areas](https://techafricanews.com/2026/04/24/mtn-cote-divoire-partners-eutelsat-to-boost-broadband-coverage-with-konnect-satellite-capacity/) (April 2026), and [Starlink was given a 12-month provisional licence alongside the launch of 5G](https://techafricanews.com/2026/06/15/cote-divoire-accelerates-digital-push-with-starlink-licence-and-5g-launch/) (June 2026). That is capacity to connect the territory, not capacity to observe it.
+What has moved fast is satellite communications, which is a different capability. [Orange sells satellite broadband over Eutelsat KONNECT capacity into rural areas the terrestrial network does not reach](https://www.connectingafrica.com/connectivity/orange-c-te-d-ivoire-eutelsat-launch-satellite-broadband-services) (January 2026), [MTN followed with its own KONNECT capacity deal for rural white areas](https://techafricanews.com/2026/04/24/mtn-cote-divoire-partners-eutelsat-to-boost-broadband-coverage-with-konnect-satellite-capacity/) (April 2026), and [Starlink was given a 12-month provisional licence alongside the launch of 5G](https://techafricanews.com/2026/06/15/cote-divoire-accelerates-digital-push-with-starlink-licence-and-5g-launch/) (June 2026). That is capacity to connect the territory, not capacity to observe it. The environment ministry [signed a framework memorandum with an Ivorian company to monitor land use and carbon stocks from satellite data](https://techreviewafrica.com/news/7588/x) (2026).
 
 ## Geopolitics
 

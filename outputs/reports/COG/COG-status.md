@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 135
+sources_cited: 136
 sections_written: 39
 not_established: 2
 acquire_lines: 35
@@ -196,7 +196,7 @@ The line ministries run real systems without the controls that would make their 
 
 Health and education stop at the aggregate. [Rural primary healthcare keeps patient records, registers and prescriptions on paper, with DHIS2 used for aggregate reporting at higher administrative levels only](https://documents1.worldbank.org/curated/en/997271619365476164/pdf/Congo-Republic-of-Health-Sector-Project.pdf), and [the 2021 Global Health Security Index found no electronic health record systems in use](https://ghsindex.org/wp-content/uploads/2021/12/Congo-Brazzaville.pdf), even though [the universal health insurance fund requires a fingerprint scan at the point of care, on the platform the social security fund also uses](https://www.innovatrics.com/wp-content/uploads/2025/09/CS_Multi-Tenant-Biometric-ID-Platform-Transforms-Healthcare-in-Congo_Innovatrics.pdf). [Education data systems still face gaps in collection, processing and use, and only one education ministry had set a legal framework for its data systems, in November 2023](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-07-program-document-republic-congo.pdf), and [the African Union ran a self-assessment workshop on the education management information system in Brazzaville in May 2026](http://www.au.int/en/pressreleases/20260519/congo-moves-modernize-education-data-systems-au-iped).
 
-Where systems face their own users, complaints are minuted. [The finance ministry has three standing ones against E-solde, its civil service payroll platform: data security, recurrent unavailability and a malfunctioning QR code on payslips](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326), alongside [SIPAE, through which state salaries are processed and electronic payslips issued](https://www.finances.gouv.cg/en/presentation-pay-slip-dematerialization-solution). [The national safety net programme launched in 2024 initially targets 70,000 households and individuals](https://affaires-sociales.gouv.cg/2024/08/16/lancement-du-programme-national-de-filets-sociaux/).
+Where systems face their own users, complaints are minuted. [The finance ministry has three standing ones against E-solde, its civil service payroll platform: data security, recurrent unavailability and a malfunctioning QR code on payslips](https://www.finances.gouv.cg/fr/articles/s%C3%A9ance-de-travail-sur-e-solde_200326), alongside [SIPAE, through which state salaries are processed and electronic payslips issued](https://www.finances.gouv.cg/en/presentation-pay-slip-dematerialization-solution). [The national safety net programme launched in 2024 initially targets 70,000 households and individuals](https://affaires-sociales.gouv.cg/2024/08/16/lancement-du-programme-national-de-filets-sociaux/). The World Health Organization's annual report recorded [401 data collectors equipped for electronic transmission of health data in 2025](https://afro.who.int/sites/default/files/2026-04/Rapport%20Annuel%202025%20OMS_Congo.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

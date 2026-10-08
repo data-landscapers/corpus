@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-01
+compiled: 2026-10-08
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -243,7 +243,7 @@ In health the digital layer sits above the clinic. [Rural basic health centres r
 [The education ministry's annual school census, which feeds the education management information system, is compiled manually over about six months, with a World Bank-financed programme now equipping principals with tablets for real-time reporting](https://documents1.worldbank.org/curated/en/099040125074586096/pdf/P506569-03c93c61-c7e5-4acc-b84f-07ba811417dc.pdf); [the system itself was rebuilt under PAPESI, run 2022–2024 by UNESCO and the IIEP, whose evaluation found the programme highly relevant but structurally undersized against the limited coordination inside the ministry and across the education system](https://www.iiep.unesco.org/sites/default/files/medias/files/2025/07/PAPESI_%20Rapport%20Final%20Evaluation_FR.pdf). [A permanent student identifier, the Numéro Unique d'Identification Scolaire, follows a pupil from pre-school to lycée, run by the education ministry with the UGD](https://2424.mg/education-le-suivi-scolaire-passe-a-lere-digitale-avec-le-numero-unique-didentification-pour-chaque-eleve/). In justice, [the courts run six case-management applications, Logipenal and Logicivil among them, across civil, criminal, commercial and land cases, and a digital criminal-records platform was announced on 2 June 2026, the authorities conceding the applications do not yet reach every court](https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system); [five first-instance courts, Morondava and Toamasina among them, had been fitted with computers, printers and backup power units by December 2023](https://www.undp.org/fr/madagascar/blog/la-technologie-lappui-de-la-justice), and [police custody is still recorded by hand in a paper register](https://www.apt.ch/sites/default/files/publications/Garde%20a%20vue%20a%20Madagascar%20-Web%20version.pdf).
 
 <!-- derived -->
-At least six distinct sectoral information systems are in service or in rollout across Madagascar's line ministries and agencies, each with its own sponsoring institution.
+At least six distinct sectoral information systems are in service or in rollout across Madagascar's line ministries and agencies, each with its own sponsoring institution. A press account reported [two university hospitals chosen as pilot sites for the hospital digitalisation project](https://www.2424.mg/news/deux-sites-pilotes-ont-ete-choisis-pour-demarrer-le-projet-de-digitalisation-des-hopitaux/) (2025).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

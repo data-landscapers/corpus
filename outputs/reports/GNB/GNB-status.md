@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-09-27
+compiled: 2026-10-08
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 159
+sources_cited: 160
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -237,7 +237,7 @@ The education system's data rests on a project with an end date. [The SIGE is be
 [SIGDAJ, the justice information and data management system, was built inside the Ministry of Justice and Human Rights by the ministry's own ICT director](https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-learning-what-works-or-not) and [tested on paper records from the Buba tribunal, the criminal register and the Centro de Acesso à Justiça, alongside a justice-sector adaptation of DHIS2, where digitising cases directly into it produced real-time statistics in place of counting cases in Microsoft Word](https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-learning-what-works-or-not) (2023). [Digitisation across justice and security remains concentrated at the ministry, the judiciary and the urban Transnational Crime Unit rather than at rural police stations](https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-going-digital-can-improve-access-justice), and [rural police stations keep their records on paper](https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-going-digital-can-improve-access-justice).
 
 <!-- derived -->
-Five domains have a named management information system — health, education, justice, criminal information and civil registration — and each rests on a donor project, a regional programme or in-house ministry work rather than on an establishing decree or law; the one sector with a founding instrument, land, has no evidence of a running system.
+Five domains have a named management information system — health, education, justice, criminal information and civil registration — and each rests on a donor project, a regional programme or in-house ministry work rather than on an establishing decree or law; the one sector with a founding instrument, land, has no evidence of a running system. The public health institute's yearbook counted [1,747 of 2,073 expected health-centre monthly reports entered for 2022, 82.2%](https://www.afro.who.int/sites/default/files/2024-05/Anu%C3%A1rio%20estat%C3%ADstico%202022_web.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

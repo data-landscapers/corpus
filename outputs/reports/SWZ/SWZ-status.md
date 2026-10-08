@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 160
+sources_cited: 161
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -341,7 +341,7 @@ The mobile network reaches most of Eswatini and most of Eswatini does not use it
 
 The lines the divide follows are older than the network. [Urban households had electricity at rates well above rural ones](https://www.indexmundi.com/facts/eswatini/indicator/EG.ELC.ACCS.UR.ZS) (2020); [the rural economy fell further over 2014-2023 than any other sub-category of the governance index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf), and [equality in education went backwards over the same decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf). Where a digital service has reached rural areas it has usually been mobile money — [MTN MoMo and e-Mali reach places banks do not, though an urban-rural gap in use persists](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Mobile+money+drives+financial+inclusion+growth&bvhdgsj=Business+and+Economy&yiphi=435) (August 2025) — while [most person-to-business payments are still made in cash](https://www.biometricupdate.com/202508/robust-dpi-inevitable-for-eswatinis-economic-jobs-boom-world-bank) (2025). [Satellite capacity is now being marketed at remote schools and clinics](https://itweb.africa/article/recently-launched-paratus-eswatini-aims-to-drive-starlink-business-tech-adoption/j5alr7QAOeQ7pYQk) (July 2025).
 
-The floor beneath all of it is what people can do with a connection and what they can afford to do it for. [Far more young people enter the labour market each year than the formal economy has jobs for](https://independentnews.co.sz/38043/opinion/columns/the-absent-agenda-eswatinis-digital-imperative-and-the-prime-ministers-year-end-address/) (January 2026), against [an internet-and-computers score that improved sharply over the decade and still sits below the halfway mark](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf) (2023). The state's answer to the smartphone divide is drawn but not built: [the Digital Eswatini programme plans USSD-based government services so that citizens without smartphones can transact](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) (June 2026).
+The floor beneath all of it is what people can do with a connection and what they can afford to do it for. [Far more young people enter the labour market each year than the formal economy has jobs for](https://independentnews.co.sz/38043/opinion/columns/the-absent-agenda-eswatinis-digital-imperative-and-the-prime-ministers-year-end-address/) (January 2026), against [an internet-and-computers score that improved sharply over the decade and still sits below the halfway mark](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf) (2023). The state's answer to the smartphone divide is drawn but not built: [the Digital Eswatini programme plans USSD-based government services so that citizens without smartphones can transact](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) (June 2026). The regional alliance [opened a workshop to pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/) (2026).
 
 ## Data
 

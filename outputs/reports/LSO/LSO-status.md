@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-09-30
+compiled: 2026-10-08
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 180
+sources_cited: 181
 sections_written: 39
 not_established: 3
 acquire_lines: 31
@@ -219,7 +219,7 @@ Education is a stage behind. The Ministry of Education and Training began buildi
 
 Policing and transport are at the same point. Lesotho launched a [police digital transformation policy and strategy alongside an ICT enablement initiative equipping stations for digital incident reporting in April 2026](https://www.undp.org/lesotho/news/lesotho-advances-digital-and-strategic-policing-launch-lehokela-app-policy-frameworks-and-ict-initiative), while rural stations [still keep occurrence books, custody logs and dockets on paper](https://lestimes.com/?p=90165); road accidents began moving off the manual LMPS 29 form with [training of Thaba-Tseka police on the Road Accident Management System in February 2026](https://lesotho.co.ls/2026/02/ministry-of-public-works-and-transport-trains-thaba-tseka-police-on-online-road-accident-mapping/).
 
-Revenue administration is the most digitised function and the one whose measured performance has fallen furthest: [both fiscal administration indicators dropped by around 18 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf), tax and revenue mobilisation to 73.4 of 100 and budgetary and financial management to 44.4. Revenue Services Lesotho registers individuals and businesses under a [single taxpayer number used across income tax, customs and excise, and VAT](https://www.rsl.org.ls/registrationde-registration) (2023), and invoice-level electronic reporting [gained its legal basis in March 2026](https://www.rsl.org.ls/sites/default/files/2026-04/VAT%20-%20E-Invoicing%20Regulations%20No.25%20of%202026%20%283%29_0.pdf).
+Revenue administration is the most digitised function and the one whose measured performance has fallen furthest: [both fiscal administration indicators dropped by around 18 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf), tax and revenue mobilisation to 73.4 of 100 and budgetary and financial management to 44.4. Revenue Services Lesotho registers individuals and businesses under a [single taxpayer number used across income tax, customs and excise, and VAT](https://www.rsl.org.ls/registrationde-registration) (2023), and invoice-level electronic reporting [gained its legal basis in March 2026](https://www.rsl.org.ls/sites/default/files/2026-04/VAT%20-%20E-Invoicing%20Regulations%20No.25%20of%202026%20%283%29_0.pdf). The ministry's HIV programme reported [231 facilities reporting through the platform, the reporting rate falling from 97% in January to 95% in September 2025](https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 156
+sources_cited: 157
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -226,7 +226,7 @@ More than 1,500 Sierra Leonean health facilities file weekly disease-surveillanc
 
 Revenue administration is the exception that works and the one that uses the identity number: the [Integrated Tax Administration System is deployed nationwide as the taxpayer register](https://portal.nra.gov.sl/), and its taxpayer numbers are [issued against a National Identification Number](https://mail.nra.gov.sl/taxpayer-identification-number). Customs runs ASYCUDA and the budget IFMIS, both [standalone](https://wbgeprocure-rfxnow.worldbank.org/rfxnow/waffle/upload/advertisementAttachment/603116/file.html).
 
-Justice and policing are at blueprint stage. An [e-Justice Blueprint launched in March 2025](https://forumnews-sl.com/sierra-leones-justice-sector-embraces-digital-transformation/) frames the digitisation of case management, court processes and legal documentation, with a consulting team scoping the work as of May 2025 and court records exchanged with no other government system. [Rural police stations record cases and complaints entirely on paper](https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf) — occurrence books, dockets and manually filed dossiers — with the force's 2025-2029 strategic plan providing for a digital records system including e-Case Management from 2026, while a [2025 partnership with the Directorate of Science, Technology and Innovation](https://ayvnews.com/dsti-police-partner-to-digitise-human-resource-processes/) digitises police human resource and payroll administration rather than case recording. On the employment side the [Labour Market Information System runs as a standalone platform](https://lmis.moelss.gov.sl/) connected to no government-wide exchange.
+Justice and policing are at blueprint stage. An [e-Justice Blueprint launched in March 2025](https://forumnews-sl.com/sierra-leones-justice-sector-embraces-digital-transformation/) frames the digitisation of case management, court processes and legal documentation, with a consulting team scoping the work as of May 2025 and court records exchanged with no other government system. [Rural police stations record cases and complaints entirely on paper](https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf) — occurrence books, dockets and manually filed dossiers — with the force's 2025-2029 strategic plan providing for a digital records system including e-Case Management from 2026, while a [2025 partnership with the Directorate of Science, Technology and Innovation](https://ayvnews.com/dsti-police-partner-to-digitise-human-resource-processes/) digitises police human resource and payroll administration rather than case recording. On the employment side the [Labour Market Information System runs as a standalone platform](https://lmis.moelss.gov.sl/) connected to no government-wide exchange. The health ministry issued [the national digital health strategy for 2018 to 2023](https://mohs.gov.sl/download/50/policy-documents/17822/sl-national-digital-health-strategy-nov-2018.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

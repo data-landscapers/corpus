@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 215
+sources_cited: 216
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -220,7 +220,7 @@ The line ministries have built quickly and separately. [The health ministry has 
 The core financial back office is further behind the sectoral systems. [The civil service human resource system runs on custom software with manual paperwork still in the process, and the government payroll system is still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), as is [the treasury single account, used by only some ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Below the national platforms, [rural clinics were still keeping handwritten patient folders and paper appointment books into 2026](https://algeriatech.news/fr/algeria-healthtech-startups-digital-health-wave-2026-fr/).
 
 <!-- derived -->
-Of the ten core government back-office systems the World Bank's GovTech Maturity Index assesses, Algeria had seven in use, two still being implemented and one absent as at 2025.
+Of the ten core government back-office systems the World Bank's GovTech Maturity Index assesses, Algeria had seven in use, two still being implemented and one absent as at 2025. The health ministry [held a day for the adoption of its national digital health strategy](https://www.maghrebinfo.dz/2023/11/08/sante-adoption-de-la-strategie-nationale-de-numerisation/).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-10-05
+compiled: 2026-10-08
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 147
+sources_cited: 148
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -215,7 +215,7 @@ Behind the payroll, the core financial machinery is unbuilt. [The Financial Mana
 
 What does run, runs alone. [A customs management information system is in use on off-the-shelf software, with customs and tax administration unmerged and no governance arrangements covering compliance, security or audit trails](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); [a public investment management system publishes no project database and no results](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); [a social insurance and pension system covering public sector pensions does not use the national identification number even as a secondary identifier](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); and [the Tax Authority launched a Unified Tax System in December 2025 with no published figure for how many taxpayers sit on it](https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role-recent-high-revenue-collection-rates-commended/).
 
-Health and education run reporting layers over paper. [Medical records in primary healthcare clinics remain paper-based, health management information systems are not in routine use nationally or locally, and the absence of interoperable electronic health records is a critical weakness](https://pmc.ncbi.nlm.nih.gov/articles/PMC11167861/); [the health ministry and WHO were weighing an extension of DHIS2 to pharmacy management, supply forecasting and service monitoring in November 2025](https://libyareview.com/60731/libya-who-review-expansion-of-national-digital-health-system/); [the Education Management Information System, launched with UNICEF in July 2024, collects data on schools, students and staff](https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef), while [rural primary schools keep student, attendance and staff records on paper](https://reliefweb.int/attachments/54655ecb-1471-4fca-a42b-cc1f1a0a717f/LBY2205_JENA_Report_English.pdf). [The Attorney General's Office has digitised 400,000 case archives and runs its own prosecution system](https://staging2.libyaherald.com/2023/10/attorney-generals-office-announces-the-digitisation-of-400000-case-archives).
+Health and education run reporting layers over paper. [Medical records in primary healthcare clinics remain paper-based, health management information systems are not in routine use nationally or locally, and the absence of interoperable electronic health records is a critical weakness](https://pmc.ncbi.nlm.nih.gov/articles/PMC11167861/); [the health ministry and WHO were weighing an extension of DHIS2 to pharmacy management, supply forecasting and service monitoring in November 2025](https://libyareview.com/60731/libya-who-review-expansion-of-national-digital-health-system/); [the Education Management Information System, launched with UNICEF in July 2024, collects data on schools, students and staff](https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef), while [rural primary schools keep student, attendance and staff records on paper](https://reliefweb.int/attachments/54655ecb-1471-4fca-a42b-cc1f1a0a717f/LBY2205_JENA_Report_English.pdf). [The Attorney General's Office has digitised 400,000 case archives and runs its own prosecution system](https://staging2.libyaherald.com/2023/10/attorney-generals-office-announces-the-digitisation-of-400000-case-archives). The health reform centre [launched a health number system presented as the route to the electronic health file](https://libyaherald.com/2024/01/national-comprehensive-health-care-programme-and-health-number-system-launched/).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-10-02
+compiled: 2026-10-08
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 133
+sources_cited: 134
 sections_written: 39
 not_established: 4
 acquire_lines: 39
@@ -198,7 +198,7 @@ Mauritania's sectoral information systems digitise above the point of service ra
 
 Where systems are being built, they are being built at the centre. [The health solidarity fund CNASS launched digital services for policyholders on the Khidmati platform in May 2026, with claims filed online and a 48-hour handling commitment](https://ami.mr/fr/archives/295101). A [National e-Health Strategy for 2024–2030, launched in October 2025, sets out a national vaccination database, an E-CNAM digital health insurance platform and expanded telemedicine](https://www.ecofinagency.com/news-digital/0512-51162-mauritania-accelerates-digital-transformation-of-health-system). Social protection has the working data spine: [the Tekavoul cash-transfer programme identifies and enrols beneficiaries through civil-registration-linked identification drawn from the Social Register](https://www.alliance-sahel.org/en/an-inclusive-social-protection-system-in-mauritania/).
 
-In revenue and justice the constraint is administrative rather than technical. The tax authority's [2025–2029 strategic plan sets out planned work to interface its information system with other public bodies and to generalise electronic filing and payment](https://impots.gov.mr/DGI/files/Plan%20Startegique%202025-2029.pdf). Public financial management has meanwhile been going backwards: [budgetary and financial management fell 7.0 points to 59.7 of 100 over 2014–2023 in the 2024 Ibrahim Index, one of the ten most deteriorated Mauritanian measures, and tax and revenue mobilisation fell 2.7 points to 53.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). [Criminal record certificates went online in March 2025 through the Houwiyeti application](https://mtnima.gov.mr/fr/mauritanie-digitalisation-du-casier-judiciaire-et-lancement-de-son-acces-en-ligne/), covering national judicial records rather than case management at individual posts: [case files, complaints and arrest statements at rural gendarmerie and police posts are written by hand, at posts that often lack reliable electricity or office equipment, and detainee records were found poorly maintained](https://www.state.gov/wp-content/uploads/2023/02/415610_MAURITANIA-2022-HUMAN-RIGHTS-REPORT.pdf) (2023).
+In revenue and justice the constraint is administrative rather than technical. The tax authority's [2025–2029 strategic plan sets out planned work to interface its information system with other public bodies and to generalise electronic filing and payment](https://impots.gov.mr/DGI/files/Plan%20Startegique%202025-2029.pdf). Public financial management has meanwhile been going backwards: [budgetary and financial management fell 7.0 points to 59.7 of 100 over 2014–2023 in the 2024 Ibrahim Index, one of the ten most deteriorated Mauritanian measures, and tax and revenue mobilisation fell 2.7 points to 53.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf) (2023). [Criminal record certificates went online in March 2025 through the Houwiyeti application](https://mtnima.gov.mr/fr/mauritanie-digitalisation-du-casier-judiciaire-et-lancement-de-son-acces-en-ligne/), covering national judicial records rather than case management at individual posts: [case files, complaints and arrest statements at rural gendarmerie and police posts are written by hand, at posts that often lack reliable electricity or office equipment, and detainee records were found poorly maintained](https://www.state.gov/wp-content/uploads/2023/02/415610_MAURITANIA-2022-HUMAN-RIGHTS-REPORT.pdf) (2023). The state news agency reported [the Sebkha health centre presented as a pilot that had digitised its patients' records](https://ami.mr/fr/archives/209725) (2022).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

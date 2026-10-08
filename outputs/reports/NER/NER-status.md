@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 140
+sources_cited: 141
 sections_written: 39
 not_established: 2
 acquire_lines: 33
@@ -208,7 +208,7 @@ Other registers are partial too. The [business register has been held electronic
 
 Revenue administration is the oldest and deepest of the sectoral systems: [customs has run Sydonia World since April 2016](https://finances.gouv.ne/index.php/direction-services/administration-centrale/99-site/actualites/231-l-inauguration-officielle-du-demarrage-du-systeme-sydonia-world-par-le-ministre-des-finances-m-saidou-sidibe-le-mercredi-13-avril-2016), and the [tax administration has run computerised taxpayer registration, unique taxpayer identification and central management of declarations and payments through its AFP and SISIC systems since 1996](https://www.impots.gouv.ne/index.php/informatisation). Elsewhere the digital layer sits above paper. The [health management information system runs on DHIS2 but works as an aggregate reporting platform fed by paper tallies from facilities rather than a point-of-care record, with the sector fragmented across more than thirty siloed digital platforms (2025)](https://joghep.scholasticahq.com/article/144373-integrating-specialised-services-into-primary-health-care-in-niger-from-fragmentation-to-coordination). [Education statistics come from an annual paper school census completed by school heads and gathered through regional directorates before central entry into the STATEDUC application, with no digital capture at school level and rural schools lacking the electricity and connectivity to do it (2025)](https://www.stat-niger.org/wp-content/uploads/publication_sectorielle/annuaire/MEN/Annuaire_MENAFPPLN_2024_2025_vf.pdf). The [Gendarmerie's central case-file and search registry still operates on physical index cards (2023)](http://www.gendarmerie-nationale.defense.gouv.ne/organisation).
 
-[Public financial management is Niger's strongest administrative measure on the Ibrahim Index and is losing ground: Budgetary & Financial Management scored 73.6 out of 100 in 2023, twelfth of 54 African states and down 7.0 points over the decade, while Tax & Revenue Mobilisation sat at 41.8, thirtieth of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf).
+[Public financial management is Niger's strongest administrative measure on the Ibrahim Index and is losing ground: Budgetary & Financial Management scored 73.6 out of 100 in 2023, twelfth of 54 African states and down 7.0 points over the decade, while Tax & Revenue Mobilisation sat at 41.8, thirtieth of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf). The health ministry's monitoring guide set [every health establishment to key its own monthly report into DHIS2](https://p4h.world/app/uploads/2024/02/Guide-de-suivi-evaluation-du-PDSS_2022-2026_MoH_2023.x69485.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

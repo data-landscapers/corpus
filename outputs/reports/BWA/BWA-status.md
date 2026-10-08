@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 174
+sources_cited: 175
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -266,7 +266,7 @@ The government's own payroll portal is offline over data protection. [The Inform
 
 Where the next model comes from is being decided in public and in the presence of vendors. [President Boko visited e-Estonia during a state visit in May 2025 to examine how the Estonian e-governance model improved service delivery and transparency](https://techafricanews.com/2025/05/22/president-duma-gideon-boko-highlights-digital-transformation-lessons-on-estonia-state-visit/), [Rwanda's Irembo discussed digital governance, sovereign infrastructure and citizen-centred delivery at a Rwanda-Botswana business forum in May 2026](https://techreviewafrica.com/news/5357/irembo-joins-rwanda-botswana-business-forum-to-discuss-digital-government-collaboration), and [China's ambassador offered Chinese artificial intelligence, e-government and big-data public-health cooperation in a signed newspaper article in August 2026 that named no Botswanan project, counterparty, sum, date or instrument](http://www.focac.org/zfzs/202608/t20260824_12009277.htm).
 
-[Parliament runs Botswana Speaks, whose uSpeak and Speak4Yourself channels take structured public feedback to legislators (2026)](https://botswanaspeaks.gov.bw/about).
+[Parliament runs Botswana Speaks, whose uSpeak and Speak4Yourself channels take structured public feedback to legislators (2026)](https://botswanaspeaks.gov.bw/about). A newspaper reported [the transport ministry extending permits and clearing vehicles by hand after a systems outage at the road transport department](https://www.sundaystandard.info/the-system-is-down-not-the-road-traffic-act/) (2026).
 
 ## Digitalisation
 

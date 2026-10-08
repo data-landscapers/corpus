@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-10-05
+compiled: 2026-10-08
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 158
+sources_cited: 159
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -202,7 +202,7 @@ Half of the ten core back-office government systems tracked are in use — finan
 
 In the line ministries the systems are national at the top and paper at the bottom. The [health management information system runs on DHIS2, with almost all health districts reporting into it (2022)](https://dhis2.org/chad-hmis-transition/), while [rural clinics record consultations in paper registers and on paper forms that are entered electronically only at district level (2024)](https://www.swisstph.ch/fileadmin/user_upload/SwissTPH/Documents/Institute/SCIH/Swiss_TPH_SysRef_satisfaction_survey_poster_VF_27Apr24.pdf). The [education management information system has collected data from schools since 2009 and produces an annual statistical yearbook whose contents do not reliably reach school principals or local inspectors (2026)](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making); its functions have been [decentralised to 16 of 23 provinces across a system of 12,863 primary schools (2025)](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making), and the returns move on paper, [the questionnaires printed in five copies and carried down and back up through provincial delegation, departmental inspectorate and zone inspectorate to the school directors](https://www.educationcannotwait.org/sites/default/files/2022-03/Strengthening%20Education%20Management%20Information%20Systems%20%28EMIS%29%20and%20Data%20for%20Increased%20Resilience%20to%20Crisis_%20country%20case%20study_%20Chad.pdf) (2021).
 
-Justice and policing are at pilot stage. An [e-Justice platform launched with United Nations development support in October 2025 links litigants and lawyers to the judicial system through a public extranet and an intranet for judicial staff, with N'Djamena as its pilot jurisdiction](https://tribuneechos.com/e-justice-tchad-le-ministere-de-la-justice-lance-une-plateforme-dechange-numerique/), and the [EU-funded, INTERPOL-implemented police information system was still renovating its data collection centre and rolling out fingerprint identification in mid-2025, with the project extended to December 2025](https://www.alwihdainfo.com/Tchad-Le-SIPT-en-phase-finale-pour-renforcer-la-securite-interieure-et-regionale_a142249.html).
+Justice and policing are at pilot stage. An [e-Justice platform launched with United Nations development support in October 2025 links litigants and lawyers to the judicial system through a public extranet and an intranet for judicial staff, with N'Djamena as its pilot jurisdiction](https://tribuneechos.com/e-justice-tchad-le-ministere-de-la-justice-lance-une-plateforme-dechange-numerique/), and the [EU-funded, INTERPOL-implemented police information system was still renovating its data collection centre and rolling out fingerprint identification in mid-2025, with the project extended to December 2025](https://www.alwihdainfo.com/Tchad-Le-SIPT-en-phase-finale-pour-renforcer-la-securite-interieure-et-regionale_a142249.html). A press account reported [the national digital health strategic plan for 2025 to 2030 validated at a meeting led by the health minister](https://www.tchadvision.com/lancement-dun-plan-strategique-ambitieux-pour-la-sante-numerique/) (2024).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

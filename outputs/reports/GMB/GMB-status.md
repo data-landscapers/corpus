@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 211
+sources_cited: 214
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -220,7 +220,7 @@ Customs is the digitised end of revenue. [The deployed stack comprises ASYCUDA W
 
 The sectoral systems are further along than the links between them. [The Ministry of Basic and Secondary Education has run a DHIS2-based education management information system since 2018](https://dhis2.org/gambia-emis-tracker/) and [the SEMIS App was scaled nationally by 2021, capturing learner data on offline-capable devices](https://education.dhis2.org/implementation/the-gambia/); [the Health Management Information System identifies patients by the national identification number generated at civil registration](https://www.biometricupdate.com/202208/the-gambia-launches-new-biometric-crvs-and-health-insurance-scheme); and [the two ministries signed a memorandum of understanding in July 2026 to link them, with the integration not yet operational](https://gambiana.com/mobse-and-health-ministry-sign-deal-to-link-education-and-health-data-systems/). [Immunisation and child-health data at Smart Paper Technology facilities is still entered on structured paper forms, then scanned and synchronised with DHIS2](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia/) (2025).
 
-Policing still runs on paper. [The Inspector General of Police confirmed publicly in March 2026 that the force still documents its work on paper](https://standard.gm/police-must-transition-from-paper-documentation-to-digitalised-mode-igp/), and [its own arrest and detention procedure prescribes paper instruments alone, naming no digital case-recording tool](https://ons.gov.gm/security-legislation/wp-content/uploads/2022/05/GPF-DCAF-ARREST-AND-DETENTION-MANUAL.pdf). Elsewhere [a DHIS2-based platform tracking the national development plan across ministries was built with European Union funding of EUR 493,346](https://www.eeas.europa.eu/delegations/gambia/european-union-supports-digital-tracking-system-boost-transparency-gambia_en), covering 237 indicators across the plan's seven pillars, and [a Labour Market and Migration Information System linked to the job centres was not yet fully operational](https://foroyaa.net/150000-jobs-promised-but-weak-tracking-systems-leave-government-without-answers/) (2026).
+Policing still runs on paper. [The Inspector General of Police confirmed publicly in March 2026 that the force still documents its work on paper](https://standard.gm/police-must-transition-from-paper-documentation-to-digitalised-mode-igp/), and [its own arrest and detention procedure prescribes paper instruments alone, naming no digital case-recording tool](https://ons.gov.gm/security-legislation/wp-content/uploads/2022/05/GPF-DCAF-ARREST-AND-DETENTION-MANUAL.pdf). Elsewhere [a DHIS2-based platform tracking the national development plan across ministries was built with European Union funding of EUR 493,346](https://www.eeas.europa.eu/delegations/gambia/european-union-supports-digital-tracking-system-boost-transparency-gambia_en), covering 237 indicators across the plan's seven pillars, and [a Labour Market and Migration Information System linked to the job centres was not yet fully operational](https://foroyaa.net/150000-jobs-promised-but-weak-tracking-systems-leave-government-without-answers/) (2026). The national health policy described [the health management information system as paper at facilities and electronic at the seven regional directorates and the ministry](https://moh.gov.gm/wp-content/uploads/2026/05/FINAL-NATIONAL-HEALTH-POLICY_28-FEB-2024.pdf). The main referral hospital [launched a pilot of an electronic medical record developed by the medical research unit](https://thepoint.gm/africa/gambia/national-news/efsth-launches-emr-system) (2023).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
@@ -350,7 +350,7 @@ Measurement is arriving from outside. [The World Bank released Gambian microdata
 
 The divide that is measured is geographic. [The national digital economy masterplan records internet use in urban areas at almost twice the rural rate and extends the fibre backbone outward from the Greater Banjul Area](https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf). The services that digital access rests on show the same shape, in [the gap between urban and rural electricity access](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=GM) and in [the small minority of schools with internet for teaching or computers for pedagogical use](https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf).
 
-Intervention on the gender divide is recent and thin. [In October 2025 the Ministry of Communications and Digital Economy launched a project with the Digital Cooperation Organization to support women-owned small businesses with digital skills and business capacity](https://www.kerrfatou.com/government-launches-we-elevate-project-to-empower-women-in-the-digital-economy/).
+Intervention on the gender divide is recent and thin. [In October 2025 the Ministry of Communications and Digital Economy launched a project with the Digital Cooperation Organization to support women-owned small businesses with digital skills and business capacity](https://www.kerrfatou.com/government-launches-we-elevate-project-to-empower-women-in-the-digital-economy/). The regional alliance [opened a workshop to pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/) (2026).
 
 ## Data
 

@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-10-03
+compiled: 2026-10-08
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 137
+sources_cited: 138
 sections_written: 39
 not_established: 4
 acquire_lines: 38
@@ -208,7 +208,7 @@ Health is the deepest deployment and still a thin one. The national platform is 
 
 Education is further back: [the national Education Management Information System collects school data once a year, and headteachers still sort and file the underlying school records by hand](https://www.globalpartnership.org/blog/somalia-better-data-management-system-improving-education) (2024). Justice gained a system in 2025: an [Integrated Electronic Case Management System launched on 9 October 2025 with US funding and IDLO support, linking the Criminal Investigation Department, the Attorney General's Office, the Supreme Court, Benadir regional and appeal courts and Mogadishu Central Prison on one digital platform, with deployment phased rather than nationwide](https://sonna.so/en/somalia-launches-groundbreaking-electronic-case-management-system-to-revolutionize-justice-sector/).
 
-Public financial management is where the measured improvement sits: on the Ibrahim Index, [Tax and Revenue Mobilisation rose 22.2 points over 2014-2023 to 34.7 out of 100, 40th of 54, and Budgetary and Financial Management 20.8 points to 37.5, 46th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf).
+Public financial management is where the measured improvement sits: on the Ibrahim Index, [Tax and Revenue Mobilisation rose 22.2 points over 2014-2023 to 34.7 out of 100, 40th of 54, and Budgetary and Financial Management 20.8 points to 37.5, 46th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf). The health ministry's quarterly bulletin counted [579 public health facilities reporting to DHIS2 in July to September 2023, against 532 a year earlier](https://moh.gov.so/so/wp-content/uploads/2023/12/Quarterly-Healtrh-Statistics-Bulletin.-final_signed.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

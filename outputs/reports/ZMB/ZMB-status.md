@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 159
+sources_cited: 160
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -224,7 +224,7 @@ Health runs the widest sectoral deployment in Zambian government, and it stops w
 <!-- derived -->
 All ten core back-office systems the GovTech Maturity Index tracks are in place, nine of them in use — financial management, the treasury single account, tax, customs, human resources, payroll, social insurance, electronic procurement and public debt — with public investment management still being implemented (2025). Of the eight whose software type is recorded, six are commercial off-the-shelf products; only the tax system and the public investment system are custom-built.
 
-The financial management system is [extensively used at central government level, covering treasury execution and budget preparation, and exchanges data with other systems through dedicated interfaces and the service bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) — central government only, which leaves councils off it. Customs is connected the same two ways, and the civil service runs [off-the-shelf human resource and payroll systems, with most HR services online or digitised](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Revenue Authority's [Smart Invoice electronic invoicing interfaces with the road transport agency, the company register and the business identification system](https://ictaz.org.zm/wp-content/uploads/2025/05/ZRA-Smart-Invoice.pdf) (2025), and the health record system now [accepts a fingerprint checked against the national identity system in place of a physical card, though not everywhere and not as a requirement](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration/) (2026). [Beneficiary verification for the Keeping Girls in School programme has moved from paper forms to a tablet application on which each girl signs for herself](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/).
+The financial management system is [extensively used at central government level, covering treasury execution and budget preparation, and exchanges data with other systems through dedicated interfaces and the service bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) — central government only, which leaves councils off it. Customs is connected the same two ways, and the civil service runs [off-the-shelf human resource and payroll systems, with most HR services online or digitised](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The Revenue Authority's [Smart Invoice electronic invoicing interfaces with the road transport agency, the company register and the business identification system](https://ictaz.org.zm/wp-content/uploads/2025/05/ZRA-Smart-Invoice.pdf) (2025), and the health record system now [accepts a fingerprint checked against the national identity system in place of a physical card, though not everywhere and not as a requirement](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration/) (2026). [Beneficiary verification for the Keeping Girls in School programme has moved from paper forms to a tablet application on which each girl signs for herself](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/). A country analysis found [99% of expected monthly facility reports in DHIS2 in 2024, against 93% in 2019](https://data.gffportal.org/sites/default/files/2025-09/Zambia-COUNTDOWN.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

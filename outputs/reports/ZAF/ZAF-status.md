@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-10-07
+compiled: 2026-10-08
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 264
+sources_cited: 266
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -229,7 +229,7 @@ The unified front door is still being built. [MyMzansi, the single national port
 
 Home Affairs has shipped faster at the border than at home. [The Electronic Travel Authorisation, now the flagship of its digital programme, went live nationally at OR Tambo in August 2026, extending to all qualifying countries from September and all visa types by year-end](https://www.itweb.co.za/article/wheels-up-for-electronic-travel-authorisation-visas/G98Yd7LGNKQvX2PD), [running machine-learning document checks, facial recognition and rules-based automated decisions with no human review](https://visasnews.com/en/south-africa-makes-the-eta-the-cornerstone-of-its-visa-reform/); the department [said in October 2026 that a human is brought in where the system detects an anomaly](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8). It is [live at four airports — OR Tambo, Cape Town, King Shaka and Lanseria — from 12 August 2026, with 6,126 fraudulent applications rejected, put at 2.8% of pilot submissions](https://www.itweb.co.za/article/digital-travel-system-takes-off-at-four-sa-airports/O2rQGqAERbnqd1ea). The department publishes no statistical series, and the four rejection counts given during 2026 rest on bases that do not reconcile.
 
-The older estate works. [eHomeAffairs lets citizens authenticate with an identity number and a one-time password and apply for Smart IDs and passports](https://ehome.dha.gov.za/ehomeaffairs), [eFiling is the main channel for filing and managing tax](https://www.sarsefiling.co.za/), and [the national service portal is in use at transactional maturity, meaning services can be started and completed online](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); [South Africa ranked 40th of 193 on the UN E-Government Development Index in 2024, entering its "very high" group for the first time](https://desapublications.un.org/sites/default/files/publications/2024-09/%28Web%20version%29%20E-Government%20Survey%202024%201392024.pdf). Against that, [Operation Vulindlela records that modernisation of the Gov.za portal was unblocked only once the institutional arrangements delaying it were resolved, and concedes progress has been uneven and in places slower than anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf). [The state IT agency moved from a qualified audit opinion on 2024/25 to an unqualified one for 2025/26, on the minister's reply to Parliament](https://pmg.org.za/committee-question/41100/).
+The older estate works. [eHomeAffairs lets citizens authenticate with an identity number and a one-time password and apply for Smart IDs and passports](https://ehome.dha.gov.za/ehomeaffairs), [eFiling is the main channel for filing and managing tax](https://www.sarsefiling.co.za/), and [the national service portal is in use at transactional maturity, meaning services can be started and completed online](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); [South Africa ranked 40th of 193 on the UN E-Government Development Index in 2024, entering its "very high" group for the first time](https://desapublications.un.org/sites/default/files/publications/2024-09/%28Web%20version%29%20E-Government%20Survey%202024%201392024.pdf). Against that, [Operation Vulindlela records that modernisation of the Gov.za portal was unblocked only once the institutional arrangements delaying it were resolved, and concedes progress has been uneven and in places slower than anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf). [The state IT agency moved from a qualified audit opinion on 2024/25 to an unqualified one for 2025/26, on the minister's reply to Parliament](https://pmg.org.za/committee-question/41100/). The electoral commission [opened its results system to audit by experts designated by four parties, after an independent external audit](https://www.sanews.gov.za/south-africa/local-government-election-results-system-audit-gets-underway) (2026). The health department [issued a bid for three years' hosting and support of the district health information system, run as nine provincial instances](https://www.health.gov.za/wp-content/uploads/2026/07/Advert-NDOH-09-2026-27.pdf).
 
 ## Digitalisation
 
