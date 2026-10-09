@@ -121,4 +121,4 @@ One JSON built at render, `site/maturity/data/maturity.json`: per indicator, its
 ## 13. Still open
 
 - **Legend lines.** The five one-line descriptions paraphrase the archived §3 table's *instruments and systems* column; if that table changes for the new method, they change with it.
-- **Stage history.** No snapshot history exists yet, so every cell reads *First assessment* and the changes box is empty; both read `maturity-history.csv` once the second snapshot is cut.
+- **Stage history** is `outputs/maturity/{id}/history.csv`, written by `MATURITY-UPDATE.md`: every reassessment, moved or not *(Bill, 2026-10-09)*. A cell with none reads *First assessment*.

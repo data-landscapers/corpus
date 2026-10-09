@@ -80,6 +80,10 @@ python scripts/lint-scope.py                               # the whole backlog
 
 **`DATASET-UPDATE.md` is the procedure**: the same set difference as stage 4, over the Data Centres dataset instead of a ledger. A night's arrivals are one packet.
 
+## Stage 4c — maturity studies (model authoring)
+
+**`MATURITY-UPDATE.md` is the procedure**: the same set difference, over each finished study's reading lists. An arrival adds a fact or nothing; a fact that bears on a stage has its cell reassessed and logged.
+
 ## Stage 5 — re-render (mechanical, always run)
 
 ```bash

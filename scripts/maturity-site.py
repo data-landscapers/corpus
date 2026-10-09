@@ -44,7 +44,7 @@ import json
 import math
 import re
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 import markdown
@@ -144,6 +144,8 @@ def load_studies() -> list[dict]:
             print(f"maturity: study {spec['id']} has no issued assessment.csv, left out")
             continue
         spec["rows"] = read_csv(issued / "assessment.csv")
+        # Every reassessment since the study, moved or not (`study-update.py log`).
+        spec["history"] = read_csv(issued / "history.csv") if (issued / "history.csv").exists() else []
         spec["issued"] = issued
         studies.append(spec)
     return studies
@@ -165,6 +167,26 @@ def month(iso: str) -> str:
         return date.fromisoformat(iso).strftime("%b %Y")
     except ValueError:
         return iso
+
+
+def last_change(history: list[dict], iid: str, iso: str) -> tuple[str | None, str | None]:
+    """`(moved, reassessed)` for a cell, as months. A stage **moves** on a new fact; a change the
+    rotation or a rewritten rung made is a **reassessment**, shown only while it is the cell's
+    latest change (spec section 6). A reassessment that left the stage alone is neither."""
+    changes = [h for h in sorted(history, key=lambda h: h["date"])
+               if h["indicator_id"] == iid and h["iso3"] == iso and h["from"] != h["to"]]
+    facts = [h for h in changes if h["kind"] == "fact"]
+    return (month(facts[-1]["date"]) if facts else None,
+            month(changes[-1]["date"]) if changes and changes[-1]["kind"] != "fact" else None)
+
+
+def recent_moves(history: list[dict], iid: str, today: date) -> list[dict]:
+    """The changes box: stage moves on evidence in the past six months, newest first."""
+    since = (today - timedelta(days=183)).isoformat()
+    return [dict(iso3=h["iso3"], month=month(h["date"]), **{"from": h["from"], "to": h["to"]})
+            for h in sorted(history, key=lambda h: h["date"], reverse=True)
+            if h["indicator_id"] == iid and h["kind"] == "fact" and h["from"] != h["to"]
+            and h["date"] >= since]
 
 
 def country_sections(issued: Path, iso3: str, labels: dict[str, str]) -> dict[str, str]:
@@ -218,7 +240,7 @@ def build_data(studies, indicators, countries) -> dict:
             topic = next((t["name"] for t in topics if any(i["id"] == iid for i in t["indicators"])), "")
             inds[iid] = dict(label=sub["text"], short_label=sub["label"], topic=topic, study=s["id"],
                              ladder=lines)
-            cells[iid], changes[iid] = {}, []
+            cells[iid], changes[iid] = {}, recent_moves(s["history"], iid, date.today())
         bodies = {}
         for r in s["rows"]:
             iid, iso = r["indicator_id"], r["iso3"]
@@ -230,8 +252,7 @@ def build_data(studies, indicators, countries) -> dict:
             cells[iid][iso] = dict(
                 stage=n, state=state, short=r["short"].strip(),
                 assessed=month(r["as_at"]),
-                moved=None,  # no snapshot history yet: every cell is its first assessment
-                reassessed=None,
+                **dict(zip(("moved", "reassessed"), last_change(s["history"], iid, iso))),
                 summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
     # No build date: nothing read it, and it rewrote the file on every day's render.
     return dict(launched=LAUNCHED, stages=STAGES, grey=GREY, downloads={},
@@ -337,6 +358,18 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
         stray = sorted({r["indicator_id"] for r in s["rows"]} - subs)
         if stray:
             out.append(f"{s['id']}: assessment.csv rows under {stray}, not a sub-indicator of the study")
+        latest = {}
+        for h in sorted(s.get("history", []), key=lambda h: h["date"]):
+            if h["indicator_id"] not in subs or h["iso3"] not in data["countries"] \
+                    or h["kind"] not in ("fact", "review", "ladder"):
+                out.append(f"{s['id']}: history.csv row {h['date']} {h['iso3']} {h['indicator_id']} "
+                           f"{h['kind']} names no cell or no kind")
+            latest[(h["indicator_id"], h["iso3"])] = h
+        now = {(r["indicator_id"], r["iso3"]): r["stage"] for r in s["rows"]}
+        for cell, h in sorted(latest.items()):
+            if cell in now and h["to"] != now[cell]:
+                out.append(f"{cell[1]} {cell[0]}: stage {now[cell]}, but its last logged reassessment "
+                           f"({h['date']}) left it at {h['to']}; a restaging was not logged")
         for sub in s["sub_indicators"]:
             iid = sub["indicator_id"]
             page = s["issued"] / f"{iid}.md"
@@ -513,7 +546,8 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
         for i in studied:
             iid = i["id"]
             cell = data["cells"].get(iid, {}).get(iso3)
-            moved = (cell or {}).get("moved") or "First assessment"
+            moved = (f'Reassessed {cell["reassessed"]}' if (cell or {}).get("reassessed")
+                     else (cell or {}).get("moved") or "First assessment")
             parts.append(f'''    <section class="mat-report__ind" id="{iid}">
       <h4>{html.escape(i["label"])}</h4>
       <p class="mat-report__meta">{chip(cell)}

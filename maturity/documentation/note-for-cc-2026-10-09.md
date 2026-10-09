@@ -38,7 +38,7 @@ Do not restyle without asking him. The points most easily undone:
 ## Open, and where the metadata work starts
 
 - **The Methodology button** goes to `/methodology/maturity/#{indicator_id}` (Bill's ruling, spec §9). The v1 spec called this button *metadata*. If the metadata work means a field dictionary for the two CSVs, the site's pattern is `datasets.py` → `/datasets/metadata/` with a `-metadata.csv` per dataset; the maturity CSVs have none yet.
-- **Stage history**: none exists, so every cell reads *First assessment* and the changes box is empty until `maturity-history.csv` is written from a second snapshot.
+- **Stage history**: `outputs/maturity/{id}/history.csv`, kept by `MATURITY-UPDATE.md`.
 - **Legend definitions** paraphrase the archived §3 table; they change if the stage labels do.
 
 ## CC's review, 2026-10-09

@@ -1,6 +1,7 @@
 {
   "id": "health",
   "study_file": "maturity-study-health.md",
+  "searched": "2026-10-06",
   "subjects": ["dpi.mis", "digital.rural", "dpi.exchange"],
   "stage_topic": "dpi.mis",
   "redraws": ["digital.rural--digitalisation-of-rural-health-clinics", "dpi.mis--health"],

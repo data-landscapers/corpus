@@ -27,7 +27,8 @@
       "flags": "advancing",
       "stage_sources": "TCD-001;TCD-003",
       "gaps": "No coverage fact is held: no tier, no place of digitisation and no clinic figure from an admitted source. The four admitted rows are governance and last-twelve-months facts on two systems not yet in use (Visa Medical, partnership signed, no deployment stated; the ministry's Dossier Médical Électronique, a meeting of 15 April 2026 with no pilot site, budget or timetable), and owner disagrees between them: vendor (TCD-002) and ministry (TCD-004). The only statement that records are on paper comes from the excluded source, so stage 1 is not claimed.",
-      "note": "Restaged 2026-10-09 on the amended rung 2 (Bill): a partnership signed between the ministry and a vendor for the national digitalisation of hospitals, reported 13 August 2026, is a dated preparatory act on a named system, which is stage 2 without use. No facility is in use, so nothing above 2. Was unplaced."
+      "note": "Restaged 2026-10-09 on the amended rung 2 (Bill): a partnership signed between the ministry and a vendor for the national digitalisation of hospitals, reported 13 August 2026, is a dated preparatory act on a named system, which is stage 2 without use. No facility is in use, so nothing above 2. Was unplaced.",
+      "as_at": "2026-10-09"
     }
   ]
 }

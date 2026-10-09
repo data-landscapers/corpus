@@ -6,6 +6,7 @@ r"""study-select.py — a maturity study's reading list, one per country.
     python scripts/study-select.py health --iso KEN  # one country
     python scripts/study-select.py health --dry      # the counts, nothing written
     python scripts/study-select.py health --add      # Phase 2: append what ingest returned
+    python scripts/study-select.py health --new      # upkeep: append what has arrived since
 
 `maturity/documentation/maturity-study-method.md` §4. Writes
 `maturity/{id}/evidence/{ISO3}/readlist.csv`, the list a drafter reads whole, and
@@ -51,6 +52,10 @@ ingest may have corrected, and to the country it was staged for where it names n
 continues from the list's highest and the new rows open new slices, so every facts file
 already written still names its document.
 
+**`--new` is the upkeep's set difference** (`MATURITY-UPDATE.md`): the same selection, less what
+each list already holds, appended as `--add` appends and entered in `evidence/arrivals.csv`
+as open work for `study-update.py`. With `--dry` it counts and writes nothing.
+
 The status sub-sections themselves head each list as `kind = status` rows. Runs from the
 workroot because it reads `raw/` through Corpus's own index.
 
@@ -59,6 +64,7 @@ Exit: 0 written, 2 the study or the index cannot be read.
 from __future__ import annotations
 
 import argparse
+import datetime as dt
 import os
 import re
 import sys
@@ -295,6 +301,8 @@ def main(argv=None) -> int:
     ap.add_argument("--dry", action="store_true", help="print the counts, write nothing")
     ap.add_argument("--add", action="store_true",
                     help="Phase 2: append the returned and completed documents, renumbering nothing")
+    ap.add_argument("--new", action="store_true",
+                    help="upkeep: append the documents that have arrived since, as open arrivals")
     a = ap.parse_args(argv)
 
     try:
@@ -375,6 +383,36 @@ def main(argv=None) -> int:
                 print(f"  {iso}  {len(rows):3d} added  {sum(int(r['words']) for r in rows):7d} words  "
                       f"slices {rows[0]['slice']}-{rows[-1]['slice']}")
         print(f"study-select: {a.study} - {total} documents added to the reading lists"
+              + (" (dry run, nothing written)." if a.dry else "."))
+        return 0
+
+    if a.new:
+        register = os.path.join(base, "arrivals.csv")
+        arrivals, today, total = study_lib.read_csv(register), dt.date.today().isoformat(), 0
+        for iso in wanted:
+            path = os.path.join(base, iso, "readlist.csv")
+            existing = study_lib.read_csv(path)
+            if not existing:
+                continue        # never listed: the study has not reached this country
+            listed = {r["slug"] for r in existing if r.get("kind") == "raw"}
+            routes, _ = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url)
+            rows = [r for r in select(iso, all_countries[iso], docs, study["subjects"], routes)[0]
+                    if r["slug"] not in listed]
+            for r in rows:
+                if int(r["words"]) > PASSAGE_WORDS or (int(r["words"]) > SPARSE_WORDS
+                                                        and int(r["hits"]) <= SPARSE_HITS):
+                    shorten(r, iso)
+            renumber(existing, rows)
+            total += len(rows)
+            for r in rows:
+                arrivals.append({"iso3": iso, "n": r["n"], "slug": r["slug"], "listed": today,
+                                 "outcome": "", "closed": ""})
+                print(f"  {iso}  {r['n']:>4}  {r['slug']}  {r['words']} words")
+            if rows and not a.dry:
+                study_lib.write_csv(path, study_lib.READLIST_FIELDS, existing + rows)
+        if total and not a.dry:
+            study_lib.write_csv(register, study_lib.ARRIVAL_FIELDS, arrivals)
+        print(f"study-select: {a.study} - {total} new document(s) on the reading lists"
               + (" (dry run, nothing written)." if a.dry else "."))
         return 0
 

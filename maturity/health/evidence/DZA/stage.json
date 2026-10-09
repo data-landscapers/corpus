@@ -13,7 +13,8 @@
       "flags": "",
       "stage_sources": "DZA-008",
       "gaps": "The two rows held (DZA-008, DZA-009) are governance only: a first team of 20 trained on DHIS2 in December 2023 and a digital health strategy still in draft in November 2023. Nothing says which tiers report through it, where data is keyed or how many primary clinics enter their own reports; finance is not stated, and there is no dated statement that reporting has no digital entry.",
-      "note": "Restaged 2026-10-09 on the amended rung 2 (Bill): staff trained on a named platform by the ministry in December 2023, inside the 36 months, is preparation, which is stage 2 without use. No tier, district or clinic is shown using it, so nothing above 2. Was unplaced."
+      "note": "Restaged 2026-10-09 on the amended rung 2 (Bill): staff trained on a named platform by the ministry in December 2023, inside the 36 months, is preparation, which is stage 2 without use. No tier, district or clinic is shown using it, so nothing above 2. Was unplaced.",
+      "as_at": "2026-10-09"
     },
     {
       "sub_indicator": "emr",

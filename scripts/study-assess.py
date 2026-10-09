@@ -20,6 +20,8 @@ and not into the file.
 summary is carried over from an existing assessment.csv where the cell's stage has not
 moved; a restaged cell loses its summary.
 
+`--as-at` is the study's; a cell `study-update.py log` has stamped keeps its own, later one.
+
 `systems.csv`, the typology, is each country's `evidence/{ISO3}/systems.csv` set end to end.
 
 Exit: 0 written, 1 a cell is wrong, 2 the study cannot be read.
@@ -59,7 +61,9 @@ def cells(study: dict, iso: str, doc: dict, evidence: list[dict], as_at: str,
         if not staged and stage not in study_lib.NOT_STAGED:
             problems.append(f"{where}: stage `{stage}` is not 1 to 5, `unplaced` or `no evidence`")
             continue
-        row = {"iso3": iso, "indicator_id": sub["indicator_id"], "as_at": as_at, "stage": stage}
+        # A cell reassessed since the study carries its own as-at (`study-update.py log`).
+        row = {"iso3": iso, "indicator_id": sub["indicator_id"],
+               "as_at": str(c.get("as_at") or as_at), "stage": stage}
         for a in study["aspects"]:
             v = str(c.get(a["key"], "") or "").strip()
             bad = study_lib.value_problem(asp[a["key"]], key, v) if v else ""

@@ -42,6 +42,8 @@ SYSTEMS_FIELDS = ["iso3", "system", "country_label", "class", "platform", "owner
 READLIST_FIELDS = ["n", "slice", "iso3", "kind", "slug", "read", "path", "url", "title", "published", "places",
                    "why", "terms", "hits", "words"]
 STAGED_FIELDS = ["file", "url", "iso3", "sub_indicator", "aspect", "title", "published"]
+# What arrived after the study, and what reading it came to (`study-update.py`).
+ARRIVAL_FIELDS = ["iso3", "n", "slug", "listed", "outcome", "closed"]
 RETURNED_FIELDS = STAGED_FIELDS + ["outcome", "slug", "reason"]
 PRECISIONS = ("day", "month", "year")
 AS_OF = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")

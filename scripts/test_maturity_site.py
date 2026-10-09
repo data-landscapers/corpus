@@ -99,6 +99,23 @@ def main() -> int:
     check("every link in a bar lands on an id",
           all(f'id="{a}"' in report for a in ms.re.findall(r'<a href="#((?:chapter|topic)-[^"]+)"', report)))
 
+    iid0 = studies[0]["sub_indicators"][0]["indicator_id"]
+    h = lambda d, kind, a, b, iso3=iso: {"date": d, "iso3": iso3, "indicator_id": iid0, "kind": kind,
+                                         "from": a, "to": b, "sources": "", "note": ""}
+    hist = [h("2026-11-02", "fact", "2", "3"), h("2026-12-01", "review", "3", "3")]
+    check("a move on a fact is the stage's last move, and a review that changed nothing is not",
+          ms.last_change(hist, iid0, iso) == ("Nov 2026", None))
+    check("a change the rotation made reads as reassessed",
+          ms.last_change(hist + [h("2027-01-05", "review", "3", "2")], iid0, iso) == ("Nov 2026", "Jan 2027"))
+    check("the changes box holds moves on facts inside six months and nothing else",
+          [c["month"] for c in ms.recent_moves(hist + [h("2026-03-01", "fact", "1", "2"),
+                                                         h("2026-12-09", "ladder", "3", "4")],
+                                               iid0, ms.date(2026, 12, 31))] == ["Nov 2026"])
+    stale = copy.deepcopy(studies)
+    stale[0]["history"] = [h("2026-11-02", "fact", "2", "not-the-stage")]
+    check("a restaging that was not logged is named",
+          any("not logged" in p for p in ms.problems(data, geo, stale, indicators, data)))
+
     check("no study at all is a problem", bool(ms.problems(data, geo, [], indicators, None)))
 
     g = copy.deepcopy(geo)
