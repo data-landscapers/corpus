@@ -14,24 +14,33 @@ own: `maturity.json` carries everything it shows, and `site/assets/js/maturity-m
 
 **Soft launch** *(Bill, 2026-10-09)*. Every page carries `noindex` and the *Under construction*
 band, and nothing links to them; `sitemap.py` already leaves a `noindex` page out. Draft stages
-are shown. Launch is three edits here: `LAUNCHED = True` drops the band and the noindex and turns
-the download buttons on, and the menu entry goes into data-landscapers `_data/site_menu.yml`.
+are shown. Launch is `LAUNCHED = True` here, which drops the band and the noindex and cuts the
+downloads, and the menu entry in data-landscapers `_data/site_menu.yml`.
 
 **Downloads wait for launch** *(Bill)*. A dated CSV once downloaded is kept for ever (`design.md`
 §9), so no draft is offered as one. Until launch the buttons are shown disabled, and the files they
 will serve are written undated to `maturity/preview-downloads/` — outside `site/` — for Bill to check.
+At launch `publish_downloads()` cuts them as editions beside the map, through `editions.publish`,
+and the map page carries a `dl-artefact` line for each. **From then this writes editions, so RENDER
+must run it before `r2-sync.py`**, not after as now.
+
+**A build that would blank the map writes nothing.** `problems()` reads what was built and the map
+already published; anything it finds is printed and the run exits 1 with `site/` untouched.
 
 **A study replaces the frame rows it redraws.** Its sub-indicators are not in `indicators.csv`
 until acceptance; `study.json` → `redraws` names the rows they stand in for, so the Indicator
 dropdown shows the sub-indicators where the first redrawn row sat and drops the others.
 
-**Writes no edition.** Safe to run alone. RENDER runs it after `methodology.py`, before `sitemap.py`.
+**Writes no edition before launch.** Safe to run alone. RENDER runs it after `methodology.py`,
+before `sitemap.py`.
 """
 from __future__ import annotations
 
 import csv
 import html
+import io
 import json
+import math
 import re
 import sys
 from datetime import date
@@ -41,6 +50,7 @@ import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, foot, ga, script, styles  # noqa: E402
+import editions  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
@@ -49,7 +59,12 @@ METHOD_OUT = SITE / "methodology" / "maturity"
 STUDIES = ROOT / "maturity"
 ISSUED = ROOT / "outputs" / "maturity"
 PREVIEW = ROOT / "maturity" / "preview-downloads"
-GEO = ROOT / "lookups" / "africa.geojson"   # africa-dpi's, copied 2026-10-09; Western Sahara is in it
+# africa-dpi's, copied 2026-10-09; Western Sahara is in it. `lookups/AFRICA-GEOJSON-FROM` names the
+# commit and `lint-shared-assets.py` compares the bytes.
+GEO = ROOT / "lookups" / "africa.geojson"
+# How far a border may move when the map's copy is thinned, in degrees. The map draws about ten
+# pixels to a degree, so this is a fifth of a pixel; it takes africa.json from 917 KB to about 210 KB.
+GEO_TOLERANCE = 0.02
 
 LAUNCHED = False
 # Before launch the reports and the methodology page carry the Under construction band; the map carries
@@ -125,6 +140,7 @@ def load_studies() -> list[dict]:
         spec = json.loads(sj.read_text(encoding="utf-8"))
         issued = ISSUED / spec["id"]
         if not (issued / "assessment.csv").exists():
+            print(f"maturity: study {spec['id']} has no issued assessment.csv, left out")
             continue
         spec["rows"] = read_csv(issued / "assessment.csv")
         spec["issued"] = issued
@@ -167,6 +183,7 @@ def sidebar_md(body: str) -> str:
 
 
 def build_data(studies, indicators, countries) -> dict:
+    """`downloads` is filled by `main()` at launch: `{indicator_id: file, "all": file}`."""
     by_id = {s["id"]: s for s in studies}
     redrawn = {}
     for s in studies:
@@ -221,26 +238,138 @@ def build_data(studies, indicators, countries) -> dict:
                 moved=None,  # no snapshot history yet: every cell is its first assessment
                 reassessed=None,
                 summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
-    return dict(built=date.today().isoformat(), launched=LAUNCHED, stages=STAGES, grey=GREY,
+    # No build date: nothing read it, and it rewrote the file on every day's render.
+    return dict(launched=LAUNCHED, stages=STAGES, grey=GREY, downloads={},
                 topics=topics, indicators=inds, cells=cells, changes=changes,
                 countries={c["iso-3"]: c["country-name"] for c in countries
                            if not c["iso-3"].startswith("X")})
 
 
+def thin(pts: list, tol: float) -> list:
+    """Douglas-Peucker: the points of a line that keep it within `tol` of where it was."""
+    keep = [False] * len(pts)
+    keep[0] = keep[-1] = True
+    stack = [(0, len(pts) - 1)]
+    while stack:
+        a, b = stack.pop()
+        if b - a < 2:
+            continue
+        (ax, ay), (bx, by) = pts[a], pts[b]
+        dx, dy = bx - ax, by - ay
+        span = dx * dx + dy * dy
+        far, at = -1.0, a
+        for i in range(a + 1, b):
+            px, py = pts[i]
+            t = max(0.0, min(1.0, ((px - ax) * dx + (py - ay) * dy) / span)) if span else 0.0
+            d = math.hypot(px - ax - t * dx, py - ay - t * dy)
+            if d > far:
+                far, at = d, i
+        if far > tol:
+            keep[at] = True
+            stack += [(a, at), (at, b)]
+    return [p for p, k in zip(pts, keep) if k]
+
+
+def area(ring: list) -> float:
+    """Signed area of a closed ring, in square degrees: the sign is the way it winds."""
+    return sum(x1 * y2 - x2 * y1 for (x1, y1), (x2, y2) in zip(ring, ring[1:])) / 2
+
+
+def thin_ring(ring: list, tol: float) -> list:
+    """A closed ring thinned in two halves, split at the point farthest from its start, so neither
+    half is measured against a chord of no length. Empty for a ring too small to draw.
+
+    **A thinned ring that winds the other way, or has lost half its area, is put back whole.**
+    d3 reads the winding to tell a shape's inside from its outside, so a sliver thinned flat or
+    inside out paints the whole map with its country's colour."""
+    was = area(ring)
+    if abs(was) < tol * tol:
+        return []
+    if abs(was) < 1:    # an island: a few pixels across, where the tolerance is a real share of it
+        return [[round(x, 3), round(y, 3)] for x, y in ring]
+    far =max(range(len(ring)), key=lambda i: (ring[i][0] - ring[0][0]) ** 2 + (ring[i][1] - ring[0][1]) ** 2)
+    out = thin(ring[:far + 1], tol)[:-1] + thin(ring[far:], tol)
+    now = area(out)
+    if len(out) < 4 or now * was <= 0 or abs(now) < abs(was) / 2:
+        out = ring
+    return [[round(x, 3), round(y, 3)] for x, y in out]
+
+
 def africa_geo() -> dict:
+    """The map's copy of the geography, thinned to `GEO_TOLERANCE`. An islet that thins to nothing
+    is dropped; a country that would lose every polygon keeps them all as they were."""
     g = json.loads(GEO.read_text(encoding="utf-8"))
-
-    def rnd(x):
-        return [rnd(v) for v in x] if isinstance(x, list) else round(x, 3)
-
     feats = []
     for f in g["features"]:
-        p = f["properties"]
+        p, geom = f["properties"], f["geometry"]
+        polys = geom["coordinates"] if geom["type"] == "MultiPolygon" else [geom["coordinates"]]
+        thinned = []
+        for poly in polys:
+            outer = thin_ring(poly[0], GEO_TOLERANCE)
+            if not outer:
+                continue
+            thinned.append([outer] + [h for h in (thin_ring(r, GEO_TOLERANCE) for r in poly[1:]) if h])
+        if not thinned:
+            thinned = [[[[round(x, 3), round(y, 3)] for x, y in r] for r in poly] for poly in polys]
         feats.append(dict(type="Feature", properties=dict(iso3=p.get("iso3") or p.get("ISO3166-1-Alpha-3"),
                                                           name=p.get("name")),
-                          geometry=dict(type=f["geometry"]["type"],
-                                        coordinates=rnd(f["geometry"]["coordinates"]))))
+                          geometry=dict(type="MultiPolygon", coordinates=thinned)))
     return dict(type="FeatureCollection", features=feats)
+
+
+# ---------------------------------------------------------------------------
+# The check: a build that would blank the map is not written
+# ---------------------------------------------------------------------------
+
+def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
+             published: dict | None) -> list[str]:
+    """What is wrong with this build, as lines. Each of these used to build quietly: a missing
+    page printed *Not yet written*, a missing country printed *Nothing held*, and a row under an
+    unknown indicator was dropped."""
+    out = []
+    if not studies:
+        out.append("no study has an issued assessment.csv: the map would have nothing to open on")
+    frame = {r["indicator_id"] for r in indicators}
+    listed = {i["id"] for t in data["topics"] for i in t["indicators"] if i["studied"]}
+    drawn = {f["properties"]["iso3"] for f in geo["features"]}
+    for iso in sorted(set(data["countries"]) - drawn):
+        out.append(f"{iso}: no shape in {GEO.name}")
+    for s in studies:
+        subs = {sub["indicator_id"] for sub in s["sub_indicators"]}
+        for row in s.get("redraws", []):
+            if row not in frame:
+                out.append(f"{s['id']}: redraws `{row}`, which is not in indicators.csv")
+        stray = sorted({r["indicator_id"] for r in s["rows"]} - subs)
+        if stray:
+            out.append(f"{s['id']}: assessment.csv rows under {stray}, not a sub-indicator of the study")
+        for sub in s["sub_indicators"]:
+            iid = sub["indicator_id"]
+            page = s["issued"] / f"{iid}.md"
+            if not page.exists():
+                out.append(f"{iid}: no indicator page {page.name}")
+            else:
+                if not dict(sections(page.read_text(encoding="utf-8"), "## ")).get("The norm"):
+                    out.append(f"{iid}: {page.name} has no norm")
+                if [l["n"] for l in data["indicators"][iid]["ladder"]] != [1, 2, 3, 4, 5]:
+                    out.append(f"{iid}: {page.name}'s ladder does not read as rungs 1 to 5")
+            if iid not in listed:
+                out.append(f"{iid}: in no topic's list, so the map cannot select it (check `redraws`)")
+            cells = data["cells"][iid]
+            missing = sorted(set(data["countries"]) - set(cells))
+            if missing:
+                out.append(f"{iid}: no row for {len(missing)} countries: {' '.join(missing)}")
+            for iso, c in sorted(cells.items()):
+                if iso not in data["countries"]:
+                    out.append(f"{iid}: row for {iso}, which is not one of the countries")
+                if c["state"] == "staged" and c["stage"] not in (1, 2, 3, 4, 5):
+                    out.append(f"{iid} {iso}: stage {c['stage']}")
+                if not c["short"]:
+                    out.append(f"{iid} {iso}: no short summary")
+                if c["state"] == "staged" and not c["summary"].strip():
+                    out.append(f"{iid} {iso}: staged, and no section in {iso}.md")
+    for iid in sorted(set((published or {}).get("indicators", {})) - set(data["indicators"])):
+        out.append(f"{iid}: on the published map and not in this build")
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -254,7 +383,7 @@ HEAD = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title} — Data Landscapers</title>
 <meta name="description" content="{description}">
-{robots}<link rel="canonical" href="{canonical}">
+{robots}{head}<link rel="canonical" href="{canonical}">
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
 {ga}
@@ -276,30 +405,39 @@ TAIL = """
 
 
 def page(*, title, description, canonical, depth, body, body_class, sheets=(), scripts="",
-         active=None, band: bool = True) -> str:
-    """`band=False` for the map, which says *Under construction* in its title instead (Bill, 2026-10-09)."""
+         active=None, band: bool = True, head: str = "") -> str:
+    """`band=False` for the map, which says *Under construction* in its title instead (Bill, 2026-10-09).
+    `head` is the map's `dl-artefact` lines once it publishes editions."""
     robots = "" if LAUNCHED else '<meta name="robots" content="noindex">\n'
     band = UNDER_CONSTRUCTION if band and SHOW_BAND and not LAUNCHED else ""
     return external_links(
-        HEAD.format(title=html.escape(title), description=html.escape(description), robots=robots,
+        HEAD.format(title=html.escape(title), description=html.escape(description), robots=robots, head=head,
                     canonical=canonical, styles=styles(depth, *sheets), main=MAIN_SITE, ga=ga(),
                     body_class=body_class, chrome=chrome(active, depth=depth))
         + f'  <main id="main">\n  {band}\n{body}\n  </main>\n'
         + TAIL.format(foot=foot(depth=depth), scripts=scripts))
 
 
-def map_page() -> str:
-    dl = "" if LAUNCHED else ' disabled title="Available at launch"'
-    note = "" if LAUNCHED else '<span class="mat-dl-note">Downloads available at launch</span>'
-    uc = "" if LAUNCHED else ' <span class="mat-title__uc">Under construction</span>'
+def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
+    """Before launch the download buttons are disabled. After it they are links: *all* is set
+    here, and `maturity-map.js` points *this indicator* at the selected indicator's edition."""
+    if LAUNCHED:
+        every = html.escape((downloads or {}).get("all", "#"))
+        buttons = ('<a class="mat-btn" id="mat-dl-one" href="#" download>Download this indicator (CSV)</a>\n'
+                   f'        <a class="mat-btn" id="mat-dl-all" href="{every}" download>Download all (CSV)</a>')
+        uc = ""
+    else:
+        dl = ' disabled title="Available at launch"'
+        buttons = (f'<button class="mat-btn" id="mat-dl-one" type="button"{dl}>Download this indicator (CSV)</button>\n'
+                   f'        <button class="mat-btn" id="mat-dl-all" type="button"{dl}>Download all (CSV)</button>\n'
+                   '        <span class="mat-dl-note">Downloads available at launch</span>')
+        uc = ' <span class="mat-title__uc">Under construction</span>'
     body = f"""  <div class="mat-wrap">
     <div class="mat-head">
       <h1 class="mat-title">Maturity Assessment{uc}</h1>
       <div class="mat-buttons">
         <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
-        <button class="mat-btn" id="mat-dl-one" type="button"{dl}>Download this indicator (CSV)</button>
-        <button class="mat-btn" id="mat-dl-all" type="button"{dl}>Download all (CSV)</button>
-        {note}
+        {buttons}
       </div>
     </div>
     <div class="mat-controls">
@@ -324,6 +462,7 @@ def map_page() -> str:
     return page(title="Maturity Assessment",
                 description="Where each African country stands on each studied indicator, on a five-stage scale.",
                 canonical=f"{SITE_BASE}/maturity/", depth=1, body=body, body_class="mat-page", band=False,
+                head=artefacts,
                 sheets=("maturity.css",),
                 scripts=script("d3-7.9.0.min.js", 1) + "\n" + script("maturity-map.js", 1))
 
@@ -459,25 +598,53 @@ def write(path: Path, text: str) -> None:
     path.write_text(text, encoding="utf-8", newline="\n")
 
 
-def preview_downloads(studies: list[dict]) -> int:
-    PREVIEW.mkdir(parents=True, exist_ok=True)
-    allrows, n = [], 0
+def csv_bytes(rows: list[dict], fields: list[str]) -> bytes:
+    """LF whatever the platform: these become editions, and a file differing only in its line
+    endings is still a new edition (RENDER.md -> The finance tables)."""
+    buf = io.StringIO()
+    w = csv.DictWriter(buf, fieldnames=fields, restval="", lineterminator="\n")
+    w.writeheader()
+    w.writerows(rows)
+    return buf.getvalue().encode("utf-8")
+
+
+def download_files(studies: list[dict]) -> dict[str, bytes]:
+    """{stem: bytes}: one file per studied indicator that has rows, and `maturity-all`."""
+    files, allrows = {}, []
     for s in studies:
         for sub in s["sub_indicators"]:
             rows = [r for r in s["rows"] if r["indicator_id"] == sub["indicator_id"]]
             allrows += rows
             if rows:
-                with (PREVIEW / f'{sub["indicator_id"]}.csv').open("w", encoding="utf-8", newline="") as f:
-                    w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
-                    w.writeheader(); w.writerows(rows)
-                n += 1
+                files[sub["indicator_id"]] = csv_bytes(rows, list(rows[0].keys()))
     if allrows:
-        fields = list(dict.fromkeys(k for r in allrows for k in r))
-        with (PREVIEW / "maturity-all.csv").open("w", encoding="utf-8", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=fields, restval="")
-            w.writeheader(); w.writerows(allrows)
-        n += 1
-    return n
+        files["maturity-all"] = csv_bytes(allrows, list(dict.fromkeys(k for r in allrows for k in r)))
+    return files
+
+
+def preview_downloads(studies: list[dict]) -> int:
+    """Before launch: the same files, undated, outside `site/`, for Bill to check. Compared without
+    regard to line endings, so a checkout that holds them with CRLF is not rewritten."""
+    files = download_files(studies)
+    PREVIEW.mkdir(parents=True, exist_ok=True)
+    for stem, body in files.items():
+        path = PREVIEW / f"{stem}.csv"
+        if not path.exists() or path.read_bytes().replace(b"\r\n", b"\n") != body:
+            path.write_bytes(body)
+    return len(files)
+
+
+def publish_downloads(studies: list[dict]) -> tuple[dict[str, str], str]:
+    """At launch: each file as a dated edition beside the map (`design.md` §9). Returns the names
+    the page links, `{indicator_id: file, "all": file}`, and the map page's `dl-artefact` lines.
+    A new edition is cut only when the bytes have moved, and the map page is the record of the
+    last one, so this runs before that page is rewritten."""
+    names, metas = {}, []
+    for stem, body in download_files(studies).items():
+        path, _ = editions.publish(body, OUT, stem, ".csv", page=OUT / "index.html")
+        names["all" if stem == "maturity-all" else stem] = path.name
+        metas.append(editions.artefact_meta(stem, editions.edition_of(path.stem) or "", editions.digest(body)))
+    return names, "".join(m + "\n" for m in metas)
 
 
 def main() -> int:
@@ -485,10 +652,27 @@ def main() -> int:
     indicators = read_csv(ROOT / "lookups" / "indicators.csv")
     countries = read_csv(ROOT / "lookups" / "countries.csv")
     data = build_data(studies, indicators, countries)
+    geo = africa_geo()
 
-    write(OUT / "data" / "maturity.json", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
-    write(OUT / "data" / "africa.json", json.dumps(africa_geo(), separators=(",", ":")))
-    write(OUT / "index.html", map_page())
+    live = OUT / "data" / "maturity.json"
+    wrong = problems(data, geo, studies, indicators,
+                     json.loads(live.read_text(encoding="utf-8")) if live.exists() else None)
+    if wrong:
+        print(f"maturity: {len(wrong)} problem(s), nothing written:")
+        for line in wrong:
+            print(f"  {line}")
+        return 1
+
+    if LAUNCHED:
+        data["downloads"], artefacts = publish_downloads(studies)
+        k, where = len(data["downloads"]), "editions -> site/maturity/"
+    else:
+        artefacts = ""
+        k, where = preview_downloads(studies), "preview CSVs -> maturity/preview-downloads/"
+
+    write(live, json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+    write(OUT / "data" / "africa.json", json.dumps(geo, separators=(",", ":")))
+    write(OUT / "index.html", map_page(data["downloads"], artefacts))
 
     iso_names = {c["iso-3"]: c["country-name"] for c in countries}
     n = 0
@@ -501,10 +685,9 @@ def main() -> int:
               country_page(iso, iso_names.get(iso, iso), data, bodies))
         n += 1
     write(METHOD_OUT / "index.html", method_page(data, studies))
-    k = preview_downloads(studies)
     ids = sum(len(s["sub_indicators"]) for s in studies)
     print(f"maturity: {len(studies)} study, {ids} indicators -> site/maturity/ + {n} country reports"
-          f" + site/methodology/maturity/; {k} preview CSVs -> maturity/preview-downloads/")
+          f" + site/methodology/maturity/; {k} {where}")
     return 0
 
 

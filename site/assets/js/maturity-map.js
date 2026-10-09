@@ -254,6 +254,9 @@
       '<ul class="mat-ladder">' + lad + "</ul>" +
       '<a class="mat-btn" href="../methodology/maturity/#' + esc(state.indicator) + '">Methodology for this indicator</a>';
     $("mat-method").href = "../methodology/maturity/#" + state.indicator;
+    /* After launch the button is a link to the selected indicator's dated edition. */
+    var file = data.launched && data.downloads[state.indicator], one = $("mat-dl-one");
+    if (data.launched) { one.hidden = !file; if (file) one.href = file; }
   }
 
   function renderCountry() {

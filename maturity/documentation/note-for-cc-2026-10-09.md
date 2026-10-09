@@ -40,8 +40,16 @@ Do not restyle without asking him. The points most easily undone:
 - **The Methodology button** goes to `/methodology/maturity/#{indicator_id}` (Bill's ruling, spec §9). The v1 spec called this button *metadata*. If the metadata work means a field dictionary for the two CSVs, the site's pattern is `datasets.py` → `/datasets/metadata/` with a `-metadata.csv` per dataset; the maturity CSVs have none yet.
 - **Stage history**: none exists, so every cell reads *First assessment* and the changes box is empty until `maturity-history.csv` is written from a second snapshot.
 - **Legend definitions** paraphrase the archived §3 table; they change if the stage labels do.
-- **`.git` housekeeping**: Cowork's commits could not delete git's temporary files. Several `stale-*lock*` files sit directly under `.git/` and a few hundred `tmp_obj_*` files under `.git/objects/`; all are inert. Delete them and run `git gc`.
 
-## Not verified
+## CC's review, 2026-10-09
 
-The build was checked by eye in Chromium at 1440 px and 390 px. No test covers it and no lint reads `maturity.json`.
+- **Downloads at launch are now built.** `publish_downloads()` cuts the dated editions beside the map and the buttons become links; before, `LAUNCHED` only enabled two buttons that did nothing. At launch the script's RENDER line moves ahead of `r2-sync.py`.
+- **The build stops instead of blanking the map.** `problems()` runs before anything is written; exit 1 leaves `site/` as it was.
+- **`maturity.json` carries no build date**; it rewrote the file daily.
+- **`africa.json` is thinned** from 917 KB to 211 KB (`GEO_TOLERANCE`); 15 pixels differ at 1440 px.
+- **`lookups/africa.geojson` has its marker**, `AFRICA-GEOJSON-FROM`; `lint-shared-assets.py` compares it with africa-dpi's.
+- **Preview CSVs are written LF**, only when their content moves.
+
+## Verified
+
+`scripts/test_maturity_site.py` covers the check, the geography and the launch path. The map was compared before and after in headless Chrome at 1440 px and 390 px. Not checked: launched pages on the live site, where editions come from R2.
