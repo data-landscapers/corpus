@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: SSD
 ledger_rows: 15
 not_held: 12
-record: 2d79d2e9410b
+record: 5f90327c1219
 ---
 
 # South Sudan: monthly update, September – October 2026
@@ -53,7 +53,7 @@ The Kenya-facing fibre route moved from plans to procurement. Under the World Ba
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
-The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
+The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
 <!-- /narrative -->
 
 ## DPI
