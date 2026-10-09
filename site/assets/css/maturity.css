@@ -288,8 +288,6 @@
 .mat-report__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; font-size: .82rem; color: var(--ink-light); }
 .mat-report__meta b { color: var(--ink); font-weight: 600; }
 .mat-report__short { font-weight: 600; }
-.mat-report__pending ul { columns: 2; font-size: .9rem; color: var(--ink-light); }
-.mat-report__pending h3 { font-size: 1rem; margin-bottom: .2rem; }
 
 /* ---------- the methodology page ---------- */
 

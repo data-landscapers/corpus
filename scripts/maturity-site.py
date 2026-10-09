@@ -492,17 +492,15 @@ def toc(label: str, items: list[tuple[str, str | None]]) -> str:
 
 def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> str:
     """Chapter, then topic, then indicator *(Bill, 2026-10-09)*: the page opens on a bar of every
-    chapter and each chapter opens on a bar of its topics. Only what is studied has a section."""
-    parts, unstudied, chapters = [], [], {}
+    chapter and each chapter opens on a bar of its topics. Only what is studied has a section; what is not is
+    greyed out in the bars and listed nowhere else."""
+    parts, chapters = [], {}
     for t in data["topics"]:
         chapters.setdefault(t["group"], []).append(t)
     parts.append(toc("Chapters", [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
                                   for c, ts in chapters.items()]))
     for t in data["topics"]:
         studied = [i for i in t["indicators"] if i["studied"]]
-        for i in t["indicators"]:
-            if not i["studied"]:
-                unstudied.append((t["name"], i["label"]))
         if not studied:
             continue
         first = next(o for o in chapters[t["group"]] if o["studied"])
@@ -528,19 +526,6 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
 {md(bodies.get(iid, "*Nothing held for this country yet.*"))}
       </div>
     </section>''')
-    if unstudied:
-        rows, last = [], None
-        for t, label in unstudied:
-            if t != last:
-                if last is not None:
-                    rows.append("</ul>")
-                rows.append(f"<h3>{html.escape(t)}</h3><ul>")
-                last = t
-            rows.append(f"<li>{html.escape(label)}</li>")
-        rows.append("</ul>")
-        parts.append('    <section class="mat-report__pending" id="not-yet-studied">\n'
-                     '      <h2 class="mat-report__topic">Not yet studied</h2>\n      '
-                     + "\n      ".join(rows) + "\n    </section>")
     body = f"""  <div class="container mat-report">
     <header class="article-header">
       <p class="mat-report__kicker"><a href="../../">Maturity Assessment</a></p>
