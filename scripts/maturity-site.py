@@ -54,17 +54,20 @@ GEO = ROOT / "lookups" / "africa.geojson"   # africa-dpi's, copied 2026-10-09; W
 LAUNCHED = False
 
 # The scale: documentation/archived/maturity-assessment.md §3, the instruments-and-systems column.
-# Colours: ColorBrewer RdYlBu, five classes — readable without red–green discrimination (spec §4).
+# Labels 2 and 3 renamed Preparing and Establishing (Bill, 2026-10-09); all five still under review.
+# A study's own pages print the old labels in their ladders; `relabel()` rewrites them at build.
+# Colours: red, orange, gold, sky, blue at even weight (Bill, 2026-10-09: RdYlBu's pale yellow read weaker
+# than its orange). Every pair stays distinct under simulated deuteranopia, protanopia and tritanopia.
 STAGES = [
-    dict(n=1, label="Absent", color="#d73027", ink="#ffffff",
+    dict(n=1, label="Absent", color="#b2182b", ink="#ffffff",
          desc="Nothing of the kind exists, and a dated source says so."),
-    dict(n=2, label="Nascent", color="#fc8d59", ink="#1a1a18",
+    dict(n=2, label="Preparing", color="#e66a2c", ink="#1a1a18",
          desc="Announced, drafted, piloted: an intention with an instrument or a pilot behind it."),
-    dict(n=3, label="Established", color="#fee090", ink="#1a1a18",
+    dict(n=3, label="Establishing", color="#f2c12e", ink="#1a1a18",
          desc="In service, but limited in scope, coverage or use."),
-    dict(n=4, label="Operating", color="#91bfdb", ink="#1a1a18",
+    dict(n=4, label="Operating", color="#67a9cf", ink="#1a1a18",
          desc="In service at scale: funded, regulated, used, maintained."),
-    dict(n=5, label="Leading", color="#4575b4", ink="#ffffff",
+    dict(n=5, label="Leading", color="#2166ac", ink="#ffffff",
          desc="Embedded: interoperable, measured, sustained; at or beyond the continental norm."),
 ]
 GREY = dict(label="No evidence", color="#d4d4d4", ink="#1a1a18",
@@ -285,16 +288,18 @@ def map_page() -> str:
     dl = "" if LAUNCHED else ' disabled title="Available at launch"'
     note = "" if LAUNCHED else '<span class="mat-dl-note">Downloads available at launch</span>'
     body = f"""  <div class="mat-wrap">
-    <h1 class="mat-title">Maturity Assessment</h1>
-    <div class="mat-controls">
-      <label class="mat-field"><span>Topic</span><select id="mat-topic"></select></label>
-      <label class="mat-field mat-field--wide"><span>Indicator</span><select id="mat-indicator"></select></label>
+    <div class="mat-head">
+      <h1 class="mat-title">Maturity Assessment</h1>
       <div class="mat-buttons">
         <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
         <button class="mat-btn" id="mat-dl-one" type="button"{dl}>Download this indicator (CSV)</button>
         <button class="mat-btn" id="mat-dl-all" type="button"{dl}>Download all (CSV)</button>
         {note}
       </div>
+    </div>
+    <div class="mat-controls">
+      <label class="mat-field"><span>Topic</span><select id="mat-topic"></select></label>
+      <label class="mat-field mat-field--wide"><span>Indicator</span><select id="mat-indicator"></select></label>
     </div>
     <div class="mat-body">
       <div class="mat-mapcol">
@@ -398,6 +403,12 @@ Stages are taken as at the end of a month. A stage changes only on a dated sourc
 """
 
 
+def relabel(text: str) -> str:
+    """A ladder row's first cell is `| N Label |`; print the label the scale holds now."""
+    return re.sub(r"^\|\s*([1-5])\s+[A-Za-z]+\s*\|",
+                  lambda m: f"| {m.group(1)} {STAGES[int(m.group(1)) - 1]['label']} |", text, flags=re.M)
+
+
 def method_page(data: dict, studies: list[dict]) -> str:
     scale = "| Stage | Label | Meaning |\n|---|---|---|\n" + "\n".join(
         f'| {s["n"]} | {s["label"]} | {s["desc"]} |' for s in STAGES)
@@ -412,7 +423,7 @@ def method_page(data: dict, studies: list[dict]) -> str:
             toc.append((iid, sub["text"]))
             blocks.append(f'<section class="mat-method__ind" id="{iid}">\n<h2>{html.escape(sub["text"])}</h2>\n'
                           + md("### The norm\n\n" + secs.get("The norm", "Not yet written.")
-                               + "\n\n### The ladder\n\n" + secs.get("The ladder", "Not yet written."))
+                               + "\n\n### The ladder\n\n" + relabel(secs.get("The ladder", "Not yet written.")))
                           + "\n</section>")
     strip = ('<nav class="article-toc" aria-label="Indicators">\n'
              + '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'.join(

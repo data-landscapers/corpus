@@ -7,7 +7,11 @@
 (function () {
   "use strict";
 
-  var ISLANDS = { CPV: [-28, 0], COM: [24, -6], MUS: [0, 22], SYC: [0, 22], STP: [-26, 6] };
+  /* Island states: where the circle sits [lon, lat], and its nudge off the coast in px. */
+  var ISLANDS = { CPV: [[-23.6, 15.9], [-14, 0]], COM: [[43.5, -11.8], [22, -4]], MUS: [[57.55, -20.25], [0, 16]],
+                  SYC: [[55.45, -4.65], [0, 16]], STP: [[6.6, 0.3], [-22, 6]] };
+  /* The frame the map is fitted to: the continent and its islands, not Prince Edward or Rodrigues. */
+  var FRAME = { type: "MultiPoint", coordinates: [[-25.5, 37.6], [58.5, 37.6], [-25.5, -35.2], [58.5, -35.2]] };
   var NOT_ASSESSED = { ESH: true };
   var CLICK_DELAY = 0;
 
@@ -116,14 +120,22 @@
 
   function buildMap() {
     var box = $("mat-map");
-    var w = box.clientWidth, h = box.clientHeight;
-    if (!w || !h) return;
+    var w = box.clientWidth;
+    if (!w) return;
     placeChanges();
+    /* The box takes the map's own height, so there is no blank band under the continent;
+       on a short screen the map is fitted to the height instead and centred. */
+    var top = box.getBoundingClientRect().top + window.scrollY;
+    var maxH = window.innerWidth <= 960 ? w * 1.2 : Math.max(520, window.innerHeight - top - 56);
+    var proj = d3.geoMercator().fitWidth(w - 16, FRAME);
+    var b = d3.geoPath(proj).bounds(FRAME), h = Math.ceil(b[1][1] - b[0][1]) + 16;
+    if (h > maxH) { h = Math.round(maxH); proj = d3.geoMercator().fitExtent([[8, 8], [w - 8, h - 8]], FRAME); }
+    else proj.translate([proj.translate()[0] + 8, proj.translate()[1] + 8]);
+    box.style.height = h + "px";
     d3.select(box).select("svg").remove();
     svg = d3.select(box).insert("svg", ":first-child")
       .attr("viewBox", "0 0 " + w + " " + h).attr("role", "img")
       .attr("aria-label", "Map of Africa coloured by maturity stage");
-    var proj = d3.geoMercator().fitExtent([[8, 8], [w - 8, h - 8]], geo);
     path = d3.geoPath(proj);
 
     gCountries = svg.append("g");
@@ -134,15 +146,18 @@
 
     gIslands = svg.append("g");
     geo.features.forEach(function (f) {
-      var iso = f.properties.iso3, off = ISLANDS[iso];
-      if (!off) return;
-      var c = path.centroid(f);
+      var iso = f.properties.iso3, isl = ISLANDS[iso];
+      if (!isl) return;
+      var c = proj(isl[0]), off = isl[1];
       var circ = gIslands.append("circle")
         .datum(f).attr("class", "mat-island")
         .attr("cx", Math.max(10, Math.min(w - 10, c[0] + off[0])))
         .attr("cy", Math.max(10, Math.min(h - 10, c[1] + off[1]))).attr("r", 8);
       wire(circ, iso);
     });
+    /* The sidebar matches the map column on a wide screen. */
+    var side = document.querySelector(".mat-side");
+    side.style.height = window.innerWidth <= 960 ? "" : document.querySelector(".mat-mapcol").offsetHeight + "px";
     paint();
   }
 
@@ -218,11 +233,11 @@
 
   function buildLegend() {
     var items = data.stages.map(function (s) {
-      return '<li><span class="mat-sw" style="background:' + s.color + '"></span><b>' + s.n + " " + esc(s.label) +
-        "</b> " + esc(s.desc) + "</li>";
+      return '<li title="' + esc(s.desc) + '"><span class="mat-sw" style="background:' + s.color + '"></span>' +
+        s.n + " " + esc(s.label) + "</li>";
     });
-    items.push('<li><span class="mat-sw" style="background:' + data.grey.color + '"></span><b>' +
-      esc(data.grey.label) + "</b> " + esc(data.grey.desc) + "</li>");
+    items.push('<li title="' + esc(data.grey.desc) + '"><span class="mat-sw" style="background:' + data.grey.color +
+      '"></span>' + esc(data.grey.label) + "</li>");
     $("mat-legend").innerHTML = "<ul>" + items.join("") + "</ul>";
   }
 

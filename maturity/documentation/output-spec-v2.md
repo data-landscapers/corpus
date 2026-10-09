@@ -29,10 +29,11 @@ Three things, all on the Corpus site:
 From top to bottom:
 
 1. The Under construction band.
-2. **Control row**: the *Topic* dropdown, the *Indicator* dropdown, then the buttons *Methodology*, *Download this indicator (CSV)* and *Download all (CSV)*.
-3. **The body**: the map on the left, as large as the space allows, and on the right a wide sidebar split horizontally into two halves (§6).
-4. **The legend** directly under the map (§4).
-5. **The changes box** in the whitespace beside the map; the Atlantic, west of the bulge, is the natural place (§7).
+2. **Title row**: the page title, with the buttons *Methodology*, *Download this indicator (CSV)* and *Download all (CSV)* on the same row *(Bill)*.
+3. **Control row**: the *Topic* and *Indicator* dropdowns, with no rule beneath *(Bill)*.
+4. **The body**: the map on the left, fitted to the screen and with no blank band beneath it *(Bill)*, and on the right a wide sidebar split horizontally into two halves (§6).
+5. **The legend** directly under the map (§4).
+6. **The changes box** in the whitespace beside the map; the Atlantic, west of the bulge, is the natural place (§7).
 
 At phone width the sidebar stacks below the map and the changes box below the sidebar.
 
@@ -47,20 +48,20 @@ At phone width the sidebar stacks below the map and the changes box below the si
 
 **One grey for everything not staged** *(Bill)*: *No evidence* and *unplaced* share it, and the tooltip says which.
 
-**Five stages, bad to good, readable without red–green discrimination** *(Bill left the choice to Cowork)*. A diverging red–yellow–blue scale (ColorBrewer RdYlBu), which colour-blind readers can tell apart and which still reads as bad to good:
+**Five stages, bad to good, readable without red–green discrimination, at even visual weight** *(Bill, 2026-10-09: the first scale's pale yellow read weaker than its orange)*. Every pair stays distinct under simulated deuteranopia, protanopia and tritanopia.
 
 | Stage | Label | Fill |
 |---|---|---|
-| 1 | Absent | `#d73027` |
-| 2 | Nascent | `#fc8d59` |
-| 3 | Established | `#fee090` |
-| 4 | Operating | `#91bfdb` |
-| 5 | Leading | `#4575b4` |
+| 1 | Absent | `#b2182b` |
+| 2 | Preparing | `#e66a2c` |
+| 3 | Establishing | `#f2c12e` |
+| 4 | Operating | `#67a9cf` |
+| 5 | Leading | `#2166ac` |
 | — | No evidence | `#d4d4d4` |
 
-The labels are the five from `documentation/archived/maturity-assessment.md` §3. Colour never carries the stage alone: the tooltip and the sidebar print the stage number and label.
+**Labels 2 and 3 are Preparing and Establishing** *(Bill, 2026-10-09)*, replacing Nascent and Established; all five labels are still under review. The build relabels the ladders the studies print. Colour never carries the stage alone: the tooltip and the sidebar print the stage number and label.
 
-**The legend gives the generic description of each stage** *(Bill)*, one line apiece, from the same §3 table, plus the grey.
+**The legend is one row of swatches and labels under the map, without definitions** *(Bill)*; the definitions are on the methodology page and in each swatch's hover title.
 
 ## 5. Interactions
 
