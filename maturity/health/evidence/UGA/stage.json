@@ -26,9 +26,10 @@
       "clinics": "count:7",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "UGA-002;UGA-003;UGA-004;UGA-021;UGA-028;UGA-029",
-      "gaps": "The hospital arm is disputed: the ministry reports the EMR in 92% of targeted hospitals as of 2025 (UGA-028), while a census of all 265 government HC IVs and hospitals found eAFYA in 16.6% and called typical EMR prevalence minimal (UGA-021). Primary-clinic use rests on a ministry count of 7 with no denominator (UGA-029) and three clinics named in one district (UGA-004), which do not carry the country; T4 is evidenced in that district only. Nothing shows a record retrievable at another facility, finance is donor only, and the twelve months hold both the March 2026 handover to the ministry (UGA-011) and a no-change report from one district (UGA-005). A private vendor's EMR (UGA-006) and partner-deployed systems (UGA-022) also run, outside the ministry's.",
-      "note": "The ministry's EMR is in use at the point of care in referral and general hospitals and in primary clinics in a few places, which meets stage 3 on the primary-clinics-in-some-districts arm. Stage 4 needs the primary tier with more than half of clinics on a shared record, and the evidence holds seven clinics and no shared record."
+      "stage_sources": "UGA-028;UGA-021;UGA-029;UGA-002;UGA-003",
+      "gaps": "The hospital arm rests on the ministry's own count: the EMR in 92% of targeted hospitals as of 2025, namely four national referral hospitals, all regional referral hospitals and 47 general hospitals (UGA-028), with no total of general hospitals given; a census of all 265 government HC IVs and hospitals found one of the two platforms, eAFYA, in 16.6% and called typical EMR prevalence minimal (UGA-021). Primary-clinic use is a ministry count of 7 with no denominator (UGA-029) and three clinics named in one district (UGA-004), which is pilot scale and does not carry the country; T4 is evidenced in that district only. Nothing shows a record retrievable at another facility, finance is donor only, and the twelve months hold both the March 2026 handover to the ministry (UGA-011) and a no-change report from one district (UGA-005). A private vendor's EMR (UGA-006) and partner-deployed systems (UGA-022) also run, outside the ministry's.",
+      "note": "The ministry's EMR is in use at the point of care in the national and regional referral hospitals and most general hospitals on its own 2025 count, which meets stage 3 on the hospitals arm; the seven primary clinics counted are pilot scale. Stage 4 needs the primary tier with more than half of clinics on a shared record, and the evidence holds neither.",
+      "as_at": "2026-10-10"
     }
   ]
 }
