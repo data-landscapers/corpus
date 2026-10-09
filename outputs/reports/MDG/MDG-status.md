@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 221
+sources_cited: 223
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -22,7 +22,7 @@ There is no national data policy behind any of it. [As at 1 August 2025 AUDA-NEP
 
 [Drafting of a multisectoral national cybersecurity strategy was launched at an Antananarivo workshop in mid-December 2025 under the PRODIGY programme, covering child protection, gender-based violence, justice and forensic cooperation, with a three-month delivery target](https://midi-madagasikara.mg/vers-la-mise-en-place-dune-strategie-nationale/). [The transition government's implementation programme of 17 November 2025 commits to adopting a national digitalisation policy, establishing an inter-institutional digital-governance mechanism under the Prime Minister's office and digitising the electoral roll](http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf); [that mechanism had not been established, convened or resourced as at the programme's publication](http://central.mfb.gov.mg/assets/file/accueil/2025/PMO-PGE_VF.pdf).
 
-Sector ministries move on their own account: [the technical and vocational education ministry adopted a UNESCO-backed digitalisation strategy in September 2025, with 22 priority projects and a target of 40,000 people trained in digital skills by 2028](https://www.ecofinagency.com/news-services/2309-48937-madagascar-targets-40-000-digital-skills-trainees-by-2028). The line between policymaker and regulator is not always drawn: [the digital ministry's secretary-general also chairs the board of the telecommunications regulator ARTEC](https://newsmada.com/2025/09/23/developpement-du-numerique-focus-sur-la-gouvernance-des-donnees-et-le-commerce/) (September 2025). [Madagascar scores 45.3 out of 100 for overall governance in the 2024 Ibrahim Index, 34th of 54 African countries and below the continental average of 49.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf) (2023).
+Sector ministries move on their own account: [the technical and vocational education ministry adopted a UNESCO-backed digitalisation strategy in September 2025, with 22 priority projects and a target of 40,000 people trained in digital skills by 2028](https://www.ecofinagency.com/news-services/2309-48937-madagascar-targets-40-000-digital-skills-trainees-by-2028). The line between policymaker and regulator is not always drawn: [the digital ministry's secretary-general also chairs the board of the telecommunications regulator ARTEC](https://newsmada.com/2025/09/23/developpement-du-numerique-focus-sur-la-gouvernance-des-donnees-et-le-commerce/) (September 2025). [Madagascar scores 45.3 out of 100 for overall governance in the 2024 Ibrahim Index, 34th of 54 African countries and below the continental average of 49.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf) (2023). [Madagascar scores 9 of 16 points against the Open Government Partnership's 12-point eligibility threshold as it seeks to rejoin](https://midi-madagasikara.mg/gouvernement-ouvert-madagascar-a-trois-points-du-seuil-requis/) (2026).
 
 ### Legislation and regulation
 <!-- gov.legislate -->
@@ -404,7 +404,7 @@ What is already published scores poorly. [Open Data Watch's 2024 inventory](http
 The substantial opening is INSTAT's [public microdata platform](http://mail.mfb.gov.mg/page_personnalisee/index/news/1673), financed under the World Bank's STATCAP-II project, which has since August 2025 given researchers and policymakers disaggregated data from the 2018 census, the 2020-2021 COVID-19 impact waves and the 2021-2022 household survey; the finance ministry frames it as [transparency and accountability through access to raw data](http://mail.mfb.gov.mg/page_personnalisee/index/news/1673).
 
 <!-- derived -->
-Across the 23 categories the 2024 open data inventory scores, Madagascar averages 3.0 out of 10 and no category exceeds 5.0, the best being education outcomes. The census cycle runs at ten years, the third census having been taken in 2018 and the fourth planned for 2028, so the microdata opened in August 2025 will be a decade old before it is superseded.
+Across the 23 categories the 2024 open data inventory scores, Madagascar averages 3.0 out of 10 and no category exceeds 5.0, the best being education outcomes. The census cycle runs at ten years, the third census having been taken in 2018 and the fourth planned for 2028, so the microdata opened in August 2025 will be a decade old before it is superseded. The economy and finance ministry [plans wider publication of budget information after an international assessment scored the country below its threshold, and the Cour des comptes will resume publishing the budget settlement document in 2027](https://www.lexpress.mg/2026/10/finances-publiques-les-informations.html).
 
 ### Use of satellite data
 <!-- data.satellite -->

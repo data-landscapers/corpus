@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-08
+compiled: 2026-10-10
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 216
+sources_cited: 217
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -179,7 +179,7 @@ Underneath sits the country's strongest institutional showing of any kind: [civi
 
 The card opens a widening set of doors. [It is the primary know-your-customer document under the 2005 anti-money-laundering law, with financial institutions verifying identity against it, a passport or a driving licence](https://dpimap.org/algeria/); [transfers of vehicle ownership require it](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065) (April 2026). Around it the state has added other digital services: [the telecoms regulator's electronic authentication and signature service went live in 2025](https://www.elmoudjahid.dz/fr/actualite/l-arpce-lance-son-service-d-authentification-et-de-signature-electroniques-une-nouvelle-brique-a-la-numerisation-230834); [the social insurance fund began issuing an electronic card giving destitute people without social cover access to medicines in January 2026](https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale); and [remote renewal of biometric passports opened to the diaspora in June 2026, starting at the Paris consulate general](https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AC%D9%88%D8%A7%D8%B2-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%85%D8%AA%D8%B1%D9%8A).
 
-Its reach stops short of systems people use most. [Healthcare runs on a separate card issued by the social insurance fund rather than on the identity card](https://securitytoday.com/articles/2008/03/31/algeria-uses-technology.aspx), [the civil service human resource system uses its own identifiers rather than the national identity number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [production of the card and of the biometric passport rests on an outside supplier](https://dpimap.org/algeria/).
+Its reach stops short of systems people use most. [Healthcare runs on a separate card issued by the social insurance fund rather than on the identity card](https://securitytoday.com/articles/2008/03/31/algeria-uses-technology.aspx), [the civil service human resource system uses its own identifiers rather than the national identity number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [production of the card and of the biometric passport rests on an outside supplier](https://dpimap.org/algeria/). The digitalisation commission [set out how the national digital identity is obtained, by registration and appointment at the commune, activation and verification against the holder's biometric data](https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/) (2026).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

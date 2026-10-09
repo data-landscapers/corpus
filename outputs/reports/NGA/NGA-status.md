@@ -1,12 +1,12 @@
 ---
 title: Nigeria: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 283
+sources_cited: 284
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -154,7 +154,7 @@ What it has to join up is [eight federal registers — identity, banking, teleco
 
 The shared plumbing changed hands in the same period: [NITDA took the Nigeria Government Enterprise Architecture over from Korea's KOICA in March 2026](https://techafricanews.com/2026/03/27/nitda-takes-over-nigeria-government-enterprise-architecture-in-major-digital-governance-milestone/) after two and a half years of construction under the e-Government Master Plan 2.0, and it is [hosted by the state carrier Galaxy Backbone and piloted at NIMC, the Customs Service, the Immigration Service and NITDA](https://cioafrica.co/nitda-assumes-control-of-ngea-infrastructure/).
 
-Where exchange works today it is sectoral. [A company's Corporate Affairs Commission number has functioned as its tax identifier since 1 January 2026, with the revenue service's database integrated with the corporate register for new registrations](https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/). [The National Single Window has replaced duplicate paperwork across agencies with a single customs submission since 27 March 2026](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), with electronic vessel manifests advancing as the next phase over the objection of licensed customs agents. [An April 2026 arrangement between the central bank and the telecoms regulator gives banks a telecom feed to check for SIM swaps and recycled numbers before clearing a transaction](https://techcabal.com/2026/04/21/new-cbn-ncc-opens-telecom-data-to-banks/), and [consented sharing of customer banking data on tied consent, a central registry and standard interfaces was approved for an August 2025 launch](https://techcabal.com/2025/04/29/cbn-launches-open-banking/).
+Where exchange works today it is sectoral. [A company's Corporate Affairs Commission number has functioned as its tax identifier since 1 January 2026, with the revenue service's database integrated with the corporate register for new registrations](https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/). [The National Single Window has replaced duplicate paperwork across agencies with a single customs submission since 27 March 2026](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), with electronic vessel manifests advancing as the next phase over the objection of licensed customs agents. [An April 2026 arrangement between the central bank and the telecoms regulator gives banks a telecom feed to check for SIM swaps and recycled numbers before clearing a transaction](https://techcabal.com/2026/04/21/new-cbn-ncc-opens-telecom-data-to-banks/), and [consented sharing of customer banking data on tied consent, a central registry and standard interfaces was approved for an August 2025 launch](https://techcabal.com/2025/04/29/cbn-launches-open-banking/). The platform's developers reported [the national education information system live nationwide from 1 July 2026, with 124,548 schools, 58.4% of national coverage, and more than 40 million learners recorded](https://education.dhis2.org/nigeria-launches-nationwide-education-data-system/).
 
 ### Digital Identity and CRVS
 <!-- dpi.id -->

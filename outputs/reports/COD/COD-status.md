@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 182
+sources_cited: 183
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -236,7 +236,7 @@ Revenue administration is the most built-out and the least connected. The [custo
 
 Payroll is the fiscal reason for much of it. The [ENCORE project built the first digital directory of civil servants, for central government and Kinshasa province](https://blogs.worldbank.org/en/nasikiliza/in-drc-public-administration-enters-a-new-era-with-a-digital-civil-servant-registry) (2025), with [integration of payroll and human resources systems still planned](https://www.biometricupdate.com/202507/dr-congo-fights-public-service-waste-with-biometric-id-registry), against a public wage bill that takes [a large share of state spending](https://www.biometricupdate.com/202507/dr-congo-fights-public-service-waste-with-biometric-id-registry).
 
-Education and justice run their own islands. The [education management information system is not sufficiently operational in all provinces, and a 2024 evaluation found its databases unharmonised and its capacity building over-reliant on external partners](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-09-thematic-country-level-evaluation-democratic-republic-congo-case-study.pdf), and a [national electronic education management information system is still lacking, its implementation facing procurement and data integrity problems](https://thedocs.worldbank.org/en/doc/d3291c08f4b645fdc31be4908947ef6b-0140022025/related/5EDU-WP-5-An-Assessment-of-the-Digital-Readiness-of-Secondary-Schools-in-the-DRC.pdf) (2024). A [decree of March 2025 set up computerised case management for the commercial courts, after the judiciary had announced deployment of the SIGAJ case-management software in 2024](https://droitnumerique.cd/mise-en-place-dun-systeme-integre-de-gestion-informatisee/), and the [higher-education portal ESURSI went live on 30 March 2026 carrying student identity, transcripts and diploma equivalences](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-centralisation-des-donnees-et-acces-au-savoir-les-enjeux-du-nouveau-portail-numerique-universitaire).
+Education and justice run their own islands. The [education management information system is not sufficiently operational in all provinces, and a 2024 evaluation found its databases unharmonised and its capacity building over-reliant on external partners](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-09-thematic-country-level-evaluation-democratic-republic-congo-case-study.pdf), and a [national electronic education management information system is still lacking, its implementation facing procurement and data integrity problems](https://thedocs.worldbank.org/en/doc/d3291c08f4b645fdc31be4908947ef6b-0140022025/related/5EDU-WP-5-An-Assessment-of-the-Digital-Readiness-of-Secondary-Schools-in-the-DRC.pdf) (2024). A [decree of March 2025 set up computerised case management for the commercial courts, after the judiciary had announced deployment of the SIGAJ case-management software in 2024](https://droitnumerique.cd/mise-en-place-dun-systeme-integre-de-gestion-informatisee/), and the [higher-education portal ESURSI went live on 30 March 2026 carrying student identity, transcripts and diploma equivalences](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-centralisation-des-donnees-et-acces-au-savoir-les-enjeux-du-nouveau-portail-numerique-universitaire). The tax directorate [began nationwide checks of the standardised invoice on 5 October 2026, after the moratorium ended](https://rdc-monde.com/rdc-impot-la-dgi-deploie-un-controle-rigoureux-de-la-facture-normalisee-apres-la-fin-du-moratoire/).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

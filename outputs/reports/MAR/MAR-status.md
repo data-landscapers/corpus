@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 196
+sources_cited: 197
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -193,7 +193,7 @@ The rails are scaling much faster than the public's use of them. Instant interba
 
 The infrastructure is complete and centrally held. Bank Al-Maghrib and the interbank clearing body GSIMT [launched Virement Instantané on 1 June 2023, settling between banks in under 20 seconds, around the clock, on the ISO 20022 standard](https://www.bkam.ma/en/Systems-and-means-of-payment/Financial-markets-infrastructure-and-monitoring/Overview); the central bank [runs the large-value gross settlement system itself](https://www.bkam.ma/en/Systems-and-means-of-payment/Financial-markets-infrastructure-and-monitoring/Moroccan-gross-settlement-system-srbm) and [approves the governance and chief executive of the retail clearing operator under Law No. 76-03](https://www.bkam.ma/en/Systems-and-means-of-payment/Financial-markets-infrastructure-and-monitoring/Moroccan-interbank-remote-clearing). Government money moves the same way: the [treasury system is in use across ministries with payments settling through real-time gross settlement](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and Morocco has [digitised the management and payment of its largest cash transfer programme](https://www.worldbank.org/en/news/press-release/2023/04/03/world-bank-continues-to-support-morocco-s-financial-and-digital-inclusion-reforms).
 
-Acceptance arrived through merchants rather than mandates: [Attijariwafa bank opened QR-code acceptance of mobile payments to its corporate customers in June 2020](https://attijaricib.com/en/insights/news/attijariwafa-bank-launches-mobile-payment-moroccan-companies), and the LabelVie retail group [equipped every store for interoperable mobile payment with the interbank card centre in July 2020](https://labelvie.ma/en/labelvie-group-introduces-mobile-payment-in-all-its-stores-in-partnership-with-the-cmi/). The exception is tax, where [electronic filing and payment by direct debit has been compulsory for all taxpayers since January 2017](https://www.tax.gov.ma/wps/portal/DGI-Ang/Dgi-Internet-Ang/Moroccan-tax-system). Cross-border, Bank Al-Maghrib [joined PAPSS on 7 July 2025 as its seventeenth member country](https://papss.com/media/bank-al-maghrib-signs-up-to-papss-establishing-morocco-as-its-17th-country-of-presence/), without live transactions yet. The central bank's own diagnosis of what holds inclusion back is [limited use of electronic payments, heavy reliance on cash and a large informal economy](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-032), bearing on women, young people and rural populations.
+Acceptance arrived through merchants rather than mandates: [Attijariwafa bank opened QR-code acceptance of mobile payments to its corporate customers in June 2020](https://attijaricib.com/en/insights/news/attijariwafa-bank-launches-mobile-payment-moroccan-companies), and the LabelVie retail group [equipped every store for interoperable mobile payment with the interbank card centre in July 2020](https://labelvie.ma/en/labelvie-group-introduces-mobile-payment-in-all-its-stores-in-partnership-with-the-cmi/). The exception is tax, where [electronic filing and payment by direct debit has been compulsory for all taxpayers since January 2017](https://www.tax.gov.ma/wps/portal/DGI-Ang/Dgi-Internet-Ang/Moroccan-tax-system). Cross-border, Bank Al-Maghrib [joined PAPSS on 7 July 2025 as its seventeenth member country](https://papss.com/media/bank-al-maghrib-signs-up-to-papss-establishing-morocco-as-its-17th-country-of-presence/), without live transactions yet. The central bank's own diagnosis of what holds inclusion back is [limited use of electronic payments, heavy reliance on cash and a large informal economy](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MA-H00-032), bearing on women, young people and rural populations. A central bank working paper said [a proof of concept built with the IMF and the World Bank confirmed the technical feasibility of a retail central bank digital currency, with any issuance a long-term prospect](https://www.bkam.ma/content/download/852055/9193624/file/MDBC_VF_Oct2026.pdf).
 
 ### Registries
 <!-- dpi.registry -->

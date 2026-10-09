@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 209
+sources_cited: 210
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -166,7 +166,7 @@ The credential is stronger than the services behind it. [Every registrant gives 
 
 What it opens is uneven. The ID is used by [banks to verify customers against the register](https://www.nrb.gov.mw) and by the agriculture ministry for social assistance, with [around 1.5 million Affordable Inputs Programme beneficiaries verified biometrically against it](https://www.nrb.gov.mw), but is [accepted rather than required for public healthcare](https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf) (2024). The Bureau [reports links with more than 33 public and private institutions](https://www.biometricupdate.com/202505/malawi-nears-full-scale-digital-id-rollout-to-streamline-access-to-services), including the electoral commission, the civil service payroll, the revenue authority and mobile operators (2025), though [the tax link rests on a memorandum of understanding](https://www.cgdev.org/sites/default/files/malawi-journey-towards-transformation.pdf). SIM registration has been compulsory since the Communications Act 2016, and [MACRA began nationwide biometric SIM registration in July 2025, tying every SIM to a national ID and biometrics](https://idtechwire.com/malawi-to-launch-mandatory-biometric-sim-registration-in-july-2025/).
 
-A smartphone wallet [will complement the plastic card rather than replace it — a person must already hold a national ID to self-register for the digital version](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1) — and [is designed to need no periodic renewal](https://times.mw/digital-ids-poised-to-go-live-in-september/). The system it would sit on is [primarily donor-funded, having drawn over US$73 million from UNDP, DFID, the EU, Irish Aid, Norway, USAID and UNICEF, with government meeting roughly 40 per cent of project costs and struggling with recurrent salaries, card production and IT maintenance](https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf) (2024). A World Bank-financed contract [for 2,400 biometric registration kits, of about US$5.09 million, was awarded in March 2026 to a Hong Kong-registered supplier some 27 per cent above the estimate](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/) (reported September 2026).
+A smartphone wallet [will complement the plastic card rather than replace it — a person must already hold a national ID to self-register for the digital version](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1) — and [is designed to need no periodic renewal](https://times.mw/digital-ids-poised-to-go-live-in-september/). The system it would sit on is [primarily donor-funded, having drawn over US$73 million from UNDP, DFID, the EU, Irish Aid, Norway, USAID and UNICEF, with government meeting roughly 40 per cent of project costs and struggling with recurrent salaries, card production and IT maintenance](https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf) (2024). A World Bank-financed contract [for 2,400 biometric registration kits, of about US$5.09 million, was awarded in March 2026 to a Hong Kong-registered supplier some 27 per cent above the estimate](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/) (reported September 2026). UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

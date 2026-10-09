@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 225
+sources_cited: 226
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -194,7 +194,7 @@ Account holding is measured far less often. [51% of adults held an account at a 
 
 The state pays and collects on its own rail. [A presidential decree of 8 May 2024 makes use of the Treasury's TrésorPay-TrésorMoney platform exclusive for non-tax revenue collection and mass public expenditure across all public and parapublic administrations, with TrésorMoney as the Treasury's electronic wallet](https://www.aip.ci/65464/cote-divoire-aip-le-president-ouattara-alassane-prend-un-decret-pour-le-deploiement-de-tresorpay-tresormoney/). [Deployment had reached 55% of public services in 2023, against a target of at least 90% for 2024](https://www.aip.ci/65464/cote-divoire-aip-le-president-ouattara-alassane-prend-un-decret-pour-le-deploiement-de-tresorpay-tresormoney/). That wallet is not open money: [a WAEMU treasury may issue electronic money only in a closed loop confined to beneficiaries of state allocations](https://www.bceao.int/sites/default/files/2021-04/GUIDE%20POUR%20LA%20CONSTITUTION%20DES%20DOSSIERS%20POUR%20L%E2%80%99E%CC%81MISSION%20DE%20LA%20MONNAIE%20E%CC%81LECTRONIQUE%20PAR%20LES%20TRE%CC%81SORS%20PUBLICS%20NATIONAUX.pdf), and [Côte d'Ivoire's is one of only two treasuries in the union that issues at all](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf).
 
-[The BCEAO's instant payment system went live on 30 September 2025](https://www.economie-ivoirienne.ci/en/actualites/uemoa-bceao-undertaking-major-digital-transformation-regional-financial-landscape.html) [with 45 connected institutions and several major banks staying out](https://www.ecofinagency.com/news-finances/0110-49183-waemus-instant-payment-system-launches-but-key-banks-stay-on-the-sidelines); and [interoperability becomes mandatory across the union from 30 June 2026](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026). [Payment institutions must run a complaints mechanism, and those offering only payment-initiation or account-information services must hold insurance or a guarantee against losses from unauthorised access to account data](https://www.bceao.int/sites/default/files/inline-files/Instruction-No001-01-2024_relative_aux_services_de_paiement_dans_l-UMOA.pdf). [Agents at points of sale levy a charge of their own on deposits and withdrawals that no operator tariff provides for](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html).
+[The BCEAO's instant payment system went live on 30 September 2025](https://www.economie-ivoirienne.ci/en/actualites/uemoa-bceao-undertaking-major-digital-transformation-regional-financial-landscape.html) [with 45 connected institutions and several major banks staying out](https://www.ecofinagency.com/news-finances/0110-49183-waemus-instant-payment-system-launches-but-key-banks-stay-on-the-sidelines); and [interoperability becomes mandatory across the union from 30 June 2026](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026). [Payment institutions must run a complaints mechanism, and those offering only payment-initiation or account-information services must hold insurance or a guarantee against losses from unauthorised access to account data](https://www.bceao.int/sites/default/files/inline-files/Instruction-No001-01-2024_relative_aux_services_de_paiement_dans_l-UMOA.pdf). [Agents at points of sale levy a charge of their own on deposits and withdrawals that no operator tariff provides for](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html). The regional central bank said [the Ivorian Treasury, having met all its requirements, already makes regular bulk payments through the Union's instant-payment platform](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement) (2026).
 
 ### Registries
 <!-- dpi.registry -->
