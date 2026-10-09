@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-12-gnb-gems-school-monitoring-worldbank",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GEMS digital inspection form",
+      "country_label": "digital inspection form (GEMS)",
+      "class": "single-function",
+      "platform": "GEMS mobile data collection with georeferencing and dashboards",
+      "owner": "General Inspectorate of Education, with the Education for All Project Coordination Unit and the World Bank GEMS team",
+      "tiers": "78 inspectors recording on mobile devices during school visits; more than 568 schools in five regions covered in under a year; dashboards at regional and central levels"
+    },
+    {
+      "system": "New electronic form for education statistics",
+      "country_label": "new electronic form for education statistics",
+      "class": "census",
+      "platform": "GEMS",
+      "owner": "DGEPASE (Directorate-General for Studies, Planning and Evaluation of the Education System), through a national commission",
+      "tiers": "Central: 16 DGEPASE technicians trained; form under development, with GEMS expected to support collection of initial enrolment data in the new school year"
+    }
+  ],
+  "note": "No fact: the system described is school inspection, entered by inspectors on visits, not by schools; the statistics form is a planned collection of enrolment data. Nothing is said of learner records kept by schools."
+}

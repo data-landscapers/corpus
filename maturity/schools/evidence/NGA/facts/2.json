@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-13-techtrends-edtech-out-of-school-youth-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "uLesson", "country_label": "uLesson", "class": "learning", "platform": "uLesson app; video lessons preloaded on SD cards and USB drives", "owner": "uLesson (private company)", "tiers": "households and enrolled students"},
+    {"system": "Teesas", "country_label": "Teesas", "class": "learning", "platform": "offline video lessons; donated tablets", "owner": "Teesas (private company)", "tiers": "households, orphanages and schools in underserved communities"},
+    {"system": "Tuteria", "country_label": "Tuteria", "class": "learning", "platform": "tutoring app", "owner": "Tuteria (private company)", "tiers": "enrolled students"},
+    {"system": "AltSchool Africa", "country_label": "AltSchool Africa", "class": "learning", "platform": "online coursework", "owner": "AltSchool Africa (private company)", "tiers": "enrolled students"}
+  ],
+  "note": "Commentary on learning apps for out-of-school youth; names only learning-content platforms and no system holding learner records."
+}

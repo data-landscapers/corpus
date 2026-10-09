@@ -1,0 +1,23 @@
+{
+  "slug": "2023-10-01-ethiopia-education-statistics-annual-abstract-2022-23",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Statistics Annual Abstract (ESAA)",
+      "country_label": "Education Statistics Annual Abstract 2022/2023 (2015 E.C.)",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education, EMIS and ICT Executive Office",
+      "tiers": "national yearly publication covering pre-primary, primary, secondary, adult and non-formal, special needs, colleges of teacher education and refugee education"
+    },
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education, EMIS and ICT Executive Office, with ICT offices at decentralised levels",
+      "tiers": "the foreword says it is available at decentralised levels and collects and processes education performance data (October 2023)"
+    }
+  ],
+  "note": "The captured excerpt is the cover and foreword of the yearly statistical abstract, a census, which gives no fact. The foreword says the EMIS collects and processes education performance data at decentralised levels without saying what is entered, by whom or how often, so the EMIS is unclassified."
+}

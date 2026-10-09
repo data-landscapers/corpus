@@ -1,0 +1,15 @@
+{
+  "slug": "2012-07-01-eritrea-moe-overview-of-education",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Educational Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The Ministry of Education's July 2012 overview names EMIS in its list of acronyms only, with no description of what it does; the capture ends before the ICT in Education and Institutional Capacity Building sections."
+}

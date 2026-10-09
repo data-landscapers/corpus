@@ -1,0 +1,15 @@
+{
+  "slug": "2024-05-28-egypt-takaful-karama-cash-transfer",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Takaful and Karama Program management information system and social registry",
+      "country_label": "TKP social registry; management information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Social Solidarity, which liaises with the education and health ministries for the conditionality",
+      "tiers": "national; 63% of Takaful households complied with the 80% school attendance condition as of December 2023"
+    }
+  ],
+  "note": "No fact: the document gives the share of cash-transfer households meeting the school attendance condition and names no school or education ministry system."
+}

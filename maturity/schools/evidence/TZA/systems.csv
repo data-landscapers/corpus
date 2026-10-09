@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,Open Public School (OPS) platform,Open Public School (OPS),learning,,Tanzania Institute of Education (TIE),secondary school teachers trained on it in Arusha City and Arusha District,2026-09-05-dailynews-tanzania-digital-education-teacher-training
+TZA,TIE Teachers Continuous Professional Development Learning Management System,TCPD LMS,learning,,Tanzania Institute of Education (TIE),"teachers, after face-to-face training",2026-09-05-dailynews-tanzania-digital-education-teacher-training
+TZA,MEWAKA,MEWAKA,,,Government,,2026-09-05-dailynews-tanzania-digital-education-teacher-training
+TZA,National EMIS / BEST,EMIS/BEST,census,,,schools return annual paper forms (TSA); aggregated at district or regional level,2026-03-31 Africa we have a data problem
+TZA,School Information System (SIS),SIS,,,,proposed in the ESDP 2025/30 with optional offline or mobile entry,2026-03-31 Africa we have a data problem
+TZA,InfoTaaluma,InfoTaaluma,,SMS and app,,"253 schools, about 4% of secondary schools; primary coverage unclear",2026-03-31 Africa we have a data problem
+TZA,ESMIS,ESMIS,,,,"prototype, 2025",2026-03-31 Africa we have a data problem
+TZA,School Information System (SIS),Mfumo wa Kidigitali wa Taarifa za Shule (SIS),emis,,Prime Minister's Office - TAMISEMI; Handeni Town Council follows up locally,primary and secondary schools in Handeni Town Council: head teachers and one teacher per school,2026-01-10-mfumo-wa-sis-kukomeshautoro-shule-za-handeni-mji
+TZA,student-tracking system (planned),comprehensive student-tracking system (unnamed),emis,,"Ministry of Education, Science and Technology",planned: early childhood through higher education; not yet in use,2025-11-18-tanzania-student-dropout-digital-tracker
+TZA,Education Management Information Systems (EMIS),EMIS,emis,,government (no ministry named),"teachers in rural primary and secondary schools, Mbeya District Council; data submitted to district and national level",2025-09-22-policyforum-emis-knowledge-gap-mbeya
+TZA,Tanzania Education Management Information System (EMIS),EMIS,census,,"Ministry of Education, Science and Technology, with Local Government Authorities and development partners","information collected mostly at school level by an electronically designed questionnaire, in all parts of the country",2025-05-01-nbs-education-literacy-monograph
+TZA,Education Management Information System (EMIS),EMIS,,,,,2025-01-01-tanzania-national-guidelines-artificial-intelligence-education
+TZA,Basic Education Statistics (BEST),BEST,,,,,2025-01-01-tanzania-national-guidelines-artificial-intelligence-education

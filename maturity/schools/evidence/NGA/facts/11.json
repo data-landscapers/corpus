@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-29-dnemis-fg-unveils-national-digital-education-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Digital National Education Management Information System (DNEMIS)", "country_label": "Digital National Education Management Information System (DNEMIS)", "class": "census", "platform": "DHIS2", "owner": "Federal Ministry of Education, with technical support from UNICEF and the University of Oslo", "tiers": "federal and state; State Implementation Teams to be inaugurated at the launch on 1 July 2026; digitises the Annual School Census"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "largely manual collection, to be digitised in DNEMIS", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Public DNEMIS Portal", "country_label": "Public DNEMIS Portal", "class": "census", "platform": "", "owner": "Federal Ministry of Education", "tiers": "public access to selected official education data"},
+    {"system": "Nigeria Education Data Infrastructure (NEDI)", "country_label": "Nigeria Education Data Infrastructure (NEDI)", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": "a framework for education data across all levels, of which DNEMIS is the flagship platform"}
+  ],
+  "note": "The only collection the ministry describes for DNEMIS is the Annual School Census, digitised; it says every learner will be captured in a national database but describes no entry by schools during the year, so the system is a census and gives no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-02-rwa-ktpress-mastercard-foundation-edtech-fellowship-eight-startups",
+  "facts": [],
+  "systems": [
+    {"system": "Berulo Foundation attendance monitoring system", "country_label": "system to monitor student attendance and identify learners at risk of dropping out", "class": "standalone", "platform": "", "owner": "Berulo Foundation (startup, Mastercard Foundation EdTech Fellowship)", "tiers": "under development; fellowship products are tested in schools, level not stated"},
+    {"system": "Brain Ink AI grading and assessment", "country_label": "artificial intelligence applied to grading and assessment", "class": "standalone", "platform": "", "owner": "Brain Ink Ltd (startup)", "tiers": "not stated"},
+    {"system": "SOMABOX", "country_label": "SOMABOX offline learning content", "class": "learning", "platform": "", "owner": "Soma Foundation Rwanda", "tiers": "communities without electricity or internet"},
+    {"system": "Nedu App", "country_label": "Nedu App for STEM and robotics education", "class": "learning", "platform": "", "owner": "NyerekaTech", "tiers": "not stated"}
+  ],
+  "note": "No fact: the attendance system is a startup's product in development under a fellowship, with no statement that it feeds the ministry or that any school enters records in it; no system of class emis is described."
+}

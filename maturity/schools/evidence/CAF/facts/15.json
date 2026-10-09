@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-worldbank-car-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information pour la gestion de l'éducation (SIGE)", "country_label": "SIGE (expanded in the acronym list as Système Intégré de Gestion de l'Education)", "class": "census", "platform": "", "owner": "Ministère de l'Education Primaire et Secondaire (MEPS)", "tiers": "central; implementation begun, described as in its first phases and as a means to improve data collection; statistics for 2018-2019 are cited from it; the MEPS lacks the capacity to keep the software fed with current information"},
+    {"system": "ESIGAPE", "country_label": "ESIGAPE", "class": "", "platform": "", "owner": "financed by the Agence française de développement (AFD)", "tiers": "not stated; software expected to help improve the SIGE, its maintenance and routine use"}
+  ],
+  "note": "The SIGE is described only as a ministry system for collecting data and producing statistics, with nothing on schools entering learner records, so it is classed census and gives no fact. ESIGAPE is named without a description of what it does."
+}

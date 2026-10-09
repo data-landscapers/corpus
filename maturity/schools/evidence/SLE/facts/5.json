@@ -1,0 +1,27 @@
+{
+  "slug": "2026-04-01-sierra-leone-mbsse-national-digital-learning-strategy-2025-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "",
+     "platform": "", "owner": "MBSSE", "tiers": "named only through a forthcoming EMIS policy; what it does is not described"},
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census", "class": "census",
+     "platform": "", "owner": "MBSSE", "tiers": "all schools; the strategy plans a gap analysis and added EdTech questions"},
+    {"system": "One Tablet per School", "country_label": "One Tablet per School", "class": "",
+     "platform": "tablets with pre-installed applications", "owner": "MBSSE, supported by the World Bank",
+     "tiers": "aims to equip all government and government-assisted primary schools; tablets go to head teachers, with applications to capture information on attendance, classroom observations and school management; whose attendance, and whether per learner, is not stated; head teachers still to be trained"},
+    {"system": "SSEIP / Leh Wi Lan tablets and dashboards", "country_label": "Leh Wi Lan", "class": "",
+     "platform": "Android tablets", "owner": "MBSSE and TSC, Secondary School Education Improvement Programme",
+     "tiers": "179 School Quality Assurance Officers and 1,197 secondary school principals given tablets; dashboards used to collect data at district and national levels; what is recorded is not described"},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS", "class": "single-function",
+     "platform": "", "owner": "Teaching Service Commission", "tiers": "implemented by the TSC across its departments to manage data on teachers"},
+    {"system": "Sierra Leone Learning Passport", "country_label": "Learning Passport", "class": "learning",
+     "platform": "", "owner": "", "tiers": "digital learning content for basic and senior secondary students"},
+    {"system": "One Billion tablets initiative", "country_label": "", "class": "learning",
+     "platform": "tablets", "owner": "Imagine Worldwide with Rising Academies", "tiers": "pilot giving tablets to 16,000 children in Grades 1-6"},
+    {"system": "Teacher.AI", "country_label": "", "class": "learning",
+     "platform": "AI chatbot on WhatsApp", "owner": "partner organisations of MBSSE", "tiers": "support to teachers"},
+    {"system": "GIGA school connectivity", "country_label": "GIGA", "class": "enabling",
+     "platform": "", "owner": "UNICEF with MBSSE", "tiers": "maps unconnected schools; a GIGA study found 205 of 11,200 schools with internet"}
+  ],
+  "note": "An excerpt (capture truncated). No system is described as holding a record per learner that schools add to; the head teachers' tablet applications are said to capture attendance without saying whose or how, so no fact is taken."
+}

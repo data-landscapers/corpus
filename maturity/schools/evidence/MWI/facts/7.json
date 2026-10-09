@@ -1,0 +1,78 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The essay's Malawi school row states that rural primary schools predominantly keep administrative data, attendance and learning outcomes in paper registers (class registers marked daily by hand, school registers, lists of test scores), with nothing captured digitally at school level and no evidence of majority digital adoption; it gives no date for this, so the document's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper class and school registers",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "none",
+      "fact": "The essay's Malawi school row states that the digital pilots in primary schools (learning tablets, ICT lessons, internet) are not for administrative or attendance recording, so no school level is said to keep learner records digitally; it gives no date, so the document's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper class and school registers",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "none",
+      "fact": "The essay's Malawi school row states that the rural point of service remains paper-based and that EMIS data is not captured digitally at school level, naming no primary school that enters learner records digitally; it gives no date, so the document's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper class and school registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS (national EMIS)",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "annual school census and monthly statistics on paper forms filled at schools, aggregated and sent physically to districts for digital entry; not captured digitally at school level"
+    },
+    {
+      "system": "HRMIS",
+      "country_label": "HRMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "national, said to be strengthened for aggregation alongside EMIS"
+    },
+    {
+      "system": "BEFIT learning tablets",
+      "country_label": "BEFIT",
+      "class": "learning",
+      "platform": "tablets",
+      "owner": "",
+      "tiers": "5,770 primary schools, for learning and not for administrative or attendance records"
+    },
+    {
+      "system": "ICT lessons in schools",
+      "country_label": "",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "1.9% of schools"
+    },
+    {
+      "system": "Connect a School (rural school connectivity, 2025-2026)",
+      "country_label": "Connect a School",
+      "class": "enabling",
+      "platform": "computer labs and internet",
+      "owner": "",
+      "tiers": "planned for rural schools; internet in 2.5% of schools, rural electrification about 4%, internet access about 6%"
+    }
+  ],
+  "note": "The facts name no system of class emis: they are the dated statement of absence the brief asks for, recorded under the sub-indicator's class. The document is an AI-assisted compilation by its own header and is on study.json's exclude_sources list. It also says rural schools update class registers less often than urban ones, and that most rural schools have no electricity or telephone, citing a 2005 study."
+}

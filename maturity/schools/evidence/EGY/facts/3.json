@@ -1,0 +1,23 @@
+{
+  "slug": "2025-12-15-moete-unified-national-pre-university-education-data-ed1-ed50",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ED1-ED50 dataset",
+      "country_label": "first unified national infrastructure for pre-university education data (ED1-ED50)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "national; said to comply with CAPMAS requirements and international standards; no statement of what schools enter"
+    },
+    {
+      "system": "Kirio",
+      "country_label": "Kirio platform",
+      "class": "learning",
+      "platform": "Kirio",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "about 750,000 students registered and 236,000 completed the programming and AI content"
+    }
+  ],
+  "note": "No fact: the ministry reports an attendance rate of 87% across all levels and the launch of the ED1-ED50 dataset, but describes no system in which schools keep learner records."
+}

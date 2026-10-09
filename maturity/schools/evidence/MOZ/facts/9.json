@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-25-milange-district-emis-scaling-school-level",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (DHIS2 for Education), Milange District", "country_label": "EMIS", "class": "", "platform": "DHIS2 for Education", "owner": "Milange District, with HISP / University of Oslo under the GPE KIX project", "tiers": "use scaled down to school level in Milange District, Zambezia, which has over 300 schools; other districts in Nampula and Zambezia said to be following"}
+  ],
+  "note": "The article (25 June 2024) says Milange District has scaled EMIS use down to its 300-plus schools so that schools manage and analyse their own data and the district's reporting burden falls. It does not say what schools enter, how often, or whether any record is per learner, nor the level of the schools, so the system is unclassified and gives no fact."
+}

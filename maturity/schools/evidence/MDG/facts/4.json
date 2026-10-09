@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-12-nuis-national-student-id-rollout",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The education ministry says the Numéro Unique d'Identification Scolaire gives each learner an individual, permanent identifier that follows the school career from pre-school to lycée, in public and private establishments.", "as_of": "2026-05-11", "date_precision": "day", "system": "Numéro Unique d'Identification Scolaire (NUIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "Learners are enrolled digitally, once, to receive the identifier, in an operation the article calls a digital census of learners launched at a public lower-secondary school; it does not say who keys the record and describes no entry of attendance or results during the year.", "as_of": "2026-05-11", "date_precision": "day", "system": "Numéro Unique d'Identification Scolaire (NUIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "count:792", "fact": "The pilot phase in the Atsimondrano school district enrolled 180,000 learners from 792 public and private establishments of all levels between March and April 2026; no total of establishments in the district is given and primary schools are not counted apart.", "as_of": "2026-04", "date_precision": "month", "system": "Numéro Unique d'Identification Scolaire (NUIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The scale-up after the pilot was launched on 11 May 2026 at the Collège d'enseignement public of Ambodifarihy (Ambatolampy district, Vakinankaratra), with a ministry target of enrolling 4.2 million learners from 19,303 public and private establishments in 48 school districts and 17 regions by 12 June 2026; the figure is a target, not a result.", "as_of": "2026-05-11", "date_precision": "day", "system": "Numéro Unique d'Identification Scolaire (NUIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The digital enrolment of learners is carried out by the Ministry of National Education and the Unité de gouvernance digitale, within the PRODIGY project and with the support of the administration-reform programme PREA.", "as_of": "2026-05-11", "date_precision": "day", "system": "Numéro Unique d'Identification Scolaire (NUIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Numéro Unique d'Identification Scolaire (NUIS)", "country_label": "NUIS", "class": "emis", "platform": "", "owner": "Ministère de l'Education nationale with the Unité de gouvernance digitale (PRODIGY project)", "tiers": "public and private establishments from pre-school to lycée; pilot in the Atsimondrano school district, scale-up to 48 school districts in 17 regions"}
+  ],
+  "note": ""
+}

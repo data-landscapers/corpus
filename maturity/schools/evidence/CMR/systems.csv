@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CMR,Système d'Information pour la Gestion de l'Éducation,Système d'Information pour la Gestion de l'Éducation (SIGE),,,,,2026-07-31-cameroon-unesco-basic-education-agreement-websig-database-interconnection
+CMR,WebSIG,plateforme WebSIG du MINEDUB,,WebSIG,MINEDUB (basic education ministry),,2026-07-31-cameroon-unesco-basic-education-agreement-websig-database-interconnection
+CMR,National EMIS (STATEDUC platform),National EMIS (STATEDUC platform),census,STATEDUC,aggregation at national level via INS,central and regional levels; the document says implementation is delayed and it is not used at the point of service in rural schools,2026-03-31 Africa we have a data problem
+CMR,UNICEF Connect My School,Connect My School,enabling,e-container,"UNICEF, with IHS",isolated pilot; one e-container in the Southwest,2026-03-31 Africa we have a data problem
+CMR,Integrated Sectoral Platform for the Education Management Information System (EMIS),Integrated EMIS Platform,,,"launched jointly by UNESCO, the Government of Cameroon and the World Bank; operator not stated",,2025-05-13-unesco-cameroon-integrated-emis-platform-launch

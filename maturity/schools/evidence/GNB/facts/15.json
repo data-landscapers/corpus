@@ -1,0 +1,31 @@
+{
+  "slug": "2022-01-01-worldbank-guinea-bissau-digital-economy-diagnostic",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE",
+      "country_label": "SIGE (Sistema Integrado de Gestão Escolar), called Guinea-Bissau's EMIS",
+      "class": "census",
+      "platform": "Developed with the support of the UNESCO Institute for Statistics, established in 2015 with donor financing",
+      "owner": "Ministry of National Education (MEN), with European Union support at regional level and World Bank and GPE financing for data systems",
+      "tiers": "One region only, with 207 schools; rollout to other regions planned for 2022; collection relies on paper-based questionnaires and the data entry of them"
+    },
+    {
+      "system": "STATEDUC",
+      "country_label": "STATEDUC",
+      "class": "census",
+      "platform": "StatEduc",
+      "owner": "",
+      "tiers": "In use since 2011, with minimal statistical data generated (less than 45 MB)"
+    },
+    {
+      "system": "Neska",
+      "country_label": "Neska (e-Education)",
+      "class": "learning",
+      "platform": "Web portal",
+      "owner": "A prize-winning proposal in a digital solutions competition",
+      "tiers": "Schools: to create online teaching modules and manage school personnel and assets; described as a proposed solution, not as in use"
+    }
+  ],
+  "note": "No fact: SIGE is described as the collection of school-level administrative data by questionnaire, not systematically capturing data and with no national figures since 2014-2015; no entry by schools of per-learner records is described. Passages only."
+}

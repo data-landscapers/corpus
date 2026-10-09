@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-19-educmaster-mise-a-jour-donnees-classes-intermediaires",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "Benin Web TV reports that the Minister of Nursery and Primary Education's letter of 16 February 2026 to departmental directors, school-district heads and school heads concerns enrolments on EDUCMASTER for nursery and primary classes, after three years of the platform's operation.", "as_of": "2026-02-16", "date_precision": "day", "system": "EDUCMASTER", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The minister's letter of 16 February 2026 says schools themselves enter enrolments and update class lists on EDUCMASTER, and that several still enter only the CM2 candidates for the CEP examination and leave the intermediate nursery and primary classes not updated; the report mentions no entry of attendance or results.", "as_of": "2026-02-16", "date_precision": "day", "system": "EDUCMASTER", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The minister's letter of 16 February 2026 says 'several' schools do not update all their classes on EDUCMASTER after three years of operation; the report gives no number or share of schools that do or do not.", "as_of": "2026-02-16", "date_precision": "day", "system": "EDUCMASTER", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Minister of Nursery and Primary Education, in his letter of 16 February 2026, calls EDUCMASTER a management tool for the sub-sector and not only for the CEP, and orders its use by his departmental directors, district heads and school heads.", "as_of": "2026-02-16", "date_precision": "day", "system": "EDUCMASTER", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "On 16 February 2026 the minister ordered every school to complete its enrolments for all nursery and primary classes on EDUCMASTER by 23 February 2026, with a check to follow and the heads of non-complying schools to be listed as ineligible for CEP work (invigilator, marker, centre head) in the June 2026 session; the same letter records that several schools had not done so.", "as_of": "2026-02-16", "date_precision": "day", "system": "EDUCMASTER", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EDUCMASTER", "country_label": "plateforme EDUCMASTER", "class": "emis", "platform": "EDUCMASTER", "owner": "Ministère des Enseignements maternel et primaire", "tiers": "nursery and primary schools, entered by school heads; overseen by school-district heads and departmental directors; also used to register CM2 candidates for the CEP examination"}
+  ],
+  "note": "The last12 value is the order to complete the records; the same letter is the evidence that completion was partial, and the parent may read it either way."
+}

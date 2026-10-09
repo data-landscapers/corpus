@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-sierra-leone-power-of-data-country-framework-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "",
+     "platform": "", "owner": "education sector (ministry not named)",
+     "tiers": "called operational, providing data for planning school enrolment, teacher deployment and resource distribution; who enters what, and how often, is not described; named for Phase 1 interoperability pilots with DHIS2 and IFMIS, and for integration with DHIS2 and CRVS"}
+  ],
+  "note": "A national data framework that names the EMIS as an operational source of planning data and as a party to planned interoperability pilots (budgeted for 2027), without saying what schools enter in it; unclassified, so no fact."
+}

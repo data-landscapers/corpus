@@ -1,0 +1,20 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "Data Landscapers' 54-country review states that rural primary schools in Angola predominantly record attendance, enrolment and grades on paper, with the data aggregated later into the central EMIS/SIGE at provincial or district level through paper forms or manual entry, and that it found no evidence of direct digital entry in rural schools; the document gives no date for this, so its published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper school records (no learner-record system at the school)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {"system": "EMIS/SIGE", "country_label": "SIGE", "class": "census", "platform": "", "owner": "", "tiers": "provincial and district levels, where school data arriving on paper forms are aggregated or keyed; described as provincial or pilot in scale, not in rural schools"},
+    {"system": "Escola Meu Kamba", "country_label": "Escola Meu Kamba", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages file. The one fact is a statement of absence (paper at the school), recorded under the sub-indicator's class with no system behind it; SIGE as described here only receives aggregated school data above the school, so it is class census. The source's own header marks its country rows as an AI-assisted compilation, the author's analysis and not sourced fact."
+}

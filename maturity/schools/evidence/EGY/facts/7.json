@@ -1,0 +1,23 @@
+{
+  "slug": "2021-06-23-worldbank-g2p-payment-arrangements-in-egypt-and-covid-19",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Takaful and Karama Program database",
+      "country_label": "TKP database",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Social Solidarity",
+      "tiers": "national; 30.25 million applicants registered as of May 2020; Takaful's condition is that children aged 6 to 18 attend at least 80% of school days"
+    },
+    {
+      "system": "Unified National Registry",
+      "country_label": "UNR",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Administrative Control Authority, under an initiative led by MoPAR",
+      "tiers": "national; connects 52 databases covering more than 100 million individuals"
+    }
+  ],
+  "note": "No fact: the document is about government payment arrangements; it states the cash transfer's 80% school attendance condition and names no school or education ministry system, nor how attendance is recorded."
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The author's AI-assisted country review says recording in Lesotho's rural primary schools is entirely on paper, with enrolment and attendance going on to paper Annual Statistical Census forms that principals fill and send through district officers, and digitised only centrally; no date is given, so the document's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Paper school records",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "none",
+      "fact": "The author's AI-assisted country review says it found no evidence of a school-level digital rollout in Lesotho by 2023-2026, and scores rural schools 1; no single date is given, so the document's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Paper school records",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The author's AI-assisted country review says a 2017-2018 OpenEMIS pilot aimed at learner unit records was scaled back for want of district statisticians, equipment and internet; it gives no count of pilot schools.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "OpenEMIS learner unit records pilot",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OpenEMIS learner unit records pilot",
+      "country_label": "OpenEMIS",
+      "class": "emis",
+      "platform": "OpenEMIS",
+      "owner": "",
+      "tiers": "Pilot in 2017-2018, scaled back; pilot sites not stated"
+    },
+    {
+      "system": "OpenEMIS (central capture of the annual census)",
+      "country_label": "OpenEMIS; national EMIS",
+      "class": "census",
+      "platform": "OpenEMIS",
+      "owner": "Central Education Planning Unit",
+      "tiers": "Central only: data from the paper forms is captured centrally for aggregated annual reporting, not individual tracking"
+    },
+    {
+      "system": "Annual Statistical Census (ASC) forms",
+      "country_label": "Annual Statistical Census (ASC)",
+      "class": "census",
+      "platform": "paper",
+      "owner": "Central Education Planning Unit",
+      "tiers": "Filled by school principals, submitted through district officers to the centre"
+    },
+    {
+      "system": "DHIS2 for Education",
+      "country_label": "DHIS2 for Education",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "Planned; the plans emphasise district-level roles"
+    }
+  ],
+  "note": "Passages file; the source's own header marks its country figures as an AI-aided compilation and the author's analysis, not sourced fact. It also gives about 10 of 1,477 primary schools with rudimentary ICT access, undated."
+}

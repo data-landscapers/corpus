@@ -1,0 +1,23 @@
+{
+  "slug": "2023-01-01-mogei-national-education-census-report-2023",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Annual Education Census (AEC) 2023",
+      "country_label": "Annual Education Census; National Education Census",
+      "class": "census",
+      "platform": "Android tablets and a web-based data repository",
+      "owner": "Ministry of General Education and Instruction (MoGEI); the 2023 round funded by a Global Partnership for Education grant through UNICEF",
+      "tiers": "collected from schools across the country once a year by a data collection team and field staff: enrolment, teacher numbers and qualifications, facilities; datasets published on the ministry's education data hub"
+    },
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI)",
+      "tiers": "described only as the frame under which the yearly census is an annual strategic action; its data hub at mogei.gov.ss/emis holds the census datasets"
+    }
+  ],
+  "note": "No fact: the document is the report of the yearly school census, which the ministry places under its EMIS, and describes no entry by schools beyond the census; class census. The capture is an excerpt, cut off partway through the executive summary, so the methodology chapters were not available to read."
+}

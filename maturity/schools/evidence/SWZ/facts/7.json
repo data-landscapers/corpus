@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-20-towards-inclusive-education-data-systems-integration-of-disability-indicators-into-eswatinis-national-emis",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The GPE KIX authors list individual-level data collection among the EMIS's routine exercises as of the February 2025 engagement: information captured on each learner and teacher, such as demographics and performance, with tools that collect it at the school level; the document does not say how often a school enters it.", "as_of": "2025-02", "date_precision": "month", "system": "national EMIS: individual-level data collection", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The document states that the EMIS Unit of the Ministry of Education and Training updated the EMIS data collection instruments and, in February 2025 with HISP Uganda, convened the schools to revise them, with UNICEF supporting the guidelines.", "as_of": "2025-02", "date_precision": "month", "system": "national EMIS: individual-level data collection", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "national EMIS: individual-level data collection", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "EMIS Unit, Ministry of Education and Training, with HISP Uganda and UNICEF support", "tiers": "captured at the school level; number of schools not stated"},
+    {"system": "Annual Education Census (AEC)", "country_label": "Annual Education Census", "class": "census", "platform": "", "owner": "EMIS Unit, Ministry of Education and Training", "tiers": "all schools, yearly; in the 2025 cycle 129 primary and 14 secondary schools submitted inclusive education data"},
+    {"system": "16th Day Survey", "country_label": "16th Day Survey", "class": "census", "platform": "", "owner": "EMIS Unit, Ministry of Education and Training", "tiers": "schools, on the 16th school day of the year, for enrolment and attendance; 17 schools submitted inclusive education data in the 2025 cycle"}
+  ],
+  "note": "The EMIS here is three exercises: the 16th Day Survey and the Annual Education Census are yearly returns of counts (class census, no fact), and only the individual-level collection is a record per learner. The submission counts (17, 129, 14) are of the survey and census, not of the individual-level collection, so no schools fact is taken. School administrators from 960 public and private schools were oriented on the disability guidelines; that is training, not entry. The value routine rests on 'performance' per learner captured at school level; the parent should check it against enrolment."
+}

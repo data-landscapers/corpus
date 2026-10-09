@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-04-world-bank-sira-guinea-pid-concept-stage",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "", "class": "", "platform": "", "owner": "Ministère de l'Education Nationale et de l'Alphabétisation (implementing agency)", "tiers": ""},
+    {"system": "Digital platforms for administration and learning (planned, SIRA component 4)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Concept-stage project document of 4 November 2025 for a US$131.30 million operation (IDA 100.00, GPE 29.30, Early Learning Partnership 2.00). It names an 'enhanced EMIS' as something component 4 will support and says nothing of what the EMIS does or who enters data, so it is unclassified and gives no fact. It states that education management is hindered by low levels of digitalisation and limited use of data."
+}

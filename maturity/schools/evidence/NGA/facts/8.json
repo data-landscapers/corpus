@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-10-fg-extends-trusted-digital-identity-80-million-learners",
+  "facts": [],
+  "systems": [
+    {"system": "National Learners' Identification Number (LIN)", "country_label": "National Learners' Identification Number (LIN)", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Nigeria Education Management Information System (NEMIS)", "country_label": "Nigeria Education Management Information System (NEMIS)", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "LIN to NIN integration through NEMIS", "country_label": "", "class": "exchange", "platform": "", "owner": "Federal Ministry of Education and National Identity Management Commission", "tiers": "the minister says the integration is done; the sector serves nearly 80 million learners from early childhood to tertiary"}
+  ],
+  "note": "The minister names the LIN and NEMIS and their link to the national identity number without saying what either records or who enters it; the link is exchange."
+}

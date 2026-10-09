@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-09-fg-launches-learner-identification-number",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The Federal Ministry of Education states that it has launched the nationwide Learner Identification Number, a digital system giving every student a permanent identity, and that in the first phase over 1.9 million candidates registered for the 2026 WAEC and NECO examinations have been issued numbers; the launch is undated, so the document's published date is used.", "as_of": "2026-04-09", "date_precision": "day", "system": "Learner Identification Number (LIN)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The statement, issued by the Federal Ministry of Education's press director, presents the Learner Identification Number as the ministry's own system, launched by the minister; undated, so the document's published date is used.", "as_of": "2026-04-09", "date_precision": "day", "system": "Learner Identification Number (LIN)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Learner Identification Number (LIN)", "country_label": "Learner Identification Number (LIN)", "class": "emis", "platform": "", "owner": "Federal Ministry of Education", "tiers": "first phase: over 1.9 million 2026 WAEC and NECO candidates; next phase: all learners in public and private schools, through national data platforms and the Annual School Census"},
+    {"system": "Digitized National Education Management Information System (DNEMIS)", "country_label": "Digitized National Education Management Information System (DNEMIS)", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": "a national register of schools, each with a ten-digit identification number"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Federal Ministry of Education", "tiers": "named as a route for extending the learner number to all learners"}
+  ],
+  "note": "The statement gives no level for the first-phase learners beyond naming them as WAEC and NECO candidates, and does not say that schools enter anything; no levels, kept or schools fact is taken."
+}

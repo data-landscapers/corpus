@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-somalia-education-sector-analysis-2022",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "national EMIS; the new EMIS", "class": "", "platform": "", "owner": "Ministry of Education, Culture and Higher Education (MoECHE)", "tiers": "a new EMIS said to have been introduced at federal, state and school levels; gaps named are weak capacity of EMIS staff, weak data-gathering at school level and weak quality assurance; cited as the source of school, teacher and enrolment figures for 2016, 2017, 2019 and 2020"}
+  ],
+  "note": "Passages only, and they are fragments: tables sourced to EMIS data years and a sentence on system-wide gaps. Section 6.5.3.4 on the effectiveness of the EMIS and the figure outlining it are listed in the contents and are not in the passages, so what schools enter is not described here and the system is unclassified."
+}

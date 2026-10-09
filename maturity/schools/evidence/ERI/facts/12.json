@@ -1,0 +1,23 @@
+{
+  "slug": "2023-09-01-eritrea-2023-2027-partnership-compact",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": ""
+    },
+    {
+      "system": "Teacher Management Information System (TMIS)",
+      "country_label": "TMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The compact of September 2023 says the task team drew on Education Management Information System reports and that analysis of the EMIS database identified the barriers behind its three outcomes; it does not say what the EMIS holds or who enters it, so it is unclassified. TMIS appears in the list of acronyms only; the capture ends in section 2.2."
+}

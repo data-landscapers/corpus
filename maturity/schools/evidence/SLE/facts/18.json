@@ -1,0 +1,17 @@
+{
+  "slug": "2022-06-01-sierra-leone-mbsse-2021-annual-school-census-final-report",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census", "class": "census",
+     "platform": "paper questionnaire, then SurveyCTO (CAPI) on Android tablets, data downloaded in Stata format",
+     "owner": "MBSSE EMIS department, Directorate of Planning and Policy; supported by GPE, the World Bank and EU-SESSiL",
+     "tiers": "all 12,168 schools, pre-primary to senior secondary, in 16 districts; in July 2021 head teachers and principals filled paper questionnaires, which quality assurance officers collected for district IT officers to key in; 624 senior secondary principals were trained and given tablets to submit their own return; digital collection since 2018"},
+    {"system": "EMIS", "country_label": "EMIS (Education Management Information Systems)", "class": "census",
+     "platform": "", "owner": "MBSSE Directorate of Planning and Policy",
+     "tiers": "the department that runs the census and the source of the report's data; each school carries an EMIS number; no entry by schools other than the yearly return is described"},
+    {"system": "Education Data Hub", "country_label": "education datahub", "class": "census",
+     "platform": "website built by the Directorate of Science, Technology and Innovation", "owner": "MBSSE with DSTI",
+     "tiers": "set up in 2019 on the 2018 census data; a public repository and visualisation of census figures; census data from 2015 digitised and linked with Fab Inc"}
+  ],
+  "note": "An excerpt of a census report (capture truncated): it describes the yearly return and nothing schools enter between censuses, so every system is census and no fact is taken. Its figures on electricity (80% of primary schools without any), computers and internet are enabling conditions, not a learner record."
+}

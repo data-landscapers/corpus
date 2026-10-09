@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-04-07,SLE-004;SLE-005;SLE-006,SLE-011=owner:ministry;SLE-012=finance:donor,
+SLE,emis,levels,coverage,P,2026-04-07,SLE-002,SLE-010=P,
+SLE,emis,kept,coverage,routine,2023-03,SLE-008,,nothing dated since 2023-10-09
+SLE,emis,last12,qualifier,advancing,2026-04-07,SLE-003,,
+SLE,emis,schools,coverage,count:300,2023-03,SLE-009,SLE-001=pilot,

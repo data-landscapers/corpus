@@ -1,0 +1,12 @@
+{
+  "slug": "2024-07-01-pacte-partenariat-secteur-education-formation-2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information et de Gestion de l'Education (SIGE)", "country_label": "SIGE", "class": "census", "platform": "", "owner": "the three education ministries' planning directorates with the INS; run essentially on partners' financing (PRAASED/World Bank, PASSE, UNESCO), with no national budget line", "tiers": "central only: not deconcentrated to the 12 departments, geographic coverage incomplete; collects yearly school questionnaires on paper for the statistical yearbooks and the carte scolaire"},
+    {"system": "Annuaire statistique (MEPPSA and sector yearbooks)", "country_label": "annuaire statistique", "class": "census", "platform": "", "owner": "MEPPSA with the INS; produced technically and financially by partners (PRAASED for 2017-18 to 2020-21, PASSE for 2022-23)", "tiers": "national; tables of raw data collected from schools once a year"},
+    {"system": "STATEDUC", "country_label": "application STATEDUC", "class": "", "platform": "StatEduc", "owner": "being installed with PASSE support", "tiers": ""},
+    {"system": "Base de données au MEPPSA couvrant les 3 ministères", "country_label": "", "class": "", "platform": "", "owner": "MEPPSA, set up with PASSE support", "tiers": "central"},
+    {"system": "Répertoire des établissements scolaires", "country_label": "répertoire des établissements scolaires", "class": "census", "platform": "", "owner": "", "tiers": "planned: every school with a unique identifier, updated for openings and closures before the 2026-27 school census"}
+  ],
+  "note": "The compact (July 2024) describes the SIGE only as the yearly school census on paper questionnaires feeding the statistical yearbooks, so it is class census; it says pupil attendance is not collected, and lists pupil registration numbers (immatriculation des élèves) and online collection replacing paper questionnaires as aims of a future SIGE strategic plan, not as anything in place. No system in which schools add learner records is described, so no fact."
+}

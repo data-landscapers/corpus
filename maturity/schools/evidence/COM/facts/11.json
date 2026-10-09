@@ -1,0 +1,54 @@
+{
+  "slug": "2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "ANADEN's own log of achievements describes e-Msomo, presented on 5 June 2025 at La Coulée primary school, as digital management of school report cards and pupil tracking in its pilot phase; it gives no number of schools.",
+      "as_of": "2025-06-05",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "ANADEN states that the e-Msomo and e-Shiyo platforms launched on 5 June 2025 fall within the Comores Numérique 2028 strategy; it does not say the strategy names e-Msomo.",
+      "as_of": "2025-06-05",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "ANADEN, in partnership with the Ministry of National Education and UNICEF Comoros, officially launched e-Msomo on 5 June 2025 at La Coulée primary school, in a pilot phase.",
+      "as_of": "2025-06-05",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Msomo",
+      "country_label": "e-Msomo (gestion numérique des bulletins scolaires et suivi des élèves)",
+      "class": "emis",
+      "platform": "",
+      "owner": "presented by ANADEN in partnership with the Ministère de l'Éducation Nationale and UNICEF Comores",
+      "tiers": "pilot phase; launched at a primary school"
+    },
+    {
+      "system": "e-Shiyo",
+      "country_label": "e-Shiyo (bibliothèque numérique nationale de manuels scolaires)",
+      "class": "learning",
+      "platform": "",
+      "owner": "presented by ANADEN in partnership with the Ministère de l'Éducation Nationale and UNICEF Comores",
+      "tiers": "national, open to all"
+    }
+  ],
+  "note": "No owner fact: the page has the digital agency ANADEN presenting the platform with the ministry and UNICEF as partners, which fits none of the owner values cleanly. e-Bourse, a higher-education scholarship portal, is outside the study's levels."
+}

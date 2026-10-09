@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "The policy names the EMIS twice only, as the system through which the Ministry of Education oversees education data and as an example of Level 2 confidential data (educational records), without saying what it does or who enters what; unclassified, no fact."
+}

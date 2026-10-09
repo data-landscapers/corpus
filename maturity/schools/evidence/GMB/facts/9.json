@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-30 The Gambia charts a path to data-driven education with DHIS2",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "DHIS2's article says the Ministry of Basic and Secondary Education is itself shifting its data system from aggregate counts to individual-level learner tracking on DHIS2 for Education, in partnership with GPE, HISP and GPE KIX; no date is given, so the publication date is used.", "as_of": "2026-01-30", "date_precision": "day", "system": "DHIS2 for Education (DHIS2-Ed)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 for Education (DHIS2-Ed)", "country_label": "EMIS", "class": "emis", "platform": "DHIS2 for Education", "owner": "Ministry of Basic and Secondary Education (MoBSE)", "tiers": "not stated; School Report Cards viewed by principals and parents"}
+  ],
+  "note": "Classed emis on the stated individual learner records with real-time enrolment, attendance and performance data. The document is a short summary that does not say who enters the records, when, at which school level or in how many schools, so no levels, kept or schools fact is taken."
+}

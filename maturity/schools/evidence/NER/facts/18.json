@@ -1,0 +1,15 @@
+{
+  "slug": "2017-08-01-politique-nationale-de-genre-niger",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Annuaire statistique 2015 (MEP/A/PLN/EC)",
+      "country_label": "annuaire statistique",
+      "class": "census",
+      "platform": "",
+      "owner": "primary-education ministry (MEP/A/PLN/EC)",
+      "tiers": "cited only as the source of 2015 enrolment rates"
+    }
+  ],
+  "note": "Gender policy; it cites the education statistical yearbook for enrolment rates and says nothing of how schools keep learner records."
+}

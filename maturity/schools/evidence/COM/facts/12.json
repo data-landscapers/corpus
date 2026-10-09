@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-comores-gpe-rapport-achevement-education-primaire",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Tableau de bord 2020-2021",
+      "country_label": "tableau de bord 2020-2021",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "produced and made available in April 2022; the only data reference for sector planning and the joint sector review, for want of anything more recent"
+    }
+  ],
+  "note": "The capture is an excerpt that stops before the report's EMIS/SIGE findings; those appear only in the file's frontmatter note (no fully operational EMIS at the report date, centralised collection), which is the fetching agent's summary and not the document's text, so no fact and no SIGE entry is taken from it. The captured body names only the 2020-2021 dashboard, without saying how it is compiled."
+}

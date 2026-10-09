@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-22-policyforum-emis-knowledge-gap-mbeya",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The Rural Youth Collective reports that in every five schools it surveyed in Mbeya District Council in August 2025 only one had a single teacher with a basic understanding of EMIS, none formally trained; it gives no number of schools surveyed and no count of schools entering data.", "as_of": "2025-08", "date_precision": "month", "system": "Education Management Information Systems (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The Rural Youth Collective's August 2025 investigation in Mbeya District Council covered primary and secondary schools, whose teachers are expected to record and submit data through EMIS.", "as_of": "2025-08", "date_precision": "month", "system": "Education Management Information Systems (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The investigation describes EMIS in rural Mbeya schools in August 2025 as digital systems designed to track student attendance and examination results, which teachers are expected to use daily and through which parents should be able to see their children's progress; it also says teachers untrained in them cannot properly record and submit data, and does not say what is actually entered.", "as_of": "2025-08", "date_precision": "month", "system": "Education Management Information Systems (EMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information Systems (EMIS)", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "government (no ministry named)", "tiers": "teachers in rural primary and secondary schools, Mbeya District Council; data submitted to district and national level"}
+  ],
+  "note": "Classed emis on the document's own description (student attendance, examination results, daily use, a child's progress visible to parents); the document names no specific system and never states that per-learner entry is happening, so the parent should weigh the kept fact."
+}

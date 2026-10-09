@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS, with two components: SDMS and TMIS", "class": "", "platform": "", "owner": "", "tiers": "listed among e-governance tools introduced; what schools enter is not described"},
+    {"system": "School Data Management System (SDMS)", "country_label": "SDMS, a component of EMIS, introduced 2022", "class": "", "platform": "", "owner": "", "tiers": "described only as linked with IFMIS, Umwalimu SACCO and telecom companies (MTN, Airtel) to track salaries, payments, receivables and payables"},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS, a component of EMIS, introduced 2022", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "SDMS link to IFMIS, Umwalimu SACCO and telecom companies", "country_label": "Integrated Education Payments", "class": "exchange", "platform": "", "owner": "", "tiers": "SDMS linked with the government financial system, the teachers' savings cooperative and MTN and Airtel for payments"}
+  ],
+  "note": "No fact: a second capture of the document at n 14, with the same passages; SDMS is described only by its payment links, with nothing on learner records, so it is unclassified here; the payment links are evidence for dpi.exchange."
+}

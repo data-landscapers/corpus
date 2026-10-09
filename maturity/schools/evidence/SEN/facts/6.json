@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-01-evidence-informed-policymaking-education-data-kenya-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "SIMEN (National Education Information and Management System)", "country_label": "SIMEN", "class": "census", "platform": "Seven applications: PLANTE, STATEDU, GePS, GREEN, MIRADOR, FINPRONET, BATIMEN", "owner": "Ministry of National Education, Directorate of Educational Planning and Reform (DPRE); established by government and development partners under the PAQUET sector plan", "tiers": "Fed by statistical campaigns at the beginning of each year: questionnaires go from the centre to local level, sometimes on tablets; agents at IA and IEF fill them and send them to the SIMEN platform; dashboards for data input are provided for school principals, IA and IEF inspectorates and central planners"}
+  ],
+  "note": "The white paper (research December 2022 to February 2024) describes SIMEN only as the yearly statistical campaign feeding the annual yearbooks, capturing infrastructure, enrolment, learner characteristics by count, financing and staff; it states no per-learner record and no entry by schools during the year, so SIMEN is census here and gives no fact. It adds that limited connectivity at school level means data is often input manually, and recommends assigning a budget line for data collection."
+}

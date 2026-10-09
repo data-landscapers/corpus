@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-21-cne-quinze-recommandations-educmaster",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "S", "fact": "The Conseil National de l'Éducation's seminar of 20-21 July 2026 addressed two Educmaster recommendations to the Ministry of Secondary Education: to add reliable data on learners with special needs to the platform, and to follow up the exhaustive recording of girls' enrolment in Educmaster by heads of establishments; it names no Educmaster action for the primary ministry.", "as_of": "2026-07-21", "date_precision": "day", "system": "Educmaster", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The government's account of the 20-21 July 2026 seminar says girls' enrolment is recorded in Educmaster by heads of secondary establishments, and recommends following up that the recording is exhaustive; it gives no count of establishments and does not mention attendance or results.", "as_of": "2026-07-21", "date_precision": "day", "system": "Educmaster", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Educmaster", "country_label": "plateforme Educmaster", "class": "emis", "platform": "Educmaster", "owner": "", "tiers": "secondary establishments, entered by heads of establishments"}
+  ],
+  "note": "Class rests on one phrase: enrolment ('effectifs des filles') recorded in Educmaster by school heads; the document does not say whether that is a record per learner or a count, and both statements are recommendations, not reports of completed work."
+}

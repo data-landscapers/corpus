@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-bocra-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Universal Access and Service Fund broadband connectivity for schools",
+      "country_label": "UASF",
+      "class": "enabling",
+      "platform": "",
+      "owner": "BOCRA",
+      "tiers": "primary schools, health clinics and tribal administration offices in remote and previously unserved areas; all public schools expected to have internet in the first half of the 2024-2029 plan"
+    }
+  ],
+  "note": "The excerpt of BOCRA's annual report for the year to March 2024 gives school connectivity only, which is enabling; it names no system holding learner records."
+}

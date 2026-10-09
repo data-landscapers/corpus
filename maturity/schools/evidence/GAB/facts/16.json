@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-11-gabon-school-data-collection-priority",
+  "facts": [],
+  "systems": [
+    {"system": "School data collection with tablets and software", "country_label": "collecte des données scolaires", "class": "", "platform": "software proposed by UNESCO, not named; tablets announced by the World Bank", "owner": "Ministry of National Education", "tiers": "field collection; several establishments already equipped at 10 March 2025, training to follow"},
+    {"system": "Examination management database", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of National Education", "tiers": "not stated; exists, awaiting consolidation"},
+    {"system": "School assets database", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of National Education", "tiers": "not stated; exists, awaiting consolidation"}
+  ],
+  "note": "The document does not say what the field collection gathers, how often, or whether any record is per learner, so the collection tool is unclassified; the two existing databases each serve one function. No system of class emis is described."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-14-world-bank-isr-togo-basic-education-p172674",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS) prototype", "country_label": "EMIS", "class": "", "platform": "", "owner": "MEPSTA, under Component 3 of the World Bank and GPE basic education project P172674", "tiers": "Not stated; a prototype had been developed by the mission reported in the ISR archived 14 January 2025"},
+    {"system": "Human Resources Management Information System (HRMIS)", "country_label": "HRMIS", "class": "single-function", "platform": "", "owner": "MEPSTA, under project P172674", "tiers": "Test phase being rolled out"},
+    {"system": "monitoring platform for school inspectorates", "country_label": "", "class": "single-function", "platform": "", "owner": "MEPSTA, under project P172674", "tiers": "School inspectorates; platform finalised"},
+    {"system": "distance learning platform", "country_label": "", "class": "learning", "platform": "", "owner": "MEPSTA, under project P172674", "tiers": "Prototype developed"},
+    {"system": "CNEA global dashboard", "country_label": "", "class": "single-function", "platform": "", "owner": "National Center for Learning Evaluation (CNEA)", "tiers": "Developed; covers learning assessment"},
+    {"system": "annual statistical census and Statistical Yearbook", "country_label": "annual census; Statistical Year book", "class": "census", "platform": "", "owner": "", "tiers": "Yearly; the 2023-2024 yearbook supplies project indicators and the next census was not expected before May 2025"},
+    {"system": "interconnection of education platforms and databases", "country_label": "", "class": "exchange", "platform": "", "owner": "MEPSTA", "tiers": "Not in place: the mission noted the interconnection project had not been taken up"}
+  ],
+  "note": "No fact: the EMIS is named as a prototype with no description of what it records or who enters it, so it is unclassified; the other systems are of noted classes."
+}

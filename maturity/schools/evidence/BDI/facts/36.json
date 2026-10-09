@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-world-bank-burundi-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "government-to-government platform giving a unified database of schools; described in 2020 as out of date and not operating as intended, with World Bank support planned to clean the database, load new survey data, give each school a unique ID code and geo-tag schools"}
+  ],
+  "note": "The EMIS is described as a database of schools fed by survey data, with school-level codes planned and no record per learner or entry by schools during the year, so it is class census and gives no fact."
+}

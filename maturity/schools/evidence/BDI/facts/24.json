@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-unesco-iicba-burundi-education-country-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Education management information system (EMIS)", "country_label": "EMIS", "class": "census", "platform": "several databases, not named", "owner": "Ministry of Education, Bureau of Educational Planning and Statistics", "tiers": "annual data archives collected since 2008; publishes the Education Statistical Yearbook, latest edition 2020-2021"}
+  ],
+  "note": "The brief (January 2024) describes the EMIS only as annual data archives and the statistical yearbook, with data management challenges; nothing on entry by schools during the year, so it is class census and gives no fact."
+}

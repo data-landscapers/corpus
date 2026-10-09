@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-28-dpi-somalia-risks-repeating-old-mistakes",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Trust System (NDTS)", "country_label": "National Digital Trust System, NDTS", "class": "single-function", "platform": "", "owner": "not stated; described as being developed, with the startup Oshen named as working in the same space", "tiers": "not stated; under development, for verifying academic credentials issued by institutions"}
+  ],
+  "note": "Opinion piece by a vendor's founder. Says education platforms run unconnected to identity systems and that academic certificates are often paper-based and manually checked, but names no school records system and describes no learner record kept by primary schools; NDTS is credential verification only."
+}

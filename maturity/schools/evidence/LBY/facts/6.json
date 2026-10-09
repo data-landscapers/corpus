@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-29-libyaobserver-education-ministry-emis-unicef",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education (Information and Documentation Center; Planning and Strategies Department), supported by UNICEF Libya",
+      "tiers": "launched 2024-07-28 after a pilot phase in 205 educational institutions from all over the country; 30 ministry staff trained to use and manage it; data collected from institutions by online surveys"
+    }
+  ],
+  "note": "The document describes a statistical system fed by online surveys of educational institutions (institution, students, staff, teachers and their specialisations) and says nothing of schools adding attendance or results per learner during the year, so it is a census and gives no fact; it does not say which levels the 205 pilot institutions were."
+}

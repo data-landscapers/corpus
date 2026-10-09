@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-namibia-openemis-country-highlights-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "OpenEMIS Exams",
+      "country_label": "OpenEMIS Exams",
+      "class": "single-function",
+      "platform": "OpenEMIS",
+      "owner": "Community Systems Foundation names itself as the implementer, working with education partners",
+      "tiers": "examinations; enhanced in 2025 with verification, case management and online examination features"
+    }
+  ],
+  "note": "One line on Namibia: an examinations application was enhanced in 2025. It is a single function, so no fact; nothing is said on learner records kept by schools."
+}

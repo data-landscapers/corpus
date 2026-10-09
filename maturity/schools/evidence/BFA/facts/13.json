@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-01-annuaire-statistique-enseignement-primaire-2023-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "STATEDUC 2",
+      "country_label": "enquête statistique de l'enseignement primaire (recensement administratif des écoles primaires); annuaire statistique de l'enseignement primaire",
+      "class": "census",
+      "platform": "STATEDUC 2, developed by UNESCO's Dakar regional office",
+      "owner": "DGESS, Ministère de l'Enseignement de Base, de l'Alphabétisation et de la Promotion des Langues nationales (MEBAPLN)",
+      "tiers": "Paper forms filled per school and collected; keyed at the regional directorates (DREPPNF) on a local network installed by DGESS technicians, 8 April to 7 May 2024; regional bases cleaned and recovered 2 to 8 September 2024; primary level"
+    }
+  ],
+  "note": "The only system described is the yearly administrative census of primary schools, whose unit is the school, with forms keyed into STATEDUC 2 at regional directorates: class census, so no fact. The passages say nothing on how schools keep learner records."
+}

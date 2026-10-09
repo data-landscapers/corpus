@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay's country table states that rural primary schools in The Gambia predominantly record administrative data, attendance and learning outcomes on paper, with the digital tools donor-piloted; no date is given, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "DHIS2 for Education / SEMIS app", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The essay's country table states that DHIS2 for Education and the SEMIS app, scaled nationally by 2021, enable school-level entry of enrolment, attendance and performance data on offline Android devices and Chromebooks.", "as_of": "2021", "date_precision": "year", "system": "DHIS2 for Education / SEMIS app", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "The essay's country table states that DHIS2 for Education and the SEMIS app were piloted in 200 schools in 2020; no total and no school level is given.", "as_of": "2020", "date_precision": "year", "system": "DHIS2 for Education / SEMIS app", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The essay's country table states that DHIS2 for Education and the SEMIS app were scaled nationally by 2021, giving no count or share of schools entering data and saying most rural schools are limited by electricity and connectivity.", "as_of": "2021", "date_precision": "year", "system": "DHIS2 for Education / SEMIS app", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 for Education / SEMIS app", "country_label": "EMIS; SEMIS app", "class": "emis", "platform": "DHIS2 for Education; SEMIS app on offline Android devices and Chromebooks", "owner": "Ministry of Basic and Secondary Education (MoBSE), with GPE KIX and DHIS2", "tiers": "school-level entry; national dashboards and School Report Cards"}
+  ],
+  "note": "Passages of an AI-assisted compilation by its own header, listed under exclude_sources in study.json; facts recorded as the table states them, for the parent to exclude."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-08-gpe-itap-togo-enabling-factors",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "GPE's Independent Technical Advisory Panel, reporting on 8 April 2024, found no clear evidence that Togo has student identification numbers (or a master list of schools), and said an automatic data collection system was still being developed; it gives no count of schools.", "as_of": "2024-04-08", "date_precision": "day", "system": "numéros d'identification des élèves (none evidenced)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIGE", "country_label": "SIGE (système d'information pour la gestion de l'éducation)", "class": "census", "platform": "", "owner": "MEPSTA", "tiers": "Official annual data collection for pre-primary, primary, secondary and TVET, published in statistical yearbooks within three months of the school year's end; the panel says Togo does not yet have a fully accessible, operational SIGE because nothing links the quantitative, financial and qualitative data"},
+    {"system": "système de collecte automatique des données", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "Still being developed, per the country's self-analysis"},
+    {"system": "SYNECAT (système national d'évaluation des compétences des apprenants)", "country_label": "SYNECAT", "class": "single-function", "platform": "", "owner": "", "tiers": "Planned sample learning assessment every two years in CP2 and CM1 and at lower secondary; not an information system schools enter into"}
+  ],
+  "note": "Body is an excerpt cut off in Part C, a recap of conclusions given in full above."
+}

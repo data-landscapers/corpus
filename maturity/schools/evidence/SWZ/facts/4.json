@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-27-eswatini-budget-speech-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Staff and Student Education Management Information System (SEMIS)", "country_label": "SEMIS", "class": "", "platform": "DHIS2", "owner": "Government of Eswatini", "tiers": ""}
+  ],
+  "note": "Passages file. The Minister for Finance says SEMIS, built on DHIS2, gives real-time data on teachers, students and school performance; the speech does not say who enters what or when, nor in which schools, so the system is unclassified and gives no fact. No budget line for it is stated in the passages."
+}

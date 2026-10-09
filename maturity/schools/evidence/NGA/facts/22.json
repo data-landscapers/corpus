@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-10-vanguard-fg-scraps-data-charges-students-education-platforms",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Nigeria Education Management Information System", "country_label": "Digital Nigeria Education Management Information System", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Nigeria Education Data Infrastructure", "country_label": "Nigeria Education Data Infrastructure", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Learner Identification Number", "country_label": "Learner Identification Number", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Nigeria Learning Passport", "country_label": "Nigeria Learning Passport", "class": "learning", "platform": "curriculum content platform, zero-rated on an Airtel SIM", "owner": "Federal Government with UNICEF and other partners", "tiers": "learners and teachers"},
+    {"system": "Initiative for Zero-Rated Access to Educational Platforms and Content", "country_label": "Initiative for Zero-Rated Access to Educational Platforms and Content in Nigeria", "class": "enabling", "platform": "zero-rated mobile data on approved platforms", "owner": "Federal Ministry of Education with the Nigerian Communications Commission and operators", "tiers": "unveiled 10 September 2026"}
+  ],
+  "note": "The ministry's data systems are named only; nothing is said of what any of them records."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-13-lbr-moe-apo-standardize-school-records",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Ministry of Education opened a five-day session in Kakata to develop and validate a Statutory School Record-Keeping Booklet as the common nationwide system for school-level records on students, teachers and attendance; the document names no digital system at schools and does not use the word paper (document date used, no event date given).", "as_of": "2026-09-13", "date_precision": "day", "system": "Statutory School Record-Keeping Booklet", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Statutory School Record-Keeping Booklet", "country_label": "Statutory School Record-Keeping Booklet", "class": "emis", "platform": "booklet", "owner": "Ministry of Education", "tiers": "schools nationwide (being developed and validated)"},
+    {"system": "Annual School Census", "country_label": "2024/25 Annual School Census Fact Sheets", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "county education teams use the fact sheets for County Education Operational Plans"}
+  ],
+  "note": "The one fact is the school-level record itself being a booklet; the parent should check its class and value, since the document says booklet, not paper, and does not say paper only."
+}

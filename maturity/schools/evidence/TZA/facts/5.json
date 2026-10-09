@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay's country table states that rural primary schools in Tanzania predominantly use paper registers for administrative data, attendance and learning outcomes, aggregated by hand into the national EMIS at district or regional level, with digital pilots isolated and not standard; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "National EMIS / BEST", "country_label": "EMIS/BEST", "class": "census", "platform": "", "owner": "", "tiers": "schools return annual paper forms (TSA); aggregated at district or regional level"},
+    {"system": "School Information System (SIS)", "country_label": "SIS", "class": "", "platform": "", "owner": "", "tiers": "proposed in the ESDP 2025/30 with optional offline or mobile entry"},
+    {"system": "InfoTaaluma", "country_label": "InfoTaaluma", "class": "", "platform": "SMS and app", "owner": "", "tiers": "253 schools, about 4% of secondary schools; primary coverage unclear"},
+    {"system": "ESMIS", "country_label": "ESMIS", "class": "", "platform": "", "owner": "", "tiers": "prototype, 2025"}
+  ],
+  "note": "This slug is on study.json's exclude_sources list (an AI-assisted compilation by its own header); the fact is recorded as the document states it and is the parent's to exclude."
+}

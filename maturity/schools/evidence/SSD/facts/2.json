@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-05-south-sudan-launches-new-education-in-emergencies-data-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education in Emergencies Management Information System (EiE-MIS)",
+      "country_label": "EiE-MIS",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of General Education and Instruction (MoGEI), with technical support from UNESCO and the HISP network, funded by Education Cannot Wait",
+      "tiers": "Launched at the ministry by August 2026; 35 master trainers are to support rollout across states, counties and schools"
+    }
+  ],
+  "note": "No fact: the EiE-MIS is described only as a platform to collect, manage and analyse education data during emergencies, with no statement of a record per learner or of what schools enter and when, so its class is left empty. DHIS2 is said to be able to support routine school data collection, as a capability and not as a use. The TVET-MIS it also names is vocational and outside the study. 12 County Education Departments were given solar power, computers and internet (enabling)."
+}

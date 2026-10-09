@@ -1,0 +1,31 @@
+{
+  "slug": "2024-09-20-gnb-pacto-parceria-educacao-gpe-compact",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE",
+      "country_label": "SIGE (Sistema de Informação e de Gestão da Educação)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Anuário estatístico (education statistical yearbook)",
+      "country_label": "anuário estatístico",
+      "class": "census",
+      "platform": "",
+      "owner": "MENESIC, through DGEPASE",
+      "tiers": "National; last official yearbook covers school year 2014-2015, with partial data released by DGEPASE for later years"
+    },
+    {
+      "system": "School mapping (carta escolar)",
+      "country_label": "carta escolar / mapeamento escolar",
+      "class": "census",
+      "platform": "",
+      "owner": "MENESIC",
+      "tiers": "National; under way in September 2024, to be followed by a national data-collection plan"
+    }
+  ],
+  "note": "No fact: SIGE appears in the list of acronyms only, with no description; the compact's data passages concern the yearbook and the school mapping, both census class. The held text is an excerpt, cut at the fetch limit partway through section 5."
+}

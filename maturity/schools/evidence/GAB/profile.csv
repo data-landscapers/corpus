@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,emis,governance,qualifier,owner:ministry,2026-03-06,GAB-001,GAB-005=owner:ministry,"not stated: plan, finance"
+GAB,emis,levels,coverage,P;S,2026-03-06,GAB-002,GAB-006=S,
+GAB,emis,kept,coverage,routine,2019,GAB-007,,nothing dated since 2023-10-09
+GAB,emis,last12,qualifier,advancing,2026-03-06,GAB-003,,
+GAB,emis,schools,coverage,not-published,2026-03-06,GAB-004;GAB-008,,

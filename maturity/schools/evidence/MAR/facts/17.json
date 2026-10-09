@@ -1,0 +1,9 @@
+{
+  "slug": "2022-09-07-morocco-e-government-interoperability-platform",
+  "facts": [],
+  "systems": [
+    {"system": "MASSAR", "country_label": "MASSAR school management system", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-government interoperability platform", "country_label": "Interoperability Platform", "class": "exchange", "platform": "built by Minsait", "owner": "Agency for Digital Development (ADD)", "tiers": "central; MASSAR, the Single Social Register (RSU) and some social programmes operational on it as of the 5 September 2022 release"}
+  ],
+  "note": "MASSAR is named as a 'school management system' connected to the interoperability platform (September 2022), with no description of what schools enter in it, so it is unclassified and gives no fact; the link is evidence for dpi.exchange."
+}

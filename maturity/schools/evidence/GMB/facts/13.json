@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-29-worldbank-gambia-rise-project-isr05520",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (MoBSE)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Basic and Secondary Education (MoBSE)", "tiers": ""},
+    {"system": "Interoperability of the GamSR, the EMISs of MoBSE and MoHERST, CRVS and the health insurance system", "country_label": "", "class": "exchange", "platform": "", "owner": "RISE project (World Bank P179233)", "tiers": "baseline of no interoperability in January 2024; value 0 at 25 November 2025 with one instance being verified; target of at least 3 systems by October 2028"}
+  ],
+  "note": "Names MoBSE's EMIS only as one party to an interoperability indicator, with no description of what it does; no fact."
+}

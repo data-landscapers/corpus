@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-05-dailynews-tanzania-digital-education-teacher-training",
+  "facts": [],
+  "systems": [
+    {"system": "Open Public School (OPS) platform", "country_label": "Open Public School (OPS)", "class": "learning", "platform": "", "owner": "Tanzania Institute of Education (TIE)", "tiers": "secondary school teachers trained on it in Arusha City and Arusha District"},
+    {"system": "TIE Teachers Continuous Professional Development Learning Management System", "country_label": "TCPD LMS", "class": "learning", "platform": "", "owner": "Tanzania Institute of Education (TIE)", "tiers": "teachers, after face-to-face training"},
+    {"system": "MEWAKA", "country_label": "MEWAKA", "class": "", "platform": "", "owner": "Government", "tiers": ""}
+  ],
+  "note": "A four-day ICT training for government secondary school teachers in Arusha (1-4 September 2026); a session covered school records and data in general terms, and no system holding learner records is named or described."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2024-06-05-worldbank-icr-strengthening-social-safety-net-project-egypt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "TKP MIS conditionality compliance module",
+      "country_label": "Takaful and Karama Program MIS, conditionality module",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Social Solidarity",
+      "tiers": "national cash transfer programme; holds school attendance monitoring information for 97% of beneficiary school-aged children at project closing (31 December 2023), against 2% of data available until mid-2021; MoSS social workers spot-check and train school staff"
+    },
+    {
+      "system": "MoETE systems for student attendance data",
+      "country_label": "partner agencies' systems (MoETE)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "the project financed upgrades, tablets, MIS enhancement and protocols for collecting and sharing student attendance data, and built schools' capacity to record it; the system is not named or described"
+    },
+    {
+      "system": "MoSS-MoETE attendance data sharing",
+      "country_label": "MoUs with MoHP and MoETE for sharing data to monitor compliance",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Social Solidarity with MoETE",
+      "tiers": "national; attendance of Takaful children aged 6 to 18 against the 80% attendance condition"
+    },
+    {
+      "system": "Unified National Registry",
+      "country_label": "UNR",
+      "class": "exchange",
+      "platform": "",
+      "owner": "MoPMAR at appraisal",
+      "tiers": "national; data exchange between agencies for social protection targeting"
+    }
+  ],
+  "note": "No fact: the attendance record described is the social ministry's cash-transfer conditionality module covering beneficiary children only, a single function; the education ministry's own system is supported but neither named nor described, so nothing is said of schools keeping a record per learner in an EMIS. Passages only."
+}

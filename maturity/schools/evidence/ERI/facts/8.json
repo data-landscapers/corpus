@@ -1,0 +1,15 @@
+{
+  "slug": "2024-04-19-gpe-eri-001-eritrea-emis-system-transformation-grant",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "national"
+    }
+  ],
+  "note": "A deal record built on the April 2024 GPE programme document (US$11.82m System Transformation Grant plus US$2.2m System Capacity Grant, UNICEF as grant agent): it says the programme funds strengthened routine data collection, processing, storage and use in the national EMIS, without saying what the EMIS holds or who enters it, so the system is unclassified and gives no fact."
+}

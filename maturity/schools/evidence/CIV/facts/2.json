@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Data Landscapers review (an AI-assisted compilation) states that rural primary schools in Côte d'Ivoire predominantly record attendance, enrolment and grades on paper, and that it found no evidence of digital recording at rural school level; no date is given, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "learner records at rural primary schools (no system named)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS/SIGE", "country_label": "SIGE", "class": "census", "platform": "", "owner": "ministry (DTSI named as the receiving directorate)", "tiers": "data flow from schools to regional DRENs and then the ministry's DTSI, often by physical questionnaire; centralises aggregates, entered above the school; piloted in Bouaké and San Pedro and in secondary schools, primary extension said to be ongoing"}
+  ],
+  "note": "SIGE is classed census on this document's own description: it centralises aggregates entered above the school from questionnaires, and no per-learner entry by schools is stated. The review also says SIGE was piloted in Bouaké, San Pedro and secondary schools with primary extension ongoing, which is not recorded as a fact for that reason. It cites 62% of primary schools without electricity and 2% with multimedia (SNDECI 2024-28), which is enabling."
+}

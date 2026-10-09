@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-19-mali-miqra-isr-seq10-emis",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education, with the CPS; World Bank MIQRA project (P164032, IDA and GPE trust funds)", "tiers": "not established: the indicator 'integrated and functional EMIS' stood at No on 1 November 2025 against a target of Yes by June 2027; the subcomponent supporting it is to be dropped in the pending restructuring, and a modular build on priority needs is being worked out with the CPS"},
+    {"system": "Statistical yearbooks (education)", "country_label": "statistical yearbooks", "class": "census", "platform": "", "owner": "Ministry of Education; publication now supported by the MIQRA project", "tiers": "national; latest data in use are 2022/23, publication of the 2023/24 and following yearbooks delayed"},
+    {"system": "Scripted lesson plans on solar-charged tablets", "country_label": "", "class": "learning", "platform": "", "owner": "Ministry of Education, MIQRA project", "tiers": "planned for grade 1 and 2 teachers once the Ministry validates the lesson plans"}
+  ],
+  "note": "No fact: the ISR names the EMIS without saying what it does or would hold, so it is unclassified and gives a systems entry only. Parent to weigh: it is a dated statement (1 November 2025) that the integrated EMIS is not established and that its World Bank subcomponent is being dropped, which would bear on last12 and governance if another document classes the system emis."
+}

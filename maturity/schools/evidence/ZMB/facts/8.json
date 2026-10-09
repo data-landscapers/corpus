@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-01-zambia-education-enhancement-project-zeep-implementation-support-mission-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (existing, and an enhanced integrated EMIS to be developed)", "country_label": "Education Management and Information System (EMIS)", "class": "", "platform": "", "owner": "Ministry of Education (ICT directorate), financed by the World Bank's ZEEP", "tiers": "Ministry headquarters, with provincial and district staff to be trained; at June 2025 the redesign consultancy was unsigned (signing due 15 September 2025, completion 31 August 2026, both subject to the project's extension) and the infrastructure contract due for signing 4 July 2025"},
+    {"system": "Teaching Council of Zambia teacher database", "country_label": "teacher database", "class": "single-function", "platform": "", "owner": "Teaching Council of Zambia", "tiers": "enhancement not started; target of use in 70 districts awaits the EMIS"},
+    {"system": "Teacher Development Data Platform (TDDP)", "country_label": "Teacher Development Data Platform (TDDP)", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "not developed; indicator likely to be dropped for overlap with the existing EMIS"},
+    {"system": "GIS school mapping", "country_label": "GIS school mapping", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "coordinates of all schools updated; provincial and district offices oriented"},
+    {"system": "textbook management system", "country_label": "improved textbook management system", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "reported in place and in use"}
+  ],
+  "note": "The aide memoire names an existing EMIS and a redesigned integrated EMIS still at procurement in June 2025, but never says what either holds or whether schools enter learner records, so the system is unclassed and gives no fact. The parent may want the dated procurement status, which is in the tiers field."
+}

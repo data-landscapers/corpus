@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-30-dhis2-school-reporting-edo-state",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "DHIS2 states that Edo State has future plans to implement the SEMIS system for individual-level tracking of students, staff and schools, the system in use (EdoEMIS) taking school-level data; no date is given, so the document's published date is used.", "as_of": "2025-05-30", "date_precision": "day", "system": "SEMIS (planned, Edo State)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EdoEMIS", "country_label": "EdoEMIS, education management information system (EMIS)", "class": "single-function", "platform": "DHIS2, with the DHIS2 Capture mobile app or web interface", "owner": "Edo State Ministry of Education under its EdoDiDA initiative, implemented and supported by Data Science Nigeria with support from the Gates Foundation", "tiers": "implemented 2023; 51 pilot schools, urban and rural, with over 17,000 students and more than 350 teachers; school staff submit school-level attendance, punctuality and resource-need data daily; said to be being scaled to schools across the state"},
+    {"system": "SEMIS (planned, Edo State)", "country_label": "SEMIS", "class": "emis", "platform": "DHIS2 SEMIS", "owner": "Edo State", "tiers": "future plan: individual-level tracking of students, staff and schools"}
+  ],
+  "note": "For the parent: EdoEMIS is described as daily submission of school-level data on attendance, punctuality and resource needs, with individual-level tracking named as a future plan under SEMIS, so the document does not say schools add per-learner records and EdoEMIS gives no fact. If it is ruled emis, the document supports: kept routine (daily entry at the school); schools pilot (51 pilot schools, no total; scaling statewide); levels not stated; owner Edo State Ministry of Education; finance Gates Foundation support; implemented 2023."
+}

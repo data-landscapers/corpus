@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-ghana-moe-pmdv-dashboard-api-documentation",
+  "facts": [],
+  "systems": [
+    {"system": "Performance Management and Data Visualization (PMDV) Dashboard API", "country_label": "PMDV Dashboard", "class": "exchange", "platform": "JSON API over a database and MongoDB", "owner": "Ministry of Education (PMDV Development Team)", "tiers": "serves aggregates by region, district and school: weekly teacher attendance rates, NST scores, EMIS school counts, a school list with EMIS codes and enrolment rates; accepts data posted by an agency through a NASIA endpoint; last updated 2024"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "source of school counts by level and status, of enrolment rates, and of region, district and school codes"},
+    {"system": "teacher attendance data", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "teacher attendance by term and week, filterable to school; teachers present and absent, not learners; the document body does not name the system it comes from"},
+    {"system": "National Standardized Test (NST) scores", "country_label": "NST", "class": "single-function", "platform": "", "owner": "", "tiers": "scores aggregated by subject, performance level, sector and gender"},
+    {"system": "NASIA", "country_label": "NASIA", "class": "", "platform": "", "owner": "", "tiers": "an agency endpoint that inserts data; what the data is is not stated"}
+  ],
+  "note": "A technical specification of aggregate endpoints; nothing in it holds or describes a record per learner entered by schools. The capture's own note names MSRC and NaSIA-SLIMS as sources, the document body does not."
+}

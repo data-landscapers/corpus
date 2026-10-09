@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-12-gha-yaw-opoku-mensah-criticises-new-shs-placement-system",
+  "facts": [],
+  "systems": [
+    {"system": "CloudSys", "country_label": "senior high school placement system", "class": "single-function", "platform": "CloudSys (third-party application)", "owner": "Ministry of Education / Ghana Education Service, on a third-party application", "tiers": "schools asked by Ghana Education Service letter of 18 August 2026 to populate their data; used for data collection, processing and placement into senior high schools"},
+    {"system": "previous SHS placement system", "country_label": "senior high school placement system", "class": "single-function", "platform": "developed in-house", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "Only a senior high school placement system is described, one function; no system holding learner records that schools add to during the year."
+}

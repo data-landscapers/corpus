@@ -1,0 +1,10 @@
+{
+  "slug": "2021-08-01-reviewed-national-policy-on-emis",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Education Management Information System (NEMIS)", "country_label": "NEMIS (federal), SEMIS (state) and LEMIS (local government)", "class": "census", "platform": "an electronic Annual School Census template developed by NEMIS; the network said to be moving from stand-alone to networked computers", "owner": "Federal Ministry of Education (Statistics and NEMIS, under Educational Planning, Research and Development), with State Ministries of Education, SUBEBs and Local Government Education Authorities", "tiers": "data originates at the school and passes to the LGA, the state and the federal database; over 900 data nodes; the electronic census template deployed to states and then to schools"},
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census (ASC)", "class": "census", "platform": "electronic ASC template", "owner": "Federal Ministry of Education; states monitor and supervise its conduct", "tiers": "school heads trained to complete it electronically"},
+    {"system": "school record books", "country_label": "record-books", "class": "", "platform": "", "owner": "schools", "tiers": "prescribed by the guidelines: teachers in pre-primary, basic and senior secondary schools to record daily events, including learner bio-data and academic performance, the head teacher to report to the LGEA, weekly as recommended, and the LGEA to store reports in a database, preferably electronic"}
+  ],
+  "note": "The 2021 policy describes NEMIS in operation as the Annual School Census and the flow of school returns upward, says the present system attends to enrolments and a few other events, and itself remarks that the census is often taken to be the EMIS; per-learner record keeping and weekly reporting are what it prescribes, not what it states is done, so there is no fact."
+}

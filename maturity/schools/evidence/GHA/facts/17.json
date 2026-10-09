@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-ghana-education-sector-medium-term-development-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Computerized School Selection and Placement System (CSSPS)", "country_label": "CSSPS", "class": "", "platform": "", "owner": "", "tiers": "named in the acronym list only"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education, Statistics, Research and Information Management directorate (per the capture's own note, not the captured text)", "tiers": "not in the captured text; the capture's note says the plan's 2023/2024 baselines are drawn from it"}
+  ],
+  "note": "The capture holds only the title page, contents and part of the acronym list of a 265-page plan; the monitoring and EMIS chapters are not captured, so nothing is stated about what any system does."
+}

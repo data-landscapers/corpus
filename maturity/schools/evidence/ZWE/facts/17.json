@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-kuyenda-investing-in-emis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Primary and Secondary Education, budgeted through its planning directorate (per the 2019 ADEA peer review the article cites)",
+      "tiers": "collects enrolment, teacher numbers and educational facilities; teachers and district officials in Mutoko say most rural schools, and some district offices, lack the devices or connectivity to contribute data in real time"
+    }
+  ],
+  "note": "The EMIS is described only as collecting enrolment, teacher and facility data, with no per-learner record that schools add to, so it is classed census and gives no fact; the article is undated (year 2025 from the row) and its resourcing findings are the 2019 peer review's."
+}

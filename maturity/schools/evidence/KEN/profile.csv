@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+KEN,emis,governance,qualifier,owner:ministry;finance:donor,2026-09-09,KEN-003;KEN-004,KEN-009=owner:ministry;KEN-015=owner:ministry;KEN-020=owner:ministry;KEN-021=finance:donor,not stated: plan
+KEN,emis,levels,coverage,P;S,2026-09-09,KEN-002;KEN-013,KEN-019=P;S,
+KEN,emis,kept,coverage,enrolment,2026-09-11,KEN-001;KEN-008;KEN-012;KEN-018,,
+KEN,emis,last12,qualifier,regressing,2026-09,KEN-005;KEN-007,KEN-006=advancing;KEN-010=advancing;KEN-016=advancing,
+KEN,emis,schools,coverage,share:65%,2021,KEN-014,KEN-017=share:90%,nothing dated since 2023-10-09

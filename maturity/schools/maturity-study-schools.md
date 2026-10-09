@@ -64,13 +64,13 @@ The id enters `lookups/indicators.csv` only at acceptance, when both old rows ar
 
 ## 4. The ladder
 
-Tested and fixed at S3.
+Tested and fixed at S3, 2026-10-09 (`ladder-test.csv`): a register still at its pilot is stage 2, and a level is no longer required to be named.
 
 | Stage | Levels | How the record is kept | Primary schools |
 |---|---|---|---|
 | 1 Absent | A dated statement that primary schools keep learner records on paper only | | |
 | 2 Preparing | An EMIS for primary schools is being prepared or piloted; or one runs in secondary schools only | Any, or not stated | Pilot schools, or none |
-| 3 Establishing | P: past its pilot and live in some primary schools; or a learner register that schools fill | `routine` in the live schools; or `enrolment` or `keyed-elsewhere` | A minority, a count with no total, or not published |
+| 3 Establishing | P: past its pilot and live in some primary schools, for routine entry or as a learner register | `routine`, `enrolment` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | P | `routine` | More than half enter attendance or results during the year, on a share or a count with a denominator |
 | 5 Leading | P | `routine`, with attendance entered daily | 90 per cent or more, on a figure published within two years that gives the rural share |
 
@@ -80,7 +80,7 @@ Tested and fixed at S3.
 
 **Preparation is the health study's** (its §4).
 
-**A share of all schools is read as the share of primary schools**, and the short summary says which. A share of schools *registered on* or *given* a system is not a share entering data: it places by the lower rung.
+**A share of all schools is read as the share of primary schools, and a system for *schools* with no level named as P**; the short summary says which. A share of schools *registered on* or *given* a system is not a share entering data: it places by the lower rung.
 
 ## 5. The norm
 
@@ -91,14 +91,14 @@ The African Union's Digital Education Strategy (2022): devices for 20 per cent o
 ## 6. What Phase 1 reads and searches for
 
 - **Subjects**: `dpi.mis`, `digital.rural`, `dpi.exchange`.
-- **Term list**: in `study.json`. **Census terms are searched on purpose**: a census document is where a ministry says what else it runs.
+- **Term list**: in `study.json`. Census terms are in it on purpose.
 - **Source types for the briefs**, ranked: ministry EMIS manuals, user guides and circulars, which say who enters what and when; education sector plans and joint sector reviews; World Bank and GPE appraisal and implementation reports; UNESCO, UIS and UNICEF EMIS diagnostics; statistical yearbooks, for their method chapter only; dated news of a rollout, an outage or a withdrawal, for aspect 4.
 
 ## 7. Tasks, in order
 
 - [x] **S1. Bill's rulings** on §1 to §4: all agreed, 2026-10-09.
-- [ ] **S2. Review all 54 countries in one run**, method §4. `study-ladder-health.py` is the health study's own; write its counterpart, with tests.
-- [ ] **S3. Test and fix the ladder** on the profiles, method §3 rule 9. Read the Strategy's fourth objective whole and correct §5 if it does not say what the first run took it to.
+- [x] **S2. Review all 54 countries in one run**, method §4: 1,105 documents, 302 facts.
+- [ ] **S3. Test and fix the ladder** on the profiles: done. Still to do: read the Strategy's fourth objective whole and correct §5 if it does not say what the first run took it to.
 - [ ] **S4. Search, select and hand over**, method §5. Tell Bill the count before the note is written.
 - [ ] **S5. Phase 2, on Bill's trigger**, method §6 and §7.
 - [ ] **S6. Write, render and lint**, method §8. Write `study.json`'s `criteria` again from the fixed ladder and set `criteria_of`. Commit.

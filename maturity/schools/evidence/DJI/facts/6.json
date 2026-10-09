@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-20-lanation-interview-ministre-education-gose-smis",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The education minister says in a November 2025 interview that the ministry, through its GOSE and SMIS platforms, now has reliable data to detect pupils in difficulty before they drop out, and that more than 3,000 pupils have been supported through the system; he does not say who enters the data, how often, or at which school levels.", "as_of": "2025-11-20", "date_precision": "day", "system": "GOSE and SMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "GOSE and SMIS", "country_label": "plateformes GOSE et SMIS", "class": "emis", "platform": "", "owner": "Ministère de l'Éducation Nationale et de la Formation Professionnelle", "tiers": "not stated; used by the ministry to identify individual pupils at risk"},
+    {"system": "Système d'Assurance Qualité", "country_label": "Système d'Assurance Qualité (SAQ)", "class": "single-function", "platform": "", "owner": "Ministère de l'Éducation Nationale et de la Formation Professionnelle", "tiers": "more than 60 pilot schools, for school self-evaluation"}
+  ],
+  "note": "Classed emis because the document says the platforms identify individual pupils; it does not state that schools enter records during the year, so the parent should weigh the class."
+}

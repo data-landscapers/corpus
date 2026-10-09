@@ -1,0 +1,39 @@
+{
+  "slug": "2020-10-15-congo-plan-action-2021-2023-strategie-sectorielle-education",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE",
+      "country_label": "SIGE; système statistique; annuaires statistiques",
+      "class": "census",
+      "platform": "",
+      "owner": "MEPSA, Direction des études et de la planification (DEP)",
+      "tiers": "Central; activity 1.6.5.3 (437.3 million FCFA, World Bank PRAASED, 2021-2022) renews the collection forms and funds a study on deconcentrating the SIGE, so that MEPSA publishes statistical yearbooks by January of the following school year"
+    },
+    {
+      "system": "Carte scolaire",
+      "country_label": "carte scolaire (processus et outils)",
+      "class": "",
+      "platform": "",
+      "owner": "MEPSA, DEP",
+      "tiers": "To be built in 3 pilot departments by 2023 and then extended (activity 1.6.5.1, UNESCO and UNICEF project finance); a planning tool, with no description of what it holds"
+    },
+    {
+      "system": "Plateforme numérique (continuité éducative)",
+      "country_label": "plateforme numérique",
+      "class": "learning",
+      "platform": "",
+      "owner": "MEPSA",
+      "tiers": "National; Covid-19 response activity 1.6.3.1, listed with manuals and radio and television lessons, 583 million FCFA from the GPE Covid grant in 2021"
+    },
+    {
+      "system": "Équipement TIC des écoles primaires (tablettes)",
+      "country_label": "matériel TIC léger (type tablettes)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "MEPSA, DGEB",
+      "tiers": "Primary schools with electricity: 1,020 tablets planned for 2022 and 1,140 for 2023 against a base of 0 (activity 1.2.9.1, finance still to be found); 6 to 7 schools a year to be connected to power (activity 1.2.6.4)"
+    }
+  ],
+  "note": "A costed table of planned activities for 2021-2023: the SIGE appears only as the statistical system behind the yearbooks (forms, yearbook, a deconcentration study), which is a census; no system holding per-learner records is described and nothing is said on how schools keep learner records. Technical, vocational and higher education lines were left out as outside the study's levels."
+}

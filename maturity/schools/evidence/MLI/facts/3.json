@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review states that rural primary schools in Mali predominantly record attendance, enrolment and grades on paper, citing a 2024 study of Malian basic-education schools that found 90% of administrative tasks manual (enrolment in paper registers or Excel, learner files as physical dossiers), and that it found no evidence of digital recording at school level.", "as_of": "2024", "date_precision": "year", "system": "paper school records (no learner-record system at the school)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "national level: data collected on paper from schools, then entered centrally"},
+    {"system": "Web-based platforms for registration and attendance", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "described only as appearing urban or pilot-focused"}
+  ],
+  "note": "Passages file. The one fact is a statement of absence (paper at the school), recorded under the sub-indicator's class with no system behind it, dated to the 2024 study the review cites. The EMIS as described receives paper returns keyed centrally, so it is class census. The source's own header marks its country rows as an AI-assisted compilation, the author's analysis and not sourced fact."
+}

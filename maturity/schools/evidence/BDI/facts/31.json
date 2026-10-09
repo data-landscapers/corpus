@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-menrs-annuaire-statistique-education-2024-2025-tome-2",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire statistique de l'éducation / recensement scolaire", "country_label": "Annuaire statistique de l'éducation; recensement scolaire", "class": "census", "platform": "", "owner": "MENRS, Bureau de la Planification et des Statistiques de l'Éducation (BPSE)", "tiers": "edition 2024-2025 published December 2025, global data as at 15 November 2024; tome 2 covers post-fondamental general, pedagogic and technical schools and vocational centres, public and private, by province and commune; private schools appear where they answered the school census"}
+  ],
+  "note": "The captured body is the cover and table of contents of the yearbook built on the annual school census: counts per school once a year, class census, so no fact. The method note itself was not in the capture."
+}

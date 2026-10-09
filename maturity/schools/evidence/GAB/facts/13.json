@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-09-gabon-school-health-sige-integration",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Système d'Information pour la Gestion de l'Éducation (SIGE)", "class": "", "platform": "", "owner": "Ministry of National Education", "tiers": "not stated; a planning, management and monitoring tool to which school health and well-being indicators (hygiene, nutrition, water access, safety) were being added in August 2025"}
+  ],
+  "note": "SIGE is described as collecting, analysing and using education data for policy, with health indicators being added; the document does not say who enters data, how often, or whether any record is per learner, so it is unclassified and gives no fact."
+}

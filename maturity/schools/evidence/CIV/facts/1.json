@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-c-te-d-ivoire-turns-to-digital-mapping-to-improve-school-planning",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Education Management Information System (SIGE)", "country_label": "SIGE", "class": "", "platform": "", "owner": "Education Ministry, with Millennium Challenge Corporation support under a $536 million Compact", "tiers": "deployed since 2022; tested in Bouaké and San Pedro; nationwide extension planned; aims given as human-resources management, student-enrolment monitoring and examination administration"},
+    {"system": "Digital national school map", "country_label": "school map (carte scolaire)", "class": "single-function", "platform": "geographic information systems, to be combined with SIGE", "owner": "Education Ministry", "tiers": "national planning tool, in preparation: stakeholders convened in Yamoussoukro on 19 August 2026"}
+  ],
+  "note": "SIGE is described by its aims only (HR, enrolment monitoring, examinations) and as tested in Bouaké and San Pedro; the article does not say that schools enter per-learner records, nor that it is a yearly return, so it is left unclassified and gives no fact. The school map is a planning tool."
+}

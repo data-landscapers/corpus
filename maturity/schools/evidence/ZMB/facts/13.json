@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-zambia-education-management-system-emis-user-story",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS), Namwala District", "country_label": "EMIS", "class": "single-function", "platform": "DHIS2", "owner": "Akros, in partnership with the Ministry of General Education, with UNICEF support", "tiers": "one district (Namwala), from 2016; data entered on tablets as one monthly and one termly report; scaling to more districts and national reports are stated as hopes"},
+    {"system": "annual school reports database", "country_label": "annual reports from schools", "class": "census", "platform": "Microsoft Access", "owner": "Ministry of General Education", "tiers": "schools report yearly on paper; entered into the ministry's database; enrolment only"}
+  ],
+  "note": "No emis fact: the document says the Namwala system captures aggregate data monthly (enrolment and attendance counts of teachers and students, WASH, literacy and numeracy exam scores, feeding days), not a record per learner. It is entered during the year, so it is not a census either; single-function is the nearest class (aggregate totals sent up) and the parent should check it. The page is undated (footer 2021-06-14; row year 2025) and describes a programme begun in 2016."
+}

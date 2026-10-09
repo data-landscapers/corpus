@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-eswatini-dhis2-for-education-implementation",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "The DHIS2 for Education country page states that the Ministry of Education and Training, with UNICEF Eswatini's support, proposed DHIS2 for Education through an initial pilot project in 2020, sought so as to monitor individual learners and staff by personal identification number; it gives no number of pilot schools.", "as_of": "2020", "date_precision": "year", "system": "SEMIS App (individual data)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The page states that the country has since expanded to nationwide implementation and gives the scale as National, with no count or share of schools; it gives no date for this, so the document's published year is used.", "as_of": "2024", "date_precision": "year", "system": "SEMIS App (individual data)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:domestic", "fact": "The page lists the implementation's funding partners as UNICEF Eswatini, GPE KIX, the Ministry of Education and Training and UNESCO Eswatini: the ministry is named as a funder beside three donors, and no budget line or amount is given; undated, so the document's published year is used.", "as_of": "2024", "date_precision": "year", "system": "SEMIS App (individual data)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SEMIS App (individual data)", "country_label": "SEMIS", "class": "emis", "platform": "DHIS2", "owner": "Ministry of Education and Training, with UNICEF Eswatini and HISP Uganda", "tiers": "scale given as National"},
+    {"system": "EMIS (aggregate data)", "country_label": "EMIS", "class": "census", "platform": "DHIS2", "owner": "Ministry of Education and Training", "tiers": "scale given as National"},
+    {"system": "legacy MS Access system", "country_label": "", "class": "census", "platform": "MS Access", "owner": "Ministry of Education and Training", "tiers": "paper and aggregate reports from schools twice a year and yearly, keyed at central level for the statistical yearbooks"},
+    {"system": "School Report Card", "country_label": "School Report Card", "class": "", "platform": "DHIS2", "owner": "", "tiers": ""}
+  ],
+  "note": "The file is an excerpt of a rendered page. The nationwide statement covers both DHIS2 products together and does not say which schools use the individual-data app, at what level or how often, so no levels or kept fact is taken. The finance value is domestic only because the ministry is listed among the funders; the parent should weigh it against donor."
+}

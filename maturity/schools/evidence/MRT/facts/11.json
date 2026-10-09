@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-mauritanie-snds-strategie-nationale-decennale-developpement-statistique-2021-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Education statistical yearbook", "country_label": "annuaires statistiques", "class": "census", "platform": "", "owner": "Direction des Statistiques, de la Planification et de la Coopération, Ministère de l'Education Nationale et de la Réforme", "tiers": "the ministry's sectoral statistics service collects data directly, processes them and publishes them as statistical yearbooks"}
+  ],
+  "note": "No fact: the national statistics strategy says only that the education ministry's statistics service collects its own data and publishes them as yearbooks, which is the yearly statistical return, class census. The text held is an excerpt that ends partway through section IV.1.4; it names no school-level system."
+}

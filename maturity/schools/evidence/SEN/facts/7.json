@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-dhis2-education-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 for Education", "country_label": "DHIS2-based EMIS (GPE KIX research project)", "class": "census", "platform": "DHIS2 (Aggregate product)", "owner": "Ministry of Education with GPE KIX and HISP WCA", "tiers": "Two districts chosen with the ministry as learning sites, since 2024; a research project on sub-national data management and use"}
+  ],
+  "note": "The page gives the DHIS2 product in use as Aggregate and describes district-level data management, with no per-learner record and no school entering data, so the system is not class emis and gives no fact. It does not say how often the aggregate data is collected; census is the nearest class and the parent may prefer it unclassified."
+}

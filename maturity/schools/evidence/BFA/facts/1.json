@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers review (an AI-assisted compilation) states that rural schools in Burkina Faso are predominantly paper-based, with data aggregated and digitised at district level, and that it found no evidence of digital tools for direct entry of attendance, enrolment or grades in rural primary schools; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The Data Landscapers review (an AI-assisted compilation) states that limited pilots such as the FIUE-BF student database exist but are not widespread in rural areas, giving no count of schools; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "FIUE-BF",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information System (SIGE/EMIS)",
+      "country_label": "SIGE",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; education statistics based on annual school census questionnaires"
+    },
+    {
+      "system": "FIUE-BF",
+      "country_label": "FIUE-BF",
+      "class": "emis",
+      "platform": "",
+      "owner": "education ministry (cited as the source)",
+      "tiers": "limited pilots, not widespread in rural areas"
+    }
+  ],
+  "note": "FIUE-BF is classed emis on the document's two words 'student database' alone; it does not say what schools enter or when. The row's score column reads 1 while its text ends 'score 2'."
+}

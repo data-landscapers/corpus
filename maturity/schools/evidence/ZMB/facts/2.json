@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-12-adea-education-and-skills-data-challenge-esdc-initiative-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "education and skills dashboard", "country_label": "education and skills dashboard", "class": "", "platform": "", "owner": "Ministry of Education, with ADEA, Mastercard Foundation, BI Zambia and Mwabu", "tiers": "to be designed and deployed; not yet in use"}
+  ],
+  "note": "Data governance work (working group launched 12 June 2026, Data Management Committees reactivated in 116 districts, July 2026) and a planned dashboard; no system holding learner records is described, and no EMIS is named."
+}

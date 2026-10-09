@@ -1,0 +1,42 @@
+{
+  "slug": "2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot",
+     "fact": "DHIS2/HISP reports that the Unique Learner ID system is to be piloted in four districts, in at least 20 schools per district, before scaling to all public primary schools in the selected districts; no school is stated to be using it yet (no event date given; dated by publication).",
+     "as_of": "2026-04-07", "date_precision": "day", "system": "Unique Learner ID (ULID) system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P",
+     "fact": "The project's stated goal is a unique learner ID for every primary school student, with the pilot scaling to public primary schools (no event date given; dated by publication).",
+     "as_of": "2026-04-07", "date_precision": "day", "system": "Unique Learner ID (ULID) system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing",
+     "fact": "The Ministry of Basic and Senior Secondary Education has launched a national initiative to build a learner-centred education data system on DHIS2, comprising a Unique Learner ID system and a national data hub (launch date not given; dated by publication).",
+     "as_of": "2026-04-07", "date_precision": "day", "system": "Unique Learner ID (ULID) system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry",
+     "fact": "The initiative is the Ministry of Basic and Senior Secondary Education's, implemented by a consortium led by the HISP Centre at the University of Oslo with UNICEF supporting; national and district teams are to be trained as future custodians (dated by publication).",
+     "as_of": "2026-04-07", "date_precision": "day", "system": "Unique Learner ID (ULID) system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor",
+     "fact": "The project is funded by the Global Partnership for Education, with UNICEF supporting implementation; no domestic funding is stated (dated by publication).",
+     "as_of": "2026-04-07", "date_precision": "day", "system": "Unique Learner ID (ULID) system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current",
+     "fact": "The initiative sits within the 'Delivering the Foundations of Learning for All' programme (2024-2027) and is said to be aligned with the Education Sector Plan 2022-2026 and a forthcoming national EMIS policy (dated by publication).",
+     "as_of": "2026-04-07", "date_precision": "day", "system": "Unique Learner ID (ULID) system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Unique Learner ID (ULID) system", "country_label": "ULID", "class": "emis",
+     "platform": "DHIS2-based; web application and Android app with offline functionality", "owner": "MBSSE; built by a HISP consortium (HISP Centre Oslo, HISP WCA, Saudigitus, GESCI, Digital Ascent), UNICEF supporting, GPE funding",
+     "tiers": "to be piloted in four districts, at least 20 schools per district; assigns each learner an identifier linked to the NCRA national ID; ambition that attendance, assessment results, transfers and progression be tracked"},
+    {"system": "National education data hub", "country_label": "national data hub", "class": "exchange",
+     "platform": "DHIS2 with a ClickHouse data warehouse and Apache Superset dashboards", "owner": "MBSSE; built by the same HISP consortium",
+     "tiers": "aggregate hub joining census, teacher, assessment, quality and examination data through an automated interoperability layer; to scale from four districts to all 16; for national, district and school staff"},
+    {"system": "Annual school census", "country_label": "annual school census", "class": "census",
+     "platform": "", "owner": "", "tiers": "named as one of the separate systems the hub will connect"},
+    {"system": "Teacher management system", "country_label": "teacher management system", "class": "single-function",
+     "platform": "", "owner": "", "tiers": "named as one of the separate systems the hub will connect"},
+    {"system": "Foundational literacy and numeracy assessments", "country_label": "", "class": "single-function",
+     "platform": "", "owner": "", "tiers": "named as a separate data set the hub will connect"},
+    {"system": "School quality assurance data", "country_label": "", "class": "single-function",
+     "platform": "", "owner": "", "tiers": "named as a separate data set the hub will connect"},
+    {"system": "Examination results", "country_label": "", "class": "single-function",
+     "platform": "", "owner": "", "tiers": "named as a separate data set the hub will connect"}
+  ],
+  "note": ""
+}

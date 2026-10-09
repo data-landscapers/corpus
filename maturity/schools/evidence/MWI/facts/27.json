@@ -1,0 +1,15 @@
+{
+  "slug": "2019-09-01-digital-government-strategy-malawi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; listed as an existing sectoral application with a US$300,000 enhancement sub-project in the September 2019 Digital Government Strategy"
+    }
+  ],
+  "note": "The passages give EMIS in the glossary and as one budget line (enhancement, US$300,000) among sectoral applications, with no description of what it does or who enters data, so it is unclassified and gives no fact."
+}

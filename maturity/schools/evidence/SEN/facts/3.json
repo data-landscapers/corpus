@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The author's AI-assisted country review says collection at Senegal's rural primary schools is 'likely paper-based' (logs and registers), aggregated digitally at district (IEF), regional (IA) and central levels, and scores rural schools 2; no date is given, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Paper school logs and registers", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The author's AI-assisted country review says it found no evidence of direct digital entry at rural school level in Senegal and no nationwide rollout; it gives no count of schools and no date, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Paper school logs and registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIMEN", "country_label": "SIMEN; national EMIS", "class": "census", "platform": "", "owner": "", "tiers": "Central; data flows from rural primary schools through district (IEF) and regional (IA) levels to central SIMEN, which produces annual statistical yearbooks; no direct digital entry at school level found"},
+    {"system": "DHIS2-based EMIS pilot", "country_label": "DHIS2-based EMIS", "class": "census", "platform": "DHIS2", "owner": "GPE KIX project", "tiers": "Aggregate data in two districts since 2024"},
+    {"system": "Digital hubs", "country_label": "digital hubs", "class": "", "platform": "", "owner": "", "tiers": "70 rural primary schools, 2023 onwards; nothing said of what they do"}
+  ],
+  "note": "Passages file; the source's own header marks its country figures as an AI-aided compilation and the author's analysis, not sourced fact, and the paper statement is hedged ('likely'). It also says the World Bank PAPSE project (2022) strengthens SIMEN capacity centrally and that schools report under performance-based contracts."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-26-guinee-immatriculation-numerique-eleves-primaire",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "Agence Ecofin reports that the education ministry announced on 25 February 2026 the launch of digital registration of primary pupils, to build a digital register giving each pupil a single school identity from entry to primary school, with examination officers and data managers of the regional, prefectoral and communal education offices starting training on the platform.", "as_of": "2026-02-25", "date_precision": "day", "system": "plateforme d'immatriculation numérique des élèves", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "Agence Ecofin reports the registration launched on 25 February 2026 is for pupils of primary school; the article describes a launch and staff training and gives no count of pupils or schools registered.", "as_of": "2026-02-25", "date_precision": "day", "system": "plateforme d'immatriculation numérique des élèves", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "Agence Ecofin reports, quoting the ministry, that training on the pupil registration platform is coordinated by the ministry's direction générale des examens et contrôle scolaire.", "as_of": "2026-02-25", "date_precision": "day", "system": "plateforme d'immatriculation numérique des élèves", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "plateforme d'immatriculation numérique des élèves", "country_label": "immatriculation numérique des élèves du primaire", "class": "emis", "platform": "", "owner": "Ministère chargé de l'Éducation nationale, direction générale des examens et contrôle scolaire", "tiers": "those trained are examination officers and data managers at regional (IRE), prefectoral (DPE) and communal (DCE) education offices; no school-level use is stated"}
+  ],
+  "note": "Classed emis as a learner register (one identity per pupil). The article does not say who enters the pupils or whether schools do; the only users it names are staff of the education offices above the school, so no 'kept' or 'schools' fact is taken."
+}

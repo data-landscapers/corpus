@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-12-sen-seneweb-nelvia-plateforme-gestion-scolaire",
+  "facts": [],
+  "systems": [
+    {"system": "NELVIA", "country_label": "NELVIA", "class": "standalone", "platform": "NELVIA", "owner": "its private initiator, unnamed", "tiers": "public and private schools; launched at Thiès on 2026-09-12"},
+    {"system": "PLANÈTE 3.0", "country_label": "PLANÈTE 3.0", "class": "", "platform": "", "owner": "", "tiers": "named as a national platform; nothing said of what it does"}
+  ],
+  "note": "NELVIA is a school-management package launched privately on 2026-09-12 that keeps per-learner records but, by its initiator's account, is not yet interoperable with the national platforms, so it sends the ministry nothing: standalone. PLANÈTE 3.0 is named only."
+}

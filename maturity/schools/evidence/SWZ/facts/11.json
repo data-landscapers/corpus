@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-government-performance-report-2023-2024",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Government Performance Report for November 2023 to September 2024 states that the Ministry of Education and Training launched SEMIS, a real-time web-based system driven by the Personal Identity Number that makes it possible to track learners, developed with the support of education partners; it gives no launch date, so the year of the reporting period's end is used.", "as_of": "2024", "date_precision": "year", "system": "School/Staff/Student Education Management Information System (SEMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "School/Staff/Student Education Management Information System (SEMIS)", "country_label": "SEMIS", "class": "emis", "platform": "web-based", "owner": "Ministry of Education and Training, with support of education partners", "tiers": ""},
+    {"system": "Annual Education Census (questionnaires)", "country_label": "Annual Education Census", "class": "census", "platform": "paper questionnaires", "owner": "Ministry of Education and Training", "tiers": "questionnaires collected from schools; described as the approach SEMIS replaces"}
+  ],
+  "note": "The file is an excerpt, truncated after the education ministry's section. Classed emis because the report describes SEMIS as PIN-driven and able to track learners; it does not say who enters data, in which schools or how often, so no levels, kept or schools fact is taken. It says SEMIS allows linkages with other management information systems (exchange, stated as a capability) and is a shift from paper-based education management information systems."
+}

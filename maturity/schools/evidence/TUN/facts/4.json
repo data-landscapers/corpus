@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-06-tunisia-social-development-promotion-support-project-af2",
+  "facts": [],
+  "systems": [
+    {"system": "school enrolment MIS", "country_label": "school enrolment MIS", "class": "", "platform": "", "owner": "", "tiers": "named only, as already exchanging data with the AMEN social-assistance MIS"},
+    {"system": "schooling MIS system", "country_label": "schooling MIS", "class": "", "platform": "", "owner": "", "tiers": "named only, as one of two education information systems to be given an automatic exchange with the AMEN MIS under sub-PBC 8(d)"},
+    {"system": "Early detection of school drop-out system", "country_label": "Early detection of school drop-out system", "class": "", "platform": "", "owner": "", "tiers": "named only, as one of two education information systems to be given an automatic exchange with the AMEN MIS under sub-PBC 8(d)"},
+    {"system": "M4D platform", "country_label": "M4D (Modèle à 4 dimensions)", "class": "single-function", "platform": "", "owner": "Ministry of Education, in partnership with the Ministry of Social Affairs, with UNICEF technical assistance", "tiers": "a four-dimension model to prevent school drop-out, used to refer children to accompanying measures; tiers not stated"},
+    {"system": "AMEN MIS exchange with education information systems", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Social Affairs", "tiers": "existing automatic exchange between the AMEN MIS and the school enrolment MIS; exchanges with the schooling MIS and the drop-out early-detection system proposed under the second additional financing (project paper of 6 March 2026)"}
+  ],
+  "note": "A social-protection project paper, captured as an excerpt truncated at 60,000 characters: it names three education information systems without saying what any does or who enters data, so none is classed emis and there is no fact."
+}

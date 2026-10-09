@@ -1,0 +1,31 @@
+{
+  "slug": "2025-12-22-egypt-2025-education-reforms-verified-data",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "national; 'EMIS-linked daily attendance monitoring' introduced by the 2024/25 school year, with weekly attendance dashboards; regional EMIS capacity varies by governorate"
+    },
+    {
+      "system": "2025 verified national education dataset",
+      "country_label": "verified dataset (MoETE with CAPMAS)",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education with CAPMAS, which validates the administrative data",
+      "tiers": "national, yearly (2024 and 2025 datasets named); counts of 25.8 million students, 52,375 public and 9,681 private schools and 1.26 million teachers, sent to UIS, World Bank EdStats and ITU"
+    },
+    {
+      "system": "Smart schools and school connectivity",
+      "country_label": "national smart school criteria",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "36,878 of 42,931 schools meet smart school criteria; more than 54,000 schools with reliable internet; primary schools average 95 students per device"
+    }
+  ],
+  "note": "No fact: the author, an adviser to the minister, says EMIS-linked daily attendance monitoring was introduced and attendance rose above 80% nationwide by the end of 2024/25, with weekly attendance dashboards, but does not say that schools enter a record per learner, who enters it, at which levels or in how many schools; the EMIS is therefore left unclassified. If the parent reads daily attendance monitoring as entry during the year, this is the document that carries it."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "census", "platform": "StatEduc", "owner": "MEPSTA", "tiers": "Data from the 16,000 nursery, primary and secondary schools is collected on paper forms and entered into StatEduc at the education inspectorates"},
+    {"system": "DHIS2 EMIS (SIGE)", "country_label": "SIGE", "class": "census", "platform": "DHIS2", "owner": "MEPSTA; built by HISP West and Central Africa with GPE KIX and Norad support", "tiers": "Implemented in 2021 in interoperability with StatEduc, processing its data into dashboards and school report cards for schools and sub-national actors; under review by the ministry"}
+  ],
+  "note": "No fact: StatEduc is the paper-collected statistical return keyed at the inspectorates and DHIS2 processes it. The article says the system supports individual-level data to track learners but does not say schools enter any."
+}

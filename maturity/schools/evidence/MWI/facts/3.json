@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-06-mwi-education-data-portal-edap",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education, Science and Technology (MoEST)",
+      "tiers": ""
+    },
+    {
+      "system": "Education Data Portal (EDaP)",
+      "country_label": "EDaP",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Unlocking Data Initiative Malawi team, in development; operational ownership to pass to the Centre for Educational Research and Training (CERT), University of Malawi",
+      "tiers": "not stated; a central searchable portal for datasets from MoEST, the gender ministry, the National Statistical Office, development partners and academia"
+    }
+  ],
+  "note": "EMIS is named as the ministry's largest foundational-learning dataset with no description of who enters what or when, so it is unclassified and gives no fact. The document also states that in 2023/24 93 per cent of the basic-education recurrent budget went to teacher salaries, leaving almost nothing for EMIS operations, and recommends web-based and mobile data collection as a priority not yet done."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-01-ghana-emis-system-capacity-grant-ii-program-proposal",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "digitised since 2022; cloud server, no internal server", "owner": "Ministry of Education, Statistics, Research Information Management (SRIM) Department; strengthening funded by a GPE System Capacity Grant", "tiers": "headteachers enter the data; collects indicators (104 of 124), primarily input-level data such as enrolment; holds no learning outcomes or attendance; no unique school codes"},
+    {"system": "mSRC", "country_label": "mSRC", "class": "", "platform": "", "owner": "", "tiers": "named as routine data disaggregated by sex and disability; the document does not say what it records"},
+    {"system": "National Standardized Tests (NST)", "country_label": "NST", "class": "single-function", "platform": "", "owner": "", "tiers": "learning assessment at primary level in English and Mathematics; a data set not linked to EMIS"}
+  ],
+  "note": "The EMIS is described as an indicator collection of input-level data (enrolment) entered by headteachers, with no learning or attendance data and no statement of a record per learner or of entry during the year, so it is classed census and gives no fact. The document does not use the word census; the parent may prefer an empty class. Capture truncated in the Education Sector Analysis section."
+}

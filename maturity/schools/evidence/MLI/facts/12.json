@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-worldbank-mali-digital-economy-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "Information System for Education Management (SIGE)", "country_label": "SIGE", "class": "", "platform": "", "owner": "", "tiers": "listed among the government's sector information systems; no tier or user stated"}
+  ],
+  "note": "No fact: passages file. The diagnostic lists the SIGE by name among sector systems that do not yet serve citizens directly, without saying what it holds or who enters data, so it is unclassified. The higher-education system it names beside it is outside the study's levels."
+}

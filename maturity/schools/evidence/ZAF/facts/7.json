@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-04-dbe-sa-sams-modernisation-uat",
+  "facts": [],
+  "systems": [
+    {"system": "modernised SA-SAMS", "country_label": "SA-SAMS", "class": "", "platform": "cloud-based school administration and management system; technical delivery by the National Education Collaboration Trust (NECT)", "owner": "Department of Basic Education, EMIS Directorate, with NECT; supported by the New Leaders Foundation and SITA", "tiers": "public schools nationally (intended); tested by provincial, district, circuit and school staff"}
+  ],
+  "note": "No fact, because the document does not say what record the system holds: it calls the modernised SA-SAMS a cloud-based school administration and management system meant to improve how schools function daily and give real-time reporting, and never says schools enter per-learner records, so no class can be given from this document alone. What it does state, should the parent class the system from elsewhere: user acceptance testing was held on 2 to 4 February 2026 by the DBE EMIS Directorate with NECT, ahead of a pilot in selected primary schools and a phased national rollout; high-school functions were still being developed."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-01-papesi-evaluation-unesco-iiep",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information de Gestion de l'Éducation (SIGE)", "country_label": "SIGE; recensement administratif scolaire / campagne statistique; annuaire statistique", "class": "census", "platform": ".Stat Suite data warehouse and dissemination portal on the SDMX standard, moved to the ministry's own infrastructure in November 2024", "owner": "Ministère de l'Éducation Nationale: Direction de la Planification de l'Éducation with the Direction des Systèmes d'Information; rebuilt under PAPESI by UNESCO and IIEP, World Bank-financed", "tiers": "annual administrative school census run through CISCO and ZAP to the central ministry; 54 CISCO each given a computer in 2023; central staff trained in 2024"},
+    {"system": "FPE collection application", "country_label": "FPE", "class": "census", "platform": "web version maintained by the DSI; desktop version specified in February 2024 and not yet contracted", "owner": "Ministère de l'Éducation Nationale (DSI)", "tiers": "data collection tool of the statistical campaign; improvement only partly carried out"},
+    {"system": "in-house Excel collection tool of the DPE", "country_label": "", "class": "census", "platform": "Excel", "owner": "Direction de la Planification de l'Éducation", "tiers": "used for data collection in 2021-2023 in place of the FPE application"},
+    {"system": "StatEduc for the Fiches d'enquête rapides (FER)", "country_label": "StatEduc", "class": "census", "platform": "StatEduc", "owner": "", "tiers": "planned in the April 2020 project document and removed in the agreement of January 2022; not deployed"}
+  ],
+  "note": "The SIGE the evaluation describes is the annual administrative school census and its yearbook, with a central data warehouse; the passages describe no per-learner record entered by schools, so there is no fact."
+}

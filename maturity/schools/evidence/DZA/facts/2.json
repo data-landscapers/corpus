@@ -1,0 +1,39 @@
+{
+  "slug": "2026-02-03-dz-education-generalisation-tablettes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "interconnected database",
+      "country_label": "قاعدة بيانات مترابطة",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "all institutions said to be brought into the digitisation track; no tier named"
+    },
+    {
+      "system": "system for collecting and analysing pupils' results",
+      "country_label": "منظومة جمع وتحليل نتائج التلاميذ",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": ""
+    },
+    {
+      "system": "electronic tablets for primary schools",
+      "country_label": "الألواح الإلكترونية",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "primary schools, said to be equipped nationwide"
+    },
+    {
+      "system": "distance education platforms of the Office National d'Enseignement et de Formation à Distance",
+      "country_label": "الديوان الوطني للتعليم والتكوين عن بعد",
+      "class": "learning",
+      "platform": "",
+      "owner": "ONEFD, under the Ministry of National Education",
+      "tiers": "distance learners, 701000 stated"
+    }
+  ],
+  "note": "No fact: on 2 February 2026 the minister told parliament that all administrative and pedagogical operations were digitised, an interconnected database adopted and the pupil-results system being developed, but the document does not say what any of these does, who enters data or whether schools add per-learner records, so none is classed emis."
+}

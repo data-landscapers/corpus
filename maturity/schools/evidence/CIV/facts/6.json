@@ -1,0 +1,8 @@
+{
+  "slug": "2017-01-01-mcc-civ-emis-2017-cote-divoire-compact-education-management-information",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS / SIGE Intégré)", "country_label": "Système d'Information et de Gestion de l'Education — SIGE Intégré", "class": "", "platform": "", "owner": "Ministry of National Education (MENET-FP); funded by the Millennium Challenge Corporation through MCA-Côte d'Ivoire, with Development Gateway / IREX on data assessment and requirements", "tiers": "ministry platform centralising HR, school management, examinations and student assessments; five components (reference data, HR management, sector statistics and monitoring, school management, examination management); built under the Secondary Education Activity and used to monitor about 80 new secondary schools"}
+  ],
+  "note": "The deal record describes SIGE Intégré by its components and says it centralises data for the ministry; it does not say that schools enter per-learner records, so the system is left unclassified and gives no fact. If the parent classes it emis on other evidence, this document carries a US$4.3 million MCC grant committed in 2017, running 2019 to 2025, within a secondary-education activity."
+}

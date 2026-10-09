@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-06-gabon-eformation-identifiants-uniques-etablissements-apprenants",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The eFormation application is deployed by the Secrétariat d'Orientation Scolaire, Universitaire et Professionnelle (SOSUP), a state body, according to Focus Groupe Media; the document gives no date for the deployment, so its publication date is used.", "as_of": "2026-03-06", "date_precision": "day", "system": "eFormation", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The identification operation run through eFormation assigns a unique number to each pupil to follow the school career from pre-primary to the end of studies, in public and private establishments, according to Focus Groupe Media; the document gives no date, so its publication date is used.", "as_of": "2026-03-06", "date_precision": "day", "system": "eFormation", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "SOSUP had for some time been deploying eFormation, giving every establishment and every pupil a unique identifier, while some school promoters and education ministry staff resisted it as intrusive state control, according to Focus Groupe Media; the document gives no date, so its publication date is used.", "as_of": "2026-03-06", "date_precision": "day", "system": "eFormation", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The document gives no number of establishments or pupils identified in eFormation and no share of schools taking part, and says its success depends on the government overcoming resistance; no date is given, so the publication date is used.", "as_of": "2026-03-06", "date_precision": "day", "system": "eFormation", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "eFormation", "country_label": "application numérique eFormation", "class": "emis", "platform": "", "owner": "Secrétariat d'Orientation Scolaire, Universitaire et Professionnelle (SOSUP)", "tiers": "national in intent: every public and private establishment given a unique identifier and mapped, every pupil given a unique number from pre-primary to the end of studies; uptake not stated"}
+  ],
+  "note": "Classed emis as a learner register (a record per learner under a unique number). The document does not say who enters the record or when, so no fact is given for how the record is kept; it does not say schools enter anything during the year."
+}

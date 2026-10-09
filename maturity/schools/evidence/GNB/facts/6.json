@@ -1,0 +1,23 @@
+{
+  "slug": "2026-02-19-gnb-gpe-better-data-education-prieqt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "School-mapping database",
+      "country_label": "nationwide mapping of schools (school-mapping database)",
+      "class": "census",
+      "platform": "Kobo Toolbox, with a dashboard",
+      "owner": "GEPASE, the Ministry of Education's data unit, with World Bank and UNICEF support, financed by the GPE project PRIEQT",
+      "tiers": "Central: a database of schools, teachers and students for all regions, gender-disaggregated, shared with the local education group"
+    },
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Strengthened under the EU-financed PESIDE project",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: the school mapping is a one-off survey returning a database of schools, teachers and students, with no entry by schools described; the EMIS is named without any description of what it does."
+}

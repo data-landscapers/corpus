@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-unhcr-hodh-chargui-factsheet-mauritanie-2025-overview-registre-national",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE-R (Refugee Student Information and Management System)", "country_label": "SIGE-R", "class": "", "platform": "", "owner": "", "tiers": "deployed in schools hosting refugee students, Hodh Chargui; no count or level stated"},
+    {"system": "Solarisation of schools in Mbera camp", "country_label": "", "class": "enabling", "platform": "", "owner": "UNHCR and partners", "tiers": "8 primary schools and 2 high schools solarised (lighting, fan, power socket)"}
+  ],
+  "note": "No fact: SIGE-R is named as deployed in schools hosting refugee students in the 2025 overview, with nothing on what it records or who enters it, so it is unclassified; the name alone does not make it a learner-record system."
+}

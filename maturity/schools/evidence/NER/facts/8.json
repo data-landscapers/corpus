@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-22-mesri-niger-annuaire-superieur-2023-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recensement des écoles et universités 2023-2024 / StatEduc2 (higher education)",
+      "country_label": "recensement; annuaire statistique de l'enseignement supérieur; StatEduc2",
+      "class": "census",
+      "platform": "StatEduc2 on SQL Server; Excel loading template",
+      "owner": "Ministry of Higher Education (MESRIT), Direction des Statistiques et de l'Informatique, trained by INS",
+      "tiers": "higher-education establishments only: questionnaires filled once a year by focal points, partly on paper and partly in Excel (December 2024), keyed from 15 January 2025 and loaded into the platform"
+    }
+  ],
+  "note": "Higher education only, which the study leaves out; the method chapter describes a yearly census of 210 establishments and names no system for primary or secondary schools."
+}

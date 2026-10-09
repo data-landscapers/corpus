@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Termly School Report (TSR)", "country_label": "Termly School Report (TSR)", "class": "census", "platform": "DHIS2 for Education (DHIS2-Ed)", "owner": "HISP Uganda with the Ministry of Education and Sports; scaling supported by the Aga Khan Foundation", "tiers": "schools and districts in 13 sites (Gulu, Mayuge, Ntungamo, Wakiso, then Arua City, Arua and Yumbe); since 2022 termly data from 19,643 pre-primary and 16,766 primary schools, as the brief states it"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "national; EMIS officers cover district clusters"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "all schools; none held between 2017 and 2025"},
+    {"system": "TELA", "country_label": "TELA (teacher effectiveness and learner attendance)", "class": "single-function", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UNEB portal", "country_label": "UNEB portal", "class": "single-function", "platform": "", "owner": "Uganda National Examinations Board", "tiers": "examination results, down to municipality"},
+    {"system": "DHIS2-Ed link to eIDSR", "country_label": "electronic Integrated Disease Surveillance Reporting (eIDSR)", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "school-based surveillance indicators visible to both ministries"}
+  ],
+  "note": "No fact: the Termly School Report is stated to collect aggregated data per school each term (enrolment, attendance, feeding, WASH), not a record per learner, so it is classed census although it is termly; the brief describes the national EMIS only as collecting and aggregating enrolment, teacher and infrastructure data, and mentions 'individual-level data' once without saying who enters it. Parent to settle the TSR's class: it is entered between census days but holds counts."
+}

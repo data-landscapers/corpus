@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-26-budget-speech-2024",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The Minister for Finance states that Government is moving from a paper-based approach to the web-based DHIS2 for Education, designed to capture data on individual learners in Grade 0, primary and high schools, and teachers, by their Personal Identification Numbers.", "as_of": "2024-02-26", "date_precision": "day", "system": "DHIS2 for Education", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The Budget Speech 2024 states that data capturing in DHIS2 for Education was at 90%, alongside cleaning and quality assurance, with the Annual Education Census Report targeted for March 2024; it gives no number or share of schools and does not say who captures the data or where.", "as_of": "2024-02-26", "date_precision": "day", "system": "DHIS2 for Education", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Budget Speech 2024 presents DHIS2 for Education as Government's own system, which it says will serve the processing of Free Primary Education grants, the Teaching Service Commission's human resource management and links to other government systems.", "as_of": "2024-02-26", "date_precision": "day", "system": "DHIS2 for Education", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 for Education", "country_label": "DHIS2 for Education", "class": "emis", "platform": "DHIS2 (web-based)", "owner": "Government of Eswatini", "tiers": "individual learners in Grade 0, primary and high schools, and teachers; who enters the data is not stated"},
+    {"system": "Annual Education Census", "country_label": "Annual Education Census", "class": "census", "platform": "", "owner": "Government of Eswatini", "tiers": "the report was targeted for March 2024"}
+  ],
+  "note": "Passages file. Classed emis because the speech describes a record per learner keyed on the PIN; it states no entry during the year and no place of entry, so no kept fact is taken, and the only output it names is the Annual Education Census Report. The speech also says the system will link to the Deputy Prime Minister's Office's orphaned and vulnerable children records, the Teaching Service Commission and other government systems (exchange, intended)."
+}

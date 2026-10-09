@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that rural primary schools in Benin predominantly record attendance and administrative data on paper call registers, and that it found no evidence of digital entry at rural school level, scoring Benin schools 1; the statement is undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers (no system named at school level)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "National EMIS", "country_label": "EMIS; statistical yearbooks produced by INFRE", "class": "census", "platform": "", "owner": "INFRE produces the yearbooks", "tiers": "national; the document says collection is likely on paper and aggregated upward"},
+    {"system": "AGIR absence tracking sheets", "country_label": "", "class": "single-function", "platform": "paper", "owner": "Action Education (NGO project AGIR)", "tiers": "schools in Atacora and Atlantique, filled weekly from the registers"}
+  ],
+  "note": "The paper fact names no system of class emis: it is the dated statement of absence the brief asks for, recorded under the sub-indicator's class. The document does not mention EducMaster."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2021-11-22-world-bank-ennajaa-program-appraisal",
+  "facts": [],
+  "systems": [
+    {"system": "MASSAR", "country_label": "MASSAR program", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "national interoperability platform", "country_label": "national interoperability platform", "class": "exchange", "platform": "APIs and web services", "owner": "Agence pour le Développement Digital (ADD)", "tiers": "central; MASSAR is one of four priority data-exchange use cases the ADD selected, with a target of at least 12 use cases integrated by 2024"}
+  ],
+  "note": "MASSAR is named only as a priority 'social service' and one of four use cases for the planned interoperability platform (appraisal of November 2021), with no description of what it does, so it is unclassified and gives no fact; the use case is evidence for dpi.exchange."
+}

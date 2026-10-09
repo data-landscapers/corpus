@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-01-unhcr-mauritania-factsheet-march-2024",
+  "facts": [],
+  "systems": [
+    {"system": "National education database (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "out-of-camp, Hodh Chargui: UNHCR, through the Education Working Group, works with the national and regional education department to register refugee children in school and in the database"}
+  ],
+  "note": "No fact: the one mention is that refugee children outside Mbera camp are being registered in school and in the national education database (EMIS), as an activity for 2024. That implies a record per child, but the document does not say schools enter it or what else the database does, so it is unclassified here."
+}

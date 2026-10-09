@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-ethiopia-education-report-2024-25",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Statistics Annual Abstract (ESAA)",
+      "country_label": "Education Statistics Annual Abstract 2024/25 (2017 E.C.)",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "national yearly statistics by region; the 2024/25 edition (published October 2025) excludes Amhara and counts 30,522 primary and middle schools"
+    },
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; the blog says EMIS digitalisation was completed in 2024/25, using AI and business intelligence for data collection and analysis"
+    }
+  ],
+  "note": "A blog's reading of the yearly statistical abstract, which is a census and gives no fact. It says EMIS digitalisation was completed in 2024/25 without saying what the EMIS holds or what schools enter, so the EMIS is unclassified. It also gives 31.8% of primary and middle schools with electricity (enabling, not a system)."
+}

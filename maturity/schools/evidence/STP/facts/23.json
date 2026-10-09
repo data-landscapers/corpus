@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-01-sao-tome-gpe-pacto-parceria-educacao-sige",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "SIGE; EMIS/SIGE", "class": "census", "platform": "", "owner": "MECC (education ministry), developed with the World Bank", "tiers": "schools send data; to link the central level and the districts"},
+    {"system": "Boletim Estatístico Anual", "country_label": "Boletim Estatístico (MEES)", "class": "census", "platform": "", "owner": "education ministry", "tiers": "national"},
+    {"system": "Passaporte para a aprendizagem", "country_label": "plataforma nacional de aprendizagem digital (passaporte para a aprendizagem)", "class": "learning", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "No fact: the compact (June 2023; capture truncated at the fetch limit) describes the SIGE only as a collection of education data that schools send to a deadline, beside the annual statistical bulletin, and nowhere says schools add per-learner records, so it is classed census here. What it states, for the parent: many schools are not using the SIGE for want of electricity, computers or internet or because it is hard to use, so data arrive late; disaggregated data on learners with disabilities and out-of-school children are not yet collected; the ministry and the World Bank are developing the EMIS/SIGE to link the central level and the districts; improving the SIGE is a listed action. No count or share of schools is given."
+}

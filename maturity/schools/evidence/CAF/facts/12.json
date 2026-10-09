@@ -1,0 +1,13 @@
+{
+  "slug": "2023-05-18-education-profiles-car-technologie",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information et de gestion de l'éducation (SIGE)", "country_label": "SIGE", "class": "", "platform": "", "owner": "", "tiers": "not stated; the Education Sector Plan 2020-29 aims to improve it through ICT"},
+    {"system": "Système d'information, de gestion administrative et pédagogique des enseignants (ESIGAPE)", "country_label": "ESIGAPE", "class": "single-function", "platform": "", "owner": "to be developed under the AFD-financed PNEDU project", "tiers": "teachers in post: administrative management (presence) and pedagogical follow-up; an aspiration, not stated as running"},
+    {"system": "EduTrac", "country_label": "EduTrac", "class": "single-function", "platform": "", "owner": "UNICEF", "tiers": "school level; ICT-based collection of data on teachers' presence during the school year"},
+    {"system": "Liseuses numériques (digital readers with INRAP lesson sheets) and digital libraries", "country_label": "liseuse numérique", "class": "learning", "platform": "", "owner": "MEPSTA with Expertise France, Bibliothèques sans Frontières, Alliance française de Bangui and UNICEF", "tiers": "teacher training; digital libraries in the ten regional pedagogical centres"},
+    {"system": "Enseignement par la radio (radio teaching)", "country_label": "", "class": "learning", "platform": "radio (Ndeke Luka)", "owner": "education ministry, UNICEF and Radio Ndeke Luka", "tiers": "launched 2019 for children affected by crises and out of school"},
+    {"system": "PARSE off-grid solar systems for schools", "country_label": "Projet PARSE", "class": "enabling", "platform": "", "owner": "World Bank-financed project", "tiers": "planned for 300 schools"}
+  ],
+  "note": "The SIGE is named with no description of what it does; ESIGAPE and EduTrac record teachers, not learners. Nothing is said of how schools keep learner records, so no fact."
+}

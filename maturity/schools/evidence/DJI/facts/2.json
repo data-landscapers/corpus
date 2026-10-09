@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "OPAD", "country_label": "OPAD digital application", "class": "census", "platform": "", "owner": "", "tiers": "rural primary schools collect administrative counts (enrolment, outcomes); data re-entered manually at the centre, with a seven-month reporting delay"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry's Planning Department", "tiers": "national: supports the statistical yearbooks"},
+    {"system": "modernised EMIS (World Bank project, 2019)", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "", "tiers": "planned: real-time portals and student tracking, urban rollout first, then 60-70% rural coverage"}
+  ],
+  "note": "AI-assisted compilation; it describes aggregate collection (OPAD, yearbook EMIS) and only an aim to add student tracking, and says it found no evidence of attendance or results recorded digitally at rural schools while only inferring that paper registers persist, so no dated statement of paper or of use."
+}

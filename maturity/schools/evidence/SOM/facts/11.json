@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-somalia-education-human-capital-development-project-restructuring",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS platform", "country_label": "EMIS", "class": "", "platform": "", "owner": "MoECHE, which piloted it; World Bank (IDA) project financing", "tiers": "said at September 2025 to be functional and technically sound, with school-level data collection, and little used for planning or decisions; school grants to 157 schools are said to have improved EMIS registration; enhancement due April 2026"},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS", "class": "single-function", "platform": "", "owner": "MoECHE", "tiers": "enhanced module with offline teacher attendance tracking and data capture for teacher deployment analysis; terms of reference approved, delivery planned April 2026, to be integrated with the EMIS"},
+    {"system": "GEMS dashboard", "country_label": "GEMS (Global Education Monitoring System)", "class": "", "platform": "", "owner": "not stated", "tiers": "143 schools supported by the project's school grants registered on it; said to enable real-time monitoring"}
+  ],
+  "note": "The paper calls the EMIS platform functional and says nothing of what schools enter into it or how often, so it is unclassified and gives no fact. The teacher attendance module tracks teachers, not learners. Capture is truncated after section II.A, subcomponent 1.2."
+}

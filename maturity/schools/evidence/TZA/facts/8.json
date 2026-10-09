@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-10-mfumo-wa-sis-kukomeshautoro-shule-za-handeni-mji",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "A primary head teacher trained on the School Information System in Handeni says that a pupil marked absent three times in a row triggers a message sent straight to the parent, so attendance is marked per learner in the system; the council's education officer says teachers are to start entering their schools' information at once.", "as_of": "2026-01-09", "date_precision": "day", "system": "School Information System (SIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "Handeni Town Council trained head teachers of primary schools, heads of secondary schools and one teacher from each school on the School Information System on 9 January 2026, to use it from the reopening of schools.", "as_of": "2026-01-09", "date_precision": "day", "system": "School Information System (SIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Handeni education officer says the Prime Minister's Office (TAMISEMI) has directed that the School Information System come into official use when schools open on 13 January 2026, with the council to follow up regularly.", "as_of": "2026-01-13", "date_precision": "day", "system": "School Information System (SIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "Head teachers in Handeni Town Council were trained on the School Information System on 9 January 2026, ahead of the official start of use directed by TAMISEMI for 13 January 2026.", "as_of": "2026-01-09", "date_precision": "day", "system": "School Information System (SIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The report gives no number of schools trained or using the School Information System in Handeni Town Council or nationally; it says one teacher per school and every head was trained on 9 January 2026.", "as_of": "2026-01-09", "date_precision": "day", "system": "School Information System (SIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The head teacher of Mshikamano Primary School in Handeni says that before the School Information System the school kept its data on paper, which was sometimes lost or damaged.", "as_of": "2026-01-09", "date_precision": "day", "system": "paper records", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "School Information System (SIS)", "country_label": "Mfumo wa Kidigitali wa Taarifa za Shule (SIS)", "class": "emis", "platform": "", "owner": "Prime Minister's Office - TAMISEMI; Handeni Town Council follows up locally", "tiers": "primary and secondary schools in Handeni Town Council: head teachers and one teacher per school"}
+  ],
+  "note": ""
+}

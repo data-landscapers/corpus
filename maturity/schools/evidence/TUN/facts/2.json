@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper",
+     "fact": "The essay scores Tunisia's rural primary schools 2 and says it found no direct evidence of digital recording of attendance, enrolment or grades at the school, judging it likely paper at the school with digital entry at higher levels; this is the essay's own inference, and it gives no date, so the published date is used.",
+     "as_of": "2026-03-31", "date_precision": "day", "system": "Tarbia.tn", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor",
+     "fact": "The essay says Tarbia.tn, on which parents track attendance, assignments and progress reports in real time and teachers manage classes, was launched under the World Bank-supported PREFAT project aimed at lagging and rural regions; it gives no date, so the published date is used.",
+     "as_of": "2026-03-31", "date_precision": "day", "system": "Tarbia.tn", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Tarbia.tn", "country_label": "Tarbia.tn", "class": "emis", "platform": "", "owner": "", "tiers": "national platform for parents and teachers; use at rural primary schools not evidenced, by the essay's own account"},
+    {"system": "Primary school computer labs", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "more than 1,600 computer labs equipped in primary schools, rural areas included"}
+  ],
+  "note": "Passages only; an AI-assisted compilation by its own header and listed in study.json exclude_sources. Its Tunisia school row states no dated primary fact of its own."
+}

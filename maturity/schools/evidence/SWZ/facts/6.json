@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-01-giga-schools-connectivity-initiative",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education and Training", "tiers": ""},
+    {"system": "Giga Schools Connectivity Initiative (Giga Maps platform)", "country_label": "Giga", "class": "enabling", "platform": "Giga Maps", "owner": "Ministry of Education and Training and Ministry of ICT, with UNICEF and ITU", "tiers": "965 schools uploaded, 402 of them connected, 87 rejected for faulty records (31 October 2025)"},
+    {"system": "Eswatini Learning Passport", "country_label": "Eswatini Learning Passport", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ECESWA Systems", "country_label": "ECESWA Systems", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A school connectivity briefing of 31 October 2025; the EMIS is named only as a project connectivity will support, with no description of what it does, so it is unclassified and gives no fact. The minister says about 45% of secondary schools are connected (ESSP 2022-2034) and most primary schools are not."
+}

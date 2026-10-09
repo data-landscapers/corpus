@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-censo-escolar-nacional-2025-2026-bata-prodege",
+  "facts": [],
+  "systems": [
+    {"system": "Censo Escolar Nacional 2025-2026", "country_label": "Censo Escolar Nacional", "class": "census", "platform": "questionnaires distributed to and collected from schools by inspectors", "owner": "Ministry of Education, coordinated by PRODEGE", "tiers": "public and private centres of infantil, primaria, secundaria and technical-vocational training in the Región Continental; launched in Bata on 17 June 2026; feeds the statistical yearbooks"}
+  ],
+  "note": "No fact: an annual school census by questionnaire. PRODEGE says the data come from the enrolment registers each centre completes at the start of the year, but the article does not say whether those registers are paper or digital, so no dated paper-only statement is made."
+}

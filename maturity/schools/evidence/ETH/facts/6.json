@@ -1,0 +1,54 @@
+{
+  "slug": "2025-11-13-ethiopia-launches-dhis2-for-education",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "HISP Ethiopia and the HISP Centre state that in November 2025 UNICEF partnered with them to give the Ministry of Education and regional education bureaus technical assistance on DHIS2-Ed, working directly with schools, woreda education offices and zonal education departments in the SER, SWEPR, Oromia and Benishangul Gumuz regions.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2-Ed",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "HISP states that the DHIS2-Ed project works directly with schools in four regions (SER, SWEPR, Oromia, Benishangul Gumuz) and lists developing tools to collect learning outcomes and student attendance as an activity still to be done; it gives no number of schools and calls the work neither a pilot nor a rollout.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2-Ed",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "HISP describes the national platform as the Ministry of Education's national EMIS enterprise application, with UNICEF, the HISP Centre at the University of Oslo and HISP Ethiopia providing technical assistance to the Ministry and regional education bureaus.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2-Ed",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2-Ed",
+      "country_label": "DHIS2 for Education; national DHIS2-Ed platform",
+      "class": "emis",
+      "platform": "DHIS2 for Education (DHIS2-Ed)",
+      "owner": "Ministry of Education and regional education bureaus, with UNICEF, the HISP Centre (University of Oslo) and HISP Ethiopia as technical partners",
+      "tiers": "schools, woreda education offices and zonal education departments in SER, SWEPR, Oromia and Benishangul Gumuz; national"
+    },
+    {
+      "system": "national EMIS enterprise application",
+      "country_label": "the Ministry's national EMIS enterprise application",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "national; to be operationalised at local levels, with local data systems linked to it"
+    }
+  ],
+  "note": "Parent to check the class: DHIS2-Ed is taken as emis because the document says the project works with schools on tools for learning outcomes and student attendance and on dashboards that show which students need intervention, tied to in-class assessment of each learner under Teaching at the Right Level; it never says outright that schools enter a record per learner, and the tools are described as being developed, not in use. No fact on levels or on how the record is kept: the document names no school level and no entry yet made."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "share:90%", "fact": "The World Bank's regional brief states that the percentage of primary schools submitting EMIS data rose from 60 per cent in 2015 to 90 per cent in 2021, under the Kenya GPE Primary Education Development Project; no counts are given, and the figure is schools submitting data, not schools entering attendance or results.", "as_of": "2021", "date_precision": "year", "system": "NEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The World Bank states that the project supported the migration of the paper-based EMIS to the online NEMIS and that, in developing it, learners were registered with unique personal identifiers linked to their birth certificates; no attendance or results entry is described, and no date is given beyond the 2021 schools figure.", "as_of": "2021", "date_precision": "year", "system": "NEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The World Bank states that the Ministry of Education uses NEMIS data for student placement, disbursement of capitation grants for primary and secondary schools and medical cover for secondary students; no date is given, so the publication date is used.", "as_of": "2023-03", "date_precision": "month", "system": "NEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank describes NEMIS as the Ministry of Education's EMIS and its data as used by the ministry; no date is given, so the publication date is used.", "as_of": "2023-03", "date_precision": "month", "system": "NEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank states that the Kenya GPE Primary Education Development Project (P146797) supported the migration of the paper-based EMIS to the online NEMIS; no domestic budget line is mentioned, and the publication date is used.", "as_of": "2023-03", "date_precision": "month", "system": "NEMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "NEMIS", "country_label": "National EMIS (NEMIS)", "class": "emis", "platform": "online", "owner": "Ministry of Education; supported by the Kenya GPE Primary Education Development Project (P146797)", "tiers": "primary and secondary schools; learners registered with unique identifiers linked to birth certificates"},
+    {"system": "Paper-based EMIS", "country_label": "paper-based EMIS", "class": "", "platform": "paper", "owner": "Ministry of Education", "tiers": "predecessor of NEMIS; 60 per cent of primary schools submitting in 2015"},
+    {"system": "Educational statistical booklets", "country_label": "annual educational statistical booklets", "class": "census", "platform": "published from NEMIS data", "owner": "Ministry of Education", "tiers": "national; published 2017 to 2021"}
+  ],
+  "note": "Kenya appears in one project paragraph of a regional GovTech brief. NEMIS is classed emis on the registration of learners with unique identifiers; the document does not say in terms who keys the records."
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers review scores Guinea-Bissau's rural primary schools 1, entirely paper-based, finding no evidence of digital recording of attendance, enrolment or grades at school level and no operational EMIS; the document gives no date for the state, so its publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "EMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "none",
+      "fact": "The review states that there is no operational EMIS and that school data is likely collected on paper at rural schools and aggregated centrally if at all; no date is given for the state, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "EMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "none",
+      "fact": "The review finds no evidence of any primary school recording attendance, enrolment or grades digitally; no figure is given, and no date for the state, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "EMIS",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic surveys to principals (GEMS-based)",
+      "country_label": "electronic surveys to principals",
+      "class": "census",
+      "platform": "GEMS",
+      "owner": "World Bank and GPE projects",
+      "tiers": "School principals in 5 targeted regions; described as pilots for aggregate statistics, not routine school data"
+    },
+    {
+      "system": "Kobo Toolbox for inspectors",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "Kobo Toolbox",
+      "owner": "World Bank and GPE projects",
+      "tiers": "Inspectors in 5 targeted regions; a monitoring pilot"
+    }
+  ],
+  "note": "This source is in study.json exclude_sources (an AI-assisted compilation by its own header); the facts are recorded as the document states them, for the parent to hold out of the profile."
+}

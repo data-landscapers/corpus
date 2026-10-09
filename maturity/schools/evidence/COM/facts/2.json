@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers review states that rural primary schools in Comoros predominantly use paper registers for administrative data, attendance and learning outcomes, and that it found no evidence of routine use of e-Msomo at rural schools; the review gives no date for this, so its publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SIGE",
+      "country_label": "SIGE (national EMIS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "designed to collect data from all schools, aggregated centrally; defunct since around 2018"
+    },
+    {
+      "system": "e-Msomo",
+      "country_label": "e-Msomo",
+      "class": "emis",
+      "platform": "",
+      "owner": "",
+      "tiers": "national platform for student records, grades and staff management, launched about 2025 with UNICEF and ANADEN support"
+    },
+    {
+      "system": "E-Shiyo",
+      "country_label": "E-Shiyo",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "online textbooks, national"
+    }
+  ],
+  "note": "SIGE left unclassified: the passage says it collected data from all schools and was aggregated centrally, with no statement of what was entered or how often; it is stated defunct since around 2018 for lack of funds. The review is an AI-assisted compilation by its own account."
+}

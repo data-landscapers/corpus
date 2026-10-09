@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Data Landscapers 54-country review, an AI-assisted compilation by its author, states that rural primary schools in Madagascar predominantly keep attendance, administrative data and learning outcomes in paper registers, with no point-of-service digital tool in rural areas; no date is given for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper school registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "data warehouse with SDMX standards, from the PAPESI project", "owner": "education ministry", "tiers": "annual school census questionnaires (levels 1-3 for public schools), said to be likely completed by hand at schools and aggregated centrally"},
+    {"system": "solar-powered tablets for teaching content (Solar United Madagascar, SEED projects 2024-2026)", "country_label": "", "class": "learning", "platform": "", "owner": "donor-funded projects", "tiers": "about 15 to 20 rural schools"}
+  ],
+  "note": ""
+}

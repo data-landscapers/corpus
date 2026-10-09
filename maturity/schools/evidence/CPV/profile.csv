@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,emis,governance,qualifier,owner:ministry,2019-02,CPV-010,,nothing dated since 2023-10-09
+CPV,emis,levels,coverage,P;S,2025-09-01,CPV-004,CPV-007=P;S,
+CPV,emis,kept,coverage,routine,2025-09-01,CPV-005;CPV-009,,
+CPV,emis,last12,qualifier,,,,,nothing held
+CPV,emis,schools,coverage,share:100%,2019-02,CPV-008,CPV-006=not-published,

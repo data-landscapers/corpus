@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-01-education-statistical-yearbook-2023-24",
+  "facts": [],
+  "systems": [
+    {"system": "School Data Management System (SDMS)", "country_label": "SDMS; tables sourced 'School census, Ministry of Education, 2024'", "class": "census", "platform": "", "owner": "Ministry of Education (MINEDUC)", "tiers": "pre-primary, primary, secondary and TVET levels 1 to 5; primary data source of the 2023/24 yearbook, with data quality assessments on it between January and March 2024 and validation at district level"},
+    {"system": "Education Statistical Yearbook", "country_label": "2023/2024 Education Statistical Yearbook", "class": "census", "platform": "", "owner": "Ministry of Education (MINEDUC)", "tiers": "national, with district annexes; 4,041 schools with a primary level in 2023/24"},
+    {"system": "school ICT (computers, connectivity, smart classrooms)", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "61.8% of schools with internet, 97.4% with at least one computer, 84.2% on grid electricity, 2023/24"}
+  ],
+  "note": "No fact: the yearbook describes SDMS only as the source its school census statistics are compiled from, cleaned and validated once for the year; it says nothing of schools entering attendance, results or per-learner records during the year, so SDMS is classed census as this document describes it. The capture omits sections 1 to 8 and the annexes."
+}

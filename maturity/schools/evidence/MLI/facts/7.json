@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-instat-mali-rapport-annuel-activites-statistiques-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire statistique du MEN 2024", "country_label": "annuaire statistique du MEN", "class": "census", "platform": "", "owner": "CPS/SE (CPS du Secteur Education)", "tiers": "national; listed as a 2024 activity of the statistical master plan with no amount recorded"},
+    {"system": "SIGE", "country_label": "SIGE", "class": "", "platform": "", "owner": "", "tiers": "named only in the title of a 2024 activity, a workshop to strengthen the SIGE; the passage is cut off"}
+  ],
+  "note": "No fact: passages file of activity tables. It lists the education ministry's 2024 statistical yearbook and indicator monitoring report (CPS/SE) and names the SIGE in a truncated activity title without saying what it does."
+}

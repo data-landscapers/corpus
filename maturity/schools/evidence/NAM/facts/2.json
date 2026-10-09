@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers essay's 54-country table says Namibia's rural primary schools predominantly use paper registers for administrative data, attendance and learning outcomes, with no evidence of majority routine digital use at the school; its score column gives 1 while its text says 2; this is the author's AI-assisted compilation, not a sourced count, and it gives no date, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national EMIS database",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education, EMIS division",
+      "tiers": "schools' data collected twice yearly by education regions, likely on physical forms, and processed centrally by the EMIS division for the Annual Education Census and School Day Reports; aggregation and planning"
+    },
+    {
+      "system": "automated attendance systems",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "proposals only, named beside isolated donor projects"
+    },
+    {
+      "system": "solar electrification of rural schools enabling computers and internet",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "donor projects (GPE, Grüne Bürgerenergie named)",
+      "tiers": "about 15 rural schools"
+    }
+  ],
+  "note": "The fact names no system: the essay states an absence. The essay is in study.json's exclude_sources. Its Namibia rows for clinics, police and the civil registry are outside the study's field."
+}

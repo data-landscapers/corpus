@@ -1,0 +1,10 @@
+{
+  "slug": "2024-02-01-anuario-estatistico-da-educacao-2021-2022",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação para Gestão da Educação (SIGE)", "country_label": "SIGE", "class": "census", "platform": "SIGE platform, with structured Excel spreadsheets used at GEPE to finish checking the 2021/2022 data", "owner": "Ministry of Education, Gabinete de Estudos, Planeamento e Estatística (GEPE)", "tiers": "GEPE sends the census questionnaires to the provincial education offices, which reproduce them and pass them through the municipal directorates to the schools to fill in and return; processing is at GEPE"},
+    {"system": "Censo Escolar Anual", "country_label": "Censo Escolar Anual da Educação não superior", "class": "census", "platform": "SIGE questionnaires and forms", "owner": "Ministry of Education, GEPE", "tiers": "all 18 provinces; every school in operation, in two collections a year (start and end of the school year)"},
+    {"system": "Anuário Estatístico da Educação", "country_label": "Anuário Estatístico da Educação", "class": "census", "platform": "", "owner": "Ministry of Education, GEPE, with the approval of the Instituto Nacional de Estatística", "tiers": "national publication"}
+  ],
+  "note": "Passages file, read to its end (1,471 lines). No fact: SIGE as described is the circuit of the annual school census, a questionnaire per school returning counts at the start and the end of the year (field collection October 2021 to January 2022, coverage checks to December 2022), with no per-learner record and nothing entered by schools between the two collections. The preface says the SIGE platform is running but unfinished, its limits forcing GEPE onto Excel for the 2021/2022 yearbook."
+}

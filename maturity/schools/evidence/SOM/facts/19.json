@@ -1,0 +1,10 @@
+{
+  "slug": "2023-11-01-somalia-joint-education-sector-review-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education, Culture and Higher Education (MoECHE)", "tiers": "named as the source of the review's quantitative data (enrolment rates, gender parity, 2021 to 2023); what schools enter and how often is not stated"},
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census, ASC", "class": "census", "platform": "", "owner": "", "tiers": "appears in the abbreviations list only; not described in the captured text"},
+    {"system": "Higher Education Management Information System (HIMIS)", "country_label": "HIMIS", "class": "", "platform": "", "owner": "", "tiers": "abbreviations list only; higher education, outside the study"}
+  ],
+  "note": "The captured text (truncated in the Reflections section) uses the EMIS as a source of enrolment figures and says nothing of how it is filled, so it is unclassified and gives no fact. The Education Sector Strategic Plan 2022-2026 is described without any statement that it names the EMIS."
+}

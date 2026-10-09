@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-01-sudan-transitional-education-plan-2025-2027",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (future, under TEP Program 3.2)", "country_label": "information management; EMIS", "class": "", "platform": "", "owner": "Federal Ministry of Education; plan coordinated by UNESCO with GPE support", "tiers": ""}
+  ],
+  "note": "The file holds the plan's contents pages only: Program 3.2 is titled 'Strengthen information management for evidence-based decision-making, monitoring and reporting', and the captured body does not use the word EMIS or describe any system. The EMIS entry rests on the file's own capture note, not on body text, so it is unclassified and gives no fact."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2024-07-01-guinebissau-wardip-rnep-gb-final-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "MENESIC",
+      "tiers": "Central; stated in July 2024 to be not functional, the most recent public administrative data being the 2014/2015 school yearbook, published with UNESCO support"
+    },
+    {
+      "system": "School yearbook 2014/2015",
+      "country_label": "school yearbook",
+      "class": "census",
+      "platform": "",
+      "owner": "MENESIC, with UNESCO support",
+      "tiers": "National; last published for 2014/2015"
+    }
+  ],
+  "note": "No fact: the report, on a research network for higher education, states the lack of a functional EMIS within MENESIC (July 2024) only as a gap in administrative data for planning, tied to the yearbook, so the system is census class; nothing is said of learner records at schools. The held text is an excerpt."
+}

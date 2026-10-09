@@ -1,0 +1,10 @@
+{
+  "slug": "2019-12-24-worldbank-sao-tome-quality-education-for-all-icr-emis-sige",
+  "facts": [],
+  "systems": [
+    {"system": "National Education Management Information System (EMIS)", "country_label": "SIGE (Sistema de Gestão Escolar)", "class": "", "platform": "online platform linking schools to the planning directorate (software not named)", "owner": "Ministry of Education, Directorate of Planning and Education Innovation (DPEI); built under a World Bank IDA and GPE financed project", "tiers": "central level (DPEI); each primary school to receive a computer for data management and be connected to DPEI"},
+    {"system": "AALEB national learning assessment", "country_label": "Avaliação Aferida de Larga Escala no Ensino Básico (AALEB)", "class": "single-function", "platform": "", "owner": "Ministry of Education, Department of Assessment and Accreditation", "tiers": "national, grades 2, 4 and 6; run in 2016 and 2019"},
+    {"system": "Inspection system (revamped)", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "No fact: the completion report (December 2019; capture truncated before the outcome section on the EMIS, so its results and any school counts are not held) describes the EMIS/SIGE as a management information system for the ministry, with a computer per primary school 'for data management' and an online link to DPEI, and calls it 'newly established' by 2019. It nowhere says schools enter per-learner records, nor that the return is yearly, so the class is left empty. It also states that at appraisal in 2012 there was no reliable EMIS linking the ministry with decentralised structures, though education statistics were regularly published; it does not say how schools kept learner records."
+}

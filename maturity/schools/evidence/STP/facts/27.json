@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-sao-tome-banco-mundial-id4d-diagnostico-sistemas-identificacao",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "SIGE", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The Portuguese ID4D diagnostic, captured as an excerpt that stops before its education section. The SIGE appears only in the acronym list; the summary says the education sector needs to identify learners early and verify examinees. No description of the system, so no class and no fact."
+}

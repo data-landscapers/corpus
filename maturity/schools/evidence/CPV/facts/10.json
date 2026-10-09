@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-06-cabo-verde-despacho-120-gme-2025-ano-letivo-sige-obrigatorio",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The Minister of Education's Despacho 120/GME/2025, regulating the 2025/2026 school year for pre-school, basic and secondary education, orders at 2.12 that all Cabo Verdean schools in the national education system, public, semi-public and private, must adopt SIGE; it takes effect from 1 September 2025.", "as_of": "2025-09-01", "date_precision": "day", "system": "SIGE", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "Despacho 120/GME/2025 orders at 2.11 that teachers must record the information from pupils' assessment electronically as well, on the result-entry sheets of the SIGE platform, where each teacher gets the final marks calculated by the legal formulas; it states an obligation for basic and secondary education in 2025/2026, not a measure of practice.", "as_of": "2025-09-01", "date_precision": "day", "system": "SIGE", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "Despacho 120/GME/2025 obliges every school in the national system to adopt SIGE from the 2025/2026 school year and gives no count or share of schools that use it or enter data in it.", "as_of": "2025-09-01", "date_precision": "day", "system": "SIGE", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIGE", "country_label": "plataforma SIGE", "class": "emis", "platform": "", "owner": "", "tiers": "teachers in all schools of the national system, public, semi-public and private; basic and secondary education"}
+  ],
+  "note": "The capture is an excerpt, cut off in the examination calendars; the Caderno de Orientações annexed to the order is not in it. The order is the Ministry of Education's but does not say who runs SIGE, so no governance fact is taken. It is dated more than twelve months back, so no last12 fact."
+}

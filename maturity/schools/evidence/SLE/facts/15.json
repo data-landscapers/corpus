@@ -1,0 +1,27 @@
+{
+  "slug": "2024-01-01-sierra-leone-wi-de-ya-teacher-attendance-faq",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine",
+     "fact": "The Wi De Ya site states that school leaders use the app on a tablet to add profiles of individual learners and to record daily pupil attendance from the class register (and teacher attendance by fingerprint), the data syncing to an online database for the TSC and MBSSE when connected; dated to the rollout it says starts from March 2023.",
+     "as_of": "2023-03", "date_precision": "month", "system": "Wi De Ya", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "count:300",
+     "fact": "The Wi De Ya site states that a rollout to 300 primary schools across all districts starts from March 2023, to be followed by planned rollouts to 1,500 and 4,000 schools with details to be confirmed; it gives no total of primary schools and no count of schools actually entering data.",
+     "as_of": "2023-03", "date_precision": "month", "system": "Wi De Ya", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P",
+     "fact": "The first rollout stage named is 300 primary schools, in government and government-assisted schools; later stages are given as school counts without a level.",
+     "as_of": "2023-03", "date_precision": "month", "system": "Wi De Ya", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry",
+     "fact": "Wi De Ya is led by the Teaching Service Commission in collaboration with the Ministry of Basic and Senior Secondary Education, and developed and tested by CGA Technologies (the page is undated; its published year is used).",
+     "as_of": "2024", "date_precision": "year", "system": "Wi De Ya", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor",
+     "fact": "Wi De Ya is funded by the Multi Donor Trust Fund (World Bank, GPE, EU, Irish Aid and FCDO); no domestic funding is stated (the page is undated; its published year is used).",
+     "as_of": "2024", "date_precision": "year", "system": "Wi De Ya", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Wi De Ya", "country_label": "Wi De Ya ('We Are Here'); One Tablet Per School", "class": "emis",
+     "platform": "tablet app syncing to a cloud database, with a public dashboard website; built by CGA Technologies",
+     "owner": "Teaching Service Commission with MBSSE; Multi Donor Trust Fund financing",
+     "tiers": "school leaders in government and government-assisted schools record learner profiles, enrolment and daily pupil and teacher attendance; individual pupil data read by MBSSE, teacher data by TSC; 300 primary schools from March 2023, then 1,500 and 4,000 planned"}
+  ],
+  "note": "The page is undated (published year a proxy); its only event date is the March 2023 start of the 300-school rollout, written in the future tense."
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper",
+     "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's own analysis) states that rural primary schools in Sierra Leone record attendance, enrolment and learning outcomes predominantly on paper registers and forms, that it found no routine digital tools at rural schools, and scores schools 1; it gives no date for the statement, so the document's published date is used.",
+     "as_of": "2026-03-31", "date_precision": "day", "system": "paper school records", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census", "class": "census",
+     "platform": "SurveyCTO on tablets", "owner": "MBSSE",
+     "tiers": "school heads pre-fill paper questionnaires; enumerators digitise them on tablets during visits and verify headcounts"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "census",
+     "platform": "", "owner": "MBSSE", "tiers": "national repository for aggregated census data, not used at school level"},
+    {"system": "SLEAMS", "country_label": "SLEAMS", "class": "",
+     "platform": "", "owner": "", "tiers": "a 2020 pilot in 43 schools; what it does is not described"},
+    {"system": "Wi De Ya", "country_label": "Wi De Ya", "class": "single-function",
+     "platform": "tablets", "owner": "", "tiers": "a tablet rollout for attendance, called isolated or district-level; whose attendance is not stated"},
+    {"system": "One Tablet per School", "country_label": "One Tablet per School", "class": "",
+     "platform": "tablets", "owner": "", "tiers": "named as a recent tablet rollout, isolated or district-level; what it records is not described"}
+  ],
+  "note": "The study's exclude_sources lists this document: an AI-assisted compilation, not sourced fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-13-zambia-zeep-mid-term-review-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS (\"the broader EMIS reform\")", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Teaching Council of Zambia teacher database", "country_label": "teacher database", "class": "single-function", "platform": "", "owner": "Teaching Council of Zambia", "tiers": "review and enhancement being considered within the EMIS reform, December 2024"}
+  ],
+  "note": "The capture is an excerpt, cut before Component 3. The EMIS is named once, as a reform under way in December 2024, with no description of what it does; no fact."
+}

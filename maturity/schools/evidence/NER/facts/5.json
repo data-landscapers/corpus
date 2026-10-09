@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-04-men-niger-annuaire-statistique-2024-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recensement scolaire 2024-2025 / StatEduc2",
+      "country_label": "recensement scolaire; annuaire statistique; plateforme StatEduc2",
+      "class": "census",
+      "platform": "StatEduc2",
+      "owner": "Ministry of National Education (MEN/A/PL), Direction des Statistiques (DSP/TICE), with technical support from INS",
+      "tiers": "printed questionnaires filled by heads of pre-primary, primary and secondary establishments (April 2025), sent up and corrected at regional level (May), keyed in the regional directorates from June 2025, regional databases consolidated centrally (July-August); primary coverage 17,904 of 18,282 establishments (97.9%)"
+    }
+  ],
+  "note": "The method chapter describes only the yearly paper questionnaire keyed into StatEduc2 at regional level: a census, so no fact. It says nothing of how schools keep learner records. Examination results come from the examination services, not from schools. The capture is truncated in the regional tables."
+}

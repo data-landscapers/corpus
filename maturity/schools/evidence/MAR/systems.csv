@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,Pathway,"national EMIS called ""Pathway""",,,,national,2026-03-31 Africa we have a data problem
+MAR,Écoles numériques,Écoles numériques (Orange Foundation),learning,,Orange Foundation,"55 rural primary schools, described as a pilot",2026-03-31 Africa we have a data problem
+MAR,MASSAR,MASSAR school management system,,,,,2022-09-07-morocco-e-government-interoperability-platform
+MAR,e-government interoperability platform,Interoperability Platform,exchange,built by Minsait,Agency for Digital Development (ADD),"central; MASSAR, the Single Social Register (RSU) and some social programmes operational on it as of the 5 September 2022 release",2022-09-07-morocco-e-government-interoperability-platform
+MAR,MASSAR,MASSAR program,,,,,2021-11-22-world-bank-ennajaa-program-appraisal
+MAR,national interoperability platform,national interoperability platform,exchange,APIs and web services,Agence pour le Développement Digital (ADD),"central; MASSAR is one of four priority data-exchange use cases the ADD selected, with a target of at least 12 use cases integrated by 2024",2021-11-22-world-bank-ennajaa-program-appraisal
+MAR,MASSAR,"MASSAR, 'Système de gestion scolaire'; the diagnostic also calls it a national register of children",emis,"ministry-developed, central database accessed online",Ministère de l'Education nationale et de la formation professionnelle (MENFP),"more than 10,000 educational establishments nationwide, ages 6 to 18",2016-01-01-id4d-country-diagnostic-morocco
+MAR,Tayssir,Tayssir identity register (conditional cash transfer for school attendance),single-function,,MENFP,"475,000 families and about 825,000 students, geographically targeted; planned to move onto MASSAR's identification module as Tayssir II",2016-01-01-id4d-country-diagnostic-morocco

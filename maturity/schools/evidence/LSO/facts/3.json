@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-11-lesotho-lemis-dhis2-education-data-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lesotho Education Management Information System (LEMIS)",
+      "country_label": "LEMIS",
+      "class": "census",
+      "platform": "DHIS2",
+      "owner": "Ministry of Education and Training, built with UNICEF Lesotho and HISP (University of Oslo, South Africa, Uganda)",
+      "tiers": "Ministry staff trained in March 2026; not yet live for nationwide data collection; district- and school-level rollout activities set for May 2026; master list of 4,819 institutions including 1,524 primary and 373 post-primary schools"
+    },
+    {
+      "system": "Paper-based annual statistical forms (existing EMIS tools)",
+      "country_label": "EMIS tools; annual statistical forms",
+      "class": "census",
+      "platform": "paper",
+      "owner": "Ministry of Education and Training",
+      "tiers": "Schools complete the forms, district offices receive them, the Ministry verifies and keys them centrally over 6 to 9 months"
+    }
+  ],
+  "note": "No fact: LEMIS is described only as the digital replacement for the yearly paper statistical forms (data entry forms aligned to the revised EMIS tools, 2,426 data elements, 1,243 indicators), with no per-learner entry by schools stated, so it is class census. Tracker programs appear only as a topic in the March 2026 configuration training. The document says the forms are on paper; it does not say how schools keep learners' own records."
+}

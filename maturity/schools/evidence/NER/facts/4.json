@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers review (an AI-assisted compilation) states that Niger's rural primary schools record attendance, enrolment and grades on paper questionnaires filled by school heads at the annual school census, entered digitally only at central or regional level, and that it found no evidence of digital recording at rural school level; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS (annual school census, recensement scolaire)",
+      "country_label": "recensement scolaire / EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "paper questionnaire filled by school heads; controlled and keyed at regional and central levels; compiled into statistical yearbooks"
+    },
+    {
+      "system": "World Bank LIRE project computers",
+      "country_label": "LIRE",
+      "class": "enabling",
+      "platform": "",
+      "owner": "World Bank project",
+      "tiers": "38,000 devices for learning environments, not data recording"
+    },
+    {
+      "system": "Rural digital library pilots",
+      "country_label": "",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "pilots in rural schools, described as exceptional"
+    }
+  ],
+  "note": "The EMIS is described as producing aggregate data and yearbooks from the annual census, so it is census; a PTSEF 2020-2022 transition plan to strengthen it is mentioned without saying what it adds."
+}

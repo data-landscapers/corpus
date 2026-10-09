@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-mli-malijet-digitalisation-mobilite-enseignants",
+  "facts": [],
+  "systems": [
+    {"system": "Portail numérique de gestion de la mobilité des enseignants", "country_label": "portail numérique de gestion de la mobilité des enseignants", "class": "single-function", "platform": "", "owner": "Ministère de l'Éducation nationale, through the Cellule de planification et de statistique du secteur de l'éducation (CPS-SE), with the EU-funded PADEM project (Save the Children International Mali, CAEB, AMSS, CORDAID)", "tiers": "not in use: specification and functional mock-up validated at a workshop on 29 July 2026"}
+  ],
+  "note": "No fact: the only system named is a planned portal for teachers' postings and attendance (human resources), class single-function; nothing is said of learner records."
+}

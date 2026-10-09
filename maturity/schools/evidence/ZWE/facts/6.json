@@ -1,0 +1,74 @@
+{
+  "slug": "2026-06-15-newzimbabwe-emis-dropout-early-warning",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The education ministry's spokesperson says an Early Warning System, now integrated into EMIS, flags individual learners by tracking persistent absenteeism and falling grades and produces a real-time list of learners absent for extended periods; the document does not say who enters the attendance or grades, or where. No date is given, so the publication date is used.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "Education Management Information Systems (EMIS), with its Early Warning System",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The ministry's EMIS report counts 39,736 learners who dropped out in 2025, 13,032 at primary and 26,704 at secondary level, and the ministry describes the learner-level Early Warning System in EMIS without limiting it to either level.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Education Management Information Systems (EMIS), with its Early Warning System",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The document presents EMIS and its report as the Ministry of Primary and Secondary Education's own, with the ministry's spokesperson speaking for it; no date is given, so the publication date is used.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "Education Management Information Systems (EMIS), with its Early Warning System",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The document gives no number or share of schools whose learners' attendance or grades are in the Early Warning System; no date is given, so the publication date is used.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "Education Management Information Systems (EMIS), with its Early Warning System",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The ministry's spokesperson says the Early Warning System is 'now integrated' into EMIS and is being rolled out with re-entry and community tracing, and that the government will keep strengthening it; the integration is not dated, so the publication date is used.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "Education Management Information Systems (EMIS), with its Early Warning System",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information Systems (EMIS), with its Early Warning System",
+      "country_label": "EMIS; Early Warning System (EWS)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Primary and Secondary Education",
+      "tiers": "school-based response teams act on flags; district and school authorities use the absence list; primary and secondary"
+    },
+    {
+      "system": "National Case Management System",
+      "country_label": "National Case Management System",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Public Service, Labour and Social Welfare, with the education ministry",
+      "tiers": "the tracing of out-of-school learners runs under it; what the system does is not described"
+    }
+  ],
+  "note": "Classed emis on the document's description of per-learner absenteeism and grades tracked in real time; the document never states that schools themselves enter the records, which the parent should weigh."
+}

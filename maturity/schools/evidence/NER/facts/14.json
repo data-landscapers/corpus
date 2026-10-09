@@ -1,0 +1,15 @@
+{
+  "slug": "2020-07-08-wb-ner-001-niger-smart-villages-for-rural-growth",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Smart Villages for rural growth and digital inclusion (P167543)",
+      "country_label": "Projet Villages Intelligents",
+      "class": "enabling",
+      "platform": "",
+      "owner": "ANSI project management unit; World Bank financed (USD 100 million, 2020-2026)",
+      "tiers": "rural broadband connectivity, digital financial services and digital skills; schools are not mentioned"
+    }
+  ],
+  "note": "Deal record for a rural connectivity project; it names no school information system and does not mention schools."
+}

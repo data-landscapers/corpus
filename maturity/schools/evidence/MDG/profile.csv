@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MDG,emis,governance,qualifier,owner:ministry;finance:donor,2026-05-11,MDG-005;MDG-008,MDG-010=finance:donor,not stated: plan
+MDG,emis,levels,coverage,P;S,2026-05-11,MDG-001,,
+MDG,emis,kept,coverage,enrolment,2026-05-11,MDG-002,,
+MDG,emis,last12,qualifier,advancing,2026-05-11,MDG-004,,
+MDG,emis,schools,coverage,count:792,2026-04,MDG-003,MDG-007=none;MDG-009=none,

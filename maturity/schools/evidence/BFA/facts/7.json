@@ -1,0 +1,56 @@
+{
+  "slug": "2025-06-27-numerisation-systeme-educatif-fichier-national-eleves",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "none",
+      "fact": "La Tribune du Faso, from the digital transition ministry's communications office, reports that on 25 June 2025 the two ministers reviewed work on the national pupil file, online enrolment and school identity cards, with a roadmap still awaited and progressive enrolment of pupils due to start at the next school year; no school is said to be using it.",
+      "as_of": "2025-06-25",
+      "date_precision": "day",
+      "system": "fichier national des élèves",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "none",
+      "fact": "The article states that the national platform is meant to follow pupils from primary school to university, and that enrolment had not begun at 25 June 2025.",
+      "as_of": "2025-06-25",
+      "date_precision": "day",
+      "system": "fichier national des élèves",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The article states that the national pupil file is being built by the technical teams of the ministry of digital transition and the ministry of basic education, whose ministers reviewed it on 25 June 2025.",
+      "as_of": "2025-06-25",
+      "date_precision": "day",
+      "system": "fichier national des élèves",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The article states that the design and implementation of the national pupil platform has the technical and financial support of the WURI project; it names no domestic budget line.",
+      "as_of": "2025-06-25",
+      "date_precision": "day",
+      "system": "fichier national des élèves",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "fichier national des élèves",
+      "country_label": "fichier national des élèves",
+      "class": "emis",
+      "platform": "",
+      "owner": "ministry of basic education with the ministry of digital transition; WURI project support",
+      "tiers": "in preparation at June 2025; intended from primary to university, with online enrolment and school identity cards"
+    }
+  ],
+  "note": "Classed emis as a learner register (a national file of pupils filled by enrolment); the article does not say whether schools do the enrolling."
+}

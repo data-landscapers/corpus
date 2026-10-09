@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-12-classroom-attendance-nigeria-relies-on-paper",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "DPI Africa reports that at Nassarawo Primary School, Jimeta-Yola, Adamawa State, the Primary 3B teacher marks about 50 pupils' attendance each day by hand in a paper register, keeping one copy at school and one at home, and lost nearly a term's record when the register got wet; undated, so the document's published date is used.", "as_of": "2026-03-12", "date_precision": "day", "system": "paper attendance registers", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The chief executive of Data Science Nigeria told DPI Africa that several schools in Nigeria, including some public tertiary institutions, still rely heavily on manual recordkeeping; undated, so the document's published date is used.", "as_of": "2026-03-12", "date_precision": "day", "system": "paper attendance registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "annual school census", "country_label": "annual school census", "class": "census", "platform": "handwritten forms", "owner": "education officials", "tiers": "principals carry the forms to local government offices; many rural schools report slowly or not at all"},
+    {"system": "DHIS2 EMIS module", "country_label": "national Education Management Information System (EMIS); DHIS2 EMIS", "class": "census", "platform": "DHIS2", "owner": "a consortium led by HISP Nigeria and UNICEF, with state ministries", "tiers": "being rolled out in twelve states including Adamawa; local education authorities trained to enter enrolment, attendance and infrastructure data on tablets and smartphones; Bauchi supervisors practised uploading school census data"},
+    {"system": "UBEC digital quality assurance platform", "country_label": "digital quality assurance platform", "class": "single-function", "platform": "", "owner": "Universal Basic Education Commission", "tiers": "launched 2024; in use in UBEC's inspection and monitoring, nationwide adoption still scaling up"},
+    {"system": "Nigeria Education Data Initiative (NEDI)", "country_label": "Nigeria Education Data Initiative (NEDI)", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": "unveiled as a single platform of education data across basic and tertiary levels, meant to use the national identity number for student tracking"},
+    {"system": "EdoCert", "country_label": "EdoCert", "class": "single-function", "platform": "Sunbird", "owner": "Data Science Nigeria, funded by the Gates Foundation", "tiers": "piloted in Edo State; 1.9 million paper certificates secured"},
+    {"system": "GenU9ja", "country_label": "GenU9ja", "class": "enabling", "platform": "routers and devices for digital learning", "owner": "UNICEF with telecoms operators and the Federal Ministry of Education", "tiers": "more than 1,000 public schools connected by early 2025"}
+  ],
+  "note": "The DHIS2 EMIS rollout is described as entry by local education authorities and the upload of school census data, with no entry by schools during the year, so it is a census; the article's wish for a teacher's attendance app is its own, not a system in use."
+}

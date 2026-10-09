@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that rural primary schools in Cameroon predominantly use paper registers for administrative data, attendance and learning outcomes, that only 3% of public primary schools have computers, and scores Cameroon schools 1; the statement is undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers (no system named at school level)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "National EMIS (STATEDUC platform)", "country_label": "National EMIS (STATEDUC platform)", "class": "census", "platform": "STATEDUC", "owner": "aggregation at national level via INS", "tiers": "central and regional levels; the document says implementation is delayed and it is not used at the point of service in rural schools"},
+    {"system": "UNICEF Connect My School", "country_label": "Connect My School", "class": "enabling", "platform": "e-container", "owner": "UNICEF, with IHS", "tiers": "isolated pilot; one e-container in the Southwest"}
+  ],
+  "note": "The paper fact names no system of class emis: it is the dated statement of absence the brief asks for, recorded under the sub-indicator's class. The document also says national policies (GESP, ETSS, ERSP) aim for an integrated EMIS, with no system described; 66.6% of administrative structures lack computers."
+}

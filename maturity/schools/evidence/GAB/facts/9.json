@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Système d'Information pour la Gestion de l'Éducation (SIGE)", "class": "", "platform": "", "owner": "Ministry of education", "tiers": "not stated; described only as collecting, analysing and exploiting educational data, with school health indicators recently added"},
+    {"system": "Tablets and software for field collection of school data", "country_label": "", "class": "", "platform": "software from UNESCO, tablets from the World Bank", "owner": "Ministry of education", "tiers": "field collection, training ongoing; not stated further"}
+  ],
+  "note": "The Gabon school row names SIGE without saying who enters what or when, so it is unclassified; its only statement on schools is that it found no evidence of digital recording of attendance or grades at rural primary schools, which is an absence of evidence in an AI-assisted compilation, not a dated statement that records are on paper."
+}

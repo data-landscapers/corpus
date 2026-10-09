@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "The essay's country table states that rural primary schools in South Africa use SA-SAMS, a digital tool for recording administrative data, attendance and learning outcomes that feeds the national EMIS; it gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "South African School Administration and Management System (SA-SAMS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "share:99.64%", "fact": "The essay states that the Department of Basic Education reports 99.64% of schools as having adopted SA-SAMS, excluding the Western Cape, citing the DBE Annual Report 2024/25; this is a share adopting the system, with no numerator or denominator given, and not a share entering data.", "as_of": "2025", "date_precision": "year", "system": "South African School Administration and Management System (SA-SAMS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay states that studies of rural districts (iLembe, Eastern Cape) find paper-based practice predominant with some digital, SA-SAMS underused, and data batch-uploaded to provincial systems rather than entered at the point of service, with no evidence that a majority of rural schools use digital as the default; it gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "South African School Administration and Management System (SA-SAMS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "South African School Administration and Management System (SA-SAMS)", "country_label": "SA-SAMS", "class": "emis", "platform": "", "owner": "Department of Basic Education (reports its adoption)", "tiers": "schools, with batch uploads to provincial systems; feeds the national EMIS"},
+    {"system": "national EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "national; fed by SA-SAMS"}
+  ],
+  "note": "The source is listed in study.json exclude_sources as an AI-assisted compilation; the facts are recorded as the document states them, for the parent to treat accordingly."
+}

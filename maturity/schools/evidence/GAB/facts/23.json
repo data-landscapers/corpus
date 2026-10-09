@@ -1,0 +1,14 @@
+{
+  "slug": "2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "S", "fact": "The World Bank's diagnostic says X-Gest, a school management system covering academic events, curriculum, facilities, teachers and students with biometric ID, had been introduced in 92 secondary schools and was expanding to the remaining secondary schools and to primary schools; the passages give no date, so the 2019 publication year is used.", "as_of": "2019", "date_precision": "year", "system": "X-Gest", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The World Bank's diagnostic says X-Gest lets parents follow through a smartphone app real-time information on school attendance and education scores, in the schools where it has been introduced; the passages give no date, so the 2019 publication year is used.", "as_of": "2019", "date_precision": "year", "system": "X-Gest", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The World Bank's diagnostic gives 92 secondary schools as having X-Gest and, elsewhere, 106 schools as connected to it out of no stated total, and gives no number of primary schools using it, primary being where it was still to expand; the passages give no date, so the 2019 publication year is used.", "as_of": "2019", "date_precision": "year", "system": "X-Gest", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "X-Gest", "country_label": "X-Gest (e-education)", "class": "emis", "platform": "X-Gest, with a smartphone app for parents", "owner": "not stated; described as serving the ministry and teachers", "tiers": "92 secondary schools, expanding to the remaining secondary schools and to primary schools; 106 schools connected, level not stated"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "not in place: being set up alongside X-Gest, and the report records the absence of a reliable EMIS and of statistical data on the education system"},
+    {"system": "Connected multimedia rooms and digital classrooms", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "multimedia rooms completed at 7 public and private primary schools and 16 of 90 high schools and colleges; digital classrooms in a few secondary schools in Libreville"}
+  ],
+  "note": "X-Gest is classed emis because the document says attendance and scores per student are followed in real time; it does not say who owns it. The report's 'absence of a reliable EMIS' concerns statistical data for managing the system and describes no entry by schools, so that EMIS is unclassified and gives no fact."
+}

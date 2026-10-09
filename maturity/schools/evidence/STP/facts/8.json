@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "integrated Education EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "Department of Education", "tiers": "Department of Education level (central)"}
+  ],
+  "note": "The STP school row says an integrated EMIS exists at Department of Education level and that it found no detail of rural primary schools using digital tools for attendance, enrolment or grades; paper at schools is given as 'likely', not stated. No description of what schools enter, so the class is empty and there is no fact. The source is in study.json's exclude_sources."
+}

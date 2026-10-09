@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-21-zimbabwe-climate-smart-school-census",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ED46 annual school census",
+      "country_label": "ED46",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Primary and Secondary Education; the 2025 revision supported by IIEP-UNESCO and funded by the Global Partnership for Education",
+      "tiers": "a yearly questionnaire answered by each school on enrolment, infrastructure and teacher deployment, with climate and disaster-risk questions added in 2025"
+    }
+  ],
+  "note": "The document describes only the annual school census, which gives no fact; the revised form asks each school whether it has digitalised its school records, and the document gives no answers to that question."
+}

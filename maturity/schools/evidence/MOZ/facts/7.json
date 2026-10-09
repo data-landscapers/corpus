@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-03-ine-estatisticas-educacao-levantamento-escolar-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Levantamento Escolar do 3 de Março", "country_label": "Levantamento Escolar / Levantamento Estatístico do 3 de Março (censo escolar)", "class": "census", "platform": "", "owner": "Departamento de Estatística, Direcção de Planificação e Cooperação, Ministério da Educação e Desenvolvimento Humano (delegated body of INE)", "tiers": "all operating schools, public and private, once a year at 3 March; 2024 coverage of public general education 100.0% of primary schools, 100.0% of lower secondary and 98.1% of upper secondary (day shift); published as an annual brochure disaggregated to province"},
+    {"system": "Levantamento do Aproveitamento Escolar", "country_label": "Levantamento do Aproveitamento Escolar", "class": "census", "platform": "", "owner": "Departamento de Estatística, Ministério da Educação e Desenvolvimento Humano", "tiers": "end-of-year survey of school results, compiled into a second annual brochure"}
+  ],
+  "note": "A catalogue record of the 2024 annual school census and its end-of-year results survey: two yearly returns of counts, class census, so no fact. It says nothing of how the return is captured or of any per-learner system."
+}

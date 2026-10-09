@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,emis,governance,qualifier,owner:ministry,2026-08-05,NGA-003,NGA-007=owner:ministry,"not stated: plan, finance"
+NGA,emis,levels,coverage,,,,,nothing held
+NGA,emis,kept,coverage,paper,2026-07-31,NGA-004;NGA-009,,
+NGA,emis,last12,qualifier,advancing,2026-09-14,NGA-001;NGA-002;NGA-006;NGA-011,,
+NGA,emis,schools,coverage,none,2026-07-31,NGA-005;NGA-010,,

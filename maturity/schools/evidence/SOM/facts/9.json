@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-somalia-human-capital-review-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "national EMIS", "class": "census", "platform": "", "owner": "federal government; the Ministry of Education's 2022 data assessment of it is cited", "tiers": "national reporting channel for schools; the review says it does not systematically capture attendance or learning data, and proposes mandatory EMIS reporting for every school receiving a school grant, with EMIS monitoring coverage, teachers, school conditions and school-based services"}
+  ],
+  "note": "No fact: the review states, citing World Bank 2025b, that the national EMIS does not systematically capture attendance or learning data, which describes school-level reporting and no record per learner, so the system is not of class emis. It does not say how schools keep learner records (paper is not stated), so no absence fact is drawn either. Everything else on EMIS is a recommendation."
+}

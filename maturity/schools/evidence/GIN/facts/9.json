@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-21-wb-isr-guinee-education-base-p167478",
+  "facts": [],
+  "systems": [
+    {"system": "MEPU-A's EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "MEPU-A, with UNESCO contracted to reinforce it (World Bank financed)", "tiers": ""},
+    {"system": "Teacher tablets for in-service training", "country_label": "", "class": "learning", "platform": "", "owner": "MEPU-A, World Bank financed (PrePEF)", "tiers": "19,620 tablets and 4,000 chargers purchased; 0 teachers using mobile technologies in class at 27 November 2023"}
+  ],
+  "note": "The report names the EMIS without saying what it holds or who enters data, so it is unclassified and gives no fact. What it does state: UNESCO's contract to reinforce the EMIS was delayed; at 27 November 2023 the share of schools whose current-year education indicators were net-accessible to decision-makers was 0 against a target of 90, and dashboard use by stakeholders 0 against 20; the US$1,000,000 tied to the first (PBC 5) was 0% disbursed."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2017-05-31-using-data-to-improve-education-in-angola",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management and Information System (SIGE)",
+      "country_label": "SIGE",
+      "class": "census",
+      "platform": "A digital application on tablets, working offline and transmitting to an online platform and central database; developed with UNICEF support. No product named.",
+      "owner": "Ministry of Education, through its Cabinet for Studies, Planning and Statistics (GEPE); the pilot implemented by the Provincial Government of Huíla with UNICEF technical and financial support",
+      "tiers": "Pilot in Huíla province: 28 trained technicians, two per municipality, visited all 1,843 primary and secondary schools in 14 municipalities and keyed a questionnaire answered by the principal; data used at local, provincial and national level. Extension to all provinces planned once funds are secured."
+    }
+  ],
+  "note": "No fact: SIGE as described is a per-school questionnaire of counts and school features (pupils and teachers per course, classes, electricity, water), entered by a visiting technician and feeding the Annual Education Report, so it is a census; the document describes no per-learner record and no entry by the school. It says school statistics were until then collected by paper survey, which is about the census return, not learners' records."
+}

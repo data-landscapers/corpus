@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-26-eswatini-launches-semis",
+  "facts": [],
+  "systems": [
+    {"system": "SEMIS", "country_label": "SEMIS", "class": "", "platform": "DHIS2 (mobile application)", "owner": "Ministry of Education and Training, developed with UNICEF, the University of Oslo, HISP Uganda and Saudigitus", "tiers": "tested in 10 pilot schools before its official launch of 19 to 22 March 2024"}
+  ],
+  "note": "The page describes SEMIS only as a mobile application for collecting, managing and analysing educational data; it does not say what is recorded, whether per learner, or when schools enter it, so the system is unclassified here and gives no fact. What it does state: an official launch on 19-22 March 2024 and testing in 10 pilot schools beforehand; the level of those schools is not given."
+}

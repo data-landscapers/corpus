@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-16-world-bank-wardip2-pad",
+  "facts": [],
+  "systems": [
+    {"system": "National Education Management Information System (EMIS)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages name the national EMIS once, as supporting data for a results indicator whose primary source is the higher-education ministry (MESRS); nothing is said of what it does or of schools, so no class and no fact."
+}

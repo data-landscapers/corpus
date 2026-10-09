@@ -1,0 +1,8 @@
+{
+  "slug": "2011-06-06-sc009-standard-for-data-coding",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS surveys and survey data sets", "country_label": "EMIS surveys; annual survey data sets", "class": "census", "platform": "", "owner": "Department of Basic Education, Education Management Information Systems (EMIS)", "tiers": "each institution returns a survey, identified by its national EMIS number; provinces hold number ranges; national department sets the codes"}
+  ],
+  "note": "A gazetted coding standard (June 2011) for education survey data sets: its master enrolment table captures the number of learners at each institution by grade and gender per survey year, on paper or electronic instruments, which is a return of counts; it describes no per-learner record that schools add to."
+}

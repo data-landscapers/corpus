@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The Digital Rights Alliance Africa analysis states that the Ministry of Education has mandated all schools to register learners on a portal under EMIS, with learners and staff required to hold a National Identification Number and those without one left out of enumeration, planning and budgeting; it gives no date for the mandate, so the publication date is used.", "as_of": "2025-09-13", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The Digital Rights Alliance Africa analysis states that the mandate to register learners on the EMIS portal covers all schools, without naming levels; no date is given, so the publication date is used.", "as_of": "2025-09-13", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "emis", "platform": "web portal", "owner": "Ministry of Education", "tiers": "all schools, which register learners and staff"}
+  ],
+  "note": "An advocacy analysis of a court ruling on the national ID; the EMIS statement is one sentence, and the levels fact rests on its words 'all schools' only."
+}

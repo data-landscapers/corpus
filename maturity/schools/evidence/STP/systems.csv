@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+STP,Dashboards para a supervisão educativa nacional,Dashboards para a supervisão educativa nacional,single-function,,UNICEF (tendering; a higher education institution to develop them),national,2026-05-07-sao-tome-unicef-dashboards-supervisao-educativa
+STP,Sistema Integrado de Gestão Escolar (SIGE),SIGE,,,,,2026-04-01-sao-tome-afap-consultoria-implementacao-sige
+STP,integrated Education EMIS,EMIS,,,Department of Education,Department of Education level (central),2026-03-31 Africa we have a data problem
+STP,Censo Escolar,Censo Escolar,census,,DPE - MECCES (education ministry planning directorate),,2025-01-01-sao-tome-ine-ende-2025-2029
+STP,Sistema Integrado de Gestão Escolar (SIGE),SIGE; EMIS/SIGE,census,,"MECC (education ministry), developed with the World Bank",schools send data; to link the central level and the districts,2023-06-01-sao-tome-gpe-pacto-parceria-educacao-sige
+STP,Boletim Estatístico Anual,Boletim Estatístico (MEES),census,,education ministry,national,2023-06-01-sao-tome-gpe-pacto-parceria-educacao-sige
+STP,Passaporte para a aprendizagem,plataforma nacional de aprendizagem digital (passaporte para a aprendizagem),learning,,,national,2023-06-01-sao-tome-gpe-pacto-parceria-educacao-sige
+STP,Integrated System of School Management (SIGE),SIGE,,,Ministry of Education and Tertiary Education (implied; not stated outright),,2023-01-01-sao-tome-and-principe-id4d-diagnostic-of-id-systems
+STP,Sistema Integrado de Gestão Escolar (SIGE),SIGE,,,,,2023-01-01-sao-tome-banco-mundial-id4d-diagnostico-sistemas-identificacao
+STP,National Education Management Information System (EMIS),SIGE (Sistema de Gestão Escolar),,online platform linking schools to the planning directorate (software not named),"Ministry of Education, Directorate of Planning and Education Innovation (DPEI); built under a World Bank IDA and GPE financed project",central level (DPEI); each primary school to receive a computer for data management and be connected to DPEI,2019-12-24-worldbank-sao-tome-quality-education-for-all-icr-emis-sige
+STP,AALEB national learning assessment,Avaliação Aferida de Larga Escala no Ensino Básico (AALEB),single-function,,"Ministry of Education, Department of Assessment and Accreditation","national, grades 2, 4 and 6; run in 2016 and 2019",2019-12-24-worldbank-sao-tome-quality-education-for-all-icr-emis-sige
+STP,Inspection system (revamped),,single-function,,Ministry of Education,,2019-12-24-worldbank-sao-tome-quality-education-for-all-icr-emis-sige

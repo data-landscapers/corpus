@@ -1,0 +1,8 @@
+{
+  "slug": "2012-09-01-sudan-nsds-2012-2016",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "school censuses under EMIS", "class": "census", "platform": "", "owner": "Ministries of Education at federal and state levels", "tiers": "Federal and state ministries; the document names it only as the vehicle for school censuses"}
+  ],
+  "note": "The statistics strategy (September 2012) names EMIS once, as the system under which the education ministries undertake school censuses: class census, so no fact. It also says no operational databases exist at ministries and states and that management information systems are weak across them, without naming schools."
+}

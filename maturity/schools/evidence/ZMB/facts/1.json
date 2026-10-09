@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-24-lusakatimes-zmb-kgs-digital-checklist-verification",
+  "facts": [],
+  "systems": [
+    {"system": "KGS application", "country_label": "KGS digital checklist verification", "class": "single-function", "platform": "tablet application", "owner": "Ministry of Education, under the GEWEL Project", "tiers": "school guidance teachers; 25 of 28 schools in Lavushimanda District, Muchinga Province"}
+  ],
+  "note": "One function only: guidance teachers verify on tablets, three times a year, that Keeping Girls in School bursary beneficiaries are still in school. Not a learner record for the school; no emis fact."
+}

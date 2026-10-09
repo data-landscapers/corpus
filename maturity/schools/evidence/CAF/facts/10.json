@@ -1,0 +1,11 @@
+{
+  "slug": "2024-05-28-worldbank-pad-accelerating-results-education",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of National Education, Directorate of Studies, Statistics and Planning", "tiers": "central; annual data collection and reporting feeding the statistical yearbook; the project is to support its modernization and decentralization and build capacity to manage it at decentralized level"},
+    {"system": "Annuaire Statistique (statistical yearbook)", "country_label": "Annuaire Statistique", "class": "census", "platform": "", "owner": "Ministry of National Education, Directorate of Studies, Statistics and Planning", "tiers": "national, annual; the 2021/2022 edition is cited, covering pre-school, basic, literacy and non-formal education"},
+    {"system": "Human Resources Management Information System (HRMIS)", "country_label": "HRMIS", "class": "single-function", "platform": "", "owner": "Ministry of National Education, Directorate of Human Resources", "tiers": "central; teacher management"},
+    {"system": "National Learning Assessment System (NLAS)", "country_label": "NLAS", "class": "single-function", "platform": "", "owner": "Ministry of National Education, Directorate of Learning Assessment", "tiers": "national assessments in early and late primary grades"}
+  ],
+  "note": "The EMIS appears only as the source of annual indicators and the statistical yearbook; the passages describe no per-learner record kept by schools, so no fact."
+}

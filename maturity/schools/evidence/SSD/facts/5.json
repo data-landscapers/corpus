@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The author's 54-country review states that rural primary schools in South Sudan predominantly use handwritten classroom registers and paper record books for attendance, enrolment and administrative data, aggregated by hand at state level for national EMIS reporting, with paper tools found even in Juba schools; the review gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "handwritten classroom registers and paper record books (no learner-record system at the school)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National EMIS",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "national, fed by manual aggregation at state level; described as existing for aggregation, not at the rural school"
+    },
+    {
+      "system": "National Education Census 2023",
+      "country_label": "National Education Census",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI)",
+      "tiers": "enumerators visiting schools for headcounts and data capture"
+    },
+    {
+      "system": "SSSAMS",
+      "country_label": "SSSAMS",
+      "class": "single-function",
+      "platform": "SMS by phone",
+      "owner": "donor-funded GESS project, 2013-2020",
+      "tiers": "described as a pilot, still partially used, not standard at most rural schools"
+    }
+  ],
+  "note": "Passages file. The one fact is a statement of absence (paper at the school), recorded under the sub-indicator's class with no digital system behind it. The national EMIS as described only aggregates what schools record on paper, so it is class census; SSSAMS is described as SMS-based attendance, so single-function. The source's own header marks its country rows as an AI-assisted compilation, the author's analysis and not sourced fact, and study.json lists this slug under exclude_sources."
+}

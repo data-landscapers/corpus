@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Pathway", "country_label": "national EMIS called \"Pathway\"", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Écoles numériques", "country_label": "Écoles numériques (Orange Foundation)", "class": "learning", "platform": "", "owner": "Orange Foundation", "tiers": "55 rural primary schools, described as a pilot"}
+  ],
+  "note": "The Morocco school row names a national EMIS, \"Pathway\", without saying what schools enter in it, so it is unclassified; it reports finding no direct evidence of routine digital recording at rural schools and says paper is 'likely', which is an inference and not a dated statement of absence."
+}

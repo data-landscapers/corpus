@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-28-kemis-schools-data-validation-circular",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS", "country_label": "Kenya Education Management Information System (KEMIS)", "class": "", "platform": "", "owner": "Ministry of Education, State Department for Basic Education", "tiers": "being operationalised on 28 August 2025 as the single source of education data across all levels; only schools with validated data to be activated on it"},
+    {"system": "NEMIS", "country_label": "National Education Management Information System (NEMIS)", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "named as the system through which education data is collected; no description of what schools enter"},
+    {"system": "Education data validation exercise, 2025", "country_label": "verification of education data for primary, junior and secondary schools", "class": "census", "platform": "web forms at ee.education.go.ke, one link for heads of institutions and one for sub-county directors", "owner": "Ministry of Education, through county and sub-county directors of education", "tiers": "all primary, junior and secondary schools: school profile, head's profile, bank account details and learner numbers by grade, gender and special needs status, due by 5 September 2025"}
+  ],
+  "note": "The circular describes only a one-off return of school details and enrolment counts as the prerequisite for onboarding onto KEMIS; it says nothing of a record per learner or of anything schools enter in NEMIS or KEMIS, so both are left unclassified and no fact is taken."
+}

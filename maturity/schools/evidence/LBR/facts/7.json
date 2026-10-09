@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay's country table states that rural primary schools in Liberia predominantly use paper-based registers for daily administrative data, attendance and learning records, citing the EMIS peer review report; it gives no count and no date, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National EMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "National EMIS", "country_label": "EMIS (paper-based 1.0, planned digital 2.0)", "class": "census", "platform": "", "owner": "", "tiers": "described only through its school census, with collection stalled after the 2022 census"},
+    {"system": "Geo-Mapping M&E system", "country_label": "Geo-Mapping M&E system", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "pilot from March 2026 including Rivercess and Bong, geolocated inputs from schools for monitoring attendance and instruction"}
+  ],
+  "note": "An AI-assisted compilation by its own header, listed under exclude_sources in study.json; the one fact is the essay's own statement, not a sourced figure. Planned mobile, SMS and ODK tools are mentioned without a system name."
+}

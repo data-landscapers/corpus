@@ -1,0 +1,14 @@
+{
+  "slug": "2025-10-01-iped-liberia-emis-peer-review",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "none", "fact": "The AU-IPED peer review of 1-2 September 2025 found that unique learner and teacher IDs are absent in Liberia, and recommended establishing a national learner and teacher ID system; the EMIS it describes serves about 1.5 million learners in 6,500 schools through a school census.", "as_of": "2025-09-02", "date_precision": "day", "system": "National learner and teacher ID system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current", "fact": "The peer review report proposes a three-year action plan for EMIS 2.0 with a budget of USD 4.5 million, of which USD 1.0 million is for unique learner and teacher IDs (timeline 2025-2027), on an assumption of 60% government and 40% donor funding; it is a proposal in the report, not an adopted plan.", "as_of": "2025-09-02", "date_precision": "day", "system": "National learner and teacher ID system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The peer review's action plan names the Ministry of Education, with the National Identification Registry and the teacher service, as responsible for establishing the national learner and teacher ID system.", "as_of": "2025-09-02", "date_precision": "day", "system": "National learner and teacher ID system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS (EMIS 1.0 paper-based; EMIS 2.0 digitised and integrated, in transition)", "class": "census", "platform": "ODK among the data collection tools; DHIS2 integration proposed", "owner": "Ministry of Education", "tiers": "national school census, last conducted in 2022 with no data collected since; about 6,500 schools; county-level EMIS hubs planned in all 15 counties"},
+    {"system": "National learner and teacher ID system", "country_label": "unique learner/teacher IDs", "class": "emis", "platform": "", "owner": "Ministry of Education with the National Identification Registry and the teacher service (proposed)", "tiers": "absent in September 2025; proposed for 2025-2027"},
+    {"system": "WAEC exam data", "country_label": "WAEC exam data", "class": "single-function", "platform": "", "owner": "WAEC", "tiers": "not integrated with the EMIS, nor are teacher service records"}
+  ],
+  "note": "The EMIS as this report describes it is the school census (paper-based, stalled since 2022 for want of funding, donor-dependent), so its paper and funding statements are not recorded as facts; the facts concern the learner register only. For dpi.exchange: no integration with WAEC exam data or teacher service records, and no formal framework with LISGIS."
+}

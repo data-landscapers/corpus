@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-cabo-verde-world-bank-human-capital-project-restructuring-csu",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Ministry of Education SIGE", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Distance learning platform for teacher training courses", "country_label": "", "class": "learning", "platform": "", "owner": "Ministry of Education", "tiers": "distance learning centres in all 22 municipalities"}
+  ],
+  "note": "Names SIGE once, as the source of grade 9 enrolment counts (8,292 in 2022/23, 8,273 in 2023/24, 7,983 in 2024/25), without saying what it does or who enters data, so it is unclassified and gives no fact. The capture is an excerpt, cut off in the results framework."
+}

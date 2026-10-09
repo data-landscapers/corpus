@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-01-abp-burundi-etendre-4g-zones-rurales",
+  "facts": [],
+  "systems": [
+    {"system": "PAFEN / Fonds de Service Universel rural 4G extension", "country_label": "PAFEN", "class": "enabling", "platform": "4G mobile network, open access with national roaming", "owner": "SETIC / PAFEN and the Fonds de Service Universel", "tiers": "178 rural collines, about 786,000 people; collines chosen partly for the schools on them"}
+  ],
+  "note": "Rural 4G coverage tender; schools appear only as a criterion for choosing collines. Connectivity only (class enabling), no school record system."
+}

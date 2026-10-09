@@ -1,0 +1,54 @@
+{
+  "slug": "2025-06-09-e-msomo-e-shiyo-education-digitisation-anaden-unicef-lagazette",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 5 June 2025 the education authorities and ANADEN officially launched e-Msomo, which allows marks to be entered online and report cards generated automatically and plans a unique identifier per pupil and the handling of transfers; an extension phase with UNICEF Comoros was under study, according to La Gazette des Comores.",
+      "as_of": "2025-06-05",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "La Gazette des Comores reports that the education authorities launched e-Msomo on 5 June 2025 in collaboration with the digital agency ANADEN, with the Minister of National Education speaking for it.",
+      "as_of": "2025-06-05",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "ANADEN's director called the 5 June 2025 launch of e-Msomo and e-Shiyo a significant step in carrying out the Comores Numérique 2028 strategy; the article does not say the strategy names e-Msomo.",
+      "as_of": "2025-06-05",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Msomo",
+      "country_label": "e-Msomo",
+      "class": "emis",
+      "platform": "",
+      "owner": "education authorities, with ANADEN",
+      "tiers": "access for pupils, parents and teaching teams; levels not stated"
+    },
+    {
+      "system": "e-Shiyo",
+      "country_label": "e-Shiyo (manuel scolaire numérique)",
+      "class": "learning",
+      "platform": "",
+      "owner": "education authorities, with ANADEN; UNICEF support",
+      "tiers": "online library of approved textbooks for pre-primary and primary pupils"
+    }
+  ],
+  "note": "The article says what e-Msomo allows, not who enters marks or in how many schools, so no kept, levels or schools fact."
+}

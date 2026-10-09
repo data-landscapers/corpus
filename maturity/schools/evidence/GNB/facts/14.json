@@ -1,0 +1,23 @@
+{
+  "slug": "2022-01-11-fec-peside-sistema-informacao-gestao-educacao-guine-bissau",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plataforma Estatística SIGE",
+      "country_label": "Plataforma Estatística SIGE",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education (Gabinete de Estudos, Planeamento e Análise do Sistema Educativo), implemented under the PESIDE project of the NGO FEC with European Union financing, May 2021 to November 2026",
+      "tiers": "Central and regional: implementation in all Regional Directorates of Education, which with sector poles are being equipped; the project works with 11 regional statistical technicians, 43 sector technicians, 215 inspectors and 2,097 school directors"
+    },
+    {
+      "system": "Anuário estatístico (education statistical yearbook)",
+      "country_label": "Anuário estatístico do Ministério da Educação Nacional e Ensino Superior",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of National Education and Higher Education",
+      "tiers": "National; its dissemination to decision-makers is a project activity"
+    }
+  ],
+  "note": "No fact: SIGE is described as a statistical platform and a data system at central and regional level; no entry by schools of per-learner records is described."
+}

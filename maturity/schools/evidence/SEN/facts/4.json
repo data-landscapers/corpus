@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "APHRC's KIX-SEEDS issue brief of December 2025 lists Senegal's key education data challenges as manual, paper-based data collection and isolated digital files, with no real-time dashboards or standardised protocols; it gives no date, so the document's publication date is used, and it speaks of education data at school and sub-national level generally, not of learner records by name.", "as_of": "2025-12", "date_precision": "month", "system": "Paper-based school data collection", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIMEN", "country_label": "SIMEN platform", "class": "", "platform": "", "owner": "", "tiers": "Said to be comprehensive but to reach only about 20 percent of schools, for weak integration and connectivity (citing Education Profiles, 2024); nothing said of what schools do in it"},
+    {"system": "KIX-SEEDS school dashboards and mobile tools", "country_label": "school dashboards and mobile tools", "class": "", "platform": "", "owner": "ESEA Senegal, for the APHRC-led KIX-SEEDS project funded by GPE KIX", "tiers": "Introduced in the project's selected sub-national units, with local monitoring committees; no count, and nothing said of what is entered"}
+  ],
+  "note": "SIMEN's 'about 20 percent of schools' is given without saying what the system does, so it is a systems entry and no coverage fact. The brief also states, citing ICTworks 2023, that over one-third of public schools lack electricity and only a quarter have internet access (enabling)."
+}

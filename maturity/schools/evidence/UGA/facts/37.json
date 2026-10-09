@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-01-unhcr-uganda-factsheet-q1-2026",
+  "facts": [],
+  "systems": [
+    {"system": "national Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "refugee learners included, with 41% of settlement schools coded for government support (Q1 2026)"}
+  ],
+  "note": "UNHCR fact sheet; it states only that refugees are included in the national EMIS, without saying what the system does or who enters what."
+}

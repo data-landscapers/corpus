@@ -1,0 +1,10 @@
+{
+  "slug": "2023-03-28-dhis2-routine-data-collection-uganda-education",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2-DEMIS", "country_label": "DHIS2-DEMIS (decentralised EMIS; integrated termly tool)", "class": "census", "platform": "DHIS2, web and Android", "owner": "HISP Uganda and Save the Children Uganda with the Ministry of Education and Sports; funded by Norad and GPE KIX", "tiers": "pre-primary and primary only; 10 implementation sites of 175, in 4 districts, since 2019; schools return a paper termly tool that district education teams key in"},
+    {"system": "EMIS (annual school census)", "country_label": "EMIS", "class": "census", "platform": "annual school census forms", "owner": "Ministry of Education and Sports", "tiers": "forms from schools, keyed and analysed at ministry headquarters; last census before the project was 2017"},
+    {"system": "Primary leaving examination results (National Examination Board)", "country_label": "PLE results", "class": "single-function", "platform": "", "owner": "National Examination Board", "tiers": "imported into DHIS2-DEMIS for district analysis"}
+  ],
+  "note": "No fact: DHIS2-DEMIS is stated to collect school-level indicators each term on a paper tool keyed at the district, not a record per learner, so it is classed census although termly; the EMIS it describes is the annual school census, keyed at headquarters. The article does not itself state that schools keep learner records on paper; it says districts relied on Excel sheets and paper after the 2017 census."
+}

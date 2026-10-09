@@ -1,0 +1,9 @@
+{
+  "slug": "2018-09-01-anuario-estadistico-educacion-2014-2015",
+  "facts": [],
+  "systems": [
+    {"system": "Censo Escolar Anual", "country_label": "Censo Escolar de Principio de Curso; Anuario Estadístico de la Educación", "class": "census", "platform": "census questionnaire per school", "owner": "Unidad de Estadística e Investigación, Dirección General de Planificación, Programación y Desarrollo Educativo, Ministry of Education and Science; supported by PRODEGE, funded by the government and Hess Corporation and administered by FHI360", "tiers": "each public or private school reports by questionnaire at the start of the school year; the district inspectorates follow up and pass it on; the central statistics unit processes and publishes; 802 primary schools reported in 2014-2015, fewer than in 2011-2012"},
+    {"system": "SIME", "country_label": "Sistema de Información y Mapa Escolar (SIME), which the abbreviations list gives as the Spanish rendering of EMIS", "class": "census", "platform": "", "owner": "Ministry of Education and Science, Unidad de Estadística e Investigación, set up in 2007 under PRODEGE", "tiers": "central: an education statistics system that follows the census collection and automates processing, validation and dissemination; gives statistics and indicators at each geographic level and for each school through a school report"}
+  ],
+  "note": "No fact: the yearbook describes the annual school census and SIME, which it calls an EMIS but describes only as the statistics system built on the census; the passages describe no entry by schools other than the yearly questionnaire."
+}

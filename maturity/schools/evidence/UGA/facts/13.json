@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Data Landscapers review states that rural primary schools in Uganda predominantly record administrative data, attendance and learning outcomes in paper registers, with daily attendance manual and aggregated on paper and no evidence of a majority of rural schools using digital tools routinely; the review gives no date for this, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "school paper registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census (ASC)", "class": "census", "platform": "paper forms", "owner": "Ministry of Education and Sports", "tiers": "head teachers fill paper forms, sent to District Education Offices and keyed into national EMIS; collection stalled after 2017"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "national; keyed from Annual School Census forms"},
+    {"system": "DHIS2-DEMIS", "country_label": "DHIS2-DEMIS", "class": "census", "platform": "DHIS2", "owner": "", "tiers": "termly paper tools digitised at district level in 10 of 175 sites since 2019, including Gulu and Entebbe"},
+    {"system": "eduTrac", "country_label": "eduTrac", "class": "single-function", "platform": "SMS", "owner": "", "tiers": "attendance by SMS in 37 districts"},
+    {"system": "SESIL", "country_label": "SESIL", "class": "single-function", "platform": "SMS", "owner": "", "tiers": "attendance by SMS in rural West Nile"}
+  ],
+  "note": "This slug is in study.json's exclude_sources (an AI-assisted compilation, not sourced fact): the one fact is recorded as the document states it and is the parent's to drop."
+}

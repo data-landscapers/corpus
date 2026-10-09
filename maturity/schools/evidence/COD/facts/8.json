@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay's country table states that rural primary schools in DR Congo predominantly use paper registers for attendance, enrolment and administrative data, with no evidence of routine digital entry at the school and EMIS efforts confined to national and provincial aggregation, unchanged across the 2017 to 2024 reports it cites; the figures are the author's AI-assisted compilation.", "as_of": "2024", "date_precision": "year", "system": "School paper registers", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The essay's country table finds no evidence of routine digital data entry at the point of service in DR Congo's rural primary schools and no school-level digital tools, on reports dated 2017 to 2024; it gives no count of schools.", "as_of": "2024", "date_precision": "year", "system": "School paper registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "School paper registers", "country_label": "", "class": "emis", "platform": "paper", "owner": "schools", "tiers": "rural primary schools"},
+    {"system": "National statistical yearbook questionnaire", "country_label": "national statistical yearbook", "class": "census", "platform": "printed questionnaires completed by school directors, sent and returned by ground transport", "owner": "", "tiers": "schools to national level"},
+    {"system": "UNICEF-supported decentralized EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "national and provincial aggregation, decentralized planning; not school level"},
+    {"system": "Cordaid GPS-mapped school database", "country_label": "", "class": "", "platform": "", "owner": "Cordaid", "tiers": "combines existing sources; not school level"},
+    {"system": "SECOPE payroll database", "country_label": "SECOPE", "class": "single-function", "platform": "centralized digital database", "owner": "SECOPE", "tiers": "central; schools handle paper files"}
+  ],
+  "note": "Passages only. The source flags its country figures as an AI-assisted compilation by the author, not sourced fact; it also cites 7% of rural schools with electricity (World Bank), which is enabling and gives no fact."
+}

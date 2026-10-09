@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's own analysis) states that rural primary schools in Nigeria predominantly record attendance, administrative data and learning outcomes on paper registers at the school, and scores them 2; it gives no date for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EdoEMIS", "country_label": "EdoEMIS", "class": "single-function", "platform": "app (the source cited is DHIS2.org, 2025)", "owner": "", "tiers": "called a pilot: 51 schools including rural ones, daily digital attendance; described with the 12-state training as isolated or state-specific donor projects"},
+    {"system": "National EMIS (NEMIS)", "country_label": "NEMIS", "class": "census", "platform": "DHIS2", "owner": "", "tiers": "aggregation; schools complete paper census forms that are forwarded for central digital entry; training in 12 states"},
+    {"system": "UBEC digital platform (2024)", "country_label": "UBEC digital platform", "class": "", "platform": "", "owner": "Universal Basic Education Commission", "tiers": ""},
+    {"system": "GenU9ja", "country_label": "GenU9ja", "class": "enabling", "platform": "school connectivity", "owner": "", "tiers": ""}
+  ],
+  "note": "The study excludes this source from profiles and stages; its rows are recorded as it states them. EdoEMIS is described only as daily digital attendance through an app, with nothing on a record per learner, so it gives no fact here."
+}

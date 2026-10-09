@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-giga-ai-tool-connectivity-djibouti-school-mapping",
+  "facts": [],
+  "systems": [
+    {"system": "Giga Maps", "country_label": "national school location database on Giga Maps", "class": "enabling", "platform": "Giga Maps", "owner": "Giga (UNICEF-ITU) with MENFOP", "tiers": "national: all school locations validated, used for connectivity planning"}
+  ],
+  "note": "School location mapping for connectivity planning only; no system holding learner records is described."
+}

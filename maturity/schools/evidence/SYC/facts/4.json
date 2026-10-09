@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-18-openemis-seychelles-golive",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "OpenEMIS", "owner": "Ministry of Education, supported by Community Systems Foundation", "tiers": ""}
+  ],
+  "note": "The post, published 2026-03-18, congratulates the Ministry of Education on the go-live of its new EMIS and says nothing of what the system does, who enters data or which schools use it, so the system is unclassified and the go-live gives no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-28-gpe-worldbank-congo-education-program-appraisal",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS) at MEPPSA, established by Decree No. 2023-1751 of 2 November 2023", "country_label": "EMIS", "class": "census", "platform": "", "owner": "MEPPSA, through its planning directorate (DEP)", "tiers": "central; school census data and statistical yearbooks, read annually for the Program's indicators"},
+    {"system": "Integrated EMIS for all education ministries (planned under TRESOR, DLI 6)", "country_label": "integrated EMIS", "class": "census", "platform": "", "owner": "MEPPSA, MESRIT, METP and MJSECFQE; World Bank and GPE financing tied to results", "tiers": "not yet available at appraisal; defined as a connected platform bringing together data and indicators from the education ministries, with statistical yearbooks and department dashboards"},
+    {"system": "Comprehensive teacher database (planned)", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "to be built from school census, biometric enrolment, retirement and teacher mobility data"}
+  ],
+  "note": "The appraisal (28 May 2024) describes the existing EMIS as school census data and yearbooks and the planned integrated EMIS as a platform assembling ministries' data and indicators, with its baseline stated as no integrated EMIS available; nothing describes schools entering records per learner, so the systems are class census and give no fact."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2023-09-01-moe-dic-itlaq-manzumat-bayanat-altaalim",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Data System (staff, teachers, institutions)",
+      "country_label": "منظومة بيانات التعليم",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education (Information and Documentation Centre)",
+      "tiers": "launched at school level, reported 2023-09-01, at the Inspection and Educational Guidance Authority's first annual meeting for 2023-24"
+    }
+  ],
+  "note": "The document says only that the system was launched at school level and covers staff, teachers and institutions; learners are not among its contents and it does not say who enters data or how often, so it is not emis, is left unclassified and gives no fact."
+}

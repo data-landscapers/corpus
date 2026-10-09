@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-06-education-ministry-rolls-out-kemis-makes-registration-mandatory-for-capitation",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS", "country_label": "Kenya Education Management Information System (KEMIS)", "class": "", "platform": "", "owner": "Ministry of Education (Basic Education Principal Secretary)", "tiers": "first rolled out January 2026; over 8,000 secondary schools enrolled by 6 June 2026, no total and no primary figure given; intended for primary, junior and senior schools, public and private, TVETs, universities and agencies (KNEC, KICD, SEPU, HELB)"}
+  ],
+  "note": "The document says schools must register on KEMIS, a single database through which third-term capitation is to be paid (directive of 6 June 2026), and does not say that schools enter learner records in it, so KEMIS is left unclassified here and no fact is taken; the rollout date and the 8,000 secondary schools are in the systems entry."
+}

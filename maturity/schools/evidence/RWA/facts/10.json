@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-23-digital-attendance-school-dropouts",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The New Times reports that the Ministry of Education has rolled out a new digital attendance tracking system, expected to reduce dropouts by identifying learners at risk early; the rollout is undated, so the document's published date is used.", "as_of": "2025-12-23", "date_precision": "day", "system": "digital attendance tracking system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The New Times says the digital attendance tracking system was rolled out by the Ministry of Education; undated, so the document's published date is used.", "as_of": "2025-12-23", "date_precision": "day", "system": "digital attendance tracking system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The New Times lead reports the attendance tracking system as rolled out and gives no count or share of schools; only the lead of the article was captured, and the document's published date is used.", "as_of": "2025-12-23", "date_precision": "day", "system": "digital attendance tracking system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "digital attendance tracking system", "country_label": "new digital attendance tracking system", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": "schools; levels not stated"}
+  ],
+  "note": "Only the article's lead was captured (75 words): it does not say who enters attendance, how often, at which levels or in how many schools. Classed emis on its tracking attendance to identify individual learners at risk."
+}

@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,SIGE,SIGE (national EMIS),,,,"designed to collect data from all schools, aggregated centrally; defunct since around 2018",2026-03-31 Africa we have a data problem
+COM,e-Msomo,e-Msomo,emis,,,"national platform for student records, grades and staff management, launched about 2025 with UNICEF and ANADEN support",2026-03-31 Africa we have a data problem
+COM,E-Shiyo,E-Shiyo,learning,,,"online textbooks, national",2026-03-31 Africa we have a data problem
+COM,e-Msomo,e-msomo (plateforme du bulletin unique),emis,,Ministère de l'Éducation nationale,"public primary and secondary schools and private schools, on all three islands; ministry",2026-02-02-alwatwan-bulletin-unique-taux-adhesion-e-msomo
+COM,e-Msomo,e-Msomo (outil de gestion scolaire; bulletin unique numérique),emis,,Ministère de l'Éducation,school heads and teachers in public and private schools; ministry supervises and validates,2025-11-25-alwatwan-e-msomo-bulletin-unique-strategie-modernisation
+COM,E-Msomo,E-Msomo,emis,,"Ministry of National Education, with ANADEN technical support",schools and education officials; levels not stated,2025-06-20-comoros-eshiyo-emsomo-edtech-platforms-wearetech
+COM,E-Shiyo,E-Shiyo,learning,,"Ministry of National Education, with ANADEN technical support",online textbook library for pre-primary and primary students,2025-06-20-comoros-eshiyo-emsomo-edtech-platforms-wearetech
+COM,e-Msomo,e-Msomo,emis,,"education authorities, with ANADEN","access for pupils, parents and teaching teams; levels not stated",2025-06-09-e-msomo-e-shiyo-education-digitisation-anaden-unicef-lagazette
+COM,e-Shiyo,e-Shiyo (manuel scolaire numérique),learning,,"education authorities, with ANADEN; UNICEF support",online library of approved textbooks for pre-primary and primary pupils,2025-06-09-e-msomo-e-shiyo-education-digitisation-anaden-unicef-lagazette
+COM,e-Msomo,e-Msomo (gestion numérique des bulletins scolaires et suivi des élèves),emis,,presented by ANADEN in partnership with the Ministère de l'Éducation Nationale and UNICEF Comores,pilot phase; launched at a primary school,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,e-Shiyo,e-Shiyo (bibliothèque numérique nationale de manuels scolaires),learning,,presented by ANADEN in partnership with the Ministère de l'Éducation Nationale and UNICEF Comores,"national, open to all",2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,Tableau de bord 2020-2021,tableau de bord 2020-2021,,,,"produced and made available in April 2022; the only data reference for sector planning and the joint sector review, for want of anything more recent",2025-01-01-comores-gpe-rapport-achevement-education-primaire

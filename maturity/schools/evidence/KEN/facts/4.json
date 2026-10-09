@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-ken-primeafrica-kwale-identity-documents-gaps",
+  "facts": [],
+  "systems": [
+    {"system": "NEMIS", "country_label": "NEMIS", "class": "", "platform": "", "owner": "", "tiers": "schools in Vanga Ward, Kwale County, as the place the NGO founder speaks of"},
+    {"system": "Nyansapo AI", "country_label": "Nyansapo AI", "class": "standalone", "platform": "Nyansapo AI digital application", "owner": "G-For-Girls Initiative (NGO user)", "tiers": "six schools in Vanga Ward, Kwale County, in the NGO's literacy programme, to assess learners' literacy levels"}
+  ],
+  "note": "NEMIS appears only in an NGO founder's remark that a child without a birth certificate who is not in NEMIS is not counted for education money (reported 2026-09-10): a record per child is implied, but the document does not say that schools enter it, so NEMIS is left unclassified and no fact is taken."
+}

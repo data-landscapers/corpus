@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-01-anuario-estadistico-educacion-guinea-ecuatorial-2020-2021",
+  "facts": [],
+  "systems": [
+    {"system": "Censo Escolar Anual", "country_label": "Censo Escolar; Anuario Estadístico de la Educación", "class": "census", "platform": "census questionnaire per school", "owner": "Unidad de Estadística e Investigación, Dirección General de Planificación y Promoción Educativa, Ministry of Education; supported technically and financially by PRODEGE, which the government funds", "tiers": "each public or private school reports by questionnaire; the district inspectorates follow up and pass it on; the central statistics unit processes, analyses and publishes; covers infantil y preescolar, primaria, secundaria and formación técnica profesional; 1,017 pre-primary schools reported in 2020-2021"},
+    {"system": "SIME", "country_label": "Sistema de Información y Mapa Escolar (SIME)", "class": "census", "platform": "", "owner": "Ministry of Education, Dirección General de Planificación y Promoción Educativa", "tiers": "central: gives education statistics and indicators at each geographic level and for each school through a school report (reporte escolar), from the census data"}
+  ],
+  "note": "No fact: the yearbook describes the annual school census and SIME, which serves statistics drawn from it; the passages describe no entry by schools other than the yearly questionnaire. It says disability data come from schools' enrolment registers, without saying how those are kept."
+}

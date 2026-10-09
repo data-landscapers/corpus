@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The essay's Zimbabwe school row says rural primary schools record administrative data, attendance and learning outcomes in paper registers, with no real-time digital entry at the school and data digitised only after collection at higher levels; it scores this 1. No date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers at rural primary schools",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "annual school census forms filled by hand at schools, transcribed at district level and aggregated to the national system"
+    },
+    {
+      "system": "Ruzivo",
+      "country_label": "Ruzivo",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "e-learning platform, urban or private schools or supplementary use"
+    },
+    {
+      "system": "school management software (unnamed pilots)",
+      "country_label": "",
+      "class": "standalone",
+      "platform": "",
+      "owner": "",
+      "tiers": "urban or private schools, not rural public primaries"
+    }
+  ],
+  "note": "study.json excludes this source (an AI-assisted compilation); the one fact is a statement of absence for rural primary schools only. The file is a passages extract of 472 lines: the opening narrative, the closing rows and every line naming Zimbabwe were read, the other countries' table rows were not."
+}

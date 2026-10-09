@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-19-gpe-itap-assessment-of-enabling-factors-burundi",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management and Information System (EMIS) / annual school census", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of National Education and Scientific Research (MENRS)", "tiers": "annual school census: paper collection at the school, electronic entry at central level; private schools covered; published as statistical yearbooks and spreadsheets"},
+    {"system": "Human resources module for the EMIS", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of education", "tiers": "under development as of December 2023"}
+  ],
+  "note": "The EMIS is described only as an annual school census, paper at the school and keyed centrally, so it is class census and gives no fact; the paper statement is about the census return, not learners' records. For dpi.exchange: the report (19 December 2023) says the EMIS is not yet integrated with human resources, infrastructure or examinations data."
+}

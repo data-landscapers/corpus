@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-sao-tome-afap-consultoria-implementacao-sige",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "SIGE", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A notice of 1 April 2026: AFAP is contracting specialist technical assistance in technological infrastructure, resource management and training for the implementation of the SIGE, under the World Bank-financed girls' empowerment and quality education for all project. It names the system and does not say what it does, so the class is empty and there is no fact; the parent may want the dated event (donor-financed implementation still being procured, 2026-04) once another document classes the SIGE."
+}

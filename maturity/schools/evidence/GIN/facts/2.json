@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-guinee-lancement-carte-scolaire-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "Carte scolaire nationale", "country_label": "carte nationale de répartition scolaire des élèves", "class": "", "platform": "", "owner": "Ministère de l'Éducation Nationale, de l'Alphabétisation, de l'Enseignement Technique et de la Formation Professionnelle, with the Institut National de la Statistique for data collection, validation and projections", "tiers": "national"}
+  ],
+  "note": "Launch on 29 April 2026 of the process to draw up a national school map, a planning reference for siting schools and allocating teachers; no per-learner record or school-level data entry is described, and the minister cites insufficient consolidated data. Class left empty: a planning map fits none of the typology's classes as described."
+}

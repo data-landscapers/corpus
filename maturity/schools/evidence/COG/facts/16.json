@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-03-gpe-congo-itap-report",
+  "facts": [],
+  "systems": [
+    {"system": "Annual school census (annuaire scolaire), described under the heading Education Management Information System", "country_label": "annuaire scolaire; EMIS/SIGES", "class": "census", "platform": "", "owner": "Ministry of Primary, Secondary and Literacy Education (MEPSA); financed and technically supported by UNESCO, UNICEF and the World Bank since the early 2010s, with no dedicated national budget", "tiers": "highly centralised; school questionnaires once a year, latest published report 2019/20; 94% of the primary schools in the 2017/18 survey were in the 2018/19 survey, and perhaps a fifth of primary enrolments are missed"}
+  ],
+  "note": "The ITAP report (3 June 2024) treats Congo's EMIS as the annual school census: questionnaires completed by schools and published as tables, with student attendance among the things not collected and no effort made to widen the EMIS beyond the school directories. That is class census, so no fact."
+}

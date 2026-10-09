@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-cameroon-unesco-basic-education-agreement-websig-database-interconnection",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information pour la Gestion de l'Éducation", "country_label": "Système d'Information pour la Gestion de l'Éducation (SIGE)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "WebSIG", "country_label": "plateforme WebSIG du MINEDUB", "class": "", "platform": "WebSIG", "owner": "MINEDUB (basic education ministry)", "tiers": ""}
+  ],
+  "note": "UNESCO and the PAEBC project unit signed an 8 million euro, 36-month technical assistance agreement (reported 2026-07-31) to strengthen the SIGE, update MINEDUB's WebSIG platform, interconnect the education databases and build dashboards; neither system is described by what it does, so both are unclassified and give no fact."
+}

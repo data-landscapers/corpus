@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "OpenEMIS", "country_label": "OpenEMIS", "class": "", "platform": "OpenEMIS", "owner": "", "tiers": "national, zonal and school levels"},
+    {"system": "SIMIS", "country_label": "SIMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "mytGPT", "country_label": "mytGPT", "class": "", "platform": "", "owner": "", "tiers": "piloted in primary schools"}
+  ],
+  "note": "The Mauritius school row says OpenEMIS is deployed for education data management at national, zonal and school levels and infers entry at schools from the name; it does not state that schools add per-learner records, so the system is unclassified and gives no fact. SIMIS is named as a 2019 design and mytGPT as an AI tool piloted in primary schools, neither described."
+}

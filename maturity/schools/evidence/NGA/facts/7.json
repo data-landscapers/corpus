@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-31-nigeria-digital-identity-gap-leaves-schoolchildren-behind",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Edo State Universal Basic Education Board's chairman and a deputy director of the Edo Ministry of Education told the News Agency of Nigeria that admission into public primary and junior secondary schools in Edo is entirely manual, on forms and photocopied certificates; the statements are undated, so the document's published date is used.", "as_of": "2026-07-31", "date_precision": "day", "system": "paper admission records", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "An enrolment officer at a public secondary school in Oyo State told the News Agency of Nigeria that student enrolment still relies largely on paper records, in files that are incomplete and hard to retrieve, with no centralised digital record system; undated, so the document's published date is used.", "as_of": "2026-07-31", "date_precision": "day", "system": "paper student files", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The national secretary of the private school proprietors' association told the News Agency of Nigeria that Oyo State, with the Federal Ministry of Education and development partners, is working on a system assigning every child a unique learner identification number, and that the project is still under development; undated, so the document's published date is used.", "as_of": "2026-07-31", "date_precision": "day", "system": "learner identification system (Oyo State)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "learner identification system (Oyo State)", "country_label": "learner identification number", "class": "emis", "platform": "", "owner": "Oyo State with the Federal Ministry of Education and development partners", "tiers": "under development; meant to let schools see a pupil's educational history on transfer"},
+    {"system": "Oyo State pupils' digitised records", "country_label": "", "class": "", "platform": "", "owner": "Oyo State Ministry of Education", "tiers": "the permanent secretary says pupils' records are continuously being digitised and access is restricted to authorised institutions"},
+    {"system": "National Population Commission birth registration database", "country_label": "", "class": "exchange", "platform": "", "owner": "National Population Commission", "tiers": "connected to no educational platform in Edo State; schools have no real-time access in Oyo"}
+  ],
+  "note": ""
+}

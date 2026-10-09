@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-20-mesrsfp-renforce-capacites-agents-application-stateduc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "StatEduc",
+      "country_label": "application StatEduc",
+      "class": "census",
+      "platform": "StatEduc",
+      "owner": "Direction de la Statistique et de la Digitalisation, Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation Professionnelle (GPE-financed PRET, UNESCO support)",
+      "tiers": "Ministry statistics directorate staff, trained at Bongor; higher education and vocational training; no school-level use stated"
+    },
+    {
+      "system": "SIGE",
+      "country_label": "Système d'Information pour la Gestion de l'Éducation (SIGE)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The ministry's own account of the same workshop as document 2 (Bongor, 20-25 July 2026): StatEduc described as questionnaires, data-entry masks, consistency checks and statistical indicators, with no per-learner record and no school entering data; higher education is outside the study's levels. SIGE is named as being modernised, with no description of what it does."
+}

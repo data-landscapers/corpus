@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-05 Post by DHIS2 on LinkedIn",
+  "facts": [],
+  "systems": [
+    {"system": "DNEMIS", "country_label": "DNEMIS, national education management information system", "class": "", "platform": "DHIS2 (DHIS2 for Education)", "owner": "Federal Ministry of Education, supported by the HISP Centre at the University of Oslo, HISP Nigeria, UNICEF Nigeria and the European Union", "tiers": "launched in Abuja; described as the world's largest DHIS2 implementation"}
+  ],
+  "note": "The post reports the launch of DNEMIS and its platform but says nothing of what it records or who enters it, so it is unclassified and gives no fact."
+}

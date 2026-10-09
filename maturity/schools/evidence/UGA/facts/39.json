@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-01-moict-ministerial-policy-statement-fy2025-26",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "developed by local innovators under the ICT ministry's research and innovation programme", "owner": "", "tiers": "deployed at the user ministry, as the statement puts it"}
+  ],
+  "note": "ICT ministry policy statement, held as an excerpt; it lists EMIS among systems built by local innovators and now deployed at user ministries, with no description of what it does, and names connecting schools to the national backbone as a FY2025/26 priority (enabling)."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review states that it found no evidence of digital recording of attendance, enrolment or grades at rural primary schools in Mauritania, and describes the position as predominantly paper at the school with digital aggregate reporting at district level; the review gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper school records (no learner-record system at the school)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIRAGE", "country_label": "SIRAGE (national EMIS)", "class": "census", "platform": "", "owner": "", "tiers": "operational across 72 decentralised units; the single tool for sector data collection, including enrolment and transition rates; the annual statistical yearbook is produced from it; World Bank supported"},
+    {"system": "Annual Statistical Yearbook", "country_label": "", "class": "census", "platform": "", "owner": "", "tiers": "national, produced from EMIS data"},
+    {"system": "Digital teaching pilots (2024-25)", "country_label": "", "class": "learning", "platform": "", "owner": "", "tiers": "pilots"}
+  ],
+  "note": "Passages file. The one fact is a statement of absence (paper at the school), recorded under the sub-indicator's class with no system behind it. SIRAGE as described here collects sector aggregates and feeds the yearbook, with paper collection at schools, so it is class census. The source's own header marks its country rows as an AI-assisted compilation, the author's analysis and not sourced fact; the row's score column reads 1 while its text says Score 2."
+}

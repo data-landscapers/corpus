@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-16-giga-improving-school-location-accuracy-connectivity",
+  "facts": [],
+  "systems": [
+    {"system": "Giga school mapping", "country_label": "national school list", "class": "enabling", "platform": "Giga Maps", "owner": "Giga (UNICEF-ITU) with the Ministry of Education", "tiers": "national: more than 80 per cent of schools mapped by December 2025, for connectivity planning"}
+  ],
+  "note": "School geolocation for connectivity; EMIS is mentioned only generically as where validated locations go, with nothing said of what Djibouti's does."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-2023-kenya-vital-statistics-report",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS", "country_label": "KEMIS (Kenya Education Management Information System)", "class": "", "platform": "", "owner": "", "tiers": "named as a government agency process demanding birth certificates"},
+    {"system": "NEMIS", "country_label": "National Education Management Information System (NEMIS)", "class": "", "platform": "", "owner": "", "tiers": "listed among the report's acronyms only"}
+  ],
+  "note": "Passages of the 2023 vital statistics report: the education system is named only as one of the processes whose demand for birth certificates has raised birth registration; nothing on what it does."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-30-liberian-observer-moe-real-time-school-data-system-emis-policy",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Ministry of Education's Director for Planning, Monitoring and Evaluation pointed to the limitations of the existing paper-based system and called for a transition to a digitised EMIS, at the 28-29 September 2026 consultation; no school count is given.", "as_of": "2026-09-29", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The Deputy Minister for Administration said the Ministry still relies largely on periodic data collection and that systems at individual schools feeding student and teacher attendance to a central dashboard are a goal not yet reached, at the close of the 28-29 September 2026 consultation.", "as_of": "2026-09-29", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Education held a two-day consultation on 28-29 September 2026 to draft, review and validate an EMIS Policy for a real-time school data system, and said a study tour for its technicians to other African countries is being arranged.", "as_of": "2026-09-29", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Education is itself drafting the EMIS Policy and its planning department and technical teams run the data collection, with the African Union and UNICEF attending and European Union support for the consultation, as reported on 30 September 2026.", "as_of": "2026-09-29", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": "proposed: schools feeding a central dashboard at the Ministry's central office; currently paper-based"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education, planning department", "tiers": "school level; resumed after interruptions after 2021"},
+    {"system": "Statutory School Record System", "country_label": "Statutory School Record System (record-keeping booklets)", "class": "", "platform": "paper booklets", "owner": "Ministry of Education", "tiers": "school level"}
+  ],
+  "note": "The EMIS is classed emis on the document's description of the proposed system (schools feeding student attendance during the year); the document describes it as an objective, not as running. The policy is a draft and the three-year EMIS Action Plan is only expected, so no plan fact is recorded. Body is an excerpt: the source's final paragraphs are missing."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-01-eswatini-annual-report-education-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information Systems (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education and Training (listed among its cross-cutting issues)", "tiers": ""},
+    {"system": "Taiwan Government project: desktop computers and computer laboratories for rural schools", "country_label": "", "class": "enabling", "platform": "", "owner": "Ministry of Education and Training, financed by the Government of Taiwan", "tiers": "440 computers and 22 printers to 14 high schools and 11 primary schools; laboratories built in 3 primary schools and 1 high school (2024/25)"},
+    {"system": "Digital School Initiative", "country_label": "Digital School Initiative", "class": "learning", "platform": "", "owner": "Ministries of Education and ICT, tuition sponsored by the UAE Government", "tiers": "50 teachers (30 primary, 20 secondary) on a two-month online course on AI in teaching"}
+  ],
+  "note": "The file is an excerpt that stops in section 2.3, before the report's own section 3.5 on EMIS (page 47); EMIS is named only in the contents and the portfolio list, with nothing on what it does, so it is unclassified and gives no fact. The primary inspection finding that teachers struggle to keep learners' CBE assessment records does not say whether the records are on paper."
+}

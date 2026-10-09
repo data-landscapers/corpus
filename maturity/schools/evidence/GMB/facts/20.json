@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-world-bank-gambia-id4d-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "eMIS — Education Management Information System", "country_label": "eMIS; EMIS", "class": "", "platform": "", "owner": "MoBSE (Education) by implication; not stated", "tiers": ""},
+    {"system": "Proposed link of the Education Management Information System to eCRVS and eID through an Identity Bus", "country_label": "", "class": "exchange", "platform": "eCRVS (WCC HERA) and eID, Identity Bus", "owner": "Ministry of Health, Ministry of Interior and MOCDE under an MoU", "tiers": "proposed or under way in 2025; the diagnostic says EMIS and the identity systems operate in silos"}
+  ],
+  "note": "Says only that the eMIS manages education sector data for planning and monitoring, with no common identifier and duplicate entries; it does not say what schools enter or when, so the system is unclassified and gives no fact."
+}

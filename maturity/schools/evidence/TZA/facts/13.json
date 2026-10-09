@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-01-nbs-education-literacy-monograph",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education, Science and Technology, with Local Government Authorities and development partners", "tiers": "information collected mostly at school level by an electronically designed questionnaire, in all parts of the country"}
+  ],
+  "note": "A monograph on the 2022 population census. Its one passage on EMIS describes data on students, teachers, schools and resources collected from schools by an electronic questionnaire, with no entry by the school between returns, so the system is census and gives no fact."
+}

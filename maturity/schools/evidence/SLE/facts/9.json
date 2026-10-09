@@ -1,0 +1,18 @@
+{
+  "slug": "2026-01-01-sierra-leone-mbsse-emis-education-management-information-system",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS (Education Management Information Systems)", "class": "census",
+     "platform": "", "owner": "MBSSE: EMIS unit in the Directorate of Basic Education, with a national deputy director and deputy directors in 14 named districts",
+     "tiers": "called a centralised database with information about every student, teacher and school; the only data the page lists under it are the annual school list, the Annual School Census questionnaires and census reports (2015 to 2022, and 2025); no entry by schools during the year is described"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census",
+     "platform": "", "owner": "MBSSE EMIS unit", "tiers": "all schools, yearly; reports listed for 2015-2022 and 2025"},
+    {"system": "Situation Room", "country_label": "Situation Room (SR)", "class": "single-function",
+     "platform": "", "owner": "MBSSE, Planning and Policy Directorate and EMIS",
+     "tiers": "tracks indicators for a sample of schools in every district, including teacher and pupil attendance, facilities, school feeding and enrolment, more often than the census; also monitors the ministry's toll-free line"},
+    {"system": "Global ED*ASSIST / K-Mobile pilot", "country_label": "", "class": "",
+     "platform": "FHI 360's Global ED*ASSIST, tablets and K-Mobile GIS", "owner": "FHI 360 with Converge, UNICEF-funded, for the ministry",
+     "tiers": "an undated pilot in one to two districts as part of an EMIS assessment; what schools did in it is not described"}
+  ],
+  "note": "The page says the EMIS holds information about every student but describes no record that schools add to during the year; what it lists as EMIS data is the annual census, so the class is census and no fact is taken. The page is undated (year inferred from the copyright line)."
+}

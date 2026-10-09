@@ -1,0 +1,46 @@
+{
+  "slug": "2024-02-01-menaplan-fiue-bf-fichier-identification-unique-eleves",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The education ministry's statistics directorate (DGESS, MENAPLN) reports in February 2024 on the pilot phase of a national file of pupils with unique identification, online pupil registration and school identity cards, and lists prospects for generalisation as still ahead; the passages give no count of schools.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The pilot-phase report on the FIUE-BF is issued by the education ministry (MENAPLN), through its Direction générale des études et des statistiques sectorielles, as the ministry's own initiative; date is the document's, February 2024.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The report's account of the pilot phase lists activities carried out on the general budget, alongside an implementation agreement between MENAPLN and Luxembourg and support from the WURI project; no amounts appear in the passages, and the date is the document's, February 2024.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fichier d'Identification Unique des Élèves du Burkina Faso (FIUE-BF)",
+      "country_label": "FIUE-BF; fichier national des élèves",
+      "class": "emis",
+      "platform": "plateforme FIUE-BF",
+      "owner": "MENAPLN, Direction générale des études et des statistiques sectorielles",
+      "tiers": "not stated in the passages"
+    }
+  ],
+  "note": "The passages file holds only the cover and table of contents of an 8,047-word report: headings name data collection, data entry, pupil enrolment, card production and entry of end-of-year decisions, but who enters what, at which level and in how many schools is not in the passages."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2019-09-01-zwe-adea-emis-peer-review-report",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "none",
+      "fact": "The ADEA peer review of September 2019 states under its norm on registration of learners that Zimbabwe has no learner tracking system and no individual learner identification system in place; copies of learners' birth certificates are kept at the schools.",
+      "as_of": "2019-09",
+      "date_precision": "month",
+      "system": "learner tracking system (stated absent)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS; Annual School Census (ASC), form ED 46",
+      "class": "census",
+      "platform": "not stated; data captured to a central server at head office over a wide area network",
+      "owner": "Ministry of Primary and Secondary Education, Strategic Policy Planning, Research and Statistics Department, with the ICT department",
+      "tiers": "A 20-page annual questionnaire filled in by hand at about 8,953 schools and certified by the head; keyed at the district office and passed through the province to headquarters; in 2019 keyed centrally because of electricity and internet problems. Response rate 95% for 2019."
+    },
+    {
+      "system": "Teacher Development Information System (TDIS)",
+      "country_label": "TDIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Primary and Secondary Education, Strategic Policy Planning, Research and Statistics Department",
+      "tiers": "not stated"
+    },
+    {
+      "system": "School Master List",
+      "country_label": "Master List (directory of registered institutions)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Primary and Secondary Education",
+      "tiers": "Ministry; updated once a year; the census questionnaire is sent to the schools on it, known unregistered schools included"
+    }
+  ],
+  "note": "The system the report calls EMIS is the annual school census: the only entry it describes is the yearly ED 46 return, on paper at the school and keyed at the district. Its statements on budget line, donor top-up and the absence of an EMIS policy describe that census, so give no fact. The capture is an excerpt, cut off at the Norm 8 scoring tables. The report's higher and tertiary systems are outside the study's levels and are not listed."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "OpenEMIS (the row cites an OpenEMIS Libya portal)",
+      "owner": "Ministry of Education, with UNICEF support",
+      "tiers": "launched July 2024; piloted in 205 institutions nationwide, using online surveys for data on students and staff"
+    }
+  ],
+  "note": "The Libya school row describes the EMIS as aggregate collection by online survey, a census, so no fact; its remarks on paper records at rural primary schools are worded as likely and as no evidence found, not as a statement that records are on paper."
+}

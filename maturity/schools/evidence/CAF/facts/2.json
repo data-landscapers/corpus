@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-15-worldbank-icr-car-education-sector-plan-support-project",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of National Education", "tiers": "central; strengthened through digitization, geo-referencing of schools and piloted mobile data collection, producing statistical yearbooks; nationwide routine use not yet reached at project closing"},
+    {"system": "School census (annual; special census at project closing)", "country_label": "school census", "class": "census", "platform": "", "owner": "Ministry of National Education; the special census run by the PIU and World Bank task team", "tiers": "pre-primary, primary and secondary; 2024-2025 round had poor coverage"},
+    {"system": "Human Resource Management Information System (HRMIS)", "country_label": "HRMIS", "class": "single-function", "platform": "", "owner": "Ministry of National Education", "tiers": "central, linked to payroll; records teacher status, certification and presence at duty station; developed, validated and piloted"},
+    {"system": "National Learning Assessment System (NLAS)", "country_label": "NLAS", "class": "single-function", "platform": "", "owner": "Ministry of National Education", "tiers": "national sample assessments (EGRA/EGMA methods)"}
+  ],
+  "note": "The EMIS is described only as census work: data quality, geo-referencing, mobile data collection and statistical yearbooks. Nothing is said of schools adding per-learner records, so no fact."
+}

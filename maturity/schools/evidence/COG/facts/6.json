@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-28-lejournalducongo-digitalisation-gestion-examens-etat-exatrust",
+  "facts": [],
+  "systems": [
+    {"system": "Exatrust", "country_label": "Exatrust", "class": "single-function", "platform": "", "owner": "Direction des systèmes d'information et de communication (Dsic), Ministère de l'enseignement préscolaire, primaire, secondaire et de l'alphabétisation", "tiers": "national; public and institutions verify state examination results online, Campus France checking transcripts against the ministry's records"},
+    {"system": "Géolocalisation des centres d'examen (tablet survey of examination centres)", "country_label": "", "class": "single-function", "platform": "", "owner": "Direction des systèmes d'information et de communication (Dsic), Ministère de l'enseignement préscolaire, primaire, secondaire et de l'alphabétisation", "tiers": "ministry agents with tablets, examination centres (CEPE, BEPC, Bac) in each department; candidates look up their centre on a mobile device"}
+  ],
+  "note": "Both systems unveiled on 27 March 2026 serve state examinations only (result verification and examination-centre logistics); neither is a record per learner that schools add to, so no fact."
+}

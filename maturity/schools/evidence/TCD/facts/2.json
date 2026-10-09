@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-30-le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "StatEduc",
+      "country_label": "application StatEduc",
+      "class": "census",
+      "platform": "StatEduc",
+      "owner": "Direction de la Statistique et de la Digitalisation, Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation Professionnelle (GPE-financed PRET, UNESCO support)",
+      "tiers": "Ministry statistics directorate staff, higher education and vocational training; no school-level use stated"
+    },
+    {
+      "system": "SIGE",
+      "country_label": "Système d'Information pour la Gestion de l'Éducation (SIGE)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Training of higher-education ministry statistics staff, 20-25 July 2026, on StatEduc as described: questionnaires, data-entry masks, consistency checks and statistical indicators. No per-learner record and no school entering data is stated; higher education is outside the study's levels. SIGE is named as being modernised, with no description of what it does."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-01-worldbank-restructuring-eesse-education-project",
+  "facts": [],
+  "systems": [
+    {"system": "e-SIGE-DRC", "country_label": "e-SIGE-DRC; EMIS", "class": "census", "platform": "\"e-SIGE-DRC\" application, described as a new automated data collection and transmission system", "owner": "DIGE (Direction d'Information de Gestion de l'Education), MEPST", "tiers": "used for the 2022/23 school-year data collection; enrolment counts reported for the 10 project provinces, data dated 9 June 2023"},
+    {"system": "Teacher payroll roster", "country_label": "DINACOE (ex SECOPE)", "class": "single-function", "platform": "", "owner": "DINACOE (ex SECOPE)", "tiers": "36,689 public primary school posts integrated into the payroll roster, verified 06/2022"},
+    {"system": "Allô Ecole grievance mechanism", "country_label": "Allô Ecole", "class": "single-function", "platform": "", "owner": "MEPST", "tiers": "launched April 2022"}
+  ],
+  "note": "The only school data system described is e-SIGE-DRC, used by DIGE for the yearly school-year data collection that yields enrolment counts; no entry by schools during the year is described, so it is a census and gives no fact. Capture is an excerpt, truncated before the restructuring paper's later sections."
+}

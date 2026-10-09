@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-25-caf-worldbank-isr-care-p502128-seq2",
+  "facts": [],
+  "systems": [
+    {"system": "Statistical yearbook", "country_label": "statistical yearbook", "class": "census", "platform": "", "owner": "Ministry of National Education", "tiers": "national; indicator 'developed and published' read 'no' on 2025-03-20 against a baseline of 'Yes' in January 2024"}
+  ],
+  "note": "The report body names a data-system component (US$15.555 million) and the statistical yearbook only; it does not describe any system that schools add learner records to."
+}

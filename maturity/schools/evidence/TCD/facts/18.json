@@ -1,0 +1,39 @@
+{
+  "slug": "2023-11-01-tchad-pacte-de-partenariat-education-gpe",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE",
+      "country_label": "SIGE; recensement scolaire; annuaire statistique",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministère de l'Éducation Nationale et de la Promotion Civique; statistical production said to depend heavily on partners' financing",
+      "tiers": "Functions and publishes a statistical yearbook each year; weakly decentralised; the compact proposes revising the collection tools, speeding decentralisation and generalising digitalisation of the collection and dissemination of school statistics"
+    },
+    {
+      "system": "outil informatisé de gestion des enseignants / base intégrée des ressources humaines",
+      "country_label": "outil informatisé de gestion des enseignants; base intégrée des Ressources Humaines",
+      "class": "single-function",
+      "platform": "",
+      "owner": "MENPC",
+      "tiers": "Proposed, not in place: teacher allocation and an HR base with a unique identifier per teacher to reconcile payroll, the HR base and the SIGE"
+    },
+    {
+      "system": "système d'interconnexion des bases de données du Ministère",
+      "country_label": "système d'interconnexion des bases des données du Ministère",
+      "class": "exchange",
+      "platform": "",
+      "owner": "MENPC",
+      "tiers": "Proposed, not in place: school census, human-resources and budget databases to be interconnected within the MENPC, between the education ministries and with the Fonction Publique, Finances and INSEED; a single code per school"
+    },
+    {
+      "system": "plateforme de formation à distance des enseignants",
+      "country_label": "plateforme de formation à distance des enseignants; IFADEM; imaginecole",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "A national teacher distance-training platform is proposed and said not to exist; IFADEM and imaginecole are named as online training programmes to draw on"
+    }
+  ],
+  "note": "The compact (November 2023) describes the SIGE only as a yearly school census and yearbook, with digitalised collection of school statistics proposed; no per-learner record and no entry by schools during the year is stated, so no fact. The capture is an excerpt that stops in section 3.1.1; sections 3.2 to 4 (including the results framework) are not in the file."
+}

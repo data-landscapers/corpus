@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The author's 54-country review states that rural primary schools in Burundi predominantly keep administrative data, attendance and learning outcomes in paper registers, collected by hand at the school and aggregated into the national EMIS, with no evidence of routine digital entry at the school; the review gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper-based registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "data collected manually at school level and aggregated nationally into annual statistical yearbooks (latest named 2020-2021); operational since 2008"},
+    {"system": "Ideas Box offline digital libraries", "country_label": "Ideas Box", "class": "learning", "platform": "Ideas Box", "owner": "Libraries Without Borders (EU-funded)", "tiers": "20 remote schools (2023)"},
+    {"system": "Proposed ICT labs", "country_label": "", "class": "enabling", "platform": "", "owner": "NGO project (2022)", "tiers": "proposed in 15 provinces"}
+  ],
+  "note": "The one fact is a statement of absence (paper registers), recorded under the sub-indicator's class with no digital system behind it; the EMIS as described is the yearly aggregate return, class census. The passages file marks the country figures as an AI-assisted compilation, the author's analysis."
+}

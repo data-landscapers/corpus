@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-education-management-information-system-emis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education, Arts and Culture: the EMIS division in the Directorate of Planning and Development, with a database management and administration sub-division",
+      "tiers": "education regions collect data twice a year from all state and private schools; the division publishes the Fifteenth School Day Report and the Annual Education Census; January 2024 totals of 2,036 schools, 885,750 learners and 26,356 teachers"
+    }
+  ],
+  "note": "The page describes two collections a year by the regions and two published reports, which is a census; it says nothing of schools entering learner records, and nothing on whether schools' own records are on paper or how the returns are captured."
+}

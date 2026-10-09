@@ -1,0 +1,14 @@
+{
+  "slug": "2023-04-01-sierra-leone-mbsse-2022-annual-school-census-report",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census", "class": "census",
+     "platform": "paper questionnaire, then SurveyCTO electronic forms (CAPI) on tablets with a web-based data repository",
+     "owner": "MBSSE Directorate of Planning and Policy and its EMIS Unit, supported by the World Bank, EU, GPE, FCDO and Irish Aid",
+     "tiers": "all pre-primary, primary, junior and senior secondary schools, public and private, in 16 districts (12,466 schools in 2022); school authorities fill a paper questionnaire a week ahead, enumerators visit and key it into the tablet form and count pupils present; collected 7 December 2022 to 13 January 2023"},
+    {"system": "EMIS", "country_label": "EMIS (EMIS Unit; EMIS server; EMIS number)", "class": "census",
+     "platform": "", "owner": "MBSSE EMIS Unit",
+     "tiers": "the unit that produces the census data, and a school identifier (EMIS number); the report recommends that school heads in future complete school records on tablets and submit them to the EMIS server, which they do not yet do"}
+  ],
+  "note": "Passages of a census report: it describes only the yearly return, keyed by visiting enumerators. Unique IDs for all learners are given as 'the next move' and school heads' own digital entry as the future; neither is a system in use, and the passages make no explicit statement that learner records are on paper only, so no fact is taken."
+}

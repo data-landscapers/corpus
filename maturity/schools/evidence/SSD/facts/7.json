@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-24-au-iped-south-sudan-emis-reform",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The African Union's press release of 24 March 2026 states that a three-day AU IPED workshop with the education ministry, and field visits to public schools in Juba, found heavy reliance on manual, paper-based data collection at school level, data moving from handwritten classroom registers and school record books to state-level aggregation and national reporting platforms; the workshop itself is not dated, so the release's date is used.",
+      "as_of": "2026-03-24",
+      "date_precision": "day",
+      "system": "handwritten classroom registers and school-level record books (no learner-record system at the school)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI), EMIS department",
+      "tiers": "state-level aggregation and national reporting platforms, fed from paper registers at the school; described as largely manual, fragmented across multiple systems and heavily dependent on partner-supported tools"
+    },
+    {
+      "system": "statistical systems and partner-supported tools (unnamed)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "development partners",
+      "tiers": "parallel to the EMIS, with limited interoperability"
+    }
+  ],
+  "note": "The PDF edition of the release read as document 6, with the same statements and one added paragraph on data flow. The one fact is a statement of absence (paper at the school), recorded under the sub-indicator's class with no digital system behind it. The EMIS as described receives aggregated data above the school and no entry by schools is described, so it is class census and gives no fact. Stated of that EMIS and so not recorded as facts: a costed national EMIS action plan led by the ministry (March 2026); low domestic financing and high dependence on external funding; limited interoperability between the EMIS, statistical systems and partner tools (for dpi.exchange); inadequate computers, internet and power, especially in rural and hard-to-reach areas."
+}

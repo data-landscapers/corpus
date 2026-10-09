@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-07-98pc-of-public-schools-submit-data-to-curb-capitation-fraud",
+  "facts": [],
+  "systems": [
+    {"system": "NEMIS", "country_label": "National Education Management Information System (Nemis)", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "basic education institutions; used for more than five years to disburse capitation; school heads complained it could not capture all learners, especially those without birth certificates"},
+    {"system": "KEMIS", "country_label": "Kenya Education Management Information System (Kemis)", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "announced by the Cabinet Secretary, reported 7 September 2025, as the centralised platform replacing NEMIS; not yet in use in this document"},
+    {"system": "Capitation verification exercise, September 2025", "country_label": "nationwide verification exercise", "class": "census", "platform": "the ministry's template, submitted through sub-county directors of education and heads of institutions", "owner": "Ministry of Education", "tiers": "32,000 primary and secondary schools, 98 per cent of institutions, returned enrolment data with learners' grades and gender; over 1,200 secondary schools cleared and 3,000 schools paid"}
+  ],
+  "note": "The 98 per cent figure is schools returning enrolment counts on a one-off template for the verification, not schools entering data in NEMIS or KEMIS. The document implies NEMIS holds learners individually but does not say that schools enter them, so both systems are left unclassified and no fact is taken."
+}

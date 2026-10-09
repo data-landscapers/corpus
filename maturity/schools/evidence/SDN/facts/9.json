@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-13-unesco-red-sea-state-emis-digital-transformation",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management and Information System Pilot Project (EMIS)", "country_label": "EMIS Pilot Project", "class": "", "platform": "", "owner": "Ministry of Education, Red Sea State, supported by UNESCO Sudan", "tiers": "Red Sea State Ministry of Education; 30 tablets and other IT equipment handed over on 12 May 2026 to support it"},
+    {"system": "Transitional Education Plan Monitoring & Evaluation Application and TEP Dashboard", "country_label": "TEP M&E Application; TEP Dashboard", "class": "", "platform": "", "owner": "Ministry of Education, Red Sea State, supported by UNESCO Sudan", "tiers": "Red Sea State Ministry of Education"}
+  ],
+  "note": "The EMIS pilot is named with a general purpose (data collection, monitoring, planning) and no statement of what schools enter or whether records are per learner, so it is unclassified and gives no fact. Event on record: UNESCO equipment handover to the Red Sea State ministry, 12 May 2026."
+}

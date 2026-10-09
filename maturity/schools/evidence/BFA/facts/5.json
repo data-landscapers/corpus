@@ -1,0 +1,31 @@
+{
+  "slug": "2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "more than one ministry; ADEA's 2019 peer review found overlapping responsibilities and duplicated EMIS structures",
+      "tiers": "not stated"
+    },
+    {
+      "system": "KIX-SEEDS mobile and web data-collection and visualisation tools",
+      "country_label": "",
+      "class": "",
+      "platform": "KoboToolbox, Excel and Laravel-Streamlit, named as platforms operating in silos; an integrated visualisation platform under development",
+      "owner": "ISSP Burkina Faso as KIX-SEEDS implementing partner, funded by GPE KIX and coordinated by APHRC",
+      "tiers": "piloted at municipal level with schools; data use limited beyond pilot areas"
+    },
+    {
+      "system": "Digital Acceleration Project",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "government, World Bank financed",
+      "tiers": "digital access, only recently beginning to scale"
+    }
+  ],
+  "note": "No fact: the brief says neither what the EMIS holds nor what the piloted tools collect, so neither can be classed; nothing states that schools add per-learner records."
+}

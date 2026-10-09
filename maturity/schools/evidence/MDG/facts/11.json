@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-04-worldbank-prodigy-aide-memoire-mission",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The World Bank's supervision mission of 1 to 4 December 2025 records the census of learners, which is to give each a unique identification number (NIU) linked to existing birth certificates, as planned and its field activities as still to be carried out; no school is reported as having done it.", "as_of": "2025-12-04", "date_precision": "day", "system": "recensement des élèves with a numéro d'identification unique (NIU)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "The mission counts the field activities for the census of learners among the items expected to draw down the remaining funds of the World Bank-financed PRODIGY project (IDA and Global Financing Facility) before its closing date of 30 June 2026.", "as_of": "2025-12-04", "date_precision": "day", "system": "recensement des élèves with a numéro d'identification unique (NIU)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "recensement des élèves with a numéro d'identification unique (NIU)", "country_label": "recensement des élèves", "class": "emis", "platform": "", "owner": "PRODIGY project (project implementation unit and Unité de Gouvernance Digitale)", "tiers": "planned; not yet in the field as at December 2025"},
+    {"system": "link of the learner NIU to existing birth certificates", "country_label": "", "class": "exchange", "platform": "", "owner": "PRODIGY project", "tiers": "planned"},
+    {"system": "AI pilot: WhatsApp/Messenger bots for A2 French lessons and a school-management module", "country_label": "", "class": "learning", "platform": "WhatsApp and Messenger bots", "owner": "PRODIGY project; transfer of the source code to the Unité de Gouvernance Digitale recommended", "tiers": "pilot being prepared with 80 teachers and 80 community members"},
+    {"system": "online consultation of examination results", "country_label": "", "class": "single-function", "platform": "", "owner": "", "tiers": "about 75 per cent of nearly 9 million users of improved digital services"},
+    {"system": "HRMIS enrolment of state employees and geolocation of schools", "country_label": "HRMIS", "class": "single-function", "platform": "", "owner": "Ministère de l'Économie et des Finances, with PRODIGY", "tiers": "about 290,000 education and health ministry staff enrolled; 20,000 schools and health centres still to be geolocated"}
+  ],
+  "note": "The same aide-mémoire as document 10, captured from the PDF render instead of the text render; its facts repeat document 10's and are not a second source."
+}

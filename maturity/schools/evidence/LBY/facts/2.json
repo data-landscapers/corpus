@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-22-lana-idraj-muassasat-altaalim-alkhass-manzumat-bayanat-altaalim",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Data System",
+      "country_label": "منظومة بيانات التعليم",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education, Government of National Unity",
+      "tiers": "national database; all private schools' data loaded by July 2026"
+    },
+    {
+      "system": "Electronic platform for private education institutions",
+      "country_label": "المنصة الإلكترونية لمؤسسات التعليم الخاص",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Education, Government of National Unity (Private Education Administration)",
+      "tiers": "public-facing: parents check that a private school is accredited, registered with the Private Education Administration and linked to the National Centre for Examinations"
+    }
+  ],
+  "note": "The document says the ministry finished loading private schools' data into the Education Data System to build a unified national database; it does not say what the data is, who enters it or whether schools add learner records, so the system is unclassified and gives no fact."
+}

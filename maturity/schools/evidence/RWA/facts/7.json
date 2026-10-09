@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-01-education-statistical-yearbook-2024-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Education Statistical Yearbook and school census", "country_label": "Education Statistical Yearbook; school census", "class": "census", "platform": "", "owner": "Ministry of Education (MINEDUC)", "tiers": "pre-primary to university and adult education, school year July 2024 to June 2025"}
+  ],
+  "note": "No fact: the capture holds the foreword and contents only; the school census methodology chapter is listed and not captured, and the body names no system (SDMS appears only in the capture's own notes)."
+}

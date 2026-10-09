@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-09-nga-thestar-nysc-learner-identification-number-records-link",
+  "facts": [],
+  "systems": [
+    {"system": "Learner Identification Number", "country_label": "national Learner Identification Number", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": "proposed as part of a framework with NBTE, JAMB and NIMC"},
+    {"system": "Nigerian Education Repository Data Bank (NERD)", "country_label": "Nigerian Education Repository Data Bank", "class": "single-function", "platform": "", "owner": "Federal Ministry of Education", "tiers": "collects and authenticates university certificates; tertiary institutions through help-desk officers"},
+    {"system": "Nigerian Education Data Infrastructure", "country_label": "Nigerian Education Data Infrastructure", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": "said to be going to connect records from the stages of a learner's education"},
+    {"system": "Ministry of Education and NYSC verification API", "country_label": "application programming interface", "class": "exchange", "platform": "API", "owner": "Federal Ministry of Education and National Youth Service Corps", "tiers": "under discussion on 8 September 2026"},
+    {"system": "National Credential Verification Service", "country_label": "National Credential Verification Service", "class": "single-function", "platform": "", "owner": "Federal Government", "tiers": "ministries, departments and agencies, for staff certificates"}
+  ],
+  "note": "Concerns certificate verification for tertiary graduates and a proposed learner number; nothing is stated about records kept by primary or secondary schools."
+}

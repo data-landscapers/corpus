@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-21-sa-sams-journey-rural-schools-ilembe",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The study states that in rural schools SA-SAMS is used to manage student attendance, track performance and generate reports for the Department of Basic Education, with admin clerks doing the data entry at the school, and that its eight sampled rural schools in iLembe district had each used it for at least two years; the level of the schools is not stated and no date is given, so the publication date is used.", "as_of": "2024-11-21", "date_precision": "day", "system": "South African School Administration and Management System (SA-SAMS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "South African School Administration and Management System (SA-SAMS)", "country_label": "SA-SAMS", "class": "emis", "platform": "", "owner": "Department of Basic Education (receives its reports; cited as its publisher)", "tiers": "schools (principals, departmental heads, admin clerks), reporting to the Department of Basic Education; rural schools of iLembe district studied"}
+  ],
+  "note": "A qualitative study of 24 staff in eight rural iLembe schools: it gives no share or count of schools nationally and does not say whether the schools are primary. It reports weak infrastructure (power, internet, old computers), one-day training and weeks-long waits for technical support in these rural schools."
+}

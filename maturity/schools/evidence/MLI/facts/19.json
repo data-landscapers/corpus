@@ -1,0 +1,8 @@
+{
+  "slug": "2020-03-01-instat-mali-schema-directeur-statistique-2020-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Recensement scolaire", "country_label": "recensement scolaire", "class": "census", "platform": "", "owner": "sector statistical services (not named further in the passage)", "tiers": "listed among the large data collections run outside INSTAT by the sector services"}
+  ],
+  "note": "No fact: passages file. The statistical master plan names the school census once, as one of the large collections the sector services run, without describing it further."
+}

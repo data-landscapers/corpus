@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-01-moict-digital-transformation-monitoring-report-fy2023-24",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Education Management Information System (EMIS)", "class": "", "platform": "locally developed system acquired under the National ICT Initiatives Support Program (NIISP)", "owner": "not stated; MoICT&NG reviewed its source code and held contract management meetings for it", "tiers": "not stated"}
+  ],
+  "note": "EMIS is named only as a locally developed e-government system whose source code files MoICT&NG reviewed and whose project and contract meetings it held (July to December 2023); the document does not say what the system does or who enters data, so it is unclassified and gives no fact."
+}

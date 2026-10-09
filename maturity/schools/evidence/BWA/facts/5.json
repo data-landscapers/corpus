@@ -1,0 +1,50 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's own analysis) states that rural primary schools in Botswana predominantly record administrative data, attendance and learning outcomes on paper registers, with data transcribed upward and not captured digitally at the school, and scores them 1; it gives no date for the statement, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS annual school census",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "questionnaires sent to schools once a year, filled at the school and aggregated centrally"
+    },
+    {
+      "system": "Craft Cart tablet-based offline attendance tracking",
+      "country_label": "",
+      "class": "standalone",
+      "platform": "Craft Cart",
+      "owner": "",
+      "tiers": "one remote rural primary school, 200 km from town; described as isolated"
+    },
+    {
+      "system": "EMIS/LMS implementation (2025 tenders)",
+      "country_label": "EMIS/LMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "digital classroom trackers",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The 2025 EMIS/LMS tenders are named with no description of what the system would do, so they are unclassified and give no fact; the Craft Cart attendance pilot is not said to send the ministry anything."
+}

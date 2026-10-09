@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-15-kemis-team-unveiled",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS", "country_label": "Kenya Education Management Information System (KEMIS); national register for all students", "class": "", "platform": "", "owner": "multi-agency team led by the Ministry of Education, with development partners and technology providers; ICT department through Konza Technopolis Development Authority", "tiers": "to consolidate registers of students, teachers and institutions from ECDE and basic education to TVET and universities; 15-member team unveiled 15 May 2025; pilot announced for July 2025 and full transition for September 2025; parents to reach it by mobile application"},
+    {"system": "NEMIS", "country_label": "NEMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "current system, criticised for inefficiencies, to be replaced by KEMIS"},
+    {"system": "KEMIS link to civil registration and Maisha", "country_label": "integration with the births and deaths register and the Unique Personal Identifier (UPI)", "class": "exchange", "platform": "", "owner": "Civil Registration Services and National Registration Bureau, with the Ministry of Education", "tiers": "planned: a unique personal number for every learner, used by KEMIS"}
+  ],
+  "note": "The ministry's statement of 15 May 2025 describes KEMIS as a single register of all students still to be built, and does not say that schools enter learner records in it, so it is left unclassified and no fact is taken. It also reports MPs' uproar at a Treasury cut leaving zero allocation for KEMIS."
+}

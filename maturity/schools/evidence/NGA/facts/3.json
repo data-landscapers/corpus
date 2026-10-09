@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-nga-newstimes-ncc-zero-rated-educational-platforms",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Education Management Information System", "country_label": "digitised Nigeria Education Management Information System", "class": "census", "platform": "", "owner": "Federal Ministry of Education", "tiers": "more than 240,000 schools geomapped; reports enrolment, teachers, classrooms, laboratories, libraries and connectivity"},
+    {"system": "Learner Identification Number (LIN)", "country_label": "Learner Identification Number (LIN)", "class": "emis", "platform": "", "owner": "Federal Ministry of Education", "tiers": "every learner, primary to tertiary, as intended"},
+    {"system": "Zero-Rated Access to Educational Platforms and Content", "country_label": "Zero-Rated Access to Educational Platforms and Content initiative", "class": "enabling", "platform": "100MB of free mobile data a day on approved platforms", "owner": "Nigerian Communications Commission with mobile operators and the Federal Ministry of Education", "tiers": "about five million senior secondary and tertiary students from 1 October 2026"}
+  ],
+  "note": "The minister describes the EMIS only as giving school-level counts (enrolment, teachers, classrooms), which is a census; the LIN is described as an intention, with nothing stated on who enters it, at what levels or in how many schools."
+}

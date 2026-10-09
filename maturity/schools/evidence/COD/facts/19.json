@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-01-world-bank-digital-readiness-secondary-schools-drc",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of National Education and New Citizenship (MNENC), set up with the World Bank and UNICEF", "tiers": "stated as established in all 26 provinces in 2018, with limited administrative capacity to use it"},
+    {"system": "Electronic EMIS (E-EMIS)", "country_label": "E-EMIS", "class": "", "platform": "", "owner": "MNENC", "tiers": "not in place nationally; implementation facing procurement and data integrity problems; recommended"},
+    {"system": "PEQPESU device distribution", "country_label": "PEQPESU", "class": "enabling", "platform": "799 desktops and 9,975 laptops", "owner": "MNENC, World Bank-funded project", "tiers": "about 291 public secondary schools in 18 provinces, against 29,631 public secondary schools lacking computers"},
+    {"system": "SchoolAp", "country_label": "SchoolAp", "class": "learning", "platform": "distance learning courses, management software, pre-loaded solar-powered tablets", "owner": "private partner of PEQPESU", "tiers": "rural communities; secondary"},
+    {"system": "Klasroom Eteyelo", "country_label": "Klasroom Eteyelo", "class": "learning", "platform": "learning management platform", "owner": "private partner of PEQPESU", "tiers": ""},
+    {"system": "VODAEDUC", "country_label": "VODAEDUC", "class": "learning", "platform": "zero-rated national educational platform", "owner": "Vodacom Foundation", "tiers": ""},
+    {"system": "Maths-Whizz", "country_label": "Maths-Whizz", "class": "learning", "platform": "online mathematics learning", "owner": "Whizz Education with PEQPESU and MNENC", "tiers": "21 secondary schools in six provinces, one year"},
+    {"system": "EducTV and the PEQPESU YouTube channel and podcast", "country_label": "EducTV", "class": "learning", "platform": "television, YouTube, podcast", "owner": "MNENC", "tiers": ""}
+  ],
+  "note": "The paper says a national electronic EMIS is lacking and that the EMIS set up in all 26 provinces in 2018 is little used, but never says what either records or who enters it, so both are unclassified and give no fact; SchoolAp's management software is named without description. It gives 7% of public (rural proxy) schools with electricity and 76% covered by a mobile network, which are enabling. Capture is an excerpt; the scope is secondary schools."
+}

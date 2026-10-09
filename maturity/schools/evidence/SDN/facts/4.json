@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-omdena-giga-unicef-sudan-ai-school-detection",
+  "facts": [],
+  "systems": [
+    {"system": "Project Connect", "country_label": "Giga's Project Connect", "class": "enabling", "platform": "Project Connect (Giga)", "owner": "Giga (UNICEF and ITU)", "tiers": "A real-time map of school connectivity across 35 countries; school locations detected in Sudan from satellite imagery were designed for integration into it"}
+  ],
+  "note": "A school-location detection model for a connectivity map; the document says Sudan's school location records are incomplete or absent, and states nothing on learner records or any system schools enter data into."
+}

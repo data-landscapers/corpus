@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-30-liberia-moe-launches-2025-2026-national-school-census",
+  "facts": [],
+  "systems": [
+    {"system": "2025/2026 Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education (Planning, Research and Development)", "tiers": "principals and registrars gather the data at each school, 27 March to 27 April 2026; officers carry it to county data hubs at County Education Offices for digital processing; early childhood, primary, secondary and TVET in all 15 counties and 125 districts"}
+  ],
+  "note": "The document describes only the yearly census return, collected at the school and processed digitally at county hubs; it names no system that schools add learner records to during the year, so no fact."
+}

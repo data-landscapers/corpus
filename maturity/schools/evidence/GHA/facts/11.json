@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-20-education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education: Statistics, Research, Information Management (SRIM) Directorate with the Pre-Tertiary Directorate", "tiers": "indicators collected through the national school census, with data collection at school and district levels; indicators revised 17-18 December 2025 for the next census"}
+  ],
+  "note": "The EMIS is described only as indicators collected through the national school census, which is class census and gives no fact."
+}

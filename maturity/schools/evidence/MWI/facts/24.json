@@ -1,0 +1,47 @@
+{
+  "slug": "2024-04-01-malawi-2023-2027-partnership-compact",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "a web-based system developed with UNICEF support",
+      "owner": "Ministry of Education; World Bank and other partners support it through a re-activated EMIS Task Team; Norway and UNICEF fund EMIS strengthening",
+      "tiers": "said to be functional at national, district and school level, its use impeded by limited offline functionality; the acronym list names district and zonal EMIS officers (DEMISO, ZEMISO); the only collection described is the Annual School Census"
+    },
+    {
+      "system": "Annual School Census, with the annual Education Statistics Report and Annual Education Statistical Bulletin built on it",
+      "country_label": "Annual School Census; Malawi Education Statistics Report; Annual Statistical Bulletin",
+      "class": "census",
+      "platform": "EMIS",
+      "owner": "Ministry of Education",
+      "tiers": "national, all schools once a year; annual data available each October"
+    },
+    {
+      "system": "Teacher deployment monitoring and reporting system",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Education, financed from the GPE System Capacity Grant",
+      "tiers": "planned: none in place at baseline, target developed and operational by October 2025, to cover public primary schools in all 34 education districts"
+    },
+    {
+      "system": "Building Educational Foundations through Innovation and Technology (BEFIT)",
+      "country_label": "BEFIT",
+      "class": "learning",
+      "platform": "tablets",
+      "owner": "Ministry of Education with Imagine Worldwide, OneBillion and VSO; JBJ Foundation and the GPE Multiplier fund it",
+      "tiers": "phase 1 (2023-2024) in 500 public primary schools in 18 districts; phase 2 a further 500 in the other 16; target 6,200 schools by 2029"
+    },
+    {
+      "system": "Off-grid electric power for hard-to-reach primary schools (Press Trust, GPE Multiplier strand)",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Press Trust",
+      "tiers": "planned for at least 200 hard-to-reach primary schools"
+    }
+  ],
+  "note": "The compact describes EMIS only as the source of the annual statistics reports built on the Annual School Census, and names no per-learner record that schools add to during the year, so it is class census and gives no fact. It says nothing either way on whether schools keep attendance or learner records on paper. It adds that Malawi wants a data system able to track foundational learning assessments frequently at school and district level, which it does not yet have, and lists a strengthened EMIS as an input of its third outcome."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that rural primary schools in Sudan predominantly record attendance, enrolment and grades on paper, that it found no evidence of digital tools at rural school level, and scores Sudan's schools 1; the statement is undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper school records (no system named at school level)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) states that pilots and digital aggregate reporting in Sudan do not reach the recording done at the school, and that it found no evidence of digital tools at rural school level; undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper school records (no system named at school level)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "centrally coordinated (ministry not named)", "tiers": "Central; the document says there is minimal digital exchange at school level, data lag 12 to 14 months, and collection is manual at schools with later aggregation, with yearly books and rapid paper surveys"}
+  ],
+  "note": "The paper facts name no system of class emis: they are the dated statement of absence, recorded under the sub-indicator's class. The EMIS is described only as central aggregation of yearly returns, so it is census. The document also says about half of primary schools have electricity, which is enabling and gives no fact."
+}

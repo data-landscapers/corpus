@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-ken-kenya-health-sector-strategic-plan-khssp-july-2023-june-2027-transform",
+  "facts": [],
+  "systems": [
+    {"system": "NEMIS", "country_label": "NEMIS", "class": "", "platform": "", "owner": "", "tiers": "named only"},
+    {"system": "NEMIS to KHIS data flow", "country_label": "interoperability of NEMIS and KHIS", "class": "exchange", "platform": "", "owner": "Ministry of Health plan (KHSSP 2023-2027)", "tiers": "planned: data on school-based deworming to flow from NEMIS to the health information system"}
+  ],
+  "note": "Passages of the health sector strategic plan: NEMIS is named once, as the source of a planned data flow on school-based deworming, with no description of what it does."
+}

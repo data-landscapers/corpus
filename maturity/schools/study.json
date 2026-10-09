@@ -71,7 +71,7 @@
       "criteria": [
         "A dated source states that primary schools keep their learners' records on paper only. An annual school census, however it is collected and whatever it is called, does not change this.",
         "An EMIS for primary schools is being prepared or piloted: staff trained, equipment delivered, an agreement signed or pilot schools using it. Or one runs in secondary schools only.",
-        "An EMIS is past its pilot and in live use in some primary schools, which enter attendance or results during the year; they are a minority, or no figure is published. Or schools fill a national learner register once a year.",
+        "An EMIS is past its pilot and in live use in some primary schools, which enter attendance or results during the year; they are a minority, or no figure is published. Or schools past the pilot fill a national learner register once a year.",
         "More than half of primary schools enter attendance or results for each learner during the school year, at the school. The figure is a published share, or a count given with its total.",
         "At least 90 per cent of primary schools do so, with attendance entered daily, on a figure published within the past two years. The figure gives the share for rural schools."
       ]
@@ -184,5 +184,11 @@
     "rural gap",
     "advancing",
     "regressing"
+  ],
+  "exclude_sources": [
+    {
+      "slug": "2026-03-31 Africa we have a data problem",
+      "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
+    }
   ]
 }

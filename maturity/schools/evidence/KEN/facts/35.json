@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-kenya-digital-literacy-programme-review",
+  "facts": [],
+  "systems": [
+    {"system": "NEMIS", "country_label": "National Education Management Information System (NEMIS)", "class": "", "platform": "online data platform", "owner": "Ministry of Education; funded in 2018 through Global Partnership for Education programme implementation grants", "tiers": "the review's 2022-2032 blueprint sets, as a target for its first one to two years, tracking of school attendance and teacher-learner ratio in NEMIS by 100 per cent of primary schools, then pre-primary and secondary in years three to five"},
+    {"system": "TMIS", "country_label": "Teacher Management Information System (TMIS)", "class": "single-function", "platform": "online data platform", "owner": "funded in 2018 through GPE grants", "tiers": ""},
+    {"system": "FMIS", "country_label": "Financial Management Information System (FMIS)", "class": "single-function", "platform": "online data platform", "owner": "funded in 2018 through GPE grants", "tiers": ""},
+    {"system": "Digital Literacy Programme", "country_label": "Digital Literacy Programme (DLP)", "class": "learning", "platform": "digital devices for schools, some assembled locally at Moi University and JKUAT", "owner": "Government of Kenya (MoE, MoICT, ICT Authority)", "tiers": "primary schools; local assembly serving over 23,000 primary schools"}
+  ],
+  "note": "Passages of a 2022 review of the Digital Literacy Programme: NEMIS is named as an online data platform and as where attendance tracking is to be ensured, a recommendation and not a statement that schools enter attendance, so it is left unclassified and no fact is taken."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-05-nigeria-integrates-national-student-ids-digital-identity-system",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "Biometric Update states that the Learner's Identification Number, a unique 16-digit number assigned to each student and associated with demographic and educational data, began rolling out in April 2026 with 1.9 million IDs issued.", "as_of": "2026-04", "date_precision": "month", "system": "Learner's Identification Number (LIN)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "Biometric Update reports, from an announcement on X, that the Ministry of Education and NIMC integrated the Learner's Identification Number of 80 million students with the national identity number registry through the digital NEMIS; the announcement is undated, so the document's published date is used.", "as_of": "2026-08-05", "date_precision": "day", "system": "Learner's Identification Number (LIN)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "Biometric Update names Nigeria's Ministry of Education as the body that, with NIMC, integrated the learner numbers held through its digital NEMIS; no date is given for ownership, so the document's published date is used.", "as_of": "2026-08-05", "date_precision": "day", "system": "Learner's Identification Number (LIN)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Learner's Identification Number (LIN)", "country_label": "Learner's Identification Number (LIN)", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": "registers students through the education system; 1.9 million IDs at the April 2026 start"},
+    {"system": "digital Nigeria Education Management Information System (NEMIS)", "country_label": "digital Nigeria Education Management Information System (NEMIS)", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "LIN to NIN registry integration", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Education and National Identity Management Commission", "tiers": "80 million students' learner numbers, as announced"}
+  ],
+  "note": ""
+}

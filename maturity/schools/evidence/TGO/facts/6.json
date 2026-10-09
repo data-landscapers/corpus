@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that Togo's rural primary schools first record attendance, enrolment and grades on paper forms at the school, that data from 16,000 schools is digitised only at the district education inspections into StatEduc, and that it found no evidence of on-site digital recording in rural schools, scoring Togo schools 1; the statement is undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper forms at the school (no system named at school level)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation) finds no evidence of on-site digital recording in Togo's rural primary schools, digitisation of the 16,000 schools' paper forms being at district level; it gives no count of schools entering data, and the statement is undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper forms at the school (no system named at school level)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "census", "platform": "StatEduc", "owner": "", "tiers": "District education inspections digitise the paper forms sent up by schools"},
+    {"system": "DHIS2 EMIS", "country_label": "DHIS2 EMIS", "class": "census", "platform": "DHIS2", "owner": "Not stated; piloted with GPE KIX and Norad support", "tiers": "Digital processing and analysis above the school; piloted nationally since 2021"}
+  ],
+  "note": "Source is on the study's exclude list (AI-assisted compilation); facts recorded as the document states them."
+}

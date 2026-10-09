@@ -1,0 +1,17 @@
+{
+  "slug": "2025-01-01-dhis2-education-gambia-implementation",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "DHIS2 for Education's country page says MoBSE designed the individual learner module and the ministry scaled it nationally in 2021, the system having been built from 2019 with HISP WCA and support from Norad and GPE KIX.", "as_of": "2021", "date_precision": "year", "system": "SEMIS App (individual learner module)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "DHIS2 for Education's country page says the 2020 pilot of the individual learner module involved admission and registration of students at schools, on Chromebooks working offline; the module is designed to capture attendance history and continuous assessment, which the page does not say schools enter.", "as_of": "2020", "date_precision": "year", "system": "SEMIS App (individual learner module)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "DHIS2 for Education's country page says the individual learner module was piloted in 200 schools in 2020; no total and no school level is given.", "as_of": "2020", "date_precision": "year", "system": "SEMIS App (individual learner module)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "DHIS2 for Education's country page says the ministry scaled the individual learner module to national level in 2021 and launched the individual student identification number, giving no count or share of schools.", "as_of": "2021", "date_precision": "year", "system": "SEMIS App (individual learner module)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SEMIS App (individual learner module)", "country_label": "SEMIS App", "class": "emis", "platform": "DHIS2 for Education (SEMIS App, Android, offline on Chromebooks)", "owner": "Ministry of Basic and Secondary Education (MoBSE), with HISP WCA; funders and partners Norad, GPE KIX, University of Oslo, University of The Gambia", "tiers": "schools; national scale since 2021"},
+    {"system": "EMIS (aggregate data)", "country_label": "EMIS", "class": "census", "platform": "DHIS2", "owner": "Ministry of Basic and Secondary Education (MoBSE)", "tiers": "national; aggregate EMIS census forms customised in DHIS2 as a container for legacy data"},
+    {"system": "SMS-attendance", "country_label": "SMS-attendance", "class": "", "platform": "DHIS2 local innovation", "owner": "", "tiers": ""},
+    {"system": "School Report Card", "country_label": "School Report Card", "class": "", "platform": "DHIS2 local innovation", "owner": "", "tiers": ""},
+    {"system": "Early Warning System for learner drop-out", "country_label": "Early Warning System", "class": "", "platform": "DHIS2 local innovation", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

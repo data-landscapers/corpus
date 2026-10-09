@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-11-thepointng-reactions-fg-free-daily-data-students",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "being digitised", "owner": "Federal Ministry of Education", "tiers": "more than 240,000 schools geo-mapped; collects enrolment, teachers, classrooms, laboratories, libraries, connectivity and school safety"},
+    {"system": "Digital Nigeria Education Management Information System", "country_label": "Digital Nigeria Education Management Information System", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Nigeria Education Data Infrastructure", "country_label": "Nigeria Education Data Infrastructure", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Learner Identification Number", "country_label": "Learner Identification Number", "class": "", "platform": "", "owner": "Federal Ministry of Education", "tiers": ""},
+    {"system": "Initiative for Zero-Rated Access to Educational Platforms and Content", "country_label": "Initiative for Zero-Rated Access to Educational Platforms and Content in Nigeria", "class": "enabling", "platform": "100MB of zero-rated mobile data a day on approved platforms", "owner": "Nigerian Communications Commission with mobile operators (MTN Nigeria, Airtel Nigeria, Globacom) and the Federal Ministry of Education", "tiers": "public senior secondary schools and tertiary institutions from 1 October 2026"}
+  ],
+  "note": "A third account of the 10 September 2026 launch; the ministry's systems are named without any statement of what schools enter, and the one collection described is the Annual School Census."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay's country table states that rural primary schools in Zambia predominantly keep attendance and learning outcomes in paper registers, with digital use limited to pilots and periodic census reporting; it gives no count of schools and no date, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers (no learner-record system)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "CSPro 7.7", "owner": "Ministry of Education", "tiers": "annual school census tool deployed electronically to schools; entry at school level during census periods only"},
+    {"system": "Akros DHIS2", "country_label": "Akros DHIS2 EMIS pilot", "class": "", "platform": "DHIS2", "owner": "Akros", "tiers": "Namwala district pilot; described only as digital tracking of attendance and aggregates"},
+    {"system": "Simprints biometrics", "country_label": "Simprints biometrics", "class": "single-function", "platform": "Simprints", "owner": "Simprints", "tiers": "pilot in 8 rural schools in the east; attendance tracking"}
+  ],
+  "note": "Excluded source under study.json (AI-assisted compilation). The Ministry's EMIS is described as the annual census only. Simprints is classed single-function on the document's words (biometric attendance only, no link to the ministry stated); the Akros pilot is not described closely enough here to class."
+}

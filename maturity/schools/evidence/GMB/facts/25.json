@@ -1,0 +1,8 @@
+{
+  "slug": "2023-09-01-gbos-national-strategy-development-of-statistics-nsds-iii-2024-2028",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (MoBSE)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Basic and Secondary Education (MoBSE)", "tiers": "the strategy plans designated data and EMIS staff in each regional education directorate and at headquarters, and training of data managers at the grass root level from 832 to 2,000"}
+  ],
+  "note": "The passages name the EMIS only through MoBSE's staffing and training targets for 2024-28, with no description of what the system does; no fact."
+}

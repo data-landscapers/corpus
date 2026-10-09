@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-building-responsive-emis-policies-robust-education-data",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "The KIX Africa 19 policy brief on the knowledge café of 22 July 2025 recommends mandating individual student tracking 'as piloted in Mozambique'; it names no system, platform, school count or level for the pilot.", "as_of": "2025-07", "date_precision": "month", "system": "individual student tracking pilot (unnamed)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "StatEduc", "country_label": "EMIS (StatEduc)", "class": "census", "platform": "Microsoft .NET and MS SQL Server 2008 R2, exporting to Excel pivot tables", "owner": "Ministry of Education and Culture (Head of Statistics)", "tiers": "fed by censuses covering primary, secondary, adult education and school mapping, on physical questionnaires; holds data aggregated by class, subject and gender, not individual student records"},
+    {"system": "individual student tracking pilot (unnamed)", "country_label": "", "class": "emis", "platform": "", "owner": "", "tiers": "described only as piloted in Mozambique"},
+    {"system": "planned fully digital platform for real-time entry", "country_label": "", "class": "", "platform": "DHIS2 being piloted for offline dashboards; SOFIA (School Open-source Feedback and Improvement App) named as piloted in The Gambia and Mozambique", "owner": "Ministry of Education and Culture", "tiers": "planned; not stated who would enter what"}
+  ],
+  "note": "StatEduc is described by the ministry's Head of Statistics as census-fed and aggregate, so it is class census and gives no fact; the brief states it was conceived in 1976, automated in 1981 and updated in 2021 and 2022 to comply with EMIS Law 18/2018. The planned real-time platform is not described per learner and is left unclassified. The one fact rests on a passing phrase in the recommendations."
+}

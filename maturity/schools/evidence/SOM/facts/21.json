@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-somalia-digital-economy-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education (MoECHE), Federal Government", "tiers": "said to have been recently piloted and to be at a nascent stage; schools are required to input data online, which state-level ministries review on a digital platform; uptake said to be poor because of weak digital literacy among ministry and school staff; listed in the annex of government systems as Planned, with no integration; cited as a 2021 data source"},
+    {"system": "Education Registration and Certification System", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Education, Somaliland", "tiers": "registers educational institutions and certifies teachers; listed as Operational, with no integration"}
+  ],
+  "note": "The diagnostic says schools must input data online into a recently piloted EMIS and does not say what data, whether per learner, or how often, so the system is unclassified and gives no fact. If the parent classes it emis on other evidence, the statements here are: piloted and nascent, schools required to enter online, poor uptake, as of the 2022 publication."
+}

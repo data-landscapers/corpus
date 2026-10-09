@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-20-fec-peside-sige-2-0-estatisticas-educacao-guine-bissau",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE 2.0",
+      "country_label": "SIGE 2.0 (Sistema de Informação e Gestão da Educação)",
+      "class": "census",
+      "platform": "SIGE 2.0, described as software built on the country's school administrative base",
+      "owner": "Ministry of National Education (DGEPASE), under the PESIDE project of the NGO FEC with European Union financing",
+      "tiers": "Practical training began on 6 October 2025 in four regions (Tombali, Quínara, Bafatá, Gabú); at DGEPASE five statistical technicians trained on the job to produce national and regional statistical bulletins on schools, pupils, teachers and results for 2014/2015 and 2020 to 2024"
+    },
+    {
+      "system": "Anuário estatístico (education statistical yearbook)",
+      "country_label": "anuário estatístico",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "National; last published for 2014/2015"
+    }
+  ],
+  "note": "No fact: SIGE 2.0 is described as a platform for entering school data to produce statistical bulletins, with training at regional and central level; no entry by schools of per-learner records is described."
+}

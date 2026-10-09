@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-instat-mali-manuel-harmonisation-methodologies-collecte-donnees-ssn",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire statistique de la CPS du secteur de l'éducation", "country_label": "annuaire statistique", "class": "census", "platform": "", "owner": "Cellule de Planification et de Statistique (CPS) du secteur de l'éducation", "tiers": "national; named as the data source for admission, completion, enrolment and repetition rates, the pupil-teacher ratio and the parity index in fondamental education"}
+  ],
+  "note": "No fact: passages file. INSTAT's December 2025 manual names the education CPS's statistical yearbook as the source of the sector's indicators and says nothing of how schools record or send the data."
+}

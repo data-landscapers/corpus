@@ -1,0 +1,74 @@
+{
+  "slug": "2021-01-01-unesco-norcap-emis-country-case-study-chad",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The UNESCO/NORCAP case study states that school directors fill the ministry's questionnaires on paper, printed in five copies and passed down and back up through province, district and zone inspectorate, and that all the filled paper questionnaires are keyed and verified at central level in StatEduc2; it names no digital entry at any ministry school, and describes the position at the time of writing with no date, so the 2021 publication year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "paper questionnaires and school reports",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS; school census; EMIS Annual Report",
+      "class": "census",
+      "platform": "StatEduc2",
+      "owner": "EMIS Unit of DAPRO, Ministry of National Education and Civic Promotion, with UNESCO technical support; framed by a 2010 manual of procedures and a 2014 EMIS strategy",
+      "tiers": "Pre-primary to secondary, non-formal, literacy and technical schools; one paper questionnaire of four to ten pages per school a year, filled by the director, carried up to the centre and keyed there; no survey between 2016 and 2019, then 2017-18 and 2018-19 collected together and validated in December 2019; 52 of 107 refugee-camp schools covered in the 2019 report"
+    },
+    {
+      "system": "Rapport de la rentrée scolaire / Rapport de la fin d'année",
+      "country_label": "Rapport de la rentrée scolaire; Rapport de la fin de l'année",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of National Education and Civic Promotion (primary and secondary departments, not always DAPRO)",
+      "tiers": "Every school director reports at the start and end of the year to the inspector and district, in each district's own format; districts compile and send to national level; counts of enrolment, teachers, drop-outs and needs; the medium is not stated"
+    },
+    {
+      "system": "UNHCR refugee education data collection",
+      "country_label": "EMIS (UNHCR's system of the same name, for refugees only)",
+      "class": "census",
+      "platform": "paper forms entered into an Excel file",
+      "owner": "UNHCR, through NGO partners; dashboard shared with the ministry's focal person, not with DAPRO",
+      "tiers": "All 107 schools in refugee camps and settlements; beginning-of-year, end-of-year and monthly attendance-tracking questionnaires per school, filled on paper at the school and entered into Excel above it"
+    },
+    {
+      "system": "UNHCR Kobo / ProGress enrolment tracking",
+      "country_label": "tablet-based questionnaire through the Kobo system and ProGress",
+      "class": "standalone",
+      "platform": "Kobo; ProGress",
+      "owner": "UNHCR",
+      "tiers": "Refugee children only, once a year at enrolment, to track each child; who enters it is not stated and nothing is said to pass to the ministry"
+    },
+    {
+      "system": "REMIS",
+      "country_label": "Refugee Education Management Information System (REMIS)",
+      "class": "",
+      "platform": "custom-built online tool",
+      "owner": "UNHCR",
+      "tiers": "Not introduced in Chad: discussed with stakeholders at the end of 2018, and the study recommends against introducing it"
+    },
+    {
+      "system": "EduTrac",
+      "country_label": "EduTrac",
+      "class": "single-function",
+      "platform": "mobile phone, SMS and calls; online system at national level",
+      "owner": "UNICEF, with DAPRO; accessible to UNICEF and the ministry",
+      "tiers": "Pilot in a limited number of schools in two provinces; a 265-question questionnaire answered monthly, termly or yearly on teacher attendance, training, infrastructure, enrolments of refugees and displaced children and school feeding; no per-learner record described; scale-up planned"
+    },
+    {
+      "system": "APICED teacher database",
+      "country_label": "teacher database (APICED)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Agency for the Promotion of Community Initiatives for Education, with World Bank funding",
+      "tiers": "Being created; a community teacher census of November 2018 was under review"
+    }
+  ],
+  "note": "The capture is an excerpt that stops mid-sentence in the IOM section; OCHA, Education Cluster, JRS, ACRA, the field voices, gaps and recommendations are not in the file. Every system described returns counts per school; none is said to hold a record per learner that a ministry school adds to during the year."
+}

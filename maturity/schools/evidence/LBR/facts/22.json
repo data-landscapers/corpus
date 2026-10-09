@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-30-liberia-moe-worldbank-edtech-senior-secondary-sustainability",
+  "facts": [],
+  "systems": [
+    {"system": "Education technology deployment in public and community senior secondary schools", "country_label": "EdTech", "class": "learning", "platform": "", "owner": "Ministry of Education with the World Bank", "tiers": "public and community senior secondary schools"}
+  ],
+  "note": "The passages give the report's contents page and one indicator row on digital learning materials, where school data is named only as a data source; no system holding learner records is described."
+}

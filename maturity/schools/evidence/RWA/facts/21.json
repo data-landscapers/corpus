@@ -1,0 +1,16 @@
+{
+  "slug": "2024-01-01-rwanda-education-sector-strategic-plan-2024-2029",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current", "fact": "The Education Sector Strategic Plan 2024-2029 lists intervention 5.1.9, to improve digital attendance tracking and an early warning response system to improve attendance and prevent dropout, under its outcome on data systems; the plan covers 2024/25 to 2028/29 and the document's published year is used.", "as_of": "2024", "date_precision": "year", "system": "digital attendance tracking and early warning response system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "digital attendance tracking and early warning response system", "country_label": "digital attendance tracking and early warning response system", "class": "emis", "platform": "", "owner": "", "tiers": "named as a planned intervention (5.1.9); who enters and at which levels is not stated"},
+    {"system": "integrated Education Management Information System (EMIS)", "country_label": "integrated EMIS; national integrated EMIS", "class": "", "platform": "", "owner": "Ministry of Education (MINEDUC)", "tiers": "to be rolled out under the plan to consolidate the core systems; consolidation delayed; school, district and national levels; what schools enter is not described"},
+    {"system": "School Data Management Information System (SDMIS)", "country_label": "SDMIS", "class": "", "platform": "", "owner": "", "tiers": "one of the core data systems managed by different institutions; function not described"},
+    {"system": "Comprehensive Assessment Management Information System (CAMIS)", "country_label": "CAMIS", "class": "", "platform": "", "owner": "", "tiers": "one of the core data systems managed by different institutions; function not described"},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS", "class": "single-function", "platform": "", "owner": "", "tiers": "one of the core data systems managed by different institutions"},
+    {"system": "Teaching and Learning Materials Management Information System (TLM-MIS)", "country_label": "TLM-MIS", "class": "single-function", "platform": "", "owner": "", "tiers": "one of the core data systems managed by different institutions"},
+    {"system": "Education Statistical Yearbook (ESYB)", "country_label": "ESYB", "class": "census", "platform": "", "owner": "Ministry of Education (MINEDUC)", "tiers": "named in the acronyms and cited as a statistics source"}
+  ],
+  "note": "The plan also states, with no value in the kept list to carry it, that teacher and student attendance are not yet consistently collected, analysed or used, and that the core systems are fragmented across institutions (dpi.exchange). Passages only; the attendance system is classed emis on its tracking attendance for an early warning on dropout."
+}

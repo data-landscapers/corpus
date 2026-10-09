@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review (its author's AI-assisted compilation, scoring Kenya's rural schools 1) states that rural primary schools in Kenya predominantly use paper registers for administrative data, attendance and learning outcomes, lacking electricity, internet, computers and trained staff for routine digital entry; no date is given, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "NEMIS/KEMIS", "country_label": "NEMIS/KEMIS", "class": "census", "platform": "", "owner": "", "tiers": "national, for aggregate reporting; the document says rural schools' data is likely collected manually and submitted to district offices for digitisation"}
+  ],
+  "note": "Class census is this document's own description of NEMIS/KEMIS ('aggregate reporting'), which differs from how other documents in the slice describe the same systems. The table's score cell reads 1 while its text ends 'Score 2'."
+}

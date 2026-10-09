@@ -1,0 +1,47 @@
+{
+  "slug": "2023-09-01-ethiopia-digital-education-strategy-2023-2028",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EMIS 1.0/2.0 for General education",
+      "country_label": "EMIS; EMIS 1.0/2.0",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "general education; the strategy's Project 7.4 plans to identify requirements (2023-2024), improve the system (2024-2025), train users (2025) and maintain it (2025-2028), with the Ministry, the Ministry of Innovation and Technology, schools and development partners responsible"
+    },
+    {
+      "system": "Education Sector ID System (ESIDS)",
+      "country_label": "educational sector digital ID system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; listed as an existing opportunity"
+    },
+    {
+      "system": "SchoolNet",
+      "country_label": "SchoolNet system",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "schools; its expansion is listed with telecom coverage, electrification and devices under infrastructure opportunities"
+    },
+    {
+      "system": "National Academic Digital Library of Ethiopia",
+      "country_label": "National Academic Digital Library of Ethiopia",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "a repository of digital content from pre-primary to grade 12"
+    },
+    {
+      "system": "Digital content for Secondary Schools",
+      "country_label": "Digital content for Secondary Schools",
+      "class": "learning",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "secondary schools: e-textbooks, e-lectures, simulated laboratories"
+    }
+  ],
+  "note": "The passages name EMIS 1.0/2.0 for general education and plan its improvement to 2028, but never say what it holds or what schools enter, so it is unclassified and gives no fact (a plan:current fact would follow if the parent classes it emis from another document). HEMIS, the higher-education learning management and student information systems and e-SHE are higher education and left out."
+}

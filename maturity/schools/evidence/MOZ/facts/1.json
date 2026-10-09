@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-21-gpekix-mozambique-education-data-system",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Education Management Information System (EMIS)", "class": "", "platform": "", "owner": "Ministry of Education and Culture", "tiers": "national, provincial, district and school levels named as holding staff responsible for data; school-level collection described as largely paper-based"}
+  ],
+  "note": "The document names an 'established EMIS' with 'multiple education data subsystems' and 'electronic data platforms' but never says what the EMIS holds or whether schools add per-learner records, so it is unclassified and gives no fact. It does state, from a KIX assessment in Maputo on 3-4 August 2026, that much of the data collected at school level is still paper-based with manual data entry, and that expanding electronic, decentralised data entry was set as a priority at a national dialogue on 5-7 August 2026."
+}

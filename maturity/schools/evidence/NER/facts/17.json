@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-12-niger-uncdf-ipaymoney-universites",
+  "facts": [],
+  "systems": [
+    {
+      "system": "iPayMoney university enrolment and fee-payment platform",
+      "country_label": "iPayMoney",
+      "class": "single-function",
+      "platform": "iPayMoney (i-Futur)",
+      "owner": "i-Futur, a Nigerien fintech, for the public universities; UNCDF, EU and OACPS grant",
+      "tiers": "higher education only: online registration and fee payment at the University of Maradi (more than 7,700 students enrolled online in 2023), being adopted in Niamey and Agadez"
+    }
+  ],
+  "note": "University enrolment and payment only; higher education is outside the study and no primary or secondary school system is named."
+}

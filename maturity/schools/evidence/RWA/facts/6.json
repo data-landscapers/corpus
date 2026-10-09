@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-11-hisp-rwanda-mineduc-education-data-partnership",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "HISP Rwanda says a mission visited St. Famille School and GS Kinyinya to assess how the SEMIS absence tracking system, built on DHIS2, is being used to identify learners at risk of dropping out, and spoke with school leaders and teachers; the mission is undated, so the document's published date is used.", "as_of": "2026-02-11", "date_precision": "day", "system": "SEMIS absence tracking system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "HISP Rwanda names two schools using the SEMIS absence tracking system, St. Famille School and GS Kinyinya, and gives no count or share of schools using it; undated, so the document's published date is used.", "as_of": "2026-02-11", "date_precision": "day", "system": "SEMIS absence tracking system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "HISP Rwanda reports a technical assistance mission under the Zero Out-of-School Children project, with Waliku, Saudigitus, Save the Children Rwanda and the Ministry of Education, to strengthen the DHIS2-based student absence tracking system and move its technical support from Saudigitus (HISP Mozambique) to the local DHIS2 team; undated, so the document's published date is used.", "as_of": "2026-02-11", "date_precision": "day", "system": "SEMIS absence tracking system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SEMIS absence tracking system", "country_label": "SEMIS; DHIS2-based student absence tracking system", "class": "emis", "platform": "DHIS2", "owner": "Ministry of Education with the Zero Out-of-School Children project (Save the Children Rwanda, Waliku); technical support moving from Saudigitus (HISP Mozambique) to HISP Rwanda", "tiers": "schools (St. Famille School and GS Kinyinya named), level not stated; national level at the ministry"},
+    {"system": "SDMS", "country_label": "SDMS", "class": "", "platform": "", "owner": "", "tiers": "named only as a system SEMIS is to be integrated with"}
+  ],
+  "note": "The document does not say whether the two named schools are primary, nor who funds the system; integration of SDMS, SEMIS and partner platforms is discussed as an aim (dpi.exchange)."
+}

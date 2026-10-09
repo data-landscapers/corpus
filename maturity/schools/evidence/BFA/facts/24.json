@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-eu-burkina-programme-indicatif-multiannuel-2021-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Annuaire statistique 2019-2020 du MENAPLN",
+      "country_label": "Annuaire statistique du MENAPLN",
+      "class": "census",
+      "platform": "",
+      "owner": "MENAPLN (education ministry)",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "The only school-data source named is the education ministry's statistical yearbook, cited as the baseline for counts of functional schools and classrooms by urban and rural area: a yearbook of counts, class census, so no fact. No system holding per-learner records is named."
+}

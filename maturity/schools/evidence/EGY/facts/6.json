@@ -1,0 +1,84 @@
+{
+  "slug": "2023-09-01-egypt-education-sector-plan-2023-2027",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Education Sector Plan 2023-2027, the ministry's costed plan, says the 'traditional EMIS' of routine administrative tasks and student head counts will be expanded into a real-time, integrated EMIS ecosystem with data down to class and student level, decentralised digital data entry, a digital profile of each student and a link to the national ID, and gives 'strengthen EMIS' a programme and an expenditure line in each subsector including primary; no date is given for the statement, so the document's published date is used.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "integrated EMIS ecosystem (planned)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Education Sector Plan 2023-2027 lists EMIS as a department of the Ministry of Education and Technical Education and makes the ministry responsible for building the planned integrated EMIS ecosystem; no date is given, so the document's published date is used.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "integrated EMIS ecosystem (planned)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS; EMIS statistical yearbooks",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education, EMIS department",
+      "tiers": "national; the plan calls it the 'traditional EMIS' of routine administrative tasks and student head counts, source of the statistical yearbooks' counts of students, teachers, classrooms and schools; separate subsector EMISs to be harmonised"
+    },
+    {
+      "system": "integrated EMIS ecosystem (planned)",
+      "country_label": "EMIS ecosystem",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "planned for 2023-2027: national, directorate, district, school, class and student level, with decentralised data entry; nothing in the passages says any school uses it yet"
+    },
+    {
+      "system": "Student Information System",
+      "country_label": "Student Information System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named once, beside EMIS, as a data source for the annual implementation review; not described"
+    },
+    {
+      "system": "Online enrolment application platforms (planned)",
+      "country_label": "online application platforms for kindergarten, primary grade 1 and grade 10",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "planned under each subsector's EMIS programme"
+    },
+    {
+      "system": "Egyptian Knowledge Bank and Learning Management System",
+      "country_label": "EKB; LMS; Hesas Masr",
+      "class": "learning",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "in 2019, 36% of preparatory schools used an online learning management system; EMIS to be integrated with the LMS"
+    },
+    {
+      "system": "School internet and computers",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "before 2021/22: internet for teaching in 71% of primary and 91% of preparatory schools; computers for teaching in 78% of primary, 95% of preparatory and 91% of secondary schools"
+    },
+    {
+      "system": "EMIS link to national identification systems (planned)",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education",
+      "tiers": "planned: automatic verification of the identity of learners and staff"
+    }
+  ],
+  "note": "Passages only, of a 69,758-word plan. The two facts are for the planned system, which the plan describes at student level; the EMIS in use is described only as head counts and yearbooks, so it is census. The passages do not state who finances the EMIS lines, nor that learner records are kept on paper."
+}

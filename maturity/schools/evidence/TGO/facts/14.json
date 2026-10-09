@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "census", "platform": "StatEduc", "owner": "Ministry of Primary and Secondary Education", "tiers": "Primary tool for data collection; processes the annual census data"},
+    {"system": "DHIS2 integrated education data system", "country_label": "EMIS", "class": "census", "platform": "DHIS2", "owner": "Ministry of Primary and Secondary Education, with the University of Oslo and HISP West and Central Africa under GPE KIX", "tiers": "Processes the data StatEduc collects into dashboards; connects the planning, examinations and general inspectorate departments; read by inspectors and regional officers from any connected terminal"},
+    {"system": "school observation tool", "country_label": "", "class": "single-function", "platform": "DHIS2 on Android devices", "owner": "Ministry of Primary and Secondary Education", "tiers": "School observation (pedagogical monitoring) data collected digitally in the field"}
+  ],
+  "note": "No fact: the document describes annual census data collected through StatEduc and processed in DHIS2, and inspection observations on Android; no per-learner record entered by schools."
+}

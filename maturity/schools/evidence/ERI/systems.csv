@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+ERI,EMIS,EMIS,,,,,2026-06-11-unesco-iicba-eritrea-emis-data-analytical-support-rfp
+ERI,EMIS annual school census,EMIS,census,,Ministry of Education,"national level, since a World Bank project of 2003-2012; fed by yearly paper questionnaires (Questionnaires 7 and 8 cover enrolment each November, 100% collection reported) filled at schools, collected by Zoba education offices and sent to the ministry",2026-03-31 Africa we have a data problem
+ERI,GIS,GIS,,,,"used for policy alongside the EMIS, not integrated with it",2026-03-31 Africa we have a data problem
+ERI,Teacher Management Information Systems (TMIS),Teacher Management Information Systems,single-function,,Ministry of Education,,2025-12-16-unesco-iicba-eritrea-tmis-zambia-workshop
+ERI,national EMIS,EMIS,,,Ministry of Education,national,2024-04-19-gpe-eri-001-eritrea-emis-system-transformation-grant
+ERI,Education Management Information System (EMIS),EMIS,,,Ministry of Education,,2023-09-01-eritrea-2023-2027-partnership-compact
+ERI,Teacher Management Information System (TMIS),TMIS,single-function,,,,2023-09-01-eritrea-2023-2027-partnership-compact
+ERI,Educational Management Information System (EMIS),EMIS,,,,,2012-07-01-eritrea-moe-overview-of-education
+ERI,Educational Management of Information Systems (EMIS),EMIS,,,,,2005-07-01-eritrea-national-policy-ict-in-education

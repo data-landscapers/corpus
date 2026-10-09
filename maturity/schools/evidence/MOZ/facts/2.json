@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay (Data Landscapers, an AI-assisted 54-country compilation) states that rural primary schools track attendance and marks in handwritten 'livro de turma' class registers and that it found no evidence of routine electronic recording at the school; it gives no date, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "livro de turma (paper class register)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The essay states there is no digital entry at school level in rural primary schools: census forms go on paper through districts and provinces to be digitised centrally in Maputo; no count of schools is given and no date, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "livro de turma (paper class register)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS (semi-annual school censuses)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "hand-filled paper questionnaires at schools twice a year (enrolment in March, results in December), forwarded through districts to provinces and digitised centrally in Maputo"},
+    {"system": "livro de turma", "country_label": "livro de turma", "class": "emis", "platform": "paper", "owner": "schools", "tiers": "school: handwritten class registers of attendance and marks, with limited integration with EMIS"},
+    {"system": "Carta Escolar", "country_label": "Carta Escolar", "class": "single-function", "platform": "GIS", "owner": "", "tiers": "school mapping and planning, piloted in some provinces, not fully functional and not used for attendance or learning data"},
+    {"system": "SchoolNet", "country_label": "SchoolNet", "class": "learning", "platform": "", "owner": "", "tiers": "secondary and urban schools"},
+    {"system": "NEPAD e-Schools", "country_label": "NEPAD e-Schools", "class": "learning", "platform": "", "owner": "", "tiers": "demonstration schools, secondary and urban"}
+  ],
+  "note": "The essay's country rows are the author's AI-aided compilation, flagged in the file as not sourced fact; the facts above are what it states and carry that caveat."
+}

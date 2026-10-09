@@ -1,0 +1,26 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers review (an AI-assisted compilation) states that rural primary schools in the Central African Republic predominantly or entirely use paper registers for attendance, enrolment, grades and administrative data, while saying it found no direct evidence on how they record data and reasons from conflict and low ICT infrastructure; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS (national system)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; named only as 'a national system', with participation in regional EMIS efforts"
+    }
+  ],
+  "note": "The paper statement is the review's own inference: the row says no direct evidence was found. The national EMIS is named without any description of what it does, so it is unclassified."
+}

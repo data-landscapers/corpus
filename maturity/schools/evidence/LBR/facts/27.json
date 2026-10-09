@@ -1,0 +1,8 @@
+{
+  "slug": "2023-12-01-lisgis-socioeconomic-statistical-bulletin-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census", "country_label": "MOE 2019/2020 Annual School Census report", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "source of the bulletin's county tables on schools, classrooms, enrollment, teachers, facilities and students with disability, for ECE, primary, JSE and SSE"}
+  ],
+  "note": "The bulletin's education chapter reprints tables from the 2019/2020 Annual School Census report and says nothing of how school records are kept; census only, no fact. The chapter's introduction and every line naming schools, students or the Ministry of Education were read; the tables and the other chapters were searched, not read end to end."
+}

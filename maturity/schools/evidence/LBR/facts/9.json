@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-14-liberia-moe-digitized-school-monitoring-system",
+  "facts": [],
+  "systems": [
+    {"system": "Monitoring and Supervision System", "country_label": "Digitized Monitoring and Supervision System", "class": "single-function", "platform": "developed by HAK Technology", "owner": "Ministry of Education; funded by the Government of Liberia through the Public Sector Investment Program", "tiers": "monitoring officers capture geo-referenced data at schools; pilot phase to begin in Montserrado, Rivercess, Sinoe, Bomi and Gbarpolu counties"}
+  ],
+  "note": "An inspection tool used by monitoring officers on school visits (teacher attendance, lesson plans, student registers, materials), not a system schools add learner records to; single-function, so no fact."
+}

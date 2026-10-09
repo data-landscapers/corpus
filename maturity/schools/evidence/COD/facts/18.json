@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-01-gpe-drc-case-study",
+  "facts": [],
+  "systems": [
+    {"system": "Education management information system (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "MEPST EMIS department (DIGE)", "tiers": "stated as not sufficiently operational in all provinces"},
+    {"system": "Statistical yearbook data collection", "country_label": "statistical yearbook", "class": "census", "platform": "", "owner": "DIGE, MEPST", "tiers": "yearly; the compact asks the state budget to cover its collection, publication and dissemination costs"},
+    {"system": "Teacher payroll and teacher databases", "country_label": "SECOPE; SECOPEP in the provinces", "class": "single-function", "platform": "", "owner": "MEPST (SECOPE)", "tiers": "central and provincial; a unique identifier for MEPST staff on the budget planned by 2024"}
+  ],
+  "note": "The evaluation (fieldwork September 2023) reports weak EMIS capacity, infrastructure and funding, unharmonised student and teacher databases and reliance on external partners, but never says what the EMIS does or who enters data into it, so it is unclassified and gives no fact."
+}

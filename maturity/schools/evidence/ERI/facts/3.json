@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's own analysis) states that rural primary schools in Eritrea rely on paper questionnaires and the annual school census for administrative data, attendance and learning outcomes, collected by Zoba education offices and sent to the Ministry of Education, with no evidence of routine digital recording at rural schools, and scores them 1; it gives no date for the statement, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper questionnaires",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS annual school census",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "national level, since a World Bank project of 2003-2012; fed by yearly paper questionnaires (Questionnaires 7 and 8 cover enrolment each November, 100% collection reported) filled at schools, collected by Zoba education offices and sent to the ministry"
+    },
+    {
+      "system": "GIS",
+      "country_label": "GIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "used for policy alongside the EMIS, not integrated with it"
+    }
+  ],
+  "note": "The EMIS is described only as the national aggregate of the yearly questionnaires, so it is census; the passage's closing words say score 2 while its score column says 1. The review is an AI-assisted compilation by its own account."
+}

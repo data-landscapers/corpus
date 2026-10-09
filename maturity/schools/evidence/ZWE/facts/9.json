@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-16-zwe-unicef-mopse-emis-ims-consultancy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Information Management System (IMS) for school registration",
+      "country_label": "Information Management System (IMS) for school registration",
+      "class": "single-function",
+      "platform": "web-based; software not named (to be designed and built by a consultant)",
+      "owner": "Ministry of Primary and Secondary Education; the 4.6-month consultancy is commissioned by UNICEF",
+      "tiers": "ministry staff; not yet built at the notice of 16 April 2026 (deadline 29 April 2026)"
+    },
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as the system the school-registration IMS is to be integrated with"
+    }
+  ],
+  "note": "UNICEF's own posting of the same consultancy as document 8: a system that registers schools and tracks satellite schools, one function and no learner records; EMIS is named without description, so there is no fact."
+}

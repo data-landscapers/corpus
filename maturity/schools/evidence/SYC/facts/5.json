@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-01-statehouse-national-ai-education-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Classroom initiative", "country_label": "Smart Classroom", "class": "learning", "platform": "", "owner": "Ministry of Education and Human Resource Development", "tiers": "primary and secondary"},
+    {"system": "Britannica Digital Learning", "country_label": "Britannica Digital Learning", "class": "learning", "platform": "Britannica", "owner": "Ministry of Education and Human Resource Development", "tiers": "primary and secondary"},
+    {"system": "Teacher Coach", "country_label": "Teacher Coach", "class": "learning", "platform": "", "owner": "Ministry of Education and Human Resource Development", "tiers": "primary and secondary"},
+    {"system": "Student Tutor", "country_label": "Student Tutor", "class": "learning", "platform": "", "owner": "Ministry of Education and Human Resource Development", "tiers": "primary and secondary"}
+  ],
+  "note": "The captured text, truncated in section 7, names digital learning initiatives only; the EMIS appears in the file's frontmatter note and nowhere in the captured body, so nothing is stated about school records."
+}

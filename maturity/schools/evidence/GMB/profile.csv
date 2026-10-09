@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-01-30,GMB-005;GMB-011;GMB-016,GMB-015=owner:ministry;GMB-006=owner:ministry;GMB-010=owner:ministry,
+GMB,emis,levels,coverage,P,2022-10-06,GMB-012,,nothing dated since 2023-10-09
+GMB,emis,kept,coverage,enrolment,2020,GMB-007,,nothing dated since 2023-10-09
+GMB,emis,last12,qualifier,,,,,nothing held
+GMB,emis,schools,coverage,pilot,2022-10-06,GMB-008;GMB-013,GMB-018=not-published;GMB-014=not-published;GMB-009=not-published;GMB-017=not-published,nothing dated since 2023-10-09

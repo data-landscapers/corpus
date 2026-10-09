@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-sudan-nationwide-school-data-survey",
+  "facts": [],
+  "systems": [
+    {"system": "Comprehensive educational statistical survey", "country_label": "comprehensive educational statistical survey; integrated national database", "class": "census", "platform": "", "owner": "Ministry of Education and National Pedagogy (General Directorate of Educational Planning), with state statistical offices; supported by UNICEF", "tiers": "Starting in Khartoum, Al-Gezira and Sennar states, expanding nationwide in phases to 7 May 2026; collects counts of schools, students and teachers, services and textbook availability"}
+  ],
+  "note": "A one-off survey of schools returning counts (schools, students, teachers, services): class census, so no fact. Announced 27 April 2026."
+}

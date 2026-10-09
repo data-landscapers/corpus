@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The essay's country table, an AI-assisted compilation by its author, states that rural primary schools in Ghana predominantly record attendance and learning outcomes on paper in manual registers, that daily attendance remains paper-based, and that there is no routine digital entry at the school in most rural schools; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "manual registers (paper)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "national EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "annual census questionnaires completed on paper by head teachers, forwarded to district and regional offices for data entry and aggregation"},
+    {"system": "GES EMIS mobile app", "country_label": "GES EMIS mobile app", "class": "census", "platform": "mobile app", "owner": "Ghana Education Service", "tiers": "annual census data entry, promoted for teachers"},
+    {"system": "mSRC app", "country_label": "mSRC", "class": "", "platform": "mobile app", "owner": "", "tiers": "pilot, 2014, 20 districts; the document does not say what it records"},
+    {"system": "GALOP project laptops", "country_label": "GALOP", "class": "", "platform": "laptops", "owner": "", "tiers": "weekly attendance uploads, described as an isolated donor and government initiative; the document does not say whether the upload is per learner or a total"}
+  ],
+  "note": ""
+}

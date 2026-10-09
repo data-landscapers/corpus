@@ -1,0 +1,8 @@
+{
+  "slug": "2020-06-16-wb-dji-005-djibouti-expanding-opportunities-learning",
+  "facts": [],
+  "systems": [
+    {"system": "GOSE", "country_label": "système de Gestion, d'Orientation et de Suivi des Elèves (GOSE); national EMIS", "class": "emis", "platform": "", "owner": "MENFOP", "tiers": "as this deal record's history entry reports the April 2025 project paper: all public primary schools, with a unique student identifier for enrolment, attendance and dropout-risk tracking"}
+  ],
+  "note": "A compiled deal record, not a primary document: its GOSE statement is a second-hand summary of the 2025-04-28 project paper (document 8, whose captured text does not carry it), so no fact is taken. What it states directly is Component 4, MENFOP's management capacity and data systems, at US$4.71m within a cumulative US$41.7m."
+}

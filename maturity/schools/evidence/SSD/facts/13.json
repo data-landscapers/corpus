@@ -1,0 +1,78 @@
+{
+  "slug": "2025-09-23-ericc-south-sudan-education-data-systems",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "enrolment",
+      "fact": "The ERICC working paper states that the Refugee EMIS collects biometric enrolment data at the point of registration and termly updates on education data, enrolment and attendance among them, for all refugee learners in UNHCR-supported schools, which lets it track individual children; the data is collected by the staff of UNHCR's implementing partners, not stated to be the schools, and the paper gives no date for this, so its published date is used.",
+      "as_of": "2025-09-23",
+      "date_precision": "day",
+      "system": "Refugee Education Management Information System (REMIS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The ERICC working paper's table of levels covered shows the Refugee EMIS reporting on early childhood, primary and secondary education, in refugee-hosting schools and camps only; the paper gives no date for this, so its published date is used.",
+      "as_of": "2025-09-23",
+      "date_precision": "day",
+      "system": "Refugee Education Management Information System (REMIS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The ERICC working paper states that the Refugee EMIS is managed by UNHCR in South Sudan, with access strictly controlled and only the education ministry receiving its enrolment and attendance data; the paper gives no date for this, so its published date is used.",
+      "as_of": "2025-09-23",
+      "date_precision": "day",
+      "system": "Refugee Education Management Information System (REMIS)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "Kobo Toolbox on tablets, and a paper questionnaire",
+      "owner": "Ministry of General Education and Instruction (MOGEI), EMIS unit",
+      "tiers": "fed once a year by the Annual Education Census: a paper questionnaire completed by headteachers, or enumerators with tablets, at all operational schools, forwarded to the national EMIS office and stored in a database; early childhood, primary, secondary and alternative education; some years skipped, 2023 the last report published"
+    },
+    {
+      "system": "Annual Education Census (AEC)",
+      "country_label": "Annual Education Census; National Education Census",
+      "class": "census",
+      "platform": "Kobo Toolbox on tablets, and a paper questionnaire",
+      "owner": "Ministry of General Education and Instruction (MOGEI)",
+      "tiers": "all registered schools, yearly; 7,737 schools captured in 2023"
+    },
+    {
+      "system": "South Sudan School Attendance Monitoring System (SAMS)",
+      "country_label": "SAMS; SSSAMS",
+      "class": "single-function",
+      "platform": "SMS, with paper enrolment surveys and an online dashboard",
+      "owner": "MOGEI, monitored by its Girls' Education South Sudan (GESS) unit and supported by GESS",
+      "tiers": "schools registered in SAMS, at early childhood, primary, secondary and alternative education; teachers send daily attendance by SMS; holds data for 2024 and 2025 but reporting is irregular and incomplete"
+    },
+    {
+      "system": "Refugee Education Management Information System (REMIS)",
+      "country_label": "REMIS",
+      "class": "emis",
+      "platform": "",
+      "owner": "UNHCR",
+      "tiers": "UNHCR-supported refugee-hosting schools and camps; data collected by implementing partners' staff"
+    },
+    {
+      "system": "South Sudan Education Cluster Functionality (SSEC Functionality)",
+      "country_label": "SSEC Functionality",
+      "class": "",
+      "platform": "",
+      "owner": "South Sudan Education Cluster (MOGEI, NGOs, UN)",
+      "tiers": "field teams assess a sample of under 10% of schools on paper, digitised afterwards, with monthly 5W partner reports; no full report published since 2018"
+    }
+  ],
+  "note": "Passages file, read to its end. Two classifications the parent should check. REMIS is classed emis because the paper describes a record per learner updated each term whose enrolment and attendance data go to the ministry; but it says the data is collected by implementing partners' staff and does not say the school enters it, it covers refugee schools only, and no count of schools on it is given. SAMS is classed single-function as daily attendance sent by SMS with paper enrolment surveys; the paper does not say whether the SMS carries totals or a record per learner, and gives no count of schools using it. The ministry's EMIS is the yearly census under the EMIS name and gives no fact. SSEC Functionality fits no class as described. For dpi.exchange: REMIS relies on EMIS data, SAMS draws on EMIS to register schools, and the paper finds the systems uncoordinated, with a gap of about 10% between EMIS and REMIS refugee enrolment."
+}

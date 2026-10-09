@@ -1,0 +1,66 @@
+{
+  "slug": "2025-11-25-alwatwan-e-msomo-bulletin-unique-strategie-modernisation",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "Ministry officials told Al-Watwan that on e-Msomo school heads enrol pupils and generate report cards, teachers log in to enter marks that cannot be changed afterwards, and each pupil gets a school identification number with their school career tracked; stated on 25 November 2025.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Education supervises e-Msomo, validates the data and authorises the official printing of report cards, which must carry its seal, according to its deputy secretary general on 25 November 2025.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "A ministry director said on 25 November 2025 that the single report card belongs to a wider modernisation of the education system inspired by the Assises nationales and integrated into the Plan Comores Émergent; the article does not say the plan names e-Msomo.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "At 25 November 2025 the ministry gave e-Msomo registration as 100% in Ngazidja, 100% in Mwali, 65% in Ndzuwani and only 35% of private schools nationally; these are schools registered, not split by level, and no figure for primary schools or for schools entering data is given.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "By 25 November 2025 schools were being registered on e-Msomo island by island (100% Ngazidja and Mwali, 65% Ndzuwani) and the ministry called on late schools to finish, expecting the process to be completed shortly.",
+      "as_of": "2025-11-25",
+      "date_precision": "day",
+      "system": "e-Msomo",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Msomo",
+      "country_label": "e-Msomo (outil de gestion scolaire; bulletin unique numérique)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministère de l'Éducation",
+      "tiers": "school heads and teachers in public and private schools; ministry supervises and validates"
+    }
+  ],
+  "note": ""
+}

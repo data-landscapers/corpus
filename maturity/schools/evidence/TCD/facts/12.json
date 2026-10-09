@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-07-ndjamenaactu-annuaire-statistique-scolaire-2024-2025-validation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "annuaire statistique scolaire",
+      "country_label": "annuaire statistique scolaire 2024-2025",
+      "class": "census",
+      "platform": "",
+      "owner": "Direction de la planification, de l'analyse et de la carte scolaire, ministère de l'Éducation nationale",
+      "tiers": "Validated at a national workshop in N'Djamena on 7 October 2025 with provincial planners and delegates; how the data are collected is not stated"
+    }
+  ],
+  "note": "Validation workshop for the 2024-2025 school statistical yearbook; a yearbook is a census product, and no per-learner system or school-level entry is described."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2020-01-01-sierra-leone-dsti-education-data-hub",
+  "facts": [],
+  "systems": [
+    {"system": "Education Data Hub", "country_label": "Government of Sierra Leone Education Data Hub (DSTI Education Data Explorer)", "class": "census",
+     "platform": "public website", "owner": "Directorate of Science, Technology and Innovation",
+     "tiers": "joins the 2019 Annual School Census with West African Examinations Council national examination results for 2016-2019; a schools directory, examination and indicator explorers and a map, for public and policy use; schools enter nothing in it"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census",
+     "platform": "", "owner": "MBSSE", "tiers": "the 2019 census is one of the hub's two sources"},
+    {"system": "National Examination Results", "country_label": "", "class": "single-function",
+     "platform": "", "owner": "West African Examinations Council", "tiers": "school-level examination results for 2016-2019, the hub's other source"}
+  ],
+  "note": "A public display of census and examination data; no learner record kept by schools is described. The page is undated (year inferred)."
+}

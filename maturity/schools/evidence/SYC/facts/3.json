@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education, EMIS section", "tiers": "all institutions, including primary schools on the outer islands"},
+    {"system": "DataPlat", "country_label": "DataPlat", "class": "census", "platform": "DataPlat (African Union IPED)", "owner": "African Union IPED, with the Ministry of Education", "tiers": "pilot schools in 2019, Anse Royale secondary named"},
+    {"system": "OpenEMIS", "country_label": "EMIS", "class": "", "platform": "OpenEMIS", "owner": "Ministry of Education, advised by Community Systems Foundation", "tiers": ""}
+  ],
+  "note": "The Seychelles school row describes the national EMIS as collecting school data on students, staff and infrastructure and publishing annual statistics booklets, and DataPlat as a 2019 pilot of digital entry replacing paper collection: neither is described as holding per-learner records that schools add to during the year. OpenEMIS is named for 2025 advisory visits with no description of what it does. The row's claim of digital recording of attendance and grades is its own inference ('suggests'), not a stated fact, so no fact is taken."
+}

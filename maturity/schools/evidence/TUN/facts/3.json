@@ -1,0 +1,19 @@
+{
+  "slug": "2024-01-08 Tunisia Unveils Digital Platform to Boost Education Transparency, Equity",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine",
+     "fact": "The platform launched by the Ministry of Education on 3 January 2024 at tarbia.tn offers real-time monitoring of each student, with parents able to track attendance, assignments and progress reports and teachers able to manage classes; the article describes what the platform offers at launch and does not say that schools had begun entering these records.",
+     "as_of": "2024-01-03", "date_precision": "day", "system": "L'école de la Tunisie du futur (tarbia.tn)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published",
+     "fact": "The article on the 3 January 2024 launch of tarbia.tn gives no number or share of schools using the platform and names no school level.",
+     "as_of": "2024-01-03", "date_precision": "day", "system": "L'école de la Tunisie du futur (tarbia.tn)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry",
+     "fact": "The Ministry of Education launched the platform L'école de la Tunisie du futur at tarbia.tn on 3 January 2024, with portals for students, parents and teachers, as stated by We Are Tech Africa citing Minister Mohamed Ali Boughdiri.",
+     "as_of": "2024-01-03", "date_precision": "day", "system": "L'école de la Tunisie du futur (tarbia.tn)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "L'école de la Tunisie du futur (tarbia.tn)", "country_label": "L'école de la Tunisie du futur", "class": "emis", "platform": "web platform at tarbia.tn; software not stated", "owner": "Ministry of Education", "tiers": "portals for students, parents and teachers; also distance learning and services such as school meals, scholarships and guidance; levels not stated"},
+    {"system": "Modern School on Every Hill", "country_label": "Modern School on Every Hill", "class": "enabling", "platform": "broadband connection", "owner": "Ministry of Education", "tiers": "target of 3,300 schools connected by the end of 2024; outcome not stated"}
+  ],
+  "note": "Classed emis on per-student attendance and progress tracked in real time; the article describes a launch and never says schools enter the records, and names no level, so no levels fact. The launch is outside the twelve-month window, so no last12 fact."
+}

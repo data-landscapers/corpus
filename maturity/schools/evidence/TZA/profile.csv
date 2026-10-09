@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TZA,emis,governance,qualifier,owner:ministry,2026-01-13,TZA-004,TZA-009=owner:ministry,"not stated: plan, finance"
+TZA,emis,levels,coverage,P;S,2026-01-09,TZA-003;TZA-013,TZA-010=none,
+TZA,emis,kept,coverage,routine,2026-01-09,TZA-002;TZA-014,TZA-007=paper,
+TZA,emis,last12,qualifier,advancing,2026-01-09,TZA-005;TZA-008,,
+TZA,emis,schools,coverage,none,2025-11-18,TZA-011,TZA-006=not-published;TZA-012=not-published,

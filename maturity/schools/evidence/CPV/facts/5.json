@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "The Data Landscapers review states that rural primary schools use SIGE, rolled out nationally by 2019 to all 395 basic education schools, rural ones included.", "as_of": "2019", "date_precision": "year", "system": "SIGE (Sistema Integrado de Gestão Escolar)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The Data Landscapers review states that SIGE is used in basic education schools to record attendance, grades and administrative data, with online access for parents, and calls digital systems standard at the point of service for administration and attendance.", "as_of": "2019", "date_precision": "year", "system": "SIGE (Sistema Integrado de Gestão Escolar)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "share:100%", "fact": "The Data Landscapers review states that SIGE was rolled out by 2019 to all 395 basic education schools (395 of 395), a figure for schools given the system and not for schools entering data; it adds that some paper processes remain.", "as_of": "2019", "date_precision": "year", "system": "SIGE (Sistema Integrado de Gestão Escolar)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIGE (Sistema Integrado de Gestão Escolar)", "country_label": "SIGE; also called the national EMIS/SIGE", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": "all 395 basic education schools, rural included; parents online"}
+  ],
+  "note": "Passages only. The review is an AI-assisted compilation by its own account and cites the ministry's SIGE page for the figures. It also mentions computers distributed to all basic schools in 2021 and WebLabs, and rural gaps in internet access and devices, without tying them to SIGE use."
+}

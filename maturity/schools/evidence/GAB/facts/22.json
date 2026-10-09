@@ -1,0 +1,10 @@
+{
+  "slug": "2012-03-24-gabon-loi-21-2011-orientation-generale-education-formation-recherche",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "Article 90 of Law 21/2011, signed 14 February 2012, provides that every learner receives from entry to the first pre-primary section a unique coded identification number assigned by the central file of the ministry in charge of National Education, kept until entry into working life; article 94 has the orientation secretariat draw up its list of new baccalaureate holders from that central identification file.", "as_of": "2012-02-14", "date_precision": "day", "system": "Fichier central d'identification", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Fichier central d'identification", "country_label": "fichier central du Ministère en charge de l'Education Nationale; fichier central d'identification", "class": "emis", "platform": "", "owner": "Ministry in charge of National Education", "tiers": "provided for in law for every learner from pre-primary to entry into working life; the law does not say whether it operates or who fills it"}
+  ],
+  "note": "Classed emis as a learner register (one number per learner). The law creates the identifier and names the ministry's central file; it states nothing on whether the file exists in use, how records are kept, or which schools take part, so only ownership is recorded."
+}

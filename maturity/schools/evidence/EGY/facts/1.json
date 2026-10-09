@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's own analysis) states that it found no evidence of direct digital recording of attendance, enrolment or grades at rural primary schools in Egypt, calls recording 'likely paper-based' with later aggregation, and scores schools 2 (predominantly paper with some digital or pilots); it gives no date, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; described as integrated with national dashboards for decision-making and linked to daily attendance monitoring (2025), with no school-level collection details given"
+    },
+    {
+      "system": "Smart schools",
+      "country_label": "smart school criteria",
+      "class": "enabling",
+      "platform": "",
+      "owner": "",
+      "tiers": "36,878 of 42,931 schools meet the criteria; primary schools average 95 students per device"
+    }
+  ],
+  "note": "The paper statement is hedged in the document ('likely', 'no evidence'). The EMIS is left unclassified: the document names EMIS-linked daily attendance monitoring but says nothing of what schools enter, and reports an attendance rate above 80%, not a share of schools."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-24-au-iped-emis-reform-costed-action-plan",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "AU IPED, after a three-day workshop with the education ministry and field visits to public schools in Juba, states that school-level data collection relies heavily on manual, paper-based tools, with data moving from handwritten classroom registers and school record books to state-level aggregation and national reporting platforms; the workshop is not dated, so the document's published date is used.",
+      "as_of": "2026-03-24",
+      "date_precision": "day",
+      "system": "handwritten classroom registers and school-level record books (no learner-record system at the school)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI), EMIS department",
+      "tiers": "state-level aggregation and national reporting platforms, fed from paper registers at the school; described as largely manual, fragmented across multiple systems and heavily dependent on partner-supported tools"
+    },
+    {
+      "system": "statistical systems and partner-supported tools (unnamed)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "development partners",
+      "tiers": "parallel to the EMIS, not interoperable with it"
+    }
+  ],
+  "note": "The one fact is a statement of absence (paper at the school), recorded under the sub-indicator's class with no digital system behind it. The EMIS as described receives aggregated data above the school and no entry by schools is described, so it is class census and gives no fact. Stated of that EMIS and so not recorded as facts: a costed national EMIS action plan led by the ministry was produced at the workshop (March 2026), in five investment areas including ICT infrastructure and system integration; domestic financing for education data systems is low and dependence on external funding high; computers, internet and power are inadequate, especially in rural and hard-to-reach areas. The document does not say the plan introduces learner records entered by schools."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-04-eswatini-disability-indicators-emis",
+  "facts": [],
+  "systems": [
+    {"system": "national Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "DHIS2", "owner": "Ministry of Education and Training, with UNICEF and HISP Uganda support under GPE KIX", "tiers": "schools report through its data collection tools; more than 900 school administrators and focal teachers trained on the updated tools"}
+  ],
+  "note": "The document describes the DHIS2-based EMIS only as data collection instruments through which schools report learners by stream, grade, age and sex and functional difficulties; it states no per-learner record that schools add to during the year, so the system as described here is class census and gives no fact."
+}

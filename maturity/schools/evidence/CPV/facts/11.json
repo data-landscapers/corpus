@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-nosi-egov-solutions",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated School Management System (SIGE)", "country_label": "SIGE", "class": "", "platform": "developed by NOSi", "owner": "", "tiers": "secondary schools and integrated basic education schools, with students and parents/guardians"},
+    {"system": "Integrated School Management System for Basic Education (SIGEB)", "country_label": "SIGEB", "class": "", "platform": "developed by NOSi", "owner": "", "tiers": "integrated basic education schools"},
+    {"system": "Business Intelligence for Education", "country_label": "", "class": "", "platform": "developed by NOSi", "owner": "", "tiers": "end users analysing the databases of the education system"},
+    {"system": "WebLab", "country_label": "WebLab", "class": "learning", "platform": "developed by NOSi; includes a Learning Management System", "owner": "", "tiers": ""},
+    {"system": "Student Integrated Management and Monitoring System (SIGAE)", "country_label": "SIGAE", "class": "single-function", "platform": "developed by NOSi", "owner": "", "tiers": "scholarship recipients in Cabo Verde and the diaspora"}
+  ],
+  "note": "NOSi's catalogue describes SIGE and SIGEB only as a common system linking schools for communication and management, with students and parents; it does not say schools record anything per learner, gives no dates and no counts, so neither is classified and no fact is taken. WebLab is described as access to equipment and connectivity plus a learning management system; SIGAE as scholarship management."
+}

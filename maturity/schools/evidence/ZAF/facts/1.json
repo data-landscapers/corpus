@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-sajim-online-admission-systems-scoping-review",
+  "facts": [],
+  "systems": [
+    {"system": "Online Admission System (OAS)", "country_label": "Online Admission System; Gauteng Province's online admission system", "class": "single-function", "platform": "", "owner": "", "tiers": "public basic education, school admissions (Gauteng named in a cited study)"}
+  ],
+  "note": "A scoping review of the literature on online admission systems, which do one function (admission) and hold no in-year learner record; it states nothing about an EMIS in South African primary schools."
+}

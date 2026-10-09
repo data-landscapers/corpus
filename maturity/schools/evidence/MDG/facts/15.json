@@ -1,0 +1,11 @@
+{
+  "slug": "2025-04-01-worldbank-transforming-access-learning-madagascar-p506569-pid",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS) / annual Statistical Yearbooks", "country_label": "EMIS; Statistical Yearbooks (two national censuses a year)", "class": "census", "platform": "paper forms completed by hand, some schools reporting to the school district office (CISCO) by phone; digital tools for collection at school level deployed repeatedly since 2016 without lasting", "owner": "Ministry of National Education (MEN)", "tiers": "schools return to CISCO; yearbook takes about six months to produce; the project proposes to digitise it and give principals tablets or smartphones for real-time reporting"},
+    {"system": "teacher attendance tracking system", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of National Education (MEN)", "tiers": "to be scaled up under subcomponent 3.1"},
+    {"system": "TMIS (teacher management information system)", "country_label": "TMIS", "class": "single-function", "platform": "", "owner": "Ministry of National Education (MEN)", "tiers": "to be used for a teacher redeployment and compensation strategy"},
+    {"system": "school devices and connectivity", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "2.8 per cent of public schools have a laptop or tablet, 2.0 per cent an internet connection and 0.4 per cent of schools grid electricity"}
+  ],
+  "note": "The EMIS described is the twice-yearly school census, filled in by hand; the document describes no per-learner record entered by schools, and the proposed tablets are for reporting by principals, so every system named is of a noted class."
+}

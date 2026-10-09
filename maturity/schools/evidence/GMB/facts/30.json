@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01-mobse-moherst-education-sector-policy-2016-2030",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (Education Management and Information System)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Basic and Secondary Education (MoBSE)", "tiers": "not stated; the policy says infrastructure at all levels including schools will be consolidated"},
+    {"system": "HEMIS (higher education management information system)", "country_label": "HEMIS", "class": "", "platform": "", "owner": "Ministry of Higher Education, Research, Science and Technology (MoHERST)", "tiers": "higher education, outside the study's levels; planned in 2016, to be harmonised with EMIS"}
+  ],
+  "note": "The passages of the 2016-2030 sector policy say the EMIS will be strengthened for monitoring, evaluation and planning and that computerised record keeping at all levels will be established; they do not say what schools enter or when, so the system is unclassified and gives no fact."
+}

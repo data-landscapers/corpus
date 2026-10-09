@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-14-rwanda-governance-decentralisation-sector-strategic-plan-2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "school data management system (SDMS)", "country_label": "school data management system (SDMS)", "class": "single-function", "platform": "", "owner": "", "tiers": "secondary and primary schools, which use it to plan, budget and spend; the plan says such schools use no system for expenditure and reporting and are outside IFMIS"}
+  ],
+  "note": "No fact: the plan describes SDMS only as the system primary and secondary schools use to plan, budget and spend, with nothing on learner records; classed single-function on that description alone, which other documents may widen."
+}

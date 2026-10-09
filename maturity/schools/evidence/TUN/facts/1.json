@@ -1,0 +1,24 @@
+{
+  "slug": "2026-08-29-lapresse-inscription-scolaire-vie-scolaire-53pct",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment",
+     "fact": "Ministry of Education figures reported by La Presse give about 1,115,000 pupils, 53 per cent of all pupils, as enrolled for the 2026/2027 school year on the web platform Vie scolaire at 20 August 2026, with enrolment fees paid for about 1,020,000 (49 per cent); the article does not say whether the school or the parent makes the entry.",
+     "as_of": "2026-08-20", "date_precision": "day", "system": "Vie scolaire", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published",
+     "fact": "The ministry's figures for Vie scolaire at 20 August 2026 are shares of pupils (53 per cent enrolled, 49 per cent with fees paid); the article gives no number or share of schools using the platform and does not separate primary from secondary.",
+     "as_of": "2026-08-20", "date_precision": "day", "system": "Vie scolaire", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing",
+     "fact": "The Vie scolaire portal was launched at the end of July 2026 as a single electronic space for school services, in which a parent links a citizen account to the pupil's file and follows the pupil's school data in real time.",
+     "as_of": "2026-07", "date_precision": "month", "system": "Vie scolaire", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry",
+     "fact": "The Ministry of Education runs the Vie scolaire portal at viescolaire.education.tn and publishes the enrolment figures from it as part of its follow-up of the 2026/2027 enrolment operation.",
+     "as_of": "2026-08-20", "date_precision": "day", "system": "Vie scolaire", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current",
+     "fact": "La Presse states that the Vie scolaire portal, launched at the end of July 2026, forms part of the education sector's digital transition strategy; the strategy is not named or dated.",
+     "as_of": "2026-07", "date_precision": "month", "system": "Vie scolaire", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Vie scolaire", "country_label": "plateforme « Vie scolaire » (viescolaire.education.tn)", "class": "emis", "platform": "web portal; software not stated", "owner": "Ministry of Education", "tiers": "all pupils nationally for annual enrolment and fee payment; parents' space linked to the pupil's file; levels not stated"}
+  ],
+  "note": "Classed emis on a per-pupil file and per-pupil annual enrolment held by the ministry; the article never says the school itself enters anything, and names no level, so no levels fact."
+}

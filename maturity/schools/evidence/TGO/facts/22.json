@@ -1,0 +1,9 @@
+{
+  "slug": "2022-12-01-hisp-wca-dhis2-emis-togo",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "census", "platform": "StatEduc", "owner": "MEPSTA", "tiers": "Data from all 16,000 pre-primary, primary and secondary schools is collected on paper forms and entered into StatEduc at the education inspectorates, then passed up through the regional level to the centre"},
+    {"system": "DHIS2 EMIS", "country_label": "EMIS", "class": "census", "platform": "DHIS2", "owner": "MEPSTA; developed by HISP West and Central Africa with GPE KIX and Norad support", "tiers": "Implemented in 2021 in interoperability with StatEduc, processing its data into dashboards and School Report Cards for schools and sub-national actors; under review by the ministry as of December 2022"}
+  ],
+  "note": "No fact: StatEduc is the paper-collected statistical return keyed at the inspectorates and DHIS2 processes it. The article says the system supports individual-level data to monitor learners but does not say schools enter any."
+}

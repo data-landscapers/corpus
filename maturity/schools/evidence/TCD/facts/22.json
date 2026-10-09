@@ -1,0 +1,23 @@
+{
+  "slug": "2024-09-04 PAD - Chad Digital Transformation Project (PAD00070)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Listed among existing digital public platforms whose uptake by public agents the project's training would improve"
+    },
+    {
+      "system": "distance learning platform",
+      "country_label": "distance learning platform",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "Listed among existing digital public platforms, with no further description"
+    }
+  ],
+  "note": "The one passage names the EMIS in a list of existing platforms (with IFMIS, HMIS and SYDONIA World) and does not say what it does, so it is unclassified and gives no fact."
+}

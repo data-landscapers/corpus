@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review states that rural primary schools in Guinea use paper registers for administrative data, attendance and learning outcomes, with collection at rural schools entirely manual and transcribed at higher levels, and that it found no functioning digital recording system at rural school level; the review gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper school registers (no learner-record system at the school)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "Data Landscapers' review states that the World Bank basic education project closed in 2024 piloted tablets for about 25,000 primary teachers and mobile data entry but missed its targets, with 0% of schools achieving digital data integration or dashboard use; the year is the project's closing year as the review gives it.", "as_of": "2024", "date_precision": "year", "system": "mobile school data entry under the World Bank basic education project", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "National EMIS", "country_label": "", "class": "census", "platform": "", "owner": "", "tiers": "national; data aggregated by the National Institute of Statistics into yearbooks, from manual collection at schools transcribed at higher levels"},
+    {"system": "Tablets for primary teachers and mobile data entry (World Bank project, closed 2024)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "pilot; about 25,000 primary teachers given tablets; 0% of schools reached digital data integration"},
+    {"system": "GIGA/UNICEF school connectivity project (2025-2026)", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "prospective; aims to connect 2,200 schools"}
+  ],
+  "note": "Passages file. Both facts are statements of absence recorded under the sub-indicator's class with no working system behind them. The review does not say whether the project's mobile data entry was per learner or school-level returns, so that system's class is left empty and the second fact's class is the drafter's reading, to be checked against document 8. The source's own header marks its country rows as an AI-assisted compilation, not sourced fact, and study.json excludes it from profiles. It also states only 35% of primary schools have electricity."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-mobse-health-ministry-data-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Basic and Secondary Education (MoBSE)", "tiers": "national; not stated further"},
+    {"system": "EMIS-HMIS data link (memorandum of understanding, MoBSE and Ministry of Health)", "country_label": "EMIS-HMIS integration", "class": "exchange", "platform": "", "owner": "MoBSE and Ministry of Health, through a joint technical working group", "tiers": "national; agreed July 2026, not stated as operating"}
+  ],
+  "note": "Names the EMIS and says enrolment, attendance levels and learning outcomes will be linked to health data under an MoU signed in July 2026 (article dated 3 July 2026), but does not say what schools enter into the EMIS or when, so the EMIS is unclassified and gives no fact."
+}

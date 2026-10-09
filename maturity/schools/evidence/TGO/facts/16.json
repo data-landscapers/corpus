@@ -1,0 +1,12 @@
+{
+  "slug": "2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "census", "platform": "StatEduc", "owner": "Ministry of Primary, Secondary, Technical Education", "tiers": "Data collected on paper forms and entered into StatEduc at the inspectorates; continues as the data-collection tool"},
+    {"system": "DHIS2 alongside StatEduc", "country_label": "", "class": "census", "platform": "DHIS2 (aggregate integration with StatEduc)", "owner": "Ministry of Education, with Norad, GPE KIX and HISP West and Central Africa", "tiers": "Described as a pilot; since 2019, national scale; dashboards for schools and sub-national actors"},
+    {"system": "School report card", "country_label": "", "class": "census", "platform": "DHIS2", "owner": "", "tiers": "Listed as a local innovation"},
+    {"system": "School observation tool", "country_label": "", "class": "single-function", "platform": "DHIS2", "owner": "", "tiers": "Listed as a local innovation"},
+    {"system": "WhatsApp bot for exam results", "country_label": "", "class": "single-function", "platform": "WhatsApp", "owner": "", "tiers": "Listed as a local innovation"}
+  ],
+  "note": "No fact: the profile gives the DHIS2 product in use as aggregate integration with StatEduc, whose returns are filled on paper and keyed at the inspectorates; no per-learner record."
+}

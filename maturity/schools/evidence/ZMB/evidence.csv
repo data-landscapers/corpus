@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZMB-001,ZMB,emis,kept,paper,"The essay's country table states that rural primary schools in Zambia predominantly keep attendance and learning outcomes in paper registers, with digital use limited to pilots and periodic census reporting; it gives no count of schools and no date, so the document's published date is used.",2026-03-31,day,paper registers (no learner-record system),emis,2026-03-31 Africa we have a data problem,https://data-landscapers.com/2026/03/31/africa-data-problem/

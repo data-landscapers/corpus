@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Outil de gestion digitalisée (présence et mobilité des enseignants, fréquentation des élèves)", "country_label": "outil de gestion digitalisée", "class": "single-function", "platform": "", "owner": "CPS-SE (Cellule de Planification et de la Statistique du Secteur Education), supported by PADEM (Projet d'Appui à la Décentralisation de l'Éducation au Mali)", "tiers": "moved to operational scale 8-12 December 2025; training campaign to follow in the académies d'enseignement for the Conseillers à l'Orientation of the Centres d'Animation Pédagogique (CAP), IT staff and heads of planning divisions; aimed at the whole territory; no school-level user named"},
+    {"system": "Collecte rapide 2024-2025 (education data collection)", "country_label": "collecte rapide", "class": "census", "platform": "", "owner": "CPS-SE, with focal points of the education and territorial administration ministries; PADEM support", "tiers": "data reported up from the collectivités territoriales; consistency checks and keying of missing information at a workshop in Ségou, 13-20 November 2025; trainers trained on the collection tools in Bamako, 27-28 November 2025"}
+  ],
+  "note": "No fact: the digitalised management tool is described as following teachers' presence and postings and pupils' attendance, with users named at CAP and académie level only; the bulletin does not say schools enter a record per learner, so it is not classed emis. Parent to weigh: the pupil-attendance function could make it emis if another document says schools enter it per learner. The rapid collection is a yearly statistical return, class census."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "MoES (Ministry of Education and Sports); MoICT&NG gave technical support", "tiers": "not stated"},
+    {"system": "TELA", "country_label": "TELA", "class": "", "platform": "", "owner": "MoES; MoICT&NG gave technical support", "tiers": "not stated"},
+    {"system": "SkoolDesk", "country_label": "SkoolDesk", "class": "", "platform": "", "owner": "an innovator awardee of the National ICT Initiatives Support Programme, phase three", "tiers": "not stated"}
+  ],
+  "note": "EMIS is named three times and never described: MoICT&NG technical support to MoES for 'EMIS, TELA', and a government communications item 'Piloting of EMIS by MoES' in the quarter April to June 2022. With no statement of what the system does or who enters data it is unclassified, so the pilot gives no fact. The capture is an excerpt, truncated at about page 36 of 91."
+}

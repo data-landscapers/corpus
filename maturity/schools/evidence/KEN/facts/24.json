@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-27-harmonize-education-data-maisha-namba-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS", "country_label": "Kenya Education Management Information System (KEMIS)", "class": "", "platform": "", "owner": "Ministry of Education (Principal Secretary for Basic Education)", "tiers": "to consolidate all learner data from ECDE to higher education on one platform; pilot to begin July 2025 and full go-live set for September 2025, as reported 27 May 2025"},
+    {"system": "NEMIS", "country_label": "National Education Management Information System (NEMIS)", "class": "", "platform": "", "owner": "", "tiers": "in place for many years; to be substituted by KEMIS"},
+    {"system": "KEMIS link to Maisha Namba and civil registration", "country_label": "integration with the Maisha Namba digital ID (Unique Personal Identifier) and the birth and death registration system", "class": "exchange", "platform": "", "owner": "Ministry of Education with Immigration and Citizen Services", "tiers": "planned: a UPI issued to every child and used by KEMIS"}
+  ],
+  "note": "Biometric Update, citing The Kenya Times, describes KEMIS as consolidating learner data under a per-child identifier, with a pilot from July 2025, but does not say that schools enter anything in it, so it is left unclassified and no fact is taken."
+}

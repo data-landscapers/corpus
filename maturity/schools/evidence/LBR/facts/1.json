@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-02-lbr-liberia-advances-development-of-national-education-management-informat",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Statutory School Record-Keeping Booklets", "country_label": "Statutory School Record-Keeping Booklets", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "schools"}
+  ],
+  "note": "Ministry release on the 28-29 September 2026 consultation on a draft EMIS policy: it names the EMIS without saying what it does or that schools enter learner records, reports the Annual School Census resumed and record-keeping booklets introduced; no fact for class emis."
+}

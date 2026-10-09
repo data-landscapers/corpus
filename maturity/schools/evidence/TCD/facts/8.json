@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-23-unicef-innocenti-supporting-middle-tier-actors-chad-data",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EMIS (SIGE)",
+      "country_label": "Education Management Information System (EMIS); school census data (SIGE)",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of National Education and Civic Promotion (DPACS); extension financed under the PRET",
+      "tiers": "Collects data from schools since 2009, analysed centrally into an annual statistical yearbook; decentralised to 16 provinces with seven more to follow under the PRET; feedback to principals and local inspectors does not always arrive; 12,863 primary schools as of 2025"
+    }
+  ],
+  "note": "The EMIS is described only as collecting data from schools for a centrally analysed annual yearbook, and the figure calls it school census data; no per-learner record and no entry by schools during the year is stated, so it is a census and gives no fact."
+}

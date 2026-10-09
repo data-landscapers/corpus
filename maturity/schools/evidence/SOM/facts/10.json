@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-01-somalia-worldbank-emis-tmis-financing-amendment",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "the Recipient (Federal Republic of Somalia); MoECHE", "tiers": "defined as covering all levels of the education system; the amended project supports its operationalisation and expansion, with data collection at school level"},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS", "class": "single-function", "platform": "", "owner": "the Recipient (Federal Republic of Somalia)", "tiers": "manages and monitors teacher data across the education system; to be expanded and integrated with the EMIS"},
+    {"system": "Fogaan-Dersi Platform", "country_label": "Fogaan-Dersi", "class": "learning", "platform": "", "owner": "MoECHE", "tiers": "online distance learning platform; phased enhancement financed"},
+    {"system": "TMIS integration with EMIS", "country_label": "", "class": "exchange", "platform": "", "owner": "MoECHE", "tiers": "planned under Part 1.3 of the amended project description, 1 October 2025"}
+  ],
+  "note": "Legal amendment to a World Bank grant (IDA, countersigned 2 October 2025). It defines the EMIS only in general terms, as a system to collect, process, maintain and disseminate data for decision-making, and says nothing of what schools enter or how often, so the EMIS is unclassified and gives no fact."
+}

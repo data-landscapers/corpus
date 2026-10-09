@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-02-liberia-orange-digital-center-2025-report",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Schools", "country_label": "Digital Schools (Orange)", "class": "learning", "platform": "", "owner": "Orange Liberia / Orange Digital Center", "tiers": "26 Digital Schools in 7 counties received 5,000 school kits in 2025"},
+    {"system": "Wologizi Computer Lab", "country_label": "Wologizi Computer Lab", "class": "enabling", "platform": "13 desktop stations", "owner": "Orange Digital Center with the Clar Weah Hope Foundation", "tiers": "one lab in Marshall, Margibi County, serving 200 girls"}
+  ],
+  "note": "A corporate digital-skills report: student attendance appears only as a hoped-for effect of school kits; no system holding learner records is named."
+}

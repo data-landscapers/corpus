@@ -1,0 +1,17 @@
+{
+  "slug": "2025-06-01-togo-aide-memoire-dixieme-revue-sectorielle-conjointe-education",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The joint sector review's aide-mémoire reports that in 2023 the primary and secondary education ministry (MEPS) launched the process of registering pupils with a number (immatriculation des élèves), including the design of the enrolment platform that generates the numbers.", "as_of": "2023", "date_precision": "year", "system": "plateforme d'enrôlement et de génération des matricules (immatriculation des élèves)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The aide-mémoire reports for 2023 only the launch of the pupil-numbering process and the design of its enrolment platform under MEPS; it names no school using the platform and gives no count of pupils or schools registered.", "as_of": "2023", "date_precision": "year", "system": "plateforme d'enrôlement et de génération des matricules (immatriculation des élèves)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "plateforme d'enrôlement et de génération des matricules (immatriculation des élèves)", "country_label": "immatriculation des élèves", "class": "emis", "platform": "", "owner": "MEPS", "tiers": "Not stated; process launched and platform designed in 2023"},
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "", "platform": "MS Access, being migrated to PostgreSQL with a move to online data entry (consultant recruited by MEPS in 2023; METFPA made the same migration in 2023-2024 to digitise data collection)", "owner": "MEPS; METFPA for its own database", "tiers": "Not stated"},
+    {"system": "SIGE", "country_label": "SIGE", "class": "", "platform": "", "owner": "MEPS; its development to be supported from GPE system capacity grant funds, as announced by the PSE permanent technical secretary in June 2025", "tiers": "Not stated"},
+    {"system": "projet DHIS2", "country_label": "projet DHIS2", "class": "", "platform": "DHIS2", "owner": "Phase 2 financed by HISP WCA at 71,305,244 FCFA", "tiers": "Not stated"},
+    {"system": "carte unique de compétences (CUC)", "country_label": "CUC", "class": "single-function", "platform": "", "owner": "MEPS (human resources directorate)", "tiers": "Records each teacher's training in the personnel file, for redeployment and postings"},
+    {"system": "plateforme de formation continue des enseignants", "country_label": "plateforme dédiée à la formation continue", "class": "learning", "platform": "", "owner": "MEPS", "tiers": "Teaching resources for pre-primary and primary teachers"},
+    {"system": "carte scolaire prospective numérique", "country_label": "carte scolaire", "class": "single-function", "platform": "", "owner": "MEPS (DPSSE)", "tiers": "Pilot phase completed in seven prefectures; generalisation under way"}
+  ],
+  "note": "StatEduc, SIGE and the DHIS2 project are named without a description of what they record, so they are left unclassified."
+}

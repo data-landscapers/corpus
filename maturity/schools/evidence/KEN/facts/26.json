@@ -1,0 +1,9 @@
+{
+  "slug": "2024-10-01-ken-financial-and-non-financial-information-flows-in-the-kenya-health-sect",
+  "facts": [],
+  "systems": [
+    {"system": "NEMIS", "country_label": "National Education Management Information System (NEMIS)", "class": "emis", "platform": "closed and siloed architecture, the document says", "owner": "education sector; access mainly limited to education-sector stakeholders", "tiers": "collects student-level information (enrolment details, contact information, academic performance), school infrastructure, learning materials and teacher data by school, cost parameters and school locations"},
+    {"system": "NEMIS and IFMIS (no link)", "country_label": "NEMIS not linked to IFMIS", "class": "exchange", "platform": "", "owner": "", "tiers": "stated absent as of October 2024: NEMIS cannot readily exchange data with the Treasury's IFMIS"}
+  ],
+  "note": "Passages of a health-sector study (IDinsight, October 2024) that describe NEMIS as holding student-level records including academic performance; they do not say who enters the records, when, at which levels or in how many schools, so no aspect takes a value. Class emis rests on the per-learner description alone."
+}

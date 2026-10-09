@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-sao-tome-and-principe-id4d-diagnostic-of-id-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated System of School Management (SIGE)", "country_label": "SIGE", "class": "", "platform": "", "owner": "Ministry of Education and Tertiary Education (implied; not stated outright)", "tiers": ""}
+  ],
+  "note": "The ID4D diagnostic (2023) says only that the SIGE 'serves as a platform to assist in school management and the examination of educational data', under Law 4/2018. It does not say who enters what or when, so the description does not settle emis against census: class left empty, no fact. A higher-education student and graduate database is also mentioned and is out of the study's levels."
+}

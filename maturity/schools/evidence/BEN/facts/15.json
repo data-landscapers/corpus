@@ -1,0 +1,10 @@
+{
+  "slug": "2023-02-16-innovation-gouv-bj-sniam-strategie-nationale-ia",
+  "facts": [],
+  "systems": [
+    {"system": "EDUCMASTER", "country_label": "EDUCMASTER", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-resultats", "country_label": "e-resultats", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plateforme des bacheliers", "country_label": "Plateforme des bacheliers", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The strategy (adopted 18 January 2023) lists the three only by name, as education data sources for a national data-collection chain; it does not say what any of them does, so no class and no fact."
+}

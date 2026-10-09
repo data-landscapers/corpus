@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation",
+  "facts": [],
+  "systems": [
+    {"system": "School Report Card (SRC) on DHIS2 for Education", "country_label": "School Report Card (SRC)", "class": "census", "platform": "DHIS2 for Education, with offline Android data capture", "owner": "HISP Uganda under the GPE KIX-funded KIX-SEEDS project led by APHRC", "tiers": "schools, with data focal persons appointed in schools, and districts; subnational project sites"},
+    {"system": "DHIS2-DEMIS", "country_label": "DHIS2-DEMIS", "class": "", "platform": "DHIS2", "owner": "", "tiers": "district pilot"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "national"}
+  ],
+  "note": "No fact: the brief describes school report cards and school-level reporting of indicators on DHIS2 for Education, with no record per learner, and names the national EMIS without saying what schools enter. It states that Uganda had no formal EMIS policy (citing The Observer, March 2025) and that unstable internet hinders the School Report Card dashboards."
+}

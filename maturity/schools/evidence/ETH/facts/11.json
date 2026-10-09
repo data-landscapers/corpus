@@ -1,0 +1,44 @@
+{
+  "slug": "2025-01-01-ethiopia-dhis2-implementation",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The DHIS2 education implementation page states that the Government of Norway and UNICEF provide the financial backing for the Ethiopia DHIS2 education work begun in November 2025; it names no domestic funding.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2 for Education",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The DHIS2 page states that a partnership between UNICEF and the HISP Centre at the University of Oslo was initiated in November 2025, working with schools, woreda education offices and zonal education departments in four regions (SER, SWEPR, Oromia, Benishangul Gumuz).",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "DHIS2 for Education",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2 for Education",
+      "country_label": "DHIS2",
+      "class": "emis",
+      "platform": "DHIS2",
+      "owner": "UNICEF and the HISP Centre (University of Oslo), with HISP Ethiopia as contact; financed by the Government of Norway and UNICEF",
+      "tiers": "schools, woreda education offices and zonal education departments in SER, SWEPR, Oromia and Benishangul Gumuz"
+    },
+    {
+      "system": "national education management information system",
+      "country_label": "national education management information system",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; the project aims to operationalise it at local levels"
+    }
+  ],
+  "note": "Parent to check the class: taken as emis on the page's statement that the system uses both aggregate and individual data and works with schools; the page does not say what schools enter or how often, and gives no count of schools, so there is no fact on how the record is kept, levels or schools. The page is undated; the November 2025 start it states is used."
+}

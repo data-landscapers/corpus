@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-02-lanation-rentree-scolaire-gose-smis",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current", "fact": "The education minister's start-of-year circular of 1 September 2025 makes consolidating the SIGE, through the GOSE and SMIS platforms, a priority strategic axis for 2025-2026, so as to produce regularly updated data, identify pupils at risk and make individual pupil follow-up a key instrument; it is a ministerial circular, not a costed plan.", "as_of": "2025-09-01", "date_precision": "day", "system": "SIGE (GOSE and SMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "La Nation reports that the Ministry of National Education and Vocational Training itself directs the SIGE and its GOSE and SMIS platforms, through the minister's circular of 1 September 2025 to all staff of the sector.", "as_of": "2025-09-01", "date_precision": "day", "system": "SIGE (GOSE and SMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SIGE (GOSE and SMIS)", "country_label": "Système d'Information pour la Gestion de l'Éducation (SIGE); plateformes GOSE et SMIS", "class": "emis", "platform": "", "owner": "Ministère de l'Éducation Nationale et de la Formation Professionnelle", "tiers": "not stated"},
+    {"system": "plateforme nationale des ressources humaines", "country_label": "plateforme nationale des ressources humaines", "class": "single-function", "platform": "", "owner": "Ministère de l'Éducation Nationale et de la Formation Professionnelle", "tiers": "teaching and administrative staff are to enter personnel data fully and regularly"},
+    {"system": "système d'assurance qualité", "country_label": "système d'assurance qualité (SAQ)", "class": "single-function", "platform": "", "owner": "Ministère de l'Éducation Nationale et de la Formation Professionnelle", "tiers": "not stated"}
+  ],
+  "note": "Individual pupil follow-up is stated as an intention (future tense); the document does not say schools already enter per-learner records, at what levels or in how many schools."
+}

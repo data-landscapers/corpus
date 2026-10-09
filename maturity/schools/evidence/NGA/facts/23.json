@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-04-vanguard-lagos-lasrra-number-compulsory-school-admission",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "Lagos State's Office of Education Quality Assurance said on 4 September 2026 that from 14 September 2026 every public and private school must obtain each learner's residents' registration (LASRRA) number at admission and enter it in its admission and school records, as part of establishing a verifiable database of learners across the state; unique learner PINs are still to be devised.", "as_of": "2026-09-14", "date_precision": "day", "system": "Lagos State database of learners", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Lagos State database of learners", "country_label": "comprehensive and verifiable database of learners", "class": "emis", "platform": "", "owner": "Lagos State Ministry of Basic and Secondary Education, through the Office of Education Quality Assurance", "tiers": "all public and private schools in Lagos State, from the 2026/2027 session; being established"},
+    {"system": "LASRRA registration number in school records", "country_label": "LASRRA registration number", "class": "exchange", "platform": "Lagos State Residents Registration Agency database", "owner": "Lagos State Residents Registration Agency", "tiers": "mandatory for admission and enrolment in Lagos schools from 14 September 2026"}
+  ],
+  "note": "The statement does not say the school records are digital or how many schools comply; the learner database is described as being established, so only the dated directive is taken."
+}

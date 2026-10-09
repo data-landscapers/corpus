@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-09-newvision-emis-rules-mandatory-compliance",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "New Vision reports that under EMIS every learner is assigned a unique Learner Identification Number and that school heads register learners on it, with guidelines of 8 June 2026 setting the papers needed to register refugees, cross-border learners and children without known guardians; it describes no entry of attendance or results.", "as_of": "2026-06-08", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "New Vision reports that the EMIS platform was redeveloped and rolled out in July 2022 to replace the Annual School Census, tracking learners and teachers online and verifying students across all levels of education, with registration mandatory for all schools.", "as_of": "2022-07", "date_precision": "month", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "New Vision reports that EMIS is a centralised platform developed by government and that under the June 2026 guidelines the Ministry of Education and Sports is primary custodian of all information entered into it.", "as_of": "2026-06-08", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Education and Sports launched new EMIS guidelines on 8 June 2026 at the National ICT Innovation Hub in Nakawa, with stricter compliance requirements and sanctions for officials and institutions that fail their data obligations, New Vision reports.", "as_of": "2026-06-08", "date_precision": "day", "system": "Education Management Information System (EMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "all schools nationwide, public and private, all levels of education"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "replaced by the redeveloped EMIS in July 2022"}
+  ],
+  "note": "No share or count of schools registered or entering data is given; the source also records stakeholder mistrust and misdeclaration of information on the system."
+}

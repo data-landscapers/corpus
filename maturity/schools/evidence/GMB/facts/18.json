@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-gambia-essr-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Education Statistics Summary Report 2025 and the 2025 statistical yearbook it summarises", "country_label": "ESSR; yearbook; MoBSE-Planning-EMIS", "class": "census", "platform": "", "owner": "MoBSE Directorate of Planning, Policy Analysis, Research & Budgeting (EMIS unit); produced with World Bank RISE project financing", "tiers": "national, by region, level and management type; data supplied by school heads"}
+  ],
+  "note": "A yearly statistical summary of counts per school level (4,039 institutions, 1,444 lower basic schools, 830,895 learners in 2025); it describes no entry by schools during the year and no per-learner record, so it is census and gives no fact. It reports enabling conditions only: 10.5% of lower basic schools with internet for teaching and 57.1% with electricity in 2025."
+}

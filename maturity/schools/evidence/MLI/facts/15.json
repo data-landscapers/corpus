@@ -1,0 +1,10 @@
+{
+  "slug": "2017-01-01-mali-adea-revue-par-les-pairs-sige",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information pour la Gestion de l'Éducation (SIGE)", "country_label": "SIGE", "class": "census", "platform": "StatEduc-2 (database moved from Access to SQL Server), reached over a Virtual Private Network", "owner": "Ministère de l'Éducation Nationale, Cellule de Planification et de Statistique du Secteur de l'Éducation (CPS-SE: statistics unit, IT unit, documentation centre); statistics budget financed mostly by the State", "tiers": "annual school census: a questionnaire per sub-sector filled at the school from its standardised school registers, checked at the CAP and the Académie d'Enseignement, keyed into StatEduc-2 and checked again at the CPS-SE; online entry from the deconcentrated levels not achieved in 2016 for want of connection and skills; response rate about 80% at fondamental level; whole zones uncovered since 2012"},
+    {"system": "Annuaires statistiques de l'éducation", "country_label": "annuaire statistique", "class": "census", "platform": "", "owner": "CPS-SE", "tiers": "national; electronic since 2008, published more than 12 months after collection"},
+    {"system": "Registres scolaires standardisés", "country_label": "registres scolaires", "class": "", "platform": "", "owner": "schools", "tiers": "kept at the school in fondamental education, recording learners' dates of birth; the source for the census questionnaire; the medium is not stated"}
+  ],
+  "note": "No fact: the peer review (mission 31 October to 5 November 2016) describes the SIGE end to end as an annual census, a yearly questionnaire per school keyed above the school into StatEduc-2, with no entry by schools during the year and no learner identifier, so it is class census. Parent to weigh: schools are said to keep standardised school registers per learner, but the review does not say they are paper only, so no paper fact is recorded."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-18-tanzania-student-dropout-digital-tracker",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The Citizen reports on 18 November 2025 that the government is preparing to introduce a student-tracking system following each learner from early childhood to higher education, to verify numbers and identify pupils who repeat, drop out or transfer, according to the education ministry's Permanent Secretary, Prof Carolyne Nombo; no start date is given.", "as_of": "2025-11-18", "date_precision": "day", "system": "student-tracking system (planned)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The planned student-tracking system is announced by the Permanent Secretary of the Ministry of Education, Science and Technology as the ministry's own, with the government exploring registration of children at birth to feed it; the article gives no date beyond its own, 18 November 2025.", "as_of": "2025-11-18", "date_precision": "day", "system": "student-tracking system (planned)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "none", "fact": "As of the article's date, 18 November 2025, the student-tracking system is described as being prepared and not yet introduced at any level; a researcher quoted says Tanzania lacks real-time tracking of learners.", "as_of": "2025-11-18", "date_precision": "day", "system": "student-tracking system (planned)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The article of 18 November 2025 names no school using the planned student-tracking system, which the government is still preparing to introduce.", "as_of": "2025-11-18", "date_precision": "day", "system": "student-tracking system (planned)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "student-tracking system (planned)", "country_label": "comprehensive student-tracking system (unnamed)", "class": "emis", "platform": "", "owner": "Ministry of Education, Science and Technology", "tiers": "planned: early childhood through higher education; not yet in use"}
+  ],
+  "note": "NEMIS, UDISE+ and Rwanda's EMIS are named as Kenya's, India's and Rwanda's, not Tanzania's. The portal on which schools update attendance and results in real time is what experts recommend, not what the ministry describes."
+}

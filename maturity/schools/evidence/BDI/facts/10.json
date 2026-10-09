@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-pafen-onatel-couverture-reseau-connectivite-milieu-rural",
+  "facts": [],
+  "systems": [
+    {"system": "PAFEN-ONATEL rural network coverage contract", "country_label": "couverture réseau et connectivité en milieu rural", "class": "enabling", "platform": "mobile network coverage", "owner": "SETIC / PAFEN, with ONATEL as operator", "tiers": "92 collines with neither 2G nor 3G, 372,035 rural people, schools and health facilities included"}
+  ],
+  "note": "A US$5,907,000 connectivity contract signed 29 April 2026 that names schools among the beneficiaries: connectivity only (class enabling), no school record system."
+}

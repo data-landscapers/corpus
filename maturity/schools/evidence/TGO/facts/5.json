@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (Système d'Information pour la Gestion de l'Éducation)", "country_label": "SIGE", "class": "census", "platform": "DHIS2", "owner": "Ministry of education, implemented with HISP West and Central Africa under the GPE KIX project", "tiers": "National, regional and inspection levels; validated data reaches it weeks after collection, too late for in-year decisions at district or school level"},
+    {"system": "StatEduc", "country_label": "StatEduc", "class": "census", "platform": "StatEduc, within a statistical infrastructure based on CSPro", "owner": "Ministry of education (statistics division)", "tiers": "Not stated; used for the annual school census"}
+  ],
+  "note": "No fact: the document describes DHIS2 (SIGE) as an analytical layer added on top of the StatEduc annual school census, with no per-learner record entered by schools during the year."
+}

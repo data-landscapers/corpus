@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SYC,EMIS,EMIS,,,Ministry of Education,,2026-09-17-syc-worldbank-country-growth-jobs-report-2026-full-report
+SYC,EMIS,EMIS,census,,"Ministry of Education, EMIS section","all institutions, including primary schools on the outer islands",2026-03-31 Africa we have a data problem
+SYC,DataPlat,DataPlat,census,DataPlat (African Union IPED),"African Union IPED, with the Ministry of Education","pilot schools in 2019, Anse Royale secondary named",2026-03-31 Africa we have a data problem
+SYC,OpenEMIS,EMIS,,OpenEMIS,"Ministry of Education, advised by Community Systems Foundation",,2026-03-31 Africa we have a data problem
+SYC,Education Management Information System (EMIS),EMIS,,OpenEMIS,"Ministry of Education, supported by Community Systems Foundation",,2026-03-18-openemis-seychelles-golive
+SYC,Smart Classroom initiative,Smart Classroom,learning,,Ministry of Education and Human Resource Development,primary and secondary,2026-03-01-statehouse-national-ai-education-framework
+SYC,Britannica Digital Learning,Britannica Digital Learning,learning,Britannica,Ministry of Education and Human Resource Development,primary and secondary,2026-03-01-statehouse-national-ai-education-framework
+SYC,Teacher Coach,Teacher Coach,learning,,Ministry of Education and Human Resource Development,primary and secondary,2026-03-01-statehouse-national-ai-education-framework
+SYC,Student Tutor,Student Tutor,learning,,Ministry of Education and Human Resource Development,primary and secondary,2026-03-01-statehouse-national-ai-education-framework
+SYC,OpenEMIS,OpenEMIS,,OpenEMIS,Community Systems Foundation as implementer; the national owner is not named,,2025-01-01-namibia-openemis-country-highlights-2025

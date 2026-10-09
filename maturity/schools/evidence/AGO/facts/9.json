@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-19-adea-angola-education-skills-data-challenge",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Education Statistical Yearbook", "country_label": "Education Statistical Yearbook", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "EMIS", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "National Education Management Information System", "country_label": "National Education Management Information System", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""}
+  ],
+  "note": "No fact: the document names an existing EMIS and a modernised national EMIS under discussion (with an EMIS legal framework, August 2026) but describes what neither does, so both are unclassified; the census and yearbook are class census. The ADEA data initiative launched 5-7 August 2026 under a signed implementation agreement."
+}

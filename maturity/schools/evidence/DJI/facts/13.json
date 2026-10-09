@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-30-gpe-djibouti-transforming-education",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "GPE reports in January 2024 that, under the PRODA project (US$30.35 million from the World Bank, GPE and Education Above All, of which US$11.55 million GPE), a new digital education management platform is gradually being developed, introducing a unique identification number for each student so that progress can be tracked through the school career; no date is given, so the publication date is used, and no schools using it are stated.", "as_of": "2024-01-30", "date_precision": "day", "system": "new digital education management platform", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "GPE states in January 2024 that PRODA, under which the new digital education management platform is being developed, is managed by the education ministry (MENFOP) and is the largest programme it has managed; the publication date is used as no other is given.", "as_of": "2024-01-30", "date_precision": "day", "system": "new digital education management platform", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "new digital education management platform", "country_label": "digital education management platform", "class": "emis", "platform": "", "owner": "MENFOP, under PRODA", "tiers": "being developed; none stated in use"},
+    {"system": "classroom observation tools", "country_label": "classroom observation tools adapted from TEACH/COACH", "class": "single-function", "platform": "World Bank TEACH/COACH (adapted)", "owner": "MENFOP inspectors and pedagogical advisors", "tiers": "used by the national preschool inspector and pedagogical advisors observing teachers"}
+  ],
+  "note": "The platform is unnamed and described as under development; classed emis on the per-student identifier and progress tracking, with no statement that schools enter data."
+}

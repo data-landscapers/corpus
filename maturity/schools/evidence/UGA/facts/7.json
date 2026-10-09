@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-28-ubos-baseline-education-census-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Baseline Education Census 2025", "country_label": "Baseline Education Census", "class": "census", "platform": "UBOS web portal with dashboards, maps and a table builder", "owner": "Uganda Bureau of Statistics with the Ministry of Education and Sports", "tiers": "every school from pre-primary to non-tertiary, in 146 districts, published down to parish"}
+  ],
+  "note": "A one-off count of schools, learners, teachers and infrastructure (88,242 schools, of which 43,567 primary; 13,575,145 learners): class census, so no fact. It gives the primary school total a share would need."
+}

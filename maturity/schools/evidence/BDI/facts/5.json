@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-09-au-iped-supports-burundi-strengthening-education-data",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "presented in a technical session as a possible digital solution; not stated as in use for education in Burundi"}
+  ],
+  "note": "The EMIS is named and self-assessed against AU norms at a workshop of 9 to 11 June 2026, with an EMIS strategy under validation, but the document does not say what the system does or who enters what, so it is unclassified and gives no fact."
+}

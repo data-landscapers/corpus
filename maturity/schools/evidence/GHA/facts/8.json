@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-22-ghana-sei-dashboard-secondary-education-reform",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "S", "fact": "T-TEL states that senior high schools upload student records to the WAEC Student Transcript Portal, linked to the Ministry of Education's Secondary Education Institutions dashboard, which covers over 720 secondary schools and almost 1.5 million learners; the system went live in 2024 and the document describes no such system in basic schools beyond naming the mSRC.", "as_of": "2026-02-22", "date_precision": "day", "system": "WAEC Student Transcript Portal (linked to the SEI Dashboard)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "T-TEL states that secondary schools upload learners' academic records to the Student Transcript Portal, over 60 million records since it went live in 2024 at a 97.2% national average completion rate, with completion reviewed monthly by regional and national oversight committees; the document does not state how often a school uploads.", "as_of": "2026-02-22", "date_precision": "day", "system": "WAEC Student Transcript Portal (linked to the SEI Dashboard)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "WAEC Student Transcript Portal", "country_label": "Student Transcript Portal", "class": "emis", "platform": "", "owner": "West African Examinations Council, monitored through the Ministry of Education's SEI Dashboard", "tiers": "senior high and senior high technical schools upload student records; live since 2024; over 60 million records, 97.2% completion"},
+    {"system": "Secondary Education Institutions (SEI) Dashboard", "country_label": "SEI dashboard", "class": "emis", "platform": "open-source tool hosted on shinyapps.io", "owner": "Ministry of Education and Ghana Education Service, designed in 2023 with support from T-TEL and the Mastercard Foundation; operating cost $500 a month", "tiers": "over 720 secondary schools, 68,000 teachers, almost 1.5 million learners; schools upload data; reviewed monthly by regional and national oversight committees; about 1,200 GES staff use it daily; also tracks teachers' PLC attendance, lesson observation, School Improvement Plans and tablet use"},
+    {"system": "Mobile School Report Card (mSRC)", "country_label": "mSRC", "class": "", "platform": "", "owner": "", "tiers": "basic schools, 'to track progress'; the document does not say what it records"},
+    {"system": "Free SHS portal", "country_label": "Free SHS portal", "class": "", "platform": "", "owner": "", "tiers": "senior high schools; tracks enrolment; the document does not say whether per learner or who enters it"},
+    {"system": "annual EMIS data collection", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "annual data collection from senior high schools"}
+  ],
+  "note": "Capture is an excerpt, truncated mid-sentence in its last section. The Student Transcript Portal is classed emis because the document says schools upload learners' academic records to it; the parent may prefer single-function."
+}

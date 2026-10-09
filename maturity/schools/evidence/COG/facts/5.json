@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "integrated EMIS (under development, GPE-funded TRESOR project)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "", "tiers": "described as a national strategy, legal framework, platform, yearbooks and dashboards; nothing at school level"}
+  ],
+  "note": "The Congo school row says an integrated EMIS is being developed under TRESOR (2024) to produce yearbooks and dashboards, and that the author found no evidence of digital recording of attendance, enrolment or grades at rural primary schools, collection being 'likely' on paper; that is a hedged absence of evidence in an AI-assisted compilation, not a dated statement that records are on paper, so no fact is taken."
+}

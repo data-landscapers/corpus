@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers essay's 54-country table scores Algeria's rural primary schools 1 and says the evidence points to attendance, enrolment and grades being recorded entirely on paper at rural schools and digitised later if at all; it adds that it found no direct evidence, so this is the author's AI-assisted inference, not a sourced count, and it gives no date, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Ministry of Education national statistics published by ONS",
+      "country_label": "ONS Education Stats",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education; ONS",
+      "tiers": "national aggregates; no method showing entry at school level"
+    },
+    {
+      "system": "digital platforms for enrolment and results access",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "pilot digital schools and ICT initiatives",
+      "country_label": "",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "pilot schools; said to serve access and teaching, not administrative records"
+    }
+  ],
+  "note": "The fact names no system: the essay states an absence. Its Algeria rows for clinics, police and the civil registry are outside the study's field."
+}

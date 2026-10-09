@@ -1,0 +1,12 @@
+{
+  "slug": "2018-12-28-id4d-country-diagnostic-uganda-world-bank",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank's ID4D diagnostic states that the Ministry of Education and Sports plans to use national identification numbers as the primary identifiers of pupils and students and so establish a functional register of learners, linked to EMIS, to track transfers, drop-out and fresh enrolment and to weed out ghost learners; the plan is undated, so the publication date is used.", "as_of": "2018-12-28", "date_precision": "day", "system": "functional register for learners", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "functional register for learners", "country_label": "functional register for learners", "class": "emis", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "planned in 2018; pupils and students in schools, identified by NIN"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "12.5 million identities (learners and teaching staff); used for educational planning and capitation grants"},
+    {"system": "learner register link to the National Identification Register", "country_label": "NIN / NIR linkage", "class": "exchange", "platform": "", "owner": "Ministry of Education and Sports with NIRA", "tiers": "planned in 2018"}
+  ],
+  "note": "Passages only. The learner register is a stated plan of 2018, not a system in use; the diagnostic does not say what schools enter in EMIS itself."
+}

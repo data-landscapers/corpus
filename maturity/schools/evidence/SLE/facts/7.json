@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-01-sierra-leone-mbsse-sqao-ai-support-tool-user-feedback-report",
+  "facts": [],
+  "systems": [
+    {"system": "SQAO AI support tool", "country_label": "SQAO AI Support Tool", "class": "single-function",
+     "platform": "WhatsApp chatbot with a Retrieval-Augmented Generation engine", "owner": "Fab Inc for SSEIP II (Leh Wi Lan), UK-funded, with MBSSE",
+     "tiers": "inspection support: five School Quality Assurance Officers in Western Area Rural tested it for four weeks (Phase 1); pilot rollout and national scale-up still ahead; reads census data and ministry documents, records nothing about learners"},
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census", "class": "census",
+     "platform": "", "owner": "MBSSE", "tiers": "source of the enrolment, facility and teacher figures the tool returns (2022 data in testing, 2024 since)"},
+    {"system": "SQAO Management System", "country_label": "SQAO management system", "class": "single-function",
+     "platform": "", "owner": "", "tiers": "roster of officers' school allocations; described as not yet in place"},
+    {"system": "School quality assurance tool (SQA Form)", "country_label": "SQA Form", "class": "single-function",
+     "platform": "", "owner": "MBSSE", "tiers": "inspection form used by officers on school visits, revised under SSEIP II"}
+  ],
+  "note": "An inspection-support chatbot over census data for secondary school supervision; no system holding learner records is described."
+}

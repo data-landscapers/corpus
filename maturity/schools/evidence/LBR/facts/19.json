@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Education's National Policy Dialogue of 1-5 September 2025 validated a costed three-year action plan for EMIS modernisation whose priorities include a national unique Learner and Teacher ID system, with a financing framework of 60% government and 40% development partners, according to the African Union Commission.", "as_of": "2025-09-05", "date_precision": "day", "system": "National unique Learner and Teacher ID system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Education led the engagement and signed the EMIS Validation Report with AU-IPED at its close; the Minister was nominated EMIS Data Champion.", "as_of": "2025-09-05", "date_precision": "day", "system": "National unique Learner and Teacher ID system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "A costed three-year EMIS action plan introducing national unique Learner and Teacher IDs was validated and the EMIS Validation Report signed at the close of the 1-5 September 2025 engagement; the Minister said a GPE-supported funding proposal for ICT and infrastructure upgrades had been initiated.", "as_of": "2025-09-05", "date_precision": "day", "system": "National unique Learner and Teacher ID system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "described through the school census, with a four-year data gap since the last one in 2021"},
+    {"system": "National unique Learner and Teacher ID system", "country_label": "unique Learner and Teacher ID system", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": "to be introduced under the three-year action plan"}
+  ],
+  "note": "This release dates the last school census to 2021, where the peer review report says 2022. The 60/40 financing is an endorsed framework, not a budget line, so no finance fact is recorded."
+}

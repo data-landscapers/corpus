@@ -1,0 +1,13 @@
+{
+  "slug": "2024-04-05-gpe-menrse-pacte-de-partenariat-mauritanie-sirage",
+  "facts": [],
+  "systems": [
+    {"system": "SIRAGE", "country_label": "Système d'Information pour la Réforme Administrative et la Gestion de l'Éducation (SIRAGE)", "class": "", "platform": "", "owner": "Ministère de l'Éducation Nationale et de la Réforme du Système éducatif (MENRSE)", "tiers": "described as recently stabilised and as linking several databases; use of data for steering at DREN, IDEN and school level still to be achieved (2024-04)"},
+    {"system": "SIGE", "country_label": "Système d'Information et de Gestion de l'Education (SIGE)", "class": "", "platform": "", "owner": "", "tiers": "its data said to be insufficiently available and used at territorial level and in steering the sector plan"},
+    {"system": "Annuaire statistique 2022-2023", "country_label": "Annuaire statistique", "class": "census", "platform": "", "owner": "", "tiers": "national; cited as the source of gross enrolment rates"},
+    {"system": "SIRAGE human resources module", "country_label": "module ressources humaines (RH)", "class": "single-function", "platform": "SIRAGE", "owner": "MENRSE", "tiers": "in preparation: the actual distribution of teachers by school"},
+    {"system": "Taalimi", "country_label": "plateforme « Taalimi »", "class": "learning", "platform": "", "owner": "MENRSE", "tiers": "ministry platform for teacher self-training modules and remediation training"},
+    {"system": "UNESCO communities-of-practice digital tools", "country_label": "", "class": "enabling", "platform": "", "owner": "UNESCO, EU-financed pilot", "tiers": "10 communities of practice in 5 regions since March 2023: computer, projector, telephone"}
+  ],
+  "note": "No fact: the text held is an excerpt cut off partway through section II, before the section on data and evidence. What is held says SIRAGE is recently stabilised and links several databases, and that data use at regional, departmental and school level is still weak; it does not say what schools enter, whether records are per learner, or how often, so SIRAGE and SIGE are unclassified here."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-28-educmaster-portail-sige",
+  "facts": [],
+  "systems": [
+    {"system": "EducMaster", "country_label": "SIGE (Système d'information et de gestion de l'éducation); sub-systems EducMaster-Primaire and EducMaster-Secondaire", "class": "", "platform": "EducMaster", "owner": "Ministères en charge de l'Éducation (two ministries)", "tiers": "pre-primary and primary (EducMaster-Primaire); secondary, technical and vocational (EducMaster-Secondaire); national, with indicators by department"}
+  ],
+  "note": "The portal says EducMaster manages and follows learners, teachers, schools and timetables 'in real time', organises examinations and produces statistics, and shows 1,804,826 learners, 63,305 teachers and 17,330 schools (portal undated; read 2026-08-28); it does not say who enters the records or that schools add per-learner records during the year, so no class and no fact."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that a DHIS2-based EMIS was piloted in 2021 in Manzini region in 100 schools, rural primaries among them, with schools entering aggregate and individual PIN-tracked data over web and Android.", "as_of": "2021", "date_precision": "year", "system": "DHIS2-based EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "The review states that the 2021 Manzini pilot of the DHIS2-based EMIS included rural primary schools (it names Ekuthuleni and Mhlabubovu), some of which entered data.", "as_of": "2021", "date_precision": "year", "system": "DHIS2-based EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The review states that rural primary schools record enrolment, attendance and learner profiles on paper forms and registers sent to regional or central level for manual entry, that it found no evidence of a majority of rural schools using digital entry routinely, and that digital use is limited to pilots and an early donor-supported rollout, scoring Eswatini schools 2 (mostly paper); the statement is undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper forms and registers", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "DHIS2-based EMIS", "country_label": "EMIS", "class": "emis", "platform": "DHIS2 (web and Android)", "owner": "Ministry of Education and Training", "tiers": "schools in the 2021 Manzini pilot (100 schools); the 2024 national report is said to draw on DHIS2 data collected from schools"},
+    {"system": "Annual Education Census (AEC)", "country_label": "Annual Education Census", "class": "census", "platform": "paper forms", "owner": "Ministry of Education and Training", "tiers": "filled at schools, sent to regional and central levels for manual entry into legacy systems"},
+    {"system": "16th School Day Survey", "country_label": "16th School Day Survey", "class": "census", "platform": "paper forms", "owner": "", "tiers": "schools, for enrolment and attendance"}
+  ],
+  "note": "Passages file. The source's own header marks its country rows as an AI-assisted compilation, the author's analysis and not sourced fact. The paper fact is a statement about the school's own record, recorded under the sub-indicator's class with no digital system behind it."
+}

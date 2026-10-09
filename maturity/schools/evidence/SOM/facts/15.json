@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-01-somalia-better-data-management-system-improving-education",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education, Culture and Higher Education (MoECHE), which started it in 2016; a GPE-funded programme run by CARE paid 14 EMIS staff at federal and state ministries and rehabilitated EMIS centres", "tiers": "collects data from schools once a year; all primary schools in the Federal Member States and Banaadir are said to be registered in it; covers formal primary and secondary, extended to Alternative Basic Education and early childhood education; headteachers and teachers in GPE-supported schools trained to capture and upload student data; ministries at all levels can view enrolment, attendance, completion and assessment figures"},
+    {"system": "EMIS national examination results function", "country_label": "", "class": "single-function", "platform": "", "owner": "MoECHE, developed under the GPE-funded programme", "tiers": "overview of national examination results for grades 8 and 12"}
+  ],
+  "note": "No fact: the article says the EMIS collects data from schools on an annual basis and names the lack of individual student-level data as a persistent problem, so by the typology it is a census whatever it is called. It also says a headteacher in a GPE-supported school sorts the school's files by hand, as one man's account and not a dated statement about primary schools generally, so no paper fact is drawn."
+}

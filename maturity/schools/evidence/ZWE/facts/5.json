@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-17-starlink-kits-gather-dust-rural-hospitals",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Universal Service Fund connectivity subscriptions for schools",
+      "country_label": "Universal Service Fund (USF)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of ICT, Postal and Courier Services",
+      "tiers": "digital centres and schools, subscription costs covered for one year (ICT minister, National Assembly, July 2026)"
+    }
+  ],
+  "note": "About unactivated Starlink kits at rural health facilities; schools appear only as recipients of one year of USF-paid connectivity subscriptions, which is enabling and gives no fact."
+}

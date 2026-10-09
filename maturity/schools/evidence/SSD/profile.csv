@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SSD,emis,governance,qualifier,owner:partner,2025-09-23,SSD-006,,"not stated: plan, finance"
+SSD,emis,levels,coverage,P;S,2025-09-23,SSD-005,,
+SSD,emis,kept,coverage,enrolment,2025-09-23,SSD-004,SSD-002=paper;SSD-003=paper,
+SSD,emis,last12,qualifier,,,,,nothing held
+SSD,emis,schools,coverage,,,,,nothing held

@@ -1,0 +1,64 @@
+{
+  "slug": "2025-06-20-comoros-eshiyo-emsomo-edtech-platforms-wearetech",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "We Are Tech Africa states that the Ministry of National Education leads the E-Msomo and E-Shiyo effort, with technical help from the digital agency ANADEN; the article dates the launch no more closely, so its publication date is used.",
+      "as_of": "2025-06-20",
+      "date_precision": "day",
+      "system": "E-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "We Are Tech Africa states that the two platforms are funded by UNICEF; no domestic funding is mentioned, and the date is the article's publication date.",
+      "as_of": "2025-06-20",
+      "date_precision": "day",
+      "system": "E-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "We Are Tech Africa states that the launch of E-Msomo and E-Shiyo is part of the Comoros Digital 2028 plan; it does not say the plan names E-Msomo, and the date is the article's publication date.",
+      "as_of": "2025-06-20",
+      "date_precision": "day",
+      "system": "E-Msomo",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Comoros launched E-Msomo, a central system for report cards that assigns each student a unique ID and tracks academic results, reported on 20 June 2025; equipping schools, training teachers and widening internet access (35.7% of Comorians online) are named as next steps.",
+      "as_of": "2025-06-20",
+      "date_precision": "day",
+      "system": "E-Msomo",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-Msomo",
+      "country_label": "E-Msomo",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of National Education, with ANADEN technical support",
+      "tiers": "schools and education officials; levels not stated"
+    },
+    {
+      "system": "E-Shiyo",
+      "country_label": "E-Shiyo",
+      "class": "learning",
+      "platform": "",
+      "owner": "Ministry of National Education, with ANADEN technical support",
+      "tiers": "online textbook library for pre-primary and primary students"
+    }
+  ],
+  "note": "The article does not say who enters results or at which levels, so no kept, levels or schools fact."
+}

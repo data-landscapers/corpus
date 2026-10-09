@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-tanzania-national-guidelines-artificial-intelligence-education",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Basic Education Statistics (BEST)", "country_label": "BEST", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Guidelines on artificial intelligence in education; EMIS and BEST appear only in the list of acronyms, with no description of what either does, and the body states nothing about how schools keep learner records."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "Data Landscapers' 54-country review (an AI-assisted compilation, the author's analysis) states that rural primary schools in Somalia predominantly record administrative data, attendance and learning outcomes on paper, with no federal digital tool at the school and no evidence that most rural schools routinely record digitally, scoring them 1; the statement is undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper school records (no learner-record system at the school)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS annual school census", "country_label": "EMIS", "class": "census", "platform": "PINEAPPLES", "owner": "federal education ministry (MoECHE)", "tiers": "enumerators visit about 1,300 schools (75 per cent coverage, citing a 2018 World Bank report) with a printed 13-page census questionnaire; forms aggregated by hand at regional and state level, then keyed centrally; the 2020 yearbook is cited as saying head teachers enter data through an online EMIS, and some rural head teachers in Galmudug as uploading online"},
+    {"system": "Digital Attendance App (DAA)", "country_label": "Digital Attendance App, DAA", "class": "", "platform": "", "owner": "UNICEF and World Vision", "tiers": "pilot in 3 schools in Puntland; said to need 100,000 dollars to scale"}
+  ],
+  "note": "The paper fact names no system of class emis: it is the statement of absence, recorded under the sub-indicator's class. The Digital Attendance App is named with its pilot size and no description of what it records or whether it feeds the ministry, so it is left unclassified and gives no fact. This document is on study.json's exclude_sources list."
+}

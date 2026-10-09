@@ -1,0 +1,15 @@
+{
+  "slug": "2017-07-01-guinebissau-plano-sectorial-da-educacao-2017-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE",
+      "country_label": "SIGE (Sistema de Informação e de Gestão da Educação; Sistema de Informação para a Gestão da Educação)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministério da Educação Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: SIGE appears only in the list of acronyms and in the contents line for section 3.2.2 on strengthening it. The held text is an excerpt that stops in section 1.2.4, so that section is not in it and nothing says what the system does."
+}

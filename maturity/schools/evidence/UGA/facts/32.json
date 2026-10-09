@@ -1,0 +1,9 @@
+{
+  "slug": "2019-08-14-moes-emis-overview",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education and Sports headquarters", "tiers": "ministry headquarters collects, captures and processes the data; conceived as decentralised to district level; all levels from pre-primary to tertiary"},
+    {"system": "Annual Schools Census (ASC)", "country_label": "Annual Schools Census (ASC)", "class": "census", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "all levels of the education system; the main source of data feeding EMIS"}
+  ],
+  "note": "The ministry's own page (2019) describes EMIS as fed chiefly by the Annual Schools Census and captured at headquarters, with modules for statistics, personnel, finance and inspection; it describes no entry by schools between censuses, so the system as this document describes it is a census and gives no fact."
+}

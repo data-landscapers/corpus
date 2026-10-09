@@ -1,0 +1,42 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers 54-country review (an AI-assisted compilation, the author's own analysis) states that rural primary schools in Chad record administrative data, annual attendance snapshots and repetition and pass rates on handwritten paper questionnaires and registers, with no digital tool at the school, and scores them 1; it gives no date for the statement, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper questionnaires and registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS",
+      "country_label": "EMIS forms; national EMIS database",
+      "class": "census",
+      "platform": "StatEduc2",
+      "owner": "DAPRO (national level)",
+      "tiers": "School directors and teachers fill 4-10 page paper forms by hand; the forms are carried up through zone inspectors, district and province to the national DAPRO, where they are keyed into StatEduc2; last full surveys given as 2016 and 2019"
+    },
+    {
+      "system": "EduTrac",
+      "country_label": "UNICEF EduTrac",
+      "class": "",
+      "platform": "SMS/mobile",
+      "owner": "UNICEF",
+      "tiers": "Pilot in 2 provinces, not scaled; what it collects is not stated"
+    },
+    {
+      "system": "ecole.cnc.td",
+      "country_label": "ecole.cnc.td platform",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "Described as focused on content, not on recording at the school"
+    }
+  ],
+  "note": "An excluded source under study.json; the one fact is recorded as the document states it and is labelled as an AI-assisted compilation."
+}

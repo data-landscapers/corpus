@@ -1,0 +1,15 @@
+{
+  "slug": "2023-11-16-tchadinfos-campagne-enregistrement-universel-etat-civil-tasdjil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "annuaire statistique scolaire",
+      "country_label": "annuaire statistique scolaire 2021/2022",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "Cited by UNICEF's deputy representative for a count of nearly 640,000 pupils from pre-school to cours moyen never registered at the civil registry, over 38,000 of them in N'Djamena; how it is collected is not stated"
+    }
+  ],
+  "note": "Birth-registration campaign (Tasdjil, a civil-status system outside the study's field); the school statistical yearbook is cited only as the source of a count, and no per-learner school system is described."
+}

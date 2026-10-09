@@ -1,0 +1,98 @@
+{
+  "slug": "2025-04-14-world-bank-gpe-restoring-education-system-burkina-faso",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "none",
+      "fact": "The World Bank appraisal document of 14 April 2025 states that the project will support the design and deployment of a centralised digital platform for student management and monitoring, with a smartphone application for data collection at school level and a web interface for the central administration; it is still to be designed and no school is said to use it.",
+      "as_of": "2025-04-14",
+      "date_precision": "day",
+      "system": "student management and monitoring module",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "none",
+      "fact": "The appraisal document describes the student management platform as a future deployment under a project for pre-primary and primary education, and reports it in use at no level at 14 April 2025.",
+      "as_of": "2025-04-14",
+      "date_precision": "day",
+      "system": "student management and monitoring module",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The appraisal document calls the planned platform a key step towards complete digitisation of student records, and states that key education data and information are currently stored mainly as hard copies; no date is given, so the document's date is used.",
+      "as_of": "2025-04-14",
+      "date_precision": "day",
+      "system": "paper records",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The appraisal document names the Ministry of Basic Education (MEBAPLN) as implementing agency of the project that will build the student management platform, which is to be the student management module of the Education Management Information System.",
+      "as_of": "2025-04-14",
+      "date_precision": "day",
+      "system": "student management and monitoring module",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The appraisal document places the student management platform under Component 3 of the project (US$42.7 million: US$17.7 million IDA and US$25.0 million GPE), within a US$203.1 million operation financed by IDA and the GPE fund; it names no domestic budget line for the platform.",
+      "as_of": "2025-04-14",
+      "date_precision": "day",
+      "system": "student management and monitoring module",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "student management and monitoring module",
+      "country_label": "student management module of the Education Management Information System",
+      "class": "emis",
+      "platform": "centralised digital platform; smartphone application at school level, web interface for central administration",
+      "owner": "MEBAPLN; financed by IDA and GPE under the REPAIR project (P502472)",
+      "tiers": "planned: schools (administrators, teachers, encadreurs, students, parents) and central administration"
+    },
+    {
+      "system": "Système d'Information et de Gestion de l'Education (SIGE)",
+      "country_label": "SIGE",
+      "class": "",
+      "platform": "",
+      "owner": "MEBAPLN",
+      "tiers": "cited only as a 2023 data source for regional school statistics"
+    },
+    {
+      "system": "Annuaire statistique primaire (Annual Primary Education Statistics Handbook) 2023-2024",
+      "country_label": "Annuaire statistique",
+      "class": "census",
+      "platform": "",
+      "owner": "MEBAPLN",
+      "tiers": "national yearbook of enrolment rates and school counts"
+    },
+    {
+      "system": "shared digital platform centralising educational data (subcomponent 4.1)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "planned; test item bank stored in the cloud",
+      "owner": "MEBAPLN; financed by IDA and GPE",
+      "tiers": "planned: central access to examination, learner-assessment and performance data"
+    },
+    {
+      "system": "digital platforms for in-service teacher training (subcomponent 3.2)",
+      "country_label": "",
+      "class": "learning",
+      "platform": "",
+      "owner": "MEBAPLN",
+      "tiers": "planned: teachers and encadreurs"
+    }
+  ],
+  "note": "The source file ends mid-sentence in section E (Role of Partners), at line 737; the results framework and annexes are not in it. The student platform is classed emis on its description as a digitisation of student records with data collection at the school; the document does not list what schools will enter. The hard-copies statement sits under emergency response (subcomponent 2.1)."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-17-kemis-learner-validation-guidance",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The Ministry's KEMIS circular tells schools to enter and correct each learner's record in KEMIS themselves: KNEC index or assessment number, names, demographic details and parent or guardian identification, then save and resubmit it for validation; it names no attendance or results entry, and gives no date, so the publication date is used.", "as_of": "2026-08-17", "date_precision": "day", "system": "KEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The circular is issued by the Ministry of Education, State Department for Basic Education, and signed by the Head of KEMIS, with the ministry's field officers told to support schools; no date is given, so the publication date is used.", "as_of": "2026-08-17", "date_precision": "day", "system": "KEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The Ministry's circular states that the KEMIS Learner Validation Engine is now operational, marking each learner Valid or Invalid against examination and assessment databases, with a Unique Learner Identifier generated once parent or guardian details are complete; the circular is undated in its body, so the publication date is used.", "as_of": "2026-08-17", "date_precision": "day", "system": "KEMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "KEMIS", "country_label": "Kenya Education Management Information System (KEMIS)", "class": "emis", "platform": "", "owner": "Ministry of Education, State Department for Basic Education (Head of KEMIS)", "tiers": "schools enter and correct learner records; field officers guide and escalate"},
+    {"system": "KEMIS Learner Validation Engine", "country_label": "Learner Validation Engine", "class": "exchange", "platform": "", "owner": "Ministry of Education (KEMIS)", "tiers": "automatic comparison of KEMIS learner records with official examination and assessment databases (KNEC index and assessment numbers)"},
+    {"system": "Unique Learner Identifier (ULI)", "country_label": "Unique Learner Identifier (ULI)", "class": "exchange", "platform": "generated in KEMIS", "owner": "Ministry of Education (KEMIS)", "tiers": "generated per learner from school-entered identity details; intended for integration with national identity and civil registration records"}
+  ],
+  "note": ""
+}

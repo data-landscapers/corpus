@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "paper",
+      "fact": "The Data Landscapers review (an AI-assisted compilation) states that rural primary schools in Ethiopia predominantly record administrative data, attendance and learning outcomes on paper, with attendance in registers that are not centrally digitised and no digital tools at the point of service; no date is given, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper registers",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "EMIS annual census",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "paper questionnaire (25 pages), keyed into Excel",
+      "owner": "",
+      "tiers": "schools fill the annual questionnaire by hand; it is carried to woreda and regional education bureau (REB) level and keyed into Excel there; the review says only 76-83% of schools use EMIS, and declining"
+    },
+    {
+      "system": "SMIS",
+      "country_label": "SMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named with tablets as digital pilots, isolated and not scaled to most rural schools"
+    }
+  ],
+  "note": "The EMIS the row describes is a yearly paper questionnaire, so it is a census and gives no fact. SMIS is named as a pilot with no description of what it does, so it is unclassified."
+}

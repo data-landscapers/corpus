@@ -1,0 +1,9 @@
+{
+  "slug": "2019-12-01-senegal-snds-iii-2019-2023-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "Recensement scolaire", "country_label": "Recensement scolaire (prenant en compte les écoles arabes)", "class": "census", "platform": "", "owner": "DPRE, Ministère de l'Education nationale", "tiers": "Listed as a priority-1 activity of the national statistics strategy 2019-2023; the budget table is garbled in the capture and no cost can be read against it"},
+    {"system": "Recensement des daaras", "country_label": "Recensement des daaras", "class": "census", "platform": "", "owner": "DPRE, Ministère de l'Education nationale", "tiers": "Listed as a priority-1 activity of the national statistics strategy 2019-2023"}
+  ],
+  "note": "Passages file; the December 2019 statistics strategy lists the school census among its planned activities and says nothing of how schools keep learner records. Its other yearbooks are for higher and vocational education, outside the study."
+}

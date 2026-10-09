@@ -1,0 +1,11 @@
+{
+  "slug": "2007-06-01-sudan-infodev-ict-education-survey",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS Project", "country_label": "EMIS Project; educational management information system", "class": "", "platform": "", "owner": "Education Planning Directorate, with UNICEF and the EU; a separate initiative lists the Ministry of Education, UNESCO and UNICEF Khartoum", "tiers": "Described only as connecting school localities and states nationally, starting in 2007 after an agreement is signed"},
+    {"system": "ICT system for examinations", "country_label": "", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "Connects schools, processes exam corrections and displays Sudanese Certificate grades online"},
+    {"system": "Education Statistic Yearbook", "country_label": "Education Statistic Yearbook", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "National; editions 2002-2003 and 2004-2005 cited as sources"},
+    {"system": "Computers and internet in schools", "country_label": "", "class": "enabling", "platform": "", "owner": "Ministry of Education", "tiers": "4,363 of 11,752 public schools and 647 of 1,035 private schools with computer labs; 20 schools with an internet connection; computers in about 50% of secondary schools, about 10 each"}
+  ],
+  "note": "June 2007, before South Sudan's secession, so national totals include the south. The EMIS project is described only as linking localities and states, with nothing on what schools enter, so it is unclassified and gives no fact."
+}

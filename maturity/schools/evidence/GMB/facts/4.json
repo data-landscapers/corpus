@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+  "facts": [],
+  "systems": [
+    {"system": "National EMIS on DHIS2", "country_label": "EMIS", "class": "census", "platform": "DHIS2 (DHIS2 for Education)", "owner": "Ministry of Basic and Secondary Education (MoBSE), central EMIS team; built with HISP / University of Oslo under GPE KIX", "tiers": "school (data clerks enter the annual census and staff profiles); regional (planners use attendance and enrolment dashboards daily); central"}
+  ],
+  "note": "The only school-level entry the document states is data clerks entering the annual census and staff profiles (study tour, 2026), so the system is census here and gives no fact. It also says regional planners use attendance dashboards to find non-reporting schools, without saying schools enter attendance per learner."
+}
