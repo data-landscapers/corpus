@@ -1,3 +1,4 @@
 study,key,indicator_id,last_reviewed
 health,hmis,digital.rural--digitalisation-of-rural-health-clinics-hmis,
 health,emr,digital.rural--digitalisation-of-rural-health-clinics-emr,
+schools,emis,digital.rural--digitalisation-of-rural-primary-schools-emis,
