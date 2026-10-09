@@ -24,7 +24,7 @@ status: proposed by CC on Bill's commission of 2026-10-09, for his rulings; not 
 
 The id is CC's, after the health pair, and enters `lookups/indicators.csv` only at acceptance, when both old rows are retired. **The census gets no ladder of its own**; that is CC's reading of Bill's line and his to reverse.
 
-`dpi.exchange--interoperability-of-education-systems` is not redrawn. Its evidence is logged in `maturity/schools/exchange.csv` and left.
+`dpi.exchange--interoperability-of-education-systems` is not redrawn. Its evidence is logged in `maturity/schools/exchange.csv`.
 
 ## 2. Typology
 
@@ -44,7 +44,7 @@ The id is CC's, after the health pair, and enters `lookups/indicators.csv` only 
 
 **A learner register is `emis`, and tops out at stage 3.** Unique learner numbers filled in once a year at enrolment are a record per learner, and are not daily use.
 
-**Higher education and vocational training are out of scope.**
+**Higher and vocational education are out of scope.**
 
 **Levels.** P primary, with pre-primary where it is taught in the same school; S secondary. The country's own cycle names are mapped in `systems.csv`. Where basic education runs nine years in one school, that school is P.
 
@@ -64,7 +64,7 @@ The id is CC's, after the health pair, and enters `lookups/indicators.csv` only 
 
 ## 4. The ladder
 
-Drafted before the review, and tested and fixed at S3.
+Tested and fixed at S3.
 
 | Stage | Levels | How the record is kept | Primary schools |
 |---|---|---|---|
@@ -84,12 +84,12 @@ Drafted before the review, and tested and fixed at S3.
 
 The African Union's Digital Education Strategy (2022): devices for 20 per cent of students and half of teachers by 2027; half of institutions connected; and, under its fourth objective, a move from *EMIS 1.0* to an individual-level, ID-linked *EMIS 2.0*.
 
-**It does not measure what the sub-indicator measures, and it carries the trap.** Its device and connection targets count `enabling`. Its *EMIS 1.0*, as the first run read it, is the census under the EMIS name. *EMIS 2.0* is nearest, and describes a record and its links, not whether a school uses it. The ladder borrows nothing from it: the 90 per cent line is the health study's, kept so the two read alike. The pages say so.
+**It does not measure what the sub-indicator measures, and it carries the trap.** Its device and connection targets count `enabling`. Its *EMIS 1.0*, as the first run read it, is the census under the EMIS name. *EMIS 2.0* is nearest, and describes a record and its links, not whether a school uses it. The ladder borrows nothing from it: the 90 per cent line is the health study's. The pages say so.
 
 ## 6. What Phase 1 reads and searches for
 
 - **Subjects**: `dpi.mis`, `digital.rural`, `dpi.exchange`.
-- **Term list**, in `study.json`: EMIS, SIGE, OpenEMIS, StatEduc, school census, recensement scolaire, censo escolar, annuaire statistique, learner identifier, school management system, and their French and Portuguese forms. **Census terms are searched on purpose**: a census document is where a ministry says what else it runs, and where the class `census` is evidenced.
+- **Term list**, in `study.json`: EMIS, SIGE, OpenEMIS, StatEduc, school census, recensement scolaire, censo escolar, annuaire statistique, learner identifier, school management system, and their French and Portuguese forms. **Census terms are searched on purpose**: a census document is where a ministry says what else it runs.
 - **Source types for the briefs**, ranked: ministry EMIS manuals, user guides and circulars, which say who enters what and when; education sector plans and joint sector reviews; World Bank and GPE appraisal and implementation reports; UNESCO, UIS and UNICEF EMIS diagnostics; statistical yearbooks, for their method chapter only; dated news of a rollout, an outage or a withdrawal, for aspect 4.
 
 ## 7. Tasks, in order
