@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-schools.md — the second maturity study: rural primary schools, as EMIS
 last_reviewed: 2026-10-09
-status: proposed by CC on Bill's commission of 2026-10-09, for his rulings; not yet run
+status: CC's proposal, agreed by Bill on 2026-10-09 with stages 2 and 3 reworded; Phase 1 running
 ---
 
 # Maturity study: schools — EMIS
@@ -22,7 +22,7 @@ status: proposed by CC on Bill's commission of 2026-10-09, for his rulings; not 
 |---|---|---|
 | EMIS | Digitalisation of rural primary schools: EMIS | `digital.rural--digitalisation-of-rural-primary-schools-emis` |
 
-The id is CC's, after the health pair, and enters `lookups/indicators.csv` only at acceptance, when both old rows are retired. **The census gets no ladder of its own**; that is CC's reading of Bill's line and his to reverse.
+The id enters `lookups/indicators.csv` only at acceptance, when both old rows are retired. **The census gets no ladder of its own** *(Bill)*.
 
 `dpi.exchange--interoperability-of-education-systems` is not redrawn. Its evidence is logged in `maturity/schools/exchange.csv`.
 
@@ -42,11 +42,11 @@ The id is CC's, after the health pair, and enters `lookups/indicators.csv` only 
 
 **Classified by what the source says the system does, never by name.** *EMIS*, *SIGE*, *OpenEMIS*, *StatEduc* and *DHIS2 for Education* each run as a census in one country and as learner records in another. A source that gives only the name is unclassified, a gap for the search.
 
+**Nor by what it is built in** *(Bill, 2026-10-09)*: a spreadsheet the school keeps per learner and sends up is `emis` as much as a proprietary application.
+
 **A learner register is `emis`, and tops out at stage 3.** Unique learner numbers filled in once a year at enrolment are a record per learner, and are not daily use.
 
-**Higher and vocational education are out of scope.**
-
-**Levels.** P primary, with pre-primary where it is taught in the same school; S secondary. The country's own cycle names are mapped in `systems.csv`. Where basic education runs nine years in one school, that school is P.
+**Levels.** Higher and vocational education are out. P primary, with pre-primary where it is taught in the same school; S secondary. The country's own cycle names are mapped in `systems.csv`.
 
 ## 3. Aspects
 
@@ -69,14 +69,16 @@ Tested and fixed at S3.
 | Stage | Levels | How the record is kept | Primary schools |
 |---|---|---|---|
 | 1 Absent | A dated statement that primary schools keep learner records on paper only | | |
-| 2 Nascent | Secondary schools only, or some districts; or a national system contracted or in preparation | Any, or not stated | None, or pilot schools |
-| 3 Established | P: a national system holds a record for each primary learner | `enrolment` or `keyed-elsewhere` | Routine entry in a minority, or not published |
+| 2 Preparing | An EMIS for primary schools is being prepared or piloted; or one runs in secondary schools only | Any, or not stated | Pilot schools, or none |
+| 3 Establishing | P: past its pilot and live in some primary schools; or a learner register that schools fill | `routine` in the live schools; or `enrolment` or `keyed-elsewhere` | A minority, a count with no total, or not published |
 | 4 Operating | P | `routine` | More than half enter attendance or results during the year, on a share or a count with a denominator |
 | 5 Leading | P | `routine`, with attendance entered daily | 90 per cent or more, on a figure published within two years that gives the rural share |
 
+**Pilot or live is the source's word** *(Bill, 2026-10-09)*: a rollout, a phase after the pilot, or schools named as using it is live. Where the source does not say, it is a pilot.
+
 **A census never places a country above stage 1.** A country holding only noted classes is unplaced, or stage 1 where a source states that learner records are on paper; what it holds prints under *Noted, not assessed*.
 
-**Stage 2 takes preparation** *(Bill, 2026-10-09)*, as the health study's §4 defines it.
+**Preparation is the health study's** (its §4).
 
 **A share of all schools is read as the share of primary schools**, and the short summary says which. A share of schools *registered on* or *given* a system is not a share entering data: it places by the lower rung.
 
@@ -84,17 +86,17 @@ Tested and fixed at S3.
 
 The African Union's Digital Education Strategy (2022): devices for 20 per cent of students and half of teachers by 2027; half of institutions connected; and, under its fourth objective, a move from *EMIS 1.0* to an individual-level, ID-linked *EMIS 2.0*.
 
-**It does not measure what the sub-indicator measures, and it carries the trap.** Its device and connection targets count `enabling`. Its *EMIS 1.0*, as the first run read it, is the census under the EMIS name. *EMIS 2.0* is nearest, and describes a record and its links, not whether a school uses it. The ladder borrows nothing from it: the 90 per cent line is the health study's. The pages say so.
+**It does not measure what the sub-indicator measures, and it carries the trap.** Its device and connection targets count `enabling`. Its *EMIS 1.0*, as the first run read it, is the census under the EMIS name. *EMIS 2.0* is nearest, and describes a record and its links, not whether a school uses it. The ladder borrows nothing from it: the 90 per cent line is the health study's.
 
 ## 6. What Phase 1 reads and searches for
 
 - **Subjects**: `dpi.mis`, `digital.rural`, `dpi.exchange`.
-- **Term list**, in `study.json`: EMIS, SIGE, OpenEMIS, StatEduc, school census, recensement scolaire, censo escolar, annuaire statistique, learner identifier, school management system, and their French and Portuguese forms. **Census terms are searched on purpose**: a census document is where a ministry says what else it runs.
+- **Term list**: in `study.json`. **Census terms are searched on purpose**: a census document is where a ministry says what else it runs.
 - **Source types for the briefs**, ranked: ministry EMIS manuals, user guides and circulars, which say who enters what and when; education sector plans and joint sector reviews; World Bank and GPE appraisal and implementation reports; UNESCO, UIS and UNICEF EMIS diagnostics; statistical yearbooks, for their method chapter only; dated news of a rollout, an outage or a withdrawal, for aspect 4.
 
 ## 7. Tasks, in order
 
-- [ ] **S1. Bill's rulings** on §1 to §4: the single sub-indicator and its id, the retirement of `dpi.mis--education`, the learner register at stage 3, the *rural gap* flag.
+- [x] **S1. Bill's rulings** on §1 to §4: all agreed, 2026-10-09.
 - [ ] **S2. Review all 54 countries in one run**, method §4. `study-ladder-health.py` is the health study's own; write its counterpart, with tests.
 - [ ] **S3. Test and fix the ladder** on the profiles, method §3 rule 9. Read the Strategy's fourth objective whole and correct §5 if it does not say what the first run took it to.
 - [ ] **S4. Search, select and hand over**, method §5. Tell Bill the count before the note is written.

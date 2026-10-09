@@ -60,7 +60,7 @@ A study id `{id}`, a country `{ISO3}` and a slice number, under `C:\CORPUS`.
 }
 ```
 
-`systems` takes every health information system the document names for this country, of any class: `country_label` is what the country calls it, `platform` the software, `owner` who runs it, `tiers` where it is used as the document states it. A document that states nothing usable still gets its file, with empty lists and the `note`.
+`systems` takes every information system in the study's field that the document names for this country, of any class: `country_label` is what the country calls it, `platform` the software, `owner` who runs it, `tiers` where it is used as the document states it. A document that states nothing usable still gets its file, with empty lists and the `note`.
 
 **Write with the Write tool, one file at a time. Create no other file, edit none, delete none, and start no agent of your own.**
 
