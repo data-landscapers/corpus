@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: dpi.id
 places: DZA; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 46e898a69d09
+record: 3c73f0789477
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
@@ -15,7 +15,7 @@ record: 46e898a69d09
 
 ## Algeria
 
-Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against.
+Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against. The digitalisation commission [set out how the national digital identity is obtained, by registration and appointment at the commune, activation and verification against the holder's biometric data](https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/).
 
 ## Benin
 
@@ -25,7 +25,7 @@ On International Identity Day the identification agency [opened renewal of the b
 
 Enrolment then reached the capital under pressure of demand. The identification office [opened nine further sites across Ouagadougou — police stations, arrondissement offices and a cultural centre — and set delivery at 48 hours for a special operation running to 16 September](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/), and ran special enrolment operations across every region for the seventh International Identity Day. No enrolment count accompanies either.
 
-The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it.
+The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it. The digital-transition minister said [enrolment for the digital identity, budgeted at over FCFA 40bn, was due to start in October 2026](https://lefaso.net/spip.php?article149856).
 
 ## Cameroon
 
@@ -63,7 +63,7 @@ In September the Civil Service Commission [found a suspended assistant regional 
 
 The enrolment rules reached the repository for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the repository already holds.
 
-The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/). [The state enterprise running the digital ID began charging banks for record retrievals and biometric authentications](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial), and the bankers' association asked for a consultation with the central bank.
+The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/). [The state enterprise running the digital ID began charging banks for record retrievals and biometric authentications](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial), and the bankers' association asked for a consultation with the central bank. A trade publication reported [a public developer sandbox opened for the digital identity, which counted more than 52 million registrations and 208 million electronic verifications at 9 October 2026](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration).
 
 ## Gabon
 
@@ -121,7 +121,7 @@ On International Identity Day the registration bureau [launched the Nzika wallet
 
 An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
 
-On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published.
+On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published. UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/).
 
 ## Mauritius
 

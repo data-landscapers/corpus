@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: capacity.literacy
 places: TCD; COM; EGY; GHA; KEN; MDG; MOZ; NER; RWA; SEN; SLE; TZA; TGO; UGA
-record: 0660c540fc5d
+record: 198e9cbd8859
 ---
 
 # Literacy: monthly update, September – October 2026
@@ -29,7 +29,7 @@ The communications ministry [signed a three-year memorandum with Intel on 16 Sep
 
 ## Ghana
 
-The cyber security authority [launched the 2026 National Cyber Security Awareness Month on 2 September, themed on securing the digital finance system](https://techafricanews.com/2026/09/02/ghana-cyber-security-authority-launches-2026-awareness-month-digital-finance/), and an education charity [began training 60 community digital champions for 52 communities under a Mastercard Foundation fellowship in August](https://www.ghanawebbers.com/GhanaHomePage/NewsArchive/EduSpots-Introduces-Digital-Champions-Program-to-Boost-Learning-in-52-Communities-2170468). Neither reports a reach figure.
+The cyber security authority [launched the 2026 National Cyber Security Awareness Month on 2 September, themed on securing the digital finance system](https://techafricanews.com/2026/09/02/ghana-cyber-security-authority-launches-2026-awareness-month-digital-finance/), and an education charity [launched a nine-month programme on 1 September to certify 60 community digital champions across 52 communities under a Mastercard Foundation fellowship](https://www.citinewsroom.com/2026/09/eduspots-launches-digital-champions-programme-to-accelerate-learning-across-52-ghanaian-communities/). Neither reports a reach figure.
 
 ## Kenya
 

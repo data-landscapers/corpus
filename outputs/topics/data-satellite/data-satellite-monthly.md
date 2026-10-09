@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: data.satellite
 places: COG; CIV; DJI; NGA; TGO; ZMB
-record: fdb6f31a04f8
+record: b2033e31d21b
 ---
 
 # Use of satellite data: monthly update, September – October 2026

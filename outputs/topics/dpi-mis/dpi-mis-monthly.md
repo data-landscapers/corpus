@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: dpi.mis
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 34df3ec1c47c
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 7f8fe99e402b
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -61,7 +61,7 @@ Four days into the invoicing checks the traders' federation answered with an ins
 
 ## DR Congo
 
-The revenue side of the digitisation put a number on itself. On a broadcast accountability programme on 3 September the finance minister said [monthly value-added tax collection had passed FC 320bn against an average of FC 280bn — about US$141.4m a month — attributing the rise to generalised e-filing at the tax directorate and the phased rollout of the standardised invoice](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux). The attribution is his own, with no counterfactual, compliance rate or invoice-volume series behind it. In the same broadcast he named [the interconnection of the three revenue agencies and a data warehouse as under way, alongside a digital public-finance programme he put at more than US$150m to be built with a Chinese network vendor](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux) — the largest figure attached to any digital programme the repository holds for the country, and one with no contract, procurement route, scope document or timetable published behind it.
+The revenue side of the digitisation put a number on itself. On a broadcast accountability programme on 3 September the finance minister said [monthly value-added tax collection had passed FC 320bn against an average of FC 280bn — about US$141.4m a month — attributing the rise to generalised e-filing at the tax directorate and the phased rollout of the standardised invoice](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux). The attribution is his own, with no counterfactual, compliance rate or invoice-volume series behind it. In the same broadcast he named [the interconnection of the three revenue agencies and a data warehouse as under way, alongside a digital public-finance programme he put at more than US$150m to be built with a Chinese network vendor](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux) — the largest figure attached to any digital programme the repository holds for the country, and one with no contract, procurement route, scope document or timetable published behind it. The tax directorate [began nationwide checks of the standardised invoice on 5 October 2026, after the moratorium ended](https://rdc-monde.com/rdc-impot-la-dgi-deploie-un-controle-rigoureux-de-la-facture-normalisee-apres-la-fin-du-moratoire/).
 
 ## Egypt
 
@@ -126,6 +126,10 @@ The health ministry's care information system [is in pilot at a central hospital
 The national health information system [publishes its own description — case detection, the launch of interventions to prevent transmission and reduce morbidity, and the surveillance behind them](https://snisi.sante.gov.ml/about), running under a health and social information strategic plan for 2020-2024 whose period has expired and a national digital health plan for 2024-2028.
 
 The education ministry [validated the specification and mock-up of a portal to manage teacher postings and attendance](https://malijet.com/education_et_formation_au_mali/311884-education-le-mali-digitalise-la-gestion-de-la-mobilite-des.html), under a project funded by the European Union and run by NGOs. No build contract or launch date is stated.
+
+## Mauritania
+
+A news site reported [registration and transfer of pupils for the 2026-2027 school year opening on the Siraj platform on 28 September 2026](https://www.tefassil.mr/ar/node/8801).
 
 ## Namibia
 

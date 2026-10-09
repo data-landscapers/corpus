@@ -1,15 +1,15 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: infra.store
-places: DZA; AGO; BWA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN
-record: e206211e28c5
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN
+record: df2b0324b70d
 ---
 
 # Data Storage: monthly update, September – October 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -26,6 +26,10 @@ The state printer [inaugurated a data centre on 11 September with more than 170 
 ## Botswana
 
 The gas supplier's annual report said [the Kala Data Centre ran materially below its design capacity in the year to June 2026 for lack of gas from the one connected well](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o). Any expansion depends on gas availability, funding and commercial terms.
+
+## Burkina Faso
+
+The digital-transition minister [put the national data centre planned for 2028 at an estimated FCFA 20bn](https://lefaso.net/spip.php?article149856).
 
 ## Cameroon
 

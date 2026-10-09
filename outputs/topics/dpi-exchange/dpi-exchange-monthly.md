@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0a21ffe272df
+record: b90251641341
 ---
 
 # Data Exchange: monthly update, September – October 2026
@@ -113,7 +113,7 @@ One sector shows what the exchange is for. The housing minister said that [quali
 
 ## Mozambique
 
-The digital agency said [the X-Road interoperability platform is being implemented and is expected in the fourth quarter of 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services); no operator or list of connected agencies is on record. Mozambique and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), phased from priority corridors.
+The digital agency said [the X-Road interoperability platform is being implemented and is expected in the fourth quarter of 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services); no operator or list of connected agencies is on record. Mozambique and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), phased from priority corridors. The digital transformation agency [trained 25 technicians from nine public bodies on the X-Road data-exchange layer, led by Estonian experts](https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/).
 
 ## Nigeria
 

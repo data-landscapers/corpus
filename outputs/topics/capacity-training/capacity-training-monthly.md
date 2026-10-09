@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: aa65407287df
+record: 5c346c96223a
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -63,7 +63,7 @@ The employment ministry [signed memoranda with the applied science university, t
 
 ## Ghana
 
-The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
+The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated.
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 

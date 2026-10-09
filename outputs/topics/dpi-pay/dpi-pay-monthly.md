@@ -1,15 +1,15 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: dpi.pay
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ef40eefddce8
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 2d2f0b6c449d
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -19,7 +19,7 @@ The monetary and banking council [authorised a mobile operator's subsidiary on 2
 
 ## Angola
 
-A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published.
+A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published. A trade publication reported [the instant-payment scheme processing 4.48 million transfers worth Kz 123.85bn in August 2026, the number of operations up 53.3% in a year](https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/).
 
 ## Benin
 
@@ -49,7 +49,7 @@ The regulator's first-half 2026 market observatory [counts more than 702,000 act
 
 The electronic money market has more providers and no newer numbers. [Two further providers have joined the two mobile operators' services, and users report fees they consider high, with competition presented as the hope rather than the position, against 160,000 to 240,000 accounts over 2020 to 2022](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/). No current account count, transaction volume, tariff schedule or regulator series is published, so the market's growth is described and not measured.
 
-A September press account [places the 3,000 payment terminals in the revenue offices, with electronic invoicing compulsory under the 2026 finance law, and finds power cuts, thin provincial connectivity and agents' limited skills holding use back](https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/). No transaction count has been published.
+A September press account [places the 3,000 payment terminals in the revenue offices, with electronic invoicing compulsory under the 2026 finance law, and finds power cuts, thin provincial connectivity and agents' limited skills holding use back](https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/). No transaction count has been published. The telecoms and digital economy minister [set out a transformation of the state postal operator, with a postal bank in the medium term and an integrated payment platform, no budget or date stated](https://lendjampost.com/tchad-haliki-choua-mahamat-devoile-les-grands-chantiers-de-la-poste/).
 
 ## Comoros
 
@@ -58,6 +58,10 @@ An account of the central bank's 2025 annual report, published on 3 September, [
 ## Congo
 
 A domestic platform, Yano, [launched on 14 September for group collections and merchant payments across mobile-money operators through a QR code or link, holding no funds itself](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/), backed by a FCFA 655m incubation vehicle. Its co-founder gives no user or transaction figure, and no licence is stated.
+
+## Cote d'Ivoire
+
+The regional central bank said [the Ivorian Treasury, having met all its requirements, already makes regular bulk payments through the Union's instant-payment platform](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement).
 
 ## DR Congo
 
@@ -79,13 +83,17 @@ The one payments instrument in the window is a standing one, surfaced by a sales
 
 ## Eswatini
 
-A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/). The bank [began telling customers that its Instant Money service will return as the wallet closes](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced.
+A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/). The bank [began telling customers that its Instant Money service will return as the wallet closes](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced. The provident fund [launched Express Claims, a three-hour payout target piloted for claims up to E5,000, with a card payment gateway for contributions](https://times.co.sz/45780/news/enpf-cuts-claims-processing-from-days-to-three-hours/).
 
 ## Ethiopia
 
 The challenger's wallet [more than doubled its monthly active users to 2.58 million in the quarter to June, yet contributes about 2% of the unit's service revenue against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and its [cardless ATM withdrawal was extended to Awash Bank's ATM network](https://techafricanews.com/2026/09/08/m-pesa-ethiopia-cardless-atm-withdrawals-awash-bank/).
 
 Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it. An assessment of the second financial inclusion strategy [counts 157.6 million mobile money accounts at June 2026, 29.56 per cent of them active, and about eight billion digital transactions worth over 34 trillion birr in fiscal year 2025/26, with some banks charging up to 11 per cent for transfers to mobile wallets](https://www.thereporterethiopia.com/53174/). A licensed payment-system operator and an international card scheme [signed a framework agreement to roll out 148,000 contactless acceptance devices to merchants, certified as tax cash registers](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/).
+
+## Gabon
+
+The Council of Ministers [adopted a bill ratifying and amending the digital payments ordinance, regulating payment-solution providers and moving payments progressively to digital form](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/).
 
 ## Gambia
 
@@ -149,7 +157,7 @@ A retrospective rather than an operator disclosure, and it is the repository's f
 
 ## Morocco
 
-The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either.
+The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either. A central bank working paper said [a proof of concept built with the IMF and the World Bank confirmed the technical feasibility of a retail central bank digital currency, with any issuance a long-term prospect](https://www.bkam.ma/content/download/852055/9193624/file/MDBC_VF_Oct2026.pdf).
 
 ## Mozambique
 
@@ -185,7 +193,7 @@ The central bank put the gap on its own record: [85.3% of Rwandans hold a digita
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
-Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers. The central bank governor said [a digital agricultural lending platform is in a six-month pilot with four lenders, meant to cut farmers' wait for a loan from weeks to under 48 hours](https://www.ktpress.rw/2026/10/rwanda-is-testing-digital-platform-to-get-small-farmers-loans-in-48-hours/).
+Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers. The central bank governor said [a digital agricultural lending platform is in a six-month pilot with four lenders, meant to cut farmers' wait for a loan from weeks to under 48 hours](https://www.ktpress.rw/2026/10/rwanda-is-testing-digital-platform-to-get-small-farmers-loans-in-48-hours/). The central bank reported [active accounts on the national payment switch at 10.3 million in September 2026, against 2.03 million a year earlier, and a rejection rate below 2%](https://www.ktpress.rw/2026/10/bnr-moves-to-tackle-delayed-ekash-transfers/).
 
 ## Senegal
 

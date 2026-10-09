@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: gov.policy
-places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: dbc2db35a170
+places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 0b3682495b63
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -101,6 +101,10 @@ Government communication was centralised. The broadcasting principal secretary [
 
 The financial inclusion strategy reached validation. The central bank's [draft went through a two-day validation and will be revised](https://frontpageafricaonline.com/liberia-cbls-new-financial-inclusion-plan-hinges-on-id-business-registry-reforms/), with participants naming the identification registry, business registration and credit reference systems as what it depends on; no launch date is set.
 
+## Madagascar
+
+[Madagascar scores 9 of 16 points against the Open Government Partnership's 12-point eligibility threshold as it seeks to rejoin the body it first joined in December 2016](https://midi-madagasikara.mg/gouvernement-ouvert-madagascar-a-trois-points-du-seuil-requis/).
+
 ## Mauritania
 
 On 16 September the Council of Ministers [took a statement proposing a national framework on minors' access to social media](https://www.ami.mr/archives/268298): an access threshold at 16, recommendation algorithms, infinite scroll and autoplay off by default for minors, no advertising targeted at them, and a reporting and support mechanism for children harmed online. It is a proposal; no draft text or date is published.
@@ -133,7 +137,7 @@ The ministry [called on 24 September for firms to study the interoperability pla
 
 ## Seychelles
 
-Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds.
+Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds. A [commission of inquiry into the border management service agreement between the state and its border-security supplier opened on 2 September 2026, with former ministers testifying](https://www.nation.sc/articles/32161/former-ministers-detail-early-border-system-options-before-travizory); the supplier's system runs the country's digital border control, including the electronic travel authorisation.
 
 ## Sierra Leone
 

@@ -1,17 +1,21 @@
 ---
 title: Digitalisation of sub-national government — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: digital.localgov
-places: CMR; TCD; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TUN; UGA
-record: db503d143f6c
+places: BFA; CMR; TCD; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TUN; UGA
+record: e916676d962a
 ---
 
 # Digitalisation of sub-national government: monthly update, September – October 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Burkina Faso
+
+The digital-transition minister said [80 Maisons du citoyen had been launched on a FCFA 10bn government envelope, against a target of one in each of the 351 communes by 2030](https://lefaso.net/spip.php?article149856).
 
 ## Cameroon
 

@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: f60fb0657ef7
+record: a8aaa2375d53
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -81,7 +81,7 @@ The beneficiary file behind the social register's intended base is unreliable: t
 
 Three ministers [met SNEDAI Groupe on 14 September on digitalising land tenure and civil registration](https://agpgabon.ga/gabon-digitalisation-le-gouvernement-echange-avec-le-snedai/), the company offering prefinancing; administrations were asked to name focal points, and no contract is held.
 
-The social security fund [launched e.CNSS, letting employers register online from Gabon or abroad instead of queueing at a counter](https://gabonclic.info/gabon-avec-sa-revolution-numerique-la-cnss-conjugue-le-service-public-au-present/). No registration count or link to the business register is stated.
+The social security fund [launched e.CNSS, letting employers register online from Gabon or abroad instead of queueing at a counter](https://gabonclic.info/gabon-avec-sa-revolution-numerique-la-cnss-conjugue-le-service-public-au-present/). No registration count or link to the business register is stated. The preparatory workshop for the national civil-registration conferences [closed with a diagnosis of badly kept archives, irregular data entry and a Civil Code dating from 1972](https://www.gabonreview.com/etat-civil-le-gabon-face-au-defi-de-la-modernisation/).
 
 ## Gambia
 

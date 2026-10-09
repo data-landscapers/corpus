@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0c4663877551
+record: e12842ffa649
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -169,7 +169,7 @@ On 22 September the communication regulator HARC [held its first official meetin
 
 Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
 
-The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication. The physicians' order [maintained its reservation on applying compulsory electronic invoicing to medicine in its present form](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155208-%D8%B9%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%85%D8%B3%D9%83%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-%D8%A8%D8%B5%D9%8A%D8%BA%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9), citing medical secrecy and patients' data.
+The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication. The physicians' order [maintained its reservation on applying compulsory electronic invoicing to medicine in its present form](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155208-%D8%B9%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%85%D8%B3%D9%83%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-%D8%A8%D8%B5%D9%8A%D8%BA%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9), citing medical secrecy and patients' data. The social affairs minister said [the remote-work bill was ready and completing its final administrative stages, and that a legal text on the platform economy had been prepared](https://www.alchourouk.com/index.php/article/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AC%D8%A7%D9%87%D8%B2-%D9%88%D9%81%D9%8A-%D8%B7%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%D9%87-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9).
 
 ## Uganda
 

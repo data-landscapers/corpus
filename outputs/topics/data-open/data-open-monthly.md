@@ -1,15 +1,15 @@
 ---
 title: Open data — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: data.open
-places: BFA; CPV; CAF; TCD; CIV; COD; SWZ; GHA; MWI; MUS; NGA; SEN; SOM; TZA; ZMB
-record: cb06c4ce7be7
+places: BFA; CPV; CAF; TCD; CIV; COD; SWZ; GHA; MDG; MWI; MUS; NGA; SEN; SOM; TZA; ZMB
+record: 077e126fc412
 ---
 
 # Open data: monthly update, September – October 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ Two public dashboards were [launched at Ezulwini on 18 September, bringing econo
 ## Ghana
 
 An air-quality system reached testing: [a national air quality data hub built at a university laboratory went through utility testing with the environmental agency](https://www.myjoyonline.com/knust-epa-test-national-air-quality-data-hub-ahead-of-ghana-rollout/), which is to own it once a sustainability plan is agreed.
+
+## Madagascar
+
+The economy and finance ministry [plans wider publication of budget information after an international assessment scored the country below its threshold, and the Cour des comptes will resume publishing the budget settlement document in 2027](https://www.lexpress.mg/2026/10/finances-publiques-les-informations.html).
 
 ## Malawi
 

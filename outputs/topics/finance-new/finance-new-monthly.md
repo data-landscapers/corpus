@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: finance.new
 places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: 53d892ccc135
+record: b71a643fc5bf
 ---
 
 # New investments: monthly update, September – October 2026
@@ -93,7 +93,7 @@ The lending frame around all of it was settled earlier in the summer and its num
 
 ## Rwanda
 
-Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA additional financing agreement for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/), signed in Kigali on 11 July. No amount is stated.
+Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA additional financing agreement for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/), signed in Kigali on 11 July. No amount is stated. Parliament [ratified EUR 17m of additional financing for digital identity, public data management and cybersecurity, with the project deadline moved to 30 June 2028](https://www.wearetech.africa/en/fils-uk/news/public-management/rwanda-secures-19-million-to-extend-government-digitalization-drive).
 
 ## Senegal
 
