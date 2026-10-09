@@ -1,0 +1,91 @@
+{
+  "id": "schools",
+  "study_file": "maturity-study-schools.md",
+  "subjects": ["dpi.mis", "digital.rural", "dpi.exchange"],
+  "stage_topic": "dpi.mis",
+  "redraws": ["digital.rural--digitalisation-of-rural-primary-schools", "dpi.mis--education"],
+  "terms": [
+    "EMIS", "education management information system",
+    "SIGE", "système d'information et de gestion de l'éducation",
+    "sistema de informação e gestão da educação", "sistema integrado de gestão escolar",
+    "OpenEMIS", "StatEduc", "DHIS2 for Education",
+    "school census", "annual school census", "recensement scolaire", "censo escolar",
+    "annuaire statistique", "anuário estatístico da educação",
+    "school management system", "school information system",
+    "système de gestion scolaire", "gestão escolar",
+    "learner identifier", "learner identification number", "unique learner",
+    "identifiant unique de l'élève", "identifiant élève"
+  ],
+  "sub_indicators": [
+    {
+      "key": "emis",
+      "label": "EMIS",
+      "subject": "digital.rural",
+      "text": "Digitalisation of rural primary schools: EMIS",
+      "indicator_id": "digital.rural--digitalisation-of-rural-primary-schools-emis",
+      "class": "emis",
+      "criteria_of": "",
+      "criteria": [
+        "A dated source states that primary schools keep their learners' records on paper only. An annual school census, however it is collected and whatever it is called, does not change this.",
+        "A system holding a record for each learner is used by secondary schools only or in some districts, or a national one is contracted or being prepared: staff trained, equipment delivered or an agreement signed. Primary schools do not use it, beyond pilot schools.",
+        "A national system holds a record for each primary learner, filled in once a year at enrolment or keyed in elsewhere from the school's paper registers. A minority of primary schools enter attendance or results during the year, or no figure is published.",
+        "More than half of primary schools enter attendance or results for each learner during the school year, at the school. The figure is a published share, or a count given with its total.",
+        "At least 90 per cent of primary schools do so, with attendance entered daily, on a figure published within the past two years. The figure gives the share for rural schools."
+      ]
+    }
+  ],
+  "classes": ["emis", "census", "single-function", "standalone", "learning", "enabling", "exchange"],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance, planning, finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "owner": ["ministry", "partner", "vendor"],
+        "plan": ["current", "none"],
+        "finance": ["domestic", "donor", "not-stated"]
+      }
+    },
+    {
+      "key": "levels",
+      "name": "Levels in use",
+      "role": "coverage",
+      "multi": true,
+      "defer": ["none"],
+      "values": ["P", "S", "none"]
+    },
+    {
+      "key": "kept",
+      "name": "How the record is kept",
+      "role": "coverage",
+      "defer": ["paper"],
+      "prefer": ["routine"],
+      "values": {
+        "emis": ["routine", "enrolment", "keyed-elsewhere", "paper"]
+      }
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": ["advancing", "no-change", "regressing"]
+    },
+    {
+      "key": "schools",
+      "name": "Primary schools doing the digital input",
+      "role": "coverage",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "prefer": ["share:", "count:", "pilot", "none", "not-published"]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "externally run",
+    "all": ["owner:ministry"],
+    "any": ["finance:domestic", "plan:current"]
+  },
+  "flags": ["externally run", "rural gap", "advancing", "regressing"]
+}
