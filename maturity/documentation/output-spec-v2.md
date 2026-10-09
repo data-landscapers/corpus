@@ -20,7 +20,7 @@ Three things, all on the Corpus site:
 | The country report, one per country, all indicators | `/maturity/countries/{iso3}/`, one bookmark per indicator: `#{indicator_id}` | new *(Bill: no per-country-per-indicator report; only the one country report)* |
 | The methodology, one page, one bookmark per indicator | `/methodology/maturity/#{indicator_id}` | new section of the existing methodology |
 
-**Soft launch** *(Bill)*. The pages are built and served now but not linked: nothing is added to `site_menu.yml` or to any page's navigation. Each page carries `<meta name="robots" content="noindex">` and an **Under construction** band at the top. It does not matter if they are found. **The band is off while the design is settled** *(Bill, 2026-10-09)*, so the page is designed at full depth (`SHOW_BAND` in the script); it goes back on before the pages are shown to anyone. The band comes off, the noindex goes, and the menu entry is added at launch, once data collection is complete.
+**Soft launch** *(Bill)*. The pages are built and served now but not linked: nothing is added to `site_menu.yml` or to any page's navigation. Each page carries `<meta name="robots" content="noindex">` and an **Under construction** band at the top. It does not matter if they are found. **The map says it in its title instead** *(Bill, 2026-10-09)*: *Maturity Assessment* with an *Under construction* tag, so the map page keeps its full depth; the reports and the methodology page keep the band. The band comes off, the noindex goes, and the menu entry is added at launch, once data collection is complete.
 
 **Drafts are shown** *(Bill)*. The map and the country reports show draft stages as they are produced; the Under construction band is the only signal and there is no separate draft banner. This is a ruling against `maturity-study-method.md` §8's *nothing is published to `site/` until Bill accepts the study*, for these pages only; the frame, `adding-an-indicator.md` minting and the baseline edition still wait for acceptance.
 
@@ -76,6 +76,8 @@ The sidebar button is on desktop too, so double-click is a shortcut, not the onl
 ## 6. The sidebar
 
 **Top half: the indicator.** The scale criteria for the selected indicator, being its ladder (the rung-by-aspect table, condensed to one line per stage), and a button to the indicator's bookmark on the methodology page.
+
+**The two halves are told apart** *(Bill, 2026-10-09)*: each opens on a heading that stays put while its body scrolls beneath it, closed by a rule, with a heavy rule on top of each box; the sidebar type is a step smaller than the page's.
 
 **Bottom half: the selected country** *(Bill)*. A summary of the indicator's section in that country's report, as long as the space allows, headed by:
 

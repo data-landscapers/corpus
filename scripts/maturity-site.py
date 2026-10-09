@@ -52,9 +52,9 @@ PREVIEW = ROOT / "maturity" / "preview-downloads"
 GEO = ROOT / "lookups" / "africa.geojson"   # africa-dpi's, copied 2026-10-09; Western Sahara is in it
 
 LAUNCHED = False
-# The Under construction band is off while the page design is settled at full depth (Bill, 2026-10-09);
-# it goes back on before the pages are shown to anyone, and comes off for good at launch. noindex stays.
-SHOW_BAND = False
+# Before launch the reports and the methodology page carry the Under construction band; the map carries
+# the words in its title instead, so the map page keeps its full depth (Bill, 2026-10-09). noindex stays.
+SHOW_BAND = True
 
 # The scale: documentation/archived/maturity-assessment.md §3, the instruments-and-systems column.
 # Labels 2 and 3 renamed Preparing and Establishing (Bill, 2026-10-09); all five still under review.
@@ -276,9 +276,10 @@ TAIL = """
 
 
 def page(*, title, description, canonical, depth, body, body_class, sheets=(), scripts="",
-         active=None) -> str:
+         active=None, band: bool = True) -> str:
+    """`band=False` for the map, which says *Under construction* in its title instead (Bill, 2026-10-09)."""
     robots = "" if LAUNCHED else '<meta name="robots" content="noindex">\n'
-    band = UNDER_CONSTRUCTION if SHOW_BAND and not LAUNCHED else ""
+    band = UNDER_CONSTRUCTION if band and SHOW_BAND and not LAUNCHED else ""
     return external_links(
         HEAD.format(title=html.escape(title), description=html.escape(description), robots=robots,
                     canonical=canonical, styles=styles(depth, *sheets), main=MAIN_SITE, ga=ga(),
@@ -290,9 +291,10 @@ def page(*, title, description, canonical, depth, body, body_class, sheets=(), s
 def map_page() -> str:
     dl = "" if LAUNCHED else ' disabled title="Available at launch"'
     note = "" if LAUNCHED else '<span class="mat-dl-note">Downloads available at launch</span>'
+    uc = "" if LAUNCHED else ' <span class="mat-title__uc">Under construction</span>'
     body = f"""  <div class="mat-wrap">
     <div class="mat-head">
-      <h1 class="mat-title">Maturity Assessment</h1>
+      <h1 class="mat-title">Maturity Assessment{uc}</h1>
       <div class="mat-buttons">
         <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
         <button class="mat-btn" id="mat-dl-one" type="button"{dl}>Download this indicator (CSV)</button>
@@ -321,7 +323,7 @@ def map_page() -> str:
   </div>"""
     return page(title="Maturity Assessment",
                 description="Where each African country stands on each studied indicator, on a five-stage scale.",
-                canonical=f"{SITE_BASE}/maturity/", depth=1, body=body, body_class="mat-page",
+                canonical=f"{SITE_BASE}/maturity/", depth=1, body=body, body_class="mat-page", band=False,
                 sheets=("maturity.css",),
                 scripts=script("d3-7.9.0.min.js", 1) + "\n" + script("maturity-map.js", 1))
 

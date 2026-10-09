@@ -64,6 +64,19 @@
 }
 .mat-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem 1rem; margin: .5rem 0 .75rem; }
 .mat-title { font-family: var(--display); font-size: 1.6rem; margin: 0; }
+.mat-title__uc {
+  margin-left: .6rem;
+  padding: .15rem .55rem;
+  border: 1px solid var(--accent);
+  border-radius: 3px;
+  font-family: var(--mono);
+  font-size: .72rem;
+  font-weight: 500;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  vertical-align: middle;
+}
 
 .mat-controls {
   display: flex;
@@ -168,14 +181,27 @@
 }
 .mat-side section {
   overflow-y: auto;
-  padding: .9rem 1rem 1rem;
+  padding: 0 1rem 1rem;
   background: #fff;
   border: 1px solid var(--rule);
-  border-radius: 4px;
-  font-size: .86rem;
+  border-top: 3px solid var(--ink);
+  border-radius: 0 0 4px 4px;
+  font-size: .8rem;
   line-height: 1.5;
 }
-.mat-side h2 { font-family: var(--display); font-size: 1.1rem; margin: 0 0 .5rem; line-height: 1.3; }
+/* Each box's heading stays put while its body scrolls under it, closed by a rule, so text scrolled
+   in the lower box never reads as the upper box's (Bill, 2026-10-09). */
+.mat-side__head {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  margin: 0 -1rem .7rem;
+  padding: .75rem 1rem .55rem;
+  background: #fff;
+  border-bottom: 1px solid var(--rule);
+}
+.mat-side__head .mat-side__meta { margin: .35rem 0 0; }
+.mat-side h2 { font-family: var(--display); font-size: 1rem; margin: 0; line-height: 1.3; }
 .mat-side__kicker {
   margin: 0 0 .2rem;
   font-family: var(--mono);
@@ -188,8 +214,8 @@
 .mat-ladder li { display: flex; gap: .5rem; margin-bottom: .45rem; color: var(--ink-light); }
 .mat-ladder b { color: var(--ink); white-space: nowrap; }
 .mat-side__bottom { scroll-margin-top: calc(var(--header-h) + 3.5rem); }
-.mat-side__empty { color: var(--ink-faint); margin: 0; }
-.mat-side__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .9rem; margin: 0 0 .6rem; font-size: .78rem; color: var(--ink-light); }
+.mat-side__empty { color: var(--ink-faint); margin: 0; padding-top: .9rem; }
+.mat-side__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .9rem; margin: 0 0 .6rem; font-size: .74rem; color: var(--ink-light); }
 .mat-side__meta b { font-weight: 600; color: var(--ink); }
 .mat-side__short { font-weight: 600; margin: 0 0 .6rem; }
 .mat-side__long p { margin: 0 0 .6rem; }

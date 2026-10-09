@@ -249,8 +249,8 @@
         (l.n ? l.n + " " + esc(s.label) : "") + "</b> " + esc(l.text) + "</li>";
     }).join("");
     $("mat-side-indicator").innerHTML =
-      '<p class="mat-side__kicker">' + esc(ind.topic) + "</p>" +
-      "<h2>" + esc(ind.label) + "</h2>" +
+      '<div class="mat-side__head"><p class="mat-side__kicker">' + esc(ind.topic) + "</p>" +
+      "<h2>" + esc(ind.label) + "</h2></div>" +
       '<ul class="mat-ladder">' + lad + "</ul>" +
       '<a class="mat-btn" href="../methodology/maturity/#' + esc(state.indicator) + '">Methodology for this indicator</a>';
     $("mat-method").href = "../methodology/maturity/#" + state.indicator;
@@ -262,11 +262,12 @@
     var c = cell(iso), s = stageInfo(c);
     var moved = c.reassessed ? "Reassessed " + c.reassessed : (c.moved || "First assessment");
     box.innerHTML =
+      '<div class="mat-side__head"><p class="mat-side__kicker">Country</p>' +
       "<h2>" + esc(data.countries[iso] || iso) + "</h2>" +
       '<p class="mat-side__meta"><span class="mat-chip" style="background:' + s.color + ";color:" + s.ink + '">' +
       esc(stageText(c)) + "</span>" +
       "<span><b>Last assessed</b> " + esc(c.assessed || "—") + "</span>" +
-      "<span><b>Stage last moved</b> " + esc(moved) + "</span></p>" +
+      "<span><b>Stage last moved</b> " + esc(moved) + "</span></p></div>" +
       '<p class="mat-side__short">' + esc(c.short || "Nothing held.") + "</p>" +
       '<div class="mat-side__long">' + (c.summary || "") + "</div>" +
       '<a class="mat-btn mat-btn--primary" href="countries/' + iso.toLowerCase() + "/#" + esc(state.indicator) +
