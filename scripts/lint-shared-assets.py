@@ -68,6 +68,15 @@ DEFAULTS = [
     Path("/sessions") / "mnt" / "data-landscapers",
 ]
 
+# Copies taken from a repository other than data-landscapers: (marker, Corpus copy, path there,
+# where that repository is checked out). The maturity map's geography is africa-dpi's. A Cowork
+# session has no mount for it, so an absent checkout is reported as not checked and is not a
+# failure; a present one that differs is drift like any other.
+ELSEWHERE = [
+    ("lookups/AFRICA-GEOJSON-FROM", "lookups/africa.geojson", "africa.geojson",
+     [Path(r"C:\Users\bill\Dropbox\Github\africa-dpi"), CORPUS.parent / "africa-dpi"]),
+]
+
 
 def canonical_repo(arg: str | None) -> Path | None:
     """Where data-landscapers is checked out. It is a sibling repository, not a
@@ -110,9 +119,24 @@ def main() -> int:
         elif not m.exists():
             drift.append(f"{marker}: no provenance marker beside a shared asset")
 
+    unchecked = []
+    for marker, mine, theirs, homes in ELSEWHERE:
+        home = next((h for h in homes if (h / theirs).exists()), None)
+        if not (CORPUS / marker).exists():
+            drift.append(f"{marker}: no provenance marker beside a copied asset")
+        if home is None:
+            unchecked.append(f"{mine}: no checkout of {homes[0].name} found, not checked")
+        elif (home / theirs).read_bytes() != (CORPUS / mine).read_bytes():
+            drift.append(f"{mine} differs from {homes[0].name}'s {theirs} — one of them is ahead; "
+                         f"compare before copying either way")
+        else:
+            checked += 1
+
     if not a.quiet:
         print(f"lint-shared-assets: {checked} shared asset(s) checked against {repo}")
-        for marker in sorted({m for m, _, _ in SHARED}):
+        for u in unchecked:
+            print(f"  {u}")
+        for marker in sorted({m for m, _, _ in SHARED} | {m for m, _, _, _ in ELSEWHERE}):
             p = CORPUS / marker
             print(f"  {marker} -> {p.read_text().strip()[:12] if p.exists() else '(absent)'}")
     for d in drift:
