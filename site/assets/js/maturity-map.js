@@ -23,7 +23,7 @@
   };
 
   var data, geo, state = { indicator: null, country: null };
-  var svg, gCountries, gIslands, path;
+  var svg, gCountries, gIslands, path, pressed = 0;
 
   Promise.all([
     fetch("data/maturity.json").then(function (r) { return r.json(); }),
@@ -175,8 +175,12 @@
     var timer = null;
     sel.attr("tabindex", 0).attr("data-iso", iso)
       .attr("aria-label", data.countries[iso] || iso)
-      .on("mousemove", function (ev) { showTip(ev, iso); })
-      .on("mouseleave", hideTip)
+      /* The tooltip is the mouse's and the keyboard's. A tap moves a pointer and takes focus too,
+         and would show it over the country's details (spec section 5 gives a phone no tooltip);
+         so a move counts only from a mouse, and a focus only when no pointer has just pressed. */
+      .on("pointermove", function (ev) { if (ev.pointerType === "mouse") showTip(ev, iso); })
+      .on("pointerleave", hideTip)
+      .on("pointerdown", function () { pressed = Date.now(); })
       .on("click", function () {
         clearTimeout(timer);
         timer = setTimeout(function () { select(iso); }, CLICK_DELAY);
@@ -187,7 +191,7 @@
       .on("keydown", function (ev) {
         if (ev.key === "Enter") { ev.shiftKey ? openReport(iso) : select(iso); }
       })
-      .on("focus", function () { var b = this.getBoundingClientRect(); showTip({ clientX: b.left + b.width / 2, clientY: b.top + b.height / 2 }, iso); })
+      .on("focus", function () { if (Date.now() - pressed < 1000) return; var b = this.getBoundingClientRect(); showTip({ clientX: b.left + b.width / 2, clientY: b.top + b.height / 2 }, iso); })
       .on("blur", hideTip);
   }
 
