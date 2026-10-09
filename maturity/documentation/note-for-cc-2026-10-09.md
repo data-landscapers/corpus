@@ -40,7 +40,7 @@ Do not restyle without asking him. The points most easily undone:
 - **The Methodology button** goes to `/methodology/maturity/#{indicator_id}` (Bill's ruling, spec §9). The v1 spec called this button *metadata*. If the metadata work means a field dictionary for the two CSVs, the site's pattern is `datasets.py` → `/datasets/metadata/` with a `-metadata.csv` per dataset; the maturity CSVs have none yet.
 - **Stage history**: none exists, so every cell reads *First assessment* and the changes box is empty until `maturity-history.csv` is written from a second snapshot.
 - **Legend definitions** paraphrase the archived §3 table; they change if the stage labels do.
-- **`.git` housekeeping**: Cowork's commits could not delete git's temporary files. Five `stale-*lock*` files sit directly under `.git/` and a few hundred `tmp_obj_*` files under `.git/objects/`; all are inert. Delete them and run `git gc`.
+- **`.git` housekeeping**: Cowork's commits could not delete git's temporary files. Several `stale-*lock*` files sit directly under `.git/` and a few hundred `tmp_obj_*` files under `.git/objects/`; all are inert. Delete them and run `git gc`.
 
 ## Not verified
 
