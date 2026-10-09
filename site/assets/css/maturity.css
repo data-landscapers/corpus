@@ -269,9 +269,22 @@
   text-transform: uppercase;
   letter-spacing: .06em;
 }
-.mat-report__topic { margin-top: 2.2rem; padding-top: .6rem; border-top: 1px solid var(--rule); }
+/* Chapter, topic, indicator. A chapter opens on a bar of its topics; the grey ones are not yet studied. */
+.mat-report__chapter, .mat-report__topic { scroll-margin-top: calc(var(--header-h) + 3rem); }
+.mat-report__chapter { margin-top: 2.2rem; padding-top: .6rem; border-top: 1px solid var(--rule); }
+.article-toc + .mat-report__chapter { margin-top: 0; padding-top: 0; border-top: none; }
+.mat-report__topic { margin-top: 1.6rem; font-size: 1.2rem; }
+.mat-report .mat-toc__off {
+  font-family: var(--mono);
+  font-size: .72rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--ink-faint);
+}
 .mat-report__ind { scroll-margin-top: calc(var(--header-h) + 3rem); margin-top: 1.4rem; }
-.mat-report__ind:target h3 { color: var(--accent); }
+.mat-report__ind h4 { font-size: 1.05rem; }
+.mat-report__ind:target h4 { color: var(--accent); }
 .mat-report__meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1rem; font-size: .82rem; color: var(--ink-light); }
 .mat-report__meta b { color: var(--ink); font-weight: 600; }
 .mat-report__short { font-weight: 600; }

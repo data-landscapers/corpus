@@ -106,7 +106,7 @@ Before a click it says *Select a country.*
 
 ## 10. The country report
 
-**One page per country covering every studied indicator** *(Bill)*, grouped by topic in frame order, one section per indicator or sub-indicator with the anchor `#{indicator_id}`. Each section: stage and label, Last assessed, Stage last moved, the short summary, then the long summary (one paragraph per aspect, every claim linked, method §8), then *Noted, not assessed* and *Not held*. Unstudied indicators are listed by name only, marked *Not yet studied*. The page is assembled at render from the per-study `outputs/maturity/{id}/{ISO3}.md` files; nothing is written by hand.
+**One page per country covering every studied indicator** *(Bill)*, grouped by chapter and then topic in frame order, one section per indicator or sub-indicator with the anchor `#{indicator_id}`. **The page opens on a contents bar of the chapters, and each chapter on a bar of its topics** *(Bill, 2026-10-09)*; a chapter or topic with nothing studied is in its bar greyed out and unlinked. Each section: stage and label, Last assessed, Stage last moved, the short summary, then the long summary (one paragraph per aspect, every claim linked, method §8), then *Noted, not assessed* and *Not held*. Unstudied indicators are listed by name only, marked *Not yet studied*. The page is assembled at render from the per-study `outputs/maturity/{id}/{ISO3}.md` files; nothing is written by hand.
 
 ## 11. What the page reads
 

@@ -477,8 +477,27 @@ def chip(cell: dict | None) -> str:
     return f'<span class="mat-chip" style="background:{s["color"]};color:{s["ink"]}">{s["n"]} {s["label"]}</span>'
 
 
+def slug(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+
+
+def toc(label: str, items: list[tuple[str, str | None]]) -> str:
+    """A jump bar in the house idiom (`.article-toc`): `(text, anchor)`, and an item with no anchor
+    is printed greyed out and unlinked, as the map's dropdowns grey what is not yet studied."""
+    return (f'    <nav class="article-toc" aria-label="{label}">\n      '
+            + '\n      <span class="article-toc__sep" aria-hidden="true">&middot;</span>\n      '.join(
+                f'<a href="#{a}">{html.escape(t)}</a>' if a else f'<span class="mat-toc__off">{html.escape(t)}</span>'
+                for t, a in items) + "\n    </nav>")
+
+
 def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> str:
-    parts, unstudied = [], []
+    """Chapter, then topic, then indicator *(Bill, 2026-10-09)*: the page opens on a bar of every
+    chapter and each chapter opens on a bar of its topics. Only what is studied has a section."""
+    parts, unstudied, chapters = [], [], {}
+    for t in data["topics"]:
+        chapters.setdefault(t["group"], []).append(t)
+    parts.append(toc("Chapters", [(c, f"chapter-{slug(c)}" if any(t["studied"] for t in ts) else None)
+                                  for c, ts in chapters.items()]))
     for t in data["topics"]:
         studied = [i for i in t["indicators"] if i["studied"]]
         for i in t["indicators"]:
@@ -486,13 +505,19 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
                 unstudied.append((t["name"], i["label"]))
         if not studied:
             continue
-        parts.append(f'    <h2 class="mat-report__topic">{html.escape(t["name"])}</h2>')
+        first = next(o for o in chapters[t["group"]] if o["studied"])
+        if t is first:
+            parts.append(f'    <h2 class="mat-report__chapter" id="chapter-{slug(t["group"])}">'
+                         f'{html.escape(t["group"])}</h2>')
+            parts.append(toc("Topics", [(o["name"], f"topic-{slug(o['name'])}" if o["studied"] else None)
+                                        for o in chapters[t["group"]]]))
+        parts.append(f'    <h3 class="mat-report__topic" id="topic-{slug(t["name"])}">{html.escape(t["name"])}</h3>')
         for i in studied:
             iid = i["id"]
             cell = data["cells"].get(iid, {}).get(iso3)
             moved = (cell or {}).get("moved") or "First assessment"
             parts.append(f'''    <section class="mat-report__ind" id="{iid}">
-      <h3>{html.escape(i["label"])}</h3>
+      <h4>{html.escape(i["label"])}</h4>
       <p class="mat-report__meta">{chip(cell)}
         <span><b>Last assessed</b> {html.escape((cell or {}).get("assessed", "—"))}</span>
         <span><b>Stage last moved</b> {html.escape(moved)}</span>

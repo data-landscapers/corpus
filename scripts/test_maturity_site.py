@@ -89,6 +89,16 @@ def main() -> int:
           page.count("<th>Criteria</th>") == len(data["indicators"]) and "<th>Tiers</th>" not in page)
     check("the norm prints its statement and not the argument", "It does not measure" not in page)
 
+    report = ms.country_page(iso, "X", data, {})
+    groups = list(dict.fromkeys(t["group"] for t in data["topics"]))
+    check("a country report opens on a bar of every chapter",
+          report.count('aria-label="Chapters"') == 1 and all(ms.html.escape(g) in report for g in groups))
+    check("each studied chapter has a section and a bar of its topics, and no other has",
+          report.count('class="mat-report__chapter"') == report.count('aria-label="Topics"')
+          == len({t["group"] for t in data["topics"] if t["studied"]}))
+    check("every link in a bar lands on an id",
+          all(f'id="{a}"' in report for a in ms.re.findall(r'<a href="#((?:chapter|topic)-[^"]+)"', report)))
+
     check("no study at all is a problem", bool(ms.problems(data, geo, [], indicators, None)))
 
     g = copy.deepcopy(geo)
