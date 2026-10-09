@@ -84,7 +84,9 @@ def cap_problem(study: dict, row: dict) -> str:
 
 
 def assessment_problems(study: dict, rows: list[dict], evidence: dict[str, list[dict]],
-                        countries: dict) -> list[str]:
+                        countries: dict, logged: set | None = None) -> list[str]:
+    """`logged` is history.csv as (iso3, indicator_id, date): a cell `study-update.py log` reassessed carries
+    that day as its as-at, later than the study's (MATURITY-UPDATE.md), and no other cell may differ."""
     out = []
     ids = {s["indicator_id"]: s for s in study["sub_indicators"]}
     asp = study_lib.aspects(study)
@@ -105,7 +107,11 @@ def assessment_problems(study: dict, rows: list[dict], evidence: dict[str, list[
                 out.append(f"{iso} {iid}: no row")
     as_ats = {r["as_at"] for r in rows}
     if len(as_ats) > 1:
-        out.append(f"more than one as-at: {sorted(as_ats)}")
+        base = min(as_ats)
+        stray = sorted(f"{r['iso3']} {r['as_at']}" for r in rows if r["as_at"] != base
+                       and (r["iso3"], r["indicator_id"], r["as_at"]) not in (logged or set()))
+        if stray:
+            out.append(f"more than one as-at, and no logged reassessment behind: {stray[:8]}")
 
     for n, r in enumerate(rows, 2):
         if r["indicator_id"] not in ids:
@@ -244,7 +250,9 @@ def main(argv=None) -> int:
     if not rows:
         problems.append("assessment.csv is missing or empty")
     else:
-        problems += assessment_problems(study, rows, evidence, countries)
+        logged = {(h["iso3"], h["indicator_id"], h["date"])
+                  for h in study_lib.read_csv(os.path.join(out_dir, "history.csv"))}
+        problems += assessment_problems(study, rows, evidence, countries, logged)
     ids = {s["indicator_id"]: s["key"] for s in study["sub_indicators"]}
     for iso in sorted(countries):
         try:

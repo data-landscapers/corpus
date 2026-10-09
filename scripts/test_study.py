@@ -372,6 +372,11 @@ try:
     print("\nthe lint: cells")
     good = [cellrow("KEN", "3"), cellrow("CIV", "unplaced")]
     check("a full, well-formed assessment passes", lint.assessment_problems(STUDY, good, EV, COUNTRIES), [])
+    late = [cellrow("KEN", "3", as_at="2026-10-10"), good[1]]
+    p = lint.assessment_problems(STUDY, late, EV, COUNTRIES)
+    check("a later as-at with no logged reassessment behind it fails", any("more than one as-at" in x for x in p), True)
+    p = lint.assessment_problems(STUDY, late, EV, COUNTRIES, {("KEN", "digital.rural--clinics-hmis", "2026-10-10")})
+    check("a logged reassessment carries its own as-at", p, [])
     p = lint.assessment_problems(STUDY, good[:1], EV, COUNTRIES)
     check("a missing cell is named", p, ["CIV digital.rural--clinics-hmis: no row"])
     p = lint.assessment_problems(STUDY, good + [cellrow("KEN", "3")], EV, COUNTRIES)
