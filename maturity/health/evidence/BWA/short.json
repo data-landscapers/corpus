@@ -1,4 +1,4 @@
 {
-  "hmis": "All public health facilities reported through DHIS2 (2016-18), a share of all facilities; they report on paper (2025), keyed at a level not established.",
-  "emr": "All public hospitals held an electronic record (2019-20) and a centralised EMR reached 22 facilities in one district (March 2026); no shared record is established."
+  "hmis": "All public health facilities reported into the national system in 2016-18; they report on paper (2025), and it is unclear where the figures are entered.",
+  "emr": "All public hospitals kept electronic patient records in 2019-20, and a central system reached 22 facilities in one district by March 2026."
 }

@@ -34,7 +34,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 
 ### Botswana: 3 Established
 
-All public hospitals held an electronic record (2019-20) and a centralised EMR reached 22 facilities in one district (March 2026); no shared record is established.
+All public hospitals kept electronic patient records in 2019-20, and a central system reached 22 facilities in one district by March 2026.
 
 *Advancing.*
 
@@ -46,7 +46,7 @@ All public hospitals held an electronic record (2019-20) and a centralised EMR r
 
 ### Burundi: 3 Established
 
-41 of 71 hospitals held a patient record and six health centres piloted one (2023); no shared record or later coverage is established.
+41 of 71 hospitals kept electronic patient records and six health centres were piloting them in 2023; records are not shown to be shared.
 
 *Advancing.*
 
@@ -56,7 +56,7 @@ All public hospitals held an electronic record (2019-20) and a centralised EMR r
 
 ### Eswatini: 3 Established
 
-CMIS in 73% of all health facilities, 233 sites (2026), record shared between clinics; no current plan, domestic budget line or primary-clinic denominator held.
+A shared electronic record runs in 73% of all health facilities (2026); it stays at stage 3 because no current plan or budget was found.
 
 *Externally run; Community integrated; Advancing.*
 
@@ -68,7 +68,7 @@ CMIS in 73% of all health facilities, 233 sites (2026), record shared between cl
 
 ### Kenya: 3 Established
 
-Public Level 2 to 4 facilities reported migrated to the government's HMIS (September 2026); a shared record and primary clinics' own entry are not established.
+Public dispensaries, health centres and sub-county hospitals were reported moved onto the government's digital health system in September 2026; shared records are not confirmed.
 
 *Advancing.*
 
@@ -78,7 +78,7 @@ Public Level 2 to 4 facilities reported migrated to the government's HMIS (Septe
 
 ### Morocco: 3 Established
 
-Hospital system stated as deployed in all public hospitals (2024), with keyed patient files in one province's primary clinics; no shared record, no clinic count.
+A hospital record system is reported in all public hospitals (2024), and one province's primary clinics keep electronic patient files; sharing is not shown.
 
 *Advancing.*
 
@@ -91,7 +91,7 @@ Hospital system stated as deployed in all public hospitals (2024), with keyed pa
 
 ### Nigeria: 3 Established
 
-EMR at the point of care in 100 of Lagos State's 326 primary clinics (May 2025); no national share, and no shared record, is established.
+100 of Lagos State's 326 primary clinics record care electronically as it happens (May 2025); there is no national figure.
 
 *Advancing.*
 
@@ -102,7 +102,7 @@ EMR at the point of care in 100 of Lagos State's 326 primary clinics (May 2025);
 
 ### Rwanda: 3 Established
 
-All 42 district hospitals used an EMR in 2023 and eBuzima reached most public facilities by 2026; a shared record is not established.
+All 42 district hospitals used electronic patient records in 2023, and the national system reached most public facilities by 2026; shared records are not shown.
 
 *Advancing.*
 
@@ -112,7 +112,7 @@ All 42 district hospitals used an EMR in 2023 and eBuzima reached most public fa
 
 ### Somalia: 3 Established
 
-C+ DDS in over 40 facilities (April 2026) and RAAD in 111 primary facilities (2025). No denominator or unique patient identifier held.
+Two electronic record systems run in over 40 facilities (April 2026) and 111 primary facilities (2025); their share of all clinics is unknown.
 
 *Advancing.*
 
@@ -124,7 +124,7 @@ C+ DDS in over 40 facilities (April 2026) and RAAD in 111 primary facilities (20
 
 ### South Africa: 3 Established
 
-Hospital systems in five provinces and 308 Western Cape primary facilities, August 2025; no national count in use, no shared record established.
+Hospital systems run in five provinces and 308 Western Cape primary facilities use electronic records (August 2025); there is no national count.
 
 *Advancing.*
 
@@ -138,7 +138,7 @@ Hospital systems in five provinces and 308 Western Cape primary facilities, Augu
 
 ### Tanzania: 3 Established
 
-GOT-HoMIS in 23.25% of all health facilities, read as primary clinics (SARA 2023); a shared record is not established.
+A government system runs in 23.25% of all health facilities (2023 survey); records are not shown to be shared between facilities.
 
 - The Citizen, citing recent Government reporting, states that electronic medical record coverage has reached 100 percent of national, specialised, zonal and regional referral hospitals and that adoption has expanded across district hospitals, health centres and dispensaries, with no figures for the lower tiers; the document gives no date for this, so its published date is used ([source, 2026-09-01](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-digital-health-push-puts-ai-hospital-technology-on-procurement-agenda-5579848)).
 - The mid-term review's figure of facilities using GOT-HoMIS, from SARA 2023, gives 23.25% of health facilities overall, against 32.1% of district hospitals, 44.9% of health centres and 10.63% of dispensaries; this is a share of all facilities, with no numerator or denominator ([source, 2023](https://ihi.or.tz/media/List_and_report/MTR_Data_Management_-_REPORT_iGUVS7W.pdf)).
@@ -147,7 +147,7 @@ GOT-HoMIS in 23.25% of all health facilities, read as primary clinics (SARA 2023
 
 ### Uganda: 3 Established
 
-The ministry's EMR ran in referral and general hospitals, 5 Health Centre IVs and 2 IIIs in 2025; no shared record or clinic share.
+The ministry's electronic record ran in referral and general hospitals and seven health centres in 2025; records are not shown to be shared.
 
 *Advancing.*
 
@@ -160,7 +160,7 @@ The ministry's EMR ran in referral and general hospitals, 5 Health Centre IVs an
 
 ### Zambia: 3 Established
 
-SmartCare Pro was in use at 877 of 3,540 health facilities of all kinds (April 2025); primary clinics' share and shared-record use are not established.
+An electronic record system was in use at 877 of 3,540 health facilities of all kinds (April 2025); the share of primary clinics is unknown.
 
 *Advancing.*
 
@@ -172,7 +172,7 @@ SmartCare Pro was in use at 877 of 3,540 health facilities of all kinds (April 2
 
 ### Zimbabwe: 3 Established
 
-Impilo ran in 1,254 health facilities of all types, of 1,900 planned (August 2025); record retrieval elsewhere and primary clinics' own entry are not established.
+An electronic record system ran in 1,254 health facilities of all types in August 2025, out of 1,900 planned; shared records are not shown.
 
 - The Global Fund says 1,254 health facilities were implementing the Impilo EMR as of August 2025, with deployment planned for all 1,900 health facilities; the count is of all health facilities, not primary clinics alone ([source, 2025-08](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf)).
 - The abstract states that Impilo captures real-time clinical and administrative data for services including HIV testing, antiretroviral therapy and maternal and child health, and that facility data is stored in centralised repositories and a national data warehouse; it does not say a record can be retrieved at another facility. No date is given, so the document's published date is used ([source, 2025](https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859)).
@@ -180,7 +180,7 @@ Impilo ran in 1,254 health facilities of all types, of 1,900 planned (August 202
 
 ### Algeria: 2 Nascent
 
-An electronic medical record is placed in hospitals in September 2026; no count of hospitals and nothing on primary clinics is established.
+An electronic medical record is being introduced in hospitals (September 2026); how many is not known, and nothing covers primary clinics.
 
 *Advancing.*
 
@@ -189,13 +189,13 @@ An electronic medical record is placed in hospitals in September 2026; no count 
 
 ### Angola: 2 Nascent
 
-One hospital's obstetric record prototype under test, keyed retrospectively (2019); nothing since, so tiers, clinic use and governance not established.
+One hospital was testing a prototype electronic record for maternity care in 2019, entered after the event; nothing is known since.
 
 - The authors state that a prototype electronic clinical record for obstetrics at the 180-bed Irene Neto Maternity Hospital in Lubango was in its test phase, with the clinical processes of deliveries from the fourth quarter of 2016 being entered retrospectively in the admission, archive and medical statistics section; the document gives no date for this, so its publication date is used ([source, 2019-11](http://www.academicstar.us/UploadFile/Picture/2020-7/2020716175015266.pdf)).
 
 ### Burkina Faso: 2 Nascent
 
-OpenClinic ran at two pilot hospitals in 2025 and one package at a university hospital (2023); primary clinics and point-of-care recording are not established.
+Electronic patient records ran at two pilot hospitals in 2025 and one university hospital in 2023; primary clinics are not shown using them.
 
 - The paper's abstract reports a pilot deployment of OpenClinic GA at one hospital, the Manga University and Regional Hospital Center, between 2024 and 2025, ending in full digitisation of admissions, high use of the pharmacy module and effective use of the electronic patient record across multiple departments; it names no other facility ([source, 2025](https://doi.org/10.3233/shti260468)).
 - NetAfrique reports that the OpenClinic platform, an integrated hospital management system whose functions include clinical and nursing records, is deployed at pilot sites, namely the CHUR of Ouahigouya and the CHR of Manga; the article states no date, so the published date is used ([source, 2025-07-18](https://netafrique.net/digitalisation-de-la-gestion-des-hopitaux-au-burkina-des-administrateurs-en-formation-dans-la-region-du-nazinon/)).
@@ -203,7 +203,7 @@ OpenClinic ran at two pilot hospitals in 2025 and one package at a university ho
 
 ### Cameroon: 2 Nascent
 
-Ministry's Bahmni record deployed in about fifty pilot facilities (2020-2024); their level, routine hospital use and a procured national record are not established.
+The ministry's patient record was installed in about fifty pilot facilities between 2020 and 2024; routine use in hospitals is not shown.
 
 *Advancing.*
 
@@ -214,7 +214,7 @@ Ministry's Bahmni record deployed in about fifty pilot facilities (2020-2024); t
 
 ### Cape Verde: 2 Nascent
 
-Medicine One in use only in Praia's health centres and central hospital, February 2024; no site count, place of entry or clinic share established.
+Electronic patient records are in use only in Praia, at its health centres and central hospital (February 2024).
 
 *Advancing.*
 
@@ -222,7 +222,7 @@ Medicine One in use only in Praia's health centres and central hospital, Februar
 
 ### Central African Republic: 2 Nascent
 
-e-SENI in phased deployment at hospitals and health centres (2026); number of sites, hospital level and any clinics figure not established.
+An electronic patient record is being introduced in stages at hospitals and health centres (2026); the number of sites is not known.
 
 *Advancing.*
 
@@ -232,7 +232,7 @@ e-SENI in phased deployment at hospitals and health centres (2026); number of si
 
 ### Cote d'Ivoire: 2 Nascent
 
-The ministry's patient record ran in every service of one general hospital from August 2024; the 268 establishments connected by March 2025 carry no tier.
+The ministry's patient record ran throughout one general hospital from August 2024; 268 establishments were connected by March 2025, of unstated type.
 
 *Advancing.*
 
@@ -243,7 +243,7 @@ The ministry's patient record ran in every service of one general hospital from 
 
 ### Egypt: 2 Nascent
 
-Electronic health records are at early pilots (government compact, December 2025); no count of hospitals or clinics with a denominator is established.
+Electronic health records are at an early pilot stage (government compact, December 2025); no count of hospitals or clinics is given.
 
 *Advancing.*
 
@@ -253,7 +253,7 @@ Electronic health records are at early pilots (government compact, December 2025
 
 ### Ethiopia: 2 Nascent
 
-Over 70 facilities had an EMR by December 2024, 10 paperless; national pilot due 2026. Tier, denominator and use across most hospitals not established.
+More than 70 facilities had electronic patient records by December 2024, 10 of them paperless; a national pilot is due in 2026.
 
 *Advancing.*
 
@@ -265,7 +265,7 @@ Over 70 facilities had an EMR by December 2024, 10 paperless; national pilot due
 
 ### Gabon: 2 Nascent
 
-eGabon-SIS ran in 13 pilot sites in Grand Libreville in February 2026, two of them health centres; no primary-clinic count or denominator established.
+A national patient record ran at 13 pilot sites in greater Libreville in February 2026, two of them health centres.
 
 *Advancing.*
 
@@ -276,7 +276,7 @@ eGabon-SIS ran in 13 pilot sites in Grand Libreville in February 2026, two of th
 
 ### Gambia: 2 Nascent
 
-One referral hospital piloted an electronic medical record in 2023; whether it or a contracted four-facility pilot still runs is not established.
+One referral hospital piloted an electronic medical record in 2023; it is not known whether that pilot, or a contracted four-facility one, still runs.
 
 - The World Bank states that the Bluesquare contract for the electronic National Health Insurance System, under its Essential Health Services Strengthening Project, was amended to include an electronic health records system using OpenClinic ([source, 2023-06-20](https://documents1.worldbank.org/curated/en/099062323150011889/txt/BOSIB0afda2c060e808f83098c6dd3a423e.txt)).
 - The Ministry of Health's policy states that the health sector does not have a robust electronic medical record system in place and that sufficient ICT infrastructure is needed to establish one; it names no facility using one. Undated, so the published date is used ([source, 2024-02-28](https://moh.gov.gm/wp-content/uploads/2026/05/FINAL-NATIONAL-HEALTH-POLICY_28-FEB-2024.pdf)).
@@ -284,7 +284,7 @@ One referral hospital piloted an electronic medical record in 2023; whether it o
 
 ### Ghana: 2 Nascent
 
-LHIMS's contract lapsed in December 2024; GHIMS was ordered in October 2025; 15% of all health facilities have EMRs (2025 plan); GHIMS's reach not established.
+The national hospital record system's contract lapsed in December 2024 and a replacement was ordered in October 2025; its reach is not yet known.
 
 *Advancing; Regressing.*
 
@@ -297,7 +297,7 @@ LHIMS's contract lapsed in December 2024; GHIMS was ordered in October 2025; 15%
 
 ### Guinea: 2 Nascent
 
-Three separate records ran in some hospitals and pilot facilities in 2026, entered at point of care; no hospital denominator or health-centre count held.
+Three separate patient record systems ran in some hospitals and pilot facilities in 2026, with records entered during care; no totals are held.
 
 *Advancing.*
 
@@ -307,7 +307,7 @@ Three separate records ran in some hospitals and pilot facilities in 2026, enter
 
 ### Lesotho: 2 Nascent
 
-eRegister in 197 public facilities (November 2025); general care recorded on paper at rural health centres (2023); no denominator or hospital-clinic split held.
+An electronic register ran in 197 public facilities in November 2025, while rural health centres recorded general care on paper (2023).
 
 - The Ministry of Health's HIV programme, presenting at the CQUIN meeting of November 2025, states that the OpenMRS/Bahmni-based EMR/eRegister is currently in 197 public facilities, 92% of them at Stage 2 (hybrid with more automation) for ART reports and 75% for the HTS report; it gives no denominator and does not split hospitals from clinics, and the date is the document's ([source, 2025-11](https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf)).
 - MCC states that a pregnant woman who tests negative for HIV or TB at a rural health centre has her care recorded on paper, in a health booklet she carries, while an HIV-positive patient's care is recorded in an electronic medical record; MCC gives no date, so the document's is used ([source, 2023-12-11](https://www.mcc.gov/blog/entry/blog-121123-digital-health-lesotho/)).
@@ -315,7 +315,7 @@ eRegister in 197 public facilities (November 2025); general care recorded on pap
 
 ### Liberia: 2 Nascent
 
-A vendor's platform runs at a handful of pilot clinics and health centers (September 2026); the number of Liberian facilities live is not established.
+A vendor's system runs at a handful of pilot clinics and health centres (September 2026); the exact number is not known.
 
 *Advancing.*
 
@@ -325,7 +325,7 @@ A vendor's platform runs at a handful of pilot clinics and health centers (Septe
 
 ### Libya: 2 Nascent
 
-One teaching hospital partly applying a system, reported in 2025, and a two-clinic trial in 2022; nothing shows the trial continuing.
+One teaching hospital was partly using a system in 2025, and two clinics ran a trial in 2022 that is not shown continuing.
 
 - A Sabratha University field study says Sabratha Teaching Hospital has moved to apply an electronic medical records system but difficulties prevent its full use; 80 staff (doctors, nurses, administrators) were surveyed. No date is given for the survey, so the publication date is used ([source, 2025-12-24](https://cjos.histr.edu.ly/index.php/journal/article/download/1132/922)).
 - The study's author states that most public hospitals in Libya use traditional paper records, with a clear trend towards adopting electronic medical records that is slow or stalled in many government hospitals; no figures given, and no date, so the publication date is used ([source, 2025-12-24](https://cjos.histr.edu.ly/index.php/journal/article/download/1132/922)).
@@ -335,7 +335,7 @@ One teaching hospital partly applying a system, reported in 2025, and a two-clin
 
 ### Madagascar: 2 Nascent
 
-Electronic records run in some private establishments and some health centres (2024); no count, share or district is held, and no hospital use.
+Some private establishments and some health centres kept electronic records in 2024; no numbers are held, and no hospital use is shown.
 
 - The AMC-MAD congress report on Datasanté's site states that, at the cyber-health round table of 5 November 2024 attended by the health ministry (DGFS) and DEPSI, the electronic personal medical record was described as functional in some private establishments and some basic health centres (CSB), with technical and financial obstacles slowing implementation at scale; no figures are given ([source, 2024-11-05](https://www.datasante.org/par-pays/a-madagascar/congres/seconde-edition-des-journees-internationales-de-la-medecine-generale-communautaire-et-du-numerique-dans-la-sante-madagascar-du-25-au-30-octobre-2022)).
 - The congress report states that the computerised patient record software used in Madagascar's community medical centres is Datasanté's, that the Datasanté team trained practitioners on it and on the DATABOX on 7 November 2024, and that AMC-MAD (the community doctors' association) and Datasanté signed a convention on 6 November 2024 continuing their partnership and extending the network of front-line doctors using it ([source, 2024-11-06](https://www.datasante.org/par-pays/a-madagascar/congres/seconde-edition-des-journees-internationales-de-la-medecine-generale-communautaire-et-du-numerique-dans-la-sante-madagascar-du-25-au-30-octobre-2022)).
@@ -343,7 +343,7 @@ Electronic records run in some private establishments and some health centres (2
 
 ### Malawi: 2 Nascent
 
-Mahis is in pilot at one central hospital and selected health centres (September 2026); the number of health centres is not given.
+A national record system is being piloted at one central hospital and selected health centres (September 2026); how many centres is not stated.
 
 *Advancing.*
 
@@ -353,7 +353,7 @@ Mahis is in pilot at one central hospital and selected health centres (September
 
 ### Mali: 2 Nascent
 
-One Bamako hospital with a point-of-care circuit (2026), 27 project-equipped CSCom (2022); use by most hospitals or by clinics across districts is not established.
+One Bamako hospital records care electronically as it happens (2026), and 27 community health centres were equipped under a project in 2022.
 
 - The health ministry's communication network reports that on the minister's visit of 27 July 2026 the Hôpital dermatologie de Bamako ran a fully digitised consultation circuit, from registration through consultation and laboratory to pharmacy, joined by a unique patient identification number; one hospital, the system unnamed and the tier not stated by the document ([source, 2026-07-27](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/)).
 - At the Hôpital dermatologie de Bamako on 27 July 2026 the registration desk, the consultation, the laboratory and the pharmacy each worked in the system on the patient's unique number as the patient passed through, with consultation and medicine fees paid electronically, as the ministry's communication network reports ([source, 2026-07-27](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/)).
@@ -363,14 +363,14 @@ One Bamako hospital with a point-of-care circuit (2026), 27 project-equipped CSC
 
 ### Mauritania: 2 Nascent
 
-One pilot health centre, Sebkha, had digitised patient records (2022); nothing later shows whether it still runs or has spread.
+One pilot health centre, Sebkha, had digitised its patient records in 2022; nothing shows whether it continues or has spread.
 
 - AMI reports the Ministry of Health's secretary general visiting the Sebkha health centre in Nouakchott-Ouest, which he called a pilot centre that has digitised patients' health records and a model for all the country's health and hospital facilities, and saying the whole patient pathway from consultation to discharge would be fully digital by 2025; the page carries no date, so dated to its published year, 2022 ([source, 2022](https://ami.mr/fr/archives/209725)).
 - AMI reports that patients' health records have been digitised at one health centre, that of the Sebkha district in Nouakchott-Ouest, described as a pilot; no other facility is named; the page carries no date, so dated to its published year, 2022 ([source, 2022](https://ami.mr/fr/archives/209725)).
 
 ### Mauritius: 2 Nascent
 
-e-Health runs at one regional hospital and several primary structures of its region (May 2026); no count or share of primary clinics is established.
+An electronic health system runs at one regional hospital and several primary care sites in its region (May 2026); how many sites is not known.
 
 *Advancing.*
 
@@ -380,7 +380,7 @@ e-Health runs at one regional hospital and several primary structures of its reg
 
 ### Mozambique: 2 Nascent
 
-One hospital, Mavalane General, went digital with SIS-H in December 2024; point-of-care use, SIS-RME's release and any clinic count are not established.
+One hospital, Mavalane General, went digital in December 2024; no clinic is shown using electronic patient records.
 
 *Advancing.*
 
@@ -388,14 +388,14 @@ One hospital, Mavalane General, went digital with SIS-H in December 2024; point-
 
 ### Namibia: 2 Nascent
 
-IHCIMS is fully deployed at two hospitals only, with paper records in most hospitals and clinics (2025 study); primary clinics' use not established.
+An electronic system is fully in place at only two hospitals; most hospitals and clinics keep paper records (2025 study).
 
 - The study (20 IT and health-information staff of the Ministry of Health and Social Services head office and Windhoek Central Hospital) states that the Integrated Health Care Information Management System, launched in 2011 for every facility, was fully deployed only at Windhoek Central Hospital and Oshakati State Hospital, with 19 of 20 respondents saying it has been used there since launch and 1 that it was never used; the system is described as still under development; no date is given for the position, so the published date is used ([source, 2025-09](https://journal-isi.org/index.php/isi/article/download/1185/612)).
 - The authors state that the ministry still relies on paper records in most hospitals and clinics, that practitioners reach a patient's record only through the paper health passport and manual records, that there is no unique patient identifier and no integrated electronic record system in the public sector; no date is given, so the published date is used ([source, 2025-09](https://journal-isi.org/index.php/isi/article/download/1185/612)).
 
 ### Niger: 2 Nascent
 
-Computerised records set up in health centres and district hospitals of three districts (November 2024); no count of centres or place of entry is held.
+Computerised patient records were set up in health centres and district hospitals in three districts (November 2024); how many centres is not known.
 
 *Advancing.*
 
@@ -405,7 +405,7 @@ Computerised records set up in health centres and district hospitals of three di
 
 ### Sao Tome and Principe: 2 Nascent
 
-A patient record was piloted at the central hospital and one health area in 2022; whether it was evaluated or extended is not established.
+A patient record was piloted at the central hospital and in one health area in 2022; whether it was extended is not known.
 
 - The plan refers to a pilot phase of the single clinical process at the Ayres de Menezes central hospital and the Água Grande Health Area, to be evaluated before expansion to the whole national health system; it does not name the facilities of the health area, and the date is the plan's, September 2022 ([source, 2022-09](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/STP_Sao-Tome-and-Principe_National-Health-Development-Plan_2023-2032.pdf)).
 - The plan describes the single clinical process as in a pilot phase at the Ayres de Menezes Hospital and the Água Grande Health Area, with computerised clinical records to be introduced gradually through a pilot model of health centres and the central hospital; no count of facilities is given, and the date is the plan's, September 2022 ([source, 2022-09](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/STP_Sao-Tome-and-Principe_National-Health-Development-Plan_2023-2032.pdf)).
@@ -414,7 +414,7 @@ A patient record was piloted at the central hospital and one health area in 2022
 
 ### Senegal: 2 Nascent
 
-The record runs at pilot sites, 1% of 102 health centres (October 2025); health posts are uncounted and retrieval elsewhere is not established.
+The patient record runs only at pilot sites, in 1% of the 102 health centres (October 2025); health posts are not counted.
 
 - The World Bank's implementation report records 1% of health centres using electronic medical records at 31 October 2025, against 0% at baseline and a 20% target for May 2028; the denominator is the 102 district-level 'centres de santé' only, and a centre counts if at least 30% of its consultations are recorded electronically ([source, 2025-10-31](https://documents1.worldbank.org/curated/en/099112125172011631/pdf/P172524-657f27b1-2c02-496e-a944-90d4ab9bfee7.pdf)).
 - The World Bank's implementation report measures EMR use at district-level health centres ('centres de santé'), recording 1% of the 102 as users at 31 October 2025, and counts 200,000 primary care patients with an electronic medical record available on the same date; it reports no use at any other tier ([source, 2025-10-31](https://documents1.worldbank.org/curated/en/099112125172011631/pdf/P172524-657f27b1-2c02-496e-a944-90d4ab9bfee7.pdf)).
@@ -427,14 +427,14 @@ The record runs at pilot sites, 1% of 102 health centres (October 2025); health 
 
 ### Seychelles: 2 Nascent
 
-A ministry system encompassing electronic medical records, operational since end-2021 (reported January 2024); tiers, point of entry and clinics using it are not established.
+A ministry system that includes electronic medical records has run since the end of 2021 (reported January 2024); who uses it is not known.
 
 - Seychelles Nation, from a Ministry of Health press release, reports at the ministry's digital health visioning meeting of 22 January 2024 that the Electronic Health Information System has been operational since the end of 2021 and that the ministry is now trying to link it with laboratories and X-ray so doctors get results on their computers ([source, 2024-01-22](https://www.nation.sc/articles/20833/leaders-scrutinize-seychelles-digital-health-transformation)).
 - Seychelles Nation reports the health minister saying on 17 October 2023 that the Ministry of Health is investing in an Electronic Health Information System encompassing Electronic Medical Records, to be accessible to all health professionals throughout the system, is building its capacity to use it, and is working with the ICT department on the security of citizens' health information ([source, 2023-10-17](https://www.nation.sc/articles/19775/digital-maturity-of-seychelles-health-sector-in-the-spotlight--by-sunny-esparon-)).
 
 ### Sierra Leone: 2 Nascent
 
-EMR runs at Koidu Government Hospital and Wellbody Clinic (2026), Connaught Hospital as a 2023 pilot; the Ministry's national EMR is not shown procured.
+Electronic records run at one government hospital and one clinic (2026); a national system is not known to have been bought.
 
 *Advancing.*
 
@@ -446,7 +446,7 @@ EMR runs at Koidu Government Hospital and Wellbody Clinic (2026), Connaught Hosp
 
 ### Sudan: 2 Nascent
 
-Hospital management system with electronic medical record launched at two hospital sites on 11 May 2026; routine use and the hospitals' level are not established.
+A hospital system with electronic medical records was launched at two hospital sites on 11 May 2026; routine use is not yet shown.
 
 *Advancing.*
 
@@ -455,7 +455,7 @@ Hospital management system with electronic medical record launched at two hospit
 
 ### Tunisia: 2 Nascent
 
-Record fully used in 50% of university and 32% of regional hospitals (2025), pilot sites in Nabeul's primary care; no hospital or clinic count.
+Electronic records are fully used in 50% of university hospitals and 32% of regional hospitals (2025), with pilot sites in one region's primary care.
 
 *Advancing.*
 
@@ -466,13 +466,13 @@ Record fully used in 50% of university and 32% of regional hospitals (2025), pil
 
 ### Comoros: 1 Absent
 
-The Ministry stated in July 2021 that no electronic patient record exists in the country; nothing dated since confirms or replaces it.
+The Ministry of Health stated in July 2021 that the country has no electronic patient records; nothing since confirms or changes this.
 
 - The Ministry of Health's strategy of July 2021 states that the electronic patient record (Dossier Electronique du Patient) does not exist in the country, listing it with telemedicine, m-health applications and online training as components that are absent ([source, 2021-07](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/com_comoros_strategie-nationale-de-sant-numerique_2022-2026.pdf)).
 
 ### Togo: 1 Absent
 
-No electronic health record system was established at December 2025, per the World Bank; whether every tier keeps paper records is not established.
+The World Bank reported in December 2025 that no electronic health record system was in place.
 
 *Advancing.*
 
@@ -481,13 +481,13 @@ No electronic health record system was established at December 2025, per the Wor
 
 ### Benin: Unplaced
 
-Only a pledged digital health booklet is held, from 2026; no source states a tier, where records are digitised, or that they are on paper.
+Only a promised digital health booklet is held, from 2026; nothing says whether patient records are electronic or on paper, so no stage is set.
 
 Not established: The only two rows (BEN-003, BEN-004) come from the excluded source, Africa we have a data problem, and set nothing. No admitted row states a tier, a place of digitisation or a clinic count for an EMR, and none gives the dated statement of paper at every tier that stage 1 needs; systems.csv holds a digital health booklet only as a pledge.
 
 ### Chad: Unplaced
 
-Visa Medical partnership reported and a ministry meeting on an electronic record (2026); no facility in use, tier or clinic figure held, so no rung.
+A partnership and a ministry meeting on electronic records were reported in 2026, but no facility is shown using one, so no stage is set.
 
 *Advancing.*
 
@@ -495,13 +495,13 @@ Not established: No coverage fact is held: no tier, no place of digitisation and
 
 ### Congo: Unplaced
 
-A public hospital's organisation decree (gazetted February 2026) names a hospital information system, not said to hold clinical records; no source describes patient records.
+A February 2026 decree names a hospital information system at one public hospital, but no source describes patient records, so no stage is set.
 
 Not established: The only two EMR rows (COG-003, COG-004) come from the excluded source '2026-03-31 Africa we have a data problem' and set nothing, so the dated statement of absence stage 1 needs is not held from an admissible source. systems.csv names a 'système d'information hospitalier' in a public hospital's organisation decree, unclassified and not said to hold the clinical record.
 
 ### DR Congo: Unplaced
 
-Equipment for approved hospital information systems delivered (2024–25) and approval opened (2026); no facility is stated to be using a patient record.
+Equipment for hospital information systems was delivered in 2024-25, but no facility is said to use electronic patient records, so no stage is set.
 
 *Advancing.*
 
@@ -509,30 +509,30 @@ Not established: No row states that any facility uses an electronic patient reco
 
 ### Djibouti: Unplaced
 
-A 2024 report describes paper medical follow-up, naming no tier or system; no EMR is named at any tier, so no rung is set.
+A 2024 report describes patient follow-up on paper without saying where; no electronic record system is named, so no stage is set.
 
 Not established: Two rows, neither able to set a rung: DJI-003 is from the excluded compilation, and DJI-014 is a general 2024 statement of paper follow-up that names no tier and no system. No row names an EMR at any tier, and none states that patient records are on paper at every tier.
 
 ### Equatorial Guinea: Unplaced
 
-Only DHIS2 trackers for vaccination and HIV follow-up are held, of 2025; no patient record system or paper position is stated, so no rung.
+Only tracking tools for vaccination and HIV follow-up are held (2025); nothing describes patient records, electronic or paper, so no stage is set.
 
 Not established: The only EMR rows (GNQ-003, GNQ-004, GNQ-005) come from the excluded source, Africa we have a data problem, and set nothing; no admitted source states either a patient record system or the paper position. systems.csv holds only noted classes on the patient side: DHIS2 trackers for routine vaccination and HIV follow-up.
 
 ### Eritrea: Unplaced
 
-Only a DHIS2 tracker programme and unspecified patient-level systems held; no EMR named, no dated statement of paper records, so no rung.
+Only a patient-tracking programme is held; no electronic patient record is named and nothing says records are on paper, so no stage is set.
 
 Not established: The only EMR row (ERI-002) is from the excluded source and sets nothing. No admissible row names an EMR at any tier, and none gives the dated statement that patient records are on paper at every tier which stage 1 needs.
 
 ### Guinea-Bissau: Unplaced
 
-One private Bissau clinic's electronic patient record is held, as at June 2023; no source gives tiers or primary clinics, so no rung is set.
+The only record held is one private clinic's in Bissau (June 2023); nothing describes hospitals or primary clinics more widely, so no stage is set.
 
 Not established: Three of the four rows (GNB-003, GNB-004, GNB-005) come from the excluded source and set nothing, including the only paper statements and the only clinics value. The one remaining row (GNB-015) is a single private clinic in Bissau of unstated tier, as at June 2023: it does not carry the country, and nothing is held on tiers, primary clinics, governance or the last twelve months.
 
 ### South Sudan: Unplaced
 
-Only an OpenMRS ART register at five sites, a tracker, is held; no EMR in use or dated statement of paper records sets a rung.
+Only an HIV treatment register at five sites is held; nothing shows general patient records, electronic or paper, so no stage is set.
 
 Not established: The one EMR row, SSD-005, is from the excluded source and sets nothing, so neither a system in use nor a dated statement of paper records at every tier is held. systems.csv holds only a noted class, the OpenMRS ART E-register at five sites (tracker), plus an unnamed and unclassified 22.4% of facilities with facility-wide electronic systems.

@@ -1,4 +1,4 @@
 {
-  "hmis": "DHIS2 takes health centres' reports in all 114 districts, keyed at district from paper (2023); no count of clinics entering their own is held.",
-  "emr": "Electronic records run in some private establishments and some health centres (2024); no count, share or district is held, and no hospital use."
+  "hmis": "Health centres in all 114 districts report into the national system, with district offices entering their paper forms (2023).",
+  "emr": "Some private establishments and some health centres kept electronic records in 2024; no numbers are held, and no hospital use is shown."
 }

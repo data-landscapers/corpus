@@ -34,7 +34,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 
 ### Togo: 4 Operating
 
-96.5% of all health facilities keyed complete reports into DHIS2 in 2021, per the ministry; no share for primary clinics alone, nothing newer.
+96.5% of all health facilities entered complete reports into the national system in 2021, the ministry says; there is no separate figure for primary clinics.
 
 *Advancing; Community integrated.*
 
@@ -44,7 +44,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 
 ### Angola: 3 Established
 
-Facilities report on paper and DHIS2 is keyed at municipal or provincial level (2025); tiers and any clinic entering its own reports not established.
+Clinics report on paper, and municipal or provincial offices enter the figures into the national reporting system (2025).
 
 *Advancing.*
 
@@ -53,7 +53,7 @@ Facilities report on paper and DHIS2 is keyed at municipal or provincial level (
 
 ### Benin: 3 Established
 
-Every zone sanitaire keyed facilities' paper reports into DHIS2 in 2022; the number of primary clinics entering their own reports is not published.
+Health zone offices entered clinics' paper reports into the national system in 2022; how many clinics enter their own is not published.
 
 *Community integrated.*
 
@@ -65,7 +65,7 @@ Every zone sanitaire keyed facilities' paper reports into DHIS2 in 2022; the num
 
 ### Botswana: 3 Established
 
-All public health facilities reported through DHIS2 (2016-18), a share of all facilities; they report on paper (2025), keyed at a level not established.
+All public health facilities reported into the national system in 2016-18; they report on paper (2025), and it is unclear where the figures are entered.
 
 - WHO's 2024-2025 report lists heavy reliance on paper-based reporting by facilities as a challenge and recommends revising the DHIS2 dashboards and trackers 'to enable onsite data capturing', so entry is not at the facility; the report does not name the level at which the paper reports are keyed (no figures given) ([source, 2025](https://www.afro.who.int/sites/default/files/2026-05/WHO%20Botswana%20Biennial%20Report%202024-2025_web.pdf)).
 - MEASURE Evaluation's country profile, as of August 2019 and on an in-country contact, records a national deployment of DHIS2 used for aggregating health data from all facilities within the country ([source, 2019-08](https://www.measureevaluation.org/his-strengthening-resource-center/country-profiles-1/botswana.html)).
@@ -73,7 +73,7 @@ All public health facilities reported through DHIS2 (2016-18), a share of all fa
 
 ### Burkina Faso: 3 Established
 
-In 2024 Endos-BF took hospitals' and health facilities' monthly reports, keyed at district or facility; no share of clinics keying their own is published.
+Clinics and hospitals reported into the national system in 2024, entered at district or facility; the share of clinics entering their own is not published.
 
 *Advancing.*
 
@@ -86,7 +86,7 @@ In 2024 Endos-BF took hospitals' and health facilities' monthly reports, keyed a
 
 ### Burundi: 3 Established
 
-DHIS2 reaches health centres, which key their own reports (2023); no share or count of health centres doing so is published.
+Health centres enter their own reports into the national reporting system (2023), but no figure shows how many of them do.
 
 *Advancing; Community integrated.*
 
@@ -97,7 +97,7 @@ DHIS2 reaches health centres, which key their own reports (2023); no share or co
 
 ### Cameroon: 3 Established
 
-DHIS2 nationwide with facility-level entry (ministry plan, April 2022); no share or count of primary clinics entering their own reports is held.
+The national system is in use countrywide with entry at the facility (2022 ministry plan), but no figure shows how many primary clinics do so.
 
 *Advancing.*
 
@@ -108,14 +108,14 @@ DHIS2 nationwide with facility-level entry (ministry plan, April 2022); no share
 
 ### Cape Verde: 3 Established
 
-DHIS-2 in operation in all national health service structures, February 2024; no share or count of primary clinics entering their own reports is established.
+The national reporting system operates in every public health facility (February 2024), but no figure shows how many primary clinics enter their own reports.
 
 - The Ministry of Health's terms of reference state that DHIS2, which manages aggregated health information mainly for epidemiological surveillance and has been implemented for routine epidemiological management since November 2018, is in operation in all structures of the national health service, which it lists as two central hospitals, four regional hospitals, 32 health centres, 34 health posts and 114 basic health units among others; no date is given for the position, so the document's published date is used ([source, 2024-02](https://www.mf.gov.cv/documents/20126/0/Terms%2Bof%2BReference%2B-ugpe.pdf/b0d39856-c19f-5ca9-2081-a9cdeb683c0a?t=1706880078938)).
 - The Ministry of Health's terms of reference say DHIS2 for aggregated data is in production in all SNS structures, which places the application in the structures themselves; it does not say in so many words who keys the reports, and the document is undated so the published month is used ([source, 2023-05](https://backend-ugpe.gov.cv/wp-content/uploads/2023/05/ToR-TA-FOR-THE-UPGRADE-OF-THE-HEALTH-INFORMATION.pdf)).
 
 ### Central African Republic: 3 Established
 
-DHIS2 deployed in all 35 districts with data managers (2025); 21.4% of 14 assessed facilities had electronic entry (2024); no national clinic share held.
+The national reporting system runs in all 35 districts (2025), but only 21.4% of 14 facilities checked in 2024 entered data electronically.
 
 - The poster states that DHIS2 has been deployed in all 35 health districts, with data managers recruited and offline and VSAT solutions used for connectivity; it does not say that facilities enter their own reports, and describes reporting systems before the reform as fragmented and mostly paper ([source, 2025](https://community.dhis2.org/t/dhis2-pour-la-reconstruction-du-snis-cas-de-la-rca/72669)).
 - The IMPULSE study (Journal of Global Health 2025) found that 21.4% of the 14 health facilities it assessed in the Central African Republic used a functional electronic system for routine data entry and analysis, against over 75% in Ethiopia, Tanzania and Uganda; the 14 were hospitals and health centres giving emergency obstetric care in Bangui and health regions 1, 2 and 7, chosen for access and security, with data collected between November 2022 and July 2024 ([source, 2024-07](https://jogh.org/wp-content/uploads/2025/12/jogh-15-04295n.pdf)).
@@ -124,7 +124,7 @@ DHIS2 deployed in all 35 districts with data managers (2025); 21.4% of 14 assess
 
 ### Chad: 3 Established
 
-Districts key health centres' monthly paper reports into DHIS2 (Gavi audit, 2024); no share or count of health centres entering their own reports is established.
+District offices enter health centres' monthly paper reports into the national system (Gavi audit, 2024); how many centres enter their own is not known.
 
 *Advancing.*
 
@@ -135,7 +135,7 @@ Districts key health centres' monthly paper reports into DHIS2 (Gavi audit, 2024
 
 ### Comoros: 3 Established
 
-DHIS2 reached 91 public health structures, 100% of all public facilities (WHO, 2025); where reports are keyed is not established.
+The national reporting system reached all 91 public health facilities (WHO, 2025), but it is not known where their reports are entered.
 
 - DHIS2 states that almost 99 percent of public health facilities already used DHIS2 for health service reporting before the eLMIS project launched in 2024; the share is of all public facilities (the document counts 74 sites), not of primary clinics alone, with no numerator given and no statement of where the reports are keyed ([source, 2024](https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/)).
 - WHO Comoros reports DHIS2 extended to 91 public-level health structures in 2025, which it gives as 100% of public-level structures; the figure is of all public structures the system reaches, not of primary clinics alone, and the report does not say whether each structure keys its own reports ([source, 2025](https://afro.who.int/sites/default/files/2026-05/OMS%20Comores%20_%20Rapport%20annuel%20des%20r%C3%A9sultats%202025%20%20PUBLICATION.pdf)).
@@ -145,7 +145,7 @@ DHIS2 reached 91 public health structures, 100% of all public facilities (WHO, 2
 
 ### Congo: 3 Established
 
-All 52 health districts key DHIS2 from facilities' paper reports (health plan, 2024); no share of primary clinics entering their own reports is published.
+All 52 health districts enter clinics' paper reports into the national system (2024); no figure shows how many clinics enter their own.
 
 *Advancing.*
 
@@ -156,7 +156,7 @@ All 52 health districts key DHIS2 from facilities' paper reports (health plan, 2
 
 ### Cote d'Ivoire: 3 Established
 
-First-contact establishments' paper reports were keyed into DHIS2 at departmental health directorates in 2020; nothing later says where clinics' reports are keyed.
+In 2020 departmental health offices entered clinics' paper reports into the national system; nothing more recent shows where reports are entered.
 
 *Community integrated.*
 
@@ -168,7 +168,7 @@ First-contact establishments' paper reports were keyed into DHIS2 at departmenta
 
 ### DR Congo: 3 Established
 
-Health zone offices key facilities' paper reports into DHIS2 (2021); 75.3% of all health facilities report in it (2022); facilities' own entry is not published.
+Health zone offices enter facilities' paper reports into the national system (2021), which covers 75.3% of all health facilities (2022).
 
 *Advancing; Community integrated.*
 
@@ -181,7 +181,7 @@ Health zone offices key facilities' paper reports into DHIS2 (2021); 75.3% of al
 
 ### Djibouti: 3 Established
 
-84% of all health facilities entered DHIS2 data at the facility (June 2025); no current plan or domestic budget line is held.
+84% of all health facilities entered their own data in June 2025; it stays at stage 3 because no current plan or budget was found.
 
 *Externally run.*
 
@@ -193,7 +193,7 @@ Health zone offices key facilities' paper reports into DHIS2 (2021); 75.3% of al
 
 ### Eritrea: 3 Established
 
-DHIS2 entered at zones and sub-zones (2024), on about 40% of secondary-and-above facilities (2021); no primary clinic shown entering its own reports.
+Reports are entered at zone and sub-zone offices (2024); no primary clinic is shown entering its own.
 
 - A DHIS2 Community post states that data enters the national DHIS2 from zones and sub-zones over the Ministry of Health's local networks, a model of decentralised entry and central analysis, running offline; it does not mention entry at facilities, and the position is undated, so the published date is used ([source, 2024-03-13](https://community.dhis2.org/t/overcoming-connectivity-barriers-the-role-of-dhis2-platform-in-enhancing-health-data-management-in-eritrea/57621)).
 - HSSDP III, as summarised in the record's note (section not captured verbatim), states that DHIS2 had been rolled out to about 40 per cent of facilities at secondary level and above, while data is collected from all health facilities through paper and electronic channels; no numerator or denominator is given ([source, 2021-10](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/ERI_Eritrea_Health%20Sector%20Strategic%20and%20Development%20Plan%20%28HSSDP%20III%29_2022-2026.pdf)).
@@ -202,7 +202,7 @@ DHIS2 entered at zones and sub-zones (2024), on about 40% of secondary-and-above
 
 ### Ethiopia: 3 Established
 
-Hospitals and health centres key reports into DHIS2 (2024); 95% is of all health facilities (2023). Health posts entering their own data not established.
+Hospitals and health centres enter their own reports into the national system (2024); it is not known whether health posts do.
 
 *Advancing.*
 
@@ -215,14 +215,14 @@ Hospitals and health centres key reports into DHIS2 (2024); 95% is of all health
 
 ### Gabon: 3 Established
 
-DHIS2 launched nationally in December 2024, with 122 data managers trained across 51 health departments; primary clinics entering their own reports not established.
+The national system was launched in December 2024, with 122 data managers trained across 51 health departments; clinics are not shown entering their own reports.
 
 - WHO Gabon states that at its December 2024 launch DHIS2 integrates all functional public health facilities, with extension to private facilities to follow in 2025; it names no tier and gives no count of facilities ([source, 2024-12](https://www.afro.who.int/sites/default/files/2025-07/Annual%20Report%202024%20Verso%20V.Final_.pdf)).
 - WHO Gabon states that the people trained to use DHIS2 in 2024 were 122 data managers and 10 regional health directors from all 51 health departments and 10 regions, equipped with 96 laptops and 122 modems; it describes no entry by facilities themselves ([source, 2024-12](https://www.afro.who.int/sites/default/files/2025-07/Annual%20Report%202024%20Verso%20V.Final_.pdf)).
 
 ### Gambia: 3 Established
 
-Facilities reported on paper and regional health directorates keyed DHIS2 in 2024; no share or count of primary clinics entering their own reports is published.
+Clinics reported on paper, and regional health offices entered the figures into the national reporting system, in 2024.
 
 *Community integrated.*
 
@@ -233,7 +233,7 @@ Facilities reported on paper and regional health directorates keyed DHIS2 in 202
 
 ### Ghana: 3 Established
 
-District offices key clinics' paper reports into DHIMS2 and some CHPS compounds enter their own (2024); no share of primary clinics entering is published.
+District offices enter clinics' paper reports into the national system, and some community health posts enter their own (2024); how many is not published.
 
 - The same survey presents community health officers' entry of data into DHIMS 2 'at the CHPS level', with routine monthly reporting compliance of 86% to 100% across the six districts (86 CHPS zones, March 2024); the authors add that facility reporting into DHIS2 is often high in Ghana ([source, 2024-03](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0341176)).
 - CHPS staff interviewed in Karaga, Mion and Sagnarigu (March 2024) said the platform is controlled from the district level, that CHPS compounds lack login details and computers, that entry depends on one or two computer-literate staff, and that paper reports are sent to the sub-district or left for the district office to upload into DHIMS2 ([source, 2024-03](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0341176)).
@@ -243,7 +243,7 @@ District offices key clinics' paper reports into DHIMS2 and some CHPS compounds 
 
 ### Guinea: 3 Established
 
-All levels reported into the ministry's DHIS2 in Q1 2026, clinics' paper keyed at district; no share of clinics entering their own is published.
+All levels reported into the national system in early 2026, with clinics' paper reports entered at district offices.
 
 *Advancing.*
 
@@ -253,7 +253,7 @@ All levels reported into the ministry's DHIS2 in Q1 2026, clinics' paper keyed a
 
 ### Guinea-Bissau: 3 Established
 
-Health centres' paper reports were keyed into DHIS2 at 11 health directorates as at June 2023; how many clinics enter their own is not published.
+Health centres' paper reports were entered into the national system at 11 health directorates (June 2023); how many clinics enter their own is not published.
 
 *Advancing.*
 
@@ -263,14 +263,14 @@ Health centres' paper reports were keyed into DHIS2 at 11 health directorates as
 
 ### Kenya: 3 Established
 
-KHIS takes facilities' reports nationwide, entered online at the facility (2024); no share or count of primary clinics entering their own reports is held.
+Facilities across the country enter their reports online into the national system (2024), but no figure shows how many primary clinics do so themselves.
 
 - IDinsight states that KHIS Aggregate collects data from health facilities nationwide and is designed to support health information management at all levels of the health system, from the national level down to the community level; it names no facility tier individually and gives no date, so the document's publication date is used ([source, 2024-10](https://www.idinsight.org/wp-content/uploads/2024/10/Financial-Non-Financial-Information-Flow-Kenya-Health-Sector.pdf)).
 - IDinsight states that KHIS Aggregate is web-based and lets health facilities enter and submit their data online, and that facilities record services in paper daily activity registers which are summarised at the end of the week or month and entered into KHIS; no date is given, so the document's publication date is used ([source, 2024-10](https://www.idinsight.org/wp-content/uploads/2024/10/Financial-Non-Financial-Information-Flow-Kenya-Health-Sector.pdf)).
 
 ### Lesotho: 3 Established
 
-231 facilities report HIV indicators in the ministry's DHIS2 (2025); facility entry shown only in four pilot districts to 2017; no clinic share published.
+231 facilities report HIV figures into the national system (2025); clinics entering their own data is shown only in four pilot districts, up to 2017.
 
 - The Ministry of Health's HIV programme states in November 2025 that DHIS2 has been strengthened for aggregated reporting, with facility reports automated from the EMR into DHIS2; it does not say how facilities without the EMR enter theirs, and the date is the document's ([source, 2025-11](https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf)).
 - The Ministry of Health's HIV programme states that 231 facilities report on HIV indicators and that reporting rates fell from 97% in January to 95% in September 2025, with a dip to 93% in June, and timeliness from 91% to 88% ([source, 2025-09](https://cquin.icap.columbia.edu/wp-content/uploads/2025/11/CQUIN-9th-Annual-Meeting_Lesotho-Country-updates-FINAL.pdf)).
@@ -281,7 +281,7 @@ KHIS takes facilities' reports nationwide, entered online at the facility (2024)
 
 ### Liberia: 3 Established
 
-All facilities report monthly into DHIS2 (2024), keyed by district and county clerks from paper forms (2022); no figure for clinics entering their own.
+All facilities report monthly into the national system (2024), with district and county clerks entering the figures from paper forms (2022).
 
 - The Ministry states that every health facility, public and private, is required under the 1976 Public Health Law to report monthly service utilisation data, that counties must submit complete routine data to the central Ministry by the 17th of the following month, and that the 2024 report compares all counties on aggregated routine data reported through DHIS2 (4.1 million consultations in 2024); it describes facility reporting completeness and timeliness as 'remarkable' but the passages give no rate, and do not say at which tier the data is keyed ([source, 2024](https://moh.gov.lr/wp-content/uploads/Ministry-of-Health-Annual-Report.pdf)).
 - Evidence Action's facility survey states that all 48 surveyed facilities in Montserrado, Margibi and Grand Bassa fill paper HMIS forms monthly and submit them to the district or county health team's office, where district or county data clerks enter the values into the online DHIS2 database; the records reviewed were for May to July 2022 ([source, 2022-07](https://files.givewell.org/files/DWDA%202009/Evidence_Action/Facility_Survey_Report_Liberia_Maternal%20Syphilis_2022.pdf)).
@@ -291,7 +291,7 @@ All facilities report monthly into DHIS2 (2024), keyed by district and county cl
 
 ### Libya: 3 Established
 
-DHIS2 rolled out to 465 primary care facilities and 51 hospitals in 2023; no share or count of primary clinics entering their own reports.
+The national system was rolled out to 465 primary care facilities and 51 hospitals in 2023; how many clinics enter their own reports is unknown.
 
 - WHO states that DHIS2 reached 100% national geographic coverage by March 2023 but that consistent reporting from health facilities remains a challenge; it gives no count or share of facilities, or of primary facilities, entering reports ([source, 2023-03](https://applications.emro.who.int/docs/9789292741716-eng.pdf)).
 - WHO and the Ministry of Health made supervisory visits to five health facilities in Suq Aljuma municipality, Tripoli, on 16-23 December 2024, assessing the facilities' DHIS2 data entry compliance, reporting timeliness and completeness and local data management capacity ([source, 2024-12](https://applications.emro.who.int/docs/9789292741716-eng.pdf)).
@@ -301,7 +301,7 @@ DHIS2 rolled out to 465 primary care facilities and 51 hospitals in 2023; no sha
 
 ### Madagascar: 3 Established
 
-DHIS2 takes health centres' reports in all 114 districts, keyed at district from paper (2023); no count of clinics entering their own is held.
+Health centres in all 114 districts report into the national system, with district offices entering their paper forms (2023).
 
 *Community integrated.*
 
@@ -311,7 +311,7 @@ DHIS2 takes health centres' reports in all 114 districts, keyed at district from
 
 ### Malawi: 3 Established
 
-DHIS2 takes paper reports from 1,266 facilities, keyed at district offices (2023); no count or share of health centres entering their own reports is published.
+District offices enter paper reports from 1,266 facilities into the national system (2023); how many health centres enter their own is not published.
 
 *Advancing.*
 
@@ -323,7 +323,7 @@ DHIS2 takes paper reports from 1,266 facilities, keyed at district offices (2023
 
 ### Mali: 3 Established
 
-CSCom, CSRéf and hospital routine data on the ministry's DHIS2 (2019); no share or count of primary clinics entering their own reports is held.
+Community and referral health centres and hospitals had routine data in the national system in 2019; how many clinics enter their own is not known.
 
 *Community integrated.*
 
@@ -334,7 +334,7 @@ CSCom, CSRéf and hospital routine data on the ministry's DHIS2 (2019); no share
 
 ### Mauritania: 3 Established
 
-DHIS2 is keyed at district level from health posts' paper reports (2023); no share or count of primary clinics entering their own reports is held.
+District offices enter health posts' paper reports into the national system (2023); no figure shows how many clinics enter their own.
 
 *Advancing.*
 
@@ -345,7 +345,7 @@ DHIS2 is keyed at district level from health posts' paper reports (2023); no sha
 
 ### Morocco: 3 Established
 
-A national reporting system was operational in every public health centre by December 2019, given as 100%; no count of centres entering their own reports.
+A national reporting system was working in every public health centre by December 2019; no figure shows how many centres enter their own reports.
 
 *Advancing.*
 
@@ -357,7 +357,7 @@ A national reporting system was operational in every public health centre by Dec
 
 ### Mozambique: 3 Established
 
-Facilities' monthly paper forms were keyed into SISMA at district health offices in 2019; no later coverage, tiers or clinic entry is established.
+District health offices entered facilities' monthly paper forms into the national system in 2019; nothing more recent is held.
 
 - A 2019 assessment by the University of Oslo, Eduardo Mondlane University and the Ministry of Health (Collinson et al.), covering 14 districts and 8 health units in six provinces, found that facilities' monthly data reached the district health office (SDSMAS) on paper forms, were validated there on paper or in Excel, and only then were entered into SISMA, in most districts visited by the district statistical officers, with entry shared with programme officers in Cuamba and delegated to nurses in Bilene and Cumbane ([source, 2019](https://www.mn.uio.no/ifi/english/research/groups/is/ifip-94/proceedings-virtual-conference-2021/all-papers/collinsonetal.pdf)).
 - A five-country study led with the Ministry of Health (Siyam et al., BMC Health Services Research) found in 2016-17 that Mozambique's public primary care facilities tallied paper registers onto monthly paper reporting forms (52 mandated, the most of the five countries; 25 in use) submitted to the district management office, where the forms' data were entered into the district management information system ([source, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436492/)).
@@ -365,14 +365,14 @@ Facilities' monthly paper forms were keyed into SISMA at district health offices
 
 ### Namibia: 3 Established
 
-District officers key facilities' monthly paper forms into DHIS2 (2026 study); clinics report on paper; no tiers or share of clinics entering established.
+Clinics report on paper, and district officers enter their monthly forms into the national reporting system (2026 study).
 
 - Healthcare managers interviewed for the study (15 managers, ||Kharas region and national level) state that district HIS officers key the monthly paper summary forms sent in by health facilities into the DHIS2 aggregate module at the district office; the document gives no date for this, so the published date is used ([source, 2026-03-26](https://sajim.co.za/index.php/sajim/article/view/2060/3547)).
 - The managers state that DHIS2 is used at district, regional and national levels while primary health facilities still report on paper tools, and the authors add that most facilities continue to rely on paper and that DHIS2 at the point of care is slow to arrive; no count or share is given, and no date, so the published date is used ([source, 2026-03-26](https://sajim.co.za/index.php/sajim/article/view/2060/3547)).
 
 ### Niger: 3 Established
 
-Ministry's 2023 guide has health centres key monthly reports into DHIS2; no share or count of centres doing so is held.
+A 2023 ministry guide has health centres enter their monthly reports into the national system; no figure shows how many do.
 
 - The health ministry's monitoring guide sets the circuit as: each health establishment fills a standard monthly activity report, validates it internally and keys it into DHIS2, the CSI entering its monthly report by the 15th of the following month and its notifiable-disease data each Monday; this is the prescribed procedure, not a measured practice ([source, 2023-12](https://p4h.world/app/uploads/2024/02/Guide-de-suivi-evaluation-du-PDSS_2022-2026_MoH_2023.x69485.pdf)).
 - The guide states that every health establishment, public and private, civil and military, keys its monthly report into DHIS2, naming integrated health centres (CSI) and hospitals as data sources without separating hospital levels, while health posts (cases de santé) and private structures send their data to their CSI by the 10th, where it is checked and keyed ([source, 2023-12](https://p4h.world/app/uploads/2024/02/Guide-de-suivi-evaluation-du-PDSS_2022-2026_MoH_2023.x69485.pdf)).
@@ -380,7 +380,7 @@ Ministry's 2023 guide has health centres key monthly reports into DHIS2; no shar
 
 ### Nigeria: 3 Established
 
-DHIS2 reporting rate 91.5% of all health facilities in June 2025, keyed at LGA offices from paper; primary clinics' own entry has no published share.
+91.5% of all health facilities reported into the national system in June 2025, with local government offices entering the figures from paper.
 
 - The Federal Ministry of Health's NHMIS bulletin gives the national health facility reporting rate for the NHMIS Monthly Summary (Version 2019) on DHIS-2 as 91.5% for June 2025 (93.4, 93.1, 90.9, 92.1 and 91.4% for January to May), and charts the rate by facility type, primary, secondary and tertiary, and by public and private ownership; no numerator or denominator is given ([source, 2025-06](https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf)).
 - The Federal Ministry of Health encourages states to continue to deploy mobile devices and computers for direct reporting to the DHIS-2, as more cost effective and better for data quality; it gives no count of facilities reporting directly ([source, 2025-06](https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf)).
@@ -388,7 +388,7 @@ DHIS2 reporting rate 91.5% of all health facilities in June 2025, keyed at LGA o
 
 ### Rwanda: 3 Established
 
-DHIS2 rolled out at all health facilities, keyed at the facility (audit to 2023); no current plan, finance or measured clinic share is held.
+Every health facility enters its own reports (audit to 2023); it stays at stage 3 because no current plan or budget was found.
 
 *Externally run; Community integrated.*
 
@@ -399,7 +399,7 @@ DHIS2 rolled out at all health facilities, keyed at the facility (audit to 2023)
 
 ### Senegal: 3 Established
 
-DHIS2 is used at every tier, keyed from the districts up (2021); no share or count of primary clinics entering reports is held.
+The national system is used at every level, with figures entered from the district upwards (2021); how many clinics enter their own is unknown.
 
 *Regressing.*
 
@@ -411,7 +411,7 @@ DHIS2 is used at every tier, keyed from the districts up (2021); no share or cou
 
 ### Sierra Leone: 3 Established
 
-Clinics' paper reports are keyed into DHIS2 at the district (2020 procedure, 2023 assessment); no share or count of clinics entering their own is held.
+District offices enter clinics' paper reports into the national reporting system (2020 procedure, 2023 assessment).
 
 - The Countdown to 2030 analysis by Statistics Sierra Leone, the Ministry of Health and APHRC gives DHIS2 completeness of expected monthly facility reports (mean of ANC, delivery, immunisation and OPD forms) as 98% nationally in 2024, after 99, 95, 95, 93 and 94% in 2019 to 2023, with all districts at 90% or more in 2024; it gives no count or share of facilities entering their own reports, and names stock-outs of HMIS reporting tools and facilities not reporting in DHIS2 as causes of under-reporting ([source, 2024](https://data.gffportal.org/sites/default/files/2025-09/SierraLeone-COUNTDOWN.pdf)).
 - The assessment states that M&E Officers at District Health Management Team level have a similar role to those in hospitals, predominantly data capture and upload on DHIS 2; the survey is undated, so the report's date of January 2023 is used ([source, 2023-01](https://www.bmz-digital.global/wp-content/uploads/2024/10/SIERRA-LEONE-Health-Data-Ecosystem-Mapping-DIPC.pdf)).
@@ -420,7 +420,7 @@ Clinics' paper reports are keyed into DHIS2 at the district (2020 procedure, 202
 
 ### Somalia: 3 Established
 
-National DHIS2 keyed at district from paper (2022); 111 primary facilities report digitally from RAAD (2025). No denominator or share is held.
+District offices enter paper reports into the national system (2022), and 111 primary facilities report digitally (2025); their share of all clinics is unknown.
 
 *Advancing.*
 
@@ -432,7 +432,7 @@ National DHIS2 keyed at district from paper (2022); 111 primary facilities repor
 
 ### South Africa: 3 Established
 
-DHIS used at facility, district, province and national level, July 2026; no national share or count of primary clinics entering their own reports.
+The national system is used at facility, district, provincial and national level (July 2026); no figure shows how many primary clinics enter their own reports.
 
 *Advancing.*
 
@@ -441,7 +441,7 @@ DHIS used at facility, district, province and national level, July 2026; no nati
 
 ### South Sudan: 3 Established
 
-30% of all health facilities keyed their own DHIS2 reports in 2025, the ministry says; no numerator, denominator or tier of those facilities is given.
+The ministry says 30% of all health facilities entered their own reports into the national system in 2025, without giving the numbers behind it.
 
 *Advancing; Community integrated.*
 
@@ -453,7 +453,7 @@ DHIS used at facility, district, province and national level, July 2026; no nati
 
 ### Sudan: 3 Established
 
-Facility reports keyed into DHIS2 at locality level, 144 of 189 localities in 2020; nothing since April 2023 shows where data is keyed.
+Local health offices entered facilities' reports into the system in 144 of 189 localities in 2020; nothing since April 2023 shows where data is entered.
 
 *Advancing.*
 
@@ -466,7 +466,7 @@ Facility reports keyed into DHIS2 at locality level, 144 of 189 localities in 20
 
 ### Tanzania: 3 Established
 
-Facilities report on paper and councils key into DHIS2 (2024); no share or count of primary clinics entering their own reports is held.
+Clinics report on paper, and council offices enter the figures into the national reporting system (2024).
 
 *Advancing.*
 
@@ -475,7 +475,7 @@ Facilities report on paper and councils key into DHIS2 (2024); no share or count
 
 ### Uganda: 3 Established
 
-DHIS2 took reports from every tier in FY 2023/24; a Health Centre III carried its report to the district in 2026. No clinic share published.
+Every level reported into the national system in 2023/24, but in 2026 a mid-level health centre carried its report to the district office.
 
 *Advancing; Community integrated.*
 
@@ -486,7 +486,7 @@ DHIS2 took reports from every tier in FY 2023/24; a Health Centre III carried it
 
 ### Zambia: 3 Established
 
-DHIS2 is keyed monthly at district from paper, a few facilities entering directly (April 2024); no count or share of those facilities is held.
+District offices enter paper reports into the national system each month, with a few facilities entering directly (April 2024).
 
 - Gavi's programme audit states that the Ministry of Health's DHIS2 is the national system for recording and reporting health information, including aggregate immunisation data from routine service delivery points, that the programme relies heavily on paper, and that data entry into DHIS2 is done monthly at the district level with a few health facilities reporting directly; the statement is undated, so the report's date of April 2024 is used (audit fieldwork was in August and September 2023) ([source, 2024-04](https://www.gavi.org/sites/default/files/about/governance/audit/Programme-audit-report-Zambia-April-2024.pdf)).
 - Gavi's programme audit says only that 'a few' health facilities report directly into DHIS2, the rest being keyed at the district; it gives no count or share, though it cites 3,320 health facilities countrywide from a 2022 cold chain inventory; undated statement, the report's date of April 2024 used ([source, 2024-04](https://www.gavi.org/sites/default/files/about/governance/audit/Programme-audit-report-Zambia-April-2024.pdf)).
@@ -496,7 +496,7 @@ DHIS2 is keyed monthly at district from paper, a few facilities entering directl
 
 ### Zimbabwe: 3 Established
 
-All four tiers report on paper, keyed into DHIS2 at the district (2023); no share of primary clinics entering their own reports is held.
+All levels of the health system report on paper, and district offices enter the figures into the national system (2023).
 
 - The U.S. President's Malaria Initiative profile states that monthly HMIS data collection is paper-based at village, health facility and hospital levels, and that the paper records go to the district, where the district health information officer enters them into the Zimbabwe DHIS2; no date is given, so the document's published year is used ([source, 2023](https://mesamalaria.org/wp-content/uploads/2025/04/ZIMZABWE-Malaria-Profile-PMI-FY-2024.pdf)).
 - PMI states that monthly HMIS collection at health facility level is on paper, keyed at the district; its routine table gives 1,776 health facilities reporting into the HMIS/DHIS2 in 2022 (1,758 in 2018) with 96% of expected monthly reports received (97.2% in 2018), which counts reports received and not facilities entering them ([source, 2022](https://mesamalaria.org/wp-content/uploads/2025/04/ZIMZABWE-Malaria-Profile-PMI-FY-2024.pdf)).
@@ -504,13 +504,13 @@ All four tiers report on paper, keyed into DHIS2 at the district (2023); no shar
 
 ### Egypt: 2 Nascent
 
-Birth and death notifications are keyed at district level into the national health information system (2025); clinics' routine reports of patients treated are not established.
+Births and deaths are entered at district level into the national health information system (2025); routine clinic reporting is not shown.
 
 - Egypt's answers to the WHO EMRO civil registration questionnaire state that notifications made at health offices go as copies to the health department (district) level, where they are processed electronically into the Ministry of Health's national health information system, then reviewed at directorate and central level; work is electronic from the directorates and automation of the health offices is under implementation, with a pilot of electronic registration at health-office level in some governorates. The document describes this flow for birth and death data only and carries no date of its own beyond the published year; the latest year it cites is 2011 ([source, 2025](https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf)).
 
 ### Equatorial Guinea: 2 Nascent
 
-DHIS2 aggregate reporting piloted in two districts, Baney and Añisok, in 2025; tiers and facility counts not established, nor the 2026 national expansion.
+The national reporting system was piloted in two districts, Baney and Añisok, in 2025; a planned national expansion in 2026 is not confirmed.
 
 *Advancing.*
 
@@ -521,7 +521,7 @@ DHIS2 aggregate reporting piloted in two districts, Baney and Añisok, in 2025; 
 
 ### Eswatini: 2 Nascent
 
-Hospitals and maternities record births and deaths digitally (2022); DHIS2 introduced nationally in 2024; tiers reporting and clinics entering their own not established.
+Hospitals and maternity units record births and deaths digitally (2022), and the national reporting system was introduced in 2024; clinic reporting is not yet shown.
 
 *Advancing.*
 
@@ -530,14 +530,14 @@ Hospitals and maternities record births and deaths digitally (2022); DHIS2 intro
 
 ### Mauritius: 2 Nascent
 
-DHIS2 was used at regional and national level only, primary-level entry still planned (January 2022); nothing later is held, nor which tiers report routinely.
+In January 2022 the national system was used only at regional and national level, with entry by clinics still planned; nothing more recent is held.
 
 - DHIS2's own country story states that the government, through the Ministry of Health and Wellness, has begun implementing DHIS2 as the national health information system, the work being done by the teams of the health ministry and the Ministry of Information Technology, Communication and Innovation with support from WHO, Gavi, the Global Fund, HISP UiO and HISP Uganda; undated, so the published date is used ([source, 2022-01](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/)).
 - DHIS2's country story states that Mauritian health authorities plan to decentralise the DHIS2 system further, to district and primary health care level and to Rodrigues and Agalega, which will need more training, staff and IT infrastructure; it reports use at regional and national level only and gives no count of facilities, and the published date is used ([source, 2022-01](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/)).
 
 ### Sao Tome and Principe: 2 Nascent
 
-DHIS2 was implemented in all districts in 2024-2025; which tiers use it, where data is keyed and how many clinics enter reports are not established.
+The national reporting system was introduced in all districts in 2024-2025; who uses it and where reports are entered is not yet known.
 
 *Advancing.*
 
@@ -546,18 +546,18 @@ DHIS2 was implemented in all districts in 2024-2025; which tiers use it, where d
 
 ### Algeria: Unplaced
 
-A first team of 20 trained on DHIS2 in December 2023; no tier, entry point or clinic use is established, so no rung is set.
+A first team of 20 was trained on the national system in December 2023; nothing yet shows it in use, so no stage is set.
 
 Not established: The two rows held (DZA-008, DZA-009) are governance only: a first team of 20 trained on DHIS2 in December 2023 and a digital health strategy still in draft in November 2023. Nothing says which tiers report through it, where data is keyed or how many primary clinics enter their own reports; finance is not stated, and there is no dated statement that reporting has no digital entry.
 
 ### Seychelles: Unplaced
 
-The 2022 health plan calls data capture primarily paper-based with eHIS work stalled; no tier or clinic reporting digitally is held, setting no rung.
+The 2022 health plan describes data capture as mainly paper-based, with digital work stalled; nothing shows digital reporting, so no stage is set.
 
 Not established: No row gives the tiers reporting digitally or the primary clinics entering their own reports. The one coverage fact (SYC-004) says capture is primarily paper-based and the eHIS work begun in 2020 has stalled, which is neither a dated statement of no digital entry at any level nor a contracted rollout; it carries the plan's published year, not a date of its own. The ministry's ownership is dated 2022, outside the 36 months, and finance is not stated.
 
 ### Tunisia: No evidence
 
-Nothing held on routine aggregate reporting at any tier; a unified national health information system named in 2021 with no use stated, so no rung.
+Nothing held describes routine health reporting; a national health information system was named in 2021 with no sign of use, so no stage is set.
 
 Not established: The country has no evidence row on HMIS: nothing is held on routine aggregate reporting, at any tier. systems.csv names a 'système d'information sanitaire national unifié' being put in place in 2021, unclassified and with no fact behind it.

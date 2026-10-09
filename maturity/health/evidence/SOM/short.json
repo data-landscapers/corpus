@@ -1,4 +1,4 @@
 {
-  "hmis": "National DHIS2 keyed at district from paper (2022); 111 primary facilities report digitally from RAAD (2025). No denominator or share is held.",
-  "emr": "C+ DDS in over 40 facilities (April 2026) and RAAD in 111 primary facilities (2025). No denominator or unique patient identifier held."
+  "hmis": "District offices enter paper reports into the national system (2022), and 111 primary facilities report digitally (2025); their share of all clinics is unknown.",
+  "emr": "Two electronic record systems run in over 40 facilities (April 2026) and 111 primary facilities (2025); their share of all clinics is unknown."
 }

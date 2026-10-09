@@ -1,4 +1,4 @@
 {
-  "hmis": "DHIS2 is used at every tier, keyed from the districts up (2021); no share or count of primary clinics entering reports is held.",
-  "emr": "The record runs at pilot sites, 1% of 102 health centres (October 2025); health posts are uncounted and retrieval elsewhere is not established."
+  "hmis": "The national system is used at every level, with figures entered from the district upwards (2021); how many clinics enter their own is unknown.",
+  "emr": "The patient record runs only at pilot sites, in 1% of the 102 health centres (October 2025); health posts are not counted."
 }

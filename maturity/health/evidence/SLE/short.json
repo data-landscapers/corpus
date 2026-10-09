@@ -1,4 +1,4 @@
 {
-  "hmis": "Clinics' paper reports are keyed into DHIS2 at the district (2020 procedure, 2023 assessment); no share or count of clinics entering their own is held.",
-  "emr": "EMR runs at Koidu Government Hospital and Wellbody Clinic (2026), Connaught Hospital as a 2023 pilot; the Ministry's national EMR is not shown procured."
+  "hmis": "District offices enter clinics' paper reports into the national reporting system (2020 procedure, 2023 assessment).",
+  "emr": "Electronic records run at one government hospital and one clinic (2026); a national system is not known to have been bought."
 }

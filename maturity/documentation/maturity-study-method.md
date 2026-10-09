@@ -96,7 +96,7 @@ Before the note is written, `python scripts/lint-staged-queue.py` passes over th
 
 ## 8. Phase 2: write
 
-**Short summary: one line, 25 words at most, no link.** The fact that sets the stage with its year, then what is not established.
+**Short summary: one plain sentence, 25 words at most, no link** *(Bill, 2026-10-09)*: what happens in the country, with its year; `writer-brief.md` holds the wording.
 
 **Long summary: one paragraph per aspect, in the study's order, each opening with the aspect's name in bold; 120 to 250 words.** `STATUS-INIT.md`'s hard rule and borderline rule apply whole: a link on every claim, and a borderline fact coarsened or dropped. Figures are dated and a country's own label is attributed. Two closing lines: ***Noted, not assessed*** and ***Not held***. `house-style.md` and `AI-speak.md` govern the prose.
 

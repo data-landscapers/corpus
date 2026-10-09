@@ -1,4 +1,4 @@
 {
-  "hmis": "84% of all health facilities entered DHIS2 data at the facility (June 2025); no current plan or domestic budget line is held.",
-  "emr": "A 2024 report describes paper medical follow-up, naming no tier or system; no EMR is named at any tier, so no rung is set."
+  "hmis": "84% of all health facilities entered their own data in June 2025; it stays at stage 3 because no current plan or budget was found.",
+  "emr": "A 2024 report describes patient follow-up on paper without saying where; no electronic record system is named, so no stage is set."
 }

@@ -47,7 +47,7 @@ A study id `{id}` and a country `{ISO3}`, under `C:\CORPUS`.
 
 **One file**: `maturity/{id}/evidence/{ISO3}/short.json`, as `{"<sub-indicator key>": "<short>", ...}`, one entry per sub-indicator.
 
-**One line, 25 words at most, no link.** The fact that sets the stage, with its year, then what is not established. Where the stage rests on a share of all health facilities, say so. A cell with no stage says in the same space what is held and why it sets no rung.
+**One plain sentence, 25 words at most, no link**: what happens, with its year, then the main unknown. No product names, tier codes or *keyed*; *not known*, not *not established*. A share of all health facilities is called that. A capped cell says why; one with no stage ends *so no stage is set*.
 
 ## What you may write
 
