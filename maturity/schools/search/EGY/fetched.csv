@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099072825125534851/pdf/P157809-2b9a8bd3-ac47-4dd6-a7a4-6468117f2e33.pdf,fetched,,scripts/.workroot/study/schools/cache/EGY/1.txt,8286,pdf,World Bank Document
+2,https://documents1.worldbank.org/curated/en/099121224060041119/pdf/P157809144edf300d1be1216cff8e800d62.pdf,fetched,,scripts/.workroot/study/schools/cache/EGY/2.txt,3405,pdf,World Bank Document
+3,https://documents1.worldbank.org/curated/en/099042224092026852/pdf/P15780910a8f2e0da1b3851ac39ed01e612.pdf,fetched,,scripts/.workroot/study/schools/cache/EGY/3.txt,19002,pdf,World Bank Document
+4,https://moe.gov.eg/what-s-on/news/regis/,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,
+5,https://moe.gov.eg/what-s-on/news/senate11/,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,
+6,https://moe.gov.eg/what-s-on/news/zawiya/,fetched,"second pass, by Wayback",scripts/.workroot/study/schools/cache/EGY/6.txt,471,html,وزير التربية والتعليم يتابع انتظام العملية التعليمية خلال جولة مفاجئة…
+7,https://moe.gov.eg/what-s-on/news/the-mataria/,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,
+8,https://moe.gov.eg/ar/what-s-on/news/meiaaa/,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,

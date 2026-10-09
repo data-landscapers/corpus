@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099041724160510814/pdf/P176867127c2460bf1bdec12180716a1d7f.pdf,fetched,,scripts/.workroot/study/schools/cache/KEN/1.txt,6389,pdf,World Bank Document
+2,https://parliament.go.ke/sites/default/files/2025-10/Hansard%20Report%20-%20Wednesday%2C%208th%20October%202025%20%28P%29.pdf,fetched,,scripts/.workroot/study/schools/cache/KEN/2.txt,46006,pdf,
+3,https://education.go.ke/sites/default/files/2024-07/NATIONAL%20EDUCATION%20STRATEGIC%20PLAN%202023-2027-compressed_removed_0.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/schools/cache/KEN/3.txt,70744,pdf,
+4,https://treasury.go.ke/sites/default/files/Sector%20Budget%20Reports/Education-Sector-Report-2024-latest.pdf,fetched,,scripts/.workroot/study/schools/cache/KEN/4.txt,66156,pdf,
+5,https://www.education.go.ke/sites/default/files/2025-06/Students%20Master%20Register%20team%20unveiled%20.pdf,held,held as raw/2025/2025-05-15-kemis-team-unveiled.md,,0,,
+6,https://www.knec.ac.ke/registration-transfer-and-capture-of-scores-for-learners-by-school/,unfetchable,"SSLError; Wayback HTTP 429, not checked | second pass: second client: SSLError; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
+7,https://teachersonline.tsc.go.ke/Docs/TMIS.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
+8,https://www.education.go.ke/sites/default/files/2023-01/ICT%20IN%20EDUCATION%20AND%20TRAINING%20POLICY%202021.pdf,fetched,"second pass, by second client",scripts/.workroot/study/schools/cache/KEN/8.txt,19556,pdf,

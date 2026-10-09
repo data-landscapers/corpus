@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099031125132540707/pdf/P509243-c18e914f-0097-4e6f-a590-80ab4401d22f.pdf,fetched,,scripts/.workroot/study/schools/cache/MRT/1.txt,4802,pdf,World Bank Document
+2,https://documents1.worldbank.org/curated/en/099121824051518904/txt/P163143-b95af2ff-29fc-4922-aad9-dad931b010ce.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
+3,https://ami.mr/fr/archives/272574,fetched,,scripts/.workroot/study/schools/cache/MRT/3.txt,158,html,Réunion du Comité ministériel chargé du suivi du système Sirage de gestion du secteur de l’éducation
+4,https://www.ami.mr/archives/226786,fetched,,scripts/.workroot/study/schools/cache/MRT/4.txt,175,html,"وزارة التربية تطلق بعثات تكوينية لاستخدام نظام ""سراج"" - الوكالة الموريتانية للأنباء"
+5,https://www.iiep.unesco.org/fr/articles/analyse-secteur-education-mauritanie,fetched,,scripts/.workroot/study/schools/cache/MRT/5.txt,923,html,Analyse du secteur de l’éducation de la Mauritanie
+6,https://www.tefassil.mr/ar/node/8801,fetched,second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,scripts/.workroot/study/schools/cache/MRT/6.txt,67,html,انطلاق تسجيل وتحويل التلاميذ عبر منصة «سراج»
+7,https://www.apps.mr/apps/sirage-rim,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
+8,https://zetrixweb.com/sirage-rim-case-study,fetched,,scripts/.workroot/study/schools/cache/MRT/8.txt,727,html,SIRAGE RIM Case Study | Zetrixweb

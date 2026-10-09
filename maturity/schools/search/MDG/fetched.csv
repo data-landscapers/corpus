@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.lexpress.mg/2026/05/enseignement-les-parcours-scolaires-des.html,fetched,,scripts/.workroot/study/schools/cache/MDG/1.txt,375,html,ENSEIGNEMENT - Les parcours scolaires des élèves seront tracés
+2,https://newsmada.com/2024/07/18/region-atsinanana-des-services-numeriques-deployes-dans-46-etablissements-scolaires/,fetched,,scripts/.workroot/study/schools/cache/MDG/2.txt,289,html,Région Atsinanana: des services numériques déployés dans 46 établissements scolaires
+3,http://www.education.gov.mg/organisation-du-ministere/,fetched,,scripts/.workroot/study/schools/cache/MDG/3.txt,3883,html,Organisation du ministère
+4,https://www.unicef.org/madagascar/media/9931/file/20230123%20-%20Unicef%20Madagascar_Rapport%20final_Final.pdf,fetched,,scripts/.workroot/study/schools/cache/MDG/4.txt,38666,pdf,
+5,https://prea.gov.mg/prodigy/,fetched,,scripts/.workroot/study/schools/cache/MDG/5.txt,3361,html,PRODIGY - PREA
+6,https://emis.uis.unesco.org/madagascar/,fetched,second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,scripts/.workroot/study/schools/cache/MDG/6.txt,30,html,Madagascar
+7,https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/114742/MDG-114742.pdf,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,
+8,https://www.2424.mg/digitalisation-42-millions-deleves-a-doter-de-numero-unique-didentification-scolaire-cette-annee/,fetched,,scripts/.workroot/study/schools/cache/MDG/8.txt,250,html,"DIGITALISATION- 4,2 millions d'élèves à doter de numéro unique d'identification scolaire cette année | 2424.mg - L'actualité à Madagascar en temps réel"

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "emis",
+ "aspect": "schools;governance",
+ "fact": "The GPE completion report for the PREAT, filed on 4 July 2025, states that decentralisation of the ministry's SIGE was tested in 40 schools of N'Djamena, each given a desktop computer and a solar kit handed over on 28 December 2022 and its director basic computer training for collecting data at the school, under a GPE grant of 50 million US dollars managed by UNICEF; it describes the SIGE as StatEduc entry producing statistical yearbooks and names no record per learner.",
+ "title": "Rapport d'achèvement du financement ESPIG — Chad_ESPIG_05/22/2018 (PREAT)",
+ "publisher": "Partenariat mondial pour l'éducation / UNICEF",
+ "published": "2025-07-04",
+ "date_source": "source",
+ "why_not": "A trial of school-level collection for the census; the report names no record per learner (parent, 2026-10-09)."
+}

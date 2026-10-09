@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.education.go.ug/wp-content/uploads/2026/01/UGANDAS-EDUCATION-STATISTICAL-ABSTRACT_2025.pdf,fetched,,scripts/.workroot/study/schools/cache/UGA/1.txt,29588,pdf,
+2,https://www.independent.co.ug/emis-no-more-physical-registration-licensing-of-schools/,fetched,,scripts/.workroot/study/schools/cache/UGA/2.txt,627,html,"EMIS: No more physical registration, licensing of schools"
+3,https://www.unicef.org/uganda/what-we-do/edutrac,fetched,,scripts/.workroot/study/schools/cache/UGA/3.txt,710,html,EduTrac
+4,https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Annual%20Report%20FY23-24%20Final%202.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ChunkedEncodingError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
+5,https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2020-8-Uganda-ESP+Appraisal_0.pdf,fetched,,scripts/.workroot/study/schools/cache/UGA/5.txt,13161,pdf,
+6,https://www.thekampalareport.com/latest/community/2026060963856/concerns-grow-as-private-firm-retains-control-of-critical-education-data-system.html,fetched,,scripts/.workroot/study/schools/cache/UGA/6.txt,565,html,Concerns Grow as Private Firm Retains Control of Critical Education Data System
+7,https://solve.mit.edu/solutions/44283,fetched,,scripts/.workroot/study/schools/cache/UGA/7.txt,1418,html,SkoolDesk

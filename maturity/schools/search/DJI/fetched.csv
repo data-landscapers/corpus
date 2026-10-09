@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099081426115519106/txt/P166059-d28a4fba-c011-4ea0-8b99-0191c50d49b0.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
+2,https://fr.scribd.com/document/824419507/decoupage-du-2eme-Trimestre-2024-2025,fetched,"second pass, by second client",scripts/.workroot/study/schools/cache/DJI/2.txt,130,html,decoupage du 2eme Trimestre 2024-2025
+3,https://www.journalofficiel.dj/texte-juridique/loi-n113-an-24-9eme-l-portant-reorganisation-du-ministere-de-leducation-nationale-et-de-la-formation-professionnelle/,held,held as raw/2024/2024-08-12-journalofficiel-loi-113-reorganisation-menfop.md,,0,,
+4,https://www.globalpartnership.org/fr/node/document/download?file=document%2Ffile%2F2024-04-pacte-de-partenariat-djibouti.pdf,fetched,,scripts/.workroot/study/schools/cache/DJI/4.txt,21706,pdf,
+5,https://documents1.worldbank.org/curated/en/099020824112541874/pdf/P16605912c1be00df18eb6117cf4d0e79cd.pdf,fetched,,scripts/.workroot/study/schools/cache/DJI/5.txt,4388,pdf,World Bank Document
+6,https://www.journalofficiel.dj/wp-content/uploads/2025/01/Schema-directeur-2021-2035-Annexe-du-JO-Speciale-N%C2%B04.pdf,fetched,,scripts/.workroot/study/schools/cache/DJI/6.txt,78214,pdf,
