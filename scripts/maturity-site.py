@@ -52,6 +52,9 @@ PREVIEW = ROOT / "maturity" / "preview-downloads"
 GEO = ROOT / "lookups" / "africa.geojson"   # africa-dpi's, copied 2026-10-09; Western Sahara is in it
 
 LAUNCHED = False
+# The Under construction band is off while the page design is settled at full depth (Bill, 2026-10-09);
+# it goes back on before the pages are shown to anyone, and comes off for good at launch. noindex stays.
+SHOW_BAND = False
 
 # The scale: documentation/archived/maturity-assessment.md §3, the instruments-and-systems column.
 # Labels 2 and 3 renamed Preparing and Establishing (Bill, 2026-10-09); all five still under review.
@@ -275,7 +278,7 @@ TAIL = """
 def page(*, title, description, canonical, depth, body, body_class, sheets=(), scripts="",
          active=None) -> str:
     robots = "" if LAUNCHED else '<meta name="robots" content="noindex">\n'
-    band = "" if LAUNCHED else UNDER_CONSTRUCTION
+    band = UNDER_CONSTRUCTION if SHOW_BAND and not LAUNCHED else ""
     return external_links(
         HEAD.format(title=html.escape(title), description=html.escape(description), robots=robots,
                     canonical=canonical, styles=styles(depth, *sheets), main=MAIN_SITE, ga=ga(),
