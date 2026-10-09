@@ -55,9 +55,13 @@ def main() -> int:
     del d["cells"][iid][iso]
     check("a country without a row is named", any(iso in p for p in ms.problems(d, geo, studies, indicators, data)))
 
-    d = copy.deepcopy(data)
-    d["indicators"][iid]["ladder"] = []
-    check("an unread ladder is named", any("ladder" in p for p in ms.problems(d, geo, studies, indicators, data)))
+    bare = copy.deepcopy(studies)
+    del bare[0]["sub_indicators"][0]["criteria"]
+    check("an indicator without criteria is named",
+          any("criteria" in p for p in ms.problems(data, geo, bare, indicators, data)))
+    check("the sidebar's ladder is the criteria",
+          all([l["text"] for l in data["indicators"][sub["indicator_id"]]["ladder"]] == sub["criteria"]
+              for s in studies for sub in s["sub_indicators"]))
 
     d = copy.deepcopy(data)
     staged = next(k for k, c in d["cells"][iid].items() if c["state"] == "staged")

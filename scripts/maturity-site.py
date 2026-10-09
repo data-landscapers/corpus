@@ -213,14 +213,8 @@ def build_data(studies, indicators, countries) -> dict:
         labels = {sub["label"]: sub["indicator_id"] for sub in s["sub_indicators"]}
         for sub in s["sub_indicators"]:
             iid = sub["indicator_id"]
-            page = s["issued"] / f"{iid}.md"
-            text = page.read_text(encoding="utf-8") if page.exists() else ""
-            heads, rows = ladder(text)
-            lines = []
-            for cells_ in rows:
-                m = re.match(r"(\d)\s*(.*)", cells_[0])
-                parts = [f"{h}: {c}" for h, c in zip(heads, cells_[1:]) if c]
-                lines.append(dict(n=int(m.group(1)) if m else None, text="; ".join(parts)))
+            # The sidebar's ladder is the methodology page's: the criteria sentences (Bill, 2026-10-09).
+            lines = [dict(n=n, text=text) for n, text in enumerate(sub.get("criteria", []), 1)]
             topic = next((t["name"] for t in topics if any(i["id"] == iid for i in t["indicators"])), "")
             inds[iid] = dict(label=sub["text"], short_label=sub["label"], topic=topic, study=s["id"],
                              ladder=lines)
@@ -351,7 +345,7 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
             else:
                 if not dict(sections(page.read_text(encoding="utf-8"), "## ")).get("The norm"):
                     out.append(f"{iid}: {page.name} has no norm")
-                if [l["n"] for l in data["indicators"][iid]["ladder"]] != [1, 2, 3, 4, 5]:
+                if [c[0][:1] for c in ladder(page.read_text(encoding="utf-8"))[1]] != list("12345"):
                     out.append(f"{iid}: {page.name}'s ladder does not read as rungs 1 to 5")
             if len(sub.get("criteria", [])) != 5:
                 out.append(f"{iid}: study.json holds no five `criteria` for the methodology page")
@@ -564,8 +558,9 @@ def ladder_digest(section: str) -> str:
 def criteria_table(sub: dict) -> str:
     """The ladder as the methodology page prints it *(Bill, 2026-10-09)*: Stage and Criteria, a
     sentence or two a stage. The sentences are `study.json` -> `criteria`, written by hand from the
-    study's three-aspect ladder, which stays the instrument the stagers work from and the map's
-    sidebar reads. `problems()` stops the build when that ladder has moved since they were written."""
+    study's three-aspect ladder, which stays the instrument the stagers work from; the map's sidebar
+    prints the same sentences. `problems()` stops the build when that ladder has moved since they
+    were written."""
     return "| Stage | Criteria |\n|---|---|\n" + "\n".join(
         f'| {s["n"]} {s["label"]} | {text} |' for s, text in zip(STAGES, sub["criteria"]))
 
