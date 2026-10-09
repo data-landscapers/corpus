@@ -1,0 +1,7 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry;plan:current;finance:not-stated", "levels": "P;S", "kept": "routine",
+     "last12": "", "schools": "not-published", "cap": "", "flags": "", "stage_sources": "ZAF-014;ZAF-015;ZAF-005;ZAF-004;ZAF-012;ZAF-013", "gaps": "No share or count of primary schools entering attendance or results during the year is held: the 2025 rows publish none (ZAF-007, ZAF-013), and the 99.9% of July 2024 (ZAF-014) counts schools of all levels whose database was uploaded to LURITS, which disagrees with them only in kind. Nothing is held for the last twelve months, the Western Cape does not use SA-SAMS for source data, and ZAF-001 to ZAF-003 are from the excluded source and set nothing.", "note": "LURITS is a learner register schools fill well past any pilot and SA-SAMS is in live routine use at schools, which meets stage 3. Stage 4 needs more than half of primary schools entering attendance or results, and the only share held is of databases uploaded, which places by the lower rung."}
+  ]
+}

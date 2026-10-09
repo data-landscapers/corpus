@@ -1,0 +1,19 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "governance": "owner:ministry;plan:current",
+      "levels": "",
+      "kept": "",
+      "last12": "",
+      "schools": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No admissible row on any coverage aspect: nothing says at which levels a learner-record system is in use, how the record is kept or how many primary schools enter data. EGY-001 is from the excluded source and sets nothing; finance is not stated; owner:ministry is dated September 2023, at the edge of the 36-month window; no dated event in the twelve months to the as-at.",
+      "note": "The two admissible rows are governance only, a 2023-2027 sector plan to build a student-level EMIS and the ministry as its owner, and a qualifier never raises a stage. Stage 2 needs preparation or a pilot in evidence (staff trained, equipment delivered, an agreement signed, pilot schools), and stage 1 an admissible statement of paper-only records; neither is held."
+    }
+  ]
+}

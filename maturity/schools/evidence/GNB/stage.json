@@ -1,0 +1,6 @@
+{
+  "iso3": "GNB",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "", "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "The only three evidence rows (GNB-001 to GNB-003) come from the excluded source and set nothing. No admissible row describes a record per learner that schools add to during the year, and no admissible dated statement says primary schools keep learner records on paper only.", "note": "systems.csv holds only noted classes: SIGE and SIGE 2.0, StatEduc, the yearbook and school mapping as census, and the GEMS and Kobo inspection forms as single-function. A census sets no rung, and stage 1 needs an admissible paper statement that is not held."}
+  ]
+}

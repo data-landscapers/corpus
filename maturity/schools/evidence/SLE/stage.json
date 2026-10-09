@@ -1,0 +1,10 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry;plan:current;finance:donor", "levels": "P", "kept": "routine",
+     "last12": "advancing", "schools": "count:300", "cap": "", "flags": "rural gap;advancing",
+     "stage_sources": "SLE-009;SLE-013;SLE-014;SLE-015",
+     "gaps": "The 300 is a count of primary schools in the Wi De Ya rollout phase, not of schools entering data, and no total of primary schools is given with it; nothing is dated after 2023 on its use, and the planned rollouts to 1,500 and 4,000 schools are not confirmed. The newest schools fact, SLE-001 (2026-04-07), is a different system, the Unique Learner ID, still to be piloted with no school yet using it. Rural gap rests on SLE-015: reporting rates lower in some rural chiefdoms, no figure given.",
+     "note": "Wi De Ya is past its pilot, in a rollout phase the source names, with school leaders in 300 primary schools entering daily attendance per learner: stage 3. Not stage 4, because no share or count with a denominator shows more than half of primary schools entering attendance or results during the year."}
+  ]
+}

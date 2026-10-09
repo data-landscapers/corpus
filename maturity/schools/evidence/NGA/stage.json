@@ -1,0 +1,10 @@
+{
+  "iso3": "NGA",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry", "levels": "", "kept": "paper",
+     "last12": "advancing", "schools": "none", "cap": "", "flags": "advancing",
+     "stage_sources": "NGA-001;NGA-005;NGA-006;NGA-011",
+     "gaps": "No row names a level in use, says who enters a learner's number or shows any primary school filling the register: the 1.9 million numbers of the first phase went to WAEC and NECO examination candidates, and extension to all learners is the next phase. NGA-002's 80 million learner numbers integrated with the identity registry disagrees with the 1.9 million issued and is an announcement of a link, not of schools entering records. The paper statements cover one state's admissions and one school, not the country; plan and finance are not stated; NGA-008 is from the excluded source and sets nothing.",
+     "note": "Stage 2 because the ministry's learner number is launched with only examination candidates issued so far, and the Oyo and Lagos learner databases are still being built. Not stage 3, because no row shows a register or EMIS past its pilot being filled by primary schools."}
+  ]
+}

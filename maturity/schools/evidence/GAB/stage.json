@@ -1,0 +1,9 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry", "levels": "P;S", "kept": "routine",
+     "last12": "advancing", "schools": "count:728", "cap": "", "flags": "advancing", "stage_sources": "GAB-014;GAB-015;GAB-009;GAB-010",
+     "gaps": "The 728 schools are the press's and the vendor's count of schools using Xgest, with no level named (read as primary) and no total, so no share. `kept` disagrees: marks and results in Xgest at 27 September 2024 (GAB-015) against the ministry's order of 24 September 2024 that no personal data pass through it (GAB-017) and the once-a-year learner identification of 2025/2026 (GAB-010), which does not say whether school or family makes the entry. No count of schools in the SOSUP register; plan and finance not stated; Xgest itself is vendor-owned (GAB-016).",
+     "note": "Xgest is in live use in 728 schools for marks and results and the ministry's learner identification runs nationally across primary and secondary, which is past a pilot. Stage 4 needs more than half of primary schools entering attendance or results on a share or a count with its total; a count of schools using the system with no total is not that."}
+  ]
+}

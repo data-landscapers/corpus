@@ -1,0 +1,19 @@
+{
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "governance": "finance:donor",
+      "levels": "P;S",
+      "kept": "routine",
+      "last12": "no-change",
+      "schools": "count:733",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-004;GHA-005;GHA-006",
+      "gaps": "No total of primary schools is given beside the 733 reporting on the DL+ Platform, so no share can be read; the source does not say how often a school reports, and the platform's owner and any plan naming it are not stated. The count stood unchanged from August 2024 to November 2025. GHA-001 is from the excluded source and sets nothing.",
+      "note": "733 primary schools report literacy and numeracy outcomes for individual learners on the DL+ Platform, a count with no total, which is stage 3. Stage 4 needs more than half of primary schools on a share or a count with its denominator; the secondary transcript portal's coverage does not lift a primary rung."
+    }
+  ]
+}

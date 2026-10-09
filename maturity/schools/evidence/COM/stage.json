@@ -1,0 +1,7 @@
+{
+  "iso3": "COM",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry;plan:current;finance:donor", "levels": "P;S", "kept": "routine", "last12": "advancing", "schools": "share:45%", "cap": "", "flags": "advancing", "stage_sources": "COM-002;COM-003;COM-004;COM-007", "gaps": "The 45% is a rate of integration of public primary schools at 2 February 2026, with no numerator or denominator, and not a share entering marks; private primary schools are not split out. ANADEN's June 2025 entry calls e-Msomo a pilot, which the later registration by island supersedes; no source says the plan names e-Msomo, and the only finance stated is UNICEF's. The rural statement in COM-001 is from the excluded source and sets nothing.",
+     "note": "e-Msomo is past its launch pilot, with schools on all three islands registered and entering pupil lists and marks for report cards. Stage 4 needs more than half of primary schools entering results, and the one figure is 45% integrated."}
+  ]
+}

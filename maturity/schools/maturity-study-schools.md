@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-schools.md — the second maturity study: rural primary schools, as EMIS
 last_reviewed: 2026-10-09
-status: CC's proposal, agreed by Bill on 2026-10-09 with stages 2 and 3 reworded; Phase 1 done 2026-10-09, Phase 2 waits on note 220
+status: CC's proposal, agreed by Bill on 2026-10-09 with stages 2 and 3 reworded; run 2026-10-09
 ---
 
 # Maturity study: schools — EMIS
@@ -62,9 +62,11 @@ The id enters `lookups/indicators.csv` only at acceptance, when both old rows ar
 
 **Rural.** The stage reads primary schools nationally. Where a dated source says rural schools are outside the system, or enter less, the cell is flagged *rural gap* and the short summary gives the figure.
 
-## 4. The ladder
+## 4. The ladders
 
 Tested and fixed at S3, 2026-10-09 (`ladder-test.csv`): a register still at its pilot is stage 2, and a level is no longer required to be named.
+
+**EMIS**
 
 | Stage | Levels | How the record is kept | Primary schools |
 |---|---|---|---|
@@ -100,9 +102,9 @@ The African Union's Digital Education Strategy (2022), fourth objective: a move 
 - [x] **S2. Review all 54 countries in one run**, method §4: 1,105 documents, 302 facts.
 - [x] **S3. Test and fix the ladder** on the profiles; §5 corrected from the Strategy's own text.
 - [x] **S4. Search, select and hand over**, method §5. *130 delivered, note 220.*
-- [ ] **S5. Phase 2, on Bill's trigger**, method §6 and §7.
-- [ ] **S6. Write, render and lint**, method §8. Write `study.json`'s `criteria` again from the fixed ladder and set `criteria_of`. Commit.
-- [ ] **S7. Report to Bill**: countries per stage; unplaced and *No evidence*; countries holding only a census, by the name each gives it; *rural gap* flags; the agreement count; what OSINT did not admit; every country the cap held at 3.
+- [x] **S5. Phase 2**: 124 of 130 admitted; 54 cells staged as at 2026-09-30; agreement 20 of 20.
+- [x] **S6. Write, render and lint**: clean.
+- [x] **S7. Report to Bill**, 2026-10-09. Acceptance is his.
 
 ## Boundary
 

@@ -1,0 +1,9 @@
+{
+  "iso3": "SSD",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:partner;finance:donor", "levels": "P;S", "kept": "routine",
+     "last12": "", "schools": "count:6650", "cap": "", "flags": "", "stage_sources": "SSD-007;SSD-008;SSD-009",
+     "gaps": "No share of primary schools entering attendance: SSD-008's 6,650 is schools of all levels that reported at least once, with no primary total and no clear denominator (5,915 open schools holding enrolment, 10,364 ever identified), and the same page shows 1,321 messages from 3 phones in the last month. The newer SSD-002 and SSD-003 (2026-03-24) say school-level collection relies heavily on paper, which disagrees with SSD-007's routine SMS entry. No plan and no ministry owner is held, and nothing dated inside the twelve months says advancing or regressing; SSD-001 is from the excluded source and sets nothing.",
+     "note": "Stage 3 because SSSAMS is live past a pilot with head teachers and class teachers reporting per-pupil attendance by SMS, on a count with no total for primary schools. Not stage 4, because no published share or count with its denominator shows more than half of primary schools entering during the year; the cap would hold it at 3 in any case, governance being partner-owned and donor-financed."}
+  ]
+}

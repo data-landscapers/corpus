@@ -1,0 +1,9 @@
+{
+  "iso3": "SYC",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry", "levels": "", "kept": "routine",
+     "last12": "advancing", "schools": "", "cap": "", "flags": "advancing", "stage_sources": "SYC-001;SYC-003",
+     "gaps": "No row reports a school entering attendance or results: SYC-003 is the helpdesk's instruction for taking attendance, not a report that schools do it, and SYC-001 is training of school leadership teams on Mahé only. No level in use, no count or share of primary schools, and no plan or finance are held.",
+     "note": "Stage 2 on preparation: the ministry trained primary and secondary school leadership teams on its OpenEMIS platform and publishes the attendance procedure. Not stage 3, because no admissible row shows the system live past a pilot in any primary school."}
+  ]
+}

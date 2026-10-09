@@ -1,0 +1,17 @@
+# South Africa
+
+## EMIS
+
+**Governance, planning, finance.** The Department of Basic Education's 2025/26 Annual Performance Plan says SA-SAMS, the school administration system, [is developed and maintained by the Department](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>). The plan [commits the Department to modernise it into a web-enabled platform with the National Education Collaboration Trust](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>) and [lists that modernisation among unfunded mandates](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>).
+
+**Levels in use.** The Minister of Basic Education's written reply says LURITS, the Department's learner register, [holds data for each learner and tracked learners in Grades 1 to 11 across its 2020 to 2025 datasets](<https://pmg.org.za/committee-question/35453/>). The plan's aim is that [all public schools use SA-SAMS](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>), with no level named.
+
+**How the record is kept.** A study published in November 2024 found eight rural schools in iLembe district [using SA-SAMS to manage attendance and track performance, with admin clerks entering the data at the school](<https://www.scirp.org/journal/paperinformation?paperid=137516>). The 2025/26 plan says [schools are to upload General Education Certificate scores onto SA-SAMS, and term 4 schedules are extracted from it](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>).
+
+**Last twelve months.** The Minister's reply [gives learner totals from LURITS for 2020 to 2025, the 2025 dataset preliminary](<https://pmg.org.za/committee-question/35453/>).
+
+**Primary schools doing the digital input.** The Department says [about 99.9% of functional ordinary schools of all levels (24,850 schools in 2024) had their databases uploaded to LURITS and the provincial data warehouses as of July 2024](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>), which is a share of schools whose database was uploaded. The plan [measures the percentage of public schools reporting through SA-SAMS and says the Western Cape does not collect source data through it](<https://www.education.gov.za/Portals/0/Documents/Reports/2025/2025.26%20DBE%20APP.pdf>).
+
+***Noted, not assessed***. South Africa calls its school census an EMIS: the Department's [EMIS surveys](<https://www.gov.za/sites/default/files/gcis_document/201409/34344gon484.pdf>) are returned by each institution under its national EMIS number, by the 2011 coding standard. Single-function: Gauteng Province's [Online Admission System](<https://sajim.co.za/index.php/sajim/article/view/2201>), and the [Education Facilities Management System](<https://pmg.org.za/committee-meeting/41865/>), the [Continuous Teacher Professional Development system](<https://pmg.org.za/committee-meeting/41865/>) and the payroll system [PERSAL](<https://pmg.org.za/committee-meeting/41865/>). Enabling: the [GIGA Monitoring Dashboard App](<https://www.education.gov.za/ArchivedDocuments/ArchivedArticles/TheDigitalEducationStrategy.aspx>), which maps schools and their connectivity.
+
+***Not held***. No share or count of primary schools entering attendance or results during the year is held; the one share held counts schools of all levels whose database was uploaded. Nothing dated in the last twelve months is held, and no budget line for the system.

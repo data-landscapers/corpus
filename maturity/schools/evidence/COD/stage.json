@@ -1,0 +1,19 @@
+{
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "levels": "P",
+      "kept": "keyed-elsewhere",
+      "last12": "advancing",
+      "schools": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "COD-002;COD-003;COD-004",
+      "gaps": "EDUSER is established only as a three-week pilot in 20 primary schools of one province (April 2026), with SERNIE staff, not the schools, doing the entry; a national rollout is unfunded and no plan naming the system is held. Kept disagrees: the standing SERNIE register is paper forms keyed in Kinshasa (COD-001, keyed-elsewhere) and the pilot is enrolment by app (COD-002). No national count or share of schools; COD-008 and COD-009 are from the excluded source and set nothing.",
+      "note": "The digital learner register is at its pilot, which the ladder places at stage 2. Stage 3 needs a register schools fill past its pilot; the national SERNIE record is filled on paper by visiting staff and keyed centrally, with no primary school doing digital input."
+    }
+  ]
+}

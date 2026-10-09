@@ -1,0 +1,7 @@
+{
+  "iso3": "COG",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry;finance:domestic", "levels": "none", "kept": "", "last12": "", "schools": "none", "cap": "", "flags": "", "stage_sources": "COG-001;COG-003;COG-004", "gaps": "Nothing shows staff trained, equipment delivered or any pilot school: the September 2023 ENT trial was only proposed, and no fact is dated after the decree of 2 November 2023. How the record is kept and the last twelve months are not held; the May 2023 statement of no plan falls outside the 36 months and is not carried.",
+     "note": "A decree creates a per-learner SIGE with entry assigned to schools and a specification exists for an ENT covering primary schools, which is preparation; no school is recorded using either, so stage 3 is not reached. No source states that learner records are on paper, so it is not stage 1."}
+  ]
+}

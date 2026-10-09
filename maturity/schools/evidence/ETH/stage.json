@@ -1,0 +1,9 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry;finance:donor", "levels": "", "kept": "enrolment",
+     "last12": "advancing", "schools": "pilot", "cap": "", "flags": "advancing", "stage_sources": "ETH-007;ETH-003",
+     "gaps": "No row says the web-based EMIS is live in any primary school: the rollout to 4,500 primary schools planned for July 2025 to June 2026 had not begun at June 2025 and nothing dated since reports it. No count of pilot schools and no level row. `kept` rests on 2019 facts that disagree, paper in ordinary schools (ETH-014) and enrolment in UNHCR's refugee-camp pilot only (ETH-016); what the piloted EMIS records is not stated. The plan held, ESDP VI, ran to 2024/25 and is not current at the as-at; no domestic finance is stated.",
+     "note": "The ministry's digitised EMIS was finalised and piloted by June 2025 with deployment to primary schools still planned, and the DHIS2-Ed work of November 2025 had its attendance and results tools still to build. Stage 3 needs live use past a pilot in some primary schools, which no row gives."}
+  ]
+}

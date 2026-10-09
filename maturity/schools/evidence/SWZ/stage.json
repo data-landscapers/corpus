@@ -1,0 +1,9 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry;finance:domestic", "levels": "P;S", "kept": "routine",
+     "last12": "", "schools": "share:100%", "cap": "", "flags": "", "stage_sources": "SWZ-004;SWZ-011;SWZ-015;SWZ-016",
+     "gaps": "The 976 of 976 in SWZ-015 counts schools covered by the PIN-driven EMIS, not schools entering attendance or results, and the same source says the EMIS currently provides aggregate enrolment numbers. SWZ-004 does not say how often a school enters the learner record, and SWZ-018 and SWZ-019 put SEMIS, the app that takes attendance, still at its pilot with roll-out to come. No plan is held, no dated event inside the twelve months says advancing or regressing, and SWZ-001 to SWZ-003 are from the excluded source and set nothing.",
+     "note": "Stage 3 because the PIN-driven learner-level EMIS is past its pilot and national since March 2024, with learner data captured at the school. Not stage 4, because the only share is of schools covered, and no figure shows more than half of primary schools entering attendance or results during the year."}
+  ]
+}

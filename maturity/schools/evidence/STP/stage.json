@@ -1,0 +1,9 @@
+{
+  "iso3": "STP",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "no evidence", "governance": "", "levels": "", "kept": "",
+     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "evidence.csv holds no row for the country. systems.csv names SIGE several times, as a census where it is classified and otherwise unclassified, with a relaunch in a first group of schools still at tender in January 2025; none of it is an evidence row.",
+     "note": "No evidence row on the sub-indicator, so no rung can be set. Not stage 1, because no dated statement that primary schools keep learner records on paper is held."}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "governance": "owner:vendor",
+      "levels": "P;S",
+      "kept": "enrolment",
+      "last12": "advancing",
+      "schools": "share:58.9%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "UGA-016;UGA-017;UGA-001;UGA-002",
+      "gaps": "No source describes schools entering attendance or results: every row describes registration of learners, transfers and a yearly data upload. The owner facts disagree, the Auditor General's finding that the vendor runs administration and configuration (reported 9 June 2026) against the ministry as custodian and operator (8 June 2026, December 2025); no plan or finance is stated, and no rural share is held.",
+      "note": "The redeveloped EMIS is a learner register rolled out nationally since 2022 that 26,597 of 45,164 primary schools (58.9%) uploaded to for 2025, which meets stage 3. Stage 4 needs `routine` entry of attendance or results during the year, and the record held is `enrolment`, so the share does not lift it and no cap applies."
+    }
+  ]
+}

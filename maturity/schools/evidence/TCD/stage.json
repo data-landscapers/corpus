@@ -1,0 +1,19 @@
+{
+ "iso3": "TCD",
+ "cells": [
+  {
+   "sub_indicator": "emis",
+   "stage": "unplaced",
+   "governance": "",
+   "levels": "",
+   "kept": "paper",
+   "last12": "",
+   "schools": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "",
+   "gaps": "The one admissible row says the yearly school questionnaire is filled on paper and keyed centrally (2021); that is the census, and nothing held states how primary schools keep learner records.",
+   "note": "A paper census is not a statement that learner records are on paper, so stage 1 is not claimed (parent, 2026-10-09)."
+  }
+ ]
+}

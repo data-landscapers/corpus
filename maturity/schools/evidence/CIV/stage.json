@@ -1,0 +1,19 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "governance": "plan:current",
+      "levels": "P;S",
+      "kept": "routine",
+      "last12": "",
+      "schools": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-006;CIV-007;CIV-004;CIV-005",
+      "gaps": "Nothing shows DOBCONNECT past its 5 pilot establishments of January 2024, whose level is not stated and is read as primary; the May 2024 rollout is given only as planned, and who enters the data is not said. SMART ECOLE (2019) gives no schools using it, and its record is pupils identifying themselves online (kept disagrees: enrolment against DOBCONNECT's routine). Owner is held only from 2019, outside the 36 months; finance not stated; nothing in the last twelve months.",
+      "note": "DOBCONNECT is a pilot and SMART ECOLE's source does not say it is past one, so the cell is preparation. Stage 3 needs live use past a pilot in some primary schools, or a register schools fill, and no row states either."
+    }
+  ]
+}

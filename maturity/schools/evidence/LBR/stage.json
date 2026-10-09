@@ -1,0 +1,9 @@
+{
+  "iso3": "LBR",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "1", "governance": "owner:ministry;plan:current;finance:domestic", "levels": "none", "kept": "paper",
+     "last12": "advancing", "schools": "none", "cap": "", "flags": "advancing", "stage_sources": "LBR-001;LBR-002",
+     "gaps": "The paper statement is of the Ministry's existing system and names no level and no school count; LBR-005's booklet row does not use the word paper, and LBR-006 is from the excluded source and sets nothing. No row shows staff trained, equipment delivered, an agreement signed or pilot schools for a school-level EMIS or the learner ID system, which is planned and not in use; finance:domestic is the plan's 60 per cent framework, not a budget line shown.",
+     "note": "Stage 1 on the Ministry's own dated statements of 29 September 2026 that the existing system is paper-based and that schools feeding attendance to a central system is a goal not yet reached. Not stage 2, because what is held is a validated plan and a policy consultation, not preparation or a pilot in schools."}
+  ]
+}

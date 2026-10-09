@@ -1,0 +1,19 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "governance": "",
+      "levels": "",
+      "kept": "",
+      "last12": "",
+      "schools": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one evidence row (CAF-001, paper registers) is from the excluded source and sets nothing, so no admissible dated statement of absence is held. The systems on file are noted classes only: the SIGE/EMIS as an annual school census with its statistical yearbook, and single-function systems for teachers (HRMIS, ESIGAPE, EduTrac) and learning assessment; no system holding a record per learner is described.",
+      "note": "No admissible row sets a rung, and a census does not place a country. Stage 1 is a claim and needs a dated statement from a source the study admits."
+    }
+  ]
+}

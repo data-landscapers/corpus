@@ -1,0 +1,19 @@
+{
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "levels": "P;S",
+      "kept": "enrolment",
+      "last12": "advancing",
+      "schools": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GIN-011;GIN-012;GIN-014;GIN-009",
+      "gaps": "No number or share of primary schools registered is given, and no source says who keys the record: those trained are officers of the regional, prefectoral and communal education offices, so entry may be away from the school. The schools aspect disagrees across dates: none in March 2021 (GIN-007), not published in March 2026 (GIN-014); the newer stands. The 2021 roadmap gives no period and falls outside the 36 months, so no current plan is held; finance is not stated. GIN-001 and GIN-002 are from the excluded source and set nothing.",
+      "note": "The unique pupil matricule, at secondary since 2022, was extended to primary in a nationwide registration of 5 to 25 March 2026 described as a launch and rollout, not a pilot: a learner register filled once, which is stage 3. Nothing shows any primary school entering attendance or results during the year, and a register tops out at 3."
+    }
+  ]
+}

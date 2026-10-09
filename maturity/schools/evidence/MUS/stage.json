@@ -1,0 +1,8 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "", "levels": "", "kept": "", "last12": "", "schools": "none", "cap": "", "flags": "", "stage_sources": "MUS-001",
+     "gaps": "The only evidence is a needs-assessment and design mission of February 2019; nothing dated since says whether the system was built, piloted or used in any school, at which level, or how records are kept. Governance is not held inside the 36 months: the ministry's ownership is dated 2019.",
+     "note": "A school information system tracking each learner was being designed in February 2019 with no school using it, which is preparation, stage 2. Stage 3 needs live use past a pilot in some primary schools, and no row shows any school using it."}
+  ]
+}

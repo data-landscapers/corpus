@@ -1,0 +1,9 @@
+{
+  "iso3": "BDI",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "",
+     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "The only evidence row, BDI-001, is from the source the study excludes and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no admissible fact on any system holding a record per learner; systems.csv holds only census, single-function, learning, enabling and unclassified systems.",
+     "note": "Not stage 1, because the one statement of paper registers comes from the excluded source. Not stage 2, because no admissible row shows an EMIS for primary schools prepared, piloted or running in secondary schools."}
+  ]
+}

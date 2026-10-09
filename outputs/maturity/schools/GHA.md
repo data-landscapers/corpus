@@ -1,0 +1,17 @@
+# Ghana
+
+## EMIS
+
+**Governance, planning, finance.** Schools reporting on what the World Bank calls the DL+ Platform is a condition carrying US$25 million under a project financing that is [grant-financed by GPE, SCALE funders and the Early Learning Partnership](<https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf>) and had disbursed nothing by November 2025.
+
+**Levels in use.** The programme whose results schools report on the platform [is for lower and upper primary](<https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf>), the World Bank said in November 2025. Senior high schools [upload student records to the examinations council's Student Transcript Portal](<https://t-tel.org/2026/02/22/using-data-to-strengthen-ghanas-secondary-education-reform/>), live since 2024.
+
+**How the record is kept.** Primary schools [assess and report literacy and numeracy outcomes for individual learners](<https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf>) on the platform. Secondary schools have uploaded [over 60 million academic records since 2024, at a 97.2% national average completion rate](<https://t-tel.org/2026/02/22/using-data-to-strengthen-ghanas-secondary-education-reform/>), with completion reviewed monthly by regional and national committees.
+
+**Last twelve months.** The count of schools reporting on the platform [stood at 733 in August 2024, in June 2025 and in November 2025](<https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf>). The World Bank says the training of teachers to start reporting was delayed by the finance ministry's disbursement cap, in force from January 2025.
+
+**Primary schools doing the digital input.** By the World Bank's count, [733 schools were reporting on the platform at 27 November 2025](<https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf>), against a target of 16,000 by December 2028.
+
+***Noted, not assessed***. The ministry's yearly school census, which Ghana calls its [Education Management Information System (EMIS)](<https://www.myjoyonline.com/education-ministry-updates-emis-indicators-to-strengthen-ict-integration-in-schools/>); the [CloudSys senior high school placement system and the one before it](<https://asaaseradio.com/yaw-opoku-mensah-criticises-new-shs-placement-system/>); the [National Standardized Tests](<https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-10-gpe-program-document-system-capacity-grant-ghana.pdf>); [weekly teacher attendance data](<https://pmdv.moedatadashboard.com/api_documentation>); the [Mobile School Report Card and the paper School Report Card](<https://www.unicef.org/ghana/media/1436/file>); the [Edmodo learning management system](<https://documents1.worldbank.org/curated/en/099122325180530691/pdf/P165557-8b46bb78-18d2-4f42-981f-a8a5950503b5.pdf>); and [One-Teacher-One-Laptop](<https://doi.org/10.30574/gscarr.2025.25.2.0350>).
+
+***Not held***. No total of primary schools is given beside the 733, so their share of all primary schools is not known. Nor is it stated how often a school reports, who owns the platform or whether a current plan names it.

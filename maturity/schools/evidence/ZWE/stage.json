@@ -1,0 +1,6 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry", "levels": "P;S", "kept": "routine", "last12": "advancing", "schools": "not-published", "cap": "", "flags": "advancing", "stage_sources": "ZWE-001;ZWE-002;ZWE-004;ZWE-005", "gaps": "The source does not say who enters the attendance and grades or where, and gives no count or share of schools in the Early Warning System; the stage rests on one news report of June 2026. It disagrees with the older facts (ZWE-007 of 2019, ZWE-008 of 2022), which state no learner-level system; the newest stands. No plan or finance is held, and ZWE-006 is from the excluded source and sets nothing.", "note": "The ministry describes a learner-level system tracking absence and grades at both levels as integrated into EMIS and being rolled out, which is live use past a pilot with no figure published. Stage 4 needs more than half of primary schools entering attendance or results on a share or a count with its total, and none is held."}
+  ]
+}

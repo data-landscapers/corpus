@@ -1,0 +1,9 @@
+{
+  "iso3": "ERI",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "",
+     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "The only evidence row, ERI-001, is from the excluded source and sets nothing. No admissible dated statement that primary schools keep learner records on paper, and no row on any system holding a record per learner.",
+     "note": "What is held is the annual school census, its yearbooks and the platform that collects it, with a teacher system: noted classes only, which place no country. Stage 1 is a claim and nothing admissible makes it."}
+  ]
+}

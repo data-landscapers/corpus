@@ -1,0 +1,19 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "levels": "P;S",
+      "kept": "routine",
+      "last12": "",
+      "schools": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-010;DJI-011;DJI-012",
+      "gaps": "No share or count with a total of primary schools entering absences in GOSE: DJI-012 says all public schools transmit through it but gives no figure, and the project's own indicator on schools transmitting on time still read 'No' at 28 November 2023. The newest coverage facts are from 2023; DJI-006 (2019, none) disagrees with DJI-012 and is the older. No dated event in the twelve months to the as-at, no rural figure, and plan:current rests on a circular for the 2025-2026 school year, not a costed plan.",
+      "note": "GOSE is past its pilot, rolled out in phases, with principals registering pupils and absences transmitted per pupil from pre-school to senior school, which is stage 3. Stage 4 needs a published share, or a count with its total, of primary schools entering attendance or results during the year, and none is given."
+    }
+  ]
+}

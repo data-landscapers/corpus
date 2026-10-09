@@ -1,0 +1,9 @@
+{
+  "iso3": "LBY",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "no evidence", "governance": "", "levels": "", "kept": "",
+     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "evidence.csv holds no row for the country. systems.csv lists only census-class, single-function and unclassified systems, none shown to hold a record per learner that schools add to during the year.",
+     "note": "No evidence row on the sub-indicator, so no rung can be set."}
+  ]
+}

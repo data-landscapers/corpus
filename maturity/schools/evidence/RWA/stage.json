@@ -1,0 +1,10 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry;plan:current", "levels": "P", "kept": "routine",
+     "last12": "advancing", "schools": "not-published", "cap": "", "flags": "advancing",
+     "stage_sources": "RWA-013;RWA-015;RWA-016;RWA-017;RWA-019;RWA-020",
+     "gaps": "No admissible source gives a share or a count of primary schools entering attendance or results: SDMS is described as in use by schools with no figure, KARAME by the 177,000 students it monitors, and the attendance system by two named schools. The sources disagree on SDMS attendance: RWA-016 has one head teacher keeping grades and attendance in it, RWA-019 has it taking a monthly aggregate copied from paper. KARAME and the attendance tracking system name no school level, read as primary. The only finance fact (donor, RWA-023) is older than 36 months, and nothing is held on rural schools; RWA-001 to RWA-005 are from the excluded source and set nothing, including the 2,371 schools.",
+     "note": "Stage 3 because SDMS holds a profile per learner with examination results and is in use by primary schools past any pilot, and KARAME is live for daily attendance at the school. Not stage 4, because no published share or count with a total shows more than half of primary schools entering attendance or results during the year."}
+  ]
+}

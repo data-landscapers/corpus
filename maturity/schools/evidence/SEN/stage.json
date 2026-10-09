@@ -1,0 +1,9 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "paper",
+     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "SEN-001 and SEN-002 are from the source the study excludes and set nothing. The one admissible row, SEN-003 (2025-12, dated by publication), speaks of paper-based education data collection and isolated digital files at school and sub-national level generally: it does not name learner records, primary schools or paper only. No admissible fact on any system holding a record per learner; systems.csv holds census-class, noted and unclassified systems (PLANETE 3.0 and EDUSTAT undescribed or future).",
+     "note": "Not stage 1, because SEN-003 is not a dated statement that primary schools keep learner records on paper only. Not stage 2, because no admissible row shows an EMIS for primary schools prepared, piloted or running in secondary schools."}
+  ]
+}

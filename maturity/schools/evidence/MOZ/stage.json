@@ -1,0 +1,8 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "", "levels": "", "kept": "", "last12": "", "schools": "pilot", "cap": "", "flags": "", "stage_sources": "MOZ-003",
+     "gaps": "The pilot of individual student tracking is named with no system, level, school count or method of entry; nothing says it is past its pilot. Governance is not held inside the 36 months: the ministry's ownership is dated May 2019 and the plan naming SEGI ran 2020-2025, ended before the as-at. MOZ-001 and MOZ-002 are from the excluded source and set nothing.",
+     "note": "A pilot of individual student tracking, level not named and so read as primary, is stage 2. Stage 3 needs live use past a pilot in some primary schools, and no row shows it."}
+  ]
+}

@@ -69,7 +69,7 @@
       "text": "Digitalisation of rural primary schools: EMIS",
       "indicator_id": "digital.rural--digitalisation-of-rural-primary-schools-emis",
       "class": "emis",
-      "criteria_of": "",
+      "criteria_of": "6c603ecd98dc",
       "criteria": [
         "A dated source states that primary schools keep their learners' records on paper only. An annual school census, however it is collected and whatever it is called, does not change this.",
         "An EMIS for primary schools is being prepared or piloted: staff trained, equipment delivered, an agreement signed or pilot schools using it. Or one runs in secondary schools only.",
@@ -192,5 +192,6 @@
       "slug": "2026-03-31 Africa we have a data problem",
       "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
     }
-  ]
+  ],
+  "searched": "2026-10-09"
 }

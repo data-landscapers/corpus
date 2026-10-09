@@ -1,0 +1,10 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "", "levels": "P", "kept": "routine",
+     "last12": "", "schools": "pilot", "cap": "", "flags": "",
+     "stage_sources": "SOM-002;SOM-003;SOM-006;SOM-008",
+     "gaps": "SOM-001 is from the source the study excludes and sets nothing. The newest admissible fact is May 2022: the Digital Attendance Application on trial in 42 schools, in Puntland State only, their level not stated (read as primary), with state-wide collection not in place. Nothing is dated inside the 36 months to the as-at, so governance and the last twelve months are empty, and whether the planned roll-out to about sixty schools happened is not established. Nothing admissible on a learner-record system outside Puntland.",
+     "note": "A per-learner daily attendance application is piloted in primary schools (3 in 2019, 42 on trial in 2022), which is stage 2. Not stage 3, because the source's own words are pilot and trial, no rollout past the pilot is recorded, and the facts are for one state."}
+  ]
+}

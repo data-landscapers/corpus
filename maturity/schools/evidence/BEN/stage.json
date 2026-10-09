@@ -1,0 +1,10 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry", "levels": "P;S", "kept": "enrolment",
+     "last12": "advancing", "schools": "not-published", "cap": "", "flags": "advancing",
+     "stage_sources": "BEN-004;BEN-005;BEN-006",
+     "gaps": "No count or share of primary schools entering data is published; the minister's letter of 16 February 2026 says only that several schools update the CEP class alone. No fact shows primary schools entering attendance or results: the kept facts disagree, the newest (BEN-005, BEN-002) giving enrolment and the routine entry of BEN-011 being secondary only, with BEN-015 of 2020 not saying how often or at which level results are entered. Finance is not stated, and the plan held (BEN-017) ended in 2021 and is not current. BEN-003 is from the excluded source and sets nothing.",
+     "note": "Educmaster is past any pilot and primary schools themselves enter enrolments and class lists on it, a learner register filled at the school, which is stage 3. Stage 4 needs more than half of primary schools entering attendance or results during the year on a published share or count, and neither the routine entry nor the figure is held for primary."}
+  ]
+}

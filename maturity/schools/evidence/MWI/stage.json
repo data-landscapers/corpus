@@ -1,0 +1,9 @@
+{
+  "iso3": "MWI",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "1", "governance": "", "levels": "", "kept": "paper",
+     "last12": "no-change", "schools": "", "cap": "", "flags": "", "stage_sources": "MWI-004",
+     "gaps": "No row names a level, a school count or an owner, plan or budget for a digital learner record. MWI-001 to MWI-003 are from the excluded source and set nothing.",
+     "note": "A May 2026 policy brief says cohort tracking and its learner numbers rest on paper registers the schools make themselves, with digitisation still a recommendation. No preparation or pilot of an EMIS for primary schools is on record, so stage 2 is not reached."}
+  ]
+}

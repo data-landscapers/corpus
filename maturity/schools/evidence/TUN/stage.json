@@ -1,0 +1,19 @@
+{
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "levels": "P;S",
+      "kept": "routine",
+      "last12": "advancing",
+      "schools": "share:92.7%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TUN-023;TUN-025;TUN-017;TUN-018",
+      "gaps": "No share or count of primary schools entering attendance or results: the 92.7% (4,322 of 4,662 public primary establishments, December 2023) is not said to be schools entering data, and the same deck puts the uploading of primary pupils' absences at 2%, of what it does not say. The newer facts (2025, 2026) describe enrolment only and disagree with `routine`, and the 2026 platform names no level; the strategy behind plan:current is unnamed and gives no period, finance is not stated, and the last twelve months hold both a launch and a boycott call over failures (TUN-014).",
+      "note": "Madrassati is the ministry's primary-stage system in service beyond a pilot, with absences uploaded at a low rate, and first-year pupils are registered nationally under a unique identifier, which meets stage 3. Stage 4 needs more than half of primary schools entering attendance or results, and the only share held is of establishments on the system, which places by the lower rung."
+    }
+  ]
+}

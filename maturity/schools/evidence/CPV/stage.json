@@ -1,0 +1,7 @@
+{
+  "iso3": "CPV",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry;plan:current;finance:donor", "levels": "P;S", "kept": "routine", "last12": "", "schools": "share:100%", "cap": "", "flags": "", "stage_sources": "CPV-005;CPV-008;CPV-014;CPV-015;CPV-026", "gaps": "No share or count of basic education schools entering attendance or marks is published: 395 of 395 (February 2019) is schools where SIGE was implemented, 'used in all' (June 2025) gives no count, and the compact's indicator of schools with a functional SIGE has no baseline. The newest fact, the despacho in force from 1 September 2025, gives no figure and states an obligation, not practice. Nothing is dated inside the last twelve months; the donor finance stated is for one module only.",
+     "note": "SIGE is live in basic and secondary schools, with daily absences and marks per pupil required of teachers. Stage 4 needs a figure for primary schools entering data, and the only figures are of schools implemented or 'using' it, which place by the lower rung."}
+  ]
+}

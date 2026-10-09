@@ -1,0 +1,10 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "", "levels": "P", "kept": "routine",
+     "last12": "", "schools": "not-published", "cap": "", "flags": "",
+     "stage_sources": "MLI-002;MLI-003;MLI-004",
+     "gaps": "All admissible rows are one source of February 2020; nothing is held since, so governance (partner-owned and donor-financed in 2020, MLI-005 and MLI-006) and the last twelve months are outside their windows. No count or share of schools scanning attendance, and the one school named 'will digitize' in 2020 rather than is doing so. MLI-001, the statement of paper records, is from the excluded source and sets nothing.",
+     "note": "The PAIS card-and-tablet attendance scheme for primary-age children is a preparation or pilot, which is stage 2. Not stage 3, because the source names no school as using it and does not say it is past a pilot, so it reads as a pilot."}
+  ]
+}

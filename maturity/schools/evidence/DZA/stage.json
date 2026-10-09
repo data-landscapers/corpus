@@ -1,0 +1,19 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "governance": "",
+      "levels": "",
+      "kept": "",
+      "last12": "",
+      "schools": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one evidence row, DZA-001, is from the source the study excludes and sets nothing, so no aspect is held. Nothing admissible says whether primary schools keep learner records on paper or in a system, at which levels, or in how many schools.",
+      "note": "Stage 1 is a claim and needs an admissible dated statement that learner records are on paper only; the only such statement is the excluded source's inference. With no admissible row, no rung can be set."
+    }
+  ]
+}

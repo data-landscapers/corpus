@@ -1,0 +1,9 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "",
+     "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "Both evidence rows, SDN-001 and SDN-002, are from the source the study excludes and set nothing. No admissible dated statement that primary schools keep learner records on paper, and no admissible fact on any system holding a record per learner; systems.csv holds census-class surveys and EMIS pilots in state ministries that no source classifies.",
+     "note": "Not stage 1, because the one statement of paper records comes from the excluded source. Not stage 2, because no admissible row shows an EMIS for primary schools prepared, piloted or running in secondary schools."}
+  ]
+}

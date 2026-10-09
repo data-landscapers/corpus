@@ -1,0 +1,9 @@
+{
+  "iso3": "TGO",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry", "levels": "", "kept": "",
+     "last12": "", "schools": "none", "cap": "", "flags": "", "stage_sources": "TGO-003;TGO-004;TGO-005",
+     "gaps": "No school is named as using the pupil-numbering platform and no pilot is reported: the 2023 launch and platform design (TGO-003) is followed by the April 2024 panel finding no clear evidence of student numbers, with collection still being developed (TGO-005). The 2021 marks platform was ordered, not built. No level, plan, finance or event in the last twelve months is held; TGO-001 and TGO-002 are from the excluded source and set nothing.",
+     "note": "Stage 2 on preparation: the ministry launched pupil numbering and designed its enrolment platform in 2023, and no school enters anything yet. Not stage 3, because no admissible row shows a register or EMIS past a pilot in any primary school."}
+  ]
+}

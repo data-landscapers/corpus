@@ -1,0 +1,19 @@
+{
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "governance": "",
+      "levels": "",
+      "kept": "",
+      "last12": "",
+      "schools": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one evidence row (BWA-001, records on paper) is from the excluded source and sets nothing, so no admissible dated statement of absence is held. The systems on file are noted classes only: an annual school census called EMIS, one standalone attendance tablet in a single school, and school connectivity; the 2025 EMIS/LMS tenders are named without a class.",
+      "note": "No admissible row sets a rung, and a census does not place a country. Stage 1 is a claim and needs a dated statement from a source the study admits."
+    }
+  ]
+}

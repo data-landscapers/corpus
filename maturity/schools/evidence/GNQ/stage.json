@@ -1,0 +1,6 @@
+{
+  "iso3": "GNQ",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "unplaced", "governance": "", "levels": "", "kept": "", "last12": "", "schools": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "The only two evidence rows (GNQ-001, GNQ-002) come from the excluded source and set nothing. No admissible row describes a record per learner that schools add to during the year, and no admissible dated statement says primary schools keep learner records on paper only.", "note": "systems.csv holds only noted classes: the Censo Escolar, the PRODEGE yearbooks and SIME as census, SICOLO as standalone, ProFuturo as learning and one computer room as enabling. A census sets no rung, and stage 1 needs an admissible paper statement that is not held."}
+  ]
+}

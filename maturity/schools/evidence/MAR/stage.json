@@ -1,0 +1,10 @@
+{
+  "iso3": "MAR",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "owner:ministry", "levels": "P;S", "kept": "routine",
+     "last12": "advancing", "schools": "not-published", "cap": "", "flags": "advancing",
+     "stage_sources": "MAR-002;MAR-003;MAR-009;MAR-011",
+     "gaps": "No share or count of primary schools entering attendance or results: MAR-004's 10,000 establishments (2014) are all levels registering learners, and the newer MAR-011 gives no figure. Routine entry is shown only for lower secondary (MAR-005, MAR-006, newest levels fact S against P;S in MAR-002 and MAR-009); MAR-010 does not say who keys primary marks. Plan and finance not stated.",
+     "note": "MASSAR is a learner register every establishment fills, live since 2013 and covering primary, which is stage 3. Not stage 4, because daily entry is evidenced in pioneer middle schools only and no share of primary schools entering attendance or results is published."}
+  ]
+}

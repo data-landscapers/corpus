@@ -1,0 +1,19 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "2",
+      "governance": "owner:ministry;finance:donor",
+      "levels": "none",
+      "kept": "routine",
+      "last12": "",
+      "schools": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-012;BFA-016;BFA-003;BFA-007",
+      "gaps": "No source gives a count of pilot establishments or says whether they are primary or secondary, and none reports FIUE-BF or the national pupil file past its pilot: at 25 June 2025 enrolment had not begun and at 14 April 2025 the student management platform was still to be designed. The sources disagree on how the record is kept (BFA-017 pilot establishments online in 2023, BFA-009 mainly hard copies in April 2025) and BFA-017 does not say results are entered during the year; finance was the general budget in February 2024 (BFA-014) and donor only in the newer rows; no current plan naming the system and no dated event in the twelve months are held.",
+      "note": "A learner register (FIUE-BF) was at its pilot phase in February 2024 and its successors were still being prepared in 2025, which is stage 2. Stage 3 needs live use or a register filled past its pilot, and no row reports either."
+    }
+  ]
+}

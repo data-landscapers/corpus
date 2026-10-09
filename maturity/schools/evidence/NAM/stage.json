@@ -1,0 +1,9 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "3", "governance": "", "levels": "P;S", "kept": "routine",
+     "last12": "", "schools": "count:807", "cap": "", "flags": "", "stage_sources": "NAM-003;NAM-004;NAM-005",
+     "gaps": "Everything held dates from 2018: nothing inside the 36 months for governance or the 12 months for change. The 807 of 1,848 schools are connected to School-Link, not shown entering data, and cover all levels with no primary split; daily attendance entry is established only for a 103-school pilot. NAM-004 (routine) and NAM-007 (most schools on paper registers) disagree on how the record is kept. NAM-001 is from the excluded source and sets nothing.",
+     "note": "School-Link, with its learner unit record module, is described as the live national system and 807 schools are connected, so it is past a pilot in some primary schools. Stage 4 fails: the count is of schools connected, under half of the total, and attendance entry was a pilot."}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "emis",
+      "stage": "unplaced",
+      "governance": "",
+      "levels": "",
+      "kept": "",
+      "last12": "",
+      "schools": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one evidence row (CMR-001, paper registers) is from the source the study excludes and sets nothing. No admissible row says how primary schools keep learner records; systems.csv holds only a census platform (STATEDUC), an enabling pilot and three systems (SIGE, WebSIG, the integrated EMIS platform) with no class and no described function.",
+      "note": "Stage 1 is a claim and needs an admissible dated statement that learner records are on paper; the only such statement is excluded. Nothing held describes an EMIS in preparation, so stage 2 is not reached either."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry;finance:donor", "levels": "P;S", "kept": "enrolment",
+     "last12": "advancing", "schools": "count:792", "cap": "", "flags": "advancing",
+     "stage_sources": "MDG-001;MDG-002;MDG-003;MDG-004",
+     "gaps": "The 792 establishments (MDG-003) are the pilot district, all levels, with no total and primary not counted apart; it follows MDG-007 and MDG-009, which held none in December 2025. For the scale-up launched on 11 May 2026 only a target is held, no result, and the one school named is lower secondary. Who keys the record is not stated (MDG-002). No plan stated. MDG-006 is from the excluded source and sets nothing.",
+     "note": "The learner register (NUIS) has an enrolled pilot, which is stage 2. Not stage 3, because no row shows a primary school past the pilot filling the register: the scale-up is a launch and a target."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "iso3": "LSO",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "", "levels": "", "kept": "",
+     "last12": "", "schools": "pilot", "cap": "", "flags": "", "stage_sources": "LSO-004",
+     "gaps": "The only admissible coverage fact is the 2018 pilot, which gives neither the schools' level (read as primary) nor who enters the records; nothing admissible is dated since, so whether the pilot still runs is not established. The governance rows are from 2018, outside the 36 months, and LSO-001 to LSO-003, including the statement that the pilot was scaled back and records are on paper, are from the excluded source and set nothing.",
+     "note": "Stage 2 on a 2018 OpenEMIS pilot tracking individual learners in one hundred schools. Not stage 3, because no admissible row shows the system past its pilot and live in primary schools."}
+  ]
+}

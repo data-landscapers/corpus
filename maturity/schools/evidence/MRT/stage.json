@@ -1,0 +1,8 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {"sub_indicator": "emis", "stage": "2", "governance": "owner:ministry", "levels": "", "kept": "enrolment", "last12": "advancing", "schools": "not-published", "cap": "", "flags": "advancing", "stage_sources": "MRT-002;MRT-004",
+     "gaps": "The source does not say whether Siraj's pupil registration is a pilot or live, who keys the entries (the school or the parent), which level it covers or how many schools use it. No plan or finance is stated. MRT-001 is from the excluded source and sets nothing.",
+     "note": "Pupil registration through Siraj opened on 28 September 2026, level not named and so read as primary; the source does not call it live, so it is read as a pilot, stage 2. Stage 3 needs a learner register that schools fill past its pilot, and neither the schools' entry nor the end of the pilot is stated."}
+  ]
+}
