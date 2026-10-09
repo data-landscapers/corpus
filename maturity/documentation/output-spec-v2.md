@@ -75,7 +75,9 @@ The sidebar button is on desktop too, so double-click is a shortcut, not the onl
 
 ## 6. The sidebar
 
-**Top half: the indicator.** The scale criteria for the selected indicator, being its ladder (the rung-by-aspect table, condensed to one line per stage), and a button to the indicator's bookmark on the methodology page.
+**Top half: the indicator.** The scale criteria for the selected indicator, being its ladder (the methodology page's criteria sentences, one per stage), and a button to the indicator's bookmark on the methodology page. **Its heading is always *Criteria*** *(Bill, 2026-10-09)*: the dropdowns already name the topic and the indicator. The criteria start on one line, where the longest stage label ends.
+
+**Bottom half: the country.** The heading is the country's name with its stage at the right of the same line, and no *Country* label above it *(Bill, 2026-10-09)*.
 
 **The two halves are told apart** *(Bill, 2026-10-09)*: each opens on a heading that stays put while its body scrolls beneath it, closed by a rule, with a heavy rule on top of each box; the sidebar type is a step smaller than the page's.
 

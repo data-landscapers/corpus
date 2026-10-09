@@ -210,8 +210,20 @@
   letter-spacing: .06em;
   color: var(--ink-faint);
 }
-.mat-ladder { margin: 0 0 .9rem; padding: 0; list-style: none; }
-.mat-ladder li { display: flex; gap: .5rem; margin-bottom: .45rem; color: var(--ink-light); }
+.mat-side h2.mat-side__kicker { margin: 0; font-family: var(--mono); font-size: .66rem; font-weight: 400; }
+/* The country's name with its stage at the right of the same line. */
+.mat-side__name { display: flex; align-items: center; justify-content: space-between; gap: .75rem; }
+.mat-side__name .mat-chip { flex: 0 0 auto; }
+/* One grid for the whole ladder, so every criterion starts where the longest label ends. */
+.mat-ladder {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  gap: .45rem .5rem;
+  margin: 0 0 .9rem;
+  padding: 0;
+  list-style: none;
+}
+.mat-ladder li { display: contents; color: var(--ink-light); }
 .mat-ladder b { color: var(--ink); white-space: nowrap; }
 .mat-side__bottom { scroll-margin-top: calc(var(--header-h) + 3.5rem); }
 .mat-side__empty { color: var(--ink-faint); margin: 0; padding-top: .9rem; }
@@ -270,3 +282,4 @@
 
 .mat-method__ind { scroll-margin-top: calc(var(--header-h) + 3rem); }
 .mat-method__ind:target h2 { color: var(--accent); }
+.mat-method td:first-child { white-space: nowrap; }

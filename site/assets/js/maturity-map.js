@@ -256,11 +256,11 @@
     var lad = ind.ladder.map(function (l) {
       var s = l.n ? data.stages[l.n - 1] : data.grey;
       return '<li><span class="mat-sw" style="background:' + s.color + '"></span><b>' +
-        (l.n ? l.n + " " + esc(s.label) : "") + "</b> " + esc(l.text) + "</li>";
+        (l.n ? l.n + " " + esc(s.label) : "") + "</b><span>" + esc(l.text) + "</span></li>";
     }).join("");
     $("mat-side-indicator").innerHTML =
-      '<div class="mat-side__head"><p class="mat-side__kicker">' + esc(ind.topic) + "</p>" +
-      "<h2>" + esc(ind.label) + "</h2></div>" +
+      /* The dropdowns already name the indicator, so the box says only what it holds. */
+      '<div class="mat-side__head"><h2 class="mat-side__kicker">Criteria</h2></div>' +
       '<ul class="mat-ladder">' + lad + "</ul>" +
       '<a class="mat-btn" href="../methodology/maturity/#' + esc(state.indicator) + '">Methodology for this indicator</a>';
     $("mat-method").href = "../methodology/maturity/#" + state.indicator;
@@ -275,11 +275,10 @@
     var c = cell(iso), s = stageInfo(c);
     var moved = c.reassessed ? "Reassessed " + c.reassessed : (c.moved || "First assessment");
     box.innerHTML =
-      '<div class="mat-side__head"><p class="mat-side__kicker">Country</p>' +
-      "<h2>" + esc(data.countries[iso] || iso) + "</h2>" +
-      '<p class="mat-side__meta"><span class="mat-chip" style="background:' + s.color + ";color:" + s.ink + '">' +
-      esc(stageText(c)) + "</span>" +
-      "<span><b>Last assessed</b> " + esc(c.assessed || "—") + "</span>" +
+      '<div class="mat-side__head"><div class="mat-side__name"><h2>' + esc(data.countries[iso] || iso) + "</h2>" +
+      '<span class="mat-chip" style="background:' + s.color + ";color:" + s.ink + '">' +
+      esc(stageText(c)) + "</span></div>" +
+      '<p class="mat-side__meta"><span><b>Last assessed</b> ' + esc(c.assessed || "—") + "</span>" +
       "<span><b>Stage last moved</b> " + esc(moved) + "</span></p></div>" +
       '<p class="mat-side__short">' + esc(c.short || "Nothing held.") + "</p>" +
       '<div class="mat-side__long">' + (c.summary || "") + "</div>" +
