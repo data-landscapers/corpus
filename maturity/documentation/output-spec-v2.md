@@ -94,7 +94,7 @@ Before a click it says *Select a country.*
 
 ## 8. The dropdowns
 
-**Topic** lists the topics of `lookups/indicators.csv` (`Topic`, in `Topic Sort` order). **Indicator** lists only the selected topic's indicators, in `Indicator Sort` order, with sub-indicators as their own entries. **Unstudied indicators are shown greyed out** and cannot be chosen *(Bill)*; a topic with no studied indicator is greyed out the same way. The page opens on the first studied indicator.
+**Chapter**, left of Topic *(Bill, 2026-10-09)*, lists the Level 1 values of `/methodology/lookups/#topics` (`Topic L1`), and **Topic** lists only the selected chapter's topics (`Topic`, in `Topic Sort` order). **Indicator** lists only the selected topic's indicators, in `Indicator Sort` order, with sub-indicators as their own entries. **Unstudied indicators are shown greyed out** and cannot be chosen *(Bill)*; a topic or a chapter with no studied indicator is greyed out the same way. **The grey is the whole signal**: no option carries *not yet studied* *(Bill, 2026-10-09)*. The page opens on the first studied indicator.
 
 ## 9. Methodology and downloads
 

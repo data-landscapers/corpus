@@ -85,17 +85,23 @@
     return data.topics[0];
   }
 
+  /* Chapter limits Topic, and Topic limits Indicator. What is not yet studied is greyed out and
+     cannot be chosen; the grey says so, and no option carries words for it. */
   function buildControls() {
-    var ts = $("mat-topic");
-    ts.innerHTML = data.topics.map(function (t, i) {
-      return '<option value="' + i + '"' + (t.studied ? "" : " disabled") + ">" +
-        esc(t.name) + (t.studied ? "" : " — not yet studied") + "</option>";
+    var cs = $("mat-chapter"), ts = $("mat-topic"), chapters = [];
+    data.topics.forEach(function (t) { if (chapters.indexOf(t.group) < 0) chapters.push(t.group); });
+    cs.innerHTML = chapters.map(function (c) {
+      var studied = data.topics.some(function (t) { return t.group === c && t.studied; });
+      return '<option value="' + esc(c) + '"' + (studied ? "" : " disabled") + ">" + esc(c) + "</option>";
     }).join("");
-    ts.addEventListener("change", function () {
-      var t = data.topics[+ts.value];
-      var first = t.indicators.filter(function (i) { return i.studied; })[0];
-      if (first) { state.indicator = first.id; fillIndicators(t); render(); }
+    var openTopic = function (t) {
+      var first = t && t.indicators.filter(function (i) { return i.studied; })[0];
+      if (first) { state.indicator = first.id; syncControls(); render(); }
+    };
+    cs.addEventListener("change", function () {
+      openTopic(data.topics.filter(function (t) { return t.group === cs.value && t.studied; })[0]);
     });
+    ts.addEventListener("change", function () { openTopic(data.topics[+ts.value]); });
     $("mat-indicator").addEventListener("change", function (e) {
       state.indicator = e.target.value; render();
     });
@@ -105,13 +111,17 @@
   function fillIndicators(t) {
     $("mat-indicator").innerHTML = t.indicators.map(function (i) {
       return '<option value="' + esc(i.id) + '"' + (i.studied ? "" : " disabled") +
-        (i.id === state.indicator ? " selected" : "") + ">" + esc(i.label) +
-        (i.studied ? "" : " — not yet studied") + "</option>";
+        (i.id === state.indicator ? " selected" : "") + ">" + esc(i.label) + "</option>";
     }).join("");
   }
 
   function syncControls() {
     var t = topicOf(state.indicator);
+    $("mat-chapter").value = t.group;
+    $("mat-topic").innerHTML = data.topics.map(function (o, i) {
+      return o.group !== t.group ? "" : '<option value="' + i + '"' + (o.studied ? "" : " disabled") + ">" +
+        esc(o.name) + "</option>";
+    }).join("");
     $("mat-topic").value = String(data.topics.indexOf(t));
     fillIndicators(t);
   }

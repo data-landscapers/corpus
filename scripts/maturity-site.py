@@ -441,6 +441,7 @@ def map_page(downloads: dict | None = None, artefacts: str = "") -> str:
       </div>
     </div>
     <div class="mat-controls">
+      <label class="mat-field"><span>Chapter</span><select id="mat-chapter"></select></label>
       <label class="mat-field"><span>Topic</span><select id="mat-topic"></select></label>
       <label class="mat-field mat-field--wide"><span>Indicator</span><select id="mat-indicator"></select></label>
     </div>
