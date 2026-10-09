@@ -1,0 +1,56 @@
+{
+  "slug": "2019-01-01-mar-atlas-territorial-de-l-abandon-scolaire-analyse-des-parcours-de-la-coh",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The national evaluation body (INE, CSEFRS) says in its 2019 atlas that MASSAR was designed as a school management system covering all schools, public and private, from preschool onwards, and it follows real cohorts of primary pupils through to lower secondary from MASSAR's individual records for 2014-2018.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "MASSAR",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The 2019 atlas says MASSAR holds a record per pupil under a unique pupil identifier for each school year and has a pupil assessment component from which marks reports are issued and through which parents consult their children's marks online; the passages read do not say who keys the marks.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "MASSAR",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The 2019 atlas describes MASSAR, adopted in 2013, as in service and its pupil cohorts as exhaustive, but gives no count or share of primary schools entering data; 'all schools' is stated as what the platform was designed to cover.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "MASSAR",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The 2019 atlas says MASSAR was created by the Ministry of National Education to ease school management, and that the ministry supplied the INE with re-coded pupil identifiers for the study.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "MASSAR",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MASSAR",
+      "country_label": "MASSAR; système d'information de gestion scolaire; code MASSAR (identifiant élève unique)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of National Education (MENFPESRS)",
+      "tiers": "Adopted in 2013; designed for all public and private schools from preschool onwards; individual pupil data used since 2014; parents consult marks online; the atlas recommends that universities and vocational training keep the same identifier"
+    }
+  ],
+  "note": "Read as passages, several of them cut mid-sentence: the levels covered beyond preschool, and who enters marks and how often, fall in the cuts. Dates are the atlas's publication year (2019), since it describes MASSAR as it stood 'today'."
+}

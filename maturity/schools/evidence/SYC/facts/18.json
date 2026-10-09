@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-27-syc-taking-students-attendance-web-version",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The ministry's EMIS helpdesk gives the procedure for recording student attendance in OpenEMIS on the web: under the institution, by academic period, week, day, class and grade, each student is present by default and is changed to an excused or unexcused absence; it is an instruction, not a report that schools do it, and the page is undated, so its published date is used.", "as_of": "2025-10", "date_precision": "month", "system": "OpenEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The attendance guide is issued by the EMIS helpdesk of the Ministry of Education, Skills, Youth and Information; the page is undated, so its published date is used.", "as_of": "2025-10", "date_precision": "month", "system": "OpenEMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "OpenEMIS", "country_label": "EMIS", "class": "emis", "platform": "OpenEMIS (web version)", "owner": "Ministry of Education, Skills, Youth and Information", "tiers": "institution (school), by class and education grade"}
+  ],
+  "note": "A seven-step user guide and nothing else. It names no level, no school and no count, and its published date is a proxy for a standing page; the parent should weigh the kept fact as a procedure, not as evidence of use."
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "2024-05-27-rwa-learning-resilience-in-rwanda-basic-education-system",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The World Bank study, presented in February 2024, finds that SDMS holds a profile for each student with personal and academic details, that teachers record aggregated attendance in it once a month only, and that it has no component for daily real-time attendance; national examination results are captured in it, and attendance is first recorded on paper and then replicated in SDMS.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "School Data Management System (SDMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The World Bank study describes SDMS as in place and in use by schools and teachers, used for statistics more than for management, and gives no count or share of schools entering data in it; findings presented in February 2024.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "School Data Management System (SDMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank study treats SDMS as one of five EMIS modules of the Ministry of Education and its agencies, and the State Minister of Education told the 8 February 2024 workshop that the ministry's own teams develop these systems and are integrating them with UNICEF.",
+      "as_of": "2024-02-08",
+      "date_precision": "day",
+      "system": "School Data Management System (SDMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The World Bank study, presented in February 2024, finds that teachers use CA-MIS mainly to record the three high-stakes end-of-term examination grades a year, not the formative assessments it was built to track; it takes student information from SDMS and returns no results to it.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "Comprehensive Assessment Management Information System (CA-MIS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The World Bank study describes CA-MIS as in use by teachers for end-of-term grades and gives no count or share of schools or teachers entering them; findings presented in February 2024.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "Comprehensive Assessment Management Information System (CA-MIS)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "School Data Management System (SDMS)",
+      "country_label": "School Data Management System (SDMS); also SDMIS",
+      "class": "emis",
+      "platform": "web platform; a mobile app with offline use is recommended, not yet built",
+      "owner": "Ministry of Education (MINEDUC)",
+      "tiers": "schools and teachers: student, teacher and school profiles, monthly aggregated attendance, national examination results, infrastructure, and school budgeting, receipts and capitation accounts; Excel reports, no management dashboard"
+    },
+    {
+      "system": "Comprehensive Assessment Management Information System (CA-MIS)",
+      "country_label": "CA-MIS / CAMIS (Continuous or Comprehensive Assessment Management Information System)",
+      "class": "emis",
+      "platform": "",
+      "owner": "",
+      "tiers": "teachers record the three end-of-term examination grades a year; question banks and digital exam distribution; simple reports and exports only"
+    },
+    {
+      "system": "Teacher Management Information System (TMIS)",
+      "country_label": "TMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "REB, developed with UNICEF and Mastercard Foundation support (2021)",
+      "tiers": "mandatory for hiring, allocation and transfer of teachers; partly integrated with SDMS"
+    },
+    {
+      "system": "ICT in Education Management Information System (ICTE-MIS)",
+      "country_label": "ICTE-MIS / ICT-MIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "device inventory, maintenance tickets and manually entered school internet status; not integrated with the other platforms"
+    },
+    {
+      "system": "Learning and Teaching Materials Management Information System (LTM-MIS)",
+      "country_label": "LTM-MIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "REB",
+      "tiers": "textbook planning and allocation; not in use for planning, fed by an Excel file extracted by hand from SDMS"
+    },
+    {
+      "system": "REB e-learning platform",
+      "country_label": "e-learning platform; Learning Management System (LMS)",
+      "class": "learning",
+      "platform": "Moodle, with the REB YouTube channel; zero-rated by Airtel",
+      "owner": "Rwanda Basic Education Board (REB)",
+      "tiers": "6,810 students and 10,099 teachers in 2,622 schools registered in April 2024, of 4,842 schools; integrated with SDMS"
+    },
+    {
+      "system": "Integrated Education Management Information System (IEMIS)",
+      "country_label": "IEMIS; '1 EMIS'",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education, with UNICEF on integration",
+      "tiers": "under development; proposed as the platform centralising the five modules"
+    },
+    {
+      "system": "SDMS data sharing with other platforms and the government business intelligence solution",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "MINEDUC; RISA for the government dashboards",
+      "tiers": "SDMS gives student and teacher data to TMIS, CA-MIS and the LMS and receives little back; government dashboards pull dropout rates and smart-classroom counts from SDMS"
+    },
+    {
+      "system": "RwandaEQUIP teacher tablets",
+      "country_label": "RwandaEQUIP (New Globe model)",
+      "class": "learning",
+      "platform": "tablets with offline scripted lessons",
+      "owner": "RwandaEQUIP - New Globe",
+      "tiers": "primary teachers of 761 schools"
+    },
+    {
+      "system": "School devices and connectivity (OLPC XO laptops, smart classrooms, One Laptop Per Teacher, school internet)",
+      "country_label": "One Laptop Per Child; smart classrooms; Smart Education Network",
+      "class": "enabling",
+      "platform": "",
+      "owner": "MINEDUC and REB, with GIGA, Starlink, Exim Bank of China and World Bank-AIIB connections in progress",
+      "tiers": "56.7% of schools connected and 80.9% on grid electricity (2021/22 yearbook); 269,116 XO laptops in 933 schools, about a quarter of schools with a primary level; teacher-to-computer ratio 14 in primary"
+    }
+  ],
+  "note": "The study covers basic education and does not say at which school levels SDMS or CA-MIS is used, so no levels fact is taken. Its data collection ran from September 2023 to the February 2024 workshop, with some figures updated in April 2024; it names an Education Digital Transformation Strategy 2023-2030 and a 2020 integrated-EMIS architecture only in its bibliography."
+}

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,emis,governance,qualifier,,,,,nothing held
+MOZ,emis,governance,qualifier,owner:ministry;plan:current,2019-05,MOZ-004;MOZ-005,,nothing dated since 2023-09-28
 MOZ,emis,levels,coverage,,,,,nothing held
 MOZ,emis,kept,coverage,,,,,nothing held
 MOZ,emis,last12,qualifier,,,,,nothing held

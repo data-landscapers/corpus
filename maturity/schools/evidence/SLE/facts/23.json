@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS; national data warehouse integrating multiple data systems", "class": "", "platform": "", "owner": "Ministry of Education (MBSSE)", "tiers": "not stated"},
+    {"system": "Master Schools List", "country_label": "digital Master Schools List", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Situation Room", "country_label": "'Situation Room' call center", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "GPE KIX blog on a February 2025 exchange hosted by Eswatini. For Sierra Leone it names a newly drafted (elsewhere 'completed') EMIS policy, a national data warehouse, a digital Master Schools List and a call centre, and says the SEMIS pilots of Eswatini and The Gambia can guide adoption in Sierra Leone; it does not say what any Sierra Leonean system records or who enters it, so no class and no fact."
+}

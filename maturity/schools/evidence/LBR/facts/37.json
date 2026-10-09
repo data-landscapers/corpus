@@ -1,0 +1,23 @@
+{
+  "slug": "2025-04-16-lbr-government-of-liberia-european-union-and-unicef-launch-partnership-to",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "Education Management Information System (EMIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education, with European Union and UNICEF support under a three-year partnership signed on 16 April 2025",
+      "tiers": "To be modernised to track TVET enrolment, teacher training, infrastructure and labour market trends; national and county-level staff to be trained in data analysis"
+    },
+    {
+      "system": "School-level record-keeping",
+      "country_label": "school-level record-keeping",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Schools; to be strengthened to identify dropout risks, with no statement of whether it is on paper or digital"
+    }
+  ],
+  "note": "No fact: the press release says what the partnership will do to the EMIS and to school-level record-keeping, but not what either holds or who enters it, so neither can be classified."
+}

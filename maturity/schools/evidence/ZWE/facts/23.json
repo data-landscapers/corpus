@@ -1,0 +1,13 @@
+{
+  "slug": "2022-12-01-zwe-zimbabwe-2022-2026-partnership-compact-pursuing-an-inclusive-and-trans",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "none", "fact": "The Ministry of Primary and Secondary Education's compact of December 2022 says the EMIS is a central database of the annual ED46 school census, keyed at national level, and that it still needs to be developed to include individual girls' and boys' data; it lists tracking mechanisms for individual pupils among the gaps and says an electronic record of pupil profiling is needed.", "as_of": "2022-12", "date_precision": "month", "system": "EMIS (individual pupil data, not yet included)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS (Education Management Information System), fed by the ED46 school census form", "class": "census", "platform": "", "owner": "Ministry of Primary and Secondary Education, Strategy, Policy Planning, Research and Statistics Department", "tiers": "collected from schools once a year on the ED46 form; entered at national level into a central database and analysed at Head Office; annual statistics report produced at national level only"},
+    {"system": "Early Warning System", "country_label": "Early Warning System (EWS)", "class": "", "platform": "", "owner": "Ministry of Primary and Secondary Education", "tiers": "in development; to identify pupils at risk of dropping out"},
+    {"system": "Giga", "country_label": "Giga", "class": "enabling", "platform": "", "owner": "UNICEF and ITU", "tiers": "6,111 schools targeted for connectivity; none had received computer equipment"},
+    {"system": "School solarisation pilot", "country_label": "pilot to solarize 150 schools (TEACH)", "class": "enabling", "platform": "", "owner": "UNICEF, funded by FCDO", "tiers": "36 schools solarised so far; no devices provided"}
+  ],
+  "note": "The one fact is a dated statement of absence: the document describes only a yearly census under the EMIS name and says per-pupil data is still to be added; it does not say how schools keep learner records. Discard if an absence stated this way is not wanted."
+}

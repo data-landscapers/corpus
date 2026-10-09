@@ -1,0 +1,10 @@
+{
+  "slug": "2018-11-01-gha-final-report-operational-research-on-use-of-mobile-school-report-card",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile School Report Card", "country_label": "mSRC", "class": "single-function", "platform": "Android app with web dashboard, developed by Techmerge", "owner": "Ghana Education Service (mSRC desk), with UNICEF support", "tiers": "head teachers and circuit supervisors submit weekly and termly; district, regional and head office read the dashboard; public basic schools in 20 pilot districts, 1,880 schools by end March 2018"},
+    {"system": "Education Management Information System", "country_label": "EMIS", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "annual census of all basic, secondary and post-secondary institutions, public and private; collected manually, with EMIS software pilot-tested in three districts"},
+    {"system": "School Report Card (paper)", "country_label": "pSRC", "class": "single-function", "platform": "paper", "owner": "Ghana Education Service", "tiers": "basic schools, from 2011"}
+  ],
+  "note": "No fact: the mSRC carries school-level totals each week (enrolment by class, pupil and teacher attendance counts, class performance by subject), not a record per learner, and the report calls it a pilot in 20 of 216 districts; the EMIS it describes is the annual census."
+}

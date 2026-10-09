@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DJI,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-11-20,DJI-001;DJI-002;DJI-004,DJI-003=owner:ministry;DJI-005=owner:ministry;DJI-008=finance:donor;DJI-009=owner:ministry,
-DJI,emis,levels,coverage,none,2019-09-09,DJI-007,,nothing dated since 2023-10-09
-DJI,emis,kept,coverage,,,,,nothing held
+DJI,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-11-20,DJI-001;DJI-002;DJI-004,DJI-003=owner:ministry;DJI-005=owner:ministry;DJI-013=owner:ministry;DJI-014=finance:donor;DJI-008=finance:donor;DJI-009=owner:ministry,
+DJI,emis,levels,coverage,P;S,2023-11-28,DJI-011,DJI-007=none,
+DJI,emis,kept,coverage,routine,2023-11-28,DJI-010,,
 DJI,emis,last12,qualifier,,,,,nothing held
-DJI,emis,schools,coverage,none,2019-09-09,DJI-006,,nothing dated since 2023-10-09
+DJI,emis,schools,coverage,none,2019-09-09,DJI-006,DJI-012=not-published,

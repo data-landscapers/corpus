@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TUN,emis,governance,qualifier,owner:ministry;plan:current,2026-08-20,TUN-004;TUN-005,TUN-010=owner:ministry,not stated: finance
-TUN,emis,levels,coverage,,,,,nothing held
-TUN,emis,kept,coverage,routine,2024-01-03,TUN-008,TUN-001=enrolment,
-TUN,emis,last12,qualifier,advancing,2026-07,TUN-003,,
-TUN,emis,schools,coverage,not-published,2026-08-20,TUN-002;TUN-009,,
+TUN,emis,governance,qualifier,owner:ministry;plan:current,2026-09-07,TUN-005;TUN-011,TUN-004=owner:ministry;TUN-016=owner:ministry;TUN-010=owner:ministry;TUN-020=owner:ministry;TUN-021=plan:current,not stated: finance
+TUN,emis,levels,coverage,P;S,2025-06-09,TUN-017;TUN-022,,
+TUN,emis,kept,coverage,routine,2024-01-03,TUN-008;TUN-023,TUN-012=enrolment;TUN-001=enrolment;TUN-018=enrolment;TUN-024=enrolment,
+TUN,emis,last12,qualifier,advancing,2026-09-07,TUN-003;TUN-013,TUN-014=regressing,
+TUN,emis,schools,coverage,share:92.7%,2023-12,TUN-025,TUN-015=not-published;TUN-002=not-published;TUN-019=not-published;TUN-009=not-published,

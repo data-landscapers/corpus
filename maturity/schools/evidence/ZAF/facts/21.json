@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-24-zaf-basic-education-portfolio-audit-outcomes-dbe-2024-25-annual-report-rea",
+  "facts": [],
+  "systems": [
+    {"system": "SA-SAMS", "country_label": "South African School Administration and Management System (SA-SAMS)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Education Facilities Management System (EFMS)", "country_label": "Education Facilities Management System (EFMS)", "class": "single-function", "platform": "", "owner": "", "tiers": "rolled out to provinces for managing infrastructure projects; provinces not adequately using it"},
+    {"system": "Continuous Teacher Professional Development (CPTD) system", "country_label": "CPTD system", "class": "single-function", "platform": "", "owner": "", "tiers": "teachers record their training in it; many do not"},
+    {"system": "PERSAL", "country_label": "personnel salary (PERSAL) system", "class": "single-function", "platform": "", "owner": "", "tiers": "government payroll; records reasons for resignation"}
+  ],
+  "note": "No fact: the meeting report names SA-SAMS without saying what it does, so it is unclassified. What it states of it: the Auditor-General reported for 2024/25 that the SA-SAMS modernisation project was delayed by a year because it relied on donor funding, and recommended that the Council of Education Ministers and HEDCOM accelerate it (meeting of 24 October 2025). It also reports a planned electronic stock monitoring of the school nutrition programme across 23,000 public schools, unnamed."
+}

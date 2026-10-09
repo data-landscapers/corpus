@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,emis,governance,qualifier,,,,,nothing held
-CIV,emis,levels,coverage,,,,,nothing held
-CIV,emis,kept,coverage,,,,,nothing held
+CIV,emis,governance,qualifier,owner:ministry;plan:current,2024,CIV-002;CIV-008,,not stated: finance
+CIV,emis,levels,coverage,P;S,2019,CIV-003,,nothing dated since 2023-09-28
+CIV,emis,kept,coverage,routine,2024-01,CIV-007,CIV-004=enrolment,
 CIV,emis,last12,qualifier,,,,,nothing held
-CIV,emis,schools,coverage,,,,,nothing held
+CIV,emis,schools,coverage,pilot,2024-01,CIV-006,CIV-005=not-published,

@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-23-gha-restructuring-paper-on-a-proposed-project-restructuring-of-ghana-accou",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "count:733", "fact": "The World Bank's results framework for GALOP gives 733 schools assessing and reporting Differentiated Learning literacy and numeracy outcomes for individual learners on the DL+ Platform at 27 November 2025, against a target of 16,000 by December 2028; no total of schools is given.", "as_of": "2025-11-27", "date_precision": "day", "system": "DL+ Platform", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The World Bank describes schools assessing and reporting literacy and numeracy outcomes for individual learners on the DL+ Platform, 733 schools doing so at 27 November 2025.", "as_of": "2025-11-27", "date_precision": "day", "system": "DL+ Platform", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "The Differentiated Learning programme whose outcomes schools report on the DL+ Platform is for lower and upper primary, with a further target of 35,000 primary teachers trained in it, per the World Bank at November 2025.", "as_of": "2025-11-27", "date_precision": "day", "system": "DL+ Platform", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "no-change", "fact": "The count of schools reporting on the DL+ Platform stood at 733 in August 2024, on 20 June 2025 and on 27 November 2025; the World Bank says training of teachers to start reporting was delayed by the Ministry of Finance's disbursement cap in force from January 2025.", "as_of": "2025-11-27", "date_precision": "day", "system": "DL+ Platform", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "Schools reporting on the DL+ Platform is a performance-based condition carrying US$25 million under GALOP's second additional financing, which is grant-financed by GPE, SCALE funders and the Early Learning Partnership and had disbursed nothing by November 2025.", "as_of": "2025-11-27", "date_precision": "day", "system": "DL+ Platform", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "DL+ Platform", "country_label": "DL + Platform", "class": "emis", "platform": "", "owner": "", "tiers": "schools: 733 report outcomes for individual learners"},
+    {"system": "Education Management Information System", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education (EMIS unit)", "tiers": ""},
+    {"system": "mobile School Report Card", "country_label": "mSRC", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Accountability dashboard", "country_label": "accountability dashboard", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "regional and district officers and SISOs; 16,200 schools reported using it at cluster-level meetings by 27 November 2025"},
+    {"system": "Learning Management System", "country_label": "Edmodo LMS", "class": "learning", "platform": "Edmodo", "owner": "Ghana Education Service", "tiers": "students, parents and teachers; launched 5 November 2020"}
+  ],
+  "note": "EMIS and mSRC are named without a description of what schools enter; the dashboard links them and holds no learner record. The EMIS and ICT units are being refurbished and given servers."
+}

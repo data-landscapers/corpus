@@ -1,0 +1,82 @@
+{
+  "slug": "2023-12-22-dji-implementation-status-results-report-expanding-opportunities-for-learn",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The World Bank's status report says that, as at 28 November 2023, GOSE holds a student-management module covering enrolment, ID number, orientation and absences, gives each pupil a unique identifier, has the school principal register and transfer pupils in the application, and has pupil and teacher absenteeism transmitted to central management through it; student grades and history are options MENFOP plans to add.",
+      "as_of": "2023-11-28",
+      "date_precision": "day",
+      "system": "GOSE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The World Bank's status report says that, as at 28 November 2023, each pupil has a unique identifier in GOSE from pre-school to senior school and that all public schools transmit their data through the application.",
+      "as_of": "2023-11-28",
+      "date_precision": "day",
+      "system": "GOSE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The World Bank's status report says that, as at 28 November 2023, all public schools transmit their data via the GOSE application, which is being rolled out in phases, and that MENFOP plans to extend it to refugee and private schools; it gives no count of schools and no total, and the indicator whose target is 70% of public and 50% of private primary schools transmitting on time is still recorded as 'No'.",
+      "as_of": "2023-11-28",
+      "date_precision": "day",
+      "system": "GOSE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank's status report says, as at 28 November 2023, that GOSE was developed by MENFOP, the education ministry, which also plans its extension.",
+      "as_of": "2023-11-28",
+      "date_precision": "day",
+      "system": "GOSE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's status report, as at 28 November 2023, carries 'Modernization of the EMIS' and 'Improved methods for data collection' as results indicators of Component 4 (data systems, US$2.55 million) of a project financed by IDA and trust funds including GPE; it names no domestic budget line for GOSE.",
+      "as_of": "2023-11-28",
+      "date_precision": "day",
+      "system": "GOSE",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "GOSE",
+      "country_label": "GOSE; GOSE Education Management Information System",
+      "class": "emis",
+      "platform": "",
+      "owner": "MENFOP (Ministry of Education and Vocational Training)",
+      "tiers": "school (principal registers and transfers pupils; absences transmitted) to central management; all public schools, pre-school to senior school; refugee and private schools planned; modules for students, teachers and infrastructure"
+    },
+    {
+      "system": "Moodle",
+      "country_label": "Moodle application (CRIPEN); CFEEF Moodle platform",
+      "class": "learning",
+      "platform": "Moodle",
+      "owner": "CRIPEN; CFEEF",
+      "tiers": "distance learning and teacher training; 597 teachers trained"
+    },
+    {
+      "system": "Tablets for schools",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "MENFOP",
+      "tiers": "8,600 tablets distributed to schools"
+    }
+  ],
+  "note": "'All public schools' is stated with no number and public schools are not all primary schools, so the schools aspect is not-published; the report's two indicator comments differ on whether the extension is to 'refugee and public' or 'refugee and private' schools."
+}

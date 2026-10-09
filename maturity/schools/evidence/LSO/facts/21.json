@@ -1,0 +1,39 @@
+{
+  "slug": "2024-04-01-lso-education-partnership-compact-enhancing-the-quality-of-teaching-and-le",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS) on Open EMIS, with the Annual School Census and EMIS Statistical Bulletin",
+      "country_label": "EMIS; Open EMIS; Annual School Census; EMIS Statistical Bulletin (Education Statistical Bulletin)",
+      "class": "census",
+      "platform": "OpenEMIS",
+      "owner": "Ministry of Education and Training; UNICEF support for EMIS, and the GPE Systems Capacity Grant (USD 1.6 million) to fund the 2020 and 2021 reports",
+      "tiers": "A database covering pre-primary, primary, lower and upper secondary, formal and non-formal; the last Statistical Bulletin published was for 2020 (2019 in the enabling-factors table), delayed by lack of financing and of capacity for Open EMIS; districts to be supported to collect and use EMIS data"
+    },
+    {
+      "system": "DHIS2 (planned replacement for Open EMIS)",
+      "country_label": "the new DHIS2 model",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Education and Training, with Systems Capacity Grant support for the transition",
+      "tiers": "Not in use: the ministry will explore the transition, and the possibility of individual child and school-level dashboards with secondary schools"
+    },
+    {
+      "system": "ChildSteps app",
+      "country_label": "ChildSteps App",
+      "class": "standalone",
+      "platform": "tablet app",
+      "owner": "School Readiness Initiative (Roger Federer Foundation with NECDOL)",
+      "tiers": "Tablets held by mentors, inspectors and teacher trainers for play-based continuous assessment of children in reception classes and early primary grades; the pilot put Grade R in 50 primary schools"
+    },
+    {
+      "system": "Teaching Service e-governance platforms",
+      "country_label": "e-governance platforms for electronic records management",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Teaching Service Department, Ministry of Education and Training",
+      "tiers": "Not in use: named as a priority of the decentralisation reform for teacher recruitment, deployment and development"
+    }
+  ],
+  "note": "No fact: the document treats EMIS as the Annual School Census and its Statistical Bulletin. It calls Open EMIS 'individual-learner supported' but states no entry of learner records by schools; the move to DHIS2 and learner-level dashboards are things the ministry 'will explore'."
+}

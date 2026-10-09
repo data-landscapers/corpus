@@ -1,0 +1,16 @@
+{
+  "slug": "2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "DHIS2 reports that schools record each learner's socio-economic background, attendance and progression in the ministry's digital student registry under a unique ID, and that modules for daily attendance and exam results feed the Education Data Centre; the page is undated, so its published date is used.", "as_of": "2025-08", "date_precision": "month", "system": "Digital student registry (DHIS2-Ed SEMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "DHIS2 says the learner registry has scaled nationwide and now includes nearly 80% of Gambian learners; that is a share of learners, and no number or share of schools entering data is given. Dated to the page's publication.", "as_of": "2025-08", "date_precision": "month", "system": "Digital student registry (DHIS2-Ed SEMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "The digital student registry began as a pilot in 2020, tested with Chromebooks in 200 schools, according to DHIS2; the schools' level and the national total are not given.", "as_of": "2020", "date_precision": "year", "system": "Digital student registry (DHIS2-Ed SEMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The registry and its dashboards sit in the Ministry of Basic and Secondary Education's Education Data Centre, supported by the University of The Gambia, HISP West and Central Africa and international partners; dated to the page's publication.", "as_of": "2025-08", "date_precision": "month", "system": "Digital student registry (DHIS2-Ed SEMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Digital student registry (DHIS2-Ed SEMIS)", "country_label": "digital student registry; School-based EMIS (SEMIS)", "class": "emis", "platform": "DHIS2-Ed", "owner": "Ministry of Basic and Secondary Education", "tiers": "schools record learners; pilot in 200 schools in 2020, since nationwide"},
+    {"system": "Education Data Centre", "country_label": "Education Data Centre (EDC)", "class": "", "platform": "DHIS2-Ed", "owner": "Ministry of Basic and Secondary Education", "tiers": "live dashboards for policymakers, regional officers and school leaders; holds migrated census data"},
+    {"system": "Annual school census", "country_label": "annual census; statistical yearbook", "class": "census", "platform": "paper forms", "owner": "Ministry of Basic and Secondary Education", "tiers": "schools fill forms each November; yearbook the following May"},
+    {"system": "School Report Card", "country_label": "School Report Card (SRC)", "class": "", "platform": "dashboards", "owner": "Ministry of Basic and Secondary Education", "tiers": "parents, teachers and School Management Committees"}
+  ],
+  "note": ""
+}

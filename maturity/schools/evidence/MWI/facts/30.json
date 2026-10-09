@@ -1,0 +1,9 @@
+{
+  "slug": "2023-07-27-mwi-assessment-of-enabling-factors-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS; annual Education Statistics Report", "class": "census", "platform": "", "owner": "Ministry of Education; its digitisation split between external parties", "tiers": "data from public, private and religious institutions, reported by education division, district, zone and school; covers primary education only"},
+    {"system": "Malawi Longitudinal School Survey (MLSS)", "country_label": "MLSS", "class": "", "platform": "", "owner": "externally produced", "tiers": "nationally representative sample of schools"}
+  ],
+  "note": "GPE's advisory panel (July 2023) describes the EMIS as data collected in January and published in August as a printed annual statistics report, which is a yearly return and so class census; it adds that the sector review's claim of digitisation could not be checked, that digitisation is planned with partner funding, and that a unique student identity code for tracking through the EMIS was under discussion only. No system of class emis is described, so there is no fact."
+}

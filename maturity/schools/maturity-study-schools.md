@@ -78,15 +78,15 @@ Tested and fixed at S3, 2026-10-09 (`ladder-test.csv`): a register still at its 
 
 **A census never places a country above stage 1.** A country holding only noted classes is unplaced, or stage 1 where a source states that learner records are on paper; what it holds prints under *Noted, not assessed*.
 
-**Preparation is the health study's** (its §4).
+**Preparation is the health study's** (§4).
 
 **A share of all schools is read as the share of primary schools, and a system for *schools* with no level named as P**; the short summary says which. A share of schools *registered on* or *given* a system is not a share entering data: it places by the lower rung.
 
 ## 5. The norm
 
-The African Union's Digital Education Strategy (2022): devices for 20 per cent of students and half of teachers by 2027; half of institutions connected; and, under its fourth objective, a move from *EMIS 1.0* to an individual-level, ID-linked *EMIS 2.0*.
+The African Union's Digital Education Strategy (2022), fourth objective: a move from *EMIS 1.0*, "aggregate statistical data collection for generating annual reports", to *EMIS 2.0*, individual-level data on unique identifiers, in at least half of member states by 2027. Its device and connection targets (20 per cent of students and half of teachers by 2027; half of institutions connected) count `enabling`.
 
-**It does not measure what the sub-indicator measures, and it carries the trap.** Its device and connection targets count `enabling`. Its *EMIS 1.0*, as the first run read it, is the census under the EMIS name. *EMIS 2.0* is nearest, and describes a record and its links, not whether a school uses it. The ladder borrows nothing from it: the 90 per cent line is the health study's.
+**It draws this study's line, and keeps one name for both sides of it.** Its *EMIS 1.0* is the school census, in its own words. Its *EMIS 2.0* is met by a learner register, this ladder's stage 3: it asks for a record per learner, not for a school that uses it during the year. The ladder borrows nothing from it; the 90 per cent line is the health study's. *(Read 2026-10-09: pages 10, 55 to 58.)*
 
 ## 6. What Phase 1 reads and searches for
 
@@ -98,7 +98,7 @@ The African Union's Digital Education Strategy (2022): devices for 20 per cent o
 
 - [x] **S1. Bill's rulings**: agreed, 2026-10-09.
 - [x] **S2. Review all 54 countries in one run**, method §4: 1,105 documents, 302 facts.
-- [ ] **S3. Test and fix the ladder** on the profiles: done. Still to do: read the Strategy's fourth objective whole and correct §5 if it does not say what the first run took it to.
+- [x] **S3. Test and fix the ladder** on the profiles; §5 corrected from the Strategy's own text.
 - [x] **S4. Search, select and hand over**, method §5. *130 delivered, note 220.*
 - [ ] **S5. Phase 2, on Bill's trigger**, method §6 and §7.
 - [ ] **S6. Write, render and lint**, method §8. Write `study.json`'s `criteria` again from the fixed ladder and set `criteria_of`. Commit.

@@ -1,0 +1,64 @@
+{
+  "slug": "2019-01-01-som-world-vision-somali-programme-annual-report-2019",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "World Vision's annual report for 2019 states that it, the Somalia Response Innovation Lab and the Puntland Ministry of Education are piloting a Digital Attendance App in 3 primary schools in Puntland, a pilot it calls ongoing; it gives no total of schools, and the figure is for Puntland only.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Digital Attendance App (DAA)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "World Vision's annual report for 2019 states that the 3 pilot schools moved from a paper attendance tracker to the app, which records each student's attendance daily, online or offline, with reasons for absence, and feeds each school's data into district and state figures broken down by school, gender and grade.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Digital Attendance App (DAA)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P",
+      "fact": "World Vision's annual report for 2019 states that the Digital Attendance App pilot in Puntland is in 3 primary schools.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Digital Attendance App (DAA)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "World Vision's annual report for 2019 states that World Vision and the Response Innovation Lab worked with the software firm Sisitech to pilot the app in Puntland in collaboration with the Ministry of Education, that World Vision, head teachers and the government can see its dashboards, and that the ministry would like the app and its EMIS integrated, which they were not yet.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Digital Attendance App (DAA)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Attendance App (DAA)",
+      "country_label": "Digital Attendance App; Digital Attendance Tracking Mobile Application; DAA",
+      "class": "emis",
+      "platform": "web and mobile application developed by UNICEF and University of Nairobi C4D Lab students, later Sisitech; first piloted in Kenya",
+      "owner": "World Vision with the Somalia Response Innovation Lab and Sisitech, in collaboration with the Puntland Ministry of Education",
+      "tiers": "3 pilot primary schools in Puntland; school data to feed district and state figures; dashboards open to head teachers, World Vision and the government"
+    },
+    {
+      "system": "EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Puntland Ministry of Education",
+      "tiers": "named only as the system the ministry would like the app integrated with"
+    }
+  ],
+  "note": "Read whole; the education content is one section. Everything is Puntland, not Somalia. The report is dated only by its year (fiscal year 2019). The DAA is classed emis because the report has schools recording each student's attendance daily in it with the ministry as a pilot partner; in 2019 it was not yet joined to the ministry's EMIS, and it does attendance only, so the parent should check against single-function. Its funding is not stated. The ministry's EMIS is named with no description."
+}

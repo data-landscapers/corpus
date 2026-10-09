@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-01-mar-le-ministere-de-l-education-nationale-lance-le-recensement-scolaire-an",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recensement scolaire annuel 2025-2026",
+      "country_label": "recensement scolaire annuel; base de données scolaires",
+      "class": "census",
+      "platform": "Massar (updates to it are the main source of most of the statistics)",
+      "owner": "Ministry of National Education",
+      "tiers": "Schools, provincial and regional services and central directorates each have a set role; phase one 20 October to 7 November 2025 for primary and secondary schooling and human resources, phase two to 20 November for preschool, non-formal education and social support"
+    },
+    {
+      "system": "Massar",
+      "country_label": "système « Massar »",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "Not stated; the letter calls the updating of its data the main reference for most statistical data in the census"
+    }
+  ],
+  "note": "No fact: the article reports the yearly census operation, which is class census. It names Massar only as the source the census draws on and does not say what schools enter in it or when, so Massar is unclassified in this document."
+}

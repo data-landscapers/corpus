@@ -1,0 +1,11 @@
+{
+  "slug": "2021-05-06-syc-integration-of-instructional-technology-in-our-educational-system-the",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS (Education Management Information System)", "country_label": "EMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "classmate portable computers", "country_label": "", "class": "enabling", "platform": "", "owner": "Ministry of Education", "tiers": "primary schools"},
+    {"system": "mobile and web application in secondary schools", "country_label": "", "class": "learning", "platform": "", "owner": "", "tiers": "secondary schools"},
+    {"system": "multimedia learning portal (learning management system)", "country_label": "", "class": "learning", "platform": "", "owner": "Ministry of Education", "tiers": "proposed"}
+  ],
+  "note": "A newspaper report of a ministry webinar in late April 2021. The minister says the EMIS in use should be looked at again and made comprehensive, and that he sees no reason for report cards to be physical or circulars to go on paper; the article does not say what the EMIS does or who enters data, and stops short of saying learner records are kept on paper only."
+}

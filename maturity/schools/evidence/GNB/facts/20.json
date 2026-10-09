@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-gnb-relatorio-de-atividades-fec-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGE 2.0",
+      "country_label": "Plataforma SIGE 2.0 (Sistema de Informação e Gestão Escolar)",
+      "class": "census",
+      "platform": "SIGE 2.0",
+      "owner": "Ministry of National Education (DGEPASE), supported by the NGO FEC's PESIDE project",
+      "tiers": "Stated in the 2025 report as operational and available to the whole network of sectoral and regional statisticians and at DGEPASE; 92 regional and sectoral statisticians and education inspectors trained to use it; 328 school heads and deputy heads trained in collecting education data"
+    }
+  ],
+  "note": "No fact: SIGE 2.0 is described as a platform for education statistics used by sectoral and regional statisticians and DGEPASE, with school heads trained to collect data; the report describes no entry by schools of per-learner records, so the system is a census."
+}

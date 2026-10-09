@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,emis,governance,qualifier,owner:partner,2025-09-23,SSD-006,,"not stated: plan, finance"
-SSD,emis,levels,coverage,P;S,2025-09-23,SSD-005,,
-SSD,emis,kept,coverage,enrolment,2025-09-23,SSD-004,SSD-002=paper;SSD-003=paper,
+SSD,emis,governance,qualifier,owner:partner;finance:donor,2025-09-23,SSD-006;SSD-010,,not stated: plan
+SSD,emis,levels,coverage,P;S,2025-09-23,SSD-005;SSD-009,,
+SSD,emis,kept,coverage,routine,2024-12-17,SSD-007,SSD-002=paper;SSD-003=paper;SSD-004=enrolment,
 SSD,emis,last12,qualifier,,,,,nothing held
-SSD,emis,schools,coverage,,,,,nothing held
+SSD,emis,schools,coverage,count:6650,2024-12-17,SSD-008,SSD-011=pilot,

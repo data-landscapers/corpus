@@ -1,55 +1,55 @@
 iso3,sub_indicator,rung,levels,kept,schools,schools_as_of,stopped_by
 AGO,emis,no evidence,,,,,nothing held
 BDI,emis,no evidence,,,,,nothing held
-BEN,emis,3,P;S,enrolment,not-published,2026-02-16,not routine entry: a learner register
-BFA,emis,2,none,paper,pilot,2024-02,levels: secondary only
+BEN,emis,3,P;S,routine,not-published,2026-02-16,no share of primary schools over half
+BFA,emis,2,none,routine,pilot,2024-02,levels: secondary only
 BWA,emis,no evidence,,,,,nothing held
 CAF,emis,no evidence,,,,,nothing held
-CIV,emis,no evidence,,,,,nothing held
+CIV,emis,2,P;S,routine,pilot,2024-01,"a pilot, or no school said to be using it"
 CMR,emis,no evidence,,,,,nothing held
 COD,emis,2,P,keyed-elsewhere,pilot,2026-04,"a pilot, or no school said to be using it"
-COG,emis,unplaced,,,,,no coverage aspect stated
+COG,emis,2,none,,none,2023-05,levels: secondary only
 COM,emis,3,P;S,routine,share:45%,2026-02-02,no share of primary schools over half
-CPV,emis,4,P;S,routine,share:100%,2019-02,the share is older than two years
-DJI,emis,2,none,,none,2019-09-09,levels: secondary only
+CPV,emis,5,P;S,routine,share:100%,2025-06-25,daily attendance and the rural share are not carried by a value
+DJI,emis,2,P;S,routine,none,2019-09-09,"a pilot, or no school said to be using it"
 DZA,emis,no evidence,,,,,nothing held
 EGY,emis,unplaced,,,,,no coverage aspect stated
 ERI,emis,no evidence,,,,,nothing held
-ETH,emis,2,,,pilot,2025-11,how the record is kept is not stated
-GAB,emis,3,P;S,routine,not-published,2026-03-06,no share of primary schools over half
-GHA,emis,2,S,routine,,,levels: secondary only
-GIN,emis,2,P,paper,none,2021-03,paper at primary beside a system elsewhere
-GMB,emis,2,P,enrolment,pilot,2022-10-06,"a pilot, or no school said to be using it"
+ETH,emis,2,,enrolment,pilot,2025-11,"a pilot, or no school said to be using it"
+GAB,emis,3,P;S,routine,count:728,2024-09-27,no share of primary schools over half
+GHA,emis,3,P;S,routine,count:733,2025-11-27,no share of primary schools over half
+GIN,emis,2,P;S,enrolment,none,2021-03,"a pilot, or no school said to be using it"
+GMB,emis,2,P,routine,pilot,2025-10,"a pilot, or no school said to be using it"
 GNB,emis,no evidence,,,,,nothing held
 GNQ,emis,no evidence,,,,,nothing held
 KEN,emis,3,P;S,enrolment,share:65%,2021,not routine entry: a learner register
 LBR,emis,1,none,paper,none,2026-09-29,a dated statement of paper only
 LBY,emis,no evidence,,,,,nothing held
-LSO,emis,no evidence,,,,,nothing held
-MAR,emis,3,P;S,enrolment,count:10000,2014-06,not routine entry: a learner register
+LSO,emis,2,,,pilot,2018,how the record is kept is not stated
+MAR,emis,2,S,routine,count:10000,2014-06,levels: secondary only
 MDG,emis,3,P;S,enrolment,count:792,2026-04,not routine entry: a learner register
-MLI,emis,no evidence,,,,,nothing held
+MLI,emis,3,P,routine,not-published,2020-02,no share of primary schools over half
 MOZ,emis,2,,,pilot,2025-07,how the record is kept is not stated
-MRT,emis,no evidence,,,,,nothing held
-MUS,emis,no evidence,,,,,nothing held
-MWI,emis,no evidence,,,,,nothing held
-NAM,emis,no evidence,,,,,nothing held
+MRT,emis,3,,enrolment,not-published,2026-09-28,not routine entry: a learner register
+MUS,emis,2,,,none,2019-02-15,how the record is kept is not stated
+MWI,emis,1,,paper,,,a dated statement of paper only
+NAM,emis,3,P;S,routine,count:807,2018-11,no share of primary schools over half
 NER,emis,no evidence,,,,,nothing held
 NGA,emis,1,,paper,none,2026-07-31,a dated statement of paper only
-RWA,emis,3,,routine,not-published,2026-02-11,no share of primary schools over half
+RWA,emis,3,P,routine,not-published,2026-05-07,no share of primary schools over half
 SDN,emis,no evidence,,,,,nothing held
 SEN,emis,1,,paper,,,a dated statement of paper only
-SLE,emis,3,P,routine,count:300,2023-03,no share of primary schools over half
-SOM,emis,no evidence,,,,,nothing held
-SSD,emis,2,P;S,enrolment,,,"a pilot, or no school said to be using it"
+SLE,emis,3,P,routine,count:300,2023,no share of primary schools over half
+SOM,emis,2,P,routine,pilot,2022-05,"a pilot, or no school said to be using it"
+SSD,emis,3,P;S,routine,count:6650,2024-12-17,no share of primary schools over half
 STP,emis,no evidence,,,,,nothing held
-SWZ,emis,2,P;S,routine,pilot,2020,"a pilot, or no school said to be using it"
-SYC,emis,no evidence,,,,,nothing held
+SWZ,emis,5,P;S,routine,share:100%,2025-10,daily attendance and the rural share are not carried by a value
+SYC,emis,2,,routine,,,"a pilot, or no school said to be using it"
 TCD,emis,1,,paper,,,a dated statement of paper only
 TGO,emis,2,,,none,2024-04-08,how the record is kept is not stated
-TUN,emis,3,,routine,not-published,2026-08-20,no share of primary schools over half
+TUN,emis,4,P;S,routine,share:92.7%,2023-12,the share is older than two years
 TZA,emis,2,P;S,routine,none,2025-11-18,"a pilot, or no school said to be using it"
-UGA,emis,2,P;S,enrolment,,,"a pilot, or no school said to be using it"
-ZAF,emis,2,,routine,,,"a pilot, or no school said to be using it"
+UGA,emis,3,P;S,enrolment,share:58.9%,2025-12,not routine entry: a learner register
+ZAF,emis,4,P;S,routine,share:99.9%,2024-07,the share is older than two years
 ZMB,emis,no evidence,,,,,nothing held
 ZWE,emis,3,P;S,routine,not-published,2026-06-15,no share of primary schools over half

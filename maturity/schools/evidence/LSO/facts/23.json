@@ -1,0 +1,23 @@
+{
+  "slug": "2023-01-01-lso-policy-brief-kix-emis-peer-review-ministry-of-education-lesotho",
+  "facts": [],
+  "systems": [
+    {
+      "system": "OpenEMIS, used for the Annual School Census",
+      "country_label": "EMIS; OpenEMIS; Annual School Census; Annual Statistical Report",
+      "class": "census",
+      "platform": "OpenEMIS",
+      "owner": "Ministry of Education and Training (Planning Directorate, Statistics Unit)",
+      "tiers": "Institutions fill paper annual survey forms; OpenEMIS, adopted after a 2017-2018 pilot, is used only to capture the Annual School Census, and the Statistics Unit downloads the data and cleans it by hand into Excel tables; data seldom shared with districts and schools; 2020 report finalised in 2023, 2021 and 2022 data being input"
+    },
+    {
+      "system": "DHIS2 for Education (planned replacement)",
+      "country_label": "DHIS2 for Education",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Education and Training",
+      "tiers": "Not in use: the ministry is 'about to shift' to it, citing the Ministry of Health's use of DHIS2 since 2015"
+    }
+  ],
+  "note": "No fact: the brief (2023) says education data is collected per institution on paper annual survey forms and that OpenEMIS is used only for data capture of the Annual School Census, so it is class census. It adds that OpenEMIS was meant to track individual learners and teachers but the ministry, short of resources, reverted to school-level aggregated data; no entry of learner records by schools is stated at any point."
+}

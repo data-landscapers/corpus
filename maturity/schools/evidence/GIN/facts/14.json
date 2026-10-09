@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-14-gin-labe-un-cadre-de-la-dpe-cite-dans-une-affaire-presumee-de-detournement",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "Guineematin reports a field mission, on an order dated 30 March 2026, accompanying the systematic registration of primary pupils in Labé prefecture, with each pupil photographed for the school matricule.", "as_of": "2026-03-30", "date_precision": "day", "system": "immatriculation scolaire", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "A mission ordered on 30 March 2026 was registering primary pupils school by school in Labé prefecture, with photographs taken through the school delegates and head teachers, according to Guineematin on 14 May 2026.", "as_of": "2026-03-30", "date_precision": "day", "system": "immatriculation scolaire", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "immatriculation scolaire", "country_label": "immatriculation des élèves", "class": "emis", "platform": "", "owner": "Ministère de l'Éducation nationale, through the Direction préfectorale de l'éducation", "tiers": "primary schools in Labé prefecture; school delegates (DSEE) and head teachers"}
+  ],
+  "note": "The article is about an alleged illegal charge of GNF 10,000 a pupil for the photographs; it does not say who keys the register or how many schools were covered."
+}

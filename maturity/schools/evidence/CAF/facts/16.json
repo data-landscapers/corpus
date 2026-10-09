@@ -1,0 +1,55 @@
+{
+  "slug": "2020-01-01-caf-plan-sectoriel-de-l-education-2020-2029-de-la-republique-centrafricain",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information et de gestion de l'éducation (SIGE)",
+      "country_label": "SIGE (Système d'information de gestion de l'éducation)",
+      "class": "census",
+      "platform": "Microsoft Access database of the raw data, 2015-2016 to 2018-2019",
+      "owner": "Direction générale des études, des statistiques et de la planification (DGESP), a directorate serving the four education ministries, with UNESCO support",
+      "tiers": "questionnaires returned once a year by each school and establishment, pre-primary to secondary and formal technical education; collected at the end of the school year and available at the start of the next"
+    },
+    {
+      "system": "Annuaire statistique",
+      "country_label": "Annuaire statistique de la DGESP / du MEPS",
+      "class": "census",
+      "platform": "",
+      "owner": "DGESP",
+      "tiers": "yearly publication of the SIGE survey's results, now covering every sub-sector from pre-primary to higher education"
+    },
+    {
+      "system": "StatEduc_RCA_SUP",
+      "country_label": "plateforme StatEduc_RCA_SUP",
+      "class": "census",
+      "platform": "StatEduc",
+      "owner": "DGESP, developed with UNESCO support",
+      "tiers": "higher education establishments only, feeding the statistical yearbook; outside the study's levels"
+    },
+    {
+      "system": "ESIGAPE",
+      "country_label": "Étude sur le Système d'Information, de Gestion Administrative et Pédagogique des Enseignants (ESIGAPE)",
+      "class": "single-function",
+      "platform": "application at test-version stage in October 2019, with physical and cloud servers to be installed by PRO INVEST",
+      "owner": "Ministry of primary and secondary education (MEPS) technical services; financed by AFD under the education sector support project (PNEDU)",
+      "tiers": "central and deconcentrated administration: monitoring of Transition Plan activities, teachers' attendance in post and their pedagogical follow-up; an examinations archive module to be added"
+    },
+    {
+      "system": "EduTrac",
+      "country_label": "EduTrac",
+      "class": "single-function",
+      "platform": "",
+      "owner": "UNICEF",
+      "tiers": "schools: was to report teachers' presence in post, whether schools were functioning, learning conditions and disruptions such as attacks and floods; on hold when the plan was written"
+    },
+    {
+      "system": "SIGRH",
+      "country_label": "SIGRH (système d'information de gestion des ressources humaines)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "education ministries; planned",
+      "tiers": "planned: to link with the finance ministry's payroll data, communicate with the SIGE and be used by the academic inspectorates"
+    }
+  ],
+  "note": "Passages only. No system holding a record per learner is described. The plan describes the SIGE as a yearly survey by questionnaire with enumerators, school by school, returning counts of pupils, teachers, rooms and textbooks, published as the statistical yearbook: class census, whatever its name, so no fact. It reports the SIGE's faults (duplicated schools, figures carried over from the previous year, classes left undeclared in Bangui) and plans to enrich it, with no learner-level record among the additions. It makes no dated statement on how schools keep learner records."
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2026-02-04-lbr-strengthening-emis-through-peer-learning-how-liberia-is-leading-its-ow",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Liberia's Deputy Minister for Planning, Research and Development states that the September 2025 EMIS peer review in Monrovia produced a costed three-year EMIS Action Plan of USD 4.5 million, one of whose six priority areas is introducing a unique national Learner and Teacher ID system.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "National Learner and Teacher ID system",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The Deputy Minister states that the three-year EMIS Action Plan endorses a financing framework in which the Government of Liberia contributes 60 per cent of the USD 4.5 million and development partners 40 per cent; this is the plan's framework for all six priority areas, not a budget line shown for the learner ID system.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "National Learner and Teacher ID system",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Deputy Minister states that the EMIS process was led by government leaders, statisticians, planners, ICT teams and regional officers rather than by donors, and that the national team co-designed the roadmap that includes unique learner and teacher IDs.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "National Learner and Teacher ID system",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS; planned successor called EMIS 2.0",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education (Deputy Minister for Planning, Research and Development)",
+      "tiers": "National, with county focal points; counties short of computers, internet and dashboards"
+    },
+    {
+      "system": "Annual School Census",
+      "country_label": "Annual School Census",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "More than 6,000 schools and nearly 1.5 million learners; the 2024-2025 census was the first since 2022"
+    },
+    {
+      "system": "National Learner and Teacher ID system",
+      "country_label": "unique national Learner and Teacher ID system",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "Planned, not in use"
+    }
+  ],
+  "note": "The EMIS as described is the annual school census; the facts are for the planned learner ID system only. The 2024-2025 census, the first since 2022, is a census event and gives no fact."
+}

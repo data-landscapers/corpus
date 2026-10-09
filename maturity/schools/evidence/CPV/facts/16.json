@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-15-cpv-direcao-nacional-da-educacao-realiza-acao-formativa-no-novo-modulo-de",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Direção Nacional da Educação began national training on 15 July 2025 for inclusive-education team coordinators and the SIGE focal points of the municipalities on a new SIGE module for assessing children with special educational needs, built by the firm Devtrust.", "as_of": "2025-07-15", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "finance:donor", "fact": "The national director of education named UNICEF as strategic partner and main funder of the new SIGE special-needs assessment module, giving technical and financial support (15 July 2025).", "as_of": "2025-07-15", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis", "platform": "module developed by Devtrust", "owner": "Direção Nacional da Educação, Ministério da Educação", "tiers": "SIGE focal points in every municipality; multidisciplinary inclusive-education support teams (EMAEI) enter assessments of children with special needs"}
+  ],
+  "note": ""
+}

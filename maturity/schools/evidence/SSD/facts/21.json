@@ -1,0 +1,64 @@
+{
+  "slug": "2024-12-17-ssd-south-sudan-schools-ana-fii-inni",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The SSSAMS site states that the system takes enrolment from the class registers every year so that it holds details of every student, that head teachers keep the list current by SMS, adding and removing pupils, and that class teachers report attendance for individual pupils by SMS to the free number 6464, listing only those absent; pages for data entry by schools directly are announced as launched. The page is undated, so the date its data files were last updated, also its published date, is used.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "South Sudan Schools' Attendance Monitoring System (SSSAMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "count:6650",
+      "fact": "The SSSAMS site's attendance panel for academic year 2024 shows 6,650 schools as having reported attendance at least once and 4,567 at least ten times in a ten-day window whose dates are not labelled, schools of all levels and not primary alone; the same page shows only 1,321 messages from 3 phones in the last month and none on the day, 5,915 open schools holding enrolment for the year, and 10,364 schools identified ever of which 280 are confirmed closed. The page is undated, so its published date is used.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "South Sudan Schools' Attendance Monitoring System (SSSAMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The SSSAMS site's tables for academic year 2024 count schools under primary, secondary and other headings in every state (1,702 primary, 237 secondary and 215 other in the ten-state table), without labelling what the count is of. The page is undated, so its published date is used.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "South Sudan Schools' Attendance Monitoring System (SSSAMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The SSSAMS site states that the system was developed as part of, and is supported by, the Girls' Education South Sudan programme of the Ministry of General Education and Instruction, funded by UK aid, and names no other funding. The page is undated, so its published date is used.",
+      "as_of": "2024-12-17",
+      "date_precision": "day",
+      "system": "South Sudan Schools' Attendance Monitoring System (SSSAMS)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "South Sudan Schools' Attendance Monitoring System (SSSAMS)",
+      "country_label": "Ana Fii Inni (I am here); SSSAMS",
+      "class": "emis",
+      "platform": "SMS to short code 6464, a web site with logins for pupil-level reports, and direct data entry pages for schools",
+      "owner": "Girls' Education South Sudan (GESS) programme of the Ministry of General Education and Instruction, funded by UK aid",
+      "tiers": "schools nationwide, primary, secondary and other; 79 of 81 counties have ever reported; data entry complete for 1,166,301 of 1,249,845 new and transferred learners for 2024; feeds GESS cash transfers to girls and capitation grants to schools"
+    },
+    {
+      "system": "EMIS",
+      "country_label": "EMIS 2014 Mapping",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as a reference number: 2,489 schools carry an EMIS reference of 2014 or 2016"
+    }
+  ],
+  "note": "Read whole. A live dashboard captured once; its figures are as displayed and several columns are unlabelled. SSSAMS is classed emis on what this page says it does: a record of every student, added to during the year by head teachers and class teachers, pupil by pupil. Earlier documents in this country's list may have classed it single-function on a thinner description; the parent should reconcile. The 6,650 count is the nearest the page gives to schools entering data, but it is not primary-only, its window is undated, and the message counts beside it (3 phones last month) suggest little current traffic; it should not be read as a current share without another source. No owner fact: the page says who supports and funds the system, not who runs it. For dpi.exchange: 2,489 schools mapped to an EMIS reference."
+}

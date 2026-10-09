@@ -1,0 +1,39 @@
+{
+  "slug": "2024-11-04-lbr-project-information-document-pid-excellence-in-learning-in-liberia-p18",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Annual School Census (ASC)",
+      "country_label": "Annual School Census (ASC); annual statistical yearbook",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education, reliant on external support and financing",
+      "tiers": "National; not conducted regularly, with long delays between collection and reporting; the project is to move it to a school-based data collection system"
+    },
+    {
+      "system": "Integrated data dashboard",
+      "country_label": "integrated data dashboard",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education, established with USAID support",
+      "tiers": "Central; consolidates the annual school census, the School Quality Assessment and the school grants programme"
+    },
+    {
+      "system": "School Quality Assessment (SQA) tool",
+      "country_label": "School Quality Assessment (SQA) tool",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "Targeted schools in five of 15 counties, for monitoring and supervision"
+    },
+    {
+      "system": "School report cards",
+      "country_label": "school report cards",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "Planned, to be prepared and sent to schools and communities"
+    }
+  ],
+  "note": "No fact: the document describes the annual school census and what is built on it, and names no system holding a record per learner. It states that record-keeping in schools is poor, without saying whether it is on paper."
+}

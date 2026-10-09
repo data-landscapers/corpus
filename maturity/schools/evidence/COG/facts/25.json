@@ -1,0 +1,19 @@
+{
+  "slug": "2023-05-01-cog-auf-apprendre-cahier-des-charges-ent-mepsa",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "none", "fact": "In May 2023 the Environnement Numérique de Travail for primary and secondary schools existed only as a specification written for MEPSA by an APPRENDRE (AUF) consultant; it foresees teachers keeping attendance, marks and appraisals per pupil, and no school was using it.", "as_of": "2023-05", "date_precision": "month", "system": "Environnement Numérique de Travail (ENT)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The May 2023 specification only proposes a trial from September 2023 in a few schools to be chosen by MEPSA, for example two primary schools and one secondary; no school had the ENT at the time of writing.", "as_of": "2023-05", "date_precision": "month", "system": "Environnement Numérique de Travail (ENT)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The ENT is specified for the ministry of primary and secondary education (MEPSA), whose directorate DSIC is to be equipped to build and run it, with the specification work supported by the AUF's APPRENDRE programme (May 2023).", "as_of": "2023-05", "date_precision": "month", "system": "Environnement Numérique de Travail (ENT)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:none", "fact": "The specification states that in May 2023 there was not yet an ICT policy for the education sector, that MEPSA had no well-structured digital information system, and that a master plan for its information and management system was only planned.", "as_of": "2023-05", "date_precision": "month", "system": "Environnement Numérique de Travail (ENT)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Environnement Numérique de Travail (ENT)", "country_label": "Environnement (ou Espace) Numérique de Travail (ENT)", "class": "emis", "platform": "not chosen; ONE (primary) and NEO (secondary) of Open Digital Education, or Pronote, are the two candidates, cloud-hosted", "owner": "MEPSA (DSIC), with APPRENDRE / AUF support", "tiers": "specified for primary and secondary schools; not in use in May 2023, trial in a few schools proposed from September 2023"},
+    {"system": "SIGE", "country_label": "SIGE", "class": "", "platform": "", "owner": "MEPSA", "tiers": "being deployed in May 2023, some modules available; the author could not get access to it"},
+    {"system": "DigiDec", "country_label": "DigiDec (Android application and desktop version, congoedusoft.cg)", "class": "", "platform": "Android app by KRM Services; desktop version", "owner": "MEPSA (per the app identifier)", "tiers": ""},
+    {"system": "E-DDEC", "country_label": "Plateforme E-DDEC", "class": "", "platform": "", "owner": "Catholic (private) education", "tiers": ""},
+    {"system": "Ecole à domicile", "country_label": "Ecole à domicile", "class": "learning", "platform": "www.ecoleadomicile.me", "owner": "", "tiers": "teaching resources and textbooks"},
+    {"system": "Système d'enregistrement biométrique des enseignants", "country_label": "système d'enregistrement biométrique des enseignants", "class": "single-function", "platform": "", "owner": "MEPSA, with PRAASED support", "tiers": "design begun by May 2023"},
+    {"system": "RESSEN.ORG", "country_label": "plateforme RESSEN.ORG (MOOC, projet CFIT UNESCO)", "class": "learning", "platform": "", "owner": "UNESCO CFIT project", "tiers": "online training of 2,000 teachers in 2016-2017"}
+  ],
+  "note": "SIGE, DigiDec and E-DDEC are named with no description of what they do, so they are unclassified; the ENT facts describe a system specified, not running."
+}

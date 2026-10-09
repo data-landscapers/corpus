@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-01-bdi-atelier-d-appropriation-et-de-revue-de-la-planification-des-activites",
+  "facts": [],
+  "systems": [
+    {"system": "Module de Gestion des Ressources Humaines du SIGE Burundi", "country_label": "module GRH du SIGE", "class": "single-function", "platform": "", "owner": "Ministry of education (MENRS), Direction Générale des Ressources Humaines, with UNESCO's technical expertise under the Twige Neza programme of GPE and AFD", "tiers": "being built: specifications and user profiles validated at a workshop of 29 July to 2 August 2024; project runs from 14 December 2022 to 14 February 2026"},
+    {"system": "Système d'Information pour la Gestion de l'Education (SIGE) Central", "country_label": "SIGE Burundi", "class": "", "platform": "", "owner": "Ministry of education (MENRS)", "tiers": "central"},
+    {"system": "STATEDUC", "country_label": "application STATEDUC", "class": "", "platform": "StatEduc", "owner": "", "tiers": ""}
+  ],
+  "note": "The page is about a module for recruiting, deploying and posting teachers, which is single-function; SIGE Central and STATEDUC are named with no account of what they do, so there is no fact."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2026-01-01-nga-dhis2-education-implementation-nigeria",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital National Education Management Information System (DNEMIS)",
+      "country_label": "Digital National Education Management Information System (DNEMIS), national EMIS",
+      "class": "census",
+      "platform": "DHIS2, Aggregate (Annual School Census); offline mobile collection",
+      "owner": "Federal Ministry of Education through NEMIS and NEDI; HISP Nigeria technical lead; 12-state pilot from January 2024 funded by UNICEF Nigeria",
+      "tiers": "36 states, the FCT and 774 LGAs after the national launch of 1 July 2026; about 222,000 schools in scope; carried the 2024/25 census with an 81.7% reporting rate among public basic education schools; state and LGA EMIS officers trained in every state by May 2026; cascading to school level named as the focus now"
+    },
+    {
+      "system": "DNEMIS Tracker modules (learner registry, teacher registry, attendance)",
+      "country_label": "DNEMIS",
+      "class": "",
+      "platform": "DHIS2 Tracker",
+      "owner": "Federal Ministry of Education through NEMIS and NEDI",
+      "tiers": "listed as products in use; who enters the records is not stated, and cascading DNEMIS to school level is given as work still ahead"
+    },
+    {
+      "system": "Annual School Census",
+      "country_label": "Annual School Census",
+      "class": "census",
+      "platform": "paper-based before DNEMIS, taking close to two years to compile",
+      "owner": "Federal Ministry of Education",
+      "tiers": "the 2025/26 census is to run entirely on DNEMIS"
+    },
+    {
+      "system": "Public DNEMIS portal",
+      "country_label": "DNEMIS portal (emis.education.gov.ng)",
+      "class": "census",
+      "platform": "",
+      "owner": "Federal Ministry of Education",
+      "tiers": "headline statistics open to the public"
+    }
+  ],
+  "note": "DHIS2's undated implementation page: DNEMIS is described as the Annual School Census on one platform, entered through trained state and LGA officers, so it is a census. The page also lists Tracker modules for a learner registry and attendance, but does not say schools add records to them and says cascading to school level is still the focus; left unclassified, no fact taken."
+}

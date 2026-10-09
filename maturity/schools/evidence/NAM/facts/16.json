@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [],
+  "systems": [
+    {"system": "EduTV", "country_label": "EduTV", "class": "learning", "platform": "", "owner": "", "tiers": "school students"},
+    {"system": "NOLeaMS", "country_label": "NOLeaMS", "class": "learning", "platform": "", "owner": "", "tiers": "technical education"},
+    {"system": "school connectivity and hotspots", "country_label": "school/clinic hotspots under the Universal Service and Access Fund; operators' school connectivity", "class": "enabling", "platform": "", "owner": "CRAN's Universal Service and Access Fund; MTC, Telecom Namibia, Paratus, MTN", "tiers": "schools"}
+  ],
+  "note": "A six-country digital inclusion study; for Namibia it covers broadband policy, the universal service fund, school connectivity and learning platforms (EduTV, NOLeaMS), and names no school records system. Its SNDECI passages are about Cote d'Ivoire. No system of class emis, so no fact."
+}

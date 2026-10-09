@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,emis,governance,qualifier,,,,,nothing held
+LSO,emis,governance,qualifier,owner:ministry;finance:donor,2018,LSO-005;LSO-006,,nothing dated since 2023-09-28
 LSO,emis,levels,coverage,,,,,nothing held
 LSO,emis,kept,coverage,,,,,nothing held
 LSO,emis,last12,qualifier,,,,,nothing held
-LSO,emis,schools,coverage,,,,,nothing held
+LSO,emis,schools,coverage,pilot,2018,LSO-004,,nothing dated since 2023-09-28

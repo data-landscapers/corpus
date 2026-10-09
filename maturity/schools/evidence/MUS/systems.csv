@@ -2,3 +2,10 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MUS,OpenEMIS,OpenEMIS,,OpenEMIS,,"national, zonal and school levels",2026-03-31 Africa we have a data problem
 MUS,SIMIS,SIMIS,,,,,2026-03-31 Africa we have a data problem
 MUS,mytGPT,mytGPT,,,,piloted in primary schools,2026-03-31 Africa we have a data problem
+MUS,EMIS,EMIS,,,Ministry of Education & Human Resource,,2026-08-17-mus-indicative-annual-procurement-plan-financial-year-2026-2027
+MUS,EMIS project,EMIS project with the UNESCO,,,"Ministry of Education, Tertiary Education, Science and Technology, with UNESCO",,2024-10-01-mus-annual-report-2023-2024
+MUS,Early Digital Learning Programme,EDLP,,,"Ministry of Education, Tertiary Education, Science and Technology",primary,2024-10-01-mus-annual-report-2023-2024
+MUS,Student Support Portal,Student Support Portal,,,"Ministry of Education, Tertiary Education, Science and Technology",lower secondary,2024-10-01-mus-annual-report-2023-2024
+MUS,Google Classroom,Google Classroom,,Google Classroom,,,2024-10-01-mus-annual-report-2023-2024
+MUS,OpenEMIS,national EMIS,,"OpenEMIS Cloud Edition (Core, Integrator, Data Manager, Dashboard)","Ministry of Education, Tertiary Education, Science and Technology, assisted by UNESCO IITE","national, zonal and school levels, as the subject of training; no tier is stated as using it",2022-09-01-mus-openemis-capacity-building-in-mauritius
+MUS,EMIS / school integrated management information system (SIMIS),EMIS; SIMIS,emis,within the framework of OpenEMIS,"Ministry of Education and Human Resources, Tertiary Education and Scientific Research, with UNESCO IITE and UNESCO HQ support","planned for national, zone and school levels; pre-primary to tertiary",2019-02-01-mus-mauritius-emis-support-and-monitoring-of-education-2030-agenda

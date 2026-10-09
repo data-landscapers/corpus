@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,emis,governance,qualifier,,,,,nothing held
-MLI,emis,levels,coverage,,,,,nothing held
-MLI,emis,kept,coverage,,,,,nothing held
+MLI,emis,governance,qualifier,owner:partner;finance:donor,2020-02,MLI-005;MLI-006,,nothing dated since 2023-09-28
+MLI,emis,levels,coverage,P,2020-02,MLI-004,,nothing dated since 2023-09-28
+MLI,emis,kept,coverage,routine,2020-02,MLI-002,,nothing dated since 2023-09-28
 MLI,emis,last12,qualifier,,,,,nothing held
-MLI,emis,schools,coverage,,,,,nothing held
+MLI,emis,schools,coverage,not-published,2020-02,MLI-003,,nothing dated since 2023-09-28

@@ -1,0 +1,46 @@
+{
+  "slug": "2026-05-07-rwa-karame-mobile-application",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "HISP Rwanda says classroom teachers and headteachers record each student's daily attendance in the KARAME app at the school, replacing manual attendance, and the data syncs to the national education server; the page is undated, so the document's published date is used.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "KARAME App",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "HISP Rwanda calls KARAME the Ministry of Education's official mobile application and names MINEDUC as project owner, with the Education Above All Foundation as primary partner, Save the Children Rwanda coordinating, HISP Rwanda deploying and Saudigitus (HISP Mozambique) developing; undated, so the published date is used.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "KARAME App",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "HISP Rwanda says the KARAME app is officially live and supports the monitoring of 177,000 reintegrated students across Rwanda, and gives no count or share of schools entering attendance; undated, so the published date is used.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "KARAME App",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "KARAME App",
+      "country_label": "KARAME App, official mobile application of MINEDUC under the Zero Out-of-School Children project",
+      "class": "emis",
+      "platform": "Android mobile app (Google Play), offline-first, syncing to the national education server; developed by Saudigitus (HISP Mozambique)",
+      "owner": "Ministry of Education (MINEDUC), with Education Above All Foundation, Save the Children Rwanda, the Waliku team and HISP Rwanda",
+      "tiers": "classroom teachers (daily attendance), headteachers (school-wide trends), MINEDUC officials (national data); school levels not stated"
+    }
+  ],
+  "note": "No level of school, launch date or source of finance is stated; the Education Above All Foundation is called a supporter, without a statement that it pays for the app."
+}

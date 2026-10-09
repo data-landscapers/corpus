@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-13-cod-sernie-atelier-sur-les-fonctionnalites-pour-une-modernisation-du-syste",
+  "facts": [],
+  "systems": [
+    {"system": "EDUSER", "country_label": "application EDUSER", "class": "", "platform": "developed in-house by SERNIE's own IT staff", "owner": "Service National d'Identification des Élèves (SERNIE), Ministère de l'Éducation Nationale et de la Nouvelle Citoyenneté", "tiers": "demonstrated at a SERNIE workshop on 5 February 2026; deployment and use still under discussion in working groups"},
+    {"system": "Numéro SERNIE école", "country_label": "Numéro SERNIE école (code unique de l'établissement, 23 caractères)", "class": "", "platform": "", "owner": "SERNIE, Division de l'Identification et de la Codification", "tiers": "one code per school, from which each pupil's permanent number is derived"}
+  ],
+  "note": "No fact: the article says EDUSER is meant to ease pupil identification nationally and was demonstrated on 5 February 2026, with deployment still being discussed, but never says schools enter per-learner records into it, so it is left unclassified. It reports as SERNIE's difficulties no real-time data flow, unsuitable IT tools and few operational partners, and that pupil tracking rests on paper documents (bulletin, palmarès, minutes, pupil card), without saying learner records are on paper only."
+}

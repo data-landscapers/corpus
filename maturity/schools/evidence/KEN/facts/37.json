@@ -1,0 +1,80 @@
+{
+  "slug": "2024-04-17-ken-implementation-status-results-report-primary-education-equity-in-learn",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "enrolment",
+      "fact": "The World Bank's status report states that learners are registered individually in NEMIS, the birth certificate number being used to generate each student's UPI, and that registration drives capitation grants; it does not say who keys the registration or when in the year.",
+      "as_of": "2024-03-15",
+      "date_precision": "day",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The World Bank reports that registration of primary school learners in NEMIS is about 60 per cent and of secondary school learners above 98 per cent, and that NEMIS data is used to disburse capitation to primary, junior and secondary schools.",
+      "as_of": "2024-03-15",
+      "date_precision": "day",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The World Bank gives no share or count of primary schools entering data: its figure is of learners, about 60 per cent of primary school learners registered in NEMIS, so that some primary schools do not receive their full capitation grants; missing birth certificates in the early grades are given as the cause.",
+      "as_of": "2024-03-15",
+      "date_precision": "day",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank states that the Ministry of Education, with other government agencies, is reinforcing the registration of all learners in NEMIS, analyses NEMIS data and is responsible for each NEMIS action in the programme's action plan.",
+      "as_of": "2024-03-15",
+      "date_precision": "day",
+      "system": "NEMIS",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NEMIS",
+      "country_label": "NEMIS",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "Primary, junior and secondary schools; modules for learners with special needs (in use), refugee learners in camps and urban areas (developed), auditors, and grievance redress (under user acceptance testing)"
+    },
+    {
+      "system": "Annual educational statistical booklet",
+      "country_label": "annual educational statistical booklet",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "National, yearly, from analysis of NEMIS data"
+    },
+    {
+      "system": "TPAD",
+      "country_label": "TPAD system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Teachers Service Commission",
+      "tiers": "Teacher appraisals per school term, covering lesson observation and lesson attendance, in the programme's target schools"
+    },
+    {
+      "system": "Online item portal for competency-based assessment",
+      "country_label": "online based item portal",
+      "class": "single-function",
+      "platform": "",
+      "owner": "KNEC",
+      "tiers": "Teachers post and use assessment items"
+    }
+  ],
+  "note": ""
+}

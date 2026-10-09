@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,emis,governance,qualifier,owner:ministry,2026-03-06,GAB-001,GAB-005=owner:ministry,"not stated: plan, finance"
-GAB,emis,levels,coverage,P;S,2026-03-06,GAB-002,GAB-006=S,
-GAB,emis,kept,coverage,routine,2019,GAB-007,,nothing dated since 2023-10-09
-GAB,emis,last12,qualifier,advancing,2026-03-06,GAB-003,,
-GAB,emis,schools,coverage,not-published,2026-03-06,GAB-004;GAB-008,,
+GAB,emis,governance,qualifier,owner:ministry,2026-03-06,GAB-001,GAB-012=owner:ministry;GAB-016=owner:vendor;GAB-005=owner:ministry,"not stated: plan, finance"
+GAB,emis,levels,coverage,P;S,2026-03-06,GAB-002;GAB-009,GAB-006=S,
+GAB,emis,kept,coverage,routine,2024-09-27,GAB-007;GAB-015,GAB-010=enrolment;GAB-018=enrolment,
+GAB,emis,last12,qualifier,advancing,2026-03-06,GAB-003;GAB-013,GAB-017=regressing,
+GAB,emis,schools,coverage,count:728,2024-09-27,GAB-014,GAB-004=not-published;GAB-011=not-published;GAB-008=not-published,

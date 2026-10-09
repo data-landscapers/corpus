@@ -1,0 +1,11 @@
+{
+  "slug": "2024-10-01-mus-annual-report-2023-2024",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS project", "country_label": "EMIS project with the UNESCO", "class": "", "platform": "", "owner": "Ministry of Education, Tertiary Education, Science and Technology, with UNESCO", "tiers": ""},
+    {"system": "Early Digital Learning Programme", "country_label": "EDLP", "class": "", "platform": "", "owner": "Ministry of Education, Tertiary Education, Science and Technology", "tiers": "primary"},
+    {"system": "Student Support Portal", "country_label": "Student Support Portal", "class": "", "platform": "", "owner": "Ministry of Education, Tertiary Education, Science and Technology", "tiers": "lower secondary"},
+    {"system": "Google Classroom", "country_label": "Google Classroom", "class": "", "platform": "Google Classroom", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. The ministry's 2023-2024 report says it is 'embarking on' Google Classroom and the EMIS project with UNESCO, after completing EDLP at primary and the Student Support Portal at lower secondary; none is described by what it does, so all are unclassified and there is no fact."
+}

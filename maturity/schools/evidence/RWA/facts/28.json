@@ -1,0 +1,110 @@
+{
+  "slug": "2023-03-01-rwa-rwanda-2023-2027-partnership-compact-pursuing-an-inclusive-and-transfo",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Partnership Compact of March 2023 says MINEDUC is operationalising a system for monitoring absenteeism, especially in public schools, through which teachers and headteachers can detect students at risk of dropping out or repeating; it is not yet described as in use and no school level or count is given.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "System for monitoring absenteeism",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Partnership Compact says MINEDUC is using the GPE System Capacity Grant (US$1,177,715, January 2023 to February 2024, grant agent UNICEF) to operationalise the system for monitoring absenteeism; no domestic budget line for it is stated.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "System for monitoring absenteeism",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The 2023-2027 Partnership Compact, endorsed by MINEDUC and the Education Sector Working Group in March 2023, lists developing and implementing an Early Warning System for dropout and repetition among its interventions and sets the number of schools implementing it as a monitoring indicator.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Early Warning System for dropout and repetition",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "System for monitoring absenteeism",
+      "country_label": "system for monitoring absenteeism",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Education (MINEDUC), with the GPE System Capacity Grant (grant agent UNICEF)",
+      "tiers": "being operationalised in March 2023, especially in public schools; for teachers and headteachers to detect students at risk of dropout and repetition"
+    },
+    {
+      "system": "Early Warning System for dropout and repetition",
+      "country_label": "Early Warning System",
+      "class": "emis",
+      "platform": "",
+      "owner": "MINEDUC",
+      "tiers": "planned intervention of the 2023-2027 compact, to be implemented by schools; the compact does not say whether it is the absenteeism system"
+    },
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "Education Management Information System (EMIS)",
+      "class": "census",
+      "platform": "",
+      "owner": "MINEDUC",
+      "tiers": "called well established; described as producing annual statistical reports (none for 2020-2021) through annual data collection, with weak use of data at district and school level; UNICEF supports its integration"
+    },
+    {
+      "system": "Comprehensive Assessment Management Information System (CAMIS)",
+      "country_label": "CAMIS",
+      "class": "",
+      "platform": "",
+      "owner": "NESA, with support from the FCDO-funded Building Learning Foundations programme until September 2023",
+      "tiers": "development and use supported; what is entered is not described"
+    },
+    {
+      "system": "School Data Management System (SDMS)",
+      "country_label": "SDMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in the acronym list only"
+    },
+    {
+      "system": "Teacher Management Information System (TMIS)",
+      "country_label": "TMIS",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in the acronym list only"
+    },
+    {
+      "system": "Quality Assurance Management Information System",
+      "country_label": "Quality Assurance Management Information System",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "being developed for school inspection and reporting"
+    },
+    {
+      "system": "RwandaEQUIP",
+      "country_label": "Rwanda Education Quality Improvement Programme (RwandaEQUIP)",
+      "class": "learning",
+      "platform": "described as a technology and data-driven platform with digitalised teaching and learning materials",
+      "owner": "Government of Rwanda (Rwf 79.3 billion, 2022-2025)",
+      "tiers": "pre-primary and primary schools"
+    },
+    {
+      "system": "REB e-learning platform",
+      "country_label": "REB e-learning Platform",
+      "class": "learning",
+      "platform": "",
+      "owner": "Rwanda Basic Education Board, with JICA support",
+      "tiers": "online assessment and digitalised materials in teacher training"
+    }
+  ],
+  "note": "The compact's EMIS is described only by its annual statistical reports, so it is a census. It also says the various MINEDUC computerised systems will be integrated into one system, without naming them or saying what schools enter."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-30-bdi-implementation-completion-and-results-report-on-a-grant-in-the-amount",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS; its yearly output is the Annuaire Statistique", "class": "census", "platform": "", "owner": "Ministry of education (MENRS); the cleaning, updating and back-up of its database were taken on by UNESCO under a donor programme", "tiers": "central database producing a report by August of each year; schools to be given a unique identification code and geo-tagged"},
+    {"system": "High frequency survey", "country_label": "", "class": "single-function", "platform": "KoboToolbox on tablets", "owner": "Ministry of education, under the World Bank's Early Grade Learning Project", "tiers": "pilot: 40 municipal inspectors capturing monthly data from a sample of 200 schools, for six of nine months in 2020/21 and 2021/22"}
+  ],
+  "note": "The EMIS is described only through its yearly report and its database of schools, and the monthly tablet survey was keyed by inspectors for a 200-school sample; neither is a record per learner that schools add to, so there is no fact."
+}

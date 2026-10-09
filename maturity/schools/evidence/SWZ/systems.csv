@@ -25,3 +25,13 @@ SWZ,SEMIS App (individual data),SEMIS,emis,DHIS2,"Ministry of Education and Trai
 SWZ,EMIS (aggregate data),EMIS,census,DHIS2,Ministry of Education and Training,scale given as National,2024-01-01-eswatini-dhis2-for-education-implementation
 SWZ,legacy MS Access system,,census,MS Access,Ministry of Education and Training,"paper and aggregate reports from schools twice a year and yearly, keyed at central level for the statistical yearbooks",2024-01-01-eswatini-dhis2-for-education-implementation
 SWZ,School Report Card,School Report Card,,DHIS2,,,2024-01-01-eswatini-dhis2-for-education-implementation
+SWZ,EMIS and related administrative systems,EMIS,,,Ministry of Education and Training,,2026-05-14-lso-request-for-proposal-consultancy-for-capacity-building-for-emis-distri
+SWZ,DHIS2 for Education (learner-level data),EMIS,emis,DHIS2,"EMIS Unit, Ministry of Education and Training",central and regional levels trained; Regional Inspectors of Schools trained; head teachers described as entering data,2025-11-20-swz-data-the-power-is-in-the-use
+SWZ,DHIS2 for Education (school-level aggregate data),EMIS,census,DHIS2,"EMIS Unit, Ministry of Education and Training","head teacher enters enrolment, staffing and infrastructure; source of the 2022 UIS return",2025-11-20-swz-data-the-power-is-in-the-use
+SWZ,MS-Access-based system,,census,MS Access,Ministry of Education and Training,largely centralised and aggregate; replaced from 2020,2025-11-20-swz-data-the-power-is-in-the-use
+SWZ,school report card,,,,,,2025-11-20-swz-data-the-power-is-in-the-use
+SWZ,PIN-driven EMIS,EMIS,emis,,Ministry of Education and Training,all 976 primary and secondary schools; ministry departments,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+SWZ,SEMIS,SEMIS,emis,,Ministry of Education and Training,pilot; roll-out to come,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+SWZ,paper-based EMIS,EMIS,,paper,Ministry of Education and Training,replaced by the digital system,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+SWZ,PIN validation against Home Affairs records,"No PIN, No Grant",exchange,manual claim forms,Ministry of Education and Training; Home Affairs,"schools submit paper claim forms with each learner's PIN, checked at regional offices; to be automated with SEMIS",2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
+SWZ,SEMIS app,SEMIS,emis,DHIS2,,pilot,2024-09-25-gmb-semis-a-holistic-solution-for-student-staff-and-school-management

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-01-cpv-cabo-verde-professores-enfrentam-processos-disciplinares",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The education minister said about 200 teachers in 40 schools were under inspection for not entering pupils' marks in SIGE during a union-backed grade freeze, entry within the legal period being an obligation on teachers; the date is the article's, 1 June 2024, and no level or total of schools is given.", "as_of": "2024-06-01", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "Sistema Integrado de Gestão Escolar, SIGE", "class": "emis", "platform": "", "owner": "Ministério da Educação (Direção Nacional da Educação)", "tiers": "teachers at schools enter pupils' marks"}
+  ],
+  "note": ""
+}

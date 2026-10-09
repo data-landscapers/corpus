@@ -1,0 +1,31 @@
+{
+  "slug": "2021-01-01-ssd-education-needs-assessment-south-sudan-2021",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Schools Attendance Monitoring System (SAMS)",
+      "country_label": "SAMS; School Attendance Monitoring System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "744 early childhood centres, 4,441 primary schools and 413 secondary schools (5,904 by the report's total) reported enrolment to it in 2021; schools carry a SAMS school code; used to check enrolment figures for 2019 and 2020"
+    },
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI), with EMIS focal points",
+      "tiers": "a list and count of schools by level, with an EMIS school code: 591 early childhood, 3,848 primary and 297 secondary schools open in 2018, the most recent published; overage enrolment last from 2016"
+    },
+    {
+      "system": "Human Resource Information System (HRIS)",
+      "country_label": "HRIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in the acronym list only"
+    }
+  ],
+  "note": "Passages file, read to its end. No fact: the Education Cluster's 2021 assessment uses SAMS and EMIS as secondary data and does not say what either does or who enters what. SAMS is left unclassified for that reason; the one figure it carries is that 4,441 primary schools reported enrolment to SAMS in 2021, which counts schools with enrolment on the system, not schools entering attendance, and has no stated denominator beyond the 2018 EMIS count of 3,848 primary schools. If the parent classes SAMS as emis on another document, that figure is here to use. EMIS appears as a yearly count and list of schools, last published for 2018."
+}

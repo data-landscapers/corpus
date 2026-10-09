@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-ben-demande-de-cotation-pour-la-conception-le-developpement-et-le-deploiem",
+  "facts": [],
+  "systems": [
+    {"system": "EducMaster", "country_label": "plateforme EducMaster", "class": "", "platform": "", "owner": "Ministère des Enseignements Maternel et Primaire (MEMP) and Ministère des Enseignements Secondaire, Technique et de la Formation Professionnelle (MESTFP)", "tiers": "described only as already deployed and used by the two ministries"},
+    {"system": "Module complémentaire \"Gestion de l'ESS\"", "country_label": "module Gestion de l'ESS sur EducMaster", "class": "", "platform": "EducMaster add-on", "owner": "tendered by UNFPA, under the control of UNFPA, MEMP, MESTFP and INIFRCF", "tiers": "to be built in 60 days, five sub-modules, with profiles for teachers, head teachers, school nurses and departmental and national administrators; bids due 26 September 2025"}
+  ],
+  "note": "A request for quotation for an add-on module; it says EducMaster is deployed and used by both ministries and does not say what the platform or the module records, so both are unclassified and there is no fact."
+}

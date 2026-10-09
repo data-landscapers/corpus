@@ -1,0 +1,12 @@
+{
+  "slug": "2024-09-30-gab-gabon-l-application-xgest-bientot-utilisee-dans-l-enseignement-superie",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "count:728", "fact": "Gabonreview reports that Xgest is used by 728 schools across Gabon, managing more than 327,300 learners, nearly 27,000 staff and 8,840 class divisions; the figures are the press's and the promoter's, name no level of schooling and give no total of schools.", "as_of": "2024-09-27", "date_precision": "day", "system": "Xgest", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "Gabonreview describes Xgest as the application the 728 schools use to manage pupils' numbers and marks and to publish end-of-year and examination results, as at the working session of 27 September 2024.", "as_of": "2024-09-27", "date_precision": "day", "system": "Xgest", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:vendor", "fact": "Xgest belongs to the start-up Groupe Tereza, with the State a client up to now; on 27 September 2024 the Minister of the Digital Economy said the firm wished to open 38% of its capital to the State, which would give the education system a right of oversight.", "as_of": "2024-09-27", "date_precision": "day", "system": "Xgest", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Xgest", "country_label": "Xgest / X-Gest", "class": "emis", "platform": "Xgest (Groupe Tereza)", "owner": "Groupe Tereza (vendor); the State is its client", "tiers": "728 schools nationally, level not stated; extension to universities and grandes écoles under discussion"}
+  ],
+  "note": "Classed emis on the article's description: schools enter learners' marks and results in it and the State is the client. The article does not say which levels the 728 schools are, nor that the ministry receives the data."
+}

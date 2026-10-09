@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-10-mli-bamada-formation-outil-collecte-donnees-personnel-enseignant",
+  "facts": [],
+  "systems": [
+    {"system": "Digital tool for collecting teaching-staff data", "country_label": "outil numérique de collecte des données du personnel enseignant (Portail de l'Éducation du Mali)", "class": "single-function", "platform": "Portail de l'Éducation du Mali", "owner": "Ministère de l'Éducation nationale, under the PADEM project", "tiers": "Académies d'Enseignement (CDCAF, statistics and planning adviser, personnel officer, IT officer) and Centres d'Animation Pédagogique (guidance counsellors), trained 23-30 March 2026 at Kayes, Koulikoro, Sikasso and Bamako"}
+  ],
+  "note": "No fact: the tool updates and centralises teacher records only (names, service numbers, status, corps, posts), keyed at academy and CAP level, so it is single-function. The article says PADEM also aims at digital tracking of pupils' school attendance, but describes no system for it."
+}

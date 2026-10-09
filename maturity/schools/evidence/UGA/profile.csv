@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,emis,governance,qualifier,owner:ministry,2026-06-08,UGA-003,UGA-008=owner:ministry,"not stated: plan, finance"
-UGA,emis,levels,coverage,P;S,2025-09-13,UGA-007,UGA-002=P;S,
-UGA,emis,kept,coverage,enrolment,2026-06-08,UGA-001;UGA-006,,
-UGA,emis,last12,qualifier,advancing,2026-06-08,UGA-004,,
-UGA,emis,schools,coverage,,,,,nothing held
+UGA,emis,governance,qualifier,owner:vendor,2026-06-09,UGA-009,UGA-003=owner:ministry;UGA-014=owner:ministry;UGA-019=owner:ministry;UGA-008=owner:ministry,"not stated: plan, finance"
+UGA,emis,levels,coverage,P;S,2026-06-09,UGA-007;UGA-010;UGA-015,UGA-002=P;S,
+UGA,emis,kept,coverage,enrolment,2026-06-09,UGA-001;UGA-006;UGA-011;UGA-016;UGA-020,,
+UGA,emis,last12,qualifier,advancing,2026-06-09,UGA-004;UGA-012;UGA-018,,
+UGA,emis,schools,coverage,share:58.9%,2025-12,UGA-017,UGA-013=not-published;UGA-021=share:51.1%,

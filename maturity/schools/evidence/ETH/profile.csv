@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,emis,governance,qualifier,owner:ministry;finance:donor,2025-11,ETH-004;ETH-005,,not stated: plan
+ETH,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-11,ETH-004;ETH-005;ETH-012,ETH-008=owner:ministry;ETH-009=finance:donor;ETH-013=owner:ministry;ETH-017=owner:partner,
 ETH,emis,levels,coverage,,,,,nothing held
-ETH,emis,kept,coverage,,,,,nothing held
-ETH,emis,last12,qualifier,advancing,2025-11,ETH-002;ETH-006,,
-ETH,emis,schools,coverage,pilot,2025-11,ETH-003,,
+ETH,emis,kept,coverage,enrolment,2019,ETH-016,ETH-014=paper,nothing dated since 2023-09-28
+ETH,emis,last12,qualifier,advancing,2025-11,ETH-002;ETH-006;ETH-010,,
+ETH,emis,schools,coverage,pilot,2025-11,ETH-003;ETH-007;ETH-015,ETH-011=none,

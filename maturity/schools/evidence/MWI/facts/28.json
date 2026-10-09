@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-01-mwi-from-data-collection-to-data-use-strengthening-decision-making-at-subn",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "paper", "fact": "The Unlocking Data Initiative's policy brief says cohort tracking, which gives each pupil a Learner Identification Number on entry to school, rests on paper records and several manual registers (class attendance and performance, master enrolment, admission) that schools now make themselves, and it recommends digitising the cohort tracking data; no date is given, so the brief's publication month is used.", "as_of": "2026-05", "date_precision": "month", "system": "Cohort tracking within the Education Management Information System (EMIS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "no-change", "fact": "The Unlocking Data Initiative's policy brief says cohort tracking data has rarely been analysed since 2012 and is currently difficult to use for planning, and that its digitisation is still a recommendation; no date is given, so the brief's publication month is used.", "as_of": "2026-05", "date_precision": "month", "system": "Cohort tracking within the Education Management Information System (EMIS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Cohort tracking within the Education Management Information System (EMIS)", "country_label": "cohort tracking; Learner Identification Numbers (LINs)", "class": "emis", "platform": "paper registers", "owner": "Ministry of Education", "tiers": "schools, zones (ZEMIS officers), districts (DEMIS officers)"},
+    {"system": "Annual School Census", "country_label": "Annual School Census", "class": "census", "platform": "", "owner": "Ministry of Education", "tiers": "schools"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2024-10-04-uga-emis-no-more-physical-registration-licensing-of-schools",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Independent reports that the Ministry of Education runs EMIS, with its Assistant Commissioner for Statistics as EMIS focal person and ministry EMIS support staff stationed in every local government.", "as_of": "2024-10-04", "date_precision": "day", "system": "EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "Schools register their learners on EMIS one by one: registered private schools had uploaded information for 2.3 million learners, and a headteacher says some directors tell heads to register only five learners where a school has 300. No entry of attendance or results is described; no date is given for the figures, so the article's date is used.", "as_of": "2024-10-04", "date_precision": "day", "system": "EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "share:51.1%", "fact": "Of 61,572 private schools, 31,464 (the article says approximately 50 per cent) had registered on EMIS, as The Independent reports from a ministry briefing; the count is of private schools of all levels merely registered, not of primary schools entering data, and the article adds that those registered fall well short in the data they submit. No date is given for the figures, so the article's date is used.", "as_of": "2024-10-04", "date_precision": "day", "system": "EMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "Ministry of Education", "tiers": "schools (headteachers and owners) register learners and upload data; EMIS support staff in all local governments"},
+    {"system": "EMIS school registration and licensing module", "country_label": "new EMIS module for registration and licensing of schools", "class": "single-function", "platform": "module of EMIS", "owner": "Ministry of Education", "tiers": "school owners submit a letter of intent and documents online; under test in October 2024, to take effect in 2025"}
+  ],
+  "note": "The article names no school level for the EMIS figures, so no levels fact is recorded; the briefing was for private school headteachers in Kampala. The article's day-precise date is a proxy."
+}

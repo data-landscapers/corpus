@@ -1,0 +1,23 @@
+{
+  "slug": "2023-02-05-lso-report-of-the-independent-technical-advisory-panel-itap-assessment-of",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS), producing the annual Education Statistical Bulletins from the school census",
+      "country_label": "EMIS; Education Statistical Bulletin; school census",
+      "class": "census",
+      "platform": "paper",
+      "owner": "Ministry of Education and Training",
+      "tiers": "Registered public and private schools submit data, some late and some not at all; bulletins cover ECCD, primary, secondary, TVET, non-formal and tertiary; last bulletin 2019, with 2020 and 2021 not produced"
+    },
+    {
+      "system": "Open EMIS (planned upgrade)",
+      "country_label": "Open EMIS",
+      "class": "",
+      "platform": "OpenEMIS",
+      "owner": "Ministry of Education and Training, with a Community Systems Foundation mission scheduled for November 2022",
+      "tiers": "Not in use at the date of the report: the mission was expected to upgrade the system to an Open EMIS"
+    }
+  ],
+  "note": "No fact: the panel (February 2023) says the EMIS is paper-based, produces annual bulletins from school returns, and 'does not collect and track data' for individual schools, learners and teachers, so it is class census. That is a statement about the ministry's system, not about how schools keep their own learner records. Open EMIS is named as a coming upgrade with no account of what schools would enter."
+}

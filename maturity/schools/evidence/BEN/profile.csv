@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,emis,governance,qualifier,owner:ministry,2026-02-16,BEN-007,,"not stated: plan, finance"
-BEN,emis,levels,coverage,P;S,2026-07-21,BEN-001;BEN-004,,
-BEN,emis,kept,coverage,enrolment,2026-07-21,BEN-002;BEN-005,,
+BEN,emis,governance,qualifier,owner:ministry;plan:current,2026-02-16,BEN-007;BEN-017,BEN-012=owner:ministry;BEN-016=owner:ministry,not stated: finance
+BEN,emis,levels,coverage,P;S,2026-07-21,BEN-001;BEN-004;BEN-009,BEN-014=P;S,
+BEN,emis,kept,coverage,routine,2024-12,BEN-011;BEN-015,BEN-002=enrolment;BEN-005=enrolment;BEN-010=enrolment,
 BEN,emis,last12,qualifier,advancing,2026-02-16,BEN-008,,
-BEN,emis,schools,coverage,not-published,2026-02-16,BEN-006,,
+BEN,emis,schools,coverage,not-published,2026-02-16,BEN-006;BEN-013;BEN-018,,

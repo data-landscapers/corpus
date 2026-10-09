@@ -1,0 +1,23 @@
+{
+  "slug": "2022-01-01-lso-international-consultant-to-support-strengthening-of-the-education-man",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS), with the school census forms",
+      "country_label": "EMIS; school census",
+      "class": "census",
+      "platform": "paper forms, keyed centrally",
+      "owner": "Ministry of Education and Training (Director Planning, Chief Statistician, IT Manager), with UNICEF Lesotho support",
+      "tiers": "Paper-based with central data entry and highly centralised data management that prevents feedback to schools; 2020 and 2021 data not yet published"
+    },
+    {
+      "system": "Open EMIS (upgrade under test)",
+      "country_label": "Open EMIS; OpenEMIS",
+      "class": "",
+      "platform": "OpenEMIS (Core, with SMS, Logistics and Monitoring modules to be tested)",
+      "owner": "Ministry of Education and Training, with UNICEF Lesotho funding the consultancy",
+      "tiers": "Not rolled out: the Open EMIS Core toolkit was tested from August 2019; the consultancy is to test further, run a pilot of a paperless system, train central and district EMIS staff and write a costed implementation plan for 2023-2028"
+    }
+  ],
+  "note": "No fact: the terms of reference describe the EMIS in use as a paper-based school census keyed centrally, with 'limited capability' to track data by individual learner or teacher, so it is class census. Open EMIS is under test as a paperless replacement, and the document does not say that schools would enter learner records in it."
+}

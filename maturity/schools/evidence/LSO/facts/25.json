@@ -1,0 +1,62 @@
+{
+  "slug": "2018-09-01-lso-data-requirement-analysis-and-data-mapping-unicef-lesotho",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "Development Gateway's diagnostic for UNICEF Lesotho says the OpenEMIS rollout is beginning with a 2018 pilot tracking individual learners in one hundred low-performance schools, attached to a World Bank project; it does not give the schools' level or say who enters the records.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "OpenEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The diagnostic says the Ministry of Education and Training is itself implementing OpenEMIS as its new education information system, in 2018.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "OpenEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The diagnostic says UNICEF is supporting the OpenEMIS rollout and that the 2018 learner-tracking pilot leverages an existing World Bank project (the Lesotho Basic Education Improvement Project); no domestic budget is mentioned.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "OpenEMIS",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OpenEMIS",
+      "country_label": "OpenEMIS; new Education Management Information System (EMIS) platform",
+      "class": "emis",
+      "platform": "OpenEMIS",
+      "owner": "Ministry of Education and Training, with UNICEF support and a World Bank project",
+      "tiers": "Being implemented in 2018; a pilot tracking individual learners in one hundred low-performance schools, with the medium-term goal of moving from school facility data to individual learner performance"
+    },
+    {
+      "system": "Education Management Information System (EMIS), the existing annual collection",
+      "country_label": "EMIS; BEIS; school census; Education Sector Report",
+      "class": "census",
+      "platform": "paper-based components",
+      "owner": "Ministry of Education and Training; Bureau of Statistics helps clean the data before the school census release",
+      "tiers": "Annual: school staff collect the data and send it to the district; described as limited to an annual 'snapshot' and as tracking facility, not individual, data"
+    },
+    {
+      "system": "National Identity and Civil Registry (NICR) interface with EMIS",
+      "country_label": "NICR",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Home Affairs",
+      "tiers": "Not in place: early discussion of interfacing NICR with EMIS for individual learner tracking; UNICEF has supported pilots harmonising civil registration and school registration"
+    }
+  ],
+  "note": "Read as passages. The pilot is classed emis on the document's words 'tracking individual learners' and 'individual learner performance'; it does not say that schools themselves enter the records, which the parent should weigh."
+}

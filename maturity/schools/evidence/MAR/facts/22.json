@@ -1,0 +1,56 @@
+{
+  "slug": "2026-05-07-mar-massar-idara-daily-absence-ministerial-letter",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The ministry's letter of 7 May 2026 says that in the pioneer middle schools teachers record pupils' absence at the start of each lesson and the school administration keys it into the 'Massar+ Idara' application, validates it and classes each absence as justified or not, for daily and real-time monitoring.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "Massar+ Idara",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "S",
+      "fact": "The ministry's letter of 7 May 2026 applies daily absence entry in 'Massar+ Idara' to lower secondary schools (the 'pioneer' middle schools, i'dadiyat al-riyada); it does not mention primary schools.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "Massar+ Idara",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The ministry's letter of 7 May 2026 rolls out a 'new digital component' for daily, real-time monitoring of pupil absence in pioneer middle schools through 'Massar+ Idara', following its letter no. 1931/26 of 6 May 2026 institutionalising that monitoring.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "Massar+ Idara",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The letter of 7 May 2026 is the Ministry of National Education, Preschool and Sports' own instruction to the regional academies, signed by its secretary-general, setting who records and who validates absence in 'Massar+ Idara'.",
+      "as_of": "2026-05-07",
+      "date_precision": "day",
+      "system": "Massar+ Idara",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Massar+ Idara",
+      "country_label": "منظومة \"مسار+ إدارة\" (Massar+ Idara)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of National Education, Preschool and Sports",
+      "tiers": "Pioneer middle schools (lower secondary): teachers record absence each lesson, the school administration enters and validates it; technical problems go to provincial and regional services"
+    }
+  ],
+  "note": "No fact for the schools aspect: the letter concerns pioneer middle schools only, gives no number of them and says nothing of primary schools."
+}

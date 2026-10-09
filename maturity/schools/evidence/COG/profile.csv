@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,emis,governance,qualifier,owner:ministry;finance:domestic,2023-11-02,COG-001;COG-002,,not stated: plan
-COG,emis,levels,coverage,,,,,nothing held
+COG,emis,governance,qualifier,owner:ministry;plan:none;finance:domestic,2023-11-02,COG-001;COG-002;COG-006,COG-005=owner:ministry,
+COG,emis,levels,coverage,none,2023-05,COG-003,,nothing dated since 2023-09-28
 COG,emis,kept,coverage,,,,,nothing held
 COG,emis,last12,qualifier,,,,,nothing held
-COG,emis,schools,coverage,,,,,nothing held
+COG,emis,schools,coverage,none,2023-05,COG-004,,nothing dated since 2023-09-28

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-10-tza-programme-document-teacher-support-programme-tsp-revised-to-integrate",
+  "facts": [],
+  "systems": [
+    {"system": "Primary School Records Manager (PReM)", "country_label": "PReM", "class": "", "platform": "", "owner": "not stated", "tiers": "primary; described only as 'existing', to be linked to NECTA's planned electronic assessment system to give a centralised system for student information on participation and learning"},
+    {"system": "Electronic assessment for learning system", "country_label": "electronic assessment for learning system", "class": "single-function", "platform": "", "owner": "NECTA (National Examination Council of Tanzania)", "tiers": "planned for pre-primary I and II and primary schools; development to start June 2025, then a pilot with teachers, tutors and examination officers"},
+    {"system": "Annual School Census (ASC)", "country_label": "ASC", "class": "census", "platform": "", "owner": "PO-RALG", "tiers": "every school, yearly; the data source for verifying teacher postings, attrition and materials deliveries"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "census", "platform": "", "owner": "MoEST / PO-RALG", "tiers": "named beside the ASC as the source of school-level data, student numbers and (year x+1, x+2) teacher and materials data; no entry by schools during the year described"},
+    {"system": "Basic Education Management Information System (BEMIS)", "country_label": "BEMIS", "class": "", "platform": "", "owner": "PO-RALG", "tiers": "source of teacher-posting data for verification (year x+1)"},
+    {"system": "School Information System (SIS)", "country_label": "SIS / SiS", "class": "", "platform": "", "owner": "MoEST; e-Government Authority among those named for the new module", "tiers": "existing; a School Quality Assurance module is to be added to it"},
+    {"system": "Online Teacher Application System (OTEAS)", "country_label": "OTEAS", "class": "single-function", "platform": "", "owner": "not stated", "tiers": "not stated"},
+    {"system": "Integrated Monitoring Management Information System (IMIS)", "country_label": "IMIS", "class": "", "platform": "", "owner": "not stated", "tiers": "abbreviation list only"}
+  ],
+  "note": "Passages only. PReM is called existing and a store of student information on participation, but the passages never say that schools add learners' records to it, so it is left unclassified and gives no fact. The planned NECTA electronic assessment system covers one function and is not yet built. EMIS and BEMIS appear only as sources of yearly counts alongside the Annual School Census."
+}

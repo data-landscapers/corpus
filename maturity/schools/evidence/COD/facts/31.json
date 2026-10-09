@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [],
+  "systems": [
+    {"system": "Schoolap", "country_label": "Schoolap", "class": "learning", "platform": "", "owner": "", "tiers": "educational platform providing content for secondary education"},
+    {"system": "VODA EDUC", "country_label": "VODA EDUC", "class": "learning", "platform": "", "owner": "Vodacom (zero-rated)", "tiers": "educational platform providing content for secondary education"},
+    {"system": "Offline solar-powered tablets", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "distributed in areas with intermittent electricity"}
+  ],
+  "note": "No fact: a six-country digital inclusion baseline that, for DR Congo, names only learning platforms and devices; it names no system holding learner records and no school census. The term match SNDECI is Côte d'Ivoire's education strategy."
+}

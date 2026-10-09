@@ -1,0 +1,55 @@
+{
+  "slug": "2023-11-01-ssd-general-education-sector-plan-2023-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MoGEI Education Management Information System (EMIS)",
+      "country_label": "EMIS; MoGEI EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI), EMIS unit",
+      "tiers": "basic and secondary education; described through the annual school census, collected by state and county enumerators trained by national EMIS staff; an EMIS policy and decentralisation strategy due in 2024; EMIS funds named as a budget line with very low execution"
+    },
+    {
+      "system": "Annual School Census (ASC)",
+      "country_label": "Annual School Census; Annual Education Census (AEC)",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI)",
+      "tiers": "yearly, by enumerators with a questionnaire; the 2022 sector analysis found some counties with no school enumerated; to be decentralised to states and administrative areas, with geolocation added"
+    },
+    {
+      "system": "School performance monitoring tool and Child-friendly School Index",
+      "country_label": "school performance monitoring tool; Child-friendly School Index",
+      "class": "single-function",
+      "platform": "forms",
+      "owner": "MoGEI, the index developed with UNICEF",
+      "tiers": "forms collected by Payam education supervisors on school attendance, learning and school performance; headteachers and supervisors to be trained in them"
+    },
+    {
+      "system": "SAMSS",
+      "country_label": "SAMSS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only in a planned harmonised data platform using unique school codes"
+    },
+    {
+      "system": "REMIS",
+      "country_label": "REMIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only in the same planned platform"
+    },
+    {
+      "system": "HRIS",
+      "country_label": "HRIs",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only in the same planned platform"
+    }
+  ],
+  "note": "Passages file, read to its end. No fact: the sector plan of November 2023 describes the EMIS only as the annual school census and its enumerators, so it is class census, and states that the 2022 sector analysis could find no data from any continuous monitoring outside the census. SAMSS, REMIS and HRIS are named with no description. The TVET MIS it plans is outside the study's levels. For dpi.exchange: a harmonised data platform joining EMIS, SAMSS, HRIS and REMIS on unique school codes is planned, not in place."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-01-gha-education-minister-launches-ges-digital-platform-move-to-improve-acces",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Education Service Management Information System", "country_label": "GESMIS", "class": "", "platform": "home-grown application", "owner": "Ghana Education Service", "tiers": "teaching and non-teaching staff, students and parents"}
+  ],
+  "note": "GESMIS is launched (about December 2024) with a salary ticketing system, letter verification and online results checking, and is meant to let GES track student performance; the article does not say schools enter any per-learner record, so it is unclassified and gives no fact."
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "2024-01-01-sndeci-strategie-nationale-digitalisation-education-ci-2024-2028",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The education ministry's SNDECI 2024-2028 says DOBCONNECT was started in January 2024 in 5 pilot establishments of the Abidjan regional directorates (DRENA), with its general rollout due in May 2024, a step the strategy gives as still to come; the level of the 5 establishments is not stated.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "DOBCONNECT",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The SNDECI 2024-2028 says DOBCONNECT collects information on pupils' school performance so that each can be followed individually and dropout fought, from January 2024 in its pilot establishments; it does not say who enters the data, where or how often.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "DOBCONNECT",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The education ministry's national strategy for digitalising education, covering 2024 to 2028 and drawn up with UNICEF and UNESCO support, names DOBCONNECT among the existing achievements it builds on and carries a budgeted action matrix as its annex 3; the strategy has no printed date, so dated to its published year.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "DOBCONNECT",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DOBCONNECT",
+      "country_label": "Projet DOBCONNECT",
+      "class": "emis",
+      "platform": "",
+      "owner": "not stated; listed by the education ministry (MENA) among its own digitalisation achievements",
+      "tiers": "5 pilot establishments of the Abidjan DRENA from January 2024; general rollout planned for May 2024"
+    },
+    {
+      "system": "Bursary payment by mobile money",
+      "country_label": "Paiement des bourses scolaires par mobile money (Trésor Pay)",
+      "class": "single-function",
+      "platform": "Trésor Pay",
+      "owner": "not stated",
+      "tiers": "produces the final lists of bursary pupils and pays them; 4,725 of 313,122 bursary holders paid by mobile money in 2022-2023 as the document gives it"
+    },
+    {
+      "system": "MENA-GEC",
+      "country_label": "Plateforme de Gestion Électronique des Courriers du MENA (MENA-GEC)",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Education ministry (MENA)",
+      "tiers": "all structures of the ministry, in production from 2021; handles administrative mail only"
+    }
+  ],
+  "note": "The file is an excerpt of an 86-page strategy: only the passages it carries were read. DOBCONNECT is classed emis on the statement that it collects per-pupil performance data for individual follow-up; the kept value is the nearest on the closed list and rests on that statement alone. The document's own 15.08% for mobile-money bursaries does not match its figures (4,725 of 313,122 is about 1.5%)."
+}

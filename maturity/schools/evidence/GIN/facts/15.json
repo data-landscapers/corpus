@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-05-gin-guinee-lancement-de-l-immatriculation-unique-des-eleves-a-matoto",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "Matoto's communal education director says the unique pupil matricule began in 2022 at collège and lycée and that the minister has extended it to primary, the registration running nationwide from 5 to 25 March 2026; pre-school is to follow in later years.", "as_of": "2026-03-05", "date_precision": "day", "system": "matricule unique des élèves", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "Each pupil is given one matricule in a registration operation of 5 to 25 March 2026 for which public and private school heads were mobilised, after which transfers between schools are detected automatically; the article does not say who keys the record.", "as_of": "2026-03-05", "date_precision": "day", "system": "matricule unique des élèves", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The registration of primary pupils under the unique matricule was launched in Matoto on 5 March 2026, to run nationwide until 25 March 2026, extending a measure applied to secondary since 2022.", "as_of": "2026-03-05", "date_precision": "day", "system": "matricule unique des élèves", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The primary registration is described as covering the whole national territory from 5 to 25 March 2026, public and private schools alike; no number or share of primary schools is given.", "as_of": "2026-03-05", "date_precision": "day", "system": "matricule unique des élèves", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Pre-University Education instituted the unique matricule, within a digitalisation run by its Direction Générale des Examens et Contrôle Scolaire, as reported on 5 March 2026.", "as_of": "2026-03-05", "date_precision": "day", "system": "matricule unique des élèves", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "matricule unique des élèves", "country_label": "immatriculation unique des élèves", "class": "emis", "platform": "", "owner": "Ministère de l'Enseignement Pré-Universitaire (DGECS)", "tiers": "collège and lycée since 2022; primary from March 2026; public and private schools nationwide"},
+    {"system": "Gestion numérique des notes des classes intermédiaires", "country_label": "gestion numérique des notes", "class": "", "platform": "", "owner": "DGECS", "tiers": "intermediate classes, 2025"},
+    {"system": "Inscription en ligne des candidats aux examens", "country_label": "inscription en ligne au CEE, BEPC et Baccalauréat", "class": "single-function", "platform": "", "owner": "DGECS", "tiers": "examination candidates"}
+  ],
+  "note": "The 2025 results listed for DGECS include digital management of intermediate-class marks and automated transfers, with no statement of who enters them."
+}

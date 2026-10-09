@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-30-mwi-blantyre-gets-tablets-for-collecting-education-data",
+  "facts": [],
+  "systems": [
+    {"system": "Teaching at the Right Level (TaRL) learner performance data collection", "country_label": "Tarl Programme", "class": "single-function", "platform": "Samsung Galaxy A9 tablets", "owner": "Rays of Hope Ministries, with Blantyre District Education Office", "tiers": "48 public primary schools in Blantyre district; 20 more promised by the district office"},
+    {"system": "Zonal Education Management Information Systems", "country_label": "ZEMIS officers", "class": "", "platform": "", "owner": "district education office", "tiers": "zone"}
+  ],
+  "note": "An NGO handed 48 tablets to Blantyre District Education Office, to be used to collect data on learner performance in 48 public primary schools under one programme's assessments; the article describes one function, says only what the tablets will do, and does not say schools add per-learner records to the ministry's system, so there is no fact."
+}

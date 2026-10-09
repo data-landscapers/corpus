@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-25-gmb-semis-a-holistic-solution-for-student-staff-and-school-management",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "DHIS2, the developer, says the SEMIS app is being piloted in The Gambia, with South Sudan and Eswatini, the pilots to move to a next phase in early 2025; no number of schools is given, and the page is undated, so its published date is used.", "as_of": "2024-09", "date_precision": "month", "system": "SEMIS app", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SEMIS app", "country_label": "SEMIS", "class": "emis", "platform": "DHIS2 (web and Android, offline entry)", "owner": "", "tiers": "school staff enrol learners, take attendance and record promotion, transfer and assessment data, as the product is described"}
+  ],
+  "note": "The description of what staff enter is of the product in general, not of its use in The Gambia; only the pilot is stated of this country."
+}

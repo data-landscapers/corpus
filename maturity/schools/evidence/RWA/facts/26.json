@@ -1,0 +1,78 @@
+{
+  "slug": "2024-06-12-rwa-the-power-of-internet-connectivity-enhances-learning",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "UNICEF Rwanda reports that the head teacher of Nyarubuye Primary School (Rwamagana District) frequently updates the online School Data Management System, which holds real-time data for the school's 777 students and 20 teachers including student grades and attendance; the story is undated, so the document's published date is used.",
+      "as_of": "2024-06-12",
+      "date_precision": "day",
+      "system": "School Data Management System (SDMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P",
+      "fact": "UNICEF Rwanda describes the School Data Management System in use at a primary school, Nyarubuye Primary School in Rwamagana District, where the head teacher enters the data; undated, so the published date is used.",
+      "as_of": "2024-06-12",
+      "date_precision": "day",
+      "system": "School Data Management System (SDMS)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "UNICEF Rwanda describes the School Data Management System as in use at one named primary school and as the head teacher's responsibility, and gives no count or share of schools entering data; undated, so the published date is used.",
+      "as_of": "2024-06-12",
+      "date_precision": "day",
+      "system": "School Data Management System (SDMS)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "School Data Management System (SDMS)",
+      "country_label": "School Data Management System (SDMS)",
+      "class": "emis",
+      "platform": "online; zero-rated on Airtel SIM cards",
+      "owner": "",
+      "tiers": "school: the head teacher updates it; records students' grades and attendance and teachers, and is used to request money to run the school"
+    },
+    {
+      "system": "Teacher Management Information System",
+      "country_label": "Teacher Management Information System",
+      "class": "single-function",
+      "platform": "zero-rated on Airtel SIM cards",
+      "owner": "",
+      "tiers": "school administrators and teachers"
+    },
+    {
+      "system": "NESA Comprehensive Assessment Management Information System",
+      "country_label": "NESA Comprehensive Assessment Management Information System",
+      "class": "",
+      "platform": "zero-rated on Airtel SIM cards",
+      "owner": "NESA",
+      "tiers": "school administrators and teachers; function not described"
+    },
+    {
+      "system": "E-learning platforms (Rwanda Basic Education Board, Rwanda TVET Board, Rwanda Polytechnic, University of Rwanda, Itetero, Ingazi-Passport to Earning)",
+      "country_label": "",
+      "class": "learning",
+      "platform": "zero-rated on Airtel SIM cards",
+      "owner": "",
+      "tiers": "students, teachers and caregivers; up to nine platforms"
+    },
+    {
+      "system": "Airtel-UNICEF Reimagine Education school connectivity",
+      "country_label": "Reimagine Education",
+      "class": "enabling",
+      "platform": "internet from Airtel",
+      "owner": "UNICEF and Airtel",
+      "tiers": "21 schools connected and 200 more to follow; more than half of primary and secondary schools not connected; the named school has no devices for students"
+    }
+  ],
+  "note": "The story says the head teacher formerly had to travel to a place with a connection to make an SDMS entry; it does not say who owns the system or how many schools use it."
+}

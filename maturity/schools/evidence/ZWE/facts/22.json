@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-29-zwe-system-transformation-grant-annual-progress-report-template-for-projec",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS, collected on the ED46 data tool", "class": "census", "platform": "", "owner": "Ministry of Primary and Secondary Education", "tiers": "national data collection; already captures data on primary children supported through BEAM"},
+    {"system": "Early Warning System", "country_label": "national early warning system (EWS)", "class": "", "platform": "", "owner": "Ministry of Primary and Secondary Education, piloted by UNICEF and partners; scaling to be coordinated by CAMFED", "tiers": "piloted; roll-out to 545 target schools planned by the end of the project, on hold in Year 1"},
+    {"system": "CAMFED database", "country_label": "CAMFED's bespoke cloud-based database (Salesforce)", "class": "standalone", "platform": "Salesforce", "owner": "CAMFED", "tiers": "district officers, teachers and Peer Educators enter monitoring data; an individual record for each supported student"}
+  ],
+  "note": "No fact: the report describes EMIS only as the national data collection made with the ED46 data tool, to which bursary data might be added for the 2025 collection, which is the census; the per-student records it describes are in the grant agent's own database, not the Ministry's."
+}

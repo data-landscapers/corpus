@@ -1,0 +1,14 @@
+{
+  "slug": "2025-06-25-cpv-damos-mais-um-passo-significativo-no-caminho-da-modernizacao-e-inclusa",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The government's account of the eSkola launch on 25 June 2025 says SIGE is already used in all basic and secondary schools.", "as_of": "2025-06-25", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "share:100%", "fact": "The government states that SIGE is 'already used in all' basic and secondary schools (25 June 2025); it gives no count of schools and no total, and says used, not how many enter data.", "as_of": "2025-06-25", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The eSkola app, fully integrated with SIGE and updated from it in real time, shows parents each pupil's timetable, test calendar, marks, absences and school history, so SIGE holds marks and absences per pupil during the year (25 June 2025).", "as_of": "2025-06-25", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The eSkola app on SIGE was launched by the national director of education on 25 June 2025; it was developed by the firm Devtrust, with which the Ministry of Education signed a cooperation protocol at the launch.", "as_of": "2025-06-25", "date_precision": "day", "system": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Escolar (SIGE)", "country_label": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "emis", "platform": "", "owner": "Ministério da Educação (Direção Nacional da Educação)", "tiers": "all basic and secondary schools"},
+    {"system": "eSkola", "country_label": "aplicativo eSkola", "class": "emis", "platform": "mobile app developed by Devtrust, integrated with SIGE", "owner": "Ministério da Educação; developer Devtrust", "tiers": "parents, pupils and teachers: view of marks, absences, timetables, and messaging with teachers"}
+  ],
+  "note": ""
+}

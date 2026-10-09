@@ -1,0 +1,11 @@
+{
+  "slug": "2024-09-25-gab-education-nationale-fermeture-des-inscriptions-sur-l-application-x-ges",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "last12", "value": "regressing", "fact": "On 24 September 2024 the Secretary-General of the Ministry of National Education closed pupil enrolment on X-Gest after irregularities in enrolments and re-enrolments for 2024-2025, and ordered as a precaution that no personal data, school results included, pass through the platform, AGP reports.", "as_of": "2024-09-24", "date_precision": "day", "system": "X-Gest", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The ministry's note of 24 September 2024 states that pupils' enrolments and re-enrolments had been carried out on the X-Gest platform since the start of school year 2024-2025, until the ministry closed them that day; it does not say who made the entries.", "as_of": "2024-09-24", "date_precision": "day", "system": "X-Gest", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "X-Gest", "country_label": "X-Gest", "class": "emis", "platform": "X-Gest", "owner": "not stated; the ministry orders its use stopped", "tiers": "pupil enrolment and re-enrolment and school results, levels not stated"}
+  ],
+  "note": "A withdrawal: the kept fact records what ran on the platform up to 24 September 2024, the day the ministry barred it; no count of schools is given."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-11-29-sle-sierra-leone-free-education-project-p167897-joint-implementation-revie",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census (ASC)", "country_label": "Annual School Census; 'Education data and management System (Annual School Census)'", "class": "census", "platform": "a District Health Information System (DHIS) tool being customised for ASC administration; 300 tablets to be procured for ASC data collection", "owner": "MBSSE, Director of Planning and Policy", "tiers": "national; 2024 data collected February-March 2024, 2025 census due by 31 January 2025"},
+    {"system": "DEMIS", "country_label": "Decentralized Education Information System (DEMIS) tool", "class": "", "platform": "", "owner": "MBSSE, Director of Planning and Policy", "tiers": "customisation and staff training due by 15 April 2025"},
+    {"system": "Platform for pre-examination and examination classes", "country_label": "platform for pre-examination and examination classes (Classes 5 and 6, JSS 2 and 3, SS 2 and 3)", "class": "", "platform": "", "owner": "MBSSE, Director of Planning and Policy", "tiers": "consultancy to design it due by 28 February 2025: collecting and uploading class information for unique identification of pupils; who uploads is not stated"},
+    {"system": "School Catchment Area Plan and Policy App", "country_label": "School Catchment Area Plan and Policy App", "class": "single-function", "platform": "", "owner": "MBSSE", "tiers": "rolled out June 2024 to local councils, parliamentarians, education secretaries and partners"},
+    {"system": "School subsidy and school approvals online platform", "country_label": "Automation of School Subsidy and School Approvals Guidelines (Online Platform)", "class": "single-function", "platform": "", "owner": "MBSSE, Director of Planning and Policy", "tiers": "planned, due by 31 January 2025"}
+  ],
+  "note": "Passages file. The only data system in operation it describes is the Annual School Census; DEMIS is named without a description and the pupil-identification platform for examination classes is a planned consultancy with no statement that schools enter the records. It lists improving record keeping by schools as a challenge without saying how records are kept. No system of class emis, so no fact."
+}

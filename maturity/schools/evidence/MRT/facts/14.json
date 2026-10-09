@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-27-mrt-ami-siraj-training-missions-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Siraj", "country_label": "نظام المعلومات للإصلاح الإداري وإدارة التعليم «سراج» (Siraj; SIRAGE in French)", "class": "", "platform": "said to need no internet and to run over the ordinary telephone network", "owner": "Ministry of Education and Reform of the Education System", "tiers": "regional education officials, trained by field missions sent out on 27 April 2025, which also update and collect incomplete data on educational institutions; parent access promised 'soon'"}
+  ],
+  "note": "No fact: the dispatch says the platform will give up-to-date, permanent data in place of quarterly reports, and that missions are completing data on institutions, but not that schools enter a record per learner, so Siraj is unclassified here. It gives no count of schools; the access for parents to information on their children's schooling is announced, not in service."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2024-01-01-ssd-partnership-compact",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI), with EMIS focal points at national, state and county levels",
+      "tiers": "described through the annual school census and as the source of completion rates (2021 baseline); MoGEI to meet hosting costs and focal points' salaries, GPE funds to pay for an EMIS policy, an integrated framework and a costed plan"
+    },
+    {
+      "system": "Annual school census",
+      "country_label": "annual school census",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of General Education and Instruction (MoGEI)",
+      "tiers": "yearly; unique learner, teacher and school identifiers are to be integrated into it"
+    },
+    {
+      "system": "SAMSS",
+      "country_label": "SAMSS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as one of the data collection platforms whose identifiers are to be made consistent under the EMIS code"
+    }
+  ],
+  "note": "Passages file, read to its end. No fact: the compact of January 2024 describes the EMIS only through the annual school census and plans (an EMIS policy, an integrated framework, a diagnostic and costed plan), so it is class census. It commits to a system of unique learner and teacher identification numbers integrated into the annual school census, which is an intention for the census and not a learner-record system in use. SAMSS is named with no description. For dpi.exchange: identifiers to be consistent across EMIS and SAMSS."
+}

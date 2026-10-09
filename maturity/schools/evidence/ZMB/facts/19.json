@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-25-zmb-zambia-education-enhancement-project-p158570-implementation-status-res",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Education Management and Information System (EMIS)", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "infrastructure installed at Ministry headquarters and all provinces"},
+    {"system": "Textbook management system", "country_label": "improved textbook management system", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "in place and functional; does not yet track procurement, distribution and use across schools consistently"},
+    {"system": "Teacher Development Data Platform (TDDP)", "country_label": "Teacher Development Data Platform (TDDP)", "class": "single-function", "platform": "", "owner": "Ministry of Education, with Smart Zambia", "tiers": "not yet developed; concept note due 30 June 2026"},
+    {"system": "Teaching Council of Zambia teacher database", "country_label": "TCZ teacher database", "class": "single-function", "platform": "", "owner": "Teaching Council of Zambia", "tiers": "to be enhanced within the EMIS reform"},
+    {"system": "GIS school mapping tool", "country_label": "GIS school mapping", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "provincial and district education offices oriented; full use waits on the EMIS development"}
+  ],
+  "note": "No fact: the report names the EMIS without saying what it holds or what schools enter, so it is unclassified. What it states: as of 15 May 2026 the indicator 'Improved EMIS data collection, analysis, and dissemination' stood at No; EMIS infrastructure had been procured and installed at Ministry headquarters and all provinces; the consultancy contract to redesign the integrated EMIS was expected to be signed by 15 July 2026, with completion and operation by May 2027, under World Bank (IDA) project financing closing June 2027."
+}

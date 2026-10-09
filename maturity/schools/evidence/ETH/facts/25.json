@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [],
+  "systems": [
+    {"system": "Ethiopian Education Cloud", "country_label": "Ethiopian Education Cloud", "class": "learning", "platform": "", "owner": "Ministry of Education", "tiers": "not stated; listed among e-learning initiatives"},
+    {"system": "Abrebi app", "country_label": "Abrebi", "class": "learning", "platform": "", "owner": "", "tiers": "not stated; listed among e-learning initiatives"}
+  ],
+  "note": "Paradigm Initiative's six-country study covers digital strategies, budgets, connectivity and e-learning platforms; for Ethiopia it names no system holding school or learner records, so there is no fact. The TVET Digital Platform it lists is outside the study's levels."
+}

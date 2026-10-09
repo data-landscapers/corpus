@@ -1,0 +1,39 @@
+{
+  "slug": "2020-07-20-ner-implementation-status-results-report-niger-learning-improvement-for-re",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education information and management system",
+      "country_label": "education information and management system",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Primary Education and Ministry of Secondary Education (implementing agencies)",
+      "tiers": "not stated; to be modernised under LIRE sub-component 3.3"
+    },
+    {
+      "system": "Annual school census through new digital tools",
+      "country_label": "annual school census",
+      "class": "census",
+      "platform": "",
+      "owner": "Ministry of Primary Education and Ministry of Secondary Education",
+      "tiers": "not stated; not yet conducted digitally at 14 July 2020 (baseline No, target Yes by 2026)"
+    },
+    {
+      "system": "National online education platform",
+      "country_label": "national online education platform",
+      "class": "learning",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned; for teachers, teacher trainers, ENI and administrative staff"
+    },
+    {
+      "system": "Digitised inspection and data collection reports",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned for inspectorates in targeted districts of five regions"
+    }
+  ],
+  "note": "World Bank ISR for a project not yet effective: it plans to modernise the education information and management system without saying what it does, and its only data indicator is an annual school census by digital tools, not yet done at 14 July 2020. No per-learner system is described."
+}

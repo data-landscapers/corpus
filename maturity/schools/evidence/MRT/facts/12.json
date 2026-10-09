@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-28-mrt-tefassil-siraj-pupil-registration-transfer-2026-2027",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "Tefassil reports that registration and transfer of pupils for the 2026-2027 school year began on 28 September 2026 through the Siraj platform, on the education ministry's timetable, with registration, transfers and corrections open until 20 October; it does not say who keys the entries, the school or the parent.", "as_of": "2026-09-28", "date_precision": "day", "system": "Siraj", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "Tefassil reports that on 28 September 2026 pupil registration and transfers for 2026-2027 opened through the Siraj platform, the ministry urging parents to register their children early.", "as_of": "2026-09-28", "date_precision": "day", "system": "Siraj", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "Tefassil's report of 28 September 2026 presents Siraj as the channel for pupil registration and transfer for 2026-2027 and gives no count or share of schools using it; it does not call it a pilot.", "as_of": "2026-09-28", "date_precision": "day", "system": "Siraj", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "Tefassil reports that the registration and transfer of pupils through Siraj runs to a timetable set by the Ministry of Education and Reform of the Education System, which also issued the call to parents.", "as_of": "2026-09-28", "date_precision": "day", "system": "Siraj", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Siraj", "country_label": "منصة «سراج» (Siraj; SIRAGE in French)", "class": "emis", "platform": "", "owner": "Ministry of Education and Reform of the Education System", "tiers": "pupil registration, transfer and correction of status for 2026-2027, 28 September to 20 October 2026; no level of schooling named"}
+  ],
+  "note": "Classed emis as a learner register: the article says pupils are registered and transferred through the platform once a year, and nothing about attendance or results. It names no school level and gives no figure."
+}

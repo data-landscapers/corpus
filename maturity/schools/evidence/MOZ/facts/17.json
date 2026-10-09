@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [],
+  "systems": [
+    {"system": "MozEduca", "country_label": "MozEduca", "class": "learning", "platform": "", "owner": "", "tiers": "distance education programmes; rural access said to remain a problem"},
+    {"system": "Community and school connectivity projects", "country_label": "", "class": "enabling", "platform": "Starlink backhaul (Paratus, Santa Maria community); Huawei RuralStar; TV White Space pilots; computer labs donated by ExxonMobil", "owner": "private operators and donors; FSAU universal access fund under INCM", "tiers": "project by project, in rural communities, schools and clinics"}
+  ],
+  "note": "No fact: a six-country digital inclusion baseline (Paradigm Initiative). For Mozambique it covers strategy, budgets, the universal access fund, connectivity and e-learning platforms; it names no school information system, census or learner record."
+}

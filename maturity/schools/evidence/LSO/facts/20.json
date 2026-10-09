@@ -1,0 +1,23 @@
+{
+  "slug": "2025-11-07-lso-enhancing-education-data-systems-in-lesotho-through-peer-exchange",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education management information system (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education and Training (EMIS office, planning department), supported by the GPE KIX Africa 19 Hub",
+      "tiers": "Not stated; after a 2023 peer review the ministry reports a draft EMIS policy and a transition to an EMIS operating system able to process both aggregated and individual data"
+    },
+    {
+      "system": "Teacher management information system",
+      "country_label": "teacher management information system",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Education and Training, introduced in partnership with the Ministry of Education of Zambia through the GPE KIX Africa 19 Hub",
+      "tiers": "Being introduced; not stated where it is used"
+    }
+  ],
+  "note": "No fact: the document says the EMIS is moving to an operating system that can process aggregated and individual data, and does not say that schools enter learner records or who enters anything, so the system is unclassified; the teacher system is single-function."
+}

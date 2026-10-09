@@ -1,0 +1,8 @@
+{
+  "slug": "2022-09-01-mus-openemis-capacity-building-in-mauritius",
+  "facts": [],
+  "systems": [
+    {"system": "OpenEMIS", "country_label": "national EMIS", "class": "", "platform": "OpenEMIS Cloud Edition (Core, Integrator, Data Manager, Dashboard)", "owner": "Ministry of Education, Tertiary Education, Science and Technology, assisted by UNESCO IITE", "tiers": "national, zonal and school levels, as the subject of training; no tier is stated as using it"}
+  ],
+  "note": "UNESCO IITE reports eight training webinars for ministry staff between July and September 2022, held in a trial environment of OpenEMIS Cloud Edition, as follow-up to a 2019 needs assessment and technical design; it does not say what records the system holds or that any school enters data, so the system is unclassified and gives no fact. The project is funded through UNESCO IITE with Chengdu Culture and Tourism Development Group."
+}

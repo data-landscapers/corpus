@@ -1,0 +1,9 @@
+{
+  "slug": "2022-08-15-ago-implementation-completion-and-results-report-on-a-credit-in-the-amount",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação de Gestão Escolar (SIGE)", "country_label": "SIGE; also called the EMIS and the School Management System", "class": "census", "platform": "licensed software, not named", "owner": "Ministry of Education, GEPE (Gabinete de Estudos, Planeamento e Estatística); scaled up from a UNESCO pilot with IDA funds and absorbed by GEPE", "tiers": "GEPE at the centre with one official in each province, and provincial and municipal staff trained in data collection; schools answer a questionnaire, collected offline where there is no internet"},
+    {"system": "Cadastro and Education Statistical Annual", "country_label": "Cadastro; Anuário Estatístico da Educação", "class": "census", "platform": "", "owner": "Ministry of Education, GEPE", "tiers": "yearly national return; annuals prepared for 2016 and 2019"}
+  ],
+  "note": "SIGE is described as the means of collecting the schools' questionnaire for the yearly Cadastro and the statistical annuals, with no entry per learner by schools, so it is a census and gives no fact."
+}

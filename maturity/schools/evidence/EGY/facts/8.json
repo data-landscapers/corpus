@@ -1,0 +1,47 @@
+{
+  "slug": "2025-07-01-egy-restructuring-paper-on-a-proposed-project-restructuring-of-supporting",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Educational Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education (MOETE)",
+      "tiers": "not stated; named only as the source of the data the student smart card integrates and of its data-privacy protocols; the paper does not say what EMIS does or who enters its data"
+    },
+    {
+      "system": "Smart Card 'Student Digital Identity'",
+      "country_label": "Smart Card; Student Digital Identity; Smart Student digital ID",
+      "class": "",
+      "platform": "",
+      "owner": "MOETE",
+      "tiers": "a per-student card integrating EMIS data: teacher assignments, test scores, digital attendance, school enrolment, digital course participation, biometrics, receipt of books and tablets, schools attended; as at 12 June 2025 developed but not yet received by students, first batch scheduled for mid-2025 in the pilot governorate of Suez, national rollout plan expected by October 2025; who enters the data is not stated"
+    },
+    {
+      "system": "Digital Content Dashboard",
+      "country_label": "Digital Content Dashboard",
+      "class": "learning",
+      "platform": "",
+      "owner": "MOETE",
+      "tiers": "operational July 2024; real-time data from the Learning Management System on use of digital content by grade, gender, user type and location, with reports for each level of administration; said also to support student management, unified student profiles and academic performance tracking"
+    },
+    {
+      "system": "Learning Management System, Egyptian Knowledge Bank and digital and TV learning resources",
+      "country_label": "LMS; Egyptian Knowledge Bank; TV educational channels",
+      "class": "learning",
+      "platform": "",
+      "owner": "MOETE",
+      "tiers": "grades 4-12 students and teachers"
+    },
+    {
+      "system": "Tablet-based assessment management and delivery platform",
+      "country_label": "computer-based assessment management platform",
+      "class": "single-function",
+      "platform": "",
+      "owner": "MOETE; NCEEE",
+      "tiers": "deployed July 2019; item banks, test administration and marking for grades 10-12, scores made available electronically to students, school principals, districts and directorates"
+    }
+  ],
+  "note": "No fact: the paper never says schools enter anything into EMIS or the smart card; it says only that the card draws per-student data (test scores, digital attendance, enrolment) from EMIS, so neither is classed. The parent may want this beside the other Egypt documents: the card was still a Suez pilot awaiting distribution on 12 June 2025, under a US$500 million IBRD loan."
+}

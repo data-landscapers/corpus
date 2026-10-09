@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-01-zaf-school-realities-2025",
+  "facts": [],
+  "systems": [
+    {"system": "LURITS", "country_label": "Learner Unit Record Information and Tracking System (LURITS)", "class": "", "platform": "", "owner": "Department of Basic Education", "tiers": "national; receives uploaded databases covering ordinary public and independent schools"},
+    {"system": "Provincial Data Warehouses", "country_label": "Provincial Data Warehouses", "class": "", "platform": "", "owner": "", "tiers": "provincial"}
+  ],
+  "note": "No fact: the document is a statistical leaflet that says only that its 2025 figures come from databases uploaded on LURITS and Provincial Data Warehouses as at July 2025, with about 99.9% of functional ordinary schools (24,766 schools) uploaded; it does not say what schools enter, per learner or otherwise, or how often, so the system is unclassified."
+}

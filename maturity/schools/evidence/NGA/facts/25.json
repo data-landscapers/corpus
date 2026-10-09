@@ -1,0 +1,39 @@
+{
+  "slug": "2026-08-14-nga-nigeria-launches-nationwide-education-data-system-reaching-more-than-4",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital National Education Management Information System (DNEMIS)",
+      "country_label": "Digital National Education Management Information System (DNEMIS)",
+      "class": "census",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Education, with technical support from the HISP Centre at the University of Oslo and HISP Nigeria and financial support from UNICEF Nigeria",
+      "tiers": "live nationwide on 1 July 2026 with state implementation teams inaugurated; the minister says data recorded from 124,548 schools, 58.4% of national coverage, and more than 40 million learners; digitising began in twelve states in January 2024"
+    },
+    {
+      "system": "Annual School Census",
+      "country_label": "Annual School Census",
+      "class": "census",
+      "platform": "previously manual and paper-based, taking nearly two years to compile; now digitised in DNEMIS",
+      "owner": "Federal Ministry of Education",
+      "tiers": ""
+    },
+    {
+      "system": "Public DNEMIS Portal",
+      "country_label": "Public DNEMIS Portal",
+      "class": "census",
+      "platform": "",
+      "owner": "Federal Ministry of Education",
+      "tiers": "public access to selected official education data"
+    },
+    {
+      "system": "Nigeria Education Data Infrastructure (NEDI)",
+      "country_label": "Nigeria Education Data Infrastructure (NEDI)",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Education",
+      "tiers": "a reform effort under NESRI, of which DNEMIS is the flagship platform"
+    }
+  ],
+  "note": "DHIS2 describes DNEMIS as digitising the Annual School Census and consolidating records on schools, learners, teachers and classrooms; it describes no entry by schools during the year, so the system is a census and gives no fact. The 124,548 schools (58.4%) are schools whose data the platform has recorded, as the minister gave it at the 1 July 2026 launch."
+}

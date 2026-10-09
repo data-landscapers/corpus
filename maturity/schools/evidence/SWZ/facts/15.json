@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-20-swz-data-the-power-is-in-the-use",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The DHIS2 for Education team's blog states that the EMIS Unit of the Ministry of Education and Training runs regular webinars for the system's users on data entry, validation, extraction and visualisation, and that the EMIS team answers data requests from it; undated, so the document's published date is used.", "as_of": "2025-11", "date_precision": "month", "system": "DHIS2 for Education (learner-level data)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The blog describes the ministry's DHIS2 implementation, begun in 2020, as holding learner-level data under unique personal identification numbers, including each learner's orphan status and bursary, and calls the EMIS fully operational; it gives no count or share of schools entering data and does not say who enters the learner records; undated, so the document's published date is used.", "as_of": "2025-11", "date_precision": "month", "system": "DHIS2 for Education (learner-level data)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "DHIS2 for Education (learner-level data)", "country_label": "EMIS", "class": "emis", "platform": "DHIS2", "owner": "EMIS Unit, Ministry of Education and Training", "tiers": "central and regional levels trained; Regional Inspectors of Schools trained; head teachers described as entering data"},
+    {"system": "DHIS2 for Education (school-level aggregate data)", "country_label": "EMIS", "class": "census", "platform": "DHIS2", "owner": "EMIS Unit, Ministry of Education and Training", "tiers": "head teacher enters enrolment, staffing and infrastructure; source of the 2022 UIS return"},
+    {"system": "MS-Access-based system", "country_label": "", "class": "census", "platform": "MS Access", "owner": "Ministry of Education and Training", "tiers": "largely centralised and aggregate; replaced from 2020"},
+    {"system": "school report card", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The learner-level part is classed emis on a record per learner under a PIN; the document never says outright that schools add to it during the year, nor names attendance or results, so no kept or levels fact is taken and the parent should weigh the class. The transition is described as still in process."
+}

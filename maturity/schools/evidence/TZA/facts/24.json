@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-tza-education-sector-development-plan-2025-26-2029-30",
+  "facts": [],
+  "systems": [
+    {"system": "School Information System (SIS)", "country_label": "SIS", "class": "", "platform": "a single mobile application, online or offline, on smartphones, tablets or laptops", "owner": "PO-RALG", "tiers": "schools and Ward Education Officers capture data; said in one passage to be in development and testing, in another to be re-engineered to cover all regions, government and non-government primary and secondary schools and ANFE centres"},
+    {"system": "Basic Education Management Information System (BEMIS)", "country_label": "BEMIS", "class": "census", "platform": "", "owner": "PO-RALG, jointly owned with MoEST", "tiers": "school-level data through the Annual School Census, as agreed with effect from 2023; district databases consolidated in the national BEMIS at PO-RALG; entry on paper forms, Excel import or online"},
+    {"system": "Annual School Census (ASC)", "country_label": "ASC / school census", "class": "census", "platform": "", "owner": "PO-RALG", "tiers": "every school, yearly; published as Basic Education Statistics in Tanzania (BEST)"},
+    {"system": "Education Sector Management Information System (ESMIS)", "country_label": "ESMIS", "class": "census", "platform": "", "owner": "MoEST", "tiers": "central coordination tier over BEMIS, TVET-IMS and U-MIS, introduced 2007; produces the annual statistical abstract"},
+    {"system": "Primary Record Management (PReM)", "country_label": "NECTA - Primary Record Management (PReM)", "class": "", "platform": "", "owner": "NECTA", "tiers": "named as a related database to be linked to the ESMIS sub-systems"},
+    {"system": "Schools Accreditation System (SAS)", "country_label": "SAS", "class": "single-function", "platform": "", "owner": "not stated", "tiers": "new online school registration system, finalised"},
+    {"system": "School Quality Assurance System (SQAS)", "country_label": "SQAS", "class": "single-function", "platform": "", "owner": "not stated", "tiers": "still under development"}
+  ],
+  "note": "Passages only. BEMIS is by the plan's own words an annual census. The School Information System is the one system schools feed in real time, but the passages say only that schools and ward officers 'capture data': nothing says the data are records per learner (attendance, results or enrolment), so it is left unclassified and gives no fact. The plan also contradicts itself on whether SIS is still being tested or already covers all regions."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-09-uga-concerns-grow-as-private-firm-retains-control-of-critical-education-da",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:vendor", "fact": "An Auditor General's report quoted by The Kampala Report finds that critical administration and configuration of EMIS remain largely under the vendor, SMSOne, which has run them for four years under the ICT Ministry's supervision, with limited involvement of Ministry of Education technical staff; the report is undated, so the article's date of 9 June 2026 is used.", "as_of": "2026-06-09", "date_precision": "day", "system": "EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The EMIS launched in 2022 holds data on more than 13 million learners and staff from nursery to secondary level, according to The Kampala Report; the figure is undated, so the article's date is used.", "as_of": "2026-06-09", "date_precision": "day", "system": "EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "The system holds individual learners' details, and those of all Senior One and Senior Five students are not yet fully captured because EMIS is not integrated with the UNEB system that should carry learner data from one level to the next; the article describes no entry of attendance or results and does not say who keys the records.", "as_of": "2026-06-09", "date_precision": "day", "system": "EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Education's Assistant Commissioner for Statistics says the contractor is upgrading the platform from EMIS 1.0 to EMIS 2.0 under a continuing contract, as reported on 9 June 2026.", "as_of": "2026-06-09", "date_precision": "day", "system": "EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The article gives no count or share of schools entering data; the system has been in service since 2022 and is described only by the 13 million learners and staff it holds.", "as_of": "2026-06-09", "date_precision": "day", "system": "EMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "EMIS (EMIS 1.0, being upgraded to EMIS 2.0)", "class": "emis", "platform": "built and administered by SMSOne", "owner": "Ministry of Education and Sports; vendor SMSOne runs administration and configuration, supervised by the Ministry of ICT", "tiers": "nursery to secondary; more than 13 million learners and staff"},
+    {"system": "UNEB system", "country_label": "Uganda National Examinations Board system", "class": "single-function", "platform": "", "owner": "UNEB", "tiers": "examinations; not integrated with EMIS, which leaves Senior One and Senior Five learners uncaptured"}
+  ],
+  "note": "The Auditor General's report the article quotes is neither named nor dated, and the article's own date is a proxy from its URL."
+}

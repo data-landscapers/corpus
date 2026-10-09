@@ -1,0 +1,9 @@
+{
+  "slug": "2020-05-01-moz-minedh-relatorio-reuniao-anual-revisao-rar-2020",
+  "facts": [],
+  "systems": [
+    {"system": "Online platform for school management", "country_label": "Plataforma online para a Gestão escolar", "class": "single-function", "platform": "online platform", "owner": "MINEDH", "tiers": "designed in 2018 and implemented from 2019 as a pilot in all districts; supervisors collect information on the attendance of heads, teachers and pupils, on school councils, on school management and on learning; MINEDH follows the supervised districts"},
+    {"system": "3 March school survey", "country_label": "levantamento de 3 de Março", "class": "census", "platform": "", "owner": "MINEDH", "tiers": "schools, yearly on 3 March; cited for textbook counts in 2019"}
+  ],
+  "note": "No fact: the online platform is filled by supervisors on their visits, not by schools, and no per-learner record is described, so it is a supervision tool, class single-function, whatever its name. MINEDH told the review of 25 May 2020 that it is hard to use online and that it is working on that."
+}

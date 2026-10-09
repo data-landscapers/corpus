@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The Minister of Basic Education's written reply says LURITS holds data at individual learner level, with ID numbers, and that its yearly datasets for 2020 to 2025 were linked to track learners in Grades 1 to 11 (just over 10.3 million a year in public schools, about 0.5 million in independent schools), with repetition counted for Grades 1 to 12; the 2025 dataset is preliminary.", "as_of": "2025", "date_precision": "year", "system": "Learner Unit Record Information Tracking System (LURITS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The reply describes LURITS as the Department of Basic Education's own system, whose 2025 data the Department verifies and analyses itself.", "as_of": "2025", "date_precision": "year", "system": "Learner Unit Record Information Tracking System (LURITS)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The reply gives learner totals from LURITS for 2020 to 2025 and no count or share of primary schools supplying records; the only school count is 6,982 schools offering all of Grades 8 to 12 (6,097 public, 885 independent) analysed on 2023-2024 data.", "as_of": "2025", "date_precision": "year", "system": "Learner Unit Record Information Tracking System (LURITS)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "LURITS", "country_label": "Learner Unit Record Information Tracking System (LURITS)", "class": "emis", "platform": "", "owner": "Department of Basic Education", "tiers": "national; learner-level records for public and independent schools, Grades 1 to 12"}
+  ],
+  "note": "Classed emis as a learner register: the reply says the system holds a record per learner with ID number, renewed in a dataset each year. It does not say who captures the records or when in the year, so no `kept` fact; it notes ID numbers missing or wrongly captured, more so when learners change school."
+}

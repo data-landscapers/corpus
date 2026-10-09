@@ -1,0 +1,16 @@
+{
+  "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "share:100%", "fact": "The GPE KIX blog states that the PIN-driven EMIS, launched nationally in March 2024, now covers all 976 primary and secondary schools (976 of 976), with individual-level tracking of students and staff; the source counts schools covered, not schools entering data, and elsewhere says the EMIS currently provides aggregate enrolment numbers; the present-tense figure is undated, so the document's published date is used.", "as_of": "2025-10", "date_precision": "month", "system": "PIN-driven EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P;S", "fact": "The blog states that the PIN-driven EMIS covers all 976 primary and secondary schools since its national launch in March 2024; undated in the present tense, so the document's published date is used.", "as_of": "2025-10", "date_precision": "month", "system": "PIN-driven EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The blog calls the system the ministry's own, designed and scaled by the Ministry of Education and Training with help from UNICEF and civil society, and reports the ministry's departments presenting their uses of it at the February 2025 exchange.", "as_of": "2025-02", "date_precision": "month", "system": "PIN-driven EMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "The blog refers to Eswatini's SEMIS as a pilot and to its roll-out as still to come, with no number of pilot schools; undated, so the document's published date is used.", "as_of": "2025-10", "date_precision": "month", "system": "SEMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "PIN-driven EMIS", "country_label": "EMIS", "class": "emis", "platform": "", "owner": "Ministry of Education and Training", "tiers": "all 976 primary and secondary schools; ministry departments"},
+    {"system": "SEMIS", "country_label": "SEMIS", "class": "emis", "platform": "", "owner": "Ministry of Education and Training", "tiers": "pilot; roll-out to come"},
+    {"system": "paper-based EMIS", "country_label": "EMIS", "class": "", "platform": "paper", "owner": "Ministry of Education and Training", "tiers": "replaced by the digital system"},
+    {"system": "PIN validation against Home Affairs records", "country_label": "No PIN, No Grant", "class": "exchange", "platform": "manual claim forms", "owner": "Ministry of Education and Training; Home Affairs", "tiers": "schools submit paper claim forms with each learner's PIN, checked at regional offices; to be automated with SEMIS"}
+  ],
+  "note": "The document pulls two ways and the parent must weigh it: it describes the EMIS as PIN-driven with individual-level student tracking in all 976 schools, and also says the EMIS gives aggregate enrolment numbers while per-learner PINs still travel on paper claim forms until SEMIS is rolled out. The first is classed emis on the document's own description; it does not say schools enter attendance or results, so no kept fact is taken. The 976 is primary and secondary together, with no primary figure."
+}

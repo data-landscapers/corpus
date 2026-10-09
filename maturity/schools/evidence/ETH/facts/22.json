@@ -1,0 +1,14 @@
+{
+  "slug": "2023-04-04-eth-ethiopia-and-gpe-partnership-compact-focused-on-improving-learning-out",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS / Education Statistics Annual Abstract", "country_label": "EMIS; Education Statistics Annual Abstract (ESAA)", "class": "census", "platform": "largely paper-based data collection", "owner": "Ministry of Education (EMIS directorate)", "tiers": "data collected from schools up through woreda and regional bureaux; analysed and disseminated at national and regional level"},
+    {"system": "School Management Information System", "country_label": "SMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "not stated"},
+    {"system": "Teacher Management Information System", "country_label": "TMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "not stated"},
+    {"system": "Geographic Information System", "country_label": "GIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "not stated"},
+    {"system": "National online examination platform", "country_label": "online examination system", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "an intended intervention under ESDP VI"},
+    {"system": "National textbook tracking system", "country_label": "textbook tracking", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "proposed, to be integrated with or supported by EMIS"},
+    {"system": "School Net Cloud / National Education Cloud", "country_label": "School Net Cloud", "class": "learning", "platform": "", "owner": "Ministry of Education", "tiers": "data centre and network operation centre established; learning management system not yet functional; private cloud in 300 secondary schools and 10 universities under GEQIP II"}
+  ],
+  "note": "The April 2023 compact describes EMIS as regular data collection feeding the annual abstract, still largely paper-based, and states as a need not yet met that it be fully digitised with students and teachers identified by unique IDs; it describes no per-learner record entered by schools, so EMIS is census here and gives no fact. SMIS, TMIS and GIS are named without description."
+}

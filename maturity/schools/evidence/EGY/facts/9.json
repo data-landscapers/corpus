@@ -1,0 +1,55 @@
+{
+  "slug": "2024-01-01-egy-restructuring-paper-on-a-proposed-project-restructuring-of-supporting",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education and Technical Education (MOETE)",
+      "tiers": "not stated; named only in 'EMIS data', one of the feeds of the Education Decision Support System stage that this restructuring drops; the paper does not say what EMIS does or who enters its data"
+    },
+    {
+      "system": "Smart Card 'Student Digital Identity'",
+      "country_label": "Smart Card; Student Digital Identity; Smart Student digital ID",
+      "class": "",
+      "platform": "",
+      "owner": "MOETE",
+      "tiers": "as of February 2024 a pilot due to conclude by June 2024; target redefined to all grades 4-11 students in one governorate (data for grades 1-3 'mostly compiled' but no cards printed); to hold per student health and biometrics, special needs, schools attended, teachers, grade 9 and 12 scores, receipt of tablets and books, for use by authorised levels of administration; who enters the data is not stated"
+    },
+    {
+      "system": "Education Decision Support System / Dashboard",
+      "country_label": "Education Decision Support System; Education Decision Support Dashboard",
+      "class": "",
+      "platform": "",
+      "owner": "MOETE",
+      "tiers": "stage 2 (training, assessment and EMIS data, with staff training at ministry, directorate, district and school level) dropped; stage 1 recast as the Digital Content Dashboard"
+    },
+    {
+      "system": "Digital Content Dashboard",
+      "country_label": "Digital Content Dashboard",
+      "class": "learning",
+      "platform": "",
+      "owner": "MOETE, Central Administration for Technological Development",
+      "tiers": "to be developed by December 2024; real-time usage data on grades 4-12 digital learning content by grade, gender, user type and school location, with quarterly reports to each level of administration"
+    },
+    {
+      "system": "Egyptian Knowledge Bank, Learning Management System and TV educational channels",
+      "country_label": "EKB; LMS; study.EKB; Madrastena; Edmodo; YouTube livestreaming",
+      "class": "learning",
+      "platform": "",
+      "owner": "MOETE",
+      "tiers": "grades 4-12 students and teachers; open access with no login required"
+    },
+    {
+      "system": "Computer-based assessment management platform",
+      "country_label": "assessment management platform; tablet-based assessment management and delivery platform",
+      "class": "single-function",
+      "platform": "",
+      "owner": "MOETE; NCEEE",
+      "tiers": "item bank, administration and marking of grades 10-12 tests; results available to students, teachers, school principals and district officers"
+    }
+  ],
+  "note": "No fact: the paper names EMIS only as a data feed and never says schools enter per-learner records into it or into the smart card, so neither is classed. Its one dated statement on the card: as of February 2024 MOETE was piloting it, to conclude by June 2024, in one governorate, financed under a US$500 million IBRD loan."
+}

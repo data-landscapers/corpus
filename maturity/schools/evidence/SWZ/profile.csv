@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,emis,governance,qualifier,owner:ministry;finance:domestic,2025-02,SWZ-005;SWZ-012,SWZ-009=owner:ministry;SWZ-008=owner:ministry,not stated: plan
-SWZ,emis,levels,coverage,P;S,2024-02-26,SWZ-006,,
+SWZ,emis,governance,qualifier,owner:ministry;finance:domestic,2025-11,SWZ-012;SWZ-013,SWZ-005=owner:ministry;SWZ-017=owner:ministry;SWZ-009=owner:ministry;SWZ-008=owner:ministry,not stated: plan
+SWZ,emis,levels,coverage,P;S,2025-10,SWZ-006;SWZ-016,,
 SWZ,emis,kept,coverage,routine,2025-02,SWZ-004,,
 SWZ,emis,last12,qualifier,,,,,nothing held
-SWZ,emis,schools,coverage,pilot,2020,SWZ-010,SWZ-011=not-published;SWZ-007=not-published,
+SWZ,emis,schools,coverage,share:100%,2025-10,SWZ-015,SWZ-014=not-published;SWZ-018=pilot;SWZ-011=not-published;SWZ-019=pilot;SWZ-007=not-published;SWZ-010=pilot,

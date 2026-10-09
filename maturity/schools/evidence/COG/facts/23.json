@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-19-cog-implementation-status-results-report-transforming-the-education-sector",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated EMIS", "country_label": "integrated EMIS (education management information system)", "class": "", "platform": "", "owner": "MEPPSA, under the World Bank TRESOR programme (P179410), DLI 6 of US$8 million", "tiers": "not in place: 'No' at 5 December 2025 against a target of 'Yes' by July 2030; 0 of 10 dashboards published"},
+    {"system": "Statistical Yearbook", "country_label": "Statistical Yearbook 2025-2026", "class": "census", "platform": "", "owner": "", "tiers": "awaited as the source for the programme's enrolment indicators"}
+  ],
+  "note": "No fact: the report states that no integrated EMIS was available at 5 December 2025 (baseline July 2024 unchanged, target July 2030, only 'initial steps' taken) but never says what the planned system will do, so it cannot be classed as emis and the absence is recorded under systems only."
+}

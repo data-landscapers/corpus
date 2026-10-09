@@ -1,0 +1,9 @@
+{
+  "slug": "2024-03-01-bdi-vers-une-amelioration-equitable-et-inclusive-de-la-qualite-des-apprent",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information pour la Gestion de l'Education (SIGE)", "country_label": "SIGE; its yearly output is the annuaire statistique du MENRS", "class": "census", "platform": "", "owner": "Ministry of education (MENRS), through its technical directorates; UNESCO's regular programme and GPE system transformation funds named as support", "tiers": "central; a progressive decentralisation and a revised national strategy to strengthen it are planned"},
+    {"system": "Module de gestion des ressources humaines intégré au SIGE", "country_label": "module de GRH", "class": "single-function", "platform": "", "owner": "Ministry of education (MENRS), under the Twige Neza programme", "tiers": "in development in March 2024; to be generalised down to colline and school level"}
+  ],
+  "note": "The compact describes the SIGE as functional and as the source of the yearly statistical yearbook, and plans its decentralisation and an HR module; it states no record per learner entered by schools, so there is no fact."
+}

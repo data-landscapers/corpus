@@ -1,0 +1,31 @@
+{
+  "slug": "2024-10-01-ken-education-sector-medium-term-expenditure-framework-2025-26-2027-28-202",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NEMIS",
+      "country_label": "National Education Management Information System (NEMIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education (CPPMU delivery unit, under headquarters administrative services)",
+      "tiers": "ICT infrastructure and equipment at sub-sector headquarters, counties and schools; field officers and staff in learning institutions trained (26,000, 28,000 and 30,000 achieved across FY 2021/22 to 2023/24); indicators for coverage of ECDE centres, primary schools and secondary schools data"
+    },
+    {
+      "system": "KEMIS",
+      "country_label": "Kenya Education Management Information System (KEMIS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "NEMIS transitioned to KEMIS in FY 2023/24"
+    },
+    {
+      "system": "TMIS",
+      "country_label": "Teacher Management Information System (TMIS)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: the passages say five modules were added to NEMIS in FY 2021/22 for data capture on institutions, learners and staff and that it became KEMIS in FY 2023/24, but not who enters what or when, so the system is unclassified. A table row gives 'Percentage Coverage of Primary Schools data by NEMIS' as 85 (ECDE 10, secondary 100); the passage is cut so that target cannot be told from achievement, nor the year."
+}

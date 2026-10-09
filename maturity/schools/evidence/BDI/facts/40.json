@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-bdi-plan-sectoriel-de-l-education-2022-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information et de gestion de l'éducation (SIGE)", "country_label": "SIGE; recensement scolaire annuel; annuaire statistique", "class": "census", "platform": "", "owner": "Ministry of education (MENRS), Bureau de la planification (BPSE)", "tiers": "central: yearly school census, with the yearbook due each June and dashboards to be returned to the deconcentrated offices"},
+    {"system": "Module de GRH du SIGE (application GRH)", "country_label": "module de GRH du SIGE", "class": "single-function", "platform": "", "owner": "Ministry of education (MENRS)", "tiers": "development to be finished and deployed to central services and to provincial and communal education directorates"}
+  ],
+  "note": "The plan says the SIGE covers basic statistics through the yearly census and yearbook; a 'SIGE global' with individual registration of schools and pupils is only an aim, to follow an audit and terms of reference, with nothing on schools entering learner records, so there is no fact."
+}

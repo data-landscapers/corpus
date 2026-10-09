@@ -1,0 +1,9 @@
+{
+  "slug": "2021-03-05-moz-worldbank-pad4027-improving-learning-empowering-girls",
+  "facts": [],
+  "systems": [
+    {"system": "National Education Management Information System (SIGE)", "country_label": "SIGE (Sistema de Informação para Gestão de Educação); EMIS", "class": "census", "platform": "", "owner": "MINEDH", "tiers": "all schools: administrative data collected every year through the school census of 3 March and a second one at the end of the school year; data source for the project's annual indicators"},
+    {"system": "Teachers' absenteeism annual monitoring system", "country_label": "", "class": "single-function", "platform": "", "owner": "MINEDH", "tiers": "not yet built at appraisal: the baseline says absenteeism is monitored through district supervision of schools with no annual system; to be developed, then implemented nationally"}
+  ],
+  "note": "No fact: in these passages the SIGE/EMIS is described only as the twice-yearly school census returning counts, so it is census; the project is to strengthen it under the statistics strategy ENDEE 2020-2024, with no per-learner record described. Passages only, of 42,321 words."
+}

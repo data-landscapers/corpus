@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,emis,governance,qualifier,,,,,nothing held
-SOM,emis,levels,coverage,,,,,nothing held
-SOM,emis,kept,coverage,,,,,nothing held
+SOM,emis,governance,qualifier,owner:ministry;finance:donor,2022-05,SOM-004;SOM-005,SOM-009=owner:partner,nothing dated since 2023-09-28
+SOM,emis,levels,coverage,P,2019,SOM-008,,nothing dated since 2023-09-28
+SOM,emis,kept,coverage,routine,2022-05,SOM-003;SOM-007,,nothing dated since 2023-09-28
 SOM,emis,last12,qualifier,,,,,nothing held
-SOM,emis,schools,coverage,,,,,nothing held
+SOM,emis,schools,coverage,pilot,2022-05,SOM-002;SOM-006,,nothing dated since 2023-09-28

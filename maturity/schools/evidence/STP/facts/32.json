@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-stp-sao-tome-e-principe-projecto-de-empoderamento-das-raparigas-e-educacao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Informação e Gestão Educativa (SIGE)",
+      "country_label": "SIGE",
+      "class": "",
+      "platform": "to be hosted at the Instituto de Inovação e Conhecimento (INIC)",
+      "owner": "Ministry of Education (MECCES), EDUTIC staff; development financed under the World Bank and GPE project PEREQT",
+      "tiers": "to be relaunched in a first group of schools, number and level not stated; in January 2025 the terms of reference for its development were done and the tender for the ministry's data network, hosting equipment and the first schools' equipment was being relaunched, with a survey of schools' connectivity needs under way"
+    },
+    {
+      "system": "Sistema de Supervisão Pedagógica",
+      "country_label": "plataforma do Sistema de Supervisão Pedagógica",
+      "class": "single-function",
+      "platform": "online platform built by the Instituto Politécnico de Bragança, to move to the ministry's UNIC platform; no offline version",
+      "owner": "Instituto Politécnico de Bragança for the pre-school directorate (DEPE)",
+      "tiers": "22 supervisors entering classroom observation forms for 111 pre-schools; ready, but some supervisors lack access and forms are still duplicated on paper"
+    }
+  ],
+  "note": "Read whole. No fact: the aide-memoire of the mission of 27 to 31 January 2025 says the SIGE is to be relaunched in a first group of schools and that its development terms of reference are finished, but never says what the system does, so it is unclassified. If the parent holds the SIGE as emis on another document, this one dates it as not yet running in schools in January 2025, with its development and equipment still at tender under a donor project. The supervision platform records classroom observations in pre-schools only."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-ben-mise-a-disposition-des-releves-de-notes-du-cep-2026",
+  "facts": [],
+  "systems": [
+    {"system": "emp.educmaster.bj", "country_label": "plateforme emp.educmaster.bj (Educmaster)", "class": "single-function", "platform": "web platform", "owner": "Ministère des Enseignements Maternel et Primaire; the notice is from its Directeur des Examens et Concours", "tiers": "primary schools hold accounts and look up a candidate by matricule or table number; parents hold accounts, with log-in details issued by the child's school"}
+  ],
+  "note": "The notice of 3 August 2026 says only that CEP 2026 transcripts can be downloaded from the platform by schools and parents; that is examination results, and it does not say schools enter learner records, so on this document alone the platform is single-function and gives no fact. It does show a matricule per learner and parent accounts tied to a child."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-01-gmb-education-minister-outlines-ambitious-reforms-citing-gains-and-challen",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "The Minister of Basic and Secondary Education says an early warning system on DHIS2 continuously monitors each student's attendance and academic performance and sorts learners by drop-out risk; she does not say who enters the data, and the speech is undated, so the article's published date is used.", "as_of": "2025-09", "date_precision": "month", "system": "Early warning system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The minister describes the DHIS2 early warning system as in operation and gives no number or share of schools using it; dated to the article's publication.", "as_of": "2025-09", "date_precision": "month", "system": "Early warning system", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The minister presents the early warning system as the ministry's own and says plans are under way to integrate it with the health data system; dated to the article's publication.", "as_of": "2025-09", "date_precision": "month", "system": "Early warning system", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Early warning system", "country_label": "early warning system", "class": "emis", "platform": "DHIS2", "owner": "Ministry of Basic and Secondary Education", "tiers": "learners' attendance and academic performance; tiers not stated"},
+    {"system": "Education management information system", "country_label": "IMIS", "class": "", "platform": "", "owner": "Ministry of Basic and Secondary Education", "tiers": ""}
+  ],
+  "note": "The minister says the ministry is expanding 'IMIS' without saying what it holds; the planned link to health data is an exchange item, not yet made."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-29-lby-open-emis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "OPEN EMIS (Education Management Information System)",
+      "country_label": "نظام OPEN EMIS",
+      "class": "",
+      "platform": "OpenEMIS",
+      "owner": "Information and Documentation Centre, Ministry of Education, in cooperation with UNICEF Libya",
+      "tiers": "Not in use: a first workshop on the system was held on 29 March 2023, where UNICEF's consultant set out what would be needed to localise it in Libya"
+    }
+  ],
+  "note": "No fact: the document reports a first introductory workshop on OpenEMIS and says only that it has uses for the student, the teacher, school management and ministry supervisors and yields local and international indicators; it does not say what schools would enter, so the system is unclassified."
+}

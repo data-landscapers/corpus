@@ -1,0 +1,39 @@
+{
+  "slug": "2024-09-01-lbr-reflections-and-learnings-from-the-liberia-education-advancement-progr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Bridge Liberia live data collection and monitoring",
+      "country_label": "live data collection and monitoring (LEAP, Bridge Liberia)",
+      "class": "",
+      "platform": "",
+      "owner": "Bridge Liberia, a LEAP partner operating public schools for the Ministry of Education on philanthropic funding",
+      "tiers": "LEAP-supported public schools (the programme as a whole supports 475, about 18 per cent of 2,703 public primary schools); principals, district and county education officers and Ministry officials see trends at their own level"
+    },
+    {
+      "system": "Digital teacher guides",
+      "country_label": "structured, digital teacher guides (Bridge Liberia)",
+      "class": "learning",
+      "platform": "",
+      "owner": "Bridge Liberia",
+      "tiers": "LEAP-supported public schools"
+    },
+    {
+      "system": "Annual School Census",
+      "country_label": "Annual School Census",
+      "class": "census",
+      "platform": "",
+      "owner": "",
+      "tiers": "Cited for 2019-20: 2,703 public primary schools"
+    },
+    {
+      "system": "Teach by Radio",
+      "country_label": "Teach by Radio",
+      "class": "learning",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "National"
+    }
+  ],
+  "note": "No fact: the report says a LEAP partner's schools collect data during the year on principal and teacher attendance, lesson delivery, student attendance and observation ratings, which Ministry officials can see as trends, but not that a record is kept per learner nor how many schools do it; left unclassified for the parent to rule on."
+}

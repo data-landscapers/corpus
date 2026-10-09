@@ -1,0 +1,15 @@
+{
+  "slug": "2024-06-19-sen-programme-d-appui-au-developpement-de-l-education-au-senegal-pades-ii",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Système d'information et de gestion de l'éducation (SIGE); recensement scolaire, campagnes statistiques", "class": "census", "platform": "StatEduc", "owner": "Direction de la Planification et de la Réforme de l'Éducation (division des statistiques et de la prospective), Ministère de l'Éducation nationale", "tiers": "data collected yearly with the statistics and school-map services of the inspections d'académie (IA) and inspections de l'éducation et de la formation (IEF), whose planners key it"},
+    {"system": "EDUSTAT", "country_label": "EDUSTAT", "class": "census", "platform": "", "owner": "Ministère de l'Éducation nationale", "tiers": "developed to replace StatEduc for the statistical collection on all schools; school directors and heads are to enter the data themselves in place of IA and IEF planners (future tense)"},
+    {"system": "SIMEN", "country_label": "Système d'Information et de Management de l'Éducation Nationale (SIMEN)", "class": "", "platform": "", "owner": "Ministère de l'Éducation nationale", "tiers": "central; collaborates in the yearly data collection and is to digitalise planning, monitoring and reporting"},
+    {"system": "SENORIENTATION", "country_label": "SENORIENTATION", "class": "single-function", "platform": "", "owner": "CNOSP", "tiers": "central; holds all pupils of the fourth year of lower secondary admitted to the first year of general secondary"},
+    {"system": "SYSGAR", "country_label": "SYSGAR", "class": "single-function", "platform": "", "owner": "Ministère de l'Éducation nationale", "tiers": "central; dashboard of the ministry's annual work plan, new version under test"},
+    {"system": "FINPRONET", "country_label": "FINPRONET", "class": "single-function", "platform": "", "owner": "Ministère de l'Éducation nationale", "tiers": "central; the ministry's finance, accounts and procurement"},
+    {"system": "SENKAGGU", "country_label": "SENKAGGU", "class": "learning", "platform": "", "owner": "", "tiers": "distance teaching, still in test"},
+    {"system": "SENPROF", "country_label": "SENPROF", "class": "learning", "platform": "", "owner": "", "tiers": "portal of digital teaching resources for teachers and pupils"}
+  ],
+  "note": "Passages file. The SIGE it describes is the yearly statistical collection on StatEduc, a census, and EDUSTAT is its planned replacement; no system is described as holding per-learner records that schools add to, so no fact. The table of ministry platforms opens before the passage begins, so earlier rows of it were not seen."
+}

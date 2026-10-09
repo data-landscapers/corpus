@@ -1,0 +1,90 @@
+{
+  "slug": "2024-01-01-ken-national-education-sector-strategic-plan-for-the-period-2023-2027",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "enrolment",
+      "fact": "The Ministry of Education's sector plan states that the NEMIS platform is being operationalised to support the digital registration of learners; it does not say who keys the registration or when in the year, and gives no date, so the publication year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The sector plan states that primary and secondary school learners have so far been registered on NEMIS; no date is given, so the publication year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The sector plan gives no share or count of primary schools entering data: it says NEMIS has reached a 70 per cent level of operationalisation, without saying of what, and could serve about 84,000 learning institutions; no date is given, so the publication year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Education's plan states that the sector itself designed, developed and rolled out NEMIS, and names the Principal Secretary for Basic Education as lead for developing KEMIS; no date is given, so the publication year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "NEMIS",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Education Sector Strategic Plan 2023-2027 names KEMIS, to hold individual information from birth to the end of education and to take in NEMIS, and carries costed yearly lines in Kenya shillings for developing the system, enhancing its modules, a policy to institutionalise it and data infrastructure.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "KEMIS",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NEMIS",
+      "country_label": "National Education Management Information System (NEMIS)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "Primary and secondary school learners registered; refugee learners being included; secondary-level data used for Free Day Secondary Education financing, Form 1 selection and tracking transition from primary"
+    },
+    {
+      "system": "KEMIS",
+      "country_label": "Kenya Education Management Information System (KEMIS / KeMIS)",
+      "class": "emis",
+      "platform": "",
+      "owner": "Ministry of Education (Principal Secretary for Basic Education as lead)",
+      "tiers": "Planned: to incorporate NEMIS, the TVET MIS and the Higher Education MIS as the single source of data, capturing human resource and student enrolment data"
+    },
+    {
+      "system": "KNLRD",
+      "country_label": "Kenya National Learners Records Database (KNLRD)",
+      "class": "",
+      "platform": "",
+      "owner": "KNQA",
+      "tiers": "Qualification awarding institutions to be onboarded, 24 over five years"
+    },
+    {
+      "system": "Data platform for learners with special needs and disabilities",
+      "country_label": "Data platform for learners with special needs and disabilities, linked with KEMIS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Education (PSBE)",
+      "tiers": "Planned"
+    }
+  ],
+  "note": ""
+}

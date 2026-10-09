@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,emis,governance,qualifier,owner:ministry,2019-02,CPV-010,,nothing dated since 2023-10-09
-CPV,emis,levels,coverage,P;S,2025-09-01,CPV-004,CPV-007=P;S,
-CPV,emis,kept,coverage,routine,2025-09-01,CPV-005;CPV-009,,
+CPV,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-07-15,CPV-011;CPV-012;CPV-021,CPV-016=owner:ministry;CPV-020=owner:ministry;CPV-022=plan:current;CPV-023=owner:ministry;CPV-029=owner:ministry;CPV-010=owner:ministry,
+CPV,emis,levels,coverage,P;S,2025-09-01,CPV-004;CPV-013;CPV-018,CPV-024=P;S;CPV-027=P;S;CPV-007=P;S,
+CPV,emis,kept,coverage,routine,2025-09-01,CPV-005;CPV-009;CPV-015;CPV-017;CPV-026,,
 CPV,emis,last12,qualifier,,,,,nothing held
-CPV,emis,schools,coverage,share:100%,2019-02,CPV-008,CPV-006=not-published,
+CPV,emis,schools,coverage,share:100%,2025-06-25,CPV-008;CPV-014,CPV-006=not-published;CPV-019=not-published;CPV-025=not-published;CPV-028=not-published,

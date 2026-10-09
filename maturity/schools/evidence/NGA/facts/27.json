@@ -1,0 +1,31 @@
+{
+  "slug": "2025-02-12-nga-nigeria-hope-for-quality-basic-education-for-all-hope-edu-program-for",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Annual School Census (ASC), digital form and platform",
+      "country_label": "Annual School Census (ASC)",
+      "class": "census",
+      "platform": "digital ASC form maintained by NEMIS",
+      "owner": "Federal Ministry of Education (NEMIS), with State Ministries of Education and LGEAs",
+      "tiers": "to be adopted in all states and the FCT under HOPE-EDU DLI 8, with targets of 90% then 95% of schools included in the current-year report; national and state digital ASC systems are disbursement results still to be met at February 2025"
+    },
+    {
+      "system": "Nigeria Education Management Information System (NEMIS)",
+      "country_label": "Nigeria Education Management Information System (NEMIS); education management information system",
+      "class": "census",
+      "platform": "",
+      "owner": "Federal Ministry of Education; the national EMIS team has a minimal budget and issues guidance to states, which finance data collection",
+      "tiers": "federal, state and LGEA; described only through the annual school census it maintains"
+    },
+    {
+      "system": "National Personnel Audit (NPA) platform",
+      "country_label": "National Personnel Audit (NPA)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "data requirements and school codes to be aligned with the ASC platform"
+    }
+  ],
+  "note": "World Bank assessment of the HOPE-EDU programme: the only education data system it describes is the Annual School Census and its digitisation, with the EMIS strengthened in order to publish it; nothing on per-learner records kept by schools."
+}

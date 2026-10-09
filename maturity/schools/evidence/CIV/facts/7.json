@@ -1,0 +1,64 @@
+{
+  "slug": "2019-01-01-civ-smart-ecole",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The platform's own landing page, published by the vendor EDIATTAH, says SMART ECOLE was designed and developed for the education ministry (MENETFP) by its information systems directorate (DTSI) with technical partners, and is administered and run by the ministry's schools directorate (DELC); the page is undated, so dated to its published year.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "SMART ECOLE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "levels",
+      "value": "P;S",
+      "fact": "The landing page invites pupils of nursery schools, primary schools, lycées and collèges to log in and identify themselves online for school year 2019-2020.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "SMART ECOLE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "enrolment",
+      "fact": "The landing page asks pupils to identify themselves online for school year 2019-2020 and says the platform manages schools from online enrolment through administrative and teaching management to the proclamation of school results, with tools for parents to follow their children; it does not say that schools enter attendance or results during the year.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "SMART ECOLE",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "not-published",
+      "fact": "The landing page presents SMART ECOLE as in service for the 2019-2020 online identification of pupils and gives no number or share of schools using it; the page is undated, so dated to its published year.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "SMART ECOLE",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SMART ECOLE",
+      "country_label": "SMART ECOLE, plateforme intégrée de gestion des Ecoles de Côte d'Ivoire",
+      "class": "emis",
+      "platform": "SMART ECOLE by EDIATTAH Conseils & Solutions; modular, five synchronised modules, with APIs",
+      "owner": "Education ministry (MENETFP): designed by its DTSI with technical partners, administered and run by its DELC",
+      "tiers": "nursery and primary schools, lycées and collèges; teachers, education authorities and parents"
+    },
+    {
+      "system": "Existing school management software",
+      "country_label": "Logiciels de gestion d'Ecoles existants",
+      "class": "",
+      "platform": "",
+      "owner": "not stated",
+      "tiers": "schools; said to synchronise with SMART ECOLE through APIs"
+    }
+  ],
+  "note": "All of this is the vendor's own account on an undated living page (footer 2017, call for 2019-2020 identification). The kept value is set at enrolment because online identification is the only entry the page shows happening; the end-to-end description up to results is stated as what the platform does, not as what schools do."
+}

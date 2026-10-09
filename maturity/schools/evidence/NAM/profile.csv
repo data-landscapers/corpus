@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,emis,governance,qualifier,,,,,nothing held
-NAM,emis,levels,coverage,,,,,nothing held
-NAM,emis,kept,coverage,,,,,nothing held
+NAM,emis,governance,qualifier,owner:ministry,2018-11,NAM-006,,nothing dated since 2023-09-28
+NAM,emis,levels,coverage,P;S,2018-07,NAM-005,,nothing dated since 2023-09-28
+NAM,emis,kept,coverage,routine,2018-08,NAM-004,NAM-007=paper,nothing dated since 2023-09-28
 NAM,emis,last12,qualifier,,,,,nothing held
-NAM,emis,schools,coverage,,,,,nothing held
+NAM,emis,schools,coverage,count:807,2018-11,NAM-003,NAM-002=pilot,nothing dated since 2023-09-28

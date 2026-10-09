@@ -1,0 +1,14 @@
+{
+  "slug": "2025-06-09-tun-ministere-education-communique-inscription-distance-identifiants-uniques",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "A Ministry of Education communiqué of 9 June 2025 presents the remote registration platform and the school-life follow-up system as its own, operated through the services of its regional education delegations.", "as_of": "2025-06-09", "date_precision": "day", "system": "منظومة متابعة الحياة المدرسية (school-life follow-up system)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "levels", "value": "P", "fact": "The ministry's communiqué concerns registration into the first year of basic education for the 2025/26 school year, each child being registered and given a unique identifier.", "as_of": "2025-06-09", "date_precision": "day", "system": "منظومة متابعة الحياة المدرسية (school-life follow-up system)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "enrolment", "fact": "Children entering the first year of basic education in 2025/26 are registered once, by their parents on the remote registration platform or, where that failed, by the regional education delegations in the school-life follow-up system, which issues each a unique identifier; the communiqué describes no entry by the school itself and says children were given identifiers the previous year too.", "as_of": "2025-06-09", "date_precision": "day", "system": "منظومة متابعة الحياة المدرسية (school-life follow-up system)", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "schools", "value": "not-published", "fact": "The ministry's communiqué gives no count or share of schools; the registration system is in service nationally through all regional delegations for the 2025/26 intake.", "as_of": "2025-06-09", "date_precision": "day", "system": "منظومة متابعة الحياة المدرسية (school-life follow-up system)", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "منظومة متابعة الحياة المدرسية (school-life follow-up system)", "country_label": "منظومة متابعة الحياة المدرسية", "class": "emis", "platform": "", "owner": "Ministry of Education (وزارة التربية)", "tiers": "regional education delegations register children in it and issue unique identifiers"},
+    {"system": "منصة التسجيل عن بعد (remote registration platform)", "country_label": "منصّة التسجيل عن بعد", "class": "emis", "platform": "", "owner": "Ministry of Education (وزارة التربية)", "tiers": "parents register their children online for the first year of basic education"}
+  ],
+  "note": "The text layer is garbled Arabic; read as the catalogue line and the legible words allow. The entry described is by parents or the regional delegation, not by the school, which fits none of the kept values exactly: recorded as enrolment, with who keys it stated in the fact."
+}

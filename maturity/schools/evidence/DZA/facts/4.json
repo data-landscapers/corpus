@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-20-dza-education-ministre-bem-2026-numerisation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digitisation of schooling and of administrative and pedagogical management (unnamed)",
+      "country_label": "رقمنة قطاع التربية الوطنية",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "not stated; the minister said on 19 May 2026 that the sector had digitised the various operations of schooling and of administrative and pedagogical management, under the national digital transformation strategy, naming no system and not saying what schools enter"
+    },
+    {
+      "system": "Digital teacher recruitment competition",
+      "country_label": "مسابقة توظيف الأساتذة",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "national; run fully digitally with digital summonses and automatic allocation to centres, more than 1,065,000 candidates for 61,000 posts"
+    }
+  ],
+  "note": "No fact: the ministry release on the BEM 2026 launch says only that schooling and management operations have been digitised; it names no system and describes no per-learner record or school-level entry, so nothing can be classed emis."
+}

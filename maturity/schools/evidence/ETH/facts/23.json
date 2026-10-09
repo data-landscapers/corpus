@@ -1,0 +1,19 @@
+{
+  "slug": "2021-01-01-eth-education-sector-development-programme-vi-esdp-vi-2013-2017-e-c-2020-2",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "The Ministry of Education's ESDP VI gives a baseline of 'None' both for a student database and for a system using digital technology for school information and data on pupils' daily schooling, and 0 for institutions networked for EMIS; the plan gives no date for these baselines, so the publication year 2021 is used.", "as_of": "2021", "date_precision": "year", "system": "Student database and digital application for pupils' daily school data", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "plan:current", "fact": "ESDP VI (2020/21-2024/25) plans a student database, an integrated data system using school, teacher and student identifiers, an individual student tracking system and a digital application for schools to collect and report pupils' daily school data, with a target of 100%; dated to the plan's publication year, 2021.", "as_of": "2021", "date_precision": "year", "system": "Student database and digital application for pupils' daily school data", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "ESDP VI names the Ministry of Education and its EMIS directorate as the source and holder of the planned student database and assigns the regional bureaux and the ministry the planned digital school-data system; dated to the plan's publication year, 2021.", "as_of": "2021", "date_precision": "year", "system": "Student database and digital application for pupils' daily school data", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "Student database and digital application for pupils' daily school data", "country_label": "student database; individual student tracking system", "class": "emis", "platform": "", "owner": "Ministry of Education (EMIS directorate), regional education bureaux", "tiers": "planned for federal, regional, woreda and school levels; none existing at baseline"},
+    {"system": "EMIS / Education Statistics Annual Abstract", "country_label": "EMIS; ESAA", "class": "census", "platform": "data entry software; EMIS tools/questionnaires", "owner": "Ministry of Education (EMIS directorate)", "tiers": "MoE, regional bureaux, woreda and school levels; annual statistical abstract"},
+    {"system": "School Management Information System", "country_label": "SMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "not stated; not integrated with EMIS at baseline"},
+    {"system": "Teacher Management Information System", "country_label": "TMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "not stated; not integrated with EMIS at baseline"},
+    {"system": "Geographical Information System", "country_label": "GIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": "not stated; not integrated with EMIS at baseline"},
+    {"system": "Digital school inspection system", "country_label": "school inspection system", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "planned; inspection data collected on paper so far"},
+    {"system": "Digital licensing system for teachers and school leaders", "country_label": "online licensing", "class": "single-function", "platform": "", "owner": "Ministry of Education", "tiers": "planned; 0 licensed online at baseline"},
+    {"system": "Plasma TV broadcast lessons", "country_label": "Plasma TV", "class": "learning", "platform": "", "owner": "Ministry of Education (CEICT)", "tiers": "62.3% of secondary schools"}
+  ],
+  "note": "Passages file. The existing EMIS is described only as questionnaire-based data collection feeding the annual abstract (census); the per-learner systems are planned, with baselines of none."
+}

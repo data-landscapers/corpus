@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,emis,governance,qualifier,owner:ministry;plan:current,2025-12-23,RWA-010;RWA-012,,not stated: finance
-RWA,emis,levels,coverage,,,,,nothing held
-RWA,emis,kept,coverage,routine,2026-02-11,RWA-006,,
+RWA,emis,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-05-07,RWA-012;RWA-014;RWA-023,RWA-010=owner:ministry;RWA-021=owner:ministry;RWA-022=owner:ministry;RWA-024=plan:current,
+RWA,emis,levels,coverage,P,2024-06-12,RWA-017,,
+RWA,emis,kept,coverage,routine,2026-05-07,RWA-006;RWA-013;RWA-016;RWA-019,,
 RWA,emis,last12,qualifier,advancing,2026-02-11,RWA-008;RWA-009,,
-RWA,emis,schools,coverage,not-published,2026-02-11,RWA-007;RWA-011,,
+RWA,emis,schools,coverage,not-published,2026-05-07,RWA-007;RWA-011;RWA-015;RWA-018;RWA-020,,

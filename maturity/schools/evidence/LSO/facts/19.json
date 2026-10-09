@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-14-lso-request-for-proposal-consultancy-for-capacity-building-for-emis-distri",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National EMIS/DHIS2 platform",
+      "country_label": "national EMIS",
+      "class": "census",
+      "platform": "DHIS2",
+      "owner": "Ministry of Education and Training (national EMIS unit); training funded by GPE-KIX through UNESCO-IICBA",
+      "tiers": "District education offices collect, validate and transmit school-level information into the national EMIS; about 50 district officers from all districts to be trained in data collection, validation, entry, analysis and reporting on the platform by August 2026"
+    }
+  ],
+  "note": "No fact: the document describes district offices collecting and transmitting school-level information into the national EMIS/DHIS2 platform and states no per-learner record and no entry by schools, so the system is class census."
+}

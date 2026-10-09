@@ -1,0 +1,12 @@
+{
+  "slug": "2021-08-10-tgo-togo-vers-la-creation-d-une-plateforme-unique-de-gestion-de-notes-des",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "none", "fact": "Icilome reports that service note 082/MEPSTA/CAB/SG of 2 August 2021 from the minister of primary, secondary and technical education instructs CNDP-TICE to create a single platform for managing pupils' marks for all public and private schools, consultable at every level of the system; the platform is ordered, not built, and no school is said to use it.", "as_of": "2021-08-02", "date_precision": "day", "system": "plateforme unique de gestion de notes", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The minister's service note of 2 August 2021 gives the building of the marks platform to the ministry's own Centre national de documentation pédagogique et des technologies de l'information et de la communication pour l'éducation (CNDP-TICE).", "as_of": "2021-08-02", "date_precision": "day", "system": "plateforme unique de gestion de notes", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "plateforme unique de gestion de notes", "country_label": "plateforme unique de gestion de notes", "class": "emis", "platform": "", "owner": "CNDP-TICE, Ministère des Enseignements primaire, secondaire, technique et de l'Artisanat", "tiers": "intended for all public and private schools; consultable at all levels"},
+    {"system": "yearly centralised list of pupils with final results", "country_label": "", "class": "", "platform": "", "owner": "regional directors of education", "tiers": "all public schools, and private schools through each regional director"}
+  ],
+  "note": "Classed emis on the stated purpose, a record of each pupil's marks; the article says nothing of who would enter them or when. The note names no level beyond all schools under a ministry covering primary and secondary, so no levels fact is taken. The yearly list of pupils with final results is ordered to be centralised with no medium stated."
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "2025-04-01-bfa-programme-d-appui-pour-la-mise-en-uvre-du-plan-sectoriel-de-l-educatio",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "LuxDev's programme sheet says that in 2023 all (100 per cent) of the establishments in the pilot phase of FIUE-BF had moved online enrolment, publication of school results and production of school identity cards off paper; it gives no number of establishments and does not say whether they are primary or secondary.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Fichier identifiant unique des élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "LuxDev's programme sheet says the FIUE-BF pilot establishments handled online enrolment, the publication of school results and school identity cards digitally in 2023, and that 120 census agents were trained for the project that year; it does not say how often results are entered, nor that attendance is recorded.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Fichier identifiant unique des élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "LuxDev's programme sheet lists improving the pilot's results and extending FIUE-BF among the axes of the 2023-2025 extension of programme BKF/025, whose EUR 52.2 million budget is Luxembourg's (46.2 million) and the European Union's (6 million); no domestic budget line for FIUE-BF is given (sheet undated, so dated to its published month).",
+      "as_of": "2025-04",
+      "date_precision": "month",
+      "system": "Fichier identifiant unique des élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "LuxDev's programme sheet gives the education ministry (MENA/PLN) as the institutional anchor of programme BKF/025, under which FIUE-BF runs; it does not name a ministry unit that operates FIUE-BF (sheet undated, so dated to its published month).",
+      "as_of": "2025-04",
+      "date_precision": "month",
+      "system": "Fichier identifiant unique des élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fichier identifiant unique des élèves du Burkina Faso (FIUE-BF)",
+      "country_label": "Fichier identifiant unique des élèves du Burkina Faso (FIUE-BF)",
+      "class": "emis",
+      "platform": "",
+      "owner": "programme anchored in the education ministry (MENA/PLN); financed by Luxembourg and the EU through LuxDev",
+      "tiers": "establishments of the pilot phase; extension planned for 2023-2025"
+    }
+  ],
+  "note": "The sheet calls the 2023 stage a pilot phase and the extension an aim of 2023-2025; it does not report the extension as done. The programme's target population is pre-primary, primary, post-primary and secondary pupils, but the pilot establishments' level is not stated, so no levels fact. The kept value rests on 'publication of school results' being per-learner results; the owner value on the programme's anchoring, not on a statement about FIUE-BF itself."
+}

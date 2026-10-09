@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-01-bfa-appui-au-plan-sectoriel-de-l-education-et-de-la-formation-2017-2030",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "LuxDev's project page says the programme's capacity-building component, financed by Luxembourg (EUR 46.2 million) and the European Union (EUR 6 million), supports tracking each pupil's school career in all cycles through a unique identifier, aiming at an integrated platform; the programme ran 4 May 2018 to 31 December 2025 and is shown as closed (page undated, so dated to its published month).",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Plateforme intégrée de suivi du cursus scolaire des élèves (identifiant unique)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plateforme intégrée de suivi du cursus scolaire des élèves (identifiant unique)",
+      "country_label": "plateforme intégrée de suivi du cursus scolaire des élèves, de la gestion du personnel et des statistiques scolaires",
+      "class": "emis",
+      "platform": "",
+      "owner": "not stated; support is to the education ministry's management of the sector, financed by Luxembourg and the EU through LuxDev",
+      "tiers": "all cycles, as an aim; where it is used is not stated"
+    }
+  ],
+  "note": "The page states an aim (a unique identifier following each pupil through every cycle, and in time an integrated platform also covering staff and school statistics), not a system in use: no level, record-keeping or school count is given. The programme carrying it closed on 31 December 2025, inside the last twelve months; the page does not say what follows, so no last12 fact was drawn."
+}

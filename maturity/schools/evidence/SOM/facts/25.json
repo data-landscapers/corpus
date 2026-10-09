@@ -1,0 +1,72 @@
+{
+  "slug": "2022-05-01-som-education-emergency-response-programme-programme-document",
+  "facts": [
+    {
+      "sub_indicator": "emis",
+      "aspect": "schools",
+      "value": "pilot",
+      "fact": "The Puntland education ministry's programme document of May 2022 states that the Digital Attendance Application, piloted by several education NGOs in Puntland in 2019, is currently being trialled in 42 schools, that state-wide collection of attendance data is not yet in place and that the Puntland EMIS is still under development; it gives Puntland 794 primary schools but does not say what level the 42 are, and the figure is for Puntland State only, not Somalia.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Digital Attendance Application (DAA)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "kept",
+      "value": "routine",
+      "fact": "The Puntland education ministry's programme document of May 2022 states that the Digital Attendance Application collects daily student and teacher attendance on mobile devices, offline where needed, and uploads it to the Puntland EMIS server, giving attendance and drop-out data in real time; head teachers are to be trained to use it on tablets, and it is to track whether each supported child reaches 80% attendance.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Digital Attendance Application (DAA)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Puntland education ministry's programme document of May 2022 puts the roll-out of the Digital Attendance Application to its target schools (tablets, solar chargers, head teacher training) under a US$3.35 million GPE accelerated funding programme running May 2022 to April 2023 with UNICEF as grant agent, and calls the Puntland EMIS it feeds GPE-supported; no domestic funding is stated.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Digital Attendance Application (DAA)",
+      "class": "emis"
+    },
+    {
+      "sub_indicator": "emis",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Puntland education ministry's programme document of May 2022 states that the ministry proposes to expand the Digital Attendance Application, an open-source application first developed by UNICEF in Kenya and adapted and integrated with the ministry's EMIS, and assigns the collection and analysis of its attendance data to the ministry, with roll-out, training and technical support shared with a software company.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "Digital Attendance Application (DAA)",
+      "class": "emis"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Attendance Application (DAA)",
+      "country_label": "Digital Attendance Application; DAA",
+      "class": "emis",
+      "platform": "open-source mobile application first developed by UNICEF in Kenya, on mobile devices and tablets, with a dashboard",
+      "owner": "Puntland Ministry of Education and Higher Education (MoEHE), with a software company; piloted in 2019 by education NGOs",
+      "tiers": "Puntland State only: on trial in 42 schools in May 2022; roll-out planned to about sixty target primary schools in twelve rural drought-affected districts, target 80% of them sending accurate attendance data monthly by April 2023"
+    },
+    {
+      "system": "Puntland EMIS",
+      "country_label": "EMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Puntland Ministry of Education and Higher Education (MoEHE), GPE-supported",
+      "tiers": "Puntland State; described as still under development, with a server the attendance application uploads to; what schools enter in it is not described"
+    },
+    {
+      "system": "Puntland Education Statistics Yearbook",
+      "country_label": "Puntland Education Statistics Yearbook 2020-2021",
+      "class": "census",
+      "platform": "",
+      "owner": "Puntland Ministry of Education and Higher Education (MoEHE)",
+      "tiers": "Puntland State; yearly enrolment, teacher and school counts for primary and secondary"
+    }
+  ],
+  "note": "Read whole. Everything here is Puntland State, not Somalia. The DAA is classed emis because the document has schools entering daily student attendance that uploads to the ministry's EMIS and uses it to track individual supported children; it never says in terms that the record is per learner, so the parent should check against single-function. The document's words are 'piloted' (2019) and 'trialled' (2022), hence pilot. No levels fact: the level of the 42 trial schools is not stated, though the planned roll-out is to primary schools. The EMIS itself is named with no description of what it does. The ministry's teacher database and payments system are mentioned only in passing."
+}

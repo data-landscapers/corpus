@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn",
+  "facts": [
+    {"sub_indicator": "emis", "aspect": "schools", "value": "pilot", "fact": "GPE KIX refers to The Gambia's SEMIS as a pilot, alongside Eswatini's, whose lessons can guide adoption elsewhere, and gives no number of schools; undated in the text, so dated to the blog's publication.", "as_of": "2025-10", "date_precision": "month", "system": "SEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "kept", "value": "routine", "fact": "GPE KIX says the Ministry of Basic and Secondary Education is integrating individual-level data for learners and teachers, with attendance tracking and digital school report cards in use at school level; undated in the text, so dated to the blog's publication.", "as_of": "2025-10", "date_precision": "month", "system": "SEMIS", "class": "emis"},
+    {"sub_indicator": "emis", "aspect": "governance", "value": "owner:ministry", "fact": "The system is the Ministry of Basic and Secondary Education's, run by its EMIS unit, which staffs itself through an EMIS master's programme with the University of The Gambia, per GPE KIX; dated to the blog's publication.", "as_of": "2025-10", "date_precision": "month", "system": "SEMIS", "class": "emis"}
+  ],
+  "systems": [
+    {"system": "SEMIS", "country_label": "EMIS / SEMIS", "class": "emis", "platform": "", "owner": "Ministry of Basic and Secondary Education (EMIS unit)", "tiers": "schools; individual-level data for learners and teachers"},
+    {"system": "School report card", "country_label": "digital school report cards", "class": "", "platform": "", "owner": "Ministry of Basic and Secondary Education", "tiers": "schools and communities"}
+  ],
+  "note": "The exchange it reports was held in Eswatini in February 2025; the Eswatini and Sierra Leone material is not this country's."
+}

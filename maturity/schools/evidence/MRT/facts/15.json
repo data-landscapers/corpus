@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-11-mrt-worldbank-pid-iqraa-p509243",
+  "facts": [],
+  "systems": [
+    {"system": "SIRAGE", "country_label": "SIRAGE (the Education Management Information System, renamed)", "class": "", "platform": "", "owner": "Ministry of Education and Reform of the Education Sector; deployed through the World Bank-financed Basic Education Sector Support Project", "tiers": "not stated; the IQRAA programme is to operationalise it for real-time collection, reporting and analysis of student enrolment, teacher deployment, school infrastructure and learning outcomes, with training for regional and local education officials"}
+  ],
+  "note": "No fact: the concept-stage PID of 11 March 2025 says SIRAGE exists and is to be made operational, and lists the subjects of its data, but not who enters them, how often, or whether a record is kept per learner, so it is unclassified here. It adds that the sector plan PNDSE III, adopted in March 2024, includes operationalising SIRAGE, and that the proposed programme (US$52.53 million, of which US$30 million World Bank lending and US$22.53 million trust funds) would finance it; no count of schools using it is given."
+}

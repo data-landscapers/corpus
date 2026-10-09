@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,emis,governance,qualifier,owner:ministry,2026-03,SYC-002,SYC-004=owner:ministry,"not stated: plan, finance"
+SYC,emis,levels,coverage,,,,,nothing held
+SYC,emis,kept,coverage,routine,2025-10,SYC-003,,
+SYC,emis,last12,qualifier,advancing,2026-03,SYC-001,,
+SYC,emis,schools,coverage,,,,,nothing held

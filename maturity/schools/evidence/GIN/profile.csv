@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,emis,governance,qualifier,owner:ministry;plan:current,2026-02-25,GIN-005;GIN-008,,not stated: finance
-GIN,emis,levels,coverage,P,2026-02-25,GIN-004,,
-GIN,emis,kept,coverage,paper,2021-03,GIN-006,,nothing dated since 2023-10-09
-GIN,emis,last12,qualifier,advancing,2026-02-25,GIN-003,,
-GIN,emis,schools,coverage,none,2021-03,GIN-007,,nothing dated since 2023-10-09
+GIN,emis,governance,qualifier,owner:ministry;plan:current,2026-03-05,GIN-008;GIN-015,GIN-005=owner:ministry,not stated: finance
+GIN,emis,levels,coverage,P;S,2026-03-30,GIN-004;GIN-009;GIN-011,,
+GIN,emis,kept,coverage,enrolment,2026-03-05,GIN-012,GIN-006=paper,
+GIN,emis,last12,qualifier,advancing,2026-03-30,GIN-003;GIN-010;GIN-013,,
+GIN,emis,schools,coverage,none,2021-03,GIN-007,GIN-014=not-published,
