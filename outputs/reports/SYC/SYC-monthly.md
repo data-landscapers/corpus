@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: SYC
 ledger_rows: 9
 not_held: 6
-record: 75d4c1c06afc
+record: 5ac3c9aaa5e1
 ---
 
 # Seychelles: monthly update, September – October 2026
@@ -23,7 +23,7 @@ One new financing arrived: the African Development Bank [approved a USD 34 milli
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds.
+Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds. A [commission of inquiry into the border management service agreement between the state and its border-security supplier opened on 2 September 2026, with former ministers testifying](https://www.nation.sc/articles/32161/former-ministers-detail-early-border-system-options-before-travizory); the supplier's system runs the country's digital border control, including the electronic travel authorisation.
 <!-- /narrative -->
 ### Data protection
 

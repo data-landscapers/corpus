@@ -1,11 +1,11 @@
 ---
 title: North Africa — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: XNA
 ledger_rows: 4
 not_held: 0
-record: 937e48a090e4
+record: 0d4ddd806ad6
 ---
 
 # North Africa: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The Arab Cybersecurity Ministers Council [briefed Arab permanent representatives
 ### Regional collaboration
 
 <!-- narrative: institutions--gov-regional -->
-The Arab League's education and science organisation [published its Charter on the Ethics of Artificial Intelligence in English](https://n.alecso.org/fr/n/216-l-alecso-publie-la-version-anglaise-de-sa-charte-sur-l-ethique-de-l-intelligence-artificielle-2), a non-binding text drafted with member-state experts.
+The Arab League's education and science organisation [published its Charter on the Ethics of Artificial Intelligence in English](https://n.alecso.org/fr/n/216-l-alecso-publie-la-version-anglaise-de-sa-charte-sur-l-ethique-de-l-intelligence-artificielle-2), a non-binding text drafted with member-state experts. A [regional artificial-intelligence summit opened at Yasmine Hammamet, Tunisia, on 9 September 2026](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/), organised by the Arab information and communication technologies organisation with Tunisia's communication technologies ministry.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
