@@ -1,12 +1,12 @@
 ---
 title: Uganda: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: UGA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 233
+sources_cited: 234
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -239,7 +239,7 @@ Two systems sit at the extremes. [The Parish Development Model Information Syste
 
 What a citizen can actually do online is narrower than the count of systems suggests, and the best of it is old. [The Driver Licensing System has authenticated applicants against NIRA and taken payment through the revenue authority since 2020, cutting licence issuance to under thirty minutes](https://dial.global/in-uganda-digitalization-has-fostered-easy-and-efficient-permit-registration-heres-what-it-means-for-people/); [UGPass provides national authentication and electronic signatures for government portals, with a national ID required to onboard](https://www.nita.go.ug/services/e-government-services/digital-authentication-and-electronic-signatures-solutions-ugpass); [electronic filing across the courts has been mandatory under Statutory Instrument 21 of 2025, through the Electronic Court Case Management Information System approved by the Chief Justice](https://ulii.org/akn/ug/act/si/2025/21/eng@2025-03-07/publication), though [the Uganda Law Society contests the access guidelines attached to it as incompatible with open justice (July 2026)](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/).
 
-Where the state cannot deliver a portal it is delivering a counter. [Nineteen Service Uganda Centres are being opened as one-stop shops, of which six were operational at July 2026 — Entebbe, Kasese, Jinja, Arua, Hoima and the ministry's own headquarters](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) — [each consolidating national ID verification, tax registration, business registration, passports and driving permits under one roof](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations). On the supply side, [the electronic government procurement system now reaches 136 public entities, 36 live and 100 in training (August 2026)](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and [the ICT ministry has called for locally built prototype government systems spanning tax, land, hospital records, employment and digital identity](https://www.newvision.co.ug/category/business/govt-turns-to-local-innovators-to-build-state-NV_233939_062026). The underlying constraint is visible in the UN's own numbers: [Uganda's online service index stands at 0.6069 and its human capital index at 0.5023, against a telecommunication infrastructure index of 0.2299 (2024)](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2024).
+Where the state cannot deliver a portal it is delivering a counter. [Nineteen Service Uganda Centres are being opened as one-stop shops, of which six were operational at July 2026 — Entebbe, Kasese, Jinja, Arua, Hoima and the ministry's own headquarters](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) — [each consolidating national ID verification, tax registration, business registration, passports and driving permits under one roof](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations). On the supply side, [the electronic government procurement system now reaches 136 public entities, 36 live and 100 in training (August 2026)](https://www.newvision.co.ug/category/business/accounting-officers-trained-as-uganda-expands-NV_238165_082026), and [the ICT ministry has called for locally built prototype government systems spanning tax, land, hospital records, employment and digital identity](https://www.newvision.co.ug/category/business/govt-turns-to-local-innovators-to-build-state-NV_233939_062026). The underlying constraint is visible in the UN's own numbers: [Uganda's online service index stands at 0.6069 and its human capital index at 0.5023, against a telecommunication infrastructure index of 0.2299 (2024)](https://publicadministration.un.org/egovkb/en-us/reports/un-e-government-survey-2024). The government printer [made the electronic Uganda Gazette free to the public, with the gazette digitised back to 1902](https://uppc.go.ug/news/uppc-opens-free-digital-access-uganda-gazette) (2026).
 
 ## Digitalisation
 

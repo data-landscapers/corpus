@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 186
+sources_cited: 188
 sections_written: 39
 not_established: 1
 acquire_lines: 67
@@ -199,7 +199,7 @@ The rails are now largely built. [EthSwitch launched EthioPay-IPS, the national 
 
 Competition has not dislodged the incumbent. [M-PESA Ethiopia reported 2.58 million 30-day active customers and 89,877 merchants in the quarter to 30 June 2026](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and [accounts for roughly 2 per cent of Safaricom Ethiopia's service revenue against 45.6 per cent in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles). Mobile money is thin margin on both sides: [Telebirr generated 3.6 per cent of Ethio Telecom's revenue in 2025/26 despite being its largest platform by customers](https://www.thereporterethiopia.com/52133/).
 
-Regulation is restrictive. [The National Bank confirmed on 23 July 2026 that its prohibition covers the whole category of virtual assets, not only cryptocurrencies, by clarification of existing rules rather than new regulation and with no enforcement mechanism announced](https://www.thereporterethiopia.com/51969/). [Revenue authorities froze and swept the accounts of the payment gateways Arifpay, Chapa and Santimpay in May 2026 over disputed tax claims](https://www.thereporterethiopia.com/52044/), in a gateway sector where [online sports betting accounts for almost all volume](https://www.thereporterethiopia.com/52044/) (2025). Government-to-person payments are meanwhile shifting to electronic transfer across [safety-net programmes reaching more than 9 million people](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) (March 2024).
+Regulation is restrictive. [The National Bank confirmed on 23 July 2026 that its prohibition covers the whole category of virtual assets, not only cryptocurrencies, by clarification of existing rules rather than new regulation and with no enforcement mechanism announced](https://www.thereporterethiopia.com/51969/). [Revenue authorities froze and swept the accounts of the payment gateways Arifpay, Chapa and Santimpay in May 2026 over disputed tax claims](https://www.thereporterethiopia.com/52044/), in a gateway sector where [online sports betting accounts for almost all volume](https://www.thereporterethiopia.com/52044/) (2025). Government-to-person payments are meanwhile shifting to electronic transfer across [safety-net programmes reaching more than 9 million people](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) (March 2024). A licensed payment-system operator and an international card scheme [signed a framework agreement to roll out 148,000 contactless acceptance devices to merchants, certified as tax cash registers](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/). Ethiopia joined the pan-African payment and settlement system as its 31st member, and [non-bank wallets and payment providers are preparing to connect, each needing a central bank no-objection letter first](https://capitalethiopia.com/2026/10/04/mobile-money-wallets-set-to-link-with-papss-opening-access-to-african-markets/) (2026).
 
 ### Registries
 <!-- dpi.registry -->

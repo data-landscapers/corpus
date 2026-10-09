@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -231,7 +231,7 @@ Delivery of the services themselves is thinner. [The Gambia scored 0.2552 on the
 
 Where services have been digitised they are single-agency. [Business registration runs online through the Single Window Registry](https://easybusiness.gov.gm/); [customs runs a full digital stack](https://www.gra.gm/news/26fd4242-17b6-11f1-b086-029254d29bb1) while [domestic tax administration remained largely manual as at June 2026](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/); [UNDP sought consultants in March 2025 for a feasibility study and implementation of a digital case management system for the justice ministry](https://moj.gov.gm/consultancy-for-feasibility-study-and-implementation-of-a-digital-case-management-system/); and [no land information system is in operation, an assessment having been conducted to evaluate structures for one](https://op.gov.gm/sites/default/files/2026-03/Final%20SONA%202026.pdf) (March 2026), and [in September 2026 the lands minister told the National Assembly that contracts for World Bank-supported land digitalisation had been awarded](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). [Marriage registration runs through its own registry at the Ministry of Justice](https://www.moj.gm/marriage-registry).
 
-The institutional machinery is being assembled ahead of the services. [A National Digital Addressing Steering Committee was launched in October 2025](https://techafricanews.com/2025/10/13/the-gambia-takes-major-step-toward-a-fully-digital-nation-with-launch-of-ndasc/), [a National Enterprise Architecture framework was validated under the GovStack initiative with ITU support in May 2026](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative), and the Ministry of Information runs [Factguard, a national misinformation and disinformation response centre that takes public submissions through a free hotline and has them checked by trained human analysts against stated evidence](https://factguard.gov.gm/).
+The institutional machinery is being assembled ahead of the services. [A National Digital Addressing Steering Committee was launched in October 2025](https://techafricanews.com/2025/10/13/the-gambia-takes-major-step-toward-a-fully-digital-nation-with-launch-of-ndasc/), [a National Enterprise Architecture framework was validated under the GovStack initiative with ITU support in May 2026](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative), and the Ministry of Information runs [Factguard, a national misinformation and disinformation response centre that takes public submissions through a free hotline and has them checked by trained human analysts against stated evidence](https://factguard.gov.gm/). The government [began issuing a biometric driving licence valid for three years, replacing annual renewal](https://foroyaa.net/gambia-begins-rollout-of-new-three-year-driving-licence/) (2026).
 
 ## Digitalisation
 

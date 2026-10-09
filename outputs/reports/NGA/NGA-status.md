@@ -1,12 +1,12 @@
 ---
 title: Nigeria: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 282
+sources_cited: 283
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -167,7 +167,7 @@ The number now gates ordinary life. [A functional identity number is required fo
 
 The route back is narrower than the route in: [corrections to a record run through a device-locked smartphone portal in a country where 72% of adults have no smartphone, pushing people into paid workarounds](https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/) (March 2026). Over the same decade the register grew, [Nigerians' own rating of how easy it is to obtain an identity document fell steeply, one of the country's ten most deteriorated governance indicators and 34th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf) (2023).
 
-Outward, the credential travels further than it did. Nigeria [began issuing the ECOWAS biometric identity card on 28 November 2025, anchored on facial and fingerprint biometrics and valid for travel across the bloc without a passport](https://platform.keesingtechnologies.com/nigeria-rolls-out-ecowas-national-biometric-id-card/), and [completed integration with the ICAO Public Key Directory in July 2026, moving its passports from machine-readable to cryptographically verifiable at any member state's border](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport). [A presidential directive orders every ministry, department and agency to adopt the commission's authentication service as its default identity check, on a technology outlet's account of October 2026](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/).
+Outward, the credential travels further than it did. Nigeria [began issuing the ECOWAS biometric identity card on 28 November 2025, anchored on facial and fingerprint biometrics and valid for travel across the bloc without a passport](https://platform.keesingtechnologies.com/nigeria-rolls-out-ecowas-national-biometric-id-card/), and [completed integration with the ICAO Public Key Directory in July 2026, moving its passports from machine-readable to cryptographically verifiable at any member state's border](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport). [A presidential directive orders every ministry, department and agency to adopt the commission's authentication service as its default identity check, on a technology outlet's account of October 2026](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/) (2026).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

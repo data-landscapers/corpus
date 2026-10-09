@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 138
+sources_cited: 139
 sections_written: 39
 not_established: 4
 acquire_lines: 38
@@ -197,7 +197,7 @@ The business register is the oldest of the functional registers and the most use
 
 The [Unified Social Registry is operational and used to target beneficiaries of the Baxnaano cash-transfer programme, combining a proxy means test with district distress ratings — a composite of food insecurity, malnutrition and rural concentration — for geographic targeting](https://documents1.worldbank.org/curated/en/099091225094544977/pdf/P171346-464b2c0e-d5b8-4fa1-8de9-4d3ad770e905.pdf) (September 2025), and [linking it to the national identification system is planned but not yet operational](https://reliefweb.int/attachments/57fd1c05-6b3f-4612-b5d3-9c3ebe7ad1f5/REVISED%20Somalia%20HCT%20Policy%20on%20Registration%20Targeting%20Data%20Sharing%20and%20Referrals_Oct%202025.pdf) (October 2025). The Somalia Revenue Directorate [operates a digital tax administration covering both individual income taxpayers and corporate taxpayers, alongside the Somali Customs Automated System](https://www.revenuedirectorate.gov.so/rules-and-regulations) (2025).
 
-Land is the register that does not exist. [Somalia has no unified national digital land or title register: administration is split across customary Xeer, Sharia and secular traditions, land records have been lost and destroyed, and what exists is municipal — Garowe and Bosaso register ownership and transfers locally, and UN-Habitat has built GIS databases for tax collection in Hargeisa, Boroma, Berbera, Garowe and Gardo, the largest of them carrying no ownership information](https://arablandinitiative.gltn.net/sites/default/files/2024-12/docs/somalia-land-sector-snapshot.pdf) (December 2024).
+Land is the register that does not exist. [Somalia has no unified national digital land or title register: administration is split across customary Xeer, Sharia and secular traditions, land records have been lost and destroyed, and what exists is municipal — Garowe and Bosaso register ownership and transfers locally, and UN-Habitat has built GIS databases for tax collection in Hargeisa, Boroma, Berbera, Garowe and Gardo, the largest of them carrying no ownership information](https://arablandinitiative.gltn.net/sites/default/files/2024-12/docs/somalia-land-sector-snapshot.pdf) (December 2024). The migration agency, the federal government and the Netherlands [launched a programme that will support civil registration and legal identity systems and expand registration in underserved areas](https://www.dawan.africa/news/iom-somalia-and-netherlands-launch-migration-management-programme) (2026).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

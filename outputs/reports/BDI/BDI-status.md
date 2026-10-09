@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 234
+sources_cited: 235
 sections_written: 39
 not_established: 2
 acquire_lines: 44
@@ -248,7 +248,7 @@ Beyond tax the estate is thin. [The immigration authority has run an online port
 Ambition sits in policy. The [master plan for the digitalisation of public services 2023-2033](https://primature.gov.bi/wp-content/uploads/2026/06/PLAN-DIRECTEUR-DE-DIGITALISATION-2023-2033.pdf) is the standing instrument; the prime minister [instructed every ministry on 3 July 2026 to produce its own implementation document for the Vision 2040/2060, with digitalisation and e-government among the first priority programmes](https://primature.gov.bi/la-primature-oriente-les-ministeres-pour-accelerer-la-mise-en-oeuvre-de-la-vision-burundi-emergent-en-2040-et-developpe-en-2060/); and a [UNDP review in July 2026 found Burundian public data largely under-used and not yet fit for advanced analytical use](https://www.undp.org/sites/g/files/zskgke326/files/2026-07/undp-reading-ai-readiness-backwards.pdf).
 
 <!-- derived -->
-The government service platforms on record as operating belong to the revenue authority.
+The government service platforms on record as operating belong to the revenue authority. The presidency [adopted a locally built messaging application as a channel for citizens' grievances, with no terms disclosed and no rule stated on control of the servers](https://www.connectingafrica.com/social-technology/burundi-opts-for-a-local-app-for-presidency-citizen-interactions) (2026).
 
 ## Digitalisation
 

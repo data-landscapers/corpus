@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 224
+sources_cited: 225
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -210,7 +210,7 @@ Business registration is joined up by design: [registration at the companies reg
 <!-- derived -->
 Formal business registration reaches under a fifth of the economic units the country counts.
 
-[The social registry had recorded more than 1.45 million households, covering 8.8 million individuals, by August 2025](https://filetsociaux-ci.org/elaboration-et-validation-des-indicateurs-du-registre-social-unique-des-menages-pauvres-et-vulnerables-rsu/) against [a target of more than 2 million over 2021-2025](https://solidarite.gouv.ci/actualite/actudetail/plus-de-2-millions-de-mnages-pauvres-et-vulnrables-cibls-par-le-registre-social-unique-pour-la-priode-2021-2025298), and [a convention signed in April 2026 is to interconnect it with the population register for unique identification and de-duplication](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/). Other registers stand alone: [an online list of invalidated driving licences that police can query at roadside checks since July 2025](https://digitalmag.ci/cote-divoire-une-base-de-donnees-en-ligne-pour-verifier-la-validite-des-permis-de-conduire/), [an online mining cadastre](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-e-mining-portal-to-improve-transparency-and-investment), and [civil status certificates requestable online through MonActe](https://monacte.informaticien.ci) over records that are [still largely paper, a pilot having digitised 200,000 at Grand-Bassam in 2024](https://www.semlex.com/en/2024/04/16/numerisation-des-registres-detat-civil/).
+[The social registry had recorded more than 1.45 million households, covering 8.8 million individuals, by August 2025](https://filetsociaux-ci.org/elaboration-et-validation-des-indicateurs-du-registre-social-unique-des-menages-pauvres-et-vulnerables-rsu/) against [a target of more than 2 million over 2021-2025](https://solidarite.gouv.ci/actualite/actudetail/plus-de-2-millions-de-mnages-pauvres-et-vulnrables-cibls-par-le-registre-social-unique-pour-la-priode-2021-2025298), and [a convention signed in April 2026 is to interconnect it with the population register for unique identification and de-duplication](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/). Other registers stand alone: [an online list of invalidated driving licences that police can query at roadside checks since July 2025](https://digitalmag.ci/cote-divoire-une-base-de-donnees-en-ligne-pour-verifier-la-validite-des-permis-de-conduire/), [an online mining cadastre](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-e-mining-portal-to-improve-transparency-and-investment), and [civil status certificates requestable online through MonActe](https://monacte.informaticien.ci) over records that are [still largely paper, a pilot having digitised 200,000 at Grand-Bassam in 2024](https://www.semlex.com/en/2024/04/16/numerisation-des-registres-detat-civil/). The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

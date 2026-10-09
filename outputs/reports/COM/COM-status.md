@@ -1,12 +1,12 @@
 ---
 title: Comoros: status report
-compiled: 2026-09-25
+compiled: 2026-10-09
 place: COM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 152
+sources_cited: 153
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -49,7 +49,7 @@ Practice has run a decade behind the text. Comorian biometric records sat offsho
 
 Membership has not translated into integration. [Comoros's Regional Integration score in the Ibrahim Index fell 5.5 points over 2014-2023 to 39.0 out of 100, 34th of 54 African states, despite membership of COMESA, CEN-SAD and SADC](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-km.pdf).
 
-Payments are where the joining-up is being attempted. [The Banque Centrale des Comores signed the Pan-African Payment and Settlement System membership agreement in July 2024 and gathered commercial-bank and microfinance heads for a workshop that August](https://www.afreximbank.com/central-bank-of-comoros-commencement-of-activities-for-the-implementation-of-papss-in-comoros/), though [the system's June 2026 coverage map still marks Comoros as live soon rather than live](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf). On the regulatory side, [the press regulator CNPA and the ministry for gender, solidarity and information organised the international EMICn colloquium in Moroni for 5 and 6 May 2026 with RIARC, with algorithmic manipulation among its media-literacy themes and a Déclaration de Moroni as its intended outcome](https://www.cnpa-comores.org/cnpa-comores-org-emicn-colloque-moroni-2026/).
+Payments are where the joining-up is being attempted. [The Banque Centrale des Comores signed the Pan-African Payment and Settlement System membership agreement in July 2024 and gathered commercial-bank and microfinance heads for a workshop that August](https://www.afreximbank.com/central-bank-of-comoros-commencement-of-activities-for-the-implementation-of-papss-in-comoros/), though [the system's June 2026 coverage map still marks Comoros as live soon rather than live](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf). On the regulatory side, [the press regulator CNPA and the ministry for gender, solidarity and information organised the international EMICn colloquium in Moroni for 5 and 6 May 2026 with RIARC, with algorithmic manipulation among its media-literacy themes and a Déclaration de Moroni as its intended outcome](https://www.cnpa-comores.org/cnpa-comores-org-emicn-colloque-moroni-2026/). Bahrain's e-government authority [held its first knowledge-exchange session with the Comorian digital agency, on the governance and approval of government technology projects](https://www.iga.gov.bh/en/article/iga-holds-the-first-digital-government-knowledge-exchange-session-with-comoros) (2026).
 
 ### Standards
 <!-- gov.standards -->

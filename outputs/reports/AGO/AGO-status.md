@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-10-07
+compiled: 2026-10-09
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 271
+sources_cited: 272
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -33,7 +33,7 @@ The cybersecurity statute is law: it [was published as Lei n.º 9/26 of 28 Septe
 
 The electronic-signature regime will arrive as an executive instrument. Angola [has no dedicated legal regime for electronic signatures, digital certification or public key infrastructure](https://angop.ao/noticias/politica/secretario-de-estado-reafirma-importancia-da-transformacao-digital/), and the National Assembly [approved on 30 July 2026, unanimously with 166 votes in favour, the President's request for legislative authorisation to legislate it](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/); the [authorisation runs for 90 days from publication of the authorising law](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/).
 
-Three further texts are in the pipeline and none is law. [A complete draft artificial-intelligence law went out for public consultation in September 2025](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf); it [singles out one class of system, "IA Crítica", for additional duties, leaves the competent authority to a future regulation, and repeals nothing](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf). [A digital government law entered public consultation on 6 May 2026](https://angop.ao/noticias/economia/especialista-defende-fim-da-dispersao-legislativa-no-sector-tecnologico-em-angola/), and [a bill setting the legal regime for collecting and processing identity-card and criminal-record data was cleared by the Council of Ministers for the Assembly on 29 April 2026](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/). What binds meanwhile is [Law 23/11 on electronic communications, 7/17 on network and computer systems protection, 2/20 on video-surveillance, 11/20 on cellular location and electronic surveillance, and the Criminal Code 38/20](https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/angola).
+Three further texts are in the pipeline and none is law. [A complete draft artificial-intelligence law went out for public consultation in September 2025](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf); it [singles out one class of system, "IA Crítica", for additional duties, leaves the competent authority to a future regulation, and repeals nothing](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf). [A digital government law entered public consultation on 6 May 2026](https://angop.ao/noticias/economia/especialista-defende-fim-da-dispersao-legislativa-no-sector-tecnologico-em-angola/), and [a bill setting the legal regime for collecting and processing identity-card and criminal-record data was cleared by the Council of Ministers for the Assembly on 29 April 2026](https://angop.ao/noticias/economia/estado-angolano-encaixa-receitas-de-9-36-bilioes-de-kwanzas-para-oge-2026/). What binds meanwhile is [Law 23/11 on electronic communications, 7/17 on network and computer systems protection, 2/20 on video-surveillance, 11/20 on cellular location and electronic surveillance, and the Criminal Code 38/20](https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/angola). The authorisation became [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026, giving the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/).
 
 ### Data protection
 <!-- gov.protect -->

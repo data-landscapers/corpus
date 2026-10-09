@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-04
+compiled: 2026-10-09
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 208
+sources_cited: 209
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -209,7 +209,7 @@ The single portal is being filled in service by service. The Department of E-Gov
 <!-- derived -->
 Across the 149 GovTech Maturity Index fields recorded for Malawi in 2025, 76 report the item as absent and a further 20 as not assessed, leaving 53 that record something in place — so roughly two-thirds of what the index looks for either is not there or could not be established.
 
-Some of the absences are basic: there is [neither an online social protection or benefits portal nor a government jobs and employment portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [no government citizen participation platform or feedback and grievance channel at all](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Where services have gone online they are narrow and recent: a [2024 e-court pilot links a small number of court, prison and police sites for remote bail hearings](https://www.judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf) rather than digitising case capture at rural stations, and a [real-time constituency development fund dashboard was launched on 31 July 2026](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/). The passport service shows the pattern in miniature: [printing resumed in Mangochi with SMS notification, an online portal and WhatsApp integration all deferred until the new system stabilises](https://malawi24.com/2026/07/21/mp-demands-passport-queue-reform/) (July 2026).
+Some of the absences are basic: there is [neither an online social protection or benefits portal nor a government jobs and employment portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [no government citizen participation platform or feedback and grievance channel at all](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Where services have gone online they are narrow and recent: a [2024 e-court pilot links a small number of court, prison and police sites for remote bail hearings](https://www.judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf) rather than digitising case capture at rural stations, and a [real-time constituency development fund dashboard was launched on 31 July 2026](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/). The passport service shows the pattern in miniature: [printing resumed in Mangochi with SMS notification, an online portal and WhatsApp integration all deferred until the new system stabilises](https://malawi24.com/2026/07/21/mp-demands-passport-queue-reform/) (July 2026). The procurement authority reported [7,417 suppliers registered and 216 of 250 targeted procurement plans published on the e-procurement system at 5 October 2026](https://www.ppda.mw/newsdetail/89).
 
 ## Digitalisation
 

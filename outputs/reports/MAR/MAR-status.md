@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 195
+sources_cited: 196
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -131,7 +131,7 @@ The estate is small. [The most recent measurement by the Moroccan state puts tot
 Government hosting is the gap. Morocco has [a national data centre in operation and a Cloud First policy under Digital Morocco 2030](https://northafricapost.com/92626-moroccos-cloud-first-policy-transforms-digital-governance-and-economic-strategy.html), but the World Bank records [a cloud strategy with no government cloud platform yet in operation (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The finance ministry's main data centre was certified Tier III Facility by the Uptime Institute in February 2025, which the ministry states is a first for the public administration](https://www.lavieeco.com/argent/public/certification-tier-iii-facility-pour-le-datacenter-du-ministere-des-finances/). The rest is announcement: [the ministry gives the Nexus AI Factory's first phase as 16 MW](https://www.mmsp.gov.ma/fr/actualites/nexus-core-systems-lance-au-maroc-une-%C2%AB-ai-factory-plateform%C2%BB), and [the planned 50 MW sovereign data centre at Rabat has no cost, date or financing established by the ministry itself](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv). Its [July 2026 memorandum with Vertiv carries no sum, committing only to expertise, technical studies and the identification of structuring projects](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv), and [the minister held separate talks the same day with N+One Datacenters and Cybastion](https://www.developingtelecoms.com/telecom-technology/data-centres-networks/20608-vertiv-signs-mou-with-morocco-to-develop-sovereign-digital-infrastructure.html): sovereign compute is being assembled as concurrent bilateral vendor relationships, not one procurement.
 
 <!-- derived -->
-Taken together, the sovereign capacity announced since October 2025 would come to well over half the entire national estate as the state last measured it.
+Taken together, the sovereign capacity announced since October 2025 would come to well over half the entire national estate as the state last measured it. A British firm announced [its appointment to lead design management and procurement strategy for the platform's planned 20 MW facility near Casablanca](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco) (2026).
 
 ### Energy
 <!-- infra.energy -->

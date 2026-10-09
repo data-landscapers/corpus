@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 148
+sources_cited: 149
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -349,7 +349,7 @@ Earth observation in Libya is used at sector level and not much beyond it. The [
 
 The most recent American step into Libyan telecoms is a memorandum rather than a build: [LPTIC, the state telecoms holding company, and the US engineering firm KBR signed one in January 2026](https://libyaherald.com/2026/01/libyan-telecoms-holding-co-signs-mou-with-us-company-kbr-to-develop-infrastructure-and-5g-networks) covering network and data-centre infrastructure.
 
-The other American involvement is in energy, and it comes through aid: [USAID supported the Renewable Energy Authority's National Strategy for Renewable Energy and Energy Efficiency 2023-2035](https://www.reaol.gov.ly/en/strategy/), launched in December 2023 alongside a "Go Green" initiative targeting 500MW of distributed rooftop photovoltaic capacity across residential, public, agricultural and industrial buildings.
+The other American involvement is in energy, and it comes through aid: [USAID supported the Renewable Energy Authority's National Strategy for Renewable Energy and Energy Efficiency 2023-2035](https://www.reaol.gov.ly/en/strategy/), launched in December 2023 alongside a "Go Green" initiative targeting 500MW of distributed rooftop photovoltaic capacity across residential, public, agricultural and industrial buildings. The communications authority and the United States State Department [signed a strategic cooperation framework covering digital infrastructure, artificial intelligence, data centres, cybersecurity and satellite communications](https://lana.gov.ly/post.php?id=367155&lang=en) (2026).
 
 ### China activities
 <!-- geopol.china -->

@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 159
+sources_cited: 160
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -20,7 +20,7 @@ acquire_lines: 37
 
 Newer commitments arrive through the budget rather than through strategy. [The "zéro cash, zéro papier" mandate sits under the Public Finance Reform Strategy 2022-2027, justified by revenue security, spending control and traceability](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/), and [the 2027 orientations restate it with a new start date, with no cost, no phasing and no named implementing agency](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) (August 2026). [The national biometric registry is presented by the authorities as an instrument of Tchad Connexion 2030](https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability) (March 2026), and [the government frames digital regulation as sovereignty, its then-minister for digital economy stating in December 2025 that "in the digital age, a country that does not control its data does not control its destiny"](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards).
 
-The administration these plans have to work through is thin and getting thinner. [Chad scores 34.8 out of 100 for overall governance in the 2024 Ibrahim Index of African Governance, 47th of 54 African states and 14.5 points below the African average](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf) (2023), [scoring above that average on only 15 of the index's 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf). Within its best-scoring economic sub-category, [Effective Administration — the professionalism and reach of the bureaucracy — fell 3.5 points to 30.8, 47th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf).
+The administration these plans have to work through is thin and getting thinner. [Chad scores 34.8 out of 100 for overall governance in the 2024 Ibrahim Index of African Governance, 47th of 54 African states and 14.5 points below the African average](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf) (2023), [scoring above that average on only 15 of the index's 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf). Within its best-scoring economic sub-category, [Effective Administration — the professionalism and reach of the bureaucracy — fell 3.5 points to 30.8, 47th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf). The ministry and the United Nations regional commission [validated the national data governance strategy at a workshop in N'Djamena, on seven pillars](https://www.uneca.org/stories/chad-validates-national-data-governance-strategy%2C-marking-a-key-milestone-in-its-digital) (2026).
 
 ### Legislation and regulation
 <!-- gov.legislate -->

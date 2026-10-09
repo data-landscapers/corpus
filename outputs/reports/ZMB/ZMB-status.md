@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 160
+sources_cited: 164
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -46,7 +46,7 @@ Interception itself is court-gated. [A law enforcement officer applies ex parte 
 
 That silence is being tested: [civil-society organisations asked the Commissioner in July 2026 to examine the source of the contact list behind an alleged bulk-SMS campaign to social cash transfer beneficiaries, and ZICTA to trace the messaging channel](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/). For the refugee register transfer, [the project's own assessment names data privacy in capturing refugees' biometric data, where a breach of confidentiality could leave some at risk of exclusion](https://documents1.worldbank.org/curated/en/099121924211538677/pdf/P5039411b2fdc103f1ad10144419f4a87d5.pdf) (December 2024).
 
-[Digital freedom is Zambia's ninth most improved Ibrahim Index indicator, up 19.7 points over 2014-2023 to 76.4 out of 100 and 14th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — a measure of online censorship, interference with online content and users' rights, whose 2023 data year precedes the 2025 Acts.
+[Digital freedom is Zambia's ninth most improved Ibrahim Index indicator, up 19.7 points over 2014-2023 to 76.4 out of 100 and 14th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) — a measure of online censorship, interference with online content and users' rights, whose 2023 data year precedes the 2025 Acts. The technology ministry's permanent secretary said [the country is implementing a national child online protection strategy for 2025 to 2029](https://www.unicef.org/zambia/press-releases/zambia-launches-child-justice-week-2026-call-strengthen-protection-children-digital).
 
 ### Regional collaboration
 <!-- gov.regional -->
@@ -236,7 +236,7 @@ The past two years have added particular transactions rather than a general capa
 <!-- derived -->
 Five of the seven citizen-facing channels the GovTech Maturity Index tracks are running — the national service portal, the tax portal, the social protection portal, the e-participation platform and the feedback and grievance platform. Two are absent: a government jobs portal and an open data portal (2025).
 
-Zambia ranked [130th of 193 states on the UN e-government index in 2024, scoring 0.5424, with online services the weaker half of that score at 0.4858](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive). [The national services portal carried 572 services across 52 providers at 30 September 2026, on the finance minister's account](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m); [the information ministry launched an integrated media reporting system](https://www.lusakatimes.com/2026/09/25/govt-launches-integrated-media-reporting-system/), and [a portal for the public service funeral scheme was due to roll out in the first week of October 2026](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/).
+Zambia ranked [130th of 193 states on the UN e-government index in 2024, scoring 0.5424, with online services the weaker half of that score at 0.4858](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive). [The national services portal carried 572 services across 52 providers at 30 September 2026, on the finance minister's account](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m); [the information ministry launched an integrated media reporting system](https://www.lusakatimes.com/2026/09/25/govt-launches-integrated-media-reporting-system/), and [a portal for the public service funeral scheme was due to roll out in the first week of October 2026](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/). The meteorological department and the agriculture ministry [are building a national digital climate advisory service that sends farmers localised forecast and agronomic advice by text message](https://tomorrownow.org/how-zambia-is-building-a-digital-climate-advisory-service-its-farmers-can-act-on/) (2026).
 
 ## Digitalisation
 
@@ -373,7 +373,7 @@ A national spatial data infrastructure portal, the ZNSDI GeoPortal, is [to map r
 
 No American-financed digital infrastructure or hyperscaler facility was on Zambia's books as at August 2026, and the most visible US intervention of the past year ran the other way: in April 2025 the US Embassy in Lusaka [issued a security alert to its own citizens](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/) warning that Zambia's new cyber law required the interception and surveillance of electronic communications in the country. Zambia's Minister of Home Affairs and Internal Security, Jack Mwiimbu, [rejected that reading](https://diggers.news/local/2025/04/18/us-warns-its-citizens-over-new-surveillance-law-in-zambia/), saying the laws are meant to protect citizens.
 
-Where the United States does enter Zambia's own digital plans, it is as a constraint to be cleared rather than a partner supplying anything: the target of a national digital ID by the end of 2026 has been [argued for domestically as a route off a US blacklist](https://diggers.news/local/2025/12/25/zambia-to-have-digital-ids-by-end-of-2026/) (December 2025). A five-year health memorandum with the United States, reported shelved in May 2026 over its data terms, was back by October: [the health minister said on 6 October 2026 that it was finalised and due for signature, after the obligation to share specimens was removed and the terms on health data revised](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/).
+Where the United States does enter Zambia's own digital plans, it is as a constraint to be cleared rather than a partner supplying anything: the target of a national digital ID by the end of 2026 has been [argued for domestically as a route off a US blacklist](https://diggers.news/local/2025/12/25/zambia-to-have-digital-ids-by-end-of-2026/) (December 2025). A five-year health memorandum with the United States, reported shelved in May 2026 over its data terms, was back by October: [the health minister said on 6 October 2026 that it was finalised and due for signature, after the obligation to share specimens was removed and the terms on health data revised](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/). Zambia and the United States [signed the five-year health financing memorandum, put at US$2.49bn, after the specimen-sharing and patient-data clauses were removed](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms). A Zambian outlet reported [a data sharing agreement signed beside the health memorandum, limited to aggregated and de-identified programme data](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership).
 
 ### China activities
 <!-- geopol.china -->

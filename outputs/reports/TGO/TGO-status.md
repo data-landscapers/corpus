@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 205
+sources_cited: 206
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -250,7 +250,7 @@ Four of the six of those systems whose software type is recorded — financial m
 
 Delivery is by ministry rather than by service: [the administration is being digitised one department at a time, the foreign affairs ministry taking a four-week sprint in March 2026](https://www.togofirst.com/fr/tic/0204-18629-togo-le-ministere-des-affaires-etrangeres-amorce-la-digitalisation-de-ses-services) covering connectivity, internal processes, electronic mail and document management, after energy and tourism. [The public administration service-delivery modernisation project was confirmed operational in July 2026](https://www.republiquetogolaise.tg/gouvernance-economique/3007-12141-le-gouvernement-renforce-le-suivi-des-projets-finances-par-la-banque-mondiale), and [the finance ministry began running electronic document management and back-file digitisation from April 2026](https://www.togofirst.com/fr/gestion-publique/0707-19475-togo-la-transition-numerique-relance-le-chantier-de-la-gestion-des-archives).
 
-What a citizen cannot do is answer back. [There is no central feedback or grievance-redress platform for public services, nor any of the five further mechanisms the index tracks, nor artificial intelligence in citizen-facing services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [no e-participation platform either](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The social protection service portal is still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The foreign ministry put ten administrative procedures on the national portal from 1 October 2026](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/), and [the communication ministry put ten services of the state broadcasters online](https://www.journaldutogo.com/togo-digitalisation-services-tvt-radio-lome-2026/).
+What a citizen cannot do is answer back. [There is no central feedback or grievance-redress platform for public services, nor any of the five further mechanisms the index tracks, nor artificial intelligence in citizen-facing services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [no e-participation platform either](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The social protection service portal is still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The foreign ministry put ten administrative procedures on the national portal from 1 October 2026](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/), and [the communication ministry put ten services of the state broadcasters online](https://www.journaldutogo.com/togo-digitalisation-services-tvt-radio-lome-2026/). The Council of Ministers [authorised the justice minister to set up an online repository of Togolese case law](https://www.republiquetogolaise.tg/gestion-publique/0710-12350-conseil-des-ministres-du-06-octobre-2026). The Council of Ministers [adopted a visa decree updating the regime digitised in 2022, with new categories and stronger personal-data protection](https://www.republiquetogolaise.tg/gestion-publique/0710-12350-conseil-des-ministres-du-06-octobre-2026).
 
 ## Digitalisation
 

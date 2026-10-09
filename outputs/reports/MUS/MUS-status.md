@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 130
+sources_cited: 131
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -31,7 +31,7 @@ The country's artificial-intelligence framework came the same way. Rather than a
 
 The hole runs through the same package: the [Data Protection Act 2017 is not among the enactments amended and the bill carries no cross-reference to it](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf), leaving the new state data handling it creates on a bare requirement to act in accordance with applicable data protection requirements, while the [Finance Bill strengthens data exchange between administrations, which will need solid personal-data safeguards](https://lexpress.mu/node/560855).
 
-The standing stock is older and dispersed. The [Information and Communication Technologies Act 2001](https://www.icta.mu/documents/2022/04/ict_act.pdf) is the sector statute, under which [the ICT Authority licenses internet service providers](https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/National-Broadband-Policy-2012-2020.pdf); the [Computer Misuse and Cybercrime Act 2003](https://www.nef.mu/shared-files/11905/Computer-Misuse-and-Cybercrime-Act-2003.pdf) was [repealed](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2023/03/act1621.pdf) by the [Cybersecurity and Cybercrime Act 2021](https://ncb.govmu.org/ncb/legislations/THE%20CYBERSECURITY%20AND%20CYBERCRIME%20ACT%202021.pdf). Identity law sits in the [National Identity Card Act, amended by successive Finance Acts and supplemented in 2024 by three sets of regulations](https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?doctitle=TmF0aW9uYWwgSWRlbnRpdHkgQ2FyZCBBY3Q%3D&docnumber=&doctype=act) including the [Mobile ID Regulations](https://mnis.govmu.org/wp-content/uploads/2025/05/28_The-NIC_Mobile-ID_Reg-2024-.pdf). There is no dedicated data-exchange statute: [inter-agency sharing rests on the Data Protection Act and the Electronic Transactions Act 2000](https://cseaafrica.org/images/posts/6572157762993911.pdf). [On a law firm's reading, the 2026 amendment to the electronic transactions Act recognises electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/).
+The standing stock is older and dispersed. The [Information and Communication Technologies Act 2001](https://www.icta.mu/documents/2022/04/ict_act.pdf) is the sector statute, under which [the ICT Authority licenses internet service providers](https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/National-Broadband-Policy-2012-2020.pdf); the [Computer Misuse and Cybercrime Act 2003](https://www.nef.mu/shared-files/11905/Computer-Misuse-and-Cybercrime-Act-2003.pdf) was [repealed](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2023/03/act1621.pdf) by the [Cybersecurity and Cybercrime Act 2021](https://ncb.govmu.org/ncb/legislations/THE%20CYBERSECURITY%20AND%20CYBERCRIME%20ACT%202021.pdf). Identity law sits in the [National Identity Card Act, amended by successive Finance Acts and supplemented in 2024 by three sets of regulations](https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?doctitle=TmF0aW9uYWwgSWRlbnRpdHkgQ2FyZCBBY3Q%3D&docnumber=&doctype=act) including the [Mobile ID Regulations](https://mnis.govmu.org/wp-content/uploads/2025/05/28_The-NIC_Mobile-ID_Reg-2024-.pdf). There is no dedicated data-exchange statute: [inter-agency sharing rests on the Data Protection Act and the Electronic Transactions Act 2000](https://cseaafrica.org/images/posts/6572157762993911.pdf). [On a law firm's reading, the 2026 amendment to the electronic transactions Act recognises electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/). The ICT ministry [held its working session with Meta on faster content removal, Kreol moderation and proposed amendments to the Cybersecurity and Cybercrime Act, with no framework yet signed](https://mitci.govmu.org/mitci/government-engages-meta-to-curb-online-abuse-for-safer-digital-environment/) (2026).
 
 ### Data protection
 <!-- gov.protect -->

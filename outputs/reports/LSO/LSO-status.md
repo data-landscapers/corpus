@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-10-08
+compiled: 2026-10-09
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 181
+sources_cited: 182
 sections_written: 39
 not_established: 3
 acquire_lines: 31
@@ -56,7 +56,7 @@ That five-year commitment runs to 2029.
 
 Above it sits SADC, whose digital agenda for members rests on a [draft Digital Transformation Strategy and Action Plan of 12 October 2022](https://www.sadc.int/sites/default/files/2025-08/EN%20-%205.2.3B%20-%20CM--SADC-ICT-INFO-MINISTERS-2023-4.8D%20-%20Draft%20SADC%20DTS_1.pdf), aligned to RISDP 2020–30, the AU Digital Transformation Strategy 2030 and UN universal-connectivity targets. South Africa [took the chairpersonship at the 46th Ordinary Summit in Durban on 17 August 2026](https://www.sadc.int/latest-news/president-cyril-ramaphosa-assumes-sadc-chairpersonship-pledge-advance-regional), naming strengthening energy, water and digital security among its priorities, and the incoming chair had argued three days earlier that Southern Africa is ["exporting data and importing intelligence"](https://www.gov.za/news/speeches/president-cyril-ramaphosa-46th-sadc-summit-lecture-14-aug-2026) and that regional industrialisation must extend to computing capacity, connectivity and skills. [None of Lesotho's border posts is among the five one-stop border posts prioritised for the chairship](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration), against which the chair frames success as reduced crossing times.
 
-Lesotho's own regional voice has been loudest on AI. Its [country statement to the UN Global Dialogue on AI Governance of 7 July 2026](https://www.gov.ls/development/country-statement-of-the-kingdom-of-lesotho-at-the-united-nations-global-dialogue-on-artificial-intelligence-governance-delivered-by-the-honourable-deputy-prime-minister-in-palexpo-international-exhib/) set out capacity building, AI-ready data, openness, interoperability and sector-led risk-based governance as the government's position, with the ministry's Principal Secretary Kanono Ramashamole arguing that developing nations must be ["co-creators, not only consumers" of AI](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9) and naming fragmented data and weak governance as the domestic constraints. The foreign minister [signed the founding agreement of the World Artificial Intelligence Cooperation Organization in Shanghai on 20 July 2026](https://www.gov.ls/ict/lesotho-joins-the-founding-members-of-waico/).
+Lesotho's own regional voice has been loudest on AI. Its [country statement to the UN Global Dialogue on AI Governance of 7 July 2026](https://www.gov.ls/development/country-statement-of-the-kingdom-of-lesotho-at-the-united-nations-global-dialogue-on-artificial-intelligence-governance-delivered-by-the-honourable-deputy-prime-minister-in-palexpo-international-exhib/) set out capacity building, AI-ready data, openness, interoperability and sector-led risk-based governance as the government's position, with the ministry's Principal Secretary Kanono Ramashamole arguing that developing nations must be ["co-creators, not only consumers" of AI](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9) and naming fragmented data and weak governance as the domestic constraints. The foreign minister [signed the founding agreement of the World Artificial Intelligence Cooperation Organization in Shanghai on 20 July 2026](https://www.gov.ls/ict/lesotho-joins-the-founding-members-of-waico/). The communications authority and Eswatini's regulator [signed a memorandum providing for cybersecurity cooperation, including coordinated incident response, and exchange of information and resources](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/) (2026).
 
 ### Standards
 <!-- gov.standards -->

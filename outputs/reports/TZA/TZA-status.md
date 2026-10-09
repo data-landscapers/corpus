@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-10-07
+compiled: 2026-10-09
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 220
+sources_cited: 222
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -44,7 +44,7 @@ The law itself is broad. The [Personal Data Protection Act No. 11 of 2022](https
 
 Breach reporting is asymmetric. [Section 27(5) requires a controller to notify the Commission of any security breach without undue delay](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat), with no risk or harm threshold, yet [neither "security breach" nor "without undue delay" is defined in the Act or its regulations](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat), and [nothing obliges a controller to tell the people whose data was taken](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat). [The penalty runs from TZS 100,000 to TZS 5,000,000](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat) — roughly USD 41 to USD 2,030 in February 2026 — imprisonment of up to five years, or both.
 
-The regime has begun to produce outcomes for individuals: [the Commission made its first monetary award for a privacy violation in 2025](https://www.rive.co.tz/landmark-ruling-first-pdpc-monetary-award-signals-new-era-for-personal-data-in-tanzania/). Against that, [Digital Freedom is Tanzania's third most deteriorated governance indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), down 22.5 points over 2014–2023 to 46.3 out of 100 and 29th of 54, with [Personal Liberties down 15.1 points to 53.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf).
+The regime has begun to produce outcomes for individuals: [the Commission made its first monetary award for a privacy violation in 2025](https://www.rive.co.tz/landmark-ruling-first-pdpc-monetary-award-signals-new-era-for-personal-data-in-tanzania/). Against that, [Digital Freedom is Tanzania's third most deteriorated governance indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), down 22.5 points over 2014–2023 to 46.3 out of 100 and 29th of 54, with [Personal Liberties down 15.1 points to 53.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf). The data protection commission reported [15,146 institutions registered with it and 445 personal-data complaints received by August 2026](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html).
 
 ### Regional collaboration
 <!-- gov.regional -->
@@ -349,7 +349,7 @@ The sharpest line is gender, and it runs through credit: [women's loan accounts 
 
 Cost is the second line, and the cash-lite mandate has turned it into a live argument. [Government Notice No. 158C does not say who bears the transaction charge on a payment it requires to be electronic, so the fee falls wherever commercial practice leaves it](https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/). One month in, [users were pressing the Bank of Tanzania to set a directed price on transfer and payment charges, arguing that absent a cap each provider sets its own rate and the customer carries it](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380) (July 2026).
 
-Geography and the registers carry the rest. [5G's geographical footprint remains small and urban even as its population coverage climbs](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080), [the large majority of land, held under customary and unregistered tenure, sits outside the digital land register](https://doi.org/10.3390/land14112247), and [rural health managers draw on digital records in their decisions markedly less than urban ones](https://ihi.or.tz/media/List_and_report/MTR_Data_Management_-_REPORT_iGUVS7W.pdf). Underneath all of it, [basic digital literacy reaches only a minority of Tanzanians](https://www.nbs.go.tz/uploads/statistics/documents/en-1764330874-Information%20and%20Communication%20Technology%20Analysis%20in%20Tanzania.pdf) (2021).
+Geography and the registers carry the rest. [5G's geographical footprint remains small and urban even as its population coverage climbs](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080), [the large majority of land, held under customary and unregistered tenure, sits outside the digital land register](https://doi.org/10.3390/land14112247), and [rural health managers draw on digital records in their decisions markedly less than urban ones](https://ihi.or.tz/media/List_and_report/MTR_Data_Management_-_REPORT_iGUVS7W.pdf). Underneath all of it, [basic digital literacy reaches only a minority of Tanzanians](https://www.nbs.go.tz/uploads/statistics/documents/en-1764330874-Information%20and%20Communication%20Technology%20Analysis%20in%20Tanzania.pdf) (2021). The universal service fund said [it will build 250 ICT laboratories of 20 computers each in public schools this financial year, where it had supplied about five computers a school](https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools) (2026).
 
 ## Data
 
