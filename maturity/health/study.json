@@ -20,7 +20,15 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural health clinics: HMIS",
       "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-hmis",
-      "class": "hmis"
+      "class": "hmis",
+      "criteria_of": "6a09f6ad9882",
+      "criteria": [
+        "A dated source states that routine health reporting is not entered digitally at any level of the health system.",
+        "A digital reporting system is used by hospitals only or in some districts, or a national rollout has been contracted. Primary clinics do not use it, beyond pilot sites.",
+        "A national system takes the clinics' reports, which are keyed in at district level from the clinics' paper forms. A minority of primary clinics enter their own reports, or no figure is published.",
+        "More than half of primary clinics enter their own reports at the facility. The figure is a published share, or a count given with its total.",
+        "At least 90 per cent of primary clinics enter their own reports at the facility, on a figure published within the past two years. Reporting completeness is published as well."
+      ]
     },
     {
       "key": "emr",
@@ -28,7 +36,15 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural health clinics: EMR",
       "indicator_id": "digital.rural--digitalisation-of-rural-health-clinics-emr",
-      "class": "emr"
+      "class": "emr",
+      "criteria_of": "0dfaddab7f66",
+      "criteria": [
+        "A dated source states that patient records are kept on paper at every level of the health system.",
+        "Electronic patient records are in use in some hospitals or pilot facilities, or a national system has been procured. Primary clinics do not use them, beyond pilot sites.",
+        "Electronic patient records are in use in most hospitals, or in primary clinics in some districts, but each record stays in the facility that made it. A minority of primary clinics use them, or no figure is published.",
+        "More than half of primary clinics keep electronic patient records, entered at the point of care. Each record is held under a unique patient identifier and can be retrieved at another facility.",
+        "At least 90 per cent of primary clinics keep such shared records, on a figure published within the past two years. A record can be retrieved anywhere in the public network."
+      ]
     }
   ],
   "classes": ["hmis", "emr", "single-function", "tracker", "community", "enabling", "exchange"],

@@ -37,6 +37,7 @@ before `sitemap.py`.
 from __future__ import annotations
 
 import csv
+import hashlib
 import html
 import io
 import json
@@ -73,7 +74,7 @@ SHOW_BAND = True
 
 # The scale: documentation/archived/maturity-assessment.md §3, the instruments-and-systems column.
 # Labels 2 and 3 renamed Preparing and Establishing (Bill, 2026-10-09); all five still under review.
-# A study's own pages print the old labels in their ladders; `relabel()` rewrites them at build.
+# A study's own pages print the old labels in their ladders; every page built here prints these.
 # Colours: red, orange, gold, sky, blue at even weight (Bill, 2026-10-09: RdYlBu's pale yellow read weaker
 # than its orange). Every pair stays distinct under simulated deuteranopia, protanopia and tritanopia.
 STAGES = [
@@ -352,6 +353,12 @@ def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
                     out.append(f"{iid}: {page.name} has no norm")
                 if [l["n"] for l in data["indicators"][iid]["ladder"]] != [1, 2, 3, 4, 5]:
                     out.append(f"{iid}: {page.name}'s ladder does not read as rungs 1 to 5")
+            if len(sub.get("criteria", [])) != 5:
+                out.append(f"{iid}: study.json holds no five `criteria` for the methodology page")
+            elif page.exists() and sub.get("criteria_of") != ladder_digest(
+                    dict(sections(page.read_text(encoding="utf-8"), "## ")).get("The ladder", "")):
+                out.append(f"{iid}: the ladder has moved since its `criteria` were written; rewrite them "
+                           f"and set `criteria_of`")
             if iid not in listed:
                 out.append(f"{iid}: in no topic's list, so the map cannot select it (check `redraws`)")
             cells = data["cells"][iid]
@@ -548,10 +555,25 @@ Stages are taken as at the end of a month. A stage changes only on a dated sourc
 """
 
 
-def relabel(text: str) -> str:
-    """A ladder row's first cell is `| N Label |`; print the label the scale holds now."""
-    return re.sub(r"^\|\s*([1-5])\s+[A-Za-z]+\s*\|",
-                  lambda m: f"| {m.group(1)} {STAGES[int(m.group(1)) - 1]['label']} |", text, flags=re.M)
+def ladder_digest(section: str) -> str:
+    """What a sub-indicator's `criteria_of` records: the study's ladder its criteria were written from."""
+    lines = "\n".join(ln.strip() for ln in section.strip().splitlines())
+    return hashlib.sha256(lines.encode("utf-8")).hexdigest()[:12]
+
+
+def criteria_table(sub: dict) -> str:
+    """The ladder as the methodology page prints it *(Bill, 2026-10-09)*: Stage and Criteria, a
+    sentence or two a stage. The sentences are `study.json` -> `criteria`, written by hand from the
+    study's three-aspect ladder, which stays the instrument the stagers work from and the map's
+    sidebar reads. `problems()` stops the build when that ladder has moved since they were written."""
+    return "| Stage | Criteria |\n|---|---|\n" + "\n".join(
+        f'| {s["n"]} {s["label"]} | {text} |' for s, text in zip(STAGES, sub["criteria"]))
+
+
+def norm_statement(norm: str) -> str:
+    """The norm's first paragraph: what the norm is. The study's argument about what it fails to
+    measure follows it in the study file and is not printed *(Bill, 2026-10-09)*."""
+    return re.split(r"\n\s*\n", norm.strip())[0]
 
 
 def method_page(data: dict, studies: list[dict]) -> str:
@@ -567,8 +589,8 @@ def method_page(data: dict, studies: list[dict]) -> str:
             secs = dict(sections(text, "## "))
             toc.append((iid, sub["text"]))
             blocks.append(f'<section class="mat-method__ind" id="{iid}">\n<h2>{html.escape(sub["text"])}</h2>\n'
-                          + md("### The norm\n\n" + secs.get("The norm", "Not yet written.")
-                               + "\n\n### The ladder\n\n" + relabel(secs.get("The ladder", "Not yet written.")))
+                          + md("### The norm\n\n" + norm_statement(secs.get("The norm", "Not yet written."))
+                               + "\n\n### The ladder\n\n" + criteria_table(sub))
                           + "\n</section>")
     strip = ('<nav class="article-toc" aria-label="Indicators">\n'
              + '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'.join(

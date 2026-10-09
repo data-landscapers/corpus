@@ -76,6 +76,15 @@ def main() -> int:
     check("an indicator dropped from the published map is named",
           any("gone--indicator" in p for p in ms.problems(data, geo, studies, indicators, published)))
 
+    moved = copy.deepcopy(studies)
+    moved[0]["sub_indicators"][0]["criteria_of"] = "0" * 12
+    check("criteria written from an earlier ladder are named",
+          any("criteria" in p for p in ms.problems(data, geo, moved, indicators, data)))
+    page = ms.method_page(data, studies)
+    check("the methodology ladder is Stage and Criteria only",
+          page.count("<th>Criteria</th>") == len(data["indicators"]) and "<th>Tiers</th>" not in page)
+    check("the norm prints its statement and not the argument", "It does not measure" not in page)
+
     check("no study at all is a problem", bool(ms.problems(data, geo, [], indicators, None)))
 
     g = copy.deepcopy(geo)
