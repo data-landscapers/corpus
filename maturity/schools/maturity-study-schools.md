@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-schools.md — the second maturity study: rural primary schools, as EMIS
 last_reviewed: 2026-10-09
-status: CC's proposal, agreed by Bill on 2026-10-09 with stages 2 and 3 reworded; Phase 1 running
+status: CC's proposal, agreed by Bill on 2026-10-09 with stages 2 and 3 reworded; Phase 1 done 2026-10-09, Phase 2 waits on note 220
 ---
 
 # Maturity study: schools — EMIS
@@ -99,7 +99,7 @@ The African Union's Digital Education Strategy (2022): devices for 20 per cent o
 - [x] **S1. Bill's rulings**: agreed, 2026-10-09.
 - [x] **S2. Review all 54 countries in one run**, method §4: 1,105 documents, 302 facts.
 - [ ] **S3. Test and fix the ladder** on the profiles: done. Still to do: read the Strategy's fourth objective whole and correct §5 if it does not say what the first run took it to.
-- [ ] **S4. Search, select and hand over**, method §5. *130 staged; the note and `READY` wait for Bill.*
+- [x] **S4. Search, select and hand over**, method §5. *130 delivered, note 220.*
 - [ ] **S5. Phase 2, on Bill's trigger**, method §6 and §7.
 - [ ] **S6. Write, render and lint**, method §8. Write `study.json`'s `criteria` again from the fixed ladder and set `criteria_of`. Commit.
 - [ ] **S7. Report to Bill**: countries per stage; unplaced and *No evidence*; countries holding only a census, by the name each gives it; *rural gap* flags; the agreement count; what OSINT did not admit; every country the cap held at 3.
