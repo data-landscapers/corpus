@@ -13,7 +13,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | Stage | Tiers | Where digitised | Primary clinics |
 |---|---|---|---|
 | 1 Absent | A dated statement that patient records are on paper at every tier | | |
-| 2 Nascent | Some hospitals or pilot facilities; or a national system procured | Anywhere | None, or pilot sites |
+| 2 Nascent | Some hospitals or pilot facilities; or a national system procured or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Most T1 and T2 hospitals, or primary clinics in some districts | Either; the record stays in the facility | A minority, or not published |
 | 4 Operating | The primary tier | `shared`: at the point of care, on a unique patient identifier, retrievable at another facility | More than half |
 | 5 Leading | The primary tier | As 4, across the public network | 90 per cent or more, on a figure published within two years |
@@ -25,9 +25,9 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 13 |
-| 2 Nascent | 30 |
+| 2 Nascent | 32 |
 | 1 Absent | 2 |
-| Unplaced | 9 |
+| Unplaced | 7 |
 | No evidence | 0 |
 
 ## Countries
@@ -230,6 +230,15 @@ An electronic patient record is being introduced in stages at hospitals and heal
 - HISP Rwanda states that its team supervised implementation of the e-SENI EMR at hospital and health centres, giving no number of sites and not stating the hospitals' level, and that medical records in many facilities are still kept in paper registers; no date is given, so the published date is used ([source, 2026-03-18](https://hisprwanda.org/hisp-emr-digitizing-hospital-care-in-the-central-african-republic/)).
 - HISP Rwanda reports a phased deployment of the e-SENI EMR under way, with site assessments, configuration in French, staff training, an EMR showroom and a central synchronisation server set up; no event date is given, so the published date is used ([source, 2026-03-18](https://hisprwanda.org/hisp-emr-digitizing-hospital-care-in-the-central-african-republic/)).
 
+### Chad: 2 Nascent
+
+The ministry signed a partnership for electronic medical records in its hospitals (reported August 2026); no facility is yet shown using one.
+
+*Advancing.*
+
+- Guinéenews reports that the Guinean start-up Kouma Academy has signed a partnership with Chad's Ministry of Public Health and Prevention for the national digitalisation of its hospitals with the Visa Medical digital medical record; no signing date or deployment in Chad is given, so the date is the article's publication date ([source, 2026-08-13](https://guineenews.org/2026/08/13/financer-la-digitalisation-des-hopitaux-sans-endetter-letat-le-pari-reussi-dune-healthtech-guineenne-devenue-panafricaine/)).
+- HISP Rwanda reports that a high-level meeting on 15 April 2026, chaired by the Secretary-General of the Ministry of Public Health and Prevention, was devoted to modernising the patient medical record, with HISP Rwanda supporting the implementation of a patient-centred Dossier Médical Électronique; no pilot site, budget or timetable is stated ([source, 2026-04-15](https://hisprwanda.org/le-tchad-accelere-sa-transformation-numerique-du-systeme-de-sante/)).
+
 ### Cote d'Ivoire: 2 Nascent
 
 The ministry's patient record ran throughout one general hospital from August 2024; 268 establishments were connected by March 2025, of unstated type.
@@ -240,6 +249,16 @@ The ministry's patient record ran throughout one general hospital from August 20
 - The health ministry's DISD reports that the Dossier Patient Informatisé (DPI) has been operational at the Hôpital Général de Ferkessédougou since 16 August 2024, after a deployment mission of 4 to 25 August 2024, and that all the hospital's services, including surgery, paediatrics and the admissions office, use it to register and follow patients ([source, 2024-08-16](https://disd.ci/deploiement-reussi-du-dossier-patient-informatise-a-lhg-de-ferkessedougou-une-etape-cruciale-vers-la-digitalisation-des-soins/)).
 - At the Hôpital Général de Ferkessédougou the DPI platform is installed on the hospital's local server and used in every hospital service for registering and following patients from 16 August 2024, every service having been equipped with computers and a local network put in, according to the DISD; the mission recommended more tablets for some services ([source, 2024-08-16](https://disd.ci/deploiement-reussi-du-dossier-patient-informatise-a-lhg-de-ferkessedougou-une-etape-cruciale-vers-la-digitalisation-des-soins/)).
 - The health minister, presenting his department's 2023 achievements to the health sector coordination meeting of 25 July 2024, said the hospital information system (SIH) and the Dossier Patient Informatisé (DPI) had been installed in 193 health establishments, centralising patients' medical and administrative information, as reported by WHO's country office; no denominator is given and the tiers of the 193 are not stated ([source, 2023](https://www.afro.who.int/fr/countries/cote-divoire/news/mecanisme-de-coordination-du-secteur-de-la-sante-les-partenaires-techniques-et-financiers-ptfs-du)).
+
+### DR Congo: 2 Nascent
+
+A government agency has delivered computers and hospital systems to named hospitals since 2024, but none is yet said to use electronic patient records.
+
+*Advancing.*
+
+- Actualite.cd reported that on 12 July 2024 ANICNS handed digital kits to three Kinshasa facilities, the Lufungula general hospital (10 computers) and the Ngaba mother-and-child centre and Lufungula health centre (5 computers between them), with three hospital information systems and an internet connection, to allow the first modules of the hospital information system, those for free maternity and newborn care, to be implemented and to guarantee portability of the computerised patient record ([source, 2024-07-12](https://actualite.cd/2024/07/13/kinshasa-lanicns-dote-trois-etablissements-hospitaliers-de-kits-medicaux-digitalises)).
+- ACP reported on 13 February 2025 that ANICNS handed the Kasaï-Oriental provincial health division 516 computers, 206 tablets and 206 routers to equip 206 care establishments, which its director general said would allow an ANICNS-approved hospital information system to be put into service and the computerised patient record to be portable; the system is described as to come, not as running ([source, 2025-02-13](https://acp.cd/science-sante-environnement/kasai-oriental-un-lot-dequipements-numeriques-offert-a-la-division-provinciale-de-la-sante/)).
+- On 16 June 2026 the Ministry of Public Health's agency ANICNS opened call ANICNS/AMI/001/SIH/2026 for the now-mandatory approval of hospital information systems under a ministerial order of 11 March 2025; each must include a complete computerised patient record, admission on the national health identifier and FHIR/DICOM interoperability, with submissions due by 12 July 2026 and approved products to be listed in a national register ([source, 2026-06-16](https://www.congoquotidien.com/2026/06/16/actualite-rdc-homologation-sih-rdc/)).
 
 ### Egypt: 2 Nascent
 
@@ -485,27 +504,11 @@ Only a promised digital health booklet is held, from 2026; nothing says whether 
 
 Not established: The only two rows (BEN-003, BEN-004) come from the excluded source, Africa we have a data problem, and set nothing. No admitted row states a tier, a place of digitisation or a clinic count for an EMR, and none gives the dated statement of paper at every tier that stage 1 needs; systems.csv holds a digital health booklet only as a pledge.
 
-### Chad: Unplaced
-
-A partnership and a ministry meeting on electronic records were reported in 2026, but no facility is shown using one, so no stage is set.
-
-*Advancing.*
-
-Not established: No coverage fact is held: no tier, no place of digitisation and no clinic figure from an admitted source. The four admitted rows are governance and last-twelve-months facts on two systems not yet in use (Visa Medical, partnership signed, no deployment stated; the ministry's Dossier Médical Électronique, a meeting of 15 April 2026 with no pilot site, budget or timetable), and owner disagrees between them: vendor (TCD-002) and ministry (TCD-004). The only statement that records are on paper comes from the excluded source, so stage 1 is not claimed.
-
 ### Congo: Unplaced
 
 A February 2026 decree names a hospital information system at one public hospital, but no source describes patient records, so no stage is set.
 
 Not established: The only two EMR rows (COG-003, COG-004) come from the excluded source '2026-03-31 Africa we have a data problem' and set nothing, so the dated statement of absence stage 1 needs is not held from an admissible source. systems.csv names a 'système d'information hospitalier' in a public hospital's organisation decree, unclassified and not said to hold the clinical record.
-
-### DR Congo: Unplaced
-
-Equipment for hospital information systems was delivered in 2024-25, but no facility is said to use electronic patient records, so no stage is set.
-
-*Advancing.*
-
-Not established: No row states that any facility uses an electronic patient record: the ANICNS hospital information systems are described as delivered or to come, not running, and Visa Medical's deployment names no site or number. The one coverage row (COD-020) is a 2023 survey of 7 hospitals in Kananga, which does not carry the country, so it is neither a tier in use nor the dated statement of paper at every tier that stage 1 needs. Governance disagrees by system: the newest fact has a vendor running Visa Medical (COD-002), while the 2024 rows give the state agency ANICNS and domestic finance for the hospital information system programme; no plan is stated.
 
 ### Djibouti: Unplaced
 

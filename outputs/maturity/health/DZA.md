@@ -2,9 +2,19 @@
 
 ## HMIS
 
+**Governance, planning, finance.** The Ministry of Health, with WHO support, [began training health practitioners and IT staff to use the DHIS2 platform, adapted to the national context](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>), the WHO Algeria office reports. The national digital health strategy under which the training began [was still a draft in November 2023, when a pre-validation workshop of sixty participants worked on it ahead of its submission to the national authorities](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>).
+
+**Tiers in use.** The training is meant, the WHO office states, [to make the national health information system yield information for decision-makers at every level](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>).
+
+**Where data is digitised.** The first session, [five days in December 2023 led by an international expert](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>), taught its participants to use the platform.
+
+**Last twelve months.** The WHO office reports that [further training sessions were to be programmed in the 2024-2025 work plan](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>).
+
+**Primary clinics doing the digital input.** The first session [trained a first team of 20 health practitioners and IT staff](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>).
+
 ***Noted, not assessed***. Single-function: the [weekly notification forms for priority diseases and events](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>) and [Go.Data](<https://www.afro.who.int/sites/default/files/2023-05/RAPPORT%20BIENNAL%20V.Finale%2029.03.2023.pdf>) in the Sahrawi refugee camps at Tindouf, the [GIS for surveillance of immunisation and polio indicators](<https://www.afro.who.int/sites/default/files/2023-05/RAPPORT%20BIENNAL%20V.Finale%2029.03.2023.pdf>), and the laboratory system [IKOLAB](<https://dspace.univ-mila.dz/jspui/bitstream/123456789/1787/1/690-Texte%20de%20l%27article-2080-1-10-20220611.pdf>) and radiology system [RISPACKS](<https://dspace.univ-mila.dz/jspui/bitstream/123456789/1787/1/690-Texte%20de%20l%27article-2080-1-10-20220611.pdf>) at the Tizi-Ouzou university hospital. Enabling: the [fibre-optic connection of health structures](<https://seybousetimes.dz/actualite/region/2026/08/17/annaba-le-raccordement-des-structures-de-sante-a-la-fibre-optique-au-coeur-dune-reunion-avec-le-ministere/>) in the wilaya of Annaba.
 
-***Not held***. The Ministry of Health, with WHO support, [trained a first team of 20 on DHIS2 in December 2023](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>), and the national digital health strategy [was a draft in November 2023](<https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf>). Nothing held says which tiers report through the platform, where data is keyed, how many primary clinics enter their own reports or how it is financed.
+***Not held***. Nothing held says which tiers report through the platform, where data is keyed, how many primary clinics enter their own reports or how it is financed. No use of the platform after the first training is held.
 
 ## EMR
 

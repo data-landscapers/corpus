@@ -13,7 +13,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | Stage | Tiers | Where digitised | Primary clinics |
 |---|---|---|---|
 | 1 Absent | A dated statement that routine reporting has no digital entry at any level | | |
-| 2 Nascent | Hospitals only, or some districts; or a national rollout contracted | Anywhere, or not stated | None, or pilot sites |
+| 2 Nascent | Hospitals only, or some districts; or a national rollout contracted or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Any: a system keyed at district takes the clinics' reports | At the district, from clinics' paper forms | Facility entry in a minority, or not published |
 | 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or a count with a denominator |
 | 5 Leading | The primary tier | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
@@ -25,9 +25,9 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 45 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 1 |
 
 ## Countries
@@ -502,6 +502,12 @@ All levels of the health system report on paper, and district offices enter the 
 - PMI states that monthly HMIS collection at health facility level is on paper, keyed at the district; its routine table gives 1,776 health facilities reporting into the HMIS/DHIS2 in 2022 (1,758 in 2018) with 96% of expected monthly reports received (97.2% in 2018), which counts reports received and not facilities entering them ([source, 2022](https://mesamalaria.org/wp-content/uploads/2025/04/ZIMZABWE-Malaria-Profile-PMI-FY-2024.pdf)).
 - PMI states that the HMIS collects routine aggregate health information from four levels of the health system: primary (over 1,700 health centres, clinics and rural hospitals), secondary (about 140 district-level hospitals), tertiary (eight provincial hospitals) and quaternary (six hospitals); all report on paper. The document's published year is used ([source, 2023](https://mesamalaria.org/wp-content/uploads/2025/04/ZIMZABWE-Malaria-Profile-PMI-FY-2024.pdf)).
 
+### Algeria: 2 Nascent
+
+The ministry began training staff on the national reporting system in December 2023, starting with a team of 20; nothing yet shows it in use.
+
+- The WHO Algeria office reports that the Ministry of Health, so that the national health information system yields information for decision-makers at every level, began with WHO support training health practitioners and IT staff to use the DHIS2 platform adapted to the national context: a first five-day session in December 2023 for a first team of 20, led by an international expert, with further sessions to be programmed in the 2024-2025 work plan ([source, 2023-12](https://afro.who.int/sites/default/files/2024-09/1%20OMS%20ALGERIE%20RAPPORT%20BIENNAL%202022%202023.pdf%20%287%29.pdf)).
+
 ### Egypt: 2 Nascent
 
 Births and deaths are entered at district level into the national health information system (2025); routine clinic reporting is not shown.
@@ -543,12 +549,6 @@ The national reporting system was introduced in all districts in 2024-2025; who 
 
 - The WHO country office reports that during the 2024-2025 biennium DHIS2 was implemented in all districts, strengthening the national health information system for data collection, analysis and use in health services management, and that district health managers were trained on the platform, on data quality and on report generation; no month is given ([source, 2025](https://afro.who.int/sites/default/files/2026-09/report_2024-25_WHO_STP_0.pdf)).
 - The national health development plan states that the Ministry of Health approved the nationwide use of DHIS2 as its health information management system, run by the ministry's SIS unit, and that two years after implementation its use covers only the vaccination, reproductive health, tuberculosis, HIV/AIDS and malaria programmes, with health professionals failing to adhere to it even where it is available; the passages give no date, so the plan's September 2022 date is used ([source, 2022-09](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/STP_Sao-Tome-and-Principe_National-Health-Development-Plan_2023-2032.pdf)).
-
-### Algeria: Unplaced
-
-A first team of 20 was trained on the national system in December 2023; nothing yet shows it in use, so no stage is set.
-
-Not established: The two rows held (DZA-008, DZA-009) are governance only: a first team of 20 trained on DHIS2 in December 2023 and a digital health strategy still in draft in November 2023. Nothing says which tiers report through it, where data is keyed or how many primary clinics enter their own reports; finance is not stated, and there is no dated statement that reporting has no digital entry.
 
 ### Seychelles: Unplaced
 

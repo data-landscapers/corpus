@@ -17,7 +17,7 @@
     },
     {
       "sub_indicator": "emr",
-      "stage": "unplaced",
+      "stage": "2",
       "governance": "owner:vendor;finance:domestic",
       "tiers": "",
       "digitised": "paper",
@@ -25,9 +25,9 @@
       "clinics": "",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "",
+      "stage_sources": "COD-017;COD-011;COD-010",
       "gaps": "No row states that any facility uses an electronic patient record: the ANICNS hospital information systems are described as delivered or to come, not running, and Visa Medical's deployment names no site or number. The one coverage row (COD-020) is a 2023 survey of 7 hospitals in Kananga, which does not carry the country, so it is neither a tier in use nor the dated statement of paper at every tier that stage 1 needs. Governance disagrees by system: the newest fact has a vendor running Visa Medical (COD-002), while the 2024 rows give the state agency ANICNS and domestic finance for the hospital information system programme; no plan is stated.",
-      "note": "Stage 2 needs some hospitals or pilot facilities using a record, or a national system procured, and the rows show equipment handed over and an approval regime opened, not use. Stage 1 is not claimed because the paper finding is for one city."
+      "note": "Restaged 2026-10-09 on the amended rung 2 (Bill): equipment and hospital information systems handed to named facilities from July 2024, and an approval regime opened in June 2026, are dated preparatory acts by the ministry's agency, which is stage 2 without use. No facility is stated to be using a record, so nothing above 2; stage 1 is not claimed because the paper finding is for one city. Was unplaced."
     }
   ]
 }
