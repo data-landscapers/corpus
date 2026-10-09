@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: gov.protect
-places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 5a135b867be4
+places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4c4b6e05e3ad
 ---
 
 # Data protection: monthly update, September – October 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -107,11 +107,11 @@ The communication, technology and innovation ministry, with UNICEF and a digital
 
 ## South Africa
 
-An extortion attack on an insurance-technology provider, detected on 14 June and reported to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m). On 16 September one insurer said a ransomware group's claim against it came from that incident.
+An extortion attack on an insurance-technology provider, detected on 14 June and reported to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m). On 16 September one insurer said a ransomware group's claim against it came from that incident. The National Consumer Commission [sought service providers for the national opt-out registry, aiming to have it live in 2026, with fines of up to R1m or 10% of turnover for non-compliant marketers](https://www.sundaytimes.timeslive.co.za/business/news/2026-09-12-commission-seeks-tech-partners-to-block-spam-calls/). The state is buying the capability the framework does not yet govern. State IT agency tender documents require that police body-worn cameras [must be able to conduct facial recognition and integrate with various security platforms, under a three-year contract RFB 3286-2026 whose bids close at 11am on 29 September 2026](https://techcentral.co.za/saps-bodycam-tender-facial-recognition/285986/). No contract value, matching database, retention period or authorising legal instrument is published. The consumer commission [launched the national opt-out registry, with direct marketers registering first and consumers able to register blocks from May 2027](https://www.gov.za/news/media-statements/national-consumer-commission-launches-national-opt-out-registry-07-oct-2026).
 
 ## Tanzania
 
-The community development ministry told parliament on 31 August 2026 that [a National Advisory Committee on Online Child Protection and Safety has been established and that an online-safety education campaign had reached 1,811,212 children across all 26 mainland regions](https://allafrica.com/stories/202609010237.html).
+The community development ministry told parliament on 31 August 2026 that [a National Advisory Committee on Online Child Protection and Safety has been established and that an online-safety education campaign had reached 1,811,212 children across all 26 mainland regions](https://allafrica.com/stories/202609010237.html). The data protection commission reported [15,146 institutions registered with it and 445 personal-data complaints received by August 2026](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html).
 
 ## Togo
 
@@ -124,6 +124,10 @@ A digital-rights forum [said on 3 October that the national data-protection auth
 ## Uganda
 
 Three men [were held at a Kampala station over alleged false news and unlawful obtaining or disclosure of personal data](https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media), reported on 1 September, on offences under the computer misuse statute; the posts, the data and the complainant are not disclosed. A TikTok user [was charged with unlawfully obtaining and disclosing personal data over a photograph and video of a State House employee](https://www.newvision.co.ug/category/news/tiktoker-charged-over-alleged-fake-news-data-NV_241989_102026). The communications regulator [launched a child online protection campaign at a Kampala secondary school](https://techafricanews.com/2026/10/07/uganda-launches-child-online-protection-campaign-to-promote-safer-internet-use/).
+
+## Zambia
+
+The technology ministry's permanent secretary said [the country is implementing a national child online protection strategy for 2025 to 2029](https://www.unicef.org/zambia/press-releases/zambia-launches-child-justice-week-2026-call-strengthen-protection-children-digital).
 
 ## Zimbabwe
 

@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 0e3a4829be9f
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: f60fb0657ef7
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -47,15 +47,19 @@ A register of a different kind opened. The youth and sports ministry [launched M
 
 ## Comoros
 
-The government's secretary-general said on 16 September that [the investment agency is deploying an EU-financed platform to put business creation and investment procedures online](https://alwatwan.net/societe/gouvernance-et-politiques-publiques-nour-el-fath-azali-r%C3%A9pond-aux-questions-des-internautes-via-ses-r%C3%A9seaux-sociaux.html); the economy minister states an objective of a fully operational system by the end of 2026.
+The government's secretary-general said on 16 September that [the investment agency is deploying an EU-financed platform to put business creation and investment procedures online](https://alwatwan.net/societe/gouvernance-et-politiques-publiques-nour-el-fath-azali-r%C3%A9pond-aux-questions-des-internautes-via-ses-r%C3%A9seaux-sociaux.html); the economy minister states an objective of a fully operational system by the end of 2026. The agency, [with a United Nations trade experts' mission and the economy minister, discussed deploying the operational phase of a European Union-financed platform to move business-creation and investment procedures online, adding artificial-intelligence features to simplify the user path; the minister stated an objective of a fully operational system by the end of 2026](https://fr.linkedin.com/posts/anpi-comores_anpicomores-transformationnum%C3%A9rique-cnuced-activity-7476580734892367872-44ph).
 
 ## Congo
 
 Control arrived before the system did. A [circular of 1 September 2026 from the territorial administration bans antedating of civil-status acts and changes of identity or filiation without a court decision](https://lesechos-congobrazza.com/societe/12368-etat-civil-au-congo-brazzaville-fini-le-temps-des-actes-bricoles). It is an administrative control placed on a paper process while the validated integrated civil-status software waits for deployment funding, and no volume of irregular acts is published to say how large the problem it addresses is. The system itself moved on 22 September, when the state information-systems agency [handed it and its technical documents to the territorial administration, with seven undated steps still ahead of deployment](https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents).
 
+## Cote d'Ivoire
+
+The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html).
+
 ## DR Congo
 
-A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own. The President [gave the government three months, at the Council of Ministers of 25 September, to define a single identifier for businesses recognised across administrations](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/); no lead agency or system is named.
+A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own. The President [gave the government three months, at the Council of Ministers of 25 September, to define a single identifier for businesses recognised across administrations](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/); no lead agency or system is named. The land affairs minister said [implementation of the land law had begun, with digitisation directorates created, more than 350 officials trained and three of Kinshasa's nine land districts in the first phase](https://acp.cd/economie/rdc-lapport-de-la-digitalisation-du-secteur-foncier-presente-a-kinshasa/).
 
 ## Egypt
 
@@ -157,7 +161,7 @@ Cabinet [approved a national land title certification scheme](https://thisdaysl.
 
 ## Somalia
 
-Somaliland's central bank [met banks and mobile-money operators on 11 September 2026 and it was agreed that the central bank will lead a credit information bureau](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/). No design, timetable or funding figure is on file.
+Somaliland's central bank [met banks and mobile-money operators on 11 September 2026 and it was agreed that the central bank will lead a credit information bureau](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/). No design, timetable or funding figure is on file. The migration agency, the federal government and the Netherlands [launched a programme that will support civil registration and legal identity systems and expand registration in underserved areas](https://www.dawan.africa/news/iom-somalia-and-netherlands-launch-migration-management-programme).
 
 ## South Africa
 

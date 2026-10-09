@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: finance.new
 places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: 9630c642b8b7
+record: 53d892ccc135
 ---
 
 # New investments: monthly update, September – October 2026
@@ -107,7 +107,7 @@ The African Development Bank [approved a USD 34 million loan on 22 September for
 
 ## South Africa
 
-The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r). A French development finance institution [said it is investing US$20m in the fibre operator and its service providers through a consortium](https://www.proparco.fr/en/news/proparco-invests-us20-million-frogfoot-vox-and-hypa-expand-affordable-fibre-connectivity-south).
+The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r). A French development finance institution [said it is investing US$20m in the fibre operator and its service providers through a consortium](https://www.proparco.fr/en/news/proparco-invests-us20-million-frogfoot-vox-and-hypa-expand-affordable-fibre-connectivity-south). A US development finance board [approved an equity investment in the same group without publishing an amount; a press figure of up to US$155 million is a ceiling, not a commitment](https://www.ewn.co.za/2026/09/17/us-govt-agency-pouring-billions-into-african-digital-infrastructure-firm-with-hq-in-joburg).
 
 ## Tanzania
 

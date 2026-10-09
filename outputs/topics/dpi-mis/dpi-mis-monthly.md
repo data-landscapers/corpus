@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7b577782145e
+record: 34df3ec1c47c
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -85,7 +85,7 @@ The science park [confirmed on 24 September that an incident at the National Dat
 
 ## Gabon
 
-The education ministry's priorities for the new school year restate the delivery counts: [1,000 tablets and 500 interactive screens delivered over 2025-2026, with the digital rollout continuing into 2026-2027](https://agpgabon.ga/gabon-education-camelia-ntoutoume-leclercq-fixe-les-priorites-pour-lannee-scolaire-2026-2027/). These are the ministry's own device counts and nothing is published against them for learner reach, usage or maintenance — the same shape the connected-schools figures have carried all year.
+The education ministry's priorities for the new school year restate the delivery counts: [1,000 tablets and 500 interactive screens delivered over 2025-2026, with the digital rollout continuing into 2026-2027](https://agpgabon.ga/gabon-education-camelia-ntoutoume-leclercq-fixe-les-priorites-pour-lannee-scolaire-2026-2027/). These are the ministry's own device counts and nothing is published against them for learner reach, usage or maintenance — the same shape the connected-schools figures have carried all year. The supplier of the Gabon Connect project [presented the integrated customs operations system it is developing, whose first lot covers mineral clearance and the special hydrocarbons warehouse](https://fr.infosgabon.com/douanes-le-gabon-passe-au-controle-numerique/).
 
 ## Gambia
 
@@ -99,7 +99,7 @@ The education ministry [said more than 6,000 of 8,000 complaints against this ye
 
 ## Guinea-Bissau
 
-The prime minister [pledged computerised teacher posting, salaries paid through banks or mobile money, and a digital audit of the education payroll](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/), with no timetable published.
+The prime minister [pledged computerised teacher posting, salaries paid through banks or mobile money, and a digital audit of the education payroll](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/), with no timetable published. The platform's developers [signed an agreement to support the public health institute in strengthening the national health information system, with new HIV and tuberculosis patient-tracking tools](https://dhis2.org/hisp-to-strengthen-guinea-bissaus-national-dhis2-system/).
 
 ## Kenya
 
@@ -161,7 +161,7 @@ The planning ministry [launched a digital system on 8 September to monitor Natio
 
 ## South Africa
 
-The state IT agency [is procuring a 36-month incident management system for the police, with bids closing on 22 September](https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o). The tender states that the police have no single system for logging reported incidents.
+The state IT agency [is procuring a 36-month incident management system for the police, with bids closing on 22 September](https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o). The tender states that the police have no single system for logging reported incidents. The fragmentation reached students: [funding was restored for 182 students at one university](https://www.sanews.gov.za/south-africa/funding-restored-tut-students-after-qualification-code-corrections) after incorrect qualification codes and institution-to-scheme data-sharing defunded them under the N+ rule, and [a further 1,212 in accredited accommodation and 115 funded after the portal closed remain unpaid](https://www.sanews.gov.za/south-africa/funding-restored-tut-students-after-qualification-code-corrections).
 
 ## South Sudan
 
@@ -209,4 +209,4 @@ Beneficiary checks for the Keeping Girls in School programme [moved from paper f
 
 ## Zimbabwe
 
-The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS. [The electronic case management system went live in Midlands and Mashonaland West on 1 October 2026](https://www.heraldonline.co.zw/paperless-courts-spread-to-midlands-mashonaland-west/).
+The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS. [The electronic case management system went live in Midlands and Mashonaland West on 1 October 2026](https://www.heraldonline.co.zw/paperless-courts-spread-to-midlands-mashonaland-west/). The home affairs minister told the National Assembly [the police are piloting a crime management system built by a state technology institute at Warren Park and other stations](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/).

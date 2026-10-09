@@ -1,15 +1,15 @@
 ---
 title: US / hyperscaler activities — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: geopol.usa
-places: CPV; DJI; EGY; KEN; MUS; ZAF; ZMB; ZWE
-record: 1dd5a53c95b8
+places: CPV; DJI; EGY; KEN; LBY; MUS; ZAF; ZMB; ZWE
+record: e51980345619
 ---
 
 # US / hyperscaler activities: monthly update, September – October 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -29,6 +29,10 @@ The prime minister [witnessed the signing of a letter of intent between the comm
 
 Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
 
+## Libya
+
+The communications authority and the United States State Department [signed a strategic cooperation framework covering digital infrastructure, artificial intelligence, data centres, cybersecurity and satellite communications](https://lana.gov.ly/post.php?id=367155&lang=en).
+
 ## Mauritius
 
 The incumbent operator and the cloud company [held an executive workshop on cloud, data and artificial intelligence for more than 125 delegates of state-owned enterprises](https://lexpress.mu/node/563331).
@@ -39,7 +43,7 @@ Microsoft [told a government technology briefing that it has committed R25.8bn t
 
 ## Zambia
 
-The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/).
+The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/). Zambia and the United States [signed the five-year health financing memorandum, put at US$2.49bn, after the specimen-sharing and patient-data clauses were removed](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms). A Zambian outlet reported [a data sharing agreement signed beside the health memorandum, limited to aggregated and de-identified programme data](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership).
 
 ## Zimbabwe
 

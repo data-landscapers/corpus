@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: include.divides
-places: AGO; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; UGA; ZMB
-record: a6f5dea57044
+places: AGO; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
+record: fb3eafcfc51f
 ---
 
 # Digital divides: monthly update, September – October 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -47,7 +47,7 @@ The rural project's own numbers reached the repository on 5 September. [1,400 of
 
 ## Guinea-Bissau
 
-A survey of 2,039 adolescents in Bissau, reported on 3 September, [finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools](https://english.hi.is/news/covid-19-exposed-global-digital-divide-among-adolescents-guinea-bissau).
+A survey of 2,039 adolescents in Bissau, reported on 3 September, [finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools](https://english.hi.is/news/covid-19-exposed-global-digital-divide-among-adolescents-guinea-bissau). The first measurement of adolescent access the repository holds is academic: a [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and no official measurement of adolescent device or internet access exists at any date to set beside it.
 
 ## Kenya
 
@@ -82,6 +82,10 @@ The operator-led smartphone financing programme [reported more than 2,500 phones
 ## South Africa
 
 A study reported on 21 September [finds 34.2% of adults shopped online in 2025 against 79.1% of adults online](https://techafricanews.com/2026/09/21/south-africa-online-shopping-lags-internet-access/): 23.9% among LSM 3 to 6 adults, and 31.7% of women against 36.9% of men.
+
+## Tanzania
+
+The universal service fund said [it will build 250 ICT laboratories of 20 computers each in public schools this financial year, where it had supplied about five computers a school](https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools).
 
 ## Uganda
 

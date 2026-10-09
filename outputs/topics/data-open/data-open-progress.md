@@ -1,10 +1,10 @@
 ---
 title: Open data — progress report, October 2025 – October 2026
-compiled: 2026-10-08
-period: 2025-10-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2025-10-01 to 2026-10-09
 subject: data.open
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1fd458e2e83c
+record: 354c7b0dd66a
 ---
 
 # Open data: progress report, October 2025 – October 2026

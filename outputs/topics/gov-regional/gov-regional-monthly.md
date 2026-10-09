@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 7534e17138aa
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
+record: b55a0bc9056b
 ---
 
 # Regional collaboration: monthly update, September – October 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -37,6 +37,10 @@ The region began drafting the rules for moving data across its own borders, in t
 
 The digital ministers of Chad and Nigeria [held talks in N'Djamena on 16 September 2026 on fibre connectivity and artificial intelligence](https://techafricanews.com/2026/09/17/chad-nigeria-advance-digital-cooperation-fibre-connectivity-ai/). No agreement is on record.
 
+## Comoros
+
+Bahrain's e-government authority [held its first knowledge-exchange session with the Comorian digital agency, on the governance and approval of government technology projects](https://www.iga.gov.bh/en/article/iga-holds-the-first-digital-government-knowledge-exchange-session-with-comoros).
+
 ## Congo
 
 A seminar with the DRC [closed with a Brazzaville Declaration urging digitalised migration and customs procedures along the 2,400km border](https://www.groupecongomedias.com/congo-rdc-mobilite-transfrontaliere-brazzaville-jette-les-bases-dun-nouvel-espace-commun/); it binds neither government.
@@ -59,7 +63,7 @@ The communications ministry [took part in the second Arab artificial-intelligenc
 
 ## Eswatini
 
-A second regional channel opened alongside the SADC one. The Digital Cooperation Organization's secretary-general [met the ICT minister on cooperation to accelerate digital transformation, the country presenting 1.76m mobile connections against a population of about 1.3m and 95% fourth-generation coverage](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation). These are exploratory talks with no memorandum, work programme or membership step recorded, and the connection and coverage figures are the government's own.
+A second regional channel opened alongside the SADC one. The Digital Cooperation Organization's secretary-general [met the ICT minister on cooperation to accelerate digital transformation, the country presenting 1.76m mobile connections against a population of about 1.3m and 95% fourth-generation coverage](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation). These are exploratory talks with no memorandum, work programme or membership step recorded, and the connection and coverage figures are the government's own. The communications commission and Lesotho's regulator [signed a memorandum providing for cybersecurity cooperation, including coordinated incident response, and exchange of information and resources](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/).
 
 ## Ethiopia
 
@@ -89,7 +93,7 @@ The ICT cabinet secretary [signed the Digital Cooperation Organization's Charter
 
 ## Lesotho
 
-The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published.
+The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published. The communications authority and Eswatini's regulator [signed a memorandum providing for cybersecurity cooperation, including coordinated incident response, and exchange of information and resources](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/).
 
 ## Liberia
 
@@ -157,7 +161,7 @@ The revenue authority [signed a third customs memorandum with Uganda's, the firs
 
 ## Togo
 
-On 23 September the data-protection authority [signed a cooperation agreement with its Malian counterpart covering information exchange, complaints handling, compliance checks and staff capacity-building, with cross-border data transfers among the subjects discussed](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise). The agreement text is not published.
+On 23 September the data-protection authority [signed a cooperation agreement with its Malian counterpart covering information exchange, complaints handling, compliance checks and staff capacity-building, with cross-border data transfers among the subjects discussed](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise). The agreement text is not published. The data-protection authority [hosted its Beninese counterpart at Lome on 2 and 3 October 2026](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/) under their cooperation agreement.
 
 ## Tunisia
 

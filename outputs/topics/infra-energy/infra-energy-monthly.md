@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: infra.energy
-places: BWA; COD; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO; ZWE
-record: 7b7c38d9217b
+places: BWA; COD; EGY; ETH; GMB; KEN; LBY; SLE; ZAF; SSD; TGO; ZWE
+record: 2b8dc9d793ec
 ---
 
 # Energy: monthly update, September – October 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -22,6 +22,10 @@ The price of the energy the sector runs on is under review, and the utility's ow
 ## DR Congo
 
 A philanthropic accelerator [announced on 24 September a demonstration that will add computing load to an existing solar plant with underused generation, serving more than 30,000 people](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/), to test whether demand for compute can make mini-grids pay without raising local tariffs. The site, operator, computing load and start date have not been stated.
+
+## Egypt
+
+A government official said [the electricity ministry had approved an EGP 3bn expansion of the El Alamein and Dabaa transformer zones, with two 500 kV substations, to serve data centres](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/).
 
 ## Ethiopia
 

@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: infra.cybersec
 places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: 93d33c93a60a
+record: aacae482d24a
 ---
 
 # Cybersecurity: monthly update, September – October 2026
@@ -45,7 +45,7 @@ Cybersecurity cooperation moved outside the usual partners. A Russian embassy de
 
 ## Eswatini
 
-The ICT minister [launched the 2026 cybersecurity awareness month on 1 October and said the ministry has begun reviewing the National Cybersecurity Strategy](https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/); no scope or timetable is published. The Director of Public Prosecutions said at the launch that her office has set up a Cybercrime Unit and trained prosecutors on the Computer Crime and Cybercrime Act 2022.
+The ICT minister [launched the 2026 cybersecurity awareness month on 1 October and said the ministry has begun reviewing the National Cybersecurity Strategy](https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/); no scope or timetable is published. The Director of Public Prosecutions said at the launch that her office has set up a Cybercrime Unit and trained prosecutors on the Computer Crime and Cybercrime Act 2022. The cybersecurity agency [held the country's first national cyber drill, a multi-sector ransomware simulation facilitated by Lesotho's regulator](https://swazibridge.com/article/index.php?iywtrre=eFWv).
 
 ## Ethiopia
 
@@ -59,7 +59,7 @@ The government [raised its vigilance level after more than 900,000 intrusion ale
 
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
-On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x).
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x). The communications minister said [13 critical information infrastructure sectors are designated and about 200 institutions identified as owners, with compliance mandatory](https://techafricanews.com/2026/10/08/ghana-strengthens-cyber-resilience-critical-infrastructure/).
 
 ## Kenya
 
@@ -123,7 +123,7 @@ After the insurance-software supplier breached in June reportedly paid a ransom,
 
 Fake traffic-fine messages quoting motorists' correct number plates led the road traffic infringement agency [to consider investigating whether the national vehicle database had been accessed](https://www.itweb.co.za/article/inside-the-fake-aarto-fine-scam/DZQ58vV8BazMzXy2). The fines platform being impersonated says its own system was not breached.
 
-Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised.
+Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised. The capacity added was commercial, not state: a 40-desk [security operations centre opened in Cape Town under a R55m investment](https://www.itweb.co.za/article/integrity360-invests-r55m-in-ct-base-and-its-largest-soc/8OKdWMDXLoYMbznQ), serving customers across Africa and internationally.
 
 ## Tanzania
 

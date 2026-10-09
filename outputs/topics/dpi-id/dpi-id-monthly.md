@@ -1,15 +1,15 @@
 ---
 title: Digital Identity and CRVS — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: dpi.id
-places: DZA; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 5d0054f441a1
+places: DZA; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
+record: 46e898a69d09
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -131,6 +131,10 @@ The digital driving licence [was soft-launched on the KOREK app on 29 September,
 
 The digital agency [has submitted a consultancy shortlist to the World Bank for a national mobile digital identity and electronic signature infrastructure, with contracting planned for September 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services).
 
+## Namibia
+
+A trade publication reported [the electronic identity card's September rollout delayed because the legal framework had not been finalised, as two ministries briefed Parliament](https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id).
+
 ## Niger
 
 The passport break with ECOWAS is complete. [Mass enrolment for the confederal biometric passport opens on 15 September at 45,000 FCFA, enrolment for the ECOWAS passport having closed on 10 September](https://nigerdiaspora.net/societe-niger/niger-lenrolement-pour-le-passeport-biometrique-aes-debute-le-15-septembre-2026).
@@ -147,11 +151,11 @@ A second use for election hardware was floated rather than agreed: the admission
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
-On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/).
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/).
 
 ## Rwanda
 
-Enrolment passed ten million in September. The identification agency [put biometric capture at more than 10 million people across 27 of 30 districts as enrolment opened in Rusizi on 16 September](https://umunota.com/en/over-10-million-rwandans-registered-for-digital-id/), against about 14 million expected and a June 2027 deadline after which legacy cards lapse. The agency described the credential as usable as a card, as a QR code on a phone and through a separate access token.
+Enrolment passed ten million in September. The identification agency [put biometric capture at more than 10 million people across 27 of 30 districts as enrolment opened in Rusizi on 16 September](https://umunota.com/en/over-10-million-rwandans-registered-for-digital-id/), against about 14 million expected and a June 2027 deadline after which legacy cards lapse. The agency described the credential as usable as a card, as a QR code on a phone and through a separate access token. The identification agency [suspended the photography exercise for the digital identity card, naming no resumption date, while pre-enrolment continues online](https://ukwelitimes.com/en/nida-temporarily-suspends-photography-exercise-for-e-ids).
 
 ## Senegal
 
@@ -169,7 +173,7 @@ The credential was proposed for speech as well as services. On 7 September the d
 
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
-In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly. The home affairs department's quarterly report [records a missed target to start procuring digital ID hosting infrastructure](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The same report [records a missed target to revise the identification and registration Bill for public comment](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html).
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly. The home affairs department's quarterly report [records a missed target to start procuring digital ID hosting infrastructure](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The same report [records a missed target to revise the identification and registration Bill for public comment](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The transport department told Parliament [a Presidency-led working group is exploring digital driving licences within the government's digital identity framework](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences). The transport department briefed Parliament on [draft regulations extending light-vehicle licence cards from five to ten years, citing breakdowns of the card printing machine](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences).
 
 ## Sudan
 
@@ -191,7 +195,7 @@ More than six million people [have been registered for the unique identification
 
 The mobile identity spread to another ministry. An agriculture ministry circular [requires every body under it to integrate E-Houwiya into its online services by 15 November 2026, making its identifier the sole reference for any new service and requiring strong multi-factor authentication](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/).
 
-On 29 September the health minister [set a target of a unique health identifier and a digital medical record for every citizen before the end of 2026](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No coverage figure accompanied the target.
+On 29 September the health minister [set a target of a unique health identifier and a digital medical record for every citizen before the end of 2026](https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/). No coverage figure accompanied the target. The Sahloul university hospital [reported 180,000 health identifiers unified under the national health identifier, first among public hospitals](https://www.lapresse.tn/2026/10/07/avec-180-000-identifiants-uniques-le-chu-de-sahloul-leader-national-en-transition-numerique/).
 
 ## Uganda
 

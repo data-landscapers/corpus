@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: data.statistics
 places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: 0f4db301e85e
+record: 6dab8ebc17eb
 ---
 
 # National statistics: monthly update, September – October 2026
@@ -71,7 +71,7 @@ The planning minister [launched the country's first general census of enterprise
 
 ## Kenya
 
-The communications regulator and the University of Nairobi [began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/), with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
+The communications regulator and the University of Nairobi [began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/), with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held. The social development directorate [drafted a second Inclusive Data Charter action plan for 2026 to 2030, widening the first plan's disability focus to gender, children and older persons](https://www.data4sdgs.org/news/kenyas-second-idc-action-plan-expands-countrys-commitments-inclusive-data).
 
 ## Lesotho
 
@@ -107,7 +107,7 @@ An outside assessment put the statistical system at two speeds. An International
 
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 
-The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026.
+The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/).
 
 ## South Africa
 

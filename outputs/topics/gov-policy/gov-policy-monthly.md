@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: gov.policy
 places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 5ac25e2730b2
+record: dbc2db35a170
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
@@ -41,7 +41,7 @@ On 10 September the prime minister [named state modernisation and digital transf
 
 ## Chad
 
-The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/).
+The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/). The ministry and the United Nations regional commission [validated the national data governance strategy at a workshop in N'Djamena, on seven pillars](https://www.uneca.org/stories/chad-validates-national-data-governance-strategy%2C-marking-a-key-milestone-in-its-digital).
 
 ## Comoros
 
@@ -143,7 +143,7 @@ The open source policy Cabinet approved in July was [presented by the communicat
 
 ## South Africa
 
-On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date. The universal service agency said [the minister has approved the fund's manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea), after a draft was withdrawn in November 2025 and reissued for comment in February 2026.
+On 4 September the regulator gazetted two market inquiries. The first covers [the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf); the regulator [named Netflix and WhatsApp, saying such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/). The second covers [the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf). Each runs in four phases. Neither sets a date for findings or commits the regulator to act on them. The regulator [withdrew both notices of its inquiry into over-the-top services on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), to be republished at a later date. The universal service agency said [the minister has approved the fund's manual](https://www.itweb.co.za/article/usaasa-to-implement-approved-usaf-manual/O2rQGqAEg1Yqd1ea), after a draft was withdrawn in November 2025 and reissued for comment in February 2026. The deputy minister said [the redrafted policy is due for ministerial input by the end of November 2026 and at cabinet by the end of 2026/27](https://www.businessday.co.za/business-times/2026-10-03-ai-policy-gets-a-second-chance/).
 
 ## South Sudan
 
@@ -155,7 +155,7 @@ A banker's review published on 21 September [finds no implementation programmes,
 
 ## Togo
 
-A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published. The finance ministry [published a revenue strategy for 2027 to 2031 that puts 57.1% of its cost into digital transformation](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf), electronic invoicing and AI-assisted risk analysis among it.
+A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published. The finance ministry [published a revenue strategy for 2027 to 2031 that puts 57.1% of its cost into digital transformation](https://finances.gouv.tg/wp-content/uploads/2026/09/SRMT_2027-2031_Version_Finale_30_09_2026.pdf), electronic invoicing and AI-assisted risk analysis among it. The social protection programme's first component is paying [more than 700,000 people by mobile money on CFA 3.5bn of initial funding](https://sahellibertynews.com/2026/09/14/togo-when-prime-minister-faure-gnassingbe-makes-social-protection-the-cornerstone-of-inclusion-and-resilience/). The figure is the target identified, not households paid.
 
 ## Tunisia
 

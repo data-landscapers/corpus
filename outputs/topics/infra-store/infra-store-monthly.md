@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: infra.store
 places: DZA; AGO; BWA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN
-record: 8b067b723ba6
+record: e206211e28c5
 ---
 
 # Data Storage: monthly update, September – October 2026
@@ -49,7 +49,7 @@ A data centre was [installed at the national polytechnic institute in Yamoussouk
 
 On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
 
-Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
+Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed. An investment company's chief executive put [installed data-centre IT load at about 15 to 20 MW, against 400 to 500 MW announced, of which about 20 MW is committed](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/). The state digital-finance operator [signed a memorandum with a Chinese cloud provider to explore offering its services to Egyptian businesses from locally hosted infrastructure](https://mena.org.eg/en/news/open-efinance-alibaba-cloud-bring-c44faf96-d3bc-4aa1-8ac0-08bee74d4819).
 
 ## Eswatini
 
@@ -99,7 +99,7 @@ The central information systems division [runs a central backup service for gove
 
 ## Morocco
 
-On 8 September the Dakhla green data-centre campus was [put at 100 hectares and a potential 500MW, part sovereign and part open to private investment, in a portfolio the ministry presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html). No cost, operator, financing close or build date is held.
+On 8 September the Dakhla green data-centre campus was [put at 100 hectares and a potential 500MW, part sovereign and part open to private investment, in a portfolio the ministry presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html). No cost, operator, financing close or build date is held. A British firm announced [its appointment to lead design management and procurement strategy for the platform's planned 20 MW facility near Casablanca](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco).
 
 ## Namibia
 
@@ -123,7 +123,7 @@ On 8 September a ratings agency [rated South Africa's water resilience relativel
 
 In September the commission [said it had received more than 250 submissions, and that the main issue was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure needs and effects on nearby communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/). Civil-society groups repeated the call for construction to stop until that use has been investigated, after Cape Town approved a hyperscale facility; the city came close to running out of water in 2018. The commission has published no finding or timetable.
 
-Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues. A hosting provider for online gaming [announced its first African data centre, in Johannesburg](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/); the site and its capacity are not disclosed.
+Equinix now [puts its South African build-out at about 160MW of added capacity under a R7.5bn investment programme, having opened its Johannesburg facility in 2024, banked land in Johannesburg and Cape Town, and won planning approval in July 2026 for two Cape Town facilities expected to need about 170MW](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The figures combine delivered, approved and planned capacity, and no completion date is given. In the same report the utility [expects a generation surplus of 2GW–3GW over the next few years and names data centres among the demand it wants](https://www.businessday.co.za/companies/2026-09-03-equinix-points-to-data-centres-economic-role-amid-resource-concerns/). The human rights commission's inquiry into the sector's electricity and water use continues. A hosting provider for online gaming [announced its first African data centre, in Johannesburg](https://www.datacenterdynamics.com/en/news/continent-8-technologies-launches-data-center-in-johannesburg-south-africa/); the site and its capacity are not disclosed. [Amazon Web Services' Cape Town region, open since April 2020](https://aws.amazon.com/about-aws/whats-new/2020/04/announcing-aws-africa-cape-town-region/), [carries 154 services](https://www.itweb.co.za/article/aws-puts-23bn-behind-africas-cloud-ai-future/PmxVE7KEYWxqQY85), its own figure. The country's largest bank [expanded its partnership with Huawei to move core banking systems onto a hybrid cloud](https://www.itweb.co.za/article/standard-bank-group-huawei-forge-strategic-cloud-partnership-to-drive-digital-intelligent-finance-in-africa/kLgB1MezZB9q59N4), in phases across 21 African countries; no value or data-residency terms are published.
 
 ## Tanzania
 

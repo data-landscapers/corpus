@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 1f655b40f6d3
+record: aa65407287df
 ---
 
 # Training and skills: monthly update, September – October 2026
@@ -43,7 +43,7 @@ Two cohorts finished. [Ten children aged 9 to 16 completed seven weeks of coding
 
 The national telecommunication institute [signed a memorandum with Cisco to certify 3,000 technology instructors, 1,000 a year for three years](https://www.connectingafrica.com/ai/egypt-cisco-to-train-3-000-ai-instructors) (2 September), and protocols on [AI capacity building with a state authority](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/117432), [enterprise-systems training with a private firm](https://techafricanews.com/2026/09/17/egypts-nti-partners-jupiter-2000-train-youth-enterprise-resource-management/) and [digital transformation and automation with another](https://techafricanews.com/2026/09/21/egypts-nti-partners-with-4dtio-to-train-youth-in-digital-transformation-and-automation/). None publishes a cohort size, cost or placement target.
 
-The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published.
+The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published. The communications and labour ministries [signed a memorandum to digitise the labour ministry's work and run digital-skills programmes for its staff, graduates and job seekers](https://sis.gov.eg/en/media-center/news/communications-minister-joint-efforts-to-boost-youth-digital-skills/).
 
 ## Eswatini
 
@@ -145,7 +145,7 @@ The instrument behind teacher training entered the repository, and it is eleven 
 
 The university's own [programme catalogue](https://etu.univ-lome.tg/information/offre) is now held: licences in software engineering, systems and networks, computing, and artificial intelligence and big data, masters in the last two, and a doctorate in computing. It carries no enrolment or graduate figure and names no cybersecurity degree, so annual output in the field stays unmeasured.
 
-The first artificial-intelligence summer school finished, [training 100 young people in artificial intelligence and big data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data) through the government data laboratory with German technical-cooperation support. The figure matches the hundred places announced; no selection ratio or destination for the cohort is published. The data-protection authority and the Universite de Kara [signed a convention for a professional master's in digital law, cybersecurity and data protection](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-luniversite-de-kara-signent-une-convention-pour-accompagner-la-transformation-numerique-et-developper-les-compete/).
+The first artificial-intelligence summer school finished, [training 100 young people in artificial intelligence and big data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data) through the government data laboratory with German technical-cooperation support. The figure matches the hundred places announced; no selection ratio or destination for the cohort is published. The data-protection authority and the Universite de Kara [signed a convention for a professional master's in digital law, cybersecurity and data protection](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-luniversite-de-kara-signent-une-convention-pour-accompagner-la-transformation-numerique-et-developper-les-compete/). The correspondents scheme reached the state: [thirty-three ministries and public institutions were briefed on naming focal points and certified data-protection correspondents](https://ahouevinfo.tg/technologie-protection-des-donnees-le-togo-accelere-la-mise-en-conformite-de-ses-administrations/), after thirty-two were certified from the private and parastatal sectors. No deadline or count of appointments made is published.
 
 ## Tunisia
 

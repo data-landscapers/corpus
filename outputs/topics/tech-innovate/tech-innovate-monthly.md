@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 1440f3f90cee
+record: 72d3a7b8eede
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
@@ -33,7 +33,7 @@ Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup la
 
 ## DR Congo
 
-The World Bank-financed digital transformation project and the TRANSFORME business-plan competition [signed a protocol on 18 September 2026 for COPA Digital](https://www.transforme.cd/activities/entrepreneuriat-numerique-en-rdc-transforme-et-le-ptn-preparent-le-copa-digital-avec-l-appui-de-la-banque-mondiale), a competition to select, fund and coach digital start-ups, SMEs and incubators, with a pilot first cycle of about sixteen months.
+The World Bank-financed digital transformation project and the TRANSFORME business-plan competition [signed a protocol on 18 September 2026 for COPA Digital](https://www.transforme.cd/activities/entrepreneuriat-numerique-en-rdc-transforme-et-le-ptn-preparent-le-copa-digital-avec-l-appui-de-la-banque-mondiale), a competition to select, fund and coach digital start-ups, SMEs and incubators, with a pilot first cycle of about sixteen months. The digital economy minister [visited a Russian innovation centre as a model for a planned technology park and sovereign data centre in Kinshasa](https://actu7.cd/2026/10/08/transformation-numerique-augustin-kibassa-maliba-sinspire-du-modele-skolkovo-pour-le-futur-technopark-de-kinshasa/).
 
 ## Egypt
 
