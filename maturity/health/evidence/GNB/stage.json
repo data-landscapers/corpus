@@ -4,7 +4,7 @@
     {
       "sub_indicator": "hmis",
       "stage": "3",
-      "governance": "owner:ministry;plan:current",
+      "governance": "owner:ministry;plan:current;finance:donor",
       "tiers": "T3",
       "digitised": "district",
       "last12": "advancing",
@@ -12,9 +12,10 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "GNB-009;GNB-010;GNB-012",
-      "gaps": "No coverage fact is dated after June 2023. Clinics: the 2022 yearbook (GNB-010) counts reports, not centres keying their own, and disagrees with the 2018 pilot value (GNB-020), whose tablet entry from health areas has no later fact and no number of sites. Tiers: the 2019 presentation (GNB-017) gave T1;T2;T3 and the 2022 yearbook row speaks of health centres only. Governance: finance is not stated, and the plan fact (GNB-013, PENSIS 2022-2026) is dated 2022, outside the 36 months, so it is not carried. Last twelve months rests on a climate-data assistance announcement and a testing instance, not on any change in reporting coverage.",
+      "gaps": "No coverage fact is dated after June 2023. Clinics: the 2022 yearbook (GNB-010) counts reports, not centres keying their own, and disagrees with the 2018 pilot value (GNB-020), whose tablet entry from health areas has no later fact and no number of sites. Tiers: the 2019 presentation (GNB-017) gave T1;T2;T3 and the 2022 yearbook row speaks of health centres only. Governance: the plan fact (GNB-013, PENSIS 2022-2026) is dated 2022 and is carried because its period covers the as-at; finance is donor on the one row inside the 36 months (GNB-022, the Global Fund through UNDP), and no domestic line is stated. The October 2026 support agreement (GNB-021) is for data quality, dashboards and patient-tracking tools, not a change in where reports are entered.",
       "note": "Health centres' monthly reports reach DHIS2 by being keyed from paper at the 11 regional health directorates, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics, and the only facility entry on record is a 2018 pilot of unstated size.",
-      "parent": "Parent, 2026-10-07: plan:current restored; the plan the evidence names runs to 2026 and so covers the as-at."
+      "parent": "Parent, 2026-10-07: plan:current restored; the plan the evidence names runs to 2026 and so covers the as-at.",
+      "as_at": "2026-10-10"
     },
     {
       "sub_indicator": "emr",

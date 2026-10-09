@@ -367,6 +367,8 @@ District health offices entered facilities' monthly paper forms into the nationa
 
 Clinics report on paper, and district officers enter their monthly forms into the national reporting system (2026 study).
 
+*Advancing.*
+
 - Healthcare managers interviewed for the study (15 managers, ||Kharas region and national level) state that district HIS officers key the monthly paper summary forms sent in by health facilities into the DHIS2 aggregate module at the district office; the document gives no date for this, so the published date is used ([source, 2026-03-26](https://sajim.co.za/index.php/sajim/article/view/2060/3547)).
 - The managers state that DHIS2 is used at district, regional and national levels while primary health facilities still report on paper tools, and the authors add that most facilities continue to rely on paper and that DHIS2 at the point of care is slow to arrive; no count or share is given, and no date, so the published date is used ([source, 2026-03-26](https://sajim.co.za/index.php/sajim/article/view/2060/3547)).
 

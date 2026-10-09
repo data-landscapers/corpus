@@ -4,7 +4,7 @@
     {
       "sub_indicator": "hmis",
       "stage": "3",
-      "governance": "owner:ministry;finance:donor",
+      "governance": "owner:ministry;plan:current;finance:donor",
       "tiers": "T4",
       "digitised": "facility",
       "last12": "no-change",
@@ -12,8 +12,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-009;GHA-010;GHA-022;GHA-036;GHA-042",
-      "gaps": "No share or count with a denominator of primary clinics entering their own reports: the ministry's 2022 plan says only that 'most facilities' enter into DHIMS2 themselves, and the one survey (86 purposively chosen CHPS zones in six Northern Region districts, March 2024) both reports entry at CHPS level (GHA-009) and CHPS staff without logins or computers whose paper goes to the district (GHA-010). The only clinics figure is none of 16 facilities in 2016-2017, a sample that does not carry the country; no plan fact falls inside the 36 months (the 2022-2025 plan is dated June 2022) and nothing on DHIMS2 is dated inside the twelve months.",
-      "note": "District entry from clinics' paper forms is established and facility entry exists at CHPS level, but stage 4 needs more than half of primary clinics on a share or a count with a denominator and none is published. Coverage stops at 3, so the cap rule does not bite."
+      "gaps": "No share or count with a denominator of primary clinics entering their own reports: the ministry's 2022 plan says only that 'most facilities' enter into DHIMS2 themselves, and the one survey (86 purposively chosen CHPS zones in six Northern Region districts, March 2024) both reports entry at CHPS level (GHA-009) and CHPS staff without logins or computers whose paper goes to the district (GHA-010). The only clinics figure is none of 16 facilities in 2016-2017, a sample that does not carry the country. The plan is the Ghana Health Service's digital health policy and strategy for 2023-2027 (GHA-043), which names DHIMS II and covers the as-at; the ministry's 2022-2025 plan has ended. Nothing on DHIMS2 is dated inside the twelve months.",
+      "note": "District entry from clinics' paper forms is established and facility entry exists at CHPS level, but stage 4 needs more than half of primary clinics on a share or a count with a denominator and none is published. Coverage stops at 3, so the cap rule does not bite.",
+      "as_at": "2026-10-10"
     },
     {
       "sub_indicator": "emr",

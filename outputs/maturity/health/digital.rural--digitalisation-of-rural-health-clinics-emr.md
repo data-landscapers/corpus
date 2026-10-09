@@ -409,6 +409,8 @@ One hospital, Mavalane General, went digital in December 2024; no clinic is show
 
 An electronic system is fully in place at only two hospitals; most hospitals and clinics keep paper records (2025 study).
 
+*Advancing.*
+
 - The study (20 IT and health-information staff of the Ministry of Health and Social Services head office and Windhoek Central Hospital) states that the Integrated Health Care Information Management System, launched in 2011 for every facility, was fully deployed only at Windhoek Central Hospital and Oshakati State Hospital, with 19 of 20 respondents saying it has been used there since launch and 1 that it was never used; the system is described as still under development; no date is given for the position, so the published date is used ([source, 2025-09](https://journal-isi.org/index.php/isi/article/download/1185/612)).
 - The authors state that the ministry still relies on paper records in most hospitals and clinics, that practitioners reach a patient's record only through the paper health passport and manual records, that there is no unique patient identifier and no integrated electronic record system in the public sector; no date is given, so the published date is used ([source, 2025-09](https://journal-isi.org/index.php/isi/article/download/1185/612)).
 

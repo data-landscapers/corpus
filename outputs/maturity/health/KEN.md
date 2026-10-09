@@ -24,7 +24,7 @@
 
 **Where data is digitised.** At the private network Penda Health, [clinical officers recorded consultations directly in a cloud-based EMR at the point of care](<https://www.nature.com/articles/s41591-026-04503-6>) between April and July 2025. Regulations in force from 11 April 2025 [require certified systems to query and update a shared health record within twenty-four hours of each encounter](<https://new.kenyalaw.org/akn/ke/act/ln/2025/77/eng@2025-04-11>).
 
-**Last twelve months.** The government [set 30 September 2026 for facilities to move to HMIS, then extended the deadline to 30 October 2026, with 28 private platforms certified by the Digital Health Agency](<https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains>).
+**Last twelve months.** The government [set 30 September 2026 for facilities to move to HMIS, then extended the deadline to 30 October](<https://www.standardmedia.co.ke/health/health-science/article/2001559265/why-sha-is-shifting-hospitals-from-portal-to-hmis-duale-explains>). By 6 October [38 of 518 faith-based facilities had moved, beside 6,427 public ones](<https://www.health.go.ke/cs-duale-calls-timely-transition-hmis-and-sha-contracting>).
 
 **Primary clinics doing the digital input.** The Framework states that [TaifaCare HMIS was deployed in 1,500 public health facilities](<https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf>) by 4 December 2025. Penda Health [ran the same EMR in its 16 primary care clinics](<https://www.nature.com/articles/s41591-026-04503-6>) in Nairobi and Kiambu counties in 2025.
 
