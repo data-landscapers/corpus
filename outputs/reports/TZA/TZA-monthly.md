@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: TZA
-ledger_rows: 62
+ledger_rows: 64
 not_held: 5
-record: 5946ab9492ca
+record: 1f9350e74e27
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -28,7 +28,7 @@ The [Citizen Budget 2026/27, published on 22 September, lists the digital servic
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The community development ministry told parliament on 31 August 2026 that [a National Advisory Committee on Online Child Protection and Safety has been established and that an online-safety education campaign had reached 1,811,212 children across all 26 mainland regions](https://allafrica.com/stories/202609010237.html).
+The community development ministry told parliament on 31 August 2026 that [a National Advisory Committee on Online Child Protection and Safety has been established and that an online-safety education campaign had reached 1,811,212 children across all 26 mainland regions](https://allafrica.com/stories/202609010237.html). The data protection commission reported [15,146 institutions registered with it and 445 personal-data complaints received by August 2026](https://www.therespondents.co.tz/2026/10/pdpc-bolsters-safeguards-as-personal.html).
 <!-- /narrative -->
 ### Standards
 
@@ -182,6 +182,11 @@ The instrument behind teacher training entered the repository, and it is eleven 
 
 <!-- narrative: inclusion--include-access -->
 Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The universal service fund said [it will build 250 ICT laboratories of 20 computers each in public schools this financial year, where it had supplied about five computers a school](https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools).
 <!-- /narrative -->
 
 ## Data

@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: SWZ
-ledger_rows: 33
+ledger_rows: 35
 not_held: 3
-record: 554153c6795b
+record: fba9b2c12b06
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -35,7 +35,7 @@ The data protection authority [is taking information desks into major towns in a
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-A second regional channel opened alongside the SADC one. The Digital Cooperation Organization's secretary-general [met the ICT minister on cooperation to accelerate digital transformation, the country presenting 1.76m mobile connections against a population of about 1.3m and 95% fourth-generation coverage](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation). These are exploratory talks with no memorandum, work programme or membership step recorded, and the connection and coverage figures are the government's own.
+A second regional channel opened alongside the SADC one. The Digital Cooperation Organization's secretary-general [met the ICT minister on cooperation to accelerate digital transformation, the country presenting 1.76m mobile connections against a population of about 1.3m and 95% fourth-generation coverage](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation). These are exploratory talks with no memorandum, work programme or membership step recorded, and the connection and coverage figures are the government's own. The communications commission and Lesotho's regulator [signed a memorandum providing for cybersecurity cooperation, including coordinated incident response, and exchange of information and resources](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/).
 <!-- /narrative -->
 
 ## Finance
@@ -58,7 +58,7 @@ On 24 September the science park [confirmed an incident affecting the National D
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The ICT minister [launched the 2026 cybersecurity awareness month on 1 October and said the ministry has begun reviewing the National Cybersecurity Strategy](https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/); no scope or timetable is published. The Director of Public Prosecutions said at the launch that her office has set up a Cybercrime Unit and trained prosecutors on the Computer Crime and Cybercrime Act 2022.
+The ICT minister [launched the 2026 cybersecurity awareness month on 1 October and said the ministry has begun reviewing the National Cybersecurity Strategy](https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/); no scope or timetable is published. The Director of Public Prosecutions said at the launch that her office has set up a Cybercrime Unit and trained prosecutors on the Computer Crime and Cybercrime Act 2022. The cybersecurity agency [held the country's first national cyber drill, a multi-sector ransomware simulation facilitated by Lesotho's regulator](https://swazibridge.com/article/index.php?iywtrre=eFWv).
 <!-- /narrative -->
 
 ## DPI

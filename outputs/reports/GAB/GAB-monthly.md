@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: GAB
-ledger_rows: 41
+ledger_rows: 42
 not_held: 15
-record: e51449caf0a3
+record: 2abe4cb10e1b
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -102,7 +102,7 @@ The social security fund [launched e.CNSS, letting employers register online fro
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The education ministry's priorities for the new school year restate the delivery counts: [1,000 tablets and 500 interactive screens delivered over 2025-2026, with the digital rollout continuing into 2026-2027](https://agpgabon.ga/gabon-education-camelia-ntoutoume-leclercq-fixe-les-priorites-pour-lannee-scolaire-2026-2027/). These are the ministry's own device counts and nothing is published against them for learner reach, usage or maintenance — the same shape the connected-schools figures have carried all year.
+The education ministry's priorities for the new school year restate the delivery counts: [1,000 tablets and 500 interactive screens delivered over 2025-2026, with the digital rollout continuing into 2026-2027](https://agpgabon.ga/gabon-education-camelia-ntoutoume-leclercq-fixe-les-priorites-pour-lannee-scolaire-2026-2027/). These are the ministry's own device counts and nothing is published against them for learner reach, usage or maintenance — the same shape the connected-schools figures have carried all year. The supplier of the Gabon Connect project [presented the integrated customs operations system it is developing, whose first lot covers mineral clearance and the special hydrocarbons warehouse](https://fr.infosgabon.com/douanes-le-gabon-passe-au-controle-numerique/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

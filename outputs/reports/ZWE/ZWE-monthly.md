@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: ZWE
-ledger_rows: 31
+ledger_rows: 33
 not_held: 7
-record: 736e5aee3b9e
+record: db69fe540352
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -81,7 +81,7 @@ The registry check reached the wallets. The central bank [shut down ghost, ficti
 <!-- narrative: dpi--dpi-pay -->
 The World Bank [warned that the tax on intermediated money transfers discourages digital transactions, weakens intermediation and pushes activity toward cash](https://businesstimes.co.zw/world-bank-warns-zim-5/), as banks and businesses press for its abolition. No government response is recorded.
 
-The stock exchange [launched InvoiceX, an invoice-discounting marketplace under its entrepreneurship exchange, reported on 24 September](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/): financiers bid for buyer-authenticated invoices of US$1,000 to US$1.5m and suppliers are to be paid within 48 hours for fees of 0.65 per cent. Whether financing is with recourse is not stated. The central bank governor said [it is negotiating to build a real-time payments system on India's UPI technology](https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html), with an agreement possible by 31 October 2026.
+The stock exchange [launched InvoiceX, an invoice-discounting marketplace under its entrepreneurship exchange, reported on 24 September](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/): financiers bid for buyer-authenticated invoices of US$1,000 to US$1.5m and suppliers are to be paid within 48 hours for fees of 0.65 per cent. Whether financing is with recourse is not stated. The central bank governor said [it is negotiating to build a real-time payments system on India's UPI technology](https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html), with an agreement possible by 31 October 2026. The system's parent bank said [Zimbabwe is processing US$5.8m a month through the pan-African payment and settlement system](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/).
 <!-- /narrative -->
 ### Registries
 
@@ -91,7 +91,7 @@ The justice minister told Parliament on 9 September that [when the 24-month vali
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS. [The electronic case management system went live in Midlands and Mashonaland West on 1 October 2026](https://www.heraldonline.co.zw/paperless-courts-spread-to-midlands-mashonaland-west/).
+The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS. [The electronic case management system went live in Midlands and Mashonaland West on 1 October 2026](https://www.heraldonline.co.zw/paperless-courts-spread-to-midlands-mashonaland-west/). The home affairs minister told the National Assembly [the police are piloting a crime management system built by a state technology institute at Warren Park and other stations](https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: COM
-ledger_rows: 7
+ledger_rows: 8
 not_held: 24
-record: 0d6015789db5
+record: aab446881af7
 ---
 
 # Comoros: monthly update, September – October 2026
@@ -24,6 +24,11 @@ UNDP and the national digital agency [signed a memorandum on 16 September for a 
 
 <!-- narrative: governance--gov-policy -->
 In September the agency turned to measuring where it stands. It and UNDP [signed a memorandum on 16 September to run a national digital readiness assessment covering skills, connectivity, public services, regulation and the digital economy across the three islands](https://www.wearetech.africa/fr/fils/actualites/tech/transformation-numerique-les-comores-passent-a-l-evaluation), presented as a way to target the next investments under the 2028 strategy. No timetable or publication date is given.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Bahrain's e-government authority [held its first knowledge-exchange session with the Comorian digital agency, on the governance and approval of government technology projects](https://www.iga.gov.bh/en/article/iga-holds-the-first-digital-government-knowledge-exchange-session-with-comoros).
 <!-- /narrative -->
 
 ## ICT Infrastructure

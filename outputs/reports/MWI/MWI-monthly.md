@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, September – October 2026
-compiled: 2026-10-03
-period: 2026-09-01 to 2026-10-03
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: MWI
-ledger_rows: 38
+ledger_rows: 39
 not_held: 35
-record: 584f45811ea2
+record: 1aad44525e2b
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -98,6 +98,11 @@ The tobacco regulator's new biometric grower registration [broke down at centres
 
 <!-- narrative: dpi--dpi-mis -->
 The health ministry's care information system [is in pilot at a central hospital and selected health centres](https://mwnation.com/digital-health-records-system-in-pilot-phase/), giving each patient a unique identifier; the ministry expects most facilities digitised within about a year. The examinations board [released the 2026 MSCE results online on 7 September](https://www.itweb.africa/article/malawi-exam-results-move-online/PmxVE7KEYzKqQY85): of 188,169 candidates, 111,510 passed.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The procurement authority reported [7,417 suppliers registered and 216 of 250 targeted procurement plans published on the e-procurement system at 5 October 2026](https://www.ppda.mw/newsdetail/89).
 <!-- /narrative -->
 
 ## Digitalisation

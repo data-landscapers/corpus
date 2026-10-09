@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: GNB
-ledger_rows: 6
+ledger_rows: 7
 not_held: 2
-record: 4d46bee948a8
+record: 2791088448b1
 ---
 
 # Guinea-Bissau: monthly update, September – October 2026
@@ -47,8 +47,7 @@ The satellite operator's licence stayed provisional. The regulator [extended Sta
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-
-The prime minister [pledged computerised teacher posting, salaries paid through banks or mobile money, and a digital audit of the education payroll](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/), with no timetable published.
+The prime minister [pledged computerised teacher posting, salaries paid through banks or mobile money, and a digital audit of the education payroll](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/), with no timetable published. The platform's developers [signed an agreement to support the public health institute in strengthening the national health information system, with new HIV and tuberculosis patient-tracking tools](https://dhis2.org/hisp-to-strengthen-guinea-bissaus-national-dhis2-system/).
 <!-- /narrative -->
 
 ## Digitalisation

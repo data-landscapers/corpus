@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: EGY
-ledger_rows: 86
-not_held: 45
-record: ec5654372b3b
+ledger_rows: 90
+not_held: 44
+record: 12d916d18ba0
 ---
 
 # Egypt: monthly update, September – October 2026
@@ -73,7 +73,12 @@ The main exchange, EG-IX, [peaked at 722.19Gb/s on 7 September across 18 member 
 <!-- narrative: ict-infrastructure--infra-store -->
 On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
 
-Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
+Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed. An investment company's chief executive put [installed data-centre IT load at about 15 to 20 MW, against 400 to 500 MW announced, of which about 20 MW is committed](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/). The state digital-finance operator [signed a memorandum with a Chinese cloud provider to explore offering its services to Egyptian businesses from locally hosted infrastructure](https://mena.org.eg/en/news/open-efinance-alibaba-cloud-bring-c44faf96-d3bc-4aa1-8ac0-08bee74d4819).
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+A government official said [the electricity ministry had approved an EGP 3bn expansion of the El Alamein and Dabaa transformer zones, with two 500 kV substations, to serve data centres](https://enterpriseam.com/egypt/2026/10/07/a-consortium-is-forming-to-take-an-equity-stake-in-an-egyptian-data-center-but-the-sectors-barriers-run-deep/).
 <!-- /narrative -->
 
 ## DPI
@@ -177,7 +182,7 @@ The communications ministry [signed a three-year memorandum with Intel on 16 Sep
 <!-- narrative: capacity--capacity-training -->
 The national telecommunication institute [signed a memorandum with Cisco to certify 3,000 technology instructors, 1,000 a year for three years](https://www.connectingafrica.com/ai/egypt-cisco-to-train-3-000-ai-instructors) (2 September), and protocols on [AI capacity building with a state authority](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/117432), [enterprise-systems training with a private firm](https://techafricanews.com/2026/09/17/egypts-nti-partners-jupiter-2000-train-youth-enterprise-resource-management/) and [digital transformation and automation with another](https://techafricanews.com/2026/09/21/egypts-nti-partners-with-4dtio-to-train-youth-in-digital-transformation-and-automation/). None publishes a cohort size, cost or placement target.
 
-The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published.
+The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published. The communications and labour ministries [signed a memorandum to digitise the labour ministry's work and run digital-skills programmes for its staff, graduates and job seekers](https://sis.gov.eg/en/media-center/news/communications-minister-joint-efforts-to-boost-youth-digital-skills/).
 <!-- /narrative -->
 ### Research institutions
 

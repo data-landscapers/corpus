@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: KEN
-ledger_rows: 120
+ledger_rows: 122
 not_held: 7
-record: 163c3595c71d
+record: ca05ebf574cd
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -136,7 +136,7 @@ Tanzania's competition regulator [put KCB Group's stake in the payments company 
 
 An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
 
-The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). A tier-one bank's fintech arm [launched a wallet that sends to mobile-money services and bank accounts](https://techcabal.com/2026/10/06/why-equity-bank-is-building-a-neo-wallet-for-everyday-cash/); no user figure is published.
+The central bank [licensed 29 more digital credit providers on 30 September, taking the total to 281 from more than 900 applications since March 2022, with 9,596,509 loans worth KSh165.1bn made by licensed lenders by August](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). A tier-one bank's fintech arm [launched a wallet that sends to mobile-money services and bank accounts](https://techcabal.com/2026/10/06/why-equity-bank-is-building-a-neo-wallet-for-everyday-cash/); no user figure is published. An industry association reported [the bank-owned instant payment switch's chief executive saying a portable account identifier is ready and institutions must begin mapping customers to it](https://www.linkedin.com/pulse/pesalinks-new-id-makes-bank-transfers-easier-bin1f).
 <!-- /narrative -->
 ### Registries
 
@@ -241,7 +241,7 @@ One programme did reach the refugee-hosting counties: a Dutch-funded course [tar
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The communications regulator and the University of Nairobi [began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/), with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
+The communications regulator and the University of Nairobi [began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/), with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held. The social development directorate [drafted a second Inclusive Data Charter action plan for 2026 to 2030, widening the first plan's disability focus to gender, children and older persons](https://www.data4sdgs.org/news/kenyas-second-idc-action-plan-expands-countrys-commitments-inclusive-data).
 <!-- /narrative -->
 
 ## Geopolitics

@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: SLE
 ledger_rows: 26
 not_held: 5
-record: 251962d636e4
+record: 20b23f26b083
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -43,7 +43,7 @@ The communication, technology and innovation ministry, with UNICEF and a digital
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The contract to network government offices was challenged. On 21 September the Independent Procurement Review Panel [opened an investigation into a bidder's complaint over the Digital Transformation Project's contract to supply and install wide and local area networks across ministries, departments and agencies](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/), and said it would publish the outcome. No award, supplier or contract value is on record.
+The contract to network government offices was challenged. On 21 September the Independent Procurement Review Panel [opened an investigation into a bidder's complaint over the Digital Transformation Project's contract to supply and install wide and local area networks across ministries, departments and agencies](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/), and said it would publish the outcome. No award, supplier or contract value is on record. The procurement review panel [dismissed a bidder's complaint over the government network contract and directed the ministry to open financial proposals and proceed to award](http://blacknews.uk/iprp-vindicates-mocti).
 <!-- /narrative -->
 ### Energy
 
@@ -128,7 +128,7 @@ The registration authority and the correctional service [registered 100 inmates 
 <!-- narrative: data--data-statistics -->
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 
-The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026.
+The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026. The statistics agency [deployed the technology for the digital census, with enumeration by tablet set for 2 to 16 December 2026](https://sierraloaded.sl/news/stats-mapping-deploys-digital-system-census/).
 <!-- /narrative -->
 
 ## Geopolitics

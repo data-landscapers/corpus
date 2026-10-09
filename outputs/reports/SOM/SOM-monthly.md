@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: SOM
-ledger_rows: 15
+ledger_rows: 16
 not_held: 2
-record: dbb3c9a76ab6
+record: 426d0e2bd52c
 ---
 
 # Somalia: monthly update, September – October 2026
@@ -49,7 +49,7 @@ The credential was proposed for speech as well as services. On 7 September the d
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Somaliland's central bank [met banks and mobile-money operators on 11 September 2026 and it was agreed that the central bank will lead a credit information bureau](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/). No design, timetable or funding figure is on file.
+Somaliland's central bank [met banks and mobile-money operators on 11 September 2026 and it was agreed that the central bank will lead a credit information bureau](https://wargeyskadawan.com/2026/09/12/somaliland-oo-dardargelinaysa-horumarinta-iyo-hir-gelinta-nidaamka-xogta-daymaha/). No design, timetable or funding figure is on file. The migration agency, the federal government and the Netherlands [launched a programme that will support civil registration and legal identity systems and expand registration in underserved areas](https://www.dawan.africa/news/iom-somalia-and-netherlands-launch-migration-management-programme).
 <!-- /narrative -->
 ### Sectoral management information systems
 

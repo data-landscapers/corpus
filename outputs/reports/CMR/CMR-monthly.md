@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: CMR
-ledger_rows: 27
+ledger_rows: 29
 not_held: 4
-record: 97a7e3fc293a
+record: 0267bc70bb8d
 ---
 
 # Cameroon: monthly update, September – October 2026
@@ -53,7 +53,7 @@ The EU's digital money was set out in September: [CFAF 9.83bn for the regional D
 <!-- narrative: ict-infrastructure--infra-connect -->
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
 
-The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing.
+The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing. The state operator and the secondary education ministry [signed a framework agreement to interconnect 130 schools in the three northern regions](https://techafricanews.com/2026/10/08/camtel-and-minesec-sign-deal-to-expand-digital-education-across-northern-cameroon/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -88,7 +88,7 @@ The youth ministry [signed a three-year renewable partnership on 14 September 20
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A third mobile money provider [was licensed as a payment institution by finance ministry order of 21 July, announced on 17 September](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile), into a market held by the two main operators. It has not yet launched.
+A third mobile money provider [was licensed as a payment institution by finance ministry order of 21 July, announced on 17 September](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile), into a market held by the two main operators. It has not yet launched. A Cameroonian fintech and a logistics group [presented to Douala traders a pilot that pays Chinese suppliers in yuan from CFA francs and consolidates and tracks the cargo](https://www.businesstechafrica.co.za/article/cameroon-s-reasy-and-agl-pilot-digital-payment-and-logistics-service-for-china-imports).
 <!-- /narrative -->
 ### Registries
 

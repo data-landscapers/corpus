@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: GHA
-ledger_rows: 88
+ledger_rows: 90
 not_held: 9
-record: 8844b1c17bbb
+record: 8995768c2517
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -78,7 +78,7 @@ The state's own operator got its board back. On 3 September a seven-member board
 
 The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release. At the 2.3 GHz stage the second operator [took all three lots it applied for, of five on offer](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/), with neither the assignment date nor the fee stated.
 
-On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced. The dominant operator [announced on 2 October that the regulator had notified it of 15-year awards of two lots in the 700 MHz band for US$100.9m and all three lots in the 3 GHz band for US$101.1m](https://mtn.com.gh/wp-content/uploads/2026/10/MTNGH-GSE-Announcement-MTN-Ghana-Awarded-Spectrum-in-the-700MHz-and-3GHz-Bands.pdf), to be deployed for 5G once the licences issue.
+On 25 September in New York the President [discussed with Amazon's chief global affairs officer using the company's low-orbit satellite network to connect underserved communities](https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion). No partnership, licence application or service date has been announced. The dominant operator [announced on 2 October that the regulator had notified it of 15-year awards of two lots in the 700 MHz band for US$100.9m and all three lots in the 3 GHz band for US$101.1m](https://mtn.com.gh/wp-content/uploads/2026/10/MTNGH-GSE-Announcement-MTN-Ghana-Awarded-Spectrum-in-the-700MHz-and-3GHz-Bands.pdf), to be deployed for 5G once the licences issue. The second operator's parent group [signed a three-year, US$200m network modernisation memorandum with its Chinese equipment supplier](https://techfocus24.com/telecel-group-announces-200-million-network-modernization-for-telecel-ghana/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -90,7 +90,7 @@ The storage estate gained a number rather than a building. The communications mi
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
-On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x).
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x). The communications minister said [13 critical information infrastructure sectors are designated and about 200 institutions identified as owners, with compliance mandatory](https://techafricanews.com/2026/10/08/ghana-strengthens-cyber-resilience-critical-infrastructure/).
 <!-- /narrative -->
 
 ## DPI

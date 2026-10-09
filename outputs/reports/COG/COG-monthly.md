@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: COG
-ledger_rows: 15
+ledger_rows: 16
 not_held: 6
-record: 7051d68e7b76
+record: eea0eede7ddf
 ---
 
 # Congo: monthly update, September – October 2026
@@ -23,7 +23,7 @@ Works on the national data centre [were put at 82% at an inspection on 22 Septem
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-On 17 September the prime minister said [the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694), and the media fair's closing resolutions recommended its reform. The resolutions come from media professionals; no draft has been announced.
+On 17 September the prime minister said [the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694), and the media fair's closing resolutions recommended its reform. The resolutions come from media professionals; no draft has been announced. The money-transfer regulator said [it will enforce article 13 of the 2026 finance law, which requires every operator to register on its digital platform and declare all transfers monthly, on pain of a FCFA 20 million fine](https://www.aci.cg/congo-finances-vers-la-digitalisation-du-secteur-des-transferts-de-fonds-pour-une-meilleure-transparence/).
 <!-- /narrative -->
 ### Regional collaboration
 

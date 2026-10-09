@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: TCD
-ledger_rows: 28
+ledger_rows: 29
 not_held: 22
-record: 64757161dd54
+record: 90eaacbe7782
 ---
 
 # Chad: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The capital's city council [told suppliers on 29 September that their invoices m
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/).
+The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/). The ministry and the United Nations regional commission [validated the national data governance strategy at a workshop in N'Djamena, on seven pillars](https://www.uneca.org/stories/chad-validates-national-data-governance-strategy%2C-marking-a-key-milestone-in-its-digital).
 <!-- /narrative -->
 ### Legislation and regulation
 

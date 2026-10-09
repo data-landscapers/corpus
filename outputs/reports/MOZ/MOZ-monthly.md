@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: MOZ
-ledger_rows: 33
+ledger_rows: 35
 not_held: 19
-record: 59f62426bfbf
+record: 3be8b36d4324
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -67,7 +67,7 @@ ICT equipment financed by a bilateral cooperation agency and delivered through U
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
 
-The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/).
+The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/). The regulator [put a proposed national Internet para Todos strategy to validation, with 2030 targets for internet use, digital skills and public access points](https://bcl.org.mz/noticia/mocambique-valida-estrategia-para-acelerar-acesso-a-internet-e-inclusao-digital/).
 <!-- /narrative -->
 
 ## DPI
@@ -87,7 +87,7 @@ The digital agency [has submitted a consultancy shortlist to the World Bank for 
 <!-- narrative: dpi--dpi-pay -->
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 
-Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/). The central bank governor [said the country will join the regional settlement system with the metical in the first quarter of 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/), so that invoices from South Africa are settled from metical accounts. The central bank governor was reported saying [the metical could be used for regional payments through the settlement system from January 2027](https://timesdetodos.com/2026/10/metical-podera-ser-usado-em-pagamentos-na-sadc-a-partir-de-janeiro-de-2027/).
+Central bank figures [put electronic money accounts at 130.9 per 100 adults in the second quarter of 2026, against 33.8 for traditional bank accounts, with 144.7 per 100 men against 118.5 per 100 women](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/). A commercial bank and the dominant mobile money operator [signed a memorandum on 2 September to let merchants move mobile-money receipts directly into their bank accounts](https://www.diarioeconomico.co.mz/2026/09/02/negocios/empresas/facim-2026-absa-e-m-pesa-reforcam-parceria-para-facilitar-pagamentos-digitais-e-gestao-financeira-dos-negocios/). The central bank governor [said the country will join the regional settlement system with the metical in the first quarter of 2027](https://360mozambique.com/economy/banking/mozambique-to-join-sadc-real-time-payments-system-in-q1-2027/), so that invoices from South Africa are settled from metical accounts. The central bank governor was reported saying [the metical could be used for regional payments through the settlement system from January 2027](https://timesdetodos.com/2026/10/metical-podera-ser-usado-em-pagamentos-na-sadc-a-partir-de-janeiro-de-2027/). The central bank [licensed a payments aggregator as a payment service provider, among the first such licences, allowing merchants to be onboarded directly across the three mobile money operators](https://panafricanvisions.com/2026/10/pawapay-becomes-one-of-the-first-licensed-psps-in-mozambique/).
 <!-- /narrative -->
 ### Registries
 

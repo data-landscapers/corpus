@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: MUS
 ledger_rows: 19
 not_held: 7
-record: 594c39848fb9
+record: de50ce714311
 ---
 
 # Mauritius: monthly update, September – October 2026
@@ -31,7 +31,7 @@ Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn eco
 <!-- narrative: governance--gov-legislate -->
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
 
-The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed. A law firm's reading has the amendment Act [recognise electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/).
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed. A law firm's reading has the amendment Act [recognise electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/). The ICT ministry [held its working session with Meta on faster content removal, Kreol moderation and proposed amendments to the Cybersecurity and Cybercrime Act, with no framework yet signed](https://mitci.govmu.org/mitci/government-engages-meta-to-curb-online-abuse-for-safer-digital-environment/).
 <!-- /narrative -->
 ### Data protection
 

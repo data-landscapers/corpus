@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: NAM
-ledger_rows: 26
+ledger_rows: 29
 not_held: 9
-record: dadadaebc6be
+record: 8487bc5852d0
 ---
 
 # Namibia: monthly update, September – October 2026
@@ -58,7 +58,7 @@ The largest mobile operator [holds a N$32.3m award under the Universal Service F
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator's April-June bulletin [records active mobile subscriber modules up 2 per cent to about 2.79 million, mobile broadband up 2 per cent and fixed broadband up 1 per cent, with about N$243m invested in networks](https://neweralive.na/cyber-threats-rise-57-despite-ict-sector-growth/). Modules count connections, not people.
 
-On 28 September the largest mobile operator [confirmed 5G in five more towns, Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb, and began building 19 sites across nine regions in a second phase](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/).
+On 28 September the largest mobile operator [confirmed 5G in five more towns, Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb, and began building 19 sites across nine regions in a second phase](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/). A second licensed operator [launched the low earth orbit constellation's service countrywide, with residential and commercial packages](https://www.itweb.africa/article/paratus-namibia-launches-eutelsats-oneweb-leo-connectivity/dgp45qaBnYVvX9l8).
 <!-- /narrative -->
 ### Data Storage
 
@@ -75,6 +75,11 @@ The trust chain acquired its first link below the root, and the state is on both
 
 ## DPI
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+A trade publication reported [the electronic identity card's September rollout delayed because the legal framework had not been finalised, as two ministries briefed Parliament](https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id).
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -90,7 +95,7 @@ The statistics agency [launched the first national labour-market information sys
 <!-- narrative: dpi--dpi-govtech -->
 One service moved online and the warning about it came from the people it is for. The health ministry launched a digital disability assessment system, and [disability advocates warned that poor rural connectivity, inadequate equipment and limited digital skills could turn it into a new barrier rather than remove one](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/), a youth disability organisation welcoming the digital shift but making its success conditional on whether the system is accessible beyond the major urban centres and on whether follow-up support exists. No launch date, site coverage, assessment volume, accessibility standard or offline fallback is published, and the ministry's own account of the system is not held.
 
-The civil-service pension fund [is building an integrated pension administration system with a Kenyan firm at about N$40m over some 16 months, with under N$5m spent so far](https://thebrief.com.na/2026/09/gipf-to-invest-n40m-in-new-pension-administration-system/), and has signed data-sharing memoranda with the revenue agency, the finance and home affairs ministries and participating financial institutions. The figures are the fund's own.
+The civil-service pension fund [is building an integrated pension administration system with a Kenyan firm at about N$40m over some 16 months, with under N$5m spent so far](https://thebrief.com.na/2026/09/gipf-to-invest-n40m-in-new-pension-administration-system/), and has signed data-sharing memoranda with the revenue agency, the finance and home affairs ministries and participating financial institutions. The figures are the fund's own. Cabinet [directed the ICT ministry to develop a standardised template for reporting the government services available online](https://www.nampa.org/text/23034916).
 <!-- /narrative -->
 
 ## Digitalisation

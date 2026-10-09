@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: NGA
-ledger_rows: 136
+ledger_rows: 137
 not_held: 9
-record: b9c4c4dc79e0
+record: d2317e97a04f
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -113,7 +113,7 @@ A second use for election hardware was floated rather than agreed: the admission
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
-On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/).
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

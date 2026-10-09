@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: LSO
-ledger_rows: 13
+ledger_rows: 14
 not_held: 4
-record: a065b35ec705
+record: 0952320972da
 ---
 
 # Lesotho: monthly update, September – October 2026
@@ -35,8 +35,7 @@ The ICT ministry's principal secretary told UNGA81 side meetings that the minist
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-
-The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published.
+The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published. The communications authority and Eswatini's regulator [signed a memorandum providing for cybersecurity cooperation, including coordinated incident response, and exchange of information and resources](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/).
 <!-- /narrative -->
 
 ## ICT Infrastructure

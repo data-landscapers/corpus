@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: ZMB
-ledger_rows: 36
+ledger_rows: 39
 not_held: 44
-record: 250779f91210
+record: 26c73946d14f
 ---
 
 # Zambia: monthly update, September – October 2026
@@ -31,6 +31,11 @@ The second term opened on a new blueprint. The state ICT institute [endorsed the
 The regulator removed an operator from the market. It [revoked a network and service licence with effect from 14 September, citing persistent failures to meet regulatory, operational and financial obligations](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/), after assessing the operator's representations.
 
 The technology ministry [opened consultations on amending the Electronic Communications and Transactions Act No. 4 of 2021, with a Lusaka Province meeting reported on 30 September](https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/): the amendment, approved in principle by Cabinet in September 2025, would end the tie between licensing certification and time-stamping providers and critical-information-infrastructure designation, and strengthen the national public key infrastructure under ZICTA. No draft text is published.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The technology ministry's permanent secretary said [the country is implementing a national child online protection strategy for 2025 to 2029](https://www.unicef.org/zambia/press-releases/zambia-launches-child-justice-week-2026-call-strengthen-protection-children-digital).
 <!-- /narrative -->
 ### Standards
 
@@ -101,7 +106,7 @@ The office platform was ordered across the whole of government. The Secretary to
 
 The office system moved beyond ministries for the first time. The airports corporation [became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/) — the same directive that told every government institution to adopt it now reaching the commercial arm of the state.
 
-The Public Service Management Division said on 23 September that [a digital platform for the public service funeral scheme, run with an insurer, will roll out in the first week of October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/), letting members update their details, register beneficiaries and track claims by phone or computer instead of on paper.
+The Public Service Management Division said on 23 September that [a digital platform for the public service funeral scheme, run with an insurer, will roll out in the first week of October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/), letting members update their details, register beneficiaries and track claims by phone or computer instead of on paper. The meteorological department and the agriculture ministry [are building a national digital climate advisory service that sends farmers localised forecast and agronomic advice by text message](https://tomorrownow.org/how-zambia-is-building-a-digital-climate-advisory-service-its-farmers-can-act-on/).
 <!-- /narrative -->
 
 ## Digitalisation
@@ -153,7 +158,7 @@ A Zambian firm founded in 2023, Mytochondria, [uses satellite imagery and artifi
 ### US / hyperscaler activities
 
 <!-- narrative: geopolitics--geopol-usa -->
-The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/).
+The health minister said [the health memorandum with the United States was finalised and due for signature after a specimen-sharing clause was removed](https://www.lusakatimes.com/2026/10/06/zambia-ready-to-sign-us1-5-billion-us-health-deal-after-specimen-sharing-clause-is-dropped/). Zambia and the United States [signed the five-year health financing memorandum, put at US$2.49bn, after the specimen-sharing and patient-data clauses were removed](https://www.latimes.com/world-nation/story/2026-10-08/u-s-zambia-sign-2-49b-health-financing-pact-after-removing-data-specimen-sharing-terms). A Zambian outlet reported [a data sharing agreement signed beside the health memorandum, limited to aggregated and de-identified programme data](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership).
 <!-- /narrative -->
 ### India activities
 

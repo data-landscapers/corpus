@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: LBR
-ledger_rows: 28
+ledger_rows: 29
 not_held: 6
-record: 16dd7f49109a
+record: a7935267497b
 ---
 
 # Liberia: monthly update, September – October 2026
@@ -96,7 +96,7 @@ A private company [said its offline-first electronic health record went into cli
 <!-- narrative: dpi--dpi-govtech -->
 The internal audit agency [launched an audit management system on 10 September to automate audits across ministries, agencies and public corporations](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/), a year after [tendering a consultancy to build it](https://iaa.gov.lr/processes-automation/); no cost, vendor or onboarding count is published.
 
-The state auditor is following it: the General Auditing Commission [has begun automating public-sector audits, with KPMG contracted under a World Bank-supported project to build the software](https://www.thenewdawnliberia.com/gac-automates-public-audits/), disclosed on 22 September with no cost or go-live date.
+The state auditor is following it: the General Auditing Commission [has begun automating public-sector audits, with KPMG contracted under a World Bank-supported project to build the software](https://www.thenewdawnliberia.com/gac-automates-public-audits/), disclosed on 22 September with no cost or go-live date. The deputy information minister said [the online police clearance platform had generated more than US$200,000 since its introduction in May 2026](https://www.thenewdawnliberia.com/police-online-clearance-generates-us200k/).
 <!-- /narrative -->
 
 ## Technology

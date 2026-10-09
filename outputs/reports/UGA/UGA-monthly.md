@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: UGA
-ledger_rows: 59
+ledger_rows: 60
 not_held: 11
-record: 003c75f6e87b
+record: bee104d6c983
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -121,7 +121,7 @@ The facility record system drew its first district-level complaint on this recor
 <!-- narrative: dpi--dpi-govtech -->
 The procurement system was restated as a fiscal-discipline instrument rather than a procurement one, the finance minister setting it [alongside budget-execution controls and the accounting profession's own role in evidence-based decision-making at a professional seminar on 3 September](https://www.finance.go.ug/media-center/news-and-updates/musasizi-tasks-accountants-fiscal-discipline-accountability). No new onboarding or throughput figures came with it.
 
-The revenue authority [told manufacturers its replacement tax platform has been in build since February 2026, web-only and keyed on national identity and business registration numbers](https://mulengeranews.com/ura-engages-manufacturers-on-new-tax-reforms-digital-systems-and-import-fee-changes/), an account that sits unreconciled with the award the Appeals Tribunal set aside.
+The revenue authority [told manufacturers its replacement tax platform has been in build since February 2026, web-only and keyed on national identity and business registration numbers](https://mulengeranews.com/ura-engages-manufacturers-on-new-tax-reforms-digital-systems-and-import-fee-changes/), an account that sits unreconciled with the award the Appeals Tribunal set aside. The government printer [made the electronic Uganda Gazette free to the public, with the gazette digitised back to 1902](https://uppc.go.ug/news/uppc-opens-free-digital-access-uganda-gazette).
 <!-- /narrative -->
 
 ## Digitalisation

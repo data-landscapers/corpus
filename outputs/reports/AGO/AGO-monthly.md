@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: AGO
-ledger_rows: 39
+ledger_rows: 40
 not_held: 6
-record: a531865f3f9e
+record: c4dab064417c
 ---
 
 # Angola: monthly update, September – October 2026
@@ -23,7 +23,7 @@ The statistics institute [put a revision of the statistics law and a draft 2026-
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held.
+The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. The authorisation became [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026, giving the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/).
 <!-- /narrative -->
 ### Regional collaboration
 

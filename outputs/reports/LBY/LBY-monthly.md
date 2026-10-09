@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: LBY
-ledger_rows: 33
+ledger_rows: 34
 not_held: 2
-record: ebda27475b57
+record: 5824a722a80c
 ---
 
 # Libya: monthly update, September – October 2026
@@ -128,4 +128,12 @@ A foreign cultural body [signed a memorandum giving Benghazi university's studen
 
 <!-- narrative: data--data-statistics -->
 The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published. A green industry centre [published a report of industrial and environmental indicators recording 305 registered industrial establishments, 301 of them private, and 26,034 workers](https://libyaherald.com/2026/09/green-industry-centre-report-provides-valuable-sector-data-for-policy-and-plan-formulation).
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+The communications authority and the United States State Department [signed a strategic cooperation framework covering digital infrastructure, artificial intelligence, data centres, cybersecurity and satellite communications](https://lana.gov.ly/post.php?id=367155&lang=en).
 <!-- /narrative -->

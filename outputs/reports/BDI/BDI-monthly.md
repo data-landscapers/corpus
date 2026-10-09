@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: BDI
-ledger_rows: 8
+ledger_rows: 9
 not_held: 15
-record: 50bfb4d3db97
+record: 2abe6fae9582
 ---
 
 # Burundi: monthly update, September – October 2026
@@ -50,6 +50,11 @@ The register, not the card, is what carries the right to vote. The electoral com
 
 <!-- narrative: dpi--dpi-mis -->
 [A platform to link the penal chain from the judicial police to the prisons was reported in preparation on 5 October](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite), with online complaints and case tracking planned for citizens. No date, funder or supplier is stated. The same report [sets the plan against internet use of 11.1% of the population at the end of 2025](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-la-numerisation-de-la-justice-face-au-defi-de-la-connectivite).
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+The presidency [adopted a locally built messaging application as a channel for citizens' grievances, with no terms disclosed and no rule stated on control of the servers](https://www.connectingafrica.com/social-technology/burundi-opts-for-a-local-app-for-presidency-citizen-interactions).
 <!-- /narrative -->
 
 ## Technology

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, September – October 2026
-compiled: 2026-10-05
-period: 2026-09-01 to 2026-10-05
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: COD
-ledger_rows: 47
+ledger_rows: 51
 not_held: 7
-record: 1897e04bbdae
+record: faa624e5ebfa
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -84,12 +84,12 @@ On International Identity Day the identification office [said preparations for t
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The revenue chain's own record came into dispute. The tax directorate [wrote to the finance minister on 3 September alleging deleted and back-dated receipts on the ISYS-REGIES platform](https://congoguardian.com/2026/09/10/presumee-cyber-maffia-a-la-banque-centrale-sur-les-recettes-de-la-dgi-versions-croisees/), and the central bank [replied on 10 September that validated transactions are traceable and cannot be altered, explaining the gaps against its accounting system](https://actualite.cd/2026/09/11/rdc-la-bcc-dement-toute-manipulation-des-recettes-de-letat-et-clarifie-les-ecarts-entre). No independent audit is published.
+The revenue chain's own record came into dispute. The tax directorate [wrote to the finance minister on 3 September alleging deleted and back-dated receipts on the ISYS-REGIES platform](https://congoguardian.com/2026/09/10/presumee-cyber-maffia-a-la-banque-centrale-sur-les-recettes-de-la-dgi-versions-croisees/), and the central bank [replied on 10 September that validated transactions are traceable and cannot be altered, explaining the gaps against its accounting system](https://actualite.cd/2026/09/11/rdc-la-bcc-dement-toute-manipulation-des-recettes-de-letat-et-clarifie-les-ecarts-entre). No independent audit is published. The national economy ministry [announced the official national launch of the LOBA consumer-protection platform from 6 October 2026, through the competition commission and the sector regulators](https://economie.gouv.cd/communique/95).
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own. The President [gave the government three months, at the Council of Ministers of 25 September, to define a single identifier for businesses recognised across administrations](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/); no lead agency or system is named.
+A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own. The President [gave the government three months, at the Council of Ministers of 25 September, to define a single identifier for businesses recognised across administrations](https://numerico.cd/2026/09/29/rdc-felix-tshisekedi-veut-instaurer-un-identifiant-numerique-unique-pour-les-entreprises/); no lead agency or system is named. The land affairs minister said [implementation of the land law had begun, with digitisation directorates created, more than 350 officials trained and three of Kinshasa's nine land districts in the first phase](https://acp.cd/economie/rdc-lapport-de-la-digitalisation-du-secteur-foncier-presente-a-kinshasa/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -109,12 +109,12 @@ The minister [said on 28 September that the Prime Minister had also signed the d
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The digital economy ministry [announced in a communiqué of 22 September that Anthropic's Claude is officially available in the country, for Claude.ai and commercial API access](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-claude-l-assistant-d-ia-d-anthropic-desormais-officiellement-accessible), citing approaches it had made to the company. No terms were given.
+The digital economy ministry [announced in a communiqué of 22 September that Anthropic's Claude is officially available in the country, for Claude.ai and commercial API access](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-claude-l-assistant-d-ia-d-anthropic-desormais-officiellement-accessible), citing approaches it had made to the company. No terms were given. A private survey of 2,280 adults in the 26 provincial capitals found [61% aware of artificial intelligence in March 2026, against 54% a year earlier](https://globalnewsrdc.net/societe/intelligence-artificielle-en-rdc-la-notoriete-progresse-les-usages-saccelerent-target/).
 <!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-The World Bank-financed digital transformation project and the TRANSFORME business-plan competition [signed a protocol on 18 September 2026 for COPA Digital](https://www.transforme.cd/activities/entrepreneuriat-numerique-en-rdc-transforme-et-le-ptn-preparent-le-copa-digital-avec-l-appui-de-la-banque-mondiale), a competition to select, fund and coach digital start-ups, SMEs and incubators, with a pilot first cycle of about sixteen months.
+The World Bank-financed digital transformation project and the TRANSFORME business-plan competition [signed a protocol on 18 September 2026 for COPA Digital](https://www.transforme.cd/activities/entrepreneuriat-numerique-en-rdc-transforme-et-le-ptn-preparent-le-copa-digital-avec-l-appui-de-la-banque-mondiale), a competition to select, fund and coach digital start-ups, SMEs and incubators, with a pilot first cycle of about sixteen months. The digital economy minister [visited a Russian innovation centre as a model for a planned technology park and sovereign data centre in Kinshasa](https://actu7.cd/2026/10/08/transformation-numerique-augustin-kibassa-maliba-sinspire-du-modele-skolkovo-pour-le-futur-technopark-de-kinshasa/).
 <!-- /narrative -->
 
 ## Inclusion

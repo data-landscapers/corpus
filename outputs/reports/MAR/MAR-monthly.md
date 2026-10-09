@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: MAR
-ledger_rows: 25
+ledger_rows: 26
 not_held: 14
-record: 67f45b1165c5
+record: 02aae60ca075
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -58,7 +58,7 @@ The digital transition ministry and a critical digital-infrastructure supplier [
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-On 8 September the Dakhla green data-centre campus was [put at 100 hectares and a potential 500MW, part sovereign and part open to private investment, in a portfolio the ministry presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html). No cost, operator, financing close or build date is held.
+On 8 September the Dakhla green data-centre campus was [put at 100 hectares and a potential 500MW, part sovereign and part open to private investment, in a portfolio the ministry presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html). No cost, operator, financing close or build date is held. A British firm announced [its appointment to lead design management and procurement strategy for the platform's planned 20 MW facility near Casablanca](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco).
 <!-- /narrative -->
 
 ## DPI

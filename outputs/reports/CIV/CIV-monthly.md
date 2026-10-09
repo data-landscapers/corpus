@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: CIV
-ledger_rows: 33
+ledger_rows: 34
 not_held: 10
-record: c7013838567a
+record: e0f63f1139e9
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -74,6 +74,11 @@ The credit bureau's data turned out to be mostly stale. On figures as at 10 June
 
 <!-- narrative: dpi--dpi-id -->
 The government [launched a feasibility study for a national authentication platform and identity wallet](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/), due by January 2027.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html).
 <!-- /narrative -->
 ### Sectoral management information systems
 

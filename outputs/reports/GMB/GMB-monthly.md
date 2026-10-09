@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-09
+period: 2026-09-01 to 2026-10-09
 place: GMB
-ledger_rows: 44
+ledger_rows: 45
 not_held: 3
-record: 55a381f7c32a
+record: 7de061847bed
 ---
 
 # Gambia: monthly update, September – October 2026
@@ -92,7 +92,7 @@ The month's one management system came from outside government. The Gambia Red C
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published. The finance ministry, the revenue authority and the national single window [introduced a digital duty waiver application system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system) in place of a paper process, promising a decision within 72 hours where requirements are met; no go-live date is stated.
+The revenue authority [announced on 20 September a memorandum with the Liberia Revenue Authority, which will help design and build a prototype revenue collection dashboard](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation); the developer of Liberia's dashboard is to spend an initial three weeks in Banjul. No build start or go-live date is published. The finance ministry, the revenue authority and the national single window [introduced a digital duty waiver application system](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system) in place of a paper process, promising a decision within 72 hours where requirements are met; no go-live date is stated. The government [began issuing a biometric driving licence valid for three years, replacing annual renewal](https://foroyaa.net/gambia-begins-rollout-of-new-three-year-driving-licence/).
 <!-- /narrative -->
 
 ## Technology
