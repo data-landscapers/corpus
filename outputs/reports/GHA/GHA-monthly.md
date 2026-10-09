@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: GHA
-ledger_rows: 90
-not_held: 9
-record: 8995768c2517
+ledger_rows: 91
+not_held: 10
+record: ceff0a64677c
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -90,7 +90,7 @@ The storage estate gained a number rather than a building. The communications mi
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
-On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x). The communications minister said [13 critical information infrastructure sectors are designated and about 200 institutions identified as owners, with compliance mandatory](https://techafricanews.com/2026/10/08/ghana-strengthens-cyber-resilience-critical-infrastructure/).
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published. The central bank [said on 1 October it is developing a fraud intelligence hub for financial institutions to share emerging fraud patterns](https://www.ghanaweb.com/GhanaHomePage/business/BoG-to-strengthen-fraud-control-as-digital-finance-grows-2054751); no launch date is stated. The cyber security authority [put incidents recorded between January and July 2026 at 3,876, about 47% of them online fraud](https://techreviewafrica.com/news/7574/x). The communications minister said [13 critical information infrastructure sectors are designated and about 200 institutions identified as owners, with compliance mandatory](https://techafricanews.com/2026/10/08/ghana-strengthens-cyber-resilience-critical-infrastructure/). The Cyber Security Authority said [Ghana, not the United States Federal Bureau of Investigation, led the operation that arrested eight suspects and rescued 120 suspected trafficking victims at cybercrime centres in Greater Accra](https://www.myjoyonline.com/cyber-security-authority-ghana-led-operation-blackout-not-fbi/).
 <!-- /narrative -->
 
 ## DPI
@@ -174,12 +174,12 @@ Two disability systems came out of one university. Researchers at the Kwame Nkru
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The cyber security authority [launched the 2026 National Cyber Security Awareness Month on 2 September, themed on securing the digital finance system](https://techafricanews.com/2026/09/02/ghana-cyber-security-authority-launches-2026-awareness-month-digital-finance/), and an education charity [began training 60 community digital champions for 52 communities under a Mastercard Foundation fellowship in August](https://www.ghanawebbers.com/GhanaHomePage/NewsArchive/EduSpots-Introduces-Digital-Champions-Program-to-Boost-Learning-in-52-Communities-2170468). Neither reports a reach figure.
+The cyber security authority [launched the 2026 National Cyber Security Awareness Month on 2 September, themed on securing the digital finance system](https://techafricanews.com/2026/09/02/ghana-cyber-security-authority-launches-2026-awareness-month-digital-finance/), and an education charity [launched a nine-month programme on 1 September to certify 60 community digital champions across 52 communities under a Mastercard Foundation fellowship](https://www.citinewsroom.com/2026/09/eduspots-launches-digital-champions-programme-to-accelerate-learning-across-52-ghanaian-communities/). Neither reports a reach figure.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
+The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated.
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 

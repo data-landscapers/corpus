@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: XAF
-ledger_rows: 92
+ledger_rows: 95
 not_held: 3
-record: 1a814d110cc5
+record: e20ce1f9b708
 ---
 
 # Africa: monthly update, September – October 2026
@@ -31,7 +31,7 @@ Three smaller developments: the [Digital Parliaments Project Africa launched at 
 
 African states went into the last round of preparation for the ITU's November conference in Doha. The African Telecommunications Union's [fourth and final preparatory meeting opened in Abidjan on 15 September](https://afriksoir.net/telecommunications-la-4%e1%b5%89-et-derniere-reunion-preparatoire-africaine-avant-la-pp-26-de-doha-sest-ouverte-a-abidjan/), to adopt common African proposals and candidatures for elected posts by 17 September; the adopted report is not yet held.
 
-COMESA [put a draft baseline study of AI across its member states to a validation meeting at Mbabane on 16 to 18 September](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/), the first phase towards a regional AI strategy and model regulatory framework. No date is set for either. The continental disease-control agency's head of digital health [says the health data governance initiative started in 2025 with more than 40 member states, and that the framework will guide who may access health data, for what purpose and for how long](https://www.newtimes.co.rw/article/39420/news/health/africa-cdc-official-continent-lacks-infrastructure-to-run-its-own-health-ai).
+COMESA [put a draft baseline study of AI across its member states to a validation meeting at Mbabane on 16 to 18 September](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/), the first phase towards a regional AI strategy and model regulatory framework. No date is set for either. The continental disease-control agency's head of digital health [says the health data governance initiative started in 2025 with more than 40 member states, and that the framework will guide who may access health data, for what purpose and for how long](https://www.newtimes.co.rw/article/39420/news/health/africa-cdc-official-continent-lacks-infrastructure-to-run-its-own-health-ai). The continental health agency posted [the outcome statement of its primary health care coordination mechanism, endorsed in June 2026 with a digital health forum for interoperability and data governance](https://africacdc.org/news-item/primary-health-care-continental-coordination-mechanism-phc-ccm-outcome-statement/).
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -46,7 +46,7 @@ The continent's data protection authorities marked a date rather than a rule: th
 <!-- narrative: instruments--gov-standards -->
 AFRINIC's own instruments moved on two separate tracks from its governance dispute above. A second policy track opened on address exhaustion from the other end. [Draft 2 of AFPUB-2026-v6-001 would make any IPv4 request conditional on holding or simultaneously requesting IPv6 space, on a deployment plan showing the network's top-25 IPv4 traffic destinations, and on reaching 25% IPv6 within twelve months, 50% within twenty-four and 75% within forty-eight](https://afrinic.net/afpub-2026-v6-001-draft02.html) - 25%, 75% and 95% for content-hosting networks - and the registry's own impact assessment concedes that neither the evidence standard nor the top-25 measurement method is defined. [AFRINIC 37 reached no consensus and the proposal returned to the mailing list](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-ipv6-for-ipv4-control-test), the unresolved question being whether the thresholds measure the operator's own work or adoption controlled by its customers and by external networks. A census of the registry's data went the other way: a frozen copy of the official public WHOIS dump [held 28,206 maintainer objects, of which 1,345 still carried a deprecated MD5-PW or CRYPT-PW method tag and 1,285 carried nothing else](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-whois-dump-1345-deprecated-authentication-labels) - stored labels rather than credentials or proven vulnerabilities, and the registry publishes no operation-specific account of whether the deployed update service would honour, reject or migrate them.
 
-The ITU reported on 23 September that its [digital financial services security recommendations have been adopted by the southern and eastern African regulator associations, are under consideration by the central African one and are at draft stage with the west African one](https://www.itu.int/hub/2026/09/how-an-itu-security-lab-advances-trust-in-digital-financial-services/). No adoption date is given for any of them.
+The ITU reported on 23 September that its [digital financial services security recommendations have been adopted by the southern and eastern African regulator associations, are under consideration by the central African one and are at draft stage with the west African one](https://www.itu.int/hub/2026/09/how-an-itu-security-lab-advances-trust-in-digital-financial-services/). No adoption date is given for any of them. The registry's Board [ratified the recovered-IPv4 soft-landing and quarantine policy on 25 September 2026, listed as awaiting implementation](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-ratifies-three-policies-different-implementation-clocks). The registry's Board [ratified the documented-exception route around the 90% utilisation threshold on 25 September 2026](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-ratifies-three-policies-different-implementation-clocks).
 <!-- /narrative -->
 ### AI
 

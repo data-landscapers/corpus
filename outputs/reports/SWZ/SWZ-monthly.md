@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: SWZ
-ledger_rows: 35
+ledger_rows: 36
 not_held: 3
-record: fba9b2c12b06
+record: 02e65e685aae
 ---
 
 # Eswatini: monthly update, September – October 2026
@@ -73,7 +73,7 @@ In September the Civil Service Commission [found a suspended assistant regional 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/). The bank [began telling customers that its Instant Money service will return as the wallet closes](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced.
+A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/). The bank [began telling customers that its Instant Money service will return as the wallet closes](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced. The provident fund [launched Express Claims, a three-hour payout target piloted for claims up to E5,000, with a card payment gateway for contributions](https://times.co.sz/45780/news/enpf-cuts-claims-processing-from-days-to-three-hours/).
 <!-- /narrative -->
 ### Registries
 

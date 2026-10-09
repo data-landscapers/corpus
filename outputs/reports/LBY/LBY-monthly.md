@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: LBY
 ledger_rows: 34
 not_held: 2
-record: 5824a722a80c
+record: cd67b845d237
 ---
 
 # Libya: monthly update, September – October 2026
@@ -41,7 +41,7 @@ The committee behind the national information system spent its sixth meeting fix
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-The central bank's [statement for January to August 2026 puts spending on the communications authority and its affiliates at LYD 25.2m, all of it salaries and operating costs and nothing in the development chapter, against state outlay of LYD 68.8bn](https://cbl.gov.ly/micifaf/2026/05/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026-4.pdf). The August salaries are not yet in it, and the unified 2026 budget it executes against is not in the repository, so no digital appropriation for the year can be read.
+The central bank's [statement for January to August 2026 puts spending on the communications authority and its affiliates at LYD 25.2m, all of it salaries and operating costs and nothing in the development chapter, against state outlay of LYD 68.8bn](https://cbl.gov.ly/micifaf/2026/05/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026-4.pdf). The August salaries are not yet in it, and the unified 2026 budget it executes against is not in the repository, so no digital appropriation for the year can be read. The central bank's statement for January to September 2026 [puts the communications authority and its affiliates at LYD 31.7m of state outlay of LYD 88.6bn](https://cbl.gov.ly/micifaf/2026/10/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%B3%D9%8A%D8%AA%D9%85%D8%A8%D8%B1-2026.pdf).
 <!-- /narrative -->
 
 ## ICT Infrastructure

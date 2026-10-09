@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: MOZ
 ledger_rows: 35
 not_held: 19
-record: 3be8b36d4324
+record: a20ca25b6ab1
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -67,7 +67,7 @@ ICT equipment financed by a bilateral cooperation agency and delivered through U
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
 
-The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/). The regulator [put a proposed national Internet para Todos strategy to validation, with 2030 targets for internet use, digital skills and public access points](https://bcl.org.mz/noticia/mocambique-valida-estrategia-para-acelerar-acesso-a-internet-e-inclusao-digital/).
+The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/). The regulator [put a proposed national Internet para Todos strategy to validation, with 2030 targets for internet use, digital skills and public access points](https://bcl.org.mz/noticia/mocambique-valida-estrategia-para-acelerar-acesso-a-internet-e-inclusao-digital/). The regulator [validated the national Internet para Todos strategy, which targets 95% broadband coverage and at least 60% of schools connected by 2030](https://itweb.africa/article/mozambique-targets-95-broadband-coverage-by-2030/4r1ly7R9P99vpmda).
 <!-- /narrative -->
 
 ## DPI
@@ -75,7 +75,7 @@ The finance and communications ministries [invited expressions of interest withi
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The digital agency said [the X-Road interoperability platform is being implemented and is expected in the fourth quarter of 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services); no operator or list of connected agencies is on record. Mozambique and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), phased from priority corridors.
+The digital agency said [the X-Road interoperability platform is being implemented and is expected in the fourth quarter of 2026](https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services); no operator or list of connected agencies is on record. Mozambique and four neighbours [adopted a roadmap for customs-to-customs data exchange at a meeting in Pretoria ending 26 August](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), phased from priority corridors. The digital transformation agency [trained 25 technicians from nine public bodies on the X-Road data-exchange layer, led by Estonian experts](https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

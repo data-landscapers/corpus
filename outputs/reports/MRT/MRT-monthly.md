@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, September – October 2026
-compiled: 2026-10-02
-period: 2026-09-01 to 2026-10-02
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: MRT
-ledger_rows: 17
+ledger_rows: 19
 not_held: 3
-record: 2a4663e2aed2
+record: 0a037af24e71
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -62,10 +62,15 @@ A retrospective rather than an operator disclosure, and it is the repository's f
 <!-- narrative: dpi--dpi-registry -->
 The digital and land ministers [presented a national digital addressing system for consultation at a four-day workshop from 29 September 2026](https://www.ami.mr/archives/269446), under the World Bank-financed regional digital integration programme; [a pilot version is expected by the end of 2026](https://www.ecofinagency.com/news-digital/0110-59390-mauritania-plans-end-2026-pilot-of-digital-addressing-system-to-support-e-commerce). Holders of rural land concessions inside the capital's urban zone [were called to register on a national platform by 18 September](https://ami.mr/fr/archives/301729).
 <!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+A news site reported [registration and transfer of pupils for the 2026-2027 school year opening on the Siraj platform on 28 September 2026](https://www.tefassil.mr/ar/node/8801).
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The tax directorate [said public establishments must use an electronic platform for invoicing, tax declarations and payment of taxes and withholdings from 1 November 2026](https://fr.tawassoul.net/mauritanie-les-etablissements-publics-passeront-a-la-facturation-et-aux-paiements-electroniques-des-novembre/): suppliers register invoices on it first, and no invoice within the system may be paid unless validated there. The platform is not named and no legal instrument is cited.
+The tax directorate [said public establishments must use an electronic platform for invoicing, tax declarations and payment of taxes and withholdings from 1 November 2026](https://fr.tawassoul.net/mauritanie-les-etablissements-publics-passeront-a-la-facturation-et-aux-paiements-electroniques-des-novembre/): suppliers register invoices on it first, and no invoice within the system may be paid unless validated there. The platform is not named and no legal instrument is cited. The national solidarity agency [launched a unified digital platform for social assistance, opening with transport costs for 11,656 pupils and students from households in the social registry, verified by facial recognition](https://lequotidien.mr/?p=41508).
 <!-- /narrative -->
 
 ## Technology

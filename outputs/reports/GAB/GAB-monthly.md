@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: GAB
-ledger_rows: 42
+ledger_rows: 44
 not_held: 15
-record: 2abe4cb10e1b
+record: 20ca9e339e2e
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -88,6 +88,11 @@ The national transport company is [preparing a biometric transport card for Libr
 
 On 21 September the transport ministry [suspended enrolment for the digitalised driving licence six months after its launch, to review the operation, with 6,993 printed licences awaiting collection in Libreville and no resumption date given](https://www.gabonreview.com/permis-de-conduire-digitalise-lenrolement-suspendu-pres-de-7-000-cartes-disponibles-a-libreville/). The newspaper's unnamed sources link the pause to production-system faults under heavy demand and to power cuts.
 <!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The Council of Ministers [adopted a bill ratifying and amending the digital payments ordinance, regulating payment-solution providers and moving payments progressively to digital form](https://www.journaldugabon.com/communique-final-du-conseil-des-ministres-du-08-octobre-2026/).
+<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
@@ -97,7 +102,7 @@ The beneficiary file behind the social register's intended base is unreliable: t
 
 Three ministers [met SNEDAI Groupe on 14 September on digitalising land tenure and civil registration](https://agpgabon.ga/gabon-digitalisation-le-gouvernement-echange-avec-le-snedai/), the company offering prefinancing; administrations were asked to name focal points, and no contract is held.
 
-The social security fund [launched e.CNSS, letting employers register online from Gabon or abroad instead of queueing at a counter](https://gabonclic.info/gabon-avec-sa-revolution-numerique-la-cnss-conjugue-le-service-public-au-present/). No registration count or link to the business register is stated.
+The social security fund [launched e.CNSS, letting employers register online from Gabon or abroad instead of queueing at a counter](https://gabonclic.info/gabon-avec-sa-revolution-numerique-la-cnss-conjugue-le-service-public-au-present/). No registration count or link to the business register is stated. The preparatory workshop for the national civil-registration conferences [closed with a diagnosis of badly kept archives, irregular data entry and a Civil Code dating from 1972](https://www.gabonreview.com/etat-civil-le-gabon-face-au-defi-de-la-modernisation/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -107,7 +112,7 @@ The education ministry's priorities for the new school year restate the delivery
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The road-safety directorate [inspected the first road-offence cameras across Grand Libreville on 29 September](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/), ahead of going live; how notices will be served and fines collected is not published. The digital economy ministry [announced an electronic document management project, piloted at the general secretariat of the government and the elections directorate](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/). A government messaging system [is due before the end of 2026](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), and [two public Wi-Fi spaces and a driving-licence enrolment centre were delivered at Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/).
+The road-safety directorate [inspected the first road-offence cameras across Grand Libreville on 29 September](https://www.gabonreview.com/infractions-routieres-le-gabon-sapprete-a-franchir-le-pas-de-la-video-verbalisation/), ahead of going live; how notices will be served and fines collected is not published. The digital economy ministry [announced an electronic document management project, piloted at the general secretariat of the government and the elections directorate](https://www.gabonreview.com/gabon-la-ged-amorce-le-basculement-de-ladministration-vers-le-numerique/). A government messaging system [is due before the end of 2026](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), and [two public Wi-Fi spaces and a driving-licence enrolment centre were delivered at Makokou](https://techafricanews.com/2026/09/01/gabon-digital-access-public-wifi-driving-licence-makokou/). The postal company [presented an application hosted in Gabon that combines payments, public services such as birth-certificate requests, postal services and insurance, its app-store launch still to come](https://www.gabonreview.com/poste-s-a-akiba-le-numerique-et-la-logistique-au-coeur-de-la-relance/).
 <!-- /narrative -->
 
 ## Technology

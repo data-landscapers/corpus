@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: DZA
-ledger_rows: 33
+ledger_rows: 34
 not_held: 6
-record: fde3e937abd3
+record: e0ae146f44ec
 ---
 
 # Algeria: monthly update, September – October 2026
@@ -70,7 +70,7 @@ A second unified path was proposed on 3 September. A working meeting at the digi
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against.
+Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against. The digitalisation commission [set out how the national digital identity is obtained, by registration and appointment at the commune, activation and verification against the holder's biometric data](https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

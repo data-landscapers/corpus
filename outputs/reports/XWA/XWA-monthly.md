@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: XWA
-ledger_rows: 22
+ledger_rows: 24
 not_held: 1
-record: 8f4d93eaed32
+record: 7ceb73f52f41
 ---
 
 # West Africa: monthly update, September – October 2026
@@ -53,7 +53,7 @@ The ACE cable consortium [selected new optics, announced on 21 September 2026, t
 ### Cybersecurity
 
 <!-- narrative: systems--infra-cybersec -->
-The regional central bank's Monetary Policy Committee, meeting in Dakar on 9 September 2026, [called on banks to remain vigilant against cyberattacks](https://www.financialafrik.com/2026/09/10/uemoa-pres-de-7-000-milliards-fcfa-de-liquidites-mais-la-bceao-appelle-les-banques-a-la-vigilance/) while finding the union's banking sector sound, with bank liquidity near FCFA 7,000 billion.
+The regional central bank's Monetary Policy Committee, meeting in Dakar on 9 September 2026, [called on banks to remain vigilant against cyberattacks](https://www.financialafrik.com/2026/09/10/uemoa-pres-de-7-000-milliards-fcfa-de-liquidites-mais-la-bceao-appelle-les-banques-a-la-vigilance/) while finding the union's banking sector sound, with bank liquidity near FCFA 7,000 billion. The central bank [awarded the tender for a unified platform for detecting, analysing and responding to cybersecurity incidents](https://ns2.bceao.int/sites/default/files/2026-10/R%C3%A9sultats%20-%20AO_Z00_DBA_054_2026%20-%20Fourniture%20et%20d%C3%A9ploiement%20d%E2%80%99une%20plateforme%20unifi%C3%A9e%20de%20d%C3%A9tection%2C%20d%E2%80%99analyse%20et%20de%20r%C3%A9ponse%20aux%20incidents%20de%20cybers%C3%A9curit%C3%A9%20%C3%A0%20la%20BCEAO.pdf).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -63,7 +63,7 @@ The regional biometric card is now deployed by seven member states — Senegal, 
 ### Digital Payments and Fintech
 
 <!-- narrative: systems--dpi-pay -->
-The instant-payment platform opened to business use: the central bank [homologated the Business APIs of 23 participants on 16 September](https://ns2.bceao.int/sites/default/files/2026-09/Communique%CC%81_Liste%20des%20API-BUSINESS%20de%20PI-SPI%20homologue%CC%81es_sept2026_0.pdf), [nine of them in Senegal and seven in Cote d'Ivoire](https://www.bceao.int/sites/default/files/inline-files/Liste_des_API-Business_PI-SPI_%20homologue%CC%81es_sept2026.pdf), letting firms send and receive payments and submit bulk settlements across the Union whatever the counterparty's provider. The central bank [revised the pricing of person-to-person e-money transfers on the instant-payment platform, effective 2 November 2026](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf): interoperable e-money transactions must go through the platform, national sends of up to FCFA 8,000 a day are free, larger sends may carry up to 0.8 per cent and receipt is free, with the same terms between member states from 1 June 2027. The Union's Council of Ministers [gave an opinion on 2 October on the participation of the central bank and commercial banks in the continental payment system](https://downloads.bceao.int/fr/communique-presse/troisieme-session-ordinaire-du-conseil-des-ministres-de-lunion-au-titre-de-lannee); the communique does not say what it was. A central bank statement [made use of the instant-payment platform mandatory from 2 November 2026 for all interoperable electronic money transactions](https://www.financialafrik.com/en/2026/10/04/bceao-makes-pi-spi-mandatory-revises-its-fees-and-finally-raises-the-question-of-new-financial-services-linked-to-the-platform/).
+The instant-payment platform opened to business use: the central bank [homologated the Business APIs of 23 participants on 16 September](https://ns2.bceao.int/sites/default/files/2026-09/Communique%CC%81_Liste%20des%20API-BUSINESS%20de%20PI-SPI%20homologue%CC%81es_sept2026_0.pdf), [nine of them in Senegal and seven in Cote d'Ivoire](https://www.bceao.int/sites/default/files/inline-files/Liste_des_API-Business_PI-SPI_%20homologue%CC%81es_sept2026.pdf), letting firms send and receive payments and submit bulk settlements across the Union whatever the counterparty's provider. The central bank [revised the pricing of person-to-person e-money transfers on the instant-payment platform, effective 2 November 2026](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20du%202%20octobre%202026.pdf): interoperable e-money transactions must go through the platform, national sends of up to FCFA 8,000 a day are free, larger sends may carry up to 0.8 per cent and receipt is free, with the same terms between member states from 1 June 2027. The Union's Council of Ministers [gave an opinion on 2 October on the participation of the central bank and commercial banks in the continental payment system](https://downloads.bceao.int/fr/communique-presse/troisieme-session-ordinaire-du-conseil-des-ministres-de-lunion-au-titre-de-lannee); the communique does not say what it was. A central bank statement [made use of the instant-payment platform mandatory from 2 November 2026 for all interoperable electronic money transactions](https://www.financialafrik.com/en/2026/10/04/bceao-makes-pi-spi-mandatory-revises-its-fees-and-finally-raises-the-question-of-new-financial-services-linked-to-the-platform/). The central bank announced that [the Union's public Treasuries are being connected to the instant-payment platform, with the Ivorian Treasury already making regular bulk payments through it](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement). The central bank [capped electronic money held by one client at one issuer at FCFA 4m and monthly reloads at FCFA 15m, by an instruction in force from 2 November 2026](https://www.bceao.int/sites/default/files/2026-10/Instruction_plafonds_EME.pdf).
 <!-- /narrative -->
 ### Sectoral management information systems
 

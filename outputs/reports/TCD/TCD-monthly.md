@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: TCD
-ledger_rows: 29
+ledger_rows: 30
 not_held: 22
-record: 90eaacbe7782
+record: 122db93372c7
 ---
 
 # Chad: monthly update, September – October 2026
@@ -80,7 +80,7 @@ The identity agency stated its own position for the first time in the repository
 <!-- narrative: dpi--dpi-pay -->
 The electronic money market has more providers and no newer numbers. [Two further providers have joined the two mobile operators' services, and users report fees they consider high, with competition presented as the hope rather than the position, against 160,000 to 240,000 accounts over 2020 to 2022](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/). No current account count, transaction volume, tariff schedule or regulator series is published, so the market's growth is described and not measured.
 
-A September press account [places the 3,000 payment terminals in the revenue offices, with electronic invoicing compulsory under the 2026 finance law, and finds power cuts, thin provincial connectivity and agents' limited skills holding use back](https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/). No transaction count has been published.
+A September press account [places the 3,000 payment terminals in the revenue offices, with electronic invoicing compulsory under the 2026 finance law, and finds power cuts, thin provincial connectivity and agents' limited skills holding use back](https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/). No transaction count has been published. The telecoms and digital economy minister [set out a transformation of the state postal operator, with a postal bank in the medium term and an integrated payment platform, no budget or date stated](https://lendjampost.com/tchad-haliki-choua-mahamat-devoile-les-grands-chantiers-de-la-poste/).
 <!-- /narrative -->
 ### Registries
 

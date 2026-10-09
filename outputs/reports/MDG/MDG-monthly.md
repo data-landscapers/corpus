@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: MDG
-ledger_rows: 23
+ledger_rows: 25
 not_held: 5
-record: 1e902ced3cdb
+record: 50d876083c4b
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -22,6 +22,11 @@ In payments, the finance ministry [announced a task force on mobile-money compla
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+[Madagascar scores 9 of 16 points against the Open Government Partnership's 12-point eligibility threshold as it seeks to rejoin the body it first joined in December 2016](https://midi-madagasikara.mg/gouvernement-ouvert-madagascar-a-trois-points-du-seuil-requis/).
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -104,4 +109,12 @@ A postal microfinance institution [launched 12-month laptop credit for 1,400 mas
 
 <!-- narrative: inclusion--include-divides -->
 The telecoms regulator [posted the 2025 financial statements of the telecoms and ICT development fund](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf), the universal-service fund it manages, alongside those for 2024. They follow a Cour des comptes audit that asked for all the fund's disbursements to be suspended; whether an auditor's opinion accompanies the statements is not established.
+<!-- /narrative -->
+
+## Data
+
+### Open data
+
+<!-- narrative: data--data-open -->
+The economy and finance ministry [plans wider publication of budget information after an international assessment scored the country below its threshold, and the Cour des comptes will resume publishing the budget settlement document in 2027](https://www.lexpress.mg/2026/10/finances-publiques-les-informations.html).
 <!-- /narrative -->

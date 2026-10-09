@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: CIV
-ledger_rows: 34
+ledger_rows: 35
 not_held: 10
-record: e0f63f1139e9
+record: 95870f656c85
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -74,6 +74,11 @@ The credit bureau's data turned out to be mostly stale. On figures as at 10 June
 
 <!-- narrative: dpi--dpi-id -->
 The government [launched a feasibility study for a national authentication platform and identity wallet](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/), due by January 2027.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The regional central bank said [the Ivorian Treasury, having met all its requirements, already makes regular bulk payments through the Union's instant-payment platform](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement).
 <!-- /narrative -->
 ### Registries
 

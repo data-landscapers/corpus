@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: ETH
 ledger_rows: 28
 not_held: 5
-record: 8d888baa0e93
+record: 9e5e2d9406b6
 ---
 
 # Ethiopia: monthly update, September – October 2026
@@ -78,7 +78,7 @@ A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructu
 <!-- narrative: dpi--dpi-id -->
 The enrolment rules reached the repository for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the repository already holds.
 
-The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/). [The state enterprise running the digital ID began charging banks for record retrievals and biometric authentications](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial), and the bankers' association asked for a consultation with the central bank.
+The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/). [The state enterprise running the digital ID began charging banks for record retrievals and biometric authentications](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial), and the bankers' association asked for a consultation with the central bank. A trade publication reported [a public developer sandbox opened for the digital identity, which counted more than 52 million registrations and 208 million electronic verifications at 9 October 2026](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

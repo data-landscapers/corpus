@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: RWA
 ledger_rows: 37
 not_held: 7
-record: 6e168aa7e6db
+record: b42d7e7e964c
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -45,7 +45,7 @@ On 23 September, at the UN General Assembly, the ICT ministry [signed a digital 
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA additional financing agreement for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/), signed in Kigali on 11 July. No amount is stated.
+Cabinet [approved a bill on 18 September 2026 authorising ratification of an IDA additional financing agreement for a digital-adoption project](https://aenewslive.com/cabinet-meeting-rwanda-appoints-new-officials-at-rwanda-fda-justice-ministry-and-other-institutions/), signed in Kigali on 11 July. No amount is stated. Parliament [ratified EUR 17m of additional financing for digital identity, public data management and cybersecurity, with the project deadline moved to 30 June 2028](https://www.wearetech.africa/en/fils-uk/news/public-management/rwanda-secures-19-million-to-extend-government-digitalization-drive).
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -92,7 +92,7 @@ The central bank put the gap on its own record: [85.3% of Rwandans hold a digita
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
-Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers. The central bank governor said [a digital agricultural lending platform is in a six-month pilot with four lenders, meant to cut farmers' wait for a loan from weeks to under 48 hours](https://www.ktpress.rw/2026/10/rwanda-is-testing-digital-platform-to-get-small-farmers-loans-in-48-hours/).
+Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume. [eKash has carried more than 10.5 million transactions and moved over RWF 960 billion since its launch on 14 July, at a 98.6 per cent success rate](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/); the central bank acknowledges that users still report delays and failed transfers. The central bank governor said [a digital agricultural lending platform is in a six-month pilot with four lenders, meant to cut farmers' wait for a loan from weeks to under 48 hours](https://www.ktpress.rw/2026/10/rwanda-is-testing-digital-platform-to-get-small-farmers-loans-in-48-hours/). The central bank reported [active accounts on the national payment switch at 10.3 million in September 2026, against 2.03 million a year earlier, and a rejection rate below 2%](https://www.ktpress.rw/2026/10/bnr-moves-to-tackle-delayed-ekash-transfers/).
 <!-- /narrative -->
 ### Registries
 

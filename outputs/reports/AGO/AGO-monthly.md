@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: AGO
 ledger_rows: 40
 not_held: 6
-record: c4dab064417c
+record: 193c0d717d0c
 ---
 
 # Angola: monthly update, September – October 2026
@@ -70,8 +70,7 @@ The tax and customs administration [is integrating the commerce ministry's and o
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-
-A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published.
+A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published. A trade publication reported [the instant-payment scheme processing 4.48 million transfers worth Kz 123.85bn in August 2026, the number of operations up 53.3% in a year](https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/).
 <!-- /narrative -->
 ### Registries
 

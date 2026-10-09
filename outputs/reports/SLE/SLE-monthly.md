@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: SLE
-ledger_rows: 26
+ledger_rows: 27
 not_held: 5
-record: 20b23f26b083
+record: 75d29c5fba92
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -53,7 +53,7 @@ Three rural mini-grid sites [were named on 24 September for a philanthropic demo
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The road safety authority [disclosed an unauthorised intrusion into the systems used to produce vehicle licences](https://www.sierraleonemonitor.com/slrsa-alerts-public-fake-vehicle-licences/), with five arrests.
+The road safety authority [disclosed an unauthorised intrusion into the systems used to produce vehicle licences](https://www.sierraleonemonitor.com/slrsa-alerts-public-fake-vehicle-licences/), with five arrests. The communications ministry [confirmed that 44 website addresses were hit on 25 September 2026 by unauthorised access to the system that administers the national internet domain, restored the same day](https://thisdaysl.com/sierra-leone-government-confirms-cyberattack-on-44-websites/).
 <!-- /narrative -->
 
 ## DPI

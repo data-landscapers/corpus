@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: BFA
-ledger_rows: 28
+ledger_rows: 31
 not_held: 8
-record: 2bdff8cdf376
+record: 55065a7d4bf4
 ---
 
 # Burkina Faso: monthly update, September – October 2026
@@ -47,6 +47,11 @@ The digital ministry's sectoral board [approved a 2026 work plan of CFA 61bn, ab
 
 ## ICT Infrastructure
 
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The digital-transition minister [put the national data centre planned for 2028 at an estimated FCFA 20bn](https://lefaso.net/spip.php?article149856).
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -66,7 +71,7 @@ Two states that share a river proposed sharing the data that would stop it drown
 <!-- narrative: dpi--dpi-id -->
 Enrolment then reached the capital under pressure of demand. The identification office [opened nine further sites across Ouagadougou — police stations, arrondissement offices and a cultural centre — and set delivery at 48 hours for a special operation running to 16 September](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/), and ran special enrolment operations across every region for the seventh International Identity Day. No enrolment count accompanies either.
 
-The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it.
+The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it. The digital-transition minister said [enrolment for the digital identity, budgeted at over FCFA 40bn, was due to start in October 2026](https://lefaso.net/spip.php?article149856).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -97,6 +102,14 @@ Automation also failed publicly for the first time. The civil service ministry a
 Electronic signature then arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published. At the same council the Prime Minister [named weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
 
 The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated. The ministry's mid-year report said [222 administrative procedures were described in the first half of 2026 and were being loaded onto the online-procedures platform at 30 June](https://cfinance.news/article/burkina-fasotransformation-digitale-222-procedures-de-dematerialisation-engagees-au-premier-trimestre-2026/).
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+The digital-transition minister said [80 Maisons du citoyen had been launched on a FCFA 10bn government envelope, against a target of one in each of the 351 communes by 2030](https://lefaso.net/spip.php?article149856).
 <!-- /narrative -->
 
 ## Technology

@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: MAR
-ledger_rows: 26
+ledger_rows: 27
 not_held: 14
-record: 02aae60ca075
+record: 2200c8bfdbeb
 ---
 
 # Morocco: monthly update, September – October 2026
@@ -66,7 +66,7 @@ On 8 September the Dakhla green data-centre campus was [put at 100 hectares and 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either.
+The central bank and its Emirati counterpart [signed a memorandum in Abu Dhabi to explore interlinking their instant payment platforms, national card switches and financial messaging systems](https://www.eyeofriyadh.com/news/details/cbuae-bank-al-maghrib-sign-two-mous-to-strengthen-supervisory-cooperation-islamic-finance), with mutual acceptance of domestic cards and an exchange of expertise on central bank digital currencies. A second memorandum covers supervision and Islamic finance. No timetable is stated for either. A central bank working paper said [a proof of concept built with the IMF and the World Bank confirmed the technical feasibility of a retail central bank digital currency, with any issuance a long-term prospect](https://www.bkam.ma/content/download/852055/9193624/file/MDBC_VF_Oct2026.pdf).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
