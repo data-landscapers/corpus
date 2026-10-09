@@ -206,6 +206,7 @@ After 6a, before Step 7. Without the R2 key pair both lines print `R2: declined`
 
 ```bash
 python scripts/methodology.py     # -> site/methodology/ + its four annexes
+python scripts/maturity-site.py   # -> site/maturity/ + site/methodology/maturity/
 ```
 
 Writes no edition; safe to run alone after an edit to `content/`.

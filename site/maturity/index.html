@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maturity Assessment — Data Landscapers</title>
+<meta name="description" content="Where each African country stands on each studied indicator, on a five-stage scale.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://corpus.data-landscapers.io/maturity/">
+<link rel="stylesheet" href="../assets/css/main.css?v=646ebba6">
+<link rel="stylesheet" href="../assets/css/corpus.css?v=d55f78b7">
+<link rel="stylesheet" href="../assets/css/maturity.css?v=2e1b2261">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body class="mat-page">
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/all/">All finance</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+  <main id="main">
+  <div class="mat-construction" role="note"><strong>Under construction.</strong> The Maturity Assessment is being built indicator by indicator; stages shown here are drafts and will change before launch.</div>
+  <div class="mat-wrap">
+    <h1 class="mat-title">Maturity Assessment</h1>
+    <div class="mat-controls">
+      <label class="mat-field"><span>Topic</span><select id="mat-topic"></select></label>
+      <label class="mat-field mat-field--wide"><span>Indicator</span><select id="mat-indicator"></select></label>
+      <div class="mat-buttons">
+        <a class="mat-btn" id="mat-method" href="../methodology/maturity/">Methodology</a>
+        <button class="mat-btn" id="mat-dl-one" type="button" disabled title="Available at launch">Download this indicator (CSV)</button>
+        <button class="mat-btn" id="mat-dl-all" type="button" disabled title="Available at launch">Download all (CSV)</button>
+        <span class="mat-dl-note">Downloads available at launch</span>
+      </div>
+    </div>
+    <div class="mat-body">
+      <div class="mat-mapcol">
+        <div class="mat-map" id="mat-map">
+          <aside class="mat-changes" id="mat-changes" aria-live="polite"></aside>
+        </div>
+        <div class="mat-legend" id="mat-legend"></div>
+      </div>
+      <aside class="mat-side">
+        <section class="mat-side__top" id="mat-side-indicator"></section>
+        <section class="mat-side__bottom" id="mat-side-country" aria-live="polite"></section>
+      </aside>
+    </div>
+    <div class="mat-tooltip" id="mat-tooltip" role="tooltip" hidden></div>
+    <noscript><p>The map needs JavaScript. Each country's report is at <code>/maturity/countries/&lt;ISO3&gt;/</code>.</p></noscript>
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+<script src="../assets/js/d3-7.9.0.min.js?v=6d64bd2f"></script>
+<script src="../assets/js/maturity-map.js?v=57f05f27"></script>
+</body>
+</html>

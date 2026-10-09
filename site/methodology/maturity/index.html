@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Methodology — Maturity Assessment — Data Landscapers</title>
+<meta name="description" content="How the Maturity Assessment places countries on its five-stage scale, indicator by indicator.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://corpus.data-landscapers.io/methodology/maturity/">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
+<link rel="stylesheet" href="../../assets/css/methodology.css?v=f43303f4">
+<link rel="stylesheet" href="../../assets/css/maturity.css?v=2e1b2261">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body class="mat-method-page">
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/all/">All finance</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/" class="active">Methodology</a>
+    </div>
+  </nav>
+  <main id="main">
+  <div class="mat-construction" role="note"><strong>Under construction.</strong> The Maturity Assessment is being built indicator by indicator; stages shown here are drafts and will change before launch.</div>
+  <div class="container">
+    <header class="article-header">
+      <p class="mat-report__kicker"><a href="../../maturity/">Maturity Assessment</a></p>
+      <h1 class="article-header__title">Maturity Assessment: methodology</h1>
+    </header>
+    <article class="article-body mat-method">
+<nav class="article-toc" aria-label="Indicators">
+<a href="#digital.rural--digitalisation-of-rural-health-clinics-hmis">Digitalisation of rural health clinics: HMIS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital.rural--digitalisation-of-rural-health-clinics-emr">Digitalisation of rural health clinics: EMR</a>
+</nav>
+
+<h2>The scale</h2>
+<p>Each studied indicator places each of the 54 countries on one five-stage scale. The stages are ordinal: 4 is above 3, not twice 2. The assessment is not a score or a ranking, and nothing is averaged.</p>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Label</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Absent</td>
+<td>Nothing of the kind exists, and a dated source says so.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nascent</td>
+<td>Announced, drafted, piloted: an intention with an instrument or a pilot behind it.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Established</td>
+<td>In service, but limited in scope, coverage or use.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Operating</td>
+<td>In service at scale: funded, regulated, used, maintained.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Leading</td>
+<td>Embedded: interoperable, measured, sustained; at or beyond the continental norm.</td>
+</tr>
+</tbody>
+</table>
+<h2>No evidence and unplaced</h2>
+<p><strong>No evidence</strong> means nothing held states any of the facts the ladder tests. <strong>Unplaced</strong> means evidence is held but it meets no rung, so no stage is set. Both are shown in grey. Neither is stage 1: <em>Absent</em> needs a dated source that says the thing does not exist.</p>
+<h2>How a stage is set</h2>
+<p>Each indicator is studied whole, across all 54 countries. A study first settles what the indicator covers and splits it into sub-indicators where one label hides two things. It then fixes a ladder: for each stage, the value each coverage aspect must reach. A country is placed on the highest rung whose every test its evidence meets; between two rungs it takes the lower. Every fact carries its date, and a fact older than three years at the as-at date prints its year. A second drafter restages a sample blind, and a rung read two ways is rewritten.</p>
+<p>Stages are taken as at the end of a month. A stage changes only on a dated source inside the window; a change from a re-read or a corrected ladder is marked <em>reassessed</em> and is not counted as movement.</p>
+<section class="mat-method__ind" id="digital.rural--digitalisation-of-rural-health-clinics-hmis">
+<h2>Digitalisation of rural health clinics: HMIS</h2>
+<h3>The norm</h3>
+<p>Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.</p>
+<p><strong>It does not measure what either sub-indicator measures.</strong> It counts connection and <em>digitally enabled</em>, which a clinic with a tablet and paper registers meets. <strong>The review bears this out</strong>: most of the 15 coverage shares it found count facilities where a system is deployed, not clinics entering their own data. Countries publish the norm's kind of figure. The ladders borrow only the 90 per cent line, for stage 5, and the pages say so.</p>
+<h3>The ladder</h3>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Tiers</th>
+<th>Where digitised</th>
+<th>Primary clinics</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 Absent</td>
+<td>A dated statement that routine reporting has no digital entry at any level</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 Nascent</td>
+<td>Hospitals only, or some districts; or a national rollout contracted</td>
+<td>Anywhere, or not stated</td>
+<td>None, or pilot sites</td>
+</tr>
+<tr>
+<td>3 Established</td>
+<td>Any: a system keyed at district takes the clinics' reports</td>
+<td>At the district, from clinics' paper forms</td>
+<td>Facility entry in a minority, or not published</td>
+</tr>
+<tr>
+<td>4 Operating</td>
+<td>The primary tier, T3 or T4</td>
+<td>At the facility</td>
+<td>More than half enter their own reports, on a share or a count with a denominator</td>
+</tr>
+<tr>
+<td>5 Leading</td>
+<td>The primary tier</td>
+<td>At the facility</td>
+<td>90 per cent or more, on a figure published within two years, with reporting completeness published</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="mat-method__ind" id="digital.rural--digitalisation-of-rural-health-clinics-emr">
+<h2>Digitalisation of rural health clinics: EMR</h2>
+<h3>The norm</h3>
+<p>Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Framework (2025–26): 100,000 facilities connected by 2030 and 90 per cent digitally enabled primary care by 2035.</p>
+<p><strong>It does not measure what either sub-indicator measures.</strong> It counts connection and <em>digitally enabled</em>, which a clinic with a tablet and paper registers meets. <strong>The review bears this out</strong>: most of the 15 coverage shares it found count facilities where a system is deployed, not clinics entering their own data. Countries publish the norm's kind of figure. The ladders borrow only the 90 per cent line, for stage 5, and the pages say so.</p>
+<h3>The ladder</h3>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Tiers</th>
+<th>Where digitised</th>
+<th>Primary clinics</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 Absent</td>
+<td>A dated statement that patient records are on paper at every tier</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 Nascent</td>
+<td>Some hospitals or pilot facilities; or a national system procured</td>
+<td>Anywhere</td>
+<td>None, or pilot sites</td>
+</tr>
+<tr>
+<td>3 Established</td>
+<td>Most T1 and T2 hospitals, or primary clinics in some districts</td>
+<td>Either; the record stays in the facility</td>
+<td>A minority, or not published</td>
+</tr>
+<tr>
+<td>4 Operating</td>
+<td>The primary tier</td>
+<td><code>shared</code>: at the point of care, on a unique patient identifier, retrievable at another facility</td>
+<td>More than half</td>
+</tr>
+<tr>
+<td>5 Leading</td>
+<td>The primary tier</td>
+<td>As 4, across the public network</td>
+<td>90 per cent or more, on a figure published within two years</td>
+</tr>
+</tbody>
+</table>
+</section>
+    </article>
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+
+</body>
+</html>

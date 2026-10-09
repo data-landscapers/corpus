@@ -3,6 +3,7 @@
   "study_file": "maturity-study-health.md",
   "subjects": ["dpi.mis", "digital.rural", "dpi.exchange"],
   "stage_topic": "dpi.mis",
+  "redraws": ["digital.rural--digitalisation-of-rural-health-clinics", "dpi.mis--health"],
   "terms": [
     "DHIS2", "DHIS 2", "HMIS", "SNIS", "SIS",
     "health information system", "health management information system",
