@@ -8,8 +8,7 @@
   ],
   "stage_topic": "dpi.registry",
   "redraws": [
-    "digital.rural--digitalisation-of-rural-registry-offices",
-    "dpi.registry--civil-register"
+    "digital.rural--digitalisation-of-rural-registry-offices"
   ],
   "terms": [
     "civil registration",
@@ -188,6 +187,8 @@
   "flags": [
     "externally run",
     "rural gap",
+    "identity integrated",
+    "backlog capture",
     "advancing",
     "regressing"
   ],

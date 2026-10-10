@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-registry.md — the third maturity study: rural registry offices, as civil registration
 last_reviewed: 2026-10-10
-status: CC's proposal of 2026-10-10, for Bill's rulings; not yet run
+status: CC's proposal, with Bill's five rulings of 2026-10-10; review under way
 ---
 
 # Maturity study: registry — civil registration
@@ -16,13 +16,13 @@ status: CC's proposal of 2026-10-10, for Bill's rulings; not yet run
 
 **A scanned register is an archive, and an identity drive is a campaign. Neither is an office registering digitally, and the study must not read either as one.**
 
-**One sub-indicator replaces both rows**:
+**One sub-indicator replaces the rural row. `dpi.registry--civil-register` is not withdrawn: the register's national status is equally important** *(Bill, 2026-10-10)*, and this study leaves it as it stands.
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
 | Civil registration | Digitalisation of rural registry offices: civil registration | `digital.rural--digitalisation-of-rural-registry-offices-civil-registration` |
 
-The id enters `lookups/indicators.csv` only at acceptance, when both old rows are retired. **Identity enrolment and land registration get no ladder here**: `dpi.id` and `dpi.registry--land-register` hold them.
+The id enters `lookups/indicators.csv` only at acceptance, when the rural row is retired. **Identity enrolment and land registration get no ladder here**: `dpi.id` and `dpi.registry--land-register` hold them.
 
 `dpi.id--interoperability-of-birth-registration-and-digital-id` is not redrawn. Its evidence is logged in `maturity/registry/exchange.csv`.
 
@@ -31,10 +31,10 @@ The id enters `lookups/indicators.csv` only at acceptance, when both old rows ar
 | Class | What it is | Treatment |
 |---|---|---|
 | `civil` | The civil registrar's system, in which **the office where a birth or death is declared makes the digital record of it** | Assessed |
-| `archive` | Scanning, indexing or keying of registers already written: back-capture of past years | Noted, not assessed |
+| `archive` | Scanning, indexing or keying of registers already written: back-capture of past years | Noted, not assessed; flagged, below |
 | `notification` | A health facility, a chief or a community agent tells the registrar of an event, by app, SMS or form, and the registrar registers it elsewhere | Noted, not assessed |
 | `certificate` | A portal or counter for requesting, paying for or verifying a copy of an act | Noted, not assessed |
-| `outreach` | Mobile teams, registration drives, mobile court hearings for late registration | Noted, not assessed |
+| `outreach` | Registration drives and campaigns, mobile court hearings for late registration | Noted, not assessed |
 | `identity` | National identity and population-register enrolment, cards, biometrics | Noted, not assessed |
 | `land` | Land, deeds and cadastre offices; business and electoral registers | Out of scope |
 | `enabling` | Connectivity, devices, power, premises | Noted, not assessed |
@@ -42,13 +42,15 @@ The id enters `lookups/indicators.csv` only at acceptance, when both old rows ar
 
 **The test that separates `civil` from the rest: is the event entered as a digital record where and when it is registered?** A register written by hand and digitised afterwards by a project is `archive`. A paper register keyed elsewhere as routine, for each new event, is `civil` kept `keyed-elsewhere`.
 
-**Classified by what the source says the system does, never by name.** A source that gives only the name is unclassified, a gap for the search.
+**Classified by what the source says the system does, never by name**; a name alone is unclassified.
 
-**A registrar's desk in a maternity is a registry office** where the source says the birth is registered there; where the facility only notifies, it is `notification`. A mobile team is `outreach` even when it registers on a tablet: it is not an office.
+**A registrar's desk in a maternity is a registry office** where the source says the birth is registered there; where the facility only notifies, it is `notification`. **A mobile team that is a permanent feature of the service is an office; one fielded for a campaign is `outreach`** *(Bill)*. Where the source does not say, it is a campaign.
 
-**Offices.** A local office is any office below the national one that registers events: commune, sub-prefecture and secondary centres, district and sub-county registrars, *conservatórias*, civil-status bureaux. The denominator is the country's own count of them; its names are mapped in `systems.csv`. Consulates are out.
+**Offices.** A local office is any office below the national one that registers events: commune, sub-prefecture and secondary centres, district and sub-county registrars, *conservatórias*, civil-status bureaux. The denominator is the country's own count of them; its names are mapped in `systems.csv`.
 
 **Events.** B births, D deaths. Marriages and divorces are noted.
+
+**Two flags that never change the stage** *(Bill)*. *Identity integrated*: registering a birth issues or feeds the identity number; its absence is not penalised. *Backlog capture*: past registers are being digitised: noteworthy, though new births are the priority. The stager sets both from `systems.csv`.
 
 ## 3. Aspects
 
@@ -66,7 +68,7 @@ The id enters `lookups/indicators.csv` only at acceptance, when both old rows ar
 
 ## 4. The ladder
 
-A draft, tested and fixed at R3.
+A draft, tested and fixed at R3. **Deaths are a stage 5 requirement only** *(Bill)*.
 
 **Civil registration**
 
@@ -75,7 +77,7 @@ A draft, tested and fixed at R3.
 | 1 Absent | A dated statement that local offices register on paper only | | |
 | 2 Preparing | A system for local offices is being prepared or piloted; or one runs at the national office or in the capital only | Any, or not stated | Pilot offices, or none |
 | 3 Establishing | B: past its pilot and live in some local offices | `connected`, `local` or `keyed-elsewhere` | A minority, a count with no total, or not published |
-| 4 Operating | B and D | `connected` | More than half, on a share or a count with a denominator |
+| 4 Operating | B | `connected` | More than half, on a share or a count with a denominator |
 | 5 Leading | B and D | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
 **Pilot or live is the source's word**, and **preparation is the health study's** (§4), both as the schools study applies them.
@@ -98,21 +100,13 @@ The frame's anchor (`lookups/maturity-norms.csv`): the AU Digital Transformation
 
 ## 7. Tasks, in order
 
-- [ ] **R1. Bill's rulings**, below.
+- [x] **R1. Bill's rulings**: five, 2026-10-10, marked above.
 - [ ] **R2. Review all 54 countries in one run**, method §4.
 - [ ] **R3. Test and fix the ladder** on the profiles; read the norm's texts.
 - [ ] **R4. Search, select and hand over**, method §5.
 - [ ] **R5. Phase 2**, on Bill's trigger, method §6 and §7.
 - [ ] **R6. Write, render and lint**, method §8.
 - [ ] **R7. Report to Bill.** Acceptance is his.
-
-**For Bill's rulings at R1**, each with CC's proposal taken unless he says otherwise:
-
-1. **Civil registration only.** Identity enrolment and land offices are noted or out.
-2. **Both rows redrawn**, `dpi.registry--civil-register` with the rural row.
-3. **Scanning old registers places nothing**; routine keying of new events elsewhere reaches stage 3.
-4. **Stage 4 needs deaths as well as births**, and the record in the national register.
-5. **A maternity desk is an office; a mobile team is not.**
 
 ## Boundary
 
