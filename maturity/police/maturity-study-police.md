@@ -37,7 +37,7 @@ The id enters `lookups/indicators.csv` at acceptance. **`dpi.mis--justice` is no
 | `border` | Immigration and border-control systems, at a border post or elsewhere; customs | Out of scope |
 | `exchange` | Links from the police system to prosecution, courts, prisons, the national identity system or another country's police | Logged for `dpi.mis--justice` |
 
-**The test: is the report or the case entered as a digital record at the station, when it is taken?** A monthly count sent up is `statistics`. A paper form keyed at headquarters as routine, for each new case, is `record`, `keyed-elsewhere`. A statement typed on a computer and printed for the file is paper.
+**The test: is the report or the case entered as a digital record at the station, when it is taken?** A monthly count is `statistics`. A paper form keyed at headquarters as routine, for each new case, is `record`, `keyed-elsewhere`. A statement typed on a computer and printed for the file is paper.
 
 **Classified by what the source says the system does**; a name alone is unclassified. The West African police information system is `record` only where a source says stations enter their cases in it.
 
