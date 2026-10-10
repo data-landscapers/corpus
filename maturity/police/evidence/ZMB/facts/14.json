@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-zambia-national-electronic-government-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "enabling", "platform": "government network", "owner": "Electronic Government Division, Cabinet Office", "tiers": "plan for 2023-2026 is to extend it to 880 police stations among 15,600 sites; 263 sites of all kinds connected at December 2022; the plan's table has a row for police stations and police posts connected, whose 2022 value is not legible in this capture"},
+    {"system": "Safe City Project provincial government cache data centres", "country_label": "Safe City Project", "class": "", "platform": "", "owner": "EGD, Infratel, Ministry of Home Affairs, private sector", "tiers": "provincial; planned"}
+  ],
+  "note": "The plan names no police record system and states nothing on how stations record reports or cases. It gives a count usable as a denominator: 880 police stations, as sites the government network is to reach during 2023-2026. The capture's page-table text is scrambled, so the police row of the GWAN table cannot be read."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-17-zaf-itweb-ekurhuleni-cameras-gauteng-e-government",
+  "facts": [],
+  "systems": [
+    {"system": "Gauteng provincial CCTV network with access to Vumacam cameras", "country_label": "", "class": "surveillance", "platform": "Vumacam camera ecosystem; provincial CCTV", "owner": "Gauteng Department of e-Government", "tiers": "Gauteng province: access to 7,271 Vumacam cameras in 2025/26 and a cumulative 960 provincial cameras, offered to SAPS and other law enforcement for investigations; R124 million reportedly spent"},
+    {"system": "Gauteng Panic Button App", "country_label": "Crime Prevention Panic Button Gauteng", "class": "public", "platform": "mobile app (Google Play, Huawei Store, Apple App Store)", "owner": "Gauteng Department of e-Government", "tiers": "Gauteng province, members of the public"}
+  ],
+  "note": "Provincial cameras and a panic-button app offered in support of a SAPS investigation; nothing on station records."
+}

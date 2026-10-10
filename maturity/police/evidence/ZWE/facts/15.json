@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-09-zimbabwe-police-electronic-docket-system",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The Officer Commanding Harare Province, Commissioner Maxwell Chikunguru, said the police would 'soon' transition to an electronic system for processing all dockets, a plan announced and not a deployment; no station is named as using it, and the remarks at the Mbare District headquarters carry no date, so dated by publication.", "as_of": "2025-12-09", "date_precision": "day", "system": "Electronic docket management system", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The Zimbabwe Republic Police itself announced the planned move to an electronic docket management system, through its Harare provincial commander, as a measure against bribery in the handling of case files; dated by publication.", "as_of": "2025-12-09", "date_precision": "day", "system": "Electronic docket management system", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Electronic docket management system", "country_label": "electronic docket management system", "class": "record", "platform": "", "owner": "Zimbabwe Republic Police", "tiers": "planned; none stated as live"},
+    {"system": "Surveillance drones", "country_label": "drones", "class": "surveillance", "platform": "", "owner": "Zimbabwe Republic Police", "tiers": "acquired for monitoring traffic and public spaces; where is not stated"}
+  ],
+  "note": ""
+}

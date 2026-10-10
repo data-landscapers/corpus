@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-08 South African police forced to track firearms with pen and paper after R1-billion system blunder",
+  "facts": [],
+  "systems": [
+    {"system": "Firearm Permit System (FPS)", "country_label": "Firearm Permit System (FPS)", "class": "single-function", "platform": "built by Forensic Data Analysts (FDA)", "owner": "used by the South African Police Service; intellectual property held by FDA", "tiers": "police stations nationwide until switched off in 2019, when stations reverted to pen and paper for firearm administration"},
+    {"system": "Property Control and Exhibit Management System (PCEM)", "country_label": "Property Control and Exhibit Management System (PCEM)", "class": "single-function", "platform": "built by Forensic Data Analysts (FDA)", "owner": "used by the South African Police Service; intellectual property held by FDA", "tiers": "forensic exhibits and evidence across the police service; switched off in 2019"},
+    {"system": "VA-AMIS", "country_label": "VA-AMIS", "class": "identification", "platform": "built by Forensic Data Analysts (FDA)", "owner": "used by the Hawks and Crime Intelligence; intellectual property held by FDA", "tiers": "supported DNA testing and investigative analysis; switched off in 2019"}
+  ],
+  "note": "No fact: the three systems switched off by their vendor in 2019 handle firearm permits, exhibits and forensic analysis, none of them the station's occurrence or case record. A December 2025 Pretoria High Court order has SAPS paying R644 million for the intellectual property and R120 million for support, under appeal."
+}

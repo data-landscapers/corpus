@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-zwe-2026-zimbabwe-infrastructure-investment-programme",
+  "facts": [],
+  "systems": [
+    {"system": "Presidential Internet Scheme", "country_label": "Presidential Internet Scheme", "class": "enabling", "platform": "Low Earth Orbit satellite broadband", "owner": "Government of Zimbabwe", "tiers": "over 100 Government institutions, including schools, clinics and police stations, connected by 2025, the number of police stations not given; target of over 3,000 remote Government sites, 4,000 in the broader goal"},
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "IECMS", "class": "", "platform": "", "owner": "the judiciary", "tiers": "full implementation in progress; ZiG31.5 million in the 2026 Budget is for court buildings"}
+  ],
+  "note": "Police stations appear once, among institutions given satellite broadband, which is connectivity and not a record system; the courts' IECMS is named with no police link, so it is left unclassed. No fact on station records."
+}

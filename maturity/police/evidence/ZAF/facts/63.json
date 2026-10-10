@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-cybersecurity-hub-south-africa-national-csirt-incident-management-and-reporting",
+  "facts": [],
+  "systems": [
+    {"system": "Cybersecurity Hub incident reporting (web form and e-mail)", "country_label": "Cybersecurity Hub", "class": "public", "platform": "", "owner": "Cybersecurity Hub, the national CSIRT under the Department of Communications and Digital Technologies", "tiers": "national; the public and businesses report cyber incidents, and those concerning cybercrime or cyberbullying are routed to SAPS for resolution"}
+  ],
+  "note": "The national CSIRT's reporting channel, which is not a police system; it routes cybercrime reports to SAPS and says nothing of how SAPS records them."
+}

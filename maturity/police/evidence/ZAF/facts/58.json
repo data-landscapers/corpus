@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-saps-bodycam-tender-facial-recognition",
+  "facts": [],
+  "systems": [
+    {"system": "Body-worn and vehicle dashboard cameras with video and evidence management software (tender RFB 3286-2026)", "country_label": "body-worn and vehicle dashboard cameras", "class": "surveillance", "platform": "not yet awarded; specification requires facial recognition, automatic number plate recognition and video analytics", "owner": "SAPS; procured by the State IT Agency (SITA)", "tiers": "three-year supply contract out to tender, bids closing 29 September 2026; number of cameras not stated"}
+  ],
+  "note": "A tender for police cameras and their evidence software; a surveillance system, and nothing on how stations record reports or cases."
+}

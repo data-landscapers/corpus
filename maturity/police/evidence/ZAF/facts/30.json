@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Johannesburg CCTV networks with facial recognition and number plate recognition", "country_label": "CCTV networks; VumaCam", "class": "surveillance", "platform": "vendors listed: Huawei, Hikvision, VumaCam, Genetec, Geutebrück", "owner": "City of Johannesburg and VumaCam; data access listed for police, metro police and SAPS", "tiers": "Johannesburg, densest in commercial districts"},
+    {"system": "JMPD IIOC command centre", "country_label": "JMPD IIOC", "class": "surveillance", "platform": "", "owner": "Johannesburg Metropolitan Police Department, a municipal force", "tiers": "Johannesburg"},
+    {"system": "AURA Automatic Dispatching System", "country_label": "AURA Automatic Dispatching System", "class": "surveillance", "platform": "AURA", "owner": "", "tiers": "Johannesburg"}
+  ],
+  "note": "An AI-written essay on smart cities by its own account; for South Africa it covers only Johannesburg's municipal cameras, command centre and dispatching, and says nothing of police station records."
+}
