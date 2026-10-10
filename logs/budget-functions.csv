@@ -505,7 +505,7 @@ NER,population-register,absent,,,,,hand,"keyword scan of the finance laws' activ
 NER,data-exchange,found,whole,2,ner-2025-47-170-17001038,,rows,,
 NGA,statistics,found,whole,42,nga-2024-0238004001,National Bureau of Statistics,rows,,
 NGA,civil-registration-id,found,whole,11,nga-2024-0161005001,National Identity Management Commission,rows,,
-NGA,communications-regulator,found,whole,5,nga-2025-0164004001-ergp30233440,Nigerian Communications Commission,rows,,
+NGA,communications-regulator,not looked,,,,Nigerian Communications Commission,,,
 NGA,ict-ministry-egov,found,whole,96,nga-2024-0156003001,National Information Technology Development Agency (NITDA),rows,,
 NGA,cybersecurity,found,whole,58,nga-2024-0116018001-ergp29212923,ngCERT,rows,,
 NGA,data-protection,found,whole,25,nga-2024-0220007001-ergp71928668,Nigeria Data Protection Commission,rows,,
@@ -701,7 +701,7 @@ TZA,population-register,absent,,,,,hand,"FY2024 to FY2026: the estimates volumes
 TZA,data-exchange,absent,,,,,hand,"FY2024 to FY2026: the estimates volumes print every vote to subvote, item and project, with the transfers to public bodies in two annexes, and were read whole on 2026-09-24. No line names interoperability or a data exchange.",2026-10-02
 UGA,statistics,found,whole,56,uga-2024-143-18-01-02-001,Uganda Bureau of Statistics,rows,,
 UGA,civil-registration-id,found,whole,23,uga-2024-137-14-05-01-001,National Identification and Registration Authority,rows,,
-UGA,communications-regulator,found,whole,3,uga-2024-162-07-01-1776-000003-312423,Uganda Communications Commission,rows,,
+UGA,communications-regulator,not looked,,,,Uganda Communications Commission,,,
 UGA,ict-ministry-egov,found,whole,62,uga-2024-020-11-01-02-001,National Information Technology Authority Uganda,rows,,
 UGA,cybersecurity,found,whole,6,uga-2024-126-11-02-04-001,Uganda National CERT/CC,rows,,
 UGA,data-protection,found,whole,3,uga-2024-126-11-04-01-001,Personal Data Protection Office,rows,,

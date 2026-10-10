@@ -70,8 +70,9 @@ FUNCTIONS = (
     ("statistics", "Statistics office", ("data.statistics",), r""),
     ("civil-registration-id", "Civil registry / National ID authority", ("dpi.id",), r""),
     ("communications-regulator", "Communications regulator", (),
-     r"regulat\w* (authority|agency|commission|board)|autorite de regul|agence de regul|"
-     r"regul\w* des (tele|communications|postes)|autoridade reguladora|reguladora das comunic|"
+     r"(telecommunications?|communications?|postal|posts|ict|broadcasting)[a-z ,]{0,30}regulat\w* (authority|agency|commission|board)|"
+     r"regulat\w* (authority|agency|commission|board) (of|for) (the )?(tele|communic|post|ict|electronic comm)|"
+     r"regul\w* (des|de la) (tele|communications|postes?)|regul\w* et de controle des tele|reguladora (das|de) (comunic|telecom)|"
      r"reglementation des telecom|communications? (authority|commission)|"
      r"\b(arcep|artp|arpt|anrt|artci|arptc|arpce|artec|arcom)\b"),
     ("ict-ministry-egov", "E-government agency", (),

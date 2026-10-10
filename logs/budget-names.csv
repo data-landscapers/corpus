@@ -57,7 +57,6 @@ BDI,hosting,E-government agency,ict-ministry-egov,Gouvernement du Burundi (zone 
 BDI,hosting,Communications regulator,communications-regulator,Agence de régulation et de contrôle des télécommunications,line,bdi-2024-01-004
 BDI,hosting,Audit office,,Cour des comptes,no line,
 BDI,deal-recipient,Public Sector,,Government of Burundi,no line,
-BDI,deal-recipient,Private Sector,,"Lumitel (operator, BDI)",no line,
 BDI,deal-recipient,Public Sector,,Republic of Burundi,no line,
 BEN,hosting,Presidency,,Présidence de la République du Bénin,line,ben-2024-009-010002-1192
 BEN,hosting,Parliament,,Assemblée nationale du Bénin,no line,
@@ -559,6 +558,7 @@ GHA,hosting,Anti-corruption commission,,Office of the Special Prosecutor,no line
 GHA,deal-recipient,Private Sector,,FIDO Microcredits Limited,no line,
 GHA,deal-recipient,NGO,,Tony Blair Institute for Global Change,no line,
 GHA,deal-recipient,Private Sector,,MTN Ghana (Scancom PLC) / Ghana,no line,
+GHA,deal-recipient,Private Sector,,Telecel Ghana,no line,
 GHA,deal-recipient,Private Sector,,"Google DeepMind Africa AI Research Centre and AI Community Center, Accra",no line,
 GIN,hosting,Presidency,,Présidence de la République de Guinée,no line,
 GIN,hosting,Parliament,,Conseil national de la transition,no line,
@@ -1080,6 +1080,7 @@ NGA,hosting,Anti-corruption commission,,Independent Corrupt Practices Commission
 NGA,deal-recipient,Private Sector,,Nomba,no line,
 NGA,deal-recipient,Private Sector,,Trade Lenda and AirSmat,no line,
 NGA,deal-recipient,Private Sector,,DAWN AI STUDY,line,nga-2024-0234001001-ergp12191115
+NGA,deal-recipient,Research,,"Pan-Atlantic University Foundation (Lagos, Nigeria; region served Africa)",no line,
 NGA,deal-recipient,Private Sector,,Terra Industries,no line,
 NGA,deal-recipient,NGO,,FATE Foundation,no line,
 NGA,deal-recipient,Public Sector,,Nigeria,no line,
@@ -1239,6 +1240,7 @@ SOM,hosting,Ports authority,,Mogadishu Port Authority,no line,
 SOM,hosting,E-government agency,ict-ministry-egov,Federal Government of Somalia government zone,no line,
 SOM,hosting,Communications regulator,communications-regulator,National Communications Authority,line,som-2024-0307-030701
 SOM,hosting,Audit office,,Office of the Auditor General,no line,
+SOM,deal-recipient,Public Sector,,Somalia,no line,
 SSD,hosting,Presidency,,Office of the President,no line,
 SSD,hosting,Parliament,,Transitional National Legislative Assembly,no line,
 SSD,hosting,Foreign Affairs,,Ministry of Foreign Affairs and International Cooperation,no line,
@@ -1436,6 +1438,7 @@ TZA,hosting,Audit office,,National Audit Office of Tanzania,line,tza-2024-045-10
 TZA,hosting,Anti-corruption commission,,Prevention and Combating of Corruption Bureau,no line,
 TZA,deal-recipient,Private Sector,,Funguo Investees Cohort 5,no line,
 TZA,deal-recipient,Public Sector,,Government of Tanzania,no line,
+TZA,deal-recipient,Private Sector,,"HTA Group, Ltd (bond issuing entity for Helios Towers Plc)",no line,
 TZA,deal-recipient,Private Sector,,NALA,no line,
 TZA,deal-recipient,Private Sector,,Vodacom Tanzania PLC,no line,
 TZA,deal-recipient,Public Sector,,ZICTIA / Zanzibar,no line,
