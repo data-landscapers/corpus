@@ -1,0 +1,13 @@
+{
+  "slug": "2023-03-09-liberia-police-csis-policewoman",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "UNDP reports a police officer saying she now inputs information into a tablet as crime reports come in, with suspects' biodata, photos and GPS locations, before any arrest; no date is given for the practice, so the document's published date is used.", "as_of": "2023-03-09", "date_precision": "day", "system": "Crime Statistics Information System (CSIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "UNDP describes CSIS as an online system of two parts, a smartphone or tablet on which the officer enters the crime report and an online portal that aggregates and analyses the information for Liberia National Police decision-makers; reports are also submitted by email. No date is given for the description, so the document's published date is used.", "as_of": "2023-03-09", "date_precision": "day", "system": "Crime Statistics Information System (CSIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "pilot", "fact": "UNDP states that when CSIS was rolled out in January 2021 six officers, five men and one woman, were selected to pioneer its use in Montserrado County, the seat of the capital; no count of stations is given.", "as_of": "2021-01", "date_precision": "month", "system": "Crime Statistics Information System (CSIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "UNDP states that CSIS was developed with its support and rolled out in January 2021; no domestic funding is mentioned.", "as_of": "2021-01", "date_precision": "month", "system": "Crime Statistics Information System (CSIS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Crime Statistics Information System (CSIS)", "country_label": "CSIS", "class": "record", "platform": "a smartphone or tablet application and an online portal", "owner": "Liberia National Police, developed with UNDP support", "tiers": "pioneered by six officers in Montserrado County from January 2021"}
+  ],
+  "note": "Classed record on what the document says the system does: the officer enters each crime report on a tablet as it comes in. Its name and its reporting portal are those of a statistics system, and the document says the officer previously compiled investigation reports and crime statistics on paper; the parent should weigh the class. The headline also calls it CMIS once."
+}

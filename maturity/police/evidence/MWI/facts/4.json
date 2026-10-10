@@ -1,0 +1,72 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Malawi police row says rural stations primarily record cases and complaints on paper, entered by hand in Occurrence Books, custody registers (MP33), cell books and case files (MP71) that are physically moved between officers; no date is given for the statement, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Occurrence Book and case file (MP71), paper",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay says a 2019 National Audit Office performance audit of sampled stations, including rural Mchinji and Karonga, found no operational digital case recording.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Occurrence Book and case file (MP71), paper",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay says a 2024 peer-reviewed study in rural Muloza found police with no ICT resources deployed for preventing, detecting or investigating crime and no digital case management, officers relying informally on personal mobile phones.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Occurrence Book and case file (MP71), paper",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The essay says national efforts such as centralised AFIS fingerprints, e-Court pilots in 4 urban stations and ICT donations target headquarters or pilots and not rural point-of-service, where core docket recording remains manual; undated, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Occurrence Book and case file (MP71), paper",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Occurrence Book and case file (MP71), paper",
+      "country_label": "Occurrence Book (OB); case file (MP71); custody register (MP33)",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Malawi Police Service",
+      "tiers": "Rural police stations"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "AFIS fingerprints",
+      "class": "identification",
+      "platform": "",
+      "owner": "",
+      "tiers": "Centralised; the essay calls its rollout failed"
+    },
+    {
+      "system": "e-Court pilots",
+      "country_label": "e-Court",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "Pilots in 4 urban stations"
+    }
+  ],
+  "note": "Listed in study.json exclude_sources as an AI-assisted compilation; facts recorded as the document states them, for the parent to treat accordingly."
+}

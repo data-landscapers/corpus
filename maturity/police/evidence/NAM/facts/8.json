@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Border Management System",
+      "country_label": "Integrated Border Management System",
+      "class": "border",
+      "platform": "",
+      "owner": "MHAI (the home affairs ministry), which hosts the central database",
+      "tiers": "border posts, rolled out in phases since 2017; face scans, and fingerprints checked against international watch lists of wanted criminals, missing persons and lost or stolen travel documents"
+    }
+  ],
+  "note": "The Namibia passages concern the national identity system (an automated fingerprint identification system in the ID process from 1996), the border system and the police's Certificate of Conduct on past convictions, obtained by presenting the ID; no system in which stations record reports or cases is named."
+}

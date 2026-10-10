@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-27-2026-27-budget-policy-statement",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cashless payment of police fees and fines",
+      "country_label": "automation of non-tax revenue collection",
+      "class": "public",
+      "platform": "mobile money, bank transfer, Visa point-of-sale, direct bank deposit",
+      "owner": "Government of Malawi (Minister of Finance's budget statement)",
+      "tiers": "To be rolled out on 1 April 2026 starting with the Malawi Police Service, then all other ministries, departments and agencies"
+    }
+  ],
+  "note": "The only police passage is the move of police fees and fines to cashless payment from 1 April 2026: a payment channel, not a station record, so no fact."
+}

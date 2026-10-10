@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Mauritius police row says case dockets (PF forms) and the backlog of outstanding cases 'suggest' initial paper recording at the force's 72 stations with data uploaded centrally, and that it found no evidence of full digital case or incident logging at rural stations; this is the author's inference, drawn from the MPF Annual Report 2023-2024, and no date is given beyond the essay's own publication date, used here.", "as_of": "2026-03-31", "date_precision": "day", "system": "Case dockets (PF forms)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Case dockets (PF forms)", "country_label": "PF forms", "class": "record", "platform": "paper", "owner": "Mauritius Police Force", "tiers": "72 stations, by the essay's inference"},
+    {"system": "Criminal Attribute Database (CADB)", "country_label": "Criminal Attribute Database (CADB)", "class": "identification", "platform": "", "owner": "Crime Records Office, Mauritius Police Force", "tiers": "Central, with electronic fingerprint submissions from 7 remote workstations including Rodrigues (12,457 in 2023-24)"},
+    {"system": "Safe City / PMCCC CCTV", "country_label": "Safe City / PMCCC", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force", "tiers": "The essay says GIS and CCTV are limited to urban areas (Port Louis, Grand Bay)"},
+    {"system": "Certificate of Character portal", "country_label": "Certificate of Character", "class": "public", "platform": "", "owner": "Mauritius Police Force", "tiers": "Online application, processed at divisional headquarters including rural areas"}
+  ],
+  "note": "The source is on the study's exclude list (an AI-assisted compilation by its own header); its one statement on station records is recorded as stated, as an inference."
+}
